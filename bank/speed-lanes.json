@@ -1,0 +1,1355 @@
+[
+  {
+    "id": "speed-lanes-001",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, what is the speed limit in a business or residential area when no sign says otherwise?",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "30 mph",
+        "40 mph"
+      ],
+      "h1": "Think of streets with homes and shops, where people walk a lot.",
+      "h2": "The speed limit in a Florida business or residential area is 30 mph unless a sign shows a different limit.",
+      "p": "Right. Business and residential areas in Florida are 30 mph unless posted."
+    },
+    "es": {
+      "q": "En Florida, ¿cuál es el límite de velocidad en una zona comercial o residencial si no hay letrero que diga otra cosa?",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "30 mph",
+        "40 mph"
+      ],
+      "h1": "Piense en calles con casas y tiendas, donde camina mucha gente.",
+      "h2": "El límite de velocidad en una zona comercial o residencial de Florida es 30 mph, a menos que un letrero indique otro límite.",
+      "p": "Correcto. En Florida, las zonas comerciales y residenciales son de 30 mph si no hay otro letrero."
+    }
+  },
+  {
+    "id": "speed-lanes-002",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, what is the highest speed limit allowed on a rural interstate highway?",
+      "o": [
+        "70 mph",
+        "65 mph",
+        "75 mph",
+        "60 mph"
+      ],
+      "h1": "This is the fastest limit you will see on any Florida road.",
+      "h2": "The top speed limit on a Florida rural interstate is 70 mph, and you must still follow the posted sign.",
+      "p": "Right. Rural interstates in Florida can be posted up to 70 mph."
+    },
+    "es": {
+      "q": "En Florida, ¿cuál es el límite de velocidad más alto permitido en una autopista interestatal rural?",
+      "o": [
+        "70 mph",
+        "65 mph",
+        "75 mph",
+        "60 mph"
+      ],
+      "h1": "Es el límite más alto que verá en cualquier carretera de Florida.",
+      "h2": "El límite más alto en una interestatal rural de Florida es 70 mph, y siempre debe seguir el letrero que esté puesto.",
+      "p": "Correcto. Las interestatales rurales de Florida pueden tener un límite de hasta 70 mph."
+    }
+  },
+  {
+    "id": "speed-lanes-003",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, what is the speed limit on a highway outside a city when no sign is posted?",
+      "o": [
+        "45 mph",
+        "65 mph",
+        "70 mph",
+        "55 mph"
+      ],
+      "h1": "It is lower than the interstate limit, but higher than city streets.",
+      "h2": "When no speed limit sign is posted on a Florida highway outside a city, the limit is 55 mph.",
+      "p": "Right. With no sign on other Florida highways, the limit is 55 mph."
+    },
+    "es": {
+      "q": "En Florida, ¿cuál es el límite de velocidad en una carretera fuera de la ciudad cuando no hay letrero?",
+      "o": [
+        "45 mph",
+        "65 mph",
+        "70 mph",
+        "55 mph"
+      ],
+      "h1": "Es más bajo que en la interestatal, pero más alto que en las calles de la ciudad.",
+      "h2": "Cuando no hay letrero de límite en una carretera de Florida fuera de la ciudad, el límite es 55 mph.",
+      "p": "Correcto. Sin letrero en otras carreteras de Florida, el límite es 55 mph."
+    }
+  },
+  {
+    "id": "speed-lanes-004",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, on an interstate where the speed limit is 70 mph, what is the lowest speed you may drive in good conditions?",
+      "o": [
+        "40 mph",
+        "50 mph",
+        "45 mph",
+        "30 mph"
+      ],
+      "h1": "Driving too slow on a fast road is also unsafe. There is a minimum.",
+      "h2": "On a Florida interstate posted at 70 mph, the minimum speed is 50 mph when the weather and traffic are normal.",
+      "p": "Right. The minimum speed on a 70 mph Florida interstate is 50 mph."
+    },
+    "es": {
+      "q": "En Florida, en una interestatal con límite de 70 mph, ¿cuál es la velocidad más baja permitida con buenas condiciones?",
+      "o": [
+        "40 mph",
+        "50 mph",
+        "45 mph",
+        "30 mph"
+      ],
+      "h1": "Manejar muy despacio en una vía rápida también es peligroso. Hay un mínimo.",
+      "h2": "En una interestatal de Florida con límite de 70 mph, la velocidad mínima es 50 mph cuando el clima y el tráfico son normales.",
+      "p": "Correcto. La velocidad mínima en una interestatal de Florida de 70 mph es 50 mph."
+    }
+  },
+  {
+    "id": "speed-lanes-005",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": {
+      "shape": "school",
+      "text": "SCHOOL"
+    },
+    "c": 1,
+    "en": {
+      "q": "In Florida, when must you obey the lower speed limit in a school zone?",
+      "o": [
+        "Only when you see children on the road",
+        "When the lights flash or during the times shown on the sign",
+        "Only on Monday mornings",
+        "Only when a police car is nearby"
+      ],
+      "h1": "Look at the sign. It tells you when the lower limit is active.",
+      "h2": "You must obey the school zone speed limit when its lights are flashing or during the hours shown on the sign, even if you do not see children.",
+      "p": "Right. Follow the school zone limit when the lights flash or during the posted times."
+    },
+    "es": {
+      "q": "En Florida, ¿cuándo debe respetar el límite de velocidad más bajo en una zona escolar?",
+      "o": [
+        "Solo cuando ve niños en la calle",
+        "Cuando las luces parpadean o en las horas que indica el letrero",
+        "Solo los lunes por la mañana",
+        "Solo cuando hay un carro de policía cerca"
+      ],
+      "h1": "Mire el letrero. Le dice cuándo aplica el límite más bajo.",
+      "h2": "Debe respetar el límite de la zona escolar cuando las luces parpadean o en las horas que indica el letrero, aunque no vea niños.",
+      "p": "Correcto. Respete el límite escolar cuando las luces parpadean o en las horas indicadas."
+    }
+  },
+  {
+    "id": "speed-lanes-006",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, it is raining hard and you are on a road posted at 55 mph. How fast should you drive?",
+      "o": [
+        "Exactly 55 mph, because that is the limit",
+        "A little faster than 55 mph to get out of the rain",
+        "Any speed, because rain does not change the rules",
+        "Slower than 55 mph, at a speed that is safe for the rain"
+      ],
+      "h1": "A speed limit is the most you may drive in good conditions.",
+      "h2": "You must never drive faster than is safe for the conditions, so in heavy rain you should drive slower than the posted 55 mph.",
+      "p": "Right. In bad weather, slow down below the limit to a safe speed."
+    },
+    "es": {
+      "q": "En Florida, está lloviendo fuerte y usted va por una carretera con límite de 55 mph. ¿A qué velocidad debe manejar?",
+      "o": [
+        "Exactamente a 55 mph, porque ese es el límite",
+        "Un poco más rápido que 55 mph para salir de la lluvia",
+        "A cualquier velocidad, porque la lluvia no cambia las reglas",
+        "Más despacio que 55 mph, a una velocidad segura para la lluvia"
+      ],
+      "h1": "El límite de velocidad es lo máximo que puede manejar con buenas condiciones.",
+      "h2": "Nunca debe manejar más rápido de lo que es seguro para las condiciones, así que con lluvia fuerte debe ir más despacio que 55 mph.",
+      "p": "Correcto. Con mal clima, baje la velocidad por debajo del límite a una velocidad segura."
+    }
+  },
+  {
+    "id": "speed-lanes-007",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, can you get a ticket for driving too slowly?",
+      "o": [
+        "Yes, if you block the normal flow of traffic",
+        "No, driving slowly is always legal",
+        "Only if you drive slower than 10 mph",
+        "Only on dirt roads"
+      ],
+      "h1": "Think about what happens to the cars behind a very slow driver.",
+      "h2": "Yes. In Florida you can get a ticket if you drive so slowly that you block the normal and safe flow of traffic.",
+      "p": "Right. Driving so slowly that you block traffic is against the law."
+    },
+    "es": {
+      "q": "En Florida, ¿le pueden dar una multa por manejar demasiado despacio?",
+      "o": [
+        "Sí, si bloquea el flujo normal del tráfico",
+        "No, manejar despacio siempre es legal",
+        "Solo si maneja a menos de 10 mph",
+        "Solo en caminos de tierra"
+      ],
+      "h1": "Piense en lo que les pasa a los carros que van detrás de alguien muy lento.",
+      "h2": "Sí. En Florida le pueden poner una multa si maneja tan despacio que bloquea el flujo normal y seguro del tráfico.",
+      "p": "Correcto. Manejar tan despacio que bloquea el tráfico va contra la ley."
+    }
+  },
+  {
+    "id": "speed-lanes-008",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": {
+      "shape": "rect-white",
+      "text": "SPEED LIMIT 55"
+    },
+    "c": 2,
+    "en": {
+      "q": "What does this white sign tell you?",
+      "o": [
+        "You must drive exactly 55 mph",
+        "The slowest speed allowed is 55 mph",
+        "The fastest speed allowed in good conditions is 55 mph",
+        "The suggested speed for a curve is 55 mph"
+      ],
+      "h1": "White signs with black letters are rules. Is this number a top or a bottom?",
+      "h2": "A white speed limit sign shows the highest legal speed when conditions are good, so you may not drive faster than 55 mph there.",
+      "p": "Right. The speed limit sign shows the top legal speed in good conditions."
+    },
+    "es": {
+      "q": "¿Qué le indica este letrero blanco?",
+      "o": [
+        "Debe manejar exactamente a 55 mph",
+        "La velocidad más baja permitida es 55 mph",
+        "La velocidad más alta permitida con buenas condiciones es 55 mph",
+        "La velocidad sugerida para una curva es 55 mph"
+      ],
+      "h1": "Los letreros blancos con letras negras son reglas. ¿Este número es un máximo o un mínimo?",
+      "h2": "Un letrero blanco de límite de velocidad muestra la velocidad legal más alta con buenas condiciones, así que no puede manejar a más de 55 mph allí.",
+      "p": "Correcto. El letrero de límite muestra la velocidad legal más alta con buenas condiciones."
+    }
+  },
+  {
+    "id": "speed-lanes-009",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "What is a good way to check if you are following too closely?",
+      "o": [
+        "Count the car lengths in your mirror",
+        "Watch the speed of the car behind you",
+        "Count the seconds after the car ahead passes a fixed object",
+        "Check if you can read the license plate ahead"
+      ],
+      "h1": "Pick something that does not move, like a sign or a pole.",
+      "h2": "When the car ahead passes a fixed object, count the seconds until you reach it, and if you reach it too soon, you are following too closely.",
+      "p": "Right. Counting seconds past a fixed object shows your following distance."
+    },
+    "es": {
+      "q": "¿Cuál es una buena forma de saber si va demasiado cerca del carro de adelante?",
+      "o": [
+        "Contar los largos de carro en el espejo",
+        "Mirar la velocidad del carro que va detrás",
+        "Contar los segundos después de que el carro de adelante pasa un objeto fijo",
+        "Ver si puede leer la placa del carro de adelante"
+      ],
+      "h1": "Escoja algo que no se mueva, como un letrero o un poste.",
+      "h2": "Cuando el carro de adelante pasa un objeto fijo, cuente los segundos hasta que usted llegue allí; si llega muy pronto, va demasiado cerca.",
+      "p": "Correcto. Contar segundos desde un objeto fijo muestra su distancia de seguimiento."
+    }
+  },
+  {
+    "id": "speed-lanes-010",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "When should you leave more space between you and the car ahead?",
+      "o": [
+        "When the road is wet or slippery",
+        "When the road is dry and clear",
+        "When you are driving slower than usual in town",
+        "When the car ahead is a small car"
+      ],
+      "h1": "Think about when your car needs more distance to stop.",
+      "h2": "You should leave more space when the road is wet or slippery, because your car needs a longer distance to stop.",
+      "p": "Right. On wet or slippery roads, leave extra space ahead."
+    },
+    "es": {
+      "q": "¿Cuándo debe dejar más espacio entre usted y el carro de adelante?",
+      "o": [
+        "Cuando la carretera está mojada o resbalosa",
+        "Cuando la carretera está seca y despejada",
+        "Cuando maneja más despacio de lo normal en la ciudad",
+        "Cuando el carro de adelante es pequeño"
+      ],
+      "h1": "Piense en cuándo su carro necesita más distancia para frenar.",
+      "h2": "Debe dejar más espacio cuando la carretera está mojada o resbalosa, porque su carro necesita más distancia para detenerse.",
+      "p": "Correcto. En carretera mojada o resbalosa, deje más espacio adelante."
+    }
+  },
+  {
+    "id": "speed-lanes-011",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Your total stopping distance is made of which parts?",
+      "o": [
+        "Only the distance you travel while braking",
+        "Only the time it takes you to see the danger",
+        "The length of your car plus one car length",
+        "The distance you travel while you notice, react, and brake"
+      ],
+      "h1": "Your car keeps moving before your foot even touches the brake.",
+      "h2": "Total stopping distance includes the distance you travel while you see the danger, while you move your foot, and while the brakes slow the car.",
+      "p": "Right. Stopping distance adds noticing, reacting, and braking."
+    },
+    "es": {
+      "q": "¿De qué partes se forma la distancia total para detenerse?",
+      "o": [
+        "Solo la distancia que recorre mientras frena",
+        "Solo el tiempo que tarda en ver el peligro",
+        "El largo de su carro más el largo de otro carro",
+        "La distancia que recorre mientras nota el peligro, reacciona y frena"
+      ],
+      "h1": "Su carro sigue avanzando antes de que su pie toque el freno.",
+      "h2": "La distancia total para detenerse incluye lo que recorre mientras ve el peligro, mientras mueve el pie y mientras los frenos paran el carro.",
+      "p": "Correcto. La distancia para detenerse suma notar, reaccionar y frenar."
+    }
+  },
+  {
+    "id": "speed-lanes-012",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "If you drive twice as fast, what happens to the distance your brakes need to stop the car?",
+      "o": [
+        "It stays the same",
+        "It becomes about four times longer",
+        "It becomes about two times longer",
+        "It becomes shorter"
+      ],
+      "h1": "Speed makes stopping harder very quickly, not just a little.",
+      "h2": "When your speed doubles, your braking distance becomes about four times longer, because the car carries much more energy.",
+      "p": "Right. Double the speed means about four times the braking distance."
+    },
+    "es": {
+      "q": "Si maneja al doble de velocidad, ¿qué pasa con la distancia que necesitan los frenos para parar el carro?",
+      "o": [
+        "Se queda igual",
+        "Se vuelve unas cuatro veces más larga",
+        "Se vuelve unas dos veces más larga",
+        "Se vuelve más corta"
+      ],
+      "h1": "La velocidad hace que frenar sea mucho más difícil, no solo un poco.",
+      "h2": "Cuando su velocidad se duplica, la distancia de frenado se vuelve unas cuatro veces más larga, porque el carro lleva mucha más energía.",
+      "p": "Correcto. El doble de velocidad significa unas cuatro veces la distancia de frenado."
+    }
+  },
+  {
+    "id": "speed-lanes-013",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "A driver is following very close behind you. What is the safest thing to do?",
+      "o": [
+        "Tap your brakes hard to warn the driver",
+        "Leave more space ahead of you and let the driver pass",
+        "Speed up to get away from the driver",
+        "Stop in your lane until the driver goes around"
+      ],
+      "h1": "If you must stop suddenly, the driver behind may hit you. How can you avoid sudden stops?",
+      "h2": "The safest choice is to leave extra space ahead of you, so you can slow down gently, and to let the close driver pass.",
+      "p": "Right. Give yourself more space ahead and let a tailgater pass."
+    },
+    "es": {
+      "q": "Un conductor va muy pegado detrás de usted. ¿Qué es lo más seguro?",
+      "o": [
+        "Frenar fuerte para avisarle al conductor",
+        "Dejar más espacio adelante y dejar que el conductor lo rebase",
+        "Acelerar para alejarse del conductor",
+        "Detenerse en su carril hasta que el conductor lo rodee"
+      ],
+      "h1": "Si tiene que frenar de golpe, el de atrás puede chocarlo. ¿Cómo puede evitar frenadas de golpe?",
+      "h2": "Lo más seguro es dejar más espacio adelante para poder frenar suavemente, y dejar que el conductor que va pegado lo rebase.",
+      "p": "Correcto. Deje más espacio adelante y deje que el conductor pegado lo rebase."
+    }
+  },
+  {
+    "id": "speed-lanes-014",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, on a two-lane road, how close to an intersection or railroad crossing may you pass another car?",
+      "o": [
+        "Not within 25 feet",
+        "Not within 50 feet",
+        "Passing is allowed right up to it",
+        "Not within 100 feet"
+      ],
+      "h1": "Cars and trains may enter the road there. You need a clear stretch.",
+      "h2": "In Florida you may not pass on a two-lane road within 100 feet of an intersection or a railroad crossing, because traffic may enter or stop there.",
+      "p": "Right. Do not pass within 100 feet of an intersection or railroad crossing."
+    },
+    "es": {
+      "q": "En Florida, en una carretera de dos carriles, ¿qué tan cerca de una intersección o un cruce de tren puede rebasar a otro carro?",
+      "o": [
+        "No a menos de 25 pies",
+        "No a menos de 50 pies",
+        "Se puede rebasar hasta llegar allí",
+        "No a menos de 100 pies"
+      ],
+      "h1": "Allí pueden entrar carros o trenes. Necesita un tramo despejado.",
+      "h2": "En Florida no puede rebasar en una carretera de dos carriles a menos de 100 pies de una intersección o de un cruce de tren, porque el tráfico puede entrar o detenerse allí.",
+      "p": "Correcto. No rebase a menos de 100 pies de una intersección o un cruce de tren."
+    }
+  },
+  {
+    "id": "speed-lanes-015",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, when may you pass another car on the right?",
+      "o": [
+        "When the car ahead is turning left and there is a lane to pass in",
+        "When the car ahead is going a little slow on a two-lane road",
+        "When you can use the paved shoulder",
+        "Whenever the left lane is busy"
+      ],
+      "h1": "You must stay on the road itself, not on the shoulder.",
+      "h2": "You may pass on the right when the car ahead is turning left and there is a full lane for you, but you may never drive on the shoulder to pass.",
+      "p": "Right. Pass on the right only with a real lane, like when a car is turning left."
+    },
+    "es": {
+      "q": "En Florida, ¿cuándo puede rebasar a otro carro por la derecha?",
+      "o": [
+        "Cuando el carro de adelante va a girar a la izquierda y hay un carril para rebasar",
+        "Cuando el carro de adelante va un poco lento en una carretera de dos carriles",
+        "Cuando puede usar el acotamiento pavimentado",
+        "Siempre que el carril izquierdo esté ocupado"
+      ],
+      "h1": "Debe quedarse en la vía, no en el acotamiento.",
+      "h2": "Puede rebasar por la derecha cuando el carro de adelante va a girar a la izquierda y hay un carril completo para usted, pero nunca puede usar el acotamiento para rebasar.",
+      "p": "Correcto. Rebase por la derecha solo si hay un carril de verdad, como cuando un carro gira a la izquierda."
+    }
+  },
+  {
+    "id": "speed-lanes-016",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, another car is passing you. What should you do?",
+      "o": [
+        "Speed up so the other car cannot pass",
+        "Move to the left to block the other car",
+        "Stay in your lane and do not speed up",
+        "Brake hard to let the other car in"
+      ],
+      "h1": "Make it easy and safe for the other driver to finish passing.",
+      "h2": "When another car passes you, you must stay in your lane and not speed up, so the other driver can finish passing safely.",
+      "p": "Right. When someone passes you, keep your lane and do not speed up."
+    },
+    "es": {
+      "q": "En Florida, otro carro lo está rebasando. ¿Qué debe hacer?",
+      "o": [
+        "Acelerar para que el otro carro no lo rebase",
+        "Moverse a la izquierda para bloquear al otro carro",
+        "Quedarse en su carril y no acelerar",
+        "Frenar fuerte para dejar entrar al otro carro"
+      ],
+      "h1": "Hágale fácil y seguro al otro conductor terminar de rebasar.",
+      "h2": "Cuando otro carro lo rebasa, debe quedarse en su carril y no acelerar, para que el otro conductor termine de rebasar con seguridad.",
+      "p": "Correcto. Cuando alguien lo rebasa, quédese en su carril y no acelere."
+    }
+  },
+  {
+    "id": "speed-lanes-017",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": {
+      "shape": "no-passing",
+      "text": "NO PASSING ZONE"
+    },
+    "c": 2,
+    "en": {
+      "q": "What does this yellow pennant-shaped sign mean?",
+      "o": [
+        "A school zone starts here",
+        "The road ends ahead",
+        "A no-passing zone starts here",
+        "You may pass on the right"
+      ],
+      "h1": "This sign is on the left side of the road, where drivers look before they pass.",
+      "h2": "The yellow pennant sign marks the start of a no-passing zone, so you may not pass other cars from that point.",
+      "p": "Right. The pennant sign shows where a no-passing zone begins."
+    },
+    "es": {
+      "q": "¿Qué significa este letrero amarillo en forma de banderín?",
+      "o": [
+        "Aquí empieza una zona escolar",
+        "La carretera termina más adelante",
+        "Aquí empieza una zona donde no se puede rebasar",
+        "Puede rebasar por la derecha"
+      ],
+      "h1": "Este letrero está al lado izquierdo de la carretera, donde miran los conductores antes de rebasar.",
+      "h2": "El letrero amarillo en forma de banderín marca el inicio de una zona donde no se puede rebasar, así que desde allí no puede rebasar a otros carros.",
+      "p": "Correcto. El banderín muestra dónde empieza la zona sin rebase."
+    }
+  },
+  {
+    "id": "speed-lanes-018",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "There is a solid yellow line on your side of the center line. What does it mean?",
+      "o": [
+        "You may not pass",
+        "You may pass when it is safe",
+        "The road is one-way",
+        "You must stop ahead"
+      ],
+      "h1": "Look closely: is the line on your side broken or solid?",
+      "h2": "A solid yellow line on your side of the center means you may not cross it to pass other cars.",
+      "p": "Right. A solid yellow line on your side means no passing."
+    },
+    "es": {
+      "q": "Hay una línea amarilla continua de su lado de la línea central. ¿Qué significa?",
+      "o": [
+        "No puede rebasar",
+        "Puede rebasar cuando sea seguro",
+        "La calle es de un solo sentido",
+        "Debe detenerse más adelante"
+      ],
+      "h1": "Mire bien: ¿la línea de su lado es cortada o continua?",
+      "h2": "Una línea amarilla continua de su lado de la línea central significa que no puede cruzarla para rebasar a otros carros.",
+      "p": "Correcto. Una línea amarilla continua de su lado significa que no puede rebasar."
+    }
+  },
+  {
+    "id": "speed-lanes-019",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, how far before a turn must you start using your turn signal?",
+      "o": [
+        "At least 25 feet",
+        "At least 50 feet",
+        "Only when you begin to turn",
+        "At least 100 feet"
+      ],
+      "h1": "Give other drivers enough warning before you move.",
+      "h2": "In Florida you must turn on your signal at least 100 feet before you turn, so other drivers know what you plan to do.",
+      "p": "Right. Signal at least 100 feet before you turn."
+    },
+    "es": {
+      "q": "En Florida, ¿con cuánta anticipación debe poner la direccional antes de girar?",
+      "o": [
+        "Al menos 25 pies antes",
+        "Al menos 50 pies antes",
+        "Solo cuando empieza a girar",
+        "Al menos 100 pies antes"
+      ],
+      "h1": "Avise a los demás conductores con suficiente tiempo antes de moverse.",
+      "h2": "En Florida debe poner la direccional al menos 100 pies antes de girar, para que los demás sepan lo que va a hacer.",
+      "p": "Correcto. Ponga la direccional al menos 100 pies antes de girar."
+    }
+  },
+  {
+    "id": "speed-lanes-020",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "You want to change lanes. What should you do right after checking your mirrors?",
+      "o": [
+        "Change lanes right away",
+        "Turn your head and look over your shoulder",
+        "Honk your horn",
+        "Slow down to a stop"
+      ],
+      "h1": "Your mirrors cannot show every place next to your car.",
+      "h2": "After you check your mirrors, turn your head and look over your shoulder, because a car may be hiding in your blind spot.",
+      "p": "Right. Look over your shoulder to check your blind spot."
+    },
+    "es": {
+      "q": "Quiere cambiar de carril. ¿Qué debe hacer justo después de revisar los espejos?",
+      "o": [
+        "Cambiar de carril enseguida",
+        "Voltear la cabeza y mirar por encima del hombro",
+        "Tocar la bocina",
+        "Frenar hasta detenerse"
+      ],
+      "h1": "Los espejos no muestran todos los lugares al lado de su carro.",
+      "h2": "Después de revisar los espejos, voltee la cabeza y mire por encima del hombro, porque puede haber un carro escondido en su punto ciego.",
+      "p": "Correcto. Mire por encima del hombro para revisar su punto ciego."
+    }
+  },
+  {
+    "id": "speed-lanes-021",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "You need to move over three lanes to reach your exit. How should you do it?",
+      "o": [
+        "Cross all three lanes in one move",
+        "Move one lane at a time and signal each time",
+        "Signal once and then cross all lanes",
+        "Slow down in your lane and wait for a gap in all lanes"
+      ],
+      "h1": "Each lane may have its own traffic and its own blind spot.",
+      "h2": "You should move one lane at a time, signaling and checking your blind spot before each move, because every lane can hide a car.",
+      "p": "Right. Change one lane at a time and signal each time."
+    },
+    "es": {
+      "q": "Necesita pasar tres carriles para llegar a su salida. ¿Cómo debe hacerlo?",
+      "o": [
+        "Cruzar los tres carriles de una sola vez",
+        "Cambiar un carril a la vez y poner la direccional cada vez",
+        "Poner la direccional una vez y cruzar todos los carriles",
+        "Frenar en su carril y esperar un espacio en todos los carriles"
+      ],
+      "h1": "Cada carril puede tener su propio tráfico y su propio punto ciego.",
+      "h2": "Debe cambiar un carril a la vez, poniendo la direccional y revisando el punto ciego antes de cada cambio, porque en cada carril puede haber un carro.",
+      "p": "Correcto. Cambie un carril a la vez y ponga la direccional cada vez."
+    }
+  },
+  {
+    "id": "speed-lanes-022",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "What do broken white lines between lanes mean?",
+      "o": [
+        "They separate traffic going in opposite directions",
+        "You may never cross them",
+        "They mark the edge of the road",
+        "They separate lanes going the same way, and you may change lanes when safe"
+      ],
+      "h1": "Broken lines allow you to do something, but only when it is safe.",
+      "h2": "Broken white lines separate lanes that go the same way, and you may cross them to change lanes when it is safe.",
+      "p": "Right. Broken white lines let you change lanes when it is safe."
+    },
+    "es": {
+      "q": "¿Qué significan las líneas blancas cortadas entre carriles?",
+      "o": [
+        "Separan el tráfico que va en sentidos opuestos",
+        "Nunca las puede cruzar",
+        "Marcan la orilla de la carretera",
+        "Separan carriles que van en el mismo sentido, y puede cambiar de carril cuando sea seguro"
+      ],
+      "h1": "Las líneas cortadas le permiten hacer algo, pero solo cuando es seguro.",
+      "h2": "Las líneas blancas cortadas separan carriles que van en el mismo sentido, y puede cruzarlas para cambiar de carril cuando sea seguro.",
+      "p": "Correcto. Las líneas blancas cortadas le permiten cambiar de carril cuando es seguro."
+    }
+  },
+  {
+    "id": "speed-lanes-023",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, you are on the ramp to enter an expressway. What should you do?",
+      "o": [
+        "Speed up in the merge lane to match traffic and yield to cars on the expressway",
+        "Stop at the end of the ramp and wait",
+        "Drive slowly so cars on the expressway can see you",
+        "Enter right away, because cars on the expressway must let you in"
+      ],
+      "h1": "The merge lane is there to help you reach the speed of traffic.",
+      "h2": "Use the merge lane to speed up to the speed of traffic, and yield to the cars already on the expressway before you move in.",
+      "p": "Right. Match the traffic speed and yield to cars already on the expressway."
+    },
+    "es": {
+      "q": "En Florida, usted va por la rampa para entrar a una autopista. ¿Qué debe hacer?",
+      "o": [
+        "Acelerar en el carril de incorporación hasta la velocidad del tráfico y ceder el paso a los carros de la autopista",
+        "Detenerse al final de la rampa y esperar",
+        "Manejar despacio para que los carros de la autopista lo vean",
+        "Entrar enseguida, porque los carros de la autopista deben dejarlo pasar"
+      ],
+      "h1": "El carril de incorporación sirve para que alcance la velocidad del tráfico.",
+      "h2": "Use el carril de incorporación para acelerar hasta la velocidad del tráfico, y ceda el paso a los carros que ya van por la autopista antes de entrar.",
+      "p": "Correcto. Iguale la velocidad del tráfico y ceda el paso a los carros de la autopista."
+    }
+  },
+  {
+    "id": "speed-lanes-024",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, where should you slow down when you leave an expressway?",
+      "o": [
+        "In the main lane, before the exit",
+        "On the shoulder next to the exit",
+        "In the exit lane, after you leave the main lanes",
+        "Only after you reach the end of the ramp"
+      ],
+      "h1": "Slowing down in the main lanes can surprise the drivers behind you.",
+      "h2": "You should move into the exit lane first and then slow down there, so you do not block fast traffic in the main lanes.",
+      "p": "Right. Slow down in the exit lane, not on the main road."
+    },
+    "es": {
+      "q": "En Florida, ¿dónde debe bajar la velocidad al salir de una autopista?",
+      "o": [
+        "En el carril principal, antes de la salida",
+        "En el acotamiento junto a la salida",
+        "En el carril de salida, después de dejar los carriles principales",
+        "Solo al llegar al final de la rampa"
+      ],
+      "h1": "Frenar en los carriles principales puede sorprender a los conductores de atrás.",
+      "h2": "Primero debe pasarse al carril de salida y luego bajar la velocidad allí, para no frenar al tráfico rápido en los carriles principales.",
+      "p": "Correcto. Baje la velocidad en el carril de salida, no en la vía principal."
+    }
+  },
+  {
+    "id": "speed-lanes-025",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You missed your exit on the expressway. What should you do?",
+      "o": [
+        "Back up on the shoulder to the exit",
+        "Make a U-turn across the median",
+        "Keep going to the next exit",
+        "Stop and wait for traffic to clear"
+      ],
+      "h1": "Backing up or turning around on a fast road is very dangerous.",
+      "h2": "If you miss your exit, keep driving to the next exit, because backing up or turning around on an expressway can cause a serious crash.",
+      "p": "Right. Missed your exit? Just go on to the next one."
+    },
+    "es": {
+      "q": "Se le pasó la salida en la autopista. ¿Qué debe hacer?",
+      "o": [
+        "Dar reversa por el acotamiento hasta la salida",
+        "Dar vuelta en U por la división central",
+        "Seguir hasta la próxima salida",
+        "Detenerse y esperar a que pase el tráfico"
+      ],
+      "h1": "Dar reversa o dar la vuelta en una vía rápida es muy peligroso.",
+      "h2": "Si se le pasa la salida, siga hasta la próxima salida, porque dar reversa o dar la vuelta en una autopista puede causar un choque grave.",
+      "p": "Correcto. ¿Se le pasó la salida? Siga hasta la próxima."
+    }
+  },
+  {
+    "id": "speed-lanes-026",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, a ramp has a traffic signal (ramp meter) before the expressway. How do you use it?",
+      "o": [
+        "Wait for green, then one car goes on each green light",
+        "All cars in line go on one green light",
+        "Ignore it if the expressway looks empty",
+        "Go on yellow, stop on green"
+      ],
+      "h1": "The signal lets cars onto the expressway a little at a time.",
+      "h2": "At a ramp meter, wait for the green light, and then only one car goes for each green unless a sign says otherwise.",
+      "p": "Right. At a ramp meter, one car goes on each green light."
+    },
+    "es": {
+      "q": "En Florida, una rampa tiene un semáforo (medidor de rampa) antes de la autopista. ¿Cómo se usa?",
+      "o": [
+        "Espere la luz verde; pasa un carro con cada luz verde",
+        "Todos los carros de la fila pasan con una sola luz verde",
+        "Ignórelo si la autopista se ve vacía",
+        "Pase con luz amarilla y deténgase con luz verde"
+      ],
+      "h1": "El semáforo deja entrar los carros a la autopista poco a poco.",
+      "h2": "En un medidor de rampa, espere la luz verde, y luego pasa solo un carro con cada luz verde, a menos que un letrero diga otra cosa.",
+      "p": "Correcto. En el medidor de rampa, pasa un carro con cada luz verde."
+    }
+  },
+  {
+    "id": "speed-lanes-027",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, you are in the left lane of a multi-lane highway. A faster car comes up behind you. What must you do?",
+      "o": [
+        "Stay in the left lane at the speed limit",
+        "Speed up to stay ahead of it",
+        "Tap your brakes to slow it down",
+        "Move to the right when it is safe and let it pass"
+      ],
+      "h1": "On a highway with several lanes, the left lane is mainly for passing.",
+      "h2": "Florida law says that if a faster car is coming up behind you in the left lane, you must move right when it is safe and let it pass.",
+      "p": "Right. In the left lane, move right for faster traffic behind you."
+    },
+    "es": {
+      "q": "En Florida, usted va por el carril izquierdo de una carretera de varios carriles. Un carro más rápido se acerca por detrás. ¿Qué debe hacer?",
+      "o": [
+        "Quedarse en el carril izquierdo al límite de velocidad",
+        "Acelerar para seguir delante de él",
+        "Frenar un poco para que baje la velocidad",
+        "Pasarse a la derecha cuando sea seguro y dejarlo pasar"
+      ],
+      "h1": "En una carretera de varios carriles, el carril izquierdo es sobre todo para rebasar.",
+      "h2": "La ley de Florida dice que si un carro más rápido se acerca por detrás en el carril izquierdo, debe pasarse a la derecha cuando sea seguro y dejarlo pasar.",
+      "p": "Correcto. En el carril izquierdo, muévase a la derecha si viene alguien más rápido."
+    }
+  },
+  {
+    "id": "speed-lanes-028",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "medium",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, on a highway with two or more lanes in your direction and a speed limit of 65 mph or more, what is the far-left lane for?",
+      "o": [
+        "Cruising at any speed you like",
+        "Passing, or getting ready to turn left or exit",
+        "Large trucks only",
+        "Slow drivers who want to stay safe"
+      ],
+      "h1": "Florida wants the left lane kept free for one main use.",
+      "h2": "On these Florida highways you should use the far-left lane only to pass or to get ready to turn left or exit, and then move back to the right.",
+      "p": "Right. On fast Florida highways, the left lane is for passing."
+    },
+    "es": {
+      "q": "En Florida, en una carretera con dos o más carriles en su sentido y un límite de 65 mph o más, ¿para qué es el carril de la extrema izquierda?",
+      "o": [
+        "Para manejar a la velocidad que usted quiera",
+        "Para rebasar, o para prepararse a girar a la izquierda o salir",
+        "Solo para camiones grandes",
+        "Para conductores lentos que quieren ir seguros"
+      ],
+      "h1": "Florida quiere que el carril izquierdo quede libre para un uso principal.",
+      "h2": "En estas carreteras de Florida debe usar el carril de la extrema izquierda solo para rebasar o prepararse para girar a la izquierda o salir, y luego volver a la derecha.",
+      "p": "Correcto. En las carreteras rápidas de Florida, el carril izquierdo es para rebasar."
+    }
+  },
+  {
+    "id": "speed-lanes-029",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, when must your headlights be on?",
+      "o": [
+        "Only after midnight",
+        "From sunset to sunrise",
+        "Only on unlit country roads",
+        "Only when another car flashes its lights"
+      ],
+      "h1": "Think about the hours when it gets dark outside.",
+      "h2": "In Florida your headlights must be on from sunset to sunrise, so you can see and others can see you.",
+      "p": "Right. Headlights go on from sunset to sunrise."
+    },
+    "es": {
+      "q": "En Florida, ¿cuándo deben estar encendidas las luces delanteras?",
+      "o": [
+        "Solo después de la medianoche",
+        "Desde la puesta del sol hasta la salida del sol",
+        "Solo en caminos rurales sin luz",
+        "Solo cuando otro carro le hace cambio de luces"
+      ],
+      "h1": "Piense en las horas en que oscurece afuera.",
+      "h2": "En Florida sus luces delanteras deben estar encendidas desde la puesta del sol hasta la salida del sol, para que usted vea y lo vean.",
+      "p": "Correcto. Las luces van encendidas desde la puesta hasta la salida del sol."
+    }
+  },
+  {
+    "id": "speed-lanes-030",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, it is daytime but rain, smoke, or fog makes it hard to see. What must you do with your headlights?",
+      "o": [
+        "Leave them off because it is daytime",
+        "Turn on only your parking lights",
+        "Turn on your hazard lights and keep driving",
+        "Turn them on"
+      ],
+      "h1": "Lights help other drivers see you, not only help you see.",
+      "h2": "In Florida you must turn on your headlights during rain, smoke, or fog, even in the daytime, so other drivers can see you.",
+      "p": "Right. Rain, smoke, or fog means headlights on, even by day."
+    },
+    "es": {
+      "q": "En Florida, es de día pero la lluvia, el humo o la neblina hacen difícil ver. ¿Qué debe hacer con las luces delanteras?",
+      "o": [
+        "Dejarlas apagadas porque es de día",
+        "Encender solo las luces de estacionamiento",
+        "Encender las luces intermitentes y seguir manejando",
+        "Encenderlas"
+      ],
+      "h1": "Las luces ayudan a que otros lo vean, no solo a que usted vea.",
+      "h2": "En Florida debe encender las luces delanteras con lluvia, humo o neblina, aunque sea de día, para que los demás conductores lo vean.",
+      "p": "Correcto. Con lluvia, humo o neblina, encienda las luces, aunque sea de día."
+    }
+  },
+  {
+    "id": "speed-lanes-031",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, a car is coming toward you at night. How close can it get before you must dim your high beams?",
+      "o": [
+        "500 feet",
+        "100 feet",
+        "200 feet",
+        "1,000 feet"
+      ],
+      "h1": "Bright lights can blind the other driver from far away.",
+      "h2": "In Florida you must switch to low beams when an oncoming car is within 500 feet, so you do not blind its driver.",
+      "p": "Right. Dim your high beams within 500 feet of an oncoming car."
+    },
+    "es": {
+      "q": "En Florida, de noche viene un carro de frente. ¿A qué distancia debe cambiar a luces bajas?",
+      "o": [
+        "500 pies",
+        "100 pies",
+        "200 pies",
+        "1,000 pies"
+      ],
+      "h1": "Las luces altas pueden encandilar al otro conductor desde lejos.",
+      "h2": "En Florida debe cambiar a luces bajas cuando un carro que viene de frente está a 500 pies o menos, para no encandilar al conductor.",
+      "p": "Correcto. Cambie a luces bajas a 500 pies de un carro que viene de frente."
+    }
+  },
+  {
+    "id": "speed-lanes-032",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, you are driving behind another car at night. How close can you get before you must dim your high beams?",
+      "o": [
+        "50 feet",
+        "100 feet",
+        "300 feet",
+        "700 feet"
+      ],
+      "h1": "Your bright lights shine into the other driver's mirrors.",
+      "h2": "In Florida you must use low beams when you are within 300 feet of a car ahead of you, so your lights do not blind the driver through the mirrors.",
+      "p": "Right. Dim your lights within 300 feet of a car you are following."
+    },
+    "es": {
+      "q": "En Florida, de noche usted va detrás de otro carro. ¿A qué distancia debe cambiar a luces bajas?",
+      "o": [
+        "50 pies",
+        "100 pies",
+        "300 pies",
+        "700 pies"
+      ],
+      "h1": "Sus luces altas se reflejan en los espejos del otro conductor.",
+      "h2": "En Florida debe usar luces bajas cuando está a 300 pies o menos del carro de adelante, para no encandilar al conductor por los espejos.",
+      "p": "Correcto. Cambie a luces bajas a 300 pies del carro que va adelante."
+    }
+  },
+  {
+    "id": "speed-lanes-033",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You are driving in thick fog. Which lights should you use?",
+      "o": [
+        "High beams",
+        "Parking lights only",
+        "Low beams",
+        "No lights"
+      ],
+      "h1": "Fog reflects strong light back into your eyes.",
+      "h2": "In fog you should use low beams, because high beams bounce off the fog and make it harder to see.",
+      "p": "Right. Use low beams in fog."
+    },
+    "es": {
+      "q": "Usted maneja con neblina espesa. ¿Qué luces debe usar?",
+      "o": [
+        "Luces altas",
+        "Solo luces de estacionamiento",
+        "Luces bajas",
+        "Ninguna luz"
+      ],
+      "h1": "La neblina refleja la luz fuerte hacia sus ojos.",
+      "h2": "Con neblina debe usar luces bajas, porque las luces altas rebotan en la neblina y hacen más difícil ver.",
+      "p": "Correcto. Use luces bajas con neblina."
+    }
+  },
+  {
+    "id": "speed-lanes-034",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 15 feet",
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 30 feet"
+      ],
+      "h1": "Fire trucks need room to connect their hoses.",
+      "h2": "In Florida you may not park within 15 feet of a fire hydrant, so firefighters can reach it quickly.",
+      "p": "Right. Stay at least 15 feet from a fire hydrant."
+    },
+    "es": {
+      "q": "En Florida, ¿qué tan cerca de un hidrante puede estacionarse?",
+      "o": [
+        "No a menos de 15 pies",
+        "No a menos de 5 pies",
+        "No a menos de 10 pies",
+        "No a menos de 30 pies"
+      ],
+      "h1": "Los bomberos necesitan espacio para conectar las mangueras.",
+      "h2": "En Florida no puede estacionarse a menos de 15 pies de un hidrante, para que los bomberos lleguen rápido a él.",
+      "p": "Correcto. Estaciónese al menos a 15 pies de un hidrante."
+    }
+  },
+  {
+    "id": "speed-lanes-035",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, how close to a crosswalk at an intersection may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 50 feet",
+        "No closer than 20 feet"
+      ],
+      "h1": "Drivers must be able to see people who are walking across.",
+      "h2": "In Florida you may not park within 20 feet of a crosswalk at an intersection, so drivers can see people crossing.",
+      "p": "Right. Park at least 20 feet from a crosswalk at an intersection."
+    },
+    "es": {
+      "q": "En Florida, ¿qué tan cerca de un cruce peatonal en una intersección puede estacionarse?",
+      "o": [
+        "No a menos de 5 pies",
+        "No a menos de 10 pies",
+        "No a menos de 50 pies",
+        "No a menos de 20 pies"
+      ],
+      "h1": "Los conductores deben poder ver a las personas que cruzan caminando.",
+      "h2": "En Florida no puede estacionarse a menos de 20 pies de un cruce peatonal en una intersección, para que los conductores vean a quienes cruzan.",
+      "p": "Correcto. Estaciónese al menos a 20 pies de un cruce peatonal en una intersección."
+    }
+  },
+  {
+    "id": "speed-lanes-036",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, how close to a stop sign may you park?",
+      "o": [
+        "No closer than 10 feet",
+        "No closer than 30 feet",
+        "No closer than 15 feet",
+        "No closer than 100 feet"
+      ],
+      "h1": "A parked car could hide the sign from other drivers.",
+      "h2": "In Florida you may not park within 30 feet of a stop sign, so other drivers can see the sign clearly.",
+      "p": "Right. Park at least 30 feet from a stop sign."
+    },
+    "es": {
+      "q": "En Florida, ¿qué tan cerca de un letrero de PARE puede estacionarse?",
+      "o": [
+        "No a menos de 10 pies",
+        "No a menos de 30 pies",
+        "No a menos de 15 pies",
+        "No a menos de 100 pies"
+      ],
+      "h1": "Un carro estacionado podría tapar el letrero para otros conductores.",
+      "h2": "En Florida no puede estacionarse a menos de 30 pies de un letrero de PARE, para que los demás conductores lo vean bien.",
+      "p": "Correcto. Estaciónese al menos a 30 pies de un letrero de PARE."
+    }
+  },
+  {
+    "id": "speed-lanes-037",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, how close to the nearest rail of a railroad crossing may you park?",
+      "o": [
+        "No closer than 15 feet",
+        "No closer than 50 feet",
+        "No closer than 25 feet",
+        "No closer than 10 feet"
+      ],
+      "h1": "Trains are wide and drivers need a clear view of the tracks.",
+      "h2": "In Florida you may not park within 50 feet of the nearest rail of a railroad crossing.",
+      "p": "Right. Park at least 50 feet from a railroad crossing."
+    },
+    "es": {
+      "q": "En Florida, ¿qué tan cerca del riel más cercano de un cruce de tren puede estacionarse?",
+      "o": [
+        "No a menos de 15 pies",
+        "No a menos de 50 pies",
+        "No a menos de 25 pies",
+        "No a menos de 10 pies"
+      ],
+      "h1": "Los trenes son anchos y los conductores necesitan ver bien las vías.",
+      "h2": "En Florida no puede estacionarse a menos de 50 pies del riel más cercano de un cruce de tren.",
+      "p": "Correcto. Estaciónese al menos a 50 pies de un cruce de tren."
+    }
+  },
+  {
+    "id": "speed-lanes-038",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, you park facing downhill next to a curb. Which way should you turn your front wheels?",
+      "o": [
+        "Away from the curb",
+        "Straight ahead",
+        "It does not matter",
+        "Toward the curb"
+      ],
+      "h1": "Think about where the car would roll if the brakes failed.",
+      "h2": "When you park downhill next to a curb, turn your front wheels toward the curb, so the car rolls into the curb if it moves.",
+      "p": "Right. Downhill with a curb, turn your wheels toward the curb."
+    },
+    "es": {
+      "q": "En Florida, se estaciona en bajada junto a la orilla de la acera. ¿Hacia dónde debe girar las ruedas delanteras?",
+      "o": [
+        "Lejos de la acera",
+        "Rectas hacia adelante",
+        "No importa",
+        "Hacia la acera"
+      ],
+      "h1": "Piense hacia dónde rodaría el carro si fallaran los frenos.",
+      "h2": "Cuando se estaciona en bajada junto a la acera, gire las ruedas delanteras hacia la acera, para que el carro choque con ella si se mueve.",
+      "p": "Correcto. En bajada con acera, gire las ruedas hacia la acera."
+    }
+  },
+  {
+    "id": "speed-lanes-039",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, you park facing uphill next to a curb. Which way should you turn your front wheels?",
+      "o": [
+        "Away from the curb",
+        "Toward the curb",
+        "Straight ahead",
+        "It does not matter"
+      ],
+      "h1": "If the car rolls back, you want the back of the front tire to touch the curb.",
+      "h2": "When you park uphill next to a curb, turn your front wheels away from the curb, so the tire catches the curb if the car rolls back.",
+      "p": "Right. Uphill with a curb, turn your wheels away from the curb."
+    },
+    "es": {
+      "q": "En Florida, se estaciona en subida junto a la orilla de la acera. ¿Hacia dónde debe girar las ruedas delanteras?",
+      "o": [
+        "Lejos de la acera",
+        "Hacia la acera",
+        "Rectas hacia adelante",
+        "No importa"
+      ],
+      "h1": "Si el carro rueda hacia atrás, quiere que la llanta delantera toque la acera.",
+      "h2": "Cuando se estaciona en subida junto a la acera, gire las ruedas delanteras lejos de la acera, para que la llanta se apoye en ella si el carro rueda hacia atrás.",
+      "p": "Correcto. En subida con acera, gire las ruedas lejos de la acera."
+    }
+  },
+  {
+    "id": "speed-lanes-040",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, when you parallel park next to a curb, how close to the curb must your wheels be?",
+      "o": [
+        "Within 24 inches",
+        "Within 36 inches",
+        "Within 12 inches",
+        "Within 6 feet"
+      ],
+      "h1": "Your car should be close enough that it does not stick out into traffic.",
+      "h2": "In Florida your wheels must be within 12 inches of the curb when you parallel park, so your car does not block the lane.",
+      "p": "Right. Park with your wheels within 12 inches of the curb."
+    },
+    "es": {
+      "q": "En Florida, al estacionarse en paralelo junto a la acera, ¿qué tan cerca de la acera deben quedar las ruedas?",
+      "o": [
+        "A 24 pulgadas o menos",
+        "A 36 pulgadas o menos",
+        "A 12 pulgadas o menos",
+        "A 6 pies o menos"
+      ],
+      "h1": "Su carro debe quedar lo bastante cerca para no salirse hacia el tráfico.",
+      "h2": "En Florida las ruedas deben quedar a 12 pulgadas o menos de la acera al estacionarse en paralelo, para que su carro no tape el carril.",
+      "p": "Correcto. Estaciónese con las ruedas a 12 pulgadas o menos de la acera."
+    }
+  },
+  {
+    "id": "speed-lanes-041",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, who may park in a space marked for people with disabilities?",
+      "o": [
+        "Anyone, if it is only for a few minutes",
+        "Anyone, if the lot is full",
+        "A driver with a valid disabled parking permit or plate shown",
+        "Any driver over 65 years old"
+      ],
+      "h1": "These spaces are saved for people who have official proof.",
+      "h2": "Only a vehicle showing a valid disabled parking permit or license plate may park in a disabled space, even for a short time.",
+      "p": "Right. Disabled spaces are only for vehicles with a valid permit or plate."
+    },
+    "es": {
+      "q": "En Florida, ¿quién puede estacionarse en un espacio para personas con discapacidad?",
+      "o": [
+        "Cualquiera, si es solo por unos minutos",
+        "Cualquiera, si el estacionamiento está lleno",
+        "Un conductor que muestre un permiso o placa válida de discapacidad",
+        "Cualquier conductor mayor de 65 años"
+      ],
+      "h1": "Estos espacios son para personas que tienen un comprobante oficial.",
+      "h2": "Solo un vehículo que muestre un permiso o una placa válida de discapacidad puede estacionarse en ese espacio, aunque sea por poco tiempo.",
+      "p": "Correcto. Los espacios para personas con discapacidad son solo para vehículos con permiso o placa válida."
+    }
+  },
+  {
+    "id": "speed-lanes-042",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, can you park on the striped lines next to a disabled parking space?",
+      "o": [
+        "No, that area must stay clear for wheelchairs and lifts",
+        "Yes, if you have a permit",
+        "Yes, for up to 15 minutes",
+        "Yes, if you stay in the car"
+      ],
+      "h1": "Think about what a person in a wheelchair needs to get out of a van.",
+      "h2": "You may not park on the striped area next to a disabled space, because it must stay clear for wheelchairs and lifts.",
+      "p": "Right. Never park on the striped access aisle."
+    },
+    "es": {
+      "q": "En Florida, ¿puede estacionarse sobre las rayas al lado de un espacio para personas con discapacidad?",
+      "o": [
+        "No, esa área debe quedar libre para sillas de ruedas y plataformas elevadoras",
+        "Sí, si tiene permiso",
+        "Sí, hasta 15 minutos",
+        "Sí, si se queda dentro del carro"
+      ],
+      "h1": "Piense en lo que necesita una persona en silla de ruedas para bajar de una camioneta.",
+      "h2": "No puede estacionarse en el área con rayas junto a un espacio para personas con discapacidad, porque debe quedar libre para sillas de ruedas y plataformas elevadoras.",
+      "p": "Correcto. Nunca se estacione en el pasillo con rayas."
+    }
+  }
+]

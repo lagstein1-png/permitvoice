@@ -1,0 +1,480 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>PermitVoice</title>
+<meta name="description" content="Accessible practice for the learner's permit test, in English and Spanish, read aloud.">
+<meta name="theme-color" content="#0E3B5C">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg">
+<style>
+:root{
+  --bg:#F6F4EE; --card:#FFFFFF; --ink:#13202C; --muted:#4A5866; --line:#D5D9DE;
+  --go:#0E6B4A; --go-dark:#094A33; --brand:#0E3B5C; --almost:#8A5A00; --almost-bg:#FFF4DA;
+  --right-bg:#E3F4EA; --focus:#1F6FEB; --notice:#EAF1F8;
+}
+@media (prefers-color-scheme:dark){
+  :root{ --bg:#0F161D; --card:#18222C; --ink:#EEF2F5; --muted:#B4C0CB; --line:#2E3C49;
+    --go:#2FA678; --go-dark:#1E7A57; --brand:#9FCBEA; --almost:#F2C66B; --almost-bg:#3A2E12;
+    --right-bg:#173A2A; --notice:#1D2C3A; }
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink)}
+body{font:20px/1.5 "Atkinson Hyperlegible",Verdana,system-ui,sans-serif;letter-spacing:.01em}
+.app{max-width:640px;margin:0 auto;padding:12px 16px 140px}
+.bar{display:flex;align-items:center;gap:10px;min-height:56px}
+.brand{font-size:24px;margin:0;color:var(--brand)}
+.brandsub{font-size:14px;color:var(--muted)}
+.brandwrap{flex:1}
+.pill{font-size:15px;color:var(--muted)}
+.iconbtn{width:48px;height:48px;border-radius:12px;border:2px solid var(--line);background:var(--card);color:var(--ink);font-size:22px;cursor:pointer}
+.setup{display:grid;gap:10px;background:var(--card);border:2px solid var(--line);border-radius:16px;padding:14px;margin:8px 0 16px}
+.setup label{font-size:16px;color:var(--muted);display:block;margin-bottom:4px}
+select{width:100%;min-height:52px;font:inherit;font-size:19px;padding:8px 10px;border-radius:12px;border:2px solid var(--line);background:var(--card);color:var(--ink)}
+.langs{display:flex;gap:8px}
+.chip{min-height:48px;padding:8px 16px;border-radius:999px;border:2px solid var(--line);background:var(--card);color:var(--ink);font:inherit;font-size:18px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--brand);border-color:var(--brand);color:var(--bg)}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}
+.chipn{opacity:.75;font-size:15px}
+.grouptitle{font-size:16px;color:var(--muted);margin:14px 0 6px}
+.hero h2{font-size:26px;margin:4px 0}
+.hero p{margin:0 0 12px;color:var(--muted)}
+.notice{background:var(--notice);border-radius:14px;padding:12px 14px;margin:10px 0;font-size:18px}
+.bigbtn{display:block;width:100%;min-height:60px;margin:10px 0;border-radius:16px;border:0;background:var(--go);color:#fff;font:inherit;font-size:21px;font-weight:700;cursor:pointer;box-shadow:0 4px 0 var(--go-dark)}
+.bigbtn.ghost{background:var(--card);color:var(--ink);border:2px solid var(--line);box-shadow:none;font-weight:600}
+.linkbtn{background:none;border:0;color:var(--focus);font:inherit;font-size:18px;text-decoration:underline;cursor:pointer;min-height:48px;padding:0}
+.stage{display:flex;justify-content:center;min-height:0;margin:6px 0}
+.stage svg{width:150px;height:150px}
+.road{height:10px;background:var(--line);border-radius:6px;overflow:hidden;margin:8px 0 14px}
+.road-fill{height:100%;background:var(--go)}
+.qtitle{font-size:23px;line-height:1.4;margin:6px 0 14px}
+.opt{display:flex;gap:12px;align-items:flex-start;width:100%;text-align:start;min-height:60px;margin:8px 0;padding:12px 14px;border-radius:14px;border:2px solid var(--line);background:var(--card);color:var(--ink);font:inherit;font-size:20px;cursor:pointer}
+.optnum{flex:none;width:30px;height:30px;border-radius:50%;background:var(--line);display:grid;place-items:center;font-size:17px}
+.opt.right{background:var(--right-bg);border-color:var(--go)}
+.opt.almost{background:var(--almost-bg);border-color:var(--almost)}
+.tag{margin-inline-start:auto;font-size:15px;color:var(--almost);font-weight:700}
+.hintbtn{min-height:52px;margin:8px 8px 0 0;padding:8px 16px;border-radius:12px;border:2px solid var(--line);background:var(--card);color:var(--ink);font:inherit;font-size:18px;cursor:pointer}
+.hintbtn:disabled{opacity:.4;cursor:default}
+.hintbox,.praise,.feedback{border-radius:14px;padding:12px 14px;margin:10px 0;font-size:19px}
+.hintbox{background:var(--notice)}
+.hintbox b{display:block;font-size:15px;color:var(--muted)}
+.praise{background:var(--right-bg)}
+.feedback{background:var(--almost-bg)}
+.ref{font-size:15px;color:var(--muted);margin:6px 0}
+.result{font-size:40px;font-weight:800;margin:10px 0}
+.foot{font-size:14px;color:var(--muted);margin-top:28px;border-top:1px solid var(--line);padding-top:12px}
+.actions{position:fixed;left:0;right:0;bottom:0;display:flex;justify-content:center;gap:18px;align-items:center;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:var(--bg);border-top:1px solid var(--line)}
+.play{width:84px;height:84px;border-radius:50%;border:0;background:var(--go);color:#fff;font:inherit;font-size:15px;font-weight:700;cursor:pointer;box-shadow:0 4px 0 var(--go-dark)}
+.play.playing{background:var(--ink);color:var(--bg)}
+.side{min-width:76px;min-height:64px;border-radius:14px;border:2px solid var(--line);background:var(--card);color:var(--ink);font:inherit;font-size:16px;cursor:pointer}
+dialog{border:0;border-radius:18px;padding:20px;max-width:420px;width:calc(100% - 32px);background:var(--card);color:var(--ink)}
+dialog::backdrop{background:rgba(0,0,0,.45)}
+button:focus-visible,select:focus-visible{outline:4px solid var(--focus);outline-offset:3px}
+[hidden]{display:none !important}
+@media (prefers-reduced-motion:reduce){*{transition:none !important;animation:none !important}}
+</style>
+</head>
+<body>
+<div class="app">
+  <div class="bar">
+    <button class="iconbtn" id="btnBack" type="button" hidden aria-label="Back">‹</button>
+    <div class="brandwrap">
+      <h1 class="brand">PermitVoice</h1>
+      <div class="brandsub" id="brandsub"></div>
+    </div>
+    <span class="pill" id="pill"></span>
+  </div>
+  <main id="screen"></main>
+  <p class="foot" id="foot"></p>
+</div>
+
+<div class="actions" id="actions" hidden>
+  <button class="side" id="btnAgain" type="button"></button>
+  <button class="play" id="btnPlay" type="button"></button>
+  <button class="side" id="btnRate" type="button"></button>
+</div>
+
+<dialog id="geoDlg">
+  <p id="geoText"></p>
+  <button class="bigbtn" id="geoYes" type="button"></button>
+  <button class="bigbtn ghost" id="geoNo" type="button"></button>
+</dialog>
+
+<script src="states.js"></script>
+<script src="bank.js"></script>
+<script>
+(function(){
+'use strict';
+
+/* ---------- Text in both languages ---------- */
+const T = {
+  en: {
+    sub:'Learner\'s permit practice, read aloud', state:'Your state', lang:'Language',
+    findMe:'Find my state', finding:'Looking for your location…',
+    geoAsk:s=>`It looks like you are in ${s}. Use the questions for ${s}?`, yes:'Yes, use it', no:'No, I will choose',
+    geoFail:'We could not find your state. Please choose it from the list.',
+    geoOut:'Your location is outside the 50 states. Please choose a state from the list.',
+    soon:'coming soon',
+    heroT:s=>`Practice for the ${s} permit test`, heroP:'Read, listen, and learn at your own pace. A wrong answer is never a penalty — you get a hint.',
+    soonT:s=>`Questions for ${s} are coming soon.`,
+    soonP:'You can already practice the national signs and signals. They are the same in every state.',
+    natBtn:'Practice national signs and signals',
+    topic:'Topic', all:'All', start:'Start learning', cont:'Continue learning',
+    exam:n=>`Practice test (${n} questions)`, mist:n=>`Review my mistakes (${n})`,
+    question:'Question', of:'of', hint:'Hint', hint2:'Another hint', hint1T:'Hint', hint2T:'Explanation',
+    skip:'Skip this question', next:'Next question', seeRes:'See my result',
+    almost:'Almost', almostSay:'Almost. Here is a hint.',
+    correctIs:n=>`The correct answer is number ${n}.`,
+    ref:'Florida Driver License Handbook — page not yet checked',
+    passT:'You passed!', failT:'Not yet', resT:'Round complete',
+    resLine:(c,n)=>`${c} of ${n} correct`,
+    passP:'You reached the passing score. Keep practicing to stay sharp.',
+    failP:(p,n)=>`To pass you need ${p} of ${n}. Review your mistakes and try again.`,
+    resP:'Nice work. Every question you answer makes the next one easier.',
+    home:'Back to home', play:'Read', stop:'Stop', again:'Again', rate:{0.8:'Slow',1:'Normal',1.2:'Fast'},
+    noTTS:'This device cannot read aloud. You can still read the questions.',
+    foot:'PermitVoice is an independent app and is not affiliated with or endorsed by the Florida Department of Highway Safety and Motor Vehicles or any state agency. Questions are original practice material, not the official test.',
+    cats:{signs:'Signs', signals:'Signals and markings', 'right-of-way':'Right of way', 'speed-lanes':'Speed, lanes and parking', licensing:'License and the law', 'safe-driving':'Safe driving'}
+  },
+  es: {
+    sub:'Práctica para el permiso de aprendiz, en voz alta', state:'Su estado', lang:'Idioma',
+    findMe:'Buscar mi estado', finding:'Buscando su ubicación…',
+    geoAsk:s=>`Parece que usted está en ${s}. ¿Usar las preguntas de ${s}?`, yes:'Sí, usarlas', no:'No, voy a elegir',
+    geoFail:'No pudimos encontrar su estado. Por favor, elíjalo de la lista.',
+    geoOut:'Su ubicación está fuera de los 50 estados. Por favor, elija un estado de la lista.',
+    soon:'próximamente',
+    heroT:s=>`Practique para el examen de permiso de ${s}`, heroP:'Lea, escuche y aprenda a su ritmo. Una respuesta incorrecta nunca es un castigo: recibe una pista.',
+    soonT:s=>`Las preguntas de ${s} llegarán pronto.`,
+    soonP:'Ya puede practicar las señales y semáforos nacionales. Son iguales en todos los estados.',
+    natBtn:'Practicar señales y semáforos nacionales',
+    topic:'Tema', all:'Todos', start:'Empezar a aprender', cont:'Seguir aprendiendo',
+    exam:n=>`Examen de práctica (${n} preguntas)`, mist:n=>`Repasar mis errores (${n})`,
+    question:'Pregunta', of:'de', hint:'Pista', hint2:'Otra pista', hint1T:'Pista', hint2T:'Explicación',
+    skip:'Saltar esta pregunta', next:'Siguiente pregunta', seeRes:'Ver mi resultado',
+    almost:'Casi', almostSay:'Casi. Aquí tiene una pista.',
+    correctIs:n=>`La respuesta correcta es la número ${n}.`,
+    ref:'Manual de Licencia de Conducir de Florida — página aún no verificada',
+    passT:'¡Aprobó!', failT:'Todavía no', resT:'Ronda terminada',
+    resLine:(c,n)=>`${c} de ${n} correctas`,
+    passP:'Alcanzó la puntuación para aprobar. Siga practicando para no olvidar.',
+    failP:(p,n)=>`Para aprobar necesita ${p} de ${n}. Repase sus errores e inténtelo de nuevo.`,
+    resP:'Buen trabajo. Cada pregunta que responde hace más fácil la siguiente.',
+    home:'Volver al inicio', play:'Leer', stop:'Parar', again:'Otra vez', rate:{0.8:'Lento',1:'Normal',1.2:'Rápido'},
+    noTTS:'Este dispositivo no puede leer en voz alta. Igual puede leer las preguntas.',
+    foot:'PermitVoice es una aplicación independiente y no está afiliada ni respaldada por el Departamento de Seguridad Vial y Vehículos Motorizados de Florida ni por ninguna agencia estatal. Las preguntas son material de práctica original, no el examen oficial.',
+    cats:{signs:'Señales', signals:'Semáforos y marcas viales', 'right-of-way':'Derecho de paso', 'speed-lanes':'Velocidad, carriles y estacionamiento', licensing:'Licencia y la ley', 'safe-driving':'Manejo seguro'}
+  }
+};
+const STATES = {AL:'Alabama',AK:'Alaska',AZ:'Arizona',AR:'Arkansas',CA:'California',CO:'Colorado',CT:'Connecticut',DE:'Delaware',DC:'District of Columbia',FL:'Florida',GA:'Georgia',HI:'Hawaii',ID:'Idaho',IL:'Illinois',IN:'Indiana',IA:'Iowa',KS:'Kansas',KY:'Kentucky',LA:'Louisiana',ME:'Maine',MD:'Maryland',MA:'Massachusetts',MI:'Michigan',MN:'Minnesota',MS:'Mississippi',MO:'Missouri',MT:'Montana',NE:'Nebraska',NV:'Nevada',NH:'New Hampshire',NJ:'New Jersey',NM:'New Mexico',NY:'New York',NC:'North Carolina',ND:'North Dakota',OH:'Ohio',OK:'Oklahoma',OR:'Oregon',PA:'Pennsylvania',RI:'Rhode Island',SC:'South Carolina',SD:'South Dakota',TN:'Tennessee',TX:'Texas',UT:'Utah',VT:'Vermont',VA:'Virginia',WA:'Washington',WV:'West Virginia',WI:'Wisconsin',WY:'Wyoming'};
+/* Official knowledge test size and passing score, per active state. Florida: 50 questions, 40 to pass. */
+const EXAM = { FL:{ n:50, pass:40 } };
+const CAT_ORDER = ['signs','signals','right-of-way','speed-lanes','licensing','safe-driving'];
+
+/* ---------- Storage: every key starts with pv: and never throws ---------- */
+const store = {
+  get(k, d){ try{ const v = localStorage.getItem('pv:' + k); return v == null ? d : JSON.parse(v); }catch(e){ return d; } },
+  set(k, v){ try{ localStorage.setItem('pv:' + k, JSON.stringify(v)); }catch(e){} }
+};
+
+/* ---------- Bank ---------- */
+const BANK = (window.PV_BANK || []).filter(q => q.en && q.es && q.en.o.length === 4 && q.es.o.length === 4);
+const activeStates = new Set(BANK.filter(q => q.scope !== 'US').map(q => q.scope));
+function bankFor(state){ return BANK.filter(q => q.scope === 'US' || q.scope === state); }
+
+/* ---------- State ---------- */
+const S = {
+  lang: store.get('lang', (navigator.language || 'en').toLowerCase().startsWith('es') ? 'es' : 'en'),
+  state: store.get('state', 'FL'),
+  cat: '', screen: 'home', deck: [], qi: 0, correct: 0, hint: 0, answered: false,
+  exam: false, nationalOnly: false, rate: store.get('rate', 1), order: []
+};
+const t = k => T[S.lang][k];
+const el = id => document.getElementById(id);
+const screen = el('screen');
+function esc(s){ return String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function shuffle(a){ a = a.slice(); for(let i = a.length - 1; i > 0; i--){ const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+function mistakes(){ return store.get('mist:' + S.state, []); }
+function setMistakes(m){ store.set('mist:' + S.state, m); }
+function stateName(c){ return STATES[c] || c; }
+
+/* ---------- Sign drawings (original SVG, MUTCD shapes and colors) ---------- */
+function signSVG(sg){
+  if(!sg) return '';
+  const tx = esc(sg.text || '');
+  const words = (sg.text || '').split(' ');
+  const lines = (fill, y0, size) => words.length > 1 && (sg.text || '').length > 8
+    ? words.map((w, i) => `<text x="50" y="${y0 + i * size * 1.05 - (words.length - 1) * size * .5}" font-size="${size}" fill="${fill}" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700">${esc(w)}</text>`).join('')
+    : `<text x="50" y="${y0}" font-size="${size}" fill="${fill}" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700">${tx}</text>`;
+  const S2 = {
+    'stop': `<polygon points="30,4 70,4 96,30 96,70 70,96 30,96 4,70 4,30" fill="#C1272D" stroke="#fff" stroke-width="3"/><text x="50" y="60" font-size="26" fill="#fff" text-anchor="middle" font-family="Arial" font-weight="700">${tx || 'STOP'}</text>`,
+    'yield': `<polygon points="4,8 96,8 50,94" fill="#fff" stroke="#C1272D" stroke-width="12" stroke-linejoin="round"/><text x="50" y="40" font-size="13" fill="#C1272D" text-anchor="middle" font-family="Arial" font-weight="700">${tx || 'YIELD'}</text>`,
+    'school': `<polygon points="50,4 96,40 96,96 4,96 4,40" fill="#C6E636" stroke="#13202C" stroke-width="3"/>${lines('#13202C', 68, 13)}`,
+    'rr-advance': `<circle cx="50" cy="50" r="46" fill="#F7C600" stroke="#13202C" stroke-width="3"/><path d="M22 22 78 78 M78 22 22 78" stroke="#13202C" stroke-width="7"/><text x="22" y="56" font-size="16" font-family="Arial" font-weight="700" fill="#13202C">R</text><text x="70" y="56" font-size="16" font-family="Arial" font-weight="700" fill="#13202C">R</text>`,
+    'crossbuck': `<g transform="rotate(35 50 50)"><rect x="2" y="40" width="96" height="20" fill="#fff" stroke="#13202C" stroke-width="2"/></g><g transform="rotate(-35 50 50)"><rect x="2" y="40" width="96" height="20" fill="#fff" stroke="#13202C" stroke-width="2"/></g>`,
+    'diamond-yellow': `<polygon points="50,3 97,50 50,97 3,50" fill="#F7C600" stroke="#13202C" stroke-width="3"/>${lines('#13202C', 56, 12)}`,
+    'diamond-orange': `<polygon points="50,3 97,50 50,97 3,50" fill="#F28C28" stroke="#13202C" stroke-width="3"/>${lines('#13202C', 56, 12)}`,
+    'rect-white': `<rect x="14" y="4" width="72" height="92" rx="5" fill="#fff" stroke="#13202C" stroke-width="3"/>${lines('#13202C', 54, 13)}`,
+    'rect-green': `<rect x="4" y="18" width="92" height="64" rx="6" fill="#00704A" stroke="#fff" stroke-width="3"/>${lines('#fff', 55, 12)}`,
+    'rect-blue': `<rect x="4" y="18" width="92" height="64" rx="6" fill="#1F4E9C" stroke="#fff" stroke-width="3"/>${lines('#fff', 55, 12)}`,
+    'rect-brown': `<rect x="4" y="18" width="92" height="64" rx="6" fill="#6B4226" stroke="#fff" stroke-width="3"/>${lines('#fff', 55, 12)}`,
+    'do-not-enter': `<rect x="2" y="2" width="96" height="96" fill="#fff"/><circle cx="50" cy="50" r="44" fill="#C1272D"/><rect x="18" y="43" width="64" height="14" fill="#fff"/>`,
+    'wrong-way': `<rect x="4" y="22" width="92" height="56" fill="#C1272D" stroke="#fff" stroke-width="3"/>${lines('#fff', 55, 14)}`,
+    'no-passing': `<polygon points="4,18 96,50 4,82" fill="#F7C600" stroke="#13202C" stroke-width="3"/><text x="34" y="46" font-size="11" font-family="Arial" font-weight="700" fill="#13202C" text-anchor="middle">NO</text><text x="34" y="60" font-size="11" font-family="Arial" font-weight="700" fill="#13202C" text-anchor="middle">PASSING</text>`,
+    'interstate': `<path d="M10 22 Q50 8 90 22 Q92 70 50 96 Q8 70 10 22Z" fill="#1F4E9C" stroke="#fff" stroke-width="3"/><path d="M10 22 Q50 8 90 22 L90 34 L10 34Z" fill="#C1272D"/><text x="50" y="72" font-size="26" fill="#fff" text-anchor="middle" font-family="Arial" font-weight="700">${tx}</text>`
+  };
+  const body = S2[sg.shape];
+  return body ? `<svg viewBox="0 0 100 100" role="img" aria-label="${esc(sg.text || sg.shape)}">${body}</svg>` : '';
+}
+
+/* ---------- Speech: device voice, matched to the chosen language ---------- */
+const SPEECH = { ok: 'speechSynthesis' in window, voices: [], playing: false };
+function loadVoices(){ if(SPEECH.ok) SPEECH.voices = speechSynthesis.getVoices(); }
+if(SPEECH.ok){ loadVoices(); speechSynthesis.onvoiceschanged = loadVoices; }
+function voiceFor(lang){
+  const want = lang === 'es' ? ['es-US','es-MX','es-'] : ['en-US','en-'];
+  for(const w of want){ const v = SPEECH.voices.find(v => v.lang.replace('_','-').startsWith(w)); if(v) return v; }
+  return null;
+}
+function stopSpeech(){ if(SPEECH.ok) speechSynthesis.cancel(); SPEECH.playing = false; syncPlay(); }
+function speak(parts){
+  if(!SPEECH.ok) return;
+  speechSynthesis.cancel();
+  const v = voiceFor(S.lang);
+  const list = parts.filter(Boolean);
+  SPEECH.playing = true; syncPlay();
+  list.forEach((p, i) => {
+    const u = new SpeechSynthesisUtterance(p);
+    u.lang = S.lang === 'es' ? 'es-US' : 'en-US';
+    if(v) u.voice = v;
+    u.rate = S.rate;
+    if(i === list.length - 1){ u.onend = u.onerror = () => { SPEECH.playing = false; syncPlay(); }; }
+    speechSynthesis.speak(u);
+  });
+}
+function currentSpeech(){
+  if(S.screen !== 'quiz') return [];
+  const d = cur().d, o = curOpts();
+  return [d.q].concat(o.map((x, i) => `${i + 1}. ${x.text}`));
+}
+function syncPlay(){
+  el('btnPlay').textContent = SPEECH.playing ? t('stop') : t('play');
+  el('btnPlay').classList.toggle('playing', SPEECH.playing);
+}
+
+/* ---------- Location: suggestion only, decided on the device ---------- */
+function inRing(x, y, r){
+  let inside = false;
+  for(let i = 0, j = r.length - 2; i < r.length; j = i, i += 2){
+    const xi = r[i], yi = r[i + 1], xj = r[j], yj = r[j + 1];
+    if(((yi > y) !== (yj > y)) && (x < (xj - xi) * (y - yi) / (yj - yi) + xi)) inside = !inside;
+  }
+  return inside;
+}
+function stateAt(lon, lat){
+  const shapes = window.PV_STATE_SHAPES || {};
+  for(const code of Object.keys(shapes)) if(shapes[code].some(r => inRing(lon, lat, r))) return code;
+  return null;
+}
+function findMyState(){
+  const note = el('geoNote');
+  if(!('geolocation' in navigator)){ note.textContent = t('geoFail'); return; }
+  note.textContent = t('finding');
+  navigator.geolocation.getCurrentPosition(pos => {
+    /* Only the state code is kept. The coordinates are not stored or sent anywhere. */
+    const code = stateAt(pos.coords.longitude, pos.coords.latitude);
+    note.textContent = '';
+    if(!code){ note.textContent = t('geoOut'); return; }
+    el('geoText').textContent = t('geoAsk')(stateName(code));
+    el('geoYes').textContent = t('yes'); el('geoNo').textContent = t('no');
+    el('geoYes').onclick = () => { el('geoDlg').close(); setState(code); };
+    el('geoNo').onclick = () => el('geoDlg').close();
+    el('geoDlg').showModal();
+  }, () => { note.textContent = t('geoFail'); }, { timeout: 10000, maximumAge: 600000 });
+}
+function setState(code){ S.state = code; S.cat = ''; store.set('state', code); render(); }
+function setLang(l){ S.lang = l; store.set('lang', l); stopSpeech(); render(); }
+
+/* ---------- Navigation ---------- */
+function go(name){ stopSpeech(); S.screen = name; render(); window.scrollTo(0, 0); }
+function render(){
+  document.documentElement.lang = S.lang;
+  el('brandsub').textContent = t('sub');
+  el('foot').textContent = t('foot');
+  el('btnBack').hidden = S.screen === 'home';
+  el('btnBack').setAttribute('aria-label', t('home'));
+  el('actions').hidden = S.screen !== 'quiz';
+  el('btnAgain').textContent = t('again');
+  el('btnRate').textContent = t('rate')[S.rate];
+  syncPlay();
+  if(S.screen === 'quiz') renderQuiz();
+  else if(S.screen === 'result') renderResult();
+  else renderHome();
+}
+
+function renderHome(){
+  el('pill').textContent = '';
+  const active = activeStates.has(S.state);
+  const opts = Object.keys(STATES).map(c =>
+    `<option value="${c}"${c === S.state ? ' selected' : ''}>${esc(STATES[c])}${activeStates.has(c) ? '' : ' — ' + t('soon')}</option>`).join('');
+  let body = '';
+  if(active){
+    const bank = bankFor(S.state);
+    const counts = {}; bank.forEach(q => counts[q.cat] = (counts[q.cat] || 0) + 1);
+    const cats = CAT_ORDER.filter(c => counts[c]);
+    const chip = (v, label, n) => `<button class="chip" type="button" data-cat="${v}" aria-pressed="${S.cat === v}">${esc(label)} <span class="chipn">${n}</span></button>`;
+    const ex = examSize();
+    const prog = store.get('seen:' + S.state, []).length;
+    body = `
+      <div class="hero"><h2>${esc(t('heroT')(stateName(S.state)))}</h2><p>${esc(t('heroP'))}</p></div>
+      ${SPEECH.ok ? '' : `<div class="notice">${esc(t('noTTS'))}</div>`}
+      <p class="grouptitle">${esc(t('topic'))}</p>
+      <div class="chips">${chip('', t('all'), bank.length)}${cats.map(c => chip(c, t('cats')[c], counts[c])).join('')}</div>
+      <button class="bigbtn" type="button" id="btnStart">${esc(prog ? t('cont') : t('start'))}</button>
+      <button class="bigbtn ghost" type="button" id="btnExam">${esc(t('exam')(ex.n))}</button>
+      ${mistakes().length ? `<button class="bigbtn ghost" type="button" id="btnMist">${esc(t('mist')(mistakes().length))}</button>` : ''}`;
+  } else {
+    body = `
+      <div class="notice"><b>${esc(t('soonT')(stateName(S.state)))}</b><br>${esc(t('soonP'))}</div>
+      <button class="bigbtn" type="button" id="btnNational">${esc(t('natBtn'))}</button>`;
+  }
+  screen.innerHTML = `
+    <div class="setup">
+      <div><label for="selState">${esc(t('state'))}</label><select id="selState">${opts}</select></div>
+      <div><button class="linkbtn" type="button" id="btnGeo">${esc(t('findMe'))}</button> <span id="geoNote" role="status" aria-live="polite"></span></div>
+      <div><span id="langLbl" class="grouptitle" style="display:block;margin:0 0 4px">${esc(t('lang'))}</span>
+        <div class="langs" role="group" aria-labelledby="langLbl">
+          <button class="chip" type="button" data-lang="en" lang="en" aria-pressed="${S.lang === 'en'}">English</button>
+          <button class="chip" type="button" data-lang="es" lang="es" aria-pressed="${S.lang === 'es'}">Español</button>
+        </div></div>
+    </div>${body}`;
+  el('selState').onchange = e => setState(e.target.value);
+  el('btnGeo').onclick = findMyState;
+  screen.querySelectorAll('[data-lang]').forEach(b => b.onclick = () => setLang(b.dataset.lang));
+  screen.querySelectorAll('[data-cat]').forEach(b => b.onclick = () => { S.cat = b.dataset.cat; render(); });
+  if(el('btnStart')) el('btnStart').onclick = () => startDeck(practiceDeck(), false);
+  if(el('btnExam')) el('btnExam').onclick = () => startDeck(examDeck(), true);
+  if(el('btnMist')) el('btnMist').onclick = () => { const ids = new Set(mistakes()); startDeck(shuffle(bankFor(S.state).filter(q => ids.has(q.id))), false); };
+  if(el('btnNational')) el('btnNational').onclick = () => startDeck(shuffle(BANK.filter(q => q.scope === 'US')), false, true);
+}
+
+function examSize(){
+  const all = bankFor(S.state).length, rule = EXAM[S.state] || { n: 50, pass: 40 };
+  const n = Math.min(rule.n, all);
+  return { n, pass: n === rule.n ? rule.pass : Math.ceil(n * rule.pass / rule.n) };
+}
+/* Questions not yet answered correctly come first, so "continue" moves forward. Shuffled every session. */
+function practiceDeck(){
+  const seen = new Set(store.get('seen:' + S.state, []));
+  const pool = bankFor(S.state).filter(q => !S.cat || q.cat === S.cat);
+  const fresh = shuffle(pool.filter(q => !seen.has(q.id))), old = shuffle(pool.filter(q => seen.has(q.id)));
+  return fresh.concat(old).slice(0, 20);
+}
+function examDeck(){ return shuffle(bankFor(S.state)).slice(0, examSize().n); }
+function startDeck(deck, exam, national){
+  if(!deck.length) return;
+  S.deck = deck; S.qi = 0; S.correct = 0; S.exam = exam; S.nationalOnly = !!national;
+  go('quiz');
+}
+
+/* ---------- Quiz ---------- */
+function cur(){ const q = S.deck[S.qi]; return { q, d: q[S.lang] }; }
+/* Options are shuffled once per question view; the correct one is tracked by its original index. */
+function curOpts(){
+  const { q, d } = cur();
+  if(!S.order.length || S.orderFor !== q.id){ S.order = shuffle([0,1,2,3]); S.orderFor = q.id; }
+  return S.order.map(i => ({ text: d.o[i], right: i === q.c }));
+}
+function renderQuiz(){
+  S.hint = 0; S.answered = false;
+  const { q, d } = cur(), o = curOpts();
+  el('pill').textContent = `${t('question')} ${S.qi + 1} ${t('of')} ${S.deck.length}`;
+  const pct = Math.round(S.qi / S.deck.length * 100);
+  screen.innerHTML = `
+    ${q.sign ? `<div class="stage">${signSVG(q.sign)}</div>` : ''}
+    <div class="road" role="progressbar" aria-label="${esc(t('question'))}" aria-valuemin="0" aria-valuemax="100" aria-valuenow="${pct}"><div class="road-fill" style="width:${pct}%"></div></div>
+    <h2 class="qtitle" tabindex="-1" id="qtitle">${esc(d.q)}</h2>
+    <div id="hints" aria-live="polite"></div>
+    ${o.map((x, i) => `<button class="opt" type="button" data-i="${i}"><b class="optnum" aria-hidden="true">${i + 1}</b><span>${esc(x.text)}</span></button>`).join('')}
+    ${S.exam ? '' : `<button class="hintbtn" id="btnHint" type="button">${esc(t('hint'))}</button><button class="hintbtn" id="btnSkip" type="button">${esc(t('skip'))}</button>`}
+    <div id="after"></div>`;
+  screen.querySelectorAll('.opt').forEach(b => b.onclick = () => answer(+b.dataset.i));
+  if(el('btnHint')) el('btnHint').onclick = () => showHint(S.hint + 1, true);
+  if(el('btnSkip')) el('btnSkip').onclick = nextQ;
+  el('qtitle').focus();
+}
+function showHint(level, say){
+  const d = cur().d;
+  S.hint = Math.min(2, Math.max(S.hint, level));
+  el('hints').innerHTML =
+    (S.hint >= 1 ? `<div class="hintbox"><b>${esc(t('hint1T'))}</b>${esc(d.h1)}</div>` : '') +
+    (S.hint >= 2 ? `<div class="hintbox"><b>${esc(t('hint2T'))}</b>${esc(d.h2)}</div>` : '');
+  const hb = el('btnHint'); if(hb){ hb.textContent = t('hint2'); hb.disabled = S.hint >= 2; }
+  if(say) speak([S.hint >= 2 ? d.h2 : d.h1]);
+}
+function refLine(q){ return q.ref ? `<p class="ref">${esc(t('ref'))}</p>` : ''; }
+function nextButton(){
+  const last = S.qi === S.deck.length - 1;
+  return `<button class="bigbtn" id="btnNext" type="button">${esc(last ? t('seeRes') : t('next'))}</button>`;
+}
+function nextQ(){ if(S.qi >= S.deck.length - 1){ go('result'); return; } S.qi++; stopSpeech(); render(); window.scrollTo(0, 0); }
+function answer(i){
+  const { q, d } = cur(), o = curOpts(), btns = [...screen.querySelectorAll('.opt')];
+  stopSpeech();
+  const rightAt = o.findIndex(x => x.right);
+  if(o[i].right){
+    btns.forEach(b => b.disabled = true); btns[i].classList.add('right');
+    if(!S.answered) S.correct++;
+    S.answered = true;
+    const seen = new Set(store.get('seen:' + S.state, [])); seen.add(q.id); store.set('seen:' + S.state, [...seen]);
+    if(el('btnSkip')) el('btnSkip').remove(); if(el('btnHint')) el('btnHint').disabled = true;
+    el('after').innerHTML = `<div class="praise" role="status">${esc(d.p)}</div>${refLine(q)}${nextButton()}`;
+    el('btnNext').onclick = nextQ; el('btnNext').focus();
+    speak([d.p]);
+    return;
+  }
+  if(!S.nationalOnly){ const m = new Set(mistakes()); m.add(q.id); setMistakes([...m]); }
+  if(S.exam){
+    btns.forEach(b => b.disabled = true); btns[i].classList.add('almost'); btns[rightAt].classList.add('right');
+    S.answered = true;
+    el('after').innerHTML = `<div class="feedback" role="status">${esc(t('correctIs')(rightAt + 1))} ${esc(d.h2)}</div>${refLine(q)}${nextButton()}`;
+    el('btnNext').onclick = nextQ; el('btnNext').focus();
+    speak([t('correctIs')(rightAt + 1), o[rightAt].text, d.h2]);
+    return;
+  }
+  /* Practice: not a "mistake". The option is set aside and a hint appears. */
+  S.answered = true;
+  btns[i].classList.add('almost'); btns[i].disabled = true;
+  btns[i].insertAdjacentHTML('beforeend', `<span class="tag">${esc(t('almost'))}</span>`);
+  const lvl = Math.min(S.hint + 1, 2);
+  showHint(lvl, false);
+  speak([t('almostSay'), lvl >= 2 ? d.h2 : d.h1]);
+}
+
+/* ---------- Result ---------- */
+function renderResult(){
+  el('pill').textContent = '';
+  const n = S.deck.length, ex = examSize();
+  /* A question answered right after a hint still counts in practice, but the exam has one try. */
+  const passed = S.exam && S.correct >= ex.pass;
+  screen.innerHTML = `
+    <h2>${esc(S.exam ? (passed ? t('passT') : t('failT')) : t('resT'))}</h2>
+    <p class="result">${esc(t('resLine')(S.correct, n))}</p>
+    <p>${esc(S.exam ? (passed ? t('passP') : t('failP')(ex.pass, n)) : t('resP'))}</p>
+    <button class="bigbtn" type="button" id="btnHome">${esc(t('home'))}</button>`;
+  el('btnHome').onclick = () => go('home');
+  el('btnHome').focus();
+}
+
+/* ---------- Bottom bar ---------- */
+el('btnBack').onclick = () => go('home');
+el('btnPlay').onclick = () => { if(SPEECH.playing) stopSpeech(); else speak(currentSpeech()); };
+el('btnAgain').onclick = () => speak(currentSpeech());
+el('btnRate').onclick = () => { const r = [0.8, 1, 1.2]; S.rate = r[(r.indexOf(S.rate) + 1) % r.length]; store.set('rate', S.rate); render(); };
+
+if('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(() => {});
+render();
+})();
+</script>
+</body>
+</html>

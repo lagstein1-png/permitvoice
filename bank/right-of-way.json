@@ -1,0 +1,1259 @@
+[
+  {
+    "id": "right-of-way-001",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, at a four-way stop, which car goes first?",
+      "o": [
+        "The car that came to a full stop first",
+        "The largest vehicle at the stop",
+        "The car on the far left",
+        "The car that is going straight"
+      ],
+      "h1": "Think about the order in which the cars arrived.",
+      "h2": "At a four-way stop, the driver who stopped first goes first, and the others follow in the order they arrived.",
+      "p": "Right. At a four-way stop, the first car to stop goes first."
+    },
+    "es": {
+      "q": "En Florida, en un pare de cuatro vías, ¿qué carro sigue primero?",
+      "o": [
+        "El carro que hizo el alto total primero",
+        "El vehículo más grande en el pare",
+        "El carro que está más a la izquierda",
+        "El carro que va derecho"
+      ],
+      "h1": "Piense en el orden en que llegaron los carros.",
+      "h2": "En un pare de cuatro vías, el conductor que paró primero sigue primero, y los demás siguen en el orden en que llegaron.",
+      "p": "Correcto. En un pare de cuatro vías, el primer carro en parar sigue primero."
+    }
+  },
+  {
+    "id": "right-of-way-002",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, two cars stop at a four-way stop at the same time. Who goes first?",
+      "o": [
+        "The driver who honks first",
+        "The driver on the left",
+        "The driver on the right",
+        "The driver who is in a hurry"
+      ],
+      "h1": "Look at where the other car is, to your left or to your right.",
+      "h2": "When two cars stop at the same time, the driver on the left lets the driver on the right go first.",
+      "p": "Right. When you arrive together, the car on the right goes first."
+    },
+    "es": {
+      "q": "En Florida, dos carros paran al mismo tiempo en un pare de cuatro vías. ¿Quién sigue primero?",
+      "o": [
+        "El conductor que toca la bocina primero",
+        "El conductor de la izquierda",
+        "El conductor de la derecha",
+        "El conductor que tiene prisa"
+      ],
+      "h1": "Fíjese dónde está el otro carro, a su izquierda o a su derecha.",
+      "h2": "Cuando dos carros paran al mismo tiempo, el conductor de la izquierda deja pasar primero al conductor de la derecha.",
+      "p": "Correcto. Si llegan juntos, sigue primero el carro de la derecha."
+    }
+  },
+  {
+    "id": "right-of-way-003",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, you reach an intersection with no signs or lights. A car is already crossing it. What do you do?",
+      "o": [
+        "Go first, because you are on the wider road",
+        "Let the car that is already in the intersection go first",
+        "Honk and go at the same time",
+        "Speed up to cross before it"
+      ],
+      "h1": "Think about who is already using the space.",
+      "h2": "At an intersection with no signs or lights, you must yield to a vehicle that is already in the intersection.",
+      "p": "Right. Yield to the car that is already in the intersection."
+    },
+    "es": {
+      "q": "En Florida, usted llega a una intersección sin señales ni semáforos. Un carro ya la está cruzando. ¿Qué hace?",
+      "o": [
+        "Sigue primero, porque usted va por la calle más ancha",
+        "Deja pasar primero al carro que ya está en la intersección",
+        "Toca la bocina y sigue al mismo tiempo",
+        "Acelera para cruzar antes que él"
+      ],
+      "h1": "Piense en quién ya está usando ese espacio.",
+      "h2": "En una intersección sin señales ni semáforos, usted debe ceder el paso al vehículo que ya está dentro de la intersección.",
+      "p": "Correcto. Ceda el paso al carro que ya está en la intersección."
+    }
+  },
+  {
+    "id": "right-of-way-004",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, you and another car reach an intersection with no signs at the same time. The other car is on your right. Who goes first?",
+      "o": [
+        "You go first, because you are on the left",
+        "The faster car goes first",
+        "Both cars go at the same time",
+        "The car on your right goes first"
+      ],
+      "h1": "The rule is the same as when two cars stop together at a stop sign.",
+      "h2": "When two cars reach an open intersection at the same time, the driver on the left yields, so the car on your right goes first.",
+      "p": "Right. At the same time, the car on the right goes first."
+    },
+    "es": {
+      "q": "En Florida, usted y otro carro llegan al mismo tiempo a una intersección sin señales. El otro carro está a su derecha. ¿Quién sigue primero?",
+      "o": [
+        "Usted sigue primero, porque está a la izquierda",
+        "Sigue primero el carro más rápido",
+        "Los dos carros siguen al mismo tiempo",
+        "Sigue primero el carro que está a su derecha"
+      ],
+      "h1": "La regla es igual que cuando dos carros paran juntos en un pare.",
+      "h2": "Cuando dos carros llegan al mismo tiempo a una intersección sin control, cede el paso el conductor de la izquierda, así que sigue primero el carro de su derecha.",
+      "p": "Correcto. Si llegan juntos, sigue primero el carro de la derecha."
+    }
+  },
+  {
+    "id": "right-of-way-005",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "medium",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, you are on a road that ends at a T-intersection. Who has the right of way?",
+      "o": [
+        "Traffic on the road that goes straight through",
+        "You, because you are turning",
+        "The car that honks first",
+        "Whoever is driving the larger vehicle"
+      ],
+      "h1": "Your road ends. The other road keeps going.",
+      "h2": "At a T-intersection, the road that ends must yield, so traffic on the through road has the right of way.",
+      "p": "Right. At a T-intersection, the through road goes first."
+    },
+    "es": {
+      "q": "En Florida, usted va por una calle que termina en una intersección en T. ¿Quién tiene el derecho de paso?",
+      "o": [
+        "El tráfico de la calle que sigue derecho",
+        "Usted, porque va a doblar",
+        "El carro que toca la bocina primero",
+        "El que maneja el vehículo más grande"
+      ],
+      "h1": "Su calle termina. La otra calle sigue.",
+      "h2": "En una intersección en T, la calle que termina debe ceder el paso, así que el tráfico de la calle que sigue tiene el derecho de paso.",
+      "p": "Correcto. En una intersección en T, pasa primero la calle que sigue."
+    }
+  },
+  {
+    "id": "right-of-way-006",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, you want to turn left at a green light. A car is coming toward you. What do you do?",
+      "o": [
+        "Turn quickly before it gets close",
+        "Turn, because a green light gives you the right of way",
+        "Wait and let the oncoming car pass first",
+        "Flash your lights and turn"
+      ],
+      "h1": "A green light lets you go, but it does not clear the road in front of you.",
+      "h2": "When you turn left, you must yield to oncoming traffic, so you wait until the car passes and the way is clear.",
+      "p": "Right. When turning left, let oncoming traffic go first."
+    },
+    "es": {
+      "q": "En Florida, usted quiere doblar a la izquierda con luz verde. Viene un carro de frente. ¿Qué hace?",
+      "o": [
+        "Dobla rápido antes de que se acerque",
+        "Dobla, porque la luz verde le da el derecho de paso",
+        "Espera y deja pasar primero al carro que viene de frente",
+        "Hace cambio de luces y dobla"
+      ],
+      "h1": "La luz verde le permite seguir, pero no despeja la calle delante de usted.",
+      "h2": "Cuando usted dobla a la izquierda, debe ceder el paso al tráfico que viene de frente, así que espera hasta que el carro pase y el camino esté libre.",
+      "p": "Correcto. Al doblar a la izquierda, deje pasar primero al tráfico de frente."
+    }
+  },
+  {
+    "id": "right-of-way-007",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, you are pulling out of a driveway onto a street. Who must you yield to?",
+      "o": [
+        "Only to large trucks",
+        "No one, if you use your signal",
+        "Only to cars on your left",
+        "All cars on the street and all people walking"
+      ],
+      "h1": "You are joining a road that others are already using.",
+      "h2": "When you enter a street from a driveway or alley, you must yield to every vehicle on the street and to every pedestrian.",
+      "p": "Right. Coming out of a driveway, yield to cars and people walking."
+    },
+    "es": {
+      "q": "En Florida, usted sale de una entrada de casa hacia la calle. ¿A quién debe ceder el paso?",
+      "o": [
+        "Solo a los camiones grandes",
+        "A nadie, si usa la direccional",
+        "Solo a los carros de su izquierda",
+        "A todos los carros de la calle y a todas las personas que caminan"
+      ],
+      "h1": "Usted entra a una calle que otros ya están usando.",
+      "h2": "Cuando usted entra a una calle desde una entrada de casa o un callejón, debe ceder el paso a todos los vehículos de la calle y a todos los peatones.",
+      "p": "Correcto. Al salir de una entrada de casa, ceda el paso a carros y peatones."
+    }
+  },
+  {
+    "id": "right-of-way-008",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, you drive out of an alley. There is a sidewalk before the street. Where must you stop?",
+      "o": [
+        "Before you cross the sidewalk",
+        "In the middle of the sidewalk",
+        "At the edge of the street, past the sidewalk",
+        "You do not need to stop"
+      ],
+      "h1": "Think about people who may be walking on the sidewalk.",
+      "h2": "When you come out of an alley or driveway, you must stop before the sidewalk, so you do not hit someone walking there.",
+      "p": "Right. Stop before the sidewalk when you leave an alley or driveway."
+    },
+    "es": {
+      "q": "En Florida, usted sale de un callejón. Hay una acera antes de la calle. ¿Dónde debe parar?",
+      "o": [
+        "Antes de cruzar la acera",
+        "En medio de la acera",
+        "En el borde de la calle, después de la acera",
+        "No necesita parar"
+      ],
+      "h1": "Piense en las personas que pueden ir caminando por la acera.",
+      "h2": "Cuando usted sale de un callejón o de una entrada de casa, debe parar antes de la acera, para no golpear a alguien que camina por ahí.",
+      "p": "Correcto. Pare antes de la acera al salir de un callejón o entrada."
+    }
+  },
+  {
+    "id": "right-of-way-009",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, a person is crossing at a corner with no painted crosswalk lines. Must you yield?",
+      "o": [
+        "No, only painted crosswalks count",
+        "Yes, the corner of an intersection is a crosswalk even without lines",
+        "Only if the person is a child",
+        "Only if a police officer is there"
+      ],
+      "h1": "A crosswalk does not always have paint.",
+      "h2": "Every corner of an intersection has a crosswalk even when no lines are painted, so you must yield to the person crossing.",
+      "p": "Right. Yield to people crossing at a corner, with or without lines."
+    },
+    "es": {
+      "q": "En Florida, una persona cruza en una esquina sin líneas pintadas de cruce peatonal. ¿Debe usted ceder el paso?",
+      "o": [
+        "No, solo cuentan los cruces pintados",
+        "Sí, la esquina de una intersección es un cruce peatonal aunque no tenga líneas",
+        "Solo si la persona es un niño",
+        "Solo si hay un policía"
+      ],
+      "h1": "Un cruce peatonal no siempre tiene pintura.",
+      "h2": "Cada esquina de una intersección tiene un cruce peatonal aunque no tenga líneas pintadas, así que usted debe ceder el paso a la persona que cruza.",
+      "p": "Correcto. Ceda el paso a quien cruza en la esquina, con o sin líneas."
+    }
+  },
+  {
+    "id": "right-of-way-010",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, you turn right on a green light. People are crossing the street you are turning into. What do you do?",
+      "o": [
+        "Drive slowly between them",
+        "Honk so they move faster",
+        "Stop and let them finish crossing",
+        "Turn, because your light is green"
+      ],
+      "h1": "Your path crosses their path.",
+      "h2": "When you turn, you must yield to people walking in the crosswalk, so you stop and wait until they are out of your way.",
+      "p": "Right. When you turn, let people in the crosswalk cross first."
+    },
+    "es": {
+      "q": "En Florida, usted dobla a la derecha con luz verde. Hay personas cruzando la calle a la que usted va a entrar. ¿Qué hace?",
+      "o": [
+        "Pasa despacio entre ellas",
+        "Toca la bocina para que caminen más rápido",
+        "Para y las deja terminar de cruzar",
+        "Dobla, porque su luz está en verde"
+      ],
+      "h1": "Su camino se cruza con el camino de ellas.",
+      "h2": "Cuando usted dobla, debe ceder el paso a las personas que caminan en el cruce peatonal, así que para y espera hasta que salgan de su camino.",
+      "p": "Correcto. Al doblar, deje cruzar primero a las personas en el cruce peatonal."
+    }
+  },
+  {
+    "id": "right-of-way-011",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, a person with a white cane or a guide dog is crossing the street. What must you do?",
+      "o": [
+        "Honk to let the person know you are there",
+        "Drive around the person carefully",
+        "Go if your light is green",
+        "Stop and let the person cross"
+      ],
+      "h1": "A white cane or guide dog tells you the person may not be able to see you.",
+      "h2": "A person who is blind and uses a white cane or a guide dog always has the right of way, so you must stop and let them cross.",
+      "p": "Right. Always stop for a person with a white cane or guide dog."
+    },
+    "es": {
+      "q": "En Florida, una persona con bastón blanco o con perro guía está cruzando la calle. ¿Qué debe hacer usted?",
+      "o": [
+        "Tocar la bocina para avisar que usted está ahí",
+        "Pasar alrededor de la persona con cuidado",
+        "Seguir si su luz está en verde",
+        "Parar y dejar que la persona cruce"
+      ],
+      "h1": "Un bastón blanco o un perro guía le indican que la persona tal vez no puede verlo.",
+      "h2": "Una persona ciega que usa bastón blanco o perro guía siempre tiene el derecho de paso, así que usted debe parar y dejarla cruzar.",
+      "p": "Correcto. Siempre pare por una persona con bastón blanco o perro guía."
+    }
+  },
+  {
+    "id": "right-of-way-012",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, you are about to enter a roundabout. Who has the right of way?",
+      "o": [
+        "Traffic already moving inside the roundabout",
+        "You, because you are entering",
+        "The car on your right that is also entering",
+        "The driver who honks first"
+      ],
+      "h1": "Think about who is already driving in the circle.",
+      "h2": "When you enter a roundabout, you must yield to traffic that is already in the circle, then enter when there is a safe gap.",
+      "p": "Right. Yield to cars already in the roundabout."
+    },
+    "es": {
+      "q": "En Florida, usted va a entrar a una rotonda. ¿Quién tiene el derecho de paso?",
+      "o": [
+        "El tráfico que ya va dentro de la rotonda",
+        "Usted, porque está entrando",
+        "El carro de su derecha que también está entrando",
+        "El conductor que toca la bocina primero"
+      ],
+      "h1": "Piense en quién ya va manejando dentro del círculo.",
+      "h2": "Cuando usted entra a una rotonda, debe ceder el paso al tráfico que ya está en el círculo, y luego entrar cuando haya un espacio seguro.",
+      "p": "Correcto. Ceda el paso a los carros que ya están en la rotonda."
+    }
+  },
+  {
+    "id": "right-of-way-013",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Which way do cars travel in a roundabout in the United States?",
+      "o": [
+        "Clockwise, to the left",
+        "Counterclockwise, to the right",
+        "Either way the driver picks",
+        "Straight across the middle"
+      ],
+      "h1": "In the United States, you drive on the right side of the road.",
+      "h2": "In a roundabout in the United States, you enter to the right and travel counterclockwise around the center.",
+      "p": "Right. In a roundabout, go to the right, counterclockwise."
+    },
+    "es": {
+      "q": "¿Hacia qué lado van los carros en una rotonda en los Estados Unidos?",
+      "o": [
+        "En el sentido del reloj, hacia la izquierda",
+        "En contra del reloj, hacia la derecha",
+        "Hacia el lado que el conductor escoja",
+        "Derecho por el centro"
+      ],
+      "h1": "En los Estados Unidos se maneja por el lado derecho de la calle.",
+      "h2": "En una rotonda en los Estados Unidos, usted entra hacia la derecha y da la vuelta en contra del sentido del reloj alrededor del centro.",
+      "p": "Correcto. En una rotonda, vaya hacia la derecha, en contra del reloj."
+    }
+  },
+  {
+    "id": "right-of-way-014",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, an ambulance with a siren and flashing lights is coming behind you. What do you do?",
+      "o": [
+        "Speed up to stay ahead of it",
+        "Stop right where you are, in your lane",
+        "Pull to the right edge of the road and stop",
+        "Move to the left lane and keep driving"
+      ],
+      "h1": "The ambulance needs a clear path. Think about which side you move to.",
+      "h2": "When an emergency vehicle comes with a siren and flashing lights, you pull to the right edge of the road and stop until it passes.",
+      "p": "Right. Pull to the right and stop for emergency vehicles."
+    },
+    "es": {
+      "q": "En Florida, una ambulancia con sirena y luces intermitentes viene detrás de usted. ¿Qué hace?",
+      "o": [
+        "Acelera para mantenerse delante",
+        "Para donde está, en su carril",
+        "Se orilla al lado derecho de la calle y para",
+        "Se pasa al carril izquierdo y sigue manejando"
+      ],
+      "h1": "La ambulancia necesita el camino libre. Piense hacia qué lado se mueve usted.",
+      "h2": "Cuando viene un vehículo de emergencia con sirena y luces intermitentes, usted se orilla al lado derecho de la calle y para hasta que pase.",
+      "p": "Correcto. Oríllese a la derecha y pare para los vehículos de emergencia."
+    }
+  },
+  {
+    "id": "right-of-way-015",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "medium",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, you are in the middle of an intersection when you hear a fire truck siren behind you. What do you do?",
+      "o": [
+        "Drive through the intersection, then pull to the right and stop",
+        "Stop in the middle of the intersection",
+        "Back up out of the intersection",
+        "Turn left right away"
+      ],
+      "h1": "Stopping inside the intersection can block the fire truck.",
+      "h2": "If you are already in an intersection, you should keep going through it and then pull to the right and stop, so you do not block the emergency vehicle.",
+      "p": "Right. Clear the intersection first, then pull right and stop."
+    },
+    "es": {
+      "q": "En Florida, usted está en medio de una intersección cuando oye la sirena de un camión de bomberos detrás. ¿Qué hace?",
+      "o": [
+        "Cruza la intersección y luego se orilla a la derecha y para",
+        "Para en medio de la intersección",
+        "Da reversa para salir de la intersección",
+        "Dobla a la izquierda de inmediato"
+      ],
+      "h1": "Parar dentro de la intersección puede bloquear al camión de bomberos.",
+      "h2": "Si usted ya está en una intersección, debe seguir hasta cruzarla y luego orillarse a la derecha y parar, para no bloquear al vehículo de emergencia.",
+      "p": "Correcto. Primero salga de la intersección, luego oríllese a la derecha y pare."
+    }
+  },
+  {
+    "id": "right-of-way-016",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, a funeral procession is passing through an intersection. What should you do?",
+      "o": [
+        "Drive between the cars when there is a gap",
+        "Join the end of the line",
+        "Honk so they move faster",
+        "Yield and wait until the whole procession passes"
+      ],
+      "h1": "The cars in the procession are traveling together as one group.",
+      "h2": "You must yield to a funeral procession and must not cut through it or join it, so you wait until all of it has passed.",
+      "p": "Right. Yield to a funeral procession and let it pass."
+    },
+    "es": {
+      "q": "En Florida, un cortejo fúnebre está pasando por una intersección. ¿Qué debe hacer?",
+      "o": [
+        "Pasar entre los carros cuando haya un espacio",
+        "Unirse al final de la fila",
+        "Tocar la bocina para que avancen más rápido",
+        "Ceder el paso y esperar hasta que pase todo el cortejo"
+      ],
+      "h1": "Los carros del cortejo viajan juntos como un solo grupo.",
+      "h2": "Usted debe ceder el paso a un cortejo fúnebre y no debe cruzarlo ni unirse a él, así que espera hasta que pase completo.",
+      "p": "Correcto. Ceda el paso al cortejo fúnebre y déjelo pasar."
+    }
+  },
+  {
+    "id": "right-of-way-017",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, a police car is stopped on the shoulder with its lights flashing. You are on a road with two lanes going your way. What must you do?",
+      "o": [
+        "Keep your speed and stay in your lane",
+        "Move out of the lane closest to the police car if it is safe",
+        "Stop next to the police car",
+        "Honk as you pass"
+      ],
+      "h1": "Florida's Move Over law asks you to give stopped workers more space.",
+      "h2": "Under Florida's Move Over law, you must leave the lane closest to the stopped emergency vehicle when it is safe to change lanes.",
+      "p": "Right. Move over a lane for a stopped emergency vehicle."
+    },
+    "es": {
+      "q": "En Florida, una patrulla de policía está parada en el acotamiento con las luces intermitentes. Usted va por una calle con dos carriles en su dirección. ¿Qué debe hacer?",
+      "o": [
+        "Mantener su velocidad y seguir en su carril",
+        "Salir del carril más cercano a la patrulla si es seguro",
+        "Parar al lado de la patrulla",
+        "Tocar la bocina al pasar"
+      ],
+      "h1": "La ley Move Over de Florida le pide dar más espacio a quienes están parados trabajando.",
+      "h2": "Según la ley Move Over de Florida, usted debe salir del carril más cercano al vehículo de emergencia parado cuando sea seguro cambiar de carril.",
+      "p": "Correcto. Cámbiese de carril para un vehículo de emergencia parado."
+    }
+  },
+  {
+    "id": "right-of-way-018",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, you cannot safely move over for a stopped emergency vehicle. The speed limit is 55 mph. What must you do?",
+      "o": [
+        "Keep driving at 55 mph",
+        "Stop in your lane",
+        "Slow to 20 mph below the limit, so 35 mph",
+        "Speed up to pass it quickly"
+      ],
+      "h1": "If you cannot move over, the law asks for a big cut in speed.",
+      "h2": "When you cannot move over, Florida law says you must slow to 20 mph below the posted speed limit, so on a 55 mph road you slow to 35 mph.",
+      "p": "Right. If you cannot move over, slow to 20 mph below the limit."
+    },
+    "es": {
+      "q": "En Florida, usted no puede cambiarse de carril con seguridad para un vehículo de emergencia parado. El límite de velocidad es 55 mph. ¿Qué debe hacer?",
+      "o": [
+        "Seguir manejando a 55 mph",
+        "Parar en su carril",
+        "Bajar a 20 mph menos que el límite, o sea 35 mph",
+        "Acelerar para pasarlo rápido"
+      ],
+      "h1": "Si no puede cambiarse de carril, la ley le pide bajar mucho la velocidad.",
+      "h2": "Cuando usted no puede cambiarse de carril, la ley de Florida dice que debe bajar a 20 mph menos que el límite marcado, así que en una calle de 55 mph baja a 35 mph.",
+      "p": "Correcto. Si no puede cambiarse de carril, baje 20 mph del límite."
+    }
+  },
+  {
+    "id": "right-of-way-019",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, the speed limit is 20 mph. A tow truck is stopped with its lights flashing, and you cannot move over. How fast may you pass it?",
+      "o": [
+        "5 mph",
+        "15 mph",
+        "20 mph",
+        "10 mph"
+      ],
+      "h1": "Twenty below the limit would be zero, so the law gives a special number.",
+      "h2": "When the speed limit is 20 mph or less and you cannot move over, Florida law says you must slow to 5 mph.",
+      "p": "Right. On a road of 20 mph or less, slow to 5 mph."
+    },
+    "es": {
+      "q": "En Florida, el límite de velocidad es 20 mph. Una grúa está parada con las luces intermitentes y usted no puede cambiarse de carril. ¿A qué velocidad puede pasarla?",
+      "o": [
+        "5 mph",
+        "15 mph",
+        "20 mph",
+        "10 mph"
+      ],
+      "h1": "Veinte menos que el límite sería cero, así que la ley da un número especial.",
+      "h2": "Cuando el límite es 20 mph o menos y usted no puede cambiarse de carril, la ley de Florida dice que debe bajar a 5 mph.",
+      "p": "Correcto. En una calle de 20 mph o menos, baje a 5 mph."
+    }
+  },
+  {
+    "id": "right-of-way-020",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, which of these stopped vehicles is covered by the Move Over law?",
+      "o": [
+        "A parked car with no lights on",
+        "A city bus at a bus stop",
+        "A delivery van at a store",
+        "A garbage truck with its warning lights flashing"
+      ],
+      "h1": "The law covers workers on the road who show flashing warning lights.",
+      "h2": "Florida's Move Over law covers sanitation trucks, utility trucks, tow trucks, and road crews when they are stopped with warning lights flashing, so you must move over or slow down.",
+      "p": "Right. Move over for a stopped garbage truck with flashing lights."
+    },
+    "es": {
+      "q": "En Florida, ¿cuál de estos vehículos parados está cubierto por la ley Move Over?",
+      "o": [
+        "Un carro estacionado sin luces encendidas",
+        "Un autobús de la ciudad en una parada",
+        "Una camioneta de reparto frente a una tienda",
+        "Un camión de basura con las luces de advertencia intermitentes"
+      ],
+      "h1": "La ley cubre a trabajadores en la vía que muestran luces de advertencia intermitentes.",
+      "h2": "La ley Move Over de Florida cubre camiones de basura, de servicios públicos, grúas y equipos de carretera cuando están parados con luces de advertencia intermitentes, así que usted debe cambiarse de carril o bajar la velocidad.",
+      "p": "Correcto. Cámbiese de carril por un camión de basura parado con luces intermitentes."
+    }
+  },
+  {
+    "id": "right-of-way-021",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "medium",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, a car is stopped on the shoulder with its hazard lights flashing. Does the Move Over law apply?",
+      "o": [
+        "No, it is only for police and ambulances",
+        "Yes, move over or slow down as you would for an emergency vehicle",
+        "Only at night",
+        "Only on toll roads"
+      ],
+      "h1": "Florida widened the Move Over law to protect more people stopped by the road.",
+      "h2": "Florida's Move Over law also covers a disabled vehicle that is stopped and showing hazard lights or other warning signs, so you must move over or slow down.",
+      "p": "Right. Move over or slow down for a stopped car with hazard lights."
+    },
+    "es": {
+      "q": "En Florida, un carro está parado en el acotamiento con las luces de emergencia encendidas. ¿Se aplica la ley Move Over?",
+      "o": [
+        "No, es solo para policías y ambulancias",
+        "Sí, cámbiese de carril o baje la velocidad como para un vehículo de emergencia",
+        "Solo de noche",
+        "Solo en carreteras de peaje"
+      ],
+      "h1": "Florida amplió la ley Move Over para proteger a más personas paradas en la orilla.",
+      "h2": "La ley Move Over de Florida también cubre a un vehículo descompuesto que está parado y muestra luces de emergencia u otras señales de advertencia, así que usted debe cambiarse de carril o bajar la velocidad.",
+      "p": "Correcto. Cámbiese de carril o baje la velocidad por un carro parado con luces de emergencia."
+    }
+  },
+  {
+    "id": "right-of-way-022",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, on a two-way road, a school bus ahead is stopped with its stop arm out. You are coming from the other direction. What do you do?",
+      "o": [
+        "Slow down and pass with care",
+        "Keep going, because you are on the other side",
+        "Stop and stay stopped",
+        "Honk and pass"
+      ],
+      "h1": "On a two-way road with no median, the rule is the same for both directions.",
+      "h2": "On a two-way road, traffic going both ways must stop for a school bus that shows its stop signal, so you stop even when coming from the other side.",
+      "p": "Right. On a two-way road, both directions stop for a stopped school bus."
+    },
+    "es": {
+      "q": "En Florida, en una calle de doble sentido, un autobús escolar adelante está parado con el brazo de pare afuera. Usted viene en la dirección contraria. ¿Qué hace?",
+      "o": [
+        "Baja la velocidad y pasa con cuidado",
+        "Sigue, porque usted va del otro lado",
+        "Para y se queda parado",
+        "Toca la bocina y pasa"
+      ],
+      "h1": "En una calle de doble sentido sin división, la regla es igual para las dos direcciones.",
+      "h2": "En una calle de doble sentido, el tráfico de las dos direcciones debe parar ante un autobús escolar que muestra su señal de pare, así que usted para aunque venga del otro lado.",
+      "p": "Correcto. En calle de doble sentido, las dos direcciones paran por el autobús escolar."
+    }
+  },
+  {
+    "id": "right-of-way-023",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, a school bus is stopped across a raised concrete median, on the other side of a divided highway. Must you stop?",
+      "o": [
+        "No, you may keep going, with care",
+        "Yes, you must always stop",
+        "Only if children are on your side",
+        "Only if the bus honks"
+      ],
+      "h1": "A raised barrier keeps the two directions apart.",
+      "h2": "On a divided highway with a raised median, you do not have to stop when the school bus is on the other side, but you should still watch for children.",
+      "p": "Right. With a raised median, the opposite side does not have to stop."
+    },
+    "es": {
+      "q": "En Florida, un autobús escolar está parado del otro lado de una división de concreto elevada en una carretera dividida. ¿Debe usted parar?",
+      "o": [
+        "No, puede seguir con cuidado",
+        "Sí, siempre debe parar",
+        "Solo si hay niños de su lado",
+        "Solo si el autobús toca la bocina"
+      ],
+      "h1": "Una división elevada separa las dos direcciones.",
+      "h2": "En una carretera dividida con una división elevada, usted no tiene que parar cuando el autobús escolar está del otro lado, pero igual debe estar atento a los niños.",
+      "p": "Correcto. Con división elevada, el lado contrario no tiene que parar."
+    }
+  },
+  {
+    "id": "right-of-way-024",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, a highway has an unpaved grass median. How wide must it be so that traffic on the other side does not have to stop for a school bus?",
+      "o": [
+        "At least 2 feet",
+        "At least 10 feet",
+        "At least 20 feet",
+        "At least 5 feet"
+      ],
+      "h1": "The number is small, about the length of a sofa.",
+      "h2": "Florida law says that if an unpaved median is at least 5 feet wide, traffic going the other way does not have to stop for a stopped school bus.",
+      "p": "Right. An unpaved median of at least 5 feet means the other side does not stop."
+    },
+    "es": {
+      "q": "En Florida, una carretera tiene una división de césped sin pavimentar. ¿Qué ancho debe tener para que el tráfico del otro lado no tenga que parar por un autobús escolar?",
+      "o": [
+        "Por lo menos 2 pies",
+        "Por lo menos 10 pies",
+        "Por lo menos 20 pies",
+        "Por lo menos 5 pies"
+      ],
+      "h1": "El número es pequeño, más o menos el largo de un sofá.",
+      "h2": "La ley de Florida dice que si una división sin pavimentar mide por lo menos 5 pies de ancho, el tráfico que va en la otra dirección no tiene que parar por un autobús escolar parado.",
+      "p": "Correcto. Con una división sin pavimentar de por lo menos 5 pies, el otro lado no para."
+    }
+  },
+  {
+    "id": "right-of-way-025",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, a road has a paved center turn lane. A school bus is stopped on the other side with its stop arm out. What do you do?",
+      "o": [
+        "Keep going, because a turn lane divides the road",
+        "Stop, because a paved turn lane does not count as a divider",
+        "Pass using the turn lane",
+        "Slow down only"
+      ],
+      "h1": "Only a raised barrier or a wide unpaved median lets the other side keep going.",
+      "h2": "A paved center turn lane is not a raised barrier or an unpaved median, so traffic in both directions must stop for the school bus.",
+      "p": "Right. A paved turn lane does not excuse you. Stop for the bus."
+    },
+    "es": {
+      "q": "En Florida, una calle tiene un carril central pavimentado para doblar. Un autobús escolar está parado del otro lado con el brazo de pare afuera. ¿Qué hace?",
+      "o": [
+        "Sigue, porque el carril para doblar divide la calle",
+        "Para, porque un carril pavimentado para doblar no cuenta como división",
+        "Pasa usando el carril para doblar",
+        "Solo baja la velocidad"
+      ],
+      "h1": "Solo una división elevada o una división ancha sin pavimentar permite que el otro lado siga.",
+      "h2": "Un carril central pavimentado para doblar no es una división elevada ni una división sin pavimentar, así que el tráfico de las dos direcciones debe parar por el autobús escolar.",
+      "p": "Correcto. Un carril para doblar no lo exime. Pare por el autobús."
+    }
+  },
+  {
+    "id": "right-of-way-026",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, you are driving behind a school bus on a divided highway. The bus stops and shows its stop arm. What do you do?",
+      "o": [
+        "Pass on the left",
+        "Keep going, because the highway is divided",
+        "Stop behind the bus",
+        "Pass on the right shoulder"
+      ],
+      "h1": "The median only helps traffic on the other side.",
+      "h2": "Traffic going the same way as a stopped school bus must always stop, even on a divided highway.",
+      "p": "Right. If you are behind a stopped school bus, you always stop."
+    },
+    "es": {
+      "q": "En Florida, usted maneja detrás de un autobús escolar en una carretera dividida. El autobús para y saca el brazo de pare. ¿Qué hace?",
+      "o": [
+        "Lo rebasa por la izquierda",
+        "Sigue, porque la carretera está dividida",
+        "Para detrás del autobús",
+        "Lo rebasa por el acotamiento derecho"
+      ],
+      "h1": "La división solo ayuda al tráfico del otro lado.",
+      "h2": "El tráfico que va en la misma dirección que un autobús escolar parado siempre debe parar, aunque la carretera esté dividida.",
+      "p": "Correcto. Si va detrás de un autobús escolar parado, siempre para."
+    }
+  },
+  {
+    "id": "right-of-way-027",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, you stopped for a school bus. When may you start driving again?",
+      "o": [
+        "When the stop arm is pulled back and the children are clear",
+        "As soon as the door closes",
+        "After you count to ten",
+        "When the driver waves at you"
+      ],
+      "h1": "Watch the bus signal and the children, not a timer.",
+      "h2": "You must stay stopped until the bus pulls back its stop signal and the children are out of the road.",
+      "p": "Right. Wait until the stop arm is back in and the children are clear."
+    },
+    "es": {
+      "q": "En Florida, usted paró por un autobús escolar. ¿Cuándo puede volver a manejar?",
+      "o": [
+        "Cuando el brazo de pare se recoge y los niños están fuera del camino",
+        "Apenas se cierra la puerta",
+        "Después de contar hasta diez",
+        "Cuando el chofer le hace una seña"
+      ],
+      "h1": "Fíjese en la señal del autobús y en los niños, no en el tiempo.",
+      "h2": "Usted debe quedarse parado hasta que el autobús recoja su señal de pare y los niños estén fuera de la calle.",
+      "p": "Correcto. Espere a que se recoja el brazo de pare y los niños estén a salvo."
+    }
+  },
+  {
+    "id": "right-of-way-028",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, the lights are flashing at a railroad crossing. Where must you stop?",
+      "o": [
+        "Right on the tracks",
+        "Between 15 and 50 feet from the nearest rail",
+        "More than 100 feet away",
+        "Within 5 feet of the nearest rail"
+      ],
+      "h1": "You need a safe gap from the train, but not so far that you block the road behind you.",
+      "h2": "Florida law says you must stop no closer than 15 feet and no farther than 50 feet from the nearest rail when a train is coming.",
+      "p": "Right. Stop between 15 and 50 feet from the nearest rail."
+    },
+    "es": {
+      "q": "En Florida, las luces están intermitentes en un cruce de tren. ¿Dónde debe parar?",
+      "o": [
+        "Encima de las vías",
+        "Entre 15 y 50 pies del riel más cercano",
+        "A más de 100 pies",
+        "A menos de 5 pies del riel más cercano"
+      ],
+      "h1": "Necesita una distancia segura del tren, pero no tan lejos que bloquee la calle detrás de usted.",
+      "h2": "La ley de Florida dice que usted debe parar a no menos de 15 pies y no más de 50 pies del riel más cercano cuando viene un tren.",
+      "p": "Correcto. Pare entre 15 y 50 pies del riel más cercano."
+    }
+  },
+  {
+    "id": "right-of-way-029",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, the gates at a railroad crossing are down, but you do not see a train. What do you do?",
+      "o": [
+        "Drive around the gates carefully",
+        "Honk and cross slowly",
+        "Back up and look for another way, then cross",
+        "Wait until the gates go up and the lights stop"
+      ],
+      "h1": "Trains can be closer and faster than they look.",
+      "h2": "You must never drive around lowered railroad gates, so you wait until the gates are all the way up and the lights stop flashing.",
+      "p": "Right. Never go around railroad gates. Wait until they go up."
+    },
+    "es": {
+      "q": "En Florida, las barreras de un cruce de tren están abajo, pero usted no ve ningún tren. ¿Qué hace?",
+      "o": [
+        "Pasa alrededor de las barreras con cuidado",
+        "Toca la bocina y cruza despacio",
+        "Da reversa, busca otro camino y cruza",
+        "Espera hasta que suban las barreras y se apaguen las luces"
+      ],
+      "h1": "Los trenes pueden estar más cerca y ser más rápidos de lo que parece.",
+      "h2": "Usted nunca debe pasar alrededor de las barreras bajas del tren, así que espera hasta que las barreras suban por completo y las luces dejen de parpadear.",
+      "p": "Correcto. Nunca pase alrededor de las barreras del tren. Espere a que suban."
+    }
+  },
+  {
+    "id": "right-of-way-030",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, traffic is backed up past a railroad crossing. When may you start across the tracks?",
+      "o": [
+        "When the car in front of you moves",
+        "Right away, if no train is in sight",
+        "Only when there is room for your whole car on the other side",
+        "When the driver behind you honks"
+      ],
+      "h1": "Think about where your car will be if traffic stops again.",
+      "h2": "You may start across the tracks only when there is room for your whole vehicle on the other side, so you never get stuck on the rails.",
+      "p": "Right. Do not cross until your whole car fits on the other side."
+    },
+    "es": {
+      "q": "En Florida, el tráfico está detenido más allá de un cruce de tren. ¿Cuándo puede empezar a cruzar las vías?",
+      "o": [
+        "Cuando avance el carro de adelante",
+        "De inmediato, si no se ve ningún tren",
+        "Solo cuando haya espacio para todo su carro del otro lado",
+        "Cuando el conductor de atrás toque la bocina"
+      ],
+      "h1": "Piense dónde quedará su carro si el tráfico se detiene otra vez.",
+      "h2": "Usted puede empezar a cruzar las vías solo cuando haya espacio para todo su vehículo del otro lado, para nunca quedar atrapado sobre los rieles.",
+      "p": "Correcto. No cruce hasta que todo su carro quepa del otro lado."
+    }
+  },
+  {
+    "id": "right-of-way-031",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": {
+      "shape": "crossbuck",
+      "text": "RAILROAD CROSSING"
+    },
+    "c": 0,
+    "en": {
+      "q": "What does this white X-shaped sign mean?",
+      "o": [
+        "A railroad crossing. Yield to trains.",
+        "An intersection with four roads",
+        "A hospital is nearby",
+        "No parking in this area"
+      ],
+      "h1": "This sign stands where a road meets something that cannot stop or swerve to miss you.",
+      "h2": "The white X-shaped sign, called a crossbuck, marks a railroad crossing, and you must yield to any train.",
+      "p": "Right. The crossbuck marks a railroad crossing. Yield to trains."
+    },
+    "es": {
+      "q": "¿Qué significa esta señal blanca en forma de X?",
+      "o": [
+        "Un cruce de tren. Ceda el paso a los trenes.",
+        "Una intersección de cuatro calles",
+        "Hay un hospital cerca",
+        "No se permite estacionar en esta área"
+      ],
+      "h1": "Esta señal está donde una calle se cruza con algo que no puede parar ni desviarse para no chocar con usted.",
+      "h2": "La señal blanca en forma de X, llamada crossbuck, marca un cruce de tren, y usted debe ceder el paso a cualquier tren.",
+      "p": "Correcto. La señal en X marca un cruce de tren. Ceda el paso a los trenes."
+    }
+  },
+  {
+    "id": "right-of-way-032",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": {
+      "shape": "rr-advance",
+      "text": "RR"
+    },
+    "c": 2,
+    "en": {
+      "q": "What does this round yellow sign with an X and the letters RR mean?",
+      "o": [
+        "A rest area is ahead",
+        "A road repair zone is ahead",
+        "A railroad crossing is ahead",
+        "You must turn right"
+      ],
+      "h1": "This sign gives you a warning before you reach something.",
+      "h2": "The round yellow sign with an X and RR warns you that a railroad crossing is ahead, so you slow down, look, and listen.",
+      "p": "Right. The round yellow RR sign means a railroad crossing is ahead."
+    },
+    "es": {
+      "q": "¿Qué significa esta señal amarilla redonda con una X y las letras RR?",
+      "o": [
+        "Hay un área de descanso adelante",
+        "Hay una zona de reparación de la calle adelante",
+        "Hay un cruce de tren adelante",
+        "Debe doblar a la derecha"
+      ],
+      "h1": "Esta señal le avisa antes de que usted llegue a algo.",
+      "h2": "La señal amarilla redonda con una X y RR le avisa que hay un cruce de tren adelante, así que baje la velocidad, mire y escuche.",
+      "p": "Correcto. La señal amarilla redonda con RR significa cruce de tren adelante."
+    }
+  },
+  {
+    "id": "right-of-way-033",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, you want to turn right. Which lane should you be in?",
+      "o": [
+        "The left lane",
+        "The right lane, close to the curb",
+        "The center lane",
+        "Any lane, if you signal"
+      ],
+      "h1": "Pick the lane on the same side as your turn.",
+      "h2": "To turn right, you get into the right lane near the curb and turn into the right lane of the new street.",
+      "p": "Right. Turn right from the right lane, near the curb."
+    },
+    "es": {
+      "q": "En Florida, usted quiere doblar a la derecha. ¿En qué carril debe estar?",
+      "o": [
+        "En el carril izquierdo",
+        "En el carril derecho, cerca de la orilla",
+        "En el carril del centro",
+        "En cualquier carril, si pone la direccional"
+      ],
+      "h1": "Escoja el carril del mismo lado de su vuelta.",
+      "h2": "Para doblar a la derecha, usted se coloca en el carril derecho cerca de la orilla y dobla al carril derecho de la nueva calle.",
+      "p": "Correcto. Doble a la derecha desde el carril derecho, cerca de la orilla."
+    }
+  },
+  {
+    "id": "right-of-way-034",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, you turn left from a two-way street onto another two-way street. Which lane do you turn into?",
+      "o": [
+        "The right lane, next to the curb",
+        "The lane for oncoming traffic",
+        "Any lane that is empty",
+        "The lane just to the right of the center line"
+      ],
+      "h1": "Start near the center line and end near the center line.",
+      "h2": "When you turn left between two-way streets, you start next to the center line and finish in the lane just to the right of the center line on the new street.",
+      "p": "Right. Turn left into the lane just right of the center line."
+    },
+    "es": {
+      "q": "En Florida, usted dobla a la izquierda de una calle de doble sentido a otra calle de doble sentido. ¿A qué carril dobla?",
+      "o": [
+        "Al carril derecho, junto a la orilla",
+        "Al carril del tráfico que viene de frente",
+        "A cualquier carril vacío",
+        "Al carril que está justo a la derecha de la línea central"
+      ],
+      "h1": "Empiece cerca de la línea central y termine cerca de la línea central.",
+      "h2": "Cuando usted dobla a la izquierda entre calles de doble sentido, empieza junto a la línea central y termina en el carril que está justo a la derecha de la línea central de la nueva calle.",
+      "p": "Correcto. Doble a la izquierda al carril justo a la derecha de la línea central."
+    }
+  },
+  {
+    "id": "right-of-way-035",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, how far before a turn should you turn on your signal?",
+      "o": [
+        "Only as you start to turn",
+        "At least 10 feet before",
+        "At least 25 feet before",
+        "At least 100 feet before"
+      ],
+      "h1": "Other drivers need time to see what you plan to do.",
+      "h2": "In Florida you should signal at least 100 feet before you turn, so drivers and people walking know what you will do.",
+      "p": "Right. Signal at least 100 feet before you turn."
+    },
+    "es": {
+      "q": "En Florida, ¿con cuánta anticipación debe poner la direccional antes de doblar?",
+      "o": [
+        "Solo cuando empieza a doblar",
+        "Por lo menos 10 pies antes",
+        "Por lo menos 25 pies antes",
+        "Por lo menos 100 pies antes"
+      ],
+      "h1": "Los otros conductores necesitan tiempo para ver lo que usted va a hacer.",
+      "h2": "En Florida usted debe poner la direccional por lo menos 100 pies antes de doblar, para que los conductores y los peatones sepan lo que va a hacer.",
+      "p": "Correcto. Ponga la direccional por lo menos 100 pies antes de doblar."
+    }
+  },
+  {
+    "id": "right-of-way-036",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, when may you make a U-turn?",
+      "o": [
+        "Any time you miss your street",
+        "Only when it is safe and no sign forbids it",
+        "Only on a highway",
+        "Only at a railroad crossing"
+      ],
+      "h1": "Think about signs and about traffic around you.",
+      "h2": "You may make a U-turn only where no sign forbids it and only when you can do it safely without getting in the way of other traffic.",
+      "p": "Right. Make a U-turn only when it is safe and allowed."
+    },
+    "es": {
+      "q": "En Florida, ¿cuándo puede dar una vuelta en U?",
+      "o": [
+        "Cada vez que se pase de su calle",
+        "Solo cuando es seguro y ninguna señal lo prohíbe",
+        "Solo en la autopista",
+        "Solo en un cruce de tren"
+      ],
+      "h1": "Piense en las señales y en el tráfico a su alrededor.",
+      "h2": "Usted puede dar una vuelta en U solo donde ninguna señal lo prohíba y solo cuando pueda hacerla con seguridad, sin estorbar a otros vehículos.",
+      "p": "Correcto. Dé vuelta en U solo cuando sea seguro y permitido."
+    }
+  },
+  {
+    "id": "right-of-way-037",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, you stopped at a red light and want to turn right. A person is crossing in front of you. What do you do?",
+      "o": [
+        "Turn now, because right on red is allowed",
+        "Honk and turn",
+        "Wait for the person to cross, then turn when traffic is clear",
+        "Turn into the far lane to go around the person"
+      ],
+      "h1": "A right turn on red is allowed only after you yield.",
+      "h2": "When you turn right on red, you must first stop and yield to people crossing and to traffic, so you wait until the way is clear.",
+      "p": "Right. On red, yield to people and traffic before you turn right."
+    },
+    "es": {
+      "q": "En Florida, usted paró en una luz roja y quiere doblar a la derecha. Una persona está cruzando delante de usted. ¿Qué hace?",
+      "o": [
+        "Dobla ahora, porque se permite doblar a la derecha en rojo",
+        "Toca la bocina y dobla",
+        "Espera que la persona cruce y luego dobla cuando el tráfico esté libre",
+        "Dobla al carril lejano para pasar alrededor de la persona"
+      ],
+      "h1": "Doblar a la derecha en rojo se permite solo después de ceder el paso.",
+      "h2": "Cuando usted dobla a la derecha en rojo, primero debe parar y ceder el paso a las personas que cruzan y al tráfico, así que espera hasta que el camino esté libre.",
+      "p": "Correcto. En rojo, ceda el paso a peatones y tráfico antes de doblar a la derecha."
+    }
+  },
+  {
+    "id": "right-of-way-038",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": {
+      "shape": "yield",
+      "text": "YIELD"
+    },
+    "c": 2,
+    "en": {
+      "q": "What does this red and white upside-down triangle sign tell you to do?",
+      "o": [
+        "Stop fully every time",
+        "Speed up and merge",
+        "Slow down and let other traffic go first, stopping if needed",
+        "Turn around"
+      ],
+      "h1": "This sign does not always mean a full stop.",
+      "h2": "A yield sign means you slow down and let other traffic and people go first, and you stop only if you need to.",
+      "p": "Right. A yield sign means slow down and let others go first."
+    },
+    "es": {
+      "q": "¿Qué le indica esta señal de triángulo rojo y blanco con la punta hacia abajo?",
+      "o": [
+        "Pare por completo siempre",
+        "Acelere y únase al tráfico",
+        "Baje la velocidad y deje pasar primero a los demás, parando si hace falta",
+        "Dé la vuelta"
+      ],
+      "h1": "Esta señal no siempre significa un alto total.",
+      "h2": "Una señal de ceda el paso significa que usted baja la velocidad y deja pasar primero a otros vehículos y personas, y para solo si es necesario.",
+      "p": "Correcto. Ceda el paso significa bajar la velocidad y dejar pasar a los demás."
+    }
+  },
+  {
+    "id": "right-of-way-039",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, you are on a ramp joining a highway. Who has the right of way?",
+      "o": [
+        "Traffic already on the highway",
+        "You, because you are on the ramp",
+        "The faster car",
+        "Whoever signals first"
+      ],
+      "h1": "Think about who is already on the main road.",
+      "h2": "When you merge onto a highway, you must yield to the traffic already on it and find a safe gap.",
+      "p": "Right. When merging, yield to traffic already on the highway."
+    },
+    "es": {
+      "q": "En Florida, usted va por una rampa para entrar a una carretera. ¿Quién tiene el derecho de paso?",
+      "o": [
+        "El tráfico que ya va por la carretera",
+        "Usted, porque va por la rampa",
+        "El carro más rápido",
+        "El que pone la direccional primero"
+      ],
+      "h1": "Piense en quién ya está en la vía principal.",
+      "h2": "Cuando usted entra a una carretera, debe ceder el paso al tráfico que ya va por ella y buscar un espacio seguro.",
+      "p": "Correcto. Al entrar a la carretera, ceda el paso al tráfico que ya va por ella."
+    }
+  }
+]

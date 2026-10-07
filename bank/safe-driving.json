@@ -1,0 +1,1732 @@
+[
+  {
+    "id": "safe-driving-001",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, how much space must you leave when you pass a bicycle?",
+      "o": [
+        "At least 1 foot",
+        "At least 2 feet",
+        "At least 3 feet",
+        "At least 10 feet"
+      ],
+      "h1": "Think about a safe gap between your car and the rider.",
+      "h2": "Florida law says you must leave at least 3 feet between your car and a bicycle when you pass it.",
+      "p": "Right. Give a bicycle at least 3 feet when you pass."
+    },
+    "es": {
+      "q": "En Florida, ¿cuánto espacio debe dejar al rebasar una bicicleta?",
+      "o": [
+        "Al menos 1 pie",
+        "Al menos 2 pies",
+        "Al menos 3 pies",
+        "Al menos 10 pies"
+      ],
+      "h1": "Piense en un espacio seguro entre su carro y el ciclista.",
+      "h2": "La ley de Florida dice que debe dejar al menos 3 pies entre su carro y una bicicleta cuando la rebasa.",
+      "p": "Correcto. Deje al menos 3 pies al rebasar una bicicleta."
+    }
+  },
+  {
+    "id": "safe-driving-002",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, you want to turn right. A bicycle is in the bike lane next to you. What should you do?",
+      "o": [
+        "Speed up and turn in front of it",
+        "Let the bicycle go by, then turn",
+        "Honk so the rider will stop",
+        "Turn from the left lane instead"
+      ],
+      "h1": "Think about who is already moving straight in that lane.",
+      "h2": "The bicycle is going straight in its own lane, so you must let it pass before you turn right across the bike lane.",
+      "p": "Right. Let the bicycle go by first, then turn."
+    },
+    "es": {
+      "q": "En Florida, usted quiere girar a la derecha. Hay una bicicleta en el carril de bicicletas a su lado. ¿Qué debe hacer?",
+      "o": [
+        "Acelerar y girar delante de ella",
+        "Dejar pasar la bicicleta y luego girar",
+        "Tocar la bocina para que pare",
+        "Girar desde el carril izquierdo"
+      ],
+      "h1": "Piense en quién ya va derecho en ese carril.",
+      "h2": "La bicicleta va derecho en su propio carril, así que debe dejarla pasar antes de girar a la derecha y cruzar el carril de bicicletas.",
+      "p": "Correcto. Deje pasar la bicicleta primero y luego gire."
+    }
+  },
+  {
+    "id": "safe-driving-003",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, you parked on a busy street. What should you do before you open your door on the traffic side?",
+      "o": [
+        "Open it fast so you are quick",
+        "Turn on your wipers first",
+        "Honk the horn one time",
+        "Look back for bikes and cars"
+      ],
+      "h1": "Think about who might be coming up beside your car.",
+      "h2": "A door that opens suddenly can hit a cyclist or a car, so you must look back and wait until it is safe to open it.",
+      "p": "Right. Look back for bikes and cars before you open your door."
+    },
+    "es": {
+      "q": "En Florida, usted se estacionó en una calle con mucho tráfico. ¿Qué debe hacer antes de abrir la puerta del lado del tráfico?",
+      "o": [
+        "Abrirla rápido para no tardar",
+        "Encender los limpiaparabrisas",
+        "Tocar la bocina una vez",
+        "Mirar atrás por bicicletas y carros"
+      ],
+      "h1": "Piense en quién podría venir al lado de su carro.",
+      "h2": "Una puerta que se abre de repente puede golpear a un ciclista o a un carro, así que debe mirar atrás y esperar hasta que sea seguro abrirla.",
+      "p": "Correcto. Mire atrás por bicicletas y carros antes de abrir la puerta."
+    }
+  },
+  {
+    "id": "safe-driving-004",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, a person is walking across the street in a crosswalk in front of you. What must you do?",
+      "o": [
+        "Stop and let the person cross",
+        "Drive slowly around the person",
+        "Honk so the person hurries",
+        "Keep going if you have a green light"
+      ],
+      "h1": "Think about who has the right to use the crosswalk first.",
+      "h2": "A person in a crosswalk has the right of way, so you must stop and wait until the person has crossed.",
+      "p": "Right. Stop and let people in the crosswalk cross."
+    },
+    "es": {
+      "q": "En Florida, una persona cruza la calle por el paso peatonal frente a usted. ¿Qué debe hacer?",
+      "o": [
+        "Parar y dejar que la persona cruce",
+        "Pasar despacio alrededor de la persona",
+        "Tocar la bocina para que se apure",
+        "Seguir si tiene luz verde"
+      ],
+      "h1": "Piense en quién tiene primero el derecho de usar el paso peatonal.",
+      "h2": "Una persona en el paso peatonal tiene el derecho de paso, así que debe parar y esperar a que termine de cruzar.",
+      "p": "Correcto. Pare y deje cruzar a las personas en el paso peatonal."
+    }
+  },
+  {
+    "id": "safe-driving-005",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, a person with a white cane or a guide dog is starting to cross the street. What should you do?",
+      "o": [
+        "Honk to warn the person",
+        "Drive around the person slowly",
+        "Stop and wait until the person crosses",
+        "Wave the person back to the curb"
+      ],
+      "h1": "Think about a person who may not be able to see your car.",
+      "h2": "A white cane or a guide dog shows that the person may be blind, so you must stop and wait until the person is safely across.",
+      "p": "Right. Stop for a person with a white cane or a guide dog."
+    },
+    "es": {
+      "q": "En Florida, una persona con un bastón blanco o un perro guía empieza a cruzar la calle. ¿Qué debe hacer?",
+      "o": [
+        "Tocar la bocina para avisarle",
+        "Pasar despacio alrededor de la persona",
+        "Parar y esperar a que la persona cruce",
+        "Hacerle señas para que vuelva a la acera"
+      ],
+      "h1": "Piense en una persona que tal vez no puede ver su carro.",
+      "h2": "Un bastón blanco o un perro guía indica que la persona puede ser ciega, así que debe parar y esperar a que cruce con seguridad.",
+      "p": "Correcto. Pare para una persona con bastón blanco o perro guía."
+    }
+  },
+  {
+    "id": "safe-driving-006",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Why should you look twice for motorcycles before you turn or change lanes?",
+      "o": [
+        "Motorcycles must always use the right lane",
+        "Motorcycles are small and easy to miss",
+        "Motorcycles cannot use turn signals",
+        "Motorcycles always drive faster than cars"
+      ],
+      "h1": "Think about how big a motorcycle looks next to a car.",
+      "h2": "A motorcycle is much smaller than a car, so it can hide in a blind spot or be easy to miss, and you should look twice.",
+      "p": "Right. Motorcycles are small and easy to miss, so look twice."
+    },
+    "es": {
+      "q": "¿Por qué debe mirar dos veces por motocicletas antes de girar o cambiar de carril?",
+      "o": [
+        "Las motos siempre deben ir por la derecha",
+        "Las motos son pequeñas y fáciles de no ver",
+        "Las motos no pueden usar direccionales",
+        "Las motos siempre van más rápido que los carros"
+      ],
+      "h1": "Piense en el tamaño de una moto al lado de un carro.",
+      "h2": "Una motocicleta es mucho más pequeña que un carro, así que puede esconderse en un punto ciego o pasar desapercibida, y debe mirar dos veces.",
+      "p": "Correcto. Las motos son pequeñas y fáciles de no ver; mire dos veces."
+    }
+  },
+  {
+    "id": "safe-driving-007",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, may you share a lane side by side with a motorcycle?",
+      "o": [
+        "Yes, if the motorcycle is slow",
+        "Yes, on any multi-lane road",
+        "Yes, if you signal first",
+        "No, a motorcycle gets the full lane"
+      ],
+      "h1": "Think about how much room a motorcycle needs to move safely.",
+      "h2": "In Florida a motorcycle has the right to use the full width of a lane, so you may not drive next to it in the same lane.",
+      "p": "Right. A motorcycle gets the full lane, so do not share it."
+    },
+    "es": {
+      "q": "En Florida, ¿puede compartir un carril lado a lado con una motocicleta?",
+      "o": [
+        "Sí, si la moto va despacio",
+        "Sí, en cualquier vía de varios carriles",
+        "Sí, si pone la direccional antes",
+        "No, la moto tiene derecho a todo el carril"
+      ],
+      "h1": "Piense en cuánto espacio necesita una moto para moverse con seguridad.",
+      "h2": "En Florida una motocicleta tiene derecho a usar todo el ancho del carril, así que usted no puede manejar a su lado en el mismo carril.",
+      "p": "Correcto. La moto tiene derecho a todo el carril; no lo comparta."
+    }
+  },
+  {
+    "id": "safe-driving-008",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "You are driving next to a large truck. You cannot see the driver's face in the truck's side mirror. What does this mean?",
+      "o": [
+        "The driver probably cannot see you",
+        "The driver is not paying attention",
+        "The mirror is broken",
+        "You are at a safe distance"
+      ],
+      "h1": "Think about how mirrors work in both directions.",
+      "h2": "If you cannot see the truck driver in the mirror, the driver cannot see you either, so you are in a blind spot and should move out of it.",
+      "p": "Right. If you cannot see the driver in the mirror, the driver cannot see you."
+    },
+    "es": {
+      "q": "Usted maneja al lado de un camión grande. No puede ver la cara del chofer en el espejo lateral del camión. ¿Qué significa?",
+      "o": [
+        "El chofer probablemente no lo ve a usted",
+        "El chofer no está prestando atención",
+        "El espejo está roto",
+        "Usted está a una distancia segura"
+      ],
+      "h1": "Piense en cómo funcionan los espejos en las dos direcciones.",
+      "h2": "Si usted no ve al chofer en el espejo, el chofer tampoco lo ve a usted, así que está en un punto ciego y debe salir de ahí.",
+      "p": "Correcto. Si no ve al chofer en el espejo, él no lo ve a usted."
+    }
+  },
+  {
+    "id": "safe-driving-009",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "A large truck ahead has its right turn signal on. It moves a little to the left first. What should you do?",
+      "o": [
+        "Pass it on the right side",
+        "Honk to tell the driver to hurry",
+        "Stay back and wait for it to turn",
+        "Move up close behind the truck"
+      ],
+      "h1": "Think about how much room a long truck needs to turn a corner.",
+      "h2": "Large trucks often swing left to make a wide right turn, so you should stay back and never squeeze in between the truck and the curb.",
+      "p": "Right. Stay back and let the truck make its wide right turn."
+    },
+    "es": {
+      "q": "Un camión grande adelante tiene puesta la direccional derecha. Primero se mueve un poco a la izquierda. ¿Qué debe hacer?",
+      "o": [
+        "Rebasarlo por el lado derecho",
+        "Tocar la bocina para que se apure",
+        "Quedarse atrás y esperar a que gire",
+        "Acercarse mucho detrás del camión"
+      ],
+      "h1": "Piense en cuánto espacio necesita un camión largo para doblar una esquina.",
+      "h2": "Los camiones grandes a menudo se abren a la izquierda para hacer un giro amplio a la derecha, así que debe quedarse atrás y nunca meterse entre el camión y la acera.",
+      "p": "Correcto. Quédese atrás y deje que el camión haga su giro amplio."
+    }
+  },
+  {
+    "id": "safe-driving-010",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "You just passed a large truck. When should you move back in front of it?",
+      "o": [
+        "Right away, as soon as you pass its bumper",
+        "When you can see the whole truck front in your mirror",
+        "After you slow down a little",
+        "Only after the truck flashes its lights"
+      ],
+      "h1": "Think about how long it takes a heavy truck to stop.",
+      "h2": "A heavy truck needs a long distance to stop, so you should wait until you can see its whole front in your rearview mirror before you move in.",
+      "p": "Right. Move in only when you can see the whole truck front in your mirror."
+    },
+    "es": {
+      "q": "Usted acaba de rebasar un camión grande. ¿Cuándo debe volver a ponerse delante de él?",
+      "o": [
+        "De inmediato, al pasar su parachoques",
+        "Cuando vea todo el frente del camión en su espejo",
+        "Después de bajar un poco la velocidad",
+        "Solo cuando el camión le haga cambio de luces"
+      ],
+      "h1": "Piense en cuánto le toma a un camión pesado frenar.",
+      "h2": "Un camión pesado necesita mucha distancia para frenar, así que debe esperar hasta ver todo su frente en el espejo retrovisor antes de ponerse delante.",
+      "p": "Correcto. Póngase delante solo cuando vea todo el frente del camión en el espejo."
+    }
+  },
+  {
+    "id": "safe-driving-011",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, a school bus on a two-lane road stops. Its red lights flash and its stop arm is out. You are coming from the other direction. What must you do?",
+      "o": [
+        "Slow down and pass with care",
+        "Keep going because you are on the other side",
+        "Honk and then pass slowly",
+        "Stop and wait until the stop arm is pulled in"
+      ],
+      "h1": "Think about children who may cross the road to reach the bus.",
+      "h2": "On a road without a divider, drivers in both directions must stop for a school bus with its stop arm out, and wait until the arm is pulled back in.",
+      "p": "Right. Stop for the school bus, even from the other direction."
+    },
+    "es": {
+      "q": "En Florida, un autobús escolar para en una carretera de dos carriles. Sus luces rojas parpadean y tiene el brazo de pare afuera. Usted viene en dirección contraria. ¿Qué debe hacer?",
+      "o": [
+        "Bajar la velocidad y pasar con cuidado",
+        "Seguir porque va del otro lado",
+        "Tocar la bocina y pasar despacio",
+        "Parar y esperar a que recojan el brazo de pare"
+      ],
+      "h1": "Piense en los niños que pueden cruzar la calle para llegar al autobús.",
+      "h2": "En una vía sin división, los conductores de las dos direcciones deben parar ante un autobús escolar con el brazo de pare afuera, y esperar hasta que lo recojan.",
+      "p": "Correcto. Pare ante el autobús escolar, aunque venga en dirección contraria."
+    }
+  },
+  {
+    "id": "safe-driving-012",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, you are on a divided highway with a raised median. A school bus stops on the other side of the median. What should you do?",
+      "o": [
+        "You do not have to stop, but drive with care",
+        "Stop until the bus drives away",
+        "Stop, then pass at walking speed",
+        "Change to the lane closest to the bus"
+      ],
+      "h1": "Think about what the raised median does between you and the bus.",
+      "h2": "When a raised barrier or wide median separates you from the bus, you do not have to stop, but you should still watch for children.",
+      "p": "Right. With a raised median between you, you do not have to stop, but stay alert."
+    },
+    "es": {
+      "q": "En Florida, usted va por una carretera dividida con una mediana elevada. Un autobús escolar para del otro lado de la mediana. ¿Qué debe hacer?",
+      "o": [
+        "No tiene que parar, pero maneje con cuidado",
+        "Parar hasta que el autobús se vaya",
+        "Parar y luego pasar muy despacio",
+        "Cambiarse al carril más cerca del autobús"
+      ],
+      "h1": "Piense en lo que hace la mediana elevada entre usted y el autobús.",
+      "h2": "Cuando una barrera elevada o una mediana ancha lo separa del autobús, no tiene que parar, pero debe seguir atento a los niños.",
+      "p": "Correcto. Con una mediana elevada entre ustedes, no tiene que parar, pero esté atento."
+    }
+  },
+  {
+    "id": "safe-driving-013",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, what is the rule for holding a phone while driving in an active school zone?",
+      "o": [
+        "You may hold it for short calls",
+        "You may hold it if you drive slowly",
+        "You may not hold it; hands-free only",
+        "You may hold it only at a red light"
+      ],
+      "h1": "Think about the extra danger near schools when children are present.",
+      "h2": "In Florida you may not hold a phone while driving in an active school zone, so you may only use it hands-free.",
+      "p": "Right. In an active school zone, no handheld phone, hands-free only."
+    },
+    "es": {
+      "q": "En Florida, ¿cuál es la regla para sostener el teléfono mientras maneja en una zona escolar activa?",
+      "o": [
+        "Puede sostenerlo para llamadas cortas",
+        "Puede sostenerlo si maneja despacio",
+        "No puede sostenerlo; solo manos libres",
+        "Puede sostenerlo solo en luz roja"
+      ],
+      "h1": "Piense en el peligro extra cerca de las escuelas cuando hay niños.",
+      "h2": "En Florida no puede sostener el teléfono mientras maneja en una zona escolar activa, así que solo puede usarlo con manos libres.",
+      "p": "Correcto. En una zona escolar activa, nada de teléfono en la mano; solo manos libres."
+    }
+  },
+  {
+    "id": "safe-driving-014",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, can a police officer stop you only because you are texting while driving?",
+      "o": [
+        "No, only if you also break another rule",
+        "Yes, texting while driving is enough",
+        "No, texting is only a warning",
+        "Yes, but only on the interstate"
+      ],
+      "h1": "Think about how serious Florida treats texting at the wheel.",
+      "h2": "In Florida, texting while driving is a primary offense, so an officer may stop you for that reason alone.",
+      "p": "Right. In Florida you can be stopped just for texting while driving."
+    },
+    "es": {
+      "q": "En Florida, ¿puede un policía detenerlo solo porque está enviando mensajes de texto mientras maneja?",
+      "o": [
+        "No, solo si también rompe otra regla",
+        "Sí, enviar mensajes al manejar es suficiente",
+        "No, los mensajes solo reciben una advertencia",
+        "Sí, pero solo en la autopista interestatal"
+      ],
+      "h1": "Piense en qué tan en serio toma Florida los mensajes de texto al volante.",
+      "h2": "En Florida, enviar mensajes de texto mientras maneja es una infracción principal, así que un policía puede detenerlo solo por eso.",
+      "p": "Correcto. En Florida lo pueden detener solo por enviar mensajes al manejar."
+    }
+  },
+  {
+    "id": "safe-driving-015",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, what happens to a speeding fine in a work zone when workers are present?",
+      "o": [
+        "The fine is doubled",
+        "The fine is cut in half",
+        "There is no fine, only a warning",
+        "The fine is the same as anywhere else"
+      ],
+      "h1": "Think about how the law protects people working on the road.",
+      "h2": "In Florida, the fine for speeding in a work zone is doubled when workers are present, to protect the people working there.",
+      "p": "Right. Speeding fines in a work zone are doubled when workers are present."
+    },
+    "es": {
+      "q": "En Florida, ¿qué pasa con la multa por exceso de velocidad en una zona de construcción cuando hay trabajadores?",
+      "o": [
+        "La multa se duplica",
+        "La multa se reduce a la mitad",
+        "No hay multa, solo una advertencia",
+        "La multa es igual que en otro lugar"
+      ],
+      "h1": "Piense en cómo la ley protege a las personas que trabajan en la carretera.",
+      "h2": "En Florida, la multa por exceso de velocidad en una zona de construcción se duplica cuando hay trabajadores presentes, para proteger a quienes trabajan ahí.",
+      "p": "Correcto. Las multas por exceso de velocidad en zona de construcción se duplican cuando hay trabajadores."
+    }
+  },
+  {
+    "id": "safe-driving-016",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In a work zone, a flagger holds up a sign and signals you. What should you do?",
+      "o": [
+        "Follow the posted speed sign instead",
+        "Drive past if the lane looks clear",
+        "Honk so the flagger lets you go",
+        "Follow the flagger's signals"
+      ],
+      "h1": "Think about who controls traffic in a work zone right now.",
+      "h2": "A flagger directs traffic in a work zone, so you must follow the flagger's signals even if other signs say something else.",
+      "p": "Right. In a work zone, follow the flagger's signals."
+    },
+    "es": {
+      "q": "En una zona de construcción, un abanderado muestra una señal y le hace indicaciones. ¿Qué debe hacer?",
+      "o": [
+        "Seguir la señal de velocidad en su lugar",
+        "Pasar si el carril parece libre",
+        "Tocar la bocina para que lo deje pasar",
+        "Seguir las indicaciones del abanderado"
+      ],
+      "h1": "Piense en quién controla el tráfico en la zona de construcción en este momento.",
+      "h2": "Un abanderado dirige el tráfico en una zona de construcción, así que debe seguir sus indicaciones aunque otras señales digan otra cosa.",
+      "p": "Correcto. En una zona de construcción, siga las indicaciones del abanderado."
+    }
+  },
+  {
+    "id": "safe-driving-017",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": {
+      "shape": "diamond-orange"
+    },
+    "c": 1,
+    "en": {
+      "q": "What does an orange diamond-shaped sign usually warn you about?",
+      "o": [
+        "A school zone ahead",
+        "A work zone ahead",
+        "A railroad crossing ahead",
+        "A hospital ahead"
+      ],
+      "h1": "Think about the color used for road work.",
+      "h2": "Orange warning signs are used for work zones, so an orange diamond tells you that road work is ahead.",
+      "p": "Right. An orange diamond sign warns of a work zone ahead."
+    },
+    "es": {
+      "q": "¿Sobre qué le advierte normalmente una señal anaranjada en forma de rombo?",
+      "o": [
+        "Una zona escolar adelante",
+        "Una zona de construcción adelante",
+        "Un cruce de tren adelante",
+        "Un hospital adelante"
+      ],
+      "h1": "Piense en el color que se usa para trabajos en la vía.",
+      "h2": "Las señales de advertencia anaranjadas se usan para zonas de construcción, así que un rombo anaranjado le dice que hay trabajos en la vía adelante.",
+      "p": "Correcto. Un rombo anaranjado advierte una zona de construcción adelante."
+    }
+  },
+  {
+    "id": "safe-driving-018",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, a police car is stopped on the shoulder with its lights flashing. You are on a highway with two lanes going your way. What should you do?",
+      "o": [
+        "Keep your speed and stay in your lane",
+        "Stop next to the police car",
+        "Move over a lane if safe; if not, slow down",
+        "Speed up to pass the area quickly"
+      ],
+      "h1": "Think about giving space to people working beside the road.",
+      "h2": "Florida's Move Over law says you must move out of the lane next to the stopped vehicle when it is safe, and if you cannot, you must slow down.",
+      "p": "Right. Move over a lane if you safely can, or slow down."
+    },
+    "es": {
+      "q": "En Florida, un carro de policía está parado en el acotamiento con las luces encendidas. Usted va por una carretera con dos carriles en su dirección. ¿Qué debe hacer?",
+      "o": [
+        "Mantener su velocidad y su carril",
+        "Parar al lado del carro de policía",
+        "Cambiarse de carril si es seguro; si no, bajar la velocidad",
+        "Acelerar para pasar rápido"
+      ],
+      "h1": "Piense en dar espacio a las personas que trabajan al lado de la vía.",
+      "h2": "La ley Move Over de Florida dice que debe salir del carril junto al vehículo detenido cuando sea seguro, y si no puede, debe bajar la velocidad.",
+      "p": "Correcto. Cámbiese de carril si es seguro, o baje la velocidad."
+    }
+  },
+  {
+    "id": "safe-driving-019",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, you cannot move over for a stopped emergency vehicle on a road with a 55 mph limit. How slow must you go?",
+      "o": [
+        "20 mph below the limit",
+        "5 mph below the limit",
+        "10 mph below the limit",
+        "Exactly 25 mph"
+      ],
+      "h1": "Think about a big drop in speed, not a small one.",
+      "h2": "Under Florida's Move Over law, if you cannot change lanes you must slow to 20 mph below the posted limit, so on a 55 mph road you go 35 mph.",
+      "p": "Right. If you cannot move over, slow to 20 mph below the limit."
+    },
+    "es": {
+      "q": "En Florida, usted no puede cambiarse de carril ante un vehículo de emergencia detenido en una vía con límite de 55 mph. ¿A qué velocidad debe ir?",
+      "o": [
+        "20 mph por debajo del límite",
+        "5 mph por debajo del límite",
+        "10 mph por debajo del límite",
+        "Exactamente 25 mph"
+      ],
+      "h1": "Piense en una reducción grande de velocidad, no pequeña.",
+      "h2": "Según la ley Move Over de Florida, si no puede cambiarse de carril debe bajar a 20 mph por debajo del límite, así que en una vía de 55 mph va a 35 mph.",
+      "p": "Correcto. Si no puede cambiarse de carril, baje 20 mph por debajo del límite."
+    }
+  },
+  {
+    "id": "safe-driving-020",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Your car starts to skid on a slippery road. What should you do?",
+      "o": [
+        "Slam on the brakes hard",
+        "Turn the wheel sharply the other way",
+        "Press the gas to get control back",
+        "Ease off the gas and steer where you want to go"
+      ],
+      "h1": "Think about gentle moves, not sudden ones.",
+      "h2": "In a skid, sudden braking or sharp steering makes it worse, so you should ease off the gas and gently steer in the direction you want the car to go.",
+      "p": "Right. Ease off the gas and steer where you want to go."
+    },
+    "es": {
+      "q": "Su carro empieza a patinar en una vía resbalosa. ¿Qué debe hacer?",
+      "o": [
+        "Frenar de golpe con fuerza",
+        "Girar el volante bruscamente al otro lado",
+        "Acelerar para recuperar el control",
+        "Soltar el acelerador y dirigir hacia donde quiere ir"
+      ],
+      "h1": "Piense en movimientos suaves, no bruscos.",
+      "h2": "Al patinar, frenar de golpe o girar bruscamente lo empeora, así que debe soltar el acelerador y dirigir suavemente hacia donde quiere que vaya el carro.",
+      "p": "Correcto. Suelte el acelerador y dirija hacia donde quiere ir."
+    }
+  },
+  {
+    "id": "safe-driving-021",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Your tires start to ride on top of water on a wet road (hydroplaning). What should you do?",
+      "o": [
+        "Brake hard right away",
+        "Ease off the gas and keep the wheel straight",
+        "Speed up to get through the water",
+        "Turn the wheel quickly left and right"
+      ],
+      "h1": "Think about letting the tires touch the road again.",
+      "h2": "When you hydroplane, the tires lose contact with the road, so you should ease off the gas, keep the wheel straight, and not brake hard until the tires grip again.",
+      "p": "Right. Ease off the gas and keep the wheel straight."
+    },
+    "es": {
+      "q": "Sus llantas empiezan a deslizarse sobre el agua en una vía mojada (hidroplaneo). ¿Qué debe hacer?",
+      "o": [
+        "Frenar fuerte de inmediato",
+        "Soltar el acelerador y mantener el volante derecho",
+        "Acelerar para pasar el agua",
+        "Mover el volante rápido a los lados"
+      ],
+      "h1": "Piense en dejar que las llantas vuelvan a tocar la vía.",
+      "h2": "En el hidroplaneo las llantas pierden contacto con la vía, así que debe soltar el acelerador, mantener el volante derecho y no frenar fuerte hasta que las llantas agarren otra vez.",
+      "p": "Correcto. Suelte el acelerador y mantenga el volante derecho."
+    }
+  },
+  {
+    "id": "safe-driving-022",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "A front tire suddenly blows out while you are driving. What should you do first?",
+      "o": [
+        "Hold the wheel firmly and ease off the gas",
+        "Brake hard to stop right away",
+        "Steer quickly onto the shoulder",
+        "Speed up to keep the car straight"
+      ],
+      "h1": "Think about keeping control of the car before you stop.",
+      "h2": "A blowout can pull the car to one side, so you should hold the wheel firmly, ease off the gas, and brake gently only after the car is under control.",
+      "p": "Right. Hold the wheel firmly and ease off the gas."
+    },
+    "es": {
+      "q": "Una llanta delantera revienta de repente mientras maneja. ¿Qué debe hacer primero?",
+      "o": [
+        "Sostener firme el volante y soltar el acelerador",
+        "Frenar fuerte para parar de inmediato",
+        "Girar rápido hacia el acotamiento",
+        "Acelerar para mantener el carro derecho"
+      ],
+      "h1": "Piense en mantener el control del carro antes de parar.",
+      "h2": "Una llanta reventada puede jalar el carro hacia un lado, así que debe sostener firme el volante, soltar el acelerador y frenar suave solo cuando tenga el control.",
+      "p": "Correcto. Sostenga firme el volante y suelte el acelerador."
+    }
+  },
+  {
+    "id": "safe-driving-023",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You press the brake pedal and your brakes do not work. What should you try first?",
+      "o": [
+        "Turn off the engine right away",
+        "Open the door and drag your foot",
+        "Pump the brake pedal fast",
+        "Shift into reverse"
+      ],
+      "h1": "Think about trying to build up brake pressure again.",
+      "h2": "Pumping the brake pedal may build up pressure again, and if that fails you can use the parking brake slowly and shift to a lower gear.",
+      "p": "Right. Pump the brake pedal first, then use the parking brake."
+    },
+    "es": {
+      "q": "Usted pisa el freno y los frenos no funcionan. ¿Qué debe intentar primero?",
+      "o": [
+        "Apagar el motor de inmediato",
+        "Abrir la puerta y arrastrar el pie",
+        "Bombear el pedal del freno rápido",
+        "Poner la reversa"
+      ],
+      "h1": "Piense en volver a crear presión en los frenos.",
+      "h2": "Bombear el pedal del freno puede volver a crear presión, y si no funciona, puede usar el freno de mano poco a poco y cambiar a una velocidad más baja.",
+      "p": "Correcto. Bombee el pedal primero y luego use el freno de mano."
+    }
+  },
+  {
+    "id": "safe-driving-024",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Your gas pedal gets stuck and the car keeps speeding up. What should you do?",
+      "o": [
+        "Pull the key out while moving",
+        "Turn the wheel hard to the side",
+        "Pump the gas pedal many times",
+        "Shift to neutral and brake"
+      ],
+      "h1": "Think about how to stop the engine from pushing the wheels.",
+      "h2": "Shifting to neutral stops the engine from driving the wheels, so you can brake, pull off the road, and then turn off the engine.",
+      "p": "Right. Shift to neutral and brake to a safe stop."
+    },
+    "es": {
+      "q": "Su pedal del acelerador se traba y el carro sigue acelerando. ¿Qué debe hacer?",
+      "o": [
+        "Sacar la llave mientras se mueve",
+        "Girar el volante fuerte hacia un lado",
+        "Bombear el acelerador muchas veces",
+        "Poner neutro y frenar"
+      ],
+      "h1": "Piense en cómo impedir que el motor siga empujando las ruedas.",
+      "h2": "Al poner neutro el motor deja de mover las ruedas, así que puede frenar, salir de la vía y luego apagar el motor.",
+      "p": "Correcto. Ponga neutro y frene hasta parar con seguridad."
+    }
+  },
+  {
+    "id": "safe-driving-025",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Your right wheels drift off the pavement onto the dirt edge. What should you do?",
+      "o": [
+        "Jerk the wheel back onto the road",
+        "Ease off the gas, slow down, then steer back gently",
+        "Brake hard right away",
+        "Speed up and steer back fast"
+      ],
+      "h1": "Think about slowing down before you return to the road.",
+      "h2": "Turning back too fast can make you lose control, so ease off the gas, slow down, and then steer gently back onto the pavement when it is safe.",
+      "p": "Right. Slow down first, then steer back gently."
+    },
+    "es": {
+      "q": "Sus ruedas derechas se salen del pavimento a la orilla de tierra. ¿Qué debe hacer?",
+      "o": [
+        "Jalar el volante de golpe hacia la vía",
+        "Soltar el acelerador, bajar la velocidad y volver suavemente",
+        "Frenar fuerte de inmediato",
+        "Acelerar y volver rápido a la vía"
+      ],
+      "h1": "Piense en bajar la velocidad antes de volver a la vía.",
+      "h2": "Volver demasiado rápido puede hacerle perder el control, así que suelte el acelerador, baje la velocidad y vuelva suavemente al pavimento cuando sea seguro.",
+      "p": "Correcto. Primero baje la velocidad y luego vuelva suavemente."
+    }
+  },
+  {
+    "id": "safe-driving-026",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Your car stalls on railroad tracks and a train is coming. What should you do?",
+      "o": [
+        "Stay in the car and keep trying to start it",
+        "Get out and stand next to the car",
+        "Get everyone out and move away from the tracks toward the train at an angle",
+        "Get out and run straight down the tracks"
+      ],
+      "h1": "Think about where pieces of the car could fly if the train hits it.",
+      "h2": "Get everyone out right away and move away from the tracks at an angle toward the train, so flying parts from the crash do not hit you.",
+      "p": "Right. Get out fast and move away at an angle toward the train."
+    },
+    "es": {
+      "q": "Su carro se apaga sobre las vías del tren y viene un tren. ¿Qué debe hacer?",
+      "o": [
+        "Quedarse en el carro y tratar de encenderlo",
+        "Salir y quedarse al lado del carro",
+        "Sacar a todos y alejarse de las vías en diagonal hacia el tren",
+        "Salir y correr por encima de las vías"
+      ],
+      "h1": "Piense en hacia dónde podrían volar las piezas del carro si el tren lo golpea.",
+      "h2": "Saque a todos de inmediato y aléjense de las vías en diagonal hacia donde viene el tren, para que las piezas que vuelen en el choque no los golpeen.",
+      "p": "Correcto. Salga rápido y aléjese en diagonal hacia el tren."
+    }
+  },
+  {
+    "id": "safe-driving-027",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Your car is stuck on railroad tracks, and no train is in sight. After everyone is out, who should you call?",
+      "o": [
+        "The number on the blue sign at the crossing, or 911",
+        "Your car insurance company",
+        "A tow truck, then wait in the car",
+        "Nobody, just keep trying to start the car"
+      ],
+      "h1": "Think about who can warn the train before it arrives.",
+      "h2": "Get everyone out, then call the number on the blue emergency sign at the crossing or 911, so the railroad can stop or slow trains.",
+      "p": "Right. Call the number on the blue sign at the crossing, or 911."
+    },
+    "es": {
+      "q": "Su carro está atascado en las vías del tren y no se ve ningún tren. Después de que todos salen, ¿a quién debe llamar?",
+      "o": [
+        "Al número del letrero azul del cruce, o al 911",
+        "A su compañía de seguros",
+        "A una grúa, y esperar dentro del carro",
+        "A nadie, solo seguir tratando de encenderlo"
+      ],
+      "h1": "Piense en quién puede avisar al tren antes de que llegue.",
+      "h2": "Saque a todos y luego llame al número del letrero azul de emergencia del cruce o al 911, para que el ferrocarril pueda parar o frenar los trenes.",
+      "p": "Correcto. Llame al número del letrero azul del cruce, o al 911."
+    }
+  },
+  {
+    "id": "safe-driving-028",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Your car goes into a canal or lake. What should you do first?",
+      "o": [
+        "Call for help and wait inside",
+        "Wait until the car fills with water",
+        "Turn on the hazard lights",
+        "Unbuckle, open a window and get out"
+      ],
+      "h1": "Think about how fast you need to leave the car.",
+      "h2": "You should act right away: unbuckle your seat belt, open or break a window, and get out before the water gets too high.",
+      "p": "Right. Unbuckle, open a window and get out fast."
+    },
+    "es": {
+      "q": "Su carro cae a un canal o a un lago. ¿Qué debe hacer primero?",
+      "o": [
+        "Pedir ayuda y esperar adentro",
+        "Esperar a que el carro se llene de agua",
+        "Encender las luces de emergencia",
+        "Quitarse el cinturón, abrir una ventana y salir"
+      ],
+      "h1": "Piense en qué tan rápido debe salir del carro.",
+      "h2": "Debe actuar de inmediato: quítese el cinturón, abra o rompa una ventana y salga antes de que el agua suba demasiado.",
+      "p": "Correcto. Quítese el cinturón, abra una ventana y salga rápido."
+    }
+  },
+  {
+    "id": "safe-driving-029",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "After a hurricane, water covers the road ahead and you cannot see how deep it is. What should you do?",
+      "o": [
+        "Drive through it slowly",
+        "Turn around and find another way",
+        "Drive through it fast",
+        "Follow the car in front of you"
+      ],
+      "h1": "Think about how little moving water it takes to move a car.",
+      "h2": "Even shallow moving water can sweep a car away, and you cannot see what is under it, so turn around and find another way.",
+      "p": "Right. Turn around and do not drive into flooded roads."
+    },
+    "es": {
+      "q": "Después de un huracán, el agua cubre la calle adelante y no puede ver qué tan profunda es. ¿Qué debe hacer?",
+      "o": [
+        "Pasar despacio por el agua",
+        "Dar la vuelta y buscar otro camino",
+        "Pasar rápido por el agua",
+        "Seguir al carro de adelante"
+      ],
+      "h1": "Piense en qué poca agua en movimiento basta para mover un carro.",
+      "h2": "Aun el agua poco profunda en movimiento puede arrastrar un carro, y usted no ve lo que hay debajo, así que dé la vuelta y busque otro camino.",
+      "p": "Correcto. Dé la vuelta y no maneje por calles inundadas."
+    }
+  },
+  {
+    "id": "safe-driving-030",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, after a storm, you reach an intersection where the traffic light is dark because the power is out. What should you do?",
+      "o": [
+        "Drive through without stopping",
+        "Stop only if a car is coming",
+        "Treat it like a four-way stop",
+        "Wait until the light works again"
+      ],
+      "h1": "Think about how drivers take turns when there is no signal.",
+      "h2": "In Florida, a traffic light that is out works like a four-way stop, so you stop fully and take turns with the other drivers.",
+      "p": "Right. A dark traffic light works like a four-way stop."
+    },
+    "es": {
+      "q": "En Florida, después de una tormenta, llega a un cruce donde el semáforo está apagado porque no hay luz. ¿Qué debe hacer?",
+      "o": [
+        "Pasar sin parar",
+        "Parar solo si viene un carro",
+        "Tratarlo como un pare de cuatro vías",
+        "Esperar hasta que el semáforo funcione"
+      ],
+      "h1": "Piense en cómo se turnan los conductores cuando no hay semáforo.",
+      "h2": "En Florida, un semáforo apagado funciona como un pare de cuatro vías, así que debe parar por completo y turnarse con los otros conductores.",
+      "p": "Correcto. Un semáforo apagado funciona como un pare de cuatro vías."
+    }
+  },
+  {
+    "id": "safe-driving-031",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "At night, a car coming toward you has very bright headlights. Where should you look?",
+      "o": [
+        "Toward the right edge of your lane",
+        "Straight into the other car's lights",
+        "At the center line",
+        "Down at your dashboard"
+      ],
+      "h1": "Think about a guide that keeps you in your lane without looking at the glare.",
+      "h2": "Looking toward the right edge of your lane keeps you on the road while you avoid looking straight into the glare.",
+      "p": "Right. Look toward the right edge of your lane to avoid glare."
+    },
+    "es": {
+      "q": "De noche, un carro que viene hacia usted tiene las luces muy fuertes. ¿Hacia dónde debe mirar?",
+      "o": [
+        "Hacia la orilla derecha de su carril",
+        "Directo a las luces del otro carro",
+        "A la línea del centro",
+        "Hacia abajo, al tablero"
+      ],
+      "h1": "Piense en una guía que lo mantenga en su carril sin mirar el resplandor.",
+      "h2": "Mirar hacia la orilla derecha de su carril lo mantiene en la vía mientras evita mirar directo al resplandor.",
+      "p": "Correcto. Mire hacia la orilla derecha de su carril para evitar el resplandor."
+    }
+  },
+  {
+    "id": "safe-driving-032",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, you are using high beams at night. When must you switch to low beams for a car coming toward you?",
+      "o": [
+        "Within 100 feet of it",
+        "Within 200 feet of it",
+        "Only when it flashes its lights",
+        "Within 500 feet of it"
+      ],
+      "h1": "Think about a long distance, because bright lights reach far.",
+      "h2": "In Florida you must dim your high beams when an oncoming car is within 500 feet, so its driver is not blinded.",
+      "p": "Right. Dim your high beams within 500 feet of an oncoming car."
+    },
+    "es": {
+      "q": "En Florida, usted usa las luces altas de noche. ¿Cuándo debe cambiar a luces bajas por un carro que viene de frente?",
+      "o": [
+        "A 100 pies de él",
+        "A 200 pies de él",
+        "Solo cuando le haga cambio de luces",
+        "A 500 pies de él"
+      ],
+      "h1": "Piense en una distancia larga, porque las luces altas llegan lejos.",
+      "h2": "En Florida debe bajar las luces altas cuando un carro que viene de frente está a 500 pies o menos, para no encandilar al conductor.",
+      "p": "Correcto. Baje las luces altas a 500 pies de un carro que viene de frente."
+    }
+  },
+  {
+    "id": "safe-driving-033",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, you are following another car at night. When must you use low beams?",
+      "o": [
+        "Within 100 feet of it",
+        "Within 300 feet of it",
+        "Within 1,000 feet of it",
+        "Only in the city"
+      ],
+      "h1": "Think about your lights shining into the other driver's mirrors.",
+      "h2": "In Florida you must use low beams when you are within 300 feet behind another car, so your lights do not blind its driver in the mirrors.",
+      "p": "Right. Use low beams within 300 feet of the car ahead."
+    },
+    "es": {
+      "q": "En Florida, usted va detrás de otro carro de noche. ¿Cuándo debe usar luces bajas?",
+      "o": [
+        "A 100 pies de él",
+        "A 300 pies de él",
+        "A 1,000 pies de él",
+        "Solo en la ciudad"
+      ],
+      "h1": "Piense en sus luces brillando en los espejos del otro conductor.",
+      "h2": "En Florida debe usar luces bajas cuando está a 300 pies o menos detrás de otro carro, para que sus luces no encandilen al conductor en los espejos.",
+      "p": "Correcto. Use luces bajas a 300 pies del carro de adelante."
+    }
+  },
+  {
+    "id": "safe-driving-034",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "What does it mean to \"overdrive your headlights\" at night?",
+      "o": [
+        "Using high beams in the city",
+        "Driving with only parking lights on",
+        "Driving too fast to stop within the area your lights show",
+        "Leaving your lights on after you park"
+      ],
+      "h1": "Think about how far ahead you can see at night.",
+      "h2": "If you drive so fast that you cannot stop within the distance your headlights light up, you are overdriving them, so slow down at night.",
+      "p": "Right. Drive slow enough to stop within what your headlights show."
+    },
+    "es": {
+      "q": "¿Qué significa manejar más rápido de lo que alcanzan sus luces de noche?",
+      "o": [
+        "Usar luces altas en la ciudad",
+        "Manejar solo con luces de estacionamiento",
+        "Ir tan rápido que no puede parar dentro de lo que alumbran sus luces",
+        "Dejar las luces encendidas al estacionar"
+      ],
+      "h1": "Piense en qué tan lejos puede ver de noche.",
+      "h2": "Si maneja tan rápido que no puede parar dentro de la distancia que alumbran sus faros, va más rápido de lo que alcanzan sus luces, así que baje la velocidad de noche.",
+      "p": "Correcto. Maneje a una velocidad que le permita parar dentro de lo que alumbran sus luces."
+    }
+  },
+  {
+    "id": "safe-driving-035",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "You are driving in thick fog. Which lights should you use?",
+      "o": [
+        "Low beams",
+        "High beams",
+        "Parking lights only",
+        "No lights"
+      ],
+      "h1": "Think about how bright light bounces back off fog.",
+      "h2": "High beams reflect off the fog and make it harder to see, so you should use low beams and slow down.",
+      "p": "Right. Use low beams in fog."
+    },
+    "es": {
+      "q": "Usted maneja con neblina espesa. ¿Qué luces debe usar?",
+      "o": [
+        "Luces bajas",
+        "Luces altas",
+        "Solo luces de estacionamiento",
+        "Ninguna luz"
+      ],
+      "h1": "Piense en cómo la luz fuerte rebota en la neblina.",
+      "h2": "Las luces altas rebotan en la neblina y hacen más difícil ver, así que debe usar luces bajas y bajar la velocidad.",
+      "p": "Correcto. Use luces bajas con neblina."
+    }
+  },
+  {
+    "id": "safe-driving-036",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, it is raining and your wipers are on. What must you also turn on?",
+      "o": [
+        "Your hazard lights",
+        "Your high beams",
+        "Your inside dome light",
+        "Your headlights"
+      ],
+      "h1": "Think about helping other drivers see your car in the rain.",
+      "h2": "In Florida you must turn on your headlights when you drive in rain, smoke or fog, so other drivers can see you.",
+      "p": "Right. In the rain, turn on your headlights."
+    },
+    "es": {
+      "q": "En Florida, está lloviendo y tiene los limpiaparabrisas encendidos. ¿Qué más debe encender?",
+      "o": [
+        "Las luces de emergencia",
+        "Las luces altas",
+        "La luz interior del techo",
+        "Los faros delanteros"
+      ],
+      "h1": "Piense en ayudar a otros conductores a ver su carro en la lluvia.",
+      "h2": "En Florida debe encender los faros delanteros cuando maneja con lluvia, humo o neblina, para que otros conductores lo vean.",
+      "p": "Correcto. Con lluvia, encienda los faros delanteros."
+    }
+  },
+  {
+    "id": "safe-driving-037",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "When is a road often most slippery during a rain?",
+      "o": [
+        "After it has rained for hours",
+        "In the first few minutes of rain",
+        "Only at night",
+        "Only when the sun comes out"
+      ],
+      "h1": "Think about oil on the road mixing with the first water.",
+      "h2": "At the start of a rain, water mixes with oil on the road and makes it very slippery, so slow down as soon as it starts to rain.",
+      "p": "Right. Roads are often most slippery in the first minutes of rain."
+    },
+    "es": {
+      "q": "¿Cuándo está la vía a menudo más resbalosa durante la lluvia?",
+      "o": [
+        "Después de horas de lluvia",
+        "En los primeros minutos de lluvia",
+        "Solo de noche",
+        "Solo cuando sale el sol"
+      ],
+      "h1": "Piense en el aceite de la vía mezclándose con la primera agua.",
+      "h2": "Al comenzar la lluvia, el agua se mezcla con el aceite de la vía y la pone muy resbalosa, así que baje la velocidad en cuanto empiece a llover.",
+      "p": "Correcto. La vía suele estar más resbalosa en los primeros minutos de lluvia."
+    }
+  },
+  {
+    "id": "safe-driving-038",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You feel very sleepy while driving. What is the best thing to do?",
+      "o": [
+        "Open the window and keep going",
+        "Turn the radio up loud",
+        "Pull off safely and rest",
+        "Drink coffee and drive faster"
+      ],
+      "h1": "Think about what really fixes being tired.",
+      "h2": "Cold air, loud music or coffee do not cure sleepiness, so the safe choice is to pull off the road safely and rest or sleep.",
+      "p": "Right. When you are sleepy, pull off safely and rest."
+    },
+    "es": {
+      "q": "Siente mucho sueño mientras maneja. ¿Qué es lo mejor que puede hacer?",
+      "o": [
+        "Abrir la ventana y seguir",
+        "Subir el volumen de la radio",
+        "Salir de la vía con seguridad y descansar",
+        "Tomar café y manejar más rápido"
+      ],
+      "h1": "Piense en lo que de verdad quita el cansancio.",
+      "h2": "El aire frío, la música fuerte o el café no quitan el sueño, así que lo seguro es salir de la vía con cuidado y descansar o dormir.",
+      "p": "Correcto. Si tiene sueño, salga de la vía con seguridad y descanse."
+    }
+  },
+  {
+    "id": "safe-driving-039",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, what is the legal blood alcohol limit for drivers age 21 and older?",
+      "o": [
+        "0.08 percent",
+        "0.10 percent",
+        "0.05 percent",
+        "0.15 percent"
+      ],
+      "h1": "Think about the limit used for adult drivers in Florida.",
+      "h2": "In Florida an adult driver with a blood alcohol level of 0.08 percent or more is driving under the influence.",
+      "p": "Right. For drivers 21 and older, the limit is 0.08 percent."
+    },
+    "es": {
+      "q": "En Florida, ¿cuál es el límite legal de alcohol en la sangre para conductores de 21 años o más?",
+      "o": [
+        "0.08 por ciento",
+        "0.10 por ciento",
+        "0.05 por ciento",
+        "0.15 por ciento"
+      ],
+      "h1": "Piense en el límite que se usa para conductores adultos en Florida.",
+      "h2": "En Florida un conductor adulto con 0.08 por ciento o más de alcohol en la sangre está manejando bajo la influencia.",
+      "p": "Correcto. Para conductores de 21 años o más, el límite es 0.08 por ciento."
+    }
+  },
+  {
+    "id": "safe-driving-040",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, a driver under age 21 has a blood alcohol level of 0.02 percent. What happens?",
+      "o": [
+        "Nothing, it is below the adult limit",
+        "Only a warning is given",
+        "The car is taken away",
+        "The driver's license is suspended"
+      ],
+      "h1": "Think about the stricter rule for young drivers.",
+      "h2": "Florida has a zero tolerance rule for drivers under 21, so a level of 0.02 percent or more leads to a license suspension.",
+      "p": "Right. Under 21, a 0.02 percent level means a license suspension."
+    },
+    "es": {
+      "q": "En Florida, un conductor menor de 21 años tiene 0.02 por ciento de alcohol en la sangre. ¿Qué pasa?",
+      "o": [
+        "Nada, está por debajo del límite de adultos",
+        "Solo recibe una advertencia",
+        "Le quitan el carro",
+        "Le suspenden la licencia de conducir"
+      ],
+      "h1": "Piense en la regla más estricta para conductores jóvenes.",
+      "h2": "Florida tiene una regla de cero tolerancia para menores de 21 años, así que un nivel de 0.02 por ciento o más lleva a la suspensión de la licencia.",
+      "p": "Correcto. Menor de 21, un nivel de 0.02 por ciento significa suspensión de la licencia."
+    }
+  },
+  {
+    "id": "safe-driving-041",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, you are lawfully arrested for DUI and refuse a breath test for the first time. What happens to your license?",
+      "o": [
+        "Nothing happens to it",
+        "It is suspended for one year",
+        "It is suspended for one week",
+        "You get a warning letter only"
+      ],
+      "h1": "Think about what you agreed to when you got a Florida license.",
+      "h2": "By driving in Florida you agree to be tested, so a first refusal after a lawful DUI arrest suspends your license for one year.",
+      "p": "Right. A first refusal suspends your license for one year."
+    },
+    "es": {
+      "q": "En Florida, usted es arrestado legalmente por DUI y se niega por primera vez a una prueba de aliento. ¿Qué pasa con su licencia?",
+      "o": [
+        "No le pasa nada",
+        "La suspenden por un año",
+        "La suspenden por una semana",
+        "Solo recibe una carta de advertencia"
+      ],
+      "h1": "Piense en lo que aceptó cuando recibió una licencia de Florida.",
+      "h2": "Al manejar en Florida usted acepta hacerse la prueba, así que negarse por primera vez después de un arresto legal por DUI suspende su licencia por un año.",
+      "p": "Correcto. Negarse la primera vez suspende su licencia por un año."
+    }
+  },
+  {
+    "id": "safe-driving-042",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Which is the first thing alcohol harms in a driver?",
+      "o": [
+        "Hearing",
+        "Hand strength",
+        "Judgment",
+        "Eyesight in daylight"
+      ],
+      "h1": "Think about making good choices, like deciding whether to drive.",
+      "h2": "Alcohol affects judgment first, so a driver may feel fine and still make bad choices, like speeding or deciding to drive at all.",
+      "p": "Right. Alcohol harms judgment first."
+    },
+    "es": {
+      "q": "¿Qué es lo primero que el alcohol afecta en un conductor?",
+      "o": [
+        "El oído",
+        "La fuerza de las manos",
+        "El juicio",
+        "La vista de día"
+      ],
+      "h1": "Piense en tomar buenas decisiones, como decidir si manejar.",
+      "h2": "El alcohol afecta primero el juicio, así que un conductor puede sentirse bien y aun así tomar malas decisiones, como ir rápido o decidir manejar.",
+      "p": "Correcto. El alcohol afecta primero el juicio."
+    }
+  },
+  {
+    "id": "safe-driving-043",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "After drinking, what is the only thing that makes you sober?",
+      "o": [
+        "Time",
+        "Black coffee",
+        "A cold shower",
+        "Fresh air"
+      ],
+      "h1": "Think about how the body gets rid of alcohol.",
+      "h2": "Your body removes alcohol slowly on its own, so only time makes you sober; coffee, showers and fresh air do not.",
+      "p": "Right. Only time makes you sober."
+    },
+    "es": {
+      "q": "Después de tomar alcohol, ¿qué es lo único que le quita la borrachera?",
+      "o": [
+        "El tiempo",
+        "El café negro",
+        "Una ducha fría",
+        "El aire fresco"
+      ],
+      "h1": "Piense en cómo el cuerpo elimina el alcohol.",
+      "h2": "Su cuerpo elimina el alcohol poco a poco por sí solo, así que solo el tiempo le quita la borrachera; el café, la ducha y el aire fresco no.",
+      "p": "Correcto. Solo el tiempo le quita la borrachera."
+    }
+  },
+  {
+    "id": "safe-driving-044",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "You took a cold medicine you bought at the store. What should you do before you drive?",
+      "o": [
+        "Nothing, store medicines are always safe",
+        "Drive only on small streets",
+        "Drink coffee to stay awake",
+        "Read the label for warnings about drowsiness"
+      ],
+      "h1": "Think about side effects that can make you sleepy.",
+      "h2": "Many medicines you buy without a prescription can make you sleepy or slow, so read the label and do not drive if it warns about drowsiness.",
+      "p": "Right. Read the label and do not drive if the medicine makes you drowsy."
+    },
+    "es": {
+      "q": "Usted tomó una medicina para el resfriado que compró en la tienda. ¿Qué debe hacer antes de manejar?",
+      "o": [
+        "Nada, las medicinas de tienda siempre son seguras",
+        "Manejar solo por calles pequeñas",
+        "Tomar café para no dormirse",
+        "Leer la etiqueta por advertencias de sueño"
+      ],
+      "h1": "Piense en efectos que le pueden dar sueño.",
+      "h2": "Muchas medicinas que se compran sin receta pueden darle sueño o hacerlo más lento, así que lea la etiqueta y no maneje si advierte que causa sueño.",
+      "p": "Correcto. Lea la etiqueta y no maneje si la medicina le da sueño."
+    }
+  },
+  {
+    "id": "safe-driving-045",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "An angry driver is tailgating you and making rude gestures. What should you do?",
+      "o": [
+        "Brake suddenly to teach a lesson",
+        "Avoid eye contact and let the driver pass",
+        "Make the same gestures back",
+        "Speed up to get away"
+      ],
+      "h1": "Think about how to calm the situation, not make it bigger.",
+      "h2": "Reacting can make an angry driver more dangerous, so stay calm, avoid eye contact, and let the driver go by when it is safe.",
+      "p": "Right. Stay calm, avoid eye contact and let the driver pass."
+    },
+    "es": {
+      "q": "Un conductor enojado lo sigue muy de cerca y le hace gestos groseros. ¿Qué debe hacer?",
+      "o": [
+        "Frenar de repente para darle una lección",
+        "Evitar mirarlo a los ojos y dejarlo pasar",
+        "Hacerle los mismos gestos",
+        "Acelerar para alejarse"
+      ],
+      "h1": "Piense en cómo calmar la situación, no en hacerla más grande.",
+      "h2": "Responder puede hacer más peligroso a un conductor enojado, así que mantenga la calma, evite mirarlo a los ojos y déjelo pasar cuando sea seguro.",
+      "p": "Correcto. Mantenga la calma, no lo mire a los ojos y déjelo pasar."
+    }
+  },
+  {
+    "id": "safe-driving-046",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "An angry driver keeps following you. Where should you drive?",
+      "o": [
+        "Straight to your home",
+        "To a quiet dead-end street",
+        "To a police station or busy public place",
+        "Onto the shoulder to stop and talk"
+      ],
+      "h1": "Think about a place where people can help you.",
+      "h2": "You should not lead an angry driver to your home, so drive to a police station or a busy public place and call 911 if needed.",
+      "p": "Right. Drive to a police station or a busy public place."
+    },
+    "es": {
+      "q": "Un conductor enojado lo sigue y no lo deja. ¿Hacia dónde debe manejar?",
+      "o": [
+        "Directo a su casa",
+        "A una calle sin salida y tranquila",
+        "A una estación de policía o un lugar público con gente",
+        "Al acotamiento para parar y hablar"
+      ],
+      "h1": "Piense en un lugar donde la gente pueda ayudarle.",
+      "h2": "No debe llevar a un conductor enojado hasta su casa, así que maneje a una estación de policía o a un lugar público con gente y llame al 911 si hace falta.",
+      "p": "Correcto. Maneje a una estación de policía o a un lugar público con gente."
+    }
+  },
+  {
+    "id": "safe-driving-047",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Why is carbon monoxide from a car's exhaust so dangerous?",
+      "o": [
+        "You cannot see it or smell it",
+        "It always makes a loud sound",
+        "It only harms the engine",
+        "It turns the air black"
+      ],
+      "h1": "Think about how you would notice a gas in the car.",
+      "h2": "Carbon monoxide has no color and no smell, so it can make you sleepy or sick without warning; never run the engine in a closed garage.",
+      "p": "Right. Carbon monoxide cannot be seen or smelled."
+    },
+    "es": {
+      "q": "¿Por qué es tan peligroso el monóxido de carbono del escape del carro?",
+      "o": [
+        "No se puede ver ni oler",
+        "Siempre hace un ruido fuerte",
+        "Solo daña el motor",
+        "Pone el aire negro"
+      ],
+      "h1": "Piense en cómo notaría un gas dentro del carro.",
+      "h2": "El monóxido de carbono no tiene color ni olor, así que puede darle sueño o enfermarlo sin aviso; nunca deje el motor encendido en un garaje cerrado.",
+      "p": "Correcto. El monóxido de carbono no se puede ver ni oler."
+    }
+  },
+  {
+    "id": "safe-driving-048",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "While driving, you get a headache and feel sleepy. You think it may be exhaust fumes. What should you do?",
+      "o": [
+        "Close all windows to stay warm",
+        "Turn the heater up high",
+        "Keep driving to get home fast",
+        "Open the windows and pull off safely"
+      ],
+      "h1": "Think about getting fresh air right away.",
+      "h2": "A headache and sleepiness can be signs of carbon monoxide, so open the windows for fresh air, pull off safely, and have the exhaust checked.",
+      "p": "Right. Open the windows and pull off safely."
+    },
+    "es": {
+      "q": "Mientras maneja, le da dolor de cabeza y sueño. Cree que pueden ser gases del escape. ¿Qué debe hacer?",
+      "o": [
+        "Cerrar todas las ventanas para no tener frío",
+        "Subir la calefacción al máximo",
+        "Seguir manejando para llegar rápido",
+        "Abrir las ventanas y salir de la vía con seguridad"
+      ],
+      "h1": "Piense en conseguir aire fresco de inmediato.",
+      "h2": "El dolor de cabeza y el sueño pueden ser señales de monóxido de carbono, así que abra las ventanas, salga de la vía con seguridad y haga revisar el escape.",
+      "p": "Correcto. Abra las ventanas y salga de la vía con seguridad."
+    }
+  },
+  {
+    "id": "safe-driving-049",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Why are worn tires with little tread dangerous?",
+      "o": [
+        "They make the radio louder",
+        "They grip the road poorly, mostly when wet",
+        "They use less gas",
+        "They make the steering heavier"
+      ],
+      "h1": "Think about what the grooves in a tire do with water.",
+      "h2": "Tire tread moves water away so the tire can grip, so worn tires slip more and are more likely to hydroplane on wet roads.",
+      "p": "Right. Worn tires grip poorly, mostly on wet roads."
+    },
+    "es": {
+      "q": "¿Por qué son peligrosas las llantas gastadas con poco dibujo?",
+      "o": [
+        "Hacen que la radio suene más fuerte",
+        "Agarran mal la vía, sobre todo mojada",
+        "Gastan menos gasolina",
+        "Hacen el volante más pesado"
+      ],
+      "h1": "Piense en lo que hacen las ranuras de la llanta con el agua.",
+      "h2": "El dibujo de la llanta saca el agua para que la llanta agarre, así que las llantas gastadas resbalan más y es más fácil que hidroplaneen en vías mojadas.",
+      "p": "Correcto. Las llantas gastadas agarran mal, sobre todo en vías mojadas."
+    }
+  },
+  {
+    "id": "safe-driving-050",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "When should you adjust your seat and mirrors?",
+      "o": [
+        "While driving on the highway",
+        "At the first red light",
+        "Before you start driving",
+        "Only when someone else drove your car"
+      ],
+      "h1": "Think about when your hands and eyes are free to do it safely.",
+      "h2": "Adjusting mirrors while moving takes your attention off the road, so you should set your seat and mirrors before you start driving.",
+      "p": "Right. Adjust your seat and mirrors before you start driving."
+    },
+    "es": {
+      "q": "¿Cuándo debe ajustar el asiento y los espejos?",
+      "o": [
+        "Mientras maneja en la autopista",
+        "En el primer semáforo en rojo",
+        "Antes de empezar a manejar",
+        "Solo si otra persona usó su carro"
+      ],
+      "h1": "Piense en cuándo tiene las manos y los ojos libres para hacerlo con seguridad.",
+      "h2": "Ajustar los espejos en movimiento le quita la atención de la vía, así que debe ajustar el asiento y los espejos antes de empezar a manejar.",
+      "p": "Correcto. Ajuste el asiento y los espejos antes de empezar a manejar."
+    }
+  },
+  {
+    "id": "safe-driving-051",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "What is the right way to use your car horn?",
+      "o": [
+        "To warn others of danger",
+        "To show you are angry",
+        "To greet friends you pass",
+        "To make slow drivers hurry"
+      ],
+      "h1": "Think about safety, not feelings.",
+      "h2": "The horn is a safety tool, so use it to warn others of danger and not to show anger or rush people.",
+      "p": "Right. Use the horn to warn others of danger."
+    },
+    "es": {
+      "q": "¿Cuál es la forma correcta de usar la bocina?",
+      "o": [
+        "Para avisar a otros de un peligro",
+        "Para mostrar que está enojado",
+        "Para saludar a amigos que pasa",
+        "Para que los lentos se apuren"
+      ],
+      "h1": "Piense en la seguridad, no en los sentimientos.",
+      "h2": "La bocina es una herramienta de seguridad, así que úsela para avisar a otros de un peligro y no para mostrar enojo ni apurar a la gente.",
+      "p": "Correcto. Use la bocina para avisar a otros de un peligro."
+    }
+  },
+  {
+    "id": "safe-driving-052",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Your wiper blades leave streaks and you cannot see well in the rain. What should you do?",
+      "o": [
+        "Drive with your head out the window",
+        "Use them only on the highway",
+        "Turn on your high beams",
+        "Replace the wiper blades soon"
+      ],
+      "h1": "Think about what you need to see clearly in the rain.",
+      "h2": "Worn wiper blades do not clear the glass, so you should replace them soon to see the road clearly in the rain.",
+      "p": "Right. Replace worn wiper blades so you can see in the rain."
+    },
+    "es": {
+      "q": "Sus limpiaparabrisas dejan rayas y no ve bien en la lluvia. ¿Qué debe hacer?",
+      "o": [
+        "Manejar con la cabeza afuera de la ventana",
+        "Usarlos solo en la autopista",
+        "Encender las luces altas",
+        "Cambiar las plumas del limpiaparabrisas pronto"
+      ],
+      "h1": "Piense en lo que necesita para ver bien en la lluvia.",
+      "h2": "Las plumas gastadas no limpian bien el vidrio, así que debe cambiarlas pronto para ver la vía con claridad en la lluvia.",
+      "p": "Correcto. Cambie las plumas gastadas para ver bien en la lluvia."
+    }
+  },
+  {
+    "id": "safe-driving-053",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Your brake pedal feels soft and sinks close to the floor. What should you do?",
+      "o": [
+        "Keep driving and press harder",
+        "Have the brakes checked right away",
+        "Wait until the next oil change",
+        "Use only the parking brake from now on"
+      ],
+      "h1": "Think about what a soft pedal can say about your brakes.",
+      "h2": "A soft or sinking brake pedal is a warning sign of a brake problem, so you should have the brakes checked right away.",
+      "p": "Right. A soft brake pedal means get the brakes checked now."
+    },
+    "es": {
+      "q": "El pedal del freno se siente blando y baja casi hasta el piso. ¿Qué debe hacer?",
+      "o": [
+        "Seguir manejando y pisar más fuerte",
+        "Hacer revisar los frenos de inmediato",
+        "Esperar hasta el próximo cambio de aceite",
+        "Usar solo el freno de mano desde ahora"
+      ],
+      "h1": "Piense en lo que un pedal blando puede decir de sus frenos.",
+      "h2": "Un pedal de freno blando o que se hunde es una señal de un problema en los frenos, así que debe hacerlos revisar de inmediato.",
+      "p": "Correcto. Un pedal blando significa revisar los frenos ya."
+    }
+  },
+  {
+    "id": "safe-driving-054",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You are stopped behind a large truck on an uphill road. Why should you leave extra space?",
+      "o": [
+        "So you can read its license plate",
+        "So other cars can pass you",
+        "The truck may roll back a little when it starts",
+        "So the truck driver can see your lights"
+      ],
+      "h1": "Think about what a heavy vehicle can do on a hill when it starts to move.",
+      "h2": "A heavy truck can roll back a little on a hill before it moves forward, so leave extra space in front of you.",
+      "p": "Right. Leave extra space because a truck may roll back on a hill."
+    },
+    "es": {
+      "q": "Usted está parado detrás de un camión grande en una subida. ¿Por qué debe dejar más espacio?",
+      "o": [
+        "Para poder leer su placa",
+        "Para que otros carros lo rebasen",
+        "El camión puede rodar un poco hacia atrás al arrancar",
+        "Para que el chofer vea sus luces"
+      ],
+      "h1": "Piense en lo que puede hacer un vehículo pesado en una subida al empezar a moverse.",
+      "h2": "Un camión pesado puede rodar un poco hacia atrás en una subida antes de avanzar, así que deje más espacio delante de usted.",
+      "p": "Correcto. Deje más espacio porque el camión puede rodar hacia atrás."
+    }
+  }
+]

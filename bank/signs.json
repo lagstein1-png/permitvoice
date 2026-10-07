@@ -1,0 +1,1691 @@
+[
+  {
+    "id": "signs-001",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "stop",
+      "text": "STOP"
+    },
+    "c": 0,
+    "en": {
+      "q": "A red sign has eight sides. What must you do?",
+      "o": [
+        "Stop fully, then go when it is safe",
+        "Slow down, and stop only if cars come",
+        "Get ready for road work ahead",
+        "Watch for a school zone ahead"
+      ],
+      "h1": "Think about the only sign with eight sides.",
+      "h2": "An eight-sided red sign is a stop sign, so you must come to a full stop and go only when the way is clear.",
+      "p": "Right. Eight sides means stop fully, then go when safe."
+    },
+    "es": {
+      "q": "Una señal roja tiene ocho lados. ¿Qué debe hacer?",
+      "o": [
+        "Pararse por completo y seguir cuando sea seguro",
+        "Bajar la velocidad y pararse solo si vienen carros",
+        "Prepararse para obras en la vía",
+        "Estar atento a una zona escolar"
+      ],
+      "h1": "Piense en la única señal que tiene ocho lados.",
+      "h2": "Una señal roja de ocho lados es la señal de pare, así que usted debe pararse por completo y seguir solo cuando el camino esté libre.",
+      "p": "Correcto. Ocho lados significa pararse por completo y seguir cuando sea seguro."
+    }
+  },
+  {
+    "id": "signs-002",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "yield",
+      "text": "YIELD"
+    },
+    "c": 1,
+    "en": {
+      "q": "What does a red and white triangle pointing down mean?",
+      "o": [
+        "Stop every time, even if the road is clear",
+        "Slow down, let others go first, stop if needed",
+        "Speed up so you can merge quickly",
+        "The road ends just ahead"
+      ],
+      "h1": "This sign is about who goes first.",
+      "h2": "The upside-down triangle is a yield sign, so you slow down, let other traffic go first, and stop if you need to.",
+      "p": "Right. Yield means slow down and let others go first."
+    },
+    "es": {
+      "q": "¿Qué significa un triángulo rojo y blanco con la punta hacia abajo?",
+      "o": [
+        "Pararse siempre, aunque la vía esté libre",
+        "Bajar la velocidad, dejar pasar a otros y parar si hace falta",
+        "Acelerar para entrar rápido al tráfico",
+        "La vía se termina más adelante"
+      ],
+      "h1": "Esta señal trata de quién pasa primero.",
+      "h2": "El triángulo con la punta hacia abajo es la señal de ceda el paso, así que usted baja la velocidad, deja pasar a los demás y se para si hace falta.",
+      "p": "Correcto. Ceda el paso significa bajar la velocidad y dejar pasar a otros."
+    }
+  },
+  {
+    "id": "signs-003",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "school",
+      "text": "SCHOOL"
+    },
+    "c": 2,
+    "en": {
+      "q": "What does a sign with five sides warn you about?",
+      "o": [
+        "A railroad crossing ahead",
+        "A hospital nearby",
+        "A school zone or school crossing",
+        "A no-passing zone"
+      ],
+      "h1": "Think about who you may see walking near this sign.",
+      "h2": "A five-sided sign marks a school zone or a school crossing, so you should slow down and watch for children.",
+      "p": "Right. Five sides means a school is near."
+    },
+    "es": {
+      "q": "¿Sobre qué le avisa una señal de cinco lados?",
+      "o": [
+        "Un cruce de tren más adelante",
+        "Un hospital cerca",
+        "Una zona escolar o un cruce escolar",
+        "Una zona donde no se puede rebasar"
+      ],
+      "h1": "Piense en quiénes podrían caminar cerca de esta señal.",
+      "h2": "Una señal de cinco lados marca una zona escolar o un cruce escolar, así que usted debe bajar la velocidad y estar atento a los niños.",
+      "p": "Correcto. Cinco lados significa que hay una escuela cerca."
+    }
+  },
+  {
+    "id": "signs-004",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "rr-advance",
+      "text": "RR"
+    },
+    "c": 3,
+    "en": {
+      "q": "What does a round yellow sign with an X and two R letters mean?",
+      "o": [
+        "A traffic circle is ahead",
+        "A bus stop is ahead",
+        "A rest area is ahead",
+        "A railroad crossing is ahead"
+      ],
+      "h1": "The two letters stand for a kind of track.",
+      "h2": "The round yellow sign warns that a railroad crossing is ahead, so you should slow down, look, listen, and be ready to stop.",
+      "p": "Right. The round yellow sign warns of a railroad crossing ahead."
+    },
+    "es": {
+      "q": "¿Qué significa una señal amarilla y redonda con una X y dos letras R?",
+      "o": [
+        "Hay una rotonda más adelante",
+        "Hay una parada de autobús más adelante",
+        "Hay un área de descanso más adelante",
+        "Hay un cruce de tren más adelante"
+      ],
+      "h1": "Las dos letras se refieren a un tipo de vía.",
+      "h2": "La señal amarilla y redonda avisa que hay un cruce de tren más adelante, así que usted debe bajar la velocidad, mirar, escuchar y estar listo para parar.",
+      "p": "Correcto. La señal amarilla y redonda avisa de un cruce de tren."
+    }
+  },
+  {
+    "id": "signs-005",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "crossbuck",
+      "text": "RAILROAD CROSSING"
+    },
+    "c": 0,
+    "en": {
+      "q": "At the tracks you see a white X-shaped sign. What should you do?",
+      "o": [
+        "Treat it like a yield sign and look for trains",
+        "Speed up to get across the tracks fast",
+        "Change lanes before you reach the tracks",
+        "Ignore it unless it is dark outside"
+      ],
+      "h1": "Think about what could be coming down the tracks.",
+      "h2": "The white X sign is a railroad crossbuck, and it works like a yield sign, so you slow down, look both ways, and stop if a train is coming.",
+      "p": "Right. The crossbuck means yield to trains."
+    },
+    "es": {
+      "q": "En la vía del tren ve una señal blanca en forma de X. ¿Qué debe hacer?",
+      "o": [
+        "Tratarla como un ceda el paso y buscar trenes",
+        "Acelerar para cruzar la vía rápido",
+        "Cambiar de carril antes de la vía",
+        "No hacerle caso a menos que sea de noche"
+      ],
+      "h1": "Piense en lo que podría venir por la vía.",
+      "h2": "La señal blanca en forma de X es la cruz de ferrocarril, y funciona como un ceda el paso, así que usted baja la velocidad, mira a ambos lados y se para si viene un tren.",
+      "p": "Correcto. La cruz de ferrocarril significa ceder el paso a los trenes."
+    }
+  },
+  {
+    "id": "signs-006",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "diamond-yellow"
+    },
+    "c": 1,
+    "en": {
+      "q": "What does a yellow diamond-shaped sign usually do?",
+      "o": [
+        "Gives you directions to a city",
+        "Warns you about a hazard or change ahead",
+        "Tells you the speed limit",
+        "Shows you a place to eat"
+      ],
+      "h1": "Think about why a sign would use a bright yellow color.",
+      "h2": "A yellow diamond is a warning sign, so it tells you about a hazard or a change in the road ahead.",
+      "p": "Right. A yellow diamond warns you about something ahead."
+    },
+    "es": {
+      "q": "¿Qué hace normalmente una señal amarilla en forma de rombo?",
+      "o": [
+        "Le da direcciones hacia una ciudad",
+        "Le avisa de un peligro o un cambio más adelante",
+        "Le dice el límite de velocidad",
+        "Le muestra un lugar para comer"
+      ],
+      "h1": "Piense en por qué una señal usaría un amarillo fuerte.",
+      "h2": "Un rombo amarillo es una señal de advertencia, así que le avisa de un peligro o de un cambio en la vía más adelante.",
+      "p": "Correcto. Un rombo amarillo le avisa de algo más adelante."
+    }
+  },
+  {
+    "id": "signs-007",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "diamond-orange",
+      "text": "ROAD WORK AHEAD"
+    },
+    "c": 2,
+    "en": {
+      "q": "Orange signs tell you about what?",
+      "o": [
+        "School zones",
+        "Parks and campgrounds",
+        "Road work and work zones",
+        "Gas and food"
+      ],
+      "h1": "Think about where you see orange cones and workers.",
+      "h2": "Orange signs are used for road work and work zones, so you should slow down and watch for workers and changes.",
+      "p": "Right. Orange signs mean road work."
+    },
+    "es": {
+      "q": "¿De qué le avisan las señales anaranjadas?",
+      "o": [
+        "De zonas escolares",
+        "De parques y campamentos",
+        "De obras y zonas de trabajo en la vía",
+        "De gasolina y comida"
+      ],
+      "h1": "Piense en dónde ve conos anaranjados y trabajadores.",
+      "h2": "Las señales anaranjadas se usan para obras y zonas de trabajo en la vía, así que usted debe bajar la velocidad y estar atento a los trabajadores y a los cambios.",
+      "p": "Correcto. Las señales anaranjadas significan obras en la vía."
+    }
+  },
+  {
+    "id": "signs-008",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "no-passing",
+      "text": "NO PASSING ZONE"
+    },
+    "c": 3,
+    "en": {
+      "q": "What does a yellow sign shaped like a long, sideways triangle mean?",
+      "o": [
+        "A merge is ahead on the right",
+        "Trucks have the right of way",
+        "The road gets narrow ahead",
+        "A no-passing zone begins here"
+      ],
+      "h1": "This is the only sign with this flag-like shape.",
+      "h2": "The sideways yellow triangle, called a pennant, means a no-passing zone begins, so you must not pass other cars here.",
+      "p": "Right. The pennant means no passing."
+    },
+    "es": {
+      "q": "¿Qué significa una señal amarilla en forma de triángulo largo y acostado?",
+      "o": [
+        "Hay una incorporación más adelante a la derecha",
+        "Los camiones tienen el derecho de paso",
+        "La vía se hace angosta más adelante",
+        "Aquí empieza una zona donde no se puede rebasar"
+      ],
+      "h1": "Es la única señal con esta forma de banderín.",
+      "h2": "El triángulo amarillo acostado, llamado banderín, significa que empieza una zona donde no se puede rebasar, así que usted no debe rebasar a otros carros aquí.",
+      "p": "Correcto. El banderín significa que no se puede rebasar."
+    }
+  },
+  {
+    "id": "signs-009",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "On which side of the road is the no-passing pennant sign placed?",
+      "o": [
+        "The left side",
+        "The right side",
+        "Over the middle lane",
+        "Painted on the road"
+      ],
+      "h1": "Think about where your eyes look when you plan to pass.",
+      "h2": "The no-passing pennant is placed on the left side of the road, because that is the side you look at when you think about passing.",
+      "p": "Right. The pennant is on the left side of the road."
+    },
+    "es": {
+      "q": "¿En qué lado de la vía se pone la señal de banderín de no rebasar?",
+      "o": [
+        "En el lado izquierdo",
+        "En el lado derecho",
+        "Encima del carril del medio",
+        "Pintada en el pavimento"
+      ],
+      "h1": "Piense hacia dónde mira cuando planea rebasar.",
+      "h2": "El banderín de no rebasar se pone en el lado izquierdo de la vía, porque ese es el lado que usted mira cuando piensa rebasar.",
+      "p": "Correcto. El banderín está en el lado izquierdo de la vía."
+    }
+  },
+  {
+    "id": "signs-010",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "rect-white"
+    },
+    "c": 1,
+    "en": {
+      "q": "A white rectangle sign with black letters usually shows what?",
+      "o": [
+        "A warning about a curve",
+        "A traffic law you must obey",
+        "Directions to a city",
+        "A place to camp"
+      ],
+      "h1": "Think about signs like the speed limit sign.",
+      "h2": "White rectangle signs with black letters are regulatory signs, so they show a traffic law that you must obey.",
+      "p": "Right. White rectangle signs show rules you must follow."
+    },
+    "es": {
+      "q": "¿Qué muestra normalmente una señal blanca y rectangular con letras negras?",
+      "o": [
+        "Un aviso de una curva",
+        "Una ley de tránsito que debe obedecer",
+        "Direcciones hacia una ciudad",
+        "Un lugar para acampar"
+      ],
+      "h1": "Piense en señales como la del límite de velocidad.",
+      "h2": "Las señales blancas y rectangulares con letras negras son señales reglamentarias, así que muestran una ley de tránsito que usted debe obedecer.",
+      "p": "Correcto. Las señales blancas rectangulares muestran reglas que debe seguir."
+    }
+  },
+  {
+    "id": "signs-011",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "rect-green",
+      "text": "Orlando 25"
+    },
+    "c": 2,
+    "en": {
+      "q": "What do green signs show you?",
+      "o": [
+        "Where the hospital is",
+        "Where road work starts",
+        "Directions and distances",
+        "Where a school zone is"
+      ],
+      "h1": "Think about signs that help you find your way.",
+      "h2": "Green signs are guide signs, so they show directions, exits, and how far it is to places.",
+      "p": "Right. Green signs show directions and distances."
+    },
+    "es": {
+      "q": "¿Qué le muestran las señales verdes?",
+      "o": [
+        "Dónde está el hospital",
+        "Dónde empiezan las obras",
+        "Direcciones y distancias",
+        "Dónde hay una zona escolar"
+      ],
+      "h1": "Piense en señales que le ayudan a encontrar el camino.",
+      "h2": "Las señales verdes son señales de guía, así que muestran direcciones, salidas y qué tan lejos están los lugares.",
+      "p": "Correcto. Las señales verdes muestran direcciones y distancias."
+    }
+  },
+  {
+    "id": "signs-012",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "rect-blue",
+      "text": "GAS FOOD LODGING"
+    },
+    "c": 3,
+    "en": {
+      "q": "What do blue signs along the road show?",
+      "o": [
+        "Speed laws",
+        "Road work",
+        "Parks and lakes",
+        "Services like gas, food, and lodging"
+      ],
+      "h1": "Think about what you need on a long trip.",
+      "h2": "Blue signs show motorist services, so they point you to things like gas, food, lodging, and hospitals.",
+      "p": "Right. Blue signs show services like gas and food."
+    },
+    "es": {
+      "q": "¿Qué muestran las señales azules en la carretera?",
+      "o": [
+        "Leyes de velocidad",
+        "Obras en la vía",
+        "Parques y lagos",
+        "Servicios como gasolina, comida y hospedaje"
+      ],
+      "h1": "Piense en lo que necesita en un viaje largo.",
+      "h2": "Las señales azules muestran servicios para conductores, así que le indican lugares como gasolineras, comida, hospedaje y hospitales.",
+      "p": "Correcto. Las señales azules muestran servicios como gasolina y comida."
+    }
+  },
+  {
+    "id": "signs-013",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "rect-brown",
+      "text": "STATE PARK"
+    },
+    "c": 0,
+    "en": {
+      "q": "What do brown signs point you to?",
+      "o": [
+        "Parks, campgrounds, and places to visit",
+        "Gas stations and hotels",
+        "Exits and city names",
+        "Road work zones"
+      ],
+      "h1": "Think about places you go for fun or nature.",
+      "h2": "Brown signs point to recreation and cultural places, such as parks, campgrounds, and historic sites.",
+      "p": "Right. Brown signs point to parks and places to visit."
+    },
+    "es": {
+      "q": "¿Hacia dónde le indican las señales color café?",
+      "o": [
+        "Parques, campamentos y lugares para visitar",
+        "Gasolineras y hoteles",
+        "Salidas y nombres de ciudades",
+        "Zonas de obras"
+      ],
+      "h1": "Piense en lugares a los que va para divertirse o estar en la naturaleza.",
+      "h2": "Las señales color café indican lugares de recreación y cultura, como parques, campamentos y sitios históricos.",
+      "p": "Correcto. Las señales color café indican parques y lugares para visitar."
+    }
+  },
+  {
+    "id": "signs-014",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "do-not-enter",
+      "text": "DO NOT ENTER"
+    },
+    "c": 1,
+    "en": {
+      "q": "What does a red circle with a white bar across it mean?",
+      "o": [
+        "Stop, then go when clear",
+        "Do not enter this road",
+        "Hospital ahead",
+        "Two-way traffic ahead"
+      ],
+      "h1": "Think about a road where all the cars come toward you.",
+      "h2": "The red circle with a white bar means do not enter, because traffic on that road comes toward you.",
+      "p": "Right. The red circle with a white bar means do not enter."
+    },
+    "es": {
+      "q": "¿Qué significa un círculo rojo con una barra blanca en el medio?",
+      "o": [
+        "Pararse y seguir cuando esté libre",
+        "No entre a esta vía",
+        "Hospital más adelante",
+        "Tráfico en dos sentidos más adelante"
+      ],
+      "h1": "Piense en una vía donde todos los carros vienen hacia usted.",
+      "h2": "El círculo rojo con una barra blanca significa no entre, porque el tráfico en esa vía viene hacia usted.",
+      "p": "Correcto. El círculo rojo con barra blanca significa no entre."
+    }
+  },
+  {
+    "id": "signs-015",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "wrong-way",
+      "text": "WRONG WAY"
+    },
+    "c": 2,
+    "en": {
+      "q": "A red sign facing you says WRONG WAY. What should you do?",
+      "o": [
+        "Keep going with your hazard lights on",
+        "Speed up to reach the next exit",
+        "Pull over safely and turn around",
+        "Keep driving on the shoulder"
+      ],
+      "h1": "The sign means you are going against traffic.",
+      "h2": "A WRONG WAY sign means you are driving against traffic, so you should pull over safely and turn around as soon as you can.",
+      "p": "Right. WRONG WAY means pull over safely and turn around."
+    },
+    "es": {
+      "q": "Una señal roja frente a usted dice WRONG WAY (sentido contrario). ¿Qué debe hacer?",
+      "o": [
+        "Seguir con las luces de emergencia prendidas",
+        "Acelerar para llegar a la próxima salida",
+        "Orillarse con cuidado y dar la vuelta",
+        "Seguir manejando por el acotamiento"
+      ],
+      "h1": "La señal quiere decir que usted va contra el tráfico.",
+      "h2": "Una señal de sentido contrario quiere decir que usted maneja contra el tráfico, así que debe orillarse con cuidado y dar la vuelta lo antes posible.",
+      "p": "Correcto. Sentido contrario significa orillarse con cuidado y dar la vuelta."
+    }
+  },
+  {
+    "id": "signs-016",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "rect-white",
+      "text": "SPEED LIMIT 55"
+    },
+    "c": 3,
+    "en": {
+      "q": "What does this sign tell you?",
+      "o": [
+        "The lowest speed you may drive",
+        "The speed you must always drive",
+        "A suggested speed for curves",
+        "The top legal speed in good conditions"
+      ],
+      "h1": "Think about whether you may go faster, or slower.",
+      "h2": "A speed limit sign shows the highest legal speed when conditions are good, so you may need to drive slower in rain, fog, or heavy traffic.",
+      "p": "Right. The speed limit is the top speed in good conditions."
+    },
+    "es": {
+      "q": "¿Qué le dice esta señal?",
+      "o": [
+        "La velocidad más baja permitida",
+        "La velocidad a la que siempre debe ir",
+        "Una velocidad sugerida para curvas",
+        "La velocidad máxima legal en buenas condiciones"
+      ],
+      "h1": "Piense si puede ir más rápido o más despacio.",
+      "h2": "Una señal de límite de velocidad muestra la velocidad máxima legal cuando las condiciones son buenas, así que puede tener que ir más despacio con lluvia, neblina o mucho tráfico.",
+      "p": "Correcto. El límite es la velocidad máxima en buenas condiciones."
+    }
+  },
+  {
+    "id": "signs-017",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "rect-white",
+      "text": "ONE WAY"
+    },
+    "c": 1,
+    "en": {
+      "q": "What does a ONE WAY sign with an arrow mean?",
+      "o": [
+        "Only one lane is open ahead",
+        "Traffic moves only in the arrow's direction",
+        "Only one car may pass at a time",
+        "You may make only one turn"
+      ],
+      "h1": "Look at where the arrow points.",
+      "h2": "A ONE WAY sign means all traffic on that street moves only in the direction of the arrow.",
+      "p": "Right. One way means drive only in the arrow's direction."
+    },
+    "es": {
+      "q": "¿Qué significa una señal ONE WAY (un solo sentido) con una flecha?",
+      "o": [
+        "Solo hay un carril abierto más adelante",
+        "El tráfico va solo en la dirección de la flecha",
+        "Solo puede pasar un carro a la vez",
+        "Solo puede dar una vuelta"
+      ],
+      "h1": "Mire hacia dónde apunta la flecha.",
+      "h2": "Una señal de un solo sentido quiere decir que todo el tráfico en esa calle va solo en la dirección de la flecha.",
+      "p": "Correcto. Un solo sentido significa manejar solo hacia donde apunta la flecha."
+    }
+  },
+  {
+    "id": "signs-018",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "rect-white",
+      "text": "NO U-TURN"
+    },
+    "c": 2,
+    "en": {
+      "q": "What does a NO U-TURN sign mean?",
+      "o": [
+        "You may not turn left here",
+        "You may not turn right here",
+        "You may not turn around here",
+        "You may not change lanes here"
+      ],
+      "h1": "A U-turn makes the shape of the letter U.",
+      "h2": "A NO U-TURN sign means you may not turn your car around to go back the other way at that place.",
+      "p": "Right. No U-turn means you may not turn around here."
+    },
+    "es": {
+      "q": "¿Qué significa una señal de NO U-TURN (prohibido dar vuelta en U)?",
+      "o": [
+        "No puede doblar a la izquierda aquí",
+        "No puede doblar a la derecha aquí",
+        "No puede dar la vuelta para regresar aquí",
+        "No puede cambiar de carril aquí"
+      ],
+      "h1": "Una vuelta en U tiene la forma de la letra U.",
+      "h2": "Una señal de prohibido dar vuelta en U quiere decir que usted no puede dar la vuelta con su carro para regresar en ese lugar.",
+      "p": "Correcto. Prohibido vuelta en U significa que no puede dar la vuelta aquí."
+    }
+  },
+  {
+    "id": "signs-019",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "rect-white",
+      "text": "NO TURN ON RED"
+    },
+    "c": 3,
+    "en": {
+      "q": "What does a NO TURN ON RED sign mean?",
+      "o": [
+        "Turn right only after a full stop",
+        "Turn only when no cars are coming",
+        "Turn on red only at night",
+        "Wait for the green light before you turn"
+      ],
+      "h1": "The sign changes what you may do while the light is red.",
+      "h2": "A NO TURN ON RED sign means you may not turn while the light is red, so you must wait for the green light.",
+      "p": "Right. No turn on red means wait for green."
+    },
+    "es": {
+      "q": "¿Qué significa una señal de NO TURN ON RED (no doblar con luz roja)?",
+      "o": [
+        "Doblar a la derecha solo después de parar por completo",
+        "Doblar solo cuando no vengan carros",
+        "Doblar con luz roja solo de noche",
+        "Esperar la luz verde antes de doblar"
+      ],
+      "h1": "La señal cambia lo que puede hacer mientras la luz está en rojo.",
+      "h2": "Una señal de no doblar con luz roja quiere decir que usted no puede doblar mientras la luz está en rojo, así que debe esperar la luz verde.",
+      "p": "Correcto. No doblar con luz roja significa esperar la luz verde."
+    }
+  },
+  {
+    "id": "signs-020",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "rect-white",
+      "text": "KEEP RIGHT"
+    },
+    "c": 0,
+    "en": {
+      "q": "A KEEP RIGHT sign stands at the front of a median. What does it mean?",
+      "o": [
+        "Stay to the right of the median or island",
+        "Move to the right lane to exit",
+        "The right lane ends ahead",
+        "Use the right lane only to pass"
+      ],
+      "h1": "Think about which side of the median your car should go.",
+      "h2": "A KEEP RIGHT sign means you must drive on the right side of the median or island ahead.",
+      "p": "Right. Keep right means pass the median on its right side."
+    },
+    "es": {
+      "q": "Una señal KEEP RIGHT (manténgase a la derecha) está al inicio de una isla. ¿Qué significa?",
+      "o": [
+        "Pasar por la derecha de la isla o el divisor",
+        "Cambiarse al carril derecho para salir",
+        "El carril derecho se termina más adelante",
+        "Usar el carril derecho solo para rebasar"
+      ],
+      "h1": "Piense por qué lado de la isla debe pasar su carro.",
+      "h2": "Una señal de manténgase a la derecha quiere decir que usted debe pasar por el lado derecho de la isla o el divisor que está adelante.",
+      "p": "Correcto. Manténgase a la derecha significa pasar la isla por su lado derecho."
+    }
+  },
+  {
+    "id": "signs-021",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "rect-white",
+      "text": "ONLY"
+    },
+    "c": 1,
+    "en": {
+      "q": "A sign over your lane shows only a left arrow. What must you do?",
+      "o": [
+        "You may go straight or turn left",
+        "You must turn left from this lane",
+        "You may turn left or right",
+        "You must change lanes at the light"
+      ],
+      "h1": "The arrows show what each lane is allowed to do.",
+      "h2": "When the sign over your lane shows only a left arrow, that lane is for left turns, so you must turn left.",
+      "p": "Right. A left-only arrow means you must turn left."
+    },
+    "es": {
+      "q": "Una señal encima de su carril muestra solo una flecha a la izquierda. ¿Qué debe hacer?",
+      "o": [
+        "Puede seguir derecho o doblar a la izquierda",
+        "Debe doblar a la izquierda desde este carril",
+        "Puede doblar a la izquierda o a la derecha",
+        "Debe cambiar de carril en el semáforo"
+      ],
+      "h1": "Las flechas muestran lo que se permite en cada carril.",
+      "h2": "Cuando la señal encima de su carril muestra solo una flecha a la izquierda, ese carril es para doblar a la izquierda, así que usted debe doblar a la izquierda.",
+      "p": "Correcto. Una flecha solo a la izquierda significa que debe doblar a la izquierda."
+    }
+  },
+  {
+    "id": "signs-022",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "35 MPH"
+    },
+    "c": 2,
+    "en": {
+      "q": "A curve warning sign has a small yellow sign below it with a speed. What is that speed?",
+      "o": [
+        "The lowest speed you may drive",
+        "The new speed limit for the road",
+        "A safe speed for the curve",
+        "A speed for trucks only"
+      ],
+      "h1": "It is a yellow sign, not a white one.",
+      "h2": "The small yellow speed sign under a curve sign gives a safe speed for the curve in good conditions, so slow down to that speed or less.",
+      "p": "Right. The yellow speed plate gives a safe speed for the curve."
+    },
+    "es": {
+      "q": "Una señal de curva tiene abajo una señal amarilla pequeña con una velocidad. ¿Qué es esa velocidad?",
+      "o": [
+        "La velocidad más baja permitida",
+        "El nuevo límite de velocidad de la vía",
+        "Una velocidad segura para la curva",
+        "Una velocidad solo para camiones"
+      ],
+      "h1": "Es una señal amarilla, no blanca.",
+      "h2": "La señal amarilla pequeña debajo de una señal de curva le da una velocidad segura para la curva en buenas condiciones, así que baje a esa velocidad o menos.",
+      "p": "Correcto. La placa amarilla le da una velocidad segura para la curva."
+    }
+  },
+  {
+    "id": "signs-023",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "MERGE"
+    },
+    "c": 3,
+    "en": {
+      "q": "A yellow sign shows a side line joining the main road. What should you expect?",
+      "o": [
+        "A railroad crossing",
+        "A dead end",
+        "A stop sign ahead",
+        "Cars entering your road from the side"
+      ],
+      "h1": "Think about two roads becoming one.",
+      "h2": "This merge sign warns that cars will enter your road from the side, so be ready to adjust your speed or make room.",
+      "p": "Right. The merge sign means cars will join your road."
+    },
+    "es": {
+      "q": "Una señal amarilla muestra una línea lateral que se une a la vía principal. ¿Qué debe esperar?",
+      "o": [
+        "Un cruce de tren",
+        "Una calle sin salida",
+        "Una señal de pare más adelante",
+        "Carros que entran a su vía desde un lado"
+      ],
+      "h1": "Piense en dos vías que se vuelven una.",
+      "h2": "Esta señal de incorporación avisa que entrarán carros a su vía desde un lado, así que esté listo para ajustar su velocidad o darles espacio.",
+      "p": "Correcto. La señal de incorporación significa que entrarán carros a su vía."
+    }
+  },
+  {
+    "id": "signs-024",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "RIGHT LANE ENDS"
+    },
+    "c": 0,
+    "en": {
+      "q": "You are in the right lane. A sign says RIGHT LANE ENDS. What should you do?",
+      "o": [
+        "Move left when it is safe",
+        "Speed up to stay ahead of others",
+        "Stop at the end of the lane",
+        "Drive on the shoulder"
+      ],
+      "h1": "Your lane will soon be gone.",
+      "h2": "When the sign says your lane ends, you should signal and move into the next lane when it is safe.",
+      "p": "Right. When your lane ends, move over safely."
+    },
+    "es": {
+      "q": "Usted va en el carril derecho. Una señal dice RIGHT LANE ENDS (el carril derecho termina). ¿Qué debe hacer?",
+      "o": [
+        "Pasarse a la izquierda cuando sea seguro",
+        "Acelerar para quedar delante de los demás",
+        "Pararse al final del carril",
+        "Manejar por el acotamiento"
+      ],
+      "h1": "Su carril pronto desaparece.",
+      "h2": "Cuando la señal dice que su carril termina, usted debe poner la direccional y pasarse al otro carril cuando sea seguro.",
+      "p": "Correcto. Cuando su carril termina, cámbiese con cuidado."
+    }
+  },
+  {
+    "id": "signs-025",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "DIVIDED HIGHWAY"
+    },
+    "c": 1,
+    "en": {
+      "q": "A warning sign says a divided highway begins. What changes ahead?",
+      "o": [
+        "The road comes to an end",
+        "A median will separate the two directions",
+        "The speed limit goes up",
+        "Two lanes become one lane"
+      ],
+      "h1": "Think about what divides the road.",
+      "h2": "A divided highway begins sign means a median will soon separate traffic going each way, so keep to the right of it.",
+      "p": "Right. A median will separate the two directions."
+    },
+    "es": {
+      "q": "Una señal de advertencia dice que empieza una carretera dividida. ¿Qué cambia más adelante?",
+      "o": [
+        "La vía se termina",
+        "Una isla o divisor va a separar los dos sentidos",
+        "El límite de velocidad sube",
+        "Dos carriles se vuelven uno"
+      ],
+      "h1": "Piense en qué divide la vía.",
+      "h2": "La señal de que empieza una carretera dividida significa que pronto un divisor va a separar el tráfico de cada sentido, así que manténgase a la derecha de él.",
+      "p": "Correcto. Un divisor va a separar los dos sentidos."
+    }
+  },
+  {
+    "id": "signs-026",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "DIVIDED HIGHWAY ENDS"
+    },
+    "c": 2,
+    "en": {
+      "q": "A sign says the divided highway ends. What should you expect?",
+      "o": [
+        "You may now pass on the right",
+        "The road becomes one-way",
+        "Cars coming toward you with no divider",
+        "A bridge is just ahead"
+      ],
+      "h1": "Think about what happens when the median is gone.",
+      "h2": "When the divided highway ends, there is no median anymore, so cars going the other way will be right beside you and you must keep right.",
+      "p": "Right. With no divider, oncoming cars share the road with you."
+    },
+    "es": {
+      "q": "Una señal dice que termina la carretera dividida. ¿Qué debe esperar?",
+      "o": [
+        "Ahora puede rebasar por la derecha",
+        "La vía se vuelve de un solo sentido",
+        "Carros que vienen de frente sin divisor",
+        "Un puente justo adelante"
+      ],
+      "h1": "Piense en lo que pasa cuando ya no hay divisor.",
+      "h2": "Cuando termina la carretera dividida, ya no hay divisor, así que los carros que van en el otro sentido pasarán a su lado y usted debe mantenerse a la derecha.",
+      "p": "Correcto. Sin divisor, los carros de frente comparten la vía con usted."
+    }
+  },
+  {
+    "id": "signs-027",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "SLIPPERY WHEN WET"
+    },
+    "c": 0,
+    "en": {
+      "q": "A sign says SLIPPERY WHEN WET. It is raining. What should you do?",
+      "o": [
+        "Slow down and avoid sudden moves",
+        "Turn on cruise control",
+        "Speed up to get past the area",
+        "Brake hard if the car slides"
+      ],
+      "h1": "Think about how tires grip a wet road.",
+      "h2": "A wet road can be slick, so you should slow down and avoid quick turns or hard braking.",
+      "p": "Right. On a slippery road, slow down and move smoothly."
+    },
+    "es": {
+      "q": "Una señal dice SLIPPERY WHEN WET (resbaloso cuando está mojado). Está lloviendo. ¿Qué debe hacer?",
+      "o": [
+        "Bajar la velocidad y evitar movimientos bruscos",
+        "Prender el control de velocidad",
+        "Acelerar para pasar rápido esa zona",
+        "Frenar fuerte si el carro resbala"
+      ],
+      "h1": "Piense en cómo agarran las llantas en una vía mojada.",
+      "h2": "Una vía mojada puede estar resbalosa, así que usted debe bajar la velocidad y evitar vueltas rápidas o frenazos.",
+      "p": "Correcto. En una vía resbalosa, baje la velocidad y maneje con suavidad."
+    }
+  },
+  {
+    "id": "signs-028",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "SIGNAL AHEAD"
+    },
+    "c": 1,
+    "en": {
+      "q": "A yellow sign shows a traffic light. What does it warn you about?",
+      "o": [
+        "A stop sign is ahead",
+        "A traffic signal is ahead",
+        "A railroad is ahead",
+        "A police checkpoint is ahead"
+      ],
+      "h1": "Look at the picture on the sign.",
+      "h2": "This sign warns that a traffic signal is ahead, so be ready to slow down or stop.",
+      "p": "Right. The sign warns that a traffic light is ahead."
+    },
+    "es": {
+      "q": "Una señal amarilla muestra un semáforo. ¿De qué le avisa?",
+      "o": [
+        "Hay una señal de pare más adelante",
+        "Hay un semáforo más adelante",
+        "Hay un tren más adelante",
+        "Hay un retén de policía más adelante"
+      ],
+      "h1": "Mire el dibujo en la señal.",
+      "h2": "Esta señal avisa que hay un semáforo más adelante, así que esté listo para bajar la velocidad o pararse.",
+      "p": "Correcto. La señal avisa que hay un semáforo más adelante."
+    }
+  },
+  {
+    "id": "signs-029",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "DEER CROSSING"
+    },
+    "c": 2,
+    "en": {
+      "q": "A yellow sign shows a deer. What should you do?",
+      "o": [
+        "Look for a nearby zoo",
+        "Pull over and wait",
+        "Watch for deer near or on the road",
+        "Speed up through the area"
+      ],
+      "h1": "Animals may run onto the road with no warning.",
+      "h2": "A deer crossing sign means deer often cross there, so you should slow down and watch the sides of the road, especially at dawn and dusk.",
+      "p": "Right. Watch for deer near the road."
+    },
+    "es": {
+      "q": "Una señal amarilla muestra un venado. ¿Qué debe hacer?",
+      "o": [
+        "Buscar un zoológico cerca",
+        "Orillarse y esperar",
+        "Estar atento a venados cerca o en la vía",
+        "Acelerar para pasar la zona"
+      ],
+      "h1": "Los animales pueden salir a la vía sin aviso.",
+      "h2": "Una señal de cruce de venados quiere decir que los venados cruzan seguido por ahí, así que usted debe bajar la velocidad y mirar los lados de la vía, sobre todo al amanecer y al anochecer.",
+      "p": "Correcto. Esté atento a los venados cerca de la vía."
+    }
+  },
+  {
+    "id": "signs-030",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "LOW CLEARANCE"
+    },
+    "c": 3,
+    "en": {
+      "q": "A sign warns of LOW CLEARANCE ahead. What does it mean?",
+      "o": [
+        "The road gets narrow",
+        "The shoulder is soft",
+        "A steep hill is ahead",
+        "A low bridge or overpass is ahead"
+      ],
+      "h1": "Clearance is the space above your vehicle.",
+      "h2": "A low clearance sign means a bridge or overpass ahead is low, so tall vehicles may not fit under it.",
+      "p": "Right. Low clearance means a low bridge or overpass is ahead."
+    },
+    "es": {
+      "q": "Una señal avisa LOW CLEARANCE (altura baja) más adelante. ¿Qué significa?",
+      "o": [
+        "La vía se hace angosta",
+        "El acotamiento está blando",
+        "Hay una cuesta empinada",
+        "Hay un puente o paso elevado bajo"
+      ],
+      "h1": "Piense en el espacio que hay encima de su vehículo.",
+      "h2": "Una señal de altura baja quiere decir que un puente o paso elevado más adelante es bajo, así que los vehículos altos podrían no caber.",
+      "p": "Correcto. Altura baja significa que hay un puente o paso elevado bajo."
+    }
+  },
+  {
+    "id": "signs-031",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "school",
+      "text": "SCHOOL"
+    },
+    "c": 0,
+    "en": {
+      "q": "You see a school crossing sign. What should you do?",
+      "o": [
+        "Slow down and watch for children",
+        "Honk to warn the children",
+        "Speed up to clear the area",
+        "Change lanes to go around"
+      ],
+      "h1": "Children can be hard to see and may move fast.",
+      "h2": "A school crossing sign means children may be crossing, so you should slow down and be ready to stop.",
+      "p": "Right. At a school crossing, slow down and watch for children."
+    },
+    "es": {
+      "q": "Usted ve una señal de cruce escolar. ¿Qué debe hacer?",
+      "o": [
+        "Bajar la velocidad y estar atento a los niños",
+        "Tocar la bocina para avisar a los niños",
+        "Acelerar para pasar la zona",
+        "Cambiar de carril para rodear"
+      ],
+      "h1": "Los niños pueden ser difíciles de ver y moverse rápido.",
+      "h2": "Una señal de cruce escolar quiere decir que puede haber niños cruzando, así que usted debe bajar la velocidad y estar listo para parar.",
+      "p": "Correcto. En un cruce escolar, baje la velocidad y esté atento a los niños."
+    }
+  },
+  {
+    "id": "signs-032",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "rect-white",
+      "text": "SPEED LIMIT WHEN FLASHING"
+    },
+    "c": 1,
+    "en": {
+      "q": "A school zone speed sign has yellow lights that are flashing. What does that mean?",
+      "o": [
+        "The lower speed is only a suggestion",
+        "The lower school speed limit is in effect now",
+        "School is closed today",
+        "Only school buses must slow down"
+      ],
+      "h1": "The lights tell you when the sign applies.",
+      "h2": "When the lights on a school zone sign are flashing, the lower school speed limit is the law right now, so you must slow down to it.",
+      "p": "Right. Flashing lights mean the school speed limit applies now."
+    },
+    "es": {
+      "q": "Una señal de velocidad en zona escolar tiene luces amarillas intermitentes. ¿Qué significa?",
+      "o": [
+        "La velocidad baja es solo una sugerencia",
+        "El límite escolar más bajo está vigente ahora",
+        "Hoy no hay clases",
+        "Solo los autobuses escolares deben ir más despacio"
+      ],
+      "h1": "Las luces le dicen cuándo aplica la señal.",
+      "h2": "Cuando las luces de una señal de zona escolar están intermitentes, el límite escolar más bajo es la ley en ese momento, así que usted debe bajar a esa velocidad.",
+      "p": "Correcto. Las luces intermitentes significan que el límite escolar aplica ahora."
+    }
+  },
+  {
+    "id": "signs-033",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "crossbuck",
+      "text": "RAILROAD CROSSING"
+    },
+    "c": 2,
+    "en": {
+      "q": "At a railroad crossing, the red lights are flashing. What must you do?",
+      "o": [
+        "Slow down and cross with care",
+        "Go if you do not see a train",
+        "Stop and wait until the lights stop",
+        "Drive around the gate"
+      ],
+      "h1": "Flashing red lights at the tracks mean a train is coming.",
+      "h2": "Flashing red lights at a railroad crossing mean a train is near, so you must stop and wait until the lights stop flashing.",
+      "p": "Right. Flashing red lights at the tracks mean stop and wait."
+    },
+    "es": {
+      "q": "En un cruce de tren, las luces rojas están intermitentes. ¿Qué debe hacer?",
+      "o": [
+        "Bajar la velocidad y cruzar con cuidado",
+        "Seguir si no ve un tren",
+        "Pararse y esperar hasta que las luces se apaguen",
+        "Rodear la barrera"
+      ],
+      "h1": "Las luces rojas intermitentes en la vía del tren significan que viene un tren.",
+      "h2": "Las luces rojas intermitentes en un cruce de tren quieren decir que un tren está cerca, así que usted debe pararse y esperar hasta que las luces dejen de parpadear.",
+      "p": "Correcto. Luces rojas intermitentes en la vía significan parar y esperar."
+    }
+  },
+  {
+    "id": "signs-034",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "The railroad gates are down, but you do not see a train. What should you do?",
+      "o": [
+        "Drive around the gates if it looks clear",
+        "Cross slowly with hazard lights on",
+        "Use the other lane to get past",
+        "Stay stopped until the gates go up"
+      ],
+      "h1": "A train can be closer and faster than it looks.",
+      "h2": "When the gates are down, a train is coming even if you cannot see it, so you must stay stopped until the gates go all the way up.",
+      "p": "Right. Never go around the gates. Wait until they go up."
+    },
+    "es": {
+      "q": "Las barreras del tren están abajo, pero usted no ve ningún tren. ¿Qué debe hacer?",
+      "o": [
+        "Rodear las barreras si parece libre",
+        "Cruzar despacio con las luces de emergencia",
+        "Usar el otro carril para pasar",
+        "Quedarse parado hasta que suban las barreras"
+      ],
+      "h1": "Un tren puede estar más cerca y venir más rápido de lo que parece.",
+      "h2": "Cuando las barreras están abajo, viene un tren aunque usted no lo vea, así que debe quedarse parado hasta que las barreras suban por completo.",
+      "p": "Correcto. Nunca rodee las barreras. Espere a que suban."
+    }
+  },
+  {
+    "id": "signs-035",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "crossbuck",
+      "text": "2 TRACKS"
+    },
+    "c": 0,
+    "en": {
+      "q": "A small sign under the crossbuck says 2 TRACKS. What does it warn you about?",
+      "o": [
+        "After one train passes, another may come",
+        "Trains pass only two times a day",
+        "Two lanes of cars cross the tracks",
+        "You must wait two minutes to cross"
+      ],
+      "h1": "Think about what could hide behind the first train.",
+      "h2": "The tracks sign tells you there is more than one track, so after one train passes you must look again, because a second train may be coming.",
+      "p": "Right. More than one track means another train may come."
+    },
+    "es": {
+      "q": "Una señal pequeña debajo de la cruz de ferrocarril dice 2 TRACKS (2 vías). ¿De qué le avisa?",
+      "o": [
+        "Después de que pase un tren, puede venir otro",
+        "Los trenes pasan solo dos veces al día",
+        "Dos carriles de carros cruzan la vía",
+        "Debe esperar dos minutos para cruzar"
+      ],
+      "h1": "Piense en lo que podría estar escondido detrás del primer tren.",
+      "h2": "La señal de vías le dice que hay más de una vía, así que después de que pase un tren usted debe volver a mirar, porque puede venir un segundo tren.",
+      "p": "Correcto. Más de una vía significa que puede venir otro tren."
+    }
+  },
+  {
+    "id": "signs-036",
+    "scope": "FL",
+    "cat": "signs",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, when you must stop for a train, where should you stop?",
+      "o": [
+        "Right on top of the first rail",
+        "Between 15 and 50 feet from the nearest rail",
+        "At least 100 feet from the tracks",
+        "Anywhere you like before the crossing"
+      ],
+      "h1": "You need space between you and the train, but not too much.",
+      "h2": "In Florida, you must stop no closer than 15 feet and no farther than 50 feet from the nearest rail, so the train has room and you can still see it.",
+      "p": "Right. Stop between 15 and 50 feet from the nearest rail."
+    },
+    "es": {
+      "q": "En Florida, cuando debe pararse por un tren, ¿dónde debe pararse?",
+      "o": [
+        "Justo encima del primer riel",
+        "Entre 15 y 50 pies del riel más cercano",
+        "Por lo menos a 100 pies de la vía",
+        "Donde quiera antes del cruce"
+      ],
+      "h1": "Necesita espacio entre usted y el tren, pero no demasiado.",
+      "h2": "En Florida, usted debe pararse a no menos de 15 pies y no más de 50 pies del riel más cercano, para que el tren tenga espacio y usted todavía pueda verlo.",
+      "p": "Correcto. Párese entre 15 y 50 pies del riel más cercano."
+    }
+  },
+  {
+    "id": "signs-037",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "diamond-orange",
+      "text": "ROAD WORK AHEAD"
+    },
+    "c": 2,
+    "en": {
+      "q": "An orange sign says ROAD WORK AHEAD. What should you do?",
+      "o": [
+        "Find another road, this one is closed",
+        "Keep your speed, workers are done",
+        "Slow down and be ready for workers and changes",
+        "Speed up to get through the work fast"
+      ],
+      "h1": "Think about people working near moving cars.",
+      "h2": "A road work sign means workers, equipment, or lane changes may be ahead, so you should slow down and pay close attention.",
+      "p": "Right. In road work, slow down and stay alert."
+    },
+    "es": {
+      "q": "Una señal anaranjada dice ROAD WORK AHEAD (obras más adelante). ¿Qué debe hacer?",
+      "o": [
+        "Buscar otra vía, esta está cerrada",
+        "Mantener su velocidad, los trabajadores ya terminaron",
+        "Bajar la velocidad y estar listo para trabajadores y cambios",
+        "Acelerar para pasar las obras rápido"
+      ],
+      "h1": "Piense en personas trabajando cerca de carros en movimiento.",
+      "h2": "Una señal de obras quiere decir que puede haber trabajadores, máquinas o cambios de carril más adelante, así que usted debe bajar la velocidad y poner mucha atención.",
+      "p": "Correcto. En zona de obras, baje la velocidad y esté alerta."
+    }
+  },
+  {
+    "id": "signs-038",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In a work zone, a flagger holds a STOP paddle toward you. What should you do?",
+      "o": [
+        "Slow down and drive around the flagger",
+        "Honk and keep going slowly",
+        "Stop only if workers are close to you",
+        "Stop and wait until the flagger lets you go"
+      ],
+      "h1": "The flagger is directing traffic like a signal.",
+      "h2": "A flagger's STOP paddle has the same force as a stop sign, so you must stop and wait until the flagger signals you to go.",
+      "p": "Right. Obey the flagger and wait for the signal to go."
+    },
+    "es": {
+      "q": "En una zona de obras, un banderero le muestra un letrero de STOP (pare). ¿Qué debe hacer?",
+      "o": [
+        "Bajar la velocidad y rodear al banderero",
+        "Tocar la bocina y seguir despacio",
+        "Pararse solo si hay trabajadores cerca",
+        "Pararse y esperar hasta que el banderero le deje pasar"
+      ],
+      "h1": "El banderero dirige el tráfico como un semáforo.",
+      "h2": "El letrero de pare del banderero vale igual que una señal de pare, así que usted debe pararse y esperar hasta que el banderero le indique que siga.",
+      "p": "Correcto. Obedezca al banderero y espere su señal para seguir."
+    }
+  },
+  {
+    "id": "signs-039",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "An orange sign says DETOUR. What does it mean?",
+      "o": [
+        "Follow the signs on a different route",
+        "The road is closed forever",
+        "Only trucks must leave the road",
+        "Park and wait for the road to open"
+      ],
+      "h1": "A detour is a way around something.",
+      "h2": "A detour sign means the normal road is closed for now, so you follow the detour signs on another route.",
+      "p": "Right. Detour means follow the signs on another route."
+    },
+    "es": {
+      "q": "Una señal anaranjada dice DETOUR (desvío). ¿Qué significa?",
+      "o": [
+        "Seguir las señales por otra ruta",
+        "La vía está cerrada para siempre",
+        "Solo los camiones deben salir de la vía",
+        "Estacionarse y esperar a que abran la vía"
+      ],
+      "h1": "Un desvío es un camino para rodear algo.",
+      "h2": "Una señal de desvío quiere decir que la vía normal está cerrada por ahora, así que usted sigue las señales de desvío por otra ruta.",
+      "p": "Correcto. Desvío significa seguir las señales por otra ruta."
+    }
+  },
+  {
+    "id": "signs-040",
+    "scope": "FL",
+    "cat": "signs",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, what happens to a speeding fine in a work zone when workers are there?",
+      "o": [
+        "It is cut in half",
+        "It is doubled",
+        "It stays the same",
+        "It becomes only a warning"
+      ],
+      "h1": "Florida wants to protect the people working on the road.",
+      "h2": "In Florida, the fine for speeding in a work zone is doubled when workers are present, because workers near traffic are at great risk.",
+      "p": "Right. Speeding fines double in a work zone with workers present."
+    },
+    "es": {
+      "q": "En Florida, ¿qué pasa con la multa por exceso de velocidad en una zona de obras cuando hay trabajadores?",
+      "o": [
+        "Se reduce a la mitad",
+        "Se duplica",
+        "Se queda igual",
+        "Se vuelve solo una advertencia"
+      ],
+      "h1": "Florida quiere proteger a las personas que trabajan en la vía.",
+      "h2": "En Florida, la multa por exceso de velocidad en una zona de obras se duplica cuando hay trabajadores presentes, porque los trabajadores cerca del tráfico corren mucho peligro.",
+      "p": "Correcto. La multa por velocidad se duplica en zona de obras con trabajadores."
+    }
+  },
+  {
+    "id": "signs-041",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "interstate",
+      "text": "95"
+    },
+    "c": 2,
+    "en": {
+      "q": "What kind of road does a blue and red shield with a number mark?",
+      "o": [
+        "A state park road",
+        "A private toll road",
+        "An Interstate highway",
+        "A county road"
+      ],
+      "h1": "This shield is used across the whole country.",
+      "h2": "The blue and red shield marks an Interstate highway, which is part of the national highway system.",
+      "p": "Right. The blue and red shield marks an Interstate."
+    },
+    "es": {
+      "q": "¿Qué tipo de vía marca un escudo azul y rojo con un número?",
+      "o": [
+        "Una vía de parque estatal",
+        "Una vía privada de peaje",
+        "Una autopista interestatal",
+        "Una vía del condado"
+      ],
+      "h1": "Este escudo se usa en todo el país.",
+      "h2": "El escudo azul y rojo marca una autopista interestatal, que es parte del sistema nacional de carreteras.",
+      "p": "Correcto. El escudo azul y rojo marca una interestatal."
+    }
+  },
+  {
+    "id": "signs-042",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "interstate",
+      "text": "95"
+    },
+    "c": 3,
+    "en": {
+      "q": "Interstates with odd numbers, like I-95, usually run which way?",
+      "o": [
+        "East and west",
+        "In a loop around a city",
+        "Only inside one state",
+        "North and south"
+      ],
+      "h1": "Odd and even numbers are used for two different directions.",
+      "h2": "Interstates with odd numbers usually run north and south, like I-95 along the east coast.",
+      "p": "Right. Odd numbers usually run north and south."
+    },
+    "es": {
+      "q": "Las interestatales con número impar, como la I-95, ¿hacia dónde van normalmente?",
+      "o": [
+        "De este a oeste",
+        "En círculo alrededor de una ciudad",
+        "Solo dentro de un estado",
+        "De norte a sur"
+      ],
+      "h1": "Los números pares e impares se usan para dos direcciones diferentes.",
+      "h2": "Las interestatales con número impar normalmente van de norte a sur, como la I-95 por la costa este.",
+      "p": "Correcto. Los números impares normalmente van de norte a sur."
+    }
+  },
+  {
+    "id": "signs-043",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "interstate",
+      "text": "10"
+    },
+    "c": 0,
+    "en": {
+      "q": "I-10 has an even number. Which way does it usually run?",
+      "o": [
+        "East and west",
+        "North and south",
+        "Around a city",
+        "Along the coast only"
+      ],
+      "h1": "Even and odd numbers go in different directions.",
+      "h2": "Interstates with even numbers usually run east and west, like I-10 across north Florida.",
+      "p": "Right. Even numbers usually run east and west."
+    },
+    "es": {
+      "q": "La I-10 tiene un número par. ¿Hacia dónde va normalmente?",
+      "o": [
+        "De este a oeste",
+        "De norte a sur",
+        "Alrededor de una ciudad",
+        "Solo por la costa"
+      ],
+      "h1": "Los números pares e impares van en direcciones distintas.",
+      "h2": "Las interestatales con número par normalmente van de este a oeste, como la I-10 por el norte de Florida.",
+      "p": "Correcto. Los números pares normalmente van de este a oeste."
+    }
+  },
+  {
+    "id": "signs-044",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "medium",
+    "sign": {
+      "shape": "interstate",
+      "text": "295"
+    },
+    "c": 1,
+    "en": {
+      "q": "An Interstate has three digits, like I-295. The first digit is even. What does that often mean?",
+      "o": [
+        "It is a toll road",
+        "It is a loop or bypass around a city",
+        "It goes only into a city center",
+        "It is closed at night"
+      ],
+      "h1": "Look at the first digit, and think about going around something.",
+      "h2": "A three-digit Interstate that starts with an even number is often a loop or bypass that goes around a city, like I-295 around Jacksonville.",
+      "p": "Right. An even first digit often means a loop around a city."
+    },
+    "es": {
+      "q": "Una interestatal tiene tres dígitos, como la I-295. El primer dígito es par. ¿Qué suele significar?",
+      "o": [
+        "Es una vía de peaje",
+        "Es un anillo o desvío alrededor de una ciudad",
+        "Solo entra al centro de una ciudad",
+        "Se cierra de noche"
+      ],
+      "h1": "Mire el primer dígito y piense en rodear algo.",
+      "h2": "Una interestatal de tres dígitos que empieza con número par suele ser un anillo o desvío que rodea una ciudad, como la I-295 alrededor de Jacksonville.",
+      "p": "Correcto. Un primer dígito par suele indicar un anillo alrededor de una ciudad."
+    }
+  },
+  {
+    "id": "signs-045",
+    "scope": "FL",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "rect-green",
+      "text": "EXIT"
+    },
+    "c": 2,
+    "en": {
+      "q": "In Florida, how are exit numbers on Interstates chosen?",
+      "o": [
+        "In order, 1, 2, 3, from the state line",
+        "By the name of the nearest city",
+        "By the nearest mile marker",
+        "By the number of the crossing road"
+      ],
+      "h1": "Think about the small green signs that count the miles.",
+      "h2": "In Florida, Interstate exit numbers match the nearest mile marker, so the exit number also tells you about how far you are along the road.",
+      "p": "Right. Florida exit numbers follow the mile markers."
+    },
+    "es": {
+      "q": "En Florida, ¿cómo se escogen los números de salida en las interestatales?",
+      "o": [
+        "En orden, 1, 2, 3, desde la frontera del estado",
+        "Por el nombre de la ciudad más cercana",
+        "Por el marcador de milla más cercano",
+        "Por el número de la vía que cruza"
+      ],
+      "h1": "Piense en las señales verdes pequeñas que cuentan las millas.",
+      "h2": "En Florida, los números de salida en las interestatales corresponden al marcador de milla más cercano, así que el número de salida también le dice más o menos qué tan lejos va en la vía.",
+      "p": "Correcto. En Florida, los números de salida siguen los marcadores de milla."
+    }
+  },
+  {
+    "id": "signs-046",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "rect-green",
+      "text": "MILE 120"
+    },
+    "c": 3,
+    "en": {
+      "q": "How do small green mile marker signs help you?",
+      "o": [
+        "They show the speed limit",
+        "They point to gas stations",
+        "They tell you where to pay tolls",
+        "They tell your location in an emergency"
+      ],
+      "h1": "Think about what you would tell a 911 operator.",
+      "h2": "Mile markers show where you are on the highway, so you can tell emergency helpers your exact location.",
+      "p": "Right. Mile markers help you tell where you are."
+    },
+    "es": {
+      "q": "¿Cómo le ayudan las señales verdes pequeñas de marcador de milla?",
+      "o": [
+        "Muestran el límite de velocidad",
+        "Indican dónde hay gasolineras",
+        "Le dicen dónde pagar el peaje",
+        "Le ayudan a decir dónde está en una emergencia"
+      ],
+      "h1": "Piense en lo que le diría a la operadora del 911.",
+      "h2": "Los marcadores de milla muestran dónde está usted en la carretera, así que puede decirle a la ayuda de emergencia su ubicación exacta.",
+      "p": "Correcto. Los marcadores de milla le ayudan a decir dónde está."
+    }
+  },
+  {
+    "id": "signs-047",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": {
+      "shape": "rect-blue",
+      "text": "H"
+    },
+    "c": 0,
+    "en": {
+      "q": "A blue sign shows a big white letter H. What does it mean?",
+      "o": [
+        "A hospital is nearby",
+        "A hotel is nearby",
+        "A helicopter pad is nearby",
+        "The highway ends here"
+      ],
+      "h1": "Blue signs show services you may need.",
+      "h2": "A blue sign with a white H points to a hospital, so you can find medical help nearby.",
+      "p": "Right. The blue H sign means a hospital is near."
+    },
+    "es": {
+      "q": "Una señal azul muestra una letra H grande y blanca. ¿Qué significa?",
+      "o": [
+        "Hay un hospital cerca",
+        "Hay un hotel cerca",
+        "Hay un helipuerto cerca",
+        "La autopista termina aquí"
+      ],
+      "h1": "Las señales azules muestran servicios que podría necesitar.",
+      "h2": "Una señal azul con una H blanca indica un hospital, así que usted puede encontrar ayuda médica cerca.",
+      "p": "Correcto. La señal azul con H significa que hay un hospital cerca."
+    }
+  },
+  {
+    "id": "signs-048",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "On traffic signs, what does the color red usually mean?",
+      "o": [
+        "A warning about the road ahead",
+        "Stop, yield, or something is not allowed",
+        "Directions to a place",
+        "Services like gas and food"
+      ],
+      "h1": "Think of the stop sign and the do not enter sign.",
+      "h2": "Red on a sign usually means stop, yield, or that something is not allowed, like on the stop sign and the do not enter sign.",
+      "p": "Right. Red means stop, yield, or not allowed."
+    },
+    "es": {
+      "q": "En las señales de tránsito, ¿qué significa normalmente el color rojo?",
+      "o": [
+        "Un aviso sobre la vía más adelante",
+        "Pare, ceda el paso o algo no está permitido",
+        "Direcciones hacia un lugar",
+        "Servicios como gasolina y comida"
+      ],
+      "h1": "Piense en la señal de pare y en la de no entre.",
+      "h2": "El rojo en una señal normalmente quiere decir pare, ceda el paso o que algo no está permitido, como en la señal de pare y la de no entre.",
+      "p": "Correcto. El rojo significa pare, ceda el paso o no está permitido."
+    }
+  },
+  {
+    "id": "signs-049",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "A bright yellow-green sign shows a person walking. What should you watch for?",
+      "o": [
+        "People on bicycles only",
+        "Animals crossing",
+        "People crossing the road",
+        "Road workers"
+      ],
+      "h1": "Look at the picture on the sign.",
+      "h2": "A yellow-green sign with a walking person warns that people may be crossing the road, so slow down and be ready to stop for them.",
+      "p": "Right. Watch for people crossing the road."
+    },
+    "es": {
+      "q": "Una señal verde amarillenta brillante muestra a una persona caminando. ¿A qué debe estar atento?",
+      "o": [
+        "Solo a personas en bicicleta",
+        "A animales cruzando",
+        "A personas cruzando la vía",
+        "A trabajadores de la vía"
+      ],
+      "h1": "Mire el dibujo en la señal.",
+      "h2": "Una señal verde amarillenta con una persona caminando avisa que puede haber personas cruzando la vía, así que baje la velocidad y esté listo para pararse por ellas.",
+      "p": "Correcto. Esté atento a personas cruzando la vía."
+    }
+  }
+]

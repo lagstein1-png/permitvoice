@@ -1,0 +1,1218 @@
+[
+  {
+    "id": "signals-001",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "What does a steady red traffic light mean?",
+      "o": [
+        "Slow down and go if no one is coming",
+        "Stop only if a police officer is there",
+        "Stop and stay stopped until it is safe and legal to go",
+        "Speed up to clear the intersection"
+      ],
+      "h1": "Think about the strongest color on a traffic light.",
+      "h2": "A steady red light means you must stop and stay stopped, because cross traffic has the right to go.",
+      "p": "Right. A steady red light means stop and wait."
+    },
+    "es": {
+      "q": "¿Qué significa una luz roja fija en el semáforo?",
+      "o": [
+        "Baje la velocidad y siga si no viene nadie",
+        "Pare solo si hay un policía",
+        "Pare y quédese parado hasta que sea seguro y legal seguir",
+        "Acelere para salir de la intersección"
+      ],
+      "h1": "Piense en el color más fuerte del semáforo.",
+      "h2": "Una luz roja fija significa que usted debe parar y quedarse parado, porque el tráfico que cruza tiene el derecho a pasar.",
+      "p": "Correcto. Una luz roja fija significa pare y espere."
+    }
+  },
+  {
+    "id": "signals-002",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "The light turns steady yellow as you come near. What should you do?",
+      "o": [
+        "Stop if you can do it safely",
+        "Speed up to beat the red light",
+        "Stop suddenly, no matter what",
+        "Keep going at the same speed always"
+      ],
+      "h1": "Yellow is a warning. Think about what color comes next.",
+      "h2": "A steady yellow light warns that the light will soon turn red, so you should stop if you can do it safely.",
+      "p": "Right. Steady yellow means red is coming, so stop if it is safe."
+    },
+    "es": {
+      "q": "La luz cambia a amarillo fijo cuando usted se acerca. ¿Qué debe hacer?",
+      "o": [
+        "Parar si lo puede hacer con seguridad",
+        "Acelerar para pasar antes de la roja",
+        "Frenar de golpe, pase lo que pase",
+        "Seguir siempre a la misma velocidad"
+      ],
+      "h1": "El amarillo es una advertencia. Piense qué color viene después.",
+      "h2": "Una luz amarilla fija avisa que pronto cambiará a roja, así que usted debe parar si lo puede hacer con seguridad.",
+      "p": "Correcto. Amarillo fijo significa que viene la roja, así que pare si es seguro."
+    }
+  },
+  {
+    "id": "signals-003",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "You are already in the intersection when the light turns yellow. What should you do?",
+      "o": [
+        "Stop in the middle of the intersection",
+        "Back up to the stop line",
+        "Turn around in the intersection",
+        "Carefully finish going through the intersection"
+      ],
+      "h1": "Think about where it is safest for your car to be when the light turns red.",
+      "h2": "If you are already in the intersection when the light turns yellow, you should carefully keep going, because stopping there would block traffic.",
+      "p": "Right. If you are already in the intersection, carefully clear it."
+    },
+    "es": {
+      "q": "Usted ya está dentro de la intersección cuando la luz cambia a amarillo. ¿Qué debe hacer?",
+      "o": [
+        "Parar en medio de la intersección",
+        "Dar marcha atrás hasta la línea de pare",
+        "Dar la vuelta dentro de la intersección",
+        "Terminar de cruzar la intersección con cuidado"
+      ],
+      "h1": "Piense dónde es más seguro estar cuando la luz cambie a roja.",
+      "h2": "Si usted ya está dentro de la intersección cuando la luz cambia a amarillo, debe seguir con cuidado, porque parar ahí bloquearía el tráfico.",
+      "p": "Correcto. Si ya está dentro de la intersección, termine de cruzar con cuidado."
+    }
+  },
+  {
+    "id": "signals-004",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "What does a flashing red light mean?",
+      "o": [
+        "Slow down, but you do not need to stop",
+        "Stop fully, then go when the way is clear",
+        "The light is about to turn green",
+        "Only trucks must stop"
+      ],
+      "h1": "A flashing red light works like a sign you already know.",
+      "h2": "A flashing red light works like a stop sign, so you must stop fully and then go when the way is clear.",
+      "p": "Right. A flashing red light means stop, then go when safe."
+    },
+    "es": {
+      "q": "¿Qué significa una luz roja intermitente?",
+      "o": [
+        "Baje la velocidad, pero no tiene que parar",
+        "Pare por completo y luego siga cuando el camino esté libre",
+        "La luz está por cambiar a verde",
+        "Solo los camiones deben parar"
+      ],
+      "h1": "Una luz roja intermitente funciona como una señal que usted ya conoce.",
+      "h2": "Una luz roja intermitente funciona como una señal de pare, así que usted debe parar por completo y luego seguir cuando el camino esté libre.",
+      "p": "Correcto. Luz roja intermitente significa pare y luego siga cuando sea seguro."
+    }
+  },
+  {
+    "id": "signals-005",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "What does a flashing yellow light mean?",
+      "o": [
+        "Slow down and go ahead with care",
+        "Stop fully and wait for green",
+        "The road is closed ahead",
+        "You must turn right"
+      ],
+      "h1": "A flashing yellow light is a warning, not an order to stop.",
+      "h2": "A flashing yellow light means you should slow down and go ahead with care, because there may be danger ahead.",
+      "p": "Right. A flashing yellow light means slow down and be careful."
+    },
+    "es": {
+      "q": "¿Qué significa una luz amarilla intermitente?",
+      "o": [
+        "Baje la velocidad y siga con cuidado",
+        "Pare por completo y espere la verde",
+        "La calle está cerrada más adelante",
+        "Usted debe girar a la derecha"
+      ],
+      "h1": "Una luz amarilla intermitente es una advertencia, no una orden de parar.",
+      "h2": "Una luz amarilla intermitente significa que usted debe bajar la velocidad y seguir con cuidado, porque puede haber peligro más adelante.",
+      "p": "Correcto. Luz amarilla intermitente significa baje la velocidad y tenga cuidado."
+    }
+  },
+  {
+    "id": "signals-006",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "The light is steady green. A person is still crossing in the crosswalk. What should you do?",
+      "o": [
+        "Go, because green gives you the right of way",
+        "Honk so the person moves faster",
+        "Wait and let the person finish crossing",
+        "Drive around the person"
+      ],
+      "h1": "A green light lets you go, but think about who was there first.",
+      "h2": "A green light lets you go only when the way is clear, so you must wait for people and cars that are already in the intersection.",
+      "p": "Right. On green, you still let people finish crossing."
+    },
+    "es": {
+      "q": "La luz está en verde fijo. Una persona todavía está cruzando por el paso peatonal. ¿Qué debe hacer?",
+      "o": [
+        "Seguir, porque la verde le da el derecho de paso",
+        "Tocar la bocina para que la persona se apure",
+        "Esperar y dejar que la persona termine de cruzar",
+        "Pasar por un lado de la persona"
+      ],
+      "h1": "La luz verde le permite seguir, pero piense en quién estaba ahí primero.",
+      "h2": "La luz verde le permite seguir solo cuando el camino está libre, así que usted debe esperar a las personas y los carros que ya están en la intersección.",
+      "p": "Correcto. Con luz verde, igual deje que las personas terminen de cruzar."
+    }
+  },
+  {
+    "id": "signals-007",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "You see a steady green arrow pointing left. What does it mean?",
+      "o": [
+        "You may not turn left",
+        "You must yield to all oncoming cars first",
+        "Only buses may turn left",
+        "You may turn left, and oncoming traffic should be stopped"
+      ],
+      "h1": "A green arrow gives a special turn. Think about what the other traffic sees.",
+      "h2": "A steady green arrow means you may turn in the direction of the arrow, because oncoming traffic should be facing a red light.",
+      "p": "Right. A green arrow means you may make that turn."
+    },
+    "es": {
+      "q": "Usted ve una flecha verde fija que apunta a la izquierda. ¿Qué significa?",
+      "o": [
+        "No puede girar a la izquierda",
+        "Debe ceder el paso primero a todos los carros de frente",
+        "Solo los autobuses pueden girar a la izquierda",
+        "Puede girar a la izquierda, y el tráfico de frente debe estar parado"
+      ],
+      "h1": "Una flecha verde da un giro especial. Piense qué ve el otro tráfico.",
+      "h2": "Una flecha verde fija significa que usted puede girar en la dirección de la flecha, porque el tráfico de frente debe tener luz roja.",
+      "p": "Correcto. Una flecha verde significa que puede hacer ese giro."
+    }
+  },
+  {
+    "id": "signals-008",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "What does a flashing yellow arrow pointing left mean?",
+      "o": [
+        "You may turn left, and oncoming traffic is stopped",
+        "You may turn left, but you must yield to oncoming traffic and people walking",
+        "You must stop and wait for a green arrow",
+        "Left turns are not allowed here"
+      ],
+      "h1": "Flashing yellow is a warning. Think about whether oncoming cars can still come.",
+      "h2": "A flashing yellow arrow means you may turn left, but you must first yield to oncoming traffic and to people walking, because they may still have a green light.",
+      "p": "Right. A flashing yellow arrow means turn only after you yield."
+    },
+    "es": {
+      "q": "¿Qué significa una flecha amarilla intermitente que apunta a la izquierda?",
+      "o": [
+        "Puede girar a la izquierda, y el tráfico de frente está parado",
+        "Puede girar a la izquierda, pero debe ceder el paso al tráfico de frente y a los peatones",
+        "Debe parar y esperar una flecha verde",
+        "No se permite girar a la izquierda aquí"
+      ],
+      "h1": "El amarillo intermitente es una advertencia. Piense si los carros de frente todavía pueden venir.",
+      "h2": "Una flecha amarilla intermitente significa que usted puede girar a la izquierda, pero primero debe ceder el paso al tráfico de frente y a los peatones, porque ellos pueden tener luz verde.",
+      "p": "Correcto. Flecha amarilla intermitente significa gire solo después de ceder el paso."
+    }
+  },
+  {
+    "id": "signals-009",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "What does a steady yellow arrow mean?",
+      "o": [
+        "The protected turn is ending, so stop if you can do it safely",
+        "You may now turn without looking",
+        "Wait for the cars behind you",
+        "The turn lane is closed for the day"
+      ],
+      "h1": "A steady yellow arrow works like a steady yellow light, but for a turn.",
+      "h2": "A steady yellow arrow means the arrow will soon turn red, so you should stop if you can do it safely.",
+      "p": "Right. A steady yellow arrow means the turn time is ending."
+    },
+    "es": {
+      "q": "¿Qué significa una flecha amarilla fija?",
+      "o": [
+        "El giro protegido está terminando, así que pare si lo puede hacer con seguridad",
+        "Ahora puede girar sin mirar",
+        "Espere a los carros que vienen detrás",
+        "El carril de giro está cerrado todo el día"
+      ],
+      "h1": "Una flecha amarilla fija funciona como una luz amarilla fija, pero para un giro.",
+      "h2": "Una flecha amarilla fija significa que la flecha pronto cambiará a roja, así que usted debe parar si lo puede hacer con seguridad.",
+      "p": "Correcto. Una flecha amarilla fija significa que el tiempo del giro se acaba."
+    }
+  },
+  {
+    "id": "signals-010",
+    "scope": "FL",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, you are on a two-way street. A steady red arrow points left. What must you do?",
+      "o": [
+        "Turn left after a full stop if no one is coming",
+        "Turn left slowly without stopping",
+        "Stop and do not turn left until the signal allows it",
+        "Use the next lane to turn left instead"
+      ],
+      "h1": "Think about what a red signal means, even when it is shaped like an arrow.",
+      "h2": "In Florida, a steady red arrow pointing left means you must stop and must not turn left until a green arrow or green light lets you.",
+      "p": "Right. A red left arrow means no left turn yet."
+    },
+    "es": {
+      "q": "En Florida, usted está en una calle de doble sentido. Una flecha roja fija apunta a la izquierda. ¿Qué debe hacer?",
+      "o": [
+        "Girar a la izquierda después de parar por completo si no viene nadie",
+        "Girar a la izquierda despacio sin parar",
+        "Parar y no girar a la izquierda hasta que la señal lo permita",
+        "Usar el otro carril para girar a la izquierda"
+      ],
+      "h1": "Piense qué significa una señal roja, aunque tenga forma de flecha.",
+      "h2": "En Florida, una flecha roja fija que apunta a la izquierda significa que usted debe parar y no puede girar a la izquierda hasta que una flecha verde o luz verde se lo permita.",
+      "p": "Correcto. Una flecha roja a la izquierda significa que todavía no puede girar."
+    }
+  },
+  {
+    "id": "signals-011",
+    "scope": "FL",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, may you turn right on a steady red light?",
+      "o": [
+        "Yes, without stopping, if no one is coming",
+        "Yes, after a full stop, if no sign forbids it and the way is clear",
+        "No, never",
+        "Only between midnight and 6 a.m."
+      ],
+      "h1": "Think about two things: a full stop, and any sign at the corner.",
+      "h2": "In Florida, you may turn right on a red light after you stop fully and yield, unless a sign says no turn on red.",
+      "p": "Right. Stop fully, yield, and then you may turn right on red unless a sign forbids it."
+    },
+    "es": {
+      "q": "En Florida, ¿puede girar a la derecha con luz roja fija?",
+      "o": [
+        "Sí, sin parar, si no viene nadie",
+        "Sí, después de parar por completo, si ninguna señal lo prohíbe y el camino está libre",
+        "No, nunca",
+        "Solo entre la medianoche y las 6 a.m."
+      ],
+      "h1": "Piense en dos cosas: parar por completo y cualquier señal en la esquina.",
+      "h2": "En Florida, usted puede girar a la derecha con luz roja después de parar por completo y ceder el paso, a menos que una señal prohíba girar con luz roja.",
+      "p": "Correcto. Pare por completo, ceda el paso, y luego puede girar a la derecha con roja si ninguna señal lo prohíbe."
+    }
+  },
+  {
+    "id": "signals-012",
+    "scope": "FL",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, when may you turn left on a red light?",
+      "o": [
+        "From any street, if no one is coming",
+        "Never, under any condition",
+        "Only when you are in a hurry",
+        "From a one-way street onto another one-way street going left, after a full stop"
+      ],
+      "h1": "Think about which streets have no oncoming traffic.",
+      "h2": "In Florida, you may turn left on red only from a one-way street onto a one-way street that goes left, and only after a full stop when the way is clear and no sign forbids it.",
+      "p": "Right. Left on red is only from one-way to one-way, after a full stop."
+    },
+    "es": {
+      "q": "En Florida, ¿cuándo puede girar a la izquierda con luz roja?",
+      "o": [
+        "Desde cualquier calle, si no viene nadie",
+        "Nunca, en ningún caso",
+        "Solo cuando tiene prisa",
+        "De una calle de un solo sentido a otra calle de un solo sentido que va a la izquierda, después de parar por completo"
+      ],
+      "h1": "Piense en qué calles no tienen tráfico de frente.",
+      "h2": "En Florida, usted puede girar a la izquierda con luz roja solo de una calle de un solo sentido a otra de un solo sentido que va a la izquierda, y solo después de parar por completo, con el camino libre y sin una señal que lo prohíba.",
+      "p": "Correcto. Izquierda con roja solo de un solo sentido a un solo sentido, después de parar."
+    }
+  },
+  {
+    "id": "signals-013",
+    "scope": "FL",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, the traffic lights at an intersection are dark because the power is out. What should you do?",
+      "o": [
+        "Treat it as an all-way stop",
+        "Go through without stopping",
+        "Honk and go first",
+        "Treat it as a yield for you only"
+      ],
+      "h1": "With no signal working, think about which sign makes every driver take turns.",
+      "h2": "In Florida, when traffic lights are not working, you treat the intersection as an all-way stop, so every driver stops and then goes in turn.",
+      "p": "Right. A dark signal means an all-way stop."
+    },
+    "es": {
+      "q": "En Florida, los semáforos de una intersección están apagados porque no hay electricidad. ¿Qué debe hacer?",
+      "o": [
+        "Tratarla como una parada en todas las direcciones",
+        "Pasar sin parar",
+        "Tocar la bocina y pasar primero",
+        "Tratarla como un ceda el paso solo para usted"
+      ],
+      "h1": "Si ninguna señal funciona, piense qué señal hace que todos los conductores tomen turnos.",
+      "h2": "En Florida, cuando los semáforos no funcionan, usted trata la intersección como una parada en todas las direcciones, así que cada conductor para y luego sigue por turno.",
+      "p": "Correcto. Un semáforo apagado significa parada en todas las direcciones."
+    }
+  },
+  {
+    "id": "signals-014",
+    "scope": "FL",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, your light is green, but the traffic ahead is backed up into the intersection. What should you do?",
+      "o": [
+        "Go in anyway, because the light is green",
+        "Drive into the intersection and wait there",
+        "Wait before the intersection until there is room on the other side",
+        "Drive on the shoulder around the line"
+      ],
+      "h1": "Think about what happens to cross traffic if your car is stuck in the middle.",
+      "h2": "In Florida, you must not enter an intersection unless there is room for your car on the other side, even on green, because a stuck car blocks cross traffic.",
+      "p": "Right. Do not enter unless you can get all the way through."
+    },
+    "es": {
+      "q": "En Florida, su luz está en verde, pero el tráfico de adelante está detenido hasta la intersección. ¿Qué debe hacer?",
+      "o": [
+        "Entrar de todos modos, porque la luz está en verde",
+        "Entrar a la intersección y esperar ahí",
+        "Esperar antes de la intersección hasta que haya espacio del otro lado",
+        "Manejar por el paseo para pasar la fila"
+      ],
+      "h1": "Piense qué le pasa al tráfico que cruza si su carro queda atrapado en el medio.",
+      "h2": "En Florida, usted no debe entrar a una intersección si no hay espacio para su carro del otro lado, aunque tenga verde, porque un carro atrapado bloquea el tráfico que cruza.",
+      "p": "Correcto. No entre si no puede pasar por completo."
+    }
+  },
+  {
+    "id": "signals-015",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "A pedestrian signal shows a walking person. What does it mean for people on foot?",
+      "o": [
+        "They must not start crossing",
+        "They may start crossing the street",
+        "Only bicycles may cross",
+        "Cars may turn without looking"
+      ],
+      "h1": "The walking person is a picture of what people may do.",
+      "h2": "A walking person signal means people on foot may start crossing, so drivers who turn must yield to them.",
+      "p": "Right. The walking person means people may cross."
+    },
+    "es": {
+      "q": "Una señal para peatones muestra una persona caminando. ¿Qué significa para las personas a pie?",
+      "o": [
+        "No deben empezar a cruzar",
+        "Pueden empezar a cruzar la calle",
+        "Solo las bicicletas pueden cruzar",
+        "Los carros pueden girar sin mirar"
+      ],
+      "h1": "La persona caminando es un dibujo de lo que la gente puede hacer.",
+      "h2": "La señal de la persona caminando significa que las personas a pie pueden empezar a cruzar, así que los conductores que giran deben cederles el paso.",
+      "p": "Correcto. La persona caminando significa que pueden cruzar."
+    }
+  },
+  {
+    "id": "signals-016",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "A pedestrian signal shows a flashing raised hand. What does it mean?",
+      "o": [
+        "Anyone may start crossing now",
+        "People must run back to the curb",
+        "Drivers must stop for the whole cycle",
+        "Do not start crossing, but people already crossing may finish"
+      ],
+      "h1": "Think about the difference between starting to cross and finishing.",
+      "h2": "A flashing hand means people should not start crossing, but anyone already in the street may finish crossing.",
+      "p": "Right. A flashing hand means do not start, but finish if you already started."
+    },
+    "es": {
+      "q": "Una señal para peatones muestra una mano levantada intermitente. ¿Qué significa?",
+      "o": [
+        "Cualquiera puede empezar a cruzar ahora",
+        "Las personas deben correr de vuelta a la acera",
+        "Los conductores deben parar todo el ciclo",
+        "No empiece a cruzar, pero quien ya está cruzando puede terminar"
+      ],
+      "h1": "Piense en la diferencia entre empezar a cruzar y terminar de cruzar.",
+      "h2": "Una mano intermitente significa que las personas no deben empezar a cruzar, pero quien ya está en la calle puede terminar de cruzar.",
+      "p": "Correcto. Mano intermitente significa no empiece, pero termine si ya empezó."
+    }
+  },
+  {
+    "id": "signals-017",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "A pedestrian signal shows a number counting down next to a hand. What does the number show?",
+      "o": [
+        "How many seconds are left to finish crossing",
+        "How many people may cross",
+        "The speed limit for the street",
+        "How many cars may turn"
+      ],
+      "h1": "The number gets smaller every second.",
+      "h2": "The countdown number shows how many seconds are left for people to finish crossing before the signal changes.",
+      "p": "Right. The countdown shows the seconds left to cross."
+    },
+    "es": {
+      "q": "Una señal para peatones muestra un número que baja al lado de una mano. ¿Qué indica el número?",
+      "o": [
+        "Cuántos segundos quedan para terminar de cruzar",
+        "Cuántas personas pueden cruzar",
+        "El límite de velocidad de la calle",
+        "Cuántos carros pueden girar"
+      ],
+      "h1": "El número se hace más pequeño cada segundo.",
+      "h2": "El número de cuenta regresiva muestra cuántos segundos les quedan a las personas para terminar de cruzar antes de que cambie la señal.",
+      "p": "Correcto. La cuenta regresiva muestra los segundos que quedan para cruzar."
+    }
+  },
+  {
+    "id": "signals-018",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "What do yellow center lines on a road tell you?",
+      "o": [
+        "All lanes go the same direction",
+        "The road is a school zone",
+        "Traffic on each side of the line moves in opposite directions",
+        "Parking is allowed on the line"
+      ],
+      "h1": "Think about where yellow lines usually are: between the two sides of the road.",
+      "h2": "Yellow center lines separate traffic moving in opposite directions, so cars on the other side come toward you.",
+      "p": "Right. Yellow lines separate traffic going opposite ways."
+    },
+    "es": {
+      "q": "¿Qué le indican las líneas amarillas en el centro de la calle?",
+      "o": [
+        "Todos los carriles van en la misma dirección",
+        "La calle es una zona escolar",
+        "El tráfico de cada lado de la línea va en direcciones opuestas",
+        "Se permite estacionar sobre la línea"
+      ],
+      "h1": "Piense dónde suelen estar las líneas amarillas: entre los dos lados de la calle.",
+      "h2": "Las líneas amarillas del centro separan el tráfico que va en direcciones opuestas, así que los carros del otro lado vienen hacia usted.",
+      "p": "Correcto. Las líneas amarillas separan el tráfico que va en sentidos opuestos."
+    }
+  },
+  {
+    "id": "signals-019",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "What do white lines between lanes tell you?",
+      "o": [
+        "The lanes carry traffic going opposite directions",
+        "The lanes carry traffic going the same direction",
+        "The lane is only for buses",
+        "You are near a railroad crossing"
+      ],
+      "h1": "Compare white lines with yellow lines.",
+      "h2": "White lines between lanes show that the traffic in those lanes moves in the same direction.",
+      "p": "Right. White lines separate lanes going the same way."
+    },
+    "es": {
+      "q": "¿Qué le indican las líneas blancas entre los carriles?",
+      "o": [
+        "Los carriles llevan tráfico en direcciones opuestas",
+        "Los carriles llevan tráfico en la misma dirección",
+        "El carril es solo para autobuses",
+        "Usted está cerca de un cruce de tren"
+      ],
+      "h1": "Compare las líneas blancas con las amarillas.",
+      "h2": "Las líneas blancas entre carriles muestran que el tráfico de esos carriles va en la misma dirección.",
+      "p": "Correcto. Las líneas blancas separan carriles que van en el mismo sentido."
+    }
+  },
+  {
+    "id": "signals-020",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "The yellow center line on your side is broken (dashed). What does that allow?",
+      "o": [
+        "You may never pass",
+        "You may park on the line",
+        "You may drive on the line for a long time",
+        "You may pass when it is safe"
+      ],
+      "h1": "A broken line has gaps. Think about what gaps let you do.",
+      "h2": "A broken yellow line on your side means you may pass another car, but only when the way ahead is clear and safe.",
+      "p": "Right. A broken yellow line on your side means you may pass when safe."
+    },
+    "es": {
+      "q": "La línea amarilla del centro de su lado es discontinua (con espacios). ¿Qué le permite?",
+      "o": [
+        "No puede rebasar nunca",
+        "Puede estacionar sobre la línea",
+        "Puede manejar sobre la línea por mucho rato",
+        "Puede rebasar cuando sea seguro"
+      ],
+      "h1": "Una línea discontinua tiene espacios. Piense qué le permiten esos espacios.",
+      "h2": "Una línea amarilla discontinua de su lado significa que usted puede rebasar a otro carro, pero solo cuando el camino adelante esté libre y sea seguro.",
+      "p": "Correcto. Línea amarilla discontinua de su lado significa que puede rebasar si es seguro."
+    }
+  },
+  {
+    "id": "signals-021",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "You see a solid yellow line on your side and a broken yellow line on the other side. Who may pass?",
+      "o": [
+        "Only drivers on the side with the broken line",
+        "Only drivers on your side",
+        "Drivers on both sides",
+        "No one, at any time"
+      ],
+      "h1": "Look at the line closest to your car. It is the one that counts for you.",
+      "h2": "The line closest to you is the one you follow, so a solid yellow line on your side means you may not pass, while drivers next to the broken line may pass when safe.",
+      "p": "Right. A solid line on your side means you may not pass."
+    },
+    "es": {
+      "q": "Usted ve una línea amarilla continua de su lado y una línea amarilla discontinua del otro lado. ¿Quién puede rebasar?",
+      "o": [
+        "Solo los conductores del lado de la línea discontinua",
+        "Solo los conductores de su lado",
+        "Los conductores de los dos lados",
+        "Nadie, en ningún momento"
+      ],
+      "h1": "Mire la línea más cerca de su carro. Esa es la que cuenta para usted.",
+      "h2": "Usted sigue la línea más cerca de su carro, así que una línea amarilla continua de su lado significa que no puede rebasar, mientras que los conductores junto a la línea discontinua pueden rebasar si es seguro.",
+      "p": "Correcto. Una línea continua de su lado significa que no puede rebasar."
+    }
+  },
+  {
+    "id": "signals-022",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "What do two solid yellow lines in the center of the road mean?",
+      "o": [
+        "Passing is allowed in both directions",
+        "Only trucks may pass",
+        "No one may cross them to pass, in either direction",
+        "The road ends ahead"
+      ],
+      "h1": "Two solid lines are stronger than one. Think about both sides.",
+      "h2": "Two solid yellow lines mean drivers on both sides may not cross them to pass another car.",
+      "p": "Right. Double solid yellow means no passing for anyone."
+    },
+    "es": {
+      "q": "¿Qué significan dos líneas amarillas continuas en el centro de la calle?",
+      "o": [
+        "Se permite rebasar en las dos direcciones",
+        "Solo los camiones pueden rebasar",
+        "Nadie puede cruzarlas para rebasar, en ninguna dirección",
+        "La calle se termina más adelante"
+      ],
+      "h1": "Dos líneas continuas son más fuertes que una. Piense en los dos lados.",
+      "h2": "Dos líneas amarillas continuas significan que los conductores de los dos lados no pueden cruzarlas para rebasar a otro carro.",
+      "p": "Correcto. Doble línea amarilla continua significa que nadie puede rebasar."
+    }
+  },
+  {
+    "id": "signals-023",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "What does a solid white line between two lanes going the same way mean?",
+      "o": [
+        "You must change lanes now",
+        "Stay in your lane; changing lanes is discouraged there",
+        "Traffic in the next lane comes toward you",
+        "You may park along the line"
+      ],
+      "h1": "A solid line asks you to stay where you are.",
+      "h2": "A solid white line between lanes means you should stay in your lane and change lanes only if you really must and it is safe.",
+      "p": "Right. A solid white line means stay in your lane."
+    },
+    "es": {
+      "q": "¿Qué significa una línea blanca continua entre dos carriles que van en el mismo sentido?",
+      "o": [
+        "Usted debe cambiar de carril ahora",
+        "Quédese en su carril; no se recomienda cambiar de carril ahí",
+        "El tráfico del otro carril viene hacia usted",
+        "Puede estacionar junto a la línea"
+      ],
+      "h1": "Una línea continua le pide quedarse donde está.",
+      "h2": "Una línea blanca continua entre carriles significa que usted debe quedarse en su carril y cambiar solo si de verdad lo necesita y es seguro.",
+      "p": "Correcto. Una línea blanca continua significa quédese en su carril."
+    }
+  },
+  {
+    "id": "signals-024",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "A center lane has a solid yellow line and a broken yellow line on each side. What is this lane for?",
+      "o": [
+        "Passing slow cars",
+        "Driving long distances",
+        "Parking and loading",
+        "Left turns by drivers from both directions"
+      ],
+      "h1": "Cars from both directions can use this lane, but only for one kind of move.",
+      "h2": "A center lane marked with solid and broken yellow lines on both sides is a two-way left-turn lane, so drivers from either direction use it only to turn left.",
+      "p": "Right. That center lane is only for left turns from both directions."
+    },
+    "es": {
+      "q": "Un carril del centro tiene una línea amarilla continua y una línea amarilla discontinua en cada lado. ¿Para qué es este carril?",
+      "o": [
+        "Para rebasar a carros lentos",
+        "Para manejar distancias largas",
+        "Para estacionar y cargar",
+        "Para girar a la izquierda, para conductores de las dos direcciones"
+      ],
+      "h1": "Carros de las dos direcciones pueden usar este carril, pero solo para un tipo de maniobra.",
+      "h2": "Un carril del centro con líneas amarillas continuas y discontinuas en los dos lados es un carril de giro a la izquierda en ambos sentidos, así que los conductores de cualquier dirección lo usan solo para girar a la izquierda.",
+      "p": "Correcto. Ese carril del centro es solo para girar a la izquierda, desde las dos direcciones."
+    }
+  },
+  {
+    "id": "signals-025",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Where should you stop when there is a wide white line painted across your lane at a red light?",
+      "o": [
+        "Before the white line",
+        "On top of the white line",
+        "Past the white line, at the corner",
+        "Anywhere in the intersection"
+      ],
+      "h1": "This line shows the place where your front bumper should stop.",
+      "h2": "A wide white line across your lane is a stop line, so you must stop before it when you need to stop.",
+      "p": "Right. Stop before the white stop line."
+    },
+    "es": {
+      "q": "¿Dónde debe parar cuando hay una línea blanca ancha pintada a lo ancho de su carril en una luz roja?",
+      "o": [
+        "Antes de la línea blanca",
+        "Encima de la línea blanca",
+        "Después de la línea blanca, en la esquina",
+        "En cualquier parte de la intersección"
+      ],
+      "h1": "Esta línea muestra el lugar donde debe quedar el frente de su carro.",
+      "h2": "Una línea blanca ancha a lo ancho de su carril es la línea de pare, así que usted debe parar antes de ella cuando tiene que parar.",
+      "p": "Correcto. Pare antes de la línea blanca de pare."
+    }
+  },
+  {
+    "id": "signals-026",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You must stop at an intersection. There is a marked crosswalk but no stop line. Where do you stop?",
+      "o": [
+        "In the middle of the crosswalk",
+        "Past the crosswalk, in the intersection",
+        "Before the crosswalk",
+        "Only if a person is in the crosswalk"
+      ],
+      "h1": "Think about keeping the path clear for people walking.",
+      "h2": "When there is no stop line, you stop before the crosswalk, so people on foot have a clear path.",
+      "p": "Right. With no stop line, stop before the crosswalk."
+    },
+    "es": {
+      "q": "Usted debe parar en una intersección. Hay un paso peatonal marcado, pero no hay línea de pare. ¿Dónde para?",
+      "o": [
+        "En medio del paso peatonal",
+        "Después del paso peatonal, dentro de la intersección",
+        "Antes del paso peatonal",
+        "Solo si hay una persona en el paso peatonal"
+      ],
+      "h1": "Piense en dejar libre el camino de las personas que caminan.",
+      "h2": "Cuando no hay línea de pare, usted para antes del paso peatonal, para que las personas a pie tengan el camino libre.",
+      "p": "Correcto. Sin línea de pare, pare antes del paso peatonal."
+    }
+  },
+  {
+    "id": "signals-027",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "You see a bicycle symbol with two arrow shapes (chevrons) painted in your lane. What does it mean?",
+      "o": [
+        "Only bicycles may use this lane",
+        "Bicycles and cars share this lane",
+        "Bicycles are not allowed here",
+        "This lane is for parking bicycles"
+      ],
+      "h1": "The marking is in a regular traffic lane, not in a separate bike lane.",
+      "h2": "A bicycle with chevrons is a shared lane marking, which means bicycles and cars share the lane, so watch for riders and give them room.",
+      "p": "Right. That marking means bikes and cars share the lane."
+    },
+    "es": {
+      "q": "Usted ve un dibujo de bicicleta con dos flechas en forma de ángulo pintado en su carril. ¿Qué significa?",
+      "o": [
+        "Solo las bicicletas pueden usar este carril",
+        "Las bicicletas y los carros comparten este carril",
+        "No se permiten bicicletas aquí",
+        "Este carril es para estacionar bicicletas"
+      ],
+      "h1": "La marca está en un carril normal de tráfico, no en un carril aparte para bicicletas.",
+      "h2": "Una bicicleta con flechas en ángulo es una marca de carril compartido, lo que significa que bicicletas y carros comparten el carril, así que fíjese en los ciclistas y deles espacio.",
+      "p": "Correcto. Esa marca significa que bicicletas y carros comparten el carril."
+    }
+  },
+  {
+    "id": "signals-028",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "A white diamond is painted in a lane. What does it usually mean?",
+      "o": [
+        "The lane is a school zone",
+        "The lane ends soon",
+        "The lane is for slow trucks only",
+        "The lane is reserved for certain vehicles, like carpools or buses, at posted times"
+      ],
+      "h1": "Look for a sign near the lane that tells who may use it.",
+      "h2": "A white diamond marks a reserved lane, such as a high-occupancy (HOV) lane for carpools, so you may use it only if you meet the rules posted on the signs.",
+      "p": "Right. The diamond marks a reserved lane, like a carpool lane."
+    },
+    "es": {
+      "q": "Hay un diamante blanco pintado en un carril. ¿Qué suele significar?",
+      "o": [
+        "El carril es una zona escolar",
+        "El carril se termina pronto",
+        "El carril es solo para camiones lentos",
+        "El carril está reservado para ciertos vehículos, como carros compartidos o autobuses, en los horarios indicados"
+      ],
+      "h1": "Busque una señal cerca del carril que diga quién puede usarlo.",
+      "h2": "Un diamante blanco marca un carril reservado, como un carril para vehículos con varios ocupantes (HOV), así que usted solo puede usarlo si cumple las reglas de las señales.",
+      "p": "Correcto. El diamante marca un carril reservado, como el de carros compartidos."
+    }
+  },
+  {
+    "id": "signals-029",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "A white arrow painted in your lane points only to the right. What should you do?",
+      "o": [
+        "Turn right from this lane",
+        "Go straight from this lane",
+        "Turn left from this lane",
+        "Make a U-turn from this lane"
+      ],
+      "h1": "Arrows in a lane show which way that lane must go.",
+      "h2": "A lane arrow that points only to the right means drivers in that lane must turn right.",
+      "p": "Right. A right arrow in your lane means turn right."
+    },
+    "es": {
+      "q": "Una flecha blanca pintada en su carril apunta solo a la derecha. ¿Qué debe hacer?",
+      "o": [
+        "Girar a la derecha desde este carril",
+        "Seguir derecho desde este carril",
+        "Girar a la izquierda desde este carril",
+        "Dar una vuelta en U desde este carril"
+      ],
+      "h1": "Las flechas en un carril muestran hacia dónde debe ir ese carril.",
+      "h2": "Una flecha en el carril que apunta solo a la derecha significa que los conductores en ese carril deben girar a la derecha.",
+      "p": "Correcto. Una flecha a la derecha en su carril significa gire a la derecha."
+    }
+  },
+  {
+    "id": "signals-030",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "A row of white triangles is painted across your lane, pointing at you. What does it mean?",
+      "o": [
+        "Speed up to merge",
+        "The lane is for bicycles only",
+        "Yield here to traffic and people walking",
+        "You are on a one-way street the wrong way"
+      ],
+      "h1": "The triangles look like a sign with the same shape.",
+      "h2": "A row of white triangles pointing toward you is a yield line, so you must slow down and be ready to stop there for other traffic and people walking.",
+      "p": "Right. The row of triangles is a yield line."
+    },
+    "es": {
+      "q": "Una fila de triángulos blancos está pintada a lo ancho de su carril, apuntando hacia usted. ¿Qué significa?",
+      "o": [
+        "Acelere para incorporarse",
+        "El carril es solo para bicicletas",
+        "Ceda el paso aquí al tráfico y a los peatones",
+        "Usted va en contra en una calle de un solo sentido"
+      ],
+      "h1": "Los triángulos se parecen a una señal que tiene la misma forma.",
+      "h2": "Una fila de triángulos blancos que apuntan hacia usted es una línea de ceda el paso, así que usted debe bajar la velocidad y estar listo para parar ahí por otro tráfico y por los peatones.",
+      "p": "Correcto. La fila de triángulos es una línea de ceda el paso."
+    }
+  },
+  {
+    "id": "signals-031",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Over a reversible lane, you see a green arrow pointing down. What does it mean?",
+      "o": [
+        "You must leave this lane",
+        "You may drive in this lane",
+        "You may not drive in this lane",
+        "The lane is only for left turns"
+      ],
+      "h1": "Green on a lane signal means the same thing as green on a traffic light.",
+      "h2": "A green arrow pointing down over a lane means you may drive in that lane.",
+      "p": "Right. A green arrow over the lane means you may use it."
+    },
+    "es": {
+      "q": "Sobre un carril reversible, usted ve una flecha verde que apunta hacia abajo. ¿Qué significa?",
+      "o": [
+        "Debe salir de este carril",
+        "Puede manejar en este carril",
+        "No puede manejar en este carril",
+        "El carril es solo para girar a la izquierda"
+      ],
+      "h1": "El verde en una señal de carril significa lo mismo que en un semáforo.",
+      "h2": "Una flecha verde que apunta hacia abajo sobre un carril significa que usted puede manejar en ese carril.",
+      "p": "Correcto. Una flecha verde sobre el carril significa que puede usarlo."
+    }
+  },
+  {
+    "id": "signals-032",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Over a reversible lane, you see a red X. What does it mean?",
+      "o": [
+        "You may drive in this lane",
+        "You may pass in this lane",
+        "The lane is for buses only",
+        "Do not drive in this lane"
+      ],
+      "h1": "Think about what a red X means anywhere.",
+      "h2": "A red X over a lane means you must not drive in that lane, because traffic may be coming the other way.",
+      "p": "Right. A red X means do not use that lane."
+    },
+    "es": {
+      "q": "Sobre un carril reversible, usted ve una X roja. ¿Qué significa?",
+      "o": [
+        "Puede manejar en este carril",
+        "Puede rebasar en este carril",
+        "El carril es solo para autobuses",
+        "No maneje en este carril"
+      ],
+      "h1": "Piense qué significa una X roja en cualquier lugar.",
+      "h2": "Una X roja sobre un carril significa que usted no debe manejar en ese carril, porque el tráfico puede venir en el otro sentido.",
+      "p": "Correcto. Una X roja significa no use ese carril."
+    }
+  },
+  {
+    "id": "signals-033",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Over a reversible lane, you see a steady yellow X. What should you do?",
+      "o": [
+        "Move out of this lane safely, because it is about to change",
+        "Stay in the lane as long as you like",
+        "Speed up in this lane",
+        "Stop in the lane and wait"
+      ],
+      "h1": "A steady yellow X works like a steady yellow light: something is about to change.",
+      "h2": "A steady yellow X over a lane means the lane is about to close to your direction, so you should safely move out of it.",
+      "p": "Right. A steady yellow X means leave the lane safely."
+    },
+    "es": {
+      "q": "Sobre un carril reversible, usted ve una X amarilla fija. ¿Qué debe hacer?",
+      "o": [
+        "Salir del carril con seguridad, porque está por cambiar",
+        "Quedarse en el carril todo el tiempo que quiera",
+        "Acelerar en este carril",
+        "Parar en el carril y esperar"
+      ],
+      "h1": "Una X amarilla fija funciona como una luz amarilla fija: algo está por cambiar.",
+      "h2": "Una X amarilla fija sobre un carril significa que el carril se va a cerrar para su dirección, así que usted debe salir de él con seguridad.",
+      "p": "Correcto. Una X amarilla fija significa salga del carril con seguridad."
+    }
+  },
+  {
+    "id": "signals-034",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "A police officer is directing traffic at an intersection. The light is green, but the officer signals you to stop. What do you do?",
+      "o": [
+        "Go, because the light is green",
+        "Honk to get the officer to move",
+        "Stop and follow the officer",
+        "Turn right to go around the officer"
+      ],
+      "h1": "Think about who sees the real situation at that moment.",
+      "h2": "You must follow the directions of a police officer directing traffic, even when they are different from the traffic light.",
+      "p": "Right. A police officer’s directions come before the traffic light."
+    },
+    "es": {
+      "q": "Un policía está dirigiendo el tráfico en una intersección. La luz está en verde, pero el policía le indica que pare. ¿Qué hace?",
+      "o": [
+        "Seguir, porque la luz está en verde",
+        "Tocar la bocina para que el policía se mueva",
+        "Parar y seguir las indicaciones del policía",
+        "Girar a la derecha para pasar al policía"
+      ],
+      "h1": "Piense quién ve la situación real en ese momento.",
+      "h2": "Usted debe seguir las indicaciones de un policía que dirige el tráfico, aunque sean diferentes a las del semáforo.",
+      "p": "Correcto. Las indicaciones del policía van antes que el semáforo."
+    }
+  },
+  {
+    "id": "signals-035",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In a work zone, a flagger holds up a sign that says SLOW. What should you do?",
+      "o": [
+        "Stop and wait for a police officer",
+        "Slow down and go ahead with care, watching for workers",
+        "Keep your normal speed",
+        "Turn around and find another road"
+      ],
+      "h1": "Think about who may be working close to the road.",
+      "h2": "A flagger showing a SLOW sign means you should slow down and go ahead with care, because workers and equipment may be near the road.",
+      "p": "Right. A SLOW paddle means slow down and drive with care."
+    },
+    "es": {
+      "q": "En una zona de trabajo, un abanderado levanta un letrero que dice SLOW (despacio). ¿Qué debe hacer?",
+      "o": [
+        "Parar y esperar a un policía",
+        "Bajar la velocidad y seguir con cuidado, fijándose en los trabajadores",
+        "Mantener su velocidad normal",
+        "Dar la vuelta y buscar otra calle"
+      ],
+      "h1": "Piense en quién puede estar trabajando cerca de la calle.",
+      "h2": "Un abanderado que muestra el letrero SLOW significa que usted debe bajar la velocidad y seguir con cuidado, porque puede haber trabajadores y máquinas cerca de la calle.",
+      "p": "Correcto. El letrero SLOW significa baje la velocidad y maneje con cuidado."
+    }
+  },
+  {
+    "id": "signals-036",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "A flagger in a work zone holds up a STOP sign, but the traffic light ahead is green. What should you do?",
+      "o": [
+        "Follow the green light and go",
+        "Slow down but keep moving",
+        "Pass the flagger on the shoulder",
+        "Stop and wait until the flagger lets you go"
+      ],
+      "h1": "Think about who is in charge of traffic in a work zone.",
+      "h2": "You must obey a flagger in a work zone, so you stop when the flagger shows STOP, even if a traffic light is green.",
+      "p": "Right. A flagger’s STOP sign comes before a green light."
+    },
+    "es": {
+      "q": "Un abanderado en una zona de trabajo levanta un letrero de STOP (pare), pero el semáforo de adelante está en verde. ¿Qué debe hacer?",
+      "o": [
+        "Seguir la luz verde y pasar",
+        "Bajar la velocidad pero seguir",
+        "Pasar al abanderado por el paseo",
+        "Parar y esperar hasta que el abanderado le deje pasar"
+      ],
+      "h1": "Piense quién dirige el tráfico en una zona de trabajo.",
+      "h2": "Usted debe obedecer al abanderado en una zona de trabajo, así que para cuando el abanderado muestra STOP, aunque el semáforo esté en verde.",
+      "p": "Correcto. El letrero STOP del abanderado va antes que la luz verde."
+    }
+  },
+  {
+    "id": "signals-037",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Which should you obey first: a traffic light, a stop sign, or a police officer directing traffic?",
+      "o": [
+        "The police officer",
+        "The traffic light",
+        "The stop sign",
+        "Whichever is closest to you"
+      ],
+      "h1": "Signs and lights are set ahead of time. Think about who can react to what is happening now.",
+      "h2": "A police officer directing traffic comes first, before any traffic light or sign, because the officer is handling what is happening right now.",
+      "p": "Right. An officer directing traffic comes before lights and signs."
+    },
+    "es": {
+      "q": "¿A quién debe obedecer primero: a un semáforo, a una señal de pare o a un policía que dirige el tráfico?",
+      "o": [
+        "Al policía",
+        "Al semáforo",
+        "A la señal de pare",
+        "Al que esté más cerca de usted"
+      ],
+      "h1": "Las señales y los semáforos se ponen con anticipación. Piense quién puede reaccionar a lo que pasa ahora.",
+      "h2": "Un policía que dirige el tráfico va primero, antes que cualquier semáforo o señal, porque el policía maneja lo que está pasando en ese momento.",
+      "p": "Correcto. Un policía que dirige el tráfico va antes que los semáforos y las señales."
+    }
+  },
+  {
+    "id": "signals-038",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "On a divided highway, what color is the solid line along the left edge of your lanes?",
+      "o": [
+        "White",
+        "Blue",
+        "Yellow",
+        "Red"
+      ],
+      "h1": "Think about which color is used for the side closest to traffic going the other way.",
+      "h2": "On a divided highway, the left edge line is yellow and the right edge line is white, which helps you see the side toward opposite traffic.",
+      "p": "Right. The left edge line is yellow; the right edge line is white."
+    },
+    "es": {
+      "q": "En una autopista dividida, ¿de qué color es la línea continua del borde izquierdo de sus carriles?",
+      "o": [
+        "Blanca",
+        "Azul",
+        "Amarilla",
+        "Roja"
+      ],
+      "h1": "Piense qué color se usa para el lado más cerca del tráfico que va en sentido contrario.",
+      "h2": "En una autopista dividida, la línea del borde izquierdo es amarilla y la del borde derecho es blanca, lo que le ayuda a ver el lado del tráfico contrario.",
+      "p": "Correcto. La línea del borde izquierdo es amarilla; la del derecho es blanca."
+    }
+  }
+]
