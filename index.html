@@ -85,6 +85,7 @@ button:focus-visible,select:focus-visible{outline:4px solid var(--focus);outline
     </div>
     <span class="pill" id="pill"></span>
   </div>
+  <div class="notice" id="ttsNote" role="status" hidden></div>
   <main id="screen"></main>
   <p class="foot" id="foot"></p>
 </div>
@@ -134,6 +135,7 @@ const T = {
     resP:'Nice work. Every question you answer makes the next one easier.',
     home:'Back to home', play:'Read', stop:'Stop', again:'Again', rate:{0.8:'Slow',1:'Normal',1.2:'Fast'},
     noTTS:'This device cannot read aloud. You can still read the questions.',
+    silent:'No sound? Check that the phone is not on silent and the volume is up. If it is still quiet, open the app in Chrome or Safari: some in-app screens cannot read aloud.',
     foot:'PermitVoice is an independent app and is not affiliated with or endorsed by the Florida Department of Highway Safety and Motor Vehicles or any state agency. Questions are original practice material, not the official test.',
     cats:{signs:'Signs', signals:'Signals and markings', 'right-of-way':'Right of way', 'speed-lanes':'Speed, lanes and parking', licensing:'License and the law', 'safe-driving':'Safe driving'}
   },
@@ -162,6 +164,7 @@ const T = {
     resP:'Buen trabajo. Cada pregunta que responde hace más fácil la siguiente.',
     home:'Volver al inicio', play:'Leer', stop:'Parar', again:'Otra vez', rate:{0.8:'Lento',1:'Normal',1.2:'Rápido'},
     noTTS:'Este dispositivo no puede leer en voz alta. Igual puede leer las preguntas.',
+    silent:'¿No hay sonido? Revise que el teléfono no esté en silencio y que el volumen esté alto. Si sigue sin sonido, abra la aplicación en Chrome o Safari: algunas pantallas dentro de otras aplicaciones no pueden leer en voz alta.',
     foot:'PermitVoice es una aplicación independiente y no está afiliada ni respaldada por el Departamento de Seguridad Vial y Vehículos Motorizados de Florida ni por ninguna agencia estatal. Las preguntas son material de práctica original, no el examen oficial.',
     cats:{signs:'Señales', signals:'Semáforos y marcas viales', 'right-of-way':'Derecho de paso', 'speed-lanes':'Velocidad, carriles y estacionamiento', licensing:'Licencia y la ley', 'safe-driving':'Manejo seguro'}
   }
@@ -227,30 +230,55 @@ function signSVG(sg){
   return body ? `<svg viewBox="0 0 100 100" role="img" aria-label="${esc(sg.text || sg.shape)}">${body}</svg>` : '';
 }
 
-/* ---------- Speech: device voice, matched to the chosen language ---------- */
-const SPEECH = { ok: 'speechSynthesis' in window, voices: [], playing: false };
-function loadVoices(){ if(SPEECH.ok) SPEECH.voices = speechSynthesis.getVoices(); }
-if(SPEECH.ok){ loadVoices(); speechSynthesis.onvoiceschanged = loadVoices; }
+/* ---------- Speech: device voice, matched to the chosen language ----------
+   Lessons from Talking Theory: phones stay silent unless speech is "unlocked" by a first touch,
+   Chrome on Android drops an utterance spoken right after cancel(), and Chrome garbage-collects
+   an utterance nobody holds a reference to (onend then never fires). */
+const SPEECH = { ok: 'speechSynthesis' in window, voices: [], playing: false, u: null, gen: 0, heard: false };
+function loadVoices(){ try{ SPEECH.voices = speechSynthesis.getVoices() || []; }catch(e){ SPEECH.voices = []; } }
+if(SPEECH.ok){ loadVoices(); try{ speechSynthesis.addEventListener('voiceschanged', loadVoices); }catch(e){} }
+document.addEventListener('pointerdown', function unlock(){
+  if(!SPEECH.ok) return;
+  try{ const u = new SpeechSynthesisUtterance(' '); u.volume = 0; speechSynthesis.speak(u); }catch(e){}
+}, { once: true, capture: true });
 function voiceFor(lang){
+  if(!SPEECH.voices.length) loadVoices();
   const want = lang === 'es' ? ['es-US','es-MX','es-'] : ['en-US','en-'];
-  for(const w of want){ const v = SPEECH.voices.find(v => v.lang.replace('_','-').startsWith(w)); if(v) return v; }
+  for(const w of want){ const v = SPEECH.voices.find(v => (v.lang || '').replace('_','-').startsWith(w)); if(v) return v; }
   return null;
 }
-function stopSpeech(){ if(SPEECH.ok) speechSynthesis.cancel(); SPEECH.playing = false; syncPlay(); }
+function stopSpeech(){
+  SPEECH.gen++;
+  if(SPEECH.ok){ try{ speechSynthesis.cancel(); }catch(e){} }
+  SPEECH.playing = false; syncPlay();
+}
+function silentNote(show){ const n = el('ttsNote'); if(n){ n.textContent = t('silent'); n.hidden = !show; } }
 function speak(parts){
-  if(!SPEECH.ok) return;
-  speechSynthesis.cancel();
-  const v = voiceFor(S.lang);
-  const list = parts.filter(Boolean);
+  if(!SPEECH.ok){ silentNote(true); return; }
+  const text = parts.filter(Boolean).join('. ');
+  if(!text) return;
+  const gen = ++SPEECH.gen;
+  try{ if(speechSynthesis.speaking || speechSynthesis.pending) speechSynthesis.cancel(); }catch(e){}
   SPEECH.playing = true; syncPlay();
-  list.forEach((p, i) => {
-    const u = new SpeechSynthesisUtterance(p);
+  /* One utterance for the whole text, started a moment after cancel(). */
+  setTimeout(() => {
+    if(gen !== SPEECH.gen) return;
+    const u = new SpeechSynthesisUtterance(text);
     u.lang = S.lang === 'es' ? 'es-US' : 'en-US';
-    if(v) u.voice = v;
+    const v = voiceFor(S.lang); if(v) u.voice = v;
     u.rate = S.rate;
-    if(i === list.length - 1){ u.onend = u.onerror = () => { SPEECH.playing = false; syncPlay(); }; }
-    speechSynthesis.speak(u);
-  });
+    let started = false;
+    u.onstart = () => { started = true; SPEECH.heard = true; silentNote(false); };
+    u.onend = u.onerror = () => { if(gen === SPEECH.gen){ SPEECH.playing = false; syncPlay(); } SPEECH.u = null; };
+    SPEECH.u = u;
+    try{ speechSynthesis.resume(); speechSynthesis.speak(u); }catch(e){ silentNote(true); SPEECH.playing = false; syncPlay(); return; }
+    /* Some views (in-app browsers, embedded frames) accept speak() and say nothing. Tell the learner. */
+    setTimeout(() => {
+      if(gen !== SPEECH.gen || started) return;
+      let busy = false; try{ busy = speechSynthesis.speaking; }catch(e){}
+      if(!busy){ SPEECH.playing = false; syncPlay(); if(!SPEECH.heard) silentNote(true); }
+    }, 2500);
+  }, 120);
 }
 function currentSpeech(){
   if(S.screen !== 'quiz') return [];
@@ -402,6 +430,8 @@ function renderQuiz(){
   if(el('btnHint')) el('btnHint').onclick = () => showHint(S.hint + 1, true);
   if(el('btnSkip')) el('btnSkip').onclick = nextQ;
   el('qtitle').focus();
+  /* Like Talking Theory: the question is read as soon as it appears. */
+  speak(currentSpeech());
 }
 function showHint(level, say){
   const d = cur().d;
