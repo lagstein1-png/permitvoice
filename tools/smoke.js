@@ -68,6 +68,14 @@ srv.listen(0, async () => {
   ok(await p.isVisible('.hintbox') && await p.isVisible('.tag'), 'wrong answer in practice → "Almost" + hint');
   await p.click(`.opt[data-i="${rightI}"]`);
   ok(await p.isVisible('.praise') && await p.isVisible('#btnNext'), 'right answer → praise + next');
+  // Handbook page: shown for Florida, matching the bank.
+  const refOk = await p.evaluate(() => {
+    const qt = document.getElementById('qtitle').textContent, q = window.PV_BANK.find(x => x.en.q === qt);
+    const r = document.querySelector('.ref'); const shown = r ? r.textContent : '';
+    if (!q.ref) return shown === '';
+    return q.ref.page ? shown.includes('page ' + q.ref.page) : shown.includes('Florida law');
+  });
+  ok(refOk, 'handbook page shown after a Florida answer matches the bank');
   // 4. Spanish
   await p.click('#btnBack'); await p.click('[data-lang="es"]');
   ok((await p.textContent('#btnStart')).match(/aprend/i) !== null, 'Spanish interface');

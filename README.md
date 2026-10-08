@@ -20,7 +20,7 @@ Prototype. Florida is the first state. Plain HTML, CSS and JavaScript: no build 
 - Every question exists in English and Spanish, with the same option order.
 - `scope: "US"` only for rules that are the same in every state (MUTCD signs, signals, markings). Everything else carries the state code.
 - `conf: "medium"` questions stay in `bank/` but are **not served** until a person checks them against the handbook or statute.
-- State questions get a separate `ref` field in `bank.js`, so all handbook references can be removed in one step. Page numbers are `null` until checked.
+- Handbook references live in a separate `ref` field in `bank.js`, so all of them can be removed in one step.
 - All wording is original. Nothing is copied from any state handbook.
 
 ## Hosting
@@ -31,4 +31,6 @@ Every push to `main` deploys.
 ## Status
 
 - Written permission was requested from FLHSMV on 2026-10-07. No answer yet.
-- Florida facts were checked from knowledge of Florida Statutes, not against the live statute text or the handbook PDF.
+- 2026-10-08: every question was checked against the Florida Driver License Handbook (English, rev. 08/2023), from the text the owner supplied. Each question carries the printed page (`page`), or `null` when the handbook does not cover the fact; the app then says the rule is based on Florida law.
+- The handbook is dated August 2023. Laws passed after that (for example 2025 changes to test-refusal penalties and the left-lane law) are not in it.
+- The handbook text itself is copyrighted and is not stored in this repo.

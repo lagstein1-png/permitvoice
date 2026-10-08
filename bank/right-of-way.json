@@ -4,6 +4,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 47,
     "sign": null,
     "c": 0,
     "en": {
@@ -36,6 +37,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 47,
     "sign": null,
     "c": 2,
     "en": {
@@ -68,6 +70,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 62,
     "sign": null,
     "c": 1,
     "en": {
@@ -100,6 +103,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 62,
     "sign": null,
     "c": 3,
     "en": {
@@ -132,6 +136,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "medium",
+    "page": null,
     "sign": null,
     "c": 0,
     "en": {
@@ -164,6 +169,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 62,
     "sign": null,
     "c": 2,
     "en": {
@@ -196,6 +202,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 62,
     "sign": null,
     "c": 3,
     "en": {
@@ -228,6 +235,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 62,
     "sign": null,
     "c": 0,
     "en": {
@@ -260,6 +268,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 87,
     "sign": null,
     "c": 1,
     "en": {
@@ -292,6 +301,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 87,
     "sign": null,
     "c": 2,
     "en": {
@@ -324,6 +334,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 88,
     "sign": null,
     "c": 3,
     "en": {
@@ -356,6 +367,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 63,
     "sign": null,
     "c": 0,
     "en": {
@@ -388,6 +400,7 @@
     "scope": "US",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 63,
     "sign": null,
     "c": 1,
     "en": {
@@ -420,6 +433,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 84,
     "sign": null,
     "c": 2,
     "en": {
@@ -427,56 +441,57 @@
       "o": [
         "Speed up to stay ahead of it",
         "Stop right where you are, in your lane",
-        "Pull to the right edge of the road and stop",
+        "Pull to the nearest edge of the road and stop",
         "Move to the left lane and keep driving"
       ],
-      "h1": "The ambulance needs a clear path. Think about which side you move to.",
-      "h2": "When an emergency vehicle comes with a siren and flashing lights, you pull to the right edge of the road and stop until it passes.",
-      "p": "Right. Pull to the right and stop for emergency vehicles."
+      "h1": "The ambulance needs a clear path. Think about where you can get out of its way.",
+      "h2": "When an emergency vehicle comes with a siren and flashing lights, you pull to the nearest edge of the road and stop until it passes.",
+      "p": "Right. Pull to the nearest edge and stop for emergency vehicles."
     },
     "es": {
       "q": "En Florida, una ambulancia con sirena y luces intermitentes viene detrás de usted. ¿Qué hace?",
       "o": [
         "Acelera para mantenerse delante",
         "Para donde está, en su carril",
-        "Se orilla al lado derecho de la calle y para",
+        "Se orilla al borde más cercano de la calle y para",
         "Se pasa al carril izquierdo y sigue manejando"
       ],
-      "h1": "La ambulancia necesita el camino libre. Piense hacia qué lado se mueve usted.",
-      "h2": "Cuando viene un vehículo de emergencia con sirena y luces intermitentes, usted se orilla al lado derecho de la calle y para hasta que pase.",
-      "p": "Correcto. Oríllese a la derecha y pare para los vehículos de emergencia."
+      "h1": "La ambulancia necesita el camino libre. Piense dónde puede quitarse de su camino.",
+      "h2": "Cuando viene un vehículo de emergencia con sirena y luces intermitentes, usted se orilla al borde más cercano de la calle y para hasta que pase.",
+      "p": "Correcto. Oríllese al borde más cercano y pare para los vehículos de emergencia."
     }
   },
   {
     "id": "right-of-way-015",
     "scope": "FL",
     "cat": "right-of-way",
-    "conf": "medium",
+    "conf": "high",
+    "page": 84,
     "sign": null,
     "c": 0,
     "en": {
       "q": "In Florida, you are in the middle of an intersection when you hear a fire truck siren behind you. What do you do?",
       "o": [
-        "Drive through the intersection, then pull to the right and stop",
+        "Drive through the intersection, then pull to the nearest edge and stop",
         "Stop in the middle of the intersection",
         "Back up out of the intersection",
         "Turn left right away"
       ],
       "h1": "Stopping inside the intersection can block the fire truck.",
-      "h2": "If you are already in an intersection, you should keep going through it and then pull to the right and stop, so you do not block the emergency vehicle.",
-      "p": "Right. Clear the intersection first, then pull right and stop."
+      "h2": "If you are already in an intersection, you keep going through it and then pull to the nearest edge and stop, so you do not block the emergency vehicle.",
+      "p": "Right. Clear the intersection first, then pull over and stop."
     },
     "es": {
       "q": "En Florida, usted está en medio de una intersección cuando oye la sirena de un camión de bomberos detrás. ¿Qué hace?",
       "o": [
-        "Cruza la intersección y luego se orilla a la derecha y para",
+        "Cruza la intersección y luego se orilla al borde más cercano y para",
         "Para en medio de la intersección",
         "Da reversa para salir de la intersección",
         "Dobla a la izquierda de inmediato"
       ],
       "h1": "Parar dentro de la intersección puede bloquear al camión de bomberos.",
-      "h2": "Si usted ya está en una intersección, debe seguir hasta cruzarla y luego orillarse a la derecha y parar, para no bloquear al vehículo de emergencia.",
-      "p": "Correcto. Primero salga de la intersección, luego oríllese a la derecha y pare."
+      "h2": "Si usted ya está en una intersección, sigue hasta cruzarla y luego se orilla al borde más cercano y para, para no bloquear al vehículo de emergencia.",
+      "p": "Correcto. Primero salga de la intersección, luego oríllese y pare."
     }
   },
   {
@@ -484,6 +499,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 84,
     "sign": null,
     "c": 3,
     "en": {
@@ -516,6 +532,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 65,
     "sign": null,
     "c": 1,
     "en": {
@@ -548,6 +565,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 65,
     "sign": null,
     "c": 2,
     "en": {
@@ -580,6 +598,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 65,
     "sign": null,
     "c": 0,
     "en": {
@@ -612,6 +631,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 65,
     "sign": null,
     "c": 3,
     "en": {
@@ -643,7 +663,8 @@
     "id": "right-of-way-021",
     "scope": "FL",
     "cat": "right-of-way",
-    "conf": "medium",
+    "conf": "high",
+    "page": 65,
     "sign": null,
     "c": 1,
     "en": {
@@ -676,6 +697,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 89,
     "sign": null,
     "c": 2,
     "en": {
@@ -708,6 +730,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 89,
     "sign": null,
     "c": 0,
     "en": {
@@ -740,6 +763,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 89,
     "sign": null,
     "c": 3,
     "en": {
@@ -772,6 +796,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 89,
     "sign": null,
     "c": 1,
     "en": {
@@ -804,6 +829,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 89,
     "sign": null,
     "c": 2,
     "en": {
@@ -836,6 +862,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 89,
     "sign": null,
     "c": 0,
     "en": {
@@ -868,6 +895,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 56,
     "sign": null,
     "c": 1,
     "en": {
@@ -900,6 +928,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 56,
     "sign": null,
     "c": 3,
     "en": {
@@ -932,6 +961,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 57,
     "sign": null,
     "c": 2,
     "en": {
@@ -964,6 +994,7 @@
     "scope": "US",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 56,
     "sign": {
       "shape": "crossbuck",
       "text": "RAILROAD CROSSING"
@@ -999,6 +1030,7 @@
     "scope": "US",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 56,
     "sign": {
       "shape": "rr-advance",
       "text": "RR"
@@ -1034,6 +1066,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 70,
     "sign": null,
     "c": 1,
     "en": {
@@ -1066,31 +1099,32 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 70,
     "sign": null,
     "c": 3,
     "en": {
       "q": "In Florida, you turn left from a two-way street onto another two-way street. Which lane do you turn into?",
       "o": [
-        "The right lane, next to the curb",
+        "The bike lane",
         "The lane for oncoming traffic",
-        "Any lane that is empty",
-        "The lane just to the right of the center line"
+        "The center turn lane",
+        "Any lane going your way that you may legally use"
       ],
-      "h1": "Start near the center line and end near the center line.",
-      "h2": "When you turn left between two-way streets, you start next to the center line and finish in the lane just to the right of the center line on the new street.",
-      "p": "Right. Turn left into the lane just right of the center line."
+      "h1": "Think about which lanes carry traffic in your direction.",
+      "h2": "When you turn left, you may finish in any lane going your way that you are allowed to use, and you never enter a lane for oncoming traffic.",
+      "p": "Right. Turn left into a lane going your way that you may legally use."
     },
     "es": {
       "q": "En Florida, usted dobla a la izquierda de una calle de doble sentido a otra calle de doble sentido. ¿A qué carril dobla?",
       "o": [
-        "Al carril derecho, junto a la orilla",
+        "Al carril de bicicletas",
         "Al carril del tráfico que viene de frente",
-        "A cualquier carril vacío",
-        "Al carril que está justo a la derecha de la línea central"
+        "Al carril central de vuelta",
+        "A cualquier carril en su misma dirección que usted pueda usar legalmente"
       ],
-      "h1": "Empiece cerca de la línea central y termine cerca de la línea central.",
-      "h2": "Cuando usted dobla a la izquierda entre calles de doble sentido, empieza junto a la línea central y termina en el carril que está justo a la derecha de la línea central de la nueva calle.",
-      "p": "Correcto. Doble a la izquierda al carril justo a la derecha de la línea central."
+      "h1": "Piense en qué carriles llevan el tráfico en su misma dirección.",
+      "h2": "Cuando usted dobla a la izquierda, puede terminar en cualquier carril en su misma dirección que tenga permitido usar, y nunca entra a un carril del tráfico que viene de frente.",
+      "p": "Correcto. Doble a la izquierda a un carril en su misma dirección que usted pueda usar legalmente."
     }
   },
   {
@@ -1098,6 +1132,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 69,
     "sign": null,
     "c": 3,
     "en": {
@@ -1130,6 +1165,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 47,
     "sign": null,
     "c": 1,
     "en": {
@@ -1162,6 +1198,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 51,
     "sign": null,
     "c": 2,
     "en": {
@@ -1194,6 +1231,7 @@
     "scope": "US",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 47,
     "sign": {
       "shape": "yield",
       "text": "YIELD"
@@ -1229,6 +1267,7 @@
     "scope": "FL",
     "cat": "right-of-way",
     "conf": "high",
+    "page": 63,
     "sign": null,
     "c": 0,
     "en": {
