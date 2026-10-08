@@ -1,0 +1,920 @@
+[
+  {
+    "id": "va-001",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.nsc.org/getmedia/51190fe8-6740-46cd-8117-f031e8a03549/Virginia-GDL-EN.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Virginia, what is the youngest age to get a learner's permit?",
+      "o": [
+        "14 years old",
+        "15 years old",
+        "15 years and 6 months",
+        "16 years old"
+      ],
+      "h1": "It is halfway between two birthdays.",
+      "h2": "In Virginia you can get a learner's permit when you are at least 15 years and 6 months old.",
+      "p": "Right. The Virginia permit starts at 15 and a half."
+    },
+    "es": {
+      "q": "En Virginia, ¿cuál es la edad mínima para obtener un permiso de aprendiz?",
+      "o": [
+        "14 años",
+        "15 años",
+        "15 años y 6 meses",
+        "16 años"
+      ],
+      "h1": "Está a mitad de camino entre dos cumpleaños.",
+      "h2": "En Virginia usted puede obtener un permiso de aprendiz cuando tiene por lo menos 15 años y 6 meses.",
+      "p": "Correcto. El permiso en Virginia empieza a los 15 años y medio."
+    }
+  },
+  {
+    "id": "va-002",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.nsc.org/getmedia/51190fe8-6740-46cd-8117-f031e8a03549/Virginia-GDL-EN.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Virginia, how long must a teen hold a learner's permit before getting a license?",
+      "o": [
+        "6 months",
+        "9 months",
+        "12 months",
+        "3 months"
+      ],
+      "h1": "It is three quarters of a year.",
+      "h2": "A Virginia teen must hold the learner's permit for at least nine months before getting a driver's license.",
+      "p": "Right. The permit is held for nine months."
+    },
+    "es": {
+      "q": "En Virginia, ¿cuánto tiempo debe tener un adolescente el permiso de aprendiz antes de obtener la licencia?",
+      "o": [
+        "6 meses",
+        "9 meses",
+        "12 meses",
+        "3 meses"
+      ],
+      "h1": "Son tres cuartas partes de un año.",
+      "h2": "En Virginia, un adolescente debe tener el permiso de aprendiz por lo menos nueve meses antes de obtener la licencia de manejar.",
+      "p": "Correcto. El permiso se tiene nueve meses."
+    }
+  },
+  {
+    "id": "va-003",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.nsc.org/getmedia/51190fe8-6740-46cd-8117-f031e8a03549/Virginia-GDL-EN.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Virginia, how many hours of supervised driving must a teen complete before getting a license?",
+      "o": [
+        "20 hours",
+        "30 hours",
+        "50 hours",
+        "45 hours"
+      ],
+      "h1": "It is a little less than 50.",
+      "h2": "A Virginia teen must complete at least 45 hours of supervised driving practice before getting a license.",
+      "p": "Right. Virginia asks for 45 supervised hours."
+    },
+    "es": {
+      "q": "En Virginia, ¿cuántas horas de manejo supervisado debe completar un adolescente antes de obtener la licencia?",
+      "o": [
+        "20 horas",
+        "30 horas",
+        "50 horas",
+        "45 horas"
+      ],
+      "h1": "Es un poco menos de 50.",
+      "h2": "En Virginia, un adolescente debe completar por lo menos 45 horas de práctica de manejo supervisado antes de obtener la licencia.",
+      "p": "Correcto. Virginia pide 45 horas supervisadas."
+    }
+  },
+  {
+    "id": "va-004",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.nsc.org/getmedia/51190fe8-6740-46cd-8117-f031e8a03549/Virginia-GDL-EN.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Virginia, how many of the 45 supervised hours must be driven at night?",
+      "o": [
+        "15 hours",
+        "5 hours",
+        "10 hours",
+        "20 hours"
+      ],
+      "h1": "It is one third of the total.",
+      "h2": "Of the 45 supervised hours in Virginia, at least 15 must be driven at night, so the teen practices in the dark.",
+      "p": "Right. 15 of the 45 hours are at night."
+    },
+    "es": {
+      "q": "En Virginia, ¿cuántas de las 45 horas supervisadas deben ser de noche?",
+      "o": [
+        "15 horas",
+        "5 horas",
+        "10 horas",
+        "20 horas"
+      ],
+      "h1": "Es una tercera parte del total.",
+      "h2": "De las 45 horas supervisadas en Virginia, por lo menos 15 deben ser de noche, para que el adolescente practique en la oscuridad.",
+      "p": "Correcto. 15 de las 45 horas son de noche."
+    }
+  },
+  {
+    "id": "va-005",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.dmv.virginia.gov/licenses-ids/learners/apply",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Virginia, how old must the licensed driver beside a learner usually be?",
+      "o": [
+        "At least 16",
+        "At least 18",
+        "At least 21",
+        "At least 25"
+      ],
+      "h1": "A legal guardian or a brother or sister may be younger than the usual age.",
+      "h2": "A Virginia learner must drive with a licensed driver seated beside them who is at least 21, or at least 18 if that person is a parent, legal guardian or sibling.",
+      "p": "Right. The supervisor is usually 21 or older."
+    },
+    "es": {
+      "q": "En Virginia, ¿qué edad debe tener normalmente el conductor con licencia que va al lado del aprendiz?",
+      "o": [
+        "Por lo menos 16",
+        "Por lo menos 18",
+        "Por lo menos 21",
+        "Por lo menos 25"
+      ],
+      "h1": "Un tutor legal o un hermano puede ser menor que la edad habitual.",
+      "h2": "En Virginia, el aprendiz debe manejar con un conductor con licencia sentado a su lado que tenga por lo menos 21 años, o por lo menos 18 si es su padre, madre, tutor legal o hermano.",
+      "p": "Correcto. El supervisor normalmente tiene 21 años o más."
+    }
+  },
+  {
+    "id": "va-006",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.dmv.virginia.gov/licenses-ids/learners/restrictions",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Virginia, how many passengers under 18 who are not family may ride with a learner's permit holder?",
+      "o": [
+        "None at all",
+        "No more than one",
+        "No more than two",
+        "No more than three"
+      ],
+      "h1": "Family members do not count toward this limit.",
+      "h2": "A Virginia learner's permit holder may carry no more than one passenger under 18 who is not a family member.",
+      "p": "Right. No more than one non-family passenger under 18."
+    },
+    "es": {
+      "q": "En Virginia, ¿cuántos pasajeros menores de 18 años que no son familiares pueden ir con quien tiene permiso de aprendiz?",
+      "o": [
+        "Ninguno",
+        "No más de uno",
+        "No más de dos",
+        "No más de tres"
+      ],
+      "h1": "Los familiares no cuentan para este límite.",
+      "h2": "En Virginia, quien tiene permiso de aprendiz no puede llevar más de un pasajero menor de 18 años que no sea de su familia.",
+      "p": "Correcto. No más de un pasajero menor de 18 que no sea familiar."
+    }
+  },
+  {
+    "id": "va-007",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.dmv.virginia.gov/licenses-ids/learners/restrictions",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Virginia, when may a driver under 18 not drive, unless an exception applies?",
+      "o": [
+        "From 10 p.m. to 5 a.m.",
+        "From 11 p.m. to 5 a.m.",
+        "From 9 p.m. to 6 a.m.",
+        "From midnight to 4 a.m."
+      ],
+      "h1": "The limit ends earlier in the morning than in most states.",
+      "h2": "Virginia law does not let a driver under 18 drive from midnight to 4 a.m., except for reasons such as work, a supervised school activity or an emergency.",
+      "p": "Right. No driving from midnight to 4 a.m. under 18."
+    },
+    "es": {
+      "q": "En Virginia, ¿cuándo no puede manejar un conductor menor de 18 años, salvo que aplique una excepción?",
+      "o": [
+        "De 10 p.m. a 5 a.m.",
+        "De 11 p.m. a 5 a.m.",
+        "De 9 p.m. a 6 a.m.",
+        "De medianoche a 4 a.m."
+      ],
+      "h1": "El límite termina más temprano en la mañana que en la mayoría de los estados.",
+      "h2": "La ley de Virginia no permite que un conductor menor de 18 años maneje de medianoche a 4 a.m., salvo por razones como el trabajo, una actividad escolar supervisada o una emergencia.",
+      "p": "Correcto. No se maneja de medianoche a 4 a.m. si es menor de 18."
+    }
+  },
+  {
+    "id": "va-008",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.dmv.virginia.gov/licenses-ids/learners/restrictions",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Virginia, which trip is allowed for a driver under 18 between midnight and 4 a.m.?",
+      "o": [
+        "Driving to or from a job",
+        "Driving home from a party",
+        "Driving a friend to the store",
+        "Driving to practice for the road test"
+      ],
+      "h1": "It is a trip connected to earning money.",
+      "h2": "Virginia lets a driver under 18 drive between midnight and 4 a.m. to or from a place of work, and for a few other listed reasons such as an emergency.",
+      "p": "Right. Driving to or from work is allowed."
+    },
+    "es": {
+      "q": "En Virginia, ¿qué viaje está permitido para un conductor menor de 18 años entre medianoche y las 4 a.m.?",
+      "o": [
+        "Ir o volver del trabajo",
+        "Volver a casa de una fiesta",
+        "Llevar a un amigo a la tienda",
+        "Practicar para el examen de manejo"
+      ],
+      "h1": "Es un viaje relacionado con ganar dinero.",
+      "h2": "Virginia permite que un conductor menor de 18 años maneje entre medianoche y las 4 a.m. para ir o volver del trabajo, y por otras pocas razones de la lista, como una emergencia.",
+      "p": "Correcto. Se permite ir o volver del trabajo."
+    }
+  },
+  {
+    "id": "va-009",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.dmv.virginia.gov/licenses-ids/learners/restrictions",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Virginia, during the first year with a license, how many passengers under 21 may a driver under 18 carry?",
+      "o": [
+        "None at all",
+        "Two",
+        "One",
+        "Three"
+      ],
+      "h1": "A parent in the front seat lifts this limit.",
+      "h2": "In the first year with a Virginia license, a driver under 18 may carry only one passenger under 21, unless a licensed parent or similar adult sits in the front seat.",
+      "p": "Right. One passenger under 21 in the first year."
+    },
+    "es": {
+      "q": "En Virginia, durante el primer año con licencia, ¿cuántos pasajeros menores de 21 años puede llevar un conductor menor de 18?",
+      "o": [
+        "Ninguno",
+        "Dos",
+        "Uno",
+        "Tres"
+      ],
+      "h1": "Un padre o madre en el asiento delantero quita este límite.",
+      "h2": "En el primer año con licencia en Virginia, un conductor menor de 18 años solo puede llevar un pasajero menor de 21, salvo que un padre, madre o adulto similar con licencia vaya en el asiento delantero.",
+      "p": "Correcto. Un pasajero menor de 21 el primer año."
+    }
+  },
+  {
+    "id": "va-010",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.dmv.virginia.gov/licenses-ids/learners/restrictions",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Virginia, after holding a license for one year, how many passengers under 21 may a driver under 18 carry in limited situations, such as going to a school activity?",
+      "o": [
+        "Two",
+        "Up to three",
+        "Up to five",
+        "Any number"
+      ],
+      "h1": "The number goes up after the first year, but only for certain trips.",
+      "h2": "After one year with a license, a Virginia driver under 18 may carry up to three passengers under 21 in limited situations, such as a trip to or from a school activity.",
+      "p": "Right. Up to three, in limited situations."
+    },
+    "es": {
+      "q": "En Virginia, después de tener la licencia un año, ¿cuántos pasajeros menores de 21 años puede llevar un conductor menor de 18 en situaciones limitadas, como ir a una actividad escolar?",
+      "o": [
+        "Dos",
+        "Hasta tres",
+        "Hasta cinco",
+        "Cualquier número"
+      ],
+      "h1": "El número sube después del primer año, pero solo para ciertos viajes.",
+      "h2": "Después de un año con licencia, un conductor menor de 18 años en Virginia puede llevar hasta tres pasajeros menores de 21 en situaciones limitadas, como ir o volver de una actividad escolar.",
+      "p": "Correcto. Hasta tres, en situaciones limitadas."
+    }
+  },
+  {
+    "id": "va-011",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.dmv.virginia.gov/licenses-ids/learners/restrictions",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Virginia, when may a driver under 18 use a cell phone?",
+      "o": [
+        "Any time with a hands-free device",
+        "At a red light",
+        "For GPS while driving slowly",
+        "Only for an emergency, while lawfully stopped or parked"
+      ],
+      "h1": "Hands-free does not help drivers this young.",
+      "h2": "A Virginia driver under 18 may not use a cell phone while driving, even hands-free; it may be used only in an emergency with the car lawfully stopped or parked.",
+      "p": "Right. Under 18, only in an emergency while stopped or parked."
+    },
+    "es": {
+      "q": "En Virginia, ¿cuándo puede usar el celular un conductor menor de 18 años?",
+      "o": [
+        "En cualquier momento con manos libres",
+        "En un semáforo en rojo",
+        "Para el GPS mientras maneja despacio",
+        "Solo en una emergencia, con el carro detenido o estacionado legalmente"
+      ],
+      "h1": "Las manos libres no ayudan a conductores tan jóvenes.",
+      "h2": "En Virginia, un conductor menor de 18 años no puede usar el celular al manejar, ni con manos libres; solo puede usarlo en una emergencia con el carro detenido o estacionado legalmente.",
+      "p": "Correcto. Menores de 18: solo en emergencias, detenidos o estacionados."
+    }
+  },
+  {
+    "id": "va-012",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.nvar.com/public/news/real-estate-news/real-estate-news/real-estate-news/2020/12/18/put-down-your-phone-ban-on-handheld-use-while-driving-begins-january-1",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Virginia, since January 1, 2021, what is illegal for every driver while the car is moving?",
+      "o": [
+        "Holding a phone in your hand",
+        "Listening to the radio",
+        "Using a hands-free phone",
+        "Talking to passengers"
+      ],
+      "h1": "The law is about where the phone is.",
+      "h2": "Since January 1, 2021, Virginia drivers may not hold a hand-held phone or other communication device while driving, except in an emergency or when lawfully stopped or parked.",
+      "p": "Right. Holding a phone while driving is illegal."
+    },
+    "es": {
+      "q": "En Virginia, desde el 1 de enero de 2021, ¿qué es ilegal para todo conductor mientras el carro está en movimiento?",
+      "o": [
+        "Sostener el teléfono en la mano",
+        "Escuchar la radio",
+        "Usar el teléfono con manos libres",
+        "Hablar con los pasajeros"
+      ],
+      "h1": "La ley trata de dónde está el teléfono.",
+      "h2": "Desde el 1 de enero de 2021, los conductores en Virginia no pueden sostener un teléfono u otro dispositivo de comunicación al manejar, salvo en una emergencia o cuando están detenidos o estacionados legalmente.",
+      "p": "Correcto. Sostener el teléfono al manejar es ilegal."
+    }
+  },
+  {
+    "id": "va-013",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.nvar.com/public/news/real-estate-news/real-estate-news/real-estate-news/2020/12/18/put-down-your-phone-ban-on-handheld-use-while-driving-begins-january-1",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Virginia, what is the fine for a first offense of holding a phone while driving?",
+      "o": [
+        "$25",
+        "$50",
+        "$125",
+        "$500"
+      ],
+      "h1": "It is more than one hundred dollars.",
+      "h2": "A first offense of holding a phone while driving in Virginia carries a $125 fine.",
+      "p": "Right. The first offense is $125."
+    },
+    "es": {
+      "q": "En Virginia, ¿cuál es la multa por la primera vez que se sostiene el teléfono al manejar?",
+      "o": [
+        "$25",
+        "$50",
+        "$125",
+        "$500"
+      ],
+      "h1": "Es más de cien dólares.",
+      "h2": "La primera infracción por sostener el teléfono al manejar en Virginia tiene una multa de $125.",
+      "p": "Correcto. La primera vez son $125."
+    }
+  },
+  {
+    "id": "va-014",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.nvar.com/public/news/real-estate-news/real-estate-news/real-estate-news/2020/12/18/put-down-your-phone-ban-on-handheld-use-while-driving-begins-january-1",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Virginia, what is the fine for holding a phone while driving in a highway work zone?",
+      "o": [
+        "$125",
+        "$250",
+        "$75",
+        "$1,000"
+      ],
+      "h1": "It is the same as the fine for a second offense.",
+      "h2": "Holding a phone while driving in a Virginia highway work zone, or a second offense, carries a $250 fine, double the first-offense fine.",
+      "p": "Right. In a work zone the fine is $250."
+    },
+    "es": {
+      "q": "En Virginia, ¿cuál es la multa por sostener el teléfono al manejar en una zona de trabajos en la carretera?",
+      "o": [
+        "$125",
+        "$250",
+        "$75",
+        "$1,000"
+      ],
+      "h1": "Es igual a la multa por una segunda infracción.",
+      "h2": "Sostener el teléfono al manejar en una zona de trabajos en una carretera de Virginia, o una segunda infracción, tiene una multa de $250, el doble que la primera vez.",
+      "p": "Correcto. En una zona de trabajos la multa es $250."
+    }
+  },
+  {
+    "id": "va-015",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "medium",
+    "page": null,
+    "src": "https://law.lis.virginia.gov/vacode/title18.2/chapter7/section18.2-266.1/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Virginia, a driver under 21 who has been drinking breaks the law at what blood alcohol level?",
+      "o": [
+        "0.08 percent",
+        "0.05 percent",
+        "0.10 percent",
+        "0.02 percent"
+      ],
+      "h1": "It is the lowest number on the list.",
+      "h2": "In Virginia a driver under 21 who drives after drinking alcohol breaks the law with a blood alcohol level of 0.02 percent or more.",
+      "p": "Right. Under 21, the limit is 0.02."
+    },
+    "es": {
+      "q": "En Virginia, ¿con qué nivel de alcohol en la sangre viola la ley un conductor menor de 21 años que ha bebido?",
+      "o": [
+        "0.08 por ciento",
+        "0.05 por ciento",
+        "0.10 por ciento",
+        "0.02 por ciento"
+      ],
+      "h1": "Es el número más bajo de la lista.",
+      "h2": "En Virginia, un conductor menor de 21 años que maneja después de beber viola la ley con un nivel de alcohol de 0.02 por ciento o más.",
+      "p": "Correcto. Para menores de 21, el límite es 0.02."
+    }
+  },
+  {
+    "id": "va-016",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "medium",
+    "page": null,
+    "src": "https://law.lis.virginia.gov/vacode/title18.2/chapter7/section18.2-266.1/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Virginia, what happens to the license of a driver under 21 convicted of driving after drinking?",
+      "o": [
+        "It is lost for one year",
+        "It gets a warning stamp",
+        "It is lost for one week",
+        "Nothing happens to it"
+      ],
+      "h1": "The loss lasts a full year.",
+      "h2": "A driver under 21 convicted of driving after drinking in Virginia loses the license for one year and must also pay at least $500 or do 50 hours of community service.",
+      "p": "Right. The license is lost for one year."
+    },
+    "es": {
+      "q": "En Virginia, ¿qué le pasa a la licencia de un conductor menor de 21 años condenado por manejar después de beber?",
+      "o": [
+        "La pierde por un año",
+        "Recibe un sello de advertencia",
+        "La pierde por una semana",
+        "No le pasa nada"
+      ],
+      "h1": "La pérdida dura un año completo.",
+      "h2": "En Virginia, un conductor menor de 21 años condenado por manejar después de beber pierde la licencia por un año y además debe pagar por lo menos $500 o hacer 50 horas de servicio comunitario.",
+      "p": "Correcto. Pierde la licencia por un año."
+    }
+  },
+  {
+    "id": "va-017",
+    "scope": "VA",
+    "cat": "speed-lanes",
+    "conf": "medium",
+    "page": null,
+    "src": "https://law.lis.virginia.gov/vacode/title46.2/chapter8/section46.2-862/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Virginia, driving how much over the speed limit counts as reckless driving?",
+      "o": [
+        "5 mph or more",
+        "10 mph or more",
+        "20 mph or more",
+        "30 mph or more"
+      ],
+      "h1": "In Virginia this is a crime, not just a ticket.",
+      "h2": "In Virginia, driving 20 mph or more over the speed limit is reckless driving, a serious offense.",
+      "p": "Right. 20 mph or more over the limit is reckless driving."
+    },
+    "es": {
+      "q": "En Virginia, ¿cuánto por encima del límite de velocidad se considera manejo imprudente (reckless driving)?",
+      "o": [
+        "5 mph o más",
+        "10 mph o más",
+        "20 mph o más",
+        "30 mph o más"
+      ],
+      "h1": "En Virginia esto es un delito, no solo una multa.",
+      "h2": "En Virginia, manejar 20 mph o más por encima del límite es manejo imprudente, una infracción grave.",
+      "p": "Correcto. 20 mph o más sobre el límite es manejo imprudente."
+    }
+  },
+  {
+    "id": "va-018",
+    "scope": "VA",
+    "cat": "speed-lanes",
+    "conf": "medium",
+    "page": null,
+    "src": "https://law.lis.virginia.gov/vacode/title46.2/chapter8/section46.2-862/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Virginia, above what speed is driving always reckless, whatever the posted limit?",
+      "o": [
+        "75 mph",
+        "85 mph",
+        "80 mph",
+        "100 mph"
+      ],
+      "h1": "It is 15 mph above the top interstate limit.",
+      "h2": "In Virginia, driving faster than 85 mph is reckless driving no matter what the posted speed limit is.",
+      "p": "Right. Over 85 mph is always reckless driving."
+    },
+    "es": {
+      "q": "En Virginia, ¿a partir de qué velocidad es siempre manejo imprudente, sin importar el límite indicado?",
+      "o": [
+        "75 mph",
+        "85 mph",
+        "80 mph",
+        "100 mph"
+      ],
+      "h1": "Es 15 mph más que el límite máximo de las interestatales.",
+      "h2": "En Virginia, manejar a más de 85 mph es manejo imprudente sin importar el límite de velocidad indicado.",
+      "p": "Correcto. Más de 85 mph es siempre manejo imprudente."
+    }
+  },
+  {
+    "id": "va-019",
+    "scope": "VA",
+    "cat": "speed-lanes",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.ttnews.com/articles/virginia-raising-speed-limit-rural-interstates-70-mph",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Virginia, what is the highest speed limit on rural interstates?",
+      "o": [
+        "55 mph",
+        "60 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "It is lower than in many western states.",
+      "h2": "The highest posted limit on Virginia's rural interstates is 70 mph; always follow the posted signs.",
+      "p": "Right. Rural interstates in Virginia go up to 70 mph."
+    },
+    "es": {
+      "q": "En Virginia, ¿cuál es el límite de velocidad más alto en las interestatales rurales?",
+      "o": [
+        "55 mph",
+        "60 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "Es más bajo que en muchos estados del oeste.",
+      "h2": "El límite más alto en las interestatales rurales de Virginia es de 70 mph; siempre siga los letreros.",
+      "p": "Correcto. Las interestatales rurales de Virginia llegan a 70 mph."
+    }
+  },
+  {
+    "id": "va-020",
+    "scope": "VA",
+    "cat": "right-of-way",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.drivesmartva.org/wp-content/uploads/2024/06/Move-Over-TipSheet-updated.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Virginia, on a highway with two lanes in your direction, you approach a stopped vehicle with flashing lights. What should you do?",
+      "o": [
+        "Change to a lane not next to it, or slow down if that is unsafe",
+        "Stop in your lane until it leaves",
+        "Speed up to pass it quickly",
+        "Flash your lights and keep going"
+      ],
+      "h1": "First try to give it a whole lane of space.",
+      "h2": "Virginia's move-over law asks you to change to a lane not next to the stopped vehicle when safe, and if you cannot, to slow down and pass with care.",
+      "p": "Right. Move over, or slow down if you cannot."
+    },
+    "es": {
+      "q": "En Virginia, en una carretera con dos carriles en su dirección, usted se acerca a un vehículo detenido con luces intermitentes. ¿Qué debe hacer?",
+      "o": [
+        "Pasarse a un carril que no esté junto a él, o bajar la velocidad si no es seguro",
+        "Pararse en su carril hasta que se vaya",
+        "Acelerar para pasarlo rápido",
+        "Hacer cambio de luces y seguir"
+      ],
+      "h1": "Primero trate de dejarle un carril completo de espacio.",
+      "h2": "La ley de Virginia le pide pasarse a un carril que no esté junto al vehículo detenido cuando sea seguro, y si no puede, bajar la velocidad y pasar con cuidado.",
+      "p": "Correcto. Cámbiese de carril, o baje la velocidad si no puede."
+    }
+  },
+  {
+    "id": "va-021",
+    "scope": "VA",
+    "cat": "right-of-way",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.drivesmartva.org/wp-content/uploads/2024/06/Move-Over-TipSheet-updated.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Virginia, since 2023, the move-over law also covers which stopped vehicles?",
+      "o": [
+        "Only police cars",
+        "Only school buses",
+        "Any vehicle with hazard lights, flares or warning signs",
+        "Only vehicles from the power company"
+      ],
+      "h1": "The 2023 change protects ordinary drivers too.",
+      "h2": "Since 2023 Virginia's move-over law also protects any stopped vehicle that shows hazard lights, flares or warning signs, not only emergency vehicles.",
+      "p": "Right. It covers any vehicle with hazard lights, flares or warning signs."
+    },
+    "es": {
+      "q": "En Virginia, desde 2023, ¿qué vehículos detenidos protege también la ley de cambiarse de carril?",
+      "o": [
+        "Solo los carros de policía",
+        "Solo los autobuses escolares",
+        "Cualquier vehículo con luces de emergencia, bengalas o señales de aviso",
+        "Solo los vehículos de la compañía eléctrica"
+      ],
+      "h1": "El cambio de 2023 también protege a los conductores comunes.",
+      "h2": "Desde 2023, la ley de Virginia de cambiarse de carril también protege a cualquier vehículo detenido con luces de emergencia, bengalas o señales de aviso, no solo a los vehículos de emergencia.",
+      "p": "Correcto. Protege a cualquier vehículo con luces de emergencia, bengalas o señales."
+    }
+  },
+  {
+    "id": "va-022",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.thezebra.com/resources/car-insurance/virginias-auto-insurance-limits-increasing-in-2025/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Virginia, for policies issued or renewed since January 1, 2025, what is the minimum liability insurance?",
+      "o": [
+        "$30,000 / $60,000 / $20,000",
+        "$50,000 / $100,000 / $25,000",
+        "$25,000 / $50,000 / $20,000",
+        "$100,000 / $300,000 / $100,000"
+      ],
+      "h1": "The amounts went up in 2025 from 30/60/20.",
+      "h2": "Virginia policies issued or renewed since January 1, 2025 must have at least $50,000 for injury to one person, $100,000 per crash and $25,000 for property damage.",
+      "p": "Right. Virginia's minimum is now 50/100/25."
+    },
+    "es": {
+      "q": "En Virginia, para las pólizas emitidas o renovadas desde el 1 de enero de 2025, ¿cuál es el seguro de responsabilidad mínimo?",
+      "o": [
+        "$30,000 / $60,000 / $20,000",
+        "$50,000 / $100,000 / $25,000",
+        "$25,000 / $50,000 / $20,000",
+        "$100,000 / $300,000 / $100,000"
+      ],
+      "h1": "Los montos subieron en 2025 desde 30/60/20.",
+      "h2": "Las pólizas de Virginia emitidas o renovadas desde el 1 de enero de 2025 deben tener por lo menos $50,000 por lesiones a una persona, $100,000 por choque y $25,000 por daños a la propiedad.",
+      "p": "Correcto. El mínimo en Virginia ahora es 50/100/25."
+    }
+  },
+  {
+    "id": "va-023",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.repairerdrivennews.com/2024/04/24/virginia-to-no-longer-allow-uninsured-vehicle-registration-fee/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Virginia, since July 1, 2024, what must a vehicle owner have to register a car?",
+      "o": [
+        "A $500 uninsured motor vehicle fee",
+        "A clean driving record",
+        "A safety course certificate",
+        "Insurance that meets the state minimum"
+      ],
+      "h1": "Paying a fee instead is no longer an option.",
+      "h2": "Since July 1, 2024, Virginia no longer lets owners pay a fee to drive uninsured, so every registered vehicle must carry insurance that meets the state minimum.",
+      "p": "Right. Insurance is now required to register."
+    },
+    "es": {
+      "q": "En Virginia, desde el 1 de julio de 2024, ¿qué debe tener el dueño de un vehículo para registrarlo?",
+      "o": [
+        "La cuota de $500 por vehículo sin seguro",
+        "Un historial de manejo limpio",
+        "Un certificado de curso de seguridad",
+        "Un seguro que cumpla el mínimo del estado"
+      ],
+      "h1": "Pagar una cuota en su lugar ya no es una opción.",
+      "h2": "Desde el 1 de julio de 2024, Virginia ya no permite pagar una cuota para manejar sin seguro, así que todo vehículo registrado debe tener un seguro que cumpla el mínimo del estado.",
+      "p": "Correcto. Ahora se necesita seguro para registrar."
+    }
+  },
+  {
+    "id": "va-024",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.dmv.virginia.gov/licenses-ids/exams/know-exam",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Virginia, how many of the 10 road sign questions on the knowledge exam must you answer correctly?",
+      "o": [
+        "All 10",
+        "8 of them",
+        "7 of them",
+        "5 of them"
+      ],
+      "h1": "Not a single mistake is allowed in this part.",
+      "h2": "On the Virginia knowledge exam you must answer all 10 road sign questions correctly before the general knowledge part is scored.",
+      "p": "Right. All 10 sign questions must be correct."
+    },
+    "es": {
+      "q": "En Virginia, ¿cuántas de las 10 preguntas sobre señales del examen de conocimientos debe contestar bien?",
+      "o": [
+        "Las 10",
+        "8 de ellas",
+        "7 de ellas",
+        "5 de ellas"
+      ],
+      "h1": "En esta parte no se permite ni un solo error.",
+      "h2": "En el examen de conocimientos de Virginia usted debe contestar bien las 10 preguntas sobre señales antes de que se califique la parte de conocimientos generales.",
+      "p": "Correcto. Las 10 preguntas sobre señales deben estar bien."
+    }
+  },
+  {
+    "id": "va-025",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.dmv.virginia.gov/licenses-ids/exams/know-exam",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Virginia, the general knowledge part of the exam has 30 questions. How many must you answer correctly?",
+      "o": [
+        "18",
+        "20",
+        "24",
+        "28"
+      ],
+      "h1": "You need 80 percent.",
+      "h2": "To pass the general knowledge part of the Virginia exam you must answer at least 24 of the 30 questions correctly, which is 80 percent.",
+      "p": "Right. You need 24 of 30."
+    },
+    "es": {
+      "q": "En Virginia, la parte de conocimientos generales del examen tiene 30 preguntas. ¿Cuántas debe contestar bien?",
+      "o": [
+        "18",
+        "20",
+        "24",
+        "28"
+      ],
+      "h1": "Necesita el 80 por ciento.",
+      "h2": "Para aprobar la parte de conocimientos generales del examen de Virginia debe contestar bien por lo menos 24 de las 30 preguntas, es decir, el 80 por ciento.",
+      "p": "Correcto. Necesita 24 de 30."
+    }
+  },
+  {
+    "id": "va-026",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.dmv.virginia.gov/licenses-ids/exams/know-exam",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Virginia, what must you do after failing the knowledge exam three times?",
+      "o": [
+        "Wait one full year",
+        "Pay a $500 fine",
+        "Bring a lawyer to the next test",
+        "Complete a driver education classroom course"
+      ],
+      "h1": "The state wants you to study with a teacher first.",
+      "h2": "After three failed knowledge exams in Virginia, you must complete a driver education classroom course before you may take the exam again.",
+      "p": "Right. After three failures, take a classroom course first."
+    },
+    "es": {
+      "q": "En Virginia, ¿qué debe hacer después de reprobar tres veces el examen de conocimientos?",
+      "o": [
+        "Esperar un año completo",
+        "Pagar una multa de $500",
+        "Llevar un abogado al próximo examen",
+        "Completar un curso de educación vial en el aula"
+      ],
+      "h1": "El estado quiere que primero estudie con un maestro.",
+      "h2": "Después de reprobar tres veces el examen de conocimientos en Virginia, usted debe completar un curso de educación vial en el aula antes de volver a presentarlo.",
+      "p": "Correcto. Después de tres fallos, primero tome un curso en el aula."
+    }
+  },
+  {
+    "id": "va-027",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.dmv.virginia.gov/licenses-ids/exams/know-exam",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Virginia, can you take the driver knowledge exam in Spanish?",
+      "o": [
+        "No, only in English",
+        "Yes, Spanish is one of the offered languages",
+        "Only with your own translator",
+        "Only in large cities"
+      ],
+      "h1": "The DMV offers it in many languages.",
+      "h2": "The Virginia DMV offers the driver knowledge exam in Spanish and other languages, and translators may not be used for the languages that are offered.",
+      "p": "Right. The exam is offered in Spanish."
+    },
+    "es": {
+      "q": "En Virginia, ¿puede presentar el examen de conocimientos de manejo en español?",
+      "o": [
+        "No, solo en inglés",
+        "Sí, el español es uno de los idiomas ofrecidos",
+        "Solo con su propio traductor",
+        "Solo en las ciudades grandes"
+      ],
+      "h1": "El DMV lo ofrece en muchos idiomas.",
+      "h2": "El DMV de Virginia ofrece el examen de conocimientos en español y en otros idiomas, y no se permiten traductores para los idiomas que se ofrecen.",
+      "p": "Correcto. El examen se ofrece en español."
+    }
+  }
+]

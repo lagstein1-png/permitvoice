@@ -1,0 +1,33 @@
+{
+  "code": "NH",
+  "name": "New Hampshire",
+  "agency": null,
+  "handbook": {
+    "en": null,
+    "es": null
+  },
+  "exam": {
+    "questions": null,
+    "pass": null,
+    "passPercent": null,
+    "spanish": null
+  },
+  "permitAge": null,
+  "teen": {
+    "supervisedHours": null,
+    "holdPermit": null,
+    "nightLimit": null,
+    "passengerLimit": null,
+    "phone": null
+  },
+  "bac": {
+    "adult": null,
+    "under21": null
+  },
+  "notes": [
+    "Not researched: the shared WebSearch budget for this run was used up before this agent started, and direct fetches of the official agency site failed (DNS not resolved). Every field is null on purpose. Re-run research before drafting questions."
+  ],
+  "sources": [],
+  "checked": "2026-10-08",
+  "verified": false
+}

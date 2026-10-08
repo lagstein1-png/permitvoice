@@ -1,0 +1,33 @@
+{
+  "code": "NE",
+  "name": "Nebraska",
+  "agency": null,
+  "handbook": {
+    "en": null,
+    "es": null
+  },
+  "exam": {
+    "questions": null,
+    "pass": null,
+    "passPercent": null,
+    "spanish": null
+  },
+  "permitAge": null,
+  "teen": {
+    "supervisedHours": null,
+    "holdPermit": null,
+    "nightLimit": null,
+    "passengerLimit": null,
+    "phone": null
+  },
+  "bac": {
+    "adult": null,
+    "under21": null
+  },
+  "notes": [
+    "Research not done on 2026-10-08: the shared WebSearch budget was used up and the network policy blocked the official agency sites, so no fact could be checked. All fields are null on purpose. No questions were drafted for this state yet."
+  ],
+  "sources": [],
+  "checked": "2026-10-08",
+  "verified": false
+}
