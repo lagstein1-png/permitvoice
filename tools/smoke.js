@@ -12,8 +12,9 @@ srv.listen(0, async () => {
   const errs = [];
   async function page(geo, locale = 'en-US') {
     const ctx = await b.newContext({ locale, geolocation: geo, permissions: geo ? ['geolocation'] : [], viewport: { width: 375, height: 740 } });
+    // A stand-in voice: records what is said and finishes each part, like a phone would.
     await ctx.addInitScript(() => { window.__spoken = []; const real = window.speechSynthesis;
-      if (real) { const orig = real.speak.bind(real); real.speak = u => { window.__spoken.push(u.text); try { orig(u); } catch (e) {} }; } });
+      if (real) { real.speak = u => { window.__spoken.push(u.text); setTimeout(() => { u.onstart && u.onstart(); setTimeout(() => u.onend && u.onend(), 5); }, 5); }; } });
     const p = await ctx.newPage(); p.on('pageerror', e => errs.push(e.message)); p.on('console', m => m.type() === 'error' && errs.push(m.text()));
     await p.goto(url); return p;
   }
@@ -44,7 +45,24 @@ srv.listen(0, async () => {
   await p.evaluate(() => { window.__spoken = []; }); await p.click('#btnPlay'); await p.waitForTimeout(400);
   const said = await p.evaluate(() => window.__spoken.join(' | '));
   ok(said.includes(q1) && said.includes('1. '), 'Read button reads the question and the numbered options');
-  const opts = await p.$$eval('.opt span', s => s.map(x => x.textContent));
+  // Word following: drive the voice's boundary events by hand and watch the highlight move.
+  const follow = await p.evaluate(async () => {
+    const real = window.speechSynthesis, seen = [];
+    real.speak = u => { setTimeout(() => { u.onstart && u.onstart();
+      const words = []; u.text.replace(/\S+/g, (w, at) => words.push(at));
+      words.forEach(at => { u.onboundary && u.onboundary({ name: 'word', charIndex: at });
+        const on = document.querySelector('.kw.on'); seen.push(on ? on.textContent : null); });
+      u.onend && u.onend(); }, 0); };
+    real.cancel = () => {}; Object.defineProperty(real, 'speaking', { get: () => false, configurable: true });
+    document.getElementById('btnPlay').click(); if (document.getElementById('btnPlay').classList.contains('playing')) {} 
+    await new Promise(r => setTimeout(r, 600));
+    const q = document.getElementById('qtitle').textContent.split(/\s+/).filter(Boolean);
+    return { seen, q, left: document.querySelectorAll('.kw.on').length };
+  });
+  ok(follow.seen.slice(0, follow.q.length).join(' ') === follow.q.join(' '), 'highlight follows each spoken word of the question');
+  ok(follow.seen.some(x => /^\d\.$/.test(x || '')) === false && follow.seen.filter(Boolean).length > follow.q.length, 'options are followed too, without highlighting the spoken number');
+  ok(follow.left === 0, 'no highlight left after reading ends');
+  const opts = await p.$$eval('.opt .otext', s => s.map(x => x.textContent));
   const wrongI = opts.findIndex(o => o !== right), rightI = opts.indexOf(right);
   await p.click(`.opt[data-i="${wrongI}"]`);
   ok(await p.isVisible('.hintbox') && await p.isVisible('.tag'), 'wrong answer in practice → "Almost" + hint');

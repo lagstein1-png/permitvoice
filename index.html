@@ -13,11 +13,12 @@
   --bg:#F6F4EE; --card:#FFFFFF; --ink:#13202C; --muted:#4A5866; --line:#D5D9DE;
   --go:#0E6B4A; --go-dark:#094A33; --brand:#0E3B5C; --almost:#8A5A00; --almost-bg:#FFF4DA;
   --right-bg:#E3F4EA; --focus:#1F6FEB; --notice:#EAF1F8;
+  --hl:#FFE14D; --hl-ink:#13202C; --hl-soft:#FFF3B0;
 }
 @media (prefers-color-scheme:dark){
   :root{ --bg:#0F161D; --card:#18222C; --ink:#EEF2F5; --muted:#B4C0CB; --line:#2E3C49;
     --go:#2FA678; --go-dark:#1E7A57; --brand:#9FCBEA; --almost:#F2C66B; --almost-bg:#3A2E12;
-    --right-bg:#173A2A; --notice:#1D2C3A; }
+    --right-bg:#173A2A; --notice:#1D2C3A; --hl-soft:#4A4214; }
 }
 *{box-sizing:border-box}
 html,body{margin:0;background:var(--bg);color:var(--ink)}
@@ -61,6 +62,9 @@ select{width:100%;min-height:52px;font:inherit;font-size:19px;padding:8px 10px;b
 .hintbox b{display:block;font-size:15px;color:var(--muted)}
 .praise{background:var(--right-bg)}
 .feedback{background:var(--almost-bg)}
+.kw{border-radius:4px;padding:0 1px;margin:0 -1px}
+.kw.on{background:var(--hl);color:var(--hl-ink)}
+.kwhole{background:var(--hl-soft);border-radius:4px}
 .ref{font-size:15px;color:var(--muted);margin:6px 0}
 .result{font-size:40px;font-weight:800;margin:10px 0}
 .foot{font-size:14px;color:var(--muted);margin-top:28px;border-top:1px solid var(--line);padding-top:12px}
@@ -249,41 +253,90 @@ function voiceFor(lang){
 }
 function stopSpeech(){
   SPEECH.gen++;
+  if(typeof clearKaraoke === 'function') clearKaraoke();
   if(SPEECH.ok){ try{ speechSynthesis.cancel(); }catch(e){} }
   SPEECH.playing = false; syncPlay();
 }
 function silentNote(show){ const n = el('ttsNote'); if(n){ n.textContent = t('silent'); n.hidden = !show; } }
+/* ---------- Following the spoken word ----------
+   Each spoken part may name the element it reads. Its words are wrapped in spans, and the
+   word being said is highlighted from the voice's boundary events. Voices that send no
+   boundary events get the whole element highlighted instead, like Talking Theory. */
+const KARAOKE = { spans: [], node: null, cur: -1 };
+function paintWords(node, text){
+  const out = [], spans = [];
+  let pos = 0;
+  text.replace(/\S+/g, (w, at) => { out.push(esc(text.slice(pos, at)), `<span class="kw">${esc(w)}</span>`); spans.push(at); pos = at + w.length; return w; });
+  out.push(esc(text.slice(pos)));
+  node.innerHTML = out.join('');
+  return [...node.querySelectorAll('.kw')].map((sp, i) => ({ sp, at: spans[i] }));
+}
+function clearKaraoke(){
+  if(KARAOKE.node) KARAOKE.node.classList.remove('kwhole');
+  if(KARAOKE.spans[KARAOKE.cur]) KARAOKE.spans[KARAOKE.cur].sp.classList.remove('on');
+  KARAOKE.spans = []; KARAOKE.node = null; KARAOKE.cur = -1;
+}
+function highlightAt(ci){
+  let i = -1;
+  for(let k = 0; k < KARAOKE.spans.length; k++){ if(KARAOKE.spans[k].at <= ci) i = k; else break; }
+  if(i === KARAOKE.cur) return;
+  if(KARAOKE.spans[KARAOKE.cur]) KARAOKE.spans[KARAOKE.cur].sp.classList.remove('on');
+  if(KARAOKE.spans[i]){ KARAOKE.spans[i].sp.classList.add('on'); KARAOKE.node.classList.remove('kwhole'); }
+  KARAOKE.cur = i;
+}
+/* parts: strings, or {text, node, pre}. pre is said before the text but not shown (the option number). */
 function speak(parts){
   if(!SPEECH.ok){ silentNote(true); return; }
-  const text = parts.filter(Boolean).join('. ');
-  if(!text) return;
+  const list = parts.filter(Boolean).map(p => typeof p === 'string' ? { text: p } : p).filter(p => p.text);
+  if(!list.length) return;
   const gen = ++SPEECH.gen;
   try{ if(speechSynthesis.speaking || speechSynthesis.pending) speechSynthesis.cancel(); }catch(e){}
+  clearKaraoke();
   SPEECH.playing = true; syncPlay();
-  /* One utterance for the whole text, started a moment after cancel(). */
-  setTimeout(() => {
+  const done = () => { if(gen === SPEECH.gen){ clearKaraoke(); SPEECH.playing = false; syncPlay(); } SPEECH.u = null; };
+  /* One part at a time. The next part starts from onend, never queued after cancel(). */
+  const sayPart = (k) => {
     if(gen !== SPEECH.gen) return;
-    const u = new SpeechSynthesisUtterance(text);
+    if(k >= list.length){ done(); return; }
+    const p = list[k], pre = p.pre || '';
+    clearKaraoke();
+    if(p.node && p.node.isConnected){ KARAOKE.node = p.node; KARAOKE.spans = paintWords(p.node, p.text); }
+    const u = new SpeechSynthesisUtterance(pre + p.text);
     u.lang = S.lang === 'es' ? 'es-US' : 'en-US';
     const v = voiceFor(S.lang); if(v) u.voice = v;
     u.rate = S.rate;
-    let started = false;
-    u.onstart = () => { started = true; SPEECH.heard = true; silentNote(false); };
-    u.onend = u.onerror = () => { if(gen === SPEECH.gen){ SPEECH.playing = false; syncPlay(); } SPEECH.u = null; };
+    let started = false, bounded = false;
+    u.onstart = () => {
+      started = true; SPEECH.heard = true; silentNote(false);
+      if(KARAOKE.node) setTimeout(() => { if(gen === SPEECH.gen && !bounded && KARAOKE.node === p.node) p.node.classList.add('kwhole'); }, 700);
+    };
+    u.onboundary = ev => {
+      if(gen !== SPEECH.gen || KARAOKE.node !== p.node || !KARAOKE.spans.length) return;
+      if(ev.name && ev.name !== 'word') return;
+      bounded = true;
+      highlightAt((ev.charIndex || 0) - pre.length);
+    };
+    u.onend = () => { if(gen === SPEECH.gen) sayPart(k + 1); };
+    u.onerror = done;
     SPEECH.u = u;
-    try{ speechSynthesis.resume(); speechSynthesis.speak(u); }catch(e){ silentNote(true); SPEECH.playing = false; syncPlay(); return; }
-    /* Some views (in-app browsers, embedded frames) accept speak() and say nothing. Tell the learner. */
-    setTimeout(() => {
-      if(gen !== SPEECH.gen || started) return;
-      let busy = false; try{ busy = speechSynthesis.speaking; }catch(e){}
-      if(!busy){ SPEECH.playing = false; syncPlay(); if(!SPEECH.heard) silentNote(true); }
-    }, 2500);
-  }, 120);
+    try{ speechSynthesis.resume(); speechSynthesis.speak(u); }catch(e){ silentNote(true); done(); return; }
+    if(k === 0){
+      /* Some views (in-app browsers, embedded frames) accept speak() and say nothing. Tell the learner. */
+      setTimeout(() => {
+        if(gen !== SPEECH.gen || started) return;
+        let busy = false; try{ busy = speechSynthesis.speaking; }catch(e){}
+        if(!busy){ done(); if(!SPEECH.heard) silentNote(true); }
+      }, 2500);
+    }
+  };
+  /* The first part starts a moment after cancel(): Chrome on Android drops it otherwise. */
+  setTimeout(() => sayPart(0), 120);
 }
 function currentSpeech(){
   if(S.screen !== 'quiz') return [];
   const d = cur().d, o = curOpts();
-  return [d.q].concat(o.map((x, i) => `${i + 1}. ${x.text}`));
+  const opts = [...screen.querySelectorAll('.opt .otext')];
+  return [{ text: d.q, node: el('qtitle') }].concat(o.map((x, i) => ({ text: x.text, pre: `${i + 1}. `, node: opts[i] })));
 }
 function syncPlay(){
   el('btnPlay').textContent = SPEECH.playing ? t('stop') : t('play');
@@ -423,7 +476,7 @@ function renderQuiz(){
     <div class="road" role="progressbar" aria-label="${esc(t('question'))}" aria-valuemin="0" aria-valuemax="100" aria-valuenow="${pct}"><div class="road-fill" style="width:${pct}%"></div></div>
     <h2 class="qtitle" tabindex="-1" id="qtitle">${esc(d.q)}</h2>
     <div id="hints" aria-live="polite"></div>
-    ${o.map((x, i) => `<button class="opt" type="button" data-i="${i}"><b class="optnum" aria-hidden="true">${i + 1}</b><span>${esc(x.text)}</span></button>`).join('')}
+    ${o.map((x, i) => `<button class="opt" type="button" data-i="${i}"><b class="optnum" aria-hidden="true">${i + 1}</b><span class="otext">${esc(x.text)}</span></button>`).join('')}
     ${S.exam ? '' : `<button class="hintbtn" id="btnHint" type="button">${esc(t('hint'))}</button><button class="hintbtn" id="btnSkip" type="button">${esc(t('skip'))}</button>`}
     <div id="after"></div>`;
   screen.querySelectorAll('.opt').forEach(b => b.onclick = () => answer(+b.dataset.i));
@@ -437,10 +490,15 @@ function showHint(level, say){
   const d = cur().d;
   S.hint = Math.min(2, Math.max(S.hint, level));
   el('hints').innerHTML =
-    (S.hint >= 1 ? `<div class="hintbox"><b>${esc(t('hint1T'))}</b>${esc(d.h1)}</div>` : '') +
-    (S.hint >= 2 ? `<div class="hintbox"><b>${esc(t('hint2T'))}</b>${esc(d.h2)}</div>` : '');
+    (S.hint >= 1 ? `<div class="hintbox"><b>${esc(t('hint1T'))}</b><span class="htext">${esc(d.h1)}</span></div>` : '') +
+    (S.hint >= 2 ? `<div class="hintbox"><b>${esc(t('hint2T'))}</b><span class="htext">${esc(d.h2)}</span></div>` : '');
   const hb = el('btnHint'); if(hb){ hb.textContent = t('hint2'); hb.disabled = S.hint >= 2; }
-  if(say) speak([S.hint >= 2 ? d.h2 : d.h1]);
+  if(say) speak([lastHint()]);
+}
+/* The newest hint box, as a spoken part that highlights its own words. */
+function lastHint(){
+  const d = cur().d, h = [...el('hints').querySelectorAll('.htext')].pop();
+  return { text: S.hint >= 2 ? d.h2 : d.h1, node: h };
 }
 function refLine(q){ return q.ref ? `<p class="ref">${esc(t('ref'))}</p>` : ''; }
 function nextButton(){
@@ -460,16 +518,17 @@ function answer(i){
     if(el('btnSkip')) el('btnSkip').remove(); if(el('btnHint')) el('btnHint').disabled = true;
     el('after').innerHTML = `<div class="praise" role="status">${esc(d.p)}</div>${refLine(q)}${nextButton()}`;
     el('btnNext').onclick = nextQ; el('btnNext').focus();
-    speak([d.p]);
+    speak([{ text: d.p, node: el('after').querySelector('.praise') }]);
     return;
   }
   if(!S.nationalOnly){ const m = new Set(mistakes()); m.add(q.id); setMistakes([...m]); }
   if(S.exam){
     btns.forEach(b => b.disabled = true); btns[i].classList.add('almost'); btns[rightAt].classList.add('right');
     S.answered = true;
-    el('after').innerHTML = `<div class="feedback" role="status">${esc(t('correctIs')(rightAt + 1))} ${esc(d.h2)}</div>${refLine(q)}${nextButton()}`;
+    el('after').innerHTML = `<div class="feedback" role="status">${esc(t('correctIs')(rightAt + 1))} <span class="ftext">${esc(d.h2)}</span></div>${refLine(q)}${nextButton()}`;
     el('btnNext').onclick = nextQ; el('btnNext').focus();
-    speak([t('correctIs')(rightAt + 1), o[rightAt].text, d.h2]);
+    speak([t('correctIs')(rightAt + 1), { text: o[rightAt].text, node: btns[rightAt].querySelector('.otext') },
+           { text: d.h2, node: el('after').querySelector('.ftext') }]);
     return;
   }
   /* Practice: not a "mistake". The option is set aside and a hint appears. */
@@ -478,7 +537,7 @@ function answer(i){
   btns[i].insertAdjacentHTML('beforeend', `<span class="tag">${esc(t('almost'))}</span>`);
   const lvl = Math.min(S.hint + 1, 2);
   showHint(lvl, false);
-  speak([t('almostSay'), lvl >= 2 ? d.h2 : d.h1]);
+  speak([t('almostSay'), lastHint()]);
 }
 
 /* ---------- Result ---------- */

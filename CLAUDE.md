@@ -17,7 +17,8 @@ Read `README.md` for the files and the question rules.
 - Accessibility first: dyslexia, ADHD, second-language learners, older drivers. Legible beats clever.
 - A wrong answer is never a penalty: "Almost" and a hint.
 - Every explanation (`h2`) is a full sentence that states the answer, never a formula.
-- Speech is the device voice (`speechSynthesis`). Unlock on first touch, one utterance a moment after `cancel()`, keep a reference to it.
+- Speech is the device voice (`speechSynthesis`). Unlock on first touch, start a moment after `cancel()`, then one part at a time from `onend`; keep a reference to the utterance.
+- The spoken word is highlighted from `onboundary`. A voice with no boundary events gets the whole element highlighted.
 
 ## Content
 
