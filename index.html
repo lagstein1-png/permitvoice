@@ -131,7 +131,8 @@ const T = {
     skip:'Skip this question', next:'Next question', seeRes:'See my result',
     almost:'Almost', almostSay:'Almost. Here is a hint.',
     correctIs:n=>`The correct answer is number ${n}.`,
-    ref:'Florida Driver License Handbook — page not yet checked',
+    ref:p=>`Florida Driver License Handbook (rev. 08/2023), page ${p}`,
+    refLaw:'Based on Florida law. This rule is not in the handbook.',
     passT:'You passed!', failT:'Not yet', resT:'Round complete',
     resLine:(c,n)=>`${c} of ${n} correct`,
     passP:'You reached the passing score. Keep practicing to stay sharp.',
@@ -160,7 +161,8 @@ const T = {
     skip:'Saltar esta pregunta', next:'Siguiente pregunta', seeRes:'Ver mi resultado',
     almost:'Casi', almostSay:'Casi. Aquí tiene una pista.',
     correctIs:n=>`La respuesta correcta es la número ${n}.`,
-    ref:'Manual de Licencia de Conducir de Florida — página aún no verificada',
+    ref:p=>`Manual de Licencia de Conducir de Florida (edición en inglés, rev. 08/2023), página ${p}`,
+    refLaw:'Basado en la ley de Florida. Esta regla no aparece en el manual.',
     passT:'¡Aprobó!', failT:'Todavía no', resT:'Ronda terminada',
     resLine:(c,n)=>`${c} de ${n} correctas`,
     passP:'Alcanzó la puntuación para aprobar. Siga practicando para no olvidar.',
@@ -500,7 +502,11 @@ function lastHint(){
   const d = cur().d, h = [...el('hints').querySelectorAll('.htext')].pop();
   return { text: S.hint >= 2 ? d.h2 : d.h1, node: h };
 }
-function refLine(q){ return q.ref ? `<p class="ref">${esc(t('ref'))}</p>` : ''; }
+/* The handbook page is shown only for the state whose handbook it is. */
+function refLine(q){
+  if(!q.ref || q.ref.doc !== S.state) return '';
+  return `<p class="ref">${esc(q.ref.page ? t('ref')(q.ref.page) : t('refLaw'))}</p>`;
+}
 function nextButton(){
   const last = S.qi === S.deck.length - 1;
   return `<button class="bigbtn" id="btnNext" type="button">${esc(last ? t('seeRes') : t('next'))}</button>`;

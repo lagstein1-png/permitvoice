@@ -1,6 +1,6 @@
 // Builds bank.js from bank/*.json.
 // Questions marked conf:"medium" stay in the source files but are left out of the app until a person checks them.
-// Every state-specific question gets a separate ref field, so all handbook references can be removed in one step.
+// Handbook references live in a separate ref field, so all of them can be removed in one step.
 const fs = require('fs'), path = require('path');
 const dir = path.join(__dirname, 'bank');
 const check = process.argv.includes('--check');
@@ -10,6 +10,7 @@ for (const f of fs.readdirSync(dir).filter(f => f.endsWith('.json')).sort()) {
     const bad = m => errors.push(`${f} ${q.id}: ${m}`);
     if (ids.has(q.id)) bad('duplicate id'); ids.add(q.id);
     if (!(q.c >= 0 && q.c <= 3)) bad('c out of range');
+    if (!(q.page === undefined || q.page === null || (Number.isInteger(q.page) && q.page >= 1 && q.page <= 100))) bad('page must be null or a handbook page number');
     for (const L of ['en', 'es']) {
       const d = q[L]; if (!d) { bad('missing ' + L); continue; }
       for (const k of ['q', 'h1', 'h2', 'p']) if (!d[k] || !String(d[k]).trim()) bad(`${L}.${k} empty`);
@@ -21,7 +22,9 @@ for (const f of fs.readdirSync(dir).filter(f => f.endsWith('.json')).sort()) {
 }
 const served = all.filter(q => q.conf === 'high').map(q => {
   const o = { id: q.id, scope: q.scope, cat: q.cat, sign: q.sign || null, c: q.c, en: q.en, es: q.es };
-  if (q.scope !== 'US') o.ref = { doc: q.scope, page: null };
+  // Page in the Florida handbook (English, rev. 08/2023). National questions get one too when the handbook covers them.
+  if (Number.isInteger(q.page)) o.ref = { doc: 'FL', page: q.page };
+  else if (q.scope !== 'US') o.ref = { doc: q.scope, page: null };
   return o;
 });
 const count = (a, k) => a.reduce((m, q) => (m[q[k]] = (m[q[k]] || 0) + 1, m), {});
