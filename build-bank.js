@@ -5,7 +5,10 @@ const fs = require('fs'), path = require('path');
 const dir = path.join(__dirname, 'bank');
 const check = process.argv.includes('--check');
 const all = [], errors = [], ids = new Set();
-for (const f of fs.readdirSync(dir).filter(f => f.endsWith('.json')).sort()) {
+// bank/*.json holds Florida and national questions; bank/states/<xx>.json holds one state each.
+const files = fs.readdirSync(dir).filter(f => f.endsWith('.json')).sort()
+  .concat(fs.existsSync(path.join(dir, 'states')) ? fs.readdirSync(path.join(dir, 'states')).filter(f => f.endsWith('.json')).sort().map(f => 'states/' + f) : []);
+for (const f of files) {
   for (const q of JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8'))) {
     const bad = m => errors.push(`${f} ${q.id}: ${m}`);
     if (ids.has(q.id)) bad('duplicate id'); ids.add(q.id);
