@@ -1,0 +1,12 @@
+# Cloudflare Pages headers.
+# sw.js and the page itself must never be cached by the browser, or phones keep the old version.
+/sw.js
+  Cache-Control: no-cache
+/
+  Cache-Control: no-cache
+/index.html
+  Cache-Control: no-cache
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(self), camera=(), microphone=()
