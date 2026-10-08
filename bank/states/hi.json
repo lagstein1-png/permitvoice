@@ -1,0 +1,682 @@
+[
+  {
+    "id": "hi-001",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://ghsa.org/node/2056",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, what is the youngest age to get an instruction permit?",
+      "o": [
+        "14 years old",
+        "15 years old",
+        "15 and a half years old",
+        "16 years old"
+      ],
+      "h1": "It is half a year past a birthday.",
+      "h2": "In Hawaii you can get an instruction permit at 15 and a half years old.",
+      "p": "Right. The Hawaii permit starts at 15 and a half."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuál es la edad mínima para obtener un permiso de instrucción?",
+      "o": [
+        "14 años",
+        "15 años",
+        "15 años y medio",
+        "16 años"
+      ],
+      "h1": "Es medio año después de un cumpleaños.",
+      "h2": "En Hawái usted puede obtener el permiso de instrucción a los 15 años y medio.",
+      "p": "Correcto. El permiso en Hawái empieza a los 15 años y medio."
+    }
+  },
+  {
+    "id": "hi-002",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.dmvroads.com/states/hawaii/learners-permit/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, how old must the licensed driver with a permit holder be?",
+      "o": [
+        "At least 18",
+        "At least 21",
+        "At least 25",
+        "At least 30"
+      ],
+      "h1": "The helper must be old enough to drink alcohol legally.",
+      "h2": "A Hawaii permit holder may drive only with a licensed driver who is at least 21 years old.",
+      "p": "Right. The adult with you must be 21 or older."
+    },
+    "es": {
+      "q": "En Hawái, ¿qué edad debe tener el conductor con licencia que acompaña a quien tiene permiso?",
+      "o": [
+        "Por lo menos 18",
+        "Por lo menos 21",
+        "Por lo menos 25",
+        "Por lo menos 30"
+      ],
+      "h1": "El acompañante debe tener edad para tomar alcohol legalmente.",
+      "h2": "Quien tiene un permiso en Hawái solo puede manejar con un conductor con licencia de por lo menos 21 años.",
+      "p": "Correcto. El adulto que lo acompaña debe tener 21 años o más."
+    }
+  },
+  {
+    "id": "hi-003",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.dmvroads.com/states/hawaii/learners-permit/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, where must the supervising driver sit when a permit holder drives?",
+      "o": [
+        "In the front passenger seat",
+        "In the back seat behind the driver",
+        "Anywhere in the car",
+        "In the back seat on the right"
+      ],
+      "h1": "The helper needs to see the road and reach the driver quickly.",
+      "h2": "The supervising driver must sit in the front passenger seat, beside the Hawaii permit holder.",
+      "p": "Right. The helper sits right beside you."
+    },
+    "es": {
+      "q": "En Hawái, ¿dónde debe sentarse el conductor supervisor cuando maneja alguien con permiso?",
+      "o": [
+        "En el asiento del pasajero delantero",
+        "En el asiento trasero detrás del conductor",
+        "En cualquier lugar del carro",
+        "En el asiento trasero a la derecha"
+      ],
+      "h1": "El acompañante necesita ver la vía y alcanzar al conductor rápido.",
+      "h2": "El conductor supervisor debe sentarse en el asiento del pasajero delantero, al lado de quien tiene el permiso en Hawái.",
+      "p": "Correcto. El acompañante va a su lado."
+    }
+  },
+  {
+    "id": "hi-004",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.dmvroads.com/states/hawaii/learners-permit/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, how long must you hold an instruction permit before the road test?",
+      "o": [
+        "30 days",
+        "90 days",
+        "1 year",
+        "180 days"
+      ],
+      "h1": "It is about half a year.",
+      "h2": "In Hawaii you must hold your instruction permit for at least 180 days before you take the road test.",
+      "p": "Right. You practice for at least 180 days first."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuánto tiempo debe tener el permiso de instrucción antes del examen de manejo?",
+      "o": [
+        "30 días",
+        "90 días",
+        "1 año",
+        "180 días"
+      ],
+      "h1": "Es más o menos medio año.",
+      "h2": "En Hawái usted debe tener el permiso de instrucción por lo menos 180 días antes de presentar el examen de manejo.",
+      "p": "Correcto. Primero practica por lo menos 180 días."
+    }
+  },
+  {
+    "id": "hi-005",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.dmvroads.com/states/hawaii/teen-license/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, what is the youngest age to get a provisional license?",
+      "o": [
+        "15 years old",
+        "16 years old",
+        "17 years old",
+        "18 years old"
+      ],
+      "h1": "It comes after a half year of practice with a permit from age 15 and a half.",
+      "h2": "In Hawaii the provisional license is available from age 16.",
+      "p": "Right. The provisional license starts at 16."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuál es la edad mínima para obtener una licencia provisional?",
+      "o": [
+        "15 años",
+        "16 años",
+        "17 años",
+        "18 años"
+      ],
+      "h1": "Llega después de medio año de práctica con un permiso desde los 15 años y medio.",
+      "h2": "En Hawái la licencia provisional se puede obtener desde los 16 años.",
+      "p": "Correcto. La licencia provisional empieza a los 16."
+    }
+  },
+  {
+    "id": "hi-006",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://law.justia.com/codes/hawaii/title-17/chapter-286/section-286-102-6",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, during which hours does a provisional licensee need a parent or guardian in the car?",
+      "o": [
+        "9 p.m. to 5 a.m.",
+        "Midnight to 6 a.m.",
+        "11 p.m. to 5 a.m.",
+        "10 p.m. to 6 a.m."
+      ],
+      "h1": "It starts one hour before midnight.",
+      "h2": "A Hawaii provisional licensee who drives between 11 p.m. and 5 a.m. must have a licensed parent or guardian in the seat beside them, unless an exception applies.",
+      "p": "Right. The night limit is 11 p.m. to 5 a.m."
+    },
+    "es": {
+      "q": "En Hawái, ¿en qué horas necesita un conductor con licencia provisional a su padre, madre o tutor en el carro?",
+      "o": [
+        "De 9 p.m. a 5 a.m.",
+        "De medianoche a 6 a.m.",
+        "De 11 p.m. a 5 a.m.",
+        "De 10 p.m. a 6 a.m."
+      ],
+      "h1": "Empieza una hora antes de la medianoche.",
+      "h2": "Un conductor con licencia provisional en Hawái que maneja entre las 11 p.m. y las 5 a.m. debe llevar al lado a su padre, madre o tutor con licencia, salvo que aplique una excepción.",
+      "p": "Correcto. El límite de noche es de 11 p.m. a 5 a.m."
+    }
+  },
+  {
+    "id": "hi-007",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://law.justia.com/codes/hawaii/title-17/chapter-286/section-286-102-6",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, who must ride beside a provisional licensee driving late at night?",
+      "o": [
+        "A licensed parent or guardian",
+        "Any passenger over 16",
+        "Any licensed friend",
+        "A driving school teacher only"
+      ],
+      "h1": "It is a family adult who is responsible for the teen.",
+      "h2": "In Hawaii, a provisional licensee driving between 11 p.m. and 5 a.m. must have a licensed parent or guardian in the seat beside them.",
+      "p": "Right. A licensed parent or guardian rides along."
+    },
+    "es": {
+      "q": "En Hawái, ¿quién debe ir al lado de un conductor con licencia provisional que maneja tarde en la noche?",
+      "o": [
+        "Su padre, madre o tutor con licencia",
+        "Cualquier pasajero mayor de 16",
+        "Cualquier amigo con licencia",
+        "Solo un instructor de manejo"
+      ],
+      "h1": "Es un adulto de la familia que responde por el adolescente.",
+      "h2": "En Hawái, un conductor con licencia provisional que maneja entre las 11 p.m. y las 5 a.m. debe llevar al lado a su padre, madre o tutor con licencia.",
+      "p": "Correcto. Lo acompaña su padre, madre o tutor con licencia."
+    }
+  },
+  {
+    "id": "hi-008",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://law.justia.com/codes/hawaii/title-17/chapter-286/section-286-102-6",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, when may a provisional licensee drive alone after 11 p.m.?",
+      "o": [
+        "Any time they feel awake",
+        "When going to a friend's house",
+        "When the roads are empty",
+        "Going straight to or from work, with a note from the employer in the car"
+      ],
+      "h1": "Think of a trip that has paperwork behind it.",
+      "h2": "A Hawaii provisional licensee may drive alone at night when going directly to or from work, with documentation from the employer kept in the vehicle.",
+      "p": "Right. Work trips with a note are allowed."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuándo puede un conductor con licencia provisional manejar solo después de las 11 p.m.?",
+      "o": [
+        "Cuando se sienta despierto",
+        "Cuando va a la casa de un amigo",
+        "Cuando las calles están vacías",
+        "Directo al trabajo o de regreso, con una nota del empleador en el carro"
+      ],
+      "h1": "Piense en un viaje que tiene un papel que lo respalda.",
+      "h2": "Un conductor con licencia provisional en Hawái puede manejar solo de noche cuando va directo al trabajo o regresa de él, con un documento del empleador dentro del vehículo.",
+      "p": "Correcto. Los viajes al trabajo con una nota están permitidos."
+    }
+  },
+  {
+    "id": "hi-009",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://law.justia.com/codes/hawaii/title-17/chapter-286/section-286-102-6",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, how many passengers under 18 may a provisional licensee carry without a parent or guardian?",
+      "o": [
+        "None at all",
+        "One, unless the others live in the same household",
+        "Two",
+        "Three"
+      ],
+      "h1": "Count on one hand, and use just one finger.",
+      "h2": "Without a parent or guardian along, a Hawaii provisional licensee may carry no more than one person under 18, unless the others are household members.",
+      "p": "Right. Only one young passenger from outside the home."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuántos pasajeros menores de 18 puede llevar un conductor con licencia provisional sin su padre, madre o tutor?",
+      "o": [
+        "Ninguno",
+        "Uno, salvo que los demás vivan en la misma casa",
+        "Dos",
+        "Tres"
+      ],
+      "h1": "Cuente con una mano, y use solo un dedo.",
+      "h2": "Sin su padre, madre o tutor en el carro, un conductor con licencia provisional en Hawái puede llevar como máximo a una persona menor de 18, salvo que los demás vivan en su misma casa.",
+      "p": "Correcto. Solo un pasajero joven de fuera de la casa."
+    }
+  },
+  {
+    "id": "hi-010",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://law.justia.com/codes/hawaii/title-17/chapter-286/section-286-102-6",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, which young passengers do not count toward a provisional licensee's passenger limit?",
+      "o": [
+        "Classmates",
+        "Teammates",
+        "Members of the driver's household",
+        "Neighbors"
+      ],
+      "h1": "Think of the people who live under the same roof.",
+      "h2": "In Hawaii, passengers under 18 who are members of the provisional licensee's household do not count toward the one-passenger limit.",
+      "p": "Right. People from your own home do not count."
+    },
+    "es": {
+      "q": "En Hawái, ¿qué pasajeros jóvenes no cuentan en el límite de pasajeros de un conductor con licencia provisional?",
+      "o": [
+        "Compañeros de clase",
+        "Compañeros de equipo",
+        "Personas que viven en la casa del conductor",
+        "Vecinos"
+      ],
+      "h1": "Piense en las personas que viven bajo el mismo techo.",
+      "h2": "En Hawái, los pasajeros menores de 18 que viven en la casa del conductor con licencia provisional no cuentan en el límite de un pasajero.",
+      "p": "Correcto. Las personas de su propia casa no cuentan."
+    }
+  },
+  {
+    "id": "hi-011",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "medium",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0137.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, may an adult driver hold a phone and use it while driving?",
+      "o": [
+        "No, using a mobile electronic device while driving is banned",
+        "Yes, at any speed",
+        "Yes, but only on the highway",
+        "Yes, if no police are around"
+      ],
+      "h1": "The rule covers every driver, not only teens.",
+      "h2": "Hawaii law says no person may drive a motor vehicle while using a mobile electronic device, so you must not hold and use your phone while driving.",
+      "p": "Right. Put the phone down while you drive."
+    },
+    "es": {
+      "q": "En Hawái, ¿puede un conductor adulto sostener y usar un teléfono mientras maneja?",
+      "o": [
+        "No, usar un aparato electrónico móvil mientras maneja está prohibido",
+        "Sí, a cualquier velocidad",
+        "Sí, pero solo en la autopista",
+        "Sí, si no hay policía cerca"
+      ],
+      "h1": "La regla es para todos los conductores, no solo los jóvenes.",
+      "h2": "La ley de Hawái dice que nadie puede manejar un vehículo mientras usa un aparato electrónico móvil, así que usted no debe sostener ni usar su teléfono al manejar.",
+      "p": "Correcto. Deje el teléfono mientras maneja."
+    }
+  },
+  {
+    "id": "hi-012",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "medium",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0137.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, may a 17-year-old driver use a hands-free phone while driving?",
+      "o": [
+        "Yes, any time",
+        "Yes, but only for music",
+        "Yes, if a parent is in the car",
+        "No, drivers under 18 may not use even a hands-free device"
+      ],
+      "h1": "The rule for teens is stricter than the rule for adults.",
+      "h2": "In Hawaii, a driver under 18 may not use a hands-free mobile electronic device while driving, except to call 911.",
+      "p": "Right. Under 18, no phone at all while driving."
+    },
+    "es": {
+      "q": "En Hawái, ¿puede un conductor de 17 años usar un teléfono de manos libres mientras maneja?",
+      "o": [
+        "Sí, en cualquier momento",
+        "Sí, pero solo para música",
+        "Sí, si va un padre en el carro",
+        "No, los menores de 18 no pueden usar ni siquiera un aparato de manos libres"
+      ],
+      "h1": "La regla para jóvenes es más estricta que para adultos.",
+      "h2": "En Hawái, un conductor menor de 18 no puede usar un aparato electrónico móvil de manos libres mientras maneja, salvo para llamar al 911.",
+      "p": "Correcto. Menor de 18, nada de teléfono al manejar."
+    }
+  },
+  {
+    "id": "hi-013",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "medium",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0137.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, for what reason may a driver under 18 use a hands-free phone while driving?",
+      "o": [
+        "To answer a parent's text",
+        "To call 911 in an emergency",
+        "To check a map",
+        "To talk with a friend"
+      ],
+      "h1": "It is the number you call when someone needs help right away.",
+      "h2": "A Hawaii driver under 18 may use a hands-free device while driving only to make a 911 emergency call.",
+      "p": "Right. Only a 911 emergency call."
+    },
+    "es": {
+      "q": "En Hawái, ¿por qué razón puede un conductor menor de 18 usar un teléfono de manos libres al manejar?",
+      "o": [
+        "Para contestar un mensaje de sus padres",
+        "Para llamar al 911 en una emergencia",
+        "Para ver un mapa",
+        "Para hablar con un amigo"
+      ],
+      "h1": "Es el número al que se llama cuando alguien necesita ayuda de inmediato.",
+      "h2": "Un conductor menor de 18 en Hawái solo puede usar un aparato de manos libres al manejar para hacer una llamada de emergencia al 911.",
+      "p": "Correcto. Solo una llamada de emergencia al 911."
+    }
+  },
+  {
+    "id": "hi-014",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "medium",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0137.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, where is the fine for using a phone while driving higher?",
+      "o": [
+        "On rural roads",
+        "In parking lots",
+        "In a school zone or a construction area",
+        "On the freeway at night"
+      ],
+      "h1": "Think of places where children or road workers are close by.",
+      "h2": "In Hawaii, the fine for using a mobile device while driving is higher in a school zone or a construction area.",
+      "p": "Right. School zones and work zones cost more."
+    },
+    "es": {
+      "q": "En Hawái, ¿dónde es más alta la multa por usar el teléfono mientras maneja?",
+      "o": [
+        "En caminos rurales",
+        "En estacionamientos",
+        "En una zona escolar o una zona de construcción",
+        "En la autopista de noche"
+      ],
+      "h1": "Piense en lugares donde hay niños o trabajadores cerca.",
+      "h2": "En Hawái, la multa por usar un aparato móvil mientras maneja es más alta en una zona escolar o una zona de construcción.",
+      "p": "Correcto. Las zonas escolares y de obras cuestan más."
+    }
+  },
+  {
+    "id": "hi-015",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "medium",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0137.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, what is the usual fine for using a mobile device while driving?",
+      "o": [
+        "$300",
+        "$25",
+        "$50",
+        "$1,000"
+      ],
+      "h1": "It is a few hundred dollars.",
+      "h2": "In Hawaii the usual fine for using a mobile electronic device while driving is $300.",
+      "p": "Right. The usual fine is $300."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuál es la multa normal por usar un aparato móvil mientras maneja?",
+      "o": [
+        "$300",
+        "$25",
+        "$50",
+        "$1,000"
+      ],
+      "h1": "Son unos cientos de dólares.",
+      "h2": "En Hawái la multa normal por usar un aparato electrónico móvil mientras maneja es de $300.",
+      "p": "Correcto. La multa normal es de $300."
+    }
+  },
+  {
+    "id": "hi-016",
+    "scope": "HI",
+    "cat": "right-of-way",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.hawaiipolice.com/1-31-23-police-remind-motorists-to-move-over-for-first-responder-safety",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, what must you do when you approach a stopped emergency vehicle with flashing lights?",
+      "o": [
+        "Keep your speed and honk",
+        "Stop in your lane and wait",
+        "Speed up to pass it fast",
+        "Slow to a safe speed and move to the next lane if it is safe"
+      ],
+      "h1": "Give the workers more space and more time.",
+      "h2": "Hawaii's move over law says to slow down to a safe and prudent speed and, when it is safe, move into the next lane away from the stopped emergency vehicle.",
+      "p": "Right. Slow down and move over."
+    },
+    "es": {
+      "q": "En Hawái, ¿qué debe hacer al acercarse a un vehículo de emergencia detenido con luces intermitentes?",
+      "o": [
+        "Mantener la velocidad y tocar la bocina",
+        "Detenerse en su carril y esperar",
+        "Acelerar para pasarlo rápido",
+        "Bajar a una velocidad segura y cambiarse al carril de al lado si es seguro"
+      ],
+      "h1": "Dé a los trabajadores más espacio y más tiempo.",
+      "h2": "La ley de Hawái para moverse de carril dice que debe bajar a una velocidad segura y prudente y, cuando sea seguro, cambiarse al carril de al lado, lejos del vehículo de emergencia detenido.",
+      "p": "Correcto. Baje la velocidad y cámbiese de carril."
+    }
+  },
+  {
+    "id": "hi-017",
+    "scope": "HI",
+    "cat": "right-of-way",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.hawaiipolice.com/1-31-23-police-remind-motorists-to-move-over-for-first-responder-safety",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, which of these stopped vehicles with flashing lights is also covered by the move over law?",
+      "o": [
+        "A parked delivery van with no lights",
+        "A tow truck",
+        "A bus at a bus stop",
+        "A taxi waiting for a rider"
+      ],
+      "h1": "Think of a truck that helps cars that break down.",
+      "h2": "Hawaii's move over law covers tow trucks as well as police, fire, ambulance and ocean safety vehicles.",
+      "p": "Right. Tow trucks are covered too."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuál de estos vehículos detenidos con luces intermitentes también está cubierto por la ley para moverse de carril?",
+      "o": [
+        "Una camioneta de reparto estacionada sin luces",
+        "Una grúa",
+        "Un autobús en la parada",
+        "Un taxi esperando a un pasajero"
+      ],
+      "h1": "Piense en un camión que ayuda a los carros que se descomponen.",
+      "h2": "La ley de Hawái para moverse de carril cubre las grúas, además de los vehículos de policía, bomberos, ambulancia y seguridad en el océano.",
+      "p": "Correcto. Las grúas también están cubiertas."
+    }
+  },
+  {
+    "id": "hi-018",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "medium",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291E/HRS_0291E-0064.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, how much alcohol may a driver under 21 have in their body?",
+      "o": [
+        "Up to 0.08 percent",
+        "Up to 0.05 percent",
+        "No measurable amount",
+        "One drink per hour"
+      ],
+      "h1": "For young drivers the rule is much stricter than for adults.",
+      "h2": "Hawaii law makes it illegal for anyone under 21 to drive with a measurable amount of alcohol.",
+      "p": "Right. Under 21, no measurable alcohol."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuánto alcohol puede tener en el cuerpo un conductor menor de 21?",
+      "o": [
+        "Hasta 0.08 por ciento",
+        "Hasta 0.05 por ciento",
+        "Ninguna cantidad que se pueda medir",
+        "Un trago por hora"
+      ],
+      "h1": "Para los conductores jóvenes la regla es mucho más estricta que para los adultos.",
+      "h2": "La ley de Hawái prohíbe que una persona menor de 21 maneje con una cantidad de alcohol que se pueda medir.",
+      "p": "Correcto. Menor de 21, nada de alcohol que se pueda medir."
+    }
+  },
+  {
+    "id": "hi-019",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "medium",
+    "page": null,
+    "src": "https://bigislandnow.com/2015/07/17/written-drivers-testing-now-in-simplified-chinese/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, which of these languages is the written driver's test offered in?",
+      "o": [
+        "Hawaiian",
+        "German",
+        "Russian",
+        "French"
+      ],
+      "h1": "It is the native language of the islands.",
+      "h2": "Hawaii offers its written driver's test in many languages, including Hawaiian, Spanish, Japanese and Ilocano.",
+      "p": "Right. You can take it in Hawaiian."
+    },
+    "es": {
+      "q": "En Hawái, ¿en cuál de estos idiomas se ofrece el examen escrito de manejo?",
+      "o": [
+        "Hawaiano",
+        "Alemán",
+        "Ruso",
+        "Francés"
+      ],
+      "h1": "Es el idioma nativo de las islas.",
+      "h2": "Hawái ofrece el examen escrito de manejo en muchos idiomas, entre ellos hawaiano, español, japonés e ilocano.",
+      "p": "Correcto. Puede presentarlo en hawaiano."
+    }
+  },
+  {
+    "id": "hi-020",
+    "scope": "HI",
+    "cat": "right-of-way",
+    "conf": "medium",
+    "page": null,
+    "src": "https://www.hawaiipolice.com/school-buses-01-27-09",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, on a road split by a barrier, which drivers must stop for a school bus with flashing red lights?",
+      "o": [
+        "Only the driver right behind the bus",
+        "No one, because the road is divided",
+        "Only drivers in the left lane",
+        "Drivers in all lanes on the same side as the bus"
+      ],
+      "h1": "The barrier protects the other side, not your side.",
+      "h2": "In Hawaii, when a road is divided by a barrier, drivers in every lane on the same side as the stopped school bus must stop.",
+      "p": "Right. Every lane on the bus's side stops."
+    },
+    "es": {
+      "q": "En Hawái, en una vía dividida por una barrera, ¿qué conductores deben detenerse ante un autobús escolar con luces rojas intermitentes?",
+      "o": [
+        "Solo el conductor justo detrás del autobús",
+        "Nadie, porque la vía está dividida",
+        "Solo los del carril izquierdo",
+        "Los de todos los carriles del mismo lado del autobús"
+      ],
+      "h1": "La barrera protege el otro lado, no su lado.",
+      "h2": "En Hawái, cuando una vía está dividida por una barrera, los conductores de todos los carriles del mismo lado del autobús escolar detenido deben detenerse.",
+      "p": "Correcto. Todos los carriles del lado del autobús se detienen."
+    }
+  }
+]
