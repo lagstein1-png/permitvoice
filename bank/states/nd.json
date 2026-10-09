@@ -3,9 +3,9 @@
     "id": "nd-001",
     "scope": "ND",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dmvroads.com/states/north-dakota/learners-permit/",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -105,9 +105,9 @@
     "id": "nd-004",
     "scope": "ND",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dmvroads.com/states/north-dakota/learners-permit/",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -139,9 +139,9 @@
     "id": "nd-005",
     "scope": "ND",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dmvroads.com/states/north-dakota/learners-permit/",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -173,13 +173,13 @@
     "id": "nd-006",
     "scope": "ND",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.nsc.org/getmedia/b74702b6-397a-41e9-9dd0-feb94201887e/North-Dakota-GDL-EN.pdf",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In North Dakota, how long must a teen under 16 hold an instruction permit?",
+      "q": "In North Dakota, a teen gets an instruction permit at 14. How long must they hold it before the road test?",
       "o": [
         "30 days",
         "3 months",
@@ -187,11 +187,11 @@
         "2 years"
       ],
       "h1": "It is a full trip around the calendar.",
-      "h2": "A North Dakota teen under 16 must hold the instruction permit for one year.",
-      "p": "Right. Under 16, you hold the permit one year."
+      "h2": "A 14-year-old in North Dakota must hold the instruction permit for 12 months, which is one year, before the road test.",
+      "p": "Right. At 14, you hold the permit for one year."
     },
     "es": {
-      "q": "En Dakota del Norte, ¿cuánto tiempo debe tener el permiso de instrucción un adolescente menor de 16?",
+      "q": "En Dakota del Norte, un adolescente obtiene el permiso de instrucción a los 14 años. ¿Cuánto tiempo debe tenerlo antes del examen de manejo?",
       "o": [
         "30 días",
         "3 meses",
@@ -199,17 +199,17 @@
         "2 años"
       ],
       "h1": "Es una vuelta completa al calendario.",
-      "h2": "Un adolescente menor de 16 en Dakota del Norte debe tener el permiso de instrucción por un año.",
-      "p": "Correcto. Menor de 16, tiene el permiso un año."
+      "h2": "Un joven de 14 años en Dakota del Norte debe tener el permiso de instrucción por 12 meses, es decir un año, antes del examen de manejo.",
+      "p": "Correcto. A los 14, tiene el permiso por un año."
     }
   },
   {
     "id": "nd-007",
     "scope": "ND",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.nsc.org/getmedia/b74702b6-397a-41e9-9dd0-feb94201887e/North-Dakota-GDL-EN.pdf",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -241,13 +241,13 @@
     "id": "nd-008",
     "scope": "ND",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dmvroads.com/states/north-dakota/learners-permit/",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In North Dakota, how many hours of supervised driving must a young permit holder log?",
+      "q": "In North Dakota, how many hours of supervised driving must a permit holder under 16 complete?",
       "o": [
         "10 hours",
         "20 hours",
@@ -255,11 +255,11 @@
         "50 hours"
       ],
       "h1": "It is half of one hundred.",
-      "h2": "A young North Dakota permit holder must complete and record 50 hours of supervised driving in a log.",
-      "p": "Right. You log 50 hours."
+      "h2": "A North Dakota permit holder under 16 must complete at least 50 hours of supervised practice driving.",
+      "p": "Right. Under 16, you need 50 hours."
     },
     "es": {
-      "q": "En Dakota del Norte, ¿cuántas horas de manejo supervisado debe registrar un joven con permiso?",
+      "q": "En Dakota del Norte, ¿cuántas horas de manejo supervisado debe completar un joven con permiso menor de 16 años?",
       "o": [
         "10 horas",
         "20 horas",
@@ -267,17 +267,17 @@
         "50 horas"
       ],
       "h1": "Es la mitad de cien.",
-      "h2": "Un joven con permiso en Dakota del Norte debe completar y anotar 50 horas de manejo supervisado en un registro.",
-      "p": "Correcto. Usted registra 50 horas."
+      "h2": "Un joven con permiso menor de 16 años en Dakota del Norte debe completar por lo menos 50 horas de práctica de manejo supervisado.",
+      "p": "Correcto. Menor de 16, necesita 50 horas."
     }
   },
   {
     "id": "nd-009",
     "scope": "ND",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://visionzero.nd.gov/strategies/YoungDrivers/",
+    "conf": "high",
+    "page": 6,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -309,13 +309,13 @@
     "id": "nd-010",
     "scope": "ND",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://visionzero.nd.gov/strategies/YoungDrivers/",
+    "conf": "high",
+    "page": 6,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In North Dakota, when may a driver with a restricted license not drive?",
+      "q": "In North Dakota, when may a 15-year-old with a restricted license not drive without a parent, guardian or adult 18 or older?",
       "o": [
         "From 6 p.m. to 6 a.m.",
         "From midnight to 4 a.m.",
@@ -323,11 +323,11 @@
         "On weekends"
       ],
       "h1": "The limit starts in the evening, earlier than midnight.",
-      "h2": "A North Dakota restricted license holder may not drive from 9 p.m., or sunset if that is later, until 5 a.m., except for work, school or religious events.",
-      "p": "Right. No driving from 9 p.m. to 5 a.m."
+      "h2": "A 15-year-old with a North Dakota restricted license may not drive from 9 p.m., or sunset if that is later, until 5 a.m. without a parent, guardian or adult 18 or older, except straight to or from work, school activities or religious activities.",
+      "p": "Right. No driving alone from 9 p.m. to 5 a.m."
     },
     "es": {
-      "q": "En Dakota del Norte, ¿cuándo no puede manejar un conductor con licencia restringida?",
+      "q": "En Dakota del Norte, ¿cuándo no puede manejar un joven de 15 años con licencia restringida sin su padre, madre, tutor o un adulto de 18 años o más?",
       "o": [
         "De 6 p.m. a 6 a.m.",
         "De medianoche a 4 a.m.",
@@ -335,51 +335,51 @@
         "Los fines de semana"
       ],
       "h1": "El límite empieza en la noche, antes de la medianoche.",
-      "h2": "Un conductor con licencia restringida en Dakota del Norte no puede manejar desde las 9 p.m., o la puesta del sol si es más tarde, hasta las 5 a.m., salvo para el trabajo, la escuela o actividades religiosas.",
-      "p": "Correcto. No se maneja de 9 p.m. a 5 a.m."
+      "h2": "Un joven de 15 años con licencia restringida en Dakota del Norte no puede manejar desde las 9 p.m., o la puesta del sol si es más tarde, hasta las 5 a.m. sin su padre, madre, tutor o un adulto de 18 años o más, salvo para ir directo al trabajo, a actividades escolares o religiosas, o volver de ellos.",
+      "p": "Correcto. No maneja solo de 9 p.m. a 5 a.m."
     }
   },
   {
     "id": "nd-011",
     "scope": "ND",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://visionzero.nd.gov/strategies/YoungDrivers/",
+    "conf": "high",
+    "page": 6,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 0,
     "en": {
       "q": "In North Dakota, whose car may a young driver with a restricted license drive?",
       "o": [
-        "Only a car that belongs to a parent or guardian",
+        "Only a car that belongs to a parent, guardian, grandparent, brother, sister, aunt or uncle",
         "Any car with insurance",
         "A friend's car",
         "A rental car"
       ],
-      "h1": "The car must belong to the adults responsible for the teen.",
-      "h2": "A young North Dakota driver with a restricted license may drive only a car that belongs to a parent or guardian.",
-      "p": "Right. Only a parent's or guardian's car."
+      "h1": "The car must belong to the teen's close family.",
+      "h2": "A young North Dakota driver with a restricted license may drive only a car that belongs to a parent, guardian, grandparent, brother, sister, aunt or uncle.",
+      "p": "Right. Only a car owned by close family."
     },
     "es": {
       "q": "En Dakota del Norte, ¿el carro de quién puede manejar un joven con licencia restringida?",
       "o": [
-        "Solo un carro de su padre, madre o tutor",
+        "Solo un carro de su padre, madre, tutor, abuelo, abuela, hermano, hermana, tía o tío",
         "Cualquier carro con seguro",
         "El carro de un amigo",
         "Un carro alquilado"
       ],
-      "h1": "El carro debe ser de los adultos que responden por el joven.",
-      "h2": "Un joven con licencia restringida en Dakota del Norte solo puede manejar un carro que sea de su padre, madre o tutor.",
-      "p": "Correcto. Solo el carro de su padre, madre o tutor."
+      "h1": "El carro debe ser de su familia cercana.",
+      "h2": "Un joven con licencia restringida en Dakota del Norte solo puede manejar un carro que sea de su padre, madre, tutor, abuelo, abuela, hermano, hermana, tía o tío.",
+      "p": "Correcto. Solo un carro de su familia cercana."
     }
   },
   {
     "id": "nd-012",
     "scope": "ND",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dot.nd.gov/node/5752",
+    "conf": "high",
+    "page": 6,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -411,9 +411,9 @@
     "id": "nd-013",
     "scope": "ND",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dot.nd.gov/node/5752",
+    "conf": "high",
+    "page": 30,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -445,9 +445,9 @@
     "id": "nd-014",
     "scope": "ND",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dot.nd.gov/node/5752",
+    "conf": "high",
+    "page": 30,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -479,9 +479,9 @@
     "id": "nd-015",
     "scope": "ND",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.nd.gov/ndhp/node/46",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -513,9 +513,9 @@
     "id": "nd-016",
     "scope": "ND",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.nd.gov/ndhp/node/46",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -547,9 +547,9 @@
     "id": "nd-017",
     "scope": "ND",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.visionzero.nd.gov/reaching-zero/road-users/move-over-law",
+    "conf": "high",
+    "page": 32,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -581,33 +581,33 @@
     "id": "nd-018",
     "scope": "ND",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.visionzero.nd.gov/reaching-zero/road-users/move-over-law",
+    "conf": "high",
+    "page": 32,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In North Dakota, which stopped vehicles does the move over law cover since 2023?",
+      "q": "In North Dakota, on an interstate or multi-lane highway outside a city, which stopped vehicles does the move over rule cover?",
       "o": [
         "Only police cars",
         "Any vehicle showing flashing hazard lights",
         "Only ambulances and fire trucks",
         "Only school buses"
       ],
-      "h1": "The law grew to cover ordinary drivers in trouble too.",
-      "h2": "Since 2023, North Dakota's move over law covers any stopped vehicle that shows flashing hazard lights, not only emergency vehicles.",
+      "h1": "It is not only for emergency vehicles.",
+      "h2": "In North Dakota, the move over rule also covers any vehicle stopped on an interstate or multi-lane highway outside a city with its flashing hazard lights on.",
       "p": "Right. Any vehicle with hazard lights is covered."
     },
     "es": {
-      "q": "En Dakota del Norte, ¿qué vehículos detenidos cubre la ley para moverse de carril desde 2023?",
+      "q": "En Dakota del Norte, en una interestatal o carretera de varios carriles fuera de una ciudad, ¿qué vehículos detenidos cubre la regla para moverse de carril?",
       "o": [
         "Solo carros de policía",
         "Cualquier vehículo con luces de emergencia intermitentes",
         "Solo ambulancias y bomberos",
         "Solo autobuses escolares"
       ],
-      "h1": "La ley creció para cubrir también a conductores comunes con problemas.",
-      "h2": "Desde 2023, la ley de Dakota del Norte para moverse de carril cubre cualquier vehículo detenido con luces de emergencia intermitentes, no solo los vehículos de emergencia.",
+      "h1": "No es solo para vehículos de emergencia.",
+      "h2": "En Dakota del Norte, la regla para moverse de carril también cubre cualquier vehículo detenido en una interestatal o carretera de varios carriles fuera de una ciudad con sus luces de emergencia intermitentes encendidas.",
       "p": "Correcto. Cualquier vehículo con luces de emergencia está cubierto."
     }
   },
@@ -615,9 +615,9 @@
     "id": "nd-019",
     "scope": "ND",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.valleynewslive.com/2026/08/24/new-school-year-brings-school-bus-reminders/",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -649,9 +649,9 @@
     "id": "nd-020",
     "scope": "ND",
     "cat": "right-of-way",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.valleynewslive.com/2026/08/24/new-school-year-brings-school-bus-reminders/",
+    "src": "https://ndlegis.gov/cencode/t39c10.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -663,7 +663,7 @@
         "When they honk first"
       ],
       "h1": "Something solid must separate your side from the bus's side.",
-      "h2": "In North Dakota, oncoming drivers do not have to stop for a school bus only when they are on the other side of a highway divided by a physical median or barrier.",
+      "h2": "In North Dakota, oncoming drivers do not have to stop for a school bus only when the highway has separate roadways, divided by a median or barrier, and the bus is on the other roadway.",
       "p": "Right. A physical median makes the difference."
     },
     "es": {
@@ -675,7 +675,7 @@
         "Cuando tocan la bocina primero"
       ],
       "h1": "Algo sólido debe separar su lado del lado del autobús.",
-      "h2": "En Dakota del Norte, los conductores que vienen de frente no tienen que detenerse ante un autobús escolar únicamente cuando están del otro lado de una carretera separada por una división física o barrera.",
+      "h2": "En Dakota del Norte, los conductores que vienen de frente no tienen que detenerse ante un autobús escolar solo cuando la carretera tiene calzadas separadas por una división o barrera y el autobús está en la otra calzada.",
       "p": "Correcto. La división física hace la diferencia."
     }
   }

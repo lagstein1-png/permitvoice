@@ -1,1 +1,63 @@
-{"code":"ND","name":"North Dakota","agency":"North Dakota Department of Transportation (NDDOT), Driver License Division","handbook":{"en":"https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf","es":null},"exam":{"questions":25,"pass":20,"passPercent":80,"spanish":null},"permitAge":"14 (instruction permit; driver education required for younger applicants)","teen":{"supervisedHours":"50 hours, logged (secondary sources)","holdPermit":"12 months if under 16; 6 months (or until 18) if 16 (NSC/IIHS summary)","nightLimit":"Restricted license: no driving 9 p.m. (or sunset if later) to 5 a.m., except work, school or religious events; lifts at 16 (secondary)","passengerLimit":null,"phone":"Under 18: no electronic communication device at all. All drivers: texting banned, $100 fine (NDDOT)."},"bac":{"adult":"0.08","under21":"0.02 (ND Highway Patrol FAQ)"},"notes":["Exam 25 questions, pass 80 percent (20 of 25) from third-party practice sites only; not confirmed by NDDOT.","Permit supervisor: licensed, at least 18, at least 3 years driving experience (secondary).","Restricted license from 15 (Vision Zero, NDCC 39-06-17); may drive only a parent's or guardian's vehicle (secondary).","Spanish manual 'Manual de Licencia de Conducir No Comercial' (2021-2023 edition, older than the English one) is listed on https://dot.nd.gov/node/5501; direct PDF URL not confirmed.","Knowledge test offered online in 14 languages (2022 report); Spanish not confirmed.","Move over: on multi-lane roads change lanes if safe, else slow down; since 2023 covers any stopped vehicle with flashing hazard lights. Fine figures conflict ($20/$50).","School bus: both directions stop unless on the opposite side of a highway divided by a physical median or barrier; fine reported raised to $250 (Valley News, 2026)."],"sources":["https://www.dmvroads.com/states/north-dakota/learners-permit/","https://driving-tests.org/north-dakota/north-dakota-permit-practice-test","https://www.nsc.org/getmedia/b74702b6-397a-41e9-9dd0-feb94201887e/North-Dakota-GDL-EN.pdf","https://visionzero.nd.gov/strategies/YoungDrivers/","https://www.dot.nd.gov/node/5752","https://www.nd.gov/ndhp/node/46","https://www.visionzero.nd.gov/reaching-zero/road-users/move-over-law","https://www.valleynewslive.com/2026/08/24/new-school-year-brings-school-bus-reminders/","https://dot.nd.gov/node/5501","https://fosterconews.com/story/2022/11/14/news/nddot-adds-new-languages-for-online-drivers-licenses/1780.html"],"checked":"2026-10-08","verified":false}
+{
+  "code": "ND",
+  "name": "North Dakota",
+  "agency": "North Dakota Department of Transportation (NDDOT), Driver License Division",
+  "handbook": {
+    "en": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "es": "https://dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/2023-text-231023_SPA%20DL%20Manual.pdf"
+  },
+  "exam": {
+    "questions": 25,
+    "pass": 20,
+    "passPercent": 80,
+    "spanish": true,
+    "languages": [
+      "English",
+      "Arabic",
+      "Spanish",
+      "Somali",
+      "Russian",
+      "Vietnamese",
+      "Turkish",
+      "Swahili",
+      "Nepali",
+      "Serbo-Croatian",
+      "French",
+      "Pashto",
+      "Dari",
+      "Chinese"
+    ],
+    "englishOnly": false
+  },
+  "permitAge": "14 (instruction permit; parent or guardian sponsorship under 18) (handbook p. 3)",
+  "teen": {
+    "supervisedHours": "50 hours of supervised practice driving for applicants under 16, signed off by a parent (handbook p. 3); no hour count stated for 16-17",
+    "holdPermit": "Age 14-15: 12 months or until 16, whichever comes first, but at least 6 months. Age 16-17: 6 months or until 18, whichever comes first (handbook p. 3)",
+    "nightLimit": "Age 15 restricted license: no driving between the later of sunset or 9 p.m. and 5 a.m. without a parent, guardian or person 18+, except directly to/from work, official school activity or religious activity; restricted license becomes unrestricted at 16 (handbook p. 6)",
+    "passengerLimit": null,
+    "phone": "Permit holders of any age and licensed drivers under 18: no electronic communication device while driving (p. 6). All drivers: texting banned, $100 fine (p. 30)."
+  },
+  "bac": {
+    "adult": "0.08 (handbook p. 36)",
+    "under21": "0.02 (handbook p. 36)"
+  },
+  "notes": [
+    "Handbook: Noncommercial Driver License Manual, Class D, cover '2025-2027', pages marked 'Revised 2025', form DL0126 (PDF created 2026-01-14). Checked 2026-10-09; printed page = PDF page minus 4.",
+    "Exam size and pass mark (25 questions, 80 percent = 20) come from third-party practice sites only; neither the handbook nor the NDDOT driver pages checked 2026-10-09 state them.",
+    "Class D knowledge test languages (handbook p. 1): English, Arabic, Spanish, Somali, Russian, Vietnamese, Turkish, Swahili, Nepali, Serbo-Croatian, French, Pashto, Dari, Chinese; ASL and audio testing at 8 offices. Online test at nd.knowtodrive.com.",
+    "Permit supervisor: valid license for the vehicle class, at least 18, at least 3 years driving experience, in the seat beside the permit holder (p. 3).",
+    "Restricted license at 15 after road test; may drive only vehicles of a parent, guardian, grandparent, sibling, aunt or uncle (p. 6). Driver education required under 16 (p. 2, 6).",
+    "Move over (p. 32, NDCC 39-10-26.3): stranded vehicle with hazard lights on interstate or multi-lane highway outside city limits: move to a non-adjacent lane if safe, else slow down. Emergency/NDDOT vehicles on multi-lane roads: move over (p. 20).",
+    "School bus (p. 20): both directions stop for flashing red lights. Separate-roadway exception is in NDCC 39-10-46(5), not in the handbook.",
+    "Spanish manual (2023 edition, older than the English one) linked from https://dot.nd.gov/node/5501."
+  ],
+  "sources": [
+    "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "https://dot.nd.gov/node/5501",
+    "https://ndlegis.gov/cencode/t39c10.pdf",
+    "https://www.dot.nd.gov/driver/driver-license",
+    "https://driving-tests.org/north-dakota/north-dakota-permit-practice-test"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
