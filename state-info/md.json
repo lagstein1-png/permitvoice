@@ -1,1 +1,70 @@
-{"code":"MD","name":"Maryland","agency":"Maryland Motor Vehicle Administration (MVA)","handbook":{"en":null,"es":null},"exam":{"questions":25,"pass":22,"passPercent":88,"spanish":null},"permitAge":"15 years and 9 months","teen":{"supervisedHours":"60 hours, including 10 at night (night = 30 minutes before sunset to 30 minutes after sunrise)","holdPermit":"9 months under 18 (also 18 without a diploma); 3 months at 18 with diploma and at 19-24; 45 days at 25+. A moving violation or PBJ resets it to 9 months from that date.","nightLimit":"Provisional under 18: no driving midnight to 5 a.m. without a qualified supervising driver, except to or from work, school activity, organized volunteer program or athletic event/training","passengerLimit":"Provisional under 18: first 151 days no passengers under 18 other than immediate family unless a qualified supervising driver is present","phone":"Learner and provisional under 18: no wireless device at all, hands-free included, except 911. All drivers: hand-held use banned (primary offense)."},"bac":{"adult":"0.08","under21":"0.02 (secondary sources)"},"notes":["Supervising driver: 21 or older, licensed at least 3 years, in the front passenger seat with no other front-seat occupant (front-seat detail from a secondary source).","Knowledge test 25 questions, 22 correct to pass (88 percent): secondary sources only; one says the 10 sign questions must all be correct (not used).","Driver education: 30 hours classroom and 6 hours behind the wheel (MVA).","Move Over: since Oct 1, 2022 applies to any stopped vehicle showing hazard lights, flares or cones.","School bus: on a divided highway with a median only traffic following the bus must stop (Patch, possibly dated).","Handbook PDF URL not found within the search budget. Third-party sites mention a Spanish edition (DL-002); not confirmed on mva.maryland.gov.","Whether the knowledge test is offered in Spanish was not confirmed."],"sources":["https://mva.maryland.gov/drivers/Pages/rookie-driver-general-learners.aspx","https://mva.maryland.gov/Documents/DL-060.pdf","https://mva.maryland.gov/your-mva-guide/teens-new-drivers/provisional-license","https://legalclarity.org/maryland-mva-knowledge-test-requirements-and-preparation/","https://driving-tests.org/maryland/maryland-permit-practice-test/","https://legalclarity.org/can-you-drive-alone-with-a-permit-in-md/","https://zerodeathsmd.gov/move-over/","https://mva.maryland.gov/news/move-over-its-law-saves-lives","https://patch.com/maryland/annapolis/when-stop-school-bus-maryland-0","https://www.nbcwashington.com/news/local/handheld-cell-phone-use-while-driving-ban-begins-oct-1-in-md/1954401/?amp=1","https://www.zirkinandschmerlinglaw.com/blood-alcohol-content-legal-limits-maryland/","https://driving-tests.org/maryland/md-drivers-manual-spanish"],"checked":"2026-10-08","verified":false}
+{
+  "code": "MD",
+  "name": "Maryland",
+  "agency": "Maryland Motor Vehicle Administration (MVA)",
+  "handbook": {
+    "en": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "es": "https://mva.maryland.gov/media/143"
+  },
+  "exam": {
+    "questions": 25,
+    "pass": 22,
+    "passPercent": 88,
+    "spanish": true,
+    "languages": [
+      "English",
+      "Spanish",
+      "American Sign Language",
+      "Amharic",
+      "Arabic",
+      "Chinese (Traditional)",
+      "Farsi",
+      "French",
+      "Hindi",
+      "Korean",
+      "Nepali",
+      "Portuguese",
+      "Russian",
+      "Tagalog",
+      "Urdu",
+      "Vietnamese",
+      "Yoruba"
+    ],
+    "englishOnly": false
+  },
+  "permitAge": "15 years and 9 months",
+  "teen": {
+    "supervisedHours": "60 hours, including 10 at night (30 minutes before sunset to 30 minutes after sunrise); 14 hours including 3 at night for applicants 25 or older (manual p10)",
+    "holdPermit": "9 months under 18; 3 months at 18 with diploma/GED or 19-24; 45 days at 25+. A moving violation, PBJ or suspension: at least 9 months from the most recent conviction/PBJ (manual p10).",
+    "nightLimit": "Provisional under 18: no unsupervised driving 12 midnight to 5 a.m., except to/from/during a job, organized volunteer program, official school activity, or athletic event/training (manual p47)",
+    "passengerLimit": "Provisional under 18: first 151 days no passengers under 18 other than immediate family, unless a qualified supervising driver is present (manual p47)",
+    "phone": "Learner's permit and provisional under 18: no wireless device, hands-free included, except 911 (manual p35, p47). All drivers: no hand-held phone use or texting (manual p35)."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "Any alcohol (zero tolerance): Transportation Art. 16-113(b) alcohol restriction on every licensee under 21; manual p33 says under 21 may not drink any alcohol"
+  },
+  "notes": [
+    "Handbook: Maryland Driver's Manual DL-002, October 2025 Edition (footer DL-002 (10-25)); PDF created 2026-03-03, listed on the MVA manuals page as December 1, 2025. PDF page numbers equal printed page numbers.",
+    "Knowledge test: 25 questions, 20 minutes (manual p7); pass 88% = 22 of 25 (MVA knowledge-tests page, not in the manual).",
+    "Test languages from the MVA knowledge-tests page; spoken-language interpreters allowed (manual p12: if the test exists in your language you must take it 5 times before using an interpreter).",
+    "Supervising driver: at least 21, licensed at least 3 years for the same class, seated beside the learner (manual p51); MVA learner's permit page adds no other front-seat passengers.",
+    "Driver education: 30 hours classroom and 6 hours behind the wheel (MVA driver's education page; not in the manual).",
+    "Permit (Type 1) is valid up to 2 years (manual p9). Provisional license held at least 18 months before full license (manual p10-11).",
+    "Move Over (manual p45): any stopped, standing or parked vehicle with lights flashing; statute Transp. 21-405(e) lists hazard lights, road flares, cones and caution signs.",
+    "School bus (manual p38-39): stop at least 20 feet away; on a multi-lane road divided by a physical barrier, traffic on the other side does not stop.",
+    "Earlier draft said under-21 BAC 0.02 (secondary source); Maryland law is any alcohol (Transp. 16-113(b)). Corrected 2026-10-09."
+  ],
+  "sources": [
+    "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "https://mva.maryland.gov/licenses-ids/driver-education-safety/maryland-drivers-manuals",
+    "https://mva.maryland.gov/licenses-ids/prepare-drivers-license-test/knowledge-tests",
+    "https://mva.maryland.gov/drivers/Pages/rookie-driver-general-learners.aspx",
+    "https://mva.maryland.gov/your-mva-guide/teens-new-drivers/drivers-education",
+    "https://mva.maryland.gov/your-mva-guide/teens-new-drivers/learners-permit/learners-permit-practice-tests",
+    "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtr&section=16-113&enactments=false",
+    "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtr&section=21-405&enactments=false"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
