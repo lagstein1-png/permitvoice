@@ -3,9 +3,9 @@
     "id": "ca-001",
     "scope": "CA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dmv.ca.gov/portal/?p=4849",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 2,
     "en": {
@@ -37,9 +37,9 @@
     "id": "ca-002",
     "scope": "CA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://law.justia.com/codes/california/code-veh/division-6/chapter-1/article-3/section-12814-6",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 1,
     "en": {
@@ -71,9 +71,9 @@
     "id": "ca-003",
     "scope": "CA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://law.justia.com/codes/california/code-veh/division-6/chapter-1/article-3/section-12814-6",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 0,
     "en": {
@@ -105,9 +105,9 @@
     "id": "ca-004",
     "scope": "CA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.chp.ca.gov/programs-services/programs/youth-programs-and-services/start-smart-driving-smart-to-stay-safe/start-smart-provisional-license-information/",
+    "conf": "high",
+    "page": 4,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 3,
     "en": {
@@ -139,9 +139,9 @@
     "id": "ca-005",
     "scope": "CA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.chp.ca.gov/programs-services/programs/youth-programs-and-services/start-smart-driving-smart-to-stay-safe/start-smart-provisional-license-information/",
+    "conf": "high",
+    "page": 4,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 1,
     "en": {
@@ -173,8 +173,8 @@
     "id": "ca-006",
     "scope": "CA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
+    "conf": "high",
+    "page": 4,
     "src": "https://www.chp.ca.gov/programs-services/programs/youth-programs-and-services/start-smart-driving-smart-to-stay-safe/start-smart-provisional-license-information/",
     "sign": null,
     "c": 2,
@@ -191,7 +191,7 @@
       "p": "Right. The adult must be a licensed driver 25 or older, a parent or guardian, or an instructor."
     },
     "es": {
-      "q": "En California, un conductor provisional en su primer año puede manejar de noche con, ¿qué persona?",
+      "q": "En California, ¿con qué persona puede manejar de noche un conductor provisional en su primer año?",
       "o": [
         "Cualquier conductor con licencia de 18 años o más",
         "Un amigo que tiene licencia desde hace un año",
@@ -207,9 +207,9 @@
     "id": "ca-007",
     "scope": "CA",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://california.public.law/codes/ca_veh_code_section_23124",
+    "conf": "high",
+    "page": 71,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 0,
     "en": {
@@ -241,9 +241,9 @@
     "id": "ca-008",
     "scope": "CA",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://california.public.law/codes/ca_veh_code_section_23124",
+    "conf": "high",
+    "page": 71,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 3,
     "en": {
@@ -275,9 +275,9 @@
     "id": "ca-009",
     "scope": "CA",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.shouselaw.com/ca/defense/vehicle-code/23136/",
+    "conf": "high",
+    "page": 73,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 1,
     "en": {
@@ -289,7 +289,7 @@
         "0.04 percent or more"
       ],
       "h1": "It is the smallest amount a test can measure.",
-      "h2": "California has a zero tolerance rule: a driver under 21 with 0.01 percent or more can have the license suspended for one year.",
+      "h2": "California has a zero tolerance rule: a driver under 21 with 0.01 percent or more is breaking the law and can lose the license for one year.",
       "p": "Right. For drivers under 21, the limit is 0.01 percent."
     },
     "es": {
@@ -301,7 +301,7 @@
         "0.04 por ciento o más"
       ],
       "h1": "Es la cantidad más pequeña que una prueba puede medir.",
-      "h2": "California tiene una regla de cero tolerancia: a un conductor menor de 21 años con 0.01 por ciento o más le pueden suspender la licencia por un año.",
+      "h2": "California tiene una regla de tolerancia cero: un conductor menor de 21 años con 0.01 por ciento o más viola la ley y puede perder la licencia por un año.",
       "p": "Correcto. Para menores de 21, el límite es 0.01 por ciento."
     }
   },
@@ -309,9 +309,9 @@
     "id": "ca-010",
     "scope": "CA",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.shouselaw.com/ca/defense/vehicle-code/23136/",
+    "conf": "high",
+    "page": 75,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 2,
     "en": {
@@ -343,9 +343,9 @@
     "id": "ca-011",
     "scope": "CA",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://california.public.law/codes/ca_veh_code_section_22454",
+    "conf": "high",
+    "page": 51,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 3,
     "en": {
@@ -377,9 +377,9 @@
     "id": "ca-012",
     "scope": "CA",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://california.public.law/codes/ca_veh_code_section_22454",
+    "conf": "high",
+    "page": 51,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 0,
     "en": {
@@ -411,9 +411,9 @@
     "id": "ca-013",
     "scope": "CA",
     "cat": "signals",
-    "conf": "medium",
-    "page": null,
-    "src": "https://california.public.law/codes/ca_veh_code_section_21453",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 1,
     "en": {
@@ -445,9 +445,9 @@
     "id": "ca-014",
     "scope": "CA",
     "cat": "signals",
-    "conf": "medium",
-    "page": null,
-    "src": "https://california.public.law/codes/ca_veh_code_section_21453",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 2,
     "en": {
@@ -479,9 +479,9 @@
     "id": "ca-015",
     "scope": "CA",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://california.public.law/codes/ca_veh_code_section_21458",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 3,
     "en": {
@@ -513,9 +513,9 @@
     "id": "ca-016",
     "scope": "CA",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://coastlineacademy.com/article/curb-markings-california",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 0,
     "en": {
@@ -547,43 +547,43 @@
     "id": "ca-017",
     "scope": "CA",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://coastlineacademy.com/article/curb-markings-california",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 1,
     "en": {
       "q": "In California, what does a white-painted curb mean?",
       "o": [
         "Parking for people with disabilities",
-        "Stop only long enough to pick up or drop off passengers or mail",
+        "Stop only long enough to pick up or drop off passengers",
         "Parking for a posted time limit",
         "No stopping at any time"
       ],
       "h1": "It is for very short stops with people, not cargo.",
-      "h2": "A white curb in California allows a stop only long enough to pick up or drop off passengers or to drop mail in a nearby box.",
-      "p": "Right. White curb: a short stop for passengers or mail."
+      "h2": "A white curb in California allows a stop only long enough to pick up or drop off passengers.",
+      "p": "Right. White curb: a short stop for passengers."
     },
     "es": {
       "q": "En California, ¿qué significa una acera pintada de blanco?",
       "o": [
         "Estacionamiento para personas con discapacidad",
-        "Detenerse solo para recoger o dejar pasajeros o correo",
+        "Detenerse solo para recoger o dejar pasajeros",
         "Estacionamiento con límite de tiempo indicado",
         "Prohibido detenerse en todo momento"
       ],
       "h1": "Es para paradas muy cortas con personas, no con carga.",
-      "h2": "Una acera blanca en California permite detenerse solo el tiempo necesario para recoger o dejar pasajeros o para dejar correo en un buzón cercano.",
-      "p": "Correcto. Acera blanca: parada corta para pasajeros o correo."
+      "h2": "Una acera blanca en California permite detenerse solo el tiempo necesario para recoger o dejar pasajeros.",
+      "p": "Correcto. Acera blanca: parada corta para pasajeros."
     }
   },
   {
     "id": "ca-018",
     "scope": "CA",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://coastlineacademy.com/article/curb-markings-california",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 2,
     "en": {
@@ -615,9 +615,9 @@
     "id": "ca-019",
     "scope": "CA",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://coastlineacademy.com/article/curb-markings-california",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 3,
     "en": {
@@ -649,9 +649,9 @@
     "id": "ca-020",
     "scope": "CA",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://california.public.law/codes/ca_veh_code_section_24400",
+    "conf": "high",
+    "page": 11,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 1,
     "en": {
@@ -663,7 +663,7 @@
         "Only after 6 p.m."
       ],
       "h1": "Think about what your windshield needs in bad weather.",
-      "h2": "California requires headlights whenever bad weather makes you use your wipers continuously, and daytime running lights are not enough.",
+      "h2": "California requires your low-beam headlights whenever rain, snow or fog makes you use your wipers.",
       "p": "Right. Wipers on all the time means headlights on."
     },
     "es": {
@@ -675,7 +675,7 @@
         "Solo después de las 6 p.m."
       ],
       "h1": "Piense en lo que necesita su parabrisas con mal tiempo.",
-      "h2": "California exige las luces delanteras cada vez que el mal tiempo le obliga a usar los limpiaparabrisas sin parar, y las luces de circulación diurna no son suficientes.",
+      "h2": "California exige las luces bajas cada vez que la lluvia, la nieve o la niebla le obligan a usar los limpiaparabrisas.",
       "p": "Correcto. Limpiaparabrisas todo el tiempo significa luces encendidas."
     }
   },
@@ -683,9 +683,9 @@
     "id": "ca-021",
     "scope": "CA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://newsroom.statefarm.com/understanding-californias-new-auto-liability-coverage-law-10-2024/",
+    "conf": "high",
+    "page": 76,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 0,
     "en": {
@@ -717,9 +717,9 @@
     "id": "ca-022",
     "scope": "CA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://newsroom.statefarm.com/understanding-californias-new-auto-liability-coverage-law-10-2024/",
+    "conf": "high",
+    "page": 76,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 2,
     "en": {
@@ -731,7 +731,7 @@
         "$25,000"
       ],
       "h1": "It is half of the amount required for injury to one person.",
-      "h2": "Since 2025, California requires at least $15,000 of coverage for damage to other people's property, up from $5,000.",
+      "h2": "California requires at least $15,000 of coverage for damage to other people's property.",
       "p": "Right. Property damage coverage must be at least $15,000."
     },
     "es": {
@@ -743,7 +743,7 @@
         "$25,000"
       ],
       "h1": "Es la mitad de la cantidad exigida por lesiones a una persona.",
-      "h2": "Desde 2025, California exige por lo menos $15,000 de cobertura por daños a la propiedad de otras personas, antes eran $5,000.",
+      "h2": "California exige por lo menos $15,000 de cobertura por daños a la propiedad de otras personas.",
       "p": "Correcto. La cobertura por daños a la propiedad debe ser de por lo menos $15,000."
     }
   },
@@ -751,9 +751,9 @@
     "id": "ca-023",
     "scope": "CA",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://abc30.com/driving-road-safety-chp-california-highway-patrol/11057632/",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 1,
     "en": {
@@ -785,9 +785,9 @@
     "id": "ca-024",
     "scope": "CA",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://signalscv.com/2024/08/ask-the-motor-cop-a-primer-on-california-speed-laws",
+    "conf": "high",
+    "page": 67,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 3,
     "en": {
@@ -819,9 +819,9 @@
     "id": "ca-025",
     "scope": "CA",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://signalscv.com/2024/08/ask-the-motor-cop-a-primer-on-california-speed-laws",
+    "conf": "high",
+    "page": 67,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 0,
     "en": {
@@ -853,9 +853,9 @@
     "id": "ca-026",
     "scope": "CA",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://signalscv.com/2024/08/ask-the-motor-cop-a-primer-on-california-speed-laws",
+    "conf": "high",
+    "page": 52,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 2,
     "en": {
@@ -887,9 +887,9 @@
     "id": "ca-027",
     "scope": "CA",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://signalscv.com/2024/08/ask-the-motor-cop-a-primer-on-california-speed-laws",
+    "conf": "high",
+    "page": 51,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 1,
     "en": {
@@ -921,9 +921,9 @@
     "id": "ca-028",
     "scope": "CA",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://law.justia.com/codes/california/code-veh/division-11/chapter-7/article-1/section-22350",
+    "conf": "high",
+    "page": 67,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 3,
     "en": {
@@ -989,9 +989,9 @@
     "id": "ca-030",
     "scope": "CA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://thelegalguide.org/?p=46105",
+    "conf": "high",
+    "page": 5,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
     "sign": null,
     "c": 2,
     "en": {

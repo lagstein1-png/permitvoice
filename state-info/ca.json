@@ -1,1 +1,67 @@
-{"code":"CA","name":"California","agency":"California Department of Motor Vehicles (DMV)","handbook":{"en":"https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/","es":"https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"},"exam":{"questions":null,"pass":null,"passPercent":null,"spanish":null},"permitAge":"15 and a half (provisional instruction permit, under 18), with driver education completed or enrolled (DMV)","teen":{"supervisedHours":"50 hours, at least 10 in darkness (Vehicle Code 12814.6)","holdPermit":"6 months (secondary sources and a 2013 legislative digest; not confirmed on dmv.ca.gov)","nightLimit":"First 12 months of provisional license: no driving 11 p.m. to 5 a.m. unless with a licensed parent/guardian, a licensed driver 25 or older, or a certified instructor; exceptions for school, work, medical need (CHP)","passengerLimit":"First 12 months: no passengers under 20 unless the same qualified adult is present (CHP)","phone":"Under 18: no wireless phone at all, hands-free included, except emergency calls (Vehicle Code 23124). All drivers: hand-held use banned (23123, 23123.5)."},"bac":{"adult":"0.08","under21":"0.01 (zero tolerance, VC 23136, one-year suspension); 0.05 also chargeable under VC 23140"},"notes":["Knowledge test: third-party sites say 46 questions under 18 and 36 for adults; pass mark quoted as 80 percent or 38/46 and 30/36. Not confirmed on dmv.ca.gov, so left null.","Three attempts per application; minors wait 7 days after a failed test (secondary).","Supervising adult for permit holders: 25 or older (secondary, widely repeated; not on the DMV page seen).","Spanish handbook PDF on dmv.ca.gov is labelled a summary (Resumen), 2025; handbook also in Armenian, Chinese, Hindi, Punjabi, Russian, Vietnamese.","Speed: 65 mph general maximum, 70 where posted on freeways, 55 on two-lane undivided highways unless posted, 25 residential/business, 15 alleys (newspaper column citing VC 22349, 22352, 22356); basic speed law VC 22350.","Right on red after full stop unless prohibited; left on red only one-way to one-way (VC 21453).","School bus (VC 22454): opposite traffic need not stop only on divided or multiple-lane highway with two or more lanes each direction.","Move over (VC 21809, amended by AB 390, effective 2026-01-01): now covers any stationary vehicle with hazard lights (secondary).","Curb colors red/yellow/white/green/blue (VC 21458). 15 ft from fire hydrant (CHP).","Headlights required when wipers in continuous use (VC 24400).","Minimum insurance 30/60/15 since 2025-01-01 (SB 1107); scheduled 50/100/25 in 2035.","Lane splitting by motorcycles is legal and defined (AB 51, 2016); not used in questions."],"sources":["https://www.dmv.ca.gov/portal/?p=4849","https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/","https://www.dmv.ca.gov/portal/driver-handbooks/","https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf","https://law.justia.com/codes/california/code-veh/division-6/chapter-1/article-3/section-12814-6","https://www.leginfo.ca.gov/pub/13-14/bill/asm/ab_1101-1150/ab_1113_cfa_20130821_105235_sen_floor.html","https://www.chp.ca.gov/programs-services/programs/youth-programs-and-services/start-smart-driving-smart-to-stay-safe/start-smart-provisional-license-information/","https://california.public.law/codes/ca_veh_code_section_23124","https://www.shouselaw.com/ca/defense/vehicle-code/23136/","https://california.public.law/codes/ca_veh_code_section_22454","https://california.public.law/codes/ca_veh_code_section_21453","https://california.public.law/codes/ca_veh_code_section_21458","https://coastlineacademy.com/article/curb-markings-california","https://california.public.law/codes/ca_veh_code_section_24400","https://newsroom.statefarm.com/understanding-californias-new-auto-liability-coverage-law-10-2024/","https://abc30.com/driving-road-safety-chp-california-highway-patrol/11057632/","https://signalscv.com/2024/08/ask-the-motor-cop-a-primer-on-california-speed-laws","https://law.justia.com/codes/california/code-veh/division-11/chapter-7/article-1/section-22350","https://www.dmvcalifornia.us/ab-390-slow-down-move-over-2026","https://thelegalguide.org/?p=46105","https://passrates.uk/us/california"],"checked":"2026-10-08","verified":false}
+{
+  "code": "CA",
+  "name": "California",
+  "agency": "California Department of Motor Vehicles (DMV)",
+  "handbook": {
+    "en": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "es": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf"
+  },
+  "exam": {
+    "questions": null,
+    "pass": null,
+    "passPercent": null,
+    "spanish": null
+  },
+  "permitAge": "15 and a half (under 18), with driver education completed; permit valid for driving once behind-the-wheel training starts (handbook p. 3)",
+  "teen": {
+    "supervisedHours": "50 hours with a California-licensed driver 25 or older, 10 of them at night (handbook p. 3)",
+    "holdPermit": "6 months, or until age 18, before the drive test (handbook p. 3)",
+    "nightLimit": "First 12 months of provisional license: no driving 11 p.m. to 5 a.m. (handbook p. 4) unless with a licensed parent/guardian, a licensed driver 25 or older, or a certified instructor (CHP); exceptions with notes for medical need, school, work, family (handbook p. 4)",
+    "passengerLimit": "No passengers under 20 unless a parent/guardian or a California-licensed driver 25 or older rides along (handbook p. 4); first 12 months (CHP)",
+    "phone": "Under 18: no cell phone or wireless device to call or text while driving, except an emergency call (handbook p. 71; VC 23124 includes hands-free). Adults: hands-free only (handbook p. 70)."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "0.01 (handbook p. 73); 0.05 or more can lead to a DUI arrest (p. 75); DUI conviction at 0.01 for under 21: revocation for one year (p. 75)"
+  },
+  "notes": [
+    "Handbook checked: California Driver's Handbook DL 600 English, REV. 6/2025 (PDF dated June/August 2025), CC BY-NC 4.0. Page numbers are the printed page numbers.",
+    "Knowledge test: multiple choice, three attempts per application, minors wait 7 days after a failure (handbook p. 5). The handbook does not give the number of questions or the pass mark; third-party sites say 46 under 18 and 36 for adults with 80 percent. Not confirmed on dmv.ca.gov, so left null.",
+    "Test languages not stated in the handbook. The handbook is published in 10 languages; the online DL application is in 10 languages (English, Spanish, Chinese, Hindi, Japanese, Khmer, Korean, Tagalog, Thai, Vietnamese) per dmv.ca.gov, but that is the application, not the test.",
+    "Minors wait 14 days after a failed drive test (handbook p. 6).",
+    "Speed: 65 mph most highways unless posted, 55 two-lane undivided and towing (p. 67); 25 residential/business (p. 52); 15 alleys, blind intersections, near unseen railroad crossings (p. 51); 25 near schools (p. 50). The handbook does not mention 70 mph freeways.",
+    "Right on red after full stop unless NO TURN ON RED (p. 18); left on red only one-way to one-way (p. 20).",
+    "School bus: no need to stop on the other side of a divided or multilane highway with two or more lanes each way (p. 51).",
+    "Move over: the 2025 handbook (p. 49) covers emergency vehicles, tow trucks and road work vehicles only. AB 390 (effective 2026-01-01) reportedly extends it to any stationary vehicle with hazard lights; leginfo.legislature.ca.gov was not reachable (bot check), so ca-029 stays medium.",
+    "Curb colors (p. 28); 15 ft from fire hydrant (p. 28). Headlights when wipers needed for fog, rain, snow (p. 11).",
+    "Minimum insurance 30,000/60,000/15,000 (p. 76).",
+    "Lane splitting by motorcycles is legal and defined (AB 51, 2016); not used in questions."
+  ],
+  "sources": [
+    "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/dl-id-online-app-edl-44/",
+    "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "https://www.dmv.ca.gov/portal/?p=4849",
+    "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/",
+    "https://www.dmv.ca.gov/portal/driver-handbooks/",
+    "https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf",
+    "https://law.justia.com/codes/california/code-veh/division-6/chapter-1/article-3/section-12814-6",
+    "https://www.leginfo.ca.gov/pub/13-14/bill/asm/ab_1101-1150/ab_1113_cfa_20130821_105235_sen_floor.html",
+    "https://www.chp.ca.gov/programs-services/programs/youth-programs-and-services/start-smart-driving-smart-to-stay-safe/start-smart-provisional-license-information/",
+    "https://california.public.law/codes/ca_veh_code_section_23124",
+    "https://www.shouselaw.com/ca/defense/vehicle-code/23136/",
+    "https://california.public.law/codes/ca_veh_code_section_22454",
+    "https://california.public.law/codes/ca_veh_code_section_21453",
+    "https://california.public.law/codes/ca_veh_code_section_21458",
+    "https://coastlineacademy.com/article/curb-markings-california",
+    "https://california.public.law/codes/ca_veh_code_section_24400",
+    "https://newsroom.statefarm.com/understanding-californias-new-auto-liability-coverage-law-10-2024/",
+    "https://abc30.com/driving-road-safety-chp-california-highway-patrol/11057632/",
+    "https://signalscv.com/2024/08/ask-the-motor-cop-a-primer-on-california-speed-laws",
+    "https://law.justia.com/codes/california/code-veh/division-11/chapter-7/article-1/section-22350",
+    "https://www.dmvcalifornia.us/ab-390-slow-down-move-over-2026",
+    "https://thelegalguide.org/?p=46105",
+    "https://passrates.uk/us/california"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}

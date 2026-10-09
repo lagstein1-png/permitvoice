@@ -10,16 +10,16 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 
 | State | Name | Draft questions | Checked | Knowledge test | Handbook (EN) | Handbook (ES) | Verified |
 |---|---|---|---|---|---|---|---|
-| AK | Alaska | 31 | 0 | 20 q, pass 16 (80%) | [link](https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf) | — | no |
+| AK | Alaska | 31 | 31 | 20 q, pass 16 (80%) | [link](https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf) | — | yes |
 | AL | Alabama | 29 | 0 | not found | [link](https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf) | — | no |
 | AR | Arkansas | 26 | 0 | 25 q, pass 20 (80%) | [link](https://www.dps.arkansas.gov/wp-content/uploads/Arkansas-DL-Manual-English_September2024-09242024.pdf) | [link](https://dps.arkansas.gov/law-enforcement/arkansas-state-police/services-programs/driver-examination/) | no |
 | AZ | Arizona | 24 | 0 | 30 q, pass 24 (80%) | [link](https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf) | — | no |
-| CA | California | 30 | 0 | not found | [link](https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/) | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf) | no |
+| CA | California | 30 | 29 | not found | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/) | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf) | yes |
 | CO | Colorado | 35 | 0 | 25 q, pass 20 (80%) | [link](https://dmv.colorado.gov/sites/dmv/files/DR2337.pdf) | — | no |
 | CT | Connecticut | 20 | 0 | not found | [link](https://portal.ct.gov/DMV/Drivers-Manuals/Manuals/Drivers-Manuals) | [link](https://portal.ct.gov/DMV/Drivers-Manuals/Manuals/Drivers-Manuals) | no |
 | DC | District of Columbia | 13 | 0 | not found | — | — | no |
-| DE | Delaware | 13 | 0 | not found | — | — | no |
-| GA | Georgia | 21 | 0 | not found | [link](https://dds.georgia.gov/drivers-manual) | — | no |
+| DE | Delaware | 13 | 13 | 32 q, pass 26 (81%) | [link](https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf) | [link](https://dmv.de.gov/forms/driver_serv_forms/pdfs/Spanish_manual_LR.pdf) | yes |
+| GA | Georgia | 21 | 21 | 40 q, pass 30 (75%) | [link](https://dds.georgia.gov/document/document/ga-drivers-manual-2023-2024/download) | — | yes |
 | HI | Hawaii | 20 | 0 | not found | — | — | no |
 | IA | Iowa | 22 | 0 | ? q, pass ? (80%) | [link](https://iowadot.gov/driversmanual) | [link](https://iowadot.gov/media/7173/download) | no |
 | ID | Idaho | 21 | 0 | 40 q, pass 34 (85%) | [link](https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf) | [link](https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf) | no |

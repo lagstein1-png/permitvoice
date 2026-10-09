@@ -12,35 +12,35 @@
     "passPercent": 80,
     "spanish": null
   },
-  "permitAge": "14, with parent/guardian consent (Form 433)",
+  "permitAge": "14 (under 18 needs notarized parent/guardian consent, Form 433)",
   "teen": {
-    "supervisedHours": "40 hours, at least 10 in challenging conditions (night or bad weather)",
-    "holdPermit": "6 months, with no traffic or alcohol/drug violations",
-    "nightLimit": "Provisional license: no driving 1:00 a.m. to 5:00 a.m. unless with a licensed driver 21+ or for work",
-    "passengerLimit": "Provisional license: no passengers under 21 except siblings, unless a licensed driver 21+ is in the car",
-    "phone": "All drivers: no reading or typing texts while the vehicle is moving (AS 28.35.161); no handheld-call ban found"
+    "supervisedHours": "40 hours, including at least 10 in progressively challenging conditions such as bad weather or night (certified by parent, guardian or employer)",
+    "holdPermit": "6 months (ages 16-17), with no traffic conviction in the 6 months before applying",
+    "nightLimit": "Provisional license: no driving 1:00-5:00 a.m. unless with a parent, guardian or licensed person 21+, or driving to/from or for work by the most direct route",
+    "passengerLimit": "Provisional license: no passengers unless a parent, guardian or person 21+ is in the car; siblings allowed",
+    "phone": "All drivers: texting while driving and driving with a visual screen device operating are illegal (AS 28.35.161); no handheld-call ban in the manual"
   },
   "bac": {
     "adult": "0.08",
-    "under21": "any detectable amount (zero tolerance; one source says 0.02)"
+    "under21": "any amount (minor operating after consuming alcohol)"
   },
   "notes": [
     "Permit supervisor must be a licensed driver 21+ with at least one year of experience in that kind of vehicle, in the front passenger seat.",
     "Permit valid 2 years, renewable once.",
-    "Provisional restrictions end at 18 or after 6 months on the provisional license without violations.",
+    "Provisional restrictions end at 18, or can be removed at the DMV after 6 conviction-free months (new parental consent, $15).",
     "Default maximum speeds (13 AAC 02.275): 15 mph alley, 20 mph business district, 25 mph residential district, 55 mph other roads unless posted. Some rural interstates are posted 65 mph.",
     "Headlights required from half an hour after sunset to half an hour before sunrise and whenever people or vehicles cannot be seen at 1,000 feet; also on roads posted for headlights.",
-    "Slow driver on a two-lane road outside urban areas with 5 or more vehicles lined up behind must pull into the nearest turnout (13 AAC 02.050).",
-    "School bus with flashing red lights: stop at least 30 feet away, from either direction (AS 28.35.145). Divided-highway exception wording not confirmed.",
+    "Slow driver on a two-lane road outside urban areas with 5 or more vehicles right behind must pull off at the first safe opportunity (AS 28.35.140; manual p27, p56).",
     "Move over: stationary emergency vehicles with flashing lights (AS 28.35.185): change lanes if safe, otherwise slow down.",
     "Right turn on red allowed after a full stop unless a sign forbids it.",
     "Liability insurance minimum 50/100/25.",
     "Implied consent: refusing a breath test is a separate crime.",
-    "Knowledge test may be taken online (KnowToDrive) per third-party sources; not confirmed.",
-    "Pending bills (HB 213 / SB 249) proposed 50 hours and longer provisional period; not confirmed as enacted.",
-    "Official dmv.alaska.gov / doa.alaska.gov could not be fetched from this environment; facts come from search snippets of those pages.",
-    "Owner-supplied summary of the Alaska Driver Manual (2026-10-09), not yet checked against the text: manual updated October 2025; instruction permit from age 14; minimum following distance 4 seconds.",
-    "Same summary: the online knowledge test (KnowToDrive) offers a choice of language and read-aloud; a person who understands English but has trouble reading may bring someone to read the questions aloud, if they answer alone. Worth mentioning to Alaska learners."
+    "Pending bills (HB 213 / SB 249) proposed 50 hours and a longer provisional period; the 10/2025 manual still says 40 hours, so not treated as enacted.",
+    "Checked 2026-10-09 against the Alaska Driver Manual, REV. 10/2025 (official PDF). The PDF repeats printed pages 53-59 twice.",
+    "Test size and pass mark are not in the manual; the official practice test page says 20 questions, 16 correct to pass, 25 minutes.",
+    "Knowledge test may be taken online at ak.knowtodrive.com (manual p2, p8), with a choice of languages and audio playback; the languages are not listed. A person who understands English but has trouble reading may bring someone to read the questions aloud, if they answer alone (p7).",
+    "School bus with flashing red lights: stop at least 30 feet away, from either direction (AS 28.35.145(a)); not required on a separate roadway of a divided highway (AS 28.35.145(c), manual p48).",
+    "Minimum following distance: manual recommends 4 seconds; 13 AAC 02.090 requires at least 2 seconds (p28)."
   ],
   "sources": [
     "https://online.dmv.alaska.gov/practiceknowledgetest/",
@@ -57,8 +57,10 @@
     "https://getjerry.com/driving/can-you-turn-right-on-red-in-alaska",
     "https://www.thezebra.com/auto-insurance/alaska-car-insurance/state-laws-ak/",
     "https://www.dmv.org/ak-alaska/automotive-law/dui.php",
-    "https://www.findlaw.com/state/alaska-law/what-are-the-alaska-dui-laws.html"
+    "https://www.findlaw.com/state/alaska-law/what-are-the-alaska-dui-laws.html",
+    "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.35.145&secEnd=28.35.145",
+    "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.35.140&secEnd=28.35.140"
   ],
-  "checked": "2026-10-08",
-  "verified": false
+  "checked": "2026-10-09",
+  "verified": true
 }
