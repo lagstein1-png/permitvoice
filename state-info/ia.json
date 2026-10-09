@@ -1,1 +1,57 @@
-{"code":"IA","name":"Iowa","agency":"Iowa Department of Transportation (Motor Vehicle Division)","handbook":{"en":"https://iowadot.gov/driversmanual","es":"https://iowadot.gov/media/7173/download"},"exam":{"questions":null,"pass":null,"passPercent":80,"spanish":null},"permitAge":"14 (instruction permit), with parent or guardian consent, vision screening and knowledge test (Iowa Code 321.180B; secondary sources)","teen":{"supervisedHours":"20 hours, including at least 2 between sunset and sunrise; driver education driving counts (Iowa DOT)","holdPermit":"12 months in total before the intermediate license at 16, plus a clean record for the last 6 consecutive months (Iowa DOT)","nightLimit":"Intermediate license: no driving without adult supervision 12:30 a.m. to 5 a.m.; parent can file a waiver (form 431170) for school or work, carried in the vehicle (Iowa Code 321.180B, Iowa DOT)","passengerLimit":"Intermediate license, first 6 months: no more than one unrelated passenger under 18 unless supervised; siblings and household children do not count (Iowa Code 321.180B as amended 2013; current text not re-checked)","phone":"Permit and intermediate holders: no electronic communication or entertainment device while driving, except equipment permanently installed (Iowa DOT). All drivers: hand-held ban since July 1, 2025; fines from January 2026 (UI Injury Prevention Research Center)."},"bac":{"adult":"0.08","under21":"0.02 (Iowa Code 321J.2A)"},"notes":["Permit supervisor: licensed immediate family member at least 21, a certified driver education instructor, or a licensed person at least 25 with written parent permission (Iowa Code 321.180B).","Minor school license (special minor’s restricted license): from 14 1/2, driver education, permit plus 6 clean months, usually living 1 mile or more from school (Iowa DOT MM690 card).","Knowledge test: third-party sites agree on 80 percent but disagree on the number of questions (25 vs 35); not confirmed by Iowa DOT, so questions and pass are null.","Move Over or Slow Down (Iowa Code 321.323A): change lanes or slow down for stationary emergency, tow, maintenance, construction or solid waste vehicles with flashing lights, and any stationary vehicle with hazard lights (Iowa DOT).","School bus: on roads with 2 or more lanes each way, opposite-direction traffic need not stop; on roads with 3 lanes or fewer every vehicle stops, including turning lanes (KWQC citing Iowa DOT). Suspension up to 180 days for failing to stop.","Speed: 20 mph business district default (Iowa Code 321.285); 70 mph on rural interstates (secondary sources).","Handbook URLs: English address iowadot.gov/driversmanual is quoted inside the Spanish manual; Spanish PDF at iowadot.gov/media/7173/download (edition not confirmed). Archive copies at publications.iowa.gov (English 52007, Spanish 42618). Whether the test is offered in Spanish was not found."],"sources":["https://www.legis.iowa.gov/docs/code/321.180B.pdf","https://iowadot.gov/drivers-licenses-ids/get-or-renew-drivers-licenses-ids-permits/under-18-permit-license-or-id/intermediate-license","https://publications.iowa.gov/43138/1/MM690_MSLCard.pdf","https://iowadot.gov/mvd/resources/MM691_InstructionPermitCard.pdf","https://www.legis.iowa.gov/DOCS/IowaActs/85/1/pdf/Chapter_0080.pdf","https://www.legis.iowa.gov/docs/code/2023/321J.2A.pdf","https://iprc.public-health.uiowa.edu/iowas-hands-free-law/","https://iowadot.gov/consultants-contractors/traffic-safety/move-over-or-slow-down","https://www.kwqc.com/2025/08/25/school-bus-laws-every-iowa-driver-should-know","https://www.legis.iowa.gov/docs/code/2023/321.285.pdf","https://www.truckinginfo.com/91460/iowa-considers-split-speed-limits","https://iowadot.gov/media/7173/download","https://publications.iowa.gov/52007","https://publications.iowa.gov/42618","https://driving-tests.org/iowa/iowa-permit-practice-test/","https://flashpath.app/ia/car"],"checked":"2026-10-08","verified":false}
+{
+  "code": "IA",
+  "name": "Iowa",
+  "agency": "Iowa Department of Transportation (Motor Vehicle Division)",
+  "handbook": {
+    "en": "https://iowadot.gov/media/7308/download?inline",
+    "es": "https://iowadot.gov/media/7173/download"
+  },
+  "exam": {
+    "questions": null,
+    "pass": null,
+    "passPercent": 80,
+    "spanish": null
+  },
+  "permitAge": "14 (instruction permit), with parent or guardian written consent, vision screening and knowledge test (Iowa DOT instruction permit page; Iowa Code 321.180B)",
+  "teen": {
+    "supervisedHours": "20 hours, including at least 2 between sunset and sunrise, certified by a parent affidavit; driving with a driver education instructor counts (Iowa Code 321.180B(2)(a), 2026)",
+    "holdPermit": "12 months in total before the intermediate license at 16, plus a clean record for the 6 consecutive months right before applying (Iowa DOT intermediate license page)",
+    "nightLimit": "Intermediate license: no driving without adult supervision 12:30 a.m. to 5 a.m.; a parent waiver (form 431170) allows school-activity and work driving, carried in the vehicle (Iowa DOT; Iowa Code 321.180B)",
+    "passengerLimit": "Intermediate license, first 6 months: no more than one unrelated passenger under 18 when unsupervised, unless the parent waives this when the license is issued; siblings, stepsiblings and household children do not count. Never more passengers than seat belts (Iowa Code 321.180B, 2026; Iowa DOT passenger restriction page)",
+    "phone": "Permit, special minor's and intermediate holders: no cell phone, tablet or other electronic communication or entertainment device while driving, except equipment permanently installed (Iowa DOT); handbook p36: under 18 may not talk on the phone unless stopped off the roadway. All drivers: hands-free only (handbook p36; Iowa Code 321.276 as amended 2025; warnings only until January 1, 2026)."
+  },
+  "bac": {
+    "adult": "0.08 (handbook p37)",
+    "under21": "0.02 (handbook p37; Iowa Code 321J.2A)"
+  },
+  "notes": [
+    "Handbook: Iowa Driver's License Manual, MM1170, dated 07/23/2026 (PDF created 2026-07-27), read in full 2026-10-09. Printed page numbers match PDF page numbers. This edition no longer explains the teen license steps; those come from Iowa DOT web pages and Iowa Code 321.180B / 321.194 (2026).",
+    "Knowledge test: Iowa DOT says a score of 80% or higher passes; its online practice test has 25 questions drawn from a pool that includes real test questions. The real test's number of questions is not stated by Iowa DOT, so questions and pass stay null. Iowa DOT has a Spanish practice test, but no official statement on which languages the real test is offered in was found.",
+    "Permit supervisor: parent, guardian or custodian, licensed immediate family member at least 21, a driver education instructor, or a licensed person at least 25 with written parent permission (Iowa DOT; Iowa Code 321.180B).",
+    "Special minor's restricted license (school/work permit): from 14 1/2, driver education, permit plus 6 clean months; drive alone to school (within the school district, or 25 miles for nonpublic/home school), school activities within 25 miles, work or farm work 25 miles or less. The old one-mile-from-school rule is no longer in Iowa Code 321.194 or on the Iowa DOT page.",
+    "Move Over or Slow Down (handbook p22; Iowa Code 321.323A): change lanes or, if not possible, slow down for stopped emergency, tow, recovery, maintenance, construction, solid waste or recycling vehicles with flashing lights and any stopped vehicle with hazard lights. Suspension up to 1 year.",
+    "School bus (handbook p20; Iowa Code 321.372): on roads with 3 lanes or fewer every vehicle stops; on 4 or more lanes, traffic meeting the bus from the front need not stop. Stop at least 15 feet behind. Amber lights from the front: slow to 20 mph or less. Suspension up to 180 days.",
+    "Speed (handbook p42; Iowa Code 321.285): unposted limits 20 mph business district, 25 residential/school district, 45 suburban, 50 unsurfaced secondary road, 60 primary roads and urban interstate, 70 rural interstate.",
+    "OWI (handbook p37): test refusal means 1-year revocation and at least a $1,250 fine; under 21 at .02 or more: revocation at least 60 days (180 days at .08 or more).",
+    "Spanish manual at iowadot.gov/media/7173/download is marked Archived on the Iowa DOT manual page (older edition)."
+  ],
+  "sources": [
+    "https://iowadot.gov/media/7308/download?inline",
+    "https://iowadot.gov/drivers-licenses-ids/driver-education/manuals-practice-tests/drivers-manual",
+    "https://iowadot.gov/drivers-licenses-ids/get-or-renew-drivers-licenses-ids-permits/under-18-permit-license-or-id/instruction-permit-under-age-18",
+    "https://iowadot.gov/drivers-licenses-ids/get-or-renew-drivers-licenses-ids-permits/under-18-permit-license-or-id/intermediate-license",
+    "https://iowadot.gov/drivers-licenses-ids/get-or-renew-drivers-licenses-ids-permits/under-18-permit-license-or-id/intermediate-license/passenger-restriction",
+    "https://iowadot.gov/drivers-licenses-ids/get-or-renew-drivers-licenses-ids-permits/under-18-permit-license-or-id/special-minors-restricted-license",
+    "https://iowadot.gov/drivers-licenses-ids/driver-education/manuals-practice-tests/take-practice-test",
+    "https://www.legis.iowa.gov/docs/code/321.180B.pdf",
+    "https://www.legis.iowa.gov/docs/code/321.194.pdf",
+    "https://www.legis.iowa.gov/docs/code/321.276.pdf",
+    "https://www.legis.iowa.gov/docs/code/321J.2A.pdf",
+    "https://www.legis.iowa.gov/docs/code/321.285.pdf",
+    "https://www.legis.iowa.gov/docs/code/321.372.pdf",
+    "https://www.legis.iowa.gov/docs/code/321.323A.pdf",
+    "https://iowadot.gov/media/7173/download"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
