@@ -1,1 +1,49 @@
-{"code":"WY","name":"Wyoming","agency":"Wyoming Department of Transportation (WYDOT), Driver Services","handbook":{"en":"https://www.dot.state.wy.us/home/driver_license_records/formsapplications/driver-manuals.html","es":null},"exam":{"questions":null,"pass":null,"passPercent":null,"spanish":null},"permitAge":"15 (learner's permit; secondary sources)","teen":{"supervisedHours":"50 hours behind the wheel, including 10 at night, certified by a parent or guardian","holdPermit":"10 days on the learner's permit before the intermediate permit at 16; intermediate permit held 6 months or until 17","nightLimit":"Intermediate permit: drive only 5 a.m. to 11 p.m.; exceptions for work, school, sports, religious activities with a signed exception form; medical emergency needs no form","passengerLimit":"Intermediate permit: no more than one passenger under 18 who is not immediate family, unless a licensed adult 18+ is in the front seat (WYDOT; 2002 bill text said under 21)","phone":"Texting while driving banned (W.S. 31-5-237 per WYDOT safety plan); no statewide handheld call ban, some cities have one"},"bac":{"adult":null,"under21":"0.02 (90-day suspension)"},"notes":["Handbook URL is the WYDOT Driver Manuals page (2021 Class C manual listed there); direct PDF URL not confirmed. No Spanish manual found.","Knowledge test: commercial sites say 25 questions, 20 correct (80 percent); an older source said 76 percent. Not confirmed officially, so exam fields are null.","Speed (WYDOT 2016 speed booklet): 80 mph interstates, 70 paved roads, 55 unpaved, 30 urban, 20 signed school zones. Speeding in school or construction zones goes on the record.","Move-over law: only introduced bills found (2017 HB0064, 2018 HB0036); status not confirmed, not used in questions.","School bus cameras: 2019 SF0080, owner fine $195 when driver unknown; not used in questions.","Adult BAC 0.08 not checked in this budget; left null."],"sources":["https://www.dot.state.wy.us/home/driver_license_records/driver-license/learner-permits.html","https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Forms/Intermediate%20Permit%20Driving%20Exception%20Form.Sept2005.pdf","https://www.wyoleg.gov/Legislation/2002/HB0143","https://www.dot.state.wy.us/home/driver_license_records/formsapplications/driver-manuals.html","https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Traffic%20data/2016%20Speed%20Limits%20booklet.pdf","https://wyoleg.gov/InterimCommittee/2020/01-2020051913-04ZeroTolerancePresentation.pdf","https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/Driving%20Privilege%20Withdrawal.pdf","https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Highway_Safety/_Behavioral%20Grants/FY2023%20Wyoming%20Highway%20Safety%20Plan.pdf","https://wyoleg.gov/2010/Engross/SF0020.pdf","https://driving-tests.org/wyoming/wyoming-permit-practice-test/"],"checked":"2026-10-08","verified":false}
+{
+  "code": "WY",
+  "name": "Wyoming",
+  "agency": "Wyoming Department of Transportation (WYDOT), Driver Services",
+  "handbook": {
+    "en": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "es": null
+  },
+  "exam": {
+    "questions": null,
+    "pass": null,
+    "passPercent": null,
+    "spanish": false,
+    "languages": [
+      "English"
+    ],
+    "englishOnly": true
+  },
+  "permitAge": "15 (instruction permit; handbook p. 7, W.S. 31-7-110(a)); restricted permit at 14-15 for hardship cases (p. 13)",
+  "teen": {
+    "supervisedHours": "50 hours behind the wheel, including 10 at night, certified by a parent or legal guardian (handbook p. 14)",
+    "holdPermit": "Learner's permit at least 10 days before the intermediate permit at 16 (WYDOT learner-permits page; not in handbook). Intermediate held 6 months (full license at 16 1/2 with driver ed) or until 17 (handbook p. 7, p. 13); it expires 30 days after the 17th birthday (p. 15)",
+    "nightLimit": "Intermediate: no driving 11 p.m. to 5 a.m. unless an exception applies (medical necessity, work, school/school activity/youth sports/religious activity, with a signed exception form); handbook p. 14. A medical emergency needs no form (WYDOT learner-permits page; W.S. 31-7-110(h)(ii)(E)); also allowed with a licensed driver 18+ (statute)",
+    "passengerLimit": "Intermediate: no more than one passenger under 18 who is not immediate family, unless accompanied by a licensed driver 18+ (handbook p. 14; WYDOT page says front seat); all occupants belted",
+    "phone": "Reading or sending a text while driving is banned statewide (handbook p. 89); no statewide handheld call ban, some cities ban phone use"
+  },
+  "bac": {
+    "adult": "0.08 (administrative per se suspension, handbook p. 19)",
+    "under21": "0.02 (90-day suspension first offense, 6 months second within 2 years; handbook p. 22)"
+  },
+  "notes": [
+    "Handbook: 'Rules of the Road', State of Wyoming Driver License Manual 2021 (PDF dated 2021-10-19; revised for laws effective July 1, 2019 and beyond). Printed page numbers equal PDF page numbers. Read in full 2026-10-09.",
+    "No Spanish manual: WYDOT says all manuals are printed only in English.",
+    "Knowledge test: given only in English (handbook p. 9; WYDOT testing page); an interpreter may be used for non-commercial written tests; oral (audio) option available. Test may be taken twice a day. Number of questions and pass mark are not stated by the handbook or WYDOT site, so exam fields stay null (commercial sites say 25 questions, 20 correct).",
+    "Speed (W.S. 31-5-301): 75 mph interstates by default, 80 where designated; 70 state highways; 65 other paved; 55 unpaved; 30 urban/residential; 20 signed school zones. Handbook p. 41 lists interstates 80/75, secondary 70, residential/business 30, school 20.",
+    "Speeding in a school or construction zone always goes on the record (W.S. 31-5-301(d)); minor speeding elsewhere may not.",
+    "Handbook p. 14 lists 'medical emergency' among the exception-form cases; the statute and the WYDOT learner-permits page say no form is needed for a medical emergency. Question wy-008 follows the statute and agency page.",
+    "Move-over law and school bus camera fines not checked; not used in questions."
+  ],
+  "sources": [
+    "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "https://www.dot.state.wy.us/home/driver_license_records/driver-license/learner-permits.html",
+    "https://www.dot.state.wy.us/home/driver_license_records/driver-license/testing.html",
+    "https://wyoleg.gov/statutes/compress/title31.pdf",
+    "https://www.dot.state.wy.us/home/driver_license_records/formsapplications/driver-manuals.html"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}

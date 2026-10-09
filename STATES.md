@@ -59,4 +59,4 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | WA | Washington | 23 | 23 | 40 q, pass 32 (80%) | [link](https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=) | [link](https://dol.wa.gov/media/pdf/4748/driver-guide-espdf/download?inline=) | yes |
 | WI | Wisconsin | 18 | 18 | 50 q, pass 40 (80%) | [link](https://wisconsindot.gov/Documents/dmv/shared/bds126-motorists-handbook.pdf) | [link](https://wisconsindot.gov/Documents/dmv/shared/s-handbook.pdf) | yes |
 | WV | West Virginia | 21 | 0 | not found | — | — | no |
-| WY | Wyoming | 20 | 0 | not found | [link](https://www.dot.state.wy.us/home/driver_license_records/formsapplications/driver-manuals.html) | — | no |
+| WY | Wyoming | 20 | 20 | not found | [link](https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf) | — | yes |
