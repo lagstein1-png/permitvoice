@@ -15,7 +15,7 @@ for (const f of files) {
     if (!(q.c >= 0 && q.c <= 3)) bad('c out of range');
     // A page is a printed page number, a section-page label like "3-14" (Maine), or "§3" for a handbook
     // published only as web sections with no pages (Ohio).
-    const pageOk = p => (Number.isInteger(p) && p >= 1 && p <= 400) || (typeof p === 'string' && /^(\d{1,2}-\d{1,3}|§\d{1,2})$/.test(p));
+    const pageOk = p => (Number.isInteger(p) && p >= 1 && p <= 400) || (typeof p === 'string' && /^(\d{1,2}-\d{1,3}|§\d{1,2}(\.\d{1,3})?)$/.test(p));
     if (!(q.page === undefined || q.page === null || pageOk(q.page))) bad('page must be null or a handbook page number');
     // English and Spanish are required. zh, vi, tl, ar and ht are optional; when present they must be complete.
     for (const L of ['en', 'es', 'zh', 'vi', 'tl', 'ar', 'ht']) {
