@@ -1,1 +1,61 @@
-{"code":"AR","name":"Arkansas","agency":"Arkansas Department of Finance and Administration, Office of Driver Services (licenses); knowledge and skills tests given by Arkansas State Police","handbook":{"en":null,"es":null},"exam":{"questions":25,"pass":20,"passPercent":80,"spanish":null},"permitAge":"14 (learner's license, ages 14-15), after vision screening and written knowledge test","teen":{"supervisedHours":null,"holdPermit":"6 consecutive months with no moving violation convictions (secondary sources)","nightLimit":"Intermediate license: no driving 11 p.m. to 4 a.m. unless with parent/guardian, to or from work, school or church activity, or emergency (secondary sources; exceptions vary)","passengerLimit":"Intermediate license: one unrelated passenger under 21 (secondary sources)","phone":"Under 18: no phone use while driving, even hands-free, except emergencies (secondary law). 18-20: hands-free only. All drivers: no texting or social media; handheld calls banned in school zones and in work zones when workers are present."},"bac":{"adult":"0.08","under21":"0.02"},"notes":["Graduated license: learner's 14-15 (with licensed driver 21+), intermediate 16-17, unrestricted at 18 with clean record for previous 12 months (DFA page, via search snippet).","Intermediate requires no serious violations or at-fault crashes in previous 6 months (DFA).","Early unrestricted license possible at 16-17 for high school diploma/GED, emancipation, marriage, military enlistment (DFA).","Exam: 25 questions, 20 correct (80%) reported only by third-party sites; not confirmed on an official page. Given at State Police testing sites per secondary sources.","Supervised driving hours: one secondary source says 50 (10 at night); not confirmed, left null.","Rural interstates: 75 mph cars, 70 mph trucks; urban interstates 65 (GHSA, ArDOT 2020).","Move over (Ark. Code 27-51-310): emergency, ArDOT, utility, tow vehicles with flashing lights; move to farthest lane or slow down; fine $250-$1,000 (ASP 2025).","School bus (Isaac's Law): stop at least 30 feet; opposite direction may proceed only on 4+ lane highway with median at least 20 feet wide; fine up to $2,500.","Right on red after full stop unless signed; left on red only one-way to one-way.","Liability insurance minimum 25/50/25 (Ark. Code 27-19).","Official handbook URL could not be found or fetched from this environment (dfa.arkansas.gov unreachable). A Spanish manual is claimed by third-party driving-tests.org only."],"sources":["https://www.dfa.arkansas.gov/office/driver-services/licenses-ids-permits/graduated-licenses/learners-and-intermediate-license/","https://www.dmvroads.com/states/arkansas/teen-license/","https://www.drivinglaws.org/resources/arkansas-teen-driving.html","https://www.drivinglaws.org/arkansas.php","https://ghsa.org/node/1466","https://www.rogersar.gov/356/DWI-DUI","https://ghsa.org/node/2906","https://www.kuaf.com/ozarks-at-large-stories/2020-07-17/speed-limits-to-increase-on-some-arkansas-highways","https://www.ualrpublicradio.org/local-regional-news/2013-08-15/new-arkansas-law-requires-drivers-move-over-for-expanded-list-of-vehicles","https://dps.arkansas.gov/news/asp-urges-motorists-to-move-over-for-first-responders/","https://www.5newsonline.com/article/news/local/outreach/back-to-school/barling-police-start-zero-tolerance-policy-for-school-bus/527-f5a93a3b-ac5b-4ee2-8a3b-f44953d99da8","https://arkansashouse.org/news/post/30904/flashing-red-means-kids-ahead","https://getjerry.com/driving/can-you-turn-right-on-red-in-arkansas","https://www.carinsurance.com/state/state-minimum-car-insurance-in-arkansas/","https://m.driving-tests.org/arkansas/dmv-written-test/"],"checked":"2026-10-08","verified":false}
+{
+  "code": "AR",
+  "name": "Arkansas",
+  "agency": "Arkansas Department of Finance and Administration, Office of Driver Services (licenses); knowledge and skills tests given by Arkansas State Police",
+  "handbook": {
+    "en": "https://dps.arkansas.gov/law-enforcement/arkansas-state-police/services-programs/driver-examination/",
+    "es": "https://dps.arkansas.gov/law-enforcement/arkansas-state-police/services-programs/driver-examination/"
+  },
+  "exam": {
+    "questions": 25,
+    "pass": 20,
+    "passPercent": 80,
+    "spanish": null
+  },
+  "permitAge": "14 (learner's license, ages 14-15), after vision screening and written knowledge test",
+  "teen": {
+    "supervisedHours": null,
+    "holdPermit": "6 consecutive months with no moving violation convictions (secondary sources)",
+    "nightLimit": "Intermediate license: no driving 11 p.m. to 4 a.m. unless with parent/guardian, to or from work, school or church activity, or emergency (secondary sources; exceptions vary)",
+    "passengerLimit": "Intermediate license: one unrelated passenger under 21 (secondary sources)",
+    "phone": "Under 18: no phone use while driving, even hands-free, except emergencies (secondary law). 18-20: hands-free only. All drivers: no texting or social media; handheld calls banned in school zones and in work zones when workers are present."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "0.02"
+  },
+  "notes": [
+    "Graduated license: learner's 14-15 (with licensed driver 21+), intermediate 16-17, unrestricted at 18 with clean record for previous 12 months (DFA page, via search snippet).",
+    "Intermediate requires no serious violations or at-fault crashes in previous 6 months (DFA).",
+    "Early unrestricted license possible at 16-17 for high school diploma/GED, emancipation, marriage, military enlistment (DFA).",
+    "Exam: 25 questions, 20 correct (80%) reported only by third-party sites; not confirmed on an official page. Given at State Police testing sites per secondary sources.",
+    "Supervised driving hours: one secondary source says 50 (10 at night); not confirmed, left null.",
+    "Rural interstates: 75 mph cars, 70 mph trucks; urban interstates 65 (GHSA, ArDOT 2020).",
+    "Move over (Ark. Code 27-51-310): emergency, ArDOT, utility, tow vehicles with flashing lights; move to farthest lane or slow down; fine $250-$1,000 (ASP 2025).",
+    "School bus (Isaac's Law): stop at least 30 feet; opposite direction may proceed only on 4+ lane highway with median at least 20 feet wide; fine up to $2,500.",
+    "Right on red after full stop unless signed; left on red only one-way to one-way.",
+    "Liability insurance minimum 25/50/25 (Ark. Code 27-19).",
+    "Official handbook URL could not be found or fetched from this environment (dfa.arkansas.gov unreachable). A Spanish manual is claimed by third-party driving-tests.org only.",
+    "Arkansas State Police driver examination page (search result 2026-10-09) lists: the Driver License Test Study Guide revised December 16, 2024; a Spanish translation (January 2018); a Vietnamese translation (February 2024); and audio testing for people with a learning difference. Handbook link points to that page; the direct PDF URL was not found."
+  ],
+  "sources": [
+    "https://www.dfa.arkansas.gov/office/driver-services/licenses-ids-permits/graduated-licenses/learners-and-intermediate-license/",
+    "https://www.dmvroads.com/states/arkansas/teen-license/",
+    "https://www.drivinglaws.org/resources/arkansas-teen-driving.html",
+    "https://www.drivinglaws.org/arkansas.php",
+    "https://ghsa.org/node/1466",
+    "https://www.rogersar.gov/356/DWI-DUI",
+    "https://ghsa.org/node/2906",
+    "https://www.kuaf.com/ozarks-at-large-stories/2020-07-17/speed-limits-to-increase-on-some-arkansas-highways",
+    "https://www.ualrpublicradio.org/local-regional-news/2013-08-15/new-arkansas-law-requires-drivers-move-over-for-expanded-list-of-vehicles",
+    "https://dps.arkansas.gov/news/asp-urges-motorists-to-move-over-for-first-responders/",
+    "https://www.5newsonline.com/article/news/local/outreach/back-to-school/barling-police-start-zero-tolerance-policy-for-school-bus/527-f5a93a3b-ac5b-4ee2-8a3b-f44953d99da8",
+    "https://arkansashouse.org/news/post/30904/flashing-red-means-kids-ahead",
+    "https://getjerry.com/driving/can-you-turn-right-on-red-in-arkansas",
+    "https://www.carinsurance.com/state/state-minimum-car-insurance-in-arkansas/",
+    "https://m.driving-tests.org/arkansas/dmv-written-test/",
+    "https://dps.arkansas.gov/law-enforcement/arkansas-state-police/services-programs/driver-examination/"
+  ],
+  "checked": "2026-10-08",
+  "verified": false
+}

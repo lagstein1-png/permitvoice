@@ -12,8 +12,8 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 |---|---|---|---|---|---|---|---|
 | AK | Alaska | 31 | 0 | 20 q, pass 16 (80%) | [link](https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf) | — | no |
 | AL | Alabama | 29 | 0 | not found | [link](https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf) | — | no |
-| AR | Arkansas | 26 | 0 | 25 q, pass 20 (80%) | — | — | no |
-| AZ | Arizona | 24 | 0 | 30 q, pass 24 (80%) | — | — | no |
+| AR | Arkansas | 26 | 0 | 25 q, pass 20 (80%) | [link](https://dps.arkansas.gov/law-enforcement/arkansas-state-police/services-programs/driver-examination/) | [link](https://dps.arkansas.gov/law-enforcement/arkansas-state-police/services-programs/driver-examination/) | no |
+| AZ | Arizona | 24 | 0 | 30 q, pass 24 (80%) | [link](https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf) | — | no |
 | CA | California | 30 | 0 | not found | [link](https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/) | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf) | no |
 | CO | Colorado | 35 | 0 | 25 q, pass 20 (80%) | [link](https://dmv.colorado.gov/sites/dmv/files/DR2337.pdf) | — | no |
 | CT | Connecticut | 20 | 0 | not found | [link](https://portal.ct.gov/DMV/Drivers-Manuals/Manuals/Drivers-Manuals) | [link](https://portal.ct.gov/DMV/Drivers-Manuals/Manuals/Drivers-Manuals) | no |
