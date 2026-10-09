@@ -3,9 +3,9 @@
     "id": "ar-001",
     "scope": "AR",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dfa.arkansas.gov/office/driver-services/licenses-ids-permits/graduated-licenses/learners-and-intermediate-license/",
+    "conf": "high",
+    "page": 3,
+    "src": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -37,9 +37,9 @@
     "id": "ar-002",
     "scope": "AR",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dfa.arkansas.gov/office/driver-services/licenses-ids-permits/graduated-licenses/learners-and-intermediate-license/",
+    "conf": "high",
+    "page": 3,
+    "src": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -71,9 +71,9 @@
     "id": "ar-003",
     "scope": "AR",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dfa.arkansas.gov/office/driver-services/licenses-ids-permits/graduated-licenses/learners-and-intermediate-license/",
+    "conf": "high",
+    "page": 3,
+    "src": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -139,8 +139,8 @@
     "id": "ar-005",
     "scope": "AR",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
+    "conf": "high",
+    "page": 3,
     "src": "https://www.dfa.arkansas.gov/office/driver-services/licenses-ids-permits/graduated-licenses/learners-and-intermediate-license/",
     "sign": null,
     "c": 3,
@@ -173,8 +173,8 @@
     "id": "ar-006",
     "scope": "AR",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
+    "conf": "high",
+    "page": 4,
     "src": "https://www.dfa.arkansas.gov/office/driver-services/licenses-ids-permits/graduated-licenses/learners-and-intermediate-license/",
     "sign": null,
     "c": 2,
@@ -207,7 +207,7 @@
     "id": "ar-007",
     "scope": "AR",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
     "src": "https://www.dfa.arkansas.gov/office/driver-services/licenses-ids-permits/graduated-licenses/learners-and-intermediate-license/",
     "sign": null,
@@ -241,9 +241,9 @@
     "id": "ar-008",
     "scope": "AR",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dmvroads.com/states/arkansas/teen-license/",
+    "conf": "high",
+    "page": 4,
+    "src": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -255,7 +255,7 @@
         "10 p.m. to 5 a.m."
       ],
       "h1": "The limit starts one hour before midnight.",
-      "h2": "An Arkansas intermediate license holder may not drive from 11 p.m. to 4 a.m., unless with a parent or guardian, going to or from work or a school or church activity, or in an emergency.",
+      "h2": "An Arkansas intermediate license holder may not drive from 11 p.m. to 4 a.m., unless a licensed driver age 21 or older is along, or the trip is to or from work, a school or church activity, or an emergency.",
       "p": "Right. Intermediate drivers stay off the road from 11 p.m. to 4 a.m."
     },
     "es": {
@@ -267,7 +267,7 @@
         "De 10 p.m. a 5 a.m."
       ],
       "h1": "El límite empieza una hora antes de la medianoche.",
-      "h2": "En Arkansas, quien tiene licencia intermedia no puede manejar de 11 p.m. a 4 a.m., salvo con un padre o tutor, para ir o volver del trabajo o de una actividad de la escuela o la iglesia, o en una emergencia.",
+      "h2": "Una persona con licencia intermedia en Arkansas no puede manejar de 11 p. m. a 4 a. m., a menos que la acompañe un conductor con licencia de 21 años o más, o que vaya o venga del trabajo, de una actividad escolar o de la iglesia, o por una emergencia.",
       "p": "Correcto. Los conductores con licencia intermedia no manejan de 11 p.m. a 4 a.m."
     }
   },
@@ -275,13 +275,13 @@
     "id": "ar-009",
     "scope": "AR",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dmvroads.com/states/arkansas/teen-license/",
+    "conf": "high",
+    "page": 4,
+    "src": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Arkansas, how many unrelated passengers under 21 may a driver with an intermediate license carry?",
+      "q": "In Arkansas, how many unrelated passengers under 18 may a driver with an intermediate license carry, when no adult driver is along?",
       "o": [
         "None at all",
         "Two",
@@ -289,11 +289,11 @@
         "One"
       ],
       "h1": "Family members do not count toward this limit.",
-      "h2": "An Arkansas intermediate license holder may carry only one unrelated passenger under 21, which keeps distractions low for a new driver.",
-      "p": "Right. Only one unrelated passenger under 21 is allowed."
+      "h2": "An Arkansas intermediate license holder may carry only one unrelated passenger under 18, unless a licensed driver age 21 or older sits in the front seat.",
+      "p": "Right. Only one unrelated passenger under 18 is allowed."
     },
     "es": {
-      "q": "En Arkansas, ¿cuántos pasajeros menores de 21 años, que no son familiares, puede llevar quien tiene licencia intermedia?",
+      "q": "En Arkansas, ¿cuántos pasajeros menores de 18 años, que no sean familiares, puede llevar un conductor con licencia intermedia si no lo acompaña un adulto con licencia?",
       "o": [
         "Ninguno",
         "Dos",
@@ -301,17 +301,17 @@
         "Uno"
       ],
       "h1": "Los familiares no cuentan para este límite.",
-      "h2": "En Arkansas, quien tiene licencia intermedia solo puede llevar un pasajero menor de 21 años que no sea familiar, para reducir las distracciones de un conductor nuevo.",
-      "p": "Correcto. Solo se permite un pasajero menor de 21 años que no sea familiar."
+      "h2": "Una persona con licencia intermedia en Arkansas puede llevar solo un pasajero menor de 18 años que no sea familiar, a menos que un conductor con licencia de 21 años o más vaya en el asiento delantero.",
+      "p": "Correcto. Solo se permite un pasajero menor de 18 años que no sea familiar."
     }
   },
   {
     "id": "ar-010",
     "scope": "AR",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.drivinglaws.org/arkansas.php",
+    "conf": "high",
+    "page": 46,
+    "src": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -343,9 +343,9 @@
     "id": "ar-011",
     "scope": "AR",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.drivinglaws.org/arkansas.php",
+    "conf": "high",
+    "page": 4,
+    "src": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -377,9 +377,9 @@
     "id": "ar-012",
     "scope": "AR",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.drivinglaws.org/arkansas.php",
+    "conf": "high",
+    "page": 4,
+    "src": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -391,7 +391,7 @@
         "Only commercial truck drivers"
       ],
       "h1": "This rule does not depend on age.",
-      "h2": "Arkansas bans texting while driving for all drivers, and the ban also covers reading or posting on social media.",
+      "h2": "Arkansas does not allow any driver, of any age, to send or read text messages while driving.",
       "p": "Right. No driver of any age may text while driving in Arkansas."
     },
     "es": {
@@ -403,7 +403,7 @@
         "Solo a los camioneros comerciales"
       ],
       "h1": "Esta regla no depende de la edad.",
-      "h2": "Arkansas prohíbe a todos los conductores enviar mensajes de texto mientras manejan, y la prohibición también incluye leer o publicar en redes sociales.",
+      "h2": "Arkansas no permite que ningún conductor, de ninguna edad, envíe o lea mensajes de texto mientras maneja.",
       "p": "Correcto. Ningún conductor, de ninguna edad, puede enviar mensajes mientras maneja en Arkansas."
     }
   },
@@ -445,9 +445,9 @@
     "id": "ar-014",
     "scope": "AR",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.rogersar.gov/356/DWI-DUI",
+    "conf": "high",
+    "page": 75,
+    "src": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -479,9 +479,9 @@
     "id": "ar-015",
     "scope": "AR",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.rogersar.gov/356/DWI-DUI",
+    "conf": "high",
+    "page": 74,
+    "src": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -581,9 +581,9 @@
     "id": "ar-018",
     "scope": "AR",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.ualrpublicradio.org/local-regional-news/2013-08-15/new-arkansas-law-requires-drivers-move-over-for-expanded-list-of-vehicles",
+    "conf": "high",
+    "page": 21,
+    "src": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -615,9 +615,9 @@
     "id": "ar-019",
     "scope": "AR",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.ualrpublicradio.org/local-regional-news/2013-08-15/new-arkansas-law-requires-drivers-move-over-for-expanded-list-of-vehicles",
+    "conf": "high",
+    "page": 21,
+    "src": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -683,9 +683,9 @@
     "id": "ar-021",
     "scope": "AR",
     "cat": "right-of-way",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.5newsonline.com/article/news/local/outreach/back-to-school/barling-police-start-zero-tolerance-policy-for-school-bus/527-f5a93a3b-ac5b-4ee2-8a3b-f44953d99da8",
+    "src": "https://www.arkansashouse.org/news/post/68014/flashing-red-kids-ahead-7/",
     "sign": null,
     "c": 3,
     "en": {
@@ -717,9 +717,9 @@
     "id": "ar-022",
     "scope": "AR",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.5newsonline.com/article/news/local/outreach/back-to-school/barling-police-start-zero-tolerance-policy-for-school-bus/527-f5a93a3b-ac5b-4ee2-8a3b-f44953d99da8",
+    "conf": "high",
+    "page": 12,
+    "src": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -731,7 +731,7 @@
         "On any road when no children are visible"
       ],
       "h1": "The two sides of the road must be separated by a wide strip.",
-      "h2": "In Arkansas, a driver going the opposite way may continue with caution only on a highway of four or more lanes divided by a median at least 20 feet wide.",
+      "h2": "In Arkansas, a driver going the opposite way may keep going only when a median at least 20 feet wide separates them from the stopped school bus.",
       "p": "Right. Only a wide median of at least 20 feet lets the opposite side keep going."
     },
     "es": {
@@ -743,7 +743,7 @@
         "En cualquier vía si no se ven niños"
       ],
       "h1": "Los dos lados de la vía deben estar separados por una franja ancha.",
-      "h2": "En Arkansas, un conductor que va en sentido contrario solo puede seguir con precaución en una carretera de cuatro o más carriles dividida por una franja central de por lo menos 20 pies.",
+      "h2": "En Arkansas, un conductor que va en sentido contrario puede seguir solo cuando una franja divisoria de al menos 20 pies de ancho lo separa del autobús escolar detenido.",
       "p": "Correcto. Solo una franja central de por lo menos 20 pies permite que el lado contrario siga."
     }
   },
@@ -751,9 +751,9 @@
     "id": "ar-023",
     "scope": "AR",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://arkansashouse.org/news/post/30904/flashing-red-means-kids-ahead",
+    "conf": "high",
+    "page": 13,
+    "src": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -785,9 +785,9 @@
     "id": "ar-024",
     "scope": "AR",
     "cat": "right-of-way",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://arkansashouse.org/news/post/30904/flashing-red-means-kids-ahead",
+    "src": "https://senate.arkansas.gov/senate-news/posts/2019/08/arkansas-senate-penalty-for-passing-a-stopped-school-bus-have-increased/",
     "sign": null,
     "c": 1,
     "en": {

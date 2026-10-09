@@ -3,8 +3,8 @@
   "name": "Arkansas",
   "agency": "Arkansas Department of Finance and Administration, Office of Driver Services (licenses); knowledge and skills tests given by Arkansas State Police",
   "handbook": {
-    "en": "https://www.dps.arkansas.gov/wp-content/uploads/Arkansas-DL-Manual-English_September2024-09242024.pdf",
-    "es": "https://dps.arkansas.gov/law-enforcement/arkansas-state-police/services-programs/driver-examination/"
+    "en": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
+    "es": "https://media.ark.org/dps/Spanish_version_Arkansas_January2-18_final_version.pdf"
   },
   "exam": {
     "questions": 25,
@@ -12,13 +12,13 @@
     "passPercent": 80,
     "spanish": null
   },
-  "permitAge": "14 (learner's license, ages 14-15), after vision screening and written knowledge test",
+  "permitAge": "14 (instruction permit after knowledge and vision tests; learner's license ages 14-15 after the skills test; study guide p. 3)",
   "teen": {
     "supervisedHours": null,
-    "holdPermit": "6 consecutive months with no moving violation convictions (secondary sources)",
-    "nightLimit": "Intermediate license: no driving 11 p.m. to 4 a.m. unless with parent/guardian, to or from work, school or church activity, or emergency (secondary sources; exceptions vary)",
-    "passengerLimit": "Intermediate license: one unrelated passenger under 21 (secondary sources)",
-    "phone": "Under 18: no phone use while driving, even hands-free, except emergencies (secondary law). 18-20: hands-free only. All drivers: no texting or social media; handheld calls banned in school zones and in work zones when workers are present."
+    "holdPermit": "Learner's/intermediate restricted (licensed driver 21+ along) until age 16 AND six months of restricted driving; no crash or serious violation in the previous 6 months (study guide p. 3; DFA)",
+    "nightLimit": "Intermediate license: no driving 11 p.m. to 4 a.m. unless with a licensed driver 21+, or to/from a school or church activity, job, or emergency (study guide p. 4)",
+    "passengerLimit": "Intermediate license: no more than one unrelated minor passenger unless a licensed driver 21+ is in the front seat (study guide p. 4)",
+    "phone": "Learner's and intermediate (under 18): no phone use, even hands-free, except emergencies (p. 3, 46). 18-20: hands-free only, hand-held for emergencies (p. 4). Texting banned at every age (p. 4). Holding a phone in a work zone with workers present is a moving violation with doubled fines (p. 19). School-zone hand-held ban not in the study guide."
   },
   "bac": {
     "adult": "0.08",
@@ -35,9 +35,14 @@
     "School bus (Isaac's Law): stop at least 30 feet; opposite direction may proceed only on 4+ lane highway with median at least 20 feet wide; fine up to $2,500.",
     "Right on red after full stop unless signed; left on red only one-way to one-way.",
     "Liability insurance minimum 25/50/25 (Ark. Code 27-19).",
-    "Official handbook URL could not be found or fetched from this environment (dfa.arkansas.gov unreachable). A Spanish manual is claimed by third-party driving-tests.org only.",
     "Arkansas State Police driver examination page (search result 2026-10-09) lists: the Driver License Test Study Guide revised December 16, 2024; a Spanish translation (January 2018); a Vietnamese translation (February 2024); and audio testing for people with a learning difference. Handbook link points to that page; the direct PDF URL was not found.",
-    "Direct English PDF supplied by the owner 2026-10-09 (file dated September 2024)."
+    "2026-10-09: checked against the Arkansas Driver License Study Guide, Volume 1, Edition 10, October 2026 (file dated 10/06/2026), from media.ark.org/dps, linked on the ASP driver-examination page. Printed page = PDF page - 12. Edition 9 (September 2024) was also read; the rules used here are the same.",
+    "Official Spanish study guide is dated January 2018; a Vietnamese one February 2024 (ASP page). Neither page nor guide says which languages the knowledge test is given in; an oral test is offered by appointment for learning differences (study guide, appointment types).",
+    "Exam size 25 questions / 20 to pass (80%) is still only from third-party sites; neither the study guide nor the ASP page states it.",
+    "Study guide p. 13 still lists the school bus passing fine as $250-$1,000; Act 166 of 2019 raised it to $500-$2,500 (senate.arkansas.gov). Act 264 of 2021 requires stopping at least 30 feet from the bus (arkansashouse.org, 2026-07-31).",
+    "Move-over fine is given as up to $1,000 on p. 11 but up to $500 on p. 15 of the study guide (internal conflict).",
+    "No supervised driving hour requirement appears in the study guide or the DFA page.",
+    "Speed limits (75 mph rural interstates, trucks 70), left on red, and insurance minimums are not in the study guide; still from secondary sources."
   ],
   "sources": [
     "https://www.dfa.arkansas.gov/office/driver-services/licenses-ids-permits/graduated-licenses/learners-and-intermediate-license/",
@@ -55,8 +60,12 @@
     "https://getjerry.com/driving/can-you-turn-right-on-red-in-arkansas",
     "https://www.carinsurance.com/state/state-minimum-car-insurance-in-arkansas/",
     "https://m.driving-tests.org/arkansas/dmv-written-test/",
-    "https://dps.arkansas.gov/law-enforcement/arkansas-state-police/services-programs/driver-examination/"
+    "https://dps.arkansas.gov/law-enforcement/arkansas-state-police/services-programs/driver-examination/",
+    "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf",
+    "https://media.ark.org/dps/Spanish_version_Arkansas_January2-18_final_version.pdf",
+    "https://www.arkansashouse.org/news/post/68014/flashing-red-kids-ahead-7/",
+    "https://senate.arkansas.gov/senate-news/posts/2019/08/arkansas-senate-penalty-for-passing-a-stopped-school-bus-have-increased/"
   ],
-  "checked": "2026-10-08",
-  "verified": false
+  "checked": "2026-10-09",
+  "verified": true
 }

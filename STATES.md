@@ -11,8 +11,8 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | State | Name | Draft questions | Checked | Knowledge test | Handbook (EN) | Handbook (ES) | Verified |
 |---|---|---|---|---|---|---|---|
 | AK | Alaska | 31 | 31 | 20 q, pass 16 (80%) | [link](https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf) | — | yes |
-| AL | Alabama | 29 | 0 | not found | [link](https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf) | — | no |
-| AR | Arkansas | 26 | 0 | 25 q, pass 20 (80%) | [link](https://www.dps.arkansas.gov/wp-content/uploads/Arkansas-DL-Manual-English_September2024-09242024.pdf) | [link](https://dps.arkansas.gov/law-enforcement/arkansas-state-police/services-programs/driver-examination/) | no |
+| AL | Alabama | 29 | 29 | not found | [link](https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf) | — | yes |
+| AR | Arkansas | 26 | 19 | 25 q, pass 20 (80%) | [link](https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf) | [link](https://media.ark.org/dps/Spanish_version_Arkansas_January2-18_final_version.pdf) | yes |
 | AZ | Arizona | 24 | 0 | 30 q, pass 24 (80%) | [link](https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf) | — | no |
 | CA | California | 30 | 29 | not found | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/) | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf) | yes |
 | CO | Colorado | 35 | 0 | 25 q, pass 20 (80%) | [link](https://dmv.colorado.gov/sites/dmv/files/DR2337.pdf) | — | no |

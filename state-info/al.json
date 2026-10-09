@@ -1,1 +1,84 @@
-{"code":"AL","name":"Alabama","agency":"Alabama Law Enforcement Agency (ALEA), Driver License Division","handbook":{"en":"https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf","es":null},"exam":{"questions":null,"pass":null,"passPercent":null,"spanish":true},"permitAge":"15 (Stage I learner license; valid 4 years, renewable once)","teen":{"supervisedHours":"Unresolved: ALEA GDL page says 50 hours behind-the-wheel (verification form signed by parent/guardian/instructor); ALEA form DL-31 and ADPH poster say 30 hours, with driver education as an alternative. Check statute 32-6-7.2.","holdPermit":"6 months (under 18) before Stage II","nightLimit":"Stage II: no driving midnight-6 a.m. unless with parent, guardian, or licensed driver 21+; exceptions for work, school-sponsored and religious events, emergencies, hunting/fishing","passengerLimit":"Stage II: no more than one passenger besides parents, legal guardians or family members","phone":"Stage II: no handheld communication devices. All drivers: hands-free law since June 15, 2023 (no holding a device; secondary enforcement per news reports); texting ban since 2012 (32-5A-350)"},"bac":{"adult":"0.08","under21":"0.02 (secondary sources; statute text not confirmed)"},"notes":["Stage III (unrestricted) at 17 after 6 months on Stage II; GDL violations extend restrictions 6 months or to age 18","Speed (32-5A-171 / ALEA): urban district 30 mph; interstate 70; other 4+ lane highways 65; other highways 55; county paved roads 45; unpaved roads 35","Left-lane law (32-5A-80, Act 2019-515): may not stay in the far-left lane of an interstate more than 1.5 miles without completely passing","Move Over Act: leave lane next to stopped emergency/tow/utility/garbage/road-work vehicle with flashing lights; if not possible slow to 15 mph under a limit of 25+ (10 mph under if limit 20 or less)","School bus: on a divided highway of 4+ lanes with a median only same-direction traffic stops; 4-lane road without median or with only a turn lane: both directions stop","Right turn on red allowed after a full stop unless a sign prohibits it (secondary sources)","Headlights required when wipers are in use for rain, sleet or snow (32-5-29, per Florence PD notice)","Minimum liability insurance 25/50/25 (secondary sources)","Knowledge test offered in Spanish and other languages (ALEA manual); question count/pass mark only from third-party sites (30 questions / 24 correct) - not confirmed officially","No official Spanish manual found"],"sources":["https://www.alea.gov/dps/driver-license/license-and-id-cards/graduated-driver-license","https://www.alea.gov/dps/driver-license/driver-license-information","https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf","https://www.alea.gov/sites/default/files/dl-forms/DriverLicense-GDL-DL-31.pdf","https://www.alabamapublichealth.gov/teendriving/graduated-drivers-license.html","https://www.alea.gov/dps/highway-patrol/speed-limits","https://law.justia.com/codes/alabama/2006/22786/32-5a-171.html","https://codes.findlaw.com/al/title-32-motor-vehicles-and-traffic/al-code-sect-32-5a-80/","https://www.alea.gov/dps/highway-patrol/alabama-move-over-act","https://alabamaachieves.org/wp-content/uploads/2021/04/School-Bus-Stop-Law-Flyer.pdf","https://www.wtvm.com/2024/05/30/alabamas-hands-free-law-begins-saturday","https://www.alreporter.com/2012/08/01/texting-while-driving-is-now-illegal-in-alabama/","https://law.justia.com/codes/alabama/2009/Title32/Chapter5A/32-5A-191.html","https://thelegalguide.org/understanding-alabama-s-legal-blood-alcohol-limit/","https://www.moneygeek.com/auto/state-laws-minimum-requirements-alabama/","https://256today.com/florence-pd-wipers-on-headlights-on-its-the-law/"],"checked":"2026-10-08","verified":false}
+{
+  "code": "AL",
+  "name": "Alabama",
+  "agency": "Alabama Law Enforcement Agency (ALEA), Driver License Division",
+  "handbook": {
+    "en": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "es": null
+  },
+  "exam": {
+    "questions": null,
+    "pass": null,
+    "passPercent": null,
+    "spanish": true,
+    "languages": [
+      "English",
+      "Arabic",
+      "Chinese",
+      "Farsi",
+      "French",
+      "German",
+      "Japanese",
+      "Korean",
+      "Russian",
+      "Spanish",
+      "Thai",
+      "Vietnamese"
+    ],
+    "englishOnly": false
+  },
+  "permitAge": "15 (Stage I learner license; valid 4 years, renewable once; manual p. 9)",
+  "teen": {
+    "supervisedHours": "50 hours of behind-the-wheel practice certified by a parent, legal guardian, grandparent or driving instructor, or an approved driver education course instead (Code of Ala. 32-6-7.2(b); ALEA GDL page). The manual does not give the hours.",
+    "holdPermit": "6 months (under 18) before Stage II (manual p. 10; 32-6-7.2(a))",
+    "nightLimit": "Stage II: no driving midnight-6 a.m. unless with parent/guardian or licensed driver 21+; exceptions for work, school-sponsored and religious events, medical/fire/police emergencies, hunting/fishing with a license (32-6-7.2(c))",
+    "passengerLimit": "Stage II: no more than one passenger besides parents, legal guardians, family members or a licensed driver 21+ (32-6-7.2(c)(2))",
+    "phone": "Stage II: no handheld communication device (32-6-7.2(c)(3)). All drivers: texting ban (32-5A-350; manual p. 32); hands-free law effective June 2024 (32-5A-350.1, Act 2023-478): holding a device is a violation when the driver is also seen swerving, changing lanes without a signal or otherwise driving improperly (manual p. 16)"
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "0.02",
+    "commercial": "0.04",
+    "note": "Manual p. 33; Code of Ala. 32-5A-191"
+  },
+  "notes": [
+    "Handbook: ALEA Alabama Driver Manual, cover dated November 2024 (PDF created 2024-12-05, modified 2025-01-23); printed page = PDF page - 2. No official Spanish manual.",
+    "Knowledge test fee $5; the manual and ALEA site do not state the number of questions or the pass mark (third-party sites say 30 questions / 24 correct, not confirmed officially).",
+    "Written test offered in Arabic, Chinese, Farsi, French, German, Japanese, Korean, Russian, Spanish, Thai and Vietnamese, plus oral (audio) tests (manual p. 9).",
+    "Stage I: 15-year-old drives with a licensed driver 21+ or licensed/certified instructor beside (ALEA GDL page adds parent/guardian); after 16 any licensed driver (manual p. 9-10).",
+    "Stage III (unrestricted) at 17 after 6 months on Stage II; GDL violations extend restrictions 6 months or to age 18 (32-6-7.2(d)).",
+    "Speed (manual p. 60; 32-5A-171): urban district 30; unpaved 35; county paved 45; other 55; other 4+ lane highways 65; interstate 70. Note: ALEA speed-limits web page lists 25 mph residential, not in the statute.",
+    "Left-lane law (32-5A-80(d), Act 2019-515): may not stay in the leftmost interstate lane more than 1.5 miles without completely passing. Not in the manual.",
+    "Move Over (manual p. 68; 32-5A-58.2 as amended by Act 2024-295): vacate lane next to stopped emergency vehicle/wrecker (statute adds utility, road work/survey, garbage/recycling vehicles); if not possible slow at least 15 mph under limit; two-lane road with limit 20 or less: 10 mph.",
+    "School bus (manual p. 61): stop both ways on 4-6 lane undivided highway; no stop for bus on opposing roadway of a divided highway with 4+ lanes; stop at least 20 feet away (p. 62).",
+    "Right (and one-way to one-way left) turn on red after a full stop unless a sign prohibits it (manual p. 60-61).",
+    "Headlights required when wipers are used for rain, sleet or snow; intermittent wipers excluded (manual p. 71).",
+    "Minimum liability insurance 25/50/25 (manual p. 68)."
+  ],
+  "sources": [
+    "https://www.alea.gov/dps/driver-license/license-and-id-cards/graduated-driver-license",
+    "https://www.alea.gov/dps/driver-license/driver-license-information",
+    "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "https://www.alea.gov/sites/default/files/dl-forms/DriverLicense-GDL-DL-31.pdf",
+    "https://www.alabamapublichealth.gov/teendriving/graduated-drivers-license.html",
+    "https://www.alea.gov/dps/highway-patrol/speed-limits",
+    "https://law.justia.com/codes/alabama/2006/22786/32-5a-171.html",
+    "https://codes.findlaw.com/al/title-32-motor-vehicles-and-traffic/al-code-sect-32-5a-80/",
+    "https://www.alea.gov/dps/highway-patrol/alabama-move-over-act",
+    "https://alabamaachieves.org/wp-content/uploads/2021/04/School-Bus-Stop-Law-Flyer.pdf",
+    "https://www.wtvm.com/2024/05/30/alabamas-hands-free-law-begins-saturday",
+    "https://www.alreporter.com/2012/08/01/texting-while-driving-is-now-illegal-in-alabama/",
+    "https://law.justia.com/codes/alabama/2009/Title32/Chapter5A/32-5A-191.html",
+    "https://thelegalguide.org/understanding-alabama-s-legal-blood-alcohol-limit/",
+    "https://www.moneygeek.com/auto/state-laws-minimum-requirements-alabama/",
+    "https://256today.com/florence-pd-wipers-on-headlights-on-its-the-law/",
+    "https://alison.legislature.state.al.us/code-of-alabama?section=32-6-7.2",
+    "https://alison.legislature.state.al.us/code-of-alabama?section=32-5A-171",
+    "https://alison.legislature.state.al.us/code-of-alabama?section=32-5A-80",
+    "https://alison.legislature.state.al.us/code-of-alabama?section=32-5A-350.1",
+    "https://alison.legislature.state.al.us/code-of-alabama?section=32-5A-191",
+    "https://www.alea.gov/dps/driver-license/driver-license-manuals"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
