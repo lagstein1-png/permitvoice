@@ -77,6 +77,14 @@ dialog{border:0;border-radius:18px;padding:20px;max-width:420px;width:calc(100% 
 dialog::backdrop{background:rgba(0,0,0,.45)}
 button:focus-visible,select:focus-visible{outline:4px solid var(--focus);outline-offset:3px}
 [hidden]{display:none !important}
+.badge{display:inline-block;font-size:15px;font-weight:700;color:var(--go);border:2px solid var(--go);border-radius:999px;padding:2px 10px;margin:0 0 8px}
+.hist{list-style:none;padding:0;margin:4px 0 12px;font-size:18px}
+.hist li{padding:6px 0;border-bottom:1px solid var(--line)}
+.unlocks{margin:8px 0 14px;padding-inline-start:24px}
+.unlocks li{margin:6px 0}
+input.key{width:100%;min-height:52px;font:inherit;font-size:19px;padding:8px 10px;border-radius:12px;border:2px solid var(--line);background:var(--card);color:var(--ink)}
+input.key:focus-visible{outline:4px solid var(--focus);outline-offset:3px}
+a.bigbtn{text-align:center;text-decoration:none;line-height:60px;padding:0 12px}
 @media (prefers-reduced-motion:reduce){*{transition:none !important;animation:none !important}}
 </style>
 </head>
@@ -114,6 +122,17 @@ button:focus-visible,select:focus-visible{outline:4px solid var(--focus);outline
 (function(){
 'use strict';
 
+/* ---------- Paid upgrade: switch it on here ----------
+   EMPTY (as now) = the upgrade is not on sale yet. Then there is no Buy button, the free limit
+   does NOT apply, and everyone keeps full access, until the owner's Lemon Squeezy store is live.
+   To switch on, fill in both (see worker/README.md):
+     checkout: one Lemon Squeezy checkout link per state, e.g. { FL: 'https://<store>.lemonsqueezy.com/buy/<id>' }
+     worker:   the URL of the license Worker, e.g. 'https://permitvoice-license.<name>.workers.dev'
+   Only states listed in checkout get the daily limit: a state nobody can buy is never limited.
+   The tests set window.PV_UPGRADE_TEST instead; it is read only on 127.0.0.1 (the test server). */
+const UPGRADE = { checkout: {}, worker: '' };
+const UP = (location.hostname === '127.0.0.1' && window.PV_UPGRADE_TEST) || UPGRADE;
+
 /* ---------- Text in both languages ---------- */
 const T = {
   en: {
@@ -149,8 +168,25 @@ const T = {
     englishOnly:s=>`In ${s}, the knowledge test is given only in English. Learn here in your language, then practice with English shown too.`,
     showEn:'Show English too',
     silent:'No sound? Check that the phone is not on silent and the volume is up. If it is still quiet, open the app in Chrome or Safari: some in-app screens cannot read aloud.',
-    foot:'PermitVoice is an independent app and is not affiliated with or endorsed by the Florida Department of Highway Safety and Motor Vehicles or any state agency. Questions are original practice material, not the official test.',
-    cats:{signs:'Signs', signals:'Signals and markings', 'right-of-way':'Right of way', 'speed-lanes':'Speed, lanes and parking', licensing:'License and the law', 'safe-driving':'Safe driving'}
+    foot:'PermitVoice is an independent app and is not affiliated with or endorsed by any state driver licensing agency (DMV, FLHSMV or others). Questions are original practice material, not the official test.',
+    legal:{privacy:'Privacy', terms:'Terms', refund:'Refunds', contact:'Contact'},
+    cats:{signs:'Signs', signals:'Signals and markings', 'right-of-way':'Right of way', 'speed-lanes':'Speed, lanes and parking', licensing:'License and the law', 'safe-driving':'Safe driving'},
+    /* Paid upgrade. Other languages fall back to these English lines until translated. */
+    upBtn:'Unlock unlimited practice tests', upT:s=>`Full access for ${s}`,
+    upPrice:s=>`$9.99 one-time for ${s}, no subscription.`,
+    upFree:'Always free: all practice questions, hints, read-aloud, all languages, and one full practice test every day.',
+    upGets:'The upgrade adds:', upList:['Unlimited full practice tests', 'Your score history', 'A practice pack built from your mistakes'],
+    upBuy:s=>`Buy for ${s} — $9.99`, upBuyNote:'The checkout opens in a new tab. You will get a license key by email.',
+    upHave:'I already have a license key', upKeyLbl:'License key', upCheck:'Check my key', upChecking:'Checking…',
+    upBad:s=>`This key does not work for ${s}. Check that it is copied in full, and that it was bought for ${s}.`,
+    upNet:'We could not check the key right now. Please check your internet connection and try again.',
+    upDone:s=>`Thank you! ${s} is unlocked on this device.`,
+    badge:'Full access',
+    limT:'You have used today\'s free practice test',
+    limP:'Come back tomorrow for another free practice test. You can keep practicing questions as much as you like, for free.',
+    limUp:'See the upgrade', limPractice:'Keep practicing (free)', limTomorrow:'OK, I will come back tomorrow',
+    histT:'My practice tests', histLine:(d,c,n)=>`${d}: ${c} of ${n} correct`,
+    weak:'Practice my weak topics'
   },
   es: {
     sub:'Práctica para el permiso de aprendiz, en voz alta', state:'Su estado', lang:'Idioma',
@@ -185,8 +221,24 @@ const T = {
     englishOnly:s=>`En ${s}, el examen de conocimientos se da solo en inglés. Aprenda aquí en su idioma y luego practique con el inglés a la vista.`,
     showEn:'Mostrar también en inglés',
     silent:'¿No hay sonido? Revise que el teléfono no esté en silencio y que el volumen esté alto. Si sigue sin sonido, abra la aplicación en Chrome o Safari: algunas pantallas dentro de otras aplicaciones no pueden leer en voz alta.',
-    foot:'PermitVoice es una aplicación independiente y no está afiliada ni respaldada por el Departamento de Seguridad Vial y Vehículos Motorizados de Florida ni por ninguna agencia estatal. Las preguntas son material de práctica original, no el examen oficial.',
-    cats:{signs:'Señales', signals:'Semáforos y marcas viales', 'right-of-way':'Derecho de paso', 'speed-lanes':'Velocidad, carriles y estacionamiento', licensing:'Licencia y la ley', 'safe-driving':'Manejo seguro'}
+    foot:'PermitVoice es una aplicación independiente y no está afiliada ni respaldada por ninguna agencia estatal de licencias de conducir (DMV, FLHSMV u otras). Las preguntas son material de práctica original, no el examen oficial.',
+    legal:{privacy:'Privacidad', terms:'Términos', refund:'Reembolsos', contact:'Contacto'},
+    cats:{signs:'Señales', signals:'Semáforos y marcas viales', 'right-of-way':'Derecho de paso', 'speed-lanes':'Velocidad, carriles y estacionamiento', licensing:'Licencia y la ley', 'safe-driving':'Manejo seguro'},
+    upBtn:'Desbloquear exámenes de práctica ilimitados', upT:s=>`Acceso completo para ${s}`,
+    upPrice:s=>`US$9.99, un solo pago para ${s}, sin suscripción.`,
+    upFree:'Siempre gratis: todas las preguntas de práctica, las pistas, la lectura en voz alta, todos los idiomas y un examen de práctica completo cada día.',
+    upGets:'La mejora agrega:', upList:['Exámenes de práctica completos ilimitados', 'Su historial de puntuaciones', 'Un paquete de práctica hecho con sus errores'],
+    upBuy:s=>`Comprar para ${s}: US$9.99`, upBuyNote:'El pago se abre en una pestaña nueva. Recibirá una clave de licencia por correo electrónico.',
+    upHave:'Ya tengo una clave de licencia', upKeyLbl:'Clave de licencia', upCheck:'Revisar mi clave', upChecking:'Revisando…',
+    upBad:s=>`Esta clave no funciona para ${s}. Revise que esté copiada completa y que se haya comprado para ${s}.`,
+    upNet:'No pudimos revisar la clave en este momento. Revise su conexión a internet e inténtelo de nuevo.',
+    upDone:s=>`¡Gracias! ${s} está desbloqueado en este dispositivo.`,
+    badge:'Acceso completo',
+    limT:'Ya usó el examen de práctica gratis de hoy',
+    limP:'Vuelva mañana para otro examen de práctica gratis. Puede seguir practicando preguntas todo lo que quiera, gratis.',
+    limUp:'Ver la mejora', limPractice:'Seguir practicando (gratis)', limTomorrow:'Está bien, vuelvo mañana',
+    histT:'Mis exámenes de práctica', histLine:(d,c,n)=>`${d}: ${c} de ${n} correctas`,
+    weak:'Practicar mis temas débiles'
   }
 };
 /* Languages, in the order the picker shows them. English and Spanish are written above;
@@ -254,7 +306,8 @@ const S = {
   cat: '', screen: 'home', deck: [], qi: 0, correct: 0, hint: 0, answered: false,
   exam: false, nationalOnly: false, rate: store.get('rate', 1), order: []
 };
-const t = k => T[S.lang][k];
+/* Falls back to English when a language has no line for this key yet (new upgrade texts in zh/vi/tl/ar/ht). */
+const t = k => (T[S.lang] && T[S.lang][k] !== undefined) ? T[S.lang][k] : T.en[k];
 const el = id => document.getElementById(id);
 const screen = el('screen');
 function esc(s){ return String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
@@ -262,6 +315,29 @@ function shuffle(a){ a = a.slice(); for(let i = a.length - 1; i > 0; i--){ const
 function mistakes(){ return store.get('mist:' + S.state, []); }
 function setMistakes(m){ store.set('mist:' + S.state, m); }
 function stateName(c){ return STATES[c] || c; }
+
+/* ---------- Upgrade: limits, license, history ----------
+   Keys: pv:exams:<state>:<YYYY-MM-DD> (finished tests that day), pv:license:<state>, pv:hist:<state>. */
+function today(){ const d = new Date(); return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0'); }
+/* On sale for this state: a Worker to check keys and a checkout link for the state. */
+function onSale(st){ return !!(UP.worker && UP.checkout && UP.checkout[st]); }
+function unlocked(st){ return !!store.get('license:' + st, null); }
+/* Full access: bought, or the upgrade is not on sale for this state (yet). */
+function full(st){ return !onSale(st) || unlocked(st); }
+function examsToday(){ return store.get('exams:' + S.state + ':' + today(), 0); }
+function history(){ return store.get('hist:' + S.state, []); }
+/* A finished practice test: counted for the free daily limit, kept in the history (last 50). */
+function recordExam(c, n){
+  store.set('exams:' + S.state + ':' + today(), examsToday() + 1);
+  store.set('hist:' + S.state, history().concat([{ d: today(), c, n }]).slice(-50));
+}
+/* Mistakes first, then other questions from the same topics, 20 in all. */
+function weakDeck(){
+  const ids = new Set(mistakes()), bank = bankFor(S.state);
+  const miss = bank.filter(q => ids.has(q.id)), cats = new Set(miss.map(q => q.cat));
+  const more = bank.filter(q => !ids.has(q.id) && cats.has(q.cat));
+  return shuffle(miss).concat(shuffle(more)).slice(0, 20);
+}
 
 /* ---------- Sign drawings (original SVG, MUTCD shapes and colors) ---------- */
 function signSVG(sg){
@@ -446,7 +522,10 @@ function render(){
   document.documentElement.lang = S.lang;
   document.documentElement.dir = (LANGS.find(L => L.code === S.lang) || {}).rtl ? 'rtl' : 'ltr';
   el('brandsub').textContent = t('sub');
-  el('foot').textContent = t('foot');
+  /* Footer: disclaimer plus the legal pages (Lemon Squeezy and app stores look for them). */
+  const lg = t('legal') || T.en.legal;
+  el('foot').innerHTML = esc(t('foot')) + '<br>' + ['privacy','terms','refund','contact']
+    .map(k => `<a href="legal/${k}.html${S.lang === 'es' ? '#es' : ''}">${esc(lg[k])}</a>`).join(' · ');
   el('btnBack').hidden = S.screen === 'home';
   el('btnBack').setAttribute('aria-label', t('home'));
   el('actions').hidden = S.screen !== 'quiz';
@@ -455,6 +534,8 @@ function render(){
   syncPlay();
   if(S.screen === 'quiz') renderQuiz();
   else if(S.screen === 'result') renderResult();
+  else if(S.screen === 'upgrade') renderUpgrade();
+  else if(S.screen === 'limit') renderLimit();
   else renderHome();
 }
 
@@ -472,7 +553,7 @@ function renderHome(){
     const ex = examSize();
     const prog = store.get('seen:' + S.state, []).length;
     body = `
-      <div class="hero"><h2>${esc(t('heroT')(stateName(S.state)))}</h2><p>${esc(t('heroP'))}</p></div>
+      <div class="hero">${onSale(S.state) && unlocked(S.state) ? `<span class="badge" id="badge">${esc(t('badge'))}</span>` : ''}<h2>${esc(t('heroT')(stateName(S.state)))}</h2><p>${esc(t('heroP'))}</p></div>
       ${SPEECH.ok ? '' : `<div class="notice">${esc(t('noTTS'))}</div>`}
       ${EN_ONLY_TEST[S.state] && S.lang !== 'en' ? `<div class="notice">${esc(t('englishOnly')(stateName(S.state)))}
         <label style="display:flex;gap:10px;align-items:center;margin-top:8px;min-height:48px"><input type="checkbox" id="chkEn" ${S.showEn ? 'checked' : ''} style="width:26px;height:26px"> ${esc(t('showEn'))}</label></div>` : ''}
@@ -480,7 +561,10 @@ function renderHome(){
       <div class="chips">${chip('', t('all'), bank.length)}${cats.map(c => chip(c, t('cats')[c], counts[c])).join('')}</div>
       <button class="bigbtn" type="button" id="btnStart">${esc(prog ? t('cont') : t('start'))}</button>
       <button class="bigbtn ghost" type="button" id="btnExam">${esc(t('exam')(ex.n))}</button>
-      ${mistakes().length ? `<button class="bigbtn ghost" type="button" id="btnMist">${esc(t('mist')(mistakes().length))}</button>` : ''}`;
+      ${mistakes().length ? `<button class="bigbtn ghost" type="button" id="btnMist">${esc(t('mist')(mistakes().length))}</button>` : ''}
+      ${full(S.state) && mistakes().length ? `<button class="bigbtn ghost" type="button" id="btnWeak">${esc(t('weak'))}</button>` : ''}
+      ${onSale(S.state) && !unlocked(S.state) ? `<button class="bigbtn ghost" type="button" id="btnUpgrade">${esc(t('upBtn'))}</button>` : ''}
+      ${full(S.state) && history().length ? `<p class="grouptitle">${esc(t('histT'))}</p><ul class="hist" id="hist">${history().slice(-10).reverse().map(h => `<li>${esc(t('histLine')(h.d, h.c, h.n))}</li>`).join('')}</ul>` : ''}`;
   } else {
     body = `
       <div class="notice"><b>${esc(t('soonT')(stateName(S.state)))}</b><br>${esc(t('soonP'))}</div>
@@ -501,7 +585,9 @@ function renderHome(){
   screen.querySelectorAll('[data-cat]').forEach(b => b.onclick = () => { S.cat = b.dataset.cat; render(); });
   if(el('chkEn')) el('chkEn').onchange = e => { S.showEn = e.target.checked; store.set('showEn', S.showEn); };
   if(el('btnStart')) el('btnStart').onclick = () => startDeck(practiceDeck(), false);
-  if(el('btnExam')) el('btnExam').onclick = () => startDeck(examDeck(), true);
+  if(el('btnExam')) el('btnExam').onclick = () => { if(!full(S.state) && examsToday() >= 1) go('limit'); else startDeck(examDeck(), true); };
+  if(el('btnWeak')) el('btnWeak').onclick = () => startDeck(weakDeck(), false);
+  if(el('btnUpgrade')) el('btnUpgrade').onclick = () => go('upgrade');
   if(el('btnMist')) el('btnMist').onclick = () => { const ids = new Set(mistakes()); startDeck(shuffle(bankFor(S.state).filter(q => ids.has(q.id))), false); };
   if(el('btnNational')) el('btnNational').onclick = () => startDeck(shuffle(BANK.filter(q => q.scope === 'US')), false, true);
 }
@@ -583,7 +669,7 @@ function nextButton(){
   const last = S.qi === S.deck.length - 1;
   return `<button class="bigbtn" id="btnNext" type="button">${esc(last ? t('seeRes') : t('next'))}</button>`;
 }
-function nextQ(){ if(S.qi >= S.deck.length - 1){ go('result'); return; } S.qi++; stopSpeech(); render(); window.scrollTo(0, 0); }
+function nextQ(){ if(S.qi >= S.deck.length - 1){ if(S.exam) recordExam(S.correct, S.deck.length); go('result'); return; } S.qi++; stopSpeech(); render(); window.scrollTo(0, 0); }
 function answer(i){
   const { q, d } = cur(), o = curOpts(), btns = [...screen.querySelectorAll('.opt')];
   stopSpeech();
@@ -633,6 +719,65 @@ function renderResult(){
   el('btnHome').focus();
 }
 
+/* ---------- Upgrade screens ----------
+   Plain words, no timer, no countdown, no pressure: the free path is always shown next to the paid one. */
+function renderLimit(){
+  el('pill').textContent = '';
+  screen.innerHTML = `<div id="limitScr">
+    <h2 tabindex="-1" id="limT">${esc(t('limT'))}</h2>
+    <p>${esc(t('limP'))}</p>
+    <button class="bigbtn" type="button" id="btnLimPractice">${esc(t('limPractice'))}</button>
+    <button class="bigbtn ghost" type="button" id="btnLimUp">${esc(t('limUp'))}</button>
+    <button class="bigbtn ghost" type="button" id="btnLimHome">${esc(t('limTomorrow'))}</button></div>`;
+  el('btnLimPractice').onclick = () => startDeck(practiceDeck(), false);
+  el('btnLimUp').onclick = () => go('upgrade');
+  el('btnLimHome').onclick = () => go('home');
+  el('limT').focus();
+}
+function renderUpgrade(){
+  el('pill').textContent = '';
+  const s = stateName(S.state), done = unlocked(S.state);
+  screen.innerHTML = `<div id="upScr">
+    ${done ? `<span class="badge" id="badge">${esc(t('badge'))}</span>` : ''}
+    <h2 tabindex="-1" id="upT">${esc(t('upT')(s))}</h2>
+    <p><b>${esc(t('upPrice')(s))}</b></p>
+    <p>${esc(t('upGets'))}</p>
+    <ul class="unlocks">${t('upList').map(x => `<li>${esc(x)}</li>`).join('')}</ul>
+    <div class="notice">${esc(t('upFree'))}</div>
+    ${done ? '' : `<a class="bigbtn" id="btnBuy" href="${esc(UP.checkout[S.state])}" target="_blank" rel="noopener">${esc(t('upBuy')(s))}</a>
+    <p class="ref">${esc(t('upBuyNote'))}</p>
+    <h3>${esc(t('upHave'))}</h3>
+    <label for="licKey" class="grouptitle" style="display:block">${esc(t('upKeyLbl'))}</label>
+    <input class="key" id="licKey" type="text" autocomplete="off" autocapitalize="characters" spellcheck="false" dir="ltr">
+    <button class="bigbtn ghost" type="button" id="btnCheck">${esc(t('upCheck'))}</button>`}
+    <p id="licMsg" role="status" aria-live="polite"></p>
+    <button class="bigbtn ghost" type="button" id="btnUpHome">${esc(t('home'))}</button></div>`;
+  if(el('btnCheck')) el('btnCheck').onclick = checkKey;
+  el('btnUpHome').onclick = () => go('home');
+  el('upT').focus();
+}
+/* The license Worker answers {ok:true, state} only for a valid key bought for this state.
+   Only the key and the state code are sent. The key is kept on this device only. */
+async function checkKey(){
+  const key = el('licKey').value.trim(), st = S.state, msg = el('licMsg'), btn = el('btnCheck');
+  if(!key) { el('licKey').focus(); return; }
+  btn.disabled = true; msg.textContent = t('upChecking');
+  let res = null;
+  try{
+    const r = await fetch(UP.worker.replace(/\/+$/, '') + '/validate', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ key, state: st }) });
+    res = r.status >= 500 ? null : await r.json(); /* 5xx: the Worker or Lemon Squeezy is busy, so "try again" */
+  }catch(e){ res = null; }
+  if(S.screen !== 'upgrade' || S.state !== st) return;
+  btn.disabled = false;
+  if(!res){ msg.textContent = t('upNet'); return; }
+  if(res.ok && res.state === st){
+    store.set('license:' + st, { key, at: today() });
+    renderUpgrade(); el('licMsg').textContent = t('upDone')(stateName(st));
+    return;
+  }
+  msg.textContent = t('upBad')(stateName(st));
+}
+
 /* ---------- Bottom bar ---------- */
 el('btnBack').onclick = () => go('home');
 el('btnPlay').onclick = () => { if(SPEECH.playing) stopSpeech(); else speak(currentSpeech()); };
@@ -640,7 +785,9 @@ el('btnAgain').onclick = () => speak(currentSpeech());
 el('btnRate').onclick = () => { const r = [0.8, 1, 1.2]; S.rate = r[(r.indexOf(S.rate) + 1) % r.length]; store.set('rate', S.rate); render(); };
 
 if('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(() => {});
-render();
+/* Landing pages link with ?state=XX: select that state, stored like a choice from the list. */
+const fromLink = (new URLSearchParams(location.search).get('state') || '').toUpperCase();
+if(STATES[fromLink]) setState(fromLink); else render();
 })();
 </script>
 </body>

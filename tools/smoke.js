@@ -10,13 +10,14 @@ srv.listen(0, async () => {
   const url = `http://127.0.0.1:${srv.address().port}/`;
   const b = await chromium.launch();
   const errs = [];
-  async function page(geo, locale = 'en-US') {
+  async function page(geo, locale = 'en-US', opt = {}) {
     const ctx = await b.newContext({ locale, geolocation: geo, permissions: geo ? ['geolocation'] : [], viewport: { width: 375, height: 740 } });
+    if (opt.init) await ctx.addInitScript(opt.init, opt.arg);
     // A stand-in voice: records what is said and finishes each part, like a phone would.
     await ctx.addInitScript(() => { window.__spoken = []; const real = window.speechSynthesis;
       if (real) { real.speak = u => { window.__spoken.push(u.text); setTimeout(() => { u.onstart && u.onstart(); setTimeout(() => u.onend && u.onend(), 5); }, 5); }; } });
     const p = await ctx.newPage(); p.on('pageerror', e => errs.push(e.message)); p.on('console', m => m.type() === 'error' && errs.push(m.text()));
-    await p.goto(url); return p;
+    await p.goto(url + (opt.path || '')); return p;
   }
   // 1. Location: Miami → Florida (suggest, confirm)
   let p = await page({ latitude: 25.76, longitude: -80.19 });
@@ -112,6 +113,64 @@ srv.listen(0, async () => {
   // 6. Mistakes
   await p.click('#btnHome');
   ok(await p.isVisible('#btnMist'), 'mistakes review appears after wrong answers');
+  // 7. Paid upgrade switched off (UPGRADE empty): no buy button, no daily limit.
+  ok(!(await p.isVisible('#btnUpgrade')), 'upgrade not on sale yet: no buy button');
+  await p.click('#btnExam'); await p.waitForSelector('.opt', { timeout: 5000 });
+  ok(!(await p.isVisible('#limitScr')), 'upgrade not on sale yet: a second practice test the same day still starts');
+  await p.click('#btnBack');
+  // 8. Landing pages link with ?state=XX.
+  const lp = await page(undefined, 'en-US', { path: '?state=NY' });
+  ok(await lp.$eval('#selState', s => s.value) === 'NY' && await lp.evaluate(() => localStorage.getItem('pv:state')) === '"NY"', '?state=NY selects and stores New York');
+  await lp.context().close();
+  const lp2 = await page(undefined, 'en-US', { path: '?state=ZZ' });
+  ok(await lp2.$eval('#selState', s => s.value) === 'FL', '?state=ZZ (not a state) is ignored');
+  await lp2.context().close();
+  // 9. Paid upgrade switched on through the test hook (read only on 127.0.0.1), Worker mocked.
+  try {
+  const up = await page(undefined, 'en-US', { path: '?state=NY', init: () => { window.PV_UPGRADE_TEST = { checkout: { NY: 'https://shop.example/buy-ny' }, worker: 'https://worker.example/' }; } });
+  const sent = [];
+  await up.route('https://worker.example/**', async r => { const body = JSON.parse(r.request().postData() || '{}'); sent.push(body);
+    await r.fulfill({ status: 200, contentType: 'application/json', headers: { 'access-control-allow-origin': '*' },
+      body: JSON.stringify(body.key === 'GOOD-KEY' && body.state === 'NY' ? { ok: true, state: 'NY' } : { ok: false }) }); });
+  ok(await up.isVisible('#btnUpgrade'), 'upgrade on sale: home offers it');
+  ok(!(await up.isVisible('#hist')) && !(await up.isVisible('#btnWeak')), 'free learner: no score history or weak-topics pack');
+  const nEx = +(await up.textContent('#btnExam')).match(/\d+/)[0];
+  await up.click('#btnExam');
+  for (let i = 0; i < nEx; i++) { await up.waitForSelector('.opt:not([disabled])'); await up.click('.opt[data-i="0"]'); await up.click('#btnNext'); }
+  await up.click('#btnHome');
+  await up.click('#btnExam');
+  ok(await up.isVisible('#limitScr'), 'second practice test the same day shows the friendly limit screen');
+  ok(!(await up.isVisible('.opt')), 'the second test does not start');
+  await up.click('#btnBack'); await up.click('#btnStart'); await up.waitForSelector('.opt');
+  ok(true, 'practice is never limited');
+  await up.click('#btnBack'); await up.click('[data-lang="es"]'); await up.click('#btnExam');
+  ok(/mañana/i.test(await up.textContent('#limitScr')), 'limit screen in Spanish');
+  await up.click('#btnBack'); await up.click('[data-lang="zh"]'); await up.click('#btnExam');
+  const zhLim = await up.textContent('#limitScr');
+  ok(/tomorrow/i.test(zhLim) && !/undefined/.test(zhLim), 'Chinese has no upgrade text yet: falls back to English, nothing breaks');
+  await up.click('#btnBack'); await up.click('[data-lang="en"]');
+  await up.click('#btnUpgrade', { timeout: 5000 });
+  const upTxt = await up.textContent('#upScr');
+  ok(upTxt.includes('9.99') && upTxt.includes('New York') && /no subscription/i.test(upTxt), 'upgrade screen: $9.99 one-time for the state, no subscription');
+  ok(await up.$eval('#btnBuy', a => a.href === 'https://shop.example/buy-ny' && a.target === '_blank'), 'Buy opens the state checkout in a new tab');
+  await up.fill('#licKey', 'BAD-KEY'); await up.click('#btnCheck'); await up.waitForFunction(() => document.getElementById('licMsg').textContent.length > 0);
+  ok(!(await up.evaluate(() => localStorage.getItem('pv:license:NY'))), 'a key the Worker rejects does not unlock');
+  await up.fill('#licKey', ' GOOD-KEY '); await up.click('#btnCheck'); await up.waitForSelector('#badge');
+  ok(sent.some(x => x.key === 'GOOD-KEY' && x.state === 'NY'), 'the key (trimmed) and state are sent to the Worker');
+  ok(!!(await up.evaluate(() => localStorage.getItem('pv:license:NY'))), 'a key the Worker accepts unlocks New York');
+  await up.click('#btnBack');
+  ok(await up.isVisible('#badge') && !(await up.isVisible('#btnUpgrade')), 'unlocked: small badge, no more offer');
+  ok((await up.$$('#hist li')).length === 1 && /of \d+/.test(await up.textContent('#hist')), 'score history lists the finished test');
+  await up.click('#btnExam'); await up.waitForSelector('.opt');
+  ok(!(await up.isVisible('#limitScr')), 'unlocked: unlimited practice tests');
+  await up.click('#btnBack');
+  ok(await up.isVisible('#btnWeak'), 'unlocked: "Practice my weak topics" offered');
+  await up.click('#btnWeak'); await up.waitForSelector('.opt');
+  const weak = await up.evaluate(() => { const n = +document.getElementById('pill').textContent.match(/of (\d+)/)[1];
+    return { n, hasHint: !!document.getElementById('btnHint') }; });
+  ok(weak.n > 0 && weak.n <= 20 && weak.hasHint, 'weak-topics pack: up to 20 questions, practice mode with hints');
+  await up.context().close();
+  } catch (e) { ok(false, 'upgrade flow stopped: ' + e.message.split('\n')[0]); }
   ok(!errs.length, 'no console errors' + (errs.length ? ': ' + errs.join(' | ') : ''));
   await b.close(); srv.close(); console.log(fails ? `${fails} FAILED` : 'ALL PASSED'); process.exit(fails ? 1 : 0);
 });
