@@ -9,7 +9,9 @@ Read `README.md` for the files and the question rules.
 - **Hosting:** Cloudflare Pages from this private repo, live at https://permitvoice.pages.dev (connected 2026-10-09). No build step: the repo root is the site; every push to `main` deploys.
 - **Server:** any paid feature (ads, premium check) uses its **own** Cloudflare Worker, in its own account.
   Never Barak's / Limor's worker from the bekol repo (`tutor-api/worker.js`). Bekol has no link to money; PermitVoice does.
-- **Revenue (2026-10-09):** one-time upgrade, sold through Lemon Squeezy (merchant of record: it collects and pays US sales tax). The buyer gets a license key; the separate Worker checks it. No user accounts. The Lemon Squeezy API key lives only as a Worker secret, never in this repo. What the upgrade unlocks is not decided yet; core practice stays free.
+- **Revenue (2026-10-09):** one-time upgrade, sold through Lemon Squeezy (merchant of record: it collects and pays US sales tax). The buyer gets a license key; the separate Worker checks it. No user accounts. The Lemon Squeezy API key lives only as a Worker secret, never in this repo. Price: **US$9.99 one-time per state**, lifetime access for that state, no subscription (set 2026-10-09; compared with DMV Genie's basic Premium at $9.99 and Zutobi's weekly plans from $4.99, App Store listings found by search that day).
+  - Free forever: all practice questions, hints, read-aloud with word highlighting, both languages, and one full practice test per day.
+  - Upgrade: unlimited full practice tests, score history, and a focused review pack built from the learner's mistakes.
 - **Separate from bekol.** Different market, languages and revenue model. Nothing here is copied into `lagstein1-png.github.io`, and nothing from there is loaded here.
 
 ## Rules that carry over from Talking Theory
