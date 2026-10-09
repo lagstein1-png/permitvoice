@@ -1,1 +1,49 @@
-{"code":"IL","name":"Illinois","agency":"Illinois Secretary of State, Driver Services Department","handbook":{"en":"https://www.ilsos.gov/publications/pdf_publications/dsd_a112.pdf","es":null},"exam":{"questions":35,"pass":28,"passPercent":80,"spanish":null},"permitAge":"15 (written test and instruction permit; secondary sources). Under 18 needs parental consent and school enrollment.","teen":{"supervisedHours":"50 hours, including 10 at night, with a parent or licensed adult 21 or older (GHSA, secondary)","holdPermit":"9 months without a moving violation; a violation or suspension stops the clock (secondary)","nightLimit":"Under 18: Sunday to Thursday 10 p.m. to 6 a.m., Friday and Saturday 11 p.m. to 6 a.m., with exceptions such as driving with a parent or to work (Illinois Legal Aid Online)","passengerLimit":"First 12 months of license, under 18: no more than one passenger under 20, siblings and the driver's children not counted (Illinois Legal Aid Online, GHSA)","phone":"Under 19 with a permit or graduated license: no phone at all, hands-free included, except an emergency call. All drivers: hand-held phone banned since January 1, 2014."},"bac":{"adult":"0.08","under21":"any detectable amount (zero tolerance, 625 ILCS 5/11-501.8); first violation 3-month suspension, refusal 6 months"},"notes":["Handbook URL is the 2024 Rules of the Road PDF on ilsos.gov, found through a search result; not confirmed as current, and no 2025 PDF was found.","A Spanish edition of Rules of the Road 2024 exists (library catalog record), but no official URL was found. Whether the knowledge test is offered in Spanish was not found.","Test format 35 questions, 28 correct (80 percent) comes from commercial practice-test sites, not from ilsos.gov.","Scott's Law (625 ILCS 5/11-907(c)): slow down, change lanes if possible; since Jan. 1, 2017 covers any stopped vehicle with flashing hazard or warning lights (Illinois State Police).","School bus: stop at least 20 feet before it; on a road with at least two lanes in each direction only same-direction traffic must stop (Illinois State Police, Aug. 2025).","Speed (625 ILCS 5/11-601): urban district 30 mph, alley 15 mph, 55 mph on other roads outside urban districts, 65 mph on designated four-lane divided highways, up to 70 mph on rural interstates since 2014.","Hand-held phone fines 5 first offense up to 50 fourth (2013-2014 news sources; may have changed).","Secondary only, not used in questions: driver education required if under 17 years 3 months; course of 30 classroom hours and 6 behind-the-wheel hours; permit fee 0; three test attempts per year.","Official ilsos.gov pages could not be read (fetch blocked); every fact here comes from search snippets."],"sources":["https://www.ilsos.gov/publications/pdf_publications/dsd_a112.pdf","https://driving-tests.org/illinois/illinois-permit-practice-test-4/","https://www.dmv.org/il-illinois/drivers-permits.php","https://ghsa.org/node/2066","https://www.illinoislegalaid.org/legal-information/restrictions-drivers-under-18-years-old","https://www.hoffmanestates.org/government/departments/police/traffic/graduated_driver_licensing_law.php","https://isp.illinois.gov/TrafficSafety/ScottsLaw","https://isp.illinois.gov/Media/PressReleaseFile/2232","https://ilga.gov/documents/legislation/ilcs/documents/062500050K11-601.htm","https://dailyillini.com/news-stories/2013/12/30/illinois-hand-held-cell-phone-ban-to-take-effect-wednesday/","https://legalclarity.org/illinois-zero-tolerance-law-rules-suspensions-penalties/","https://swantest.aspendiscovery.org/Record/a3293203"],"checked":"2026-10-08","verified":false}
+{
+  "code": "IL",
+  "name": "Illinois",
+  "agency": "Illinois Secretary of State, Driver Services Department",
+  "handbook": {
+    "en": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "es": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a113.pdf"
+  },
+  "exam": {
+    "questions": 35,
+    "pass": 28,
+    "passPercent": 80,
+    "spanish": null
+  },
+  "permitAge": "15 (ages 15-17 with proof of enrollment in an approved driver education course; from 17 years 3 months without driver education). Must pass vision and written tests (handbook p. 16).",
+  "teen": {
+    "supervisedHours": "50 hours, including 10 at night, with a parent, legal guardian or licensed adult 21 or older with at least one year of driving experience (handbook p. 16, 18)",
+    "holdPermit": "At least 9 consecutive months (ages 15-17); permit valid 24 months. A moving violation conviction during the permit phase means a new 9-month wait (handbook p. 16, 18; ILSOS GDL page)",
+    "nightLimit": "Permit and initial license phases, under 18: Sunday to Thursday 10 p.m. to 6 a.m., Friday and Saturday 11 p.m. to 6 a.m.; local curfews may differ (handbook p. 18). Exemptions include driving to or from work or school activities (Parent-Teen Driving Guide)",
+    "passengerLimit": "First 12 months of license or until 18, whichever comes first: one passenger under 20, not counting siblings, stepsiblings, children or stepchildren. Permit phase: one in front, back seat limited to the number of belts (handbook p. 18)",
+    "phone": "Under 19: no phone use at all, hands-free included, except an emergency call to police, health care or emergency services (handbook p. 18-19). All drivers: no hand-held phone or texting; hands-free allowed from 19 (handbook p. 22)."
+  },
+  "bac": {
+    "adult": "0.08 (handbook p. 48)",
+    "under21": "any trace of alcohol (zero tolerance: above 0.00 and under 0.08, handbook p. 52, 60); suspension at least 3 months"
+  },
+  "notes": [
+    "Handbook: Illinois Rules of the Road 2026, DSD A 112.47, printed July 2026 (PDF created 2026-07-13). Read in full on 2026-10-09. Printed page = PDF page minus 3. The old URL /publications/pdf_publications/dsd_a112.pdf redirects to /content/dam/publications/pdf_publications/dsd_a112.pdf.",
+    "Spanish edition: Manual de conducir en Illinois 2026, dsd_a113.pdf on ilsos.gov.",
+    "Test format 35 questions, 28 correct (80 percent) is NOT in the handbook or on the ilsos.gov pages read (FAQ, driver's license, GDL); it comes from commercial practice-test sites only. Handbook p. 14 says the written exam has multiple-choice and true-or-false questions on signs, signals, markings and traffic laws.",
+    "Test languages are not listed in the handbook. Handbook p. 15: oral exams for the written test can be requested Monday to Thursday for applicants with a language barrier or a reading or learning disability. Whether the written test is given in Spanish was not confirmed.",
+    "Three attempts per exam within one year of paying the fee (handbook p. 13).",
+    "Speed limits unless posted (handbook p. 24): interstates and tollways 70, four-lane highways 65, other highways and rural 55, city/town 30, alleys 15, school zones 20.",
+    "School bus: stop at least 20 feet before it (Illinois State Police press release, Aug. 11, 2025; not in handbook). Handbook p. 32: no stop needed only when both are on a four-lane road and the bus faces the other way.",
+    "Move over (Scott's Law): handbook p. 25 (stationary emergency/maintenance vehicles) and p. 45 (disabled vehicle with hazard lights on a four-lane highway).",
+    "ISP press release (Aug. 2025) gives school zone hours as 7 a.m. to 4 p.m.; the 2026 handbook p. 24-25 says 6:30 a.m. to 4 p.m."
+  ],
+  "sources": [
+    "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a113.pdf",
+    "https://www.ilsos.gov/departments/drivers/teen-driver-safety/gdl.html",
+    "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a217.pdf",
+    "https://isp.illinois.gov/Media/PressReleaseFile/2232",
+    "https://isp.illinois.gov/TrafficSafety/ScottsLaw",
+    "https://driving-tests.org/illinois/illinois-permit-practice-test-4/"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}

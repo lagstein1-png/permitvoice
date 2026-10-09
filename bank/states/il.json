@@ -71,9 +71,9 @@
     "id": "il-003",
     "scope": "IL",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://driving-tests.org/illinois/illinois-permit-practice-test-4/",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -105,9 +105,9 @@
     "id": "il-004",
     "scope": "IL",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dmv.org/il-illinois/drivers-permits.php",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -139,9 +139,9 @@
     "id": "il-005",
     "scope": "IL",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.dmv.org/il-illinois/drivers-permits.php",
+    "src": "https://www.ilsos.gov/departments/drivers/teen-driver-safety/gdl.html",
     "sign": null,
     "c": 2,
     "en": {
@@ -149,33 +149,33 @@
       "o": [
         "Nothing changes",
         "The permit becomes a license early",
-        "The clock stops",
+        "A new nine-month wait begins",
         "The holder only pays a fine"
       ],
-      "h1": "The violation does not help you move forward.",
-      "h2": "In Illinois a moving violation or a suspension stops the nine-month permit clock, so the wait gets longer.",
-      "p": "Right. A violation stops the clock."
+      "h1": "The violation sets you back, not forward.",
+      "h2": "In Illinois, a moving violation conviction during the permit phase means a new nine-month wait before you can apply for a license.",
+      "p": "Right. A violation means a new nine-month wait."
     },
     "es": {
       "q": "En Illinois, ¿qué pasa con el periodo de nueve meses del permiso si el titular recibe una infracción de tránsito en movimiento?",
       "o": [
         "No cambia nada",
         "El permiso se convierte antes en licencia",
-        "El conteo se detiene",
+        "Empieza una nueva espera de nueve meses",
         "El titular solo paga una multa"
       ],
-      "h1": "La infracción no le ayuda a avanzar.",
-      "h2": "En Illinois una infracción en movimiento o una suspensión detiene el conteo de los nueve meses del permiso, así que la espera se alarga.",
-      "p": "Correcto. Una infracción detiene el conteo."
+      "h1": "La infracción lo hace retroceder, no avanzar.",
+      "h2": "En Illinois, una condena por infracción en movimiento durante la etapa del permiso significa una nueva espera de nueve meses antes de poder solicitar la licencia.",
+      "p": "Correcto. Una infracción significa una nueva espera de nueve meses."
     }
   },
   {
     "id": "il-006",
     "scope": "IL",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://ghsa.org/node/2066",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -207,9 +207,9 @@
     "id": "il-007",
     "scope": "IL",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://ghsa.org/node/2066",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -241,9 +241,9 @@
     "id": "il-008",
     "scope": "IL",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://ghsa.org/node/2066",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -275,9 +275,9 @@
     "id": "il-009",
     "scope": "IL",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.hoffmanestates.org/government/departments/police/traffic/graduated_driver_licensing_law.php",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -309,9 +309,9 @@
     "id": "il-010",
     "scope": "IL",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://dailyillini.com/news-stories/2013/12/30/illinois-hand-held-cell-phone-ban-to-take-effect-wednesday/",
+    "conf": "high",
+    "page": 22,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -323,7 +323,7 @@
         "Listening to music through the car"
       ],
       "h1": "Think about where the phone is.",
-      "h2": "Illinois bans all drivers from using a hand-held phone while driving, but adults may still use a hands-free or voice-operated phone.",
+      "h2": "Illinois bans all drivers from using a hand-held phone while driving. Drivers 19 and older may still use a hands-free phone.",
       "p": "Right. Hand-held phone use is banned for every Illinois driver."
     },
     "es": {
@@ -335,7 +335,7 @@
         "Escuchar música por el sistema del carro"
       ],
       "h1": "Piense en dónde está el teléfono.",
-      "h2": "Illinois prohíbe a todos los conductores usar el teléfono en la mano mientras manejan, pero los adultos todavía pueden usar un teléfono manos libres o por voz.",
+      "h2": "Illinois prohíbe a todos los conductores usar el teléfono en la mano mientras manejan. Los conductores de 19 años o más todavía pueden usar un teléfono manos libres.",
       "p": "Correcto. Usar el teléfono en la mano está prohibido para todos en Illinois."
     }
   },
@@ -343,9 +343,9 @@
     "id": "il-011",
     "scope": "IL",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.illinoislegalaid.org/legal-information/restrictions-drivers-under-18-years-old",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -377,9 +377,9 @@
     "id": "il-012",
     "scope": "IL",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.illinoislegalaid.org/legal-information/restrictions-drivers-under-18-years-old",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -391,7 +391,7 @@
         "From 1 a.m. to 5 a.m."
       ],
       "h1": "It starts at ten at night on school nights.",
-      "h2": "In Illinois a driver under 18 may not drive from 10 p.m. to 6 a.m., Sunday through Thursday, unless an exception applies, such as driving with a parent or to work.",
+      "h2": "In Illinois, a driver under 18 may not drive from 10 p.m. to 6 a.m., Sunday through Thursday, unless an exception applies, such as driving to or from work.",
       "p": "Right. On weeknights the limit starts at 10 p.m."
     },
     "es": {
@@ -403,7 +403,7 @@
         "De 1 a.m. a 5 a.m."
       ],
       "h1": "Empieza a las diez de la noche en días de escuela.",
-      "h2": "En Illinois un conductor menor de 18 años no puede manejar de 10 p.m. a 6 a.m., de domingo a jueves, salvo una excepción, como manejar con un padre o ir al trabajo.",
+      "h2": "En Illinois un conductor menor de 18 años no puede manejar de 10 p.m. a 6 a.m., de domingo a jueves, salvo una excepción, como ir o volver del trabajo.",
       "p": "Correcto. Entre semana el límite empieza a las 10 p.m."
     }
   },
@@ -411,9 +411,9 @@
     "id": "il-013",
     "scope": "IL",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.illinoislegalaid.org/legal-information/restrictions-drivers-under-18-years-old",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -445,9 +445,9 @@
     "id": "il-014",
     "scope": "IL",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://isp.illinois.gov/TrafficSafety/ScottsLaw",
+    "conf": "high",
+    "page": 25,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -479,8 +479,8 @@
     "id": "il-015",
     "scope": "IL",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
+    "conf": "high",
+    "page": 45,
     "src": "https://isp.illinois.gov/TrafficSafety/ScottsLaw",
     "sign": null,
     "c": 3,
@@ -492,8 +492,8 @@
         "No other vehicles",
         "Any vehicle with its hazard or warning lights flashing"
       ],
-      "h1": "Since 2017 the law covers far more than emergency vehicles.",
-      "h2": "Since 2017, Illinois Scott's Law covers any stopped vehicle with flashing hazard or warning lights, including ordinary cars and trucks.",
+      "h1": "Think of any car that has its flashers on.",
+      "h2": "In Illinois, the move-over rule also covers any stopped vehicle with its hazard or warning lights flashing, including ordinary cars and trucks.",
       "p": "Right. Any stopped vehicle with flashing lights is covered."
     },
     "es": {
@@ -504,8 +504,8 @@
         "Ningún otro vehículo",
         "Cualquier vehículo con las luces intermitentes o de advertencia encendidas"
       ],
-      "h1": "Desde 2017 la ley cubre mucho más que vehículos de emergencia.",
-      "h2": "Desde 2017, la Ley de Scott de Illinois cubre cualquier vehículo detenido con luces intermitentes o de advertencia, incluidos carros y camiones comunes.",
+      "h1": "Piense en cualquier carro con las luces intermitentes encendidas.",
+      "h2": "En Illinois, la regla de moverse a otro carril también cubre cualquier vehículo detenido con las luces intermitentes o de advertencia encendidas, incluidos carros y camiones comunes.",
       "p": "Correcto. Cualquier vehículo detenido con luces intermitentes está cubierto."
     }
   },
@@ -513,7 +513,7 @@
     "id": "il-016",
     "scope": "IL",
     "cat": "right-of-way",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
     "src": "https://isp.illinois.gov/Media/PressReleaseFile/2232",
     "sign": null,
@@ -547,9 +547,9 @@
     "id": "il-017",
     "scope": "IL",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://isp.illinois.gov/Media/PressReleaseFile/2232",
+    "conf": "high",
+    "page": 32,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -581,9 +581,9 @@
     "id": "il-018",
     "scope": "IL",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://ilga.gov/documents/legislation/ilcs/documents/062500050K11-601.htm",
+    "conf": "high",
+    "page": 24,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -615,9 +615,9 @@
     "id": "il-019",
     "scope": "IL",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://ilga.gov/documents/legislation/ilcs/documents/062500050K11-601.htm",
+    "conf": "high",
+    "page": 24,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -649,9 +649,9 @@
     "id": "il-020",
     "scope": "IL",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://ilga.gov/documents/legislation/ilcs/documents/062500050K11-601.htm",
+    "conf": "high",
+    "page": 24,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -683,43 +683,43 @@
     "id": "il-021",
     "scope": "IL",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://ilga.gov/documents/legislation/ilcs/documents/062500050K11-601.htm",
+    "conf": "high",
+    "page": 24,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 0,
     "en": {
-      "q": "In Illinois, what is the top speed limit allowed on rural interstate highways?",
+      "q": "In Illinois, unless a sign says otherwise, what is the speed limit on interstates and tollways?",
       "o": [
         "70 mph",
         "55 mph",
         "65 mph",
         "75 mph"
       ],
-      "h1": "It was raised by five in 2014.",
-      "h2": "Since a 2014 change, Illinois allows a speed limit of up to 70 miles per hour on rural interstate highways.",
-      "p": "Right. Rural Illinois interstates can be 70 mph."
+      "h1": "It is five more than the limit on four-lane highways.",
+      "h2": "Unless a sign says otherwise, the speed limit on Illinois interstates and tollways is 70 miles per hour.",
+      "p": "Right. Illinois interstates and tollways are 70 mph."
     },
     "es": {
-      "q": "En Illinois, ¿cuál es el límite de velocidad máximo permitido en las autopistas interestatales rurales?",
+      "q": "En Illinois, a menos que una señal indique otra cosa, ¿cuál es el límite de velocidad en las autopistas interestatales y de peaje?",
       "o": [
         "70 mph",
         "55 mph",
         "65 mph",
         "75 mph"
       ],
-      "h1": "Se subió cinco millas en 2014.",
-      "h2": "Desde un cambio en 2014, Illinois permite un límite de hasta 70 millas por hora en las autopistas interestatales rurales.",
-      "p": "Correcto. Las interestatales rurales de Illinois pueden ser de 70 mph."
+      "h1": "Es cinco más que el límite en las carreteras de cuatro carriles.",
+      "h2": "A menos que una señal indique otra cosa, el límite de velocidad en las autopistas interestatales y de peaje de Illinois es de 70 millas por hora.",
+      "p": "Correcto. Las interestatales y autopistas de peaje de Illinois son de 70 mph."
     }
   },
   {
     "id": "il-022",
     "scope": "IL",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://legalclarity.org/illinois-zero-tolerance-law-rules-suspensions-penalties/",
+    "conf": "high",
+    "page": 52,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -751,9 +751,9 @@
     "id": "il-023",
     "scope": "IL",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://legalclarity.org/illinois-zero-tolerance-law-rules-suspensions-penalties/",
+    "conf": "high",
+    "page": 52,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -765,8 +765,8 @@
         "No suspension, only a warning"
       ],
       "h1": "It is one quarter of a year.",
-      "h2": "A first zero tolerance violation in Illinois brings a three-month license suspension, and refusing the test brings six months.",
-      "p": "Right. A first violation means a three-month suspension."
+      "h2": "In Illinois, a driver under 21 found with any alcohol while driving loses the license for at least three months.",
+      "p": "Right. A first violation means at least a three-month suspension."
     },
     "es": {
       "q": "En Illinois, ¿cuál es la suspensión de licencia por una primera violación de tolerancia cero de un conductor menor de 21?",
@@ -777,8 +777,8 @@
         "Ninguna, solo una advertencia"
       ],
       "h1": "Es la cuarta parte de un año.",
-      "h2": "Una primera violación de tolerancia cero en Illinois trae una suspensión de licencia de tres meses, y negarse a la prueba trae seis meses.",
-      "p": "Correcto. Una primera violación significa tres meses de suspensión."
+      "h2": "En Illinois, un conductor menor de 21 años que maneja con cualquier cantidad de alcohol pierde la licencia por al menos tres meses.",
+      "p": "Correcto. Una primera violación significa al menos tres meses de suspensión."
     }
   }
 ]
