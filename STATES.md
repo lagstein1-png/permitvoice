@@ -55,7 +55,7 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | TX | Texas | 27 | 26 | ? q, pass ? (70%) | [link](https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf) | — | yes |
 | UT | Utah | 26 | 22 | 50 q, pass 40 (80%) | [link](https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2026.pdf) | — | yes |
 | VA | Virginia | 27 | 26 | 40 q, pass 34 (80%) | [link](https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf) | [link](https://dmv.virginia.gov/licenses-ids/exams/manual-es) | yes |
-| VT | Vermont | 24 | 0 | 20 q, pass 16 (80%) | [link](https://dmv.vermont.gov/document/drivers-license-manual) | [link](https://dmv.vermont.gov/document/drivers-license-manual-foreign-language-spanish) | no |
+| VT | Vermont | 24 | 24 | 20 q, pass 16 (80%) | [link](https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf) | [link](https://dmv.vermont.gov/sites/dmv/files/documents/VN-007spa-Drivers_Manual_foreign_Spanish.pdf) | yes |
 | WA | Washington | 23 | 23 | 40 q, pass 32 (80%) | [link](https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=) | [link](https://dol.wa.gov/media/pdf/4748/driver-guide-espdf/download?inline=) | yes |
 | WI | Wisconsin | 18 | 0 | 50 q, pass 40 (80%) | — | [link](https://wisconsindot.gov/Pages/dmv/teen-driver/teen-hw-aply/s-handbook.aspx) | no |
 | WV | West Virginia | 21 | 0 | not found | — | — | no |

@@ -1,1 +1,57 @@
-{"code":"VT","name":"Vermont","agency":"Vermont Department of Motor Vehicles (Agency of Transportation)","handbook":{"en":"https://dmv.vermont.gov/document/drivers-license-manual","es":"https://dmv.vermont.gov/document/drivers-license-manual-foreign-language-spanish"},"exam":{"questions":20,"pass":16,"passPercent":80,"spanish":null},"permitAge":"15 (learner permit; parent or guardian signs under 18; permit valid 2 years per secondary sources)","teen":{"supervisedHours":"40 hours, at least 10 at night (23 V.S.A. 607)","holdPermit":"At least 1 year (23 V.S.A. 607)","nightLimit":null,"passengerLimit":"Junior operator: first 3 months alone or with a licensed parent/guardian, certified instructor, or licensed person 25+; months 4-6 may also carry family members; never more passengers than seat belts; violation = 90-day recall (23 V.S.A. 614, DMV)","phone":"Under 18: no portable electronic device at all, hands-free included, even when stationary, except emergency contact (23 V.S.A. 1095a). All drivers: no hand-held use, even when stopped in traffic (1095b)."},"bac":{"adult":"0.08","under21":"0.02 (23 V.S.A. 1216; first violation six-month suspension)"},"notes":["Knowledge test 20 questions, 16 correct (80 percent) from third-party practice sites only; not confirmed on dmv.vermont.gov.","No teen night-driving restriction found in the sources.","Spanish manual (VN-007spa, 2024-07-10) on dmv.vermont.gov; also French, Farsi, Dari, Kirundi, Somali, Nepali, Swahili, Mandarin. Whether the test itself is given in Spanish was not confirmed (secondary: interpreter allowed).","Junior license: ages 16-17, driver education course required, parent consent.","Speed: 50 mph maximum unless posted (23 V.S.A. 1081); rural interstates 65 mph (GHSA).","Move over (23 V.S.A. 1050): slow down and, if safe, leave the lane next to stopped emergency, tow or repair vehicles with lamps on.","School bus (23 V.S.A. 1075): stop while red lights flash; exception for a bus on a different roadway of a divided highway.","Points: 10 in two years starts suspension (2505); 10 points = 10 days, 15 = 30 days, 20 = 90 days (2506).","Insurance 25/50/10, UM 50/100/10 (secondary)."],"sources":["https://dmv.vermont.gov/document/drivers-license-manual","https://dmv.vermont.gov/document/drivers-license-manual-foreign-language-spanish","https://dmv.vermont.gov/node/199","https://dmv.vermont.gov/node/162","https://legislature.vermont.gov/statutes/section/23/009/00607","https://legislature.vermont.gov/statutes/section/23/009/00614","https://legislature.vermont.gov/statutes/section/23/013/01095a","https://legislature.vermont.gov/statutes/section/23/013/01095b","https://legislature.vermont.gov/statutes/section/23/013/01216","https://legislature.vermont.gov/statutes/section/23/013/01081","https://ghsa.org/node/3126","https://legislature.vermont.gov/statutes/section/23/013/01050","https://legislature.vermont.gov/statutes/section/23/013/01075","https://legislature.vermont.gov/statutes/section/23/025/02505","https://legislature.vermont.gov/statutes/section/23/025/02506","https://www.drivinglaws.org/resources/vermont-teen-driving.html","https://www.driving-tests.org/vermont/dmv-written-test/","https://www.carinsurance.com/state/state-minimum-car-insurance-in-vermont/"],"checked":"2026-10-08","verified":false}
+{
+  "code": "VT",
+  "name": "Vermont",
+  "agency": "Vermont Department of Motor Vehicles (Agency of Transportation)",
+  "handbook": {
+    "en": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "es": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007spa-Drivers_Manual_foreign_Spanish.pdf"
+  },
+  "exam": {
+    "questions": 20,
+    "pass": 16,
+    "passPercent": 80,
+    "spanish": null
+  },
+  "permitAge": "15 (handbook p. 12; parent or guardian signs under 18; clean driving record for the previous 2 years)",
+  "teen": {
+    "supervisedHours": "40 hours, at least 10 at night (night = 30 min after sunset to 30 min before sunrise), on top of the 6 behind-the-wheel hours of driver education (handbook pp. 13-14, 20)",
+    "holdPermit": "At least 1 year, with no permit recall/suspension in the last 6 months (handbook p. 13, 20)",
+    "nightLimit": null,
+    "passengerLimit": "Junior license: first 3 months alone or with a licensed parent/guardian, instructor, or licensed person 25+; months 4-6 may also carry immediate family (siblings and parents); never more passengers than seat belts (handbook pp. 15, 20-21). Violation = 90-day recall (23 V.S.A. 607a, 614(c)).",
+    "phone": "All drivers: no hand-held portable electronic device use, even when stopped in traffic (handbook p. 55; 23 V.S.A. 1095b; hands-free allowed for 18+). Under 18: no device use at all, hands-free included, except emergency contact (23 V.S.A. 1095a)."
+  },
+  "bac": {
+    "adult": "0.08 (handbook p. 52)",
+    "under21": "0.02 (handbook p. 52; since 2025-07-01 under 7 V.S.A. 656, 23 V.S.A. 1216 repealed: first offense 90-day suspension, 180 days if youth program not completed)"
+  },
+  "notes": [
+    "Checked 2026-10-09 against the Vermont Driver's Manual VN-007 07/2024 (cover says 2025; PDF dated 2024-11-18). Printed page = PDF page minus 1.",
+    "Knowledge test: online at mydmv.vermont.gov, 20 questions, 4 choices each, at least 16 correct (80 percent); wait one day to retake (handbook p. 18, p. 2).",
+    "Test languages: not stated in the handbook or on the DMV pages reached. The manual is published in Spanish (VN-007spa) and other languages; an interpreter is mentioned only for hearing-impaired applicants (p. 18).",
+    "No teen night-driving restriction in the handbook (p. 73 only suggests parents consider one).",
+    "Junior license: ages 16-17; state-approved driver education (30 h classroom, 6 h behind the wheel, 6 h observation) (p. 13). No driving for pay for 1 year; no passengers for hire (p. 15).",
+    "Speed: 50 mph maximum on all roads unless posted; Interstate 65 mph unless posted (p. 28).",
+    "Move over: slow down for stopped police/emergency/tow vehicles with lights; change lanes on a multilane road if safe (p. 31; p. 51 says slow to 20 mph below the limit if you cannot change lanes; 23 V.S.A. 1050).",
+    "School bus: stop while red lights flash; no stop on a divided highway for a bus going the other way (pp. 39-40; 23 V.S.A. 1075).",
+    "Points: 10 in two years starts suspension (p. 64; 23 V.S.A. 2505); lengths 10 pts = 10 days, 15 = 30, 20 = 90 (23 V.S.A. 2506, not in handbook).",
+    "Insurance minimum 25,000/50,000/10,000 (p. 67).",
+    "Newer law than the handbook: 23 V.S.A. 1216 (under-21 0.02) was repealed by Act 45 of 2025, effective 2025-07-01; the rule is now 7 V.S.A. 656(b)(1)(E)."
+  ],
+  "sources": [
+    "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007spa-Drivers_Manual_foreign_Spanish.pdf",
+    "https://dmv.vermont.gov/licenses/types-of-licenses-ids/junior-drivers-license/graduated-license-laws",
+    "https://dmv.vermont.gov/enforcement-and-safety/laws/move-over-law",
+    "https://legislature.vermont.gov/statutes/section/23/009/00607a",
+    "https://legislature.vermont.gov/statutes/section/23/009/00614",
+    "https://legislature.vermont.gov/statutes/section/23/013/01095a",
+    "https://legislature.vermont.gov/statutes/section/23/013/01095b",
+    "https://legislature.vermont.gov/statutes/section/07/021/00656",
+    "https://legislature.vermont.gov/statutes/section/23/013/01050",
+    "https://legislature.vermont.gov/statutes/section/23/013/01075",
+    "https://legislature.vermont.gov/statutes/section/23/025/02505",
+    "https://legislature.vermont.gov/statutes/section/23/025/02506"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
