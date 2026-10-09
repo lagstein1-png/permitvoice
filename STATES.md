@@ -24,7 +24,7 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | IA | Iowa | 22 | 22 | ? q, pass ? (80%) | [link](https://iowadot.gov/media/7308/download?inline) | [link](https://iowadot.gov/media/7173/download) | yes |
 | ID | Idaho | 21 | 21 | 40 q, pass 34 (85%) | [link](https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf) | [link](https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf) | yes |
 | IL | Illinois | 23 | 0 | 35 q, pass 28 (80%) | [link](https://www.ilsos.gov/publications/pdf_publications/dsd_a112.pdf) | — | no |
-| IN | Indiana | 22 | 0 | ? q, pass ? (80%) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf) | — | no |
+| IN | Indiana | 22 | 22 | ? q, pass ? (80%) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual-spanish.pdf) | yes |
 | KS | Kansas | 23 | 0 | not found | [link](https://www.ksrevenue.gov/pdf/dlhb.pdf) | [link](https://www.ksrevenue.gov/pdf/dlhb-sp.pdf) | no |
 | KY | Kentucky | 21 | 0 | ? q, pass ? (80%) | [link](https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2023/11/Kentucky-Driver-Manual-10-11-2023.pdf) | — | no |
 | LA | Louisiana | 20 | 0 | not found | — | — | no |
