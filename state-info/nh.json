@@ -7,10 +7,12 @@
     "es": null
   },
   "exam": {
-    "questions": null,
-    "pass": null,
+    "questions": 40,
+    "pass": 32,
     "passPercent": 80,
-    "spanish": true
+    "spanish": true,
+    "languages": "English, ASL, French, Spanish, Portuguese, Arabic, Farsi, Mandarin Chinese; oral test on request (manual p.2)",
+    "englishOnly": false
   },
   "permitAge": "No learner's permit is issued. Supervised practice from 15 and a half, carrying proof of age, with a licensed adult 25 or older in the front seat (NH DMV)",
   "teen": {
@@ -25,15 +27,15 @@
     "under21": "0.02"
   },
   "notes": [
-    "Knowledge tests require 80 percent; administrative rule Saf-C 1000 says up to 50 multiple-choice questions and up to 60 minutes. Commercial sites say 40 questions. Number of questions left null.",
     "Knowledge tests listed in English, French, Spanish, Arabic, Mandarin, Portuguese, Farsi and ASL (NH DMV testing page). A 2025 bill (HB 901) proposed English-only exams; its status was not confirmed.",
     "Youth Operator License: issued over 16 and under 21, expires on the 21st birthday. RSA 263:14 says some youth restrictions do not apply over 18; which ones not confirmed.",
     "Driver education required under 18. Night for logged hours: half an hour after sunset to half an hour before sunrise.",
     "Seat belts: drivers under 18 must be belted; drivers may not carry an unbelted passenger under 18 (RSA 265:107-a).",
-    "Move Over (RSA 265:37-a, 'Sherrill's Law'): slow down and move over when safe for any stopped vehicle with warning signals (hazard lights, flares, cones, caution signs). Fine amounts differ between sources; not used.",
     "Spanish handbook not found.",
-    "Research limited to web-search summaries; official pages could not be fetched (proxy 403).",
-    "2026-10-09: handbook check blocked. Every nh.gov host (www.dmv.nh.gov, www.nh.gov, dos.nh.gov) answers 403 Access Denied (Akamai) from this environment, gc.nh.gov gives an empty reply, and web.archive.org is unreachable. The driver manual (nhdm.pdf) was not read; questions stay medium and verified stays false."
+    "2026-10-09: checked against the NH Driver's Manual, form DSMV 360 (Rev. 07/24), read from a third-party re-host (files.driving-tests.org/premium/pdf/handbook/CAR/nh.car.en.pdf) because nh.gov and web.archive.org were unreachable; the owner approved continuing. Printed page = PDF page - 7. The official file was archived 2026-09-02, so a newer revision may exist: re-check against it when reachable.",
+    "Knowledge test (manual p.2): 40 questions, 4 choices, touch screen, 40 minutes; the test stops after more than 8 wrong, so 32 of 40 to pass. Retest after 10 days (p.3).",
+    "Move Over (manual p.40, RSA 265:37-a): stopped emergency vehicles, police stops and stopped vehicles showing flashing blue, red or amber lights.",
+    "Held (not in the manual): nh-003 (proof of age, front seat), nh-008 (when night starts for the log), nh-016 (phone fine amounts)."
   ],
   "sources": [
     "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/driver-licensing-testing-requirements",
@@ -49,6 +51,6 @@
     "https://www.highwaysafety.dos.nh.gov/safety-programs-tips/move-over",
     "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=901&txtFormat=html"
   ],
-  "checked": "2026-10-08",
-  "verified": false
+  "checked": "2026-10-09",
+  "verified": true
 }
