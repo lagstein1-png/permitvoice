@@ -34,6 +34,7 @@ Every push to `main` deploys.
 ## Status
 
 - Written permission was requested from FLHSMV on 2026-10-07. No answer yet.
+- 2026-10-09: the owner tested https://permitvoice.pages.dev on a phone in Chrome: site loads, Find my state asks for location, install to home screen works, read-aloud and word highlighting work.
 - 2026-10-08: every question was checked against the Florida Driver License Handbook (English, rev. 08/2023), from the text the owner supplied. Each question carries the printed page (`page`), or `null` when the handbook does not cover the fact; the app then says the rule is based on Florida law.
 - The handbook is dated August 2023. Laws passed after that (for example 2025 changes to test-refusal penalties and the left-lane law) are not in it.
 - The handbook text itself is copyrighted and is not stored in this repo.
