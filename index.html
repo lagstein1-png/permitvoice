@@ -135,6 +135,8 @@ const T = {
     correctIs:n=>`The correct answer is number ${n}.`,
     ref:p=>`Florida Driver License Handbook (rev. 08/2023), page ${p}`,
     refLaw:'Based on Florida law. This rule is not in the handbook.',
+    refState:(s,p)=>`${s} driver handbook (English), page ${p}`,
+    refStateLaw:s=>`Based on ${s} law. This rule is not in the handbook.`,
     passT:'You passed!', failT:'Not yet', resT:'Round complete',
     resLine:(c,n)=>`${c} of ${n} correct`,
     passP:'You reached the passing score. Keep practicing to stay sharp.',
@@ -168,6 +170,8 @@ const T = {
     correctIs:n=>`La respuesta correcta es la número ${n}.`,
     ref:p=>`Manual de Licencia de Conducir de Florida (edición en inglés, rev. 08/2023), página ${p}`,
     refLaw:'Basado en la ley de Florida. Esta regla no aparece en el manual.',
+    refState:(s,p)=>`Manual de manejo de ${s} (edición en inglés), página ${p}`,
+    refStateLaw:s=>`Basado en la ley de ${s}. Esta regla no aparece en el manual.`,
     passT:'¡Aprobó!', failT:'Todavía no', resT:'Ronda terminada',
     resLine:(c,n)=>`${c} de ${n} correctas`,
     passP:'Alcanzó la puntuación para aprobar. Siga practicando para no olvidar.',
@@ -204,6 +208,8 @@ const LANGS = [
     T[L.code] = Object.assign({}, u, {
       geoAsk: f1(u.geoAsk, 's'), heroT: f1(u.heroT, 's'), soonT: f1(u.soonT, 's'), englishOnly: f1(u.englishOnly, 's'),
       exam: f1(u.exam, 'n'), mist: f1(u.mist, 'n'), correctIs: f1(u.correctIs, 'n'), ref: f1(u.ref, 'p'),
+      refState: (s, p) => (u.refState || T.en.refState(s, p)).split('{s}').join(s).split('{p}').join(p),
+      refStateLaw: f1(u.refStateLaw || T.en.refStateLaw('{s}'), 's'),
       resLine: (c, n) => u.resLine.split('{c}').join(c).split('{n}').join(n),
       failP: (p, n) => u.failP.split('{p}').join(p).split('{n}').join(n),
       rate: { 0.8: u.rateSlow, 1: u.rateNormal, 1.2: u.rateFast },
@@ -564,7 +570,9 @@ function lastHint(){
 /* The handbook page is shown only for the state whose handbook it is. */
 function refLine(q){
   if(!q.ref || q.ref.doc !== S.state) return '';
-  return `<p class="ref">${esc(q.ref.page ? t('ref')(q.ref.page) : t('refLaw'))}</p>`;
+  const line = S.state === 'FL' ? (q.ref.page ? t('ref')(q.ref.page) : t('refLaw'))
+    : (q.ref.page ? t('refState')(stateName(S.state), q.ref.page) : t('refStateLaw')(stateName(S.state)));
+  return `<p class="ref">${esc(line)}</p>`;
 }
 function nextButton(){
   const last = S.qi === S.deck.length - 1;
