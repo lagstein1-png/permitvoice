@@ -27,7 +27,7 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | IN | Indiana | 22 | 22 | ? q, pass ? (80%) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual-spanish.pdf) | yes |
 | KS | Kansas | 23 | 23 | 25 q, pass 20 (80%) | [link](https://www.ksrevenue.gov/pdf/dlhb.pdf) | [link](https://www.ksrevenue.gov/pdf/dlhb-sp.pdf) | yes |
 | KY | Kentucky | 21 | 21 | ? q, pass ? (80%) | [link](https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf) | [link](https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2023/11/Kentucky-Driver-Manual09-08-2023_SPANISH.pdf) | yes |
-| LA | Louisiana | 20 | 0 | not found | — | — | no |
+| LA | Louisiana | 20 | 19 | 40 q, pass 32 (80%) | [link](https://public.powerdms.com/LADPSC/documents/347039) | — | yes |
 | MA | Massachusetts | 31 | 31 | 25 q, pass 18 (72%) | [link](https://www.mass.gov/doc/english-drivers-manual/download) | [link](https://www.mass.gov/files/documents/2019/09/02/Drivers_Manual_Spanish_0119_rev0819.pdf) | yes |
 | MD | Maryland | 17 | 0 | 25 q, pass 22 (88%) | — | — | no |
 | ME | Maine | 13 | 0 | not found | [link](https://www.maine.gov/sos/licenses/studyguides.html) | — | no |

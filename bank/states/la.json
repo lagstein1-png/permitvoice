@@ -3,9 +3,9 @@
     "id": "la-001",
     "scope": "LA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://expresslane.dps.louisiana.gov/CDLForms/Graduated Licensing program.pdf",
+    "conf": "high",
+    "page": 7,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
     "sign": null,
     "c": 1,
     "en": {
@@ -37,9 +37,9 @@
     "id": "la-002",
     "scope": "LA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://expresslane.dps.louisiana.gov/CDLForms/Graduated Licensing program.pdf",
+    "conf": "high",
+    "page": 7,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
     "sign": null,
     "c": 3,
     "en": {
@@ -51,7 +51,7 @@
         "38 hours"
       ],
       "h1": "It is a little under 40 hours.",
-      "h2": "In Louisiana a teen must complete an approved 38-hour driver education course to get a learner's permit.",
+      "h2": "In Louisiana a teen must finish a 38-hour driver education course before the learner's permit: 30 hours in class and 8 hours behind the wheel.",
       "p": "Right. The course is 38 hours."
     },
     "es": {
@@ -63,7 +63,7 @@
         "38 horas"
       ],
       "h1": "Son un poco menos de 40 horas.",
-      "h2": "En Luisiana un joven debe completar un curso de manejo aprobado de 38 horas para obtener el permiso de aprendiz.",
+      "h2": "En Luisiana un adolescente debe terminar un curso de manejo de 38 horas antes del permiso de aprendiz: 30 horas en clase y 8 horas al volante.",
       "p": "Correcto. El curso es de 38 horas."
     }
   },
@@ -71,9 +71,9 @@
     "id": "la-003",
     "scope": "LA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://expresslane.dps.louisiana.gov/CDLForms/Graduated Licensing program.pdf",
+    "conf": "high",
+    "page": 7,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
     "sign": null,
     "c": 0,
     "en": {
@@ -105,9 +105,9 @@
     "id": "la-004",
     "scope": "LA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://expresslane.dps.louisiana.gov/CDLForms/Graduated Licensing program.pdf",
+    "conf": "high",
+    "page": 7,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
     "sign": null,
     "c": 2,
     "en": {
@@ -139,9 +139,9 @@
     "id": "la-005",
     "scope": "LA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://expresslane.dps.louisiana.gov/CDLForms/Graduated Licensing program.pdf",
+    "conf": "high",
+    "page": 7,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
     "sign": null,
     "c": 1,
     "en": {
@@ -173,9 +173,9 @@
     "id": "la-006",
     "scope": "LA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://lern.la.gov/wp-content/uploads/LA-GDL-Law-Card.pdf",
+    "conf": "high",
+    "page": 7,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
     "sign": null,
     "c": 3,
     "en": {
@@ -207,9 +207,9 @@
     "id": "la-007",
     "scope": "LA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://lern.la.gov/wp-content/uploads/LA-GDL-Law-Card.pdf",
+    "conf": "high",
+    "page": 7,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
     "sign": null,
     "c": 0,
     "en": {
@@ -220,7 +220,7 @@
         "10 hours",
         "25 hours"
       ],
-      "h1": "It is more than the 10 hours many other states ask for.",
+      "h1": "It is a little less than one third of the 50 hours.",
       "h2": "In Louisiana 15 of the 50 supervised practice hours must be driven at night.",
       "p": "Right. 15 of the hours are at night."
     },
@@ -232,7 +232,7 @@
         "10 horas",
         "25 horas"
       ],
-      "h1": "Son más que las 10 horas que piden muchos otros estados.",
+      "h1": "Es un poco menos de un tercio de las 50 horas.",
       "h2": "En Luisiana 15 de las 50 horas de práctica supervisada deben ser de noche.",
       "p": "Correcto. 15 de las horas son de noche."
     }
@@ -241,43 +241,43 @@
     "id": "la-008",
     "scope": "LA",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://lern.la.gov/wp-content/uploads/LA-GDL-Law-Card.pdf",
+    "conf": "high",
+    "page": 78,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In Louisiana, may a learner's permit driver use a phone with a hands-free device?",
+      "q": "In Louisiana, who may send or read a text message while driving?",
       "o": [
-        "Yes, hands-free is always allowed",
-        "Yes, but only to text",
-        "No, phone use is not allowed, even hands-free",
-        "Yes, if the supervisor agrees"
+        "Drivers 18 and older",
+        "Drivers on a highway only",
+        "No driver, of any age",
+        "Drivers stopped at a red light"
       ],
-      "h1": "New drivers have a stricter rule than adults.",
-      "h2": "In Louisiana a learner's permit driver may not use a cell phone while driving, even with a hands-free device.",
-      "p": "Right. No phone at all on a learner's permit."
+      "h1": "The rule is the same for every age.",
+      "h2": "In Louisiana no driver of any age may write, send or read a text message while driving.",
+      "p": "Right. No driver may text while driving."
     },
     "es": {
-      "q": "En Luisiana, ¿puede un conductor con permiso de aprendiz usar el teléfono con manos libres?",
+      "q": "En Luisiana, ¿quién puede enviar o leer un mensaje de texto mientras maneja?",
       "o": [
-        "Sí, manos libres siempre está permitido",
-        "Sí, pero solo para enviar mensajes",
-        "No, no puede usar el teléfono, ni con manos libres",
-        "Sí, si el supervisor está de acuerdo"
+        "Los conductores de 18 años o más",
+        "Solo los conductores en la carretera",
+        "Ningún conductor, de ninguna edad",
+        "Los conductores detenidos en un semáforo en rojo"
       ],
-      "h1": "Los conductores nuevos tienen una regla más estricta que los adultos.",
-      "h2": "En Luisiana un conductor con permiso de aprendiz no puede usar el celular mientras maneja, ni siquiera con manos libres.",
-      "p": "Correcto. Nada de teléfono con el permiso de aprendiz."
+      "h1": "La regla es igual para todas las edades.",
+      "h2": "En Luisiana ningún conductor, de ninguna edad, puede escribir, enviar ni leer un mensaje de texto mientras maneja.",
+      "p": "Correcto. Ningún conductor puede enviar textos mientras maneja."
     }
   },
   {
     "id": "la-009",
     "scope": "LA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://ghsa.org/node/2091",
+    "conf": "high",
+    "page": 7,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
     "sign": null,
     "c": 1,
     "en": {
@@ -309,9 +309,9 @@
     "id": "la-010",
     "scope": "LA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://lern.la.gov/wp-content/uploads/LA-GDL-Law-Card.pdf",
+    "conf": "high",
+    "page": 7,
+    "src": "https://legis.la.gov/Legis/Law.aspx?d=88384",
     "sign": null,
     "c": 3,
     "en": {
@@ -343,9 +343,9 @@
     "id": "la-011",
     "scope": "LA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://lern.la.gov/wp-content/uploads/LA-GDL-Law-Card.pdf",
+    "conf": "high",
+    "page": 7,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
     "sign": null,
     "c": 0,
     "en": {
@@ -377,9 +377,9 @@
     "id": "la-012",
     "scope": "LA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://lern.la.gov/wp-content/uploads/LA-GDL-Law-Card.pdf",
+    "conf": "high",
+    "page": 7,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
     "sign": null,
     "c": 2,
     "en": {
@@ -411,9 +411,9 @@
     "id": "la-013",
     "scope": "LA",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://lern.la.gov/wp-content/uploads/LA-GDL-Law-Card.pdf",
+    "src": "https://legis.la.gov/Legis/Law.aspx?d=88384",
     "sign": null,
     "c": 1,
     "en": {
@@ -445,13 +445,13 @@
     "id": "la-014",
     "scope": "LA",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://710keel.com/bcpd-targets-underage-drinking-driving-this-month/",
+    "conf": "high",
+    "page": 123,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Louisiana, at what blood alcohol level is it a crime for a driver under 21 to drive?",
+      "q": "In Louisiana, at what blood alcohol level is it illegal for a driver under 21 to drive?",
       "o": [
         "0.08 percent",
         "0.10 percent",
@@ -459,11 +459,11 @@
         "0.02 percent"
       ],
       "h1": "It is much lower than the adult limit of 0.08.",
-      "h2": "In Louisiana a driver under 21 commits a crime by driving with a blood alcohol level of 0.02 percent or more.",
+      "h2": "In Louisiana it is illegal for a driver under 21 to drive with a blood alcohol level of 0.02 percent or more.",
       "p": "Right. For drivers under 21 the limit is 0.02."
     },
     "es": {
-      "q": "En Luisiana, ¿con qué nivel de alcohol en la sangre es delito que maneje un conductor menor de 21?",
+      "q": "En Luisiana, ¿con qué nivel de alcohol en la sangre es ilegal que maneje un conductor menor de 21?",
       "o": [
         "0.08 por ciento",
         "0.10 por ciento",
@@ -471,7 +471,7 @@
         "0.02 por ciento"
       ],
       "h1": "Es mucho más bajo que el límite de 0.08 para adultos.",
-      "h2": "En Luisiana un conductor menor de 21 comete un delito si maneja con un nivel de alcohol en la sangre de 0.02 por ciento o más.",
+      "h2": "En Luisiana es ilegal que un conductor menor de 21 maneje con un nivel de alcohol en la sangre de 0.02 por ciento o más.",
       "p": "Correcto. Para menores de 21 el límite es 0.02."
     }
   },
@@ -479,9 +479,9 @@
     "id": "la-015",
     "scope": "LA",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.ksla.com/2025/07/01/louisiana-bans-most-phone-use-while-driving/",
+    "conf": "high",
+    "page": 78,
+    "src": "https://legis.la.gov/Legis/Law.aspx?d=1429150",
     "sign": null,
     "c": 0,
     "en": {
@@ -513,68 +513,68 @@
     "id": "la-016",
     "scope": "LA",
     "cat": "safe-driving",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.ksla.com/2025/07/01/louisiana-bans-most-phone-use-while-driving/",
+    "src": "https://legis.la.gov/Legis/Law.aspx?d=1429150",
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In Louisiana, what is the highest fine for a first hand-held phone offense outside a school or work zone?",
+      "q": "In Louisiana, what is the fine for using a hand-held phone while driving outside a school or construction zone, when there is no crash?",
       "o": [
         "$25",
         "$500",
         "$100",
         "$1,000"
       ],
-      "h1": "In a school or construction zone it can reach $250.",
-      "h2": "In Louisiana a first hand-held phone offense can cost up to $100, or up to $250 in a school or construction zone.",
-      "p": "Right. Up to $100 for a first offense."
+      "h1": "In a school or construction zone the fine is $250.",
+      "h2": "In Louisiana the fine for using a hand-held phone while driving outside a school or construction zone is $100, and it doubles if there is a crash.",
+      "p": "Right. The fine is $100 outside those zones."
     },
     "es": {
-      "q": "En Luisiana, ¿cuál es la multa máxima por la primera vez que se usa el teléfono en la mano fuera de una zona escolar o de obras?",
+      "q": "En Luisiana, ¿cuál es la multa por usar un teléfono en la mano mientras maneja fuera de una zona escolar o de construcción, si no hay choque?",
       "o": [
         "$25",
         "$500",
         "$100",
         "$1,000"
       ],
-      "h1": "En una zona escolar o de construcción puede llegar a $250.",
-      "h2": "En Luisiana la primera infracción por usar el teléfono en la mano puede costar hasta $100, o hasta $250 en una zona escolar o de construcción.",
-      "p": "Correcto. Hasta $100 la primera vez."
+      "h1": "En una zona escolar o de construcción la multa es de $250.",
+      "h2": "En Luisiana la multa por usar un teléfono en la mano mientras maneja fuera de una zona escolar o de construcción es de $100, y se duplica si hay un choque.",
+      "p": "Correcto. La multa es de $100 fuera de esas zonas."
     }
   },
   {
     "id": "la-017",
     "scope": "LA",
     "cat": "safe-driving",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.ksla.com/2025/07/01/louisiana-bans-most-phone-use-while-driving/",
+    "src": "https://legis.la.gov/Legis/Law.aspx?d=1429150",
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In Louisiana, what is the highest fine for a first hand-held phone offense in a school or construction zone?",
+      "q": "In Louisiana, what is the fine for using a hand-held phone while driving in a school or construction zone, when there is no crash?",
       "o": [
-        "$100",
+        "$75",
         "$250",
         "$50",
         "$2,000"
       ],
-      "h1": "It is more than twice the fine outside those zones.",
-      "h2": "In Louisiana a first hand-held phone offense in a school or construction zone can cost up to $250.",
-      "p": "Right. Up to $250 in a school or work zone."
+      "h1": "It is more than twice the $100 fine outside those zones.",
+      "h2": "In Louisiana the fine for using a hand-held phone while driving in a school or construction zone is $250.",
+      "p": "Right. The fine is $250 in a school or work zone."
     },
     "es": {
-      "q": "En Luisiana, ¿cuál es la multa máxima por la primera vez que se usa el teléfono en la mano en una zona escolar o de construcción?",
+      "q": "En Luisiana, ¿cuál es la multa por usar un teléfono en la mano mientras maneja en una zona escolar o de construcción, si no hay choque?",
       "o": [
-        "$100",
+        "$75",
         "$250",
         "$50",
         "$2,000"
       ],
-      "h1": "Es más del doble de la multa fuera de esas zonas.",
-      "h2": "En Luisiana la primera infracción por usar el teléfono en la mano en una zona escolar o de construcción puede costar hasta $250.",
-      "p": "Correcto. Hasta $250 en una zona escolar o de obras."
+      "h1": "Es más del doble de la multa de $100 fuera de esas zonas.",
+      "h2": "En Luisiana la multa por usar un teléfono en la mano mientras maneja en una zona escolar o de construcción es de $250.",
+      "p": "Correcto. La multa es de $250 en una zona escolar o de obras."
     }
   },
   {
@@ -615,9 +615,9 @@
     "id": "la-019",
     "scope": "LA",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.wafb.com/2026/08/17/louisianas-expanded-move-over-law-is-now-effect/",
+    "conf": "high",
+    "page": 30,
+    "src": "https://legis.la.gov/Legis/Law.aspx?d=88033",
     "sign": null,
     "c": 0,
     "en": {
@@ -649,9 +649,9 @@
     "id": "la-020",
     "scope": "LA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://ghsa.org/node/2091",
+    "conf": "high",
+    "page": 7,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
     "sign": null,
     "c": 2,
     "en": {
