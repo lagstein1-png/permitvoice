@@ -1,1 +1,60 @@
-{"code":"KS","name":"Kansas","agency":"Kansas Department of Revenue, Division of Vehicles","handbook":{"en":"https://www.ksrevenue.gov/pdf/dlhb.pdf","es":"https://www.ksrevenue.gov/pdf/dlhb-sp.pdf"},"exam":{"questions":null,"pass":null,"passPercent":null,"spanish":null},"permitAge":"14 (instruction permit)","teen":{"supervisedHours":"50 hours, including 10 at night (25 before a restricted license at 15; affidavit of the full 50 before 16). Driver education hours do not count.","holdPermit":"1 year (or until age 17, whichever first)","nightLimit":"Restricted license at 16: may drive alone 5 a.m. to 9 p.m., plus work, school activities and religious services. At 15: only to/from work, to/from school on school days by the most direct route, and religious activities 6 a.m. to 9 p.m.; any time with a licensed adult 21+ in the front seat.","passengerLimit":"Under 16: no non-sibling minor passengers. At 16, first six months: no more than one passenger under 18 who is not immediate family.","phone":"Permit and restricted license holders: no wireless communication device while driving except to report illegal activity or summon medical or emergency help. All drivers: texting ban (K.S.A. 8-15,111)."},"bac":{"adult":"0.08","under21":"0.02 (K.S.A. 8-1567a; first occurrence 30-day suspension)"},"notes":["Permit: supervising licensed adult at least 21 in the front seat; no one else in the front seat (KDOR GDL page).","Knowledge test: commercial sites say 25 questions, 20 correct (80 percent); not confirmed on an official page, so exam fields are null. Spanish test availability not confirmed.","Restricted license at 15 requires an approved driver education course. If the 50-hour affidavit is not provided, restrictions continue until 17 (KDOR FAQ).","Speed (K.S.A. 8-1558): 75 mph on designated, posted separated multilane highways; 55 on county or township highways; 65 on other highways.","Stop for a stopped school bus, church bus or day care bus loading children; opposing traffic on a divided highway need not stop (handbook; K.S.A. 8-1556).","Seat belts: primary enforcement for driver and front-seat passenger since June 2010 (KHP).","Move over: SB 8, in effect July 1, 2025, extends the law to any stationary vehicle showing hazard warning lights; change lanes if possible, otherwise slow down (news sources, statute text not read).","Spanish handbook URL found in search results (dlhb-sp.pdf, 'Manual de conducción de Kansas'); not opened."],"sources":["https://www.ksrevenue.gov/dovgdl.html","https://www.ksrevenue.gov/dovteenfaq.html","https://ksrevisor.gov/statutes/chapters/ch08/008_002_0101.html","https://www.ksrevenue.gov/pdf/dlhb.pdf","https://www.ksrevenue.gov/pdf/dlhb-sp.pdf","https://www.ksrevenue.gov/courts/downloads/GDLComparisonChart.pdf","https://www.ksrevisor.gov/statutes/chapters/ch08/008_015_0058.html","https://www.ksrevisor.gov/statutes/chapters/ch08/008_015_0056.html","https://www.ksrevisor.gov/statutes/chapters/ch08/008_015_0067a.html","https://kansashighwaypatrol.gov/about-us/facts-faqs/seat-belts-child-safety-seats/","https://www.kctv5.com/2025/03/24/bill-signed-expands-move-over-protections-all-vehicles-kansas-drivers","https://driving-tests.org/kansas/dmv-written-test"],"checked":"2026-10-08","verified":false}
+{
+  "code": "KS",
+  "name": "Kansas",
+  "agency": "Kansas Department of Revenue, Division of Vehicles",
+  "handbook": {
+    "en": "https://www.ksrevenue.gov/pdf/dlhb.pdf",
+    "es": "https://www.ksrevenue.gov/pdf/dlhb-sp.pdf"
+  },
+  "exam": {
+    "questions": 25,
+    "pass": 20,
+    "passPercent": 80,
+    "spanish": true,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "englishOnly": false
+  },
+  "permitAge": "14 (Class C instruction permit; handbook p. 9, 12)",
+  "teen": {
+    "supervisedHours": "50 hours, including 10 at night, with a licensed adult 21+ (25 before a restricted license at 15; affidavit of the full 50 before 16). Driver education behind-the-wheel time counts if the instructor is 21+; observation time does not (KDOR teen FAQ).",
+    "holdPermit": "1 year before a restricted license (DE-99 driver-ed permit time does not count); under 17, 1 year or until 17, whichever comes first, before the driving test (handbook p. 12, 94)",
+    "nightLimit": "Restricted license at 16 (first 6 months): may drive 5 a.m. to 9 p.m., plus work, school and school activities, religious activities, or any time with a licensed adult in the front seat. At 15: only work, home-school by the most direct route on school days, religious activities (6 a.m. to 9 p.m. per K.S.A. 8-2,101), or any time with a licensed adult beside the driver (handbook p. 12-13).",
+    "passengerLimit": "Under 16: no non-sibling minor passengers. At 16, first six months: no more than one passenger under 18 who is not immediate family (handbook p. 12-13; K.S.A. 8-2,101(d)).",
+    "phone": "Permit and restricted license holders: no wireless communication device while driving except to report illegal activity or summon emergency help (handbook p. 12-13). All drivers: no writing, sending or reading texts/email while driving (K.S.A. 8-15,111; handbook p. 19 cites 8-1598)."
+  },
+  "bac": {
+    "adult": "0.08 (handbook p. 23)",
+    "under21": "0.02 (handbook p. 23; K.S.A. 8-1567a: first occurrence .02-.08 is a 30-day suspension, second 1 year)"
+  },
+  "notes": [
+    "Handbook: Kansas Driving Handbook, Non-Commercial Driver's Manual, AAMVA 09 Model Test Version, 'Revised February 2022' (PDF built 2023-02-21), read 2026-10-09. Printed page numbers equal PDF page numbers.",
+    "Spanish handbook (dlhb-sp.pdf) exists but is an older edition (Rev. Feb 2019).",
+    "Knowledge test: 25 multiple-choice questions, 80% to pass (20 of 25), untimed; 4 attempts, then wait 6 months (handbook p. 13-14, 94). May be taken at a full-service office or online at ks.knowtodrive.com.",
+    "Test languages: the official KDOR online test (KnowToDrive, linked from the handbook) offers English and Spanish with audio. The handbook does not list languages for the in-office test.",
+    "Permit: licensed adult at least 21 with one year of driving experience in the front seat; no one else in the front seat (handbook p. 12).",
+    "Restricted license at 15 requires an approved driver education course (not internet courses). If the 50-hour affidavit is not provided, restrictions continue until 17 (KDOR teen FAQ; K.S.A. 8-2,101(h)).",
+    "Speed (handbook p. 62): 75 mph on separated multilane highways where designated and posted; 65 on state or federal highways; 55 on county or township highways.",
+    "Stop for a stopped school bus, church bus or day care bus loading children; opposing traffic on a divided highway need not stop (handbook p. 18; K.S.A. 8-1556).",
+    "Seat belts: illegal to drive or ride in front without one (handbook p. 27); primary enforcement since June 2010 (KHP).",
+    "Move over: 2025 SB 8 (signed; effective on statute-book publication, July 1, 2025) extends move-over to any stopped, standing or parked vehicle showing hazard lamps, flares or caution signals: change lanes away if possible and safe, otherwise slow down. Enrolled bill read on kslegislature.org. The 2022 handbook (p. 18, 85) covers only emergency and tow vehicles."
+  ],
+  "sources": [
+    "https://www.ksrevenue.gov/dovgdl.html",
+    "https://www.ksrevenue.gov/dovteenfaq.html",
+    "https://ksrevisor.gov/statutes/chapters/ch08/008_002_0101.html",
+    "https://www.ksrevenue.gov/pdf/dlhb.pdf",
+    "https://www.ksrevenue.gov/pdf/dlhb-sp.pdf",
+    "https://www.ksrevenue.gov/courts/downloads/GDLComparisonChart.pdf",
+    "https://www.ksrevisor.gov/statutes/chapters/ch08/008_015_0058.html",
+    "https://www.ksrevisor.gov/statutes/chapters/ch08/008_015_0056.html",
+    "https://www.ksrevisor.gov/statutes/chapters/ch08/008_015_0067a.html",
+    "https://kansashighwaypatrol.gov/about-us/facts-faqs/seat-belts-child-safety-seats/",
+    "https://www.kslegislature.org/li/b2025_26/measures/sb8/",
+    "https://ks.knowtodrive.com/"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}

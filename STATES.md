@@ -25,7 +25,7 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | ID | Idaho | 21 | 21 | 40 q, pass 34 (85%) | [link](https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf) | [link](https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf) | yes |
 | IL | Illinois | 23 | 0 | 35 q, pass 28 (80%) | [link](https://www.ilsos.gov/publications/pdf_publications/dsd_a112.pdf) | — | no |
 | IN | Indiana | 22 | 22 | ? q, pass ? (80%) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual-spanish.pdf) | yes |
-| KS | Kansas | 23 | 0 | not found | [link](https://www.ksrevenue.gov/pdf/dlhb.pdf) | [link](https://www.ksrevenue.gov/pdf/dlhb-sp.pdf) | no |
+| KS | Kansas | 23 | 23 | 25 q, pass 20 (80%) | [link](https://www.ksrevenue.gov/pdf/dlhb.pdf) | [link](https://www.ksrevenue.gov/pdf/dlhb-sp.pdf) | yes |
 | KY | Kentucky | 21 | 21 | ? q, pass ? (80%) | [link](https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf) | [link](https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2023/11/Kentucky-Driver-Manual09-08-2023_SPANISH.pdf) | yes |
 | LA | Louisiana | 20 | 0 | not found | — | — | no |
 | MA | Massachusetts | 31 | 31 | 25 q, pass 18 (72%) | [link](https://www.mass.gov/doc/english-drivers-manual/download) | [link](https://www.mass.gov/files/documents/2019/09/02/Drivers_Manual_Spanish_0119_rev0819.pdf) | yes |
