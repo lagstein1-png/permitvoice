@@ -34,6 +34,7 @@ Every push to `main` deploys.
 
 ## Status
 
+- 2026-10-09: 48 more states and DC were checked against their official handbooks (and state law where the handbook is silent or out of date); 1036 of 1116 state questions are now served. Arizona and New Hampshire are still blocked: their sites refuse downloads. Details per state in `state-info/<xx>.json`, summary in `STATES.md`.
 - Written permission was requested from FLHSMV on 2026-10-07. No answer yet.
 - 2026-10-09: the owner tested https://permitvoice.pages.dev on a phone in Chrome: site loads, Find my state asks for location, install to home screen works, read-aloud and word highlighting work.
 - 2026-10-08: every question was checked against the Florida Driver License Handbook (English, rev. 08/2023), from the text the owner supplied. Each question carries the printed page (`page`), or `null` when the handbook does not cover the fact; the app then says the rule is based on Florida law.
