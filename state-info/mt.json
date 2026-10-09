@@ -1,1 +1,68 @@
-{"code":"MT","name":"Montana","agency":"Montana Department of Justice, Motor Vehicle Division (MVD), Driver License Bureau","handbook":{"en":"https://opi.mt.gov/Portals/182/Page%20Files/Driver%20Education/Curriculum/Resources%20and%20Extras/Montana-Driver-Manual.pdf","es":null},"exam":{"questions":33,"pass":27,"passPercent":null,"spanish":null},"permitAge":"14 1/2 if enrolled in an approved traffic education course (secondary sources); otherwise sources conflict between 15 and 16","teen":{"supervisedHours":"50 hours, including 10 at night (75 with 15 at night if the online parent-taught course was used, per IIHS)","holdPermit":"6 months","nightLimit":"First-year restricted license: no driving 11 p.m. to 5 a.m. unless an exception applies (MCA 61-5-133)","passengerLimit":"First 6 months: no more than one passenger under 18 unless supervised by a licensed driver 18 or older; secondary sources say up to three in the second 6 months; restrictions last 1 year or until 18","phone":"No statewide hand-held or texting ban (SB 359 failed in 2025); local bans in some cities and counties"},"bac":{"adult":"0.08","under21":"0.02"},"notes":["Exam figures (33 questions, 27 to pass) are from secondary practice-test sites only; not confirmed by MVD. Sites disagree on 80% vs 82%, so passPercent left null.","Official manual found hosted by the Office of Public Instruction (opi.mt.gov), referring to dojmt.gov/driving; no Spanish manual found. Spanish availability of the official test unknown.","Learner supervision under 18: parent/guardian, or with permission a licensed driver 18 or older (MCA 61-5-106).","Learner license valid one year (Montana Driver Manual).","Restricted license: every occupant belted, no more occupants than belts (MCA 61-5-133).","Speed (MCA 61-8-303, 2023): 80 mph rural interstate, 65 mph interstate in urbanized areas of 50,000+, 70 day / 65 night other highways, 25 mph urban district; may exceed by 10 mph while passing in a passing zone on two-lane roads. Daytime = 1/2 hour before sunrise to 1/2 hour after sunset.","Move over (HB 470, 2023, repealed 61-8-346): slow down and move to non-adjacent lane; reported figures (20 mph below on interstate, half the limit elsewhere) conflict, so questions stay general.","School bus: with a raised median only same-direction traffic stops (Montana Highway Patrol via STN); undivided roads all lanes stop.","Seat belts secondary for adults; primary for child under 6 and under 60 lb.","Insurance minimum 25/50/20 (secondary sources).","Open range (MCA 81-4-203): unfenced land including public highways; MSU Extension advises stopping and waiting for livestock."],"sources":["https://opi.mt.gov/Portals/182/Page%20Files/Driver%20Education/Curriculum/Resources%20and%20Extras/Montana-Driver-Manual.pdf","https://opi.mt.gov/Portals/182/Page%20Files/Driver%20Education/TE%20Resources/MT-GDL-Factsheet-Log-2024.pdf","https://www.dmvroads.com/states/montana/learners-permit/","https://practicetestgeeks.com/mt-dmv-montana-department-of-motor-vehicle/exam","https://driving-tests.org/montana/montana-permit-practice-test-2","https://archive.legmt.gov/bills/MCA/title_0610/chapter_0050/part_0010/section_0060/0610-0050-0010-0060.html","https://mca.legmt.gov/bills/2013/mca/61/5/61-5-133.htm","https://www.drivinglaws.org/teen/montanat.php","https://www.iihs.org/research-areas/teenagers/graduated-licensing-laws-table","https://archive.legmt.gov/bills/MCA/title_0610/chapter_0080/part_0030/section_0030/0610-0080-0030-0030.html","https://legalclarity.org/montana-dui-laws-alcohol-limits-and-driver-penalties/","https://www.gallatinmt.gov/node/1005","https://projects.montanafreepress.org/capitol-tracker-2025/bills/sb-359/","https://dailymontanan.com/2025/03/03/distracted-driving-bill-garners-senate-discussion-moves-forward/","https://930kmpt.com/traffic-safety-series-part-two-a-primer-on-montanas-seat-belt-laws/","https://archive.legmt.gov/bills/2023/BillHtml/HB0470.htm","https://stnonline.com/news/montana-video-shows-when-how-motorists-should-stop-for-buses/","https://www.carinsurance.com/state/state-minimum-car-insurance-in-montana/","https://codes.findlaw.com/mt/title-81-livestock/mt-st-81-4-203/","https://apps.msuextension.org/magazine/print.html?id=5457"],"checked":"2026-10-08","verified":false}
+{
+  "code": "MT",
+  "name": "Montana",
+  "agency": "Montana Department of Justice, Motor Vehicle Division (MVD), Driver License Bureau",
+  "handbook": {
+    "en": "https://opi.mt.gov/Portals/182/Page%20Files/Driver%20Education/Curriculum/Resources%20and%20Extras/Montana-Driver-Manual.pdf",
+    "es": null
+  },
+  "exam": {
+    "questions": 33,
+    "pass": 27,
+    "passPercent": null,
+    "spanish": null
+  },
+  "permitAge": "14 1/2 if participating in or finished a state-approved traffic education course; otherwise 16, or 15 after finishing approved traffic education (Montana Driver Manual pp. 2, 8; MCA 61-5-106)",
+  "teen": {
+    "supervisedHours": "50 hours, including 10 at night (Driver Manual p. 7)",
+    "holdPermit": "6 consecutive months for drivers under 18 (p. 8); learner license valid 1 year",
+    "nightLimit": "First-year restricted license: no driving 11 p.m. to 5 a.m., with exceptions such as emergencies, farm work, school, church, work and parent-authorized trips (p. 8; MCA 61-5-133)",
+    "passengerLimit": "First 6 months: at most one unrelated passenger under 18 unless supervised by a licensed adult; second 6 months: at most three; restrictions end after 1 year or at 18, whichever is first (p. 8; MCA 61-5-133)",
+    "phone": "No statewide hand-held or texting ban; the manual says most Montana cities have their own bans (p. 49). SB 359 (2025) failed in the Senate."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "0.02"
+  },
+  "notes": [
+    "Official manual used: Montana Driver Manual, MVD (Department of Justice), cover says 'Revised October 2018'; PDF hosted by the Office of Public Instruction (opi.mt.gov), PDF last modified June 2021. dojmt.gov returns a Cloudflare bot-check page, so the MVD site itself could not be read. No Spanish manual found.",
+    "Exam figures (33 questions, 27 to pass) are from secondary practice-test sites only; the manual does not give the test size or pass mark and dojmt.gov could not be read. Test languages unknown.",
+    "The 2018 manual is out of date on: insurance (says 25/50/10; MCA 61-6-103 in the 2025 code says 25/50/20); move-over (61-8-346 repealed 2023, replaced by 61-8-388: slow down by set amounts and move to a non-adjacent lane); interstate limit (table shows 75/80; MCA 61-8-303 says 80 outside urbanized areas of 50,000+, 65 inside).",
+    "Learner under 18: supervised by a parent/guardian or, with permission, a licensed driver 18 or older (MCA 61-5-106); everyone belted (manual p. 7).",
+    "Restricted license: every occupant belted, no more occupants than belts (MCA 61-5-133). Violations: 20-60 hours community service first offense, 6-month suspension second (p. 8).",
+    "Speed (MCA 61-8-303, 2025 code): 80 mph rural interstate, 65 mph interstate in urbanized areas of 50,000+, 75/70 on four-lane national highways, 70 day / 65 night other highways, 25 mph urban district; +10 mph only to pass on a two-lane road in a passing zone. Daytime = 1/2 hour before sunrise to 1/2 hour after sunset. Manual p. 38 table: two-lane 70/65, urban interstates (Billings, Great Falls, Missoula) 65.",
+    "School bus: stop at least 30 feet away from either direction for flashing red lights; no stop needed for a bus on a separate roadway (p. 40; MCA 61-8-351(7)).",
+    "Seat belts: driver responsible for all occupants, $20 fine (p. 19); adult enforcement secondary, primary for child under 6 and under 60 lb (MCA 61-13-103(3)).",
+    "Open range: 'Range Cattle' sign means no fences, cattle and horses may be on the road (p. 25); stop for animals crossing your path (p. 67).",
+    "BAC 0.08 adult, 0.02 under 21 (p. 72)."
+  ],
+  "sources": [
+    "https://opi.mt.gov/Portals/182/Page%20Files/Driver%20Education/Curriculum/Resources%20and%20Extras/Montana-Driver-Manual.pdf",
+    "https://opi.mt.gov/Portals/182/Page%20Files/Driver%20Education/TE%20Resources/MT-GDL-Factsheet-Log-2024.pdf",
+    "https://www.dmvroads.com/states/montana/learners-permit/",
+    "https://practicetestgeeks.com/mt-dmv-montana-department-of-motor-vehicle/exam",
+    "https://driving-tests.org/montana/montana-permit-practice-test-2",
+    "https://archive.legmt.gov/bills/MCA/title_0610/chapter_0050/part_0010/section_0060/0610-0050-0010-0060.html",
+    "https://mca.legmt.gov/bills/2013/mca/61/5/61-5-133.htm",
+    "https://www.drivinglaws.org/teen/montanat.php",
+    "https://www.iihs.org/research-areas/teenagers/graduated-licensing-laws-table",
+    "https://archive.legmt.gov/bills/MCA/title_0610/chapter_0080/part_0030/section_0030/0610-0080-0030-0030.html",
+    "https://legalclarity.org/montana-dui-laws-alcohol-limits-and-driver-penalties/",
+    "https://www.gallatinmt.gov/node/1005",
+    "https://projects.montanafreepress.org/capitol-tracker-2025/bills/sb-359/",
+    "https://dailymontanan.com/2025/03/03/distracted-driving-bill-garners-senate-discussion-moves-forward/",
+    "https://930kmpt.com/traffic-safety-series-part-two-a-primer-on-montanas-seat-belt-laws/",
+    "https://archive.legmt.gov/bills/2023/BillHtml/HB0470.htm",
+    "https://stnonline.com/news/montana-video-shows-when-how-motorists-should-stop-for-buses/",
+    "https://www.carinsurance.com/state/state-minimum-car-insurance-in-montana/",
+    "https://codes.findlaw.com/mt/title-81-livestock/mt-st-81-4-203/",
+    "https://apps.msuextension.org/magazine/print.html?id=5457",
+    "https://archive.legmt.gov/bills/MCA/title_0610/chapter_0080/part_0030/section_0880/0610-0080-0030-0880.html",
+    "https://archive.legmt.gov/bills/MCA/title_0610/chapter_0080/part_0030/section_0510/0610-0080-0030-0510.html",
+    "https://archive.legmt.gov/bills/MCA/title_0610/chapter_0060/part_0010/section_0030/0610-0060-0010-0030.html",
+    "https://archive.legmt.gov/bills/MCA/title_0610/chapter_0130/part_0010/section_0030/0610-0130-0010-0030.html",
+    "https://archive.legmt.gov/bills/MCA/title_0610/chapter_0050/part_0010/section_0330/0610-0050-0010-0330.html"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
