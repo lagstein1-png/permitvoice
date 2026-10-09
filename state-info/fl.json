@@ -1,0 +1,28 @@
+{
+  "code": "FL",
+  "name": "Florida",
+  "agency": "Florida Department of Highway Safety and Motor Vehicles (FLHSMV)",
+  "handbook": {
+    "en": "https://www.flhsmv.gov/pdf/handbooks/englishdriverhandbook.pdf",
+    "es": "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"
+  },
+  "exam": { "questions": 50, "pass": 40, "passPercent": 80, "spanish": false },
+  "englishOnly": true,
+  "permitAge": "15",
+  "teen": {
+    "supervisedHours": "50 hours, 10 at night",
+    "holdPermit": "12 months or until age 18",
+    "nightLimit": "Learner: daylight only for 3 months, then until 10 pm. Licensed at 16: not 11 pm–6 am; at 17: not 1 am–5 am (unless to/from work or with a licensed driver 21+).",
+    "passengerLimit": null,
+    "phone": "Texting while driving is illegal; no handheld device in school zones, school crossings or work zones."
+  },
+  "bac": { "adult": "0.08", "under21": "0.02" },
+  "notes": [
+    "Checked against the Official Florida Driver License Handbook, English, rev. 08/2023 (text supplied by the owner, 2026-10-08). Questions carry printed page numbers.",
+    "Knowledge test given only in English since 2026 (FLHSMV, per news reports and county tax collector pages, 2026-10-09). The handbook states 50 questions; the 40-to-pass mark is not in the handbook.",
+    "Spanish handbook link supplied by the owner on 2026-10-08."
+  ],
+  "sources": ["https://www.flhsmv.gov/pdf/handbooks/englishdriverhandbook.pdf", "https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf"],
+  "checked": "2026-10-08",
+  "verified": true
+}
