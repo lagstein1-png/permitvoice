@@ -34,7 +34,7 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | MI | Michigan | 28 | 28 | not found | [link](https://www.michigan.gov/sos/-/media/Project/Websites/sos/Resources/Forms-and-publications/WEDMK/WEDMK.pdf) | — | yes |
 | MN | Minnesota | 26 | 26 | ? q, pass ? (80%) | [link](https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-english.pdf) | [link](https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-spanish.pdf) | yes |
 | MO | Missouri | 25 | 25 | 25 q, pass 20 (80%) | [link](https://dor.mo.gov/forms/Driver%20Guide.pdf) | — | yes |
-| MS | Mississippi | 22 | 0 | 30 q, pass 24 (80%) | — | — | no |
+| MS | Mississippi | 22 | 13 | 30 q, pass 24 (80%) | [link](https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf) | — | yes |
 | MT | Montana | 26 | 0 | 33 q, pass 27 | [link](https://opi.mt.gov/Portals/182/Page%20Files/Driver%20Education/Curriculum/Resources%20and%20Extras/Montana-Driver-Manual.pdf) | — | no |
 | NC | North Carolina | 20 | 0 | not found | [link](https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf) | — | no |
 | ND | North Dakota | 20 | 0 | 25 q, pass 20 (80%) | [link](https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf) | — | no |
