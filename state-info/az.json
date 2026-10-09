@@ -10,19 +10,21 @@
     "questions": 30,
     "pass": 24,
     "passPercent": 80,
-    "spanish": null
+    "spanish": true,
+    "languages": "English, Spanish, Mandarin and others; touchscreen with audio assist (azdot.gov/node/11686, checked 2026-10-09)",
+    "englishOnly": false
   },
-  "permitAge": "15 years and 6 months (Class D or G instruction permit, ARS 28-3154). A restricted instruction permit is available at 15 for students in an ADOT-approved driver training program (ARS 28-3153, 28-3155).",
+  "permitAge": "15 years and 6 months for a graduated (Class G) instruction permit; 18 for an operator (Class D) permit; valid 12 months (manual p. 10). A restricted instruction permit for students in an approved driver training program is in ARS 28-3153/28-3155, not in the manual.",
   "teen": {
-    "supervisedHours": "30 hours, including 10 at night, certified by a parent or guardian; or completion of an ADOT-approved driver education program; or 20 hours (6 at night) plus a driver education course from a certified defensive driving school (ARS 28-3174(A)(3))",
-    "holdPermit": "6 months, for applicants under 18 (ARS 28-3174(A)(2)). The permit is valid for 12 months (ARS 28-3154(B)).",
-    "nightLimit": "First 6 months of the Class G license: no driving midnight to 5 a.m. unless a licensed parent or legal guardian sits beside the driver, or when driving directly to or from a sanctioned school activity, work, a sanctioned religious activity or a family emergency (ARS 28-3174(D)). Ends at 18.",
-    "passengerLimit": "First 6 months: no more than one passenger under 18, except siblings or when a licensed parent or legal guardian sits beside the driver (ARS 28-3174(E)). Ends at 18.",
-    "phone": "Instruction permit holders may not use a wireless communication device while driving except in an emergency where stopping is impossible or unsafe (ARS 28-3154(C)). First 6 months of a Class G license: same, except audible turn-by-turn navigation not adjusted by hand (ARS 28-3174(F)). All drivers: may not hold or support a phone; hands-free only (ARS 28-914)."
+    "supervisedHours": "30 hours, at least 10 at night, certified in writing by a parent or guardian; or 20 hours (6 at night) after Traffic Survival School or a Defensive Driving course; or an MVD-approved driver education program instead (manual p. 11)",
+    "holdPermit": "6 months; the permit must still be valid when applying for the graduated license (manual p. 11). Class G from 16 to under 18.",
+    "nightLimit": "First 6 months of the graduated license: no driving midnight to 5 a.m. unless a licensed parent or legal guardian is in the front passenger seat, or driving directly to or from a sanctioned school activity, work, a sanctioned religious activity or a family emergency (manual p. 11).",
+    "passengerLimit": "First 6 months: no more than one passenger under 18, unless the passengers are siblings or a licensed parent or legal guardian is in the front passenger seat (manual p. 11).",
+    "phone": "All drivers: may not hold or support a wireless device; no texting or video; hands-free and voice-to-text allowed; handheld only to report an emergency (manual p. 20). Permit holders and the first 6 months of a Class G license: no wireless device at all except in an emergency (ARS 28-3154(C), 28-3174(F); not in the manual)."
   },
   "bac": {
-    "adult": "0.08",
-    "under21": "any amount (zero tolerance)"
+    "adult": "0.08 (manual p. 52)",
+    "under21": "any amount (zero tolerance; manual p. 47, p. 52)"
   },
   "notes": [
     "Knowledge test stops automatically once 80 percent are correct or the maximum misses are reached; retake on the next business day (ADOT).",
@@ -31,16 +33,21 @@
     "Extreme DUI at 0.15 BAC or more.",
     "8 or more points in 12 months: Traffic Survival School or suspension (ADOT). TSS is required after DUI, wrong-way, red-light or stop-sign, or aggressive driving convictions.",
     "School bus rule on divided highways: Arizona statute text (ARS 28-857) could not be retrieved; no question written.",
-    "Official manual PDF URL could not be confirmed: azdot.gov and azleg.gov were unreachable from this environment and search returned only mirror copies. Secondary sources say an official Spanish manual exists.",
     "Spanish knowledge test: secondary sources say English and Spanish at most offices; not confirmed on azdot.gov.",
-    "Official handbook PDF link supplied by the owner on 2026-10-09 (form 99-0117). Not downloadable from the build environment.",
     "Permit supervisor must hold a class A, B, C or D license, be at least 21, and sit beside the permittee (ARS 28-3154(B)(2)).",
     "Minimum liability insurance 25/50/15 (ARS 28-4009, as amended for policies from July 1, 2020).",
     "Under 21: any alcohol in the body while driving is illegal (ARS 4-244(34)). Extreme DUI 0.15 to under 0.20; 0.20 or more is a higher tier (ARS 28-1382).",
-    "2026-10-09 check: the official manual (form 99-0117, apps.azdot.gov) and every azdot.gov page returned a Cloudflare browser challenge (HTTP 403) to curl and to WebFetch, and web.archive.org was unreachable. The handbook was NOT read; edition date unknown. Teen, permit, speed, move-over, phone, DUI and insurance facts were checked against ARS text on azleg.gov instead. Test size (30) and pass mark (80%) and the 8-points/TSS rule remain from earlier azdot.gov notes, unconfirmed today.",
-    "Official Spanish manual exists as form 99-0137 (listed at https://azdot.gov/content/driver-lic-manualcustomer-service-guide-spanish); URL not verified."
+    "Official Spanish manual exists as form 99-0137 (listed at https://azdot.gov/content/driver-lic-manualcustomer-service-guide-spanish); URL not verified.",
+    "Handbook checked 2026-10-09: Arizona Driver License Manual and Customer Service Guide, form 99-0117 R04/2022 (Revised February 2022), the owner-supplied PDF. Printed page = PDF page. Questions carry printed page numbers.",
+    "The manual does NOT state the knowledge test size, pass mark, retake wait, or test languages. 30 questions / 80% (24) and the next-business-day retake come from earlier azdot.gov notes and stay unconfirmed (az-009, az-010, az-011 remain medium). Test languages unknown; spanish and languages left null. Not English-only as far as known; the manual only says road-test directions are given in English (p. 8).",
+    "Manual: speeds when not posted 15 mph approaching a school crosswalk, 25 business/residential, 55 open highways or city freeways, 65 designated open highways, 75 rural freeways (p. 32). School crossing zone 15 mph, no passing (p. 34).",
+    "Manual: Move Over (p. 31) covers any vehicle with flashing lights pulled to the side, including private vehicles; move over one lane or slow down with caution.",
+    "Manual: 8+ points in 12 months = Traffic Survival School or suspension (p. 49); red light conviction = mandatory TSS (p. 30, 50); under-18 graduated driver: 1st conviction TSS, 2nd 3-month, 3rd 6-month suspension (p. 11-12).",
+    "Manual: school bus - stop in both directions except opposite direction on a roadway divided by a physical barrier; striping is not a divider (p. 31).",
+    "Manual: insurance minimum 25/50/15 (p. 8). Extreme DUI 0.15+, harsher at 0.20+ (p. 52)."
   ],
   "sources": [
+    "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "https://azdot.gov/taxonomy/term/8319",
     "https://azdot.gov/mvd/services/driver-services/teen-drivers/permit-and-license-requirements",
     "https://ghsa.org/node/2006",
@@ -69,6 +76,6 @@
     "https://www.azleg.gov/ars/28/04009.htm",
     "https://www.azleg.gov/ars/4/00244.htm"
   ],
-  "checked": "2026-10-08",
-  "verified": false
+  "checked": "2026-10-09",
+  "verified": true
 }

@@ -3,9 +3,9 @@
     "id": "az-001",
     "scope": "AZ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/03154.htm",
+    "conf": "high",
+    "page": 10,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -37,33 +37,33 @@
     "id": "az-002",
     "scope": "AZ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/03174.htm",
+    "conf": "high",
+    "page": 11,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In Arizona, a teen without driver education must log supervised practice. How many hours in total?",
+      "q": "In Arizona, a teen who takes no driver education and no driving safety course must have supervised practice. How many hours in total?",
       "o": [
-        "20 hours",
+        "10 hours",
         "30 hours",
         "40 hours",
         "50 hours"
       ],
       "h1": "It is fewer hours than many other states ask for.",
-      "h2": "An Arizona teen who does not finish an approved driver education program must log at least 30 hours of supervised driving before getting a license.",
+      "h2": "An Arizona teen who skips approved driver education must have a parent or guardian certify at least 30 hours of supervised driving, 10 of them at night, before getting a graduated license.",
       "p": "Right. Arizona asks for 30 supervised hours."
     },
     "es": {
-      "q": "En Arizona, un adolescente sin curso de manejo debe registrar práctica supervisada. ¿Cuántas horas en total?",
+      "q": "En Arizona, un adolescente que no toma ningún curso de manejo ni de seguridad vial debe tener práctica supervisada. ¿Cuántas horas en total?",
       "o": [
-        "20 horas",
+        "10 horas",
         "30 horas",
         "40 horas",
         "50 horas"
       ],
       "h1": "Son menos horas que en muchos otros estados.",
-      "h2": "Un adolescente en Arizona que no termina un programa aprobado de educación vial debe registrar por lo menos 30 horas de manejo supervisado antes de obtener la licencia.",
+      "h2": "Un adolescente en Arizona que no toma un curso aprobado de educación vial necesita que su padre, madre o tutor certifique por lo menos 30 horas de manejo supervisado, 10 de ellas de noche, antes de obtener la licencia graduada.",
       "p": "Correcto. Arizona pide 30 horas supervisadas."
     }
   },
@@ -71,13 +71,13 @@
     "id": "az-003",
     "scope": "AZ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/03174.htm",
+    "conf": "high",
+    "page": 11,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 0,
     "en": {
-      "q": "In Arizona, how many of the supervised practice hours must be done at night?",
+      "q": "In Arizona, how many of the 30 supervised practice hours must be done at night?",
       "o": [
         "At least 10 hours",
         "At least 5 hours",
@@ -89,7 +89,7 @@
       "p": "Right. At least 10 of the hours must be at night."
     },
     "es": {
-      "q": "En Arizona, ¿cuántas de las horas de práctica supervisada deben ser de noche?",
+      "q": "En Arizona, ¿cuántas de las 30 horas de práctica supervisada deben ser de noche?",
       "o": [
         "Por lo menos 10 horas",
         "Por lo menos 5 horas",
@@ -105,13 +105,13 @@
     "id": "az-004",
     "scope": "AZ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/03174.htm",
+    "conf": "high",
+    "page": 11,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Arizona, how long must a teen hold the instruction permit before taking the road test?",
+      "q": "In Arizona, how long must a teen hold the instruction permit before getting a graduated license?",
       "o": [
         "1 month",
         "3 months",
@@ -119,11 +119,11 @@
         "6 months"
       ],
       "h1": "It is half a year.",
-      "h2": "An Arizona teen must hold the instruction permit for at least 6 months before the road test, so there is time to practice.",
+      "h2": "An Arizona teen must hold the instruction permit for at least 6 months before getting a graduated license, so there is time to practice.",
       "p": "Right. Hold the permit for at least 6 months."
     },
     "es": {
-      "q": "En Arizona, ¿cuánto tiempo debe tener un adolescente el permiso de aprendizaje antes del examen de manejo?",
+      "q": "En Arizona, ¿cuánto tiempo debe tener un adolescente el permiso de aprendizaje antes de obtener la licencia graduada?",
       "o": [
         "1 mes",
         "3 meses",
@@ -131,7 +131,7 @@
         "6 meses"
       ],
       "h1": "Es medio año.",
-      "h2": "Un adolescente en Arizona debe tener el permiso de aprendizaje por lo menos 6 meses antes del examen práctico, para tener tiempo de practicar.",
+      "h2": "Un adolescente en Arizona debe tener el permiso de aprendizaje por lo menos 6 meses antes de obtener la licencia graduada, para tener tiempo de practicar.",
       "p": "Correcto. Debe tener el permiso por lo menos 6 meses."
     }
   },
@@ -139,9 +139,9 @@
     "id": "az-005",
     "scope": "AZ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/03154.htm",
+    "conf": "high",
+    "page": 10,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -173,9 +173,9 @@
     "id": "az-006",
     "scope": "AZ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/03174.htm",
+    "conf": "high",
+    "page": 11,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -207,9 +207,9 @@
     "id": "az-007",
     "scope": "AZ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/03174.htm",
+    "conf": "high",
+    "page": 11,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -241,9 +241,9 @@
     "id": "az-008",
     "scope": "AZ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/03174.htm",
+    "conf": "high",
+    "page": 11,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -275,9 +275,9 @@
     "id": "az-009",
     "scope": "AZ",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://azdot.gov/taxonomy/term/8319",
+    "src": "https://azdot.gov/node/11686",
     "sign": null,
     "c": 1,
     "en": {
@@ -309,9 +309,9 @@
     "id": "az-010",
     "scope": "AZ",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://azdot.gov/taxonomy/term/8319",
+    "src": "https://azdot.gov/node/11686",
     "sign": null,
     "c": 2,
     "en": {
@@ -377,7 +377,7 @@
     "id": "az-012",
     "scope": "AZ",
     "cat": "safe-driving",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
     "src": "https://www.azleg.gov/ars/28/03154.htm",
     "sign": null,
@@ -411,9 +411,9 @@
     "id": "az-013",
     "scope": "AZ",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/00914.htm",
+    "conf": "high",
+    "page": 20,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -445,9 +445,9 @@
     "id": "az-014",
     "scope": "AZ",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/00775.htm",
+    "conf": "high",
+    "page": 31,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -479,9 +479,9 @@
     "id": "az-015",
     "scope": "AZ",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/00775.htm",
+    "conf": "high",
+    "page": 31,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -513,9 +513,9 @@
     "id": "az-016",
     "scope": "AZ",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/00775.htm",
+    "conf": "high",
+    "page": 31,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -547,9 +547,9 @@
     "id": "az-017",
     "scope": "AZ",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/00701.htm",
+    "conf": "high",
+    "page": 32,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -581,9 +581,9 @@
     "id": "az-018",
     "scope": "AZ",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/00701.htm",
+    "conf": "high",
+    "page": 32,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -615,9 +615,9 @@
     "id": "az-019",
     "scope": "AZ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://azdot.gov/motor-vehicles/driver-services/driver-improvement/suspension-and-traffic-survival-school",
+    "conf": "high",
+    "page": 49,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -649,9 +649,9 @@
     "id": "az-020",
     "scope": "AZ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://azdot.gov/mvd/services/dui-suspension/traffic-survival-school",
+    "conf": "high",
+    "page": 30,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -663,7 +663,7 @@
         "A broken taillight"
       ],
       "h1": "It is a dangerous moving violation at an intersection.",
-      "h2": "Arizona requires Traffic Survival School after a conviction for running a red light or stop sign, as well as for DUI, wrong-way and aggressive driving.",
+      "h2": "In Arizona, a conviction for running a red light, or a flashing red light, always means you must complete Traffic Survival School, on top of paying the fine.",
       "p": "Right. Running a red light means Traffic Survival School."
     },
     "es": {
@@ -675,7 +675,7 @@
         "Una luz trasera rota"
       ],
       "h1": "Es una infracción peligrosa en una intersección.",
-      "h2": "Arizona exige la Escuela de Supervivencia de Tráfico después de una condena por pasarse un semáforo en rojo o una señal de alto, y también por DUI, manejar en sentido contrario o manejo agresivo.",
+      "h2": "En Arizona, una condena por pasarse un semáforo en rojo, o una luz roja intermitente, siempre le obliga a completar la Escuela de Supervivencia de Tráfico, además de pagar la multa.",
       "p": "Correcto. Pasarse un rojo lleva a la escuela de tráfico."
     }
   },
@@ -683,9 +683,9 @@
     "id": "az-021",
     "scope": "AZ",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/01382.htm",
+    "conf": "high",
+    "page": 52,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -717,9 +717,9 @@
     "id": "az-022",
     "scope": "AZ",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/4/00244.htm",
+    "conf": "high",
+    "page": 47,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -751,9 +751,9 @@
     "id": "az-023",
     "scope": "AZ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/04009.htm",
+    "conf": "high",
+    "page": 8,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -785,9 +785,9 @@
     "id": "az-024",
     "scope": "AZ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.azleg.gov/ars/28/04009.htm",
+    "conf": "high",
+    "page": 8,
+    "src": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf",
     "sign": null,
     "c": 0,
     "en": {

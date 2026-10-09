@@ -21,12 +21,16 @@ srv.listen(0, async () => {
   }
   // 1. Location: Miami → Florida (suggest, confirm)
   let p = await page({ latitude: 25.76, longitude: -80.19 });
-  // Arizona stays "coming soon" until its handbook is checked (ADOT blocks downloads).
-  await p.selectOption('#selState', 'AZ');
-  ok(await p.isVisible('#btnNational'), 'Arizona shows "coming soon" + national practice, not Florida questions');
+  // A state with no checked (served) questions yet shows "coming soon". Picked from the bank, so it keeps working as states are checked.
+  const soon = await p.evaluate(() => { const served = new Set(window.PV_BANK.map(q => q.scope));
+    return [...document.querySelectorAll('#selState option')].map(o => o.value).find(v => /^[A-Z]{2}$/.test(v) && v !== 'US' && !served.has(v)) || null; });
+  const other = soon || 'AZ';
+  await p.selectOption('#selState', other);
+  if (soon) ok(await p.isVisible('#btnNational'), `${soon} (no checked questions yet) shows "coming soon" + national practice, not Florida questions`);
+  else console.log('SKIP every state has checked questions: no "coming soon" state left to test');
   await p.click('#btnGeo'); await p.waitForSelector('#geoDlg[open]');
   ok((await p.textContent('#geoText')).includes('Florida'), 'Miami is detected as Florida, as a question');
-  ok(await p.$eval('#selState', s => s.value) === 'AZ', 'state does not change before the user confirms');
+  ok(await p.$eval('#selState', s => s.value) === other, 'state does not change before the user confirms');
   await p.click('#geoYes');
   ok(await p.$eval('#selState', s => s.value) === 'FL', 'confirming switches to Florida');
   ok(!(await p.evaluate(() => JSON.stringify(localStorage))).includes('25.76'), 'coordinates are not stored');
