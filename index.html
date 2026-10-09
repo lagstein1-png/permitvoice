@@ -191,7 +191,10 @@ const LANGS = [
   { code:'zh', label:'中文',        speech:['zh-CN','cmn-CN','zh-'] },
   { code:'vi', label:'Tiếng Việt', speech:['vi-VN','vi-'] },
   { code:'tl', label:'Tagalog',    speech:['fil-PH','tl-PH','fil-','tl-'] },
-  { code:'ar', label:'العربية',     speech:['ar-SA','ar-EG','ar-'], rtl:true }
+  { code:'ar', label:'العربية',     speech:['ar-SA','ar-EG','ar-'], rtl:true },
+  /* Haitian Creole: Florida only (large Haitian community; the handbook exists in Creole).
+     Phones rarely have a Creole voice, so a French voice is the fallback, with a note. */
+  { code:'ht', label:'Kreyòl ayisyen', speech:['ht-HT','ht-','fr-HT','fr-FR','fr-'], states:['FL'] }
 ];
 (function addInterfaceLanguages(){
   const UI = window.PV_UI || {};
@@ -209,6 +212,8 @@ const LANGS = [
   }
 })();
 const LANG_OK = LANGS.filter(L => T[L.code]);
+/* Languages offered for the chosen state. */
+function langsFor(state){ return LANG_OK.filter(L => !L.states || L.states.includes(state)); }
 /* States whose knowledge test is given only in English. Florida: English only since 2026 (FLHSMV, reported Feb 2026). */
 const EN_ONLY_TEST = { FL: true };
 const STATES = {AL:'Alabama',AK:'Alaska',AZ:'Arizona',AR:'Arkansas',CA:'California',CO:'Colorado',CT:'Connecticut',DE:'Delaware',DC:'District of Columbia',FL:'Florida',GA:'Georgia',HI:'Hawaii',ID:'Idaho',IL:'Illinois',IN:'Indiana',IA:'Iowa',KS:'Kansas',KY:'Kentucky',LA:'Louisiana',ME:'Maine',MD:'Maryland',MA:'Massachusetts',MI:'Michigan',MN:'Minnesota',MS:'Mississippi',MO:'Missouri',MT:'Montana',NE:'Nebraska',NV:'Nevada',NH:'New Hampshire',NJ:'New Jersey',NM:'New Mexico',NY:'New York',NC:'North Carolina',ND:'North Dakota',OH:'Ohio',OK:'Oklahoma',OR:'Oregon',PA:'Pennsylvania',RI:'Rhode Island',SC:'South Carolina',SD:'South Dakota',TN:'Tennessee',TX:'Texas',UT:'Utah',VT:'Vermont',VA:'Virginia',WA:'Washington',WV:'West Virginia',WI:'Wisconsin',WY:'Wyoming'};
@@ -349,7 +354,7 @@ function speak(parts){
     const u = new SpeechSynthesisUtterance(pre + p.text);
     u.lang = (LANGS.find(L => L.code === S.lang) || LANGS[0]).speech[0];
     const v = voiceFor(S.lang); if(v) u.voice = v;
-    else if(SPEECH.voices.length && S.lang !== 'en' && S.lang !== 'es') voiceNote(true);
+    if(S.lang !== 'en' && S.lang !== 'es' && SPEECH.voices.length && (!v || !(v.lang || '').replace('_','-').startsWith(LANGS.find(L => L.code === S.lang).speech[0].split('-')[0]))) voiceNote(true);
     u.rate = S.rate;
     let started = false, bounded = false;
     u.onstart = () => {
@@ -419,7 +424,11 @@ function findMyState(){
     el('geoDlg').showModal();
   }, () => { note.textContent = t('geoFail'); }, { timeout: 10000, maximumAge: 600000 });
 }
-function setState(code){ S.state = code; S.cat = ''; store.set('state', code); render(); }
+function setState(code){
+  S.state = code; S.cat = ''; store.set('state', code);
+  if(!langsFor(code).some(L => L.code === S.lang)){ S.lang = 'en'; store.set('lang', 'en'); }
+  render();
+}
 function setLang(l){ S.lang = l; store.set('lang', l); stopSpeech(); render(); }
 
 /* ---------- Navigation ---------- */
@@ -474,7 +483,7 @@ function renderHome(){
       <div><button class="linkbtn" type="button" id="btnGeo">${esc(t('findMe'))}</button> <span id="geoNote" role="status" aria-live="polite"></span></div>
       <div><span id="langLbl" class="grouptitle" style="display:block;margin:0 0 4px">${esc(t('lang'))}</span>
         <div class="langs" role="group" aria-labelledby="langLbl">
-          ${LANG_OK.map(L => `<button class="chip" type="button" data-lang="${L.code}" lang="${L.code}" dir="${L.rtl ? 'rtl' : 'ltr'}" aria-pressed="${S.lang === L.code}">${esc(L.label)}</button>`).join('')}
+          ${langsFor(S.state).map(L => `<button class="chip" type="button" data-lang="${L.code}" lang="${L.code}" dir="${L.rtl ? 'rtl' : 'ltr'}" aria-pressed="${S.lang === L.code}">${esc(L.label)}</button>`).join('')}
         </div></div>
     </div>${body}`;
   el('selState').onchange = e => setState(e.target.value);

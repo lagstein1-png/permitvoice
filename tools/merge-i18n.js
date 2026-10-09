@@ -2,7 +2,7 @@
 // and writes i18n.js from <dir>/<lang>/ui.json. Usage: node tools/merge-i18n.js <dir>
 const fs = require('fs'), path = require('path');
 const root = path.join(__dirname, '..'), src = process.argv[2];
-const LANGS = ['zh', 'vi', 'tl', 'ar'];
+const LANGS = ['zh', 'vi', 'tl', 'ar', 'ht'];
 const ui = {};
 for (const L of LANGS) {
   const d = path.join(src, L); if (!fs.existsSync(d)) continue;

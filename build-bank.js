@@ -14,8 +14,8 @@ for (const f of files) {
     if (ids.has(q.id)) bad('duplicate id'); ids.add(q.id);
     if (!(q.c >= 0 && q.c <= 3)) bad('c out of range');
     if (!(q.page === undefined || q.page === null || (Number.isInteger(q.page) && q.page >= 1 && q.page <= 100))) bad('page must be null or a handbook page number');
-    // English and Spanish are required. zh, vi, tl and ar are optional; when present they must be complete.
-    for (const L of ['en', 'es', 'zh', 'vi', 'tl', 'ar']) {
+    // English and Spanish are required. zh, vi, tl, ar and ht are optional; when present they must be complete.
+    for (const L of ['en', 'es', 'zh', 'vi', 'tl', 'ar', 'ht']) {
       const d = q[L]; if (!d) { if (L === 'en' || L === 'es') bad('missing ' + L); continue; }
       for (const k of ['q', 'h1', 'h2', 'p']) if (!d[k] || !String(d[k]).trim()) bad(`${L}.${k} empty`);
       if (!Array.isArray(d.o) || d.o.length !== 4 || d.o.some(x => !String(x).trim())) bad(L + '.o must be 4 options');
@@ -26,7 +26,7 @@ for (const f of files) {
 }
 const served = all.filter(q => q.conf === 'high').map(q => {
   const o = { id: q.id, scope: q.scope, cat: q.cat, sign: q.sign || null, c: q.c, en: q.en, es: q.es };
-  for (const L of ['zh', 'vi', 'tl', 'ar']) if (q[L]) o[L] = q[L];
+  for (const L of ['zh', 'vi', 'tl', 'ar', 'ht']) if (q[L]) o[L] = q[L];
   // Page in the Florida handbook (English, rev. 08/2023). National questions get one too when the handbook covers them.
   if (Number.isInteger(q.page)) o.ref = { doc: 'FL', page: q.page };
   else if (q.scope !== 'US') o.ref = { doc: q.scope, page: null };
