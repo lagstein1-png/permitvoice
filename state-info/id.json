@@ -1,1 +1,70 @@
-{"code":"ID","name":"Idaho","agency":"Idaho Transportation Department (ITD), Division of Motor Vehicles","handbook":{"en":"https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf","es":"https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf"},"exam":{"questions":40,"pass":34,"passPercent":85,"spanish":true},"permitAge":null,"teen":{"supervisedHours":"50 hours, including 10 at night (ITD GDL fact sheet)","holdPermit":"6 months, violation-free; a conviction cancels the permit and restarts the 6 months (ITD)","nightLimit":"Licensed drivers under 16: daylight only (half an hour before sunrise to half an hour after sunset) unless a licensed person 21 or older is in the front seat","passengerLimit":"Licensed under 17, first 6 months: no more than one passenger under 17, relatives by blood, adoption or marriage excepted (Idaho Code 49-307)","phone":"All drivers: hands-free only (Idaho Code 49-1401A, since July 1, 2020), including at red lights and stop signs; one touch or voice to start a call; hand-held only when stationary outside travel lanes or in an emergency. Fines $75 / $150 / $300 within 3 years."},"bac":{"adult":"0.08","under21":"0.02"},"notes":["Knowledge test: 40 questions, may miss up to 6 (ITD 'Taking the Driver's Test'); offered in Spanish; closed book, no devices.","Supervisor during SIP: licensed, at least 21, in the seat beside the driver; all occupants belted; SIP carried while driving (ITD GDL fact sheet).","Driver training required under 17: 30 h classroom, 6 h in-car observation, 6 h behind the wheel (ITD Young Drivers).","Minimum permit age: commercial practice-test sites say 14 and a half; not confirmed on an official page in this run, so permitAge is null.","Move Over: slow down and/or change lanes for stopped police, emergency, tow trucks and highway incident response vehicles (tow trucks and incident response added July 1, 2019).","Under 21 at 0.02 to under 0.08: license suspension of at least one year or until 21, whichever is longer (Idaho Code 18-8004A, per search summary).","Research limited to web-search summaries; official pages could not be fetched (proxy 403)."],"sources":["https://itd.idaho.gov/guide/taking-the-drivers-test/","https://itd.idaho.gov/wp-content/uploads/2025/04/3506_gdlfactsheet.pdf","https://itd.idaho.gov/dmv/young-drivers/","https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch3/sect49-307/","https://itd.idaho.gov/news/idaho-goes-hands-free-in-july/","https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch14/sect49-1401a/","https://itd.idaho.gov/news/slow-down-move-over-save-a-life/","https://legislature.idaho.gov/statutesrules/idstat/title18/t18ch80/sect18-8004/","https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH80/SECT18-8004A/","https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf"],"checked":"2026-10-08","verified":false}
+{
+  "code": "ID",
+  "name": "Idaho",
+  "agency": "Idaho Transportation Department (ITD), Division of Motor Vehicles",
+  "handbook": {
+    "en": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "es": "https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf"
+  },
+  "exam": {
+    "questions": 40,
+    "pass": 34,
+    "passPercent": 85,
+    "spanish": true,
+    "languages": [
+      "English",
+      "Arabic",
+      "Chinese",
+      "Farsi",
+      "French",
+      "Korean",
+      "Russian",
+      "Serbo-Croatian",
+      "Spanish",
+      "Swahili",
+      "Vietnamese",
+      "American Sign Language"
+    ],
+    "englishOnly": false
+  },
+  "permitAge": "14 and a half (Driver Training permit, valid only with the driver training instructor; the supervised instruction period follows driver training; license from 15; handbook pp. 3, 15, 19)",
+  "teen": {
+    "supervisedHours": "50 hours, including 10 at night (handbook p. 19; Idaho Code 49-307(8)(b))",
+    "holdPermit": "6 months, violation-free; a traffic conviction cancels the permit and the 6 months start over with a new permit (handbook p. 19)",
+    "nightLimit": "Licensed drivers under 16: daylight hours only, defined as 5 a.m. to 10 p.m. local time, unless a licensed driver 21 or older sits in the front seat beside them (handbook p. 16; Idaho Code 49-307(10))",
+    "passengerLimit": "Licensed under 17, first 6 months: no more than one passenger under 17, relatives by blood, adoption or marriage excepted (handbook p. 16; Idaho Code 49-307(11))",
+    "phone": "All drivers: hands-free only (Idaho Code 49-1401A, since July 1, 2020), including while stopped in traffic or at a signal; one touch or voice to start a call; hand-held only when lawfully parked or pulled off the road, or in an emergency. Fines $75 / $150 / $300 within 3 years. The July 2024 handbook (p. 92) still describes only the texting ban."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "0.02",
+    "commercial": "0.04"
+  },
+  "notes": [
+    "Handbook: Idaho Driver's Handbook, July 2024 edition (PDF dated 2024-12-23, posted under uploads/2025/03). Printed page numbers equal PDF page numbers. Read in full on 2026-10-09.",
+    "Knowledge test: 40 questions, may miss up to 6 (handbook p. 32). Offered in English, Arabic, Chinese, Farsi, French, Korean, Russian, Serbo-Croatian, Spanish, Swahili, Vietnamese and ASL (p. 32). Applicants must be 15 to take the knowledge and skills tests; a failed test needs a 3-day wait.",
+    "Permit age: Driver Training permit from 14 1/2 (handbook p. 15; Idaho Code 49-307(4)); the supervised instruction period starts after driver training; license from 15 (p. 3).",
+    "Supervisor during SIP: licensed, at least 21, in the seat beside the driver, no other front-seat passengers; all occupants belted; permit carried while driving (handbook p. 19; Idaho Code 49-307(8)).",
+    "Driver training required under 17: 30 h classroom, 6 h in-car observation, 6 h behind the wheel (handbook p. 19). Idaho Code 49-307(6), amended 2025-2026 after the handbook, lets a qualifying parent teach the 6 + 6 hours, with the 30 classroom hours taken online.",
+    "Daylight for under-16 licensees is 5 a.m. to 10 p.m. (handbook p. 16, Idaho Code 49-307(10)(b)); an earlier draft said half an hour before sunrise to after sunset, which was wrong.",
+    "Move Over (handbook p. 95; Idaho Code 49-624, tow trucks and incident response added 2019): slow below the limit, and change lanes away when there are two or more lanes in your direction.",
+    "Under 21 with 0.02 to under 0.08, first offense: one-year court suspension, first 90 days absolute (Idaho Code 18-8004A(1)(b)). BAC limits .02 under 21, .04 commercial, .08 adults (handbook p. 131).",
+    "Spanish manual: https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf (HTTP 200, PDF, not read in this check)."
+  ],
+  "sources": [
+    "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch6/sect49-624/",
+    "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "https://itd.idaho.gov/guide/taking-the-drivers-test/",
+    "https://itd.idaho.gov/wp-content/uploads/2025/04/3506_gdlfactsheet.pdf",
+    "https://itd.idaho.gov/dmv/young-drivers/",
+    "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch3/sect49-307/",
+    "https://itd.idaho.gov/news/idaho-goes-hands-free-in-july/",
+    "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch14/sect49-1401a/",
+    "https://itd.idaho.gov/news/slow-down-move-over-save-a-life/",
+    "https://legislature.idaho.gov/statutesrules/idstat/title18/t18ch80/sect18-8004/",
+    "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH80/SECT18-8004A/",
+    "https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}

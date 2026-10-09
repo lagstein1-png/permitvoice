@@ -22,7 +22,7 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | GA | Georgia | 21 | 21 | 40 q, pass 30 (75%) | [link](https://dds.georgia.gov/document/document/ga-drivers-manual-2023-2024/download) | — | yes |
 | HI | Hawaii | 20 | 19 | 30 q, pass ? | [link](https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf) | [link](https://hidot.hawaii.gov/highways/files/2019/04/mvso-Hawaii-Drivers-Manual_July-2017_HC_ES-US.pdf) | yes |
 | IA | Iowa | 22 | 0 | ? q, pass ? (80%) | [link](https://iowadot.gov/driversmanual) | [link](https://iowadot.gov/media/7173/download) | no |
-| ID | Idaho | 21 | 0 | 40 q, pass 34 (85%) | [link](https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf) | [link](https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf) | no |
+| ID | Idaho | 21 | 21 | 40 q, pass 34 (85%) | [link](https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf) | [link](https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf) | yes |
 | IL | Illinois | 23 | 0 | 35 q, pass 28 (80%) | [link](https://www.ilsos.gov/publications/pdf_publications/dsd_a112.pdf) | — | no |
 | IN | Indiana | 22 | 0 | ? q, pass ? (80%) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf) | — | no |
 | KS | Kansas | 23 | 0 | not found | [link](https://www.ksrevenue.gov/pdf/dlhb.pdf) | [link](https://www.ksrevenue.gov/pdf/dlhb-sp.pdf) | no |
