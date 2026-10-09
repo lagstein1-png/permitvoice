@@ -28,7 +28,7 @@ Prototype. Florida is the first state. Plain HTML, CSS and JavaScript: no build 
 
 ## Hosting
 
-Cloudflare Pages, connected to this repo. Framework preset: none. Build command: empty. Output directory: `/`.
+Cloudflare Pages, connected to this repo, live at https://permitvoice.pages.dev. Framework preset: none. Build command: empty. Output directory: `/`.
 Every push to `main` deploys.
 
 ## Status
