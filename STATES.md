@@ -33,7 +33,7 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | ME | Maine | 13 | 13 | 30 q, pass 24 (80%) | [link](https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf) | [link](https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Model%20Driver%20Manual_rev%2005_2025_Spanish_Final_1.pdf) | yes |
 | MI | Michigan | 28 | 28 | not found | [link](https://www.michigan.gov/sos/-/media/Project/Websites/sos/Resources/Forms-and-publications/WEDMK/WEDMK.pdf) | — | yes |
 | MN | Minnesota | 26 | 0 | ? q, pass ? (80%) | — | — | no |
-| MO | Missouri | 25 | 0 | 25 q, pass 20 (80%) | [link](https://dor.mo.gov/driver-license/guide/) | — | no |
+| MO | Missouri | 25 | 25 | 25 q, pass 20 (80%) | [link](https://dor.mo.gov/forms/Driver%20Guide.pdf) | — | yes |
 | MS | Mississippi | 22 | 0 | 30 q, pass 24 (80%) | — | — | no |
 | MT | Montana | 26 | 0 | 33 q, pass 27 | [link](https://opi.mt.gov/Portals/182/Page%20Files/Driver%20Education/Curriculum/Resources%20and%20Extras/Montana-Driver-Manual.pdf) | — | no |
 | NC | North Carolina | 20 | 0 | not found | [link](https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf) | — | no |

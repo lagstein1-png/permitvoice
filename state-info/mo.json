@@ -1,1 +1,75 @@
-{"code":"MO","name":"Missouri","agency":"Missouri Department of Revenue (licensing); Missouri State Highway Patrol (driver examinations)","handbook":{"en":"https://dor.mo.gov/driver-license/guide/","es":null},"exam":{"questions":25,"pass":20,"passPercent":80,"spanish":null},"permitAge":"15 (instruction permit; vision, road sign and written tests at an MSHP examination station)","teen":{"supervisedHours":"40 hours, at least 10 at night between sunset and sunrise (Driver Guide; MoDOT Roadwise)","holdPermit":"At least 182 days (about 6 months)","nightLimit":"Intermediate license (16-17): no driving alone 1 a.m. to 5 a.m. (DOR GDL page; some sources: unless with a licensed driver 21+)","passengerLimit":"Intermediate: first 6 months no more than 1 passenger under 19 who is not immediate family; after that no more than 3 (DOR 2006 law-change page, marked historical; GHSA)","phone":"All drivers: hand-held use banned by the Siddens Bening Hands Free Law (effective Aug 2023, fines from 2025-01-01; secondary enforcement)."},"bac":{"adult":"0.08","under21":"0.02"},"notes":["Written test: 25 questions, 20 correct to pass (12 CSR 10-24.060). Spanish availability of the test not found; bills to require English-only tests were introduced (HB 2139, HB 1147), outcome not confirmed.","Official Spanish guide: archived 2019 DOR page listed El Manual del Conductor de Missouri (2005); no current official URL found.","Permit supervision under 16: parent, grandparent, guardian or certified instructor; GDL page also lists a qualified driver 25+ licensed 3 years with parental permission.","Intermediate license: all occupants must wear seat belts. Full license at 18.","Rural interstate: SB 1408 (effective 2026-08-28) allows 75 mph on some rural interstates, but MoDOT must study and post; 70 mph remains until signs change.","Move over (RSMo 304.022): change lanes if safe or slow down; covers red/blue and amber vehicles incl. MoDOT.","Headlights required when wipers needed and in fog (RSMo 307.020).","School bus (RSMo 304.050): opposite side of divided highway or four-or-more-lane highway need not stop.","Points: 8 in 18 months = suspension (30/60/90 days); 4 in 12 months = advisory letter (secondary).","Insurance 25/50/25 since 2024-01-01 plus uninsured motorist 25/50 (secondary).","Left turn on red from one-way to one-way: status unclear in sources; not used."],"sources":["https://dor.mo.gov/driver-license/guide/","https://dor.mo.gov/forms/Driver%20Guide.pdf","https://dor.mo.gov/driver-license/issuance/graduated-driver-license/details.html","https://dor.mo.gov/drivers/lawchanges/2006.php","https://webharvest.gov/congress115th/20190109135740/http://dor.mo.gov/drivers/dlguide","https://www.modot.org/sites/default/files/documents/Roadwise.pdf","https://regulations.justia.com/states/missouri/title-12/division-10/chapter-24/section-12-csr-10-24-060","https://documents.house.mo.gov/billtracking/bills101/sumpdf/HB2139I.pdf","https://ghsa.org/node/2126","https://www.dmvroads.com/states/missouri/learners-permit/","https://www.komu.com/news/state/missouris-hands-free-law-to-be-fully-enforced-starting-jan-1/article_2e8b1e94-c18b-11ef-83cd-33bf63eb5558.html","https://www.modot.org/missouris-move-over-law","https://www.mshp.dps.missouri.gov/MSHPWeb/Root/HeadlightlawNov2012.html","https://www.kctv5.com/2026/08/14/missouri-raise-rural-interstate-speed-limit-75-mph-august-28-dont-speed-up-yet/","https://www.ky3.com/2024/08/12/back-to-school-staying-safe-around-school-buses","https://kcdefensecounsel.com/abuse-and-lose-in-missouri/","https://www.pulledover.com/missouri-traffic-points-overview","https://www.dmvroads.com/states/missouri/car-insurance/"],"checked":"2026-10-08","verified":false}
+{
+  "code": "MO",
+  "name": "Missouri",
+  "agency": "Missouri Department of Revenue (licensing); Missouri State Highway Patrol (driver examinations)",
+  "handbook": {
+    "en": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "es": null
+  },
+  "exam": {
+    "questions": 25,
+    "pass": 20,
+    "passPercent": 80,
+    "spanish": true,
+    "languages": [
+      "English",
+      "American Sign Language",
+      "Arabic",
+      "Bosnian",
+      "Chinese",
+      "Dari",
+      "French",
+      "German",
+      "Greek",
+      "Italian",
+      "Japanese",
+      "Kinyarwanda",
+      "Korean",
+      "Marshallese",
+      "Pashto",
+      "Russian",
+      "Spanish",
+      "Swahili",
+      "Ukrainian",
+      "Vietnamese"
+    ],
+    "englishOnly": false
+  },
+  "permitAge": "15 (instruction permit; pass vision, road sign and written tests; a parent, stepparent, guardian or certified trainer signs at the license office) (Driver Guide p. 3, 15)",
+  "teen": {
+    "supervisedHours": "40 hours of driving instruction, including at least 10 hours at night (Driver Guide p. 16)",
+    "holdPermit": "At least six months (182 days), counted from the day after the permit is issued (Driver Guide p. 16)",
+    "nightLimit": "Intermediate license: no driving alone 1 a.m. to 5 a.m., except to or from a school activity, job or emergency, unless with a licensed driver 21 or older (Driver Guide p. 16)",
+    "passengerLimit": "Intermediate license: first 6 months no more than 1 passenger under 19 who is not immediate family; after that no more than 3 (Driver Guide p. 16)",
+    "phone": "All drivers: may not hold or support a phone, type or read texts, or watch or record video while the vehicle moves; hands-free calls, voice-to-text and GPS allowed. Warnings before 2025-01-01, tickets after (Driver Guide p. 93; RSMo 304.822)."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "0.02"
+  },
+  "notes": [
+    "Handbook: Missouri Driver Guide, Missouri Department of Revenue, 'Revised August 2026', downloaded from dor.mo.gov 2026-10-09. Printed page = PDF page minus 2. No official Spanish guide is linked on the DOR guide page.",
+    "Written test (Class F): 25 multiple-choice questions, 20 correct (80%) to pass (Driver Guide p. 1, 18; MSHP DE FAQ).",
+    "Test languages (MSHP DE FAQ, checked 2026-10-09): Class F written test in English, ASL, Arabic, Bosnian, Chinese, Dari, French, German, Greek, Italian, Japanese, Kinyarwanda, Korean, Marshallese, Pashto, Russian, Spanish, Swahili, Ukrainian and Vietnamese; oral (headphones) in English and Spanish. Not offered in Tagalog or Haitian Creole. Approved third-party interpreters at the applicant's cost. Class M and E tests in English and Spanish only.",
+    "Permit supervision under 16: parent, stepparent, grandparent, guardian, qualified instructor, or a person 25+ licensed 3 years with written parent permission; at 16+, any licensed driver 21+ (Driver Guide p. 15).",
+    "Permit and intermediate license: driver and all passengers must wear seat belts. Full license at 18 (Driver Guide p. 15-17).",
+    "Speed (Driver Guide p. 50): guide table lists rural interstates 75, rural expressways 65, urban interstates 60, lettered roads 55, cities 25, 'unless posted limits direct otherwise'; same page still says interstate maximum is 70 mph. SB 1408 (effective 2026-08-28) allows 75 where MoDOT posts it.",
+    "Move over (Driver Guide p. 23; RSMo 304.022): change to a non-adjacent lane if safe on roads with 2+ lanes your way, else slow down. The guide names red / red-and-blue lights only; the statute also covers stationary vehicles with amber or amber-and-white lights. The guide's cross-reference to page 93 is stale.",
+    "Headlights required when weather requires wipers (Driver Guide p. 62) and in fog even without wipers (RSMo 307.020(9)).",
+    "School bus (Driver Guide p. 23-24): opposite direction on a median-divided highway or a highway with four or more lanes need not stop; following traffic must stop.",
+    "Points (Driver Guide p. 73): 4 in 12 months = advisory letter; 8 in 18 months = suspension 30/60/90 days; 12 in 12 months = one-year revocation.",
+    "Insurance (Driver Guide p. 79): 25/50/25 liability plus uninsured motorist 25/50."
+  ],
+  "sources": [
+    "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "https://dor.mo.gov/driver-license/guide/",
+    "https://statepatrol.dps.mo.gov/divisions/driver-and-vehicle-safety-division/de-faqs",
+    "https://statepatrol.dps.mo.gov/divisions/driver-and-vehicle-safety-division/de",
+    "https://revisor.mo.gov/main/OneSection.aspx?section=304.022",
+    "https://revisor.mo.gov/main/OneSection.aspx?section=307.020",
+    "https://dor.mo.gov/driver-license/issuance/graduated-driver-license/details.html",
+    "https://regulations.justia.com/states/missouri/title-12/division-10/chapter-24/section-12-csr-10-24-060"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
