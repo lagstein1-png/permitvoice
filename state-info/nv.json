@@ -1,1 +1,62 @@
-{"code":"NV","name":"Nevada","agency":"Nevada Department of Motor Vehicles (DMV)","handbook":{"en":"https://dmv.nv.gov/pdfforms/dlbook.pdf","es":null},"exam":{"questions":25,"pass":20,"passPercent":80,"spanish":true},"permitAge":"15 and a half (instruction permit); driver education not required for the permit","teen":{"supervisedHours":"50 hours, including 10 at night, logged on form DLD-130","holdPermit":null,"nightLimit":"Licensed drivers under 18: no driving 10 p.m. to 5 a.m. unless going to or from a scheduled event (NRS 483, DMV form DP-038)","passengerLimit":"First six months after licensing: no passengers under 18 except immediate family (DMV form DP-038)","phone":"All drivers: no handheld phone for calls (hands-free allowed), no texting or internet use (NRS 484B.165). Fines $50 / $100 / $250 within seven years, doubled in work zones."},"bac":{"adult":"0.08","under21":"0.02"},"notes":["Permit valid one year. Supervisor: licensed, at least 21, licensed at least one year, seated next to the beginner. Parent or guardian signs a financial responsibility statement.","Knowledge test: 25 multiple-choice questions, 80 percent (20 correct); stops at 20 correct or 6 incorrect; result valid one year; online test 60-minute limit (DMV wtestteens, dlquiz). Offered in English and Spanish.","Hold period for the permit before the license was not found in this search budget; holdPermit left null.","Under-21 0.02 to 0.08: NRS 483.461 and form DP-038 say 90-day suspension; the handbook says 185-day revocation. Conflict, not used in questions.","Move over (NDOT): slow down and move to the far lane when possible for stopped emergency vehicles with lights; extended to NDOT vehicles and, from Oct. 1, 2017, any traffic incident.","School bus: on a highway divided by a physical barrier or dividing section, traffic on the other roadway need not stop (NRS 484B).","Maximum posted speed 80 mph on state highways (NRS 484B.613).","Spanish audio handbook exists (DMV news); Spanish PDF handbook URL not confirmed."],"sources":["https://dmv.nv.gov/driveeduteens.htm","https://dmv.nv.gov/wtestteens.htm","https://dmv.nv.gov/dlquiz.htm","https://dmv.nv.gov/pdfforms/dlbook.pdf","https://dmv.nv.gov/pdfforms/dld130.pdf","https://dmv.nv.gov/pdfforms/dp38.pdf","https://dmv.nv.gov/dui.htm","https://www.leg.state.nv.us/nrs/nrs-483.html","https://www.leg.state.nv.us/nrs/nrs-484b.html","https://www.dot.nv.gov/safety/move-over-law","https://www.dot.nv.gov/safety/handheld-cell-phone-ban","https://dmv.nv.gov/pdfforms/qtdistracted.pdf","https://dmv.nv.gov/news/18010-DMV-releases-audio-handbooks.htm"],"checked":"2026-10-08","verified":false}
+{
+  "code": "NV",
+  "name": "Nevada",
+  "agency": "Nevada Department of Motor Vehicles (DMV)",
+  "handbook": {
+    "en": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "es": null
+  },
+  "exam": {
+    "questions": 25,
+    "pass": 20,
+    "passPercent": 80,
+    "spanish": true,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "englishOnly": false
+  },
+  "permitAge": "15 and a half (instruction permit); driver education not required for the permit",
+  "teen": {
+    "supervisedHours": "50 hours, including 10 at night, logged on form DLD-130 (100 hours, 10 at night, if no driver education school within 30 miles and no internet access)",
+    "holdPermit": "6 months (applicants under 18), and 6 months free of at-fault crashes and moving violations",
+    "nightLimit": "Drivers under 18: no driving 10 p.m. to 5 a.m. unless going to or from a scheduled event, until age 18 (handbook p. 15)",
+    "passengerLimit": "Licensed at 16 or 17: first six months, no passengers under 18 except immediate family (NRS 483.2523, handbook p. 15)",
+    "phone": "All drivers: no handheld phone for calls (hands-free allowed), no texting or internet use (handbook p. 43, NRS 484B.165). Fines $50 / $100 / $250 within seven years; extra penalty in work and school zones."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "0.02"
+  },
+  "notes": [
+    "Checked 2026-10-09 against the Nevada Driver Handbook, DMV 700, March 2024 edition (PDF created June 2023, modified March 2024). Printed page numbers match PDF page numbers.",
+    "Permit valid one year. Supervisor: licensed, at least 21, licensed at least one year, seated next to the beginner. Parent or guardian signs a financial responsibility statement.",
+    "Under-21 0.02 to 0.08: NRS 483.461 and form DP-038 say 90-day suspension; the handbook says 185-day revocation. Conflict, not used in questions.",
+    "Move over (NDOT): slow down and move to the far lane when possible for stopped emergency vehicles with lights; extended to NDOT vehicles and, from Oct. 1, 2017, any traffic incident.",
+    "School bus: on a highway divided by a physical barrier or dividing section, traffic on the other roadway need not stop (NRS 484B).",
+    "Maximum posted speed 80 mph on state highways (NRS 484B.613).",
+    "Knowledge test (dmv.nv.gov/wtestteens.htm): 25 multiple-choice questions, 80 percent (20 correct); 60-minute limit online, no limit in person; results valid one year. Online test in English and Spanish; in-office test in English, Spanish and audio. Handbook p. 12: Class C test also in Spanish; oral exam on request. Applicants lacking English or Spanish may use an approved interpreter.",
+    "The claim that the test stops after 6 wrong answers was not found on any official page; nv-012 stays medium.",
+    "Under-21 0.02 to 0.08: handbook p. 79 says suspended, p. 80 and p. 13 say revoked 185 days; NRS 483.461/DP-038 say 90-day suspension. Not used in questions.",
+    "Spanish audio handbook exists (DMV news); no official Spanish PDF handbook URL found."
+  ],
+  "sources": [
+    "https://dmv.nv.gov/driveeduteens.htm",
+    "https://dmv.nv.gov/wtestteens.htm",
+    "https://dmv.nv.gov/dlquiz.htm",
+    "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "https://dmv.nv.gov/pdfforms/dld130.pdf",
+    "https://dmv.nv.gov/pdfforms/dp38.pdf",
+    "https://dmv.nv.gov/dui.htm",
+    "https://www.leg.state.nv.us/nrs/nrs-483.html",
+    "https://www.leg.state.nv.us/nrs/nrs-484b.html",
+    "https://www.dot.nv.gov/safety/move-over-law",
+    "https://www.dot.nv.gov/safety/handheld-cell-phone-ban",
+    "https://dmv.nv.gov/pdfforms/qtdistracted.pdf",
+    "https://dmv.nv.gov/news/18010-DMV-releases-audio-handbooks.htm",
+    "https://dmv.nv.gov/dlipteens.htm"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
