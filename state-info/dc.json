@@ -1,1 +1,75 @@
-{"code":"DC","name":"District of Columbia","agency":"District of Columbia Department of Motor Vehicles (DC DMV)","handbook":{"en":null,"es":null},"exam":{"questions":null,"pass":null,"passPercent":null,"spanish":true},"permitAge":"16 (learner permit; all new drivers of any age start with a learner permit)","teen":{"supervisedHours":"40 hours before the provisional license (form DMV-GRAD-HR40); 10 more hours at night during the provisional stage before the full license with conditions (secondary)","holdPermit":"6 months (secondary); waived for applicants who turn 21 while holding the permit","nightLimit":"Learner permit: 6 a.m. to 9 p.m. only. Provisional (secondary): Sept-June Sun-Thu 6 a.m.-10:59 p.m., Fri-Sat 6 a.m.-11:59 p.m.; July-Aug every day 6 a.m.-11:59 p.m.; exceptions for work, school, religious or athletic events, or with a licensed driver 21+","passengerLimit":null,"phone":"All drivers: hand-held phone use banned while moving, hands-free allowed. Learner permit holders and school bus drivers: no phone at all, hands-free included, except emergency calls (secondary, 2004 law)."},"bac":{"adult":"0.08","under21":"any measurable amount (MPD)"},"notes":["Knowledge test question count and pass mark not found on an official page; commercial sites disagree (25 questions / 20 to pass, or 30 / 24). Both are 80 percent. Left null.","Knowledge test offered in 15 languages including Spanish (DC DMV press release, undated).","DC driver manual URL (English or Spanish) not found within the search budget.","Default speed limit 20 mph since June 1, 2020 (DDOT); 15 mph next to schools at signed times.","Right turn on red: Safer Streets Amendment Act banned it from Jan 1, 2025, but news reports say it is enforced only where No Turn on Red signs are posted. Not used in questions.","Provisional passenger limits exist but the exact rule was not found. Left null.","School bus: on undivided roads both directions stop (secondary); not state-specific enough for a question."],"sources":["https://dmv.dc.gov/es/service/learner-permits-and-provisional-licenses","https://dmv.dc.gov/node/1119181","https://dmv.dc.gov/es/service/graduated-license-program","https://dmv.dc.gov/release/district-dmv-offers-driver-knowledge-test-15-languages","https://www.dmv.org/washington-dc/drivers-training.php","https://driving-tests.org/district-columbia/drivers-license-guide/","https://ddot.dc.gov/page/twenty-mph-20-mph-default-speed-limit-frequently-asked-questions","https://ddot.dc.gov/page/speeding-laws-fines-and-safety-tips","https://www.drivinglaws.org/resources/district-columbia-text-cell-phone-laws.html","https://mpdc.dc.gov/page/drunk-driving-prevention","https://nbcwashington.com/news/local/transportation/right-turns-on-red-now-banned-at-all-dc-intersections-but-enforcement-varies/3803868"],"checked":"2026-10-08","verified":false}
+{
+  "code": "DC",
+  "name": "District of Columbia",
+  "agency": "District of Columbia Department of Motor Vehicles (DC DMV)",
+  "handbook": {
+    "en": "https://issuu.com/dcdmv/docs/dc_dmv_driver_manual_english_revised_final",
+    "es": "https://issuu.com/dcdmv/docs/dc_dmv_driver_manual_final-spa"
+  },
+  "exam": {
+    "questions": null,
+    "pass": null,
+    "passPercent": null,
+    "spanish": true,
+    "languages": [
+      "English",
+      "Spanish",
+      "French",
+      "Amharic",
+      "Korean",
+      "Vietnamese",
+      "Mandarin",
+      "Cantonese",
+      "Arabic",
+      "German",
+      "Japanese",
+      "Portuguese",
+      "Russian",
+      "Tagalog",
+      "Thai"
+    ],
+    "englishOnly": false
+  },
+  "permitAge": "16 (learner permit; drivers under 21 go through the GRAD program; manual p.14)",
+  "teen": {
+    "supervisedHours": "40 hours (signed certification, supervisor 21+ with full license) before the provisional license; 10 more hours of night driving before the full license (manual p.14)",
+    "holdPermit": "6 months, free of pointable moving violations; minimum age 16 1/2 for provisional. Waived for learners who turn 21: they may book the road test at once (manual p.14-15)",
+    "nightLimit": "Learner permit: every day 6:00 a.m.-9:00 p.m. Provisional and full-with-conditions (under 18): Sept-June Mon-Thu 6:01 a.m.-10:59 p.m., Fri-Sun 6:01 a.m.-11:59 p.m.; July-Aug every day 6:01 a.m.-11:59 p.m. Exceptions: work, school activity, religious or athletic event, or with a full-licensed driver 21+ in the front seat (manual p.14-15)",
+    "passengerLimit": "Learner: no passengers besides the 21+ supervisor. Provisional: one full-licensed passenger 21+ in the front seat, plus siblings, own child or parent. Full license with conditions under 18: no more than 2 passengers under 21, siblings and own child excepted (manual p.15)",
+    "phone": "All drivers: no hand-held use while driving; hands-free allowed (manual p.19, p.26; DC Code 50-1731.04). Learner permit holders and drivers under 18: no phone or electronic device at all, even hands-free, except emergencies (manual p.15; DC Code 50-1731.05)."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "any measurable amount (DC Code 50-2206.01(9)); not stated in the manual"
+  },
+  "notes": [
+    "Handbook: DC DMV Driver Manual (English), published by DC DMV on Issuu 2023-12-20; the dmv.dc.gov publication page says 'Updated Jan 2024'. No PDF on dmv.dc.gov; the official publication page links to Issuu (English, Spanish, French, Amharic, Korean, Vietnamese, Chinese). Printed page numbers match the page order.",
+    "Knowledge test question count and pass mark are not in the manual or on a DC DMV page found. Left null.",
+    "Knowledge test offered in 15 languages (DC DMV press release, 2015-06-16): English, Spanish, French, Amharic, Korean, Vietnamese, Mandarin, Cantonese, Arabic, German, Japanese, Portuguese, Russian, Tagalog, Thai. The manual (p.11) says the test may be available in several languages and in audio or touch-screen form.",
+    "Default speed limits (manual p.46): city streets 20 mph, alleys 15 mph, school zones 15 mph.",
+    "Provisional night hours: the manual (p.14) splits Sept-June as Mon-Thu until 10:59 p.m. and Fri-Sun until 11:59 p.m.; some commercial sites say Sun-Thu. Questions use Mon-Thu only.",
+    "Failed knowledge test: wait 3 calendar days; after 6 straight fails, wait 12 months (manual p.12).",
+    "Right turn on red: Safer Streets Amendment Act banned it from Jan 1, 2025, but news reports say it is enforced only where No Turn on Red signs are posted. Not in the 2023 manual. Not used in questions.",
+    "BAC limits are not stated in the manual; under-21 rule taken from DC Code 50-2206.01."
+  ],
+  "sources": [
+    "https://dmv.dc.gov/es/service/learner-permits-and-provisional-licenses",
+    "https://dmv.dc.gov/node/1119181",
+    "https://dmv.dc.gov/es/service/graduated-license-program",
+    "https://dmv.dc.gov/release/district-dmv-offers-driver-knowledge-test-15-languages",
+    "https://www.dmv.org/washington-dc/drivers-training.php",
+    "https://driving-tests.org/district-columbia/drivers-license-guide/",
+    "https://ddot.dc.gov/page/twenty-mph-20-mph-default-speed-limit-frequently-asked-questions",
+    "https://ddot.dc.gov/page/speeding-laws-fines-and-safety-tips",
+    "https://www.drivinglaws.org/resources/district-columbia-text-cell-phone-laws.html",
+    "https://mpdc.dc.gov/page/drunk-driving-prevention",
+    "https://nbcwashington.com/news/local/transportation/right-turns-on-red-now-banned-at-all-dc-intersections-but-enforcement-varies/3803868",
+    "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "https://issuu.com/dcdmv/docs/dc_dmv_driver_manual_english_revised_final",
+    "https://code.dccouncil.gov/us/dc/council/code/sections/50-1731.04",
+    "https://code.dccouncil.gov/us/dc/council/code/sections/50-1731.05",
+    "https://code.dccouncil.gov/us/dc/council/code/sections/50-2206.01"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
