@@ -28,7 +28,7 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | KS | Kansas | 23 | 0 | not found | [link](https://www.ksrevenue.gov/pdf/dlhb.pdf) | [link](https://www.ksrevenue.gov/pdf/dlhb-sp.pdf) | no |
 | KY | Kentucky | 21 | 0 | ? q, pass ? (80%) | [link](https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2023/11/Kentucky-Driver-Manual-10-11-2023.pdf) | — | no |
 | LA | Louisiana | 20 | 0 | not found | — | — | no |
-| MA | Massachusetts | 31 | 0 | 25 q, pass 18 (72%) | [link](https://www.mass.gov/doc/english-drivers-manual/download) | [link](https://www.mass.gov/files/documents/2019/09/02/Drivers_Manual_Spanish_0119_rev0819.pdf) | no |
+| MA | Massachusetts | 31 | 31 | 25 q, pass 18 (72%) | [link](https://www.mass.gov/doc/english-drivers-manual/download) | [link](https://www.mass.gov/files/documents/2019/09/02/Drivers_Manual_Spanish_0119_rev0819.pdf) | yes |
 | MD | Maryland | 17 | 0 | 25 q, pass 22 (88%) | — | — | no |
 | ME | Maine | 13 | 0 | not found | [link](https://www.maine.gov/sos/licenses/studyguides.html) | — | no |
 | MI | Michigan | 28 | 0 | not found | [link](https://www.michigan.gov/sos/-/media/Project/Websites/sos/Resources/Forms-and-publications/WEDMK/WEDMK.pdf) | — | no |
