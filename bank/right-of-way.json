@@ -30,6 +30,54 @@
       "h1": "Piense en el orden en que llegaron los carros.",
       "h2": "En un pare de cuatro vías, el conductor que paró primero sigue primero, y los demás siguen en el orden en que llegaron.",
       "p": "Correcto. En un pare de cuatro vías, el primer carro en parar sigue primero."
+    },
+    "zh": {
+      "q": "在 Florida，在四向停车路口，哪辆车先走？",
+      "o": [
+        "最先完全停下的车",
+        "路口最大的车",
+        "最左边的车",
+        "直行的车"
+      ],
+      "h1": "想一想车辆到达的先后顺序。",
+      "h2": "在四向停车路口，最先停下的司机先走，其他车按到达的顺序跟着走。",
+      "p": "对。在四向停车路口，最先停下的车先走。"
+    },
+    "vi": {
+      "q": "Ở Florida, tại ngã tư có biển \"STOP\" ở cả bốn phía, xe nào được đi trước?",
+      "o": [
+        "Xe dừng hẳn lại trước tiên",
+        "Xe lớn nhất tại chỗ dừng",
+        "Xe ở phía xa bên trái",
+        "Xe đang đi thẳng"
+      ],
+      "h1": "Hãy nghĩ về thứ tự các xe đến nơi.",
+      "h2": "Tại ngã tư có biển \"STOP\" ở cả bốn phía, người lái dừng trước sẽ đi trước, và các xe khác đi theo thứ tự đã đến.",
+      "p": "Đúng. Tại ngã tư bốn biển \"STOP\", xe dừng trước được đi trước."
+    },
+    "tl": {
+      "q": "Sa Florida, sa four-way stop, aling kotse ang unang aandar?",
+      "o": [
+        "Ang kotseng unang huminto nang buo",
+        "Ang pinakamalaking sasakyan sa hintuan",
+        "Ang kotseng nasa pinakakaliwa",
+        "Ang kotseng diretso ang punta"
+      ],
+      "h1": "Isipin ang pagkakasunod-sunod ng pagdating ng mga kotse.",
+      "h2": "Sa four-way stop, ang drayber na unang huminto ang unang aandar, at susunod ang iba ayon sa pagkakasunod ng kanilang pagdating.",
+      "p": "Tama. Sa four-way stop, ang unang kotseng huminto ang unang aandar."
+    },
+    "ar": {
+      "q": "في Florida، عند تقاطع فيه علامة توقف من أربع جهات، أي سيارة تمر أولًا؟",
+      "o": [
+        "السيارة التي توقفت توقفًا كاملًا أولًا",
+        "أكبر مركبة عند التقاطع",
+        "السيارة التي في أقصى اليسار",
+        "السيارة التي تسير إلى الأمام مباشرة"
+      ],
+      "h1": "فكّر في الترتيب الذي وصلت به السيارات.",
+      "h2": "عند تقاطع فيه علامة توقف من أربع جهات، يمر أولًا السائق الذي توقف أولًا، ثم يمر الآخرون حسب ترتيب وصولهم.",
+      "p": "صحيح. عند علامة التوقف من أربع جهات، تمر أولًا السيارة التي توقفت أولًا."
     }
   },
   {
@@ -63,6 +111,54 @@
       "h1": "Fíjese dónde está el otro carro, a su izquierda o a su derecha.",
       "h2": "Cuando dos carros paran al mismo tiempo, el conductor de la izquierda deja pasar primero al conductor de la derecha.",
       "p": "Correcto. Si llegan juntos, sigue primero el carro de la derecha."
+    },
+    "zh": {
+      "q": "在 Florida，两辆车同时停在四向停车路口。谁先走？",
+      "o": [
+        "先按喇叭的司机",
+        "左边的司机",
+        "右边的司机",
+        "赶时间的司机"
+      ],
+      "h1": "看看另一辆车在你的左边还是右边。",
+      "h2": "两辆车同时停下时，左边的司机让右边的司机先走。",
+      "p": "对。同时到达时，右边的车先走。"
+    },
+    "vi": {
+      "q": "Ở Florida, hai xe dừng cùng lúc tại ngã tư có biển \"STOP\" ở cả bốn phía. Ai được đi trước?",
+      "o": [
+        "Người bấm còi trước",
+        "Người lái ở bên trái",
+        "Người lái ở bên phải",
+        "Người lái đang vội"
+      ],
+      "h1": "Hãy xem xe kia ở đâu, bên trái hay bên phải của bạn.",
+      "h2": "Khi hai xe dừng cùng lúc, người lái bên trái phải để người lái bên phải đi trước.",
+      "p": "Đúng. Khi đến cùng lúc, xe bên phải được đi trước."
+    },
+    "tl": {
+      "q": "Sa Florida, dalawang kotse ang sabay na huminto sa four-way stop. Sino ang unang aandar?",
+      "o": [
+        "Ang drayber na unang bumusina",
+        "Ang drayber na nasa kaliwa",
+        "Ang drayber na nasa kanan",
+        "Ang drayber na nagmamadali"
+      ],
+      "h1": "Tingnan kung nasaan ang ibang kotse, sa kaliwa mo o sa kanan mo.",
+      "h2": "Kapag sabay na huminto ang dalawang kotse, pinauuna ng drayber na nasa kaliwa ang drayber na nasa kanan.",
+      "p": "Tama. Kapag sabay kayong dumating, ang kotse sa kanan ang unang aandar."
+    },
+    "ar": {
+      "q": "في Florida، توقفت سيارتان عند تقاطع فيه علامة توقف من أربع جهات في الوقت نفسه. من يمر أولًا؟",
+      "o": [
+        "السائق الذي يستعمل البوق أولًا",
+        "السائق الذي على اليسار",
+        "السائق الذي على اليمين",
+        "السائق المستعجل"
+      ],
+      "h1": "انظر أين السيارة الأخرى: على يسارك أم على يمينك؟",
+      "h2": "عندما تتوقف سيارتان في الوقت نفسه، يترك السائق الذي على اليسار السائقَ الذي على اليمين يمر أولًا.",
+      "p": "صحيح. عندما تصلان معًا، تمر السيارة التي على اليمين أولًا."
     }
   },
   {
@@ -96,6 +192,54 @@
       "h1": "Piense en quién ya está usando ese espacio.",
       "h2": "En una intersección sin señales ni semáforos, usted debe ceder el paso al vehículo que ya está dentro de la intersección.",
       "p": "Correcto. Ceda el paso al carro que ya está en la intersección."
+    },
+    "zh": {
+      "q": "在 Florida，你来到一个没有标志也没有红绿灯的路口。有一辆车已经在通过路口。你该怎么做？",
+      "o": [
+        "你先走，因为你的路更宽",
+        "让已经在路口里的车先走",
+        "按喇叭，同时开过去",
+        "加速，抢在它前面通过"
+      ],
+      "h1": "想一想谁已经在使用这个空间。",
+      "h2": "在没有标志也没有红绿灯的路口，你必须让已经在路口里的车先走。",
+      "p": "对。让已经在路口里的车先走。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn đến một giao lộ không có biển báo hay đèn. Một xe đang chạy qua giao lộ. Bạn làm gì?",
+      "o": [
+        "Đi trước, vì đường của bạn rộng hơn",
+        "Để xe đang ở trong giao lộ đi trước",
+        "Bấm còi và đi cùng lúc",
+        "Tăng tốc để qua trước xe đó"
+      ],
+      "h1": "Hãy nghĩ xem ai đang dùng chỗ đó rồi.",
+      "h2": "Tại giao lộ không có biển báo hay đèn, bạn phải nhường đường cho xe đã ở trong giao lộ.",
+      "p": "Đúng. Hãy nhường xe đã ở trong giao lộ."
+    },
+    "tl": {
+      "q": "Sa Florida, dumating ka sa intersection na walang karatula o ilaw trapiko. May kotseng tumatawid na roon. Ano ang gagawin mo?",
+      "o": [
+        "Mauna ka, dahil mas malapad ang daan mo",
+        "Paunahin ang kotseng nasa loob na ng intersection",
+        "Bumusina at sabay na umandar",
+        "Bumilis para makatawid bago ito"
+      ],
+      "h1": "Isipin kung sino na ang gumagamit ng lugar.",
+      "h2": "Sa intersection na walang karatula o ilaw, dapat kang magbigay-daan sa sasakyang nasa loob na ng intersection.",
+      "p": "Tama. Magbigay-daan sa kotseng nasa loob na ng intersection."
+    },
+    "ar": {
+      "q": "في Florida، وصلت إلى تقاطع ليس فيه علامات ولا إشارات ضوئية. هناك سيارة تعبره الآن. ماذا تفعل؟",
+      "o": [
+        "أمر أولًا لأن طريقي أعرض",
+        "أترك السيارة التي في التقاطع تمر أولًا",
+        "أستعمل البوق وأمر في الوقت نفسه",
+        "أسرع لأعبر قبلها"
+      ],
+      "h1": "فكّر في من يستعمل المكان الآن.",
+      "h2": "عند تقاطع ليس فيه علامات ولا إشارات ضوئية، يجب أن تعطي حق المرور للمركبة الموجودة داخل التقاطع.",
+      "p": "صحيح. أعطِ حق المرور للسيارة الموجودة داخل التقاطع."
     }
   },
   {
@@ -129,6 +273,54 @@
       "h1": "La regla es igual que cuando dos carros paran juntos en un pare.",
       "h2": "Cuando dos carros llegan al mismo tiempo a una intersección sin control, cede el paso el conductor de la izquierda, así que sigue primero el carro de su derecha.",
       "p": "Correcto. Si llegan juntos, sigue primero el carro de la derecha."
+    },
+    "zh": {
+      "q": "在 Florida，你和另一辆车同时来到一个没有标志的路口。另一辆车在你的右边。谁先走？",
+      "o": [
+        "你先走，因为你在左边",
+        "开得快的车先走",
+        "两辆车同时走",
+        "你右边的车先走"
+      ],
+      "h1": "规则和两辆车同时停在停车标志前一样。",
+      "h2": "两辆车同时来到没有管制的路口时，左边的司机要让行，所以你右边的车先走。",
+      "p": "对。同时到达时，右边的车先走。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn và một xe khác đến giao lộ không có biển báo cùng lúc. Xe kia ở bên phải bạn. Ai được đi trước?",
+      "o": [
+        "Bạn đi trước, vì bạn ở bên trái",
+        "Xe nhanh hơn đi trước",
+        "Cả hai xe đi cùng lúc",
+        "Xe bên phải bạn đi trước"
+      ],
+      "h1": "Quy tắc giống như khi hai xe cùng dừng ở biển \"STOP\".",
+      "h2": "Khi hai xe đến giao lộ không có biển báo cùng lúc, người lái bên trái phải nhường, nên xe bên phải bạn được đi trước.",
+      "p": "Đúng. Khi đến cùng lúc, xe bên phải được đi trước."
+    },
+    "tl": {
+      "q": "Sa Florida, sabay kayong dumating ng isa pang kotse sa intersection na walang karatula. Nasa kanan mo ang kotse. Sino ang mauuna?",
+      "o": [
+        "Ikaw ang mauuna, dahil nasa kaliwa ka",
+        "Ang mas mabilis na kotse ang mauuna",
+        "Sabay na aandar ang dalawang kotse",
+        "Ang kotse sa kanan mo ang mauuna"
+      ],
+      "h1": "Pareho ang patakaran kapag sabay na huminto ang dalawang kotse sa stop sign.",
+      "h2": "Kapag sabay na dumating ang dalawang kotse sa bukas na intersection, nagbibigay-daan ang drayber sa kaliwa, kaya ang kotse sa kanan mo ang mauuna.",
+      "p": "Tama. Kapag sabay, ang kotse sa kanan ang mauuna."
+    },
+    "ar": {
+      "q": "في Florida، وصلت أنت وسيارة أخرى إلى تقاطع ليس فيه علامات في الوقت نفسه. السيارة الأخرى على يمينك. من يمر أولًا؟",
+      "o": [
+        "أنت تمر أولًا لأنك على اليسار",
+        "السيارة الأسرع تمر أولًا",
+        "تمر السيارتان في الوقت نفسه",
+        "السيارة التي على يمينك تمر أولًا"
+      ],
+      "h1": "القاعدة هي نفسها عندما تتوقف سيارتان معًا عند علامة توقف.",
+      "h2": "عندما تصل سيارتان إلى تقاطع مفتوح في الوقت نفسه، يعطي السائق الذي على اليسار حق المرور، لذلك تمر السيارة التي على يمينك أولًا.",
+      "p": "صحيح. إذا وصلتما في الوقت نفسه، تمر السيارة التي على اليمين أولًا."
     }
   },
   {
@@ -162,6 +354,54 @@
       "h1": "Su calle termina. La otra calle sigue.",
       "h2": "En una intersección en T, la calle que termina debe ceder el paso, así que el tráfico de la calle que sigue tiene el derecho de paso.",
       "p": "Correcto. En una intersección en T, pasa primero la calle que sigue."
+    },
+    "zh": {
+      "q": "在 Florida，你所在的路在一个 T 字路口到头了。谁有先行权？",
+      "o": [
+        "在直通道路上行驶的车",
+        "你，因为你要转弯",
+        "先按喇叭的车",
+        "开大车的人"
+      ],
+      "h1": "你的路到头了。另一条路还在继续。",
+      "h2": "在 T 字路口，到头的那条路必须让行，所以直通道路上的车有先行权。",
+      "p": "对。在 T 字路口，直通道路上的车先走。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn đang đi trên con đường kết thúc tại ngã ba hình chữ T. Ai có quyền ưu tiên?",
+      "o": [
+        "Xe trên con đường đi thẳng qua",
+        "Bạn, vì bạn đang rẽ",
+        "Xe bấm còi trước",
+        "Người lái xe lớn hơn"
+      ],
+      "h1": "Đường của bạn kết thúc. Đường kia vẫn tiếp tục.",
+      "h2": "Tại ngã ba chữ T, xe trên đường kết thúc phải nhường, nên xe trên đường đi thẳng qua có quyền ưu tiên.",
+      "p": "Đúng. Tại ngã ba chữ T, xe trên đường đi thẳng được đi trước."
+    },
+    "tl": {
+      "q": "Sa Florida, nasa daan ka na nagtatapos sa T-intersection. Sino ang may karapatan sa daan?",
+      "o": [
+        "Ang trapiko sa daang tuloy-tuloy",
+        "Ikaw, dahil liliko ka",
+        "Ang kotseng unang bumusina",
+        "Kung sino ang may mas malaking sasakyan"
+      ],
+      "h1": "Nagtatapos ang daan mo. Tuloy-tuloy ang kabilang daan.",
+      "h2": "Sa T-intersection, dapat magbigay-daan ang daang nagtatapos, kaya ang trapiko sa daang tuloy-tuloy ang may karapatan sa daan.",
+      "p": "Tama. Sa T-intersection, ang tuloy-tuloy na daan ang mauuna."
+    },
+    "ar": {
+      "q": "في Florida، أنت على طريق ينتهي عند تقاطع على شكل حرف T. من له حق المرور؟",
+      "o": [
+        "السيارات على الطريق الذي يستمر إلى الأمام",
+        "أنت، لأنك تنعطف",
+        "السيارة التي تستعمل البوق أولًا",
+        "من يقود المركبة الأكبر"
+      ],
+      "h1": "طريقك ينتهي هنا. الطريق الآخر يستمر.",
+      "h2": "عند تقاطع على شكل حرف T، يجب على الطريق الذي ينتهي أن يعطي حق المرور، لذلك حق المرور للسيارات على الطريق المستمر.",
+      "p": "صحيح. عند تقاطع على شكل حرف T، يمر الطريق المستمر أولًا."
     }
   },
   {
@@ -195,6 +435,54 @@
       "h1": "La luz verde le permite seguir, pero no despeja la calle delante de usted.",
       "h2": "Cuando usted dobla a la izquierda, debe ceder el paso al tráfico que viene de frente, así que espera hasta que el carro pase y el camino esté libre.",
       "p": "Correcto. Al doblar a la izquierda, deje pasar primero al tráfico de frente."
+    },
+    "zh": {
+      "q": "在 Florida，绿灯时你想左转。对面有一辆车开过来。你该怎么做？",
+      "o": [
+        "趁它还没靠近，赶快转",
+        "转弯，因为绿灯给你先行权",
+        "等一等，让对面的车先过去",
+        "闪一下车灯，然后转弯"
+      ],
+      "h1": "绿灯让你可以走，但不代表你前面的路是空的。",
+      "h2": "左转时，你必须让对面来的车先走，所以要等那辆车过去、路上安全了再转。",
+      "p": "对。左转时，让对面来的车先走。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn muốn rẽ trái khi đèn xanh. Có một xe đang chạy ngược chiều về phía bạn. Bạn làm gì?",
+      "o": [
+        "Rẽ nhanh trước khi xe đó đến gần",
+        "Rẽ, vì đèn xanh cho bạn quyền ưu tiên",
+        "Chờ và để xe ngược chiều đi qua trước",
+        "Nháy đèn rồi rẽ"
+      ],
+      "h1": "Đèn xanh cho phép bạn đi, nhưng không làm đường phía trước trống.",
+      "h2": "Khi rẽ trái, bạn phải nhường xe đi ngược chiều, nên bạn chờ xe đó đi qua và đường trống rồi mới rẽ.",
+      "p": "Đúng. Khi rẽ trái, hãy để xe ngược chiều đi trước."
+    },
+    "tl": {
+      "q": "Sa Florida, gusto mong kumaliwa sa berdeng ilaw. May kotseng paparating mula sa harap mo. Ano ang gagawin mo?",
+      "o": [
+        "Kumaliwa agad bago ito makalapit",
+        "Kumaliwa, dahil binibigyan ka ng berdeng ilaw ng karapatan sa daan",
+        "Maghintay at paunahin ang paparating na kotse",
+        "Mag-flash ng ilaw at kumaliwa"
+      ],
+      "h1": "Pinapayagan kang umandar ng berdeng ilaw, pero hindi nito nililinis ang daan sa harap mo.",
+      "h2": "Kapag kumakaliwa ka, dapat kang magbigay-daan sa paparating na trapiko, kaya maghihintay ka hanggang makalampas ang kotse at malinis ang daan.",
+      "p": "Tama. Kapag kumakaliwa, paunahin ang paparating na trapiko."
+    },
+    "ar": {
+      "q": "في Florida، تريد أن تنعطف يسارًا والإشارة خضراء. هناك سيارة قادمة نحوك. ماذا تفعل؟",
+      "o": [
+        "أنعطف بسرعة قبل أن تقترب",
+        "أنعطف، لأن الإشارة الخضراء تعطيني حق المرور",
+        "أنتظر وأترك السيارة القادمة تمر أولًا",
+        "أومض بالأضواء وأنعطف"
+      ],
+      "h1": "الإشارة الخضراء تسمح لك بالتحرك، لكنها لا تجعل الطريق أمامك فارغًا.",
+      "h2": "عندما تنعطف يسارًا، يجب أن تعطي حق المرور للسيارات القادمة نحوك، لذلك تنتظر حتى تمر السيارة ويصبح الطريق فارغًا.",
+      "p": "صحيح. عند الانعطاف يسارًا، اترك السيارات القادمة نحوك تمر أولًا."
     }
   },
   {
@@ -228,6 +516,54 @@
       "h1": "Usted entra a una calle que otros ya están usando.",
       "h2": "Cuando usted entra a una calle desde una entrada de casa o un callejón, debe ceder el paso a todos los vehículos de la calle y a todos los peatones.",
       "p": "Correcto. Al salir de una entrada de casa, ceda el paso a carros y peatones."
+    },
+    "zh": {
+      "q": "在 Florida，你正从私人车道开上街道。你必须给谁让行？",
+      "o": [
+        "只给大卡车",
+        "谁都不用，只要你打了转向灯",
+        "只给你左边的车",
+        "街上所有的车和所有走路的人"
+      ],
+      "h1": "你要开上一条别人已经在用的路。",
+      "h2": "从私人车道或小巷开上街道时，你必须让街上的每一辆车和每一个行人先走。",
+      "p": "对。从私人车道出来时，要让车和行人先走。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn đang lái xe từ lối vào nhà ra đường. Bạn phải nhường ai?",
+      "o": [
+        "Chỉ nhường xe tải lớn",
+        "Không ai cả, nếu bạn bật đèn xi nhan",
+        "Chỉ nhường xe bên trái",
+        "Mọi xe trên đường và mọi người đi bộ"
+      ],
+      "h1": "Bạn đang đi vào con đường mà người khác đang dùng.",
+      "h2": "Khi bạn từ lối vào nhà hoặc hẻm đi ra đường, bạn phải nhường mọi xe trên đường và mọi người đi bộ.",
+      "p": "Đúng. Khi ra từ lối vào nhà, hãy nhường xe và người đi bộ."
+    },
+    "tl": {
+      "q": "Sa Florida, lalabas ka mula sa driveway papunta sa kalye. Kanino ka dapat magbigay-daan?",
+      "o": [
+        "Sa malalaking trak lang",
+        "Wala, kung gagamit ka ng signal",
+        "Sa mga kotse lang sa kaliwa mo",
+        "Sa lahat ng kotse sa kalye at sa lahat ng taong naglalakad"
+      ],
+      "h1": "Papasok ka sa daan na ginagamit na ng iba.",
+      "h2": "Kapag pumapasok ka sa kalye mula sa driveway o eskinita, dapat kang magbigay-daan sa bawat sasakyan sa kalye at sa bawat taong naglalakad.",
+      "p": "Tama. Paglabas sa driveway, magbigay-daan sa mga kotse at sa mga naglalakad."
+    },
+    "ar": {
+      "q": "في Florida، تخرج بسيارتك من ممر خاص إلى الشارع. لمن يجب أن تعطي حق المرور؟",
+      "o": [
+        "للشاحنات الكبيرة فقط",
+        "لا أحد، إذا استعملت إشارة الانعطاف",
+        "للسيارات التي على يساري فقط",
+        "لكل السيارات في الشارع ولكل المشاة"
+      ],
+      "h1": "أنت تدخل طريقًا يستعمله آخرون الآن.",
+      "h2": "عندما تدخل الشارع من ممر خاص أو من زقاق، يجب أن تعطي حق المرور لكل مركبة في الشارع ولكل شخص يمشي.",
+      "p": "صحيح. عند الخروج من ممر خاص، أعطِ حق المرور للسيارات وللمشاة."
     }
   },
   {
@@ -261,6 +597,54 @@
       "h1": "Piense en las personas que pueden ir caminando por la acera.",
       "h2": "Cuando usted sale de un callejón o de una entrada de casa, debe parar antes de la acera, para no golpear a alguien que camina por ahí.",
       "p": "Correcto. Pare antes de la acera al salir de un callejón o entrada."
+    },
+    "zh": {
+      "q": "在 Florida，你从小巷开出来。到街道前有一段人行道。你必须在哪里停车？",
+      "o": [
+        "在穿过人行道之前",
+        "在人行道中间",
+        "在街道边上，过了人行道以后",
+        "你不需要停车"
+      ],
+      "h1": "想一想可能正在人行道上走路的人。",
+      "h2": "从小巷或私人车道开出来时，你必须在人行道前停车，这样才不会撞到在那里走路的人。",
+      "p": "对。离开小巷或私人车道时，要在人行道前停车。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn lái xe ra khỏi một con hẻm. Trước đường có vỉa hè. Bạn phải dừng ở đâu?",
+      "o": [
+        "Trước khi đi qua vỉa hè",
+        "Ở giữa vỉa hè",
+        "Ở mép đường, sau vỉa hè",
+        "Bạn không cần dừng"
+      ],
+      "h1": "Hãy nghĩ đến những người có thể đang đi trên vỉa hè.",
+      "h2": "Khi ra khỏi hẻm hoặc lối vào nhà, bạn phải dừng trước vỉa hè, để không đụng vào người đang đi bộ ở đó.",
+      "p": "Đúng. Hãy dừng trước vỉa hè khi ra khỏi hẻm hoặc lối vào nhà."
+    },
+    "tl": {
+      "q": "Sa Florida, lumabas ka mula sa eskinita. May bangketa bago ang kalye. Saan ka dapat huminto?",
+      "o": [
+        "Bago ka tumawid sa bangketa",
+        "Sa gitna ng bangketa",
+        "Sa gilid ng kalye, lampas sa bangketa",
+        "Hindi mo kailangang huminto"
+      ],
+      "h1": "Isipin ang mga taong maaaring naglalakad sa bangketa.",
+      "h2": "Kapag lumalabas ka mula sa eskinita o driveway, dapat kang huminto bago ang bangketa, para hindi ka makabangga ng taong naglalakad doon.",
+      "p": "Tama. Huminto bago ang bangketa kapag lumalabas sa eskinita o driveway."
+    },
+    "ar": {
+      "q": "في Florida، تخرج بسيارتك من زقاق. يوجد رصيف قبل الشارع. أين يجب أن تتوقف؟",
+      "o": [
+        "قبل أن أعبر الرصيف",
+        "في وسط الرصيف",
+        "عند طرف الشارع، بعد الرصيف",
+        "لا أحتاج إلى التوقف"
+      ],
+      "h1": "فكّر في الناس الذين قد يمشون على الرصيف.",
+      "h2": "عندما تخرج من زقاق أو ممر خاص، يجب أن تتوقف قبل الرصيف، حتى لا تصدم شخصًا يمشي هناك.",
+      "p": "صحيح. توقف قبل الرصيف عندما تخرج من زقاق أو ممر خاص."
     }
   },
   {
@@ -294,6 +678,54 @@
       "h1": "Un cruce peatonal no siempre tiene pintura.",
       "h2": "Cada esquina de una intersección tiene un cruce peatonal aunque no tenga líneas pintadas, así que usted debe ceder el paso a la persona que cruza.",
       "p": "Correcto. Ceda el paso a quien cruza en la esquina, con o sin líneas."
+    },
+    "zh": {
+      "q": "在 Florida，有人在一个没有画人行横道线的路口拐角过马路。你必须让行吗？",
+      "o": [
+        "不用，只有画了线的人行横道才算",
+        "要，路口的拐角就算没有画线，也是人行横道",
+        "只有过马路的是小孩时才要",
+        "只有警察在场时才要"
+      ],
+      "h1": "人行横道不一定都画了线。",
+      "h2": "路口的每个拐角都有人行横道，就算没有画线也一样，所以你必须让过马路的人先走。",
+      "p": "对。不管有没有画线，都要让在拐角过马路的人先走。"
+    },
+    "vi": {
+      "q": "Ở Florida, một người đang băng qua đường ở góc giao lộ không có vạch kẻ cho người đi bộ. Bạn có phải nhường không?",
+      "o": [
+        "Không, chỉ chỗ có vạch kẻ mới tính",
+        "Có, góc giao lộ là lối qua đường dù không có vạch kẻ",
+        "Chỉ khi người đó là trẻ em",
+        "Chỉ khi có cảnh sát ở đó"
+      ],
+      "h1": "Lối qua đường cho người đi bộ không phải lúc nào cũng có sơn.",
+      "h2": "Mỗi góc của giao lộ đều có lối qua đường dù không có vạch sơn, nên bạn phải nhường người đang băng qua.",
+      "p": "Đúng. Hãy nhường người băng qua ở góc giao lộ, có vạch hay không có vạch."
+    },
+    "tl": {
+      "q": "Sa Florida, may taong tumatawid sa kanto na walang pinturang guhit ng crosswalk. Dapat ka bang magbigay-daan?",
+      "o": [
+        "Hindi, ang may pinturang crosswalk lang ang binibilang",
+        "Oo, ang kanto ng intersection ay crosswalk kahit walang guhit",
+        "Kung bata lang ang tao",
+        "Kung may pulis lang doon"
+      ],
+      "h1": "Hindi laging may pintura ang crosswalk.",
+      "h2": "Bawat kanto ng intersection ay may crosswalk kahit walang pinturang guhit, kaya dapat kang magbigay-daan sa taong tumatawid.",
+      "p": "Tama. Magbigay-daan sa mga tumatawid sa kanto, may guhit man o wala."
+    },
+    "ar": {
+      "q": "في Florida، شخص يعبر الشارع عند زاوية تقاطع ليس فيها خطوط ممر مشاة مرسومة. هل يجب أن تعطيه حق المرور؟",
+      "o": [
+        "لا، ممرات المشاة المرسومة فقط هي المهمة",
+        "نعم، زاوية التقاطع هي ممر مشاة حتى بدون خطوط",
+        "فقط إذا كان الشخص طفلًا",
+        "فقط إذا كان هناك شرطي"
+      ],
+      "h1": "ممر المشاة ليس مرسومًا دائمًا.",
+      "h2": "عند كل زاوية من زوايا التقاطع يوجد ممر مشاة حتى لو لم تكن هناك خطوط مرسومة، لذلك يجب أن تعطي حق المرور للشخص الذي يعبر.",
+      "p": "صحيح. أعطِ حق المرور للناس الذين يعبرون عند الزاوية، مع خطوط أو بدونها."
     }
   },
   {
@@ -327,6 +759,54 @@
       "h1": "Su camino se cruza con el camino de ellas.",
       "h2": "Cuando usted dobla, debe ceder el paso a las personas que caminan en el cruce peatonal, así que para y espera hasta que salgan de su camino.",
       "p": "Correcto. Al doblar, deje cruzar primero a las personas en el cruce peatonal."
+    },
+    "zh": {
+      "q": "在 Florida，你在绿灯时右转。有人正在过你要转进去的那条街。你该怎么做？",
+      "o": [
+        "从他们中间慢慢开过去",
+        "按喇叭让他们走快一点",
+        "停车，让他们走完",
+        "转弯，因为你是绿灯"
+      ],
+      "h1": "你的路线和他们的路线交叉。",
+      "h2": "转弯时，你必须让人行横道上的行人先走，所以你要停下来，等他们离开你的路线。",
+      "p": "对。转弯时，让人行横道上的人先过。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn rẽ phải khi đèn xanh. Có người đang băng qua con đường bạn sắp rẽ vào. Bạn làm gì?",
+      "o": [
+        "Lái chậm len giữa họ",
+        "Bấm còi để họ đi nhanh hơn",
+        "Dừng lại và để họ qua hết đường",
+        "Rẽ, vì đèn của bạn là đèn xanh"
+      ],
+      "h1": "Đường đi của bạn cắt ngang đường đi của họ.",
+      "h2": "Khi rẽ, bạn phải nhường người đi bộ trên lối qua đường, nên bạn dừng lại và chờ đến khi họ đi khỏi đường của bạn.",
+      "p": "Đúng. Khi rẽ, hãy để người trên lối qua đường đi trước."
+    },
+    "tl": {
+      "q": "Sa Florida, kumanan ka sa berdeng ilaw. May mga taong tumatawid sa kalyeng papasukan mo. Ano ang gagawin mo?",
+      "o": [
+        "Dahan-dahang dumaan sa pagitan nila",
+        "Bumusina para bumilis sila",
+        "Huminto at hayaan silang matapos tumawid",
+        "Kumanan, dahil berde ang ilaw mo"
+      ],
+      "h1": "Nagtatagpo ang daan mo at ang daan nila.",
+      "h2": "Kapag lumiliko ka, dapat kang magbigay-daan sa mga taong naglalakad sa crosswalk, kaya hihinto ka at maghihintay hanggang wala na sila sa daan mo.",
+      "p": "Tama. Kapag lumiliko, paunahing tumawid ang mga tao sa crosswalk."
+    },
+    "ar": {
+      "q": "في Florida، تنعطف يمينًا والإشارة خضراء. هناك أشخاص يعبرون الشارع الذي تدخل إليه. ماذا تفعل؟",
+      "o": [
+        "أقود ببطء بينهم",
+        "أستعمل البوق ليسرعوا",
+        "أتوقف وأتركهم ينهون العبور",
+        "أنعطف، لأن الإشارة عندي خضراء"
+      ],
+      "h1": "طريقك يقطع طريقهم.",
+      "h2": "عندما تنعطف، يجب أن تعطي حق المرور للمشاة في ممر المشاة، لذلك تتوقف وتنتظر حتى يبتعدوا عن طريقك.",
+      "p": "صحيح. عندما تنعطف، اترك الناس في ممر المشاة يعبرون أولًا."
     }
   },
   {
@@ -360,6 +840,54 @@
       "h1": "Un bastón blanco o un perro guía le indican que la persona tal vez no puede verlo.",
       "h2": "Una persona ciega que usa bastón blanco o perro guía siempre tiene el derecho de paso, así que usted debe parar y dejarla cruzar.",
       "p": "Correcto. Siempre pare por una persona con bastón blanco o perro guía."
+    },
+    "zh": {
+      "q": "在 Florida，有一个拿白色手杖或带导盲犬的人正在过马路。你必须怎么做？",
+      "o": [
+        "按喇叭，让这个人知道你在那里",
+        "小心地绕过这个人",
+        "如果你是绿灯，就开过去",
+        "停车，让这个人过马路"
+      ],
+      "h1": "白色手杖或导盲犬告诉你，这个人可能看不见你。",
+      "h2": "使用白色手杖或导盲犬的盲人永远有先行权，所以你必须停车，让他们过马路。",
+      "p": "对。看到拿白色手杖或带导盲犬的人，一定要停车。"
+    },
+    "vi": {
+      "q": "Ở Florida, một người cầm gậy trắng hoặc có chó dẫn đường đang băng qua đường. Bạn phải làm gì?",
+      "o": [
+        "Bấm còi để người đó biết bạn ở đó",
+        "Lái vòng qua người đó một cách cẩn thận",
+        "Đi tiếp nếu đèn của bạn là đèn xanh",
+        "Dừng lại và để người đó băng qua"
+      ],
+      "h1": "Gậy trắng hoặc chó dẫn đường cho bạn biết người đó có thể không nhìn thấy bạn.",
+      "h2": "Người khiếm thị dùng gậy trắng hoặc chó dẫn đường luôn có quyền ưu tiên, nên bạn phải dừng lại và để họ băng qua.",
+      "p": "Đúng. Luôn dừng lại cho người cầm gậy trắng hoặc có chó dẫn đường."
+    },
+    "tl": {
+      "q": "Sa Florida, may taong may puting tungkod o guide dog na tumatawid sa kalye. Ano ang dapat mong gawin?",
+      "o": [
+        "Bumusina para malaman niyang nandiyan ka",
+        "Maingat na umiwas sa paligid niya",
+        "Umandar kung berde ang ilaw mo",
+        "Huminto at hayaan siyang tumawid"
+      ],
+      "h1": "Ang puting tungkod o guide dog ay nagsasabing maaaring hindi ka nakikita ng tao.",
+      "h2": "Ang taong bulag na gumagamit ng puting tungkod o guide dog ay laging may karapatan sa daan, kaya dapat kang huminto at hayaan siyang tumawid.",
+      "p": "Tama. Laging huminto para sa taong may puting tungkod o guide dog."
+    },
+    "ar": {
+      "q": "في Florida، شخص معه عصا بيضاء أو كلب مرشد يعبر الشارع. ماذا يجب أن تفعل؟",
+      "o": [
+        "أستعمل البوق حتى يعرف أنني هنا",
+        "أقود حوله بحذر",
+        "أتحرك إذا كانت الإشارة عندي خضراء",
+        "أتوقف وأترك الشخص يعبر"
+      ],
+      "h1": "العصا البيضاء أو الكلب المرشد يخبرك أن الشخص قد لا يستطيع أن يراك.",
+      "h2": "الشخص الكفيف الذي يستعمل عصا بيضاء أو كلبًا مرشدًا له حق المرور دائمًا، لذلك يجب أن تتوقف وتتركه يعبر.",
+      "p": "صحيح. توقف دائمًا لشخص معه عصا بيضاء أو كلب مرشد."
     }
   },
   {
@@ -393,6 +921,54 @@
       "h1": "Piense en quién ya va manejando dentro del círculo.",
       "h2": "Cuando usted entra a una rotonda, debe ceder el paso al tráfico que ya está en el círculo, y luego entrar cuando haya un espacio seguro.",
       "p": "Correcto. Ceda el paso a los carros que ya están en la rotonda."
+    },
+    "zh": {
+      "q": "在 Florida，你马上要进入环岛。谁有先行权？",
+      "o": [
+        "已经在环岛里行驶的车",
+        "你，因为你正在进入",
+        "你右边也正在进入的车",
+        "先按喇叭的司机"
+      ],
+      "h1": "想一想谁已经在环岛里开车。",
+      "h2": "进入环岛时，你必须让已经在环岛里的车先走，等有安全的空隙再进去。",
+      "p": "对。让已经在环岛里的车先走。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn sắp đi vào vòng xuyến. Ai có quyền ưu tiên?",
+      "o": [
+        "Xe đang chạy bên trong vòng xuyến",
+        "Bạn, vì bạn đang đi vào",
+        "Xe bên phải bạn cũng đang đi vào",
+        "Người lái bấm còi trước"
+      ],
+      "h1": "Hãy nghĩ xem ai đang chạy trong vòng xuyến rồi.",
+      "h2": "Khi đi vào vòng xuyến, bạn phải nhường xe đã ở trong vòng xuyến, rồi đi vào khi có khoảng trống an toàn.",
+      "p": "Đúng. Hãy nhường xe đã ở trong vòng xuyến."
+    },
+    "tl": {
+      "q": "Sa Florida, papasok ka na sa roundabout. Sino ang may karapatan sa daan?",
+      "o": [
+        "Ang trapikong umaandar na sa loob ng roundabout",
+        "Ikaw, dahil papasok ka",
+        "Ang kotse sa kanan mo na papasok din",
+        "Ang drayber na unang bumusina"
+      ],
+      "h1": "Isipin kung sino na ang nagmamaneho sa loob ng bilog.",
+      "h2": "Kapag pumapasok ka sa roundabout, dapat kang magbigay-daan sa trapikong nasa loob na ng bilog, at pumasok kapag may ligtas na puwang.",
+      "p": "Tama. Magbigay-daan sa mga kotseng nasa loob na ng roundabout."
+    },
+    "ar": {
+      "q": "في Florida، أنت على وشك أن تدخل دوّارًا. من له حق المرور؟",
+      "o": [
+        "السيارات التي تسير الآن داخل الدوّار",
+        "أنت، لأنك تدخل",
+        "السيارة التي على يمينك وتدخل أيضًا",
+        "السائق الذي يستعمل البوق أولًا"
+      ],
+      "h1": "فكّر في من يقود الآن داخل الدائرة.",
+      "h2": "عندما تدخل دوّارًا، يجب أن تعطي حق المرور للسيارات الموجودة داخل الدائرة، ثم تدخل عندما توجد مسافة آمنة.",
+      "p": "صحيح. أعطِ حق المرور للسيارات الموجودة داخل الدوّار."
     }
   },
   {
@@ -426,6 +1002,54 @@
       "h1": "En los Estados Unidos se maneja por el lado derecho de la calle.",
       "h2": "En una rotonda en los Estados Unidos, usted entra hacia la derecha y da la vuelta en contra del sentido del reloj alrededor del centro.",
       "p": "Correcto. En una rotonda, vaya hacia la derecha, en contra del reloj."
+    },
+    "zh": {
+      "q": "在美国，车在环岛里朝哪个方向行驶？",
+      "o": [
+        "顺时针，向左",
+        "逆时针，向右",
+        "司机想走哪边都行",
+        "从中间直接穿过去"
+      ],
+      "h1": "在美国，车靠道路右边行驶。",
+      "h2": "在美国的环岛里，你向右进入，然后绕着中心逆时针行驶。",
+      "p": "对。在环岛里，向右走，逆时针方向。"
+    },
+    "vi": {
+      "q": "Ở Hoa Kỳ, xe chạy theo chiều nào trong vòng xuyến?",
+      "o": [
+        "Theo chiều kim đồng hồ, sang trái",
+        "Ngược chiều kim đồng hồ, sang phải",
+        "Theo chiều nào người lái chọn cũng được",
+        "Đi thẳng qua giữa"
+      ],
+      "h1": "Ở Hoa Kỳ, bạn lái xe bên phải đường.",
+      "h2": "Trong vòng xuyến ở Hoa Kỳ, bạn đi vào về phía bên phải và chạy ngược chiều kim đồng hồ quanh tâm.",
+      "p": "Đúng. Trong vòng xuyến, đi sang phải, ngược chiều kim đồng hồ."
+    },
+    "tl": {
+      "q": "Saang direksiyon umiikot ang mga kotse sa roundabout sa United States?",
+      "o": [
+        "Kasunod ng ikot ng orasan (clockwise), papuntang kaliwa",
+        "Salungat sa ikot ng orasan (counterclockwise), papuntang kanan",
+        "Kahit saan, depende sa drayber",
+        "Diretso sa gitna"
+      ],
+      "h1": "Sa United States, sa kanang bahagi ng daan ka nagmamaneho.",
+      "h2": "Sa roundabout sa United States, papasok ka pakanan at iikot nang salungat sa ikot ng orasan (counterclockwise) sa paligid ng gitna.",
+      "p": "Tama. Sa roundabout, pumunta pakanan, salungat sa ikot ng orasan."
+    },
+    "ar": {
+      "q": "في أي اتجاه تسير السيارات داخل الدوّار في الولايات المتحدة؟",
+      "o": [
+        "مع عقارب الساعة، إلى اليسار",
+        "عكس عقارب الساعة، إلى اليمين",
+        "في أي اتجاه يختاره السائق",
+        "مباشرة عبر الوسط"
+      ],
+      "h1": "في الولايات المتحدة، تقود على الجانب الأيمن من الطريق.",
+      "h2": "في الدوّار في الولايات المتحدة، تدخل إلى اليمين وتسير عكس عقارب الساعة حول الوسط.",
+      "p": "صحيح. في الدوّار، اذهب إلى اليمين، عكس عقارب الساعة."
     }
   },
   {
@@ -459,6 +1083,54 @@
       "h1": "La ambulancia necesita el camino libre. Piense dónde puede quitarse de su camino.",
       "h2": "Cuando viene un vehículo de emergencia con sirena y luces intermitentes, usted se orilla al borde más cercano de la calle y para hasta que pase.",
       "p": "Correcto. Oríllese al borde más cercano y pare para los vehículos de emergencia."
+    },
+    "zh": {
+      "q": "在 Florida，一辆鸣着警笛、闪着灯的救护车从你后面开过来。你该怎么做？",
+      "o": [
+        "加速，保持在它前面",
+        "就在你的车道里原地停下",
+        "靠到离你最近的路边，然后停车",
+        "换到左边车道，继续开"
+      ],
+      "h1": "救护车需要一条畅通的路。想一想你可以躲到哪里。",
+      "h2": "当急救车辆鸣着警笛、闪着灯开过来时，你要靠到最近的路边停车，等它过去。",
+      "p": "对。遇到急救车辆，靠到最近的路边停车。"
+    },
+    "vi": {
+      "q": "Ở Florida, một xe cứu thương hú còi và nháy đèn đang đến từ phía sau bạn. Bạn làm gì?",
+      "o": [
+        "Tăng tốc để chạy trước xe đó",
+        "Dừng ngay tại chỗ, trong làn của bạn",
+        "Tấp vào mép đường gần nhất và dừng lại",
+        "Chuyển sang làn trái và tiếp tục chạy"
+      ],
+      "h1": "Xe cứu thương cần đường trống. Hãy nghĩ xem bạn có thể tránh ra ở đâu.",
+      "h2": "Khi xe khẩn cấp đến với còi hú và đèn nháy, bạn tấp vào mép đường gần nhất và dừng lại cho đến khi xe đó đi qua.",
+      "p": "Đúng. Hãy tấp vào mép đường gần nhất và dừng lại cho xe khẩn cấp."
+    },
+    "tl": {
+      "q": "Sa Florida, may ambulansiyang may sirena at kumikislap na ilaw na paparating sa likod mo. Ano ang gagawin mo?",
+      "o": [
+        "Bumilis para manatiling nauuna rito",
+        "Huminto kung nasaan ka, sa lane mo",
+        "Tumabi sa pinakamalapit na gilid ng daan at huminto",
+        "Lumipat sa kaliwang lane at magpatuloy"
+      ],
+      "h1": "Kailangan ng ambulansiya ng malinis na daan. Isipin kung saan ka puwedeng umiwas.",
+      "h2": "Kapag may emergency vehicle na may sirena at kumikislap na ilaw, tatabi ka sa pinakamalapit na gilid ng daan at hihinto hanggang makalampas ito.",
+      "p": "Tama. Tumabi sa pinakamalapit na gilid at huminto para sa mga emergency vehicle."
+    },
+    "ar": {
+      "q": "في Florida، سيارة إسعاف بصفارة وأضواء وامضة تأتي خلفك. ماذا تفعل؟",
+      "o": [
+        "أسرع لأبقى أمامها",
+        "أتوقف في مكاني، داخل مساري",
+        "أتحرك إلى أقرب طرف للطريق وأتوقف",
+        "أنتقل إلى المسار الأيسر وأستمر في القيادة"
+      ],
+      "h1": "سيارة الإسعاف تحتاج إلى طريق فارغ. فكّر أين يمكنك أن تبتعد عن طريقها.",
+      "h2": "عندما تأتي مركبة طوارئ بصفارة وأضواء وامضة، تتحرك إلى أقرب طرف للطريق وتتوقف حتى تمر.",
+      "p": "صحيح. تحرك إلى أقرب طرف وتوقف لمركبات الطوارئ."
     }
   },
   {
@@ -492,6 +1164,54 @@
       "h1": "Parar dentro de la intersección puede bloquear al camión de bomberos.",
       "h2": "Si usted ya está en una intersección, sigue hasta cruzarla y luego se orilla al borde más cercano y para, para no bloquear al vehículo de emergencia.",
       "p": "Correcto. Primero salga de la intersección, luego oríllese y pare."
+    },
+    "zh": {
+      "q": "在 Florida，你正在路口中间，听到后面有消防车的警笛声。你该怎么做？",
+      "o": [
+        "开过路口，然后靠到最近的路边停车",
+        "停在路口中间",
+        "倒车退出路口",
+        "马上左转"
+      ],
+      "h1": "停在路口里面可能会挡住消防车。",
+      "h2": "如果你已经在路口里，就继续开过去，然后靠到最近的路边停车，这样就不会挡住急救车辆。",
+      "p": "对。先开出路口，再靠边停车。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn đang ở giữa giao lộ thì nghe tiếng còi xe cứu hỏa phía sau. Bạn làm gì?",
+      "o": [
+        "Chạy qua hết giao lộ, rồi tấp vào mép đường gần nhất và dừng lại",
+        "Dừng lại giữa giao lộ",
+        "Lùi xe ra khỏi giao lộ",
+        "Rẽ trái ngay lập tức"
+      ],
+      "h1": "Dừng lại trong giao lộ có thể chắn đường xe cứu hỏa.",
+      "h2": "Nếu bạn đã ở trong giao lộ, bạn tiếp tục chạy qua, rồi tấp vào mép đường gần nhất và dừng lại, để không chắn đường xe khẩn cấp.",
+      "p": "Đúng. Hãy ra khỏi giao lộ trước, rồi tấp vào lề và dừng lại."
+    },
+    "tl": {
+      "q": "Sa Florida, nasa gitna ka ng intersection nang marinig mo ang sirena ng trak ng bumbero sa likod mo. Ano ang gagawin mo?",
+      "o": [
+        "Tumawid sa intersection, saka tumabi sa pinakamalapit na gilid at huminto",
+        "Huminto sa gitna ng intersection",
+        "Umatras palabas ng intersection",
+        "Kumaliwa agad"
+      ],
+      "h1": "Kapag huminto ka sa loob ng intersection, maaari mong maharangan ang trak ng bumbero.",
+      "h2": "Kung nasa intersection ka na, magpatuloy ka hanggang makalabas dito, saka tumabi sa pinakamalapit na gilid at huminto, para hindi mo maharangan ang emergency vehicle.",
+      "p": "Tama. Lumabas muna sa intersection, saka tumabi at huminto."
+    },
+    "ar": {
+      "q": "في Florida، أنت في وسط التقاطع وتسمع صفارة سيارة إطفاء خلفك. ماذا تفعل؟",
+      "o": [
+        "أعبر التقاطع، ثم أتحرك إلى أقرب طرف وأتوقف",
+        "أتوقف في وسط التقاطع",
+        "أرجع إلى الخلف وأخرج من التقاطع",
+        "أنعطف يسارًا فورًا"
+      ],
+      "h1": "إذا توقفت داخل التقاطع، قد تسد الطريق على سيارة الإطفاء.",
+      "h2": "إذا كنت داخل التقاطع، تستمر حتى تعبره، ثم تتحرك إلى أقرب طرف وتتوقف، حتى لا تسد الطريق على مركبة الطوارئ.",
+      "p": "صحيح. اعبر التقاطع أولًا، ثم ابتعد إلى الطرف وتوقف."
     }
   },
   {
@@ -525,6 +1245,54 @@
       "h1": "Los carros del cortejo viajan juntos como un solo grupo.",
       "h2": "Usted debe ceder el paso a un cortejo fúnebre y no debe cruzarlo ni unirse a él, así que espera hasta que pase completo.",
       "p": "Correcto. Ceda el paso al cortejo fúnebre y déjelo pasar."
+    },
+    "zh": {
+      "q": "在 Florida，一支送葬车队正在通过路口。你应该怎么做？",
+      "o": [
+        "趁有空隙，从车队中间开过去",
+        "跟在车队最后面",
+        "按喇叭让他们走快一点",
+        "让行，等整个车队过去"
+      ],
+      "h1": "送葬车队里的车是作为一个整体一起走的。",
+      "h2": "你必须给送葬车队让行，不能从中间穿过，也不能加入车队，所以要等整个车队都过去。",
+      "p": "对。给送葬车队让行，让它过去。"
+    },
+    "vi": {
+      "q": "Ở Florida, một đoàn xe đưa tang đang đi qua giao lộ. Bạn nên làm gì?",
+      "o": [
+        "Chạy chen vào giữa các xe khi có khoảng trống",
+        "Nhập vào cuối đoàn xe",
+        "Bấm còi để họ đi nhanh hơn",
+        "Nhường đường và chờ cả đoàn xe đi qua"
+      ],
+      "h1": "Các xe trong đoàn đưa tang đi cùng nhau như một nhóm.",
+      "h2": "Bạn phải nhường đoàn xe đưa tang và không được chen ngang hay nhập vào đoàn, nên bạn chờ đến khi cả đoàn đi qua.",
+      "p": "Đúng. Hãy nhường đoàn xe đưa tang và để đoàn đi qua."
+    },
+    "tl": {
+      "q": "Sa Florida, may prusisyon ng libing na dumaraan sa intersection. Ano ang dapat mong gawin?",
+      "o": [
+        "Sumingit sa pagitan ng mga kotse kapag may puwang",
+        "Sumama sa dulo ng hanay",
+        "Bumusina para bumilis sila",
+        "Magbigay-daan at maghintay hanggang makalampas ang buong prusisyon"
+      ],
+      "h1": "Magkakasamang bumibiyahe ang mga kotse sa prusisyon bilang isang grupo.",
+      "h2": "Dapat kang magbigay-daan sa prusisyon ng libing at hindi ka dapat sumingit o sumama rito, kaya maghihintay ka hanggang makalampas ang lahat ng ito.",
+      "p": "Tama. Magbigay-daan sa prusisyon ng libing at hayaan itong makalampas."
+    },
+    "ar": {
+      "q": "في Florida، موكب جنازة يعبر التقاطع. ماذا يجب أن تفعل؟",
+      "o": [
+        "أقود بين السيارات عندما توجد فجوة",
+        "أنضم إلى آخر الموكب",
+        "أستعمل البوق ليسرعوا",
+        "أعطي حق المرور وأنتظر حتى يمر الموكب كله"
+      ],
+      "h1": "السيارات في الموكب تسير معًا كمجموعة واحدة.",
+      "h2": "يجب أن تعطي حق المرور لموكب الجنازة، ولا يجوز أن تقطعه أو تنضم إليه، لذلك تنتظر حتى يمر كله.",
+      "p": "صحيح. أعطِ حق المرور لموكب الجنازة واتركه يمر."
     }
   },
   {
@@ -558,6 +1326,54 @@
       "h1": "La ley Move Over de Florida le pide dar más espacio a quienes están parados trabajando.",
       "h2": "Según la ley Move Over de Florida, usted debe salir del carril más cercano al vehículo de emergencia parado cuando sea seguro cambiar de carril.",
       "p": "Correcto. Cámbiese de carril para un vehículo de emergencia parado."
+    },
+    "zh": {
+      "q": "在 Florida，一辆警车停在路肩上，车灯在闪。你所在的路，你的方向有两条车道。你必须怎么做？",
+      "o": [
+        "保持车速，留在你的车道里",
+        "如果安全，离开最靠近警车的那条车道",
+        "停在警车旁边",
+        "经过时按喇叭"
+      ],
+      "h1": "Florida 的 Move Over 法要求你给停在路边工作的人多留空间。",
+      "h2": "根据 Florida 的 Move Over 法，在可以安全换道时，你必须离开最靠近停着的急救车辆的那条车道。",
+      "p": "对。遇到停着的急救车辆，要让出一条车道。"
+    },
+    "vi": {
+      "q": "Ở Florida, một xe cảnh sát đang dừng trên lề đường và nháy đèn. Đường của bạn có hai làn cùng chiều. Bạn phải làm gì?",
+      "o": [
+        "Giữ tốc độ và ở lại trong làn của bạn",
+        "Rời khỏi làn gần xe cảnh sát nhất nếu an toàn",
+        "Dừng lại cạnh xe cảnh sát",
+        "Bấm còi khi chạy qua"
+      ],
+      "h1": "Luật \"Move Over\" của Florida yêu cầu bạn chừa thêm chỗ cho người đang làm việc bên đường.",
+      "h2": "Theo luật \"Move Over\" của Florida, bạn phải rời khỏi làn gần xe khẩn cấp đang dừng nhất khi đổi làn an toàn.",
+      "p": "Đúng. Hãy chuyển sang làn khác khi có xe khẩn cấp đang dừng."
+    },
+    "tl": {
+      "q": "Sa Florida, may kotse ng pulis na nakahinto sa shoulder (gilid ng daan) na kumikislap ang ilaw. Nasa daan ka na may dalawang lane papunta sa direksiyon mo. Ano ang dapat mong gawin?",
+      "o": [
+        "Panatilihin ang bilis mo at manatili sa lane mo",
+        "Umalis sa lane na pinakamalapit sa kotse ng pulis kung ligtas",
+        "Huminto sa tabi ng kotse ng pulis",
+        "Bumusina habang dumaraan"
+      ],
+      "h1": "Hinihiling ng Move Over law ng Florida na bigyan mo ng mas malaking espasyo ang mga nakahintong manggagawa.",
+      "h2": "Ayon sa Move Over law ng Florida, dapat mong iwan ang lane na pinakamalapit sa nakahintong emergency vehicle kapag ligtas lumipat ng lane.",
+      "p": "Tama. Lumipat ng isang lane para sa nakahintong emergency vehicle."
+    },
+    "ar": {
+      "q": "في Florida، سيارة شرطة متوقفة على كتف الطريق وأضواؤها تومض. أنت على طريق فيه مساران في اتجاهك. ماذا يجب أن تفعل؟",
+      "o": [
+        "أحافظ على سرعتي وأبقى في مساري",
+        "أترك المسار الأقرب إلى سيارة الشرطة إذا كان ذلك آمنًا",
+        "أتوقف بجانب سيارة الشرطة",
+        "أستعمل البوق وأنا أمر"
+      ],
+      "h1": "قانون Move Over في Florida يطلب منك أن تعطي العاملين المتوقفين مساحة أكبر.",
+      "h2": "حسب قانون Move Over في Florida، يجب أن تترك المسار الأقرب إلى مركبة الطوارئ المتوقفة عندما يكون تغيير المسار آمنًا.",
+      "p": "صحيح. ابتعد مسارًا واحدًا عن مركبة الطوارئ المتوقفة."
     }
   },
   {
@@ -591,6 +1407,54 @@
       "h1": "Si no puede cambiarse de carril, la ley le pide bajar mucho la velocidad.",
       "h2": "Cuando usted no puede cambiarse de carril, la ley de Florida dice que debe bajar a 20 mph menos que el límite marcado, así que en una calle de 55 mph baja a 35 mph.",
       "p": "Correcto. Si no puede cambiarse de carril, baje 20 mph del límite."
+    },
+    "zh": {
+      "q": "在 Florida，你没办法安全地给停着的急救车辆让出车道。限速是 55 英里/小时。你必须怎么做？",
+      "o": [
+        "继续以 55 英里/小时行驶",
+        "停在你的车道里",
+        "减速到比限速低 20 英里/小时，也就是 35 英里/小时",
+        "加速，快点开过去"
+      ],
+      "h1": "如果你不能换道，法律要求你大幅减速。",
+      "h2": "不能换道时，Florida 法律规定你必须减速到比限速低 20 英里/小时，所以在限速 55 英里/小时的路上，你要减到 35 英里/小时。",
+      "p": "对。不能换道时，要减速到比限速低 20 英里/小时。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn không thể chuyển làn an toàn để tránh một xe khẩn cấp đang dừng. Giới hạn tốc độ là 55 mph. Bạn phải làm gì?",
+      "o": [
+        "Tiếp tục chạy 55 mph",
+        "Dừng lại trong làn của bạn",
+        "Giảm xuống thấp hơn giới hạn 20 mph, tức là 35 mph",
+        "Tăng tốc để vượt qua nhanh"
+      ],
+      "h1": "Nếu không thể chuyển làn, luật yêu cầu bạn giảm tốc độ nhiều.",
+      "h2": "Khi không thể chuyển làn, luật Florida nói bạn phải giảm xuống thấp hơn giới hạn tốc độ 20 mph, nên trên đường 55 mph bạn giảm xuống 35 mph.",
+      "p": "Đúng. Nếu không thể chuyển làn, hãy giảm xuống thấp hơn giới hạn 20 mph."
+    },
+    "tl": {
+      "q": "Sa Florida, hindi ka ligtas na makalipat ng lane para sa nakahintong emergency vehicle. Ang speed limit ay 55 mph. Ano ang dapat mong gawin?",
+      "o": [
+        "Magpatuloy sa 55 mph",
+        "Huminto sa lane mo",
+        "Bumagal sa 20 mph na mas mababa sa limit, kaya 35 mph",
+        "Bumilis para madaanan ito agad"
+      ],
+      "h1": "Kung hindi ka makalipat, malaking bawas sa bilis ang hinihingi ng batas.",
+      "h2": "Kapag hindi ka makalipat ng lane, sinasabi ng batas ng Florida na dapat kang bumagal sa 20 mph na mas mababa sa nakapaskil na speed limit, kaya sa daang 55 mph, bababa ka sa 35 mph.",
+      "p": "Tama. Kung hindi ka makalipat, bumagal sa 20 mph na mas mababa sa limit."
+    },
+    "ar": {
+      "q": "في Florida، لا تستطيع أن تبتعد بأمان عن مركبة طوارئ متوقفة. حد السرعة 55 ميلًا في الساعة. ماذا يجب أن تفعل؟",
+      "o": [
+        "أستمر بسرعة 55 ميلًا في الساعة",
+        "أتوقف في مساري",
+        "أخفف السرعة إلى 20 ميلًا في الساعة أقل من الحد، أي 35 ميلًا في الساعة",
+        "أسرع لأتجاوزها بسرعة"
+      ],
+      "h1": "إذا لم تستطع أن تبتعد، يطلب القانون تخفيضًا كبيرًا في السرعة.",
+      "h2": "عندما لا تستطيع أن تبتعد، يقول قانون Florida إنه يجب أن تخفف السرعة إلى 20 ميلًا في الساعة أقل من حد السرعة المكتوب، لذلك على طريق حده 55 ميلًا في الساعة تخفف إلى 35 ميلًا في الساعة.",
+      "p": "صحيح. إذا لم تستطع أن تبتعد، خفف السرعة إلى 20 ميلًا في الساعة أقل من الحد."
     }
   },
   {
@@ -624,6 +1488,54 @@
       "h1": "Veinte menos que el límite sería cero, así que la ley da un número especial.",
       "h2": "Cuando el límite es 20 mph o menos y usted no puede cambiarse de carril, la ley de Florida dice que debe bajar a 5 mph.",
       "p": "Correcto. En una calle de 20 mph o menos, baje a 5 mph."
+    },
+    "zh": {
+      "q": "在 Florida，限速是 20 英里/小时。一辆拖车停着，车灯在闪，你又没办法换道。你最快可以用多少速度经过它？",
+      "o": [
+        "5 英里/小时",
+        "15 英里/小时",
+        "20 英里/小时",
+        "10 英里/小时"
+      ],
+      "h1": "比限速低 20 就变成零了，所以法律给了一个特别的数字。",
+      "h2": "当限速是 20 英里/小时或更低，而你又不能换道时，Florida 法律规定你必须减速到 5 英里/小时。",
+      "p": "对。在限速 20 英里/小时或更低的路上，要减速到 5 英里/小时。"
+    },
+    "vi": {
+      "q": "Ở Florida, giới hạn tốc độ là 20 mph. Một xe kéo đang dừng và nháy đèn, và bạn không thể chuyển làn. Bạn được chạy qua với tốc độ bao nhiêu?",
+      "o": [
+        "5 mph",
+        "15 mph",
+        "20 mph",
+        "10 mph"
+      ],
+      "h1": "Thấp hơn giới hạn 20 thì sẽ là số không, nên luật đưa ra một con số riêng.",
+      "h2": "Khi giới hạn tốc độ là 20 mph hoặc thấp hơn và bạn không thể chuyển làn, luật Florida nói bạn phải giảm xuống 5 mph.",
+      "p": "Đúng. Trên đường 20 mph hoặc thấp hơn, hãy giảm xuống 5 mph."
+    },
+    "tl": {
+      "q": "Sa Florida, 20 mph ang speed limit. May tow truck na nakahinto na kumikislap ang ilaw, at hindi ka makalipat ng lane. Gaano kabilis ka puwedeng dumaan?",
+      "o": [
+        "5 mph",
+        "15 mph",
+        "20 mph",
+        "10 mph"
+      ],
+      "h1": "Kung babawasan ng dalawampu ang limit, magiging zero ito, kaya may espesyal na numero ang batas.",
+      "h2": "Kapag 20 mph o mas mababa ang speed limit at hindi ka makalipat ng lane, sinasabi ng batas ng Florida na dapat kang bumagal sa 5 mph.",
+      "p": "Tama. Sa daang 20 mph o mas mababa, bumagal sa 5 mph."
+    },
+    "ar": {
+      "q": "في Florida، حد السرعة 20 ميلًا في الساعة. شاحنة سحب متوقفة وأضواؤها تومض، ولا تستطيع أن تبتعد عنها. بأي سرعة يمكنك أن تمر بجانبها؟",
+      "o": [
+        "5 أميال في الساعة",
+        "15 ميلًا في الساعة",
+        "20 ميلًا في الساعة",
+        "10 أميال في الساعة"
+      ],
+      "h1": "عشرون أقل من الحد تساوي صفرًا، لذلك يعطي القانون رقمًا خاصًا.",
+      "h2": "عندما يكون حد السرعة 20 ميلًا في الساعة أو أقل ولا تستطيع أن تبتعد، يقول قانون Florida إنه يجب أن تخفف السرعة إلى 5 أميال في الساعة.",
+      "p": "صحيح. على طريق حده 20 ميلًا في الساعة أو أقل، خفف السرعة إلى 5 أميال في الساعة."
     }
   },
   {
@@ -657,6 +1569,54 @@
       "h1": "La ley cubre a trabajadores en la vía que muestran luces de advertencia intermitentes.",
       "h2": "La ley Move Over de Florida cubre camiones de basura, de servicios públicos, grúas y equipos de carretera cuando están parados con luces de advertencia intermitentes, así que usted debe cambiarse de carril o bajar la velocidad.",
       "p": "Correcto. Cámbiese de carril por un camión de basura parado con luces intermitentes."
+    },
+    "zh": {
+      "q": "在 Florida，下面哪一辆停着的车受 Move Over 法保护？",
+      "o": [
+        "一辆没开灯的停放汽车",
+        "一辆停在车站的公交车",
+        "一辆停在商店门口的送货车",
+        "一辆闪着警示灯的垃圾车"
+      ],
+      "h1": "这条法律保护在路上工作、并闪着警示灯的人。",
+      "h2": "Florida 的 Move Over 法保护停着并闪着警示灯的环卫车、公用事业车、拖车和道路施工人员，所以你必须换道或减速。",
+      "p": "对。遇到闪着灯停着的垃圾车，要让出车道。"
+    },
+    "vi": {
+      "q": "Ở Florida, xe nào sau đây khi đang dừng thì thuộc luật \"Move Over\"?",
+      "o": [
+        "Xe hơi đậu không bật đèn",
+        "Xe buýt thành phố ở trạm xe buýt",
+        "Xe giao hàng ở cửa hàng",
+        "Xe rác đang nháy đèn cảnh báo"
+      ],
+      "h1": "Luật này bảo vệ người làm việc trên đường có đèn cảnh báo nhấp nháy.",
+      "h2": "Luật \"Move Over\" của Florida áp dụng cho xe rác, xe của công ty điện nước, xe kéo và đội sửa đường khi họ dừng và nháy đèn cảnh báo, nên bạn phải chuyển làn hoặc giảm tốc.",
+      "p": "Đúng. Hãy chuyển làn khi có xe rác đang dừng và nháy đèn."
+    },
+    "tl": {
+      "q": "Sa Florida, alin sa mga nakahintong sasakyang ito ang sakop ng Move Over law?",
+      "o": [
+        "Nakaparadang kotse na walang ilaw",
+        "Bus ng lungsod sa bus stop",
+        "Delivery van sa harap ng tindahan",
+        "Trak ng basura na kumikislap ang warning lights"
+      ],
+      "h1": "Sakop ng batas ang mga manggagawa sa daan na nagpapakita ng kumikislap na warning lights.",
+      "h2": "Sakop ng Move Over law ng Florida ang mga trak ng basura, trak ng utility, tow truck, at mga road crew kapag nakahinto sila na kumikislap ang warning lights, kaya dapat kang lumipat ng lane o bumagal.",
+      "p": "Tama. Lumipat ng lane para sa nakahintong trak ng basura na kumikislap ang ilaw."
+    },
+    "ar": {
+      "q": "في Florida، أي مركبة متوقفة من هذه المركبات يشملها قانون Move Over؟",
+      "o": [
+        "سيارة مركونة وأضواؤها مطفأة",
+        "حافلة مدينة عند محطة الحافلات",
+        "شاحنة توصيل صغيرة عند متجر",
+        "شاحنة نفايات أضواء التحذير فيها تومض"
+      ],
+      "h1": "القانون يشمل العاملين على الطريق الذين يُظهرون أضواء تحذير وامضة.",
+      "h2": "قانون Move Over في Florida يشمل شاحنات النفايات، وشاحنات المرافق، وشاحنات السحب، وعمال الطرق عندما يتوقفون وأضواء التحذير تومض، لذلك يجب أن تبتعد أو تخفف السرعة.",
+      "p": "صحيح. ابتعد عن شاحنة نفايات متوقفة أضواؤها تومض."
     }
   },
   {
@@ -690,6 +1650,54 @@
       "h1": "Florida amplió la ley Move Over para proteger a más personas paradas en la orilla.",
       "h2": "La ley Move Over de Florida también cubre a un vehículo descompuesto que está parado y muestra luces de emergencia u otras señales de advertencia, así que usted debe cambiarse de carril o bajar la velocidad.",
       "p": "Correcto. Cámbiese de carril o baje la velocidad por un carro parado con luces de emergencia."
+    },
+    "zh": {
+      "q": "在 Florida，一辆车停在路肩上，开着双闪灯。Move Over 法适用吗？",
+      "o": [
+        "不适用，它只针对警车和救护车",
+        "适用，要像遇到急救车辆一样换道或减速",
+        "只在晚上适用",
+        "只在收费公路上适用"
+      ],
+      "h1": "Florida 扩大了 Move Over 法，保护更多停在路边的人。",
+      "h2": "Florida 的 Move Over 法也保护停着并开着双闪灯或有其他警示的故障车，所以你必须换道或减速。",
+      "p": "对。遇到开着双闪灯停着的车，要换道或减速。"
+    },
+    "vi": {
+      "q": "Ở Florida, một xe hơi đang dừng trên lề và bật đèn khẩn cấp nhấp nháy. Luật \"Move Over\" có áp dụng không?",
+      "o": [
+        "Không, luật chỉ dành cho cảnh sát và xe cứu thương",
+        "Có, hãy chuyển làn hoặc giảm tốc như với xe khẩn cấp",
+        "Chỉ vào ban đêm",
+        "Chỉ trên đường thu phí"
+      ],
+      "h1": "Florida đã mở rộng luật \"Move Over\" để bảo vệ thêm nhiều người dừng bên đường.",
+      "h2": "Luật \"Move Over\" của Florida cũng áp dụng cho xe bị hỏng đang dừng và bật đèn khẩn cấp hoặc dấu hiệu cảnh báo khác, nên bạn phải chuyển làn hoặc giảm tốc.",
+      "p": "Đúng. Hãy chuyển làn hoặc giảm tốc khi có xe dừng bật đèn khẩn cấp."
+    },
+    "tl": {
+      "q": "Sa Florida, may kotseng nakahinto sa shoulder na kumikislap ang hazard lights. Sakop ba ito ng Move Over law?",
+      "o": [
+        "Hindi, para lang ito sa pulis at ambulansiya",
+        "Oo, lumipat ng lane o bumagal gaya ng gagawin mo para sa emergency vehicle",
+        "Sa gabi lang",
+        "Sa toll road lang"
+      ],
+      "h1": "Pinalawak ng Florida ang Move Over law para protektahan ang mas maraming taong nakahinto sa tabi ng daan.",
+      "h2": "Sakop din ng Move Over law ng Florida ang sirang sasakyan na nakahinto at nagpapakita ng hazard lights o iba pang babala, kaya dapat kang lumipat ng lane o bumagal.",
+      "p": "Tama. Lumipat ng lane o bumagal para sa nakahintong kotse na may hazard lights."
+    },
+    "ar": {
+      "q": "في Florida، سيارة متوقفة على كتف الطريق وأضواء الخطر فيها تومض. هل ينطبق قانون Move Over؟",
+      "o": [
+        "لا، هو للشرطة وسيارات الإسعاف فقط",
+        "نعم، ابتعد أو خفف السرعة كما تفعل لمركبة طوارئ",
+        "فقط في الليل",
+        "فقط على الطرق التي فيها رسوم"
+      ],
+      "h1": "Florida وسّعت قانون Move Over لتحمي عددًا أكبر من الناس المتوقفين بجانب الطريق.",
+      "h2": "قانون Move Over في Florida يشمل أيضًا المركبة المعطلة المتوقفة التي تُظهر أضواء الخطر أو علامات تحذير أخرى، لذلك يجب أن تبتعد أو تخفف السرعة.",
+      "p": "صحيح. ابتعد أو خفف السرعة لسيارة متوقفة أضواء الخطر فيها تعمل."
     }
   },
   {
@@ -723,6 +1731,54 @@
       "h1": "En una calle de doble sentido sin división, la regla es igual para las dos direcciones.",
       "h2": "En una calle de doble sentido, el tráfico de las dos direcciones debe parar ante un autobús escolar que muestra su señal de pare, así que usted para aunque venga del otro lado.",
       "p": "Correcto. En calle de doble sentido, las dos direcciones paran por el autobús escolar."
+    },
+    "zh": {
+      "q": "在 Florida，在一条双向道路上，前面一辆校车停着，伸出了停车臂。你从对面方向开过来。你该怎么做？",
+      "o": [
+        "减速，小心地开过去",
+        "继续开，因为你在另一边",
+        "停车，并保持停着",
+        "按喇叭，然后开过去"
+      ],
+      "h1": "在没有中间隔离带的双向道路上，两个方向的规则是一样的。",
+      "h2": "在双向道路上，两个方向的车都必须为亮出停车信号的校车停车，所以就算你从对面来，也要停车。",
+      "p": "对。在双向道路上，两个方向都要为停着的校车停车。"
+    },
+    "vi": {
+      "q": "Ở Florida, trên đường hai chiều, xe buýt trường học phía trước đang dừng và giơ cần biển \"STOP\". Bạn đến từ hướng ngược lại. Bạn làm gì?",
+      "o": [
+        "Giảm tốc và chạy qua cẩn thận",
+        "Tiếp tục chạy, vì bạn ở phía bên kia",
+        "Dừng lại và giữ nguyên ở đó",
+        "Bấm còi và chạy qua"
+      ],
+      "h1": "Trên đường hai chiều không có dải phân cách, quy tắc giống nhau cho cả hai hướng.",
+      "h2": "Trên đường hai chiều, xe đi cả hai hướng đều phải dừng khi xe buýt trường học bật tín hiệu dừng, nên bạn phải dừng dù đến từ phía bên kia.",
+      "p": "Đúng. Trên đường hai chiều, cả hai hướng đều dừng cho xe buýt trường học đang dừng."
+    },
+    "tl": {
+      "q": "Sa Florida, sa daang two-way, may school bus sa unahan na nakahinto at nakalabas ang stop arm. Galing ka sa kabilang direksiyon. Ano ang gagawin mo?",
+      "o": [
+        "Bumagal at dumaan nang maingat",
+        "Magpatuloy, dahil nasa kabilang panig ka",
+        "Huminto at manatiling nakahinto",
+        "Bumusina at dumaan"
+      ],
+      "h1": "Sa daang two-way na walang median, pareho ang patakaran sa dalawang direksiyon.",
+      "h2": "Sa daang two-way, dapat huminto ang trapiko sa dalawang direksiyon para sa school bus na nagpapakita ng stop signal, kaya hihinto ka kahit galing ka sa kabilang panig.",
+      "p": "Tama. Sa daang two-way, humihinto ang dalawang direksiyon para sa nakahintong school bus."
+    },
+    "ar": {
+      "q": "في Florida، على طريق باتجاهين، حافلة مدرسية أمامك متوقفة وذراع التوقف فيها مفتوح. أنت قادم من الاتجاه الآخر. ماذا تفعل؟",
+      "o": [
+        "أخفف السرعة وأمر بحذر",
+        "أستمر، لأنني على الجانب الآخر",
+        "أتوقف وأبقى متوقفًا",
+        "أستعمل البوق وأمر"
+      ],
+      "h1": "على طريق باتجاهين بدون فاصل في الوسط، القاعدة هي نفسها في الاتجاهين.",
+      "h2": "على طريق باتجاهين، يجب على السيارات في الاتجاهين أن تتوقف لحافلة مدرسية تُظهر إشارة التوقف، لذلك تتوقف حتى لو كنت قادمًا من الجانب الآخر.",
+      "p": "صحيح. على طريق باتجاهين، يتوقف الاتجاهان لحافلة مدرسية متوقفة."
     }
   },
   {
@@ -756,6 +1812,54 @@
       "h1": "Una división elevada separa las dos direcciones.",
       "h2": "En una carretera dividida con una división elevada, usted no tiene que parar cuando el autobús escolar está del otro lado, pero igual debe estar atento a los niños.",
       "p": "Correcto. Con división elevada, el lado contrario no tiene que parar."
+    },
+    "zh": {
+      "q": "在 Florida，一辆校车停在一条分隔公路的另一边，中间有凸起的水泥隔离带。你必须停车吗？",
+      "o": [
+        "不用，你可以小心地继续开",
+        "要，你永远必须停车",
+        "只有你这边有小孩时才要",
+        "只有校车按喇叭时才要"
+      ],
+      "h1": "凸起的隔离带把两个方向分开了。",
+      "h2": "在有凸起隔离带的分隔公路上，校车在另一边时你不用停车，但你还是要注意小孩。",
+      "p": "对。有凸起隔离带时，对面方向不用停车。"
+    },
+    "vi": {
+      "q": "Ở Florida, một xe buýt trường học đang dừng ở phía bên kia của xa lộ có dải phân cách bằng bê tông nổi cao. Bạn có phải dừng không?",
+      "o": [
+        "Không, bạn có thể tiếp tục chạy, nhưng cẩn thận",
+        "Có, bạn luôn phải dừng",
+        "Chỉ khi có trẻ em ở phía bên bạn",
+        "Chỉ khi xe buýt bấm còi"
+      ],
+      "h1": "Một rào chắn nổi cao tách hai hướng xe ra.",
+      "h2": "Trên xa lộ có dải phân cách nổi cao, bạn không phải dừng khi xe buýt trường học ở phía bên kia, nhưng bạn vẫn nên để ý trẻ em.",
+      "p": "Đúng. Có dải phân cách nổi cao thì phía bên kia không phải dừng."
+    },
+    "tl": {
+      "q": "Sa Florida, may school bus na nakahinto sa kabila ng nakataas na konkretong median, sa kabilang panig ng divided highway. Dapat ka bang huminto?",
+      "o": [
+        "Hindi, puwede kang magpatuloy, nang maingat",
+        "Oo, dapat kang laging huminto",
+        "Kung may mga bata lang sa panig mo",
+        "Kung bumusina lang ang bus"
+      ],
+      "h1": "Pinaghihiwalay ng nakataas na harang ang dalawang direksiyon.",
+      "h2": "Sa divided highway na may nakataas na median, hindi mo kailangang huminto kapag nasa kabilang panig ang school bus, pero dapat ka pa ring magbantay sa mga bata.",
+      "p": "Tama. Kapag may nakataas na median, hindi kailangang huminto ang kabilang panig."
+    },
+    "ar": {
+      "q": "في Florida، حافلة مدرسية متوقفة على الجانب الآخر من طريق سريع مقسوم بفاصل إسمنتي مرتفع. هل يجب أن تتوقف؟",
+      "o": [
+        "لا، يمكنني أن أستمر بحذر",
+        "نعم، يجب أن أتوقف دائمًا",
+        "فقط إذا كان هناك أطفال على جانبي",
+        "فقط إذا استعملت الحافلة البوق"
+      ],
+      "h1": "الحاجز المرتفع يفصل بين الاتجاهين.",
+      "h2": "على طريق سريع مقسوم بفاصل مرتفع، لا يجب أن تتوقف عندما تكون الحافلة المدرسية على الجانب الآخر، لكن يجب أن تنتبه للأطفال.",
+      "p": "صحيح. مع فاصل مرتفع، لا يجب على الجانب المقابل أن يتوقف."
     }
   },
   {
@@ -789,6 +1893,54 @@
       "h1": "El número es pequeño, más o menos el largo de un sofá.",
       "h2": "La ley de Florida dice que si una división sin pavimentar mide por lo menos 5 pies de ancho, el tráfico que va en la otra dirección no tiene que parar por un autobús escolar parado.",
       "p": "Correcto. Con una división sin pavimentar de por lo menos 5 pies, el otro lado no para."
+    },
+    "zh": {
+      "q": "在 Florida，一条公路中间有没铺路面的草地隔离带。它至少要多宽，对面方向的车才不用为校车停车？",
+      "o": [
+        "至少 2 英尺",
+        "至少 10 英尺",
+        "至少 20 英尺",
+        "至少 5 英尺"
+      ],
+      "h1": "这个数字很小，大约是一张沙发的长度。",
+      "h2": "Florida 法律规定，如果没铺路面的隔离带至少有 5 英尺宽，对面方向的车就不用为停着的校车停车。",
+      "p": "对。没铺路面的隔离带至少 5 英尺宽，对面就不用停车。"
+    },
+    "vi": {
+      "q": "Ở Florida, một xa lộ có dải phân cách bằng cỏ, không tráng nhựa. Dải đó phải rộng bao nhiêu để xe phía bên kia không phải dừng cho xe buýt trường học?",
+      "o": [
+        "Ít nhất 2 feet",
+        "Ít nhất 10 feet",
+        "Ít nhất 20 feet",
+        "Ít nhất 5 feet"
+      ],
+      "h1": "Con số này nhỏ, khoảng bằng chiều dài một chiếc ghế sofa.",
+      "h2": "Luật Florida nói nếu dải phân cách không tráng nhựa rộng ít nhất 5 feet, xe đi hướng ngược lại không phải dừng cho xe buýt trường học đang dừng.",
+      "p": "Đúng. Dải phân cách không tráng nhựa rộng ít nhất 5 feet thì phía bên kia không phải dừng."
+    },
+    "tl": {
+      "q": "Sa Florida, may median na damo at walang semento ang isang highway. Gaano ito dapat kalapad para hindi na kailangang huminto ng trapiko sa kabilang panig para sa school bus?",
+      "o": [
+        "Hindi bababa sa 2 feet",
+        "Hindi bababa sa 10 feet",
+        "Hindi bababa sa 20 feet",
+        "Hindi bababa sa 5 feet"
+      ],
+      "h1": "Maliit ang numero, mga kasinghaba ng sofa.",
+      "h2": "Sinasabi ng batas ng Florida na kung ang median na walang semento ay hindi bababa sa 5 feet ang lapad, hindi kailangang huminto ng trapiko sa kabilang direksiyon para sa nakahintong school bus.",
+      "p": "Tama. Kapag ang median na walang semento ay hindi bababa sa 5 feet, hindi humihinto ang kabilang panig."
+    },
+    "ar": {
+      "q": "في Florida، طريق سريع في وسطه فاصل من العشب غير مرصوف. كم يجب أن يكون عرضه حتى لا تتوقف السيارات على الجانب الآخر للحافلة المدرسية؟",
+      "o": [
+        "2 قدم على الأقل",
+        "10 أقدام على الأقل",
+        "20 قدمًا على الأقل",
+        "5 أقدام على الأقل"
+      ],
+      "h1": "الرقم صغير، تقريبًا طول أريكة.",
+      "h2": "يقول قانون Florida إنه إذا كان عرض الفاصل غير المرصوف 5 أقدام على الأقل، فلا يجب على السيارات في الاتجاه الآخر أن تتوقف لحافلة مدرسية متوقفة.",
+      "p": "صحيح. فاصل غير مرصوف عرضه 5 أقدام على الأقل يعني أن الجانب الآخر لا يتوقف."
     }
   },
   {
@@ -822,6 +1974,54 @@
       "h1": "Solo una división elevada o una división ancha sin pavimentar permite que el otro lado siga.",
       "h2": "Un carril central pavimentado para doblar no es una división elevada ni una división sin pavimentar, así que el tráfico de las dos direcciones debe parar por el autobús escolar.",
       "p": "Correcto. Un carril para doblar no lo exime. Pare por el autobús."
+    },
+    "zh": {
+      "q": "在 Florida，一条路中间有铺了路面的中央转弯车道。一辆校车停在另一边，伸出了停车臂。你该怎么做？",
+      "o": [
+        "继续开，因为转弯车道把路分开了",
+        "停车，因为铺了路面的转弯车道不算隔离带",
+        "从转弯车道开过去",
+        "只要减速就行"
+      ],
+      "h1": "只有凸起的隔离带或很宽的没铺路面的隔离带，才能让对面继续开。",
+      "h2": "铺了路面的中央转弯车道不是凸起的隔离带，也不是没铺路面的隔离带，所以两个方向的车都必须为校车停车。",
+      "p": "对。铺了路面的转弯车道不能当理由。要为校车停车。"
+    },
+    "vi": {
+      "q": "Ở Florida, một con đường có làn rẽ ở giữa được tráng nhựa. Một xe buýt trường học đang dừng ở phía bên kia và giơ cần biển \"STOP\". Bạn làm gì?",
+      "o": [
+        "Tiếp tục chạy, vì làn rẽ chia đôi con đường",
+        "Dừng lại, vì làn rẽ tráng nhựa không được tính là dải phân cách",
+        "Chạy qua bằng làn rẽ",
+        "Chỉ cần giảm tốc"
+      ],
+      "h1": "Chỉ có rào chắn nổi cao hoặc dải phân cách không tráng nhựa đủ rộng mới cho phía bên kia tiếp tục chạy.",
+      "h2": "Làn rẽ ở giữa được tráng nhựa không phải là rào chắn nổi cao hay dải phân cách không tráng nhựa, nên xe cả hai hướng phải dừng cho xe buýt trường học.",
+      "p": "Đúng. Làn rẽ tráng nhựa không miễn cho bạn. Hãy dừng cho xe buýt."
+    },
+    "tl": {
+      "q": "Sa Florida, may sementadong center turn lane ang daan. May school bus na nakahinto sa kabilang panig na nakalabas ang stop arm. Ano ang gagawin mo?",
+      "o": [
+        "Magpatuloy, dahil hinahati ng turn lane ang daan",
+        "Huminto, dahil hindi binibilang na harang ang sementadong turn lane",
+        "Dumaan gamit ang turn lane",
+        "Bumagal lang"
+      ],
+      "h1": "Ang nakataas na harang lang o malapad na median na walang semento ang nagpapahintulot sa kabilang panig na magpatuloy.",
+      "h2": "Ang sementadong center turn lane ay hindi nakataas na harang o median na walang semento, kaya dapat huminto ang trapiko sa dalawang direksiyon para sa school bus.",
+      "p": "Tama. Hindi dahilan ang sementadong turn lane. Huminto para sa bus."
+    },
+    "ar": {
+      "q": "في Florida، في وسط الطريق مسار مرصوف للانعطاف. حافلة مدرسية متوقفة على الجانب الآخر وذراع التوقف فيها مفتوح. ماذا تفعل؟",
+      "o": [
+        "أستمر، لأن مسار الانعطاف يقسم الطريق",
+        "أتوقف، لأن مسار الانعطاف المرصوف لا يُعتبر فاصلًا",
+        "أتجاوز الحافلة من مسار الانعطاف",
+        "أخفف السرعة فقط"
+      ],
+      "h1": "فقط الحاجز المرتفع أو الفاصل العريض غير المرصوف يسمح للجانب الآخر بأن يستمر.",
+      "h2": "مسار الانعطاف المرصوف في الوسط ليس حاجزًا مرتفعًا ولا فاصلًا غير مرصوف، لذلك يجب على السيارات في الاتجاهين أن تتوقف للحافلة المدرسية.",
+      "p": "صحيح. مسار الانعطاف المرصوف لا يعفيك. توقف للحافلة."
     }
   },
   {
@@ -855,6 +2055,54 @@
       "h1": "La división solo ayuda al tráfico del otro lado.",
       "h2": "El tráfico que va en la misma dirección que un autobús escolar parado siempre debe parar, aunque la carretera esté dividida.",
       "p": "Correcto. Si va detrás de un autobús escolar parado, siempre para."
+    },
+    "zh": {
+      "q": "在 Florida，你在一条分隔公路上跟在一辆校车后面。校车停下，伸出了停车臂。你该怎么做？",
+      "o": [
+        "从左边超过去",
+        "继续开，因为公路是分隔的",
+        "在校车后面停车",
+        "从右边路肩超过去"
+      ],
+      "h1": "隔离带只对另一边的车有用。",
+      "h2": "和停着的校车同方向行驶的车永远必须停车，就算在分隔公路上也一样。",
+      "p": "对。如果你在停着的校车后面，一定要停车。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn đang chạy sau một xe buýt trường học trên xa lộ có dải phân cách. Xe buýt dừng lại và giơ cần biển \"STOP\". Bạn làm gì?",
+      "o": [
+        "Vượt bên trái",
+        "Tiếp tục chạy, vì xa lộ có dải phân cách",
+        "Dừng lại phía sau xe buýt",
+        "Vượt bằng lề bên phải"
+      ],
+      "h1": "Dải phân cách chỉ giúp xe ở phía bên kia.",
+      "h2": "Xe đi cùng hướng với xe buýt trường học đang dừng luôn phải dừng, kể cả trên xa lộ có dải phân cách.",
+      "p": "Đúng. Nếu bạn ở sau xe buýt trường học đang dừng, bạn luôn phải dừng."
+    },
+    "tl": {
+      "q": "Sa Florida, nasa likod ka ng school bus sa divided highway. Huminto ang bus at inilabas ang stop arm. Ano ang gagawin mo?",
+      "o": [
+        "Lumampas sa kaliwa",
+        "Magpatuloy, dahil divided ang highway",
+        "Huminto sa likod ng bus",
+        "Lumampas sa kanang shoulder"
+      ],
+      "h1": "Ang median ay tumutulong lang sa trapiko sa kabilang panig.",
+      "h2": "Ang trapikong papunta sa parehong direksiyon ng nakahintong school bus ay dapat laging huminto, kahit sa divided highway.",
+      "p": "Tama. Kung nasa likod ka ng nakahintong school bus, laging huminto."
+    },
+    "ar": {
+      "q": "في Florida، تقود خلف حافلة مدرسية على طريق سريع مقسوم. توقفت الحافلة وفتحت ذراع التوقف. ماذا تفعل؟",
+      "o": [
+        "أتجاوزها من اليسار",
+        "أستمر، لأن الطريق السريع مقسوم",
+        "أتوقف خلف الحافلة",
+        "أتجاوزها من كتف الطريق الأيمن"
+      ],
+      "h1": "الفاصل في الوسط يساعد فقط السيارات على الجانب الآخر.",
+      "h2": "السيارات التي تسير في نفس اتجاه الحافلة المدرسية المتوقفة يجب أن تتوقف دائمًا، حتى على طريق سريع مقسوم.",
+      "p": "صحيح. إذا كنت خلف حافلة مدرسية متوقفة، تتوقف دائمًا."
     }
   },
   {
@@ -888,6 +2136,54 @@
       "h1": "Fíjese en la señal del autobús y en los niños, no en el tiempo.",
       "h2": "Usted debe quedarse parado hasta que el autobús recoja su señal de pare y los niños estén fuera de la calle.",
       "p": "Correcto. Espere a que se recoja el brazo de pare y los niños estén a salvo."
+    },
+    "zh": {
+      "q": "在 Florida，你为校车停了车。什么时候可以再开车？",
+      "o": [
+        "停车臂收回，而且小孩都离开了路面",
+        "车门一关就可以",
+        "数到十以后",
+        "司机向你挥手的时候"
+      ],
+      "h1": "看校车的信号和小孩，不是看时间。",
+      "h2": "你必须一直停着，直到校车收回停车信号，而且小孩都离开了路面。",
+      "p": "对。等停车臂收回、小孩都离开了再走。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn đã dừng cho xe buýt trường học. Khi nào bạn được chạy tiếp?",
+      "o": [
+        "Khi cần biển \"STOP\" đã thu lại và trẻ em đã ra khỏi đường",
+        "Ngay khi cửa xe buýt đóng lại",
+        "Sau khi bạn đếm đến mười",
+        "Khi tài xế xe buýt vẫy tay với bạn"
+      ],
+      "h1": "Hãy nhìn tín hiệu của xe buýt và trẻ em, không phải đếm giờ.",
+      "h2": "Bạn phải dừng cho đến khi xe buýt thu tín hiệu dừng lại và trẻ em đã ra khỏi đường.",
+      "p": "Đúng. Hãy chờ đến khi cần biển \"STOP\" thu lại và trẻ em đã ra khỏi đường."
+    },
+    "tl": {
+      "q": "Sa Florida, huminto ka para sa school bus. Kailan ka puwedeng umandar ulit?",
+      "o": [
+        "Kapag naibalik na ang stop arm at wala na ang mga bata sa daan",
+        "Pagsara pa lang ng pinto",
+        "Pagkatapos mong magbilang hanggang sampu",
+        "Kapag kinawayan ka ng drayber"
+      ],
+      "h1": "Bantayan ang signal ng bus at ang mga bata, hindi ang orasan.",
+      "h2": "Dapat kang manatiling nakahinto hanggang maibalik ng bus ang stop signal nito at wala na ang mga bata sa daan.",
+      "p": "Tama. Maghintay hanggang maibalik ang stop arm at wala na ang mga bata sa daan."
+    },
+    "ar": {
+      "q": "في Florida، توقفت لحافلة مدرسية. متى يمكنك أن تبدأ القيادة مرة أخرى؟",
+      "o": [
+        "عندما يُسحب ذراع التوقف ويبتعد الأطفال عن الطريق",
+        "مباشرة عندما يُغلق الباب",
+        "بعد أن أعدّ إلى عشرة",
+        "عندما يلوّح لي السائق"
+      ],
+      "h1": "راقب إشارة الحافلة والأطفال، وليس الوقت.",
+      "h2": "يجب أن تبقى متوقفًا حتى تسحب الحافلة إشارة التوقف ويخرج الأطفال من الطريق.",
+      "p": "صحيح. انتظر حتى يرجع ذراع التوقف ويبتعد الأطفال."
     }
   },
   {
@@ -921,6 +2217,54 @@
       "h1": "Necesita una distancia segura del tren, pero no tan lejos que bloquee la calle detrás de usted.",
       "h2": "La ley de Florida dice que usted debe parar a no menos de 15 pies y no más de 50 pies del riel más cercano cuando viene un tren.",
       "p": "Correcto. Pare entre 15 y 50 pies del riel más cercano."
+    },
+    "zh": {
+      "q": "在 Florida，铁路道口的灯在闪。你必须在哪里停车？",
+      "o": [
+        "就停在铁轨上",
+        "离最近的铁轨 15 到 50 英尺之间",
+        "超过 100 英尺远",
+        "离最近的铁轨 5 英尺以内"
+      ],
+      "h1": "你需要和火车保持安全距离，但也不能太远，挡住后面的路。",
+      "h2": "Florida 法律规定，有火车开来时，你必须停在离最近的铁轨不少于 15 英尺、不超过 50 英尺的地方。",
+      "p": "对。停在离最近的铁轨 15 到 50 英尺之间。"
+    },
+    "vi": {
+      "q": "Ở Florida, đèn đang nháy tại chỗ giao nhau với đường sắt. Bạn phải dừng ở đâu?",
+      "o": [
+        "Ngay trên đường ray",
+        "Cách thanh ray gần nhất từ 15 đến 50 feet",
+        "Cách xa hơn 100 feet",
+        "Trong vòng 5 feet từ thanh ray gần nhất"
+      ],
+      "h1": "Bạn cần khoảng cách an toàn với tàu hỏa, nhưng không quá xa để chắn đường phía sau.",
+      "h2": "Luật Florida nói khi có tàu đang đến, bạn phải dừng không gần hơn 15 feet và không xa hơn 50 feet từ thanh ray gần nhất.",
+      "p": "Đúng. Hãy dừng cách thanh ray gần nhất từ 15 đến 50 feet."
+    },
+    "tl": {
+      "q": "Sa Florida, kumikislap ang mga ilaw sa railroad crossing. Saan ka dapat huminto?",
+      "o": [
+        "Mismo sa ibabaw ng riles",
+        "Sa pagitan ng 15 at 50 feet mula sa pinakamalapit na riles",
+        "Higit sa 100 feet ang layo",
+        "Sa loob ng 5 feet mula sa pinakamalapit na riles"
+      ],
+      "h1": "Kailangan mo ng ligtas na layo mula sa tren, pero hindi gaanong malayo na mahaharangan mo ang daan sa likod mo.",
+      "h2": "Sinasabi ng batas ng Florida na kapag may paparating na tren, dapat kang huminto nang hindi lalapit sa 15 feet at hindi lalayo sa 50 feet mula sa pinakamalapit na riles.",
+      "p": "Tama. Huminto sa pagitan ng 15 at 50 feet mula sa pinakamalapit na riles."
+    },
+    "ar": {
+      "q": "في Florida، الأضواء تومض عند تقاطع سكة حديد. أين يجب أن تتوقف؟",
+      "o": [
+        "على السكة نفسها",
+        "على مسافة بين 15 و50 قدمًا من أقرب قضيب",
+        "على مسافة أكثر من 100 قدم",
+        "على مسافة أقل من 5 أقدام من أقرب قضيب"
+      ],
+      "h1": "تحتاج إلى مسافة آمنة من القطار، لكن ليس بعيدًا جدًا حتى لا تسد الطريق على من خلفك.",
+      "h2": "يقول قانون Florida إنه عندما يأتي قطار، يجب أن تتوقف على مسافة لا تقل عن 15 قدمًا ولا تزيد على 50 قدمًا من أقرب قضيب.",
+      "p": "صحيح. توقف على مسافة بين 15 و50 قدمًا من أقرب قضيب."
     }
   },
   {
@@ -954,6 +2298,54 @@
       "h1": "Los trenes pueden estar más cerca y ser más rápidos de lo que parece.",
       "h2": "Usted nunca debe pasar alrededor de las barreras bajas del tren, así que espera hasta que las barreras suban por completo y las luces dejen de parpadear.",
       "p": "Correcto. Nunca pase alrededor de las barreras del tren. Espere a que suban."
+    },
+    "zh": {
+      "q": "在 Florida，铁路道口的栏杆放下来了，但你没看到火车。你该怎么做？",
+      "o": [
+        "小心地绕过栏杆",
+        "按喇叭，慢慢开过去",
+        "倒车，找另一条路，然后过去",
+        "等栏杆升起、灯不再闪"
+      ],
+      "h1": "火车可能比看起来更近、更快。",
+      "h2": "你永远不能绕过放下的铁路栏杆，所以要等栏杆完全升起、灯不再闪。",
+      "p": "对。永远不要绕过铁路栏杆。等它升起来。"
+    },
+    "vi": {
+      "q": "Ở Florida, thanh chắn ở chỗ giao nhau với đường sắt đã hạ xuống, nhưng bạn không thấy tàu. Bạn làm gì?",
+      "o": [
+        "Lái vòng qua thanh chắn một cách cẩn thận",
+        "Bấm còi và chạy qua chậm",
+        "Lùi xe và tìm đường khác, rồi chạy qua",
+        "Chờ đến khi thanh chắn nâng lên và đèn ngừng nháy"
+      ],
+      "h1": "Tàu có thể ở gần hơn và chạy nhanh hơn bạn nghĩ.",
+      "h2": "Bạn không bao giờ được lái vòng qua thanh chắn đường sắt đã hạ, nên bạn chờ đến khi thanh chắn nâng lên hết và đèn ngừng nháy.",
+      "p": "Đúng. Không bao giờ lái vòng qua thanh chắn đường sắt. Hãy chờ đến khi nó nâng lên."
+    },
+    "tl": {
+      "q": "Sa Florida, nakababa ang mga harang sa railroad crossing, pero wala kang nakikitang tren. Ano ang gagawin mo?",
+      "o": [
+        "Maingat na umikot sa mga harang",
+        "Bumusina at dahan-dahang tumawid",
+        "Umatras at maghanap ng ibang daan, saka tumawid",
+        "Maghintay hanggang tumaas ang mga harang at tumigil ang mga ilaw"
+      ],
+      "h1": "Maaaring mas malapit at mas mabilis ang tren kaysa sa tingin mo.",
+      "h2": "Hindi ka dapat kailanman umikot sa nakababang harang ng riles, kaya maghihintay ka hanggang tuluyang tumaas ang mga harang at tumigil sa pagkislap ang mga ilaw.",
+      "p": "Tama. Huwag kailanman umikot sa harang ng riles. Maghintay hanggang tumaas ito."
+    },
+    "ar": {
+      "q": "في Florida، الحواجز عند تقاطع سكة الحديد نازلة، لكنك لا ترى قطارًا. ماذا تفعل؟",
+      "o": [
+        "ألتف حول الحواجز بحذر",
+        "أستعمل البوق وأعبر ببطء",
+        "أرجع إلى الخلف وأبحث عن طريق آخر، ثم أعبر",
+        "أنتظر حتى ترتفع الحواجز وتتوقف الأضواء"
+      ],
+      "h1": "القطار قد يكون أقرب وأسرع مما يبدو.",
+      "h2": "لا يجوز أبدًا أن تلتف حول حواجز سكة الحديد النازلة، لذلك تنتظر حتى ترتفع الحواجز كليًا وتتوقف الأضواء عن الوميض.",
+      "p": "صحيح. لا تلتف أبدًا حول حواجز سكة الحديد. انتظر حتى ترتفع."
     }
   },
   {
@@ -987,6 +2379,54 @@
       "h1": "Piense dónde quedará su carro si el tráfico se detiene otra vez.",
       "h2": "Usted puede empezar a cruzar las vías solo cuando haya espacio para todo su vehículo del otro lado, para nunca quedar atrapado sobre los rieles.",
       "p": "Correcto. No cruce hasta que todo su carro quepa del otro lado."
+    },
+    "zh": {
+      "q": "在 Florida，车流一直排到铁路道口的另一边。你什么时候可以开始过铁轨？",
+      "o": [
+        "前面的车一动就可以",
+        "马上，只要看不到火车",
+        "只有另一边有足够的空间放下你整辆车时",
+        "后面的司机按喇叭的时候"
+      ],
+      "h1": "想一想，如果车流又停下来，你的车会在哪里。",
+      "h2": "只有另一边有足够的空间放下你整辆车时，你才可以开始过铁轨，这样你就永远不会被困在铁轨上。",
+      "p": "对。另一边放不下你整辆车时，不要过铁轨。"
+    },
+    "vi": {
+      "q": "Ở Florida, xe đang kẹt kéo dài qua chỗ giao nhau với đường sắt. Khi nào bạn được bắt đầu chạy qua đường ray?",
+      "o": [
+        "Khi xe phía trước bạn chạy",
+        "Ngay lập tức, nếu không thấy tàu",
+        "Chỉ khi có đủ chỗ cho cả chiếc xe của bạn ở phía bên kia",
+        "Khi người lái phía sau bấm còi"
+      ],
+      "h1": "Hãy nghĩ xem xe của bạn sẽ ở đâu nếu dòng xe lại dừng.",
+      "h2": "Bạn chỉ được bắt đầu chạy qua đường ray khi có đủ chỗ cho cả chiếc xe ở phía bên kia, để bạn không bao giờ bị kẹt trên đường ray.",
+      "p": "Đúng. Đừng chạy qua cho đến khi cả chiếc xe vừa chỗ ở phía bên kia."
+    },
+    "tl": {
+      "q": "Sa Florida, nakapila ang trapiko hanggang lampas sa railroad crossing. Kailan ka puwedeng magsimulang tumawid sa riles?",
+      "o": [
+        "Kapag umandar ang kotse sa harap mo",
+        "Agad, kung walang tren na nakikita",
+        "Kapag may lugar lang para sa buong kotse mo sa kabilang panig",
+        "Kapag bumusina ang drayber sa likod mo"
+      ],
+      "h1": "Isipin kung nasaan ang kotse mo kung huminto ulit ang trapiko.",
+      "h2": "Puwede kang magsimulang tumawid sa riles kapag may lugar lang para sa buong sasakyan mo sa kabilang panig, para hindi ka maipit sa ibabaw ng riles.",
+      "p": "Tama. Huwag tumawid hanggang kasya ang buong kotse mo sa kabilang panig."
+    },
+    "ar": {
+      "q": "في Florida، الطريق مزدحم وطابور السيارات يصل إلى ما بعد تقاطع سكة الحديد. متى يمكنك أن تبدأ عبور السكة؟",
+      "o": [
+        "عندما تتحرك السيارة التي أمامي",
+        "فورًا، إذا لم أرَ قطارًا",
+        "فقط عندما يوجد مكان لسيارتي كلها على الجانب الآخر",
+        "عندما يستعمل السائق الذي خلفي البوق"
+      ],
+      "h1": "فكّر أين ستكون سيارتك إذا توقفت السيارات مرة أخرى.",
+      "h2": "يمكنك أن تبدأ عبور السكة فقط عندما يوجد مكان لمركبتك كلها على الجانب الآخر، حتى لا تعلق أبدًا على القضبان.",
+      "p": "صحيح. لا تعبر حتى تجد مكانًا لسيارتك كلها على الجانب الآخر."
     }
   },
   {
@@ -1023,6 +2463,54 @@
       "h1": "Esta señal está donde una calle se cruza con algo que no puede parar ni desviarse para no chocar con usted.",
       "h2": "La señal blanca en forma de X, llamada crossbuck, marca un cruce de tren, y usted debe ceder el paso a cualquier tren.",
       "p": "Correcto. La señal en X marca un cruce de tren. Ceda el paso a los trenes."
+    },
+    "zh": {
+      "q": "这个白色 X 形的标志是什么意思？",
+      "o": [
+        "铁路道口。要给火车让行。",
+        "一个有四条路的路口",
+        "附近有医院",
+        "这里禁止停车"
+      ],
+      "h1": "这个标志立在道路和一种无法停下、也无法躲开你的东西交叉的地方。",
+      "h2": "这个白色 X 形的标志叫做铁路交叉标志，它标出铁路道口，你必须给任何火车让行。",
+      "p": "对。白色 X 形标志表示铁路道口。要给火车让行。"
+    },
+    "vi": {
+      "q": "Biển báo màu trắng hình chữ X này có nghĩa là gì?",
+      "o": [
+        "Chỗ giao nhau với đường sắt. Nhường đường cho tàu.",
+        "Giao lộ có bốn con đường",
+        "Gần đây có bệnh viện",
+        "Không được đậu xe ở khu vực này"
+      ],
+      "h1": "Biển này đặt ở nơi con đường gặp một thứ không thể dừng lại hay tránh bạn.",
+      "h2": "Biển màu trắng hình chữ X, gọi là biển \"crossbuck\", đánh dấu chỗ giao nhau với đường sắt, và bạn phải nhường đường cho mọi đoàn tàu.",
+      "p": "Đúng. Biển \"crossbuck\" đánh dấu chỗ giao nhau với đường sắt. Hãy nhường tàu."
+    },
+    "tl": {
+      "q": "Ano ang ibig sabihin ng puting karatulang hugis X na ito?",
+      "o": [
+        "Railroad crossing (tawiran ng tren). Magbigay-daan sa tren.",
+        "Intersection ng apat na daan",
+        "May ospital sa malapit",
+        "Bawal pumarada sa lugar na ito"
+      ],
+      "h1": "Nakatayo ang karatulang ito kung saan nagtatagpo ang daan at isang bagay na hindi kayang huminto o umiwas sa iyo.",
+      "h2": "Ang puting karatulang hugis X, na tinatawag na crossbuck, ay nagmamarka ng railroad crossing, at dapat kang magbigay-daan sa anumang tren.",
+      "p": "Tama. Ang crossbuck ay nagmamarka ng railroad crossing. Magbigay-daan sa tren."
+    },
+    "ar": {
+      "q": "ماذا تعني هذه العلامة البيضاء التي على شكل حرف X؟",
+      "o": [
+        "تقاطع سكة حديد. أعطِ حق المرور للقطارات.",
+        "تقاطع فيه أربعة طرق",
+        "يوجد مستشفى قريب",
+        "ممنوع الوقوف في هذه المنطقة"
+      ],
+      "h1": "هذه العلامة موجودة حيث يلتقي الطريق بشيء لا يستطيع أن يتوقف أو يبتعد عنك.",
+      "h2": "العلامة البيضاء التي على شكل حرف X، واسمها crossbuck، تدل على تقاطع سكة حديد، ويجب أن تعطي حق المرور لأي قطار.",
+      "p": "صحيح. علامة crossbuck تدل على تقاطع سكة حديد. أعطِ حق المرور للقطارات."
     }
   },
   {
@@ -1059,6 +2547,54 @@
       "h1": "Esta señal le avisa antes de que usted llegue a algo.",
       "h2": "La señal amarilla redonda con una X y RR le avisa que hay un cruce de tren adelante, así que baje la velocidad, mire y escuche.",
       "p": "Correcto. La señal amarilla redonda con RR significa cruce de tren adelante."
+    },
+    "zh": {
+      "q": "这个圆形黄色、上面有一个 X 和字母 \"RR\" 的标志是什么意思？",
+      "o": [
+        "前面有休息区",
+        "前面有道路维修区",
+        "前面有铁路道口",
+        "你必须右转"
+      ],
+      "h1": "这个标志是在你到达某个地方之前给你的警告。",
+      "h2": "这个圆形黄色、有 X 和 \"RR\" 的标志警告你前面有铁路道口，所以你要减速，看一看，听一听。",
+      "p": "对。圆形黄色的 \"RR\" 标志表示前面有铁路道口。"
+    },
+    "vi": {
+      "q": "Biển báo tròn màu vàng có chữ X và hai chữ \"RR\" này có nghĩa là gì?",
+      "o": [
+        "Phía trước có trạm dừng nghỉ",
+        "Phía trước có khu vực sửa đường",
+        "Phía trước có chỗ giao nhau với đường sắt",
+        "Bạn phải rẽ phải"
+      ],
+      "h1": "Biển này cảnh báo bạn trước khi bạn đến một nơi nào đó.",
+      "h2": "Biển tròn màu vàng có chữ X và \"RR\" cảnh báo phía trước có chỗ giao nhau với đường sắt, nên bạn giảm tốc, nhìn và lắng nghe.",
+      "p": "Đúng. Biển tròn màu vàng \"RR\" có nghĩa là phía trước có đường sắt."
+    },
+    "tl": {
+      "q": "Ano ang ibig sabihin ng bilog na dilaw na karatulang ito na may X at mga letrang RR?",
+      "o": [
+        "May rest area sa unahan",
+        "May lugar ng pagkukumpuni ng daan sa unahan",
+        "May railroad crossing sa unahan",
+        "Dapat kang kumanan"
+      ],
+      "h1": "Binabalaan ka ng karatulang ito bago ka dumating sa isang bagay.",
+      "h2": "Binabalaan ka ng bilog na dilaw na karatulang may X at RR na may railroad crossing sa unahan, kaya babagal ka, titingin, at makikinig.",
+      "p": "Tama. Ang bilog na dilaw na karatulang RR ay nangangahulugang may railroad crossing sa unahan."
+    },
+    "ar": {
+      "q": "ماذا تعني هذه العلامة الصفراء المستديرة التي عليها X والحرفان \"RR\"؟",
+      "o": [
+        "توجد استراحة أمامك",
+        "توجد منطقة إصلاح طريق أمامك",
+        "يوجد تقاطع سكة حديد أمامك",
+        "يجب أن تنعطف يمينًا"
+      ],
+      "h1": "هذه العلامة تحذرك قبل أن تصل إلى شيء ما.",
+      "h2": "العلامة الصفراء المستديرة التي عليها X و\"RR\" تحذرك أن تقاطع سكة حديد أمامك، لذلك تخفف السرعة وتنظر وتسمع.",
+      "p": "صحيح. العلامة الصفراء المستديرة \"RR\" تعني أن تقاطع سكة حديد أمامك."
     }
   },
   {
@@ -1092,6 +2628,54 @@
       "h1": "Escoja el carril del mismo lado de su vuelta.",
       "h2": "Para doblar a la derecha, usted se coloca en el carril derecho cerca de la orilla y dobla al carril derecho de la nueva calle.",
       "p": "Correcto. Doble a la derecha desde el carril derecho, cerca de la orilla."
+    },
+    "zh": {
+      "q": "在 Florida，你想右转。你应该在哪条车道？",
+      "o": [
+        "左边车道",
+        "右边车道，靠近路缘",
+        "中间车道",
+        "哪条车道都行，只要打转向灯"
+      ],
+      "h1": "选和你转弯方向同一边的车道。",
+      "h2": "要右转，你应该进入靠近路缘的右边车道，然后转进新街道的右边车道。",
+      "p": "对。从靠近路缘的右边车道右转。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn muốn rẽ phải. Bạn nên ở làn nào?",
+      "o": [
+        "Làn bên trái",
+        "Làn bên phải, sát lề đường",
+        "Làn ở giữa",
+        "Làn nào cũng được, nếu bạn bật xi nhan"
+      ],
+      "h1": "Hãy chọn làn ở cùng phía với hướng bạn rẽ.",
+      "h2": "Để rẽ phải, bạn vào làn bên phải gần lề đường và rẽ vào làn bên phải của con đường mới.",
+      "p": "Đúng. Rẽ phải từ làn bên phải, sát lề đường."
+    },
+    "tl": {
+      "q": "Sa Florida, gusto mong kumanan. Saang lane ka dapat naroon?",
+      "o": [
+        "Sa kaliwang lane",
+        "Sa kanang lane, malapit sa curb (gilid ng bangketa)",
+        "Sa gitnang lane",
+        "Kahit anong lane, basta mag-signal ka"
+      ],
+      "h1": "Piliin ang lane na nasa parehong panig ng liko mo.",
+      "h2": "Para kumanan, pumunta ka sa kanang lane malapit sa curb at kumanan papunta sa kanang lane ng bagong kalye.",
+      "p": "Tama. Kumanan mula sa kanang lane, malapit sa curb."
+    },
+    "ar": {
+      "q": "في Florida، تريد أن تنعطف يمينًا. في أي مسار يجب أن تكون؟",
+      "o": [
+        "المسار الأيسر",
+        "المسار الأيمن، قريبًا من الرصيف",
+        "المسار الأوسط",
+        "أي مسار، إذا استعملت الإشارة"
+      ],
+      "h1": "اختر المسار الذي في جهة انعطافك نفسها.",
+      "h2": "لكي تنعطف يمينًا، تدخل المسار الأيمن قرب الرصيف، وتنعطف إلى المسار الأيمن في الشارع الجديد.",
+      "p": "صحيح. انعطف يمينًا من المسار الأيمن، قرب الرصيف."
     }
   },
   {
@@ -1125,6 +2709,54 @@
       "h1": "Piense en qué carriles llevan el tráfico en su misma dirección.",
       "h2": "Cuando usted dobla a la izquierda, puede terminar en cualquier carril en su misma dirección que tenga permitido usar, y nunca entra a un carril del tráfico que viene de frente.",
       "p": "Correcto. Doble a la izquierda a un carril en su misma dirección que usted pueda usar legalmente."
+    },
+    "zh": {
+      "q": "在 Florida，你从一条双向街道左转到另一条双向街道。你应该转进哪条车道？",
+      "o": [
+        "自行车道",
+        "对面来车的车道",
+        "中央转弯车道",
+        "任何和你同方向、而且你可以合法使用的车道"
+      ],
+      "h1": "想一想哪些车道上的车和你同一个方向。",
+      "h2": "左转时，你可以转进任何和你同方向、而且你可以使用的车道，但永远不能进入对面来车的车道。",
+      "p": "对。左转进入和你同方向、你可以合法使用的车道。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn rẽ trái từ một đường hai chiều sang một đường hai chiều khác. Bạn rẽ vào làn nào?",
+      "o": [
+        "Làn xe đạp",
+        "Làn của xe đi ngược chiều",
+        "Làn rẽ ở giữa",
+        "Bất kỳ làn nào cùng chiều với bạn mà bạn được phép dùng"
+      ],
+      "h1": "Hãy nghĩ xem làn nào có xe chạy cùng hướng với bạn.",
+      "h2": "Khi rẽ trái, bạn có thể vào bất kỳ làn nào cùng chiều mà bạn được phép dùng, và bạn không bao giờ đi vào làn của xe ngược chiều.",
+      "p": "Đúng. Rẽ trái vào làn cùng chiều mà bạn được phép dùng."
+    },
+    "tl": {
+      "q": "Sa Florida, kumaliwa ka mula sa kalyeng two-way papunta sa isa pang kalyeng two-way. Saang lane ka papasok?",
+      "o": [
+        "Sa bike lane",
+        "Sa lane ng paparating na trapiko",
+        "Sa center turn lane",
+        "Sa kahit anong lane na papunta sa direksiyon mo na legal mong magagamit"
+      ],
+      "h1": "Isipin kung aling mga lane ang may trapiko sa direksiyon mo.",
+      "h2": "Kapag kumaliwa ka, puwede kang pumasok sa kahit anong lane na papunta sa direksiyon mo na pinapayagan kang gamitin, at hindi ka kailanman papasok sa lane ng paparating na trapiko.",
+      "p": "Tama. Kumaliwa papunta sa lane na papunta sa direksiyon mo na legal mong magagamit."
+    },
+    "ar": {
+      "q": "في Florida، تنعطف يسارًا من شارع باتجاهين إلى شارع آخر باتجاهين. إلى أي مسار تنعطف؟",
+      "o": [
+        "مسار الدراجات",
+        "مسار السيارات القادمة نحوك",
+        "مسار الانعطاف في الوسط",
+        "أي مسار في اتجاهك يُسمح لك باستعماله"
+      ],
+      "h1": "فكّر في المسارات التي تسير فيها السيارات في اتجاهك.",
+      "h2": "عندما تنعطف يسارًا، يمكنك أن تنهي الانعطاف في أي مسار في اتجاهك يُسمح لك باستعماله، ولا تدخل أبدًا مسار السيارات القادمة نحوك.",
+      "p": "صحيح. انعطف يسارًا إلى مسار في اتجاهك يُسمح لك قانونيًا باستعماله."
     }
   },
   {
@@ -1158,6 +2790,54 @@
       "h1": "Los otros conductores necesitan tiempo para ver lo que usted va a hacer.",
       "h2": "En Florida usted debe poner la direccional por lo menos 100 pies antes de doblar, para que los conductores y los peatones sepan lo que va a hacer.",
       "p": "Correcto. Ponga la direccional por lo menos 100 pies antes de doblar."
+    },
+    "zh": {
+      "q": "在 Florida，转弯前多远应该打开转向灯？",
+      "o": [
+        "只在开始转弯的时候",
+        "至少提前 10 英尺",
+        "至少提前 25 英尺",
+        "至少提前 100 英尺"
+      ],
+      "h1": "其他司机需要时间看清你要做什么。",
+      "h2": "在 Florida，你应该在转弯前至少 100 英尺打转向灯，让司机和行人知道你要做什么。",
+      "p": "对。转弯前至少 100 英尺打转向灯。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn nên bật xi nhan bao xa trước khi rẽ?",
+      "o": [
+        "Chỉ khi bạn bắt đầu rẽ",
+        "Ít nhất 10 feet trước đó",
+        "Ít nhất 25 feet trước đó",
+        "Ít nhất 100 feet trước đó"
+      ],
+      "h1": "Người lái khác cần thời gian để thấy bạn định làm gì.",
+      "h2": "Ở Florida, bạn nên bật xi nhan ít nhất 100 feet trước khi rẽ, để người lái và người đi bộ biết bạn sẽ làm gì.",
+      "p": "Đúng. Hãy bật xi nhan ít nhất 100 feet trước khi rẽ."
+    },
+    "tl": {
+      "q": "Sa Florida, gaano kalayo bago lumiko dapat mong buksan ang signal mo?",
+      "o": [
+        "Habang nagsisimula ka lang lumiko",
+        "Hindi bababa sa 10 feet bago lumiko",
+        "Hindi bababa sa 25 feet bago lumiko",
+        "Hindi bababa sa 100 feet bago lumiko"
+      ],
+      "h1": "Kailangan ng ibang drayber ng oras para makita ang balak mong gawin.",
+      "h2": "Sa Florida, dapat kang mag-signal nang hindi bababa sa 100 feet bago ka lumiko, para malaman ng mga drayber at ng mga naglalakad ang gagawin mo.",
+      "p": "Tama. Mag-signal nang hindi bababa sa 100 feet bago ka lumiko."
+    },
+    "ar": {
+      "q": "في Florida، قبل الانعطاف بكم مسافة يجب أن تشغّل إشارة الانعطاف؟",
+      "o": [
+        "فقط عندما أبدأ الانعطاف",
+        "10 أقدام على الأقل قبله",
+        "25 قدمًا على الأقل قبله",
+        "100 قدم على الأقل قبله"
+      ],
+      "h1": "السائقون الآخرون يحتاجون إلى وقت ليروا ماذا تريد أن تفعل.",
+      "h2": "في Florida يجب أن تشغّل الإشارة قبل الانعطاف بمسافة 100 قدم على الأقل، حتى يعرف السائقون والمشاة ماذا ستفعل.",
+      "p": "صحيح. شغّل الإشارة قبل الانعطاف بمسافة 100 قدم على الأقل."
     }
   },
   {
@@ -1191,6 +2871,54 @@
       "h1": "Piense en las señales y en el tráfico a su alrededor.",
       "h2": "Usted puede dar una vuelta en U solo donde ninguna señal lo prohíba y solo cuando pueda hacerla con seguridad, sin estorbar a otros vehículos.",
       "p": "Correcto. Dé vuelta en U solo cuando sea seguro y permitido."
+    },
+    "zh": {
+      "q": "在 Florida，什么时候可以掉头（U-turn）？",
+      "o": [
+        "每次错过你要去的街道时",
+        "只有在安全、而且没有标志禁止时",
+        "只在高速公路上",
+        "只在铁路道口"
+      ],
+      "h1": "想一想标志，也想一想你周围的车。",
+      "h2": "只有在没有标志禁止的地方，而且你能安全掉头、不妨碍其他车辆时，你才可以掉头。",
+      "p": "对。只有在安全而且允许的时候才掉头。"
+    },
+    "vi": {
+      "q": "Ở Florida, khi nào bạn được quay đầu xe hình chữ U?",
+      "o": [
+        "Bất cứ lúc nào bạn đi lố con đường của mình",
+        "Chỉ khi an toàn và không có biển báo cấm",
+        "Chỉ trên xa lộ",
+        "Chỉ ở chỗ giao nhau với đường sắt"
+      ],
+      "h1": "Hãy nghĩ đến biển báo và xe cộ xung quanh bạn.",
+      "h2": "Bạn chỉ được quay đầu chữ U ở nơi không có biển báo cấm và chỉ khi bạn làm được một cách an toàn mà không cản trở xe khác.",
+      "p": "Đúng. Chỉ quay đầu chữ U khi an toàn và được phép."
+    },
+    "tl": {
+      "q": "Sa Florida, kailan ka puwedeng mag-U-turn?",
+      "o": [
+        "Anumang oras na nalampasan mo ang kalye mo",
+        "Kapag ligtas lang at walang karatulang nagbabawal",
+        "Sa highway lang",
+        "Sa railroad crossing lang"
+      ],
+      "h1": "Isipin ang mga karatula at ang trapiko sa paligid mo.",
+      "h2": "Puwede ka lang mag-U-turn kung walang karatulang nagbabawal nito at kung magagawa mo ito nang ligtas, nang hindi nakaharang sa ibang trapiko.",
+      "p": "Tama. Mag-U-turn lang kapag ligtas at pinapayagan."
+    },
+    "ar": {
+      "q": "في Florida، متى يمكنك أن تقوم بدوران كامل للخلف (U-turn)؟",
+      "o": [
+        "في أي وقت عندما يفوتني الشارع",
+        "فقط عندما يكون آمنًا ولا توجد علامة تمنعه",
+        "فقط على الطريق السريع",
+        "فقط عند تقاطع سكة حديد"
+      ],
+      "h1": "فكّر في العلامات وفي السيارات حولك.",
+      "h2": "يمكنك أن تقوم بدوران كامل للخلف فقط حيث لا توجد علامة تمنعه، وفقط عندما تستطيع أن تقوم به بأمان بدون أن تعيق السيارات الأخرى.",
+      "p": "صحيح. قم بالدوران الكامل للخلف فقط عندما يكون آمنًا ومسموحًا."
     }
   },
   {
@@ -1224,6 +2952,54 @@
       "h1": "Doblar a la derecha en rojo se permite solo después de ceder el paso.",
       "h2": "Cuando usted dobla a la derecha en rojo, primero debe parar y ceder el paso a las personas que cruzan y al tráfico, así que espera hasta que el camino esté libre.",
       "p": "Correcto. En rojo, ceda el paso a peatones y tráfico antes de doblar a la derecha."
+    },
+    "zh": {
+      "q": "在 Florida，你在红灯前停下，想右转。有一个人正在你前面过马路。你该怎么做？",
+      "o": [
+        "现在就转，因为红灯可以右转",
+        "按喇叭，然后转",
+        "等这个人过完马路，路上没车了再转",
+        "转进最远的车道，绕过这个人"
+      ],
+      "h1": "红灯右转只有在你让行以后才可以。",
+      "h2": "红灯右转时，你必须先停车，让过马路的人和其他车先走，所以要等路上安全了再转。",
+      "p": "对。红灯右转前，先让行人和车辆走。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn đã dừng ở đèn đỏ và muốn rẽ phải. Có người đang băng qua đường trước mặt bạn. Bạn làm gì?",
+      "o": [
+        "Rẽ ngay, vì được phép rẽ phải khi đèn đỏ",
+        "Bấm còi và rẽ",
+        "Chờ người đó qua hết, rồi rẽ khi không có xe",
+        "Rẽ vào làn xa để vòng qua người đó"
+      ],
+      "h1": "Rẽ phải khi đèn đỏ chỉ được phép sau khi bạn đã nhường đường.",
+      "h2": "Khi rẽ phải lúc đèn đỏ, trước tiên bạn phải dừng lại và nhường người đi bộ và xe cộ, nên bạn chờ đến khi đường trống.",
+      "p": "Đúng. Khi đèn đỏ, hãy nhường người đi bộ và xe cộ trước khi rẽ phải."
+    },
+    "tl": {
+      "q": "Sa Florida, huminto ka sa pulang ilaw at gusto mong kumanan. May taong tumatawid sa harap mo. Ano ang gagawin mo?",
+      "o": [
+        "Kumanan na, dahil pinapayagan ang pagkanan sa pula",
+        "Bumusina at kumanan",
+        "Hintaying makatawid ang tao, saka kumanan kapag malinis na ang trapiko",
+        "Kumanan papunta sa malayong lane para iwasan ang tao"
+      ],
+      "h1": "Pinapayagan ang pagkanan sa pula pagkatapos mo lang magbigay-daan.",
+      "h2": "Kapag kumakanan ka sa pula, dapat ka munang huminto at magbigay-daan sa mga tumatawid at sa trapiko, kaya maghihintay ka hanggang malinis ang daan.",
+      "p": "Tama. Sa pula, magbigay-daan sa mga tao at trapiko bago ka kumanan."
+    },
+    "ar": {
+      "q": "في Florida، توقفت عند إشارة حمراء وتريد أن تنعطف يمينًا. شخص يعبر أمامك. ماذا تفعل؟",
+      "o": [
+        "أنعطف الآن، لأن الانعطاف يمينًا عند الإشارة الحمراء مسموح",
+        "أستعمل البوق وأنعطف",
+        "أنتظر حتى يعبر الشخص، ثم أنعطف عندما يكون الطريق فارغًا",
+        "أنعطف إلى المسار البعيد لألتف حول الشخص"
+      ],
+      "h1": "الانعطاف يمينًا عند الإشارة الحمراء مسموح فقط بعد أن تعطي حق المرور.",
+      "h2": "عندما تنعطف يمينًا عند الإشارة الحمراء، يجب أولًا أن تتوقف وتعطي حق المرور للمشاة وللسيارات، لذلك تنتظر حتى يصبح الطريق فارغًا.",
+      "p": "صحيح. عند الإشارة الحمراء، أعطِ حق المرور للناس وللسيارات قبل أن تنعطف يمينًا."
     }
   },
   {
@@ -1260,6 +3036,54 @@
       "h1": "Esta señal no siempre significa un alto total.",
       "h2": "Una señal de ceda el paso significa que usted baja la velocidad y deja pasar primero a otros vehículos y personas, y para solo si es necesario.",
       "p": "Correcto. Ceda el paso significa bajar la velocidad y dejar pasar a los demás."
+    },
+    "zh": {
+      "q": "这个红白色、倒三角形的标志告诉你要做什么？",
+      "o": [
+        "每次都要完全停车",
+        "加速并入车流",
+        "减速，让其他车先走，需要时停车",
+        "掉头"
+      ],
+      "h1": "这个标志不一定是要你完全停车。",
+      "h2": "让行标志的意思是你要减速，让其他车和行人先走，只有在需要时才停车。",
+      "p": "对。让行标志的意思是减速，让别人先走。"
+    },
+    "vi": {
+      "q": "Biển báo hình tam giác ngược màu đỏ và trắng này bảo bạn làm gì?",
+      "o": [
+        "Luôn luôn dừng hẳn",
+        "Tăng tốc và nhập làn",
+        "Giảm tốc và để xe khác đi trước, dừng lại nếu cần",
+        "Quay đầu xe"
+      ],
+      "h1": "Biển này không phải lúc nào cũng có nghĩa là dừng hẳn.",
+      "h2": "Biển \"YIELD\" (Nhường đường) có nghĩa là bạn giảm tốc và để xe khác và người đi bộ đi trước, và bạn chỉ dừng lại nếu cần.",
+      "p": "Đúng. Biển \"YIELD\" có nghĩa là giảm tốc và để người khác đi trước."
+    },
+    "tl": {
+      "q": "Ano ang sinasabi sa iyo ng pula at puting baligtad na tatsulok na karatulang ito?",
+      "o": [
+        "Huminto nang buo sa bawat pagkakataon",
+        "Bumilis at sumanib sa trapiko",
+        "Bumagal at paunahin ang ibang trapiko, at huminto kung kailangan",
+        "Umikot pabalik"
+      ],
+      "h1": "Hindi laging buong paghinto ang ibig sabihin ng karatulang ito.",
+      "h2": "Ang \"YIELD\" sign (magbigay-daan) ay nangangahulugang babagal ka at paunahin ang ibang trapiko at mga tao, at hihinto ka lang kung kailangan.",
+      "p": "Tama. Ang \"YIELD\" sign ay nangangahulugang bumagal at paunahin ang iba."
+    },
+    "ar": {
+      "q": "هذه العلامة مثلث أحمر وأبيض مقلوب. ماذا تطلب منك أن تفعل؟",
+      "o": [
+        "أتوقف توقفًا كاملًا كل مرة",
+        "أسرع وأندمج",
+        "أخفف السرعة وأترك السيارات الأخرى تمر أولًا، وأتوقف إذا لزم الأمر",
+        "أرجع من حيث جئت"
+      ],
+      "h1": "هذه العلامة لا تعني دائمًا توقفًا كاملًا.",
+      "h2": "علامة \"YIELD\" (أعطِ حق المرور) تعني أن تخفف السرعة وتترك السيارات الأخرى والمشاة يمرون أولًا، وتتوقف فقط إذا احتجت إلى ذلك.",
+      "p": "صحيح. علامة \"YIELD\" (أعطِ حق المرور) تعني: خفف السرعة واترك الآخرين يمرون أولًا."
     }
   },
   {
@@ -1293,6 +3117,54 @@
       "h1": "Piense en quién ya está en la vía principal.",
       "h2": "Cuando usted entra a una carretera, debe ceder el paso al tráfico que ya va por ella y buscar un espacio seguro.",
       "p": "Correcto. Al entrar a la carretera, ceda el paso al tráfico que ya va por ella."
+    },
+    "zh": {
+      "q": "在 Florida，你在匝道上，准备并入高速公路。谁有先行权？",
+      "o": [
+        "已经在高速公路上的车",
+        "你，因为你在匝道上",
+        "开得快的车",
+        "先打转向灯的人"
+      ],
+      "h1": "想一想谁已经在主路上。",
+      "h2": "并入高速公路时，你必须让已经在高速公路上的车先走，并找到一个安全的空隙。",
+      "p": "对。并入时，让已经在高速公路上的车先走。"
+    },
+    "vi": {
+      "q": "Ở Florida, bạn đang ở trên đường dẫn để nhập vào xa lộ. Ai có quyền ưu tiên?",
+      "o": [
+        "Xe đã ở trên xa lộ",
+        "Bạn, vì bạn đang ở trên đường dẫn",
+        "Xe chạy nhanh hơn",
+        "Người bật xi nhan trước"
+      ],
+      "h1": "Hãy nghĩ xem ai đã ở trên đường chính rồi.",
+      "h2": "Khi nhập vào xa lộ, bạn phải nhường xe đã ở trên xa lộ và tìm khoảng trống an toàn.",
+      "p": "Đúng. Khi nhập làn, hãy nhường xe đã ở trên xa lộ."
+    },
+    "tl": {
+      "q": "Sa Florida, nasa ramp ka papasok sa highway. Sino ang may karapatan sa daan?",
+      "o": [
+        "Ang trapikong nasa highway na",
+        "Ikaw, dahil nasa ramp ka",
+        "Ang mas mabilis na kotse",
+        "Kung sino ang unang mag-signal"
+      ],
+      "h1": "Isipin kung sino na ang nasa pangunahing daan.",
+      "h2": "Kapag sumasanib ka sa highway, dapat kang magbigay-daan sa trapikong nasa highway na at maghanap ng ligtas na puwang.",
+      "p": "Tama. Kapag sumasanib, magbigay-daan sa trapikong nasa highway na."
+    },
+    "ar": {
+      "q": "في Florida، أنت على منحدر الدخول إلى طريق سريع. من له حق المرور؟",
+      "o": [
+        "السيارات الموجودة على الطريق السريع",
+        "أنت، لأنك على منحدر الدخول",
+        "السيارة الأسرع",
+        "من يشغّل الإشارة أولًا"
+      ],
+      "h1": "فكّر في من هو موجود الآن على الطريق الرئيسي.",
+      "h2": "عندما تندمج في طريق سريع، يجب أن تعطي حق المرور للسيارات الموجودة عليه وتجد مسافة آمنة.",
+      "p": "صحيح. عند الاندماج، أعطِ حق المرور للسيارات الموجودة على الطريق السريع."
     }
   }
 ]

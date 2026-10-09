@@ -82,6 +82,17 @@ srv.listen(0, async () => {
   await p.click('#btnStart'); await p.waitForSelector('.opt');
   const esOk = await p.evaluate(() => window.PV_BANK.some(x => x.es.q === document.querySelector('#qtitle').textContent));
   ok(esOk, 'Spanish question shown');
+  // 4b. More languages: Arabic is right-to-left, Chinese shows its own text, English is shown under it for Florida.
+  await p.click('#btnBack'); await p.click('[data-lang="ar"]');
+  ok(await p.evaluate(() => document.documentElement.dir === 'rtl'), 'Arabic switches the page to right-to-left');
+  await p.click('[data-lang="zh"]');
+  ok(await p.evaluate(() => document.documentElement.dir === 'ltr'), 'leaving Arabic switches back to left-to-right');
+  ok(await p.isVisible('#chkEn'), 'Florida in Chinese: English-only test notice with the "show English" switch');
+  await p.click('#btnStart'); await p.waitForSelector('.opt');
+  const zhOk = await p.evaluate(() => { const t = document.getElementById('qtitle').textContent;
+    const q = window.PV_BANK.find(x => x.zh && x.zh.q === t); const en = document.getElementById('qen');
+    return !!q && !!en && en.textContent === q.en.q && document.querySelectorAll('.opt .en2').length === 4; });
+  ok(zhOk, 'Chinese question shown with the English question and options under it');
   // 5. Exam: 50 questions, one try, result
   await p.click('#btnBack'); await p.click('[data-lang="en"]');
   ok((await p.textContent('#btnExam')).includes('50'), 'Florida practice test has 50 questions');
