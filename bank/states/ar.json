@@ -105,13 +105,13 @@
     "id": "ar-004",
     "scope": "AR",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.dmvroads.com/states/arkansas/teen-license/",
+    "src": "https://arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2025R%2FPublic%2F&file=928.pdf&ddBienniumSession=2025%2F2025R",
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In Arkansas, how long must a teen hold a learner's license before getting an intermediate license?",
+      "q": "In Arkansas, to get an intermediate license at 16, how long must a teen's driving record be free of a serious crash or serious traffic ticket?",
       "o": [
         "At least three months",
         "At least six months",
@@ -119,11 +119,11 @@
         "At least two years"
       ],
       "h1": "It is half of a year.",
-      "h2": "In Arkansas, a teen must hold the learner's license for at least six months in a row before moving up to an intermediate license.",
-      "p": "Right. The learner's license must be held for at least six months."
+      "h2": "In Arkansas, a teen can get an intermediate license at 16 only if the driving record has no serious crash and no serious traffic ticket in the last six months.",
+      "p": "Right. The record must be clean for the last six months."
     },
     "es": {
-      "q": "En Arkansas, ¿cuánto tiempo debe tener un joven la licencia de aprendiz antes de obtener la licencia intermedia?",
+      "q": "En Arkansas, para obtener la licencia intermedia a los 16 años, ¿cuánto tiempo debe estar el historial del joven sin un choque grave ni una multa de tránsito grave?",
       "o": [
         "Por lo menos tres meses",
         "Por lo menos seis meses",
@@ -131,8 +131,8 @@
         "Por lo menos dos años"
       ],
       "h1": "Es la mitad de un año.",
-      "h2": "En Arkansas, el joven debe tener la licencia de aprendiz por lo menos seis meses seguidos antes de pasar a la licencia intermedia.",
-      "p": "Correcto. La licencia de aprendiz se debe tener por lo menos seis meses."
+      "h2": "En Arkansas, un joven puede obtener la licencia intermedia a los 16 años solo si su historial no tiene ningún choque grave ni ninguna multa de tránsito grave en los últimos seis meses.",
+      "p": "Correcto. El historial debe estar limpio durante los últimos seis meses."
     }
   },
   {
@@ -411,9 +411,9 @@
     "id": "ar-013",
     "scope": "AR",
     "cat": "safe-driving",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.drivinglaws.org/arkansas.php",
+    "src": "https://arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2011R%2FPublic%2F&file=37.pdf&ddBienniumSession=2011%2F2011R",
     "sign": null,
     "c": 3,
     "en": {
@@ -425,7 +425,7 @@
         "In a school zone, or a work zone when workers are present"
       ],
       "h1": "Think of places where children or road workers may be near.",
-      "h2": "In Arkansas, an adult driver may not hold a phone to talk while driving through a school zone, or a highway work zone when workers are present.",
+      "h2": "In Arkansas, even an adult driver may not hold a phone while passing a school zone during school hours when children are outside, or while driving in a highway work zone when workers are present.",
       "p": "Right. In school zones and active work zones, calls must be hands-free."
     },
     "es": {
@@ -437,7 +437,7 @@
         "En una zona escolar, o en una zona de obras cuando hay trabajadores"
       ],
       "h1": "Piense en lugares donde puede haber niños o trabajadores cerca.",
-      "h2": "En Arkansas, un conductor adulto no puede sostener el teléfono para hablar mientras pasa por una zona escolar, o por una zona de obras en la carretera cuando hay trabajadores.",
+      "h2": "En Arkansas, incluso un conductor adulto no puede sostener el teléfono al pasar por una zona escolar en horario de clases cuando hay niños afuera, ni al manejar en una zona de obras en la carretera cuando hay trabajadores.",
       "p": "Correcto. En zonas escolares y zonas de obras activas, las llamadas deben ser con manos libres."
     }
   },
@@ -513,9 +513,9 @@
     "id": "ar-016",
     "scope": "AR",
     "cat": "speed-lanes",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://ghsa.org/node/2906",
+    "src": "https://arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2019R%2FPublic%2F&file=784.pdf&ddBienniumSession=2019%2F2019R",
     "sign": null,
     "c": 3,
     "en": {
@@ -547,9 +547,9 @@
     "id": "ar-017",
     "scope": "AR",
     "cat": "speed-lanes",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://ghsa.org/node/2906",
+    "src": "https://arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2019R%2FPublic%2F&file=784.pdf&ddBienniumSession=2019%2F2019R",
     "sign": null,
     "c": 0,
     "en": {
@@ -649,9 +649,9 @@
     "id": "ar-020",
     "scope": "AR",
     "cat": "right-of-way",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://dps.arkansas.gov/news/asp-urges-motorists-to-move-over-for-first-responders/",
+    "src": "https://arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2019R%2FPublic%2F&file=550.pdf&ddBienniumSession=2019%2F2019R",
     "sign": null,
     "c": 0,
     "en": {
@@ -663,7 +663,7 @@
         "$5,000 to $10,000"
       ],
       "h1": "The lowest amount is a few hundred dollars.",
-      "h2": "The Arkansas State Police say a driver who breaks the move-over law can be fined from $250 to $1,000 and may also lose their license.",
+      "h2": "Under Arkansas law, a driver who breaks the move-over law can be fined from $250 to $1,000, and may also face up to 90 days in jail.",
       "p": "Right. The fine ranges from $250 to $1,000."
     },
     "es": {
@@ -675,7 +675,7 @@
         "De $5,000 a $10,000"
       ],
       "h1": "La cantidad más baja es de unos cientos de dólares.",
-      "h2": "La Policía Estatal de Arkansas dice que quien no cumple la ley de moverse de carril puede recibir una multa de $250 a $1,000 y también puede perder la licencia.",
+      "h2": "Según la ley de Arkansas, quien no cumple la ley de moverse de carril puede recibir una multa de $250 a $1,000, y también hasta 90 días de cárcel.",
       "p": "Correcto. La multa va de $250 a $1,000."
     }
   },
@@ -853,9 +853,9 @@
     "id": "ar-026",
     "scope": "AR",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.carinsurance.com/state/state-minimum-car-insurance-in-arkansas/",
+    "src": "https://arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2011R%2FPublic%2F&file=1046.pdf&ddBienniumSession=2011%2F2011R",
     "sign": null,
     "c": 2,
     "en": {
