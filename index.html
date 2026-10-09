@@ -786,8 +786,12 @@ el('btnRate').onclick = () => { const r = [0.8, 1, 1.2]; S.rate = r[(r.indexOf(S
 
 if('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(() => {});
 /* Landing pages link with ?state=XX: select that state, stored like a choice from the list. */
-const fromLink = (new URLSearchParams(location.search).get('state') || '').toUpperCase();
+const linkParams = new URLSearchParams(location.search);
+const fromLink = (linkParams.get('state') || '').toUpperCase();
 if(STATES[fromLink]) setState(fromLink); else render();
+// ?lang=es (from the Spanish landing pages): open in that language when the state offers it.
+const langLink = (linkParams.get('lang') || '').toLowerCase();
+if(langLink && langLink !== S.lang && langsFor(S.state).some(L => L.code === langLink)) setLang(langLink);
 })();
 </script>
 </body>
