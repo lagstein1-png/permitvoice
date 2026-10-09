@@ -40,8 +40,8 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | ND | North Dakota | 20 | 18 | 25 q, pass 20 (80%) | [link](https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf) | [link](https://dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/2023-text-231023_SPA%20DL%20Manual.pdf) | yes |
 | NE | Nebraska | 20 | 0 | 25 q, pass 20 (80%) | [link](https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf) | — | no |
 | NH | New Hampshire | 20 | 0 | ? q, pass ? (80%) | [link](https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/nhdm.pdf) | — | no |
-| NJ | New Jersey | 20 | 0 | 50 q, pass 40 (80%) | — | — | no |
-| NM | New Mexico | 21 | 0 | ? q, pass ? (70%) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf) | — | no |
+| NJ | New Jersey | 20 | 20 | 50 q, pass 40 (80%) | [link](https://www.nj.gov/mvc/pdf/license/drivermanual.pdf) | [link](https://www.nj.gov/mvc/pdf/license/drivermanuals.pdf) | yes |
+| NM | New Mexico | 21 | 21 | ? q, pass ? (70%) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/dlms11.19.19.pdf) | yes |
 | NV | Nevada | 21 | 0 | 25 q, pass 20 (80%) | [link](https://dmv.nv.gov/pdfforms/dlbook.pdf) | — | no |
 | NY | New York | 27 | 0 | 20 q, pass 14 (70%) | [link](https://dmv.ny.gov/brochure/mv21.pdf) | [link](https://dmv.ny.gov/brochure/mv21s.pdf) | no |
 | OH | Ohio | 20 | 0 | not found | — | — | no |

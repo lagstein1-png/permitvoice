@@ -3,9 +3,9 @@
     "id": "nj-001",
     "scope": "NJ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://bridgelegal.org/how-many-questions-are-jersey-permit-test/",
+    "conf": "high",
+    "page": 30,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -37,9 +37,9 @@
     "id": "nj-002",
     "scope": "NJ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://bridgelegal.org/how-many-questions-are-jersey-permit-test/",
+    "conf": "high",
+    "page": 31,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -71,9 +71,9 @@
     "id": "nj-003",
     "scope": "NJ",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://nj.gov/mvc/license/youngadult.htm",
+    "src": "https://www.nj.gov/mvc/license/youngadult.htm",
     "sign": null,
     "c": 2,
     "en": {
@@ -105,9 +105,9 @@
     "id": "nj-004",
     "scope": "NJ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://nj.gov/mvc/license/youngadult.htm",
+    "conf": "high",
+    "page": 19,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -139,9 +139,9 @@
     "id": "nj-005",
     "scope": "NJ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://codes.findlaw.com/nj/title-39-motor-vehicles-and-traffic-regulation/nj-st-sect-39-3-13/",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -173,9 +173,9 @@
     "id": "nj-006",
     "scope": "NJ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://nj.gov/mvc/license/youngadult.htm",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -207,9 +207,9 @@
     "id": "nj-007",
     "scope": "NJ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://nj.gov/mvc/license/youngadult.htm",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -241,9 +241,9 @@
     "id": "nj-008",
     "scope": "NJ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://codes.findlaw.com/nj/title-39-motor-vehicles-and-traffic-regulation/nj-st-sect-39-3-13/",
+    "conf": "high",
+    "page": 15,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -275,13 +275,13 @@
     "id": "nj-009",
     "scope": "NJ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.nj.gov/mvc/about/gdlsafety.htm",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In New Jersey, between which hours may a driver with a probationary license not drive?",
+      "q": "In New Jersey, between which hours may a probationary driver under 21 not drive?",
       "o": [
         "10:00 p.m. to 6:00 a.m.",
         "11:01 p.m. to 5:00 a.m.",
@@ -289,11 +289,11 @@
         "9:00 p.m. to 5:00 a.m."
       ],
       "h1": "It starts just after eleven at night.",
-      "h2": "In New Jersey a probationary driver may not drive from 11:01 p.m. to 5:00 a.m., except for work, religious activity or an emergency.",
+      "h2": "In New Jersey a probationary driver under 21 may not drive from 11:01 p.m. to 5:00 a.m., unless they carry a letter showing they must drive then for work or religion.",
       "p": "Right. No driving from 11:01 p.m. to 5:00 a.m."
     },
     "es": {
-      "q": "En New Jersey, ¿entre qué horas no puede manejar un conductor con licencia probatoria?",
+      "q": "En New Jersey, ¿entre qué horas no puede manejar un conductor con licencia probatoria menor de 21 años?",
       "o": [
         "10:00 p.m. a 6:00 a.m.",
         "11:01 p.m. a 5:00 a.m.",
@@ -301,7 +301,7 @@
         "9:00 p.m. a 5:00 a.m."
       ],
       "h1": "Empieza justo después de las once de la noche.",
-      "h2": "En New Jersey un conductor con licencia probatoria no puede manejar de 11:01 p.m. a 5:00 a.m., excepto por trabajo, actividad religiosa o una emergencia.",
+      "h2": "En New Jersey un conductor con licencia probatoria menor de 21 años no puede manejar de 11:01 p.m. a 5:00 a.m., a menos que lleve una carta que muestre que debe manejar a esa hora por trabajo o por religión.",
       "p": "Correcto. No se maneja de 11:01 p.m. a 5:00 a.m."
     }
   },
@@ -309,9 +309,9 @@
     "id": "nj-010",
     "scope": "NJ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.nj.gov/mvc/about/gdlsafety.htm",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -343,9 +343,9 @@
     "id": "nj-011",
     "scope": "NJ",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.nj.gov/mvc/about/gdlsafety.htm",
+    "conf": "high",
+    "page": 86,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -377,13 +377,13 @@
     "id": "nj-012",
     "scope": "NJ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://law.onecle.com/new-jersey/title-39/39-3-13.4.html",
+    "conf": "high",
+    "page": 19,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In New Jersey, how many reflective decals must a permit or probationary driver display on the vehicle?",
+      "q": "In New Jersey, how many reflective decals must a permit or probationary driver under 21 display on the vehicle?",
       "o": [
         "None",
         "One",
@@ -391,11 +391,11 @@
         "Four"
       ],
       "h1": "It is more than one but fewer than three.",
-      "h2": "New Jersey gives permit and probationary drivers two removable reflective decals to display on the vehicle they drive.",
+      "h2": "A New Jersey permit or probationary driver under 21 must display two red reflective decals, one on the front license plate and one on the rear plate.",
       "p": "Right. Two decals are displayed."
     },
     "es": {
-      "q": "En New Jersey, ¿cuántas calcomanías reflectantes debe mostrar en el vehículo un conductor con permiso o licencia probatoria?",
+      "q": "En New Jersey, ¿cuántas calcomanías reflectantes debe mostrar en el vehículo un conductor con permiso o licencia probatoria menor de 21 años?",
       "o": [
         "Ninguna",
         "Una",
@@ -403,7 +403,7 @@
         "Cuatro"
       ],
       "h1": "Es más de una pero menos de tres.",
-      "h2": "New Jersey les da a los conductores con permiso o licencia probatoria dos calcomanías reflectantes removibles para mostrar en el vehículo que manejan.",
+      "h2": "En New Jersey, un conductor con permiso o licencia probatoria menor de 21 años debe mostrar dos calcomanías rojas reflectantes, una en la placa delantera y otra en la placa trasera.",
       "p": "Correcto. Se muestran dos calcomanías."
     }
   },
@@ -411,13 +411,13 @@
     "id": "nj-013",
     "scope": "NJ",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.nj.gov/mvc/about/gdlsafety.htm",
+    "conf": "high",
+    "page": 14,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In New Jersey, what is the fine for driving without displaying the required permit or probationary decals?",
+      "q": "In New Jersey, what is the fine for a permit or probationary driver under 21 who drives without the required decals?",
       "o": [
         "$25",
         "$100",
@@ -425,11 +425,11 @@
         "There is no fine"
       ],
       "h1": "It is a round number with three digits.",
-      "h2": "In New Jersey, not displaying the required decals while driving is a violation with a $100 fine.",
+      "h2": "In New Jersey, breaking a graduated license rule, such as driving without the required decals, can bring a $100 fine.",
       "p": "Right. Missing decals can cost $100."
     },
     "es": {
-      "q": "En New Jersey, ¿cuál es la multa por manejar sin mostrar las calcomanías obligatorias de permiso o licencia probatoria?",
+      "q": "En New Jersey, ¿cuál es la multa para un conductor con permiso o licencia probatoria menor de 21 años que maneja sin las calcomanías obligatorias?",
       "o": [
         "$25",
         "$100",
@@ -437,7 +437,7 @@
         "No hay multa"
       ],
       "h1": "Es un número redondo de tres cifras.",
-      "h2": "En New Jersey, no mostrar las calcomanías obligatorias al manejar es una infracción con una multa de $100.",
+      "h2": "En New Jersey, no cumplir una regla de la licencia gradual, como manejar sin las calcomanías obligatorias, puede costar una multa de $100.",
       "p": "Correcto. No llevar las calcomanías puede costar $100."
     }
   },
@@ -445,9 +445,9 @@
     "id": "nj-014",
     "scope": "NJ",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://claimsjournal.com/news/east/2013/06/28/231966.htm",
+    "conf": "high",
+    "page": 86,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -479,9 +479,9 @@
     "id": "nj-015",
     "scope": "NJ",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://codes.findlaw.com/nj/title-39-motor-vehicles-and-traffic-regulation/nj-st-sect-39-4-128-1/",
+    "conf": "high",
+    "page": 77,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -493,7 +493,7 @@
         "Honk and pass"
       ],
       "h1": "You do not have to stop, but you must go very slowly.",
-      "h2": "In New Jersey, when a physical barrier divides the highway, drivers on the opposite side of a stopped school bus must slow to no more than 10 miles per hour while passing.",
+      "h2": "In New Jersey, if a safety island or raised median separates you from a stopped school bus on the other side, you must slow to no more than 10 miles per hour while passing.",
       "p": "Right. Slow to 10 mph or less."
     },
     "es": {
@@ -505,7 +505,7 @@
         "Tocar el claxon y pasar"
       ],
       "h1": "No tiene que detenerse, pero debe ir muy despacio.",
-      "h2": "En New Jersey, cuando una barrera física divide la carretera, los conductores del lado opuesto a un autobús escolar detenido deben bajar a no más de 10 millas por hora al pasar.",
+      "h2": "En New Jersey, si una isla de seguridad o un camellón elevado lo separa de un autobús escolar detenido del otro lado, usted debe bajar a no más de 10 millas por hora al pasar.",
       "p": "Correcto. Baje a 10 mph o menos."
     }
   },
@@ -513,9 +513,9 @@
     "id": "nj-016",
     "scope": "NJ",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://nj1015.com/keep-right-pass-law-nj/",
+    "conf": "high",
+    "page": 65,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -547,9 +547,9 @@
     "id": "nj-017",
     "scope": "NJ",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://getjerry.com/driving/new-jersey-move-over-law",
+    "conf": "high",
+    "page": 78,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -581,9 +581,9 @@
     "id": "nj-018",
     "scope": "NJ",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://nj1015.com/murphy-signs-new-nj-law-that-could-cost-drivers-500-fine/",
+    "conf": "high",
+    "page": 78,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -615,9 +615,9 @@
     "id": "nj-019",
     "scope": "NJ",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://nj1015.com/nj-law-switch-lanes-or-slow-down-for-pedestrians-or-get-fined/",
+    "conf": "high",
+    "page": 150,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -649,9 +649,9 @@
     "id": "nj-020",
     "scope": "NJ",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://aielloharris.com/practice-areas/criminal-law/dui-in-nj/under-21-dwi-in-new-jersey/",
+    "conf": "high",
+    "page": 115,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
     "sign": null,
     "c": 0,
     "en": {

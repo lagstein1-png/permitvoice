@@ -1,1 +1,65 @@
-{"code":"NJ","name":"New Jersey","agency":"New Jersey Motor Vehicle Commission (MVC)","handbook":{"en":null,"es":null},"exam":{"questions":50,"pass":40,"passPercent":80,"spanish":null},"permitAge":"16 (special learner permit, enrolled in behind-the-wheel driver training; MVC); 17 (examination permit, no driver training needed; N.J.S.A. 39:3-13)","teen":{"supervisedHours":"50 hours, including 10 at night, logged on form BA-CSD (one secondary source only; not confirmed on an MVC page)","holdPermit":"At least 6 months of supervised driving before the road test (N.J.S.A. 39:3-13 via MVC)","nightLimit":"Permit and probationary: no driving 11:01 p.m. to 5:00 a.m., except work, religious activity or emergency with verification (MVC)","passengerLimit":"Probationary under 21: one passenger plus the driver's dependents, unless a parent or guardian is in the car (MVC, N.J.S.A. 39:3-13.4)","phone":"Permit and probationary: no hand-held or hands-free wireless device. All drivers: hand-held ban; first offense 00 to 00, third offense 00 to 00 with 3 points and possible 90-day suspension."},"bac":{"adult":"0.08","under21":"0.01 (zero tolerance; secondary sources)"},"notes":["Supervising driver: at least 21, valid New Jersey license, at least 3 years of driving experience, in the front seat (MVC).","GDL decals: two removable reflective decals, $4 a pair; not displaying them is a $100 fine (MVC, N.J.S.A. 39:3-13.4). Placement on front and rear plates is from secondary sources only.","Failed knowledge test: retake after 7 days (MVC page via search snippet).","Test format 50 questions, 40 correct (80 percent) is from test-prep sites, not an MVC page.","School bus (N.J.S.A. 39:4-128.1): undivided road, both directions stop; opposite side of a safety island, raised median or barrier: slow to no more than 10 mph.","Keep right (N.J.S.A. 39:4-82): left lane only to pass or turn left; fine $100 to $300 (news source).","Move Over: change lanes or slow below the limit; $100 to $500; also disabled vehicles with hazard lights; pedestrians and bicyclists: change lanes or leave 4 feet, else slow to 25 mph (news sources).","Handbook: no official driver manual URL was found in search results (only third-party copies). The MVC is said to publish a Spanish manual, but no official URL was confirmed.","Official nj.gov pages could not be read (fetch blocked); facts come from search snippets."],"sources":["https://nj.gov/mvc/license/youngadult.htm","https://www.nj.gov/mvc/about/gdlsafety.htm","https://law.onecle.com/new-jersey/title-39/39-3-13.4.html","https://codes.findlaw.com/nj/title-39-motor-vehicles-and-traffic-regulation/nj-st-sect-39-3-13/","https://nj.gov/lps/hts/downloads/TSB6-GDL_Restriction.pdf","https://bridgelegal.org/how-many-questions-are-jersey-permit-test/","https://codes.findlaw.com/nj/title-39-motor-vehicles-and-traffic-regulation/nj-st-sect-39-4-128-1/","https://nj1015.com/keep-right-pass-law-nj/","https://getjerry.com/driving/new-jersey-move-over-law","https://nj1015.com/murphy-signs-new-nj-law-that-could-cost-drivers-500-fine/","https://nj1015.com/nj-law-switch-lanes-or-slow-down-for-pedestrians-or-get-fined/","https://claimsjournal.com/news/east/2013/06/28/231966.htm","https://aielloharris.com/practice-areas/criminal-law/dui-in-nj/under-21-dwi-in-new-jersey/"],"checked":"2026-10-08","verified":false}
+{
+  "code": "NJ",
+  "name": "New Jersey",
+  "agency": "New Jersey Motor Vehicle Commission (MVC)",
+  "handbook": {
+    "en": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "es": "https://www.nj.gov/mvc/pdf/license/drivermanuals.pdf"
+  },
+  "exam": {
+    "questions": 50,
+    "pass": 40,
+    "passPercent": 80,
+    "spanish": true,
+    "languages": [
+      "English",
+      "American Sign Language",
+      "Arabic",
+      "Chinese",
+      "French",
+      "Japanese",
+      "Korean",
+      "Polish",
+      "Portuguese",
+      "Russian",
+      "Turkish",
+      "Hindi",
+      "Albanian",
+      "Spanish"
+    ],
+    "englishOnly": false
+  },
+  "permitAge": "16 (special learner permit, enrolled in an approved behind-the-wheel driver training course; handbook p. 15, 19); 17 (examination permit, no driver training needed; handbook p. 16, 20); 21+ adult examination permit with 3 months supervised (p. 17)",
+  "teen": {
+    "supervisedHours": "50 hours, including 10 in darkness, certified on the Certification of Supervised Driving form (BA-CSD) (handbook p. 15-16)",
+    "holdPermit": "At least 6 months of supervised driving without suspension before the road test if under 21; 3 months if 21 or older (handbook p. 15-17)",
+    "nightLimit": "Permit and probationary drivers under 21: no driving 11:01 p.m. to 5:00 a.m.; exemption only for employment or religion with a signed letter (handbook p. 18-19)",
+    "passengerLimit": "Permit and probationary under 21: dependents plus one other passenger, unless a parent or guardian is in the car (handbook p. 18)",
+    "phone": "Permit and probationary (GDL) holders: no hand-held or hands-free phone or electronic device. All drivers: hand-held ban; fines $200-$400 first offense, $400-$600 second, $600-$800 third or later with 3 points and possible 90-day suspension (handbook p. 86)."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "0.01 (handbook p. 115)"
+  },
+  "notes": [
+    "Handbook: New Jersey Driver Manual 2026, listed on the MVC manuals page as 'Revised 09/26' (PDF dated 2026-09-23). Printed page = PDF page - 2. Read 2026-10-09.",
+    "MVC also publishes the manual in Spanish, Chinese, Tagalog, Gujarati, Korean, Arabic, Haitian Creole and Portuguese: https://www.nj.gov/mvc/about/manuals.htm",
+    "Knowledge test: 50 questions plus an organ-donation survey question; pass 40 of 50 (80 percent) (handbook p. 30-31). Offered in English, ASL and 12 other languages including Spanish, Arabic and Chinese; oral test with headphones; approved interpreter possible after a first attempt (p. 30).",
+    "Supervising driver: at least 21, valid New Jersey license, at least 3 years of driving experience, in the front seat (handbook p. 18).",
+    "GDL decals: two red reflective decals, top left of the front and rear plates, $4 a pair, for permit and probationary drivers under 21 (handbook p. 19). Breaking GDL restrictions: $100 fine or suspension (p. 14).",
+    "Hour, passenger and decal limits do not apply to examination permit or probationary holders 21 or older; the phone ban does (handbook p. 18).",
+    "Failed knowledge test: re-test after 7 days; failed road test: 14 days (MVC page https://www.nj.gov/mvc/license/youngadult.htm). Not in the handbook.",
+    "School bus (N.J.S.A. 39:4-128.1): stop at least 25 feet away; on a dual-lane highway on the other side of a safety island or raised median, slow to 10 mph; in front of a school, pass at no more than 10 mph (handbook p. 77).",
+    "Keep right (N.J.S.A. 39:4-82, 39:4-88): on a multi-lane road use the right lane except to pass or prepare for a left turn (handbook p. 65).",
+    "Move Over (N.J.S.A. 39:4-92.2): change lanes or slow below the posted limit; covers emergency, tow, highway maintenance vehicles and stopped or disabled vehicles with hazard lights, flares or triangles; fine $100 to $500 (handbook p. 78).",
+    "Safe Passing (N.J.S.A. 39:4-92.4): move over a lane, or leave 4 feet, or slow to 25 mph and be ready to stop; $100 fine, $500 and 2 points if someone is hurt (handbook p. 146, 150)."
+  ],
+  "sources": [
+    "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "https://www.nj.gov/mvc/about/manuals.htm",
+    "https://www.nj.gov/mvc/license/youngadult.htm",
+    "https://www.nj.gov/mvc/license/knowledgetest.htm"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}

@@ -1,1 +1,61 @@
-{"code":"NM","name":"New Mexico","agency":"New Mexico Motor Vehicle Division (MVD)","handbook":{"en":"https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf","es":null},"exam":{"questions":null,"pass":null,"passPercent":70,"spanish":true},"permitAge":"15, if enrolled in or finished an approved driver education course with a DWI prevention component","teen":{"supervisedHours":"50 hours, including 10 at night, certified in writing by a parent or guardian","holdPermit":"6 months, plus 30 days for each traffic violation on the permit","nightLimit":"Provisional license: no driving midnight to 5 a.m. unless with a licensed driver 21 or older, or for family/medical necessity, work, school, religious or emergency reasons","passengerLimit":"Provisional license: no more than one passenger under 21 who is not immediate family, unless a licensed driver 21 or older is in the vehicle","phone":"Texting while driving prohibited for all drivers (NMSA 66-7-374; fine listed $25 first offense in a 2016 fiscal note). A teen-specific all-device ban was in a 2013 bill; enactment not confirmed."},"bac":{"adult":"0.08","under21":"0.02"},"notes":["Instruction permit supervisor: licensed driver 21 or older, licensed at least three years (NM or another state), in the seat beside the driver (MVD Chapter 3).","Provisional license held at least 12 months before a full license, plus 30 days per conviction (MVD Chapter 4).","Written test: 70 percent or better; offered in English, Spanish, Tagalog, Italian, German, French, Vietnamese and Chinese (older MVD manual page). Not required with a current out-of-state license. Third-party sites say 25 questions, 18 to pass; not confirmed by MVD.","School bus: stop on either side of the road; no stop needed when the bus is coming toward you and a median or physical barrier separates the roadways (NM driver manual).","Move over (66-7-332.1): exact current wording not confirmed; NMDOT says change lanes or slow down. Not used in questions.","Spanish driver manual exists (MVD manuals page lists \"En Espanol Driver's Manual\"); direct PDF URL not confirmed, so handbook.es is null.","WebFetch to state sites blocked; facts are from search-result summaries of the pages listed."],"sources":["https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/drivers-license/apply-for-a-learners-permit/","https://www.mvd.newmexico.gov/chapter-3-instructional-permit/","https://www.mvd.newmexico.gov/chapter-4-provisional-drivers-license/","https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf","https://www.mvd.newmexico.gov/mvd-drivers-license-manuals/","http://www.mvd.newmexico.gov/Manuals/Pages/11sectione.htm","https://www.mvd.newmexico.gov/what-tests-are-required-to-get-a-new-mexico-driver-license/","https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/dwi-information/","https://www.nmlegis.gov/Sessions/16%20Regular/firs/HB0074.PDF","https://www.nmlegis.gov/sessions/13%20Regular/bills/house/HB0043TCS.HTML","https://www.dot.nm.gov/blog/2021/10/15/the-nmdot-spreads-awareness-always-move-over-to-protect-emergency-personnel/"],"checked":"2026-10-08","verified":false}
+{
+  "code": "NM",
+  "name": "New Mexico",
+  "agency": "New Mexico Motor Vehicle Division (MVD)",
+  "handbook": {
+    "en": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "es": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/dlms11.19.19.pdf"
+  },
+  "exam": {
+    "questions": null,
+    "pass": null,
+    "passPercent": 70,
+    "spanish": true,
+    "languages": [
+      "English",
+      "Spanish",
+      "Tagalog",
+      "Italian",
+      "German",
+      "French",
+      "Vietnamese",
+      "Chinese"
+    ],
+    "englishOnly": false
+  },
+  "permitAge": "15, if enrolled in or finished an approved driver education course that includes DWI education (manual p. 1)",
+  "teen": {
+    "supervisedHours": "50 hours, including 10 at night, certified in writing by a parent or guardian",
+    "holdPermit": "6 months (manual p. 1), plus 30 days for each traffic violation on the permit (MVD Driver Procedures Manual, Chapter 4)",
+    "nightLimit": "Provisional license: no driving midnight to 5 a.m. unless with a licensed driver 21 or older, or for family/medical necessity, work, school, religious or emergency reasons",
+    "passengerLimit": "Provisional license: no more than one passenger under 21 who is not immediate family, unless a licensed driver 21 or older is in the vehicle",
+    "phone": "Texting while driving is banned for all drivers (2014 SB 19: $25 first offense, $50 after). The manual (p. 30) only warns about phone use and notes some towns ban handheld calls. No teen-only all-device ban found."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "0.02"
+  },
+  "notes": [
+    "Handbook: New Mexico Driver Manual, English, file version 11.19.19 (PDF last modified 2019-11-19); still the edition linked from the MVD manuals page on 2026-10-09. Printed page = PDF page minus 3. Spanish edition 'Guia Para Conducir de Nuevo Mexico' (dlms11.19.19.pdf).",
+    "Instruction permit supervisor: licensed driver 21 or older, licensed at least three years (NM or another state), in the right front seat (manual p. 1).",
+    "Provisional license held at least 12 months before a full license (manual p. 2), plus 30 days per conviction (MVD Chapter 4).",
+    "Written test: 70 percent or better; offered in English, Spanish, Tagalog, Italian, German, French, Vietnamese and Chinese (MVD Driver Procedures Manual Chapter 11, Section E, 2017-12-08). Number of questions not stated by any official source found; third-party sites say 25. Not required with a current out-of-state license (MVD FAQ). A certificate from an MVD-contracted driver education school can replace the MVD written test for a permit (MVD Chapter 3).",
+    "School bus: stop on either side of the road; no stop needed when the bus is coming toward you and a median or physical barrier separates the roadways (manual p. 12).",
+    "BAC: 0.08 adults, 0.02 under 21; refusing a test can cost the license for one year (manual p. 29).",
+    "Move over (66-7-332.1): not in the manual; not used in questions."
+  ],
+  "sources": [
+    "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/dlms11.19.19.pdf",
+    "https://www.mvd.newmexico.gov/mvd-drivers-license-manuals/",
+    "https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/drivers-license/apply-for-a-learners-permit/",
+    "https://www.mvd.newmexico.gov/chapter-3-instructional-permit/",
+    "https://www.mvd.newmexico.gov/chapter-4-provisional-drivers-license/",
+    "https://www.mvd.newmexico.gov/chapter-11-road-and-written-test-requirements/",
+    "https://www.mvd.newmexico.gov/knowledge-written-examination-changes/",
+    "https://www.mvd.newmexico.gov/what-tests-are-required-to-get-a-new-mexico-driver-license/",
+    "https://www.nmlegis.gov/Sessions/14%20Regular/final/SB0019.pdf"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
