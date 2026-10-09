@@ -1,4 +1,5 @@
-// Merges translation files (<dir>/<lang>/<topic>.json: id -> {q,o,h1,h2,p}) into bank/<topic>.json as q[<lang>],
+// Merges translation files (<dir>/<lang>/<topic>.json and <dir>/<lang>/states/<xx>.json: id -> {q,o,h1,h2,p})
+// into bank/<topic>.json and bank/states/<xx>.json as q[<lang>],
 // and writes i18n.js from <dir>/<lang>/ui.json. Usage: node tools/merge-i18n.js <dir>
 const fs = require('fs'), path = require('path');
 const root = path.join(__dirname, '..'), src = process.argv[2];
@@ -6,7 +7,9 @@ const LANGS = ['zh', 'vi', 'tl', 'ar', 'ht'];
 const ui = {};
 for (const L of LANGS) {
   const d = path.join(src, L); if (!fs.existsSync(d)) continue;
-  for (const f of fs.readdirSync(d)) {
+  const files = fs.readdirSync(d).filter(f => f.endsWith('.json'))
+    .concat(fs.existsSync(path.join(d, 'states')) ? fs.readdirSync(path.join(d, 'states')).map(f => 'states/' + f) : []);
+  for (const f of files) {
     if (f === 'ui.json') { ui[L] = JSON.parse(fs.readFileSync(path.join(d, f), 'utf8')); continue; }
     const bf = path.join(root, 'bank', f); if (!fs.existsSync(bf)) throw new Error('no bank file ' + f);
     const bank = JSON.parse(fs.readFileSync(bf, 'utf8')), tr = JSON.parse(fs.readFileSync(path.join(d, f), 'utf8'));
@@ -20,6 +23,8 @@ for (const L of LANGS) {
     console.log(L, f, n);
   }
 }
+// Interface text: only rewrite i18n.js when this batch carries ui.json files.
+if (!Object.keys(ui).length) { console.log('ui: none in this batch, i18n.js unchanged'); process.exit(0); }
 const en = JSON.parse(fs.readFileSync(path.join(src, 'ui-en.json'), 'utf8'));
 for (const [L, u] of Object.entries(ui)) {
   const missing = Object.keys(en).filter(k => !u[k]); if (missing.length) throw new Error(`${L} ui missing ${missing.join(',')}`);
