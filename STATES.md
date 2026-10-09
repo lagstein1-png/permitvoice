@@ -49,7 +49,7 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | OR | Oregon | 17 | 17 | 35 q, pass 28 (80%) | [link](https://www.oregon.gov/odot/Forms/DMV/37.pdf) | [link](https://www.oregon.gov/odot/Forms/DMV/37s.pdf) | yes |
 | PA | Pennsylvania | 20 | 20 | 18 q, pass 15 (83%) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/spanish/pub%2095s.pdf) | yes |
 | RI | Rhode Island | 22 | 0 | not found | — | — | no |
-| SC | South Carolina | 21 | 0 | 30 q, pass 24 (80%) | — | — | no |
+| SC | South Carolina | 21 | 21 | 30 q, pass 24 (80%) | [link](https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf) | — | yes |
 | SD | South Dakota | 24 | 0 | ? q, pass ? (80%) | [link](https://www.sd.gov/dps?id=kb_article_view&sysparm_article=KB0043733) | [link](https://www.sd.gov/dps?id=kb_article_view&sysparm_article=KB0043733) | no |
 | TN | Tennessee | 22 | 0 | 30 q, pass 24 (80%) | [link](https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf) | — | no |
 | TX | Texas | 27 | 0 | ? q, pass ? (70%) | [link](https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf) | — | no |
