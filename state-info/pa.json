@@ -1,1 +1,90 @@
-{"code":"PA","name":"Pennsylvania","agency":"Pennsylvania Department of Transportation (PennDOT), Driver and Vehicle Services","handbook":{"en":"https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf","es":null},"exam":{"questions":18,"pass":15,"passPercent":null,"spanish":null},"permitAge":"16, with parent or guardian consent (DL-180TD); knowledge test and vision screening","teen":{"supervisedHours":"65 hours, including at least 10 at night and 5 in bad weather; parent or guardian certifies on DL-180C","holdPermit":"6 months before the road test (under 18)","nightLimit":"Junior license: no driving 11 p.m. to 5 a.m. unless with a parent, guardian, person in loco parentis or spouse 18 or older, or for employment, public or charitable service or a volunteer fire company (with documentation)","passengerLimit":"Junior license: first 6 months one non-family passenger under 18; then three, unless partly or fully at fault in a crash or convicted of a driving violation; no limit with a parent or guardian in the car; never more than the seat belts","phone":"All drivers: Paul Miller's Law, hand-held devices banned while driving, even stopped in traffic or at a light (effective June 5, 2025; $50 fines from June 5, 2026). Texting ban also applies."},"bac":{"adult":"0.08","under21":"0.02 (Vehicle Code 3802(e)), secondary sources"},"notes":["Knowledge test: 18 multiple-choice questions, 15 correct to pass (PA driver's manual, Testing).","The 65 hours must be given by licensed drivers 21 or older per DL-180C; secondary sources say a licensed parent, guardian or spouse 18 or older may also supervise. Not used in questions.","School bus (PUB 97): stop for red lights and extended stop arm; failure brings a 60-day suspension, five points and a fine. Opposite side of a divided highway (barriers, guide rails, trees, rocks, streams or grass median): no stop, reduce speed and use caution.","Steer Clear law (since Sept. 8, 2006): move into a lane not adjacent to an emergency response area, or slow down; fines reported up to $250 / $500 / $1,000. Fine amounts not used in questions.","Learner's permit valid one year; renewal rules from secondary sources only.","Spanish: the PA driver's manual page lists a Spanish translation; direct PDF URL not confirmed. Test languages not confirmed."],"sources":["https://www.pa.gov/services/dmv/get-a-learners-permit","https://www.pa.gov/agencies/dmv/driver-services/pennsylvania-drivers-manual/online-drivers-manual/testing","https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/driver-services/driver-licensing/chapter_1.pdf","https://www.pa.gov/agencies/dmv/driver-services/pennsylvania-drivers-manual/online-drivers-manual/applying-for-a-learners-permit","https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-form/dl-180c.pdf","https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-fact-sheets/fs-wy.pdf","https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-publications/pub%2097.pdf","https://www.pa.gov/agencies/dmv/driver-services/pennsylvania-drivers-manual/online-drivers-manual/special-circumstances-and-emergencies","https://www.pa.gov/agencies/insurance/newsroom/shapiro-administration-reminds-drivers-to-put-down-the-phone","https://www.pa.gov/agencies/penndot/news-and-media/newsroom/statewide/2026/shapiro-administration-reminds-drivers-to-put-the-phone-away-or-","https://wcupa.edu/_services/studentHealthServices/documents/Under21_KnowTheLaw.pdf","https://gambonelaw.com/underage-drinking-drunk-driving-zero-tolerance-in-pennsylvania-and-new-jersey","https://pa.gov/agencies/dmv/driver-services/pennsylvania-drivers-manual.html","https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf"],"checked":"2026-10-08","verified":false}
+{
+  "code": "PA",
+  "name": "Pennsylvania",
+  "agency": "Pennsylvania Department of Transportation (PennDOT), Driver and Vehicle Services",
+  "handbook": {
+    "en": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "es": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/spanish/pub%2095s.pdf"
+  },
+  "exam": {
+    "questions": 18,
+    "pass": 15,
+    "passPercent": 83,
+    "spanish": true,
+    "languages": [
+      "Albanian",
+      "Amharic",
+      "Arabic",
+      "Bosnian",
+      "Burmese",
+      "Cambodian",
+      "Dari",
+      "English",
+      "Farsi",
+      "French",
+      "Greek",
+      "Hindi",
+      "Italian",
+      "Japanese",
+      "Korean",
+      "Mandarin",
+      "Mandinka",
+      "Nepali",
+      "Pashto",
+      "Polish",
+      "Portuguese",
+      "Punjabi",
+      "Russian",
+      "Somali",
+      "Spanish",
+      "Swahili",
+      "Turkish",
+      "Ukrainian",
+      "Urdu",
+      "Vietnamese"
+    ],
+    "englishOnly": false
+  },
+  "permitAge": "16 (cannot apply before the 16th birthday); under 18 needs consent on DL-180TD from a parent, guardian, person in loco parentis or spouse 18 or older; knowledge test and vision screening (manual p. 1)",
+  "teen": {
+    "supervisedHours": "65 hours, including at least 10 at night and 5 in bad weather; parent or guardian certifies on DL-180C (manual p. 2, 5)",
+    "holdPermit": "6 months from the permit issue date before the road test (under 18) (manual p. 2)",
+    "nightLimit": "Junior license: no driving 11 p.m. to 5 a.m. unless with a parent, guardian, person in loco parentis or spouse 18 or older, or for employment, public or charitable service or a volunteer fire company (notarized affidavit or certificate) (manual p. 3)",
+    "passengerLimit": "Junior license: first 6 months one non-family passenger under 18; then three, unless ever partly or fully at fault in a crash or convicted of a driving violation; no limit when a parent, guardian, person in loco parentis or spouse 18 or older is in the car; never more than the seat belts (manual p. 3-4)",
+    "phone": "All drivers: Paul Miller's Law, hand-held devices banned while driving, even stopped in traffic or at a light (effective June 5, 2025; $50 fines from June 5, 2026). Texting ban also applies."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "0.02 (manual p. 33, 82)"
+  },
+  "notes": [
+    "Handbook checked: PA Driver's Manual PUB 95 (4-21), English, April 2021 edition, still the PDF linked from pa.gov on 2026-10-09. Printed page = PDF page - 4.",
+    "Knowledge test: 18 multiple-choice questions, 15 correct to pass (manual p. 5; online manual Testing page). One try per day; retake the next business day.",
+    "Test languages: the current online manual (Testing page) lists 30 languages, written and audio, on request. The 2021 PDF (p. 5) lists a shorter list of 18.",
+    "Supervising driver (manual p. 2-3): licensed driver 21 or older, or a licensed parent, guardian, person in loco parentis or spouse 18 or older, in the front seat.",
+    "School bus (manual p. 58): stop at least 10 feet away; failure brings a 60-day suspension, five points and a fine. Only exception: opposite side of a divided highway (reduce speed, use caution).",
+    "Move Over law (manual p. 59; formerly called Steer Clear): move to a lane not next to an emergency response area or disabled vehicle, or slow to at least 20 mph below the posted limit; 2 points; fines up to $500 / $1,000 / $2,000.",
+    "Under 18: 90-day suspension at 6 or more points or 26 mph or more over the limit (manual p. 4, 79).",
+    "Paul Miller's Law (hand-held ban, effective June 5, 2025; $50 fines from June 5, 2026) is newer than the 2021 manual; source: PennDOT newsroom and 75 Pa.C.S. 3316.1.",
+    "Learner's permit valid one year (manual p. 2-3)."
+  ],
+  "sources": [
+    "https://www.pa.gov/services/dmv/get-a-learners-permit",
+    "https://www.pa.gov/agencies/dmv/driver-services/pennsylvania-drivers-manual/online-drivers-manual/testing",
+    "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/driver-services/driver-licensing/chapter_1.pdf",
+    "https://www.pa.gov/agencies/dmv/driver-services/pennsylvania-drivers-manual/online-drivers-manual/applying-for-a-learners-permit",
+    "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-form/dl-180c.pdf",
+    "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-fact-sheets/fs-wy.pdf",
+    "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-publications/pub%2097.pdf",
+    "https://www.pa.gov/agencies/dmv/driver-services/pennsylvania-drivers-manual/online-drivers-manual/special-circumstances-and-emergencies",
+    "https://www.pa.gov/agencies/insurance/newsroom/shapiro-administration-reminds-drivers-to-put-down-the-phone",
+    "https://www.pa.gov/agencies/penndot/news-and-media/newsroom/statewide/2026/shapiro-administration-reminds-drivers-to-put-the-phone-away-or-",
+    "https://pa.gov/agencies/dmv/driver-services/pennsylvania-drivers-manual.html",
+    "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "https://www.pa.gov/agencies/dmv/driver-services/pennsylvania-drivers-manual",
+    "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/spanish/pub%2095s.pdf",
+    "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=75&div=0&chapter=33&section=16&subsctn=1"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}

@@ -137,6 +137,7 @@ const T = {
     refLaw:'Based on Florida law. This rule is not in the handbook.',
     refState:(s,p)=>`${s} driver handbook (English), page ${p}`,
     refStateLaw:s=>`Based on ${s} law. This rule is not in the handbook.`,
+    refStateSec:(s,n)=>`${s} driver handbook (English, online), section ${n}`,
     passT:'You passed!', failT:'Not yet', resT:'Round complete',
     resLine:(c,n)=>`${c} of ${n} correct`,
     passP:'You reached the passing score. Keep practicing to stay sharp.',
@@ -172,6 +173,7 @@ const T = {
     refLaw:'Basado en la ley de Florida. Esta regla no aparece en el manual.',
     refState:(s,p)=>`Manual de manejo de ${s} (edición en inglés), página ${p}`,
     refStateLaw:s=>`Basado en la ley de ${s}. Esta regla no aparece en el manual.`,
+    refStateSec:(s,n)=>`Manual de manejo de ${s} (edición en inglés, en línea), sección ${n}`,
     passT:'¡Aprobó!', failT:'Todavía no', resT:'Ronda terminada',
     resLine:(c,n)=>`${c} de ${n} correctas`,
     passP:'Alcanzó la puntuación para aprobar. Siga practicando para no olvidar.',
@@ -210,6 +212,7 @@ const LANGS = [
       exam: f1(u.exam, 'n'), mist: f1(u.mist, 'n'), correctIs: f1(u.correctIs, 'n'), ref: f1(u.ref, 'p'),
       refState: (s, p) => (u.refState || T.en.refState(s, p)).split('{s}').join(s).split('{p}').join(p),
       refStateLaw: f1(u.refStateLaw || T.en.refStateLaw('{s}'), 's'),
+      refStateSec: (s, n) => (u.refStateSec || T.en.refStateSec('{s}', '{n}')).split('{s}').join(s).split('{n}').join(n),
       resLine: (c, n) => u.resLine.split('{c}').join(c).split('{n}').join(n),
       failP: (p, n) => u.failP.split('{p}').join(p).split('{n}').join(n),
       rate: { 0.8: u.rateSlow, 1: u.rateNormal, 1.2: u.rateFast },
@@ -224,7 +227,7 @@ function langsFor(state){ return LANG_OK.filter(L => !L.states || L.states.inclu
 const EN_ONLY_TEST = { FL: true };
 const STATES = {AL:'Alabama',AK:'Alaska',AZ:'Arizona',AR:'Arkansas',CA:'California',CO:'Colorado',CT:'Connecticut',DE:'Delaware',DC:'District of Columbia',FL:'Florida',GA:'Georgia',HI:'Hawaii',ID:'Idaho',IL:'Illinois',IN:'Indiana',IA:'Iowa',KS:'Kansas',KY:'Kentucky',LA:'Louisiana',ME:'Maine',MD:'Maryland',MA:'Massachusetts',MI:'Michigan',MN:'Minnesota',MS:'Mississippi',MO:'Missouri',MT:'Montana',NE:'Nebraska',NV:'Nevada',NH:'New Hampshire',NJ:'New Jersey',NM:'New Mexico',NY:'New York',NC:'North Carolina',ND:'North Dakota',OH:'Ohio',OK:'Oklahoma',OR:'Oregon',PA:'Pennsylvania',RI:'Rhode Island',SC:'South Carolina',SD:'South Dakota',TN:'Tennessee',TX:'Texas',UT:'Utah',VT:'Vermont',VA:'Virginia',WA:'Washington',WV:'West Virginia',WI:'Wisconsin',WY:'Wyoming'};
 /* Official knowledge test size and passing score, per active state (from state-info/<xx>.json). Others use 50/40. */
-const EXAM = { AK:{ n:20, pass:16 }, CT:{ n:25, pass:20 }, DE:{ n:32, pass:26 }, FL:{ n:50, pass:40 }, GA:{ n:40, pass:30 }, ID:{ n:40, pass:34 }, KS:{ n:25, pass:20 }, LA:{ n:40, pass:32 }, MA:{ n:25, pass:18 }, MD:{ n:25, pass:22 }, ME:{ n:30, pass:24 }, MO:{ n:25, pass:20 }, NV:{ n:25, pass:20 }, NY:{ n:20, pass:14 }, OR:{ n:35, pass:28 } };
+const EXAM = { AK:{ n:20, pass:16 }, CT:{ n:25, pass:20 }, DE:{ n:32, pass:26 }, FL:{ n:50, pass:40 }, GA:{ n:40, pass:30 }, ID:{ n:40, pass:34 }, KS:{ n:25, pass:20 }, LA:{ n:40, pass:32 }, MA:{ n:25, pass:18 }, MD:{ n:25, pass:22 }, ME:{ n:30, pass:24 }, MO:{ n:25, pass:20 }, NV:{ n:25, pass:20 }, NY:{ n:20, pass:14 }, OH:{ n:40, pass:30 }, OR:{ n:35, pass:28 }, PA:{ n:18, pass:15 } };
 const CAT_ORDER = ['signs','signals','right-of-way','speed-lanes','licensing','safe-driving'];
 
 /* ---------- Storage: every key starts with pv: and never throws ---------- */
@@ -571,7 +574,9 @@ function lastHint(){
 function refLine(q){
   if(!q.ref || q.ref.doc !== S.state) return '';
   const line = S.state === 'FL' ? (q.ref.page ? t('ref')(q.ref.page) : t('refLaw'))
-    : (q.ref.page ? t('refState')(stateName(S.state), q.ref.page) : t('refStateLaw')(stateName(S.state)));
+    : !q.ref.page ? t('refStateLaw')(stateName(S.state))
+    : String(q.ref.page)[0] === '§' ? t('refStateSec')(stateName(S.state), String(q.ref.page).slice(1))
+    : t('refState')(stateName(S.state), q.ref.page);
   return `<p class="ref">${esc(line)}</p>`;
 }
 function nextButton(){
