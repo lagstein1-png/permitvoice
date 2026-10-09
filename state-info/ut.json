@@ -1,1 +1,84 @@
-{"code":"UT","name":"Utah","agency":"Utah Department of Public Safety, Driver License Division","handbook":{"en":null,"es":null},"exam":{"questions":50,"pass":40,"passPercent":80,"spanish":true},"permitAge":"15 (Utah Code 53-3-210.5; permit valid 18 months). Secondary sources say the applicant must be enrolled in driver education.","teen":{"supervisedHours":"40 hours, including 10 at night (secondary sources)","holdPermit":"6 months (90 days if 19 or older) (secondary sources)","nightLimit":"Provisional license: no driving midnight to 5 a.m. unless with licensed driver 21+ in front seat, to/from work, home from school activity, or emergency; age cutoff of this rule conflicts between sources (until 17 vs. under 18)","passengerLimit":"Provisional license: no passengers for the first six months unless a licensed driver 21+ is in the front seat or an emergency (one source exempts immediate family)","phone":"Under 18: may not use a wireless phone to talk while driving (Utah Code 41-8-4). All drivers: no handheld texting, reading, browsing, video or data entry (Utah Code 41-6a-1716); voice calls and hands-free allowed."},"bac":{"adult":"0.05","under21":"Not a drop: any measurable alcohol (Utah Code 53-3-231)"},"notes":["Knowledge test: never-licensed 50-question closed-book; previously licensed 25-question open-book (DLD page via search snippet). Pass 80% (Utah Admin. Code R708-39-4).","Knowledge test offered in Spanish and other common languages; Driving Privilege Card applicants do not qualify for translated test (DLD page via search snippet; TownLift 2023).","Adult BAC limit 0.05 since December 30, 2018 (HB 155).","80 mph posted on some rural interstate stretches (I-15, I-80) since 2013; not on the Wasatch Front.","Left lane: use only to pass or enter HOV lane; must move right for overtaking traffic (Utah Code 41-6a-704).","Move over (Utah Code 41-6a-904): emergency, maintenance and tow vehicles with flashing lights; move over if safe, otherwise slow down and give space. Fine $160 (KPCW Nov 2025).","School bus: on a highway divided by a median or barrier, oncoming traffic need not stop; traffic behind must stop (secondary source).","Left on red only from one-way to one-way.","Insurance: liability 30/65/25 for policies issued or renewed on or after January 1, 2025 (HB 113, 2023); PIP $3,000 (no-fault state).","Handbook is Form DLD-42 published by DLD; a 2023 PDF path under dld.utah.gov was mentioned but not verified, so the URL is left null. Spanish handbook claimed only by third-party driving-tests.org."],"sources":["https://dld.utah.gov/?p=4202","https://www.law.cornell.edu/regulations/utah/Utah-Admin-Code-R708-39-4","https://townlift.com/2023/09/utah-drivers-can-now-test-for-a-license-in-13-more-languages/","https://le.utah.gov/xcode/Title53/Chapter3/C53-3-S210.5_2025050720250507.pdf","https://www.dmv.org/ut-utah/drivers-permits.php","https://highwaysafety.utah.gov/wp-content/uploads/sites/22/2015/02/TeenDrivingRequirementsandRestrictions_updatedFactSheet-1.pdf","https://www.drivinglaws.org/resources/utah-teen-driving.html","https://law.justia.com/codes/utah/title-41/chapter-8/","https://le.utah.gov/~2014/bills/sbillenr/SB0253.htm","https://www.kpcw.org/post/utah-legislature-passes-bill-lowers-blood-alcohol-level-05","https://legalbeagle.com/13731871-utahs-dui-limit-the-strictest-in-the-nation-what-you-need-to-know.html","https://amp.claimsjournal.com/news/west/2013/09/19/236981.htm","https://www.abc4.com/news/local-news/uhp-reminds-utahns-not-to-camp-in-left-lane/amp/","https://highwaypatrol.utah.gov/2017/06/05/move-over-a-life-saving-law/","https://www.kpcw.org/state-regional/2025-11-18/utah-safety-officials-remind-drivers-to-slow-down-for-emergency-vehicles","https://lifelaw.com/drive-safely-around-school-buses/","https://getjerry.com/driving/can-you-turn-right-on-red-in-utah","https://newsroom.statefarm.com/understanding-utahs-new-auto-liability-coverage-law","https://www.thezebra.com/resources/car-insurance/utahs-auto-insurance-limits-increasing/","https://www.dmv.org/ut-utah/driver-handbook.php"],"checked":"2026-10-08","verified":false}
+{
+  "code": "UT",
+  "name": "Utah",
+  "agency": "Utah Department of Public Safety, Driver License Division",
+  "handbook": {
+    "en": "https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2026.pdf",
+    "es": null
+  },
+  "exam": {
+    "questions": 50,
+    "pass": 40,
+    "passPercent": 80,
+    "spanish": true,
+    "languages": [
+      "English",
+      "Arabic",
+      "Dari",
+      "French",
+      "Korean",
+      "Mandarin Chinese",
+      "Portuguese",
+      "Somali",
+      "Spanish",
+      "Swahili",
+      "Tagalog",
+      "Tongan",
+      "Ukrainian",
+      "Vietnamese"
+    ],
+    "englishOnly": false
+  },
+  "permitAge": "15 (handbook p.7; entry-level learner permit valid 18 months). Applicants 15-18 must complete approved driver education before licensing (p.6).",
+  "teen": {
+    "supervisedHours": "40 hours with a parent or guardian, 10 after sunset (handbook p.6)",
+    "holdPermit": "Age 16-17: 6 months; age 18: no holding period but driver education required; 19+: 90 days unless driver education completed (handbook p.7)",
+    "nightLimit": "Provisional licensed drivers (handbook table: age 16; DLD Teen Driver Restrictions page: 16-17): no driving midnight to 5 a.m. unless with a licensed driver 21+ in front, agricultural work, to/from work, school-sponsored activity, or emergency (handbook p.8)",
+    "passengerLimit": "First six months of the license (or until 18): immediate family members only, unless a licensed driver 21+ is in the front seat, agricultural work, or emergency (handbook p.8; dld.utah.gov/teen-driver-restrictions/)",
+    "phone": "All drivers: no handheld texting, reading, dialing, internet, video, photos or data entry. 18+: may talk if the call is connected by voice command. Under 18: phone only for medical emergency, reporting a hazard or crime, or talking with a parent or guardian (handbook pp.58-59)."
+  },
+  "bac": {
+    "adult": "0.05",
+    "under21": "Not a drop: any measurable alcohol (handbook p.52)"
+  },
+  "notes": [
+    "Handbook: Utah Driver Handbook 2026, DLD (PDF created 2026-05-11; includes 'New 2026 Laws' effective May 6, 2026). Printed page = PDF page minus 10. No official Spanish handbook found on dld.utah.gov/resources (a Handbook-Translation video exists).",
+    "Knowledge test (dld.utah.gov/written-knowledge-test/): never licensed 50-question closed book; previously licensed 25-question open book. Pass 80% (handbook p.23). Two attempts per day; three per fee.",
+    "Translated knowledge test for regular or limited-term license applicants in 13 languages (Arabic, Mandarin Chinese, French, Korean, Portuguese, Spanish with audio; Dari, Somali, Swahili, Tagalog, Tongan, Ukrainian, Vietnamese text), or with a division-approved interpreter. Driving Privilege Card applicants not listed.",
+    "First-time Class D applicants must also score 100% on the online Traffic Safety and Trends Exam (handbook p.23).",
+    "Speed: rural interstates 65/70/75/80 mph (handbook p.44).",
+    "Left lane is for passing; move right when approached from behind (handbook pp.34, 39).",
+    "Move over law (handbook p.77): any stationary vehicle by the highway with flashing hazard lights, not legally parked. Penalty in handbook: 4-hour live defensive driving class within 90 days or 90-day suspension. The $160 fine is from news only.",
+    "School bus (handbook p.36): opposite traffic need not stop on a divided highway with 4+ lanes and a median, or on 5+ lanes with a center turn lane.",
+    "Left on red: handbook only mentions it when stranded at a red left-turn arrow (one-way onto one-way); steady-red rule not confirmed (le.utah.gov unreachable).",
+    "Insurance: handbook gives no amounts. 30/65/25 (from 2025) comes from secondary sources; insurance.utah.gov glossary still lists $25,000/$65,000 and $15,000 PD, so unresolved. PIP $3,000 not confirmed from an official source."
+  ],
+  "sources": [
+    "https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2026.pdf",
+    "https://dld.utah.gov/written-knowledge-test/",
+    "https://dld.utah.gov/learner-permit/",
+    "https://dld.utah.gov/teen-driver-restrictions/",
+    "https://insurance.utah.gov/consumers/auto/auto-glossary/",
+    "https://www.law.cornell.edu/regulations/utah/Utah-Admin-Code-R708-39-4",
+    "https://townlift.com/2023/09/utah-drivers-can-now-test-for-a-license-in-13-more-languages/",
+    "https://le.utah.gov/xcode/Title53/Chapter3/C53-3-S210.5_2025050720250507.pdf",
+    "https://www.dmv.org/ut-utah/drivers-permits.php",
+    "https://highwaysafety.utah.gov/wp-content/uploads/sites/22/2015/02/TeenDrivingRequirementsandRestrictions_updatedFactSheet-1.pdf",
+    "https://www.drivinglaws.org/resources/utah-teen-driving.html",
+    "https://law.justia.com/codes/utah/title-41/chapter-8/",
+    "https://le.utah.gov/~2014/bills/sbillenr/SB0253.htm",
+    "https://www.kpcw.org/post/utah-legislature-passes-bill-lowers-blood-alcohol-level-05",
+    "https://legalbeagle.com/13731871-utahs-dui-limit-the-strictest-in-the-nation-what-you-need-to-know.html",
+    "https://amp.claimsjournal.com/news/west/2013/09/19/236981.htm",
+    "https://www.abc4.com/news/local-news/uhp-reminds-utahns-not-to-camp-in-left-lane/amp/",
+    "https://highwaypatrol.utah.gov/2017/06/05/move-over-a-life-saving-law/",
+    "https://www.kpcw.org/state-regional/2025-11-18/utah-safety-officials-remind-drivers-to-slow-down-for-emergency-vehicles",
+    "https://lifelaw.com/drive-safely-around-school-buses/",
+    "https://getjerry.com/driving/can-you-turn-right-on-red-in-utah",
+    "https://newsroom.statefarm.com/understanding-utahs-new-auto-liability-coverage-law",
+    "https://www.thezebra.com/resources/car-insurance/utahs-auto-insurance-limits-increasing/",
+    "https://www.dmv.org/ut-utah/driver-handbook.php"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}

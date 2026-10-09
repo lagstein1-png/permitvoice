@@ -20,11 +20,12 @@ srv.listen(0, async () => {
   }
   // 1. Location: Miami → Florida (suggest, confirm)
   let p = await page({ latitude: 25.76, longitude: -80.19 });
-  await p.selectOption('#selState', 'TX');
-  ok(await p.isVisible('#btnNational'), 'Texas shows "coming soon" + national practice, not Florida questions');
+  // Arizona stays "coming soon" until its handbook is checked (ADOT blocks downloads).
+  await p.selectOption('#selState', 'AZ');
+  ok(await p.isVisible('#btnNational'), 'Arizona shows "coming soon" + national practice, not Florida questions');
   await p.click('#btnGeo'); await p.waitForSelector('#geoDlg[open]');
   ok((await p.textContent('#geoText')).includes('Florida'), 'Miami is detected as Florida, as a question');
-  ok(await p.$eval('#selState', s => s.value) === 'TX', 'state does not change before the user confirms');
+  ok(await p.$eval('#selState', s => s.value) === 'AZ', 'state does not change before the user confirms');
   await p.click('#geoYes');
   ok(await p.$eval('#selState', s => s.value) === 'FL', 'confirming switches to Florida');
   ok(!(await p.evaluate(() => JSON.stringify(localStorage))).includes('25.76'), 'coordinates are not stored');

@@ -3,9 +3,9 @@
     "id": "va-001",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.nsc.org/getmedia/51190fe8-6740-46cd-8117-f031e8a03549/Virginia-GDL-EN.pdf",
+    "src": "https://law.lis.virginia.gov/vacode/46.2-335/",
     "sign": null,
     "c": 2,
     "en": {
@@ -37,9 +37,9 @@
     "id": "va-002",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.nsc.org/getmedia/51190fe8-6740-46cd-8117-f031e8a03549/Virginia-GDL-EN.pdf",
+    "src": "https://law.lis.virginia.gov/vacode/46.2-335.2/",
     "sign": null,
     "c": 1,
     "en": {
@@ -71,9 +71,9 @@
     "id": "va-003",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.nsc.org/getmedia/51190fe8-6740-46cd-8117-f031e8a03549/Virginia-GDL-EN.pdf",
+    "src": "https://law.lis.virginia.gov/vacode/46.2-335/",
     "sign": null,
     "c": 3,
     "en": {
@@ -105,9 +105,9 @@
     "id": "va-004",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.nsc.org/getmedia/51190fe8-6740-46cd-8117-f031e8a03549/Virginia-GDL-EN.pdf",
+    "src": "https://law.lis.virginia.gov/vacode/46.2-335/",
     "sign": null,
     "c": 0,
     "en": {
@@ -139,9 +139,9 @@
     "id": "va-005",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dmv.virginia.gov/licenses-ids/learners/apply",
+    "conf": "high",
+    "page": 31,
+    "src": "https://law.lis.virginia.gov/vacode/46.2-335/",
     "sign": null,
     "c": 2,
     "en": {
@@ -153,7 +153,7 @@
         "At least 25"
       ],
       "h1": "A legal guardian or a brother or sister may be younger than the usual age.",
-      "h2": "A Virginia learner must drive with a licensed driver seated beside them who is at least 21, or at least 18 if that person is a parent, legal guardian or sibling.",
+      "h2": "A Virginia learner must drive with a licensed driver seated beside them who is at least 21, or with a parent, a legal guardian, or a brother or sister who is at least 18.",
       "p": "Right. The supervisor is usually 21 or older."
     },
     "es": {
@@ -165,7 +165,7 @@
         "Por lo menos 25"
       ],
       "h1": "Un tutor legal o un hermano puede ser menor que la edad habitual.",
-      "h2": "En Virginia, el aprendiz debe manejar con un conductor con licencia sentado a su lado que tenga por lo menos 21 años, o por lo menos 18 si es su padre, madre, tutor legal o hermano.",
+      "h2": "En Virginia, el aprendiz debe manejar con un conductor con licencia sentado a su lado que tenga por lo menos 21 años, o con su padre o madre, su tutor legal, o un hermano o hermana de por lo menos 18 años.",
       "p": "Correcto. El supervisor normalmente tiene 21 años o más."
     }
   },
@@ -173,67 +173,67 @@
     "id": "va-006",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.dmv.virginia.gov/licenses-ids/learners/restrictions",
+    "src": "https://law.lis.virginia.gov/vacode/46.2-335/",
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In Virginia, how many passengers under 18 who are not family may ride with a learner's permit holder?",
+      "q": "In Virginia, how many passengers under 21 who are not family may ride with a learner's permit holder?",
       "o": [
         "None at all",
         "No more than one",
         "No more than two",
         "No more than three"
       ],
-      "h1": "Family members do not count toward this limit.",
-      "h2": "A Virginia learner's permit holder may carry no more than one passenger under 18 who is not a family member.",
-      "p": "Right. No more than one non-family passenger under 18."
+      "h1": "Think of just one friend.",
+      "h2": "A Virginia learner's permit holder may carry no more than one passenger under 21 who is not a family member.",
+      "p": "Right. With a permit, only one passenger under 21 who is not family."
     },
     "es": {
-      "q": "En Virginia, ¿cuántos pasajeros menores de 18 años que no son familiares pueden ir con quien tiene permiso de aprendiz?",
+      "q": "En Virginia, ¿cuántos pasajeros menores de 21 años que no son familiares pueden viajar con alguien que tiene permiso de aprendiz?",
       "o": [
         "Ninguno",
         "No más de uno",
         "No más de dos",
         "No más de tres"
       ],
-      "h1": "Los familiares no cuentan para este límite.",
-      "h2": "En Virginia, quien tiene permiso de aprendiz no puede llevar más de un pasajero menor de 18 años que no sea de su familia.",
-      "p": "Correcto. No más de un pasajero menor de 18 que no sea familiar."
+      "h1": "Piense en un solo amigo.",
+      "h2": "En Virginia, quien tiene permiso de aprendiz puede llevar como máximo un pasajero menor de 21 años que no sea familiar.",
+      "p": "Correcto. Con permiso, solo un pasajero menor de 21 años que no sea familiar."
     }
   },
   {
     "id": "va-007",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.dmv.virginia.gov/licenses-ids/learners/restrictions",
+    "src": "https://law.lis.virginia.gov/vacode/46.2-334.01/",
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Virginia, when may a driver under 18 not drive, unless an exception applies?",
+      "q": "In Virginia, when may a driver under 18 with a driver's license not drive, unless an exception applies?",
       "o": [
         "From 10 p.m. to 5 a.m.",
         "From 11 p.m. to 5 a.m.",
         "From 9 p.m. to 6 a.m.",
         "From midnight to 4 a.m."
       ],
-      "h1": "The limit ends earlier in the morning than in most states.",
-      "h2": "Virginia law does not let a driver under 18 drive from midnight to 4 a.m., except for reasons such as work, a supervised school activity or an emergency.",
+      "h1": "It starts at midnight.",
+      "h2": "A Virginia driver under 18 with a license may not drive from midnight to 4 a.m., except for reasons such as work, a supervised school activity or an emergency. A learner's permit holder may not drive in those hours at all.",
       "p": "Right. No driving from midnight to 4 a.m. under 18."
     },
     "es": {
-      "q": "En Virginia, ¿cuándo no puede manejar un conductor menor de 18 años, salvo que aplique una excepción?",
+      "q": "En Virginia, ¿cuándo no puede manejar un conductor menor de 18 años con licencia de manejar, salvo que aplique una excepción?",
       "o": [
         "De 10 p.m. a 5 a.m.",
         "De 11 p.m. a 5 a.m.",
         "De 9 p.m. a 6 a.m.",
         "De medianoche a 4 a.m."
       ],
-      "h1": "El límite termina más temprano en la mañana que en la mayoría de los estados.",
-      "h2": "La ley de Virginia no permite que un conductor menor de 18 años maneje de medianoche a 4 a.m., salvo por razones como el trabajo, una actividad escolar supervisada o una emergencia.",
+      "h1": "Empieza a la medianoche.",
+      "h2": "En Virginia, un conductor menor de 18 años con licencia no puede manejar de la medianoche a las 4 a.m., salvo por razones como el trabajo, una actividad escolar supervisada o una emergencia. Quien tiene permiso de aprendiz no puede manejar en esas horas.",
       "p": "Correcto. No se maneja de medianoche a 4 a.m. si es menor de 18."
     }
   },
@@ -241,13 +241,13 @@
     "id": "va-008",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.dmv.virginia.gov/licenses-ids/learners/restrictions",
+    "src": "https://law.lis.virginia.gov/vacode/46.2-334.01/",
     "sign": null,
     "c": 0,
     "en": {
-      "q": "In Virginia, which trip is allowed for a driver under 18 between midnight and 4 a.m.?",
+      "q": "In Virginia, which trip is allowed between midnight and 4 a.m. for a driver under 18 with a driver's license?",
       "o": [
         "Driving to or from a job",
         "Driving home from a party",
@@ -255,11 +255,11 @@
         "Driving to practice for the road test"
       ],
       "h1": "It is a trip connected to earning money.",
-      "h2": "Virginia lets a driver under 18 drive between midnight and 4 a.m. to or from a place of work, and for a few other listed reasons such as an emergency.",
+      "h2": "Virginia lets a licensed driver under 18 drive between midnight and 4 a.m. to or from a job, and for a few other listed reasons such as an emergency.",
       "p": "Right. Driving to or from work is allowed."
     },
     "es": {
-      "q": "En Virginia, ¿qué viaje está permitido para un conductor menor de 18 años entre medianoche y las 4 a.m.?",
+      "q": "En Virginia, ¿qué viaje se permite entre la medianoche y las 4 a.m. a un conductor menor de 18 años con licencia de manejar?",
       "o": [
         "Ir o volver del trabajo",
         "Volver a casa de una fiesta",
@@ -267,7 +267,7 @@
         "Practicar para el examen de manejo"
       ],
       "h1": "Es un viaje relacionado con ganar dinero.",
-      "h2": "Virginia permite que un conductor menor de 18 años maneje entre medianoche y las 4 a.m. para ir o volver del trabajo, y por otras pocas razones de la lista, como una emergencia.",
+      "h2": "Virginia permite que un conductor menor de 18 años con licencia maneje entre la medianoche y las 4 a.m. para ir o volver del trabajo, y por otras pocas razones, como una emergencia.",
       "p": "Correcto. Se permite ir o volver del trabajo."
     }
   },
@@ -275,9 +275,9 @@
     "id": "va-009",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.dmv.virginia.gov/licenses-ids/learners/restrictions",
+    "src": "https://law.lis.virginia.gov/vacode/46.2-334.01/",
     "sign": null,
     "c": 2,
     "en": {
@@ -288,8 +288,8 @@
         "One",
         "Three"
       ],
-      "h1": "A parent in the front seat lifts this limit.",
-      "h2": "In the first year with a Virginia license, a driver under 18 may carry only one passenger under 21, unless a licensed parent or similar adult sits in the front seat.",
+      "h1": "Family members do not count toward this limit.",
+      "h2": "In the first year with a Virginia license, a driver under 18 may carry only one passenger under 21 who is not a family member.",
       "p": "Right. One passenger under 21 in the first year."
     },
     "es": {
@@ -300,8 +300,8 @@
         "Uno",
         "Tres"
       ],
-      "h1": "Un padre o madre en el asiento delantero quita este límite.",
-      "h2": "En el primer año con licencia en Virginia, un conductor menor de 18 años solo puede llevar un pasajero menor de 21, salvo que un padre, madre o adulto similar con licencia vaya en el asiento delantero.",
+      "h1": "Los familiares no cuentan para este límite.",
+      "h2": "En el primer año con licencia en Virginia, un conductor menor de 18 años solo puede llevar un pasajero menor de 21 años que no sea familiar.",
       "p": "Correcto. Un pasajero menor de 21 el primer año."
     }
   },
@@ -309,9 +309,9 @@
     "id": "va-010",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.dmv.virginia.gov/licenses-ids/learners/restrictions",
+    "src": "https://law.lis.virginia.gov/vacode/46.2-334.01/",
     "sign": null,
     "c": 1,
     "en": {
@@ -377,9 +377,9 @@
     "id": "va-012",
     "scope": "VA",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.nvar.com/public/news/real-estate-news/real-estate-news/real-estate-news/2020/12/18/put-down-your-phone-ban-on-handheld-use-while-driving-begins-january-1",
+    "conf": "high",
+    "page": 24,
+    "src": "https://law.lis.virginia.gov/vacode/46.2-818.2/",
     "sign": null,
     "c": 0,
     "en": {
@@ -411,9 +411,9 @@
     "id": "va-013",
     "scope": "VA",
     "cat": "safe-driving",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.nvar.com/public/news/real-estate-news/real-estate-news/real-estate-news/2020/12/18/put-down-your-phone-ban-on-handheld-use-while-driving-begins-january-1",
+    "src": "https://law.lis.virginia.gov/vacode/46.2-818.2/",
     "sign": null,
     "c": 2,
     "en": {
@@ -445,9 +445,9 @@
     "id": "va-014",
     "scope": "VA",
     "cat": "safe-driving",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.nvar.com/public/news/real-estate-news/real-estate-news/real-estate-news/2020/12/18/put-down-your-phone-ban-on-handheld-use-while-driving-begins-january-1",
+    "src": "https://law.lis.virginia.gov/vacode/46.2-818.2/",
     "sign": null,
     "c": 1,
     "en": {
@@ -479,9 +479,9 @@
     "id": "va-015",
     "scope": "VA",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://law.lis.virginia.gov/vacode/title18.2/chapter7/section18.2-266.1/",
+    "conf": "high",
+    "page": 24,
+    "src": "https://law.lis.virginia.gov/vacode/18.2-266.1/",
     "sign": null,
     "c": 3,
     "en": {
@@ -513,9 +513,9 @@
     "id": "va-016",
     "scope": "VA",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://law.lis.virginia.gov/vacode/title18.2/chapter7/section18.2-266.1/",
+    "conf": "high",
+    "page": 30,
+    "src": "https://law.lis.virginia.gov/vacode/18.2-266.1/",
     "sign": null,
     "c": 0,
     "en": {
@@ -547,9 +547,9 @@
     "id": "va-017",
     "scope": "VA",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://law.lis.virginia.gov/vacode/title46.2/chapter8/section46.2-862/",
+    "conf": "high",
+    "page": 14,
+    "src": "https://law.lis.virginia.gov/vacode/46.2-862/",
     "sign": null,
     "c": 2,
     "en": {
@@ -581,9 +581,9 @@
     "id": "va-018",
     "scope": "VA",
     "cat": "speed-lanes",
-    "conf": "medium",
-    "page": null,
-    "src": "https://law.lis.virginia.gov/vacode/title46.2/chapter8/section46.2-862/",
+    "conf": "high",
+    "page": 14,
+    "src": "https://law.lis.virginia.gov/vacode/46.2-862/",
     "sign": null,
     "c": 1,
     "en": {
@@ -615,9 +615,9 @@
     "id": "va-019",
     "scope": "VA",
     "cat": "speed-lanes",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.ttnews.com/articles/virginia-raising-speed-limit-rural-interstates-70-mph",
+    "src": "https://law.lis.virginia.gov/vacode/46.2-870/",
     "sign": null,
     "c": 3,
     "en": {
@@ -649,9 +649,9 @@
     "id": "va-020",
     "scope": "VA",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.drivesmartva.org/wp-content/uploads/2024/06/Move-Over-TipSheet-updated.pdf",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -683,33 +683,33 @@
     "id": "va-021",
     "scope": "VA",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.drivesmartva.org/wp-content/uploads/2024/06/Move-Over-TipSheet-updated.pdf",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In Virginia, since 2023, the move-over law also covers which stopped vehicles?",
+      "q": "In Virginia, the move-over law also covers which stopped vehicles?",
       "o": [
         "Only police cars",
         "Only school buses",
         "Any vehicle with hazard lights, flares or warning signs",
         "Only vehicles from the power company"
       ],
-      "h1": "The 2023 change protects ordinary drivers too.",
-      "h2": "Since 2023 Virginia's move-over law also protects any stopped vehicle that shows hazard lights, flares or warning signs, not only emergency vehicles.",
+      "h1": "Think of an ordinary car with its flashers on.",
+      "h2": "Virginia's move-over law also covers any stopped vehicle that shows hazard lights, flares or warning signs, not only emergency vehicles.",
       "p": "Right. It covers any vehicle with hazard lights, flares or warning signs."
     },
     "es": {
-      "q": "En Virginia, desde 2023, ¿qué vehículos detenidos protege también la ley de cambiarse de carril?",
+      "q": "En Virginia, ¿qué otros vehículos detenidos protege también la ley de cambiarse de carril?",
       "o": [
         "Solo los carros de policía",
         "Solo los autobuses escolares",
         "Cualquier vehículo con luces de emergencia, bengalas o señales de aviso",
         "Solo los vehículos de la compañía eléctrica"
       ],
-      "h1": "El cambio de 2023 también protege a los conductores comunes.",
-      "h2": "Desde 2023, la ley de Virginia de cambiarse de carril también protege a cualquier vehículo detenido con luces de emergencia, bengalas o señales de aviso, no solo a los vehículos de emergencia.",
+      "h1": "Piense en un carro común con las luces intermitentes encendidas.",
+      "h2": "En Virginia, la ley de cambiarse de carril también protege a cualquier vehículo detenido que muestre luces de emergencia, bengalas o señales de advertencia, no solo a los vehículos de emergencia.",
       "p": "Correcto. Protege a cualquier vehículo con luces de emergencia, bengalas o señales."
     }
   },
@@ -717,9 +717,9 @@
     "id": "va-022",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.thezebra.com/resources/car-insurance/virginias-auto-insurance-limits-increasing-in-2025/",
+    "src": "https://law.lis.virginia.gov/vacode/46.2-472/",
     "sign": null,
     "c": 1,
     "en": {
@@ -751,9 +751,9 @@
     "id": "va-023",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.repairerdrivennews.com/2024/04/24/virginia-to-no-longer-allow-uninsured-vehicle-registration-fee/",
+    "src": "https://law.lis.virginia.gov/vacode/46.2-706/",
     "sign": null,
     "c": 3,
     "en": {
@@ -785,9 +785,9 @@
     "id": "va-024",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dmv.virginia.gov/licenses-ids/exams/know-exam",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -819,7 +819,7 @@
     "id": "va-025",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
     "src": "https://www.dmv.virginia.gov/licenses-ids/exams/know-exam",
     "sign": null,
@@ -853,9 +853,9 @@
     "id": "va-026",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dmv.virginia.gov/licenses-ids/exams/know-exam",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -887,7 +887,7 @@
     "id": "va-027",
     "scope": "VA",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
     "src": "https://www.dmv.virginia.gov/licenses-ids/exams/know-exam",
     "sign": null,

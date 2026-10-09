@@ -52,9 +52,9 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | SC | South Carolina | 21 | 21 | 30 q, pass 24 (80%) | [link](https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf) | — | yes |
 | SD | South Dakota | 24 | 23 | ? q, pass ? (80%) | [link](https://www.sd.gov/sys_attachment.do?sys_id=d8e0b08e47bd0390a497127ba26d4348) | [link](https://www.sd.gov/sys_attachment.do?sys_id=616c057e47406e10237fbd51026d430f) | yes |
 | TN | Tennessee | 22 | 22 | 30 q, pass 24 (80%) | [link](https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf) | — | yes |
-| TX | Texas | 27 | 0 | ? q, pass ? (70%) | [link](https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf) | — | no |
-| UT | Utah | 26 | 0 | 50 q, pass 40 (80%) | — | — | no |
-| VA | Virginia | 27 | 0 | 40 q, pass 34 (80%) | [link](https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf) | [link](https://dmv.virginia.gov/licenses-ids/exams/manual-es) | no |
+| TX | Texas | 27 | 26 | ? q, pass ? (70%) | [link](https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf) | — | yes |
+| UT | Utah | 26 | 22 | 50 q, pass 40 (80%) | [link](https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2026.pdf) | — | yes |
+| VA | Virginia | 27 | 26 | 40 q, pass 34 (80%) | [link](https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf) | [link](https://dmv.virginia.gov/licenses-ids/exams/manual-es) | yes |
 | VT | Vermont | 24 | 0 | 20 q, pass 16 (80%) | [link](https://dmv.vermont.gov/document/drivers-license-manual) | [link](https://dmv.vermont.gov/document/drivers-license-manual-foreign-language-spanish) | no |
 | WA | Washington | 23 | 0 | 40 q, pass 32 (80%) | [link](https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=) | [link](https://dol.wa.gov/media/pdf/65/driverguide-spanishpdf/download?inline=) | no |
 | WI | Wisconsin | 18 | 0 | 50 q, pass 40 (80%) | — | [link](https://wisconsindot.gov/Pages/dmv/teen-driver/teen-hw-aply/s-handbook.aspx) | no |
