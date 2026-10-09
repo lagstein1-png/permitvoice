@@ -45,7 +45,7 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | NV | Nevada | 21 | 20 | 25 q, pass 20 (80%) | [link](https://dmv.nv.gov/pdfforms/dlbook.pdf) | — | yes |
 | NY | New York | 27 | 27 | 20 q, pass 14 (70%) | [link](https://dmv.ny.gov/brochure/mv21.pdf) | [link](https://dmv.ny.gov/brochure/mv21s.pdf) | yes |
 | OH | Ohio | 20 | 0 | not found | — | — | no |
-| OK | Oklahoma | 13 | 0 | 20 q, pass ? | — | — | no |
+| OK | Oklahoma | 13 | 12 | 20 q, pass ? | [link](https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf) | — | yes |
 | OR | Oregon | 17 | 17 | 35 q, pass 28 (80%) | [link](https://www.oregon.gov/odot/Forms/DMV/37.pdf) | [link](https://www.oregon.gov/odot/Forms/DMV/37s.pdf) | yes |
 | PA | Pennsylvania | 20 | 0 | 18 q, pass 15 | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf) | — | no |
 | RI | Rhode Island | 22 | 0 | not found | — | — | no |

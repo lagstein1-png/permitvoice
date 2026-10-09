@@ -3,9 +3,9 @@
     "id": "ok-001",
     "scope": "OK",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://aem-prod.oklahoma.gov/service/all-pages/learner-permit.html",
+    "src": "https://oklahoma.gov/service/all-pages/learner-permit.html",
     "sign": null,
     "c": 1,
     "en": {
@@ -37,9 +37,9 @@
     "id": "ok-002",
     "scope": "OK",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://aem-prod.oklahoma.gov/service/all-pages/learner-permit.html",
+    "conf": "high",
+    "page": 6,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -71,43 +71,43 @@
     "id": "ok-003",
     "scope": "OK",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://aem-prod.oklahoma.gov/service/all-pages/learner-permit.html",
+    "conf": "high",
+    "page": 6,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
     "sign": null,
     "c": 0,
     "en": {
       "q": "In Oklahoma, is driver education required for a 16-year-old to get a learner permit?",
       "o": [
-        "No, it is optional at 16, but the written exam is still required",
+        "No, it is optional at 16",
         "Yes, always",
-        "Yes, and the road test too",
-        "No, and no test is needed either"
+        "Yes, and you must pass the road test first",
+        "No, and you may drive alone right away"
       ],
-      "h1": "At 16 one requirement drops away, but not the test.",
-      "h2": "In Oklahoma, driver education is optional at 16, but you must still pass the written exam to get a learner permit.",
-      "p": "Right. At 16 driver education is optional; the exam is not."
+      "h1": "At 16 one requirement drops away.",
+      "h2": "In Oklahoma, driver education is optional at 16. You still pass the written exam, unless a finished driver education course lets you skip it.",
+      "p": "Right. At 16, driver education is optional."
     },
     "es": {
       "q": "En Oklahoma, ¿se requiere educación vial para que un joven de 16 años obtenga un permiso de aprendiz?",
       "o": [
-        "No, es opcional a los 16, pero todavía debe aprobar el examen escrito",
+        "No, es opcional a los 16",
         "Sí, siempre",
-        "Sí, y también el examen de manejo",
-        "No, y tampoco hace falta examen"
+        "Sí, y primero debe aprobar el examen de manejo",
+        "No, y puede manejar solo de inmediato"
       ],
-      "h1": "A los 16 se quita un requisito, pero no el examen.",
-      "h2": "En Oklahoma, la educación vial es opcional a los 16 años, pero usted todavía debe aprobar el examen escrito para obtener el permiso de aprendiz.",
-      "p": "Correcto. A los 16 la educación vial es opcional; el examen no."
+      "h1": "A los 16 se quita un requisito.",
+      "h2": "En Oklahoma, la educación vial es opcional a los 16 años. Usted todavía debe aprobar el examen escrito, a menos que un curso de educación vial terminado le permita omitirlo.",
+      "p": "Correcto. A los 16, la educación vial es opcional."
     }
   },
   {
     "id": "ok-004",
     "scope": "OK",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://aem-prod.oklahoma.gov/service/all-pages/learner-permit.html",
+    "src": "https://oklahoma.gov/service/all-pages/learner-permit.html",
     "sign": null,
     "c": 2,
     "en": {
@@ -139,9 +139,9 @@
     "id": "ok-005",
     "scope": "OK",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://aem-prod.oklahoma.gov/service/all-pages/learner-permit.html",
+    "conf": "high",
+    "page": 6,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -173,9 +173,9 @@
     "id": "ok-006",
     "scope": "OK",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://ghsa.org/node/2186",
+    "src": "https://oklahoma.gov/service/all-pages/learner-permit.html",
     "sign": null,
     "c": 3,
     "en": {
@@ -207,9 +207,9 @@
     "id": "ok-007",
     "scope": "OK",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://ghsa.org/node/2186",
+    "conf": "high",
+    "page": 6,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -241,9 +241,9 @@
     "id": "ok-008",
     "scope": "OK",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://ghsa.org/node/2186",
+    "conf": "high",
+    "page": 14,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -275,43 +275,43 @@
     "id": "ok-009",
     "scope": "OK",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://ghsa.org/node/2186",
+    "conf": "high",
+    "page": 14,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In Oklahoma, how many passengers who are not family may an intermediate license holder carry, without a supervising driver?",
+      "q": "In Oklahoma, how many passengers who do not live in the driver's home may an intermediate license holder carry, without a supervising driver?",
       "o": [
         "None",
         "One",
         "Two",
         "Three"
       ],
-      "h1": "It is the smallest number above zero.",
-      "h2": "In Oklahoma, an intermediate license holder may carry only one passenger who is not a family member, unless a licensed driver 21 or older is in the car.",
-      "p": "Right. One non-family passenger."
+      "h1": "Think of one friend, not a carload.",
+      "h2": "In Oklahoma, an intermediate license holder may carry only one passenger who does not live in the driver's home, unless a licensed driver 21 or older sits in the front seat.",
+      "p": "Right. Only one passenger from outside the home."
     },
     "es": {
-      "q": "En Oklahoma, ¿cuántos pasajeros que no son familia puede llevar quien tiene licencia intermedia, sin un supervisor?",
+      "q": "En Oklahoma, ¿cuántos pasajeros que no viven en la casa del conductor puede llevar alguien con licencia intermedia, sin un conductor supervisor?",
       "o": [
         "Ninguno",
         "Uno",
         "Dos",
         "Tres"
       ],
-      "h1": "Es el número más pequeño mayor que cero.",
-      "h2": "En Oklahoma, quien tiene licencia intermedia solo puede llevar un pasajero que no sea familiar, salvo que vaya en el auto un conductor con licencia de 21 años o más.",
-      "p": "Correcto. Un pasajero que no sea familiar."
+      "h1": "Piense en un amigo, no en un carro lleno.",
+      "h2": "En Oklahoma, quien tiene licencia intermedia puede llevar solo un pasajero que no vive en su casa, a menos que un conductor con licencia de 21 años o más vaya en el asiento delantero.",
+      "p": "Correcto. Solo un pasajero de fuera de la casa."
     }
   },
   {
     "id": "ok-010",
     "scope": "OK",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.automotive-fleet.com/129353/okla-passes-driver-texting-ban",
+    "conf": "high",
+    "page": 61,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -323,8 +323,8 @@
         "No, it is against the law"
       ],
       "h1": "Since 2015, the answer is the same for all drivers.",
-      "h2": "In Oklahoma, it is against the law to read, write or send a text message on a hand-held phone while driving, and police can stop you for it.",
-      "p": "Right. No texting while driving in Oklahoma."
+      "h2": "In Oklahoma, it is against the law to text on a hand-held phone while driving.",
+      "p": "Right. Texting while driving is against the law in Oklahoma."
     },
     "es": {
       "q": "En Oklahoma, ¿puede un conductor leer o enviar un mensaje de texto con el teléfono en la mano mientras maneja?",
@@ -335,17 +335,17 @@
         "No, es ilegal"
       ],
       "h1": "Desde 2015, la respuesta es la misma para todos los conductores.",
-      "h2": "En Oklahoma, es ilegal leer, escribir o enviar un mensaje de texto con el teléfono en la mano mientras maneja, y la policía lo puede detener por eso.",
-      "p": "Correcto. En Oklahoma no se textea al manejar."
+      "h2": "En Oklahoma, es ilegal enviar o leer mensajes de texto en un teléfono en la mano mientras maneja.",
+      "p": "Correcto. En Oklahoma es ilegal enviar mensajes de texto mientras maneja."
     }
   },
   {
     "id": "ok-011",
     "scope": "OK",
     "cat": "speed-lanes",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://www.kxii.com/2023/11/02/oklahoma-increases-fines-move-over-law-violations/",
+    "src": "https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=391386",
     "sign": null,
     "c": 0,
     "en": {
@@ -411,9 +411,9 @@
     "id": "ok-013",
     "scope": "OK",
     "cat": "right-of-way",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.newson6.com/back-to-school-oklahoma/oklahoma-school-zone-school-bus-laws",
+    "conf": "high",
+    "page": 30,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
     "sign": null,
     "c": 1,
     "en": {

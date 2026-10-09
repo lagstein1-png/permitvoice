@@ -1,1 +1,45 @@
-{"code":"OK","name":"Oklahoma","agency":"Service Oklahoma","handbook":{"en":null,"es":null},"exam":{"questions":20,"pass":null,"passPercent":null,"spanish":null},"permitAge":"15 if enrolled in an approved driver education course (Service Oklahoma); 16 without driver education. Some secondary sources say 15 1/2.","teen":{"supervisedHours":"50 hours, including 10 at night (GHSA; 10 night hours also in 47 O.S. 6-105 bill text)","holdPermit":"6 months (180 days) (GHSA and secondary)","nightLimit":"Learner permit: drive only 5 a.m. to 10 p.m. with a licensed driver 21+. Intermediate: no driving 10 p.m. to 5 a.m. except work, school, religious activity, medical emergency, or with a licensed driver 21+ (GHSA and secondary)","passengerLimit":"Intermediate: no more than 1 non-family passenger unless a licensed driver 21+ is present (GHSA and secondary)","phone":"All drivers: texting on a hand-held device banned since Nov 1, 2015 (primary offense, fine up to $100). Teen phone rule conflicts between sources; left out."},"bac":{"adult":"0.08","under21":"zero tolerance; sources disagree on 0.00 vs 0.02"},"notes":["Written exam: 20 questions (Service Oklahoma learner permit page). Pass mark not on the official page; commercial sites describe an older 50-question, 80 percent test. Left null.","Move Over (47 O.S. 11-314): fine $1,000 first offense, $2,500 after, since Nov 1, 2023 (Bernardo Mills Law).","School bus (News On 6): 4+ lanes with no median, including a center turn lane, both directions stop; with a median, opposite direction may proceed with caution. Statute text not retrieved.","Several 2025-2026 bills propose amending 47 O.S. 6-105; GDL details may have changed.","Handbook PDF URL and Spanish availability not found within the search budget (only third-party copies)."],"sources":["https://aem-prod.oklahoma.gov/service/all-pages/learner-permit.html","https://oklahoma.gov/service/all-services/driving-and-automobiles/unrestricted-license.html","https://ghsa.org/node/2186","https://www.dmvroads.com/states/oklahoma/teen-license/","https://oklegislature.gov/cf_pdf/2023-24 FLR/SFLR/HB2418 SFLR.PDF","https://www.automotive-fleet.com/129353/okla-passes-driver-texting-ban","https://www.kxii.com/2023/11/02/oklahoma-increases-fines-move-over-law-violations/","https://www.newson6.com/back-to-school-oklahoma/oklahoma-school-zone-school-bus-laws","https://cyalcohol.com/article/what-is-the-legal-alcohol-limit-in-oklahoma"],"checked":"2026-10-08","verified":false}
+{
+  "code": "OK",
+  "name": "Oklahoma",
+  "agency": "Service Oklahoma",
+  "handbook": {
+    "en": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "es": null
+  },
+  "exam": {
+    "questions": 20,
+    "pass": null,
+    "passPercent": null,
+    "spanish": null
+  },
+  "permitAge": "15 if taking or having passed an approved driver education course (incl. Service Oklahoma-approved parent-taught); 16 without driver education (Oklahoma Driver Manual p.6).",
+  "teen": {
+    "supervisedHours": "50 hours, including 10 at night, with a licensed driver 21+ licensed at least 2 years (Service Oklahoma learner permit page; not in the manual)",
+    "holdPermit": "At least 180 days before the intermediate license at 16 (manual p.6); intermediate restriction removable after 6 months with driver ed, 1 year without (p.6)",
+    "nightLimit": "Learner permit: drive 5 a.m. to 10 p.m. with a licensed driver 21+ (learner permit page; manual only says a licensed driver 21+ must sit beside, p.6). Intermediate (T restriction): 5 a.m. to 10 p.m. unless for school, church or work, or with a licensed driver 21+ (manual p.14, p.8)",
+    "passengerLimit": "Intermediate: one passenger, or only people who live in the driver's home, unless a licensed driver 21+ is in the front seat (manual p.14)",
+    "phone": "All drivers: texting while driving illegal since 2015. Learner and intermediate holders can be suspended or canceled for using a hand-held electronic device while driving except in an emergency (manual p.61)."
+  },
+  "bac": {
+    "adult": "0.08 (manual p.65)",
+    "under21": "zero tolerance: any measurable amount (manual p.65, p.67)"
+  },
+  "notes": [
+    "Handbook: Oklahoma Driver Manual, Service Oklahoma, marked 'Updated 11/24/25' (copyright 2025; PDF last modified 2026-07-01). Printed page numbers equal PDF page numbers.",
+    "Written exam: 20 questions (Service Oklahoma learner permit page). Pass mark not stated in the manual or on the agency pages checked; left null.",
+    "Test languages: the manual says an oral test is given on request (p.9); no official mention of a Spanish or other-language written test found. spanish left null.",
+    "Written test can be waived with a driver education completion certificate; parent-taught driver education does not qualify (learner permit page).",
+    "Move Over (47 O.S. 11-314, Bernardo-Mills Law): fine $1,000 first offense, $2,500 second, since Nov 1, 2023 (statute text on OSCN). Manual p.30 describes the rule but not the fine.",
+    "School bus (manual p.30): approaching traffic on a divided highway need not stop. The 4+ lane / center-turn-lane rule could not be confirmed: the manual is silent and OSCN served a Turnstile bot check for 47 O.S. 11-705.",
+    "Teens must complete the Work Zone Safe online course before the intermediate license (since Nov 1, 2023; manual p.6)."
+  ],
+  "sources": [
+    "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "https://oklahoma.gov/service/all-pages/learner-permit.html",
+    "https://oklahoma.gov/service/popular-services/teen-driving.html",
+    "https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=391386",
+    "https://ghsa.org/node/2186"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
