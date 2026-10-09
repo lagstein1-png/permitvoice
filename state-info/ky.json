@@ -1,1 +1,80 @@
-{"code":"KY","name":"Kentucky","agency":"Kentucky Transportation Cabinet (licensing, drive.ky.gov); Kentucky State Police Driver Testing (written and road tests)","handbook":{"en":"https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2023/11/Kentucky-Driver-Manual-10-11-2023.pdf","es":null},"exam":{"questions":null,"pass":null,"passPercent":80,"spanish":true},"permitAge":"15 (instruction permit; lowered from 16 by HB 15, signed 2025-03-25, effective immediately)","teen":{"supervisedHours":"60 hours, including 10 at night, recorded on a Practice Driving Log signed by the teen and a parent or guardian","holdPermit":"180 days for applicants under 21; 30 days for applicants over 21 (KYTC parent guide); must be at least 16 for an intermediate license","nightLimit":"Intermediate license under 18: no driving midnight to 6 a.m. without good cause (school, work, emergency) (KRS 186.452)","passengerLimit":"Intermediate license: no more than one unrelated passenger under 20, unless a driver training instructor is present (KRS 186.452)","phone":"Drivers under 18 (permit, intermediate or operator license): no personal communication device use while the vehicle is moving, except to report an emergency (secondary source)"},"bac":{"adult":null,"under21":"0.02 (zero tolerance)"},"notes":["Pass mark 80 percent per the DRIVE FAQ (seen only as a search summary). Number of questions not found on an official page; third-party sites disagree (40 questions / 32 correct, or 30 rules + 10 signs). Left null.","KSP driver testing page lists a Spanish driver manual and says the written test is offered in Spanish (standard operator test only). Direct Spanish PDF URL not confirmed, so handbook.es is null.","English manual URL is the 10-11-2023 KSP edition; it predates HB 15 (2025), so its permit age of 16 is out of date.","HB 15 (2025): permit age 15, permit valid four years instead of three, intermediate license still needs age 16 and 180 days on the permit.","School bus: HB 7 (2026), in effect July 15, 2026: opposite-direction traffic must stop on any highway unless separated by a raised/elevated barrier or an unpaved median. The old four-lane exception (KRS 189.370, 2009 text) no longer applies. Sources are news reports; enrolled bill text not read. Reported fines $300 first offense, $500 after.","Move over (KRS 189.930, 2003): change to the lane away from a stopped emergency or public safety vehicle with flashing lights, or slow down if that is unsafe (KYTC).","Interstates: 65 mph, 70 mph on specific rural segments after an engineering study (GHSA; 2006 law).","Adult BAC 0.08 not confirmed by a source found in this run; left null.","Search budget for this state (5) fully used; no official page was fetched directly."],"sources":["https://drive.ky.gov/Drivers/Pages/GDLP.aspx","https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55914","https://apps.legislature.ky.gov/law/acts/25RS/documents/0081.pdf","https://linknky.com/politics/frankfort/2025/03/14/bill-drivers-permit-governors-desk/","https://kysenaterepublicans.com/press-releases/2025/3/26/bledsoe-drives-rudys-hb-15-to-final-passage","https://drive.ky.gov:443/Drivers/Documents/Parent%20Guide%20-Teaching-Your%20-Teen%20.pdf","https://drive.ky.gov/Drivers/Documents/Practice-Driving-Log-03-25.pdf","https://www.kentuckystatepolice.ky.gov/driver-testing","https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2023/11/Kentucky-Driver-Manual-10-11-2023.pdf","https://www.drivinglaws.org/kentucky.php","https://transportation.ky.gov/NewsRoom/2023 Move Over Release.pdf","https://www.wbko.com/2026/07/29/new-kentucky-law-changes-bus-stop-rules-drivers/","https://linknky.com/tag/bus-law/","https://law.justia.com/codes/kentucky/2009/189-00/370.html","https://www.ghsa.org/node/2981"],"checked":"2026-10-08","verified":false}
+{
+  "code": "KY",
+  "name": "Kentucky",
+  "agency": "Kentucky Transportation Cabinet (licensing, drive.ky.gov); Kentucky State Police Driver Testing (written and road tests)",
+  "handbook": {
+    "en": "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf",
+    "es": "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2023/11/Kentucky-Driver-Manual09-08-2023_SPANISH.pdf"
+  },
+  "exam": {
+    "questions": null,
+    "pass": null,
+    "passPercent": 80,
+    "spanish": true,
+    "languages": [
+      "Albanian",
+      "Arabic",
+      "Bosnian",
+      "Burmese",
+      "Cambodian",
+      "Chinese",
+      "Croatian",
+      "Dari",
+      "Farsi",
+      "French",
+      "German",
+      "Hindi",
+      "Japanese",
+      "Kinyarwanda",
+      "Korean",
+      "Laotian",
+      "Pashto",
+      "Polish",
+      "Romanian",
+      "Russian",
+      "Somali",
+      "Spanish",
+      "Swahili",
+      "Thai",
+      "Turkish",
+      "Vietnamese"
+    ],
+    "englishOnly": false
+  },
+  "permitAge": "15 (KRS 186.450, amended by HB 15, effective 2025-03-25; manual p. 5)",
+  "teen": {
+    "supervisedHours": "60 hours, including 10 at night, on a Practice Driving Log signed by a parent or guardian (manual pp. 5-6; KRS 186.452)",
+    "holdPermit": "180 days for applicants under 21; 30 days for applicants 21 and older (manual pp. 5, 8, 9; KRS 186.450). Intermediate license at 16 or older (KRS 186.452); full license at 17 or older after 180 days on the intermediate license and driver education (KRS 186.454)",
+    "nightLimit": "Permit and intermediate license under 18: no driving midnight to 6 a.m. without good cause (school, work, emergency) (manual pp. 5-6; KRS 186.450, 186.452)",
+    "passengerLimit": "Permit and intermediate license under 18: no more than one unrelated passenger under 20, unless a driver training instructor is present (manual pp. 5, 7; KRS 186.452)",
+    "phone": "Drivers under 18 (permit, intermediate or operator license): no personal communication device use while moving, except to call for help in an emergency (KRS 189.294; not stated in the manual)"
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "0.02 (zero tolerance)"
+  },
+  "notes": [
+    "Checked 2026-10-09 against the KSP Kentucky Driver Manual updated 7-23-26 (81-page PDF, printed page = PDF page minus 8). The older 10-11-2023 manual is superseded.",
+    "Pass mark 80 percent (manual p. 11). The manual and KSP driver-testing page do not give the number of questions; left null.",
+    "Written test languages (manual p. 11): 26 languages including Spanish, Arabic, Chinese and Vietnamese; Arabic, Burmese, Chinese, French, Japanese, Somali and Spanish are on the testing software and in audio. KSP page lists a shorter set and says it is for the standard operator test only. Tagalog and Haitian Creole are not listed. The signs part must be answered from the applicant's own knowledge when the test is given orally.",
+    "Spanish manual (KSP, dated 09-08-2023) is older than the English one.",
+    "Manual errors versus statute: p. 6 says intermediate license after 180 days and age 17; KRS 186.452 (effective 2025-03-25) says age 16. Pp. 8-9 say the permit is valid three years; KRS 186.450(3)(a) says four years since HB 15 (2025). Questions follow the statute.",
+    "School bus (manual p. 44; KRS 189.370 as amended by 2026 Ky. Acts ch. 62, effective 2026-07-15): stop from either direction on all roads, except opposite-direction traffic on a road of four or more lanes divided by an elevated barrier or unpaved median.",
+    "Move over (manual p. 66): change to a lane not next to a stopped emergency vehicle if safe, otherwise slow down.",
+    "Speed (manual p. 49; KRS 189.390): 65 mph interstates and parkways, 55 other state highways, 35 business/residential, 15 public parking lots; 70 mph allowed on listed interstate and parkway segments."
+  ],
+  "sources": [
+    "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf",
+    "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2023/11/Kentucky-Driver-Manual09-08-2023_SPANISH.pdf",
+    "https://www.kentuckystatepolice.ky.gov/driver-testing",
+    "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55912",
+    "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55914",
+    "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=39751",
+    "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57416",
+    "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52569",
+    "https://apps.legislature.ky.gov/law/acts/25RS/documents/0081.pdf",
+    "https://drive.ky.gov/Drivers/Pages/GDLP.aspx"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
