@@ -1,1 +1,55 @@
-{"code":"RI","name":"Rhode Island","agency":"Rhode Island Division of Motor Vehicles (RI DMV)","handbook":{"en":null,"es":null},"exam":{"questions":null,"pass":null,"passPercent":null,"spanish":true},"permitAge":"16 (limited instruction permit, ages 16 to 18), after a 33-hour driver education course","teen":{"supervisedHours":"50 hours, including 10 at night, certified by parent or guardian (RIGL 31-10-6)","holdPermit":"6 months (secondary; one source says 120 days)","nightLimit":"Limited provisional license: no driving 1 a.m. to 5 a.m. without a qualified adult, except documented work or school trips and medical emergencies (secondary)","passengerLimit":"First 12 months of limited provisional license: no more than one passenger under 21, immediate family excluded (RIGL 31-10-6)","phone":"All drivers: texting banned; hand-held calls banned, hands-free allowed for adults. Under-18 total ban reported by one secondary source only, not used."},"bac":{"adult":"0.08","under21":"0.02 (secondary sources)"},"notes":["Knowledge test length and pass mark conflict between third-party sites (50 questions / 80 percent vs 40 / 70 percent). Left null.","Computerized knowledge exam given in English, Spanish and Portuguese; printed exams in other languages on request (RI DMV knowledge-exams page).","Permit test: part of the CCRI driver education course, otherwise at DMV headquarters in Cranston (secondary). Parent, guardian or adult spouse co-signs.","Permit supervisor: licensed adult over 21, licensed at least 5 years (secondary, not confirmed in statute).","Move over (RISP): change lanes or slow down for stopped police, fire, ambulance, tow truck, utility, highway maintenance and similar vehicles showing lights; 2023 expansion to all vehicles not confirmed.","School bus (RIGL 31-20-13): no stop required for a bus on the other side of a divided highway (median strip); undivided roads: both directions stop, including center turn lane (school district summary).","Official driver's manual URL (English and Spanish) not found in search; a Spanish edition is reported by secondary sites."],"sources":["https://www.dmv.org/ri-rhode-island/drivers-permits.php","https://www.dmv.com/ri/rhode-island/learners-permit","https://www.dmv.ri.gov/licenses-permits-ids/permits-tests/new-license-permits","https://www.dmvroads.com/states/rhode-island/teen-license/","https://webserver.rilegislature.gov/Statutes/TITLE31/31-10/31-10-6.htm","https://cck-law.com/blog/car-accidents-and-rhode-island-cell-phone-laws/","https://www.providenceri.gov/wp-content/uploads/2018/05/Hands-Free-Flier.pdf","https://www.matthewtmarin.com/legal-alcohol-limit-in-rhode-island-2017","https://risp.ri.gov/safety/vehiclesafety/laws.php","https://webserver.rilegislature.gov/Statutes/TITLE31/31-20/31-20-13.htm","https://www.nksd.net/page/transportation-share-the-road-with-school-buses/","https://dmv.ri.gov/licenses/knowledge-exams/"],"checked":"2026-10-08","verified":false}
+{
+  "code": "RI",
+  "name": "Rhode Island",
+  "agency": "Rhode Island Division of Motor Vehicles (RI DMV)",
+  "handbook": {
+    "en": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf",
+    "es": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual_SP.pdf"
+  },
+  "exam": {
+    "questions": null,
+    "pass": null,
+    "passPercent": null,
+    "spanish": true,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese"
+    ]
+  },
+  "permitAge": "16 (limited instruction permit, ages 16 to 18), after a 33-hour CCRI driver education course and a computerized test (manual p.10)",
+  "teen": {
+    "supervisedHours": "50 hours, including 10 at night, certified by parent or guardian (manual p.12; RIGL 31-10-6)",
+    "holdPermit": "6 months (manual p.11-12; RIGL 31-10-6)",
+    "nightLimit": "Limited provisional license: no driving alone 1 a.m. to 5 a.m.; exceptions: to or from work, volunteer fire/rescue/EMS activity (manual p.14), and since 2017 4-5 a.m. between home and a school-sponsored athletic activity with no school transport (RIGL 31-10-6)",
+    "passengerLimit": "First 12 months of limited provisional license: no more than one passenger under 21; immediate family/household members exempt (manual p.14; RIGL 31-10-6)",
+    "phone": "Under 18: no cell phone use at all, including hands-free, except emergencies (manual p.35; RIGL 31-22-11.9). All drivers: texting banned (manual p.36); hand-held use banned, hands-free allowed (RIGL 31-22-30, current text, newer than the manual)."
+  },
+  "bac": {
+    "adult": "0.08 (manual p.58)",
+    "under21": "0.02 (manual p.58)"
+  },
+  "notes": [
+    "Handbook read: Rhode Island Driver's Manual rev. 08/2015 (PDF dated 2019-07-19; same file also at .../manuals/Driver_Manual_FINAL.pdf). Printed page numbers equal PDF page numbers.",
+    "A newer manual appears at https://dmv.ri.gov/media/966/download?language=en, but dmv.ri.gov returns a Cloudflare bot challenge (HTTP 403) to curl and fetch tools; not read. A search snippet of it reports 40 multiple-choice questions; pass mark not found. Exam size and pass mark left null.",
+    "The 2015 manual says only that the test is available in other languages on request (p.10). Languages English, Spanish and Portuguese (computerized; printed exams in other languages by advance request) come from the DMV knowledge-exams page as reported by search snippets; the page itself could not be opened (403).",
+    "Permit test: through the CCRI driver education course, otherwise at the DMV main office in Cranston (manual p.10). Road test instructions are in English only, with a Spanish/Portuguese vocabulary list (manual p.12).",
+    "Permit supervisor: licensed at least 5 years and 21 or older, seated beside the learner (manual p.11).",
+    "Move over law is not in the manual. RIGL 31-14-3 (amended 2023): change to a lane away from, or slow down for, stopped emergency vehicles, tow and transporter trucks, highway maintenance equipment, roadside assistance vehicles and any vehicle stopped on the shoulder or breakdown lane.",
+    "School bus (manual p.51; RIGL 31-20-13): stop from either direction; no stop for a bus on the other side of a divided highway or in a loading zone. The manual does not mention center turn lanes.",
+    "The 2015 manual predates the 2017 night-limit exception and the later hand-held phone ban; current statutes used for those."
+  ],
+  "sources": [
+    "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf",
+    "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual_SP.pdf",
+    "https://webserver.rilegislature.gov/Statutes/TITLE31/31-10/31-10-6.htm",
+    "https://webserver.rilegislature.gov/Statutes/TITLE31/31-10/31-10-6.1.htm",
+    "https://webserver.rilegislature.gov/Statutes/TITLE31/31-22/31-22-11.9.htm",
+    "https://webserver.rilegislature.gov/Statutes/TITLE31/31-22/31-22-30.htm",
+    "https://webserver.rilegislature.gov/Statutes/TITLE31/31-14/31-14-3.htm",
+    "https://webserver.rilegislature.gov/Statutes/TITLE31/31-20/31-20-13.htm",
+    "https://dmv.ri.gov/licenses-permits-ids/permits-tests/knowledge-exams"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
