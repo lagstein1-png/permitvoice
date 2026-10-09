@@ -1,1 +1,78 @@
-{"code":"CO","name":"Colorado","agency":"Colorado Department of Revenue, Division of Motor Vehicles (DMV)","handbook":{"en":"https://dmv.colorado.gov/sites/dmv/files/DR2337.pdf","es":null},"exam":{"questions":25,"pass":20,"passPercent":80,"spanish":true},"permitAge":"15 with an approved 30-hour driver education course; 15 1/2 with a 4-hour driver awareness program (until Jan. 1, 2027); 16 without either. From Jan. 1, 2027 (HB24-1021) applicants 15 to 17 need the 30-hour course","teen":{"supervisedHours":"50 hours logged, including 10 at night","holdPermit":"12 months (under 18)","nightLimit":"First year of license (under 18): no driving midnight to 5 a.m., except work, school, medical emergency or emancipated minor, or with a parent/guardian or instructor","passengerLimit":"First 6 months: only passengers 21 or older; next 6 months: one passenger under 21; siblings and medical emergencies excepted; only one passenger in the front seat; everyone belted","phone":"Under 18: no phone use for any purpose, hands-free included, except to report an emergency. 18 and older: hands-free only since Jan. 1, 2025 (SB24-065); first offense $75 and 2 points"},"bac":{"adult":"0.08","under21":"0.02 (UDD, underage drinking and driving); DWAI at about 0.05 for all drivers"},"notes":["Knowledge test count and pass mark (25 questions, 20 correct, 80%) come from secondary practice-test sites only; not confirmed on dmv.colorado.gov.","Test offered in English and Spanish, in office and via @Home online test; other spoken languages with a translator the test-taker provides (DMV).","Spanish handbook: the DMV Driver Education page and a 2022 press release say a Spanish edition exists (print/digital, myColorado app); direct PDF URL not found.","Permit supervisor: licensed driver 21 or older in the front passenger seat; parent/guardian signs the Affidavit of Liability.","Move over (HB23-1123, Aug. 7, 2023): any stationary vehicle with hazard lights; change lanes or slow to at least 20 mph below the posted limit.","Speed (C.R.S. 42-4-1101): 20 mph narrow winding mountain roads/blind curves, 25 business district, 30 residence district, 40 open mountain highway, 55 other open highways, 65 four-lane interstate/freeway; no limit above 75 mph anywhere.","Left lane law (C.R.S. 42-4-1013): on roads with limit 65 mph or more, far-left lane only for passing or turning left.","Left on red allowed from one-way onto one-way after stopping, unless signed otherwise.","School bus: stop at least 20 feet away (Colorado State Patrol via Eagle County Schools). Sources conflict on whether a painted median counts as divided; no question written on that point.","Points (CDOR): 17 and under, 6 in 12 months or 7 before 18; 18 to 21, 9 in 12 months, 12 in 24 months, 14 total.","Seat belts primary for drivers under 18 and all their passengers; secondary for adults.","Insurance minimum 25/50/15 (secondary sources).","Traction law (Code 15) / chain law (Code 16) on I-70 Dotsero to Morrison, Sept. 1 to May 31; tread depth figure (1/8 vs 3/16 inch) conflicts between sources, not used in questions."],"sources":["https://dmv.colorado.gov/minor-permit","https://dmv.colorado.gov/minor-license","https://dmv.colorado.gov/permits-first-time-driver-license","https://dmv.colorado.gov/hb24-1021-motor-vehicle-minor-driver-education","https://dmv.colorado.gov/home-driving-knowledge-tests","https://dmv.colorado.gov/drivereducation","https://dmv.colorado.gov/sites/dmv/files/DR2337.pdf","https://dmv.colorado.gov/press-release/new-driver-handbook-available-as-audiobook-option-for-first-time-ever-print-digital","https://prlibrary.driving-tests.org/colorado/co-road-signs-practice-test","https://www.codot.gov/safety/colorado-teen-drivers/parent/teen-driving-restrictions.html","https://leg.colorado.gov/sites/default/files/documents/2024A/bills/2024a_065_rer.pdf","https://app.coloradocapitolwatch.com/bill/1/SB24-065/2024/0","https://shouselawdev.wpengine.com/co/dui/laws/colorado-bac-limit/","https://codot.gov/safety/shift-into-safe-news/2023/april/aaa-new-colorado-law-move-over-for-me","https://colorado.public.law/statutes/crs_42-4-1101","https://content.leg.colorado.gov/node/928356","https://dev.coloradovirtuallibrary.org/resource-sharing/state-pubs-blog/left-lane-law/","https://www.denver7.com/traffic/driving-you-crazy/driving-you-crazy-is-it-legal-to-turn-left-on-a-red-light-onto-a-one-way-street","https://www.eagleschools.net/fs/pages/3806","https://cdor.colorado.gov/hearings-homepage/motor-vehicle-hearings/point-suspensions","https://csp.colorado.gov/press-release/under-18-seatbelts-are-primary-enforcement-law","https://www.1800insurance.com/guides/colorado-minimum-auto-insurance","https://www.denvergazette.com/2021/10/13/heres-a-refresher-about-the-states-traction-and-chain-laws-9b32769a-2c75-11ec-ae56-57e230ca1100/"],"checked":"2026-10-08","verified":false}
+{
+  "code": "CO",
+  "name": "Colorado",
+  "agency": "Colorado Department of Revenue, Division of Motor Vehicles (DMV)",
+  "handbook": {
+    "en": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "es": null
+  },
+  "exam": {
+    "questions": 25,
+    "pass": 20,
+    "passPercent": 80,
+    "spanish": true
+  },
+  "permitAge": "15 with an approved 30-hour driver education course; 15 1/2 with a 4-hour driver awareness program or the 30-hour course; 16 to 17 with no course required (CDOT 2025 GDL guide). For applications from Jan. 1, 2027 (HB24-1021, C.R.S. 42-2-106), minors 15 to 17 need the 30-hour course",
+  "teen": {
+    "supervisedHours": "50 hours logged, including 10 at night (handbook p. 2); 6 hours behind the wheel with an instructor if under 16 1/2 when applying for the license",
+    "holdPermit": "12 months (under 18) (handbook p. 2)",
+    "nightLimit": "First year of license (under 18): no driving midnight to 5 a.m. unless with an instructor, parent or guardian (or a licensed adult 21+ licensed 1 year, C.R.S. 42-4-116); exceptions for school, work (signed statement), medical emergencies, emancipated minors (handbook p. 2)",
+    "passengerLimit": "Under 18: first 6 months no passengers under 21 unless a parent or licensed adult is in the car; next 6 months at most one passenger under 21; siblings and medical emergencies excepted (handbook p. 2); only one passenger in the front seat and no more back-seat passengers than seat belts (C.R.S. 42-2-105.5(4))",
+    "phone": "Since Jan. 1, 2025 (SB24-065, C.R.S. 42-4-239): no driver of any age may hold a phone to talk, text or watch video while driving; hands-free use allowed; exceptions: contacting public safety, emergencies. First offense $75 fine and 2 points. The signed act and the 2024 C.R.S. no longer contain a separate under-18 ban on all phone use (the Jan. 2023 handbook p. 19 and p. 23 still describe the old under-18 ban)"
+  },
+  "bac": {
+    "adult": "0.08 (DUI per se, handbook p. 3)",
+    "under21": "0.02 (UDD, 0.02 to 0.05; license revocation over 0.02 for drivers under 21, handbook p. 3); DWAI at 0.05 for all drivers (handbook p. 4)"
+  },
+  "notes": [
+    "Handbook checked 2026-10-09: Colorado Driver Handbook DR 2337 (01/03/23), the official DMV PDF as archived by the Colorado State Publications Library (spl.cde.state.co.us). Page numbers in bank/states/co.json refer to this edition. A newer edition exists (https://dmv.colorado.gov/sites/dmv/files/documents/DR_2337_Jan2025.pdf), but dmv.colorado.gov and all *.colorado.gov hosts returned HTTP 403 (CloudFront block) from this environment, so it was not read.",
+    "Knowledge test count and pass mark (25 questions, 20 correct, 80%) are NOT in the 2023 handbook and could not be confirmed on dmv.colorado.gov (blocked); they come from secondary practice-test sites only.",
+    "Test languages: the handbook does not say. Earlier research (2026-10-08) found the DMV offers the test in English and Spanish, in office and via @Home online test; not re-checked (site blocked).",
+    "Spanish handbook: the DMV Driver Education page and a 2022 press release say a Spanish edition exists; direct PDF URL not found. CDOT publishes a Spanish GDL resource guide.",
+    "Move over (C.R.S. 42-4-705, HB23-1123, effective Aug. 7, 2023): also covers any stationary vehicle with hazard lights; move over one lane if possible, otherwise slow to a safe speed (presumed 25 mph or less if the limit is under 45 mph, or 20 mph below the limit if 45 mph or more). The 2023 handbook (p. 11, p. 25) predates the hazard-light change.",
+    "School bus (handbook p. 11, p. 20): stop at least 20 feet away; both directions stop on two-lane roads and four-lane roads without a median; a median or physical barrier, or five or more lanes with a center turn lane, exempts opposite traffic.",
+    "Traction law (C.R.S. 42-4-106(5)): on I-70 Dotsero (MP 133) to Morrison (MP 259), Sept. 1 to May 31; AWD/4WD or M+S/snowflake/all-weather tires need 3/16-inch tread. Chain law: every vehicle needs chains or an approved alternative traction device (CDOT tractionlaw page).",
+    "Speed limits (handbook p. 11-12, C.R.S. 42-4-1101): 20 narrow winding mountain highways/blind curves, 25 business, 30 residence, 40 open mountain highways, 55 urban interstate and highways, 65-75 designated rural interstate; no limit above 75.",
+    "Points (C.R.S. 42-2-127(1)): under 18, more than 5 points in 12 months or more than 6 before 18; minor 18 to 21, 9 in 12 months, 12 in 24 months, 14 after 18.",
+    "Insurance minimum 25/50/15 (C.R.S. 10-4-620).",
+    "Seat belts: driver, front-seat passengers and children under 16 (handbook p. 3); every occupant when the driver is under 18 (handbook p. 3, C.R.S. 42-2-105.5(3)).",
+    "Permit supervisor: licensed driver 21 or older in the front passenger seat; parent/guardian signs the Affidavit of Liability.",
+    "Left lane law (C.R.S. 42-4-1013): on roads with limit 65 mph or more, far-left lane only for passing or turning left.",
+    "Left on red allowed from one-way onto one-way after stopping, unless signed otherwise."
+  ],
+  "sources": [
+    "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "https://dmv.colorado.gov/sites/dmv/files/documents/DR_2337_Jan2025.pdf",
+    "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-10.pdf",
+    "https://leg.colorado.gov/sites/default/files/2024a_065_signed.pdf",
+    "https://www.codot.gov/safety/colorado-teen-drivers/assets/2025-assets/teendriving_gdlresourceguide_cdotreview_ada-1.pdf",
+    "https://www.codot.gov/safety/colorado-teen-drivers/assets/2025-assets/teendriving_teen_parentbrochure_english_cdotreview_ada-1.pdf",
+    "https://www.codot.gov/travel/winter-driving/tractionlaw",
+    "https://dmv.colorado.gov/minor-permit",
+    "https://dmv.colorado.gov/minor-license",
+    "https://dmv.colorado.gov/permits-first-time-driver-license",
+    "https://dmv.colorado.gov/hb24-1021-motor-vehicle-minor-driver-education",
+    "https://dmv.colorado.gov/home-driving-knowledge-tests",
+    "https://dmv.colorado.gov/drivereducation",
+    "https://dmv.colorado.gov/sites/dmv/files/DR2337.pdf",
+    "https://dmv.colorado.gov/press-release/new-driver-handbook-available-as-audiobook-option-for-first-time-ever-print-digital",
+    "https://prlibrary.driving-tests.org/colorado/co-road-signs-practice-test",
+    "https://www.codot.gov/safety/colorado-teen-drivers/parent/teen-driving-restrictions.html",
+    "https://leg.colorado.gov/sites/default/files/documents/2024A/bills/2024a_065_rer.pdf",
+    "https://app.coloradocapitolwatch.com/bill/1/SB24-065/2024/0",
+    "https://shouselawdev.wpengine.com/co/dui/laws/colorado-bac-limit/",
+    "https://codot.gov/safety/shift-into-safe-news/2023/april/aaa-new-colorado-law-move-over-for-me",
+    "https://colorado.public.law/statutes/crs_42-4-1101",
+    "https://content.leg.colorado.gov/node/928356",
+    "https://dev.coloradovirtuallibrary.org/resource-sharing/state-pubs-blog/left-lane-law/",
+    "https://www.denver7.com/traffic/driving-you-crazy/driving-you-crazy-is-it-legal-to-turn-left-on-a-red-light-onto-a-one-way-street",
+    "https://www.eagleschools.net/fs/pages/3806",
+    "https://cdor.colorado.gov/hearings-homepage/motor-vehicle-hearings/point-suspensions",
+    "https://csp.colorado.gov/press-release/under-18-seatbelts-are-primary-enforcement-law",
+    "https://www.1800insurance.com/guides/colorado-minimum-auto-insurance",
+    "https://www.denvergazette.com/2021/10/13/heres-a-refresher-about-the-states-traction-and-chain-laws-9b32769a-2c75-11ec-ae56-57e230ca1100/"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
