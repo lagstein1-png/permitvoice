@@ -16,8 +16,8 @@
         "16 years old",
         "17 years old"
       ],
-      "h1": "It is one year before you can get an intermediate license.",
-      "h2": "In Mississippi, you can get a regular learner's permit at 15, one year before you can get an intermediate license at 16.",
+      "h1": "It is one year before you can get a regular driver's license.",
+      "h2": "In Mississippi, you can get a regular learner's permit at 15, one year before you can get a regular driver's license at 16.",
       "p": "Right. The regular learner's permit starts at age 15."
     },
     "es": {
@@ -28,8 +28,8 @@
         "16 años",
         "17 años"
       ],
-      "h1": "Es un año antes de poder obtener la licencia intermedia.",
-      "h2": "En Mississippi, usted puede obtener un permiso de aprendiz regular a los 15 años, un año antes de poder obtener la licencia intermedia a los 16.",
+      "h1": "Es un año antes de poder obtener la licencia de conducir regular.",
+      "h2": "En Mississippi, usted puede obtener un permiso de aprendiz regular a los 15 años, un año antes de poder obtener la licencia de conducir regular a los 16.",
       "p": "Correcto. El permiso de aprendiz regular empieza a los 15 años."
     }
   },
@@ -37,9 +37,9 @@
     "id": "ms-002",
     "scope": "MS",
     "cat": "licensing",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://regulations.justia.com/states/mississippi/title-31/part-1/chapter-2/rule-31-1-2-18",
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2022-04/DE-7%20Request%20for%20Instruction%20Permit%20Issuance%2014yr%20Old%204.22.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -139,102 +139,102 @@
     "id": "ms-005",
     "scope": "MS",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.drivinglaws.org/resources/mississippi-teen-driving.html",
+    "conf": "high",
+    "page": 15,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In Mississippi, what is the youngest age to get an intermediate license?",
+      "q": "In Mississippi, a teen has held a learner's permit for one year. What is the youngest age to get a regular driver's license?",
       "o": [
         "15 years old",
         "16 years old",
         "17 years old",
         "18 years old"
       ],
-      "h1": "It comes one year after the regular learner's permit.",
-      "h2": "In Mississippi, you must be at least 16 years old to get an intermediate license.",
-      "p": "Right. The intermediate license starts at age 16."
+      "h1": "The permit starts at 15 and must be held for one year.",
+      "h2": "In Mississippi, you can get a regular driver's license at 16 if you have held a learner's permit for one year.",
+      "p": "Right. With a permit held for one year, you can get a regular license at 16."
     },
     "es": {
-      "q": "En Mississippi, ¿cuál es la edad mínima para obtener la licencia intermedia?",
+      "q": "En Mississippi, un joven ha tenido un permiso de aprendiz por un año. ¿Cuál es la edad mínima para obtener una licencia de conducir regular?",
       "o": [
         "15 años",
         "16 años",
         "17 años",
         "18 años"
       ],
-      "h1": "Viene un año después del permiso de aprendiz regular.",
-      "h2": "En Mississippi, usted debe tener por lo menos 16 años para obtener la licencia intermedia.",
-      "p": "Correcto. La licencia intermedia empieza a los 16 años."
+      "h1": "El permiso empieza a los 15 años y se debe tener por un año.",
+      "h2": "En Mississippi, usted puede obtener una licencia de conducir regular a los 16 años si ha tenido un permiso de aprendiz por un año.",
+      "p": "Correcto. Con el permiso por un año, puede obtener la licencia regular a los 16."
     }
   },
   {
     "id": "ms-006",
     "scope": "MS",
-    "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://regulations.justia.com/states/mississippi/title-31/part-1/chapter-2/rule-31-1-2-18",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
     "sign": null,
-    "c": 0,
+    "c": 2,
     "en": {
-      "q": "In Mississippi, during which hours may a driver with an intermediate license drive without a licensed adult?",
+      "q": "In Mississippi, a 15-year-old gets a learner's permit. How long must the teen hold it before getting a regular driver's license?",
       "o": [
-        "6 a.m. to 10 p.m.",
-        "5 a.m. to midnight",
-        "7 a.m. to 9 p.m.",
-        "8 a.m. to 11 p.m."
+        "Three months",
+        "Six months",
+        "One year",
+        "Two years"
       ],
-      "h1": "The day starts early in the morning and ends two hours before midnight.",
-      "h2": "In Mississippi, an intermediate license holder may drive alone from 6 a.m. to 10 p.m.; at other times a licensed adult must be in the car.",
-      "p": "Right. Intermediate drivers may drive alone from 6 a.m. to 10 p.m."
+      "h1": "Think of a full trip around the calendar.",
+      "h2": "In Mississippi, you must hold a learner's permit for one year before you can get a regular driver's license, unless you turn 17 first.",
+      "p": "Right. You must hold the permit for one year."
     },
     "es": {
-      "q": "En Mississippi, ¿en qué horario puede manejar sin un adulto con licencia quien tiene licencia intermedia?",
+      "q": "En Mississippi, un joven de 15 años obtiene un permiso de aprendiz. ¿Cuánto tiempo debe tenerlo antes de obtener una licencia de conducir regular?",
       "o": [
-        "De 6 a.m. a 10 p.m.",
-        "De 5 a.m. a medianoche",
-        "De 7 a.m. a 9 p.m.",
-        "De 8 a.m. a 11 p.m."
+        "Tres meses",
+        "Seis meses",
+        "Un año",
+        "Dos años"
       ],
-      "h1": "El día empieza temprano en la mañana y termina dos horas antes de la medianoche.",
-      "h2": "En Mississippi, quien tiene licencia intermedia puede manejar solo de 6 a.m. a 10 p.m.; en otros horarios debe ir un adulto con licencia en el carro.",
-      "p": "Correcto. Los conductores con licencia intermedia pueden manejar solos de 6 a.m. a 10 p.m."
+      "h1": "Piense en una vuelta completa al calendario.",
+      "h2": "En Mississippi, usted debe tener el permiso de aprendiz por un año antes de obtener una licencia de conducir regular, a menos que cumpla 17 años antes.",
+      "p": "Correcto. Debe tener el permiso por un año."
     }
   },
   {
     "id": "ms-007",
     "scope": "MS",
-    "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.drivinglaws.org/resources/mississippi-teen-driving.html",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
     "sign": null,
-    "c": 3,
+    "c": 2,
     "en": {
-      "q": "In Mississippi, a driver with an intermediate license wants to drive at 11 p.m. Who must be in the car?",
+      "q": "In Mississippi, a 16-year-old applies for a regular driver's license. How many hours of driving must a parent, teacher or guardian sign that they watched?",
       "o": [
-        "Any friend who has a learner's permit",
-        "Any passenger who is 18 or older",
-        "No one, if the trip is short",
-        "A licensed driver who is 21 or older"
+        "10 hours",
+        "25 hours",
+        "50 hours",
+        "100 hours"
       ],
-      "h1": "Late at night, an experienced adult must come along.",
-      "h2": "In Mississippi, an intermediate license holder who drives outside 6 a.m. to 10 p.m. must have a licensed driver age 21 or older in the car.",
-      "p": "Right. After 10 p.m., a licensed driver 21 or older must be with you."
+      "h1": "It is half of one hundred.",
+      "h2": "In Mississippi, a driver under 17 needs a signed statement from a parent, teacher or guardian who watched at least 50 hours of driving.",
+      "p": "Right. An adult must sign for at least 50 hours of driving."
     },
     "es": {
-      "q": "En Mississippi, un conductor con licencia intermedia quiere manejar a las 11 p.m. ¿Quién debe ir en el carro?",
+      "q": "En Mississippi, un joven de 16 años solicita una licencia de conducir regular. ¿Cuántas horas de manejo debe firmar un padre, maestro o tutor que vio?",
       "o": [
-        "Cualquier amigo con permiso de aprendiz",
-        "Cualquier pasajero de 18 años o más",
-        "Nadie, si el viaje es corto",
-        "Un conductor con licencia de 21 años o más"
+        "10 horas",
+        "25 horas",
+        "50 horas",
+        "100 horas"
       ],
-      "h1": "De noche, debe acompañarlo un adulto con experiencia.",
-      "h2": "En Mississippi, quien tiene licencia intermedia y maneja fuera del horario de 6 a.m. a 10 p.m. debe ir con un conductor con licencia de 21 años o más.",
-      "p": "Correcto. Después de las 10 p.m., debe acompañarlo un conductor con licencia de 21 años o más."
+      "h1": "Es la mitad de cien.",
+      "h2": "En Mississippi, un conductor menor de 17 años necesita una declaración firmada por un padre, maestro o tutor que vio por lo menos 50 horas de manejo.",
+      "p": "Correcto. Un adulto debe firmar por lo menos 50 horas de manejo."
     }
   },
   {

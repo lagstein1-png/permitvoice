@@ -12,11 +12,11 @@
     "passPercent": 80,
     "spanish": null
   },
-  "permitAge": "15 (Driver's License Manual p13; DPS Learner's Permit page). Statute is said to allow 14 in certified driver education, driver-ed car only; not in the manual, unconfirmed.",
+  "permitAge": "15 (Driver's License Manual p13; DPS Learner's Permit page). A 14-year-old enrolled in a school driver education class can get an instruction permit for driver education (DPS form DE-7, rev 04/2022).",
   "teen": {
     "supervisedHours": 50,
     "holdPermit": "12 months (manual p13, p15; DPS Learner's Permit page). Applicants 17 or older need not hold it 12 months.",
-    "nightLimit": "Not in the manual. Older bill texts give an intermediate license with unsupervised driving 6 a.m. to 10 p.m.; current status unconfirmed.",
+    "nightLimit": "Not in the manual. The intermediate license was removed from law by 2021 HB 550 (signed 2021-04-05, per BillTrack50; official bill text not reachable), which also amended 63-1-21 on unsupervised driving by regular licensees under 18. Current hours unconfirmed.",
     "passengerLimit": null,
     "phone": "All drivers: no writing, sending or reading texts, and no social media on a hand-held phone while driving; voice-operated and hands-free devices are excluded (manual p23)."
   },
@@ -29,7 +29,7 @@
     "Learner's permit at 15; licensed driver 21+ in the seat next to the learner; permit valid 2 years (p13).",
     "50 hours of witnessed driving, certified by affidavit from a parent, teacher or guardian (p10, p13, p15, p17); under 17 this affidavit waives the road test.",
     "Driver's education will be required for a new regular license from July 1, 2027 (p10, p15, p16; DPS news 2026-06-25).",
-    "The manual does not mention an intermediate license, night hours, passenger limits, or a 14-year-old driver-ed permit.",
+    "The manual does not mention an intermediate license, night hours or passenger limits. Path: permit at 15, held one year, regular license (Class R) at 16 (p13, p15). The intermediate license was removed by 2021 HB 550 (third-party summary; official text not reachable). The 14-year-old driver-ed instruction permit is on DPS form DE-7.",
     "Exam: computerized, with a headset that reads questions aloud (p17). Number of questions (30) and pass mark (24, 80%) come from third-party sites only; not on an official page. Test languages not stated.",
     "Speed (p41): interstates 70 max, 40 min; four-lane state/US highways 65; two-lane 55; Natchez Trace 50; school zone 15.",
     "Move over (p67): emergency vehicle parked on a four-lane highway: change lanes if safe, else slow and prepare to stop. Wider vehicle list and fines (Miss. Code 63-3-809) not in the manual.",
@@ -41,6 +41,7 @@
     "https://www.driverservicebureau.dps.ms.gov/node/400",
     "https://www.driverservicebureau.dps.ms.gov/Drivers/Learners_Permit",
     "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2022-04/DE-7%20Request%20for%20Instruction%20Permit%20Issuance%2014yr%20Old%204.22.pdf",
     "https://regulations.justia.com/states/mississippi/title-31/part-1/chapter-2/rule-31-1-2-18",
     "https://www.drivinglaws.org/resources/mississippi-teen-driving.html",
     "https://www.dmvroads.com/states/mississippi/learners-permit/",
@@ -57,7 +58,8 @@
     "https://www.schoolbusfleet.com/news/mississippi-clarifies-law-on-stopping-for-school-buses",
     "https://www.supertalk.fm/mhp-highlights-safety-as-school-buses-return-to-roadways/",
     "https://www.drivinglaws.org/resources/mississippi-red-light-stop-sign-tickets.html",
-    "https://thelegalguide.org/mississippi-permit-test-questions-how-many-questions-expect/"
+    "https://thelegalguide.org/mississippi-permit-test-questions-how-many-questions-expect/",
+    "https://www.billtrack50.com/billdetail/1275880"
   ],
   "checked": "2026-10-09",
   "verified": true
