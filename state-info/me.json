@@ -1,1 +1,60 @@
-{"code":"ME","name":"Maine","agency":"Maine Secretary of State, Bureau of Motor Vehicles (BMV)","handbook":{"en":"https://www.maine.gov/sos/licenses/studyguides.html","es":null},"exam":{"questions":null,"pass":null,"passPercent":null,"spanish":null},"permitAge":"15, enrolled in an approved driver education program, with written parental consent","teen":{"supervisedHours":"70 hours, including 10 after dark, starting after the permit is issued (under 21)","holdPermit":"6 months before the road test (under 21)","nightLimit":null,"passengerLimit":"Intermediate license: no passengers other than immediate family unless a qualifying licensed operator is present; restrictions last 270 days (29-A M.R.S. 1311)","phone":"Permit holders under 21: no cell phone use. Intermediate under 18: hand-held device only when pulled off the road and stopped. All drivers: no holding a phone while driving since Sept. 2019 (29-A 2121); hands-free allowed."},"bac":{"adult":"0.08","under21":"any measurable amount (one-year suspension)"},"notes":["Supervisor: at least 20 years old, licensed at least 2 years (maine.gov).","Knowledge test: commercial sites say 30 questions, 80 percent (one says 83 percent); not confirmed by BMV, so left null.","Night limit midnight to 5 a.m. appears only in secondary sources (NSC, dmvroads); not confirmed in 29-A 1311 text, so null and not used.","Handbook link is the official study guide page (Driver License Manual PDF and Motorist Handbook); direct PDF URL not confirmed. No Spanish handbook found. A commercial site claims free interpreters for the written test since Feb. 2026; unverified.","Intermediate restrictions extended another 270 days after a violation (29-A 1311).","Move over (29-A 2054): pass in a non-adjacent lane if possible, otherwise at a careful and prudent speed; fines reported vary."],"sources":["https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/license-age-restrictions","https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/graduated-drivers-license","https://legislature.maine.gov/statutes/29-A/title29-Asec1311.pdf","https://www.maine.gov/sos/licenses/studyguides.html","https://www.nsc.org/getmedia/80726b87-ac2b-4469-9309-7e50cb0a7882/Maine-GDL-EN.pdf","https://m.driving-tests.org/maine/dmv-written-test","https://bangordailynews.com/2019/07/10/news/what-you-can-and-cant-do-under-maines-new-law-banning-handheld-phones-while-driving/","https://www.maine.gov/dps/node/128","https://www.legislature.maine.gov/legis/bills/bills_129th/chapdocs/PUBLIC254.rtf"],"checked":"2026-10-08","verified":false}
+{
+  "code": "ME",
+  "name": "Maine",
+  "agency": "Maine Secretary of State, Bureau of Motor Vehicles (BMV)",
+  "handbook": {
+    "en": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "es": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Model%20Driver%20Manual_rev%2005_2025_Spanish_Final_1.pdf"
+  },
+  "exam": {
+    "questions": 30,
+    "pass": 24,
+    "passPercent": 80,
+    "spanish": true,
+    "languages": [
+      "English",
+      "Spanish",
+      "Arabic",
+      "French",
+      "Canadian French",
+      "Portuguese",
+      "Somali",
+      "Lingala",
+      "Swahili"
+    ],
+    "englishOnly": false
+  },
+  "permitAge": "15; under 18 must complete an approved driver education course; parent or guardian signs for applicants under 18",
+  "teen": {
+    "supervisedHours": "70 hours, including 10 at night, starting after the permit is issued (under 21)",
+    "holdPermit": "6 months before the road test (under 21)",
+    "nightLimit": "Licensed drivers under 18: no driving from 12 a.m. to 5 a.m. for the first 270 days (handbook 1-4; 29-A 1311)",
+    "passengerLimit": "Licensed drivers under 18: no passengers other than immediate family unless a licensed driver at least 20, licensed 2 years, sits beside the driver; for 270 days, extended 270 days after a violation (29-A 1311)",
+    "phone": "Permit holders (any age) and licensed drivers under 18: no phone use at all while driving (29-A 1304, 1311). All drivers: no hand-held phone; hands-free only for drivers 18+ who are not on a permit or intermediate license (29-A 2121). Texting banned for all (29-A 2119)."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "any amount (more than 0.00); license suspended at least one year (29-A 2472)"
+  },
+  "notes": [
+    "Handbook: Maine Driver's License Manual, English, page footer 'Rev 4/24' (PDF built 2026-08-28), downloaded from maine.gov 2026-10-09. Spanish, Arabic, French, Portuguese and Somali versions are rev. 05/2025.",
+    "The manual uses section page numbers (1-3, 3-14). Bank 'page' values are PDF page numbers (1-1 = PDF 6).",
+    "Supervisor: at least 20 years old, licensed at least 2 years, seated beside the driver (manual 1-2; 29-A 1304).",
+    "Knowledge test: 30 questions, 24 correct to pass (BMV drivers-license-exam page). Digital test in English, Spanish, Arabic, French, Canadian French, Portuguese, Somali, Lingala and Swahili; free professional interpreter for other languages since 2026-02-01.",
+    "The manual (3-5) still says only drivers under 18 are barred from phones; 29-A 2116 was repealed in 2019 and 29-A 2121 now bans hand-held use for all drivers.",
+    "Intermediate restrictions: 270 days from license issuance (statute; manual says from passing the road test), extended 270 days after a violation.",
+    "Move over (29-A 2054): pass in a non-adjacent lane if possible, otherwise at a careful and prudent speed; fines reported vary."
+  ],
+  "sources": [
+    "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/driver-license-manual-and-Maine-motorist-handbook-and-study-guide",
+    "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/drivers-license-exam",
+    "https://legislature.maine.gov/statutes/29-A/title29-Asec1304.pdf",
+    "https://legislature.maine.gov/statutes/29-A/title29-Asec1311.pdf",
+    "https://legislature.maine.gov/statutes/29-A/title29-Asec2121.pdf",
+    "https://legislature.maine.gov/statutes/29-A/title29-Asec2472.pdf",
+    "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/license-age-restrictions"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}

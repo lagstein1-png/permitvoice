@@ -3,9 +3,9 @@
     "id": "me-001",
     "scope": "ME",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/license-age-restrictions",
+    "conf": "high",
+    "page": "1-2",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -17,7 +17,7 @@
         "17 years old"
       ],
       "h1": "It is one year before the intermediate license.",
-      "h2": "In Maine you can get a learner's permit at 15, while enrolled in an approved driver education program.",
+      "h2": "In Maine you can get a learner's permit at 15. If you are under 18, you must also take an approved driver education course.",
       "p": "Right. The Maine learner's permit starts at 15."
     },
     "es": {
@@ -29,7 +29,7 @@
         "17 años"
       ],
       "h1": "Es un año antes de la licencia intermedia.",
-      "h2": "En Maine usted puede obtener el permiso de aprendiz a los 15 años, si está inscrito en un programa aprobado de educación vial.",
+      "h2": "En Maine usted puede obtener el permiso de aprendiz a los 15 años. Si tiene menos de 18 años, también debe tomar un curso aprobado de educación vial.",
       "p": "Correcto. El permiso de aprendiz en Maine empieza a los 15."
     }
   },
@@ -37,9 +37,9 @@
     "id": "me-002",
     "scope": "ME",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/license-age-restrictions",
+    "conf": "high",
+    "page": "1-3",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -71,9 +71,9 @@
     "id": "me-003",
     "scope": "ME",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/license-age-restrictions",
+    "conf": "high",
+    "page": "1-3",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -105,9 +105,9 @@
     "id": "me-004",
     "scope": "ME",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/license-age-restrictions",
+    "conf": "high",
+    "page": "1-3",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -139,9 +139,9 @@
     "id": "me-005",
     "scope": "ME",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/license-age-restrictions",
+    "conf": "high",
+    "page": "1-3",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -173,9 +173,9 @@
     "id": "me-006",
     "scope": "ME",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/license-age-restrictions",
+    "conf": "high",
+    "page": "1-2",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -207,9 +207,9 @@
     "id": "me-007",
     "scope": "ME",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/license-age-restrictions",
+    "conf": "high",
+    "page": "1-2",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -241,43 +241,43 @@
     "id": "me-008",
     "scope": "ME",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/license-age-restrictions",
+    "conf": "high",
+    "page": "1-2",
+    "src": "https://legislature.maine.gov/statutes/29-A/title29-Asec1304.pdf",
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In Maine, may a permit holder under 21 use a cell phone while driving?",
+      "q": "In Maine, may a driver with a learner's permit use a cell phone while driving?",
       "o": [
         "Yes, if it is hands-free",
         "No, a cell phone may not be used",
         "Yes, at red lights",
         "Yes, if the supervisor allows it"
       ],
-      "h1": "Permit holders under 21 have a stricter rule.",
-      "h2": "In Maine, a permit holder under 21 is not allowed to use a cell phone while driving.",
-      "p": "Right. No cell phone for permit holders under 21."
+      "h1": "Permit holders have a stricter rule than adult drivers.",
+      "h2": "In Maine, a driver with a learner's permit may not use a cell phone while driving, not even hands-free.",
+      "p": "Right. No cell phone at all while driving on a permit."
     },
     "es": {
-      "q": "En Maine, ¿puede un aprendiz menor de 21 años usar el celular mientras maneja?",
+      "q": "En Maine, ¿puede un conductor con permiso de aprendiz usar el celular mientras maneja?",
       "o": [
         "Sí, si es de manos libres",
         "No, no puede usar el celular",
         "Sí, en los semáforos en rojo",
         "Sí, si el supervisor lo permite"
       ],
-      "h1": "Los aprendices menores de 21 tienen una regla más estricta.",
-      "h2": "En Maine, un aprendiz menor de 21 años no puede usar el celular mientras maneja.",
-      "p": "Correcto. Nada de celular para aprendices menores de 21."
+      "h1": "Los aprendices tienen una regla más estricta que los conductores adultos.",
+      "h2": "En Maine, un conductor con permiso de aprendiz no puede usar el celular mientras maneja, ni siquiera con manos libres.",
+      "p": "Correcto. Nada de celular al manejar con permiso de aprendiz."
     }
   },
   {
     "id": "me-009",
     "scope": "ME",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://legislature.maine.gov/statutes/29-A/title29-Asec1311.pdf",
+    "conf": "high",
+    "page": "1-4",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -309,9 +309,9 @@
     "id": "me-010",
     "scope": "ME",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/graduated-drivers-license",
+    "conf": "high",
+    "page": "1-4",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
     "sign": null,
     "c": 2,
     "en": {
@@ -343,9 +343,9 @@
     "id": "me-011",
     "scope": "ME",
     "cat": "licensing",
-    "conf": "medium",
-    "page": null,
-    "src": "https://legislature.maine.gov/statutes/29-A/title29-Asec1311.pdf",
+    "conf": "high",
+    "page": "1-4",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
     "sign": null,
     "c": 1,
     "en": {
@@ -377,9 +377,9 @@
     "id": "me-012",
     "scope": "ME",
     "cat": "safe-driving",
-    "conf": "medium",
+    "conf": "high",
     "page": null,
-    "src": "https://bangordailynews.com/2019/07/10/news/what-you-can-and-cant-do-under-maines-new-law-banning-handheld-phones-while-driving/",
+    "src": "https://legislature.maine.gov/statutes/29-A/title29-Asec2121.pdf",
     "sign": null,
     "c": 0,
     "en": {
@@ -391,7 +391,7 @@
         "Holding the phone at a stop sign"
       ],
       "h1": "Your hands stay off the device.",
-      "h2": "In Maine, a driver may not hold a phone while driving, but may make calls hands-free.",
+      "h2": "In Maine, a driver 18 or older with a full license may not hold a phone while driving, but may make calls hands-free.",
       "p": "Right. Maine bans holding the phone while driving."
     },
     "es": {
@@ -403,7 +403,7 @@
         "Sosteniendo el teléfono en una señal de alto"
       ],
       "h1": "Sus manos no tocan el aparato.",
-      "h2": "En Maine, un conductor no puede sostener el teléfono mientras maneja, pero puede hacer llamadas con manos libres.",
+      "h2": "En Maine, un conductor de 18 años o más con licencia completa no puede sostener el teléfono mientras maneja, pero puede hacer llamadas con manos libres.",
       "p": "Correcto. Maine prohíbe sostener el teléfono al manejar."
     }
   },
@@ -411,9 +411,9 @@
     "id": "me-013",
     "scope": "ME",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.maine.gov/dps/node/128",
+    "conf": "high",
+    "page": "3-14",
+    "src": "https://legislature.maine.gov/statutes/29-A/title29-Asec2472.pdf",
     "sign": null,
     "c": 3,
     "en": {
@@ -422,11 +422,11 @@
         "Only a warning",
         "A 30-day suspension",
         "Nothing, if below 0.08 percent",
-        "The license is suspended for one year"
+        "The license is suspended for at least one year"
       ],
       "h1": "Maine has zero tolerance for young drivers.",
-      "h2": "In Maine, a driver under 21 with any measurable amount of alcohol loses their license for one year.",
-      "p": "Right. Under 21, any alcohol means a one-year suspension."
+      "h2": "In Maine, a driver under 21 with any amount of alcohol loses the license for at least one year.",
+      "p": "Right. Under 21, any alcohol means losing the license for at least a year."
     },
     "es": {
       "q": "En Maine, ¿qué le pasa a un conductor menor de 21 años que maneja con cualquier cantidad medible de alcohol?",
@@ -434,11 +434,11 @@
         "Solo una advertencia",
         "Una suspensión de 30 días",
         "Nada, si está por debajo de 0.08 por ciento",
-        "Se le suspende la licencia por un año"
+        "Se le suspende la licencia por al menos un año"
       ],
       "h1": "Maine tiene tolerancia cero para los conductores jóvenes.",
-      "h2": "En Maine, un conductor menor de 21 años con cualquier cantidad medible de alcohol pierde la licencia por un año.",
-      "p": "Correcto. Menor de 21, cualquier alcohol significa un año de suspensión."
+      "h2": "En Maine, un conductor menor de 21 años con cualquier cantidad de alcohol pierde la licencia por al menos un año.",
+      "p": "Correcto. Menor de 21, cualquier alcohol significa perder la licencia por al menos un año."
     }
   }
 ]
