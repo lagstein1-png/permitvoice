@@ -55,7 +55,7 @@ select{width:100%;min-height:52px;font:inherit;font-size:19px;padding:8px 10px;b
 .opt.right{background:var(--right-bg);border-color:var(--go)}
 .opt.almost{background:var(--almost-bg);border-color:var(--almost)}
 .tag{margin-inline-start:auto;font-size:15px;color:var(--almost);font-weight:700}
-.hintbtn{min-height:52px;margin:8px 8px 0 0;padding:8px 16px;border-radius:12px;border:2px solid var(--line);background:var(--card);color:var(--ink);font:inherit;font-size:18px;cursor:pointer}
+.hintbtn{min-height:52px;margin:8px 0 0;margin-inline-end:8px;padding:8px 16px;border-radius:12px;border:2px solid var(--line);background:var(--card);color:var(--ink);font:inherit;font-size:18px;cursor:pointer}
 .hintbtn:disabled{opacity:.4;cursor:default}
 .hintbox,.praise,.feedback{border-radius:14px;padding:12px 14px;margin:10px 0;font-size:19px}
 .hintbox{background:var(--notice)}
@@ -65,6 +65,7 @@ select{width:100%;min-height:52px;font:inherit;font-size:19px;padding:8px 10px;b
 .kw{border-radius:4px;padding:0 1px;margin:0 -1px}
 .kw.on{background:var(--hl);color:var(--hl-ink)}
 .kwhole{background:var(--hl-soft);border-radius:4px}
+.en2{display:block;font-size:.8em;color:var(--muted);font-weight:400;margin-top:4px}
 .ref{font-size:15px;color:var(--muted);margin:6px 0}
 .result{font-size:40px;font-weight:800;margin:10px 0}
 .foot{font-size:14px;color:var(--muted);margin-top:28px;border-top:1px solid var(--line);padding-top:12px}
@@ -108,6 +109,7 @@ button:focus-visible,select:focus-visible{outline:4px solid var(--focus);outline
 
 <script src="states.js"></script>
 <script src="bank.js"></script>
+<script src="i18n.js"></script>
 <script>
 (function(){
 'use strict';
@@ -140,6 +142,9 @@ const T = {
     resP:'Nice work. Every question you answer makes the next one easier.',
     home:'Back to home', play:'Read', stop:'Stop', again:'Again', rate:{0.8:'Slow',1:'Normal',1.2:'Fast'},
     noTTS:'This device cannot read aloud. You can still read the questions.',
+    noVoice:'This phone has no voice for this language, so it may read in another voice or stay quiet. You can add a voice in the phone\'s settings under Text-to-speech.',
+    englishOnly:s=>`In ${s}, the knowledge test is given only in English. Learn here in your language, then practice with English shown too.`,
+    showEn:'Show English too',
     silent:'No sound? Check that the phone is not on silent and the volume is up. If it is still quiet, open the app in Chrome or Safari: some in-app screens cannot read aloud.',
     foot:'PermitVoice is an independent app and is not affiliated with or endorsed by the Florida Department of Highway Safety and Motor Vehicles or any state agency. Questions are original practice material, not the official test.',
     cats:{signs:'Signs', signals:'Signals and markings', 'right-of-way':'Right of way', 'speed-lanes':'Speed, lanes and parking', licensing:'License and the law', 'safe-driving':'Safe driving'}
@@ -170,11 +175,42 @@ const T = {
     resP:'Buen trabajo. Cada pregunta que responde hace más fácil la siguiente.',
     home:'Volver al inicio', play:'Leer', stop:'Parar', again:'Otra vez', rate:{0.8:'Lento',1:'Normal',1.2:'Rápido'},
     noTTS:'Este dispositivo no puede leer en voz alta. Igual puede leer las preguntas.',
+    noVoice:'Este teléfono no tiene una voz para este idioma, así que puede leer con otra voz o quedarse en silencio. Puede agregar una voz en los ajustes del teléfono, en Texto a voz.',
+    englishOnly:s=>`En ${s}, el examen de conocimientos se da solo en inglés. Aprenda aquí en su idioma y luego practique con el inglés a la vista.`,
+    showEn:'Mostrar también en inglés',
     silent:'¿No hay sonido? Revise que el teléfono no esté en silencio y que el volumen esté alto. Si sigue sin sonido, abra la aplicación en Chrome o Safari: algunas pantallas dentro de otras aplicaciones no pueden leer en voz alta.',
     foot:'PermitVoice es una aplicación independiente y no está afiliada ni respaldada por el Departamento de Seguridad Vial y Vehículos Motorizados de Florida ni por ninguna agencia estatal. Las preguntas son material de práctica original, no el examen oficial.',
     cats:{signs:'Señales', signals:'Semáforos y marcas viales', 'right-of-way':'Derecho de paso', 'speed-lanes':'Velocidad, carriles y estacionamiento', licensing:'Licencia y la ley', 'safe-driving':'Manejo seguro'}
   }
 };
+/* Languages, in the order the picker shows them. English and Spanish are written above;
+   the others come from i18n.js (placeholders {s} {n} {p} {c} become functions here). */
+const LANGS = [
+  { code:'en', label:'English',    speech:['en-US','en-'] },
+  { code:'es', label:'Español',    speech:['es-US','es-MX','es-'] },
+  { code:'zh', label:'中文',        speech:['zh-CN','cmn-CN','zh-'] },
+  { code:'vi', label:'Tiếng Việt', speech:['vi-VN','vi-'] },
+  { code:'tl', label:'Tagalog',    speech:['fil-PH','tl-PH','fil-','tl-'] },
+  { code:'ar', label:'العربية',     speech:['ar-SA','ar-EG','ar-'], rtl:true }
+];
+(function addInterfaceLanguages(){
+  const UI = window.PV_UI || {};
+  const f1 = (str, k) => a => str.split('{' + k + '}').join(a);
+  for(const L of LANGS){
+    const u = UI[L.code]; if(T[L.code] || !u) continue;
+    T[L.code] = Object.assign({}, u, {
+      geoAsk: f1(u.geoAsk, 's'), heroT: f1(u.heroT, 's'), soonT: f1(u.soonT, 's'), englishOnly: f1(u.englishOnly, 's'),
+      exam: f1(u.exam, 'n'), mist: f1(u.mist, 'n'), correctIs: f1(u.correctIs, 'n'), ref: f1(u.ref, 'p'),
+      resLine: (c, n) => u.resLine.split('{c}').join(c).split('{n}').join(n),
+      failP: (p, n) => u.failP.split('{p}').join(p).split('{n}').join(n),
+      rate: { 0.8: u.rateSlow, 1: u.rateNormal, 1.2: u.rateFast },
+      cats: { signs: u.catSigns, signals: u.catSignals, 'right-of-way': u.catRightOfWay, 'speed-lanes': u.catSpeedLanes, licensing: u.catLicensing, 'safe-driving': u.catSafeDriving }
+    });
+  }
+})();
+const LANG_OK = LANGS.filter(L => T[L.code]);
+/* States whose knowledge test is given only in English. Florida: English only since 2026 (FLHSMV, reported Feb 2026). */
+const EN_ONLY_TEST = { FL: true };
 const STATES = {AL:'Alabama',AK:'Alaska',AZ:'Arizona',AR:'Arkansas',CA:'California',CO:'Colorado',CT:'Connecticut',DE:'Delaware',DC:'District of Columbia',FL:'Florida',GA:'Georgia',HI:'Hawaii',ID:'Idaho',IL:'Illinois',IN:'Indiana',IA:'Iowa',KS:'Kansas',KY:'Kentucky',LA:'Louisiana',ME:'Maine',MD:'Maryland',MA:'Massachusetts',MI:'Michigan',MN:'Minnesota',MS:'Mississippi',MO:'Missouri',MT:'Montana',NE:'Nebraska',NV:'Nevada',NH:'New Hampshire',NJ:'New Jersey',NM:'New Mexico',NY:'New York',NC:'North Carolina',ND:'North Dakota',OH:'Ohio',OK:'Oklahoma',OR:'Oregon',PA:'Pennsylvania',RI:'Rhode Island',SC:'South Carolina',SD:'South Dakota',TN:'Tennessee',TX:'Texas',UT:'Utah',VT:'Vermont',VA:'Virginia',WA:'Washington',WV:'West Virginia',WI:'Wisconsin',WY:'Wyoming'};
 /* Official knowledge test size and passing score, per active state. Florida: 50 questions, 40 to pass. */
 const EXAM = { FL:{ n:50, pass:40 } };
@@ -193,7 +229,13 @@ function bankFor(state){ return BANK.filter(q => q.scope === 'US' || q.scope ===
 
 /* ---------- State ---------- */
 const S = {
-  lang: store.get('lang', (navigator.language || 'en').toLowerCase().startsWith('es') ? 'es' : 'en'),
+  lang: (() => {
+    const saved = store.get('lang', null);
+    if(saved && T[saved]) return saved;
+    const nav = (navigator.language || 'en').toLowerCase().slice(0, 2);
+    return T[nav] ? nav : (nav === 'fi' && T.tl ? 'tl' : 'en');
+  })(),
+  showEn: store.get('showEn', true),
   state: store.get('state', 'FL'),
   cat: '', screen: 'home', deck: [], qi: 0, correct: 0, hint: 0, answered: false,
   exam: false, nationalOnly: false, rate: store.get('rate', 1), order: []
@@ -249,7 +291,7 @@ document.addEventListener('pointerdown', function unlock(){
 }, { once: true, capture: true });
 function voiceFor(lang){
   if(!SPEECH.voices.length) loadVoices();
-  const want = lang === 'es' ? ['es-US','es-MX','es-'] : ['en-US','en-'];
+  const want = (LANGS.find(L => L.code === lang) || LANGS[0]).speech;
   for(const w of want){ const v = SPEECH.voices.find(v => (v.lang || '').replace('_','-').startsWith(w)); if(v) return v; }
   return null;
 }
@@ -259,6 +301,7 @@ function stopSpeech(){
   if(SPEECH.ok){ try{ speechSynthesis.cancel(); }catch(e){} }
   SPEECH.playing = false; syncPlay();
 }
+function voiceNote(show){ const n = el('ttsNote'); if(n && show){ n.textContent = t('noVoice'); n.hidden = false; } }
 function silentNote(show){ const n = el('ttsNote'); if(n){ n.textContent = t('silent'); n.hidden = !show; } }
 /* ---------- Following the spoken word ----------
    Each spoken part may name the element it reads. Its words are wrapped in spans, and the
@@ -304,8 +347,9 @@ function speak(parts){
     clearKaraoke();
     if(p.node && p.node.isConnected){ KARAOKE.node = p.node; KARAOKE.spans = paintWords(p.node, p.text); }
     const u = new SpeechSynthesisUtterance(pre + p.text);
-    u.lang = S.lang === 'es' ? 'es-US' : 'en-US';
+    u.lang = (LANGS.find(L => L.code === S.lang) || LANGS[0]).speech[0];
     const v = voiceFor(S.lang); if(v) u.voice = v;
+    else if(SPEECH.voices.length && S.lang !== 'en' && S.lang !== 'es') voiceNote(true);
     u.rate = S.rate;
     let started = false, bounded = false;
     u.onstart = () => {
@@ -382,6 +426,7 @@ function setLang(l){ S.lang = l; store.set('lang', l); stopSpeech(); render(); }
 function go(name){ stopSpeech(); S.screen = name; render(); window.scrollTo(0, 0); }
 function render(){
   document.documentElement.lang = S.lang;
+  document.documentElement.dir = (LANGS.find(L => L.code === S.lang) || {}).rtl ? 'rtl' : 'ltr';
   el('brandsub').textContent = t('sub');
   el('foot').textContent = t('foot');
   el('btnBack').hidden = S.screen === 'home';
@@ -411,6 +456,8 @@ function renderHome(){
     body = `
       <div class="hero"><h2>${esc(t('heroT')(stateName(S.state)))}</h2><p>${esc(t('heroP'))}</p></div>
       ${SPEECH.ok ? '' : `<div class="notice">${esc(t('noTTS'))}</div>`}
+      ${EN_ONLY_TEST[S.state] && S.lang !== 'en' ? `<div class="notice">${esc(t('englishOnly')(stateName(S.state)))}
+        <label style="display:flex;gap:10px;align-items:center;margin-top:8px;min-height:48px"><input type="checkbox" id="chkEn" ${S.showEn ? 'checked' : ''} style="width:26px;height:26px"> ${esc(t('showEn'))}</label></div>` : ''}
       <p class="grouptitle">${esc(t('topic'))}</p>
       <div class="chips">${chip('', t('all'), bank.length)}${cats.map(c => chip(c, t('cats')[c], counts[c])).join('')}</div>
       <button class="bigbtn" type="button" id="btnStart">${esc(prog ? t('cont') : t('start'))}</button>
@@ -427,14 +474,14 @@ function renderHome(){
       <div><button class="linkbtn" type="button" id="btnGeo">${esc(t('findMe'))}</button> <span id="geoNote" role="status" aria-live="polite"></span></div>
       <div><span id="langLbl" class="grouptitle" style="display:block;margin:0 0 4px">${esc(t('lang'))}</span>
         <div class="langs" role="group" aria-labelledby="langLbl">
-          <button class="chip" type="button" data-lang="en" lang="en" aria-pressed="${S.lang === 'en'}">English</button>
-          <button class="chip" type="button" data-lang="es" lang="es" aria-pressed="${S.lang === 'es'}">Español</button>
+          ${LANG_OK.map(L => `<button class="chip" type="button" data-lang="${L.code}" lang="${L.code}" dir="${L.rtl ? 'rtl' : 'ltr'}" aria-pressed="${S.lang === L.code}">${esc(L.label)}</button>`).join('')}
         </div></div>
     </div>${body}`;
   el('selState').onchange = e => setState(e.target.value);
   el('btnGeo').onclick = findMyState;
   screen.querySelectorAll('[data-lang]').forEach(b => b.onclick = () => setLang(b.dataset.lang));
   screen.querySelectorAll('[data-cat]').forEach(b => b.onclick = () => { S.cat = b.dataset.cat; render(); });
+  if(el('chkEn')) el('chkEn').onchange = e => { S.showEn = e.target.checked; store.set('showEn', S.showEn); };
   if(el('btnStart')) el('btnStart').onclick = () => startDeck(practiceDeck(), false);
   if(el('btnExam')) el('btnExam').onclick = () => startDeck(examDeck(), true);
   if(el('btnMist')) el('btnMist').onclick = () => { const ids = new Set(mistakes()); startDeck(shuffle(bankFor(S.state).filter(q => ids.has(q.id))), false); };
@@ -461,12 +508,14 @@ function startDeck(deck, exam, national){
 }
 
 /* ---------- Quiz ---------- */
-function cur(){ const q = S.deck[S.qi]; return { q, d: q[S.lang] }; }
+function cur(){ const q = S.deck[S.qi]; return { q, d: q[S.lang] || q.en }; }
+/* English shown under the learner's language, for states that test only in English. */
+function withEn(){ return S.lang !== 'en' && S.showEn && EN_ONLY_TEST[S.state]; }
 /* Options are shuffled once per question view; the correct one is tracked by its original index. */
 function curOpts(){
   const { q, d } = cur();
   if(!S.order.length || S.orderFor !== q.id){ S.order = shuffle([0,1,2,3]); S.orderFor = q.id; }
-  return S.order.map(i => ({ text: d.o[i], right: i === q.c }));
+  return S.order.map(i => ({ text: d.o[i], en: q.en.o[i], right: i === q.c }));
 }
 function renderQuiz(){
   S.hint = 0; S.answered = false;
@@ -477,8 +526,9 @@ function renderQuiz(){
     ${q.sign ? `<div class="stage">${signSVG(q.sign)}</div>` : ''}
     <div class="road" role="progressbar" aria-label="${esc(t('question'))}" aria-valuemin="0" aria-valuemax="100" aria-valuenow="${pct}"><div class="road-fill" style="width:${pct}%"></div></div>
     <h2 class="qtitle" tabindex="-1" id="qtitle">${esc(d.q)}</h2>
+    ${withEn() ? `<p class="en2" lang="en" dir="ltr" id="qen">${esc(q.en.q)}</p>` : ''}
     <div id="hints" aria-live="polite"></div>
-    ${o.map((x, i) => `<button class="opt" type="button" data-i="${i}"><b class="optnum" aria-hidden="true">${i + 1}</b><span class="otext">${esc(x.text)}</span></button>`).join('')}
+    ${o.map((x, i) => `<button class="opt" type="button" data-i="${i}"><b class="optnum" aria-hidden="true">${i + 1}</b><span class="obody"><span class="otext">${esc(x.text)}</span>${withEn() ? `<span class="en2" lang="en" dir="ltr">${esc(x.en)}</span>` : ''}</span></button>`).join('')}
     ${S.exam ? '' : `<button class="hintbtn" id="btnHint" type="button">${esc(t('hint'))}</button><button class="hintbtn" id="btnSkip" type="button">${esc(t('skip'))}</button>`}
     <div id="after"></div>`;
   screen.querySelectorAll('.opt').forEach(b => b.onclick = () => answer(+b.dataset.i));
