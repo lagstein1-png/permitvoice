@@ -1,6 +1,6 @@
 # PermitVoice
 
-Learner's permit practice for the US, in English and Spanish, read aloud. Florida first.
+Learner's permit practice for the US, read aloud, in English, Spanish, Chinese, Vietnamese, Tagalog and Arabic (plus Haitian Creole for Florida). Florida first.
 Read `README.md` for the files and the question rules.
 
 ## Owner decisions (2026-10-08)
@@ -10,7 +10,7 @@ Read `README.md` for the files and the question rules.
 - **Server:** any paid feature (ads, premium check) uses its **own** Cloudflare Worker, in its own account.
   Never Barak's / Limor's worker from the bekol repo (`tutor-api/worker.js`). Bekol has no link to money; PermitVoice does.
 - **Revenue (2026-10-09):** one-time upgrade, sold through Lemon Squeezy (merchant of record: it collects and pays US sales tax). The buyer gets a license key; the separate Worker checks it. No user accounts. The Lemon Squeezy API key lives only as a Worker secret, never in this repo. Price: **US$9.99 one-time per state**, lifetime access for that state, no subscription (set 2026-10-09; compared with DMV Genie's basic Premium at $9.99 and Zutobi's weekly plans from $4.99, App Store listings found by search that day).
-  - Free forever: all practice questions, hints, read-aloud with word highlighting, both languages, and one full practice test per day.
+  - Free forever: all practice questions, hints, read-aloud with word highlighting, all languages, and one full practice test per day.
   - Upgrade: unlimited full practice tests, score history, and a focused review pack built from the learner's mistakes.
 - **Languages (2026-10-09):** English, Spanish, then Chinese (Simplified), Vietnamese, Tagalog and Arabic, the largest home languages in the US after English and Spanish (owner's list from Census figures). Arabic is right-to-left. Haitian Creole (`ht`) is offered for Florida only; phones rarely have a Creole voice, so it falls back to a French voice and says so. New languages are machine-translated and need a native speaker's review before marketing them.
 - **Florida tests only in English** (FLHSMV, from February 2026, per news reports and county tax collector pages found 2026-10-09). The app tells non-English learners this and shows the English text under each question and option (on by default, can be turned off).

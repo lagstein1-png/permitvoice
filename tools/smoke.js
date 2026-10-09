@@ -93,8 +93,16 @@ srv.listen(0, async () => {
     const q = window.PV_BANK.find(x => x.zh && x.zh.q === t); const en = document.getElementById('qen');
     return !!q && !!en && en.textContent === q.en.q && document.querySelectorAll('.opt .en2').length === 4; });
   ok(zhOk, 'Chinese question shown with the English question and options under it');
+  // 4c. Haitian Creole is offered for Florida only.
+  await p.click('#btnBack');
+  ok(await p.isVisible('[data-lang="ht"]'), 'Haitian Creole is offered for Florida');
+  await p.click('[data-lang="ht"]'); await p.click('#btnStart'); await p.waitForSelector('.opt');
+  ok(await p.evaluate(() => window.PV_BANK.some(x => x.ht && x.ht.q === document.getElementById('qtitle').textContent)), 'Creole question shown');
+  await p.click('#btnBack'); await p.selectOption('#selState', 'TX');
+  ok(!(await p.isVisible('[data-lang="ht"]')) && await p.evaluate(() => document.documentElement.lang === 'en'), 'Creole is not offered for Texas, and the app falls back to English');
+  await p.selectOption('#selState', 'FL');
   // 5. Exam: 50 questions, one try, result
-  await p.click('#btnBack'); await p.click('[data-lang="en"]');
+  await p.click('[data-lang="en"]');
   ok((await p.textContent('#btnExam')).includes('50'), 'Florida practice test has 50 questions');
   await p.click('#btnExam');
   for (let i = 0; i < 50; i++) { await p.waitForSelector('.opt:not([disabled])'); await p.click('.opt[data-i="0"]'); await p.click('#btnNext'); }
