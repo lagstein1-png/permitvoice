@@ -16,7 +16,7 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | AZ | Arizona | 24 | 0 | 30 q, pass 24 (80%) | [link](https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf) | — | no |
 | CA | California | 30 | 29 | not found | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/) | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf) | yes |
 | CO | Colorado | 35 | 0 | 25 q, pass 20 (80%) | [link](https://dmv.colorado.gov/sites/dmv/files/DR2337.pdf) | — | no |
-| CT | Connecticut | 20 | 0 | not found | [link](https://portal.ct.gov/DMV/Drivers-Manuals/Manuals/Drivers-Manuals) | [link](https://portal.ct.gov/DMV/Drivers-Manuals/Manuals/Drivers-Manuals) | no |
+| CT | Connecticut | 20 | 19 | 25 q, pass 20 (80%) | [link](https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf) | [link](https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-spanish.pdf) | yes |
 | DC | District of Columbia | 13 | 0 | not found | — | — | no |
 | DE | Delaware | 13 | 13 | 32 q, pass 26 (81%) | [link](https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf) | [link](https://dmv.de.gov/forms/driver_serv_forms/pdfs/Spanish_manual_LR.pdf) | yes |
 | GA | Georgia | 21 | 21 | 40 q, pass 30 (75%) | [link](https://dds.georgia.gov/document/document/ga-drivers-manual-2023-2024/download) | — | yes |

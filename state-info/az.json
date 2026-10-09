@@ -12,13 +12,13 @@
     "passPercent": 80,
     "spanish": null
   },
-  "permitAge": "15 years and 6 months (Class G instruction permit, under 18)",
+  "permitAge": "15 years and 6 months (Class D or G instruction permit, ARS 28-3154). A restricted instruction permit is available at 15 for students in an ADOT-approved driver training program (ARS 28-3153, 28-3155).",
   "teen": {
-    "supervisedHours": "30 hours, including 10 at night (or completion of an MVD-approved driver education program; one source says 20 hours with 6 at night after an approved school)",
-    "holdPermit": "6 months (third-party sources; not confirmed on azdot.gov)",
-    "nightLimit": "First 6 months of the graduated (Class G) license: no driving midnight to 5 a.m. unless a licensed parent or guardian is in the front passenger seat; secondary sources list exemptions for work, school, religious activities and family emergencies",
-    "passengerLimit": "First 6 months: no more than one passenger under 18, except siblings or when a parent/guardian is in the front seat (GHSA and iDriveSafely; not confirmed on azdot.gov)",
-    "phone": "Instruction permit holders may not use a wireless communication device while driving except in an emergency (Laws 2017, ch. 209; ARS 28-3154). All drivers: hands-free mode only (ARS 28-914, DPS)."
+    "supervisedHours": "30 hours, including 10 at night, certified by a parent or guardian; or completion of an ADOT-approved driver education program; or 20 hours (6 at night) plus a driver education course from a certified defensive driving school (ARS 28-3174(A)(3))",
+    "holdPermit": "6 months, for applicants under 18 (ARS 28-3174(A)(2)). The permit is valid for 12 months (ARS 28-3154(B)).",
+    "nightLimit": "First 6 months of the Class G license: no driving midnight to 5 a.m. unless a licensed parent or legal guardian sits beside the driver, or when driving directly to or from a sanctioned school activity, work, a sanctioned religious activity or a family emergency (ARS 28-3174(D)). Ends at 18.",
+    "passengerLimit": "First 6 months: no more than one passenger under 18, except siblings or when a licensed parent or legal guardian sits beside the driver (ARS 28-3174(E)). Ends at 18.",
+    "phone": "Instruction permit holders may not use a wireless communication device while driving except in an emergency where stopping is impossible or unsafe (ARS 28-3154(C)). First 6 months of a Class G license: same, except audible turn-by-turn navigation not adjusted by hand (ARS 28-3174(F)). All drivers: may not hold or support a phone; hands-free only (ARS 28-914)."
   },
   "bac": {
     "adult": "0.08",
@@ -26,16 +26,19 @@
   },
   "notes": [
     "Knowledge test stops automatically once 80 percent are correct or the maximum misses are reached; retake on the next business day (ADOT).",
-    "Permit supervisor must sit beside the permittee; current secondary sources say the supervisor must be 21 or older.",
     "Move over law (ARS 28-775): applies to any stationary vehicle with flashing lights since 2011; move to a non-adjacent lane if safe, otherwise slow down.",
     "Prima facie speeds (ARS 28-701): 15 mph approaching a school crossing, 25 mph in business or residential districts, 65 mph elsewhere. Rural interstate 75 mph only where ADOT orders it (ARS 28-702.04); not used as a question.",
     "Extreme DUI at 0.15 BAC or more.",
     "8 or more points in 12 months: Traffic Survival School or suspension (ADOT). TSS is required after DUI, wrong-way, red-light or stop-sign, or aggressive driving convictions.",
-    "Minimum liability insurance 25/50/15 since July 1, 2020 (secondary sources).",
     "School bus rule on divided highways: Arizona statute text (ARS 28-857) could not be retrieved; no question written.",
     "Official manual PDF URL could not be confirmed: azdot.gov and azleg.gov were unreachable from this environment and search returned only mirror copies. Secondary sources say an official Spanish manual exists.",
     "Spanish knowledge test: secondary sources say English and Spanish at most offices; not confirmed on azdot.gov.",
-    "Official handbook PDF link supplied by the owner on 2026-10-09 (form 99-0117). Not downloadable from the build environment."
+    "Official handbook PDF link supplied by the owner on 2026-10-09 (form 99-0117). Not downloadable from the build environment.",
+    "Permit supervisor must hold a class A, B, C or D license, be at least 21, and sit beside the permittee (ARS 28-3154(B)(2)).",
+    "Minimum liability insurance 25/50/15 (ARS 28-4009, as amended for policies from July 1, 2020).",
+    "Under 21: any alcohol in the body while driving is illegal (ARS 4-244(34)). Extreme DUI 0.15 to under 0.20; 0.20 or more is a higher tier (ARS 28-1382).",
+    "2026-10-09 check: the official manual (form 99-0117, apps.azdot.gov) and every azdot.gov page returned a Cloudflare browser challenge (HTTP 403) to curl and to WebFetch, and web.archive.org was unreachable. The handbook was NOT read; edition date unknown. Teen, permit, speed, move-over, phone, DUI and insurance facts were checked against ARS text on azleg.gov instead. Test size (30) and pass mark (80%) and the 8-points/TSS rule remain from earlier azdot.gov notes, unconfirmed today.",
+    "Official Spanish manual exists as form 99-0137 (listed at https://azdot.gov/content/driver-lic-manualcustomer-service-guide-spanish); URL not verified."
   ],
   "sources": [
     "https://azdot.gov/taxonomy/term/8319",
@@ -54,7 +57,17 @@
     "https://lawforkids.org/know-your-rights/laws/driving/alcohol",
     "https://www.salwinlaw.com/dui/ars-28-1381/",
     "https://www.dmvroads.com/states/arizona/learners-permit/",
-    "owner-supplied link 2026-10-09"
+    "owner-supplied link 2026-10-09",
+    "https://www.azleg.gov/ars/28/03153.htm",
+    "https://www.azleg.gov/ars/28/03154.htm",
+    "https://www.azleg.gov/ars/28/03155.htm",
+    "https://www.azleg.gov/ars/28/03174.htm",
+    "https://www.azleg.gov/ars/28/00701.htm",
+    "https://www.azleg.gov/ars/28/00775.htm",
+    "https://www.azleg.gov/ars/28/00914.htm",
+    "https://www.azleg.gov/ars/28/01382.htm",
+    "https://www.azleg.gov/ars/28/04009.htm",
+    "https://www.azleg.gov/ars/4/00244.htm"
   ],
   "checked": "2026-10-08",
   "verified": false

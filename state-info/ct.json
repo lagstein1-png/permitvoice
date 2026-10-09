@@ -1,1 +1,64 @@
-{"code":"CT","name":"Connecticut","agency":"Connecticut Department of Motor Vehicles (DMV)","handbook":{"en":"https://portal.ct.gov/DMV/Drivers-Manuals/Manuals/Drivers-Manuals","es":"https://portal.ct.gov/DMV/Drivers-Manuals/Manuals/Drivers-Manuals"},"exam":{"questions":null,"pass":null,"passPercent":null,"spanish":null},"permitAge":"16 (learner's permit; secondary sources)","teen":{"supervisedHours":"40 hours behind-the-wheel training plus 30 hours of classroom study for 16- and 17-year-olds (secondary sources)","holdPermit":"120 days with commercial or high school driver education; 180 days with home training (secondary sources)","nightLimit":"Licensed 16 and 17: no driving 11 p.m. to 5 a.m. except work, school, religious activity or medical emergency (secondary). Permit: no curfew, but a qualified trainer must be in the car (DMV).","passengerLimit":"Permit: only the trainer, and parents or others with a licensed instructor (DMV). Licensed 16-17: first 6 months no passengers except instructor, parent/guardian or permit-period exceptions; second 6 months immediate family also (DPH).","phone":"Under 18: no cell phone or mobile electronic device at all, hands-free included (DMV). All drivers: no hand-held device; fines $200 / $375 / $625."},"bac":{"adult":"0.08","under21":"0.02"},"notes":["Official DMV manuals page lists English and a Spanish PDF (revised 3/2023) plus a Spanish audio version; direct PDF URLs not confirmed, so the handbook fields point to the manuals page.","Knowledge test: commercial practice sites say 25 questions, 20 correct (80 percent) to pass; not confirmed on a DMV page, so exam fields are null. Whether the test is offered in Spanish was not found.","Permit trainer (non-professional): at least 20 years old, licensed four or more consecutive years, no suspension in those four years (DMV teen restrictions page).","Curfew, passenger, DUI, speeding over 20 mph, racing and reckless driving violations by 16-17-year-olds: license seized on the spot for 48 hours and car towed (DPH).","Move over (C.G.S. 14-283b): slow to a reasonable speed below the posted limit and, if in the adjacent lane, move over one lane unless unsafe. Sources disagree whether flashing lights are required; extended to more vehicles in 2017.","Right on red allowed after a full stop unless a sign forbids it (secondary).","School bus on divided highways: not confirmed from a reliable source; no question written.","Under 18 at the knowledge test: parent or guardian comes along or signs a consent form (secondary).","Research done with WebSearch only; official sites were unreachable from the sandbox (proxy 403)."],"sources":["https://portal.ct.gov/dmv/licenses-permits-ids/teen-drivers-license/driver-restrictions-teens","https://portal.ct.gov/DPH/Health-Education-Management--Surveillance/The-Office-of-Injury-Prevention/Graduated-Driver-Licensing-Law","https://portal.ct.gov/DMV/Drivers-Manuals/Manuals/Drivers-Manuals","https://www.driving-tests.org/connecticut/connecticut-permit-practice-test-3/","https://dmv-permit-test.com/question/the-night-time-curfew-for-16-and-17-year-old-drivers-who-received-their-drivers-license-is-J2DabqB2.html","https://meridenct.gov/announcements/meriden-police-and-ct-dot-during-national-distracted-driving-month","https://www.trantololaw.com/car-accidents/move-over-law/","https://getjerry.com/driving/can-you-turn-right-on-red-in-connecticut","https://markshermanlaw.com/connecticut-dui-lawyer/underage/","https://www.uscisguide.com/state-regulations-and-laws/teen-driver-safety-in-connecticut"],"checked":"2026-10-08","verified":false}
+{
+  "code": "CT",
+  "name": "Connecticut",
+  "agency": "Connecticut Department of Motor Vehicles (DMV)",
+  "handbook": {
+    "en": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "es": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-spanish.pdf"
+  },
+  "exam": {
+    "questions": 25,
+    "pass": 20,
+    "passPercent": 80,
+    "spanish": true,
+    "languages": [
+      "Albanian",
+      "Arabic",
+      "Chinese (Mandarin)",
+      "English",
+      "French",
+      "Italian",
+      "Polish",
+      "Portuguese",
+      "Russian",
+      "Spanish",
+      "Vietnamese"
+    ],
+    "englishOnly": false
+  },
+  "permitAge": "16 (handbook p. 5); 18 and older get an adult learner's permit",
+  "teen": {
+    "supervisedHours": "40 hours behind-the-wheel training for 16- and 17-year-olds (any mix of school and home training), plus 30 hours of classroom study that includes the 8-hour safe driving course and 2-hour parent class (handbook pp. 6-7)",
+    "holdPermit": "120 days after commercial or high school driver education; 180 days otherwise, including home training (handbook p. 6). Age 18+: 90 days (p. 7)",
+    "nightLimit": "Licensed 16 and 17: no driving 11 p.m. to 5 a.m. except employment, school, religious activities, medical necessity or Safe Ride Program (handbook p. 8). Permit: no curfew, but a qualified trainer must be in the car (DMV teen restrictions page).",
+    "passengerLimit": "Permit (16-17): only a licensed instructor and those with that instructor, or one qualified trainer (20+, licensed 4 consecutive years, no suspension); parents may come along (handbook p. 6). Licensed 16-17: first 6 months only instructor, parents/guardian, or one qualified trainer; months 7-12 immediate family also (handbook p. 8).",
+    "phone": "Under 18 (permit and licensed): no cell phone or mobile electronic device at all, hands-free included (handbook pp. 8, 11). All drivers: no hand-held device, even when stopped in traffic (p. 11). Fines $200 / $375 / $625 since Oct 2021 (housedems.ct.gov; not in handbook)."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "0.02"
+  },
+  "notes": [
+    "Handbook: Connecticut Driver's Manual, revised March 2023 (PDF created 2023-06-02), English and Spanish PDFs on the DMV manuals page. Printed page = PDF page - 2.",
+    "Knowledge test: 25 questions, 20 correct to pass (handbook p. 5; DMV take-knowledge-vision-test page). Offered in Albanian, Arabic, Mandarin Chinese, English, French, Italian, Polish, Portuguese, Russian, Spanish and Vietnamese; a paper test can be requested in more languages, including Chinese Simplified and Haitian Creole (DMV page, read 2026-10-09).",
+    "Since January 1, 2026 every learner's permit applicant must first complete the free online Connecticut Work Zone Safety Course (DMV page); not in the 2023 handbook.",
+    "Failed knowledge test: wait seven days and pay $40 to retest (DMV page).",
+    "Permit valid until a license is issued or 2 years (handbook p. 5). Everyone without a prior license takes an 8-hour Safe Driving Practices course (p. 4).",
+    "Under 18 at the knowledge test: parent or guardian comes along or the applicant brings a Certificate of Parental Consent (form 2-D) (DMV teen-drivers-license page).",
+    "Move over (handbook p. 14): for any vehicle pulled over on a road, slow below the posted limit and move over one lane when safe.",
+    "Right on red after a full stop unless a sign forbids it (handbook pp. 13, 43).",
+    "Under 21: 0.02 percent zero tolerance (handbook p. 31). 48-hour license seizure for certain violations by 16-17-year-olds, vehicle may be removed (DMV teen brochure, 2020); the handbook does not mention it.",
+    "Statute site cga.ct.gov could not be reached from the sandbox (TLS chain error), so statute text was not read."
+  ],
+  "sources": [
+    "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "https://portal.ct.gov/dmv/licenses-permits-ids/take-knowledge-vision-test",
+    "https://portal.ct.gov/dmv/licenses-permits-ids/teen-drivers-license/driver-restrictions-teens",
+    "https://portal.ct.gov/dmv/licenses-permits-ids/teen-drivers-license",
+    "https://portal.ct.gov/dmv/licenses-permits-ids/get-learners-permit",
+    "https://portal.ct.gov/-/media/TeenDriving/teendriverbrochpdf.pdf",
+    "https://housedems.ct.gov/node/19617"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
