@@ -10,7 +10,11 @@
     "questions": 25,
     "pass": 20,
     "passPercent": 80,
-    "spanish": true
+    "spanish": true,
+    "languages": [
+      "English",
+      "Spanish"
+    ]
   },
   "permitAge": "15 with an approved 30-hour driver education course; 15 1/2 with a 4-hour driver awareness program or the 30-hour course; 16 to 17 with no course required (CDOT 2025 GDL guide). For applications from Jan. 1, 2027 (HB24-1021, C.R.S. 42-2-106), minors 15 to 17 need the 30-hour course",
   "teen": {
@@ -27,7 +31,7 @@
   "notes": [
     "Handbook checked 2026-10-09: Colorado Driver Handbook DR 2337 (01/03/23), the official DMV PDF as archived by the Colorado State Publications Library (spl.cde.state.co.us). Page numbers in bank/states/co.json refer to this edition. A newer edition exists (https://dmv.colorado.gov/sites/dmv/files/documents/DR_2337_Jan2025.pdf), but dmv.colorado.gov and all *.colorado.gov hosts returned HTTP 403 (CloudFront block) from this environment, so it was not read.",
     "Knowledge test count and pass mark (25 questions, 20 correct, 80%) are NOT in the 2023 handbook and could not be confirmed on dmv.colorado.gov (blocked); they come from secondary practice-test sites only.",
-    "Test languages: the handbook does not say. Earlier research (2026-10-08) found the DMV offers the test in English and Spanish, in office and via @Home online test; not re-checked (site blocked).",
+    "Test languages: English and Spanish, in office and in the @Home online test, which can read questions aloud in either language (dmv.colorado.gov/home-driving-knowledge-tests, read 2026-10-09). No translator option is stated there.",
     "Spanish handbook: the DMV Driver Education page and a 2022 press release say a Spanish edition exists; direct PDF URL not found. CDOT publishes a Spanish GDL resource guide.",
     "Move over (C.R.S. 42-4-705, HB23-1123, effective Aug. 7, 2023): also covers any stationary vehicle with hazard lights; move over one lane if possible, otherwise slow to a safe speed (presumed 25 mph or less if the limit is under 45 mph, or 20 mph below the limit if 45 mph or more). The 2023 handbook (p. 11, p. 25) predates the hazard-light change.",
     "School bus (handbook p. 11, p. 20): stop at least 20 feet away; both directions stop on two-lane roads and four-lane roads without a median; a median or physical barrier, or five or more lanes with a center turn lane, exempts opposite traffic.",

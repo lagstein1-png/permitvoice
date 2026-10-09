@@ -343,34 +343,34 @@
     "id": "va-011",
     "scope": "VA",
     "cat": "safe-driving",
-    "conf": "medium",
-    "page": null,
-    "src": "https://www.dmv.virginia.gov/licenses-ids/learners/restrictions",
+    "conf": "high",
+    "page": 24,
+    "src": "https://law.lis.virginia.gov/vacode/46.2-818.2/",
     "sign": null,
-    "c": 3,
+    "c": 2,
     "en": {
-      "q": "In Virginia, when may a driver under 18 use a cell phone?",
+      "q": "In Virginia, when may a driver use a phone for navigation while driving?",
       "o": [
-        "Any time with a hands-free device",
-        "At a red light",
-        "For GPS while driving slowly",
-        "Only for an emergency, while lawfully stopped or parked"
+        "When holding it in one hand to see the map",
+        "When typing a new address while moving slowly",
+        "When not holding it and not typing into it",
+        "Never; map apps are banned while driving"
       ],
-      "h1": "Hands-free does not help drivers this young.",
-      "h2": "A Virginia driver under 18 may not use a cell phone while driving, even hands-free; it may be used only in an emergency with the car lawfully stopped or parked.",
-      "p": "Right. Under 18, only in an emergency while stopped or parked."
+      "h1": "Following directions is allowed; holding or typing is not.",
+      "h2": "In Virginia, a driver may use a phone for navigation while driving, as long as the driver is not holding it or entering information into it.",
+      "p": "Right. Navigation is allowed if you do not hold the phone or type into it."
     },
     "es": {
-      "q": "En Virginia, ¿cuándo puede usar el celular un conductor menor de 18 años?",
+      "q": "En Virginia, ¿cuándo puede un conductor usar el celular para navegar mientras maneja?",
       "o": [
-        "En cualquier momento con manos libres",
-        "En un semáforo en rojo",
-        "Para el GPS mientras maneja despacio",
-        "Solo en una emergencia, con el carro detenido o estacionado legalmente"
+        "Cuando lo sostiene en una mano para ver el mapa",
+        "Cuando escribe una dirección nueva mientras avanza despacio",
+        "Cuando no lo sostiene ni escribe en él",
+        "Nunca; las aplicaciones de mapas están prohibidas al manejar"
       ],
-      "h1": "Las manos libres no ayudan a conductores tan jóvenes.",
-      "h2": "En Virginia, un conductor menor de 18 años no puede usar el celular al manejar, ni con manos libres; solo puede usarlo en una emergencia con el carro detenido o estacionado legalmente.",
-      "p": "Correcto. Menores de 18: solo en emergencias, detenidos o estacionados."
+      "h1": "Seguir indicaciones está permitido; sostenerlo o escribir no.",
+      "h2": "En Virginia, un conductor puede usar el celular para navegar mientras maneja, siempre que no lo sostenga ni escriba información en él.",
+      "p": "Correcto. Navegar está permitido si no sostiene el celular ni escribe en él."
     }
   },
   {

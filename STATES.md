@@ -15,9 +15,9 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | AL | Alabama | 29 | 29 | not found | [link](https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf) | — | yes |
 | AR | Arkansas | 26 | 19 | 25 q, pass 20 (80%) | [link](https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf) | [link](https://media.ark.org/dps/Spanish_version_Arkansas_January2-18_final_version.pdf) | yes |
 | AZ | Arizona | 24 | 23 | 30 q, pass 24 (80%) | [link](https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf) | — | yes |
-| CA | California | 30 | 29 | not found | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/) | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf) | yes |
-| CO | Colorado | 35 | 34 | 25 q, pass 20 (80%) | [link](https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf) | — | yes |
-| CT | Connecticut | 20 | 19 | 25 q, pass 20 (80%) | [link](https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf) | [link](https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-spanish.pdf) | yes |
+| CA | California | 30 | 30 | not found | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/) | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf) | yes |
+| CO | Colorado | 35 | 35 | 25 q, pass 20 (80%) | [link](https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf) | — | yes |
+| CT | Connecticut | 20 | 20 | 25 q, pass 20 (80%) | [link](https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf) | [link](https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-spanish.pdf) | yes |
 | DC | District of Columbia | 13 | 13 | not found | [link](https://issuu.com/dcdmv/docs/dc_dmv_driver_manual_english_revised_final) | [link](https://issuu.com/dcdmv/docs/dc_dmv_driver_manual_final-spa) | yes |
 | DE | Delaware | 13 | 13 | 32 q, pass 26 (81%) | [link](https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf) | [link](https://dmv.de.gov/forms/driver_serv_forms/pdfs/Spanish_manual_LR.pdf) | yes |
 | FL | Florida | 0 | 0 | 50 q, pass 40 (80%) | [link](https://www.flhsmv.gov/pdf/handbooks/englishdriverhandbook.pdf) | [link](https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf) | yes |
@@ -25,7 +25,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | HI | Hawaii | 20 | 19 | 30 q, pass ? | [link](https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf) | [link](https://hidot.hawaii.gov/highways/files/2019/04/mvso-Hawaii-Drivers-Manual_July-2017_HC_ES-US.pdf) | yes |
 | IA | Iowa | 22 | 22 | ? q, pass ? (80%) | [link](https://iowadot.gov/media/7308/download?inline) | [link](https://iowadot.gov/media/7173/download) | yes |
 | ID | Idaho | 21 | 21 | 40 q, pass 34 (85%) | [link](https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf) | [link](https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf) | yes |
-| IL | Illinois | 23 | 21 | 35 q, pass 28 (80%) | [link](https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf) | [link](https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a113.pdf) | yes |
+| IL | Illinois | 23 | 23 | 35 q, pass 28 (80%) | [link](https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf) | [link](https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a113.pdf) | yes |
 | IN | Indiana | 22 | 22 | ? q, pass ? (80%) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual-spanish.pdf) | yes |
 | KS | Kansas | 23 | 23 | 25 q, pass 20 (80%) | [link](https://www.ksrevenue.gov/pdf/dlhb.pdf) | [link](https://www.ksrevenue.gov/pdf/dlhb-sp.pdf) | yes |
 | KY | Kentucky | 21 | 21 | ? q, pass ? (80%) | [link](https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf) | [link](https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2023/11/Kentucky-Driver-Manual09-08-2023_SPANISH.pdf) | yes |
@@ -52,11 +52,11 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | PA | Pennsylvania | 20 | 20 | 18 q, pass 15 (83%) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/spanish/pub%2095s.pdf) | yes |
 | RI | Rhode Island | 22 | 21 | not found | [link](https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf) | [link](https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual_SP.pdf) | yes |
 | SC | South Carolina | 21 | 21 | 30 q, pass 24 (80%) | [link](https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf) | — | yes |
-| SD | South Dakota | 24 | 23 | ? q, pass ? (80%) | [link](https://www.sd.gov/sys_attachment.do?sys_id=d8e0b08e47bd0390a497127ba26d4348) | [link](https://www.sd.gov/sys_attachment.do?sys_id=616c057e47406e10237fbd51026d430f) | yes |
+| SD | South Dakota | 24 | 24 | ? q, pass ? (80%) | [link](https://www.sd.gov/sys_attachment.do?sys_id=d8e0b08e47bd0390a497127ba26d4348) | [link](https://www.sd.gov/sys_attachment.do?sys_id=616c057e47406e10237fbd51026d430f) | yes |
 | TN | Tennessee | 22 | 22 | 30 q, pass 24 (80%) | [link](https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf) | — | yes |
-| TX | Texas | 27 | 26 | ? q, pass ? (70%) | [link](https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf) | — | yes |
-| UT | Utah | 26 | 22 | 50 q, pass 40 (80%) | [link](https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2026.pdf) | — | yes |
-| VA | Virginia | 27 | 26 | 40 q, pass 34 (80%) | [link](https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf) | [link](https://dmv.virginia.gov/licenses-ids/exams/manual-es) | yes |
+| TX | Texas | 27 | 27 | ? q, pass ? (70%) | [link](https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf) | — | yes |
+| UT | Utah | 26 | 26 | 50 q, pass 40 (80%) | [link](https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2026.pdf) | — | yes |
+| VA | Virginia | 27 | 27 | 40 q, pass 34 (80%) | [link](https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf) | [link](https://dmv.virginia.gov/licenses-ids/exams/manual-es) | yes |
 | VT | Vermont | 24 | 24 | 20 q, pass 16 (80%) | [link](https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf) | [link](https://dmv.vermont.gov/sites/dmv/files/documents/VN-007spa-Drivers_Manual_foreign_Spanish.pdf) | yes |
 | WA | Washington | 23 | 23 | 40 q, pass 32 (80%) | [link](https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=) | [link](https://dol.wa.gov/media/pdf/4748/driver-guide-espdf/download?inline=) | yes |
 | WI | Wisconsin | 18 | 18 | 50 q, pass 40 (80%) | [link](https://wisconsindot.gov/Documents/dmv/shared/bds126-motorists-handbook.pdf) | [link](https://wisconsindot.gov/Documents/dmv/shared/s-handbook.pdf) | yes |
