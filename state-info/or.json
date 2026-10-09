@@ -1,1 +1,52 @@
-{"code":"OR","name":"Oregon","agency":"Oregon Department of Transportation (ODOT), Driver and Motor Vehicle Services (DMV)","handbook":{"en":"https://www.oregon.gov/odot/dmv/pages/form/manuals.aspx","es":"https://www.oregon.gov/odot/DMV/Pages/Online_Driver_Manual_Spanish/1_Índice.aspx"},"exam":{"questions":null,"pass":null,"passPercent":null,"spanish":true},"permitAge":"15 (instruction permit)","teen":{"supervisedHours":"50 hours with an ODOT-approved driver education course, or 100 hours without; secondary sources say 10 of them at night","holdPermit":"6 months (secondary sources)","nightLimit":"Provisional license, first year: no driving midnight to 5 a.m. except home-work, home-school event with no other transport, for employment, or with a licensed driver at least 25","passengerLimit":"Provisional license: first 6 months no passengers under 20 except immediate family; second 6 months no more than 3 passengers under 20 who are not family. Not applied with a parent, stepparent or guardian, or a certified driving instructor.","phone":"Drivers under 18: no mobile device at all, hands-free included. All drivers: hand-held device ban (ORS 811.507)."},"bac":{"adult":"0.08","under21":"any amount (zero tolerance, secondary sources)"},"notes":["Permit supervisor: licensed, at least 21, licensed at least 3 years, in the seat beside the driver.","Knowledge test: commercial sites say 35 questions, 28 correct (80 percent); not confirmed by DMV, so left null. Test offered in Spanish (2025 legislative testimony reports Spanish-language Class C pass rates).","Oregon Driver Manual published in English and Spanish, online, PDF and audio (ODOT manuals page). Direct PDF URLs not confirmed.","Move over (ORS 811.147): move over or slow to at least 5 mph below posted speed; covers any vehicle stopped with hazard lights, flares or an emergency sign (ODOT brochure).","Statutory speeds (ODOT Speed Zones): 20 mph business districts and school zones, 25 mph residential districts, 15 mph alleys and narrow residential roadways."],"sources":["https://www.oregon.gov/odot/dmv/pages/online_parent_guide_to_teen_driving/11_rules_for_graduated_licensing.aspx","https://www.nsc.org/getmedia/7a1c5a1f-af1b-4940-b55e-a6be1e7e3f50/Oregon-GDL-EN.pdf","https://www.dmvroads.com/states/oregon/teen-license/","https://www.oregon.gov/odot/dmv/pages/form/manuals.aspx","https://apps.oregonlegislature.gov/liz/2025R1/Downloads/PublicTestimonyDocument/195056","https://m.driving-tests.org/oregon/dmv-written-test/","https://www.oregon.gov/odot/Maintenance/Documents/moveoverbrochurenew_ADA%20Compliant.pdf","https://katu.com/news/local/new-move-over-law-expanded-for-oregon-drivers","https://www.oregon.gov/ODOT/Engineering/Pages/Speed-Zones.aspx","https://law.justia.com/codes/oregon/2017/volume-17/chapter-811/section-811.507","https://www.dmvroads.com/states/oregon/dui-laws/"],"checked":"2026-10-08","verified":false}
+{
+  "code": "OR",
+  "name": "Oregon",
+  "agency": "Oregon Department of Transportation (ODOT), Driver and Motor Vehicle Services (DMV)",
+  "handbook": {
+    "en": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "es": "https://www.oregon.gov/odot/Forms/DMV/37s.pdf"
+  },
+  "exam": {
+    "questions": 35,
+    "pass": 28,
+    "passPercent": 80,
+    "spanish": true
+  },
+  "permitAge": "15 (instruction permit); 16 for a license (Oregon Driver Manual 2026-2027, p. 89)",
+  "teen": {
+    "supervisedHours": "100 hours, or 50 hours plus an ODOT-approved traffic safety education course (manual p. 90). The manual does not set a night-hours minimum.",
+    "holdPermit": "6 months for applicants under 18 (manual pp. 5, 90)",
+    "nightLimit": "Provisional license, first year: no driving 12 midnight to 5 a.m. except between home and work, home and a school event with no other transport, for employment, or with a licensed driver at least 25 (ORS 807.122; not in the manual)",
+    "passengerLimit": "Provisional license: first 6 months no passengers under 20 except immediate family; second 6 months no more than 3 passengers under 20 who are not family. Not applied with a parent or stepparent with valid privileges, or a certified traffic safety education instructor (ORS 807.122; not in the manual).",
+    "phone": "Drivers under 18: no cell phone or mobile electronic device at all while driving. Drivers 18 and over: hands-free accessory only (manual p. 80)."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "any amount (zero tolerance, manual p. 83)"
+  },
+  "notes": [
+    "Checked against the Oregon Driver Manual 2026-2027 (ODOT DMV form 37, English PDF; Spanish edition form 37s). Printed page = PDF page minus 8.",
+    "Knowledge test (manual p. 2): 35 multiple-choice questions, 28 correct to pass. Taken online at DMV2U or at a DMV office; offered in several languages, with or without audio (languages not listed in the manual). Spanish kept true: a Spanish manual exists and 2025 legislative testimony reports Spanish-language Class C pass rates.",
+    "Permit supervisor: licensed, at least 21, licensed at least 3 years, in the seat beside the driver.",
+    "Statutory speeds (ODOT Speed Zones): 20 mph business districts and school zones, 25 mph residential districts, 15 mph alleys and narrow residential roadways.",
+    "Move-over law (ORS 811.147, 2025 edition) is not in the manual: change to a non-adjacent lane or slow to at least 5 mph under the speed limit for any stopped vehicle showing warning or hazard lights, flares or emergency signs."
+  ],
+  "sources": [
+    "https://www.oregonlegislature.gov/bills_laws/ors/ors811.html",
+    "https://www.oregonlegislature.gov/bills_laws/ors/ors807.html",
+    "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "https://www.oregon.gov/odot/dmv/pages/online_parent_guide_to_teen_driving/11_rules_for_graduated_licensing.aspx",
+    "https://www.nsc.org/getmedia/7a1c5a1f-af1b-4940-b55e-a6be1e7e3f50/Oregon-GDL-EN.pdf",
+    "https://www.dmvroads.com/states/oregon/teen-license/",
+    "https://www.oregon.gov/odot/dmv/pages/form/manuals.aspx",
+    "https://apps.oregonlegislature.gov/liz/2025R1/Downloads/PublicTestimonyDocument/195056",
+    "https://m.driving-tests.org/oregon/dmv-written-test/",
+    "https://www.oregon.gov/odot/Maintenance/Documents/moveoverbrochurenew_ADA%20Compliant.pdf",
+    "https://katu.com/news/local/new-move-over-law-expanded-for-oregon-drivers",
+    "https://www.oregon.gov/ODOT/Engineering/Pages/Speed-Zones.aspx",
+    "https://law.justia.com/codes/oregon/2017/volume-17/chapter-811/section-811.507",
+    "https://www.dmvroads.com/states/oregon/dui-laws/"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}

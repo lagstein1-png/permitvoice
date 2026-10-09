@@ -1,1 +1,64 @@
-{"code":"NE","name":"Nebraska","agency":"Nebraska Department of Motor Vehicles (DMV)","handbook":{"en":"https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf","es":null},"exam":{"questions":25,"pass":20,"passPercent":80,"spanish":null},"permitAge":"15 (LPD learner’s permit), parent or guardian consent; 14 for the school learner’s permit (LPE) (secondary sources)","teen":{"supervisedHours":"50 hours logged and signed by a licensed driver at least 21, or an approved driver safety course (247 NAC 11-003); some secondary sources add 10 at night, not in the rule text","holdPermit":"6 months on an LPE, SCP or LPD before the POP at 16 (secondary sources; one says 1 year)","nightLimit":"POP: no driving midnight to 6 a.m. unless to or from work or a school activity, or with a licensed driver 21 or older (Neb. Rev. Stat. 60-4,120.01)","passengerLimit":"POP, first 6 months: no more than one passenger under 19 who is not immediate family (Neb. Rev. Stat. 60-4,120.01)","phone":"POP: no interactive wireless device while driving (secondary enforcement). All drivers: texting banned, also while stopped in traffic (Neb. Rev. Stat. 60-6,179.01)."},"bac":{"adult":"0.08","under21":"0.02 (over .02 is a violation)"},"notes":["LPD supervisor: licensed adult 21 or older in the front passenger seat (secondary sources; one adds two years of experience, unconfirmed).","Knowledge test 25 questions, 20 correct (80 percent): third-party practice sites only, all agree; not confirmed on dmv.nebraska.gov.","Full operator’s license: age 17 and 12 months on the POP (secondary).","Move over law expanded by LB 530, in effect Sept. 3, 2025: move to an adjacent lane for stopped vehicles or vulnerable road users, or slow down if unable (news reports).","School bus: on a divided highway of four or more lanes with a median, only same-direction traffic must stop (UNK safety card; LB 500 text).","Rural interstates generally 75 mph; urban 55 to 60 (news and travel guides).","Adult seat belt law is secondary; driver, front-seat occupants and children 6 to under 18 must buckle (Nebraska DOT).","Spanish handbook and Spanish test availability not confirmed."],"sources":["https://buffalocounty.ne.gov/files/treasurer/engdrivermanual.pdf","https://codes.findlaw.com/ne/chapter-60-motor-vehicles/ne-rev-st-sect-60-4-120-01/","https://regulations.justia.com/states/nebraska/motor-vehicles-department-of/title-247/chapter-11/section-247-11-003/","https://dmv-permit-test.com/nebraska/faq.html","https://www.dmvroads.com/states/nebraska/teen-license/","https://www.dmvroads.com/states/nebraska/learners-permit/","https://adamscountyne.gov/drivers-exam/34-provisional-operators-permit","https://driving-tests.org/nebraska/nebraska-dmv-practice-test/","https://studentlegalservices.unl.edu/what-02-violation","https://rentalawareness.com/phone-laws-in-nebraska/","https://www.centralnebraskatoday.com/2026/02/16/review-nebraskas-updated-move-over-law-took-effect-in-2025","https://www.unk.edu/offices/safety_center/_files/nsc_pupilrackcard21_vf.pdf","https://www.nebraskalegislature.gov/FloorDocs/103/PDF/Final/LB500.pdf","https://www.klkntv.com/?p=13798","https://dot.nebraska.gov/safety/occupant-seatbelt/"],"checked":"2026-10-08","verified":false}
+{
+  "code": "NE",
+  "name": "Nebraska",
+  "agency": "Nebraska Department of Motor Vehicles (DMV)",
+  "handbook": {
+    "en": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "es": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/SpanishDriversManual.pdf"
+  },
+  "exam": {
+    "questions": 25,
+    "pass": 20,
+    "passPercent": 80,
+    "spanish": null
+  },
+  "permitAge": "15 for the learner's permit (LPD), may apply 60 days before (manual p. 3); 14 for the school learner's permit (LPE) (p. 2); 14 years 2 months for the school permit (SCP) (p. 2)",
+  "teen": {
+    "supervisedHours": "50 hours, at least 10 between sunset and sunrise, on a form signed by a parent, guardian or licensed driver 21 or older; or a DMV-approved driver safety course instead (manual p. 4)",
+    "holdPermit": "6 months on an LPE, SCP or LPD, with fewer than 3 points in that time, before the POP at 16 (manual p. 4)",
+    "nightLimit": "POP: no unsupervised driving midnight to 6 a.m. unless to or from work or a school activity; any time with a parent, guardian or licensed driver 21 or older (manual pp. 1, 4)",
+    "passengerLimit": "POP, first 6 months: no more than one passenger under 19 who is not an immediate family member (manual pp. 1, 4)",
+    "phone": "Permit and POP holders: no interactive wireless device at all while the vehicle is moving (manual p. 1). All drivers: no reading, typing or sending texts on a handheld device while driving (manual p. 65); the statute limits this to a vehicle in motion and makes it secondary enforcement (Neb. Rev. Stat. 60-6,179.01)."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "0.02 or more (manual p. 24; Neb. Rev. Stat. 60-6,211.01)"
+  },
+  "notes": [
+    "Handbook: Nebraska Driver's Manual, cover dated January 2025 (PDF last modified June 2025), checked 2026-10-09. Printed page = PDF page minus 8.",
+    "LPD supervisor: licensed driver at least 21 in the seat beside the driver (manual p. 4). Same for the LPE (p. 2).",
+    "Knowledge test 25 questions, 20 correct (80 percent): third-party practice sites only; NOT stated in the manual or on dmv.nebraska.gov. Unconfirmed.",
+    "Test languages: not stated in the manual or on the DMV pages checked. A Spanish Driver's Manual is linked from dmv.nebraska.gov/dl/manuals.",
+    "Full operator's license (Class O): age 17 and 12 months on the POP with fewer than 3 points in the previous 12 months (manual p. 5).",
+    "Move over law: the manual (p. 51) covers stopped emergency, road-assistance, utility, maintenance and garbage vehicles with flashing lights on multi-lane controlled-access highways. LB 530 (2025) amended Neb. Rev. Stat. 60-6,378 to cover any stopped vehicle on a controlled-access highway unless it is empty with nobody near it.",
+    "School bus: only opposite-direction traffic on a road divided by a median does not have to stop (manual p. 70; Neb. Rev. Stat. 60-6,175). No four-lane condition.",
+    "Speed limits unless posted: 75 mph rural interstates, 70 expressways/freeways on the state system, 65, 55 paved, 50 gravel, 25 residential, 20 business (manual p. 52).",
+    "Seat belts: driver and front-seat passengers (secondary law); children under 8 in a child seat, 8 up to 18 in a belt or child seat; all occupants with a permit holder (manual pp. 1, 26)."
+  ],
+  "sources": [
+    "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "https://buffalocounty.ne.gov/files/treasurer/engdrivermanual.pdf",
+    "https://codes.findlaw.com/ne/chapter-60-motor-vehicles/ne-rev-st-sect-60-4-120-01/",
+    "https://regulations.justia.com/states/nebraska/motor-vehicles-department-of/title-247/chapter-11/section-247-11-003/",
+    "https://dmv-permit-test.com/nebraska/faq.html",
+    "https://www.dmvroads.com/states/nebraska/teen-license/",
+    "https://www.dmvroads.com/states/nebraska/learners-permit/",
+    "https://adamscountyne.gov/drivers-exam/34-provisional-operators-permit",
+    "https://driving-tests.org/nebraska/nebraska-dmv-practice-test/",
+    "https://studentlegalservices.unl.edu/what-02-violation",
+    "https://rentalawareness.com/phone-laws-in-nebraska/",
+    "https://www.centralnebraskatoday.com/2026/02/16/review-nebraskas-updated-move-over-law-took-effect-in-2025",
+    "https://www.unk.edu/offices/safety_center/_files/nsc_pupilrackcard21_vf.pdf",
+    "https://www.nebraskalegislature.gov/FloorDocs/103/PDF/Final/LB500.pdf",
+    "https://www.klkntv.com/?p=13798",
+    "https://dot.nebraska.gov/safety/occupant-seatbelt/",
+    "https://dmv.nebraska.gov/dl/manuals",
+    "https://nebraskalegislature.gov/laws/statutes.php?statute=60-6,179.01",
+    "https://nebraskalegislature.gov/laws/statutes.php?statute=60-6,378",
+    "https://nebraskalegislature.gov/laws/statutes.php?statute=60-6,211.01",
+    "https://nebraskalegislature.gov/laws/statutes.php?statute=60-6,175",
+    "https://nebraskalegislature.gov/laws/statutes.php?statute=60-6,270"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}

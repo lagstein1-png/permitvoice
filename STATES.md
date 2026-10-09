@@ -38,15 +38,15 @@ Florida is live: its questions are in `bank/*.json` (checked against the handboo
 | MT | Montana | 26 | 25 | 33 q, pass 27 | [link](https://opi.mt.gov/Portals/182/Page%20Files/Driver%20Education/Curriculum/Resources%20and%20Extras/Montana-Driver-Manual.pdf) | — | yes |
 | NC | North Carolina | 20 | 20 | not found | [link](https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf) | [link](https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/driver-handbook-spanish.pdf) | yes |
 | ND | North Dakota | 20 | 18 | 25 q, pass 20 (80%) | [link](https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf) | [link](https://dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/2023-text-231023_SPA%20DL%20Manual.pdf) | yes |
-| NE | Nebraska | 20 | 0 | 25 q, pass 20 (80%) | [link](https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf) | — | no |
+| NE | Nebraska | 20 | 20 | 25 q, pass 20 (80%) | [link](https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf) | [link](https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/SpanishDriversManual.pdf) | yes |
 | NH | New Hampshire | 20 | 0 | ? q, pass ? (80%) | [link](https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/nhdm.pdf) | — | no |
 | NJ | New Jersey | 20 | 20 | 50 q, pass 40 (80%) | [link](https://www.nj.gov/mvc/pdf/license/drivermanual.pdf) | [link](https://www.nj.gov/mvc/pdf/license/drivermanuals.pdf) | yes |
 | NM | New Mexico | 21 | 21 | ? q, pass ? (70%) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/dlms11.19.19.pdf) | yes |
 | NV | Nevada | 21 | 20 | 25 q, pass 20 (80%) | [link](https://dmv.nv.gov/pdfforms/dlbook.pdf) | — | yes |
-| NY | New York | 27 | 0 | 20 q, pass 14 (70%) | [link](https://dmv.ny.gov/brochure/mv21.pdf) | [link](https://dmv.ny.gov/brochure/mv21s.pdf) | no |
+| NY | New York | 27 | 27 | 20 q, pass 14 (70%) | [link](https://dmv.ny.gov/brochure/mv21.pdf) | [link](https://dmv.ny.gov/brochure/mv21s.pdf) | yes |
 | OH | Ohio | 20 | 0 | not found | — | — | no |
 | OK | Oklahoma | 13 | 0 | 20 q, pass ? | — | — | no |
-| OR | Oregon | 17 | 0 | not found | [link](https://www.oregon.gov/odot/dmv/pages/form/manuals.aspx) | [link](https://www.oregon.gov/odot/DMV/Pages/Online_Driver_Manual_Spanish/1_Índice.aspx) | no |
+| OR | Oregon | 17 | 17 | 35 q, pass 28 (80%) | [link](https://www.oregon.gov/odot/Forms/DMV/37.pdf) | [link](https://www.oregon.gov/odot/Forms/DMV/37s.pdf) | yes |
 | PA | Pennsylvania | 20 | 0 | 18 q, pass 15 | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf) | — | no |
 | RI | Rhode Island | 22 | 0 | not found | — | — | no |
 | SC | South Carolina | 21 | 0 | 30 q, pass 24 (80%) | — | — | no |
