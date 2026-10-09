@@ -1,1 +1,56 @@
-{"code":"WV","name":"West Virginia","agency":"West Virginia Division of Motor Vehicles (WV DMV)","handbook":{"en":null,"es":null},"exam":{"questions":null,"pass":null,"passPercent":null,"spanish":null},"permitAge":"15 (Level 1 instruction permit, ages 15 to under 18); parent or guardian signs the application","teen":{"supervisedHours":"50 hours, including 10 at night, certified by a parent, guardian or responsible adult over 21; or a driver education course (W. Va. Code 17B-2-3a)","holdPermit":"180 days conviction-free (statute); DMV says six months infraction-free","nightLimit":"Level 1: drive only 5 a.m. to 10 p.m. Level 2: unsupervised only 5 a.m. to 10 p.m.; 10 p.m. to 5 a.m. needs a licensed driver 21 or older, except work, school-sanctioned activity, religious event or emergency","passengerLimit":"Level 1: no more than two additional non-family passengers. Level 2: first six months no passengers under 20 unless family; second six months no more than one passenger under 20","phone":"Level 1 and Level 2 holders under 18: no wireless device at all except to call 911. All drivers: no holding a phone; calls hands-free or voice-operated only (17C-14-15)."},"bac":{"adult":"0.08","under21":"0.02 (misdemeanor, 17C-5-2); Level 1 permit holders: no measurable alcohol"},"notes":["Level 1 supervisor: licensed driver 21 or older (or driver education / driving school instructor), the only other occupant of the front seat.","Level 3 full license at 17 after 12 months conviction-free on Level 2.","Knowledge test: may be taken online on a computer with keyboard, mouse and camera (no phones); wait seven days after a failure; $7.50 per attempt (DMV). Question count and pass mark not found on a DMV page; third-party sites say 25 questions with 19 or 20 to pass, which conflict.","Move over law (17C-14-9a, since 2003): slow down and change lanes if safe for stopped emergency vehicles, including police, EMS, fire, safety service patrols and tow trucks; up to $500 and/or 60 days jail.","School bus (17C-12-7): stop when meeting or overtaking a stopped bus with lights flashing; the only exception found is a controlled-access highway with the bus on a different roadway. No divided-highway question written.","Handbook PDF URL and Spanish handbook not found in this session.","WebFetch to state sites blocked; facts are from search-result summaries of the pages listed."],"sources":["https://code.wvlegislature.gov/17B-2-3A/","https://dmv.wv.gov/graduated-drivers-licensing-gdl","https://code.wvlegislature.gov/17C-14-15/","https://code.wvlegislature.gov/17C-5-2/","https://code.wvlegislature.gov/17C-12-7/","https://transportation.wv.gov/communications/PressRelease/Pages/West_Virginia_Governors_Highway_Safety_Program_Reminds_Drivers_to_Move_Over_to_Protect_Law_Enforcement.aspx","https://transportation.wv.gov/DMV/Pages/Appt-Documents-Knowledge-Testing.aspx","https://transportation.wv.gov/DMV/News/Pages/WV-DMV-announces-convenient-online-knowledge-test-for-learner's-permit-now-available.aspx","https://dmv.wv.gov/driver-services/drivers/sample-drivers-test","https://dmv.wv.gov/governors-highway-safety-program-ghsp/distracted-driving"],"checked":"2026-10-08","verified":false}
+{
+  "code": "WV",
+  "name": "West Virginia",
+  "agency": "West Virginia Division of Motor Vehicles (WV DMV)",
+  "handbook": {
+    "en": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "es": null
+  },
+  "exam": {
+    "questions": 25,
+    "pass": 19,
+    "passPercent": 76,
+    "spanish": null
+  },
+  "permitAge": "15 (Level 1 GDL instruction permit, ages 15 to under 18); a parent or legal guardian signs consent form DMV-DS-23P (married applicants exempt). Handbook p9.",
+  "teen": {
+    "supervisedHours": "50 hours behind the wheel, including 10 at night, certified by a parent or legal guardian log sheet; or an approved driver education course (handbook p10; W. Va. Code 17B-2-3a)",
+    "holdPermit": "180 consecutive days conviction-free on Level 1 before Level 2 (handbook p10); minimum age 16 for Level 2",
+    "nightLimit": "Level 1: drive only 5 a.m. to 10 p.m. Level 2: unsupervised only 5 a.m. to 10 p.m.; 10 p.m. to 5 a.m. needs a licensed driver 21 or older, except work, school-sanctioned activity, religious activity or emergency (handbook p10)",
+    "passengerLimit": "Level 1: no more than two additional non-family passengers besides the supervisor (p10). Level 2: first six months no non-family passengers under 20; second six months no more than one non-family passenger under 20 (p11)",
+    "phone": "Drivers under 18 (all GDL levels): no wireless device except to call 911 (p11; 17B-2-3a). All drivers: no holding a phone; calls hands-free or voice-operated only (p17; 17C-14-15)."
+  },
+  "bac": {
+    "adult": "0.08",
+    "under21": "0.02 (misdemeanor, 17C-5-2(j)); handbook p21 calls this zero tolerance. Level 1 and Level 2 holders: no measurable alcohol (p10, p11)"
+  },
+  "notes": [
+    "Handbook: West Virginia Driver's Licensing Handbook, cover 'Revised 07/2026' (PDF created 2026-08-04), linked from https://dmv.wv.gov/driver-services/drivers/drivers-licensing-handbooks. No Spanish handbook found on the DMV site. Part of the PDF text uses an oddly encoded font; it was decoded for checking. Printed page = PDF page minus 10; the definitions pages are unnumbered.",
+    "Knowledge test (handbook p24): at least 25 questions; 19 of 25 correct to pass; timed; audio version with headphones available. The handbook and DMV pages checked do not say which languages the test is offered in.",
+    "Retest (handbook p26, 17B-2-6): not twice within one week; DMV online-test page says wait seven days. $7.50 per attempt (p10).",
+    "Online 'Know to Drive' knowledge test (https://dmv.wv.gov/what-you-should-know): needs a webcam and a mouse; not on a phone or touch screen; under 18 needs an adult 18+ at registration; passing score valid six months.",
+    "Level 1 supervisor: licensed driver 21 or older in the front passenger seat (p9); statute adds driver-ed instructor and 'only other occupant of the front seat' (17B-2-3a).",
+    "Level 3 full license at 17 after 12 months conviction-free on Level 2 (p12).",
+    "Move over law (17C-14-9a, amended 2024 and 2025): any stationary vehicle showing flashing red/blue/amber lights, hazard lights, flares or warning signs: change to a non-adjacent lane on 4+ lane highways if safe, otherwise slow to no more than 15 mph (nondivided) or 25 mph (divided). Not in the handbook. Up to $500 and/or 60 days jail.",
+    "School bus (handbook p50; 17C-12-7): traffic in both directions stops; only on interstate highways does oncoming traffic not stop. No question written."
+  ],
+  "sources": [
+    "https://code.wvlegislature.gov/17B-2-3A/",
+    "https://dmv.wv.gov/graduated-drivers-licensing-gdl",
+    "https://code.wvlegislature.gov/17C-14-15/",
+    "https://code.wvlegislature.gov/17C-5-2/",
+    "https://code.wvlegislature.gov/17C-12-7/",
+    "https://transportation.wv.gov/communications/PressRelease/Pages/West_Virginia_Governors_Highway_Safety_Program_Reminds_Drivers_to_Move_Over_to_Protect_Law_Enforcement.aspx",
+    "https://transportation.wv.gov/DMV/Pages/Appt-Documents-Knowledge-Testing.aspx",
+    "https://transportation.wv.gov/DMV/News/Pages/WV-DMV-announces-convenient-online-knowledge-test-for-learner's-permit-now-available.aspx",
+    "https://dmv.wv.gov/driver-services/drivers/sample-drivers-test",
+    "https://dmv.wv.gov/governors-highway-safety-program-ghsp/distracted-driving",
+    "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "https://code.wvlegislature.gov/17C-14-9A/",
+    "https://code.wvlegislature.gov/17B-2-6/",
+    "https://dmv.wv.gov/what-you-should-know",
+    "https://dmv.wv.gov/know-drive-online-testing"
+  ],
+  "checked": "2026-10-09",
+  "verified": true
+}
