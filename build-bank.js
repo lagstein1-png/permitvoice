@@ -13,7 +13,9 @@ for (const f of files) {
     const bad = m => errors.push(`${f} ${q.id}: ${m}`);
     if (ids.has(q.id)) bad('duplicate id'); ids.add(q.id);
     if (!(q.c >= 0 && q.c <= 3)) bad('c out of range');
-    if (!(q.page === undefined || q.page === null || (Number.isInteger(q.page) && q.page >= 1 && q.page <= 400))) bad('page must be null or a handbook page number');
+    // A page is a printed page number, or a section-page label like "3-14" for handbooks numbered by section (Maine).
+    const pageOk = p => (Number.isInteger(p) && p >= 1 && p <= 400) || (typeof p === 'string' && /^\d{1,2}-\d{1,3}$/.test(p));
+    if (!(q.page === undefined || q.page === null || pageOk(q.page))) bad('page must be null or a handbook page number');
     // English and Spanish are required. zh, vi, tl, ar and ht are optional; when present they must be complete.
     for (const L of ['en', 'es', 'zh', 'vi', 'tl', 'ar', 'ht']) {
       const d = q[L]; if (!d) { if (L === 'en' || L === 'es') bad('missing ' + L); continue; }
@@ -28,7 +30,7 @@ const served = all.filter(q => q.conf === 'high').map(q => {
   const o = { id: q.id, scope: q.scope, cat: q.cat, sign: q.sign || null, c: q.c, en: q.en, es: q.es };
   for (const L of ['zh', 'vi', 'tl', 'ar', 'ht']) if (q[L]) o[L] = q[L];
   // Page in the state's own handbook. National questions carry a Florida handbook page (English, rev. 08/2023) when it covers them.
-  if (Number.isInteger(q.page)) o.ref = { doc: q.scope === 'US' ? 'FL' : q.scope, page: q.page };
+  if (q.page != null) o.ref = { doc: q.scope === 'US' ? 'FL' : q.scope, page: q.page };
   else if (q.scope !== 'US') o.ref = { doc: q.scope, page: null };
   return o;
 });
