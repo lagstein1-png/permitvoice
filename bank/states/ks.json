@@ -2212,5 +2212,141 @@
       "h2": "في Kansas، يجب على الطفل الذي عمره من 4 إلى 8 سنوات أن يستخدم مقعد أمان للأطفال أو مقعدًا رافعًا، إلا إذا كان طوله أكثر من 4 أقدام و9 بوصات أو وزنه أكثر من 80 رطلًا.",
       "p": "صحيح. فقط الطفل الذي طوله أكثر من 4 أقدام و9 بوصات أو وزنه أكثر من 80 رطلًا يمكنه ألا يستخدم المقعد الرافع."
     }
+  },
+  {
+    "id": "ks-028",
+    "scope": "KS",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 19,
+    "src": "https://www.ksrevenue.gov/pdf/dlhb.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Kansas, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 15 feet",
+        "No closer than 50 feet"
+      ],
+      "h1": "Fire trucks need room to hook up to the hydrant.",
+      "h2": "In Kansas, you may not park within 15 feet of a fire hydrant.",
+      "p": "Right. Stay at least 15 feet from a hydrant."
+    },
+    "es": {
+      "q": "En Kansas, ¿qué tan cerca de un hidrante puede estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 10 pies",
+        "No más cerca de 15 pies",
+        "No más cerca de 50 pies"
+      ],
+      "h1": "Los bomberos necesitan espacio para conectarse al hidrante.",
+      "h2": "En Kansas, usted no puede estacionarse a menos de 15 pies de un hidrante.",
+      "p": "Correcto. Quédese al menos a 15 pies de un hidrante."
+    }
+  },
+  {
+    "id": "ks-029",
+    "scope": "KS",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 17,
+    "src": "https://www.ksrevenue.gov/pdf/dlhb.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Kansas, what following distance does the handbook advise in bad weather or other poor conditions?",
+      "o": [
+        "Four seconds",
+        "One second",
+        "Two seconds",
+        "Three car lengths"
+      ],
+      "h1": "It is double the time used in good conditions.",
+      "h2": "In Kansas, the handbook advises a two-second following distance in good conditions and four seconds in poor conditions.",
+      "p": "Right. Use four seconds when conditions are poor."
+    },
+    "es": {
+      "q": "En Kansas, ¿qué distancia de seguimiento recomienda el manual con mal tiempo u otras malas condiciones?",
+      "o": [
+        "Cuatro segundos",
+        "Un segundo",
+        "Dos segundos",
+        "Tres largos de carro"
+      ],
+      "h1": "Es el doble del tiempo que se usa con buenas condiciones.",
+      "h2": "En Kansas, el manual recomienda dos segundos de distancia con buenas condiciones y cuatro segundos con malas condiciones.",
+      "p": "Correcto. Use cuatro segundos cuando las condiciones son malas."
+    }
+  },
+  {
+    "id": "ks-030",
+    "scope": "KS",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.ksrevenue.gov/pdf/dlhb.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Kansas, what vision do you need to pass the screening for a license?",
+      "o": [
+        "20/20 in both eyes",
+        "20/40 in both eyes",
+        "20/70 in one eye",
+        "20/40 in at least one eye"
+      ],
+      "h1": "Only one eye needs to meet the standard, with or without glasses.",
+      "h2": "In Kansas, you need vision of at least 20/40 in one eye, with or without glasses or contacts.",
+      "p": "Right. You need at least 20/40 in one eye."
+    },
+    "es": {
+      "q": "En Kansas, ¿qué vista necesita para aprobar la prueba de la vista para la licencia?",
+      "o": [
+        "20/20 en los dos ojos",
+        "20/40 en los dos ojos",
+        "20/70 en un ojo",
+        "20/40 en al menos un ojo"
+      ],
+      "h1": "Solo un ojo necesita cumplir el requisito, con o sin lentes.",
+      "h2": "En Kansas, usted necesita una vista de al menos 20/40 en un ojo, con o sin lentes o lentes de contacto.",
+      "p": "Correcto. Necesita al menos 20/40 en un ojo."
+    }
+  },
+  {
+    "id": "ks-031",
+    "scope": "KS",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 14,
+    "src": "https://www.ksrevenue.gov/pdf/dlhb.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Kansas, your driver's license has been expired for more than one year. What must you do to get it back?",
+      "o": [
+        "Pay only the $1 late penalty",
+        "Pass the vision, written, and driving tests",
+        "Pass only the vision test",
+        "Take a driver education course"
+      ],
+      "h1": "After a long time, you must show everything again, as a new driver would.",
+      "h2": "In Kansas, if your license has been expired for more than one year, you must pass full testing: the vision, written, and driving tests.",
+      "p": "Right. After more than a year, you take all three tests."
+    },
+    "es": {
+      "q": "En Kansas, su licencia de manejar lleva más de un año vencida. ¿Qué debe hacer para recuperarla?",
+      "o": [
+        "Pagar solo la multa de $1 por atraso",
+        "Aprobar las pruebas de la vista, escrita y de manejo",
+        "Aprobar solo la prueba de la vista",
+        "Tomar un curso de educación vial"
+      ],
+      "h1": "Después de mucho tiempo, debe demostrar todo otra vez, como un conductor nuevo.",
+      "h2": "En Kansas, si su licencia lleva más de un año vencida, usted debe aprobar todas las pruebas: la de la vista, la escrita y la de manejo.",
+      "p": "Correcto. Después de más de un año, toma las tres pruebas."
+    }
   }
 ]

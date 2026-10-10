@@ -27,7 +27,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | ID | Idaho | 27 | 27 | 40 q, pass 34 (85%) | [link](https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf) | [link](https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf) | yes |
 | IL | Illinois | 31 | 31 | 35 q, pass 28 (80%) | [link](https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf) | [link](https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a113.pdf) | yes |
 | IN | Indiana | 31 | 31 | ? q, pass ? (80%) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual-spanish.pdf) | yes |
-| KS | Kansas | 27 | 27 | 25 q, pass 20 (80%) | [link](https://www.ksrevenue.gov/pdf/dlhb.pdf) | [link](https://www.ksrevenue.gov/pdf/dlhb-sp.pdf) | yes |
+| KS | Kansas | 31 | 31 | 25 q, pass 20 (80%) | [link](https://www.ksrevenue.gov/pdf/dlhb.pdf) | [link](https://www.ksrevenue.gov/pdf/dlhb-sp.pdf) | yes |
 | KY | Kentucky | 27 | 27 | ? q, pass ? (80%) | [link](https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf) | [link](https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2023/11/Kentucky-Driver-Manual09-08-2023_SPANISH.pdf) | yes |
 | LA | Louisiana | 31 | 31 | 40 q, pass 32 (80%) | [link](https://public.powerdms.com/LADPSC/documents/347039) | — | yes |
 | MA | Massachusetts | 31 | 31 | 25 q, pass 18 (72%) | [link](https://www.mass.gov/doc/english-drivers-manual/download) | [link](https://www.mass.gov/files/documents/2019/09/02/Drivers_Manual_Spanish_0119_rev0819.pdf) | yes |
@@ -51,7 +51,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | OR | Oregon | 26 | 26 | 35 q, pass 28 (80%) | [link](https://www.oregon.gov/odot/Forms/DMV/37.pdf) | [link](https://www.oregon.gov/odot/Forms/DMV/37s.pdf) | yes |
 | PA | Pennsylvania | 31 | 31 | 18 q, pass 15 (83%) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/spanish/pub%2095s.pdf) | yes |
 | RI | Rhode Island | 27 | 26 | not found | [link](https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf) | [link](https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual_SP.pdf) | yes |
-| SC | South Carolina | 27 | 27 | 30 q, pass 24 (80%) | [link](https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf) | — | yes |
+| SC | South Carolina | 31 | 31 | 30 q, pass 24 (80%) | [link](https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf) | — | yes |
 | SD | South Dakota | 27 | 27 | ? q, pass ? (80%) | [link](https://www.sd.gov/sys_attachment.do?sys_id=d8e0b08e47bd0390a497127ba26d4348) | [link](https://www.sd.gov/sys_attachment.do?sys_id=616c057e47406e10237fbd51026d430f) | yes |
 | TN | Tennessee | 27 | 27 | 30 q, pass 24 (80%) | [link](https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf) | — | yes |
 | TX | Texas | 27 | 27 | ? q, pass ? (70%) | [link](https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf) | — | yes |
