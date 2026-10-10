@@ -7498,5 +7498,1637 @@
       "h2": "En New Jersey, si sus ruedas se salen al acotamiento, suelte el acelerador y espere a bajar a 25 mph o menos; luego gire el volante un cuarto de vuelta para volver a la calle.",
       "p": "Correcto. Baje a 25 mph o menos antes de volver."
     }
+  },
+  {
+    "id": "nj-151",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 123,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, what is the fine for a first DUI with a blood alcohol level of 0.10% or higher?",
+      "o": [
+        "$300 to $500",
+        "$25 to $50",
+        "$100 to $150",
+        "$5,000 to $10,000"
+      ],
+      "h1": "It is a little higher than the fine for a level just under 0.10%.",
+      "h2": "In New Jersey, a first DUI with a blood alcohol level of 0.10% or higher carries a fine of $300 to $500, plus fees and surcharges.",
+      "p": "Right. The fine is $300 to $500."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuál es la multa por un primer DUI con un nivel de alcohol en la sangre de 0.10% o más?",
+      "o": [
+        "De $300 a $500",
+        "De $25 a $50",
+        "De $100 a $150",
+        "De $5,000 a $10,000"
+      ],
+      "h1": "Es un poco más alta que la multa por un nivel justo debajo de 0.10%.",
+      "h2": "En New Jersey, un primer DUI con un nivel de alcohol en la sangre de 0.10% o más tiene una multa de $300 a $500, más tarifas y recargos.",
+      "p": "Correcto. La multa es de $300 a $500."
+    }
+  },
+  {
+    "id": "nj-152",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 123,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, a 19-year-old buys a drink at a bar. Besides possibly losing their license, what fine can they get?",
+      "o": [
+        "$10",
+        "$500",
+        "$50",
+        "No fine, only a warning"
+      ],
+      "h1": "It is a round number of a few hundred dollars.",
+      "h2": "In New Jersey, a person under 21 who buys or drinks alcohol in a place licensed to sell it can be fined $500 and lose their driver license for a time.",
+      "p": "Right. The fine is $500, and the license can be suspended."
+    },
+    "es": {
+      "q": "En New Jersey, una persona de 19 años compra una bebida alcohólica en un bar. Además de poder perder su licencia, ¿qué multa puede recibir?",
+      "o": [
+        "$10",
+        "$500",
+        "$50",
+        "Ninguna multa, solo una advertencia"
+      ],
+      "h1": "Es una cifra redonda de unos cientos de dólares.",
+      "h2": "En New Jersey, una persona menor de 21 años que compra o toma alcohol en un lugar con licencia para venderlo puede recibir una multa de $500 y perder su licencia de manejo por un tiempo.",
+      "p": "Correcto. La multa es de $500 y pueden suspender la licencia."
+    }
+  },
+  {
+    "id": "nj-153",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 125,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, how long does a driver lose their license for a first DUI caused by drugs, not alcohol?",
+      "o": [
+        "One week",
+        "30 days",
+        "7 to 12 months",
+        "10 years"
+      ],
+      "h1": "It is more than half a year but no more than one year.",
+      "h2": "In New Jersey, a first drug-related DUI brings a license suspension of 7 to 12 months.",
+      "p": "Right. A first drug DUI means losing the license for 7 to 12 months."
+    },
+    "es": {
+      "q": "En New Jersey, ¿por cuánto tiempo pierde la licencia un conductor por un primer DUI causado por drogas, no por alcohol?",
+      "o": [
+        "Una semana",
+        "30 días",
+        "De 7 a 12 meses",
+        "10 años"
+      ],
+      "h1": "Es más de medio año, pero no más de un año.",
+      "h2": "En New Jersey, un primer DUI relacionado con drogas trae una suspensión de la licencia de 7 a 12 meses.",
+      "p": "Correcto. Un primer DUI por drogas significa perder la licencia de 7 a 12 meses."
+    }
+  },
+  {
+    "id": "nj-154",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 127,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, after a first DUI with a blood alcohol level of 0.08% up to 0.10%, how long must an ignition interlock stay in the car after the license is restored?",
+      "o": [
+        "One week",
+        "5 years",
+        "For life",
+        "3 months"
+      ],
+      "h1": "It is a short time, counted in months.",
+      "h2": "In New Jersey, a first DUI with a blood alcohol level from 0.08% up to 0.10% requires an ignition interlock for 3 months after the license is restored.",
+      "p": "Right. The interlock stays for 3 months."
+    },
+    "es": {
+      "q": "En New Jersey, después de un primer DUI con un nivel de alcohol en la sangre de 0.08% a menos de 0.10%, ¿por cuánto tiempo debe quedar un ignition interlock (bloqueo de encendido) en el carro después de recuperar la licencia?",
+      "o": [
+        "Una semana",
+        "5 años",
+        "De por vida",
+        "3 meses"
+      ],
+      "h1": "Es poco tiempo, contado en meses.",
+      "h2": "En New Jersey, un primer DUI con un nivel de alcohol en la sangre de 0.08% a menos de 0.10% exige un ignition interlock por 3 meses después de recuperar la licencia.",
+      "p": "Correcto. El interlock se queda por 3 meses."
+    }
+  },
+  {
+    "id": "nj-155",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 128,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, what is the fine for a first conviction for unsafe driving that puts people or property in danger?",
+      "o": [
+        "$50 to $150",
+        "$1 to $10",
+        "$1,000 to $2,000",
+        "$5,000"
+      ],
+      "h1": "It is under two hundred dollars, plus a court surcharge.",
+      "h2": "In New Jersey, a first unsafe driving conviction carries a fine of $50 to $150, plus a $250 court surcharge.",
+      "p": "Right. The fine is $50 to $150 for a first offense."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuál es la multa por una primera condena por manejo inseguro (unsafe driving) que pone en peligro a personas o propiedades?",
+      "o": [
+        "De $50 a $150",
+        "De $1 a $10",
+        "De $1,000 a $2,000",
+        "$5,000"
+      ],
+      "h1": "Es menos de doscientos dólares, más un recargo del tribunal.",
+      "h2": "En New Jersey, una primera condena por manejo inseguro tiene una multa de $50 a $150, más un recargo del tribunal de $250.",
+      "p": "Correcto. La multa es de $50 a $150 por una primera infracción."
+    }
+  },
+  {
+    "id": "nj-156",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 129,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, a car is left on a public street (not a limited-access highway) without permission. After how long is it considered abandoned?",
+      "o": [
+        "One hour",
+        "48 hours or more",
+        "30 days",
+        "It is never considered abandoned"
+      ],
+      "h1": "It is about two days.",
+      "h2": "In New Jersey, a vehicle left on a highway, on public property, or on private property without consent for 48 hours or more is considered abandoned, and the owner can be fined.",
+      "p": "Right. After 48 hours it counts as abandoned."
+    },
+    "es": {
+      "q": "En New Jersey, un carro se deja en una calle pública (no en una autopista de acceso limitado) sin permiso. ¿Después de cuánto tiempo se considera abandonado?",
+      "o": [
+        "Una hora",
+        "48 horas o más",
+        "30 días",
+        "Nunca se considera abandonado"
+      ],
+      "h1": "Son unos dos días.",
+      "h2": "En New Jersey, un vehículo dejado en una carretera, en propiedad pública o en propiedad privada sin permiso por 48 horas o más se considera abandonado, y el dueño puede recibir una multa.",
+      "p": "Correcto. Después de 48 horas se considera abandonado."
+    }
+  },
+  {
+    "id": "nj-157",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 130,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, a person is convicted of an automobile insurance crime, such as lying on a claim. What happens to their driver license?",
+      "o": [
+        "Nothing; it is not a driving offense",
+        "They lose it for one week",
+        "They lose it for one year",
+        "They get two points"
+      ],
+      "h1": "Insurance fraud can cost you your license, not only money.",
+      "h2": "In New Jersey, a person convicted of an automobile insurance crime loses their driver license for one year.",
+      "p": "Right. The license is lost for one year."
+    },
+    "es": {
+      "q": "En New Jersey, una persona es condenada por un delito de seguro de auto, como mentir en un reclamo. ¿Qué pasa con su licencia de manejo?",
+      "o": [
+        "Nada; no es una infracción de manejo",
+        "La pierde por una semana",
+        "La pierde por un año",
+        "Recibe dos puntos"
+      ],
+      "h1": "El fraude de seguros le puede costar la licencia, no solo dinero.",
+      "h2": "En New Jersey, una persona condenada por un delito de seguro de auto pierde su licencia de manejo por un año.",
+      "p": "Correcto. Pierde la licencia por un año."
+    }
+  },
+  {
+    "id": "nj-158",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 130,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, a driver is convicted a second time of leaving the scene of a crash where someone was hurt. What happens to their license?",
+      "o": [
+        "They lose it for 30 days",
+        "They get a written warning",
+        "They must only pay a $50 fine",
+        "They lose it permanently"
+      ],
+      "h1": "A first offense costs one year. A second is much worse.",
+      "h2": "In New Jersey, a second hit-and-run conviction involving injury or death means the driver loses their license permanently.",
+      "p": "Right. A second offense means losing the license for good."
+    },
+    "es": {
+      "q": "En New Jersey, un conductor es condenado por segunda vez por huir del lugar de un choque donde alguien resultó herido. ¿Qué pasa con su licencia?",
+      "o": [
+        "La pierde por 30 días",
+        "Recibe una advertencia por escrito",
+        "Solo debe pagar una multa de $50",
+        "La pierde para siempre"
+      ],
+      "h1": "Una primera infracción cuesta un año. Una segunda es mucho peor.",
+      "h2": "En New Jersey, una segunda condena por huir de un choque con heridos o muertos significa que el conductor pierde su licencia para siempre.",
+      "p": "Correcto. Una segunda infracción significa perder la licencia para siempre."
+    }
+  },
+  {
+    "id": "nj-159",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 130,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, what penalty can a driver get for a second offense of driving while their license is suspended?",
+      "o": [
+        "A $750 fine and up to 5 days in jail",
+        "A $50 fine only",
+        "A written warning",
+        "Two points and no fine"
+      ],
+      "h1": "The fine is higher than the $500 for a first offense, and jail is possible.",
+      "h2": "In New Jersey, a second offense of driving while suspended brings a $750 fine, up to 5 days in jail, and up to six more months of suspension.",
+      "p": "Right. It is a $750 fine and up to 5 days in jail."
+    },
+    "es": {
+      "q": "En New Jersey, ¿qué castigo puede recibir un conductor por una segunda infracción de manejar con la licencia suspendida?",
+      "o": [
+        "Una multa de $750 y hasta 5 días de cárcel",
+        "Solo una multa de $50",
+        "Una advertencia por escrito",
+        "Dos puntos y ninguna multa"
+      ],
+      "h1": "La multa es mayor que los $500 de la primera vez, y puede haber cárcel.",
+      "h2": "En New Jersey, una segunda infracción de manejar con la licencia suspendida trae una multa de $750, hasta 5 días de cárcel y hasta seis meses más de suspensión.",
+      "p": "Correcto. Es una multa de $750 y hasta 5 días de cárcel."
+    }
+  },
+  {
+    "id": "nj-160",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 132,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, a person takes the driver license test in place of a friend. Besides a fine, what jail time can they face?",
+      "o": [
+        "None; it is only a fine",
+        "30 to 90 days",
+        "One day",
+        "10 years"
+      ],
+      "h1": "It is counted in days, between one and three months.",
+      "h2": "In New Jersey, taking a license test for someone else, or having someone take it for you, can bring a $200 to $500 fine and 30 to 90 days in jail.",
+      "p": "Right. The jail term can be 30 to 90 days."
+    },
+    "es": {
+      "q": "En New Jersey, una persona toma el examen de licencia en lugar de un amigo. Además de una multa, ¿qué tiempo de cárcel puede recibir?",
+      "o": [
+        "Ninguno; solo hay multa",
+        "De 30 a 90 días",
+        "Un día",
+        "10 años"
+      ],
+      "h1": "Se cuenta en días, entre uno y tres meses.",
+      "h2": "En New Jersey, tomar el examen de licencia por otra persona, o hacer que otro lo tome por usted, puede traer una multa de $200 a $500 y de 30 a 90 días de cárcel.",
+      "p": "Correcto. La cárcel puede ser de 30 a 90 días."
+    }
+  },
+  {
+    "id": "nj-161",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 132,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, a person is convicted of operating a boat under the influence. What happens to their driver license?",
+      "o": [
+        "Nothing; boating has no effect on driving",
+        "They get one point",
+        "It is suspended too",
+        "It is renewed early"
+      ],
+      "h1": "The state links boating and driving privileges.",
+      "h2": "In New Jersey, a person convicted of boating under the influence loses both their boating and their driving privileges.",
+      "p": "Right. Boating DUI also suspends the driver license."
+    },
+    "es": {
+      "q": "En New Jersey, una persona es condenada por manejar un bote bajo la influencia del alcohol o drogas. ¿Qué pasa con su licencia de manejo?",
+      "o": [
+        "Nada; el bote no afecta el manejo",
+        "Recibe un punto",
+        "También la suspenden",
+        "La renuevan antes de tiempo"
+      ],
+      "h1": "El estado une el permiso de navegar con el de manejar.",
+      "h2": "En New Jersey, una persona condenada por navegar bajo la influencia pierde tanto el permiso de navegar como el de manejar.",
+      "p": "Correcto. El DUI en bote también suspende la licencia de manejo."
+    }
+  },
+  {
+    "id": "nj-162",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 135,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, defensive driving courses for \"mature drivers\" are offered to drivers of what age?",
+      "o": [
+        "16 and 17",
+        "21 to 25",
+        "90 and older",
+        "55 and older"
+      ],
+      "h1": "It starts in the mid-fifties.",
+      "h2": "In New Jersey, defensive driving courses for mature drivers are offered to drivers 55 and older, and finishing one can lower insurance costs.",
+      "p": "Right. Mature driver courses are for drivers 55 and older."
+    },
+    "es": {
+      "q": "En New Jersey, los cursos de manejo defensivo para \"conductores mayores\" (mature drivers), ¿a conductores de qué edad se ofrecen?",
+      "o": [
+        "16 y 17 años",
+        "De 21 a 25 años",
+        "90 años o más",
+        "55 años o más"
+      ],
+      "h1": "Empieza a mediados de los cincuenta.",
+      "h2": "En New Jersey, los cursos de manejo defensivo para conductores mayores se ofrecen a conductores de 55 años o más, y terminarlos puede bajar el costo del seguro.",
+      "p": "Correcto. Los cursos para conductores mayores son para personas de 55 años o más."
+    }
+  },
+  {
+    "id": "nj-163",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 136,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, a driver has 8 points posted within three years. What yearly surcharge must they pay?",
+      "o": [
+        "$200",
+        "$8",
+        "$150",
+        "$1,000"
+      ],
+      "h1": "Six points cost $150, and each extra point adds $25.",
+      "h2": "In New Jersey, six points within three years bring a $150 surcharge, plus $25 for each extra point, so 8 points mean $200 a year.",
+      "p": "Right. $150 plus $25 for each of the two extra points makes $200."
+    },
+    "es": {
+      "q": "En New Jersey, un conductor tiene 8 puntos registrados en tres años. ¿Qué recargo anual debe pagar?",
+      "o": [
+        "$200",
+        "$8",
+        "$150",
+        "$1,000"
+      ],
+      "h1": "Seis puntos cuestan $150, y cada punto extra suma $25.",
+      "h2": "En New Jersey, seis puntos en tres años traen un recargo de $150, más $25 por cada punto extra, así que 8 puntos significan $200 al año.",
+      "p": "Correcto. $150 más $25 por cada uno de los dos puntos extra suman $200."
+    }
+  },
+  {
+    "id": "nj-164",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 136,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, a person is convicted of driving without a license. What yearly surcharge must they pay?",
+      "o": [
+        "No surcharge, only a warning",
+        "$100 a year for three years",
+        "$5 one time",
+        "$1,500 a year for ten years"
+      ],
+      "h1": "It is the smallest amount on the surcharge list, paid for three years.",
+      "h2": "In New Jersey, an unlicensed driver must pay a surcharge of $100 a year for three years, on top of court fines.",
+      "p": "Right. It is $100 a year for three years."
+    },
+    "es": {
+      "q": "En New Jersey, una persona es condenada por manejar sin licencia. ¿Qué recargo anual debe pagar?",
+      "o": [
+        "Ningún recargo, solo una advertencia",
+        "$100 al año por tres años",
+        "$5 una sola vez",
+        "$1,500 al año por diez años"
+      ],
+      "h1": "Es la cantidad más baja de la lista de recargos, pagada por tres años.",
+      "h2": "En New Jersey, un conductor sin licencia debe pagar un recargo de $100 al año por tres años, además de las multas del tribunal.",
+      "p": "Correcto. Son $100 al año por tres años."
+    }
+  },
+  {
+    "id": "nj-165",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 139,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, how many points go on your record for reckless driving?",
+      "o": [
+        "No points",
+        "One point",
+        "Five points",
+        "Twelve points"
+      ],
+      "h1": "It is the same as racing or tailgating.",
+      "h2": "In New Jersey, a reckless driving conviction puts 5 points on your record.",
+      "p": "Right. Reckless driving carries 5 points."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuántos puntos se agregan a su historial por manejar de forma temeraria (reckless driving)?",
+      "o": [
+        "Ningún punto",
+        "Un punto",
+        "Cinco puntos",
+        "Doce puntos"
+      ],
+      "h1": "Es lo mismo que por correr carreras o seguir muy de cerca.",
+      "h2": "En New Jersey, una condena por manejo temerario agrega 5 puntos a su historial.",
+      "p": "Correcto. El manejo temerario tiene 5 puntos."
+    }
+  },
+  {
+    "id": "nj-166",
+    "scope": "NJ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 139,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, how many points go on your record for passing in a no-passing zone?",
+      "o": [
+        "No points",
+        "One point",
+        "Eight points",
+        "Four points"
+      ],
+      "h1": "It is more than most violations, but less than tailgating.",
+      "h2": "In New Jersey, passing in a no-passing zone puts 4 points on your record.",
+      "p": "Right. Passing in a no-passing zone carries 4 points."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuántos puntos se agregan a su historial por rebasar en una zona donde está prohibido rebasar?",
+      "o": [
+        "Ningún punto",
+        "Un punto",
+        "Ocho puntos",
+        "Cuatro puntos"
+      ],
+      "h1": "Es más que la mayoría de las infracciones, pero menos que seguir muy de cerca.",
+      "h2": "En New Jersey, rebasar en una zona prohibida agrega 4 puntos a su historial.",
+      "p": "Correcto. Rebasar en zona prohibida tiene 4 puntos."
+    }
+  },
+  {
+    "id": "nj-167",
+    "scope": "NJ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 139,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, how many points go on your record for driving 30 mph or more over the speed limit?",
+      "o": [
+        "Five points",
+        "Two points",
+        "Three points",
+        "One point"
+      ],
+      "h1": "It is the highest point value for speeding.",
+      "h2": "In New Jersey, driving 30 mph or more over the speed limit puts 5 points on your record.",
+      "p": "Right. Going 30 mph or more over the limit carries 5 points."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuántos puntos se agregan a su historial por manejar 30 mph o más por encima del límite de velocidad?",
+      "o": [
+        "Cinco puntos",
+        "Dos puntos",
+        "Tres puntos",
+        "Un punto"
+      ],
+      "h1": "Es el valor más alto en puntos por exceso de velocidad.",
+      "h2": "En New Jersey, manejar 30 mph o más por encima del límite agrega 5 puntos a su historial.",
+      "p": "Correcto. Ir 30 mph o más por encima del límite tiene 5 puntos."
+    }
+  },
+  {
+    "id": "nj-168",
+    "scope": "NJ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 140,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, how many points go on your record for breaking the Move Over law?",
+      "o": [
+        "No points",
+        "Two points",
+        "Six points",
+        "Eight points"
+      ],
+      "h1": "It is the same as many common violations, like running a stop sign.",
+      "h2": "In New Jersey, breaking the Move Over law puts 2 points on your record, along with the fine.",
+      "p": "Right. A Move Over violation carries 2 points."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuántos puntos se agregan a su historial por no cumplir la ley Move Over (cambiarse de carril)?",
+      "o": [
+        "Ningún punto",
+        "Dos puntos",
+        "Seis puntos",
+        "Ocho puntos"
+      ],
+      "h1": "Es lo mismo que muchas infracciones comunes, como pasarse una señal de alto.",
+      "h2": "En New Jersey, no cumplir la ley Move Over agrega 2 puntos a su historial, además de la multa.",
+      "p": "Correcto. Una infracción de Move Over tiene 2 puntos."
+    }
+  },
+  {
+    "id": "nj-169",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 140,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, a driver leaves the scene of a crash in which nobody was hurt. How many points go on the record?",
+      "o": [
+        "No points",
+        "Eight points",
+        "Two points",
+        "Twelve points"
+      ],
+      "h1": "It is far fewer than when someone is hurt.",
+      "h2": "In New Jersey, leaving the scene of a crash with no injuries puts 2 points on your record; it is 8 points if someone is hurt.",
+      "p": "Right. With no injuries, it is 2 points."
+    },
+    "es": {
+      "q": "En New Jersey, un conductor se va del lugar de un choque en el que nadie resultó herido. ¿Cuántos puntos se agregan al historial?",
+      "o": [
+        "Ningún punto",
+        "Ocho puntos",
+        "Dos puntos",
+        "Doce puntos"
+      ],
+      "h1": "Son muchos menos que cuando alguien resulta herido.",
+      "h2": "En New Jersey, irse del lugar de un choque sin heridos agrega 2 puntos a su historial; son 8 puntos si alguien resulta herido.",
+      "p": "Correcto. Sin heridos, son 2 puntos."
+    }
+  },
+  {
+    "id": "nj-170",
+    "scope": "NJ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 145,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, you stop for a person at a crosswalk on a road with several lanes going your way. Where should you stop?",
+      "o": [
+        "Right on top of the crosswalk lines",
+        "As close to the person as you can",
+        "Past the crosswalk, so the person can walk behind you",
+        "Far enough back that drivers in the next lanes can still see the person"
+      ],
+      "h1": "Think about the drivers beside you, who also need to see the person.",
+      "h2": "In New Jersey, on a road with several lanes, you should stop far enough before the crosswalk that you do not block the view of drivers in the lanes next to you.",
+      "p": "Right. Stop well back so other drivers can see the person too."
+    },
+    "es": {
+      "q": "En New Jersey, usted se detiene por una persona en un cruce peatonal en una calle con varios carriles en su dirección. ¿Dónde debe detenerse?",
+      "o": [
+        "Justo encima de las líneas del cruce",
+        "Lo más cerca posible de la persona",
+        "Pasando el cruce, para que la persona camine detrás de usted",
+        "Lo bastante atrás para que los conductores de los otros carriles todavía vean a la persona"
+      ],
+      "h1": "Piense en los conductores a su lado, que también necesitan ver a la persona.",
+      "h2": "En New Jersey, en una calle con varios carriles, debe detenerse lo bastante antes del cruce peatonal para no tapar la vista de los conductores de los carriles de al lado.",
+      "p": "Correcto. Deténgase bien atrás para que los demás también vean a la persona."
+    }
+  },
+  {
+    "id": "nj-171",
+    "scope": "NJ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 147,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, a motorcycle is passing you. What should you do?",
+      "o": [
+        "Keep your speed and your position in the lane",
+        "Speed up so it cannot pass",
+        "Move toward the motorcycle to keep it close",
+        "Brake hard to let it go by"
+      ],
+      "h1": "Do not make sudden changes; just let it finish the pass.",
+      "h2": "In New Jersey, when a motorcycle passes you, keep your speed and your place in the lane, and leave it room to finish the pass.",
+      "p": "Right. Keep your speed and lane position."
+    },
+    "es": {
+      "q": "En New Jersey, una motocicleta lo está rebasando. ¿Qué debe hacer usted?",
+      "o": [
+        "Mantener su velocidad y su posición en el carril",
+        "Acelerar para que no pueda rebasarlo",
+        "Acercarse a la motocicleta para mantenerla cerca",
+        "Frenar fuerte para dejarla pasar"
+      ],
+      "h1": "No haga cambios bruscos; solo déjela terminar de rebasar.",
+      "h2": "En New Jersey, cuando una motocicleta lo rebasa, mantenga su velocidad y su lugar en el carril, y déjele espacio para terminar de rebasar.",
+      "p": "Correcto. Mantenga su velocidad y su posición en el carril."
+    }
+  },
+  {
+    "id": "nj-172",
+    "scope": "NJ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 150,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, a bus has already pulled back into traffic and now signals to change lanes. Must you yield to it by law?",
+      "o": [
+        "Yes, you must always yield to any bus",
+        "No; the yield law covers only buses pulling back in from a stop",
+        "Yes, but only on highways",
+        "Yes, if it is a school bus with no children"
+      ],
+      "h1": "The law protects buses re-entering traffic after a stop, not every move a bus makes.",
+      "h2": "In New Jersey, you must yield to a bus pulling back into traffic after a stop, but once it is moving with traffic you are not required to yield when it changes lanes.",
+      "p": "Right. The yield law covers buses re-entering traffic, not later lane changes."
+    },
+    "es": {
+      "q": "En New Jersey, un autobús ya volvió al tráfico y ahora señala que va a cambiar de carril. ¿Debe usted cederle el paso por ley?",
+      "o": [
+        "Sí, siempre debe ceder el paso a cualquier autobús",
+        "No; la ley de ceder el paso solo cubre a los autobuses que vuelven al tráfico desde una parada",
+        "Sí, pero solo en autopistas",
+        "Sí, si es un autobús escolar sin niños"
+      ],
+      "h1": "La ley protege a los autobuses que vuelven al tráfico después de una parada, no cada movimiento del autobús.",
+      "h2": "En New Jersey, debe ceder el paso a un autobús que vuelve al tráfico después de una parada, pero cuando ya va con el tráfico no está obligado a cederle el paso si cambia de carril.",
+      "p": "Correcto. La ley cubre a los autobuses que vuelven al tráfico, no los cambios de carril después."
+    }
+  },
+  {
+    "id": "nj-173",
+    "scope": "NJ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 151,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, you signal a right turn. A bicycle rider next to you is going straight through the intersection. What must you do?",
+      "o": [
+        "Turn quickly in front of the rider",
+        "Honk so the rider stops",
+        "Yield and let the rider go through first",
+        "Turn at the same time as the rider"
+      ],
+      "h1": "The rider going straight has the right-of-way over your turn.",
+      "h2": "In New Jersey, a driver signaling a right turn must yield to a bicycle rider, skateboarder or skater going straight through the intersection.",
+      "p": "Right. Yield and let the rider go first."
+    },
+    "es": {
+      "q": "En New Jersey, usted señala una vuelta a la derecha. Un ciclista a su lado sigue derecho por la intersección. ¿Qué debe hacer?",
+      "o": [
+        "Dar la vuelta rápido delante del ciclista",
+        "Tocar la bocina para que el ciclista se detenga",
+        "Ceder el paso y dejar que el ciclista pase primero",
+        "Dar la vuelta al mismo tiempo que el ciclista"
+      ],
+      "h1": "El ciclista que sigue derecho tiene el derecho de paso sobre su vuelta.",
+      "h2": "En New Jersey, un conductor que señala una vuelta a la derecha debe ceder el paso a un ciclista, patinador o persona en patineta que sigue derecho por la intersección.",
+      "p": "Correcto. Ceda el paso y deje pasar primero al ciclista."
+    }
+  },
+  {
+    "id": "nj-174",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 151,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, where may a motorized scooter such as a pocket bike or mini motorcycle be ridden?",
+      "o": [
+        "On any public road",
+        "On sidewalks only",
+        "In bike lanes on any highway",
+        "Only on municipal or county property set aside for it, not on public roads or sidewalks"
+      ],
+      "h1": "These small machines are not allowed in normal traffic.",
+      "h2": "In New Jersey, motorized scooters such as pocket bikes are illegal on public roads and sidewalks and may be ridden only on municipal or county property set aside for them.",
+      "p": "Right. They are allowed only on property set aside for them."
+    },
+    "es": {
+      "q": "En New Jersey, ¿dónde se puede usar un scooter motorizado, como una pocket bike o una minimoto?",
+      "o": [
+        "En cualquier calle pública",
+        "Solo en las aceras",
+        "En los carriles de bicicleta de cualquier carretera",
+        "Solo en propiedad municipal o del condado designada para eso, no en calles públicas ni aceras"
+      ],
+      "h1": "Estas máquinas pequeñas no se permiten en el tráfico normal.",
+      "h2": "En New Jersey, los scooters motorizados como las pocket bikes están prohibidos en calles públicas y aceras, y solo se pueden usar en propiedad municipal o del condado designada para eso.",
+      "p": "Correcto. Solo se permiten en propiedad designada para eso."
+    }
+  },
+  {
+    "id": "nj-175",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 152,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, unless a town or county sets a different age, how old must you be to operate a motorized scooter?",
+      "o": [
+        "At least 12",
+        "At least 5",
+        "At least 21",
+        "There is no age limit"
+      ],
+      "h1": "It is a child's age, not an adult's.",
+      "h2": "In New Jersey, no one under 12 may operate a motorized scooter, unless the town or county where it is used sets a different age.",
+      "p": "Right. The minimum age is 12."
+    },
+    "es": {
+      "q": "En New Jersey, a menos que el pueblo o el condado fije otra edad, ¿qué edad debe tener para manejar un scooter motorizado?",
+      "o": [
+        "Al menos 12 años",
+        "Al menos 5 años",
+        "Al menos 21 años",
+        "No hay límite de edad"
+      ],
+      "h1": "Es una edad de niño, no de adulto.",
+      "h2": "En New Jersey, nadie menor de 12 años puede manejar un scooter motorizado, a menos que el pueblo o el condado donde se use fije otra edad.",
+      "p": "Correcto. La edad mínima es 12 años."
+    }
+  },
+  {
+    "id": "nj-176",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 153,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, what is a low-speed vehicle (LSV)?",
+      "o": [
+        "Any car driven under the speed limit",
+        "A four-wheeled vehicle with a top speed over 20 mph but no more than 25 mph",
+        "A two-wheeled bike with pedals and a motor",
+        "A truck with a top speed of 45 mph"
+      ],
+      "h1": "It has four wheels and cannot go faster than 25 mph.",
+      "h2": "In New Jersey, a low-speed vehicle has four wheels, a top speed over 20 mph but no more than 25 mph, and cannot run on gas or diesel.",
+      "p": "Right. An LSV has four wheels and tops out between 20 and 25 mph."
+    },
+    "es": {
+      "q": "En New Jersey, ¿qué es un vehículo de baja velocidad (low-speed vehicle o LSV)?",
+      "o": [
+        "Cualquier carro que va por debajo del límite de velocidad",
+        "Un vehículo de cuatro ruedas con velocidad máxima de más de 20 mph pero no más de 25 mph",
+        "Una bicicleta de dos ruedas con pedales y motor",
+        "Un camión con velocidad máxima de 45 mph"
+      ],
+      "h1": "Tiene cuatro ruedas y no puede ir a más de 25 mph.",
+      "h2": "En New Jersey, un vehículo de baja velocidad tiene cuatro ruedas, una velocidad máxima de más de 20 mph pero no más de 25 mph, y no puede usar gasolina ni diésel.",
+      "p": "Correcto. Un LSV tiene cuatro ruedas y su máximo está entre 20 y 25 mph."
+    }
+  },
+  {
+    "id": "nj-177",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 153,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, how far can a train stick out past the rails on each side?",
+      "o": [
+        "Not at all; it is exactly as wide as the rails",
+        "About one inch",
+        "Three feet or more",
+        "Only on curves"
+      ],
+      "h1": "A train is wider than the track it runs on.",
+      "h2": "In New Jersey, a train can be three or more feet wider than the tracks on each side, so stop well back from the rails.",
+      "p": "Right. A train can stick out three feet or more on each side."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuánto puede sobresalir un tren de los rieles a cada lado?",
+      "o": [
+        "Nada; es exactamente tan ancho como los rieles",
+        "Más o menos una pulgada",
+        "Tres pies o más",
+        "Solo en las curvas"
+      ],
+      "h1": "Un tren es más ancho que la vía sobre la que corre.",
+      "h2": "En New Jersey, un tren puede ser tres pies o más más ancho que la vía a cada lado, así que deténgase bien lejos de los rieles.",
+      "p": "Correcto. Un tren puede sobresalir tres pies o más a cada lado."
+    }
+  },
+  {
+    "id": "nj-178",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 153,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, you drive a car with a manual (stick shift) transmission. What should you avoid while crossing railroad tracks?",
+      "o": [
+        "Looking both ways",
+        "Keeping both hands on the wheel",
+        "Listening for a train",
+        "Shifting gears"
+      ],
+      "h1": "A missed shift could stall the car on the tracks.",
+      "h2": "In New Jersey, if you drive a stick shift, do not shift gears while crossing railroad tracks.",
+      "p": "Right. Do not shift gears on the tracks."
+    },
+    "es": {
+      "q": "En New Jersey, usted maneja un carro de transmisión manual (de cambios). ¿Qué debe evitar al cruzar la vía del tren?",
+      "o": [
+        "Mirar a ambos lados",
+        "Tener las dos manos en el volante",
+        "Escuchar si viene un tren",
+        "Cambiar de velocidad"
+      ],
+      "h1": "Un cambio fallido podría apagar el carro sobre la vía.",
+      "h2": "En New Jersey, si maneja un carro de cambios, no cambie de velocidad mientras cruza la vía del tren.",
+      "p": "Correcto. No cambie de velocidad sobre la vía."
+    }
+  },
+  {
+    "id": "nj-179",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 154,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, may a registered ATV, dirt bike or snowmobile ride along public roads with other traffic?",
+      "o": [
+        "No, but it may cross certain roads when it is safe",
+        "Yes, on any road",
+        "Yes, but only at night",
+        "Yes, if it stays on the shoulder"
+      ],
+      "h1": "They are not allowed to travel with traffic, only to get across.",
+      "h2": "In New Jersey, ATVs, dirt bikes and snowmobiles may not ride on public roads with other vehicles, but they may cross certain roads when it is safe.",
+      "p": "Right. They may cross some roads, but not ride along them."
+    },
+    "es": {
+      "q": "En New Jersey, ¿puede un ATV (cuatrimoto), una moto de tierra o una moto de nieve registrada andar por calles públicas con el resto del tráfico?",
+      "o": [
+        "No, pero puede cruzar ciertas calles cuando sea seguro",
+        "Sí, en cualquier calle",
+        "Sí, pero solo de noche",
+        "Sí, si se queda en el acotamiento"
+      ],
+      "h1": "No se les permite andar con el tráfico, solo cruzar.",
+      "h2": "En New Jersey, los ATV, las motos de tierra y las motos de nieve no pueden andar por calles públicas con otros vehículos, pero sí pueden cruzar ciertas calles cuando sea seguro.",
+      "p": "Correcto. Pueden cruzar algunas calles, pero no andar por ellas."
+    }
+  },
+  {
+    "id": "nj-180",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 158,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, how long is the first registration of a brand-new vehicle valid?",
+      "o": [
+        "One month",
+        "Four years",
+        "Ten years",
+        "For as long as you own it"
+      ],
+      "h1": "Most other registrations last one year; a brand-new car gets longer.",
+      "h2": "In New Jersey, the first registration of a brand-new vehicle is valid for four years; most other registrations last one year.",
+      "p": "Right. A brand-new vehicle's first registration lasts four years."
+    },
+    "es": {
+      "q": "En New Jersey, ¿por cuánto tiempo es válido el primer registro de un vehículo nuevo?",
+      "o": [
+        "Un mes",
+        "Cuatro años",
+        "Diez años",
+        "Mientras usted sea el dueño"
+      ],
+      "h1": "La mayoría de los otros registros duran un año; un carro nuevo recibe más tiempo.",
+      "h2": "En New Jersey, el primer registro de un vehículo nuevo es válido por cuatro años; la mayoría de los otros registros duran un año.",
+      "p": "Correcto. El primer registro de un vehículo nuevo dura cuatro años."
+    }
+  },
+  {
+    "id": "nj-181",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 159,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, you put a cover on your license plate that hides some of the letters. What fine can you get?",
+      "o": [
+        "No fine; covers are allowed",
+        "Up to $5",
+        "Up to $100",
+        "Up to $10,000"
+      ],
+      "h1": "It is a fine of up to a hundred dollars.",
+      "h2": "In New Jersey, a license plate cover or holder that hides any lettering on the plate is a violation with a fine of up to $100.",
+      "p": "Right. The fine is up to $100."
+    },
+    "es": {
+      "q": "En New Jersey, usted pone una cubierta en su placa que tapa algunas letras. ¿Qué multa puede recibir?",
+      "o": [
+        "Ninguna multa; las cubiertas están permitidas",
+        "Hasta $5",
+        "Hasta $100",
+        "Hasta $10,000"
+      ],
+      "h1": "Es una multa de hasta cien dólares.",
+      "h2": "En New Jersey, una cubierta o marco de placa que tapa cualquier letra de la placa es una infracción con una multa de hasta $100.",
+      "p": "Correcto. La multa es de hasta $100."
+    }
+  },
+  {
+    "id": "nj-182",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 160,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, how often must a gasoline vehicle with commercial registration be inspected?",
+      "o": [
+        "Every two years",
+        "Every ten years",
+        "Never",
+        "Every year"
+      ],
+      "h1": "It is more often than for a passenger car.",
+      "h2": "In New Jersey, gasoline vehicles with commercial registration must be inspected every year.",
+      "p": "Right. Commercial vehicles are inspected every year."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cada cuánto debe inspeccionarse un vehículo de gasolina con registro comercial?",
+      "o": [
+        "Cada dos años",
+        "Cada diez años",
+        "Nunca",
+        "Cada año"
+      ],
+      "h1": "Es más seguido que para un carro de pasajeros.",
+      "h2": "En New Jersey, los vehículos de gasolina con registro comercial deben inspeccionarse cada año.",
+      "p": "Correcto. Los vehículos comerciales se inspeccionan cada año."
+    }
+  },
+  {
+    "id": "nj-183",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 161,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, a police officer stops you and asks for your insurance ID card. May you show it on your phone?",
+      "o": [
+        "Yes, an electronic insurance ID card is accepted",
+        "No, only a paper card is accepted",
+        "No, you must bring it to court later",
+        "Only if you also show a utility bill"
+      ],
+      "h1": "The state accepts a digital version.",
+      "h2": "In New Jersey, your insurance ID card must be in the vehicle and shown when asked, and an electronic version is accepted.",
+      "p": "Right. An electronic insurance ID card is accepted."
+    },
+    "es": {
+      "q": "En New Jersey, un policía lo detiene y le pide su tarjeta de identificación del seguro. ¿Puede mostrarla en su teléfono?",
+      "o": [
+        "Sí, se acepta una tarjeta de seguro electrónica",
+        "No, solo se acepta una tarjeta de papel",
+        "No, debe llevarla al tribunal después",
+        "Solo si también muestra una factura de servicios"
+      ],
+      "h1": "El estado acepta una versión digital.",
+      "h2": "En New Jersey, su tarjeta de identificación del seguro debe estar en el vehículo y mostrarse cuando la pidan, y se acepta una versión electrónica.",
+      "p": "Correcto. Se acepta una tarjeta de seguro electrónica."
+    }
+  },
+  {
+    "id": "nj-184",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 170,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, how many license plates does a motorcycle get, and where does it go?",
+      "o": [
+        "Two plates, front and rear",
+        "One plate, on the rear",
+        "One plate, on the front",
+        "None; motorcycles do not need plates"
+      ],
+      "h1": "Cars get two plates, but a motorcycle is different.",
+      "h2": "In New Jersey, a motorcycle gets one license plate, which must always be shown on the rear.",
+      "p": "Right. A motorcycle has one plate, on the back."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuántas placas recibe una motocicleta y dónde va?",
+      "o": [
+        "Dos placas, adelante y atrás",
+        "Una placa, atrás",
+        "Una placa, adelante",
+        "Ninguna; las motocicletas no necesitan placa"
+      ],
+      "h1": "Los carros reciben dos placas, pero la motocicleta es diferente.",
+      "h2": "En New Jersey, una motocicleta recibe una placa, que siempre debe mostrarse en la parte de atrás.",
+      "p": "Correcto. Una motocicleta tiene una placa, atrás."
+    }
+  },
+  {
+    "id": "nj-185",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 99,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, what following distance is a good rule on snow-covered roads?",
+      "o": [
+        "One second",
+        "Two seconds",
+        "Six seconds or more",
+        "Half a second"
+      ],
+      "h1": "It is more than the four seconds for wet roads.",
+      "h2": "In New Jersey, a good rule on snow-covered roads is to stay at least six seconds behind the vehicle ahead.",
+      "p": "Right. Keep six seconds or more on snow."
+    },
+    "es": {
+      "q": "En New Jersey, ¿qué distancia de seguimiento es una buena regla en calles cubiertas de nieve?",
+      "o": [
+        "Un segundo",
+        "Dos segundos",
+        "Seis segundos o más",
+        "Medio segundo"
+      ],
+      "h1": "Es más que los cuatro segundos para calles mojadas.",
+      "h2": "En New Jersey, una buena regla en calles cubiertas de nieve es mantenerse al menos seis segundos detrás del vehículo de adelante.",
+      "p": "Correcto. Mantenga seis segundos o más en la nieve."
+    }
+  },
+  {
+    "id": "nj-186",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 97,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, above what speed can your tires completely leave the road surface on a wet road?",
+      "o": [
+        "5 mph",
+        "15 mph",
+        "100 mph",
+        "55 mph"
+      ],
+      "h1": "Hydroplaning starts around 35 mph; total loss of contact comes at a higher speed.",
+      "h2": "In New Jersey, hydroplaning can start at about 35 mph, and above 55 mph the tires may totally leave the road, so braking and steering no longer work.",
+      "p": "Right. Above 55 mph, tires may totally leave the road."
+    },
+    "es": {
+      "q": "En New Jersey, ¿a partir de qué velocidad las llantas pueden separarse por completo de una calle mojada?",
+      "o": [
+        "5 mph",
+        "15 mph",
+        "100 mph",
+        "55 mph"
+      ],
+      "h1": "El hidroplaneo empieza cerca de 35 mph; la pérdida total de contacto llega a una velocidad más alta.",
+      "h2": "En New Jersey, el hidroplaneo puede empezar a unas 35 mph, y a más de 55 mph las llantas pueden separarse por completo de la calle, así que frenar y girar ya no funcionan.",
+      "p": "Correcto. A más de 55 mph, las llantas pueden separarse por completo."
+    }
+  },
+  {
+    "id": "nj-187",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 103,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, a work zone may be marked by a warning sign or flashing lights up to how far before the work area?",
+      "o": [
+        "10 feet",
+        "Half a mile",
+        "50 feet",
+        "20 miles"
+      ],
+      "h1": "It is a fraction of a mile.",
+      "h2": "In New Jersey, a work zone is marked by an advance warning sign or flashing lights on a vehicle up to half a mile before the work area, and fines are doubled inside it.",
+      "p": "Right. The warning can come up to half a mile ahead."
+    },
+    "es": {
+      "q": "En New Jersey, ¿hasta qué distancia antes del área de trabajo puede estar marcada una zona de trabajo con una señal de advertencia o luces intermitentes?",
+      "o": [
+        "10 pies",
+        "Media milla",
+        "50 pies",
+        "20 millas"
+      ],
+      "h1": "Es una fracción de milla.",
+      "h2": "En New Jersey, una zona de trabajo se marca con una señal de advertencia o luces intermitentes en un vehículo hasta media milla antes del área de trabajo, y las multas se duplican dentro de ella.",
+      "p": "Correcto. La advertencia puede estar hasta media milla antes."
+    }
+  },
+  {
+    "id": "nj-188",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 104,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, why must you never turn the ignition key to the lock position while the car is moving?",
+      "o": [
+        "The radio will stop working",
+        "The car will stop at once safely",
+        "The steering wheel can lock and you lose control",
+        "The seat belts will unlock"
+      ],
+      "h1": "Think of what the lock position does to the steering.",
+      "h2": "In New Jersey, never turn the ignition to lock while the car is moving, because the steering will lock and you will lose control.",
+      "p": "Right. The steering can lock and you lose control."
+    },
+    "es": {
+      "q": "En New Jersey, ¿por qué nunca debe girar la llave del encendido a la posición de bloqueo (lock) mientras el carro está en movimiento?",
+      "o": [
+        "El radio dejará de funcionar",
+        "El carro se detendrá de inmediato de forma segura",
+        "El volante se puede trabar y usted pierde el control",
+        "Los cinturones de seguridad se soltarán"
+      ],
+      "h1": "Piense en lo que la posición de bloqueo le hace al volante.",
+      "h2": "En New Jersey, nunca gire el encendido a la posición de bloqueo mientras el carro se mueve, porque el volante se trabará y usted perderá el control.",
+      "p": "Correcto. El volante se puede trabar y usted pierde el control."
+    }
+  },
+  {
+    "id": "nj-189",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 107,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, a front tire blows out while you are driving. What should you do?",
+      "o": [
+        "Brake as hard as you can",
+        "Turn sharply to the shoulder at once",
+        "Speed up to keep the car straight",
+        "Hold the wheel firmly, take your foot off the gas, and slow down without braking"
+      ],
+      "h1": "Keep the car straight and let it coast.",
+      "h2": "In New Jersey, after a blowout you should hold the wheel firmly, keep the car straight, take your foot off the gas and not use the brakes, letting the car coast to a safe stop off the road.",
+      "p": "Right. Hold the wheel, ease off the gas, and do not brake."
+    },
+    "es": {
+      "q": "En New Jersey, una llanta delantera revienta mientras usted maneja. ¿Qué debe hacer?",
+      "o": [
+        "Frenar lo más fuerte que pueda",
+        "Girar bruscamente hacia el acotamiento de inmediato",
+        "Acelerar para mantener el carro derecho",
+        "Sujetar firme el volante, quitar el pie del acelerador y bajar la velocidad sin frenar"
+      ],
+      "h1": "Mantenga el carro derecho y déjelo rodar.",
+      "h2": "En New Jersey, después de que revienta una llanta debe sujetar firme el volante, mantener el carro derecho, quitar el pie del acelerador y no usar los frenos, dejando que el carro se detenga solo en un lugar seguro fuera de la calle.",
+      "p": "Correcto. Sujete el volante, suelte el acelerador y no frene."
+    }
+  },
+  {
+    "id": "nj-190",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 165,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, a low-speed motorcycle (under 50cc, top speed 35 mph) may NOT be ridden on which roads?",
+      "o": [
+        "Any road in a town",
+        "Roads with a posted speed limit over 35 mph, toll roads and limited-access highways",
+        "Roads with a speed limit of 25 mph",
+        "Any road during the day"
+      ],
+      "h1": "Its top speed tells you which roads are too fast for it.",
+      "h2": "In New Jersey, a low-speed motorcycle may not be ridden on any state toll road, limited-access highway or road with a posted limit over 35 mph; a basic license is enough to ride one.",
+      "p": "Right. It may not use roads posted over 35 mph, toll roads or limited-access highways."
+    },
+    "es": {
+      "q": "En New Jersey, una motocicleta de baja velocidad (menos de 50cc, velocidad máxima de 35 mph), ¿en qué calles NO puede usarse?",
+      "o": [
+        "Cualquier calle de un pueblo",
+        "Calles con límite de velocidad de más de 35 mph, autopistas de peaje y autopistas de acceso limitado",
+        "Calles con límite de 25 mph",
+        "Cualquier calle durante el día"
+      ],
+      "h1": "Su velocidad máxima le dice qué calles son demasiado rápidas para ella.",
+      "h2": "En New Jersey, una motocicleta de baja velocidad no puede usarse en autopistas estatales de peaje, autopistas de acceso limitado ni calles con límite de más de 35 mph; basta una licencia básica para manejarla.",
+      "p": "Correcto. No puede usar calles de más de 35 mph, autopistas de peaje ni de acceso limitado."
+    }
+  },
+  {
+    "id": "nj-191",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 165,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, you pass the MVC motorcycle road test on a 200cc motorcycle and did not take a safety course. What restriction goes on your license?",
+      "o": [
+        "You may ride only in daylight for life",
+        "You may ride only motorcycles of 200cc or less",
+        "You may ride only motorcycles of 500cc or less",
+        "There is no restriction"
+      ],
+      "h1": "A test on a small bike (231cc or less) limits you to mid-size bikes.",
+      "h2": "In New Jersey, if you take the MVC road test on a motorcycle of 231cc or less, your license is restricted to motorcycles of 500cc or less, unless you finished an approved safety course.",
+      "p": "Right. You are limited to 500cc or less."
+    },
+    "es": {
+      "q": "En New Jersey, usted aprueba el examen práctico de motocicleta de la MVC en una motocicleta de 200cc y no tomó un curso de seguridad. ¿Qué restricción tendrá su licencia?",
+      "o": [
+        "Solo puede manejar de día por toda la vida",
+        "Solo puede manejar motocicletas de 200cc o menos",
+        "Solo puede manejar motocicletas de 500cc o menos",
+        "No hay ninguna restricción"
+      ],
+      "h1": "Un examen en una moto pequeña (231cc o menos) lo limita a motos medianas.",
+      "h2": "En New Jersey, si toma el examen práctico de la MVC en una motocicleta de 231cc o menos, su licencia queda limitada a motocicletas de 500cc o menos, a menos que haya terminado un curso de seguridad aprobado.",
+      "p": "Correcto. Queda limitado a 500cc o menos."
+    }
+  },
+  {
+    "id": "nj-192",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 164,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, a 17-year-old wants a motorcycle endorsement. What must they complete first?",
+      "o": [
+        "Nothing; age 17 is enough",
+        "A truck driving course",
+        "Five years of car driving",
+        "The Motorcycle Safety Education Program Basic Rider Course"
+      ],
+      "h1": "Riders under 18 must take a training course.",
+      "h2": "In New Jersey, anyone under 18 must take the Motorcycle Safety Education Program Basic Rider Course before getting a motorcycle endorsement.",
+      "p": "Right. Riders under 18 must take the Basic Rider Course."
+    },
+    "es": {
+      "q": "En New Jersey, una persona de 17 años quiere un endoso de motocicleta. ¿Qué debe completar primero?",
+      "o": [
+        "Nada; tener 17 años es suficiente",
+        "Un curso para manejar camiones",
+        "Cinco años de manejar carro",
+        "El Basic Rider Course (curso básico) del Motorcycle Safety Education Program"
+      ],
+      "h1": "Los menores de 18 años deben tomar un curso de entrenamiento.",
+      "h2": "En New Jersey, toda persona menor de 18 años debe tomar el Basic Rider Course del Motorcycle Safety Education Program antes de recibir un endoso de motocicleta.",
+      "p": "Correcto. Los menores de 18 años deben tomar el Basic Rider Course."
+    }
+  },
+  {
+    "id": "nj-193",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 169,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, what is the youngest age to get a motorcycle permit?",
+      "o": [
+        "17, with a parent or guardian's consent if under 18",
+        "14",
+        "15, with a parent's consent",
+        "21"
+      ],
+      "h1": "It is a year after the age for a car learner permit.",
+      "h2": "In New Jersey, you must be at least 17 to get a motorcycle permit, and a parent or guardian must consent if you are under 18.",
+      "p": "Right. You must be at least 17."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuál es la edad mínima para obtener un permiso de motocicleta?",
+      "o": [
+        "17 años, con el permiso de un padre o tutor si es menor de 18",
+        "14 años",
+        "15 años, con el permiso de un padre",
+        "21 años"
+      ],
+      "h1": "Es un año después de la edad del permiso especial para carro.",
+      "h2": "En New Jersey, debe tener al menos 17 años para obtener un permiso de motocicleta, y un padre o tutor debe dar su permiso si es menor de 18.",
+      "p": "Correcto. Debe tener al menos 17 años."
+    }
+  },
+  {
+    "id": "nj-194",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 166,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, if you do not take a Basic Rider Course, how old must you be to take the MVC motorcycle road test?",
+      "o": [
+        "At least 15",
+        "At least 18",
+        "At least 16",
+        "At least 25"
+      ],
+      "h1": "You can get the permit at 17, but the MVC test comes later.",
+      "h2": "In New Jersey, without a Basic Rider Course you must be at least 18 to take the MVC motorcycle road test.",
+      "p": "Right. You must be at least 18."
+    },
+    "es": {
+      "q": "En New Jersey, si no toma un Basic Rider Course, ¿qué edad debe tener para tomar el examen práctico de motocicleta de la MVC?",
+      "o": [
+        "Al menos 15 años",
+        "Al menos 18 años",
+        "Al menos 16 años",
+        "Al menos 25 años"
+      ],
+      "h1": "Puede obtener el permiso a los 17, pero el examen de la MVC viene después.",
+      "h2": "En New Jersey, sin un Basic Rider Course debe tener al menos 18 años para tomar el examen práctico de motocicleta de la MVC.",
+      "p": "Correcto. Debe tener al menos 18 años."
+    }
+  },
+  {
+    "id": "nj-195",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 166,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, you have a basic driver license and want a motorcycle endorsement without a rider course. At least how long must you practice with your motorcycle permit before the road test?",
+      "o": [
+        "1 day",
+        "90 days",
+        "20 days",
+        "2 years"
+      ],
+      "h1": "It is a few weeks.",
+      "h2": "In New Jersey, a licensed driver adding a motorcycle endorsement without a rider course must practice with a motorcycle permit for at least 20 days before the road test.",
+      "p": "Right. You must practice for at least 20 days."
+    },
+    "es": {
+      "q": "En New Jersey, usted tiene una licencia básica de manejo y quiere un endoso de motocicleta sin tomar un curso. ¿Por cuánto tiempo, como mínimo, debe practicar con su permiso de motocicleta antes del examen práctico?",
+      "o": [
+        "1 día",
+        "90 días",
+        "20 días",
+        "2 años"
+      ],
+      "h1": "Son unas pocas semanas.",
+      "h2": "En New Jersey, un conductor con licencia que quiere agregar un endoso de motocicleta sin tomar un curso debe practicar con un permiso de motocicleta por al menos 20 días antes del examen práctico.",
+      "p": "Correcto. Debe practicar al menos 20 días."
+    }
+  },
+  {
+    "id": "nj-196",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 169,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, may a rider with a motorcycle permit carry a passenger?",
+      "o": [
+        "Yes, any passenger",
+        "Yes, if the passenger is under 18",
+        "Yes, but only on toll roads",
+        "No, permit holders may not carry passengers"
+      ],
+      "h1": "The permit has limits on night riding, highways and who rides along.",
+      "h2": "In New Jersey, a motorcycle permit holder may not carry passengers, ride from half an hour after sunset to half an hour before sunrise, or use toll roads and limited-access highways.",
+      "p": "Right. Permit holders may not carry passengers."
+    },
+    "es": {
+      "q": "En New Jersey, ¿puede un motociclista con permiso de motocicleta llevar un pasajero?",
+      "o": [
+        "Sí, a cualquier pasajero",
+        "Sí, si el pasajero es menor de 18 años",
+        "Sí, pero solo en autopistas de peaje",
+        "No, quien tiene permiso no puede llevar pasajeros"
+      ],
+      "h1": "El permiso tiene límites sobre manejar de noche, las autopistas y quién viaja con usted.",
+      "h2": "En New Jersey, quien tiene permiso de motocicleta no puede llevar pasajeros, manejar desde media hora después de la puesta del sol hasta media hora antes de la salida del sol, ni usar autopistas de peaje o de acceso limitado.",
+      "p": "Correcto. Quien tiene permiso no puede llevar pasajeros."
+    }
+  },
+  {
+    "id": "nj-197",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 173,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, who on a motorcycle must wear a helmet?",
+      "o": [
+        "Both the operator and any passenger",
+        "Only the operator",
+        "Only riders under 18",
+        "No one; helmets are optional"
+      ],
+      "h1": "The law covers everyone on the bike, and the operator can be fined for a bare-headed passenger.",
+      "h2": "In New Jersey, helmets are required by law for motorcycle operators and passengers, and an operator can be fined for carrying a passenger without one.",
+      "p": "Right. Both operator and passenger must wear helmets."
+    },
+    "es": {
+      "q": "En New Jersey, ¿quién debe usar casco en una motocicleta?",
+      "o": [
+        "Tanto el conductor como cualquier pasajero",
+        "Solo el conductor",
+        "Solo los menores de 18 años",
+        "Nadie; el casco es opcional"
+      ],
+      "h1": "La ley cubre a todos en la moto, y al conductor lo pueden multar si el pasajero va sin casco.",
+      "h2": "En New Jersey, la ley exige casco al conductor de la motocicleta y a los pasajeros, y al conductor lo pueden multar si lleva a un pasajero sin casco.",
+      "p": "Correcto. Tanto el conductor como el pasajero deben usar casco."
+    }
+  },
+  {
+    "id": "nj-198",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 174,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, a motorcycle has no windscreen. What must the operator wear to protect the eyes?",
+      "o": [
+        "Nothing; eye protection is optional",
+        "Approved goggles or a face shield",
+        "Regular sunglasses are enough",
+        "Only eyeglasses at night"
+      ],
+      "h1": "Glasses and sunglasses do not count.",
+      "h2": "In New Jersey, a motorcycle operator must wear approved goggles or a face shield unless the motorcycle has a windscreen.",
+      "p": "Right. Wear approved goggles or a face shield."
+    },
+    "es": {
+      "q": "En New Jersey, una motocicleta no tiene parabrisas. ¿Qué debe usar el conductor para proteger los ojos?",
+      "o": [
+        "Nada; la protección de los ojos es opcional",
+        "Gafas protectoras (goggles) o un protector facial aprobados",
+        "Basta con lentes de sol comunes",
+        "Solo anteojos de noche"
+      ],
+      "h1": "Los anteojos y los lentes de sol no cuentan.",
+      "h2": "En New Jersey, el conductor de una motocicleta debe usar gafas protectoras o un protector facial aprobados, a menos que la motocicleta tenga parabrisas.",
+      "p": "Correcto. Use gafas protectoras o un protector facial aprobados."
+    }
   }
 ]
