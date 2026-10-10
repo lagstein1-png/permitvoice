@@ -2130,5 +2130,175 @@
       "h2": "في Oregon لا يجوز لك الوقوف على بعد أقل من 10 أقدام من صنبور إطفاء الحريق.",
       "p": "صحيح. ابقَ على بعد 10 أقدام على الأقل من صنبور إطفاء الحريق."
     }
+  },
+  {
+    "id": "or-027",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 71,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, how close to a crosswalk at an intersection may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 20 feet",
+        "No closer than 50 feet"
+      ],
+      "h1": "It is about the length of one large car.",
+      "h2": "In Oregon you may not park within 20 feet of a crosswalk at an intersection, marked or not.",
+      "p": "Right. Stay at least 20 feet from a crosswalk at an intersection."
+    },
+    "es": {
+      "q": "En Oregon, ¿qué tan cerca de un cruce peatonal en una intersección puede estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 10 pies",
+        "No más cerca de 20 pies",
+        "No más cerca de 50 pies"
+      ],
+      "h1": "Es más o menos el largo de un carro grande.",
+      "h2": "En Oregon usted no puede estacionarse a menos de 20 pies de un cruce peatonal en una intersección, esté marcado o no.",
+      "p": "Correcto. Manténgase por lo menos a 20 pies de un cruce peatonal en una intersección."
+    }
+  },
+  {
+    "id": "or-028",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 64,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, you must stop at a railroad crossing that has no stop line. Where do you stop?",
+      "o": [
+        "At least 15 feet from the nearest rail",
+        "At least 5 feet from the nearest rail",
+        "Right next to the first rail",
+        "At least 100 feet from the tracks"
+      ],
+      "h1": "Leave room so a train cannot hit the front of your car.",
+      "h2": "In Oregon, when a railroad crossing has no stop line, you must stop at least 15 feet from the nearest rail.",
+      "p": "Right. With no stop line, stop at least 15 feet from the nearest rail."
+    },
+    "es": {
+      "q": "En Oregon, usted debe detenerse en un cruce de ferrocarril que no tiene línea de alto. ¿Dónde se detiene?",
+      "o": [
+        "Por lo menos a 15 pies del riel más cercano",
+        "Por lo menos a 5 pies del riel más cercano",
+        "Justo al lado del primer riel",
+        "Por lo menos a 100 pies de las vías"
+      ],
+      "h1": "Deje espacio para que el tren no golpee el frente de su carro.",
+      "h2": "En Oregon, cuando un cruce de ferrocarril no tiene línea de alto, usted debe detenerse por lo menos a 15 pies del riel más cercano.",
+      "p": "Correcto. Sin línea de alto, deténgase por lo menos a 15 pies del riel más cercano."
+    }
+  },
+  {
+    "id": "or-029",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 58,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, you pulled over for a fire truck with its siren on. After it passes, how far behind it must you stay?",
+      "o": [
+        "At least 50 feet",
+        "At least 100 feet",
+        "At least 200 feet",
+        "At least 500 feet"
+      ],
+      "h1": "Give it plenty of room, because it may stop or turn suddenly.",
+      "h2": "In Oregon, after an emergency vehicle passes, you must stay at least 500 feet behind it.",
+      "p": "Right. Stay at least 500 feet behind an emergency vehicle."
+    },
+    "es": {
+      "q": "En Oregon, usted se orilló para dejar pasar a un camión de bomberos con la sirena prendida. Después de que pasa, ¿a qué distancia detrás de él debe quedarse?",
+      "o": [
+        "Por lo menos a 50 pies",
+        "Por lo menos a 100 pies",
+        "Por lo menos a 200 pies",
+        "Por lo menos a 500 pies"
+      ],
+      "h1": "Dele mucho espacio, porque puede detenerse o dar vuelta de repente.",
+      "h2": "En Oregon, después de que pasa un vehículo de emergencia, usted debe quedarse por lo menos a 500 pies detrás de él.",
+      "p": "Correcto. Quédese por lo menos a 500 pies detrás de un vehículo de emergencia."
+    }
+  },
+  {
+    "id": "or-030",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 76,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, you are using your high beams. A car is coming toward you. When must you dim your lights?",
+      "o": [
+        "When it is within 100 feet",
+        "When it is within 500 feet",
+        "When it is within 1,000 feet",
+        "Only if the other driver flashes their lights"
+      ],
+      "h1": "Switch early, so the other driver is not blinded.",
+      "h2": "In Oregon you must dim your high beams when an oncoming vehicle is within 500 feet.",
+      "p": "Right. Dim your high beams when an oncoming car is within 500 feet."
+    },
+    "es": {
+      "q": "En Oregon, usted lleva las luces altas prendidas. Un carro viene hacia usted. ¿Cuándo debe bajar las luces?",
+      "o": [
+        "Cuando esté a menos de 100 pies",
+        "Cuando esté a menos de 500 pies",
+        "Cuando esté a menos de 1,000 pies",
+        "Solo si el otro conductor le hace cambio de luces"
+      ],
+      "h1": "Cambie temprano, para no deslumbrar al otro conductor.",
+      "h2": "En Oregon usted debe bajar las luces altas cuando un vehículo que viene de frente está a menos de 500 pies.",
+      "p": "Correcto. Baje las luces altas cuando un carro de frente esté a menos de 500 pies."
+    }
+  },
+  {
+    "id": "or-031",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, inside city limits, you may not make a U-turn where traffic from either direction cannot see your car from how far away?",
+      "o": [
+        "100 feet",
+        "250 feet",
+        "500 feet",
+        "1,000 feet"
+      ],
+      "h1": "Outside city limits the distance is twice as far.",
+      "h2": "In Oregon, inside city limits, you may not make a U-turn where traffic from either direction cannot see your car within 500 feet.",
+      "p": "Right. In a city, other drivers must be able to see you from 500 feet."
+    },
+    "es": {
+      "q": "En Oregon, dentro de los límites de una ciudad, no puede dar una vuelta en U donde el tráfico de cualquier dirección no puede ver su carro desde ¿qué distancia?",
+      "o": [
+        "100 pies",
+        "250 pies",
+        "500 pies",
+        "1,000 pies"
+      ],
+      "h1": "Fuera de la ciudad la distancia es el doble.",
+      "h2": "En Oregon, dentro de los límites de una ciudad, usted no puede dar una vuelta en U donde el tráfico de cualquier dirección no puede ver su carro a 500 pies.",
+      "p": "Correcto. En la ciudad, los otros conductores deben poder verlo desde 500 pies."
+    }
   }
 ]
