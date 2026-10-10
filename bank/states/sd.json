@@ -2212,5 +2212,141 @@
       "h2": "في South Dakota يجب أن يجلس الأطفال دون 5 سنوات في مقعد أمان للأطفال، لكن الطفل دون 5 سنوات الذي يزن 40 رطلًا على الأقل يمكنه استخدام حزام الأمان.",
       "p": "صحيح. الأطفال دون 5 سنوات يحتاجون إلى مقعد أمان للأطفال إلا إذا كان وزنهم 40 رطلًا أو أكثر."
     }
+  },
+  {
+    "id": "sd-028",
+    "scope": "SD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 12,
+    "src": "https://www.sd.gov/sys_attachment.do?sys_id=d8e0b08e47bd0390a497127ba26d4348",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In South Dakota, how long is a driver license valid?",
+      "o": [
+        "2 years",
+        "4 years",
+        "8 years",
+        "5 years"
+      ],
+      "h1": "It is the same length of time as the instruction permit.",
+      "h2": "In South Dakota, a driver license is valid for 5 years and expires on your birthday.",
+      "p": "Right. Five years."
+    },
+    "es": {
+      "q": "En Dakota del Sur, ¿por cuánto tiempo es válida una licencia de conducir?",
+      "o": [
+        "2 años",
+        "4 años",
+        "8 años",
+        "5 años"
+      ],
+      "h1": "Es el mismo tiempo que el permiso de aprendizaje.",
+      "h2": "En Dakota del Sur, una licencia de conducir es válida por 5 años y vence el día de su cumpleaños.",
+      "p": "Correcto. Cinco años."
+    }
+  },
+  {
+    "id": "sd-029",
+    "scope": "SD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 12,
+    "src": "https://www.sd.gov/sys_attachment.do?sys_id=d8e0b08e47bd0390a497127ba26d4348",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In South Dakota, you renew a driver license that has already expired. Which test must you take besides the vision test?",
+      "o": [
+        "The knowledge test",
+        "The road skills test",
+        "A hearing test",
+        "No other test"
+      ],
+      "h1": "It is the written test about road rules.",
+      "h2": "In South Dakota, if the license you turn in has expired, you must pass the knowledge test as well as the vision test.",
+      "p": "Right. The knowledge test too."
+    },
+    "es": {
+      "q": "En Dakota del Sur, usted renueva una licencia que ya está vencida. ¿Qué examen debe tomar además del de la vista?",
+      "o": [
+        "El examen de conocimientos",
+        "El examen práctico de manejo",
+        "Un examen de audición",
+        "Ningún otro examen"
+      ],
+      "h1": "Es el examen escrito sobre las reglas de tránsito.",
+      "h2": "En Dakota del Sur, si la licencia que entrega está vencida, debe aprobar el examen de conocimientos además del examen de la vista.",
+      "p": "Correcto. También el de conocimientos."
+    }
+  },
+  {
+    "id": "sd-030",
+    "scope": "SD",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 43,
+    "src": "https://www.sd.gov/sys_attachment.do?sys_id=d8e0b08e47bd0390a497127ba26d4348",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In South Dakota, you park on a rural highway. How much road width must you leave for other traffic to pass?",
+      "o": [
+        "At least 5 feet",
+        "At least 10 feet",
+        "At least 15 feet",
+        "At least 30 feet"
+      ],
+      "h1": "Other cars must still fit past you safely.",
+      "h2": "In South Dakota, when you park on a rural highway you must leave at least 15 feet of road width for other traffic to pass.",
+      "p": "Right. At least 15 feet."
+    },
+    "es": {
+      "q": "En Dakota del Sur, usted se estaciona en una carretera rural. ¿Cuánto ancho de camino debe dejar para que pase el resto del tráfico?",
+      "o": [
+        "Al menos 5 pies",
+        "Al menos 10 pies",
+        "Al menos 15 pies",
+        "Al menos 30 pies"
+      ],
+      "h1": "Los otros autos todavía deben poder pasar con seguridad.",
+      "h2": "En Dakota del Sur, cuando se estaciona en una carretera rural debe dejar al menos 15 pies de ancho de camino para que pase el resto del tráfico.",
+      "p": "Correcto. Al menos 15 pies."
+    }
+  },
+  {
+    "id": "sd-031",
+    "scope": "SD",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 51,
+    "src": "https://www.sd.gov/sys_attachment.do?sys_id=d8e0b08e47bd0390a497127ba26d4348",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In South Dakota, what is the smallest following distance the manual says to keep behind the vehicle ahead?",
+      "o": [
+        "2 seconds",
+        "4 seconds",
+        "1 second",
+        "6 seconds"
+      ],
+      "h1": "Count \"one thousand one, one thousand two...\" after the car ahead passes a pole.",
+      "h2": "In South Dakota, the manual says to keep a following distance of at least 4 seconds behind the vehicle in front.",
+      "p": "Right. At least 4 seconds."
+    },
+    "es": {
+      "q": "En Dakota del Sur, ¿cuál es la distancia mínima que, según el manual, debe dejar detrás del vehículo de adelante?",
+      "o": [
+        "2 segundos",
+        "4 segundos",
+        "1 segundo",
+        "6 segundos"
+      ],
+      "h1": "Cuente \"mil uno, mil dos...\" después de que el auto de adelante pase un poste.",
+      "h2": "En Dakota del Sur, el manual dice que debe mantener una distancia de al menos 4 segundos detrás del vehículo de adelante.",
+      "p": "Correcto. Al menos 4 segundos."
+    }
   }
 ]
