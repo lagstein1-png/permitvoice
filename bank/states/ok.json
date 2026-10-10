@@ -1097,6 +1097,54 @@
       "h1": "Las autopistas de peaje tienen el límite más alto de la tabla del estado.",
       "h2": "En Oklahoma, el límite de velocidad en una autopista de peaje es de 80 mph, a menos que una señal indique otro límite.",
       "p": "Correcto. En las autopistas de peaje de Oklahoma se permite 80 mph, salvo que se indique otra cosa."
+    },
+    "zh": {
+      "q": "在 Oklahoma，如果没有标出别的限速，收费公路（turnpike）的限速是多少？",
+      "o": [
+        "65 mph",
+        "70 mph",
+        "80 mph",
+        "85 mph"
+      ],
+      "h1": "在州的限速表里，收费公路的限速最高。",
+      "h2": "在 Oklahoma，收费公路的限速是 80 mph，除非标志写着别的限速。",
+      "p": "对。Oklahoma 的收费公路限速是 80 mph，除非标志写着别的。"
+    },
+    "vi": {
+      "q": "Ở Oklahoma, tốc độ tối đa trên đường cao tốc thu phí (turnpike) là bao nhiêu khi không có biển báo giới hạn khác?",
+      "o": [
+        "65 mph",
+        "70 mph",
+        "80 mph",
+        "85 mph"
+      ],
+      "h1": "Đường cao tốc thu phí có giới hạn cao nhất trong bảng của tiểu bang.",
+      "h2": "Ở Oklahoma, tốc độ tối đa trên đường cao tốc thu phí là 80 mph, trừ khi có biển báo ghi giới hạn khác.",
+      "p": "Đúng. Đường cao tốc thu phí ở Oklahoma cho phép 80 mph, trừ khi có biển báo khác."
+    },
+    "tl": {
+      "q": "Sa Oklahoma, ano ang speed limit sa turnpike kapag walang ibang limit na nakapaskil?",
+      "o": [
+        "65 mph",
+        "70 mph",
+        "80 mph",
+        "85 mph"
+      ],
+      "h1": "Ang turnpike ang may pinakamataas na limit sa listahan ng estado.",
+      "h2": "Sa Oklahoma, 80 mph ang speed limit sa turnpike maliban kung may sign na nagpapakita ng ibang limit.",
+      "p": "Tama. Puwede ang 80 mph sa mga turnpike sa Oklahoma maliban kung iba ang nakapaskil."
+    },
+    "ar": {
+      "q": "في Oklahoma، ما حدّ السرعة على الطريق السريع ذي الرسوم (turnpike) عندما لا توجد لافتة بحدّ آخر؟",
+      "o": [
+        "65 mph",
+        "70 mph",
+        "80 mph",
+        "85 mph"
+      ],
+      "h1": "الطرق السريعة ذات الرسوم لها أعلى حدّ في جدول الولاية.",
+      "h2": "في Oklahoma، حدّ السرعة على الطريق السريع ذي الرسوم هو 80 mph، إلا إذا كانت هناك لافتة تُظهر حدًّا آخر.",
+      "p": "صحيح. الطرق السريعة ذات الرسوم في Oklahoma تسمح بـ 80 mph إلا إذا كانت هناك لافتة بحدّ آخر."
     }
   },
   {
@@ -1131,6 +1179,54 @@
       "h1": "Es menor que el límite en una carretera estatal no dividida.",
       "h2": "En Oklahoma, el límite de velocidad en un camino del condado es de 55 mph cuando no hay otro límite señalado.",
       "p": "Correcto. En los caminos del condado de Oklahoma el límite es de 55 mph, salvo que se indique otra cosa."
+    },
+    "zh": {
+      "q": "在 Oklahoma，如果没有限速标志，县道（county road）的限速是多少？",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "它比没有中间隔离带的州公路的限速低。",
+      "h2": "在 Oklahoma，如果没有标出别的限速，县道的限速是 55 mph。",
+      "p": "对。Oklahoma 县道的限速是 55 mph，除非标志写着别的。"
+    },
+    "vi": {
+      "q": "Ở Oklahoma, tốc độ tối đa trên đường quận (county road) là bao nhiêu khi không có biển báo?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "Nó thấp hơn giới hạn trên đường tiểu bang không có dải phân cách.",
+      "h2": "Ở Oklahoma, tốc độ tối đa trên đường quận là 55 mph khi không có biển báo giới hạn khác.",
+      "p": "Đúng. Trên đường quận ở Oklahoma, giới hạn là 55 mph, trừ khi có biển báo khác."
+    },
+    "tl": {
+      "q": "Sa Oklahoma, ano ang speed limit sa county road kapag walang sign na nakapaskil?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "Mas mababa ito kaysa sa limit sa state highway na walang divider.",
+      "h2": "Sa Oklahoma, 55 mph ang speed limit sa county road kapag walang ibang limit na nakapaskil.",
+      "p": "Tama. Sa mga county road sa Oklahoma, 55 mph ang limit maliban kung iba ang nakapaskil."
+    },
+    "ar": {
+      "q": "في Oklahoma، ما حدّ السرعة على طريق المقاطعة (county road) عندما لا توجد لافتة؟",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "هو أقل من الحدّ على طريق الولاية السريع الذي ليس فيه فاصل وسطي.",
+      "h2": "في Oklahoma، حدّ السرعة على طريق المقاطعة هو 55 mph عندما لا توجد لافتة بحدّ آخر.",
+      "p": "صحيح. على طرق المقاطعات في Oklahoma الحدّ هو 55 mph إلا إذا كانت هناك لافتة بحدّ آخر."
     }
   },
   {
@@ -1165,6 +1261,54 @@
       "h1": "Los puntos se cuentan durante varios años, no solo uno.",
       "h2": "En Oklahoma, su licencia será suspendida si acumula 10 puntos o más en 5 años.",
       "p": "Correcto. 10 puntos o más en 5 años significan una suspensión en Oklahoma."
+    },
+    "zh": {
+      "q": "在 Oklahoma，驾驶记录上有多少分会导致驾照被暂停？",
+      "o": [
+        "1 年内 6 分或更多",
+        "5 年内 10 分或更多",
+        "5 年内 8 分或更多",
+        "10 年内 15 分或更多"
+      ],
+      "h1": "要算好几年里的分数，不只是一年。",
+      "h2": "在 Oklahoma，如果你在 5 年内被记 10 分或更多，你的驾照会被暂停。",
+      "p": "对。在 Oklahoma，5 年内 10 分或更多就会被暂停驾照。"
+    },
+    "vi": {
+      "q": "Ở Oklahoma, bao nhiêu điểm trong hồ sơ lái xe sẽ dẫn đến việc bị treo bằng lái?",
+      "o": [
+        "6 điểm trở lên trong 1 năm",
+        "10 điểm trở lên trong 5 năm",
+        "8 điểm trở lên trong 5 năm",
+        "15 điểm trở lên trong 10 năm"
+      ],
+      "h1": "Hãy đếm điểm trong nhiều năm, không chỉ một năm.",
+      "h2": "Ở Oklahoma, bằng lái của bạn sẽ bị treo nếu bạn bị 10 điểm trở lên trong vòng 5 năm.",
+      "p": "Đúng. Ở Oklahoma, 10 điểm trở lên trong 5 năm nghĩa là bị treo bằng."
+    },
+    "tl": {
+      "q": "Sa Oklahoma, ilang puntos sa driving record mo ang magdudulot ng suspensiyon ng lisensiya?",
+      "o": [
+        "6 o higit pa sa loob ng 1 taon",
+        "10 o higit pa sa loob ng 5 taon",
+        "8 o higit pa sa loob ng 5 taon",
+        "15 o higit pa sa loob ng 10 taon"
+      ],
+      "h1": "Bilangin ang puntos sa loob ng ilang taon, hindi lang isa.",
+      "h2": "Sa Oklahoma, masususpinde ang lisensiya mo kung makakuha ka ng 10 o higit pang puntos sa loob ng 5 taon.",
+      "p": "Tama. Sa Oklahoma, ang 10 o higit pang puntos sa loob ng 5 taon ay nangangahulugang suspensiyon."
+    },
+    "ar": {
+      "q": "في Oklahoma، كم نقطة في سجلّ قيادتك تؤدي إلى إيقاف الرخصة؟",
+      "o": [
+        "6 نقاط أو أكثر خلال سنة واحدة",
+        "10 نقاط أو أكثر خلال 5 سنوات",
+        "8 نقاط أو أكثر خلال 5 سنوات",
+        "15 نقطة أو أكثر خلال 10 سنوات"
+      ],
+      "h1": "احسب النقاط على مدى عدة سنوات، وليس سنة واحدة فقط.",
+      "h2": "في Oklahoma، سيتم إيقاف رخصتك إذا حصلت على 10 نقاط أو أكثر خلال 5 سنوات.",
+      "p": "صحيح. في Oklahoma، 10 نقاط أو أكثر خلال 5 سنوات تعني إيقاف الرخصة."
     }
   },
   {
@@ -1199,6 +1343,54 @@
       "h1": "Es una de las faltas más graves de la lista de puntos.",
       "h2": "En Oklahoma, no detenerse ante un autobús escolar que sube o baja estudiantes agrega 4 puntos a su historial.",
       "p": "Correcto. No detenerse ante un autobús escolar cuesta 4 puntos en Oklahoma."
+    },
+    "zh": {
+      "q": "在 Oklahoma，校车正在上下学生时你没有停车，记录上会加几分？",
+      "o": [
+        "1 分",
+        "2 分",
+        "3 分",
+        "4 分"
+      ],
+      "h1": "这是记分表上最严重的违规之一。",
+      "h2": "在 Oklahoma，校车正在上下学生时没有停车，你的记录上会加 4 分。",
+      "p": "对。在 Oklahoma，校车上下学生时不停车要扣 4 分。"
+    },
+    "vi": {
+      "q": "Ở Oklahoma, nếu không dừng lại khi xe buýt trường học đang cho học sinh lên hoặc xuống, bạn bị cộng bao nhiêu điểm vào hồ sơ?",
+      "o": [
+        "1 điểm",
+        "2 điểm",
+        "3 điểm",
+        "4 điểm"
+      ],
+      "h1": "Đây là một trong những vi phạm nghiêm trọng nhất trong danh sách tính điểm.",
+      "h2": "Ở Oklahoma, không dừng lại khi xe buýt trường học đang cho học sinh lên hoặc xuống sẽ bị cộng 4 điểm vào hồ sơ của bạn.",
+      "p": "Đúng. Ở Oklahoma, không dừng cho xe buýt trường học đang đón trả học sinh bị 4 điểm."
+    },
+    "tl": {
+      "q": "Sa Oklahoma, ilang puntos ang idinadagdag sa iyong record kapag hindi ka huminto para sa school bus na nagsasakay o nagbababa ng mga bata?",
+      "o": [
+        "1 puntos",
+        "2 puntos",
+        "3 puntos",
+        "4 puntos"
+      ],
+      "h1": "Isa ito sa pinakamabibigat na paglabag sa listahan ng puntos.",
+      "h2": "Sa Oklahoma, ang hindi paghinto para sa school bus na nagsasakay o nagbababa ng mga bata ay nagdadagdag ng 4 na puntos sa iyong record.",
+      "p": "Tama. Sa Oklahoma, 4 na puntos ang hindi paghinto para sa school bus na nagsasakay o nagbababa."
+    },
+    "ar": {
+      "q": "في Oklahoma، كم نقطة تُضاف إلى سجلّك إذا لم تتوقّف لحافلة مدرسية يصعد إليها الطلاب أو ينزلون منها؟",
+      "o": [
+        "نقطة واحدة",
+        "نقطتان",
+        "3 نقاط",
+        "4 نقاط"
+      ],
+      "h1": "هي من أخطر المخالفات في قائمة النقاط.",
+      "h2": "في Oklahoma، عدم التوقّف لحافلة مدرسية يصعد إليها الطلاب أو ينزلون منها يضيف 4 نقاط إلى سجلّك.",
+      "p": "صحيح. عدم التوقّف لحافلة مدرسية يصعد إليها الطلاب أو ينزلون منها يكلّف 4 نقاط في Oklahoma."
     }
   },
   {
@@ -1233,6 +1425,54 @@
       "h1": "Un año sin faltas le ayuda.",
       "h2": "En Oklahoma, se quitan 2 puntos de su historial por cada período de 12 meses sin condenas por infracciones con puntos.",
       "p": "Correcto. Cada año sin condenas con puntos quita 2 puntos en Oklahoma."
+    },
+    "zh": {
+      "q": "在 Oklahoma，驾驶记录上的分数怎样会随着时间被去掉？",
+      "o": [
+        "每一年没有定罪，去掉 2 分",
+        "每一个月没有罚单，去掉 1 分",
+        "6 个月后去掉所有分数",
+        "分数永远不会去掉"
+      ],
+      "h1": "干净的一年对你有帮助。",
+      "h2": "在 Oklahoma，每 12 个月没有因要记分的违规被定罪，你的记录上会去掉 2 分。",
+      "p": "对。在 Oklahoma，每一年没有要记分的定罪，就去掉 2 分。"
+    },
+    "vi": {
+      "q": "Ở Oklahoma, điểm trong hồ sơ lái xe có thể được xóa theo thời gian như thế nào?",
+      "o": [
+        "2 điểm cho mỗi năm không bị kết tội",
+        "1 điểm cho mỗi tháng không bị phạt",
+        "Tất cả điểm sau 6 tháng",
+        "Điểm không bao giờ được xóa"
+      ],
+      "h1": "Một năm không vi phạm sẽ giúp bạn.",
+      "h2": "Ở Oklahoma, cứ mỗi 12 tháng không bị kết tội vì vi phạm có tính điểm, hồ sơ của bạn được xóa 2 điểm.",
+      "p": "Đúng. Ở Oklahoma, mỗi năm không bị kết tội vi phạm có tính điểm sẽ được xóa 2 điểm."
+    },
+    "tl": {
+      "q": "Sa Oklahoma, paano natatanggal ang mga puntos sa iyong driving record sa paglipas ng panahon?",
+      "o": [
+        "2 puntos sa bawat taon na walang conviction",
+        "1 puntos sa bawat buwan na walang ticket",
+        "Lahat ng puntos pagkalipas ng 6 na buwan",
+        "Hindi kailanman natatanggal ang mga puntos"
+      ],
+      "h1": "Nakakatulong sa iyo ang isang malinis na taon.",
+      "h2": "Sa Oklahoma, natatanggal ang 2 puntos sa iyong record sa bawat 12 buwan na walang conviction para sa paglabag na may puntos.",
+      "p": "Tama. Sa Oklahoma, bawat taon na walang conviction na may puntos ay nag-aalis ng 2 puntos."
+    },
+    "ar": {
+      "q": "في Oklahoma، كيف يمكن أن تُزال النقاط من سجلّ القيادة مع الوقت؟",
+      "o": [
+        "نقطتان عن كل سنة بدون إدانات",
+        "نقطة واحدة عن كل شهر بدون مخالفات",
+        "كل النقاط بعد 6 أشهر",
+        "النقاط لا تُزال أبدًا"
+      ],
+      "h1": "السنة النظيفة تساعدك.",
+      "h2": "في Oklahoma، تُزال نقطتان من سجلّك عن كل فترة 12 شهرًا بدون إدانات بمخالفات عليها نقاط.",
+      "p": "صحيح. كل سنة بدون إدانات بمخالفات عليها نقاط تُزيل نقطتين في Oklahoma."
     }
   },
   {
@@ -1267,6 +1507,54 @@
       "h1": "El monto para dos o más personas es el doble del monto para una persona.",
       "h2": "En Oklahoma, el seguro de responsabilidad civil mínimo es de $25,000 por una persona, $50,000 por dos o más personas y $25,000 por daños a la propiedad.",
       "p": "Correcto. Oklahoma exige como mínimo $25,000, $50,000 y $25,000 de cobertura de responsabilidad civil."
+    },
+    "zh": {
+      "q": "在 Oklahoma，司机必须买的责任保险（liability insurance）最低金额是多少？",
+      "o": [
+        "$10,000 / $20,000 / $10,000",
+        "$15,000 / $30,000 / $15,000",
+        "$25,000 / $50,000 / $25,000",
+        "$50,000 / $100,000 / $50,000"
+      ],
+      "h1": "两人或以上的金额是一人金额的两倍。",
+      "h2": "在 Oklahoma，最低责任保险是：一人 $25,000，两人或以上 $50,000，财产损失 $25,000。",
+      "p": "对。Oklahoma 要求至少 $25,000、$50,000 和 $25,000 的责任保险。"
+    },
+    "vi": {
+      "q": "Ở Oklahoma, số tiền bảo hiểm trách nhiệm (liability insurance) tối thiểu mà người lái xe phải có là bao nhiêu?",
+      "o": [
+        "$10,000 / $20,000 / $10,000",
+        "$15,000 / $30,000 / $15,000",
+        "$25,000 / $50,000 / $25,000",
+        "$50,000 / $100,000 / $50,000"
+      ],
+      "h1": "Số tiền cho hai người trở lên gấp đôi số tiền cho một người.",
+      "h2": "Ở Oklahoma, bảo hiểm trách nhiệm tối thiểu là $25,000 cho một người, $50,000 cho hai người trở lên, và $25,000 cho thiệt hại tài sản.",
+      "p": "Đúng. Oklahoma yêu cầu bảo hiểm trách nhiệm ít nhất $25,000, $50,000 và $25,000."
+    },
+    "tl": {
+      "q": "Sa Oklahoma, ano ang pinakamababang halaga ng liability insurance na dapat mayroon ang isang driver?",
+      "o": [
+        "$10,000 / $20,000 / $10,000",
+        "$15,000 / $30,000 / $15,000",
+        "$25,000 / $50,000 / $25,000",
+        "$50,000 / $100,000 / $50,000"
+      ],
+      "h1": "Ang halaga para sa dalawa o higit pang tao ay doble ng halaga para sa isang tao.",
+      "h2": "Sa Oklahoma, ang pinakamababang liability insurance ay $25,000 para sa isang tao, $50,000 para sa dalawa o higit pang tao, at $25,000 para sa pinsala sa ari-arian.",
+      "p": "Tama. Hinihingi ng Oklahoma ang hindi bababa sa $25,000, $50,000 at $25,000 na liability coverage."
+    },
+    "ar": {
+      "q": "في Oklahoma، ما الحدّ الأدنى لمبالغ تأمين المسؤولية (liability insurance) الذي يجب أن يكون عند السائق؟",
+      "o": [
+        "$10,000 / $20,000 / $10,000",
+        "$15,000 / $30,000 / $15,000",
+        "$25,000 / $50,000 / $25,000",
+        "$50,000 / $100,000 / $50,000"
+      ],
+      "h1": "المبلغ لشخصين أو أكثر هو ضعف المبلغ لشخص واحد.",
+      "h2": "في Oklahoma، الحدّ الأدنى لتأمين المسؤولية هو $25,000 لشخص واحد، و$50,000 لشخصين أو أكثر، و$25,000 لأضرار الممتلكات.",
+      "p": "صحيح. Oklahoma تطلب تغطية مسؤولية لا تقل عن $25,000 و$50,000 و$25,000."
     }
   },
   {
@@ -1301,6 +1589,54 @@
       "h1": "La sanción afecta tanto su licencia como el registro de su carro.",
       "h2": "En Oklahoma, no mostrar prueba de seguro cuando un oficial la pide puede causar una multa de hasta $250, hasta 30 días de cárcel y la suspensión de su licencia y registro.",
       "p": "Correcto. En Oklahoma puede significar una multa de hasta $250, hasta 30 días de cárcel y la suspensión de la licencia y el registro."
+    },
+    "zh": {
+      "q": "在 Oklahoma，如果警察要你出示保险证明而你拿不出来，会怎么样？",
+      "o": [
+        "书面警告，只限第一次",
+        "最高 $250 罚款，可能坐牢，并被暂停",
+        "$25 罚款，没有别的处罚",
+        "重新考笔试和路考"
+      ],
+      "h1": "这个处罚会影响你的驾照，也会影响你的车辆登记。",
+      "h2": "在 Oklahoma，警察要求时拿不出保险证明，可能被罚款最高 $250，坐牢最多 30 天，驾照和车辆登记也会被暂停。",
+      "p": "对。在 Oklahoma，这可能是最高 $250 罚款、最多 30 天坐牢，以及驾照和车辆登记被暂停。"
+    },
+    "vi": {
+      "q": "Ở Oklahoma, điều gì có thể xảy ra nếu bạn không đưa ra được giấy tờ chứng minh bảo hiểm khi cảnh sát yêu cầu?",
+      "o": [
+        "Cảnh cáo bằng văn bản, chỉ lần đầu tiên",
+        "Phạt đến $250, có thể bị tù, và bị đình chỉ",
+        "Phạt $25, không có hình phạt nào khác",
+        "Phải thi lại bài thi viết và bài thi lái xe"
+      ],
+      "h1": "Hình phạt ảnh hưởng cả bằng lái lẫn giấy đăng ký xe của bạn.",
+      "h2": "Ở Oklahoma, không đưa ra được giấy tờ chứng minh bảo hiểm khi cảnh sát yêu cầu có thể bị phạt đến $250, bị tù đến 30 ngày, và bị đình chỉ bằng lái và giấy đăng ký xe.",
+      "p": "Đúng. Ở Oklahoma, có thể bị phạt đến $250, bị tù đến 30 ngày, và bị đình chỉ bằng lái và giấy đăng ký xe."
+    },
+    "tl": {
+      "q": "Sa Oklahoma, ano ang puwedeng mangyari kung hindi mo maipakita ang proof of insurance sa pulis na humihingi nito?",
+      "o": [
+        "Isang nakasulat na babala, sa unang beses lang",
+        "Multang hanggang $250, posibleng kulong, at suspensiyon",
+        "Multang $25, walang ibang parusa",
+        "Bagong written test at driving test"
+      ],
+      "h1": "Naaapektuhan ng parusa ang iyong lisensiya at ang registration ng iyong sasakyan.",
+      "h2": "Sa Oklahoma, ang hindi pagpapakita ng proof of insurance kapag hiningi ng pulis ay puwedeng magresulta sa multang hanggang $250, kulong nang hanggang 30 araw, at suspensiyon ng iyong lisensiya at registration.",
+      "p": "Tama. Sa Oklahoma, puwede itong mangahulugan ng multang hanggang $250, kulong nang hanggang 30 araw, at suspendidong lisensiya at registration."
+    },
+    "ar": {
+      "q": "في Oklahoma، ماذا يمكن أن يحدث إذا لم تستطع أن تُظهر إثبات التأمين لشرطي يطلبه منك؟",
+      "o": [
+        "إنذار مكتوب، في المرة الأولى فقط",
+        "غرامة حتى $250، وسجن محتمل، وإيقاف",
+        "غرامة $25، بدون أي عقوبة أخرى",
+        "اختبار كتابي واختبار قيادة جديدان"
+      ],
+      "h1": "العقوبة تؤثّر على رخصتك وعلى تسجيل سيارتك معًا.",
+      "h2": "في Oklahoma، عدم إظهار إثبات التأمين عندما يطلبه الشرطي يمكن أن يؤدّي إلى غرامة حتى $250، وسجن حتى 30 يومًا، وإيقاف رخصتك وتسجيل سيارتك.",
+      "p": "صحيح. في Oklahoma يمكن أن يعني ذلك غرامة حتى $250، وسجنًا حتى 30 يومًا، وإيقاف الرخصة وتسجيل السيارة."
     }
   },
   {
@@ -1335,6 +1671,54 @@
       "h1": "Piense en un niño de segundo o tercer grado, más o menos.",
       "h2": "En Oklahoma, la ley de sistemas de retención infantil cubre a todo niño menor de 8 años. Algunos niños de 4 a 7 años pueden usar el cinturón de seguridad en su lugar, como explica el manual.",
       "p": "Correcto. La ley de retención infantil de Oklahoma cubre a los niños menores de 8 años."
+    },
+    "zh": {
+      "q": "在 Oklahoma，儿童乘客安全座椅法适用于几岁以下的孩子？",
+      "o": [
+        "3 岁以下",
+        "12 岁以下",
+        "16 岁以下",
+        "8 岁以下"
+      ],
+      "h1": "想一想大约上二年级或三年级的孩子。",
+      "h2": "在 Oklahoma，儿童乘客安全座椅法适用于所有 8 岁以下的孩子。按照手册的说明，有些 4 到 7 岁的孩子可以改用安全带。",
+      "p": "对。Oklahoma 的儿童安全座椅法适用于 8 岁以下的孩子。"
+    },
+    "vi": {
+      "q": "Ở Oklahoma, luật về ghế an toàn cho trẻ em áp dụng cho trẻ em đến bao nhiêu tuổi?",
+      "o": [
+        "Dưới 3 tuổi",
+        "Dưới 12 tuổi",
+        "Dưới 16 tuổi",
+        "Dưới 8 tuổi"
+      ],
+      "h1": "Hãy nghĩ đến một đứa trẻ khoảng lớp hai hoặc lớp ba.",
+      "h2": "Ở Oklahoma, luật về ghế an toàn cho trẻ em áp dụng cho mọi trẻ em dưới 8 tuổi. Một số trẻ từ 4 đến 7 tuổi có thể dùng dây an toàn thay thế, như sổ tay hướng dẫn giải thích.",
+      "p": "Đúng. Luật ghế an toàn cho trẻ em của Oklahoma áp dụng cho trẻ em dưới 8 tuổi."
+    },
+    "tl": {
+      "q": "Sa Oklahoma, hanggang anong edad ng bata sakop ang child passenger restraint law?",
+      "o": [
+        "Wala pang 3",
+        "Wala pang 12",
+        "Wala pang 16",
+        "Wala pang 8"
+      ],
+      "h1": "Isipin ang batang nasa mga ikalawa o ikatlong baitang.",
+      "h2": "Sa Oklahoma, sakop ng child passenger restraint law ang bawat batang wala pang 8 taong gulang. Puwedeng gumamit ng seat belt sa halip ang ilang batang 4 hanggang 7 taong gulang, ayon sa paliwanag ng manual.",
+      "p": "Tama. Sakop ng child restraint law ng Oklahoma ang mga batang wala pang 8 taong gulang."
+    },
+    "ar": {
+      "q": "في Oklahoma، حتى أي عمر يشمل قانون مقاعد أمان الأطفال الركاب الأطفال؟",
+      "o": [
+        "أقل من 3",
+        "أقل من 12",
+        "أقل من 16",
+        "أقل من 8"
+      ],
+      "h1": "فكّر في طفل في الصف الثاني أو الثالث تقريبًا.",
+      "h2": "في Oklahoma، يشمل قانون مقاعد أمان الأطفال الركاب كل طفل عمره أقل من 8 سنوات. ويمكن لبعض الأطفال من 4 إلى 7 سنوات أن يستعملوا حزام الأمان بدلًا منها، كما يشرح الدليل.",
+      "p": "صحيح. قانون مقاعد أمان الأطفال في Oklahoma يشمل الأطفال الذين عمرهم أقل من 8 سنوات."
     }
   },
   {
@@ -1369,6 +1753,54 @@
       "h1": "Es antes de que el niño cumpla 3 años.",
       "h2": "En Oklahoma, un niño debe viajar en un asiento orientado hacia atrás hasta los 2 años, o hasta que alcance el límite de altura o peso que fija el fabricante.",
       "p": "Correcto. En Oklahoma un niño viaja mirando hacia atrás hasta los 2 años o hasta que el asiento le quede pequeño."
+    },
+    "zh": {
+      "q": "在 Oklahoma，除非孩子超过了座椅的身高或体重限制，孩子必须坐后向安全座椅到几岁？",
+      "o": [
+        "2 岁",
+        "1 岁",
+        "3 岁",
+        "4 岁"
+      ],
+      "h1": "是在孩子满 3 岁之前。",
+      "h2": "在 Oklahoma，孩子必须坐后向安全座椅到 2 岁，或者到孩子达到座椅制造商的身高或体重限制。",
+      "p": "对。在 Oklahoma，孩子坐后向座椅到 2 岁，或者到长大超过座椅的限制。"
+    },
+    "vi": {
+      "q": "Ở Oklahoma, trẻ em phải ngồi ghế ô tô quay mặt về phía sau đến bao nhiêu tuổi, trừ khi trẻ đã vượt quá giới hạn chiều cao hoặc cân nặng của ghế?",
+      "o": [
+        "2 tuổi",
+        "1 tuổi",
+        "3 tuổi",
+        "4 tuổi"
+      ],
+      "h1": "Đó là trước khi trẻ được 3 tuổi.",
+      "h2": "Ở Oklahoma, trẻ em phải ngồi ghế ô tô quay mặt về phía sau đến 2 tuổi, hoặc đến khi trẻ đạt giới hạn chiều cao hoặc cân nặng của nhà sản xuất ghế.",
+      "p": "Đúng. Ở Oklahoma, trẻ ngồi ghế quay về phía sau đến 2 tuổi hoặc đến khi lớn hơn giới hạn của ghế."
+    },
+    "tl": {
+      "q": "Sa Oklahoma, hanggang ilang taong gulang dapat nakasakay ang bata sa rear-facing car seat, maliban kung lumampas na ang bata sa height o weight limit ng upuan?",
+      "o": [
+        "2 taon",
+        "1 taon",
+        "3 taon",
+        "4 na taon"
+      ],
+      "h1": "Bago ito mag-3 taong gulang ang bata.",
+      "h2": "Sa Oklahoma, dapat nakasakay ang bata sa rear-facing car seat hanggang 2 taong gulang, o hanggang maabot ng bata ang height o weight limit ng gumawa ng upuan.",
+      "p": "Tama. Sa Oklahoma, rear-facing ang bata hanggang 2 taong gulang o hanggang lumaki na siya para sa upuan."
+    },
+    "ar": {
+      "q": "في Oklahoma، حتى أي عمر يجب أن يجلس الطفل في مقعد سيارة مواجه للخلف، إلا إذا تجاوز الطفل حدّ الطول أو الوزن للمقعد؟",
+      "o": [
+        "سنتان",
+        "سنة واحدة",
+        "3 سنوات",
+        "4 سنوات"
+      ],
+      "h1": "هو قبل أن يبلغ الطفل 3 سنوات.",
+      "h2": "في Oklahoma، يجب أن يجلس الطفل في مقعد سيارة مواجه للخلف حتى عمر سنتين، أو حتى يصل إلى حدّ الطول أو الوزن الذي حدّده صانع المقعد.",
+      "p": "صحيح. في Oklahoma يجلس الطفل مواجهًا للخلف حتى عمر سنتين أو حتى يكبر على المقعد."
     }
   },
   {
@@ -1403,6 +1835,54 @@
       "h1": "Tiene bastante tiempo para hacerlo.",
       "h2": "En Oklahoma, puede renovar su licencia de manejo hasta 1 año antes de que venza.",
       "p": "Correcto. Oklahoma le permite renovar hasta 1 año antes."
+    },
+    "zh": {
+      "q": "在 Oklahoma，驾照到期前最早可以提前多久续期？",
+      "o": [
+        "30 天",
+        "90 天",
+        "1 年",
+        "2 年"
+      ],
+      "h1": "你有相当长的时间可以办。",
+      "h2": "在 Oklahoma，你最早可以在驾照到期前 1 年续期。",
+      "p": "对。Oklahoma 让你最早提前 1 年续期。"
+    },
+    "vi": {
+      "q": "Ở Oklahoma, bạn có thể gia hạn bằng lái sớm nhất bao lâu trước khi hết hạn?",
+      "o": [
+        "30 ngày",
+        "90 ngày",
+        "1 năm",
+        "2 năm"
+      ],
+      "h1": "Bạn có khá nhiều thời gian để làm việc này.",
+      "h2": "Ở Oklahoma, bạn có thể gia hạn bằng lái sớm nhất là 1 năm trước khi hết hạn.",
+      "p": "Đúng. Oklahoma cho phép gia hạn sớm nhất là 1 năm."
+    },
+    "tl": {
+      "q": "Sa Oklahoma, gaano kaaga mo puwedeng i-renew ang iyong driver license bago ito mag-expire?",
+      "o": [
+        "30 araw",
+        "90 araw",
+        "1 taon",
+        "2 taon"
+      ],
+      "h1": "Medyo mahaba ang panahon mo para gawin ito.",
+      "h2": "Sa Oklahoma, puwede mong i-renew ang iyong driver license hanggang 1 taon bago ito mag-expire.",
+      "p": "Tama. Pinapayagan ka ng Oklahoma na mag-renew hanggang 1 taon nang maaga."
+    },
+    "ar": {
+      "q": "في Oklahoma، كم من الوقت قبل انتهاء رخصة القيادة يمكنك أن تجدّدها؟",
+      "o": [
+        "30 يومًا",
+        "90 يومًا",
+        "سنة واحدة",
+        "سنتان"
+      ],
+      "h1": "عندك وقت طويل نوعًا ما لتفعل ذلك.",
+      "h2": "في Oklahoma، يمكنك أن تجدّد رخصة القيادة قبل انتهائها بمدة تصل إلى سنة واحدة.",
+      "p": "صحيح. Oklahoma تسمح لك بالتجديد قبل الموعد بمدة تصل إلى سنة واحدة."
     }
   },
   {
@@ -1437,6 +1917,54 @@
       "h1": "Es menos de dos semanas.",
       "h2": "En Oklahoma, debe informar su nueva dirección a Service Oklahoma dentro de los 10 días después de mudarse.",
       "p": "Correcto. Los conductores de Oklahoma deben informar su nueva dirección en 10 días."
+    },
+    "zh": {
+      "q": "在 Oklahoma，你搬家以后，必须在多久内把新地址告诉 Service Oklahoma？",
+      "o": [
+        "5 天内",
+        "10 天内",
+        "30 天内",
+        "60 天内"
+      ],
+      "h1": "不到两个星期。",
+      "h2": "在 Oklahoma，你搬家以后必须在 10 天内把新地址告诉 Service Oklahoma。",
+      "p": "对。Oklahoma 的司机必须在 10 天内报告新地址。"
+    },
+    "vi": {
+      "q": "Ở Oklahoma, sau khi chuyển nhà, bạn phải báo địa chỉ mới cho Service Oklahoma trong bao lâu?",
+      "o": [
+        "Trong vòng 5 ngày",
+        "Trong vòng 10 ngày",
+        "Trong vòng 30 ngày",
+        "Trong vòng 60 ngày"
+      ],
+      "h1": "Ít hơn hai tuần.",
+      "h2": "Ở Oklahoma, bạn phải báo địa chỉ mới cho Service Oklahoma trong vòng 10 ngày sau khi chuyển nhà.",
+      "p": "Đúng. Người lái xe ở Oklahoma phải báo địa chỉ mới trong vòng 10 ngày."
+    },
+    "tl": {
+      "q": "Sa Oklahoma, pagkatapos mong lumipat, gaano kabilis mo dapat sabihin sa Service Oklahoma ang iyong bagong address?",
+      "o": [
+        "Sa loob ng 5 araw",
+        "Sa loob ng 10 araw",
+        "Sa loob ng 30 araw",
+        "Sa loob ng 60 araw"
+      ],
+      "h1": "Mas maikli ito sa dalawang linggo.",
+      "h2": "Sa Oklahoma, dapat mong sabihin sa Service Oklahoma ang iyong bagong address sa loob ng 10 araw pagkatapos mong lumipat.",
+      "p": "Tama. Dapat i-report ng mga driver sa Oklahoma ang bagong address sa loob ng 10 araw."
+    },
+    "ar": {
+      "q": "في Oklahoma، بعد أن تنتقل إلى بيت جديد، خلال كم من الوقت يجب أن تُبلغ Service Oklahoma بعنوانك الجديد؟",
+      "o": [
+        "خلال 5 أيام",
+        "خلال 10 أيام",
+        "خلال 30 يومًا",
+        "خلال 60 يومًا"
+      ],
+      "h1": "هي أقل من أسبوعين.",
+      "h2": "في Oklahoma، يجب أن تُبلغ Service Oklahoma بعنوانك الجديد خلال 10 أيام بعد أن تنتقل.",
+      "p": "صحيح. يجب على السائقين في Oklahoma أن يُبلغوا عن العنوان الجديد خلال 10 أيام."
     }
   },
   {
@@ -1471,6 +1999,54 @@
       "h1": "Al manejar, usted ya aceptó hacerse la prueba.",
       "h2": "En Oklahoma, negarse a una prueba de aliento o de sangre causa la revocación automática de su privilegio de manejar, aunque no haya tomado alcohol.",
       "p": "Correcto. En Oklahoma, negarse significa que su licencia se revoca automáticamente."
+    },
+    "zh": {
+      "q": "在 Oklahoma，警察要求你做呼气或验血测试时，如果你拒绝，会怎么样？",
+      "o": [
+        "如果你没喝酒，就没事",
+        "第一次会得到警告",
+        "只要付一点小罚款",
+        "你的驾驶资格会被自动吊销"
+      ],
+      "h1": "你开车时，就已经同意接受测试了。",
+      "h2": "在 Oklahoma，拒绝做呼气或验血测试，你的驾驶资格会被自动吊销，就算你没有喝酒也一样。",
+      "p": "对。在 Oklahoma，拒绝测试意味着你的驾照会被自动吊销。"
+    },
+    "vi": {
+      "q": "Ở Oklahoma, điều gì xảy ra nếu bạn từ chối kiểm tra hơi thở hoặc thử máu khi cảnh sát yêu cầu?",
+      "o": [
+        "Không sao, nếu bạn không uống rượu",
+        "Bạn bị cảnh cáo lần đầu tiên",
+        "Bạn chỉ phải trả một khoản phạt nhỏ",
+        "Quyền lái xe của bạn bị tự động thu hồi"
+      ],
+      "h1": "Khi lái xe, bạn đã đồng ý để được kiểm tra.",
+      "h2": "Ở Oklahoma, từ chối kiểm tra hơi thở hoặc thử máu sẽ làm quyền lái xe của bạn bị tự động thu hồi, ngay cả khi bạn không uống rượu.",
+      "p": "Đúng. Ở Oklahoma, từ chối kiểm tra nghĩa là bằng lái của bạn bị tự động thu hồi."
+    },
+    "tl": {
+      "q": "Sa Oklahoma, ano ang mangyayari kung tumanggi ka sa breath test o blood test kapag hiningi ito ng pulis?",
+      "o": [
+        "Wala, kung hindi ka uminom",
+        "Babala lang sa unang beses",
+        "Maliit na multa lang ang babayaran mo",
+        "Awtomatikong babawiin ang iyong pribilehiyong magmaneho"
+      ],
+      "h1": "Sa pagmamaneho, pumayag ka na na ma-test.",
+      "h2": "Sa Oklahoma, ang pagtanggi sa breath test o blood test ay nagdudulot ng awtomatikong pagbawi ng iyong pribilehiyong magmaneho, kahit hindi ka uminom.",
+      "p": "Tama. Sa Oklahoma, kapag tumanggi ka, awtomatikong babawiin ang iyong lisensiya."
+    },
+    "ar": {
+      "q": "في Oklahoma، ماذا يحدث إذا رفضت فحص النفَس أو فحص الدم عندما يطلبه منك الشرطي؟",
+      "o": [
+        "لا شيء، إذا لم تكن قد شربت",
+        "تحصل على إنذار في المرة الأولى",
+        "تدفع غرامة صغيرة فقط",
+        "يُسحب حقّك في القيادة تلقائيًا"
+      ],
+      "h1": "بمجرّد أن تقود، فأنت قد وافقت مسبقًا على الفحص.",
+      "h2": "في Oklahoma، رفض فحص النفَس أو فحص الدم يؤدّي إلى سحب حقّك في القيادة تلقائيًا، حتى لو لم تكن قد شربت.",
+      "p": "صحيح. في Oklahoma الرفض يعني أن رخصتك تُسحب تلقائيًا."
     }
   },
   {
@@ -1505,6 +2081,54 @@
       "h1": "El dueño necesita una forma de comunicarse con usted.",
       "h2": "En Oklahoma, si choca contra un carro estacionado y no encuentra al dueño, debe dejar el nombre y la dirección del conductor y del dueño, y la información de su seguro, en el carro dañado.",
       "p": "Correcto. En Oklahoma usted deja su nombre, dirección y datos del seguro donde el dueño los vea."
+    },
+    "zh": {
+      "q": "在 Oklahoma，你撞到一辆停着的车，找不到车主。你必须怎么做？",
+      "o": [
+        "把你的姓名、地址和保险信息留在车主会看到的地方",
+        "如果损坏看起来很小，就开走",
+        "在停着的车旁边等到第二天",
+        "打电话给车主的保险公司报告"
+      ],
+      "h1": "车主需要有办法联系你。",
+      "h2": "在 Oklahoma，如果你撞到一辆停着的车，又找不到车主，你必须在被撞的车上留下司机和车主的姓名、地址，以及你的保险信息。",
+      "p": "对。在 Oklahoma，你要把你的姓名、地址和保险信息留在车主会看到的地方。"
+    },
+    "vi": {
+      "q": "Ở Oklahoma, bạn đâm vào một xe đang đậu và không tìm được chủ xe. Bạn phải làm gì?",
+      "o": [
+        "Để lại tên, địa chỉ và thông tin bảo hiểm của bạn ở nơi chủ xe sẽ thấy",
+        "Lái đi nếu hư hỏng có vẻ nhỏ và không đáng kể",
+        "Chờ bên cạnh xe đang đậu đến ngày hôm sau",
+        "Gọi cho công ty bảo hiểm của chủ xe để báo"
+      ],
+      "h1": "Chủ xe cần có cách liên lạc với bạn.",
+      "h2": "Ở Oklahoma, nếu bạn đâm vào một xe đang đậu và không tìm được chủ xe, bạn phải để lại tên và địa chỉ của người lái và của chủ xe, cùng thông tin bảo hiểm của bạn, trên chiếc xe bị hư hỏng.",
+      "p": "Đúng. Ở Oklahoma, bạn để lại tên, địa chỉ và thông tin bảo hiểm ở nơi chủ xe sẽ thấy."
+    },
+    "tl": {
+      "q": "Sa Oklahoma, nabangga mo ang isang nakaparadang sasakyan at hindi mo makita ang may-ari. Ano ang dapat mong gawin?",
+      "o": [
+        "Iwan ang iyong pangalan, address at impormasyon ng insurance kung saan ito makikita ng may-ari",
+        "Umalis kung mukhang maliit at hindi malala ang sira",
+        "Maghintay sa tabi ng nakaparadang sasakyan hanggang kinabukasan",
+        "Tawagan ang insurance company ng may-ari para i-report ito"
+      ],
+      "h1": "Kailangan ng may-ari ng paraan para makontak ka.",
+      "h2": "Sa Oklahoma, kung nabangga mo ang isang nakaparadang sasakyan at hindi mo makita ang may-ari, dapat mong iwan sa nasirang sasakyan ang pangalan at address ng driver at ng may-ari, at ang iyong impormasyon ng insurance.",
+      "p": "Tama. Sa Oklahoma, iniiwan mo ang iyong pangalan, address at detalye ng insurance kung saan makikita ito ng may-ari."
+    },
+    "ar": {
+      "q": "في Oklahoma، صدمت سيارة متوقّفة ولا تستطيع أن تجد صاحبها. ماذا يجب أن تفعل؟",
+      "o": [
+        "أن تترك اسمك وعنوانك ومعلومات تأمينك في مكان سيجدها فيه صاحب السيارة",
+        "أن تبتعد بالسيارة إذا كان الضرر يبدو صغيرًا وبسيطًا",
+        "أن تنتظر بجانب السيارة المتوقّفة حتى اليوم التالي",
+        "أن تتّصل بشركة تأمين صاحب السيارة لتُبلغ عن الحادث"
+      ],
+      "h1": "صاحب السيارة يحتاج إلى طريقة للتواصل معك.",
+      "h2": "في Oklahoma، إذا صدمت سيارة متوقّفة ولم تجد صاحبها، يجب أن تترك على السيارة المتضرّرة اسم السائق وعنوانه واسم صاحب السيارة وعنوانه ومعلومات تأمينك.",
+      "p": "صحيح. في Oklahoma تترك اسمك وعنوانك وتفاصيل تأمينك في مكان سيراها فيه صاحب السيارة."
     }
   }
 ]
