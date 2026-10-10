@@ -2540,5 +2540,651 @@
       "h2": "في Oregon، داخل حدود المدينة، لا يجوز لك الالتفاف للخلف في مكان لا تستطيع فيه السيارات من أي اتجاه أن ترى سيارتك من مسافة 500 قدم.",
       "p": "صحيح. في المدينة يجب أن يستطيع السائقون الآخرون رؤيتك من مسافة 500 قدم."
     }
+  },
+  {
+    "id": "or-032",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 19,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, what is the speed limit on a road or highway that does not fit any other speed rule, when no limit is posted?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "60 mph",
+        "65 mph"
+      ],
+      "h1": "It is the same number as the old national highway limit.",
+      "h2": "In Oregon the speed limit is 55 mph on roads and highways that fit no other speed rule, unless a different limit is posted.",
+      "p": "Right. In Oregon it is 55 mph when no other rule or sign applies."
+    },
+    "es": {
+      "q": "En Oregon, ¿cuál es el límite de velocidad en una carretera que no entra en ninguna otra regla de velocidad, si no hay un límite señalado?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "60 mph",
+        "65 mph"
+      ],
+      "h1": "Es el mismo número que el antiguo límite nacional de las carreteras.",
+      "h2": "En Oregon el límite es de 55 mph en las carreteras que no entran en ninguna otra regla de velocidad, a menos que se señale otro límite.",
+      "p": "Correcto. En Oregon son 55 mph cuando no se aplica otra regla ni otra señal."
+    }
+  },
+  {
+    "id": "or-033",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 26,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, you are driving faster than 30 mph. How far behind the car ahead should you stay?",
+      "o": [
+        "At least 2 seconds",
+        "At least 4 seconds",
+        "At least 1 car length",
+        "At least 10 feet"
+      ],
+      "h1": "The faster you go, the more time you need. Count in seconds.",
+      "h2": "In Oregon, at speeds over 30 mph, you should stay at least 4 seconds behind the car ahead.",
+      "p": "Right. Above 30 mph, Oregon says to keep 4 seconds or more."
+    },
+    "es": {
+      "q": "En Oregon, usted maneja a más de 30 mph. ¿A qué distancia debe ir detrás del auto de adelante?",
+      "o": [
+        "Al menos 2 segundos",
+        "Al menos 4 segundos",
+        "Al menos el largo de 1 auto",
+        "Al menos 10 pies"
+      ],
+      "h1": "Cuanto más rápido va, más tiempo necesita. Cuente en segundos.",
+      "h2": "En Oregon, a más de 30 mph, usted debe ir al menos 4 segundos detrás del auto de adelante.",
+      "p": "Correcto. A más de 30 mph, Oregon indica dejar 4 segundos o más."
+    }
+  },
+  {
+    "id": "or-034",
+    "scope": "OR",
+    "cat": "signals",
+    "conf": "high",
+    "page": 38,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, when may you use hand-and-arm signals instead of your signal lights?",
+      "o": [
+        "At night, if your signal lights are broken",
+        "Any time, day or night",
+        "In daylight, when you can see people and cars 1,000 feet away",
+        "Only when you drive a wide or long vehicle"
+      ],
+      "h1": "Other drivers must be able to see your arm clearly.",
+      "h2": "In Oregon you may use hand-and-arm signals only in daylight, when you can clearly see people and cars 1,000 feet away.",
+      "p": "Right. Hand signals are for daylight with 1,000 feet of clear view."
+    },
+    "es": {
+      "q": "En Oregon, ¿cuándo puede usar señales con la mano y el brazo en lugar de las luces direccionales?",
+      "o": [
+        "De noche, si sus luces direccionales no funcionan",
+        "En cualquier momento, de día o de noche",
+        "De día, cuando puede ver personas y autos a 1,000 pies",
+        "Solo cuando maneja un vehículo ancho o largo"
+      ],
+      "h1": "Los otros conductores deben poder ver bien su brazo.",
+      "h2": "En Oregon usted puede usar señales con la mano y el brazo solo de día, cuando puede ver con claridad personas y autos a 1,000 pies.",
+      "p": "Correcto. Las señales con la mano son para el día, con 1,000 pies de vista clara."
+    }
+  },
+  {
+    "id": "or-035",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 44,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, you are in a roundabout with two lanes. A large truck is in the circle with you. What does the law say?",
+      "o": [
+        "You may pass the truck on the right",
+        "You may drive beside the truck if you stay in your lane",
+        "You must stop inside the circle until the truck exits",
+        "You may not pass the truck or drive beside it"
+      ],
+      "h1": "A truck may need both lanes to get around the circle.",
+      "h2": "In Oregon it is against the law to pass a truck or drive beside it inside a roundabout.",
+      "p": "Right. In an Oregon roundabout, never pass a truck or ride beside it."
+    },
+    "es": {
+      "q": "En Oregon, usted está en una glorieta de dos carriles. Un camión grande está dentro del círculo con usted. ¿Qué dice la ley?",
+      "o": [
+        "Puede rebasar al camión por la derecha",
+        "Puede ir al lado del camión si se queda en su carril",
+        "Debe detenerse dentro del círculo hasta que el camión salga",
+        "No puede rebasar al camión ni ir a su lado"
+      ],
+      "h1": "Un camión puede necesitar los dos carriles para dar la vuelta.",
+      "h2": "En Oregon es ilegal rebasar a un camión o ir a su lado dentro de una glorieta.",
+      "p": "Correcto. En una glorieta de Oregon, nunca rebase a un camión ni vaya a su lado."
+    }
+  },
+  {
+    "id": "or-036",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 47,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, you are turning at an intersection with no traffic light. A person is crossing the street you are turning into. When may you start your turn?",
+      "o": [
+        "When the person is past the lane you are turning into, plus the next lane",
+        "When the person is at least 6 feet from your lane",
+        "When the person reaches the middle of the street",
+        "As soon as the person sees you"
+      ],
+      "h1": "Without a traffic light, you must give the person more room.",
+      "h2": "In Oregon, at an intersection with no traffic light, you may turn only when the person is past the lane you are turning into and the next lane too.",
+      "p": "Right. With no light, wait until the person is past your lane and the next one."
+    },
+    "es": {
+      "q": "En Oregon, usted da vuelta en una intersección sin semáforo. Una persona cruza la calle a la que usted va a entrar. ¿Cuándo puede empezar la vuelta?",
+      "o": [
+        "Cuando la persona ya pasó el carril al que usted entra y también el carril siguiente",
+        "Cuando la persona está al menos a 6 pies de su carril",
+        "Cuando la persona llega a la mitad de la calle",
+        "En cuanto la persona lo ve a usted"
+      ],
+      "h1": "Sin semáforo, usted debe dejarle más espacio a la persona.",
+      "h2": "En Oregon, en una intersección sin semáforo, usted puede dar vuelta solo cuando la persona ya pasó el carril al que usted entra y también el carril siguiente.",
+      "p": "Correcto. Sin semáforo, espere a que la persona pase su carril y el siguiente."
+    }
+  },
+  {
+    "id": "or-037",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 49,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, a school speed sign says the 20 mph limit applies during school hours. When does it apply?",
+      "o": [
+        "6 a.m. to 6 p.m. every day",
+        "7 a.m. to 5 p.m. on school days",
+        "8 a.m. to 3 p.m. on school days",
+        "Only when children are in the crosswalk"
+      ],
+      "h1": "It covers the whole school day, from early morning to late afternoon.",
+      "h2": "In Oregon, a school hours speed sign means 20 mph from 7 a.m. to 5 p.m. on days when school is in session.",
+      "p": "Right. In Oregon, school hours mean 7 a.m. to 5 p.m. on school days."
+    },
+    "es": {
+      "q": "En Oregon, una señal de zona escolar dice que el límite de 20 mph aplica en horario escolar. ¿Cuándo aplica?",
+      "o": [
+        "De 6 a.m. a 6 p.m. todos los días",
+        "De 7 a.m. a 5 p.m. en días de clases",
+        "De 8 a.m. a 3 p.m. en días de clases",
+        "Solo cuando hay niños en el cruce peatonal"
+      ],
+      "h1": "Cubre todo el día escolar, desde temprano hasta la tarde.",
+      "h2": "En Oregon, una señal de horario escolar significa 20 mph de 7 a.m. a 5 p.m. en los días en que hay clases.",
+      "p": "Correcto. En Oregon, el horario escolar es de 7 a.m. a 5 p.m. en días de clases."
+    }
+  },
+  {
+    "id": "or-038",
+    "scope": "OR",
+    "cat": "signals",
+    "conf": "high",
+    "page": 51,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, there is a green bike box painted at the intersection ahead. The light is red and you want to turn right. What do you do?",
+      "o": [
+        "Stop inside the bike box, then turn right",
+        "Turn right on red after a full stop",
+        "Stop behind the bike box and wait for green",
+        "Move into the bike lane and turn right"
+      ],
+      "h1": "The box is a space for people on bicycles, not for cars.",
+      "h2": "In Oregon you must stop behind a bike box, and you may not turn right there while the light is red.",
+      "p": "Right. At a bike box, stop behind it and wait for green to turn right."
+    },
+    "es": {
+      "q": "En Oregon, hay una caja verde para bicicletas pintada en la intersección de adelante. La luz está en rojo y usted quiere dar vuelta a la derecha. ¿Qué hace?",
+      "o": [
+        "Se detiene dentro de la caja para bicicletas y luego da vuelta",
+        "Da vuelta a la derecha con luz roja después de un alto total",
+        "Se detiene detrás de la caja para bicicletas y espera la luz verde",
+        "Se mete al carril para bicicletas y da vuelta a la derecha"
+      ],
+      "h1": "La caja es un espacio para las personas en bicicleta, no para los autos.",
+      "h2": "En Oregon usted debe detenerse detrás de una caja para bicicletas, y no puede dar vuelta a la derecha ahí con la luz en rojo.",
+      "p": "Correcto. En una caja para bicicletas, deténgase detrás y espere la luz verde para dar vuelta."
+    }
+  },
+  {
+    "id": "or-039",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 94,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, you are in a crash and a person is unconscious. How long must you stay at the scene?",
+      "o": [
+        "Until you trade names with the other driver",
+        "Until an ambulance takes the person away",
+        "For 15 minutes",
+        "Until the police arrive"
+      ],
+      "h1": "Someone with authority needs to talk to you.",
+      "h2": "In Oregon, if a person is killed or unconscious after a crash, you must stay at the scene until the police arrive.",
+      "p": "Right. In Oregon you stay until the police get there."
+    },
+    "es": {
+      "q": "En Oregon, usted tiene un choque y una persona está inconsciente. ¿Cuánto tiempo debe quedarse en el lugar?",
+      "o": [
+        "Hasta intercambiar nombres con el otro conductor",
+        "Hasta que una ambulancia se lleve a la persona",
+        "Durante 15 minutos",
+        "Hasta que llegue la policía"
+      ],
+      "h1": "Una autoridad necesita hablar con usted.",
+      "h2": "En Oregon, si una persona muere o queda inconsciente en un choque, usted debe quedarse en el lugar hasta que llegue la policía.",
+      "p": "Correcto. En Oregon usted se queda hasta que llegue la policía."
+    }
+  },
+  {
+    "id": "or-040",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 59,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, a work zone has a lower temporary speed limit posted. When must you obey it?",
+      "o": [
+        "At all times, even when you see no workers",
+        "Only when workers are in sight",
+        "Only during the day",
+        "Only when the orange lights are flashing"
+      ],
+      "h1": "Dangers in a work zone are there even when the crew is gone.",
+      "h2": "In Oregon the temporary speed limit in a work zone applies at all times, even if you do not see any workers.",
+      "p": "Right. In Oregon the work zone speed applies all the time."
+    },
+    "es": {
+      "q": "En Oregon, una zona de obras tiene un límite de velocidad temporal más bajo. ¿Cuándo debe obedecerlo?",
+      "o": [
+        "Siempre, aunque no vea trabajadores",
+        "Solo cuando se ven trabajadores",
+        "Solo durante el día",
+        "Solo cuando las luces anaranjadas parpadean"
+      ],
+      "h1": "Los peligros de una zona de obras siguen ahí aunque los trabajadores se hayan ido.",
+      "h2": "En Oregon el límite temporal de una zona de obras aplica siempre, aunque usted no vea trabajadores.",
+      "p": "Correcto. En Oregon la velocidad de la zona de obras aplica todo el tiempo."
+    }
+  },
+  {
+    "id": "or-041",
+    "scope": "OR",
+    "cat": "signals",
+    "conf": "high",
+    "page": 59,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, a work zone has an automated flagger machine with lights and a gate arm. When must you stop?",
+      "o": [
+        "When the yellow light flashes and the arm is up",
+        "When the red light is on and the arm is down",
+        "Only when a person stands next to the machine",
+        "Never, it is only a warning"
+      ],
+      "h1": "The machine works like a person with a STOP sign.",
+      "h2": "In Oregon you must stop at an automated flagger when its red light is on and its arm is down, and go when the yellow light flashes and the arm is up.",
+      "p": "Right. Red light and arm down means stop."
+    },
+    "es": {
+      "q": "En Oregon, una zona de obras tiene una máquina abanderada automática con luces y un brazo. ¿Cuándo debe detenerse?",
+      "o": [
+        "Cuando la luz amarilla parpadea y el brazo está arriba",
+        "Cuando la luz roja está encendida y el brazo está abajo",
+        "Solo cuando hay una persona junto a la máquina",
+        "Nunca, es solo una advertencia"
+      ],
+      "h1": "La máquina funciona como una persona con una señal de ALTO.",
+      "h2": "En Oregon usted debe detenerse ante un abanderado automático cuando la luz roja está encendida y el brazo está abajo, y avanzar cuando la luz amarilla parpadea y el brazo está arriba.",
+      "p": "Correcto. Luz roja y brazo abajo significan alto."
+    }
+  },
+  {
+    "id": "or-042",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 75,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, a person riding a horse ahead of you raises a hand. What does it mean, and what do you do?",
+      "o": [
+        "They want you to pass, so speed up",
+        "They are saying hello, so wave back",
+        "The horse is frightened, so stop if you can do it safely",
+        "They are turning, so honk to warn them"
+      ],
+      "h1": "Think about what a loud car can do to a nervous animal.",
+      "h2": "In Oregon a raised hand from a horse rider means the animal is frightened, so you must stop unless stopping would cause a crash.",
+      "p": "Right. A raised hand means a scared horse, so stop and stay quiet."
+    },
+    "es": {
+      "q": "En Oregon, una persona que va a caballo delante de usted levanta la mano. ¿Qué significa y qué hace usted?",
+      "o": [
+        "Quiere que usted pase, así que acelera",
+        "Lo está saludando, así que usted la saluda",
+        "El caballo está asustado, así que se detiene si puede hacerlo con seguridad",
+        "Va a dar vuelta, así que toca la bocina para avisarle"
+      ],
+      "h1": "Piense en lo que un auto ruidoso le puede hacer a un animal nervioso.",
+      "h2": "En Oregon, una mano levantada de quien va a caballo significa que el animal está asustado, y usted debe detenerse a menos que eso cause un choque.",
+      "p": "Correcto. Una mano levantada significa un caballo asustado: deténgase y no haga ruido."
+    }
+  },
+  {
+    "id": "or-043",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, how many times in total may you take the knowledge test online before you must take it at a DMV office?",
+      "o": [
+        "One time",
+        "Two times",
+        "Three times",
+        "Four times"
+      ],
+      "h1": "You may try twice in one day, and the total is double that.",
+      "h2": "In Oregon you may take the knowledge test online four times in total; after that you must test at a DMV office.",
+      "p": "Right. Oregon allows four online tries, then you go to a DMV office."
+    },
+    "es": {
+      "q": "En Oregon, ¿cuántas veces en total puede tomar el examen de conocimientos en línea antes de tener que tomarlo en una oficina del DMV?",
+      "o": [
+        "Una vez",
+        "Dos veces",
+        "Tres veces",
+        "Cuatro veces"
+      ],
+      "h1": "Puede intentarlo dos veces en un día, y el total es el doble.",
+      "h2": "En Oregon usted puede tomar el examen de conocimientos en línea cuatro veces en total; después debe tomarlo en una oficina del DMV.",
+      "p": "Correcto. Oregon permite cuatro intentos en línea; después usted va a una oficina del DMV."
+    }
+  },
+  {
+    "id": "or-044",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 71,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, you want to park across the street from the driveway of a fire station. How close may you park to it?",
+      "o": [
+        "No closer than 75 feet",
+        "No closer than 15 feet",
+        "No closer than 20 feet",
+        "No closer than 50 feet"
+      ],
+      "h1": "Across the street, the distance is much larger than on the same side.",
+      "h2": "In Oregon you may not park within 75 feet of a fire station driveway on the other side of the street.",
+      "p": "Right. Across from a fire station driveway, stay 75 feet away."
+    },
+    "es": {
+      "q": "En Oregon, usted quiere estacionarse en el lado opuesto de la calle, frente a la entrada de una estación de bomberos. ¿A qué distancia mínima puede estacionarse?",
+      "o": [
+        "A no menos de 75 pies",
+        "A no menos de 15 pies",
+        "A no menos de 20 pies",
+        "A no menos de 50 pies"
+      ],
+      "h1": "En el lado opuesto de la calle, la distancia es mucho mayor que en el mismo lado.",
+      "h2": "En Oregon no puede estacionarse a menos de 75 pies de la entrada de una estación de bomberos en el lado opuesto de la calle.",
+      "p": "Correcto. Frente a la entrada de una estación de bomberos, quédese a 75 pies."
+    }
+  },
+  {
+    "id": "or-045",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 74,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, until what age must a baby ride in a rear-facing car seat?",
+      "o": [
+        "Until age 1",
+        "Until age 2",
+        "Until age 4",
+        "Until age 8"
+      ],
+      "h1": "It is past the first birthday.",
+      "h2": "In Oregon an infant must ride facing the rear until age 2.",
+      "p": "Right. In Oregon, babies ride rear-facing until they turn 2."
+    },
+    "es": {
+      "q": "En Oregon, ¿hasta qué edad debe viajar un bebé en un asiento de seguridad mirando hacia atrás?",
+      "o": [
+        "Hasta 1 año",
+        "Hasta 2 años",
+        "Hasta 4 años",
+        "Hasta 8 años"
+      ],
+      "h1": "Es después del primer cumpleaños.",
+      "h2": "En Oregon un bebé debe viajar mirando hacia atrás hasta los 2 años.",
+      "p": "Correcto. En Oregon los bebés viajan mirando hacia atrás hasta cumplir 2 años."
+    }
+  },
+  {
+    "id": "or-046",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 76,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, a car is coming toward you at night and you must dim your headlights. What must you do with your fog lights?",
+      "o": [
+        "Leave them on to help you see",
+        "Switch them on instead of the headlights",
+        "Turn them off",
+        "Flash them once as a greeting"
+      ],
+      "h1": "Extra lights make it hard for the other driver to see.",
+      "h2": "In Oregon, whenever you must dim your headlights, your fog lights and other extra lights must be off.",
+      "p": "Right. When you dim your headlights, the fog lights go off too."
+    },
+    "es": {
+      "q": "En Oregon, de noche viene un auto de frente y usted debe bajar las luces. ¿Qué debe hacer con las luces antiniebla?",
+      "o": [
+        "Dejarlas encendidas para ver mejor",
+        "Encenderlas en lugar de los faros",
+        "Apagarlas",
+        "Hacer un cambio de luces como saludo"
+      ],
+      "h1": "Las luces adicionales le dificultan la vista al otro conductor.",
+      "h2": "En Oregon, siempre que deba bajar las luces, las luces antiniebla y otras luces adicionales deben estar apagadas.",
+      "p": "Correcto. Cuando baja las luces, también apaga las luces antiniebla."
+    }
+  },
+  {
+    "id": "or-047",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 80,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, it is against the law to play your car's music so loud that someone can hear it how far away?",
+      "o": [
+        "10 feet",
+        "25 feet",
+        "100 feet",
+        "50 feet"
+      ],
+      "h1": "It is a little more than the length of three cars.",
+      "h2": "In Oregon it is illegal to play a radio or sound system so loud that it can be heard 50 feet from your car.",
+      "p": "Right. In Oregon, music heard 50 feet away is too loud."
+    },
+    "es": {
+      "q": "En Oregon, es ilegal poner la música del auto tan fuerte que se oiga desde cierta distancia. ¿Desde qué distancia?",
+      "o": [
+        "10 pies",
+        "25 pies",
+        "100 pies",
+        "50 pies"
+      ],
+      "h1": "Es un poco más que el largo de tres autos.",
+      "h2": "En Oregon es ilegal poner la radio o un equipo de sonido tan fuerte que se oiga a 50 pies de su auto.",
+      "p": "Correcto. En Oregon, la música que se oye a 50 pies está demasiado fuerte."
+    }
+  },
+  {
+    "id": "or-048",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 84,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, who is not allowed by law to ride in the open bed of a pickup truck?",
+      "o": [
+        "Anyone under 18",
+        "Anyone under 12",
+        "Only children under 8",
+        "Anyone without a seat belt, but only on highways"
+      ],
+      "h1": "The age is the same as the end of the teen phone ban.",
+      "h2": "In Oregon the law forbids anyone under 18 from riding in a pickup bed or on any outside part of a vehicle, and no one of any age should ride there.",
+      "p": "Right. In Oregon no one under 18 may ride in a pickup bed."
+    },
+    "es": {
+      "q": "En Oregon, ¿a quién le prohíbe la ley viajar en la caja abierta de una camioneta pickup?",
+      "o": [
+        "A cualquier menor de 18 años",
+        "A cualquier menor de 12 años",
+        "Solo a los niños menores de 8 años",
+        "A cualquiera sin cinturón, pero solo en carreteras"
+      ],
+      "h1": "Es la misma edad en que termina la prohibición del celular para jóvenes.",
+      "h2": "En Oregon la ley prohíbe que un menor de 18 años viaje en la caja de una pickup o en cualquier parte exterior de un vehículo, y nadie de ninguna edad debería viajar ahí.",
+      "p": "Correcto. En Oregon ningún menor de 18 años puede viajar en la caja de una pickup."
+    }
+  },
+  {
+    "id": "or-049",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 93,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, what is the minimum Personal Injury Protection (PIP) coverage a car owner must carry for each person?",
+      "o": [
+        "$10,000",
+        "$15,000",
+        "$25,000",
+        "$50,000"
+      ],
+      "h1": "It is less than the bodily injury minimum for one person.",
+      "h2": "In Oregon a car owner must carry at least $15,000 of Personal Injury Protection for each person.",
+      "p": "Right. Oregon PIP is at least $15,000 per person."
+    },
+    "es": {
+      "q": "En Oregon, ¿cuál es la cobertura mínima de Protección contra Lesiones Personales (PIP) que debe tener el dueño de un auto por cada persona?",
+      "o": [
+        "$10,000",
+        "$15,000",
+        "$25,000",
+        "$50,000"
+      ],
+      "h1": "Es menos que el mínimo de lesiones corporales para una persona.",
+      "h2": "En Oregon el dueño de un auto debe tener al menos $15,000 de Protección contra Lesiones Personales por cada persona.",
+      "p": "Correcto. El PIP en Oregon es de al menos $15,000 por persona."
+    }
+  },
+  {
+    "id": "or-050",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 56,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, a city bus at the curb signals to pull back into your lane, and a YIELD sign is flashing on its back. What must you do?",
+      "o": [
+        "Speed up and pass before it moves",
+        "Honk so the driver waits for you",
+        "Yield and let the bus pull into the lane",
+        "Change lanes without slowing down"
+      ],
+      "h1": "The flashing sign on the bus tells you what to do.",
+      "h2": "In Oregon you must yield to a transit bus that signals to re-enter traffic while the YIELD sign on its back is flashing.",
+      "p": "Right. In Oregon you let the bus back into the lane."
+    },
+    "es": {
+      "q": "En Oregon, un autobús urbano junto a la acera señala que va a volver a su carril, y en su parte trasera parpadea una señal de YIELD (ceda el paso). ¿Qué debe hacer?",
+      "o": [
+        "Acelerar y pasar antes de que se mueva",
+        "Tocar la bocina para que el conductor lo espere",
+        "Ceder el paso y dejar que el autobús entre al carril",
+        "Cambiar de carril sin bajar la velocidad"
+      ],
+      "h1": "La señal que parpadea en el autobús le dice qué hacer.",
+      "h2": "En Oregon usted debe ceder el paso a un autobús de transporte público que señala para volver al tráfico mientras parpadea la señal de YIELD en su parte trasera.",
+      "p": "Correcto. En Oregon usted deja que el autobús vuelva al carril."
+    }
   }
 ]
