@@ -4180,5 +4180,1365 @@
       "h2": "في California، يجب على السائق الذي عمره 70 سنة أو أكثر عندما تنتهي رخصته أن يجدّدها شخصيًا وأن ينجح في فحص النظر.",
       "p": "صحيح. من عمر 70 فما فوق يجدّد شخصيًا مع فحص النظر."
     }
+  },
+  {
+    "id": "ca-052",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, a teen under 18 applies for a permit. The parents share joint custody. Who must sign the application?",
+      "o": [
+        "Only the parent the teen lives with",
+        "Only the older parent",
+        "Both parents",
+        "No parent, if the teen is 17"
+      ],
+      "h1": "Think about what joint custody means for both adults.",
+      "h2": "In California, when parents or guardians share joint custody of a teen, both of them must sign the permit application.",
+      "p": "Right. With joint custody, both parents sign."
+    },
+    "es": {
+      "q": "En California, un joven menor de 18 años solicita un permiso. Los padres tienen custodia compartida. ¿Quién debe firmar la solicitud?",
+      "o": [
+        "Solo el padre o la madre con quien vive",
+        "Solo el padre o la madre de más edad",
+        "Los dos padres",
+        "Ningún padre, si el joven tiene 17 años"
+      ],
+      "h1": "Piense en lo que significa la custodia compartida para los dos adultos.",
+      "h2": "En California, cuando los padres o tutores tienen custodia compartida de un joven, los dos deben firmar la solicitud del permiso.",
+      "p": "Correcto. Con custodia compartida, firman los dos padres."
+    }
+  },
+  {
+    "id": "ca-053",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, a 15-and-a-half-year-old just got an instruction permit. When may the teen start driving with it?",
+      "o": [
+        "When driver training starts and the instructor validates it",
+        "Right away, with any licensed adult age 18 or older",
+        "Only after turning 16 and passing a test",
+        "Only after passing the behind-the-wheel drive test"
+      ],
+      "h1": "A driving instructor must do something to the permit first.",
+      "h2": "In California, a teen under 18 may not use the instruction permit until behind-the-wheel training begins with an instructor who validates the permit.",
+      "p": "Right. The permit works once training starts and the instructor validates it."
+    },
+    "es": {
+      "q": "En California, un joven de 15 años y medio acaba de recibir su permiso de instrucción. ¿Cuándo puede empezar a manejar con él?",
+      "o": [
+        "Cuando empieza el entrenamiento y el instructor lo valida",
+        "De inmediato, con cualquier adulto con licencia de 18 años o más",
+        "Solo después de cumplir 16 años y pasar un examen",
+        "Solo después de pasar el examen de manejo al volante"
+      ],
+      "h1": "Un instructor de manejo debe hacer algo con el permiso primero.",
+      "h2": "En California, un joven menor de 18 años no puede usar el permiso de instrucción hasta que empiece el entrenamiento al volante con un instructor que valide el permiso.",
+      "p": "Correcto. El permiso sirve cuando empieza el entrenamiento y el instructor lo valida."
+    }
+  },
+  {
+    "id": "ca-054",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, you are 30 years old and have an instruction permit. How old must the licensed driver who rides with you be?",
+      "o": [
+        "At least 16",
+        "At least 18",
+        "At least 21",
+        "At least 25"
+      ],
+      "h1": "The age of 25 applies only when the learner is a minor.",
+      "h2": "In California, an adult with an instruction permit must practice with a California-licensed driver who is at least 18 years old.",
+      "p": "Right. For an adult learner, the licensed driver must be at least 18."
+    },
+    "es": {
+      "q": "En California, usted tiene 30 años y un permiso de instrucción. ¿Qué edad debe tener el conductor con licencia que lo acompaña?",
+      "o": [
+        "Por lo menos 16 años",
+        "Por lo menos 18 años",
+        "Por lo menos 21 años",
+        "Por lo menos 25 años"
+      ],
+      "h1": "La edad de 25 años es solo cuando el aprendiz es menor de edad.",
+      "h2": "En California, un adulto con permiso de instrucción debe practicar con un conductor con licencia de California que tenga por lo menos 18 años.",
+      "p": "Correcto. Para un aprendiz adulto, el conductor con licencia debe tener por lo menos 18 años."
+    }
+  },
+  {
+    "id": "ca-055",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, what is the youngest age to get a provisional driver's license?",
+      "o": [
+        "15",
+        "15 and a half",
+        "17",
+        "16"
+      ],
+      "h1": "It is half a year after the youngest permit age.",
+      "h2": "In California, a teen must be at least 16 years old to get a provisional driver's license.",
+      "p": "Right. The provisional license starts at age 16."
+    },
+    "es": {
+      "q": "En California, ¿cuál es la edad mínima para obtener una licencia de manejar provisional?",
+      "o": [
+        "15 años",
+        "15 años y medio",
+        "17 años",
+        "16 años"
+      ],
+      "h1": "Es medio año después de la edad mínima para el permiso.",
+      "h2": "En California, un joven debe tener por lo menos 16 años para obtener una licencia de manejar provisional.",
+      "p": "Correcto. La licencia provisional empieza a los 16 años."
+    }
+  },
+  {
+    "id": "ca-056",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, how long must a teen under 18 hold an instruction permit before scheduling the drive test?",
+      "o": [
+        "30 days, or until turning 17",
+        "3 months, or until turning 17",
+        "6 months, or until turning 18",
+        "One full year, with no exceptions"
+      ],
+      "h1": "It is half a year, unless the teen turns 18 first.",
+      "h2": "In California, a teen must hold an instruction permit for at least 6 months, or until turning 18, before scheduling the drive test.",
+      "p": "Right. Six months with the permit, or until age 18."
+    },
+    "es": {
+      "q": "En California, ¿cuánto tiempo debe tener un joven menor de 18 años el permiso de instrucción antes de hacer la cita para el examen de manejo?",
+      "o": [
+        "30 días, o hasta cumplir 17 años",
+        "3 meses, o hasta cumplir 17 años",
+        "6 meses, o hasta cumplir 18 años",
+        "Un año completo, sin excepciones"
+      ],
+      "h1": "Es medio año, a menos que el joven cumpla 18 años antes.",
+      "h2": "En California, un joven debe tener el permiso de instrucción por lo menos 6 meses, o hasta cumplir 18 años, antes de hacer la cita para el examen de manejo.",
+      "p": "Correcto. Seis meses con el permiso, o hasta los 18 años."
+    }
+  },
+  {
+    "id": "ca-057",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, a 16-year-old in the first year of a provisional license must drive home from work at midnight. What must the teen carry?",
+      "o": [
+        "A copy of the latest paycheck",
+        "A note signed by the employer",
+        "A note from a friend age 20 or older",
+        "Nothing; work is always allowed"
+      ],
+      "h1": "The person who can confirm the job must sign it.",
+      "h2": "In California, a provisional driver who must drive for work during restricted hours must carry a note signed by the employer that confirms the job.",
+      "p": "Right. Carry a note signed by your employer."
+    },
+    "es": {
+      "q": "En California, un joven de 16 años en el primer año de su licencia provisional debe manejar a casa desde el trabajo a medianoche. ¿Qué debe llevar?",
+      "o": [
+        "Una copia de su último cheque de pago",
+        "Una nota firmada por su empleador",
+        "Una nota de un amigo de 20 años o más",
+        "Nada; el trabajo siempre está permitido"
+      ],
+      "h1": "La persona que puede confirmar el empleo debe firmarla.",
+      "h2": "En California, un conductor provisional que debe manejar por trabajo en las horas restringidas debe llevar una nota firmada por su empleador que confirme el empleo.",
+      "p": "Correcto. Lleve una nota firmada por su empleador."
+    }
+  },
+  {
+    "id": "ca-058",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 5,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, a 16-year-old fails the knowledge test. How long must the teen wait before trying again?",
+      "o": [
+        "7 days",
+        "1 day",
+        "30 days",
+        "6 months"
+      ],
+      "h1": "It is about one week.",
+      "h2": "In California, a minor who fails the knowledge test must wait seven days, not counting the day of the failure, before retaking it.",
+      "p": "Right. A minor waits seven days to retake the knowledge test."
+    },
+    "es": {
+      "q": "En California, un joven de 16 años no pasa el examen de conocimientos. ¿Cuánto tiempo debe esperar para intentarlo de nuevo?",
+      "o": [
+        "7 días",
+        "1 día",
+        "30 días",
+        "6 meses"
+      ],
+      "h1": "Es más o menos una semana.",
+      "h2": "En California, un menor que no pasa el examen de conocimientos debe esperar siete días, sin contar el día en que no lo pasó, para repetirlo.",
+      "p": "Correcto. Un menor espera siete días para repetir el examen de conocimientos."
+    }
+  },
+  {
+    "id": "ca-059",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, a 17-year-old fails the behind-the-wheel drive test. How long must the teen wait before trying again?",
+      "o": [
+        "1 day",
+        "7 days",
+        "60 days",
+        "14 days"
+      ],
+      "h1": "It is two weeks.",
+      "h2": "In California, a minor who fails the drive test must wait 14 days, not counting the day of the failure, before retaking it.",
+      "p": "Right. A minor waits 14 days to retake the drive test."
+    },
+    "es": {
+      "q": "En California, un joven de 17 años no pasa el examen de manejo al volante. ¿Cuánto tiempo debe esperar para intentarlo de nuevo?",
+      "o": [
+        "1 día",
+        "7 días",
+        "60 días",
+        "14 días"
+      ],
+      "h1": "Son dos semanas.",
+      "h2": "En California, un menor que no pasa el examen de manejo debe esperar 14 días, sin contar el día en que no lo pasó, para repetirlo.",
+      "p": "Correcto. Un menor espera 14 días para repetir el examen de manejo."
+    }
+  },
+  {
+    "id": "ca-060",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 8,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, you are living out of state for a while and cannot renew your license. What may you ask the DMV for before it expires?",
+      "o": [
+        "A two-week grace period",
+        "A one-year extension",
+        "A free five-year renewal",
+        "A permit to drive without a license"
+      ],
+      "h1": "The extra time is measured in years, not weeks.",
+      "h2": "In California, a driver who is out of state and cannot renew may ask the DMV for a one-year extension before the license expires.",
+      "p": "Right. You may ask for a one-year extension."
+    },
+    "es": {
+      "q": "En California, usted vive fuera del estado por un tiempo y no puede renovar su licencia. ¿Qué le puede pedir al DMV antes de que venza?",
+      "o": [
+        "Un período de gracia de dos semanas",
+        "Una extensión de un año",
+        "Una renovación gratis por cinco años",
+        "Un permiso para manejar sin licencia"
+      ],
+      "h1": "El tiempo extra se mide en años, no en semanas.",
+      "h2": "En California, un conductor que está fuera del estado y no puede renovar puede pedirle al DMV una extensión de un año antes de que venza la licencia.",
+      "p": "Correcto. Puede pedir una extensión de un año."
+    }
+  },
+  {
+    "id": "ca-061",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 55,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, a provisional driver is on probation and then turns 18. What happens to the probation?",
+      "o": [
+        "It ends on the 18th birthday",
+        "It turns into a warning letter only",
+        "It stays; turning 18 does not end it",
+        "It is cut in half at age 18"
+      ],
+      "h1": "A birthday does not clear the driving record.",
+      "h2": "In California, turning 18 does not erase or end a provisional driver's existing restrictions, suspensions or probation.",
+      "p": "Right. Turning 18 does not end probation."
+    },
+    "es": {
+      "q": "En California, un conductor provisional está en libertad condicional y luego cumple 18 años. ¿Qué pasa con la libertad condicional?",
+      "o": [
+        "Termina el día que cumple 18 años",
+        "Se convierte en solo una carta de advertencia",
+        "Sigue igual; cumplir 18 años no la termina",
+        "Se reduce a la mitad a los 18 años"
+      ],
+      "h1": "Un cumpleaños no borra el historial de manejo.",
+      "h2": "En California, cumplir 18 años no borra ni termina las restricciones, suspensiones o libertad condicional que ya tiene un conductor provisional.",
+      "p": "Correcto. Cumplir 18 años no termina la libertad condicional."
+    }
+  },
+  {
+    "id": "ca-062",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 54,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, a judge may let you attend traffic violator school for a one-point ticket. How often may you do this?",
+      "o": [
+        "Once in any 30-day period",
+        "Every time you get a ticket",
+        "Once in your whole lifetime",
+        "Once in any 18-month period"
+      ],
+      "h1": "It is a period of a year and a half.",
+      "h2": "In California, you may attend traffic violator school for a one-point ticket once in any 18-month period.",
+      "p": "Right. Once every 18 months."
+    },
+    "es": {
+      "q": "En California, un juez puede permitirle ir a la escuela para infractores de tránsito por una multa de un punto. ¿Con qué frecuencia puede hacerlo?",
+      "o": [
+        "Una vez en cualquier período de 30 días",
+        "Cada vez que reciba una multa",
+        "Una sola vez en toda su vida",
+        "Una vez en cualquier período de 18 meses"
+      ],
+      "h1": "Es un período de un año y medio.",
+      "h2": "En California, usted puede ir a la escuela para infractores de tránsito por una multa de un punto una vez en cualquier período de 18 meses.",
+      "p": "Correcto. Una vez cada 18 meses."
+    }
+  },
+  {
+    "id": "ca-063",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 54,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, what does the DMV do if you are convicted of a hit-and-run in which someone was hurt?",
+      "o": [
+        "Revokes your driving privilege",
+        "Adds one point and nothing else",
+        "Sends you a warning letter",
+        "Requires only a vision test"
+      ],
+      "h1": "It is the most serious action the DMV can take.",
+      "h2": "In California, the DMV revokes your driving privilege if you are convicted of a hit-and-run that resulted in injury.",
+      "p": "Right. A hit-and-run conviction means revocation."
+    },
+    "es": {
+      "q": "En California, ¿qué hace el DMV si a usted lo declaran culpable de huir del lugar de un choque en el que alguien resultó herido?",
+      "o": [
+        "Revoca su privilegio de manejar",
+        "Agrega un punto y nada más",
+        "Le manda una carta de advertencia",
+        "Solo le pide un examen de la vista"
+      ],
+      "h1": "Es la acción más seria que puede tomar el DMV.",
+      "h2": "En California, el DMV revoca su privilegio de manejar si a usted lo declaran culpable de huir del lugar de un choque en el que hubo heridos.",
+      "p": "Correcto. Huir de un choque significa la revocación."
+    }
+  },
+  {
+    "id": "ca-064",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 53,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, you lend your car to a friend who has no driver's license, and the friend is caught driving it. What can happen to your car?",
+      "o": [
+        "Nothing, because it is your car",
+        "It gets a parking ticket",
+        "It may be impounded for 30 days",
+        "It must be sold"
+      ],
+      "h1": "The car itself can be held for about a month.",
+      "h2": "In California, if an unlicensed person is caught driving your vehicle, the vehicle may be impounded for 30 days.",
+      "p": "Right. The car may be impounded for 30 days."
+    },
+    "es": {
+      "q": "En California, usted le presta su carro a un amigo que no tiene licencia de manejar, y lo detienen manejándolo. ¿Qué le puede pasar a su carro?",
+      "o": [
+        "Nada, porque el carro es suyo",
+        "Recibe una multa de estacionamiento",
+        "Pueden incautarlo por 30 días",
+        "Hay que venderlo"
+      ],
+      "h1": "El carro mismo puede quedar retenido por más o menos un mes.",
+      "h2": "En California, si detienen a una persona sin licencia manejando su vehículo, pueden incautar el vehículo por 30 días.",
+      "p": "Correcto. Pueden incautar el carro por 30 días."
+    }
+  },
+  {
+    "id": "ca-065",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 74,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, after a DUI arrest, the officer takes your license. How long is the temporary license you may receive good for?",
+      "o": [
+        "24 hours",
+        "30 days",
+        "6 months",
+        "One year"
+      ],
+      "h1": "It lasts about one month.",
+      "h2": "In California, after a DUI arrest, the officer may take your license and give you a temporary license that is good for 30 days.",
+      "p": "Right. The temporary license lasts 30 days."
+    },
+    "es": {
+      "q": "En California, después de un arresto por manejar bajo la influencia, el oficial le quita la licencia. ¿Por cuánto tiempo es válida la licencia temporal que le pueden dar?",
+      "o": [
+        "24 horas",
+        "30 días",
+        "6 meses",
+        "Un año"
+      ],
+      "h1": "Dura más o menos un mes.",
+      "h2": "En California, después de un arresto por manejar bajo la influencia, el oficial puede quitarle la licencia y darle una licencia temporal válida por 30 días.",
+      "p": "Correcto. La licencia temporal dura 30 días."
+    }
+  },
+  {
+    "id": "ca-066",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 74,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, how long does a DUI conviction stay on your driving record?",
+      "o": [
+        "1 year",
+        "3 years",
+        "5 years",
+        "10 years"
+      ],
+      "h1": "It is longer than the usual three years for other tickets.",
+      "h2": "In California, every DUI conviction stays on your driving record for 10 years.",
+      "p": "Right. A DUI stays on your record for 10 years."
+    },
+    "es": {
+      "q": "En California, ¿cuánto tiempo queda en su historial de manejo una condena por manejar bajo la influencia?",
+      "o": [
+        "1 año",
+        "3 años",
+        "5 años",
+        "10 años"
+      ],
+      "h1": "Es más que los tres años normales de otras multas.",
+      "h2": "En California, toda condena por manejar bajo la influencia queda en su historial de manejo por 10 años.",
+      "p": "Correcto. Una condena por manejar bajo la influencia queda 10 años en su historial."
+    }
+  },
+  {
+    "id": "ca-067",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 73,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, you drive passengers for hire, such as a ride-share trip. At what blood alcohol level is it illegal for you to drive?",
+      "o": [
+        "0.04 percent or more",
+        "0.08 percent or more",
+        "0.10 percent or more",
+        "0.15 percent or more"
+      ],
+      "h1": "It is half the regular adult limit.",
+      "h2": "In California, it is illegal to drive a passenger for hire with a blood alcohol level of 0.04 percent or more.",
+      "p": "Right. With a paying passenger, the limit is 0.04 percent."
+    },
+    "es": {
+      "q": "En California, usted lleva pasajeros que le pagan, como en un viaje de transporte compartido. ¿Con qué nivel de alcohol en la sangre es ilegal manejar?",
+      "o": [
+        "0.04 por ciento o más",
+        "0.08 por ciento o más",
+        "0.10 por ciento o más",
+        "0.15 por ciento o más"
+      ],
+      "h1": "Es la mitad del límite normal para adultos.",
+      "h2": "En California, es ilegal llevar a un pasajero que paga con un nivel de alcohol en la sangre de 0.04 por ciento o más.",
+      "p": "Correcto. Con un pasajero que paga, el límite es 0.04 por ciento."
+    }
+  },
+  {
+    "id": "ca-068",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 72,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, a 15-year-old is convicted of riding a bicycle under the influence of alcohol. What can happen to the teen's driving privilege?",
+      "o": [
+        "Nothing, because a bicycle is not a car",
+        "A $10 fine only",
+        "It may be suspended or delayed for one year",
+        "The teen must wait until age 25"
+      ],
+      "h1": "It can affect a future license, not just the bicycle.",
+      "h2": "In California, a person 13 to 20 years old convicted of riding a bicycle under the influence may have the driving privilege suspended or delayed for one year.",
+      "p": "Right. The driving privilege may be suspended or delayed for one year."
+    },
+    "es": {
+      "q": "En California, a un joven de 15 años lo declaran culpable de andar en bicicleta bajo la influencia del alcohol. ¿Qué le puede pasar a su privilegio de manejar?",
+      "o": [
+        "Nada, porque una bicicleta no es un carro",
+        "Solo una multa de $10",
+        "Pueden suspenderlo o retrasarlo por un año",
+        "Debe esperar hasta los 25 años"
+      ],
+      "h1": "Puede afectar una licencia futura, no solo la bicicleta.",
+      "h2": "En California, a una persona de 13 a 20 años declarada culpable de andar en bicicleta bajo la influencia le pueden suspender o retrasar el privilegio de manejar por un año.",
+      "p": "Correcto. Pueden suspender o retrasar el privilegio de manejar por un año."
+    }
+  },
+  {
+    "id": "ca-069",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 72,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, you carry an opened bottle of alcohol in your car. Where must you keep it?",
+      "o": [
+        "In the glove box",
+        "Under the driver's seat",
+        "In a cup holder with the cap on",
+        "In the trunk or where passengers do not sit"
+      ],
+      "h1": "It must be away from where people ride.",
+      "h2": "In California, an opened alcohol container must be kept in the trunk or another place where passengers do not sit; the glove box is not allowed.",
+      "p": "Right. Keep it in the trunk or where no one sits."
+    },
+    "es": {
+      "q": "En California, usted lleva en su carro una botella de alcohol abierta. ¿Dónde debe guardarla?",
+      "o": [
+        "En la guantera",
+        "Debajo del asiento del conductor",
+        "En un portavasos con la tapa puesta",
+        "En la cajuela o donde no se sientan pasajeros"
+      ],
+      "h1": "Debe estar lejos de donde viajan las personas.",
+      "h2": "En California, un envase de alcohol abierto debe ir en la cajuela u otro lugar donde no se sientan pasajeros; la guantera no está permitida.",
+      "p": "Correcto. Guárdela en la cajuela o donde nadie se sienta."
+    }
+  },
+  {
+    "id": "ca-070",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 76,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, what is the minimum liability insurance for injury or death to more than one person in a crash?",
+      "o": [
+        "$60,000",
+        "$15,000",
+        "$30,000",
+        "$100,000"
+      ],
+      "h1": "It is twice the amount for one person.",
+      "h2": "In California, your insurance must cover at least $60,000 for death or injury to more than one person.",
+      "p": "Right. The minimum is $60,000 for more than one person."
+    },
+    "es": {
+      "q": "En California, ¿cuál es el seguro mínimo de responsabilidad civil por lesiones o muerte de más de una persona en un choque?",
+      "o": [
+        "$60,000",
+        "$15,000",
+        "$30,000",
+        "$100,000"
+      ],
+      "h1": "Es el doble de la cantidad para una persona.",
+      "h2": "En California, su seguro debe cubrir por lo menos $60,000 por muerte o lesiones de más de una persona.",
+      "p": "Correcto. El mínimo es $60,000 para más de una persona."
+    }
+  },
+  {
+    "id": "ca-071",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 76,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, your license was suspended for a crash without insurance. How can you get it back early?",
+      "o": [
+        "Pay a $50 reinstatement fee only",
+        "Retake the vision and knowledge tests",
+        "File an SR 22/SR 1P and keep it for three years",
+        "Get a letter from the other driver"
+      ],
+      "h1": "You must prove you have insurance and keep proving it.",
+      "h2": "In California, after a suspension for driving uninsured, you can get your license back during the last three years by filing an SR 22/SR 1P insurance certificate and keeping it for those three years.",
+      "p": "Right. File an SR 22/SR 1P and keep it for three years."
+    },
+    "es": {
+      "q": "En California, le suspendieron la licencia por un choque sin seguro. ¿Cómo puede recuperarla antes?",
+      "o": [
+        "Pagar solo una cuota de $50 para reactivarla",
+        "Repetir los exámenes de la vista y de conocimientos",
+        "Presentar un SR 22/SR 1P y mantenerlo por tres años",
+        "Conseguir una carta del otro conductor"
+      ],
+      "h1": "Debe probar que tiene seguro y seguir probándolo.",
+      "h2": "En California, después de una suspensión por manejar sin seguro, puede recuperar su licencia durante los últimos tres años si presenta un certificado de seguro SR 22/SR 1P y lo mantiene esos tres años.",
+      "p": "Correcto. Presente un SR 22/SR 1P y manténgalo por tres años."
+    }
+  },
+  {
+    "id": "ca-072",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 77,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, someone was hurt in a crash you were in. How soon must a report be made to law enforcement?",
+      "o": [
+        "Within 1 hour",
+        "Within 24 hours",
+        "Within 10 days",
+        "Within 30 days"
+      ],
+      "h1": "It is within one day.",
+      "h2": "In California, if anyone is injured or killed in a crash, you must make a report to law enforcement within 24 hours.",
+      "p": "Right. Report it to law enforcement within 24 hours."
+    },
+    "es": {
+      "q": "En California, alguien se lastimó en un choque en el que usted estuvo. ¿En cuánto tiempo se debe hacer un reporte a la policía?",
+      "o": [
+        "En 1 hora",
+        "En 24 horas",
+        "En 10 días",
+        "En 30 días"
+      ],
+      "h1": "Es dentro de un día.",
+      "h2": "En California, si alguien resulta herido o muerto en un choque, usted debe hacer un reporte a la policía dentro de las 24 horas.",
+      "p": "Correcto. Repórtelo a la policía dentro de 24 horas."
+    }
+  },
+  {
+    "id": "ca-073",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 79,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, you buy a used car. How long do you have to transfer the ownership into your name?",
+      "o": [
+        "24 hours",
+        "5 days",
+        "60 days",
+        "10 days"
+      ],
+      "h1": "It is a little more than one week.",
+      "h2": "In California, when you buy a vehicle, you have 10 days to transfer ownership into your name.",
+      "p": "Right. You have 10 days to transfer ownership."
+    },
+    "es": {
+      "q": "En California, usted compra un carro usado. ¿Cuánto tiempo tiene para pasar la propiedad a su nombre?",
+      "o": [
+        "24 horas",
+        "5 días",
+        "60 días",
+        "10 días"
+      ],
+      "h1": "Es un poco más de una semana.",
+      "h2": "En California, cuando usted compra un vehículo, tiene 10 días para pasar la propiedad a su nombre.",
+      "p": "Correcto. Tiene 10 días para pasar la propiedad a su nombre."
+    }
+  },
+  {
+    "id": "ca-074",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 79,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, you sell your car. How soon must you tell the DMV with a Notice of Transfer and Release of Liability?",
+      "o": [
+        "Within 5 days",
+        "Within 10 days",
+        "Within 30 days",
+        "At your next renewal"
+      ],
+      "h1": "It is less than one week.",
+      "h2": "In California, when you sell a vehicle, you must notify the DMV within five days with a Notice of Transfer and Release of Liability.",
+      "p": "Right. Notify the DMV within five days."
+    },
+    "es": {
+      "q": "En California, usted vende su carro. ¿En cuánto tiempo debe avisar al DMV con un Aviso de Transferencia y Exención de Responsabilidad?",
+      "o": [
+        "En 5 días",
+        "En 10 días",
+        "En 30 días",
+        "En su próxima renovación"
+      ],
+      "h1": "Es menos de una semana.",
+      "h2": "En California, cuando usted vende un vehículo, debe avisar al DMV dentro de cinco días con un Aviso de Transferencia y Exención de Responsabilidad.",
+      "p": "Correcto. Avise al DMV dentro de cinco días."
+    }
+  },
+  {
+    "id": "ca-075",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 79,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, you just moved here and became a resident. How soon must you register your out-of-state car?",
+      "o": [
+        "Within 5 days",
+        "Within 10 days",
+        "Within 20 days",
+        "Within 6 months"
+      ],
+      "h1": "It is close to three weeks.",
+      "h2": "In California, you have 20 days to register your vehicle after you become a resident or get a job in the state.",
+      "p": "Right. Register it within 20 days."
+    },
+    "es": {
+      "q": "En California, usted acaba de mudarse aquí y se hizo residente. ¿En cuánto tiempo debe registrar su carro de otro estado?",
+      "o": [
+        "En 5 días",
+        "En 10 días",
+        "En 20 días",
+        "En 6 meses"
+      ],
+      "h1": "Son casi tres semanas.",
+      "h2": "En California, usted tiene 20 días para registrar su vehículo después de hacerse residente o conseguir trabajo en el estado.",
+      "p": "Correcto. Regístrelo dentro de 20 días."
+    }
+  },
+  {
+    "id": "ca-076",
+    "scope": "CA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, you are about to turn right and there is a bike lane next to you. How close to the turn may you move into the bike lane?",
+      "o": [
+        "Within 50 feet",
+        "Within 200 feet",
+        "Within 500 feet",
+        "Never; you must turn from your lane"
+      ],
+      "h1": "It is a short distance before the corner, not a long stretch.",
+      "h2": "In California, you may drive in a bike lane within 200 feet of a right turn, after checking for bicyclists.",
+      "p": "Right. You may enter the bike lane within 200 feet of the turn."
+    },
+    "es": {
+      "q": "En California, usted va a dar vuelta a la derecha y hay un carril para bicicletas a su lado. ¿A qué distancia de la vuelta puede entrar al carril para bicicletas?",
+      "o": [
+        "A menos de 50 pies",
+        "A menos de 200 pies",
+        "A menos de 500 pies",
+        "Nunca; debe dar vuelta desde su carril"
+      ],
+      "h1": "Es una distancia corta antes de la esquina, no un tramo largo.",
+      "h2": "En California, usted puede manejar en un carril para bicicletas a menos de 200 pies de una vuelta a la derecha, después de revisar si hay ciclistas.",
+      "p": "Correcto. Puede entrar al carril para bicicletas a menos de 200 pies de la vuelta."
+    }
+  },
+  {
+    "id": "ca-077",
+    "scope": "CA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, when may you make a U-turn in a residential district?",
+      "o": [
+        "Only when the light is red",
+        "Only in front of a fire station",
+        "Any time, even with cars close by",
+        "When no car is coming within 200 feet"
+      ],
+      "h1": "Think about how close other cars may be.",
+      "h2": "In California, you may make a U-turn in a residential district if no vehicles are approaching within 200 feet.",
+      "p": "Right. No vehicles may be coming within 200 feet."
+    },
+    "es": {
+      "q": "En California, ¿cuándo puede dar una vuelta en U en una zona residencial?",
+      "o": [
+        "Solo cuando la luz está roja",
+        "Solo frente a una estación de bomberos",
+        "En cualquier momento, aunque haya carros cerca",
+        "Cuando no viene ningún carro a menos de 200 pies"
+      ],
+      "h1": "Piense en qué tan cerca pueden estar otros carros.",
+      "h2": "En California, usted puede dar una vuelta en U en una zona residencial si no viene ningún vehículo a menos de 200 pies.",
+      "p": "Correcto. No debe venir ningún vehículo a menos de 200 pies."
+    }
+  },
+  {
+    "id": "ca-078",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, how close may you park to a sidewalk ramp for people with disabilities?",
+      "o": [
+        "No closer than 3 feet",
+        "No closer than 1 foot",
+        "Right up against it",
+        "No closer than 50 feet"
+      ],
+      "h1": "Leave room the length of a long step.",
+      "h2": "In California, you may not park within three feet of a sidewalk ramp for people with disabilities.",
+      "p": "Right. Stay at least three feet away from the ramp."
+    },
+    "es": {
+      "q": "En California, ¿qué tan cerca puede estacionarse de una rampa de banqueta para personas con discapacidad?",
+      "o": [
+        "No más cerca de 3 pies",
+        "No más cerca de 1 pie",
+        "Justo pegado a ella",
+        "No más cerca de 50 pies"
+      ],
+      "h1": "Deje espacio del largo de un paso grande.",
+      "h2": "En California, usted no puede estacionarse a menos de tres pies de una rampa de banqueta para personas con discapacidad.",
+      "p": "Correcto. Quédese por lo menos a tres pies de la rampa."
+    }
+  },
+  {
+    "id": "ca-079",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 29,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, your car is left stopped on a freeway. After how long may it be removed?",
+      "o": [
+        "30 minutes",
+        "1 hour",
+        "More than 4 hours",
+        "More than 3 days"
+      ],
+      "h1": "It is part of a single day, longer than a couple of hours.",
+      "h2": "In California, a vehicle stopped, parked or left standing on a freeway for more than four hours may be removed.",
+      "p": "Right. After more than four hours, it may be removed."
+    },
+    "es": {
+      "q": "En California, su carro queda detenido en una autopista. ¿Después de cuánto tiempo pueden retirarlo?",
+      "o": [
+        "30 minutos",
+        "1 hora",
+        "Más de 4 horas",
+        "Más de 3 días"
+      ],
+      "h1": "Es parte de un solo día, más que un par de horas.",
+      "h2": "En California, un vehículo detenido, estacionado o abandonado en una autopista por más de cuatro horas puede ser retirado.",
+      "p": "Correcto. Después de más de cuatro horas pueden retirarlo."
+    }
+  },
+  {
+    "id": "ca-080",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 43,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, a streetcar is stopped at a safety zone. How fast may you pass it?",
+      "o": [
+        "25 mph",
+        "15 mph",
+        "5 mph",
+        "10 mph"
+      ],
+      "h1": "It is a very slow speed, but not walking pace.",
+      "h2": "In California, when a bus, streetcar or trolley is stopped at a safety zone or traffic light, you may pass at no more than 10 mph.",
+      "p": "Right. Pass at no more than 10 mph."
+    },
+    "es": {
+      "q": "En California, un tranvía está detenido en una zona de seguridad. ¿A qué velocidad puede pasarlo?",
+      "o": [
+        "25 mph",
+        "15 mph",
+        "5 mph",
+        "10 mph"
+      ],
+      "h1": "Es una velocidad muy baja, pero no a paso de persona.",
+      "h2": "En California, cuando un autobús, tranvía o trole está detenido en una zona de seguridad o en un semáforo, usted puede pasarlo a no más de 10 mph.",
+      "p": "Correcto. Páselo a no más de 10 mph."
+    }
+  },
+  {
+    "id": "ca-081",
+    "scope": "CA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 44,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, is it legal for a motorcycle to ride between lanes of cars, called lane splitting?",
+      "o": [
+        "No, never",
+        "Yes, lane splitting is legal",
+        "Only on Sundays",
+        "Only for police motorcycles"
+      ],
+      "h1": "The California handbook tells car drivers to expect this.",
+      "h2": "In California, it is legal for motorcycles to share lanes with cars, which is called lane splitting.",
+      "p": "Right. Lane splitting is legal in California."
+    },
+    "es": {
+      "q": "En California, ¿es legal que una motocicleta circule entre los carriles de carros, lo que se llama dividir carriles?",
+      "o": [
+        "No, nunca",
+        "Sí, dividir carriles es legal",
+        "Solo los domingos",
+        "Solo para motocicletas de la policía"
+      ],
+      "h1": "El manual de California les dice a los conductores de carros que esperen esto.",
+      "h2": "En California, es legal que las motocicletas compartan carril con los carros, lo que se llama dividir carriles.",
+      "p": "Correcto. Dividir carriles es legal en California."
+    }
+  },
+  {
+    "id": "ca-082",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 46,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, neighborhood electric vehicles may not use roads with a speed limit above what?",
+      "o": [
+        "15 mph",
+        "25 mph",
+        "35 mph",
+        "55 mph"
+      ],
+      "h1": "Their top speed is only 25 mph, so faster roads are off limits.",
+      "h2": "In California, neighborhood electric vehicles and low-speed vehicles are kept off roads where the speed limit is greater than 35 mph.",
+      "p": "Right. They may not use roads posted above 35 mph."
+    },
+    "es": {
+      "q": "En California, ¿por encima de qué límite de velocidad no pueden usar una calle los vehículos eléctricos de vecindario?",
+      "o": [
+        "15 mph",
+        "25 mph",
+        "35 mph",
+        "55 mph"
+      ],
+      "h1": "Su velocidad máxima es solo 25 mph, así que no pueden usar calles más rápidas.",
+      "h2": "En California, los vehículos eléctricos de vecindario y los vehículos de baja velocidad no pueden usar calles donde el límite de velocidad es mayor de 35 mph.",
+      "p": "Correcto. No pueden usar calles con límite mayor de 35 mph."
+    }
+  },
+  {
+    "id": "ca-083",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 47,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, which bicycle riders must wear a helmet?",
+      "o": [
+        "Only riders under 12",
+        "Riders under 18",
+        "Only riders over 65",
+        "No one; helmets are optional"
+      ],
+      "h1": "It covers all minors.",
+      "h2": "In California, a bicyclist under 18 years old must wear a helmet.",
+      "p": "Right. Riders under 18 must wear a helmet."
+    },
+    "es": {
+      "q": "En California, ¿qué ciclistas deben usar casco?",
+      "o": [
+        "Solo los menores de 12 años",
+        "Los menores de 18 años",
+        "Solo los mayores de 65 años",
+        "Nadie; el casco es opcional"
+      ],
+      "h1": "Incluye a todos los menores de edad.",
+      "h2": "En California, un ciclista menor de 18 años debe usar casco.",
+      "p": "Correcto. Los ciclistas menores de 18 años deben usar casco."
+    }
+  },
+  {
+    "id": "ca-084",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 50,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, you are towing a trailer on a highway. Which lane must you use?",
+      "o": [
+        "The far-left lane only",
+        "Any lane, if you keep up with traffic",
+        "The carpool lane only",
+        "The far-right lane or a slow-vehicle lane"
+      ],
+      "h1": "Slow, heavy vehicles stay to one side.",
+      "h2": "In California, when you tow a vehicle or trailer, you must drive in the far-right lane or a lane marked for slower vehicles.",
+      "p": "Right. Use the far-right lane or the slow-vehicle lane."
+    },
+    "es": {
+      "q": "En California, usted va remolcando un tráiler en una carretera. ¿Qué carril debe usar?",
+      "o": [
+        "Solo el carril de la extrema izquierda",
+        "Cualquier carril, si va al ritmo del tráfico",
+        "Solo el carril de vehículos compartidos",
+        "El de la extrema derecha o uno para vehículos lentos"
+      ],
+      "h1": "Los vehículos lentos y pesados van de un lado.",
+      "h2": "En California, cuando usted remolca un vehículo o un tráiler, debe manejar en el carril de la extrema derecha o en un carril marcado para vehículos lentos.",
+      "p": "Correcto. Use el carril de la extrema derecha o el de vehículos lentos."
+    }
+  },
+  {
+    "id": "ca-085",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 51,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, you are within 100 feet of a railroad crossing with no gates, signals or flagman, and you cannot see 400 feet down the tracks both ways. What is the speed limit?",
+      "o": [
+        "15 mph",
+        "25 mph",
+        "35 mph",
+        "5 mph"
+      ],
+      "h1": "It is the same as the alley speed limit.",
+      "h2": "In California, the speed limit is 15 mph within 100 feet of a railroad crossing when you cannot see the tracks for 400 feet in both directions, unless gates, a signal or a flagman control it.",
+      "p": "Right. The limit there is 15 mph."
+    },
+    "es": {
+      "q": "En California, usted está a menos de 100 pies de un cruce de tren sin barreras, señales ni abanderado, y no puede ver 400 pies de las vías en ambas direcciones. ¿Cuál es el límite de velocidad?",
+      "o": [
+        "15 mph",
+        "25 mph",
+        "35 mph",
+        "5 mph"
+      ],
+      "h1": "Es igual al límite de velocidad en un callejón.",
+      "h2": "En California, el límite de velocidad es 15 mph a menos de 100 pies de un cruce de tren cuando no puede ver las vías por 400 pies en ambas direcciones, a menos que haya barreras, señales o un abanderado.",
+      "p": "Correcto. Ahí el límite es 15 mph."
+    }
+  },
+  {
+    "id": "ca-086",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, may you smoke in your car while a child under 18 is riding with you?",
+      "o": [
+        "Yes, if a window is open",
+        "No, you can be fined",
+        "Yes, if the car is parked",
+        "Yes, if the child agrees"
+      ],
+      "h1": "The law protects minors from smoke in the car.",
+      "h2": "In California, you must not smoke when a minor is in the vehicle, and you can be fined for it.",
+      "p": "Right. No smoking with a minor in the car."
+    },
+    "es": {
+      "q": "En California, ¿puede fumar en su carro cuando lo acompaña un menor de 18 años?",
+      "o": [
+        "Sí, si una ventana está abierta",
+        "No, le pueden poner una multa",
+        "Sí, si el carro está estacionado",
+        "Sí, si el menor está de acuerdo"
+      ],
+      "h1": "La ley protege a los menores del humo en el carro.",
+      "h2": "En California, usted no debe fumar cuando hay un menor en el vehículo, y le pueden poner una multa.",
+      "p": "Correcto. No se fuma con un menor en el carro."
+    }
+  },
+  {
+    "id": "ca-087",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, your load sticks out more than 4 feet past the rear bumper. What must you put on it during the day?",
+      "o": [
+        "A 12-inch red or fluorescent orange flag",
+        "A white rag of any size or shape",
+        "A sign that says WIDE LOAD on it",
+        "Nothing, as long as you drive slowly"
+      ],
+      "h1": "It must be a bright warning color and a set size.",
+      "h2": "In California, cargo that extends more than 4 feet from the rear bumper must display a 12-inch red or fluorescent orange square flag.",
+      "p": "Right. Use a 12-inch red or fluorescent orange flag."
+    },
+    "es": {
+      "q": "En California, su carga sobresale más de 4 pies detrás de la defensa trasera. ¿Qué debe ponerle durante el día?",
+      "o": [
+        "Una bandera roja o anaranjada fluorescente de 12 pulgadas",
+        "Un trapo blanco de cualquier tamaño o forma",
+        "Un letrero que diga CARGA ANCHA",
+        "Nada, siempre que maneje despacio"
+      ],
+      "h1": "Debe ser de un color de advertencia brillante y de un tamaño fijo.",
+      "h2": "En California, una carga que sobresale más de 4 pies de la defensa trasera debe llevar una bandera cuadrada roja o anaranjada fluorescente de 12 pulgadas.",
+      "p": "Correcto. Use una bandera roja o anaranjada fluorescente de 12 pulgadas."
+    }
+  },
+  {
+    "id": "ca-088",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 62,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, heavy rain or snow means you cannot see farther than 100 feet ahead. What is the fastest safe speed?",
+      "o": [
+        "15 mph",
+        "30 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "It is about half the usual highway limit.",
+      "h2": "In California, if you cannot see farther than 100 feet, it is not safe to drive faster than 30 mph.",
+      "p": "Right. No faster than 30 mph."
+    },
+    "es": {
+      "q": "En California, por lluvia o nieve fuerte usted no puede ver a más de 100 pies adelante. ¿Cuál es la velocidad más alta segura?",
+      "o": [
+        "15 mph",
+        "30 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "Es más o menos la mitad del límite normal en carretera.",
+      "h2": "En California, si usted no puede ver a más de 100 pies, no es seguro manejar a más de 30 mph.",
+      "p": "Correcto. No más de 30 mph."
+    }
+  },
+  {
+    "id": "ca-089",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 65,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, a 14-year-old passenger in your car is not wearing a seat belt. Who can get the ticket?",
+      "o": [
+        "Only the passenger",
+        "The passenger's school",
+        "No one, because the passenger is a minor",
+        "You, the driver"
+      ],
+      "h1": "The driver is responsible for young passengers.",
+      "h2": "In California, the driver can get a ticket if a passenger under 16 years old is not wearing a seat belt.",
+      "p": "Right. The driver can be ticketed for a passenger under 16."
+    },
+    "es": {
+      "q": "En California, un pasajero de 14 años en su carro no lleva puesto el cinturón de seguridad. ¿Quién puede recibir la multa?",
+      "o": [
+        "Solo el pasajero",
+        "La escuela del pasajero",
+        "Nadie, porque el pasajero es menor",
+        "Usted, el conductor"
+      ],
+      "h1": "El conductor es responsable de los pasajeros jóvenes.",
+      "h2": "En California, el conductor puede recibir una multa si un pasajero menor de 16 años no lleva puesto el cinturón de seguridad.",
+      "p": "Correcto. El conductor puede recibir la multa por un pasajero menor de 16 años."
+    }
+  },
+  {
+    "id": "ca-090",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 49,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, what happens to traffic fines in a highway construction or maintenance zone when workers are present?",
+      "o": [
+        "They are cut in half",
+        "They stay the same",
+        "They are doubled",
+        "They are replaced by a warning"
+      ],
+      "h1": "The fines go up, not down.",
+      "h2": "In California, fines are doubled in highway construction or maintenance zones when workers are present.",
+      "p": "Right. Fines are doubled when workers are present."
+    },
+    "es": {
+      "q": "En California, ¿qué pasa con las multas de tránsito en una zona de construcción o mantenimiento de carreteras cuando hay trabajadores presentes?",
+      "o": [
+        "Se reducen a la mitad",
+        "Siguen igual",
+        "Se duplican",
+        "Se cambian por una advertencia"
+      ],
+      "h1": "Las multas suben, no bajan.",
+      "h2": "En California, las multas se duplican en zonas de construcción o mantenimiento de carreteras cuando hay trabajadores presentes.",
+      "p": "Correcto. Las multas se duplican cuando hay trabajadores presentes."
+    }
+  },
+  {
+    "id": "ca-091",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 83,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, the Mature Driver Improvement Program, which may lower insurance costs, is for drivers of what age?",
+      "o": [
+        "55 and older",
+        "21 and older",
+        "40 and older",
+        "80 and older"
+      ],
+      "h1": "It starts well before retirement age.",
+      "h2": "In California, the Mature Driver Improvement Program is an eight-hour course for drivers 55 years old and older.",
+      "p": "Right. It is for drivers 55 and older."
+    },
+    "es": {
+      "q": "En California, ¿para conductores de qué edad es el Programa de Mejoramiento para Conductores Mayores, que puede bajar el costo del seguro?",
+      "o": [
+        "55 años o más",
+        "21 años o más",
+        "40 años o más",
+        "80 años o más"
+      ],
+      "h1": "Empieza bastante antes de la edad de jubilación.",
+      "h2": "En California, el Programa de Mejoramiento para Conductores Mayores es un curso de ocho horas para conductores de 55 años o más.",
+      "p": "Correcto. Es para conductores de 55 años o más."
+    }
   }
 ]
