@@ -2622,5 +2622,685 @@
       "h2": "في Hawaii لا يجوز لك القيادة في النصف الأيسر من الطريق على بعد 100 feet أو أقل من تقاطع أو معبر سكة حديدية.",
       "p": "صحيح. لا تستخدم النصف الأيسر من الطريق على بعد 100 feet أو أقل من تقاطع أو معبر سكة حديدية."
     }
+  },
+  {
+    "id": "hi-033",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 12,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, what is the youngest age to get a regular class 3 driver's license?",
+      "o": [
+        "17 years old",
+        "16 years old",
+        "18 years old",
+        "21 years old"
+      ],
+      "h1": "It is one year older than the youngest age for a provisional license.",
+      "h2": "In Hawaii you must be at least 17 years old to get a class 3 driver's license.",
+      "p": "Right. A class 3 driver's license starts at age 17."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuál es la edad mínima para obtener una licencia de manejar regular de clase 3?",
+      "o": [
+        "17 años",
+        "16 años",
+        "18 años",
+        "21 años"
+      ],
+      "h1": "Es un año más que la edad mínima para la licencia provisional.",
+      "h2": "En Hawái usted debe tener al menos 17 años para obtener una licencia de manejar de clase 3.",
+      "p": "Correcto. La licencia de clase 3 empieza a los 17 años."
+    }
+  },
+  {
+    "id": "hi-034",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 14,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, how long must you hold a provisional license before you can apply for a full driver's license?",
+      "o": [
+        "30 days",
+        "90 days",
+        "Six months",
+        "Two years"
+      ],
+      "h1": "It is half a year.",
+      "h2": "In Hawaii you must hold a provisional license for six months before you can apply for a driver's license.",
+      "p": "Right. You keep the provisional license for six months first."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuánto tiempo debe tener una licencia provisional antes de solicitar la licencia de manejar completa?",
+      "o": [
+        "30 días",
+        "90 días",
+        "Seis meses",
+        "Dos años"
+      ],
+      "h1": "Es medio año.",
+      "h2": "En Hawái usted debe tener la licencia provisional durante seis meses antes de solicitar la licencia de manejar.",
+      "p": "Correcto. Primero tiene la licencia provisional durante seis meses."
+    }
+  },
+  {
+    "id": "hi-035",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, which test must you pass every time before your driver's license is renewed?",
+      "o": [
+        "A road test",
+        "A vision test",
+        "A written test",
+        "A parallel parking test"
+      ],
+      "h1": "It checks how well you see.",
+      "h2": "In Hawaii you must pass a vision test before your driver's license is renewed.",
+      "p": "Right. A vision test comes before every renewal."
+    },
+    "es": {
+      "q": "En Hawái, ¿qué examen debe aprobar cada vez antes de que se renueve su licencia de manejar?",
+      "o": [
+        "Un examen de manejo",
+        "Un examen de la vista",
+        "Un examen escrito",
+        "Un examen de estacionamiento en paralelo"
+      ],
+      "h1": "Revisa qué tan bien ve usted.",
+      "h2": "En Hawái usted debe aprobar un examen de la vista antes de que se renueve su licencia de manejar.",
+      "p": "Correcto. Antes de cada renovación hay un examen de la vista."
+    }
+  },
+  {
+    "id": "hi-036",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, how many documents proving your home address in Hawaii must you bring for a REAL ID license or permit?",
+      "o": [
+        "None",
+        "One",
+        "Three",
+        "Two"
+      ],
+      "h1": "A utility bill and a bank statement would be enough.",
+      "h2": "In Hawaii you must bring two documents that show your name and your home address in Hawaii.",
+      "p": "Right. You need two proofs of your Hawaii address."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuántos documentos que prueben su domicilio en Hawái debe llevar para una licencia o permiso REAL ID?",
+      "o": [
+        "Ninguno",
+        "Uno",
+        "Tres",
+        "Dos"
+      ],
+      "h1": "Una factura de luz y un estado de cuenta del banco serían suficientes.",
+      "h2": "En Hawái usted debe llevar dos documentos que muestren su nombre y su domicilio en Hawái.",
+      "p": "Correcto. Necesita dos pruebas de su domicilio en Hawái."
+    }
+  },
+  {
+    "id": "hi-037",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, your license has expired. How long after the expiration date can you still renew it instead of applying as a new driver?",
+      "o": [
+        "Up to one year",
+        "Up to 10 days",
+        "Up to 30 days",
+        "Up to five years"
+      ],
+      "h1": "It is twelve months.",
+      "h2": "In Hawaii you may renew an expired license within one year after the expiration date; after that you must apply as for an original license.",
+      "p": "Right. You have one year after it expires to renew it."
+    },
+    "es": {
+      "q": "En Hawái, su licencia venció. ¿Cuánto tiempo después de la fecha de vencimiento todavía puede renovarla en lugar de solicitarla como conductor nuevo?",
+      "o": [
+        "Hasta un año",
+        "Hasta 10 días",
+        "Hasta 30 días",
+        "Hasta cinco años"
+      ],
+      "h1": "Son doce meses.",
+      "h2": "En Hawái usted puede renovar una licencia vencida dentro de un año después de la fecha de vencimiento; después de eso debe solicitarla como una licencia nueva.",
+      "p": "Correcto. Tiene un año después del vencimiento para renovarla."
+    }
+  },
+  {
+    "id": "hi-038",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, a visitor has a foreign driver's license and an International Driving Permit. How long may they drive with them?",
+      "o": [
+        "30 days after arrival",
+        "Six months after arrival",
+        "One year after arrival in the U.S.",
+        "As long as the foreign license is valid"
+      ],
+      "h1": "Count from the day they first entered the United States.",
+      "h2": "In Hawaii a foreign license with an International Driving Permit is valid for one year after arrival in the United States.",
+      "p": "Right. They may drive with them for one year after arriving in the U.S."
+    },
+    "es": {
+      "q": "En Hawái, un visitante tiene una licencia extranjera y un Permiso Internacional de Conducir. ¿Por cuánto tiempo puede manejar con ellos?",
+      "o": [
+        "30 días después de llegar",
+        "Seis meses después de llegar",
+        "Un año después de llegar a EE. UU.",
+        "Mientras la licencia extranjera esté vigente"
+      ],
+      "h1": "Cuente desde el día en que entró por primera vez a Estados Unidos.",
+      "h2": "En Hawái una licencia extranjera con un Permiso Internacional de Conducir es válida por un año después de llegar a Estados Unidos.",
+      "p": "Correcto. Puede manejar con ellos por un año después de llegar a EE. UU."
+    }
+  },
+  {
+    "id": "hi-039",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, which of these can stop you from getting a driver's license?",
+      "o": [
+        "Owning more than one car",
+        "Having traffic tickets you have not taken care of",
+        "Living on a different island from the office",
+        "Wearing glasses"
+      ],
+      "h1": "Think of something you still owe the court.",
+      "h2": "In Hawaii you cannot be licensed while you have outstanding traffic citations.",
+      "p": "Right. Unresolved traffic tickets can block your license."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuál de estas cosas puede impedirle obtener una licencia de manejar?",
+      "o": [
+        "Tener más de un carro",
+        "Tener multas de tránsito sin resolver",
+        "Vivir en otra isla que la oficina",
+        "Usar lentes"
+      ],
+      "h1": "Piense en algo que todavía le debe a la corte.",
+      "h2": "En Hawái usted no puede obtener una licencia mientras tenga multas de tránsito pendientes.",
+      "p": "Correcto. Las multas de tránsito sin resolver pueden impedir su licencia."
+    }
+  },
+  {
+    "id": "hi-040",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, what is true about a limited purpose driver's license, given to people who do not provide a Social Security number?",
+      "o": [
+        "It lets you drive only at night",
+        "It is valid only on Oahu",
+        "It can be used to board a plane",
+        "It is good for driving only, not as federal ID"
+      ],
+      "h1": "Its name says it has a limited use.",
+      "h2": "In Hawaii a limited purpose license is only a license to drive and cannot be used as ID for federal purposes such as boarding a plane.",
+      "p": "Right. It is for driving only, not for federal ID."
+    },
+    "es": {
+      "q": "En Hawái, ¿qué es cierto sobre la licencia de propósito limitado, que se da a quienes no presentan un número de Seguro Social?",
+      "o": [
+        "Solo permite manejar de noche",
+        "Solo es válida en Oahu",
+        "Sirve para abordar un avión",
+        "Solo sirve para manejar, no como identificación federal"
+      ],
+      "h1": "Su nombre dice que tiene un uso limitado.",
+      "h2": "En Hawái la licencia de propósito limitado solo es una licencia para manejar y no sirve como identificación federal, por ejemplo para abordar un avión.",
+      "p": "Correcto. Solo sirve para manejar, no como identificación federal."
+    }
+  },
+  {
+    "id": "hi-041",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, who may ride in the car with you during your road test?",
+      "o": [
+        "Only the examiner; passengers are not allowed",
+        "One friend in the back seat",
+        "Your parent in the back seat",
+        "Anyone with a valid license"
+      ],
+      "h1": "The test is just you and the person grading you.",
+      "h2": "In Hawaii passengers are not permitted during the road test, so only the examiner rides with you.",
+      "p": "Right. No passengers are allowed during the road test."
+    },
+    "es": {
+      "q": "En Hawái, ¿quién puede ir en el carro con usted durante su examen de manejo?",
+      "o": [
+        "Solo el examinador; no se permiten pasajeros",
+        "Un amigo en el asiento de atrás",
+        "Su padre o madre en el asiento de atrás",
+        "Cualquier persona con licencia vigente"
+      ],
+      "h1": "En el examen solo van usted y la persona que lo califica.",
+      "h2": "En Hawái no se permiten pasajeros durante el examen de manejo, así que solo el examinador va con usted.",
+      "p": "Correcto. No se permiten pasajeros durante el examen de manejo."
+    }
+  },
+  {
+    "id": "hi-042",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 54,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, car insurance must include basic benefits for medical and rehabilitation costs. Up to how much per person?",
+      "o": [
+        "$1,000",
+        "$5,000",
+        "$10,000",
+        "$100,000"
+      ],
+      "h1": "It is the same amount as the minimum for property damage.",
+      "h2": "In Hawaii the basic insurance benefits cover up to $10,000 per person for medical and rehabilitation costs.",
+      "p": "Right. Basic benefits cover up to $10,000 per person."
+    },
+    "es": {
+      "q": "En Hawái, el seguro del carro debe incluir beneficios básicos para gastos médicos y de rehabilitación. ¿Hasta cuánto por persona?",
+      "o": [
+        "$1,000",
+        "$5,000",
+        "$10,000",
+        "$100,000"
+      ],
+      "h1": "Es la misma cantidad que el mínimo por daños a la propiedad.",
+      "h2": "En Hawái los beneficios básicos del seguro cubren hasta $10,000 por persona en gastos médicos y de rehabilitación.",
+      "p": "Correcto. Los beneficios básicos cubren hasta $10,000 por persona."
+    }
+  },
+  {
+    "id": "hi-043",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 54,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, what is the largest fine for each violation of the motor vehicle insurance law?",
+      "o": [
+        "$100",
+        "$5,000",
+        "$500",
+        "$50,000"
+      ],
+      "h1": "It is a four-digit amount.",
+      "h2": "In Hawaii each violation of the motor vehicle insurance law can bring a fine of up to $5,000.",
+      "p": "Right. The fine can be as high as $5,000 for each violation."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuál es la multa más alta por cada infracción de la ley de seguro de vehículos?",
+      "o": [
+        "$100",
+        "$5,000",
+        "$500",
+        "$50,000"
+      ],
+      "h1": "Es una cantidad de cuatro cifras.",
+      "h2": "En Hawái cada infracción de la ley de seguro de vehículos puede tener una multa de hasta $5,000.",
+      "p": "Correcto. La multa puede llegar a $5,000 por cada infracción."
+    }
+  },
+  {
+    "id": "hi-044",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 53,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, after you are convicted of certain driving offenses, how long must you keep proof of insurance (form SR-22) on file?",
+      "o": [
+        "30 days",
+        "Six months",
+        "One year",
+        "Three years"
+      ],
+      "h1": "It is more than two years.",
+      "h2": "In Hawaii, after a conviction for certain offenses, you must file and keep proof of financial responsibility for three years.",
+      "p": "Right. You must keep the SR-22 proof on file for three years."
+    },
+    "es": {
+      "q": "En Hawái, después de ser declarado culpable de ciertas infracciones de tránsito, ¿por cuánto tiempo debe mantener registrada la prueba de seguro (formulario SR-22)?",
+      "o": [
+        "30 días",
+        "Seis meses",
+        "Un año",
+        "Tres años"
+      ],
+      "h1": "Es más de dos años.",
+      "h2": "En Hawái, después de una condena por ciertas infracciones, usted debe presentar y mantener la prueba de responsabilidad financiera durante tres años.",
+      "p": "Correcto. Debe mantener la prueba SR-22 durante tres años."
+    }
+  },
+  {
+    "id": "hi-045",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 56,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, a driver's blood alcohol level is above 0.05 but below 0.08 percent. How may the driver be considered?",
+      "o": [
+        "Impaired",
+        "Completely sober",
+        "Legally safe to drive",
+        "Under the influence only if under 18"
+      ],
+      "h1": "It is below the level for being under the influence, but it is not safe.",
+      "h2": "In Hawaii a driver with a blood alcohol level above 0.05 and below 0.08 percent may be considered impaired.",
+      "p": "Right. Between 0.05 and 0.08 a driver may be considered impaired."
+    },
+    "es": {
+      "q": "En Hawái, el nivel de alcohol en la sangre de un conductor es mayor de 0.05 pero menor de 0.08 por ciento. ¿Cómo se puede considerar al conductor?",
+      "o": [
+        "Con capacidad disminuida",
+        "Totalmente sobrio",
+        "Legalmente seguro para manejar",
+        "Bajo la influencia solo si tiene menos de 18 años"
+      ],
+      "h1": "Está por debajo del nivel de estar bajo la influencia, pero no es seguro.",
+      "h2": "En Hawái un conductor con un nivel de alcohol en la sangre mayor de 0.05 y menor de 0.08 por ciento puede considerarse con capacidad disminuida.",
+      "p": "Correcto. Entre 0.05 y 0.08 se puede considerar que el conductor tiene la capacidad disminuida."
+    }
+  },
+  {
+    "id": "hi-046",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 56,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, where is it against the law to drink or have an alcoholic drink in your possession?",
+      "o": [
+        "Only inside a moving car after midnight",
+        "Only within 100 feet of a school",
+        "On any public highway or public sidewalk",
+        "Only on freeways"
+      ],
+      "h1": "It covers every public road and the walkways beside them.",
+      "h2": "In Hawaii it is against the law to drink or possess an alcoholic drink on any public highway or public sidewalk.",
+      "p": "Right. No drinking or possessing alcohol on public highways or sidewalks."
+    },
+    "es": {
+      "q": "En Hawái, ¿dónde es ilegal tomar o tener en su poder una bebida alcohólica?",
+      "o": [
+        "Solo dentro de un carro en movimiento después de la medianoche",
+        "Solo a menos de 100 pies de una escuela",
+        "En cualquier carretera pública o acera pública",
+        "Solo en las autopistas"
+      ],
+      "h1": "Incluye todas las vías públicas y las aceras a su lado.",
+      "h2": "En Hawái es ilegal tomar o tener una bebida alcohólica en cualquier carretera pública o acera pública.",
+      "p": "Correcto. No se puede tomar ni tener alcohol en carreteras ni aceras públicas."
+    }
+  },
+  {
+    "id": "hi-047",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 64,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, it is against the law to leave a child alone in a car for five minutes or longer. Children under what age does this law protect?",
+      "o": [
+        "Under 4",
+        "Under 9",
+        "Under 13",
+        "Under 16"
+      ],
+      "h1": "It is the age just before ten.",
+      "h2": "In Hawaii you may not leave a child under nine years old unattended in a car for five minutes or longer.",
+      "p": "Right. Never leave a child under nine alone in a car for five minutes or more."
+    },
+    "es": {
+      "q": "En Hawái, es ilegal dejar a un niño solo en un carro por cinco minutos o más. ¿A los niños menores de qué edad protege esta ley?",
+      "o": [
+        "Menores de 4 años",
+        "Menores de 9 años",
+        "Menores de 13 años",
+        "Menores de 16 años"
+      ],
+      "h1": "Es la edad justo antes de los diez.",
+      "h2": "En Hawái no se puede dejar a un niño menor de nueve años solo en un carro por cinco minutos o más.",
+      "p": "Correcto. Nunca deje a un niño menor de nueve años solo en un carro por cinco minutos o más."
+    }
+  },
+  {
+    "id": "hi-048",
+    "scope": "HI",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 96,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, how much can it cost you if you do not stop for a school bus with flashing red lights when the law requires it?",
+      "o": [
+        "$50",
+        "$150",
+        "$250",
+        "$1,000"
+      ],
+      "h1": "It is a four-digit amount.",
+      "h2": "In Hawaii failing to stop for a school bus with flashing red lights when required can cost you $1,000.",
+      "p": "Right. Not stopping for a school bus can cost $1,000."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuánto le puede costar no detenerse ante un autobús escolar con luces rojas intermitentes cuando la ley lo exige?",
+      "o": [
+        "$50",
+        "$150",
+        "$250",
+        "$1,000"
+      ],
+      "h1": "Es una cantidad de cuatro cifras.",
+      "h2": "En Hawái no detenerse ante un autobús escolar con luces rojas intermitentes cuando se debe le puede costar $1,000.",
+      "p": "Correcto. No detenerse ante un autobús escolar puede costar $1,000."
+    }
+  },
+  {
+    "id": "hi-049",
+    "scope": "HI",
+    "cat": "signals",
+    "conf": "high",
+    "page": 39,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, when may you turn left on a red light after stopping?",
+      "o": [
+        "From a one-way street onto another one-way street going left",
+        "From a two-way street when no cars are coming",
+        "Never; a left turn on red is always illegal",
+        "Only when a police officer is standing nearby"
+      ],
+      "h1": "Both streets must carry traffic in only one direction.",
+      "h2": "In Hawaii, after stopping, you may turn left on red from a one-way street onto a one-way street where traffic moves to the left, unless a sign prohibits it.",
+      "p": "Right. Left on red is allowed only from one one-way street onto another going left."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuándo puede dar vuelta a la izquierda con la luz roja después de detenerse?",
+      "o": [
+        "De una calle de un solo sentido a otra de un solo sentido que va a la izquierda",
+        "Desde una calle de doble sentido si no vienen carros",
+        "Nunca; la vuelta a la izquierda con luz roja siempre es ilegal",
+        "Solo cuando hay un policía parado cerca"
+      ],
+      "h1": "Las dos calles deben tener tráfico en un solo sentido.",
+      "h2": "En Hawái, después de detenerse, usted puede dar vuelta a la izquierda con luz roja de una calle de un solo sentido a otra de un solo sentido donde el tráfico va hacia la izquierda, si no hay un letrero que lo prohíba.",
+      "p": "Correcto. La vuelta a la izquierda con luz roja solo se permite de una calle de un solo sentido a otra que va a la izquierda."
+    }
+  },
+  {
+    "id": "hi-050",
+    "scope": "HI",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 28,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, when you park along a curb, what is the farthest your car may be from the curb?",
+      "o": [
+        "24 inches",
+        "18 inches",
+        "12 inches",
+        "3 feet"
+      ],
+      "h1": "It is one foot.",
+      "h2": "In Hawaii you may not park more than 12 inches from the curb.",
+      "p": "Right. Park no more than 12 inches from the curb."
+    },
+    "es": {
+      "q": "En Hawái, cuando se estaciona junto a la acera, ¿a qué distancia máxima de la acera puede quedar su carro?",
+      "o": [
+        "24 pulgadas",
+        "18 pulgadas",
+        "12 pulgadas",
+        "3 pies"
+      ],
+      "h1": "Es un pie.",
+      "h2": "En Hawái no se puede estacionar a más de 12 pulgadas de la acera.",
+      "p": "Correcto. Estaciónese a no más de 12 pulgadas de la acera."
+    }
+  },
+  {
+    "id": "hi-051",
+    "scope": "HI",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 29,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, how long may you leave your car parked in one spot on a public street without moving it?",
+      "o": [
+        "No more than 8 hours",
+        "No more than 24 hours",
+        "No more than 72 hours",
+        "As long as you like"
+      ],
+      "h1": "It is one full day.",
+      "h2": "In Hawaii you may not park on a public street or highway for more than 24 hours in a row.",
+      "p": "Right. Parking on a public street is limited to 24 hours in a row."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuánto tiempo puede dejar su carro estacionado en el mismo lugar de una calle pública sin moverlo?",
+      "o": [
+        "No más de 8 horas",
+        "No más de 24 horas",
+        "No más de 72 horas",
+        "El tiempo que quiera"
+      ],
+      "h1": "Es un día completo.",
+      "h2": "En Hawái no se puede estacionar en una calle o carretera pública por más de 24 horas seguidas.",
+      "p": "Correcto. Estacionarse en una calle pública está limitado a 24 horas seguidas."
+    }
+  },
+  {
+    "id": "hi-052",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 98,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, outside business districts, how fast may a bicyclist ride on a sidewalk?",
+      "o": [
+        "15 mph or less",
+        "20 mph or less",
+        "Any speed, if the sidewalk is empty",
+        "10 mph or less, yielding to pedestrians"
+      ],
+      "h1": "It is a slow speed, and people walking come first.",
+      "h2": "In Hawaii, outside business districts, a bicyclist may ride on a sidewalk at 10 mph or less and must yield to pedestrians.",
+      "p": "Right. On sidewalks outside business districts, bicycles go 10 mph or less and yield to people walking."
+    },
+    "es": {
+      "q": "En Hawái, fuera de los distritos comerciales, ¿a qué velocidad puede ir un ciclista por la acera?",
+      "o": [
+        "15 mph o menos",
+        "20 mph o menos",
+        "A cualquier velocidad, si la acera está vacía",
+        "10 mph o menos, cediendo el paso a los peatones"
+      ],
+      "h1": "Es una velocidad baja, y las personas que caminan van primero.",
+      "h2": "En Hawái, fuera de los distritos comerciales, un ciclista puede ir por la acera a 10 mph o menos y debe ceder el paso a los peatones.",
+      "p": "Correcto. En las aceras fuera de los distritos comerciales, las bicicletas van a 10 mph o menos y ceden el paso a los peatones."
+    }
   }
 ]
