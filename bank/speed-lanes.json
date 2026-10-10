@@ -6451,5 +6451,203 @@
       "h2": "Chwazi yon vitès ki pèmèt ou kanpe nan distans ou wè byen klè a, e souvan li pi dousman pase limit la lannwit oswa sou yon wout ou pa konnen.",
       "p": "Wi, se sa. Kanpe nan distans ou ka wè a."
     }
+  },
+  {
+    "id": "speed-lanes-070",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 62,
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, a fire truck is going to an emergency ahead of you. How close may you follow it?",
+      "o": [
+        "As close as 50 feet",
+        "As close as 100 feet",
+        "As close as 300 feet",
+        "No closer than 500 feet"
+      ],
+      "h1": "It is about the length of a city block or more.",
+      "h2": "Florida law forbids following a fire truck on its way to an emergency closer than 500 feet.",
+      "p": "Right. Stay at least 500 feet behind a fire truck going to an emergency."
+    },
+    "es": {
+      "q": "En Florida, un camión de bomberos va hacia una emergencia delante de usted. ¿Qué tan cerca lo puede seguir?",
+      "o": [
+        "Hasta a 50 pies",
+        "Hasta a 100 pies",
+        "Hasta a 300 pies",
+        "No más cerca de 500 pies"
+      ],
+      "h1": "Es como el largo de una cuadra o más.",
+      "h2": "La ley de Florida prohíbe seguir a menos de 500 pies a un camión de bomberos que va a una emergencia.",
+      "p": "Correcto. Manténgase al menos a 500 pies detrás de un camión de bomberos que va a una emergencia."
+    }
+  },
+  {
+    "id": "speed-lanes-071",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 65,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, what does the law require before you walk away from your parked car?",
+      "o": [
+        "Leave the windows down",
+        "Leave the engine running",
+        "Take the key out",
+        "Turn on the hazard lights"
+      ],
+      "h1": "It helps stop car theft.",
+      "h2": "Florida law requires you to stop the engine and take the key out before you leave your vehicle.",
+      "p": "Right. Engine off and key out before you leave the car."
+    },
+    "es": {
+      "q": "En Florida, ¿qué exige la ley antes de alejarse de su carro estacionado?",
+      "o": [
+        "Dejar las ventanas abajo",
+        "Dejar el motor encendido",
+        "Sacar la llave",
+        "Encender las luces intermitentes"
+      ],
+      "h1": "Ayuda a evitar el robo de carros.",
+      "h2": "La ley de Florida exige apagar el motor y sacar la llave antes de dejar su vehículo.",
+      "p": "Correcto. Motor apagado y llave afuera antes de dejar el carro."
+    }
+  },
+  {
+    "id": "speed-lanes-072",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 66,
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, how close to the driveway entrance of a fire station may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 20 feet",
+        "No closer than 50 feet",
+        "No closer than 100 feet"
+      ],
+      "h1": "It is the same distance as from a crosswalk at an intersection.",
+      "h2": "In Florida, you may not park within 20 feet of the entrance to a fire, ambulance, or rescue station.",
+      "p": "Right. Keep 20 feet from a fire station entrance."
+    },
+    "es": {
+      "q": "En Florida, ¿qué tan cerca de la entrada de una estación de bomberos puede estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 20 pies",
+        "No más cerca de 50 pies",
+        "No más cerca de 100 pies"
+      ],
+      "h1": "Es la misma distancia que de un cruce peatonal en una intersección.",
+      "h2": "En Florida, no puede estacionarse a menos de 20 pies de la entrada de una estación de bomberos, ambulancias o rescate.",
+      "p": "Correcto. Manténgase a 20 pies de la entrada de una estación de bomberos."
+    }
+  },
+  {
+    "id": "speed-lanes-073",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 67,
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, you are passing on a two-lane road. A car is coming toward you. You must be back in your lane before you get within how many feet of it?",
+      "o": [
+        "200 feet",
+        "50 feet",
+        "20 feet",
+        "1,000 feet"
+      ],
+      "h1": "It is less than the length of a football field.",
+      "h2": "When you pass, you must return to the right side of the road before you come within 200 feet of any oncoming vehicle.",
+      "p": "Right. Be back in your lane before you are within 200 feet of oncoming traffic."
+    },
+    "es": {
+      "q": "En Florida, usted está rebasando en una carretera de dos carriles. Viene un carro de frente. ¿Antes de llegar a cuántos pies de él debe volver a su carril?",
+      "o": [
+        "200 pies",
+        "50 pies",
+        "20 pies",
+        "1,000 pies"
+      ],
+      "h1": "Es menos que el largo de un campo de fútbol americano.",
+      "h2": "Al rebasar, debe volver al lado derecho de la carretera antes de llegar a 200 pies de cualquier vehículo que viene de frente.",
+      "p": "Correcto. Vuelva a su carril antes de estar a 200 pies del tráfico de frente."
+    }
+  },
+  {
+    "id": "speed-lanes-074",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 68,
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, what is the standard speed limit in a school zone?",
+      "o": [
+        "10 mph",
+        "15 mph",
+        "25 mph",
+        "20 mph"
+      ],
+      "h1": "It is lower than the 30 mph limit for city streets.",
+      "h2": "The standard speed limit in a Florida school zone is 20 mph.",
+      "p": "Right. School zones are usually 20 mph."
+    },
+    "es": {
+      "q": "En Florida, ¿cuál es el límite de velocidad normal en una zona escolar?",
+      "o": [
+        "10 mph",
+        "15 mph",
+        "25 mph",
+        "20 mph"
+      ],
+      "h1": "Es más bajo que el límite de 30 mph de las calles de la ciudad.",
+      "h2": "El límite de velocidad normal en una zona escolar de Florida es de 20 mph.",
+      "p": "Correcto. Las zonas escolares normalmente son de 20 mph."
+    }
+  },
+  {
+    "id": "speed-lanes-075",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 85,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, on which streets may a low-speed vehicle (LSV) be driven?",
+      "o": [
+        "Any street, including interstates",
+        "Only on sidewalks",
+        "Streets with a speed limit of 35 mph or less",
+        "Streets with a speed limit of 55 mph or less"
+      ],
+      "h1": "These vehicles go only about 25 mph.",
+      "h2": "A low-speed vehicle may be driven only on streets with a posted speed limit of 35 mph or less, by a driver with a valid license.",
+      "p": "Right. LSVs stay on streets posted at 35 mph or less."
+    },
+    "es": {
+      "q": "En Florida, ¿por qué calles se puede manejar un vehículo de baja velocidad (LSV)?",
+      "o": [
+        "Cualquier calle, incluso interestatales",
+        "Solo por las aceras",
+        "Calles con límite de 35 mph o menos",
+        "Calles con límite de 55 mph o menos"
+      ],
+      "h1": "Estos vehículos solo van a unas 25 mph.",
+      "h2": "Un vehículo de baja velocidad solo se puede manejar en calles con un límite de velocidad de 35 mph o menos, y el conductor debe tener licencia válida.",
+      "p": "Correcto. Los LSV van solo por calles con límite de 35 mph o menos."
+    }
   }
 ]

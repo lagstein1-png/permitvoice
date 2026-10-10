@@ -7300,5 +7300,71 @@
       "h2": "Moun sou bisiklèt ki toupre machin ki pake yo ka vire antre nan chemen ou pou evite yon pòt k ap louvri, kidonk ba yo plis espas.",
       "p": "Wi, se sa. Moun sou bisiklèt la ka vire pou evite pòt la."
     }
+  },
+  {
+    "id": "right-of-way-079",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 62,
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, you come to an intersection with no signs or signals. You are on a dirt road about to enter a paved road. Who goes first?",
+      "o": [
+        "Traffic on the paved road",
+        "You, the driver on the dirt road",
+        "Whoever is bigger",
+        "Whoever honks first"
+      ],
+      "h1": "The road surface decides it here.",
+      "h2": "At an open intersection, a driver coming from an unpaved road onto a paved road must yield the right-of-way.",
+      "p": "Right. Coming off an unpaved road, you yield to the paved road."
+    },
+    "es": {
+      "q": "En Florida, llega a una intersección sin señales ni semáforos. Usted va por un camino de tierra y va a entrar a una calle pavimentada. ¿Quién pasa primero?",
+      "o": [
+        "El tráfico de la calle pavimentada",
+        "Usted, que viene del camino de tierra",
+        "El vehículo más grande",
+        "El que toque la bocina primero"
+      ],
+      "h1": "Aquí lo decide el tipo de superficie.",
+      "h2": "En una intersección sin control, quien viene de un camino sin pavimentar hacia una calle pavimentada debe ceder el paso.",
+      "p": "Correcto. Si viene de un camino sin pavimentar, cede el paso a la calle pavimentada."
+    }
+  },
+  {
+    "id": "right-of-way-080",
+    "scope": "FL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 88,
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, a city bus in a bus pullout bay signals to pull back into your lane. What must you do?",
+      "o": [
+        "Speed up to pass it first",
+        "Yield and let the bus back in",
+        "Honk so the bus waits",
+        "Change lanes without signaling"
+      ],
+      "h1": "The law gives the bus the right-of-way here.",
+      "h2": "Florida drivers must yield to a public transit bus that has signaled and is pulling back into traffic from a marked pullout bay.",
+      "p": "Right. Let the bus pull back into traffic."
+    },
+    "es": {
+      "q": "En Florida, un autobús de la ciudad que está en una bahía de parada pone la señal para volver a su carril. ¿Qué debe hacer?",
+      "o": [
+        "Acelerar para pasarlo primero",
+        "Ceder el paso y dejar entrar al autobús",
+        "Tocar la bocina para que espere",
+        "Cambiar de carril sin poner la señal"
+      ],
+      "h1": "Aquí la ley le da el derecho de paso al autobús.",
+      "h2": "En Florida, los conductores deben ceder el paso a un autobús de transporte público que puso la señal y está volviendo al tráfico desde una bahía de parada marcada.",
+      "p": "Correcto. Deje que el autobús vuelva al tráfico."
+    }
   }
 ]
