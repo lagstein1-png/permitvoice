@@ -2212,5 +2212,141 @@
       "h2": "في Tennessee تنتهي رخصة القيادة لشخص عمره أكثر من 21 سنة كل 8 سنوات من تاريخ إصدارها.",
       "p": "صحيح. كل 8 سنوات."
     }
+  },
+  {
+    "id": "tn-028",
+    "scope": "TN",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 22,
+    "src": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Tennessee, you fail the knowledge test. How long must you wait before you try again?",
+      "o": [
+        "One week",
+        "At least one day",
+        "30 days",
+        "Six months"
+      ],
+      "h1": "The wait is short, just enough time to study again.",
+      "h2": "In Tennessee, you must wait at least one day after failing the knowledge test before you take it again.",
+      "p": "Right. At least one day."
+    },
+    "es": {
+      "q": "En Tennessee, usted no aprueba el examen de conocimientos. ¿Cuánto tiempo debe esperar para intentarlo otra vez?",
+      "o": [
+        "Una semana",
+        "Al menos un día",
+        "30 días",
+        "Seis meses"
+      ],
+      "h1": "La espera es corta, solo para que pueda estudiar otra vez.",
+      "h2": "En Tennessee, debe esperar al menos un día después de reprobar el examen de conocimientos antes de tomarlo otra vez.",
+      "p": "Correcto. Al menos un día."
+    }
+  },
+  {
+    "id": "tn-029",
+    "scope": "TN",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 45,
+    "src": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Tennessee, you are following another vehicle at night with your high beams on. Within what distance must you dim them?",
+      "o": [
+        "100 feet",
+        "200 feet",
+        "500 feet",
+        "1,000 feet"
+      ],
+      "h1": "It is about the length of one city block.",
+      "h2": "In Tennessee, you must dim your high beams when you are following another vehicle within 500 feet, and also when an oncoming vehicle is within 500 feet.",
+      "p": "Right. Within 500 feet."
+    },
+    "es": {
+      "q": "En Tennessee, usted va detrás de otro vehículo de noche con las luces altas encendidas. ¿A qué distancia debe bajarlas?",
+      "o": [
+        "100 pies",
+        "200 pies",
+        "500 pies",
+        "1,000 pies"
+      ],
+      "h1": "Es más o menos el largo de una cuadra de ciudad.",
+      "h2": "En Tennessee, debe bajar las luces altas cuando va detrás de otro vehículo a menos de 500 pies, y también cuando un vehículo que viene de frente está a menos de 500 pies.",
+      "p": "Correcto. A menos de 500 pies."
+    }
+  },
+  {
+    "id": "tn-030",
+    "scope": "TN",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 65,
+    "src": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Tennessee, you may not park within how many feet of a fire hydrant?",
+      "o": [
+        "15 feet",
+        "5 feet",
+        "10 feet",
+        "30 feet"
+      ],
+      "h1": "Fire trucks need room to connect their hoses.",
+      "h2": "In Tennessee, you may not park within 15 feet of a fire hydrant.",
+      "p": "Right. Stay 15 feet away."
+    },
+    "es": {
+      "q": "En Tennessee, ¿a menos de cuántos pies de un hidrante no puede estacionarse?",
+      "o": [
+        "15 pies",
+        "5 pies",
+        "10 pies",
+        "30 pies"
+      ],
+      "h1": "Los bomberos necesitan espacio para conectar sus mangueras.",
+      "h2": "En Tennessee, no puede estacionarse a menos de 15 pies de un hidrante.",
+      "p": "Correcto. Quédese a 15 pies."
+    }
+  },
+  {
+    "id": "tn-031",
+    "scope": "TN",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 46,
+    "src": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Tennessee, littering fines start at $50. How high can they go?",
+      "o": [
+        "$100",
+        "$500",
+        "$1,000",
+        "$3,000"
+      ],
+      "h1": "The fine grows with the amount of litter, and it can be very large.",
+      "h2": "In Tennessee, littering fines start at $50 and can reach $3,000, depending on how much litter there is.",
+      "p": "Right. Up to $3,000."
+    },
+    "es": {
+      "q": "En Tennessee, las multas por tirar basura empiezan en $50. ¿Hasta cuánto pueden llegar?",
+      "o": [
+        "$100",
+        "$500",
+        "$1,000",
+        "$3,000"
+      ],
+      "h1": "La multa sube según la cantidad de basura, y puede ser muy alta.",
+      "h2": "En Tennessee, las multas por tirar basura empiezan en $50 y pueden llegar a $3,000, según la cantidad de basura.",
+      "p": "Correcto. Hasta $3,000."
+    }
   }
 ]
