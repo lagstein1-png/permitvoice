@@ -8424,5 +8424,957 @@
       "h2": "En Arizona, la ley de asientos de seguridad para niños no se aplica a una persona que debe llevar a un niño en una emergencia para recibir la atención médica necesaria.",
       "p": "Correcto. Una emergencia médica es una excepción."
     }
+  },
+  {
+    "id": "az-174",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03174.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, what is the youngest age to get a graduated (class G) driver license?",
+      "o": [
+        "15 and a half",
+        "16",
+        "17",
+        "18"
+      ],
+      "h1": "It is a little older than the age for the instruction permit.",
+      "h2": "In Arizona, a person must be at least 16 years old to apply for a class G graduated driver license.",
+      "p": "Right. The graduated license starts at 16."
+    },
+    "es": {
+      "q": "En Arizona, ¿cuál es la edad mínima para obtener una licencia de conducir graduada (clase G)?",
+      "o": [
+        "15 años y medio",
+        "16 años",
+        "17 años",
+        "18 años"
+      ],
+      "h1": "Es un poco más que la edad del permiso de aprendizaje.",
+      "h2": "En Arizona, una persona debe tener al menos 16 años para solicitar la licencia de conducir graduada clase G.",
+      "p": "Correcto. La licencia graduada empieza a los 16 años."
+    }
+  },
+  {
+    "id": "az-175",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03174.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, a teen takes a driver education course at a certified defensive driving school. At least how many supervised practice hours must a parent also certify?",
+      "o": [
+        "No practice hours at all",
+        "10 hours, with 2 at night",
+        "50 hours, with 15 at night",
+        "20 hours, with 6 at night"
+      ],
+      "h1": "It is fewer hours than for a teen with no course at all.",
+      "h2": "In Arizona, a teen who takes driver education at a certified defensive driving school also needs a parent or guardian to certify at least 20 hours of supervised practice, with at least 6 of them at night.",
+      "p": "Right. That path needs 20 hours, 6 of them at night."
+    },
+    "es": {
+      "q": "En Arizona, un adolescente toma un curso de educación vial en una escuela de manejo defensivo certificada. ¿Cuántas horas de práctica supervisada, como mínimo, debe certificar además un padre?",
+      "o": [
+        "Ninguna hora de práctica",
+        "10 horas, 2 de ellas de noche",
+        "50 horas, 15 de ellas de noche",
+        "20 horas, 6 de ellas de noche"
+      ],
+      "h1": "Son menos horas que para un adolescente sin ningún curso.",
+      "h2": "En Arizona, un adolescente que toma educación vial en una escuela de manejo defensivo certificada también necesita que un padre o tutor certifique al menos 20 horas de práctica supervisada, con al menos 6 de noche.",
+      "p": "Correcto. Ese camino exige 20 horas, 6 de ellas de noche."
+    }
+  },
+  {
+    "id": "az-176",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03174.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, a 16-year-old with a motorcycle permit takes no motorcycle education course. How many hours of motorcycle practice must a parent certify before the teen can get a motorcycle license?",
+      "o": [
+        "10 hours",
+        "20 hours",
+        "30 hours",
+        "100 hours"
+      ],
+      "h1": "It is the same number as the car practice hours for a teen with no course.",
+      "h2": "In Arizona, a teen under 18 who does not finish an approved motorcycle education program needs a parent or guardian to certify at least 30 hours of motorcycle driving practice.",
+      "p": "Right. Without a course, it takes 30 hours of practice."
+    },
+    "es": {
+      "q": "En Arizona, un joven de 16 años con permiso de motocicleta no toma ningún curso de motocicleta. ¿Cuántas horas de práctica en motocicleta debe certificar un padre antes de que obtenga la licencia de motocicleta?",
+      "o": [
+        "10 horas",
+        "20 horas",
+        "30 horas",
+        "100 horas"
+      ],
+      "h1": "Es el mismo número de horas de práctica en auto para un adolescente sin curso.",
+      "h2": "En Arizona, un menor de 18 años que no termina un programa aprobado de educación en motocicleta necesita que un padre o tutor certifique al menos 30 horas de práctica en motocicleta.",
+      "p": "Correcto. Sin curso, se necesitan 30 horas de práctica."
+    }
+  },
+  {
+    "id": "az-177",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03174.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, when may a person with a class G (graduated) license apply for a class D (regular) license?",
+      "o": [
+        "On or after the 18th birthday",
+        "After any 6 months with class G",
+        "Only at age 21",
+        "After a second written test"
+      ],
+      "h1": "It is tied to a birthday, not to how long the license was held.",
+      "h2": "In Arizona, a person with a class G license may apply for a class D license on or after the 18th birthday, unless the class G license is suspended.",
+      "p": "Right. The regular license comes at 18."
+    },
+    "es": {
+      "q": "En Arizona, ¿cuándo puede una persona con licencia clase G (graduada) solicitar la licencia clase D (normal)?",
+      "o": [
+        "A partir de su cumpleaños número 18",
+        "Después de cualquier período de 6 meses con clase G",
+        "Solo a los 21 años",
+        "Después de un segundo examen escrito"
+      ],
+      "h1": "Depende de un cumpleaños, no del tiempo con la licencia.",
+      "h2": "En Arizona, una persona con licencia clase G puede solicitar la licencia clase D a partir de su cumpleaños número 18, a menos que la licencia clase G esté suspendida.",
+      "p": "Correcto. La licencia normal llega a los 18 años."
+    }
+  },
+  {
+    "id": "az-178",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03156.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, how many motorcycle (class M) instruction permits may one person get within 24 months?",
+      "o": [
+        "Only one",
+        "No more than two",
+        "No more than five",
+        "As many as needed"
+      ],
+      "h1": "A rider cannot keep renewing the permit forever.",
+      "h2": "In Arizona, the MVD will not issue more than two class M instruction permits to the same person within 24 months.",
+      "p": "Right. Two permits in 24 months is the limit."
+    },
+    "es": {
+      "q": "En Arizona, ¿cuántos permisos de aprendizaje de motocicleta (clase M) puede obtener una persona en 24 meses?",
+      "o": [
+        "Solo uno",
+        "No más de dos",
+        "No más de cinco",
+        "Todos los que necesite"
+      ],
+      "h1": "No se puede seguir renovando el permiso para siempre.",
+      "h2": "En Arizona, la MVD no emite más de dos permisos de aprendizaje clase M a la misma persona en 24 meses.",
+      "p": "Correcto. El límite es dos permisos en 24 meses."
+    }
+  },
+  {
+    "id": "az-179",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03171.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, unless a medical restriction makes it shorter, how long is a regular driver license (not a Travel ID) issued to a 25-year-old valid?",
+      "o": [
+        "Until the 30th birthday",
+        "For 2 years",
+        "Until the 65th birthday",
+        "It never expires"
+      ],
+      "h1": "Arizona licenses last a long time, but not forever.",
+      "h2": "In Arizona, a regular driver license is valid until the driver's 65th birthday, unless medical restrictions require a shorter period; after age 60 it is renewed every five years.",
+      "p": "Right. It is valid until age 65."
+    },
+    "es": {
+      "q": "En Arizona, a menos que una restricción médica lo acorte, ¿cuánto tiempo es válida una licencia de conducir normal (no Travel ID) emitida a una persona de 25 años?",
+      "o": [
+        "Hasta su cumpleaños número 30",
+        "Por 2 años",
+        "Hasta su cumpleaños número 65",
+        "Nunca vence"
+      ],
+      "h1": "Las licencias de Arizona duran mucho tiempo, pero no para siempre.",
+      "h2": "En Arizona, una licencia de conducir normal es válida hasta el cumpleaños número 65, a menos que restricciones médicas exijan un período más corto; después de los 60 años se renueva cada cinco años.",
+      "p": "Correcto. Es válida hasta los 65 años."
+    }
+  },
+  {
+    "id": "az-180",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00701-02.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, near a school crossing, driving faster than what speed is the crime of excessive speed, not just a civil ticket?",
+      "o": [
+        "16 mph",
+        "20 mph",
+        "25 mph",
+        "35 mph"
+      ],
+      "h1": "The school crossing limit is 15 mph; the crime starts well above it.",
+      "h2": "In Arizona, driving faster than 35 mph when approaching a school crossing is excessive speed, a class 3 misdemeanor.",
+      "p": "Right. Over 35 mph at a school crossing is a crime."
+    },
+    "es": {
+      "q": "En Arizona, cerca de un cruce escolar, ¿a partir de qué velocidad manejar más rápido es el delito de velocidad excesiva, no solo una multa civil?",
+      "o": [
+        "16 mph",
+        "20 mph",
+        "25 mph",
+        "35 mph"
+      ],
+      "h1": "El límite en el cruce escolar es 15 mph; el delito empieza mucho más arriba.",
+      "h2": "En Arizona, manejar a más de 35 mph al acercarse a un cruce escolar es velocidad excesiva, un delito menor clase 3.",
+      "p": "Correcto. Más de 35 mph en un cruce escolar es un delito."
+    }
+  },
+  {
+    "id": "az-181",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00701-02.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, in a business or residential district with no posted speed limit, driving faster than what speed is the crime of excessive speed?",
+      "o": [
+        "30 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "It is 20 mph above the usual 25 mph for these districts.",
+      "h2": "In Arizona, in a business or residential district with no posted limit, driving faster than 45 mph is excessive speed, a class 3 misdemeanor.",
+      "p": "Right. Over 45 mph there is a crime."
+    },
+    "es": {
+      "q": "En Arizona, en una zona comercial o residencial sin límite de velocidad señalizado, ¿a partir de qué velocidad manejar más rápido es el delito de velocidad excesiva?",
+      "o": [
+        "30 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "Son 20 mph más que las 25 mph habituales en estas zonas.",
+      "h2": "En Arizona, en una zona comercial o residencial sin límite señalizado, manejar a más de 45 mph es velocidad excesiva, un delito menor clase 3.",
+      "p": "Correcto. Más de 45 mph allí es un delito."
+    }
+  },
+  {
+    "id": "az-182",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00702-01.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, you drive 5 mph over a posted 55 mph limit on a highway outside a city, and the ticket is treated as \"waste of a finite resource.\" What is the most the civil penalty can be, not counting surcharges?",
+      "o": [
+        "$15",
+        "$150",
+        "$250",
+        "$500"
+      ],
+      "h1": "This small kind of speeding has a very small penalty.",
+      "h2": "In Arizona, speeding by 10 mph or less on certain highways can be treated as waste of a finite resource; the civil penalty is no more than $15 plus surcharges, and it does not count toward license suspension or insurance rates.",
+      "p": "Right. The penalty is at most $15 plus surcharges."
+    },
+    "es": {
+      "q": "En Arizona, usted maneja 5 mph sobre un límite señalizado de 55 mph en una carretera fuera de la ciudad, y la multa se trata como \"desperdicio de un recurso finito\". ¿Cuál es la multa civil máxima, sin contar recargos?",
+      "o": [
+        "$15",
+        "$150",
+        "$250",
+        "$500"
+      ],
+      "h1": "Este exceso pequeño tiene una multa muy pequeña.",
+      "h2": "En Arizona, exceder la velocidad por 10 mph o menos en ciertas carreteras puede tratarse como desperdicio de un recurso finito; la multa civil no pasa de $15 más recargos, y no cuenta para suspender la licencia ni para las tarifas del seguro.",
+      "p": "Correcto. La multa es de $15 como máximo, más recargos."
+    }
+  },
+  {
+    "id": "az-183",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00701.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, outside business and residential districts and away from school crossings, what is the general speed limit when no sign says otherwise?",
+      "o": [
+        "55 mph",
+        "65 mph",
+        "70 mph",
+        "75 mph"
+      ],
+      "h1": "Arizona's numbers are 15, 25 and one more.",
+      "h2": "In Arizona, unless signs or conditions require less, driving faster than 65 mph in places other than school crossings and business or residential districts is considered too fast.",
+      "p": "Right. The general limit is 65 mph."
+    },
+    "es": {
+      "q": "En Arizona, fuera de zonas comerciales y residenciales y lejos de cruces escolares, ¿cuál es el límite de velocidad general cuando ninguna señal indica otra cosa?",
+      "o": [
+        "55 mph",
+        "65 mph",
+        "70 mph",
+        "75 mph"
+      ],
+      "h1": "Los números de Arizona son 15, 25 y uno más.",
+      "h2": "En Arizona, a menos que las señales o las condiciones exijan menos, manejar a más de 65 mph en lugares que no sean cruces escolares ni zonas comerciales o residenciales se considera demasiado rápido.",
+      "p": "Correcto. El límite general es 65 mph."
+    }
+  },
+  {
+    "id": "az-184",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00702-04.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, on an interstate highway outside urban areas, what is the highest speed limit the state transportation director may set?",
+      "o": [
+        "65 mph",
+        "70 mph",
+        "75 mph",
+        "85 mph"
+      ],
+      "h1": "The basic limit there is 65 mph, and it may be raised by 10.",
+      "h2": "In Arizona, the speed limit on interstate highways outside urbanized areas is 65 mph, and the state transportation director may raise it to 75 mph.",
+      "p": "Right. The top limit there is 75 mph."
+    },
+    "es": {
+      "q": "En Arizona, en una carretera interestatal fuera de zonas urbanas, ¿cuál es el límite de velocidad más alto que puede fijar el director estatal de transporte?",
+      "o": [
+        "65 mph",
+        "70 mph",
+        "75 mph",
+        "85 mph"
+      ],
+      "h1": "El límite básico allí es 65 mph, y puede subir 10.",
+      "h2": "En Arizona, el límite en carreteras interestatales fuera de zonas urbanizadas es 65 mph, y el director estatal de transporte puede subirlo a 75 mph.",
+      "p": "Correcto. El límite más alto allí es 75 mph."
+    }
+  },
+  {
+    "id": "az-185",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00708.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, a driver is convicted of street racing for the first time. What is the lowest fine?",
+      "o": [
+        "$25",
+        "$50",
+        "$100",
+        "$250"
+      ],
+      "h1": "A first racing conviction is a crime with a fine of several hundred dollars.",
+      "h2": "In Arizona, a first racing conviction is a class 1 misdemeanor with a fine of at least $250, and the judge may suspend the license for up to 90 days.",
+      "p": "Right. The fine is at least $250."
+    },
+    "es": {
+      "q": "En Arizona, un conductor es condenado por primera vez por carreras en la calle. ¿Cuál es la multa mínima?",
+      "o": [
+        "$25",
+        "$50",
+        "$100",
+        "$250"
+      ],
+      "h1": "Una primera condena por carreras es un delito con multa de varios cientos de dólares.",
+      "h2": "En Arizona, una primera condena por carreras es un delito menor clase 1 con multa de al menos $250, y el juez puede suspender la licencia hasta por 90 días.",
+      "p": "Correcto. La multa es de al menos $250."
+    }
+  },
+  {
+    "id": "az-186",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00693.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, a driver is convicted of reckless driving for the first time. What kind of offense is it?",
+      "o": [
+        "A civil traffic ticket only",
+        "A class 2 misdemeanor (a crime)",
+        "A class 4 felony",
+        "A parking violation"
+      ],
+      "h1": "It is a crime, but not a felony the first time.",
+      "h2": "In Arizona, a first reckless driving conviction is a class 2 misdemeanor, and the judge may suspend the license for up to 90 days.",
+      "p": "Right. Reckless driving is a crime."
+    },
+    "es": {
+      "q": "En Arizona, un conductor es condenado por primera vez por manejo imprudente. ¿Qué tipo de infracción es?",
+      "o": [
+        "Solo una multa de tránsito civil",
+        "Un delito menor clase 2 (un delito)",
+        "Un delito grave clase 4",
+        "Una infracción de estacionamiento"
+      ],
+      "h1": "Es un delito, pero no un delito grave la primera vez.",
+      "h2": "En Arizona, una primera condena por manejo imprudente es un delito menor clase 2, y el juez puede suspender la licencia hasta por 90 días.",
+      "p": "Correcto. El manejo imprudente es un delito."
+    }
+  },
+  {
+    "id": "az-187",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00622-01.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, a driver on purpose flees from a marked police car that is chasing with lights and siren. What is the charge?",
+      "o": [
+        "A civil traffic ticket",
+        "A class 3 misdemeanor",
+        "A class 5 felony",
+        "No crime if no one is hurt"
+      ],
+      "h1": "Running from the police is one of the most serious traffic crimes.",
+      "h2": "In Arizona, wilfully fleeing or trying to get away from a pursuing, marked police vehicle is a class 5 felony.",
+      "p": "Right. Fleeing the police is a felony."
+    },
+    "es": {
+      "q": "En Arizona, un conductor huye a propósito de una patrulla policial marcada que lo persigue con luces y sirena. ¿Cuál es el cargo?",
+      "o": [
+        "Una multa de tránsito civil",
+        "Un delito menor clase 3",
+        "Un delito grave clase 5",
+        "No es delito si nadie se lastima"
+      ],
+      "h1": "Huir de la policía es uno de los delitos de tránsito más graves.",
+      "h2": "En Arizona, huir a propósito o intentar escapar de un vehículo policial marcado que lo persigue es un delito grave clase 5.",
+      "p": "Correcto. Huir de la policía es un delito grave."
+    }
+  },
+  {
+    "id": "az-188",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00664.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, a driver hits an empty parked car and drives away without stopping or leaving a note. What kind of offense is it?",
+      "o": [
+        "A class 1 misdemeanor (a crime)",
+        "No offense, since no one was in it",
+        "Only a parking ticket",
+        "A warning letter from the MVD"
+      ],
+      "h1": "Leaving without giving your name is more than a small ticket.",
+      "h2": "In Arizona, a driver who hits an unattended vehicle must stop and either find the owner or leave a written note; not doing so is a class 1 misdemeanor.",
+      "p": "Right. It is a crime to drive away without notice."
+    },
+    "es": {
+      "q": "En Arizona, un conductor choca un auto estacionado vacío y se va sin detenerse ni dejar una nota. ¿Qué tipo de infracción es?",
+      "o": [
+        "Un delito menor clase 1 (un delito)",
+        "No es infracción, porque estaba vacío",
+        "Solo una multa de estacionamiento",
+        "Una carta de advertencia de la MVD"
+      ],
+      "h1": "Irse sin dar su nombre es más que una multa pequeña.",
+      "h2": "En Arizona, el conductor que choca un vehículo sin nadie adentro debe detenerse y buscar al dueño o dejar una nota escrita; no hacerlo es un delito menor clase 1.",
+      "p": "Correcto. Irse sin avisar es un delito."
+    }
+  },
+  {
+    "id": "az-189",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00909.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, what is the most an adult can be fined for not wearing a seat belt in the front seat?",
+      "o": [
+        "$10",
+        "$50",
+        "$100",
+        "$250"
+      ],
+      "h1": "The penalty is very small, but the danger is not.",
+      "h2": "In Arizona, the civil penalty for a seat belt violation is no more than $10, and it does not count against the license or insurance.",
+      "p": "Right. The penalty is at most $10."
+    },
+    "es": {
+      "q": "En Arizona, ¿cuál es la multa máxima para un adulto que no usa el cinturón de seguridad en el asiento delantero?",
+      "o": [
+        "$10",
+        "$50",
+        "$100",
+        "$250"
+      ],
+      "h1": "La multa es muy pequeña, pero el peligro no lo es.",
+      "h2": "En Arizona, la multa civil por no usar el cinturón de seguridad no pasa de $10, y no cuenta contra la licencia ni el seguro.",
+      "p": "Correcto. La multa es de $10 como máximo."
+    }
+  },
+  {
+    "id": "az-190",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00907.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, you get a ticket for not using a required child car seat. How can you avoid the $50 civil penalty?",
+      "o": [
+        "Promise the judge to drive more slowly",
+        "Show you have since gotten a proper car seat",
+        "Explain that the trip was very short",
+        "Move the child to the front passenger seat"
+      ],
+      "h1": "The law cares most that the child is protected next time.",
+      "h2": "In Arizona, the $50 civil penalty for a child restraint violation is not imposed if the driver shows the court, for example with a receipt, that the vehicle now has a proper child restraint system.",
+      "p": "Right. Proof of a new car seat avoids the penalty."
+    },
+    "es": {
+      "q": "En Arizona, le dan una multa por no usar un asiento de seguridad infantil obligatorio. ¿Cómo puede evitar la multa civil de $50?",
+      "o": [
+        "Prometerle al juez manejar más despacio",
+        "Mostrar que ya consiguió un asiento infantil adecuado",
+        "Explicar que el viaje era muy corto",
+        "Pasar al niño al asiento delantero del pasajero"
+      ],
+      "h1": "A la ley le importa sobre todo que el niño esté protegido la próxima vez.",
+      "h2": "En Arizona, la multa civil de $50 por no usar un asiento infantil no se cobra si el conductor muestra al tribunal, por ejemplo con un recibo, que el vehículo ya tiene un sistema de retención infantil adecuado.",
+      "p": "Correcto. Mostrar un asiento infantil nuevo evita la multa."
+    }
+  },
+  {
+    "id": "az-191",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00914.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, while driving, may you send a text message by speaking voice commands to your phone, without holding it?",
+      "o": [
+        "No, never",
+        "Only below 25 mph",
+        "Yes, and you may also type short replies",
+        "Yes, voice commands are allowed"
+      ],
+      "h1": "The hands-free law is about your hands and your eyes.",
+      "h2": "In Arizona, the hands-free law allows a driver to use voice-based commands to write, send or read a text, as long as the driver does not hold the phone or type.",
+      "p": "Right. Voice texting is allowed if you don't hold the phone."
+    },
+    "es": {
+      "q": "En Arizona, mientras maneja, ¿puede enviar un mensaje de texto con comandos de voz, sin sostener el teléfono?",
+      "o": [
+        "No, nunca",
+        "Solo a menos de 25 mph",
+        "Sí, y también puede escribir respuestas cortas",
+        "Sí, los comandos de voz están permitidos"
+      ],
+      "h1": "La ley de manos libres se trata de sus manos y sus ojos.",
+      "h2": "En Arizona, la ley de manos libres permite usar comandos de voz para escribir, enviar o leer un texto, siempre que el conductor no sostenga el teléfono ni escriba.",
+      "p": "Correcto. Puede enviar textos por voz si no sostiene el teléfono."
+    }
+  },
+  {
+    "id": "az-192",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00914.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, when may a driver hold a phone to make a call while driving?",
+      "o": [
+        "To call work when running late",
+        "To call for emergency help or report a crime",
+        "Whenever traffic is light and slow",
+        "On any road outside city limits"
+      ],
+      "h1": "The exception is for real emergencies.",
+      "h2": "In Arizona, the hands-free law does not apply to a driver who uses a phone to report illegal activity or to call for emergency help.",
+      "p": "Right. Emergency calls are allowed."
+    },
+    "es": {
+      "q": "En Arizona, ¿cuándo puede un conductor sostener el teléfono para hacer una llamada mientras maneja?",
+      "o": [
+        "Para llamar al trabajo si llega tarde",
+        "Para pedir ayuda de emergencia o denunciar un delito",
+        "Cuando hay poco tráfico y va despacio",
+        "En cualquier camino fuera de la ciudad"
+      ],
+      "h1": "La excepción es para emergencias reales.",
+      "h2": "En Arizona, la ley de manos libres no se aplica al conductor que usa el teléfono para denunciar una actividad ilegal o pedir ayuda de emergencia.",
+      "p": "Correcto. Las llamadas de emergencia están permitidas."
+    }
+  },
+  {
+    "id": "az-193",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/01381.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, a driver seems fine, but a test finds an illegal drug, such as methamphetamine, or its byproduct in the driver's body. Is it DUI?",
+      "o": [
+        "No, only if the driver is impaired",
+        "Yes, any amount of it counts",
+        "Only if alcohol is also found",
+        "Only if there was a crash"
+      ],
+      "h1": "For illegal drugs, the law does not wait for signs of impairment.",
+      "h2": "In Arizona, it is DUI to drive with any illegal drug listed in state law, or its metabolite, in the body, even without signs of impairment; a drug used as a licensed prescriber directs is an exception.",
+      "p": "Right. Any amount of an illegal drug is DUI."
+    },
+    "es": {
+      "q": "En Arizona, un conductor parece estar bien, pero una prueba encuentra una droga ilegal, como metanfetamina, o un residuo de ella en su cuerpo. ¿Es DUI?",
+      "o": [
+        "No, solo si el conductor está afectado",
+        "Sí, cualquier cantidad cuenta",
+        "Solo si también hay alcohol",
+        "Solo si hubo un choque"
+      ],
+      "h1": "Con drogas ilegales, la ley no espera señales de que esté afectado.",
+      "h2": "En Arizona, es DUI manejar con cualquier droga ilegal de la lista de la ley estatal, o su metabolito, en el cuerpo, aunque no haya señales de estar afectado; una droga usada como lo indica un profesional autorizado es una excepción.",
+      "p": "Correcto. Cualquier cantidad de una droga ilegal es DUI."
+    }
+  },
+  {
+    "id": "az-194",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/01381.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, a driver is impaired by a medicine the driver is legally allowed to use. Is that a defense to a DUI charge?",
+      "o": [
+        "No, being allowed to use it is not a defense",
+        "Yes, a legal medicine is always a defense",
+        "Yes, if the driver has the bottle",
+        "Yes, if it was taken before noon"
+      ],
+      "h1": "The question is whether the driver was impaired, not whether the medicine was legal.",
+      "h2": "In Arizona, being entitled to use a drug under state law is not a defense to a charge of driving while impaired to the slightest degree.",
+      "p": "Right. Legal or not, driving impaired is DUI."
+    },
+    "es": {
+      "q": "En Arizona, un conductor está afectado por un medicamento que tiene permiso legal para usar. ¿Eso lo defiende de un cargo de DUI?",
+      "o": [
+        "No, tener permiso para usarlo no es defensa",
+        "Sí, un medicamento legal siempre es defensa",
+        "Sí, si el conductor lleva el frasco",
+        "Sí, si lo tomó antes del mediodía"
+      ],
+      "h1": "La pregunta es si el conductor estaba afectado, no si el medicamento era legal.",
+      "h2": "En Arizona, tener derecho a usar una droga según la ley estatal no es defensa contra un cargo de manejar afectado aunque sea en el grado más leve.",
+      "p": "Correcto. Legal o no, manejar afectado es DUI."
+    }
+  },
+  {
+    "id": "az-195",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/01388.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, after a DUI arrest, the police have you take a breath or blood test. What else does the law allow you?",
+      "o": [
+        "To skip any license suspension",
+        "To choose which officer tests you",
+        "A chance to arrange your own extra test",
+        "To wait 24 hours before any test"
+      ],
+      "h1": "You may get a second opinion from a qualified person.",
+      "h2": "In Arizona, a person tested for DUI must be given a reasonable opportunity to arrange for a physician, registered nurse or other qualified person of their choice to give an additional test.",
+      "p": "Right. You may arrange your own additional test."
+    },
+    "es": {
+      "q": "En Arizona, después de un arresto por DUI, la policía le hace una prueba de aliento o de sangre. ¿Qué más le permite la ley?",
+      "o": [
+        "Evitar cualquier suspensión de la licencia",
+        "Elegir qué policía le hace la prueba",
+        "Una oportunidad de pedir su propia prueba adicional",
+        "Esperar 24 horas antes de cualquier prueba"
+      ],
+      "h1": "Puede obtener una segunda opinión de una persona calificada.",
+      "h2": "En Arizona, a la persona que hace una prueba de DUI se le debe dar una oportunidad razonable de pedir que un médico, enfermero registrado u otra persona calificada de su elección le haga una prueba adicional.",
+      "p": "Correcto. Puede pedir su propia prueba adicional."
+    }
+  },
+  {
+    "id": "az-196",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03319.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, after a first regular DUI conviction that involved alcohol, for how long does the MVD normally require an ignition interlock device?",
+      "o": [
+        "30 days",
+        "No interlock is required",
+        "5 years",
+        "12 months"
+      ],
+      "h1": "It is shorter than for an extreme DUI.",
+      "h2": "In Arizona, after a regular DUI conviction involving alcohol, the MVD requires a certified ignition interlock device for 12 months; under strict conditions it may defer the rest after six months.",
+      "p": "Right. The usual period is 12 months."
+    },
+    "es": {
+      "q": "En Arizona, después de una primera condena por DUI normal relacionada con alcohol, ¿por cuánto tiempo exige normalmente la MVD un dispositivo de bloqueo de encendido?",
+      "o": [
+        "30 días",
+        "No se exige dispositivo",
+        "5 años",
+        "12 meses"
+      ],
+      "h1": "Es menos que para un DUI extremo.",
+      "h2": "En Arizona, después de una condena por DUI normal relacionada con alcohol, la MVD exige un dispositivo de bloqueo de encendido certificado por 12 meses; con condiciones estrictas puede aplazar el resto después de seis meses.",
+      "p": "Correcto. El período habitual es 12 meses."
+    }
+  },
+  {
+    "id": "az-197",
+    "scope": "AZ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00857.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, a driver illegally passes a stopped school bus for the third time within 36 months. What is the lowest civil penalty?",
+      "o": [
+        "$1,000",
+        "$250",
+        "$500",
+        "$750"
+      ],
+      "h1": "Each repeat within 36 months raises the minimum.",
+      "h2": "In Arizona, a third or later school bus violation within 36 months brings a civil penalty of at least $1,000 and a license suspension of six months to one year.",
+      "p": "Right. The minimum is $1,000, plus a suspension."
+    },
+    "es": {
+      "q": "En Arizona, un conductor pasa ilegalmente un autobús escolar detenido por tercera vez en 36 meses. ¿Cuál es la multa civil mínima?",
+      "o": [
+        "$1,000",
+        "$250",
+        "$500",
+        "$750"
+      ],
+      "h1": "Cada repetición en 36 meses sube el mínimo.",
+      "h2": "En Arizona, una tercera infracción o más con un autobús escolar en 36 meses trae una multa civil de al menos $1,000 y una suspensión de la licencia de seis meses a un año.",
+      "p": "Correcto. El mínimo es $1,000, más una suspensión."
+    }
+  },
+  {
+    "id": "az-198",
+    "scope": "AZ",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00644.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, between a freeway lane and an entrance or exit ramp there is an area outlined by two wide solid white lines (a gore area). What does the law say?",
+      "o": [
+        "You may cross it if you miss your exit",
+        "Do not drive over it or park in it",
+        "You may park in it for a short time",
+        "Only trucks may drive on it"
+      ],
+      "h1": "Those wide white lines are a boundary, not a lane.",
+      "h2": "In Arizona, a driver may not drive over, across or park in a gore area, except when a disabled vehicle cannot avoid stopping there.",
+      "p": "Right. Stay out of the gore area."
+    },
+    "es": {
+      "q": "En Arizona, entre un carril de la autopista y una rampa de entrada o salida hay un área marcada con dos líneas blancas continuas y anchas (área de separación). ¿Qué dice la ley?",
+      "o": [
+        "Puede cruzarla si se pasó la salida",
+        "No pase por encima de ella ni se estacione en ella",
+        "Puede estacionarse allí por poco tiempo",
+        "Solo los camiones pueden pasar por ella"
+      ],
+      "h1": "Esas líneas blancas anchas son un límite, no un carril.",
+      "h2": "En Arizona, un conductor no puede pasar por encima, cruzar ni estacionarse en un área de separación, salvo cuando un vehículo averiado no puede evitar detenerse allí.",
+      "p": "Correcto. No entre en el área de separación."
+    }
+  },
+  {
+    "id": "az-199",
+    "scope": "AZ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00645.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, the traffic signal at an intersection is not working at all. What must you do?",
+      "o": [
+        "Drive through without slowing down",
+        "Slow down, but do not stop at all",
+        "Stop completely, then go on when safe",
+        "Wait there until the signal works again"
+      ],
+      "h1": "Treat it much like a stop sign.",
+      "h2": "In Arizona, at an intersection where the traffic signal is not working, a driver must come to a complete stop and may then go on with caution only when it is safe.",
+      "p": "Right. Stop fully, then go when it is safe."
+    },
+    "es": {
+      "q": "En Arizona, el semáforo de un cruce no funciona en absoluto. ¿Qué debe hacer?",
+      "o": [
+        "Pasar sin bajar la velocidad",
+        "Bajar la velocidad, pero no detenerse",
+        "Detenerse por completo y seguir cuando sea seguro",
+        "Esperar hasta que el semáforo vuelva a funcionar"
+      ],
+      "h1": "Trátelo casi como una señal de alto.",
+      "h2": "En Arizona, en un cruce donde el semáforo no funciona, el conductor debe detenerse por completo y luego puede seguir con precaución solo cuando sea seguro.",
+      "p": "Correcto. Deténgase por completo y siga cuando sea seguro."
+    }
+  },
+  {
+    "id": "az-200",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/01381.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, the 0.08 alcohol limit applies to the driver's alcohol level within how long after driving?",
+      "o": [
+        "Within 15 minutes",
+        "Within 24 hours",
+        "Within 8 hours",
+        "Within two hours"
+      ],
+      "h1": "Police have a short window to test, but it is more than an hour.",
+      "h2": "In Arizona, it is DUI to have an alcohol concentration of 0.08 or more within two hours of driving or being in actual physical control of a vehicle.",
+      "p": "Right. The level within two hours of driving counts."
+    },
+    "es": {
+      "q": "En Arizona, ¿dentro de cuánto tiempo después de manejar se mide el nivel de alcohol para el límite de 0.08?",
+      "o": [
+        "Dentro de 15 minutos",
+        "Dentro de 24 horas",
+        "Dentro de 8 horas",
+        "Dentro de dos horas"
+      ],
+      "h1": "La policía tiene poco tiempo para la prueba, pero es más de una hora.",
+      "h2": "En Arizona, es DUI tener una concentración de alcohol de 0.08 o más dentro de las dos horas después de manejar o de tener el control físico real de un vehículo.",
+      "p": "Correcto. Cuenta el nivel dentro de dos horas de manejar."
+    }
+  },
+  {
+    "id": "az-201",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00901.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, you drive children to school. Where must you stop to let them out at the school?",
+      "o": [
+        "In the middle of the road, if traffic stops",
+        "Across the street from the school",
+        "In any lane, with hazard lights on",
+        "On the side of the road where the school is"
+      ],
+      "h1": "Think about where the children must walk.",
+      "h2": "In Arizona, a driver taking children to or from school must stop on the side of the highway where the school is located when picking them up or letting them out.",
+      "p": "Right. Stop on the school's side so children don't cross traffic."
+    },
+    "es": {
+      "q": "En Arizona, usted lleva niños a la escuela. ¿Dónde debe detenerse para que bajen en la escuela?",
+      "o": [
+        "En medio de la calle",
+        "Al otro lado de la calle de la escuela",
+        "En cualquier carril con las luces de emergencia",
+        "Del lado de la calle donde está la escuela"
+      ],
+      "h1": "Piense por dónde deben caminar los niños.",
+      "h2": "En Arizona, el conductor que lleva niños a la escuela o los recoge debe detenerse del lado de la carretera donde está la escuela.",
+      "p": "Correcto. Deténgase del lado de la escuela para que los niños no crucen el tráfico."
+    }
   }
 ]
