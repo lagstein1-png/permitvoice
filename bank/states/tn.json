@@ -1802,5 +1802,175 @@
       "h2": "تطلب Tennessee على الأقل $25,000 لإصابة شخص واحد، و$50,000 للإصابات في حادث واحد، و$25,000 للأضرار في الممتلكات.",
       "p": "صحيح. الحد الأدنى في Tennessee هو 25/50/25."
     }
+  },
+  {
+    "id": "tn-023",
+    "scope": "TN",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 81,
+    "src": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Tennessee, you are arrested and refuse an officer's request for an alcohol or drug test. What is the likely result?",
+      "o": [
+        "A warning letter",
+        "A $20 fine only",
+        "Nothing, if you pass a later test",
+        "Your license is suspended for 12 months"
+      ],
+      "h1": "By driving in Tennessee, you have already agreed to be tested.",
+      "h2": "In Tennessee, refusing an alcohol or drug test after an arrest will likely lead a court to suspend your license for 12 months.",
+      "p": "Right. Refusing can cost you your license for 12 months."
+    },
+    "es": {
+      "q": "En Tennessee, usted es arrestado y se niega a la prueba de alcohol o drogas que le pide un oficial. ¿Cuál es el resultado probable?",
+      "o": [
+        "Una carta de advertencia",
+        "Solo una multa de $20",
+        "Nada, si pasa una prueba después",
+        "Le suspenden la licencia por 12 meses"
+      ],
+      "h1": "Al manejar en Tennessee, usted ya aceptó hacerse la prueba.",
+      "h2": "En Tennessee, negarse a una prueba de alcohol o drogas después de un arresto probablemente hará que un tribunal le suspenda la licencia por 12 meses.",
+      "p": "Correcto. Negarse puede costarle la licencia por 12 meses."
+    }
+  },
+  {
+    "id": "tn-024",
+    "scope": "TN",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 89,
+    "src": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Tennessee, after a crash with injuries or more than $400 in damage, how soon must the owner or driver send a crash report to the Department of Safety?",
+      "o": [
+        "Within 24 hours",
+        "Within 20 days",
+        "Within 6 months",
+        "Only if the police ask"
+      ],
+      "h1": "You have about three weeks.",
+      "h2": "In Tennessee, after a crash with injury, death or more than $400 in damage, the owner or driver must file a report with the Department of Safety within 20 days.",
+      "p": "Right. File the report within 20 days."
+    },
+    "es": {
+      "q": "En Tennessee, después de un choque con heridos o más de $400 en daños, ¿en cuánto tiempo debe el dueño o el conductor enviar un reporte del choque al Departamento de Seguridad?",
+      "o": [
+        "En 24 horas",
+        "En 20 días",
+        "En 6 meses",
+        "Solo si la policía lo pide"
+      ],
+      "h1": "Tiene más o menos tres semanas.",
+      "h2": "En Tennessee, después de un choque con heridos, muertos o más de $400 en daños, el dueño o el conductor debe presentar un reporte al Departamento de Seguridad en 20 días.",
+      "p": "Correcto. Presente el reporte en 20 días."
+    }
+  },
+  {
+    "id": "tn-025",
+    "scope": "TN",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Tennessee, your home address changes. How soon must you tell the Department of Safety?",
+      "o": [
+        "Within 10 days",
+        "Within 90 days",
+        "At your next renewal",
+        "Within one year"
+      ],
+      "h1": "It is a short time, less than two weeks.",
+      "h2": "In Tennessee you must tell the Department of Safety about a change of address within 10 days.",
+      "p": "Right. Report a new address within 10 days."
+    },
+    "es": {
+      "q": "En Tennessee, su dirección de casa cambia. ¿En cuánto tiempo debe avisar al Departamento de Seguridad?",
+      "o": [
+        "En 10 días",
+        "En 90 días",
+        "En su próxima renovación",
+        "En un año"
+      ],
+      "h1": "Es poco tiempo, menos de dos semanas.",
+      "h2": "En Tennessee usted debe avisar al Departamento de Seguridad de un cambio de dirección en 10 días.",
+      "p": "Correcto. Avise su nueva dirección en 10 días."
+    }
+  },
+  {
+    "id": "tn-026",
+    "scope": "TN",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 31,
+    "src": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Tennessee, a child is 6 years old and shorter than 4 feet 9 inches. How must the child ride?",
+      "o": [
+        "With a seat belt only, in any seat",
+        "In a rear-facing car seat",
+        "In a booster seat with a seat belt",
+        "On a parent's lap"
+      ],
+      "h1": "The child is too small for an adult belt alone, but too old for a rear-facing seat.",
+      "h2": "In Tennessee, children 4 through 8 years old who are shorter than 4 feet 9 inches must ride in a booster seat and wear a seat belt.",
+      "p": "Right. A booster seat with a seat belt."
+    },
+    "es": {
+      "q": "En Tennessee, un niño tiene 6 años y mide menos de 4 pies 9 pulgadas. ¿Cómo debe viajar?",
+      "o": [
+        "Solo con cinturón, en cualquier asiento",
+        "En un asiento de auto mirando hacia atrás",
+        "En un asiento elevado con cinturón de seguridad",
+        "En las piernas de su padre o madre"
+      ],
+      "h1": "El niño es muy pequeño para usar solo el cinturón de adulto, pero muy grande para un asiento mirando hacia atrás.",
+      "h2": "En Tennessee, los niños de 4 a 8 años que miden menos de 4 pies 9 pulgadas deben viajar en un asiento elevado y usar el cinturón de seguridad.",
+      "p": "Correcto. Un asiento elevado con cinturón."
+    }
+  },
+  {
+    "id": "tn-027",
+    "scope": "TN",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Tennessee, how often does a driver license expire for a person over 21?",
+      "o": [
+        "Every 2 years",
+        "Every 8 years",
+        "Every 15 years",
+        "Never"
+      ],
+      "h1": "It lasts more than five years.",
+      "h2": "In Tennessee a driver license for a person over 21 expires every 8 years from the date it was issued.",
+      "p": "Right. Every 8 years."
+    },
+    "es": {
+      "q": "En Tennessee, ¿cada cuánto vence la licencia de conducir de una persona mayor de 21 años?",
+      "o": [
+        "Cada 2 años",
+        "Cada 8 años",
+        "Cada 15 años",
+        "Nunca"
+      ],
+      "h1": "Dura más de cinco años.",
+      "h2": "En Tennessee la licencia de conducir de una persona mayor de 21 años vence cada 8 años desde la fecha en que se emitió.",
+      "p": "Correcto. Cada 8 años."
+    }
   }
 ]
