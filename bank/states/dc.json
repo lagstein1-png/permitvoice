@@ -2130,5 +2130,175 @@
       "h2": "في District of Columbia لا يجوز الدوران للخلف عند التقاطعات التي تنظمها إشارات المرور، ولا على ممر المشاة الذي بجانب تقاطع كهذا.",
       "p": "صحيح. لا دوران للخلف عند التقاطعات التي فيها إشارات مرور."
     }
+  },
+  {
+    "id": "dc-027",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 44,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, how close to a fire hydrant may you stand or park?",
+      "o": [
+        "Up to 5 feet away",
+        "No closer than 10 feet",
+        "No closer than 25 feet",
+        "No closer than 50 feet"
+      ],
+      "h1": "The District uses a shorter distance than many states.",
+      "h2": "In the District of Columbia, you may not stand or park within 10 feet of a fire hydrant.",
+      "p": "Right. Stay at least 10 feet from a hydrant."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿a qué distancia de un hidrante puede detenerse o estacionarse?",
+      "o": [
+        "Hasta 5 pies de distancia",
+        "No más cerca de 10 pies",
+        "No más cerca de 25 pies",
+        "No más cerca de 50 pies"
+      ],
+      "h1": "El Distrito usa una distancia más corta que muchos estados.",
+      "h2": "En el Distrito de Columbia, usted no puede detenerse ni estacionarse a menos de 10 pies de un hidrante.",
+      "p": "Correcto. Quédese por lo menos a 10 pies de un hidrante."
+    }
+  },
+  {
+    "id": "dc-028",
+    "scope": "DC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 41,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, what is the rule when you pass a bicyclist?",
+      "o": [
+        "Honk first so the rider knows you are there",
+        "Leave at least 1 foot of space",
+        "Leave at least 3 feet and do not use your horn",
+        "Pass only on the right"
+      ],
+      "h1": "A loud noise can startle a rider.",
+      "h2": "In the District of Columbia, you must leave at least three feet of space when passing a bicyclist, and you should not use your horn.",
+      "p": "Right. Leave 3 feet and do not honk."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuál es la regla al rebasar a un ciclista?",
+      "o": [
+        "Tocar la bocina primero para avisarle",
+        "Dejar por lo menos 1 pie de espacio",
+        "Dejar por lo menos 3 pies y no tocar la bocina",
+        "Rebasar solo por la derecha"
+      ],
+      "h1": "Un ruido fuerte puede asustar al ciclista.",
+      "h2": "En el Distrito de Columbia, debe dejar por lo menos tres pies de espacio al rebasar a un ciclista, y no debe tocar la bocina.",
+      "p": "Correcto. Deje 3 pies y no toque la bocina."
+    }
+  },
+  {
+    "id": "dc-029",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 43,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, how close to the curb must you be when you parallel park?",
+      "o": [
+        "Within 12 inches",
+        "Within 24 inches",
+        "Within 3 feet",
+        "Touching the curb"
+      ],
+      "h1": "The distance is about one foot.",
+      "h2": "In the District of Columbia, when you parallel park you must be parallel to the curb and within 12 inches of it.",
+      "p": "Right. Park within 12 inches of the curb."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿qué tan cerca de la acera debe quedar al estacionarse en paralelo?",
+      "o": [
+        "A 12 pulgadas o menos",
+        "A 24 pulgadas o menos",
+        "A 3 pies o menos",
+        "Tocando la acera"
+      ],
+      "h1": "La distancia es de más o menos un pie.",
+      "h2": "En el Distrito de Columbia, al estacionarse en paralelo debe quedar paralelo a la acera y a no más de 12 pulgadas de ella.",
+      "p": "Correcto. Estaciónese a 12 pulgadas o menos de la acera."
+    }
+  },
+  {
+    "id": "dc-030",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, where is it legal to pass another vehicle on the right?",
+      "o": [
+        "On any two-lane road",
+        "On the shoulder of any road",
+        "Only at night",
+        "On a one-way road with room for more than one line of traffic"
+      ],
+      "h1": "Think of roads where all traffic goes the same way.",
+      "h2": "In the District of Columbia, you may pass on the left or right on a one-way road with room for more than one line of traffic, and on highways with four or more lanes.",
+      "p": "Right. One-way roads with more than one lane allow passing on either side."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿dónde es legal rebasar a otro vehículo por la derecha?",
+      "o": [
+        "En cualquier vía de dos carriles",
+        "Por el acotamiento de cualquier vía",
+        "Solo de noche",
+        "En una vía de un solo sentido con espacio para más de una fila de tráfico"
+      ],
+      "h1": "Piense en las vías donde todo el tráfico va en la misma dirección.",
+      "h2": "En el Distrito de Columbia, puede rebasar por la izquierda o por la derecha en una vía de un solo sentido con espacio para más de una fila de tráfico, y en carreteras de cuatro carriles o más.",
+      "p": "Correcto. En vías de un solo sentido con más de un carril se puede rebasar por cualquier lado."
+    }
+  },
+  {
+    "id": "dc-031",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 42,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, when must you turn on your headlights?",
+      "o": [
+        "Only after midnight",
+        "Whenever your windshield wipers are on",
+        "Only on highways",
+        "Only when it snows"
+      ],
+      "h1": "Think about rain.",
+      "h2": "In the District of Columbia, you must turn on your headlights whenever your windshield wipers are on, and also in tunnels and from half an hour after sunset to half an hour before sunrise.",
+      "p": "Right. Wipers on means headlights on."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuándo debe encender los faros?",
+      "o": [
+        "Solo después de medianoche",
+        "Siempre que tenga los limpiaparabrisas encendidos",
+        "Solo en las carreteras",
+        "Solo cuando nieva"
+      ],
+      "h1": "Piense en la lluvia.",
+      "h2": "En el Distrito de Columbia, debe encender los faros siempre que tenga los limpiaparabrisas encendidos, y también en los túneles y desde media hora después de la puesta del sol hasta media hora antes del amanecer.",
+      "p": "Correcto. Limpiaparabrisas encendidos significa faros encendidos."
+    }
   }
 ]
