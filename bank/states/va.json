@@ -2212,5 +2212,141 @@
       "h2": "إدارة المركبات في Virginia (Virginia DMV) تقدّم امتحان القيادة النظري بالإسبانية ولغات أخرى، ولا يُسمح باستخدام مترجمين للغات المتوفرة.",
       "p": "صحيح. الامتحان متوفر بالإسبانية."
     }
+  },
+  {
+    "id": "va-028",
+    "scope": "VA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Virginia, how close may you follow an emergency vehicle that has its lights flashing?",
+      "o": [
+        "No closer than 100 feet",
+        "No closer than 500 feet",
+        "No closer than 50 feet",
+        "As close as you like if you are careful"
+      ],
+      "h1": "The distance is longer than a city block.",
+      "h2": "In Virginia, you must never follow an emergency vehicle with flashing lights closer than 500 feet.",
+      "p": "Right. Stay at least 500 feet behind it."
+    },
+    "es": {
+      "q": "En Virginia, ¿qué tan cerca puede seguir a un vehículo de emergencia con las luces encendidas?",
+      "o": [
+        "No más cerca de 100 pies",
+        "No más cerca de 500 pies",
+        "No más cerca de 50 pies",
+        "Tan cerca como quiera si tiene cuidado"
+      ],
+      "h1": "La distancia es más larga que una cuadra.",
+      "h2": "En Virginia, nunca debe seguir a un vehículo de emergencia con luces intermitentes a menos de 500 pies.",
+      "p": "Correcto. Quédese por lo menos a 500 pies detrás."
+    }
+  },
+  {
+    "id": "va-029",
+    "scope": "VA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Virginia, you want to pass a bicyclist, but the lane is too narrow to leave 3 feet. What must you do?",
+      "o": [
+        "Honk and pass anyway",
+        "Drive in the bike lane to pass",
+        "Pass quickly with less space",
+        "Change lanes to pass safely"
+      ],
+      "h1": "The 3-foot rule still applies.",
+      "h2": "In Virginia, you must give a bicyclist at least three feet when passing, and if the lane is too narrow for that, you must change lanes to pass.",
+      "p": "Right. Change lanes if you cannot leave 3 feet."
+    },
+    "es": {
+      "q": "En Virginia, quiere rebasar a un ciclista, pero el carril es muy angosto para dejar 3 pies. ¿Qué debe hacer?",
+      "o": [
+        "Tocar la bocina y rebasar de todos modos",
+        "Usar el carril de bicicletas para rebasar",
+        "Rebasar rápido con menos espacio",
+        "Cambiarse de carril para rebasar con seguridad"
+      ],
+      "h1": "La regla de los 3 pies sigue vigente.",
+      "h2": "En Virginia, debe dejar por lo menos tres pies al rebasar a un ciclista, y si el carril es muy angosto para eso, debe cambiarse de carril para rebasar.",
+      "p": "Correcto. Cámbiese de carril si no puede dejar 3 pies."
+    }
+  },
+  {
+    "id": "va-030",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Virginia, on a two-lane road, you come up on a stopped trash truck collecting garbage. What must you do?",
+      "o": [
+        "Slow to 10 mph below the limit and pass at least 2 feet away",
+        "Keep your speed and pass close to it",
+        "Stop and wait until it drives away",
+        "Honk so the workers move aside"
+      ],
+      "h1": "You need to lower your speed and leave a gap.",
+      "h2": "In Virginia, if you cannot change lanes around a stopped trash truck, you must slow to 10 mph below the speed limit and pass at least two feet to its left.",
+      "p": "Right. Slow down by 10 mph and leave at least 2 feet."
+    },
+    "es": {
+      "q": "En Virginia, en una vía de dos carriles, se acerca a un camión de basura detenido que recoge basura. ¿Qué debe hacer?",
+      "o": [
+        "Bajar a 10 mph menos del límite y pasar a por lo menos 2 pies",
+        "Mantener su velocidad y pasar cerca",
+        "Detenerse y esperar a que se vaya",
+        "Tocar la bocina para que los trabajadores se aparten"
+      ],
+      "h1": "Debe bajar la velocidad y dejar espacio.",
+      "h2": "En Virginia, si no puede cambiarse de carril junto a un camión de basura detenido, debe bajar a 10 mph menos del límite y pasar por lo menos a dos pies a su izquierda.",
+      "p": "Correcto. Baje 10 mph y deje por lo menos 2 pies."
+    }
+  },
+  {
+    "id": "va-031",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 22,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Virginia, when must you turn on your headlights during the day?",
+      "o": [
+        "Only on the interstate",
+        "Only in a work zone",
+        "When your wipers are on because of bad weather",
+        "Only when it snows"
+      ],
+      "h1": "Think about rain and what you use to clear the windshield.",
+      "h2": "In Virginia, you must use your headlights whenever you use your windshield wipers because of bad weather, and when rain, fog or snow cut visibility to 500 feet.",
+      "p": "Right. Wipers on for bad weather means headlights on."
+    },
+    "es": {
+      "q": "En Virginia, ¿cuándo debe encender los faros durante el día?",
+      "o": [
+        "Solo en la autopista interestatal",
+        "Solo en una zona de obras",
+        "Cuando usa los limpiaparabrisas por mal tiempo",
+        "Solo cuando nieva"
+      ],
+      "h1": "Piense en la lluvia y en lo que usa para limpiar el parabrisas.",
+      "h2": "En Virginia, debe usar los faros siempre que use los limpiaparabrisas por mal tiempo, y cuando la lluvia, la neblina o la nieve reducen la visibilidad a 500 pies.",
+      "p": "Correcto. Limpiaparabrisas por mal tiempo significa faros encendidos."
+    }
   }
 ]
