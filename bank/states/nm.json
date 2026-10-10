@@ -2212,5 +2212,141 @@
       "h2": "في New Mexico، يجب ألا تكون لديك أي إدانة مرورية خلال الـ 90 يومًا التي تسبق تقديم طلب الرخصة المؤقتة.",
       "p": "صحيح. تحتاج إلى 90 يومًا بدون إدانة مرورية."
     }
+  },
+  {
+    "id": "nm-028",
+    "scope": "NM",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 2,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Mexico, when may you renew your driver license?",
+      "o": [
+        "Only on the day it expires",
+        "Only in the month after it expires",
+        "From 90 days before until 30 days after it expires",
+        "Any time up to one year after it expires"
+      ],
+      "h1": "You can renew a few months early, and a short time late.",
+      "h2": "In New Mexico you may renew your driver license from 90 days before it expires until 30 days after it expires.",
+      "p": "Right. Renew from 90 days before to 30 days after the expiration date."
+    },
+    "es": {
+      "q": "En Nuevo México, ¿cuándo puede renovar su licencia de conducir?",
+      "o": [
+        "Solo el día en que vence",
+        "Solo en el mes después de que vence",
+        "Desde 90 días antes hasta 30 días después de que vence",
+        "En cualquier momento hasta un año después de que vence"
+      ],
+      "h1": "Puede renovar unos meses antes y un poco tarde.",
+      "h2": "En Nuevo México usted puede renovar su licencia de conducir desde 90 días antes de que venza hasta 30 días después de que venza.",
+      "p": "Correcto. Se renueva desde 90 días antes hasta 30 días después del vencimiento."
+    }
+  },
+  {
+    "id": "nm-029",
+    "scope": "NM",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Mexico, what vision do you need to pass the vision test for a driver license?",
+      "o": [
+        "At least 20/40 in at least one eye, with or without glasses",
+        "At least 20/20 in both eyes, without glasses",
+        "At least 20/100 in both eyes",
+        "At least 20/40 in both eyes, without glasses"
+      ],
+      "h1": "You may wear glasses or contacts, and one eye can be enough.",
+      "h2": "In New Mexico you need at least 20/40 vision in at least one eye, with or without glasses or contact lenses, to get a driver license.",
+      "p": "Right. You need 20/40 in at least one eye, and glasses are allowed."
+    },
+    "es": {
+      "q": "En Nuevo México, ¿qué visión necesita para pasar el examen de la vista para una licencia de conducir?",
+      "o": [
+        "Por lo menos 20/40 en al menos un ojo, con o sin anteojos",
+        "Por lo menos 20/20 en ambos ojos, sin anteojos",
+        "Por lo menos 20/100 en ambos ojos",
+        "Por lo menos 20/40 en ambos ojos, sin anteojos"
+      ],
+      "h1": "Puede usar anteojos o lentes de contacto, y un ojo puede ser suficiente.",
+      "h2": "En Nuevo México usted necesita una visión de por lo menos 20/40 en al menos un ojo, con o sin anteojos o lentes de contacto, para obtener una licencia de conducir.",
+      "p": "Correcto. Necesita 20/40 en al menos un ojo, y se permiten anteojos."
+    }
+  },
+  {
+    "id": "nm-030",
+    "scope": "NM",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Mexico, how close to a railroad crossing may you park?",
+      "o": [
+        "No closer than 10 feet",
+        "No closer than 20 feet",
+        "No closer than 30 feet",
+        "No closer than 50 feet"
+      ],
+      "h1": "It is the largest of these distances.",
+      "h2": "In New Mexico you may not park within 50 feet of a railroad crossing.",
+      "p": "Right. Stay at least 50 feet away from a railroad crossing when you park."
+    },
+    "es": {
+      "q": "En Nuevo México, ¿qué tan cerca de un cruce de ferrocarril puede estacionarse?",
+      "o": [
+        "No más cerca de 10 pies",
+        "No más cerca de 20 pies",
+        "No más cerca de 30 pies",
+        "No más cerca de 50 pies"
+      ],
+      "h1": "Es la mayor de estas distancias.",
+      "h2": "En Nuevo México usted no puede estacionarse a menos de 50 pies de un cruce de ferrocarril.",
+      "p": "Correcto. Quédese por lo menos a 50 pies de un cruce de ferrocarril al estacionarse."
+    }
+  },
+  {
+    "id": "nm-031",
+    "scope": "NM",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Mexico, you are driving behind another car at night. Within what distance should you use your low beams?",
+      "o": [
+        "100 feet",
+        "200 feet",
+        "1,000 feet",
+        "1 mile"
+      ],
+      "h1": "It is about the length of 13 cars.",
+      "h2": "In New Mexico you should use your low beams when you are within 200 feet of a vehicle you are following.",
+      "p": "Right. Switch to low beams within 200 feet of the car ahead."
+    },
+    "es": {
+      "q": "En Nuevo México, usted maneja de noche detrás de otro carro. ¿A qué distancia debe usar las luces bajas?",
+      "o": [
+        "100 pies",
+        "200 pies",
+        "1,000 pies",
+        "1 milla"
+      ],
+      "h1": "Es más o menos el largo de 13 carros.",
+      "h2": "En Nuevo México usted debe usar las luces bajas cuando está a menos de 200 pies del vehículo que va delante.",
+      "p": "Correcto. Cambie a luces bajas a menos de 200 pies del carro de adelante."
+    }
   }
 ]
