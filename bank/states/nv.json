@@ -2622,5 +2622,1563 @@
       "h2": "في Nevada تكون أول رخصة قيادة لشخص عمره أقل من 65 سنة صالحة لمدة ثماني سنوات، وتنتهي في يوم ميلاد السائق.",
       "p": "صحيح. أول رخصة في Nevada تدوم ثماني سنوات إذا كان عمرك أقل من 65 سنة."
     }
+  },
+  {
+    "id": "nv-033",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 79,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, you refuse an officer's blood, breath, or urine test for the first time. How long can you not get a license?",
+      "o": [
+        "185 days",
+        "One year",
+        "90 days",
+        "Three years"
+      ],
+      "h1": "It is longer than six months. Three years is for a repeat refusal.",
+      "h2": "In Nevada, if you refuse the blood, breath, or urine test the first time, your license is revoked and you cannot get one for one year.",
+      "p": "Right. A first refusal costs you your license for one year."
+    },
+    "es": {
+      "q": "En Nevada, usted se niega por primera vez a la prueba de sangre, aliento u orina que pide un oficial. ¿Por cuánto tiempo no puede obtener una licencia?",
+      "o": [
+        "185 días",
+        "Un año",
+        "90 días",
+        "Tres años"
+      ],
+      "h1": "Es más de seis meses. Tres años es para quien se niega otra vez.",
+      "h2": "En Nevada, si usted se niega por primera vez a la prueba de sangre, aliento u orina, le revocan la licencia y no puede obtener una por un año.",
+      "p": "Correcto. La primera negativa le quita la licencia por un año."
+    },
+    "zh": {
+      "q": "在 Nevada，你第一次拒绝警察要求的血液、呼气或尿液检测。你有多长时间不能拿驾照？",
+      "o": [
+        "185 天",
+        "一年",
+        "90 天",
+        "三年"
+      ],
+      "h1": "比六个月长。三年是给再次拒绝的人的。",
+      "h2": "在 Nevada，如果你第一次拒绝血液、呼气或尿液检测，你的驾照会被吊销，一年内不能再拿驾照。",
+      "p": "对。第一次拒绝检测，你会失去驾照一年。"
+    },
+    "vi": {
+      "q": "Ở Nevada, bạn từ chối xét nghiệm máu, hơi thở hoặc nước tiểu của cảnh sát lần đầu tiên. Bạn không được có bằng lái trong bao lâu?",
+      "o": [
+        "185 ngày",
+        "Một năm",
+        "90 ngày",
+        "Ba năm"
+      ],
+      "h1": "Lâu hơn sáu tháng. Ba năm là dành cho người từ chối lần nữa.",
+      "h2": "Ở Nevada, nếu bạn từ chối xét nghiệm máu, hơi thở hoặc nước tiểu lần đầu tiên, bằng lái của bạn bị thu hồi và bạn không được có bằng lái trong một năm.",
+      "p": "Đúng. Từ chối lần đầu khiến bạn mất bằng lái một năm."
+    },
+    "tl": {
+      "q": "Sa Nevada, tumanggi ka sa unang pagkakataon sa blood, breath, o urine test ng pulis. Gaano katagal kang hindi puwedeng magkaroon ng license?",
+      "o": [
+        "185 araw",
+        "Isang taon",
+        "90 araw",
+        "Tatlong taon"
+      ],
+      "h1": "Mas mahaba ito sa anim na buwan. Ang tatlong taon ay para sa paulit-ulit na pagtanggi.",
+      "h2": "Sa Nevada, kung tumanggi ka sa blood, breath, o urine test sa unang pagkakataon, babawiin ang license mo at hindi ka puwedeng magkaroon nito nang isang taon.",
+      "p": "Tama. Sa unang pagtanggi, mawawala ang license mo nang isang taon."
+    },
+    "ar": {
+      "q": "في Nevada، رفضت لأول مرة فحص الدم أو النفَس أو البول الذي طلبه الشرطي. ما المدة التي لا يمكنك فيها الحصول على رخصة؟",
+      "o": [
+        "185 يومًا",
+        "سنة واحدة",
+        "90 يومًا",
+        "ثلاث سنوات"
+      ],
+      "h1": "المدة أطول من ستة أشهر. الثلاث سنوات هي للرفض المتكرر.",
+      "h2": "في Nevada، إذا رفضت فحص الدم أو النفَس أو البول لأول مرة، تُلغى رخصتك ولا يمكنك الحصول على رخصة لمدة سنة واحدة.",
+      "p": "صحيح. الرفض الأول يُفقدك رخصتك لمدة سنة واحدة."
+    }
+  },
+  {
+    "id": "nv-034",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 78,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, how many demerit points does a conviction for reckless driving add to your record?",
+      "o": [
+        "4 points",
+        "6 points",
+        "2 points",
+        "8 points"
+      ],
+      "h1": "It is the most points on the list of common violations.",
+      "h2": "In Nevada, reckless driving adds 8 demerit points to your driving record.",
+      "p": "Right. Reckless driving is 8 points."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuántos puntos de demérito agrega a su historial una condena por manejo imprudente (reckless driving)?",
+      "o": [
+        "4 puntos",
+        "6 puntos",
+        "2 puntos",
+        "8 puntos"
+      ],
+      "h1": "Es la mayor cantidad de puntos en la lista de infracciones comunes.",
+      "h2": "En Nevada, el manejo imprudente agrega 8 puntos de demérito a su historial de manejo.",
+      "p": "Correcto. El manejo imprudente son 8 puntos."
+    },
+    "zh": {
+      "q": "在 Nevada，因为鲁莽驾驶被定罪，会在你的记录上加几分？",
+      "o": [
+        "4 分",
+        "6 分",
+        "2 分",
+        "8 分"
+      ],
+      "h1": "这是常见违规清单上分数最多的一项。",
+      "h2": "在 Nevada，鲁莽驾驶会在你的驾驶记录上加 8 分。",
+      "p": "对。鲁莽驾驶是 8 分。"
+    },
+    "vi": {
+      "q": "Ở Nevada, bị kết tội lái xe liều lĩnh thì hồ sơ của bạn bị thêm bao nhiêu điểm phạt?",
+      "o": [
+        "4 điểm",
+        "6 điểm",
+        "2 điểm",
+        "8 điểm"
+      ],
+      "h1": "Đây là mức điểm cao nhất trong danh sách các vi phạm thường gặp.",
+      "h2": "Ở Nevada, lái xe liều lĩnh làm hồ sơ lái xe của bạn bị thêm 8 điểm phạt.",
+      "p": "Đúng. Lái xe liều lĩnh là 8 điểm."
+    },
+    "tl": {
+      "q": "Sa Nevada, ilang demerit point ang nadadagdag sa record mo kapag nahatulan ka sa reckless driving?",
+      "o": [
+        "4 point",
+        "6 point",
+        "2 point",
+        "8 point"
+      ],
+      "h1": "Ito ang pinakamaraming point sa listahan ng mga karaniwang paglabag.",
+      "h2": "Sa Nevada, ang reckless driving ay nagdadagdag ng 8 demerit point sa driving record mo.",
+      "p": "Tama. 8 point ang reckless driving."
+    },
+    "ar": {
+      "q": "في Nevada، كم نقطة مخالفة تُضاف إلى سجلّك عند إدانتك بالقيادة المتهوّرة؟",
+      "o": [
+        "4 نقاط",
+        "6 نقاط",
+        "نقطتان (2)",
+        "8 نقاط"
+      ],
+      "h1": "هي أكثر عدد من النقاط في قائمة المخالفات الشائعة.",
+      "h2": "في Nevada، القيادة المتهوّرة تضيف 8 نقاط مخالفة إلى سجلّ قيادتك.",
+      "p": "صحيح. القيادة المتهوّرة 8 نقاط."
+    }
+  },
+  {
+    "id": "nv-035",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 75,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, what is the minimum liability insurance for damage to other people's property in one crash?",
+      "o": [
+        "$20,000",
+        "$10,000",
+        "$25,000",
+        "$50,000"
+      ],
+      "h1": "It is less than the amount for injury to one person.",
+      "h2": "In Nevada, your liability insurance must cover at least $20,000 for damage to other people's property in one crash.",
+      "p": "Right. Property damage coverage must be at least $20,000."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuál es el seguro mínimo de responsabilidad civil por daños a la propiedad de otras personas en un choque?",
+      "o": [
+        "$20,000",
+        "$10,000",
+        "$25,000",
+        "$50,000"
+      ],
+      "h1": "Es menos que la cantidad por lesiones a una persona.",
+      "h2": "En Nevada, su seguro de responsabilidad civil debe cubrir por lo menos $20,000 por daños a la propiedad de otras personas en un choque.",
+      "p": "Correcto. La cobertura por daños a la propiedad debe ser de por lo menos $20,000."
+    },
+    "zh": {
+      "q": "在 Nevada，一次车祸中对别人财产损失的最低责任保险是多少？",
+      "o": [
+        "$20,000",
+        "$10,000",
+        "$25,000",
+        "$50,000"
+      ],
+      "h1": "比一个人受伤的金额少。",
+      "h2": "在 Nevada，你的责任保险必须对一次车祸中别人的财产损失至少赔付 $20,000。",
+      "p": "对。财产损失的保险至少要 $20,000。"
+    },
+    "vi": {
+      "q": "Ở Nevada, bảo hiểm trách nhiệm tối thiểu cho thiệt hại tài sản của người khác trong một vụ tai nạn là bao nhiêu?",
+      "o": [
+        "$20,000",
+        "$10,000",
+        "$25,000",
+        "$50,000"
+      ],
+      "h1": "Ít hơn số tiền cho thương tích của một người.",
+      "h2": "Ở Nevada, bảo hiểm trách nhiệm của bạn phải trả ít nhất $20,000 cho thiệt hại tài sản của người khác trong một vụ tai nạn.",
+      "p": "Đúng. Bảo hiểm thiệt hại tài sản phải ít nhất $20,000."
+    },
+    "tl": {
+      "q": "Sa Nevada, magkano ang pinakamababang liability insurance para sa pinsala sa ari-arian ng ibang tao sa isang banggaan?",
+      "o": [
+        "$20,000",
+        "$10,000",
+        "$25,000",
+        "$50,000"
+      ],
+      "h1": "Mas mababa ito sa halaga para sa pinsala ng isang tao.",
+      "h2": "Sa Nevada, ang liability insurance mo ay dapat sumagot ng hindi bababa sa $20,000 para sa pinsala sa ari-arian ng ibang tao sa isang banggaan.",
+      "p": "Tama. Hindi bababa sa $20,000 ang coverage para sa pinsala sa ari-arian."
+    },
+    "ar": {
+      "q": "في Nevada، ما الحدّ الأدنى لتأمين المسؤولية عن الأضرار في ممتلكات الآخرين في حادث واحد؟",
+      "o": [
+        "$20,000",
+        "$10,000",
+        "$25,000",
+        "$50,000"
+      ],
+      "h1": "المبلغ أقل من مبلغ إصابة شخص واحد.",
+      "h2": "في Nevada، يجب أن يغطي تأمين المسؤولية لديك $20,000 على الأقل عن الأضرار في ممتلكات الآخرين في حادث واحد.",
+      "p": "صحيح. تغطية الأضرار في الممتلكات يجب أن تكون $20,000 على الأقل."
+    }
+  },
+  {
+    "id": "nv-036",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, you move to a new address. How soon must you tell the DMV?",
+      "o": [
+        "Within 10 days",
+        "Within 60 days",
+        "Within 30 days",
+        "Within 1 year"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In Nevada, you must tell the DMV about a new address or a new name within 30 days.",
+      "p": "Right. Tell the DMV within 30 days."
+    },
+    "es": {
+      "q": "En Nevada, usted se muda a una nueva dirección. ¿En cuánto tiempo debe avisar al DMV?",
+      "o": [
+        "Dentro de 10 días",
+        "Dentro de 60 días",
+        "Dentro de 30 días",
+        "Dentro de 1 año"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Nevada, usted debe avisar al DMV de una nueva dirección o un nuevo nombre dentro de 30 días.",
+      "p": "Correcto. Avise al DMV dentro de 30 días."
+    },
+    "zh": {
+      "q": "在 Nevada，你搬到了新地址。你必须在多长时间内通知 DMV？",
+      "o": [
+        "10 天内",
+        "60 天内",
+        "30 天内",
+        "1 年内"
+      ],
+      "h1": "大约一个月。",
+      "h2": "在 Nevada，你必须在 30 天内把新地址或新名字告诉 DMV。",
+      "p": "对。在 30 天内通知 DMV。"
+    },
+    "vi": {
+      "q": "Ở Nevada, bạn chuyển đến địa chỉ mới. Bạn phải báo cho DMV trong bao lâu?",
+      "o": [
+        "Trong vòng 10 ngày",
+        "Trong vòng 60 ngày",
+        "Trong vòng 30 ngày",
+        "Trong vòng 1 năm"
+      ],
+      "h1": "Khoảng một tháng.",
+      "h2": "Ở Nevada, bạn phải báo cho DMV về địa chỉ mới hoặc tên mới trong vòng 30 ngày.",
+      "p": "Đúng. Báo cho DMV trong vòng 30 ngày."
+    },
+    "tl": {
+      "q": "Sa Nevada, lumipat ka sa bagong address. Gaano kabilis mo dapat sabihan ang DMV?",
+      "o": [
+        "Sa loob ng 10 araw",
+        "Sa loob ng 60 araw",
+        "Sa loob ng 30 araw",
+        "Sa loob ng 1 taon"
+      ],
+      "h1": "Mga isang buwan ito.",
+      "h2": "Sa Nevada, dapat mong sabihan ang DMV tungkol sa bagong address o bagong pangalan sa loob ng 30 araw.",
+      "p": "Tama. Sabihan ang DMV sa loob ng 30 araw."
+    },
+    "ar": {
+      "q": "في Nevada، انتقلت إلى عنوان جديد. خلال كم من الوقت يجب أن تُبلغ DMV؟",
+      "o": [
+        "خلال 10 أيام",
+        "خلال 60 يومًا",
+        "خلال 30 يومًا",
+        "خلال سنة واحدة (1)"
+      ],
+      "h1": "المدة نحو شهر واحد.",
+      "h2": "في Nevada، يجب أن تُبلغ DMV بعنوانك الجديد أو اسمك الجديد خلال 30 يومًا.",
+      "p": "صحيح. أبلغ DMV خلال 30 يومًا."
+    }
+  },
+  {
+    "id": "nv-037",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, you are under 18. How long must you hold an instruction permit before you apply for a driver license?",
+      "o": [
+        "At least 3 months",
+        "At least 6 months",
+        "At least 9 months",
+        "At least 12 months"
+      ],
+      "h1": "It is half a year.",
+      "h2": "In Nevada, a driver under 18 must hold an instruction permit for at least 6 months before applying for a driver license.",
+      "p": "Right. Hold the permit at least 6 months first."
+    },
+    "es": {
+      "q": "En Nevada, usted es menor de 18 años. ¿Por cuánto tiempo debe tener el permiso de instrucción antes de solicitar la licencia de manejar?",
+      "o": [
+        "Por lo menos 3 meses",
+        "Por lo menos 6 meses",
+        "Por lo menos 9 meses",
+        "Por lo menos 12 meses"
+      ],
+      "h1": "Es medio año.",
+      "h2": "En Nevada, un conductor menor de 18 años debe tener el permiso de instrucción por lo menos 6 meses antes de solicitar la licencia de manejar.",
+      "p": "Correcto. Primero tenga el permiso por lo menos 6 meses."
+    },
+    "zh": {
+      "q": "在 Nevada，你不到 18 岁。申请驾照之前，你必须持有学习驾照多长时间？",
+      "o": [
+        "至少 3 个月",
+        "至少 6 个月",
+        "至少 9 个月",
+        "至少 12 个月"
+      ],
+      "h1": "是半年。",
+      "h2": "在 Nevada，不到 18 岁的司机必须持有学习驾照至少 6 个月，才能申请驾照。",
+      "p": "对。先持有学习驾照至少 6 个月。"
+    },
+    "vi": {
+      "q": "Ở Nevada, bạn dưới 18 tuổi. Bạn phải giữ giấy phép tập lái bao lâu trước khi xin bằng lái?",
+      "o": [
+        "Ít nhất 3 tháng",
+        "Ít nhất 6 tháng",
+        "Ít nhất 9 tháng",
+        "Ít nhất 12 tháng"
+      ],
+      "h1": "Nửa năm.",
+      "h2": "Ở Nevada, người lái xe dưới 18 tuổi phải giữ giấy phép tập lái ít nhất 6 tháng trước khi xin bằng lái.",
+      "p": "Đúng. Giữ giấy phép tập lái ít nhất 6 tháng trước."
+    },
+    "tl": {
+      "q": "Sa Nevada, wala ka pang 18 taong gulang. Gaano katagal mo dapat hawak ang instruction permit bago ka mag-apply ng driver license?",
+      "o": [
+        "Hindi bababa sa 3 buwan",
+        "Hindi bababa sa 6 na buwan",
+        "Hindi bababa sa 9 na buwan",
+        "Hindi bababa sa 12 buwan"
+      ],
+      "h1": "Kalahating taon ito.",
+      "h2": "Sa Nevada, ang drayber na wala pang 18 ay dapat may hawak na instruction permit nang hindi bababa sa 6 na buwan bago mag-apply ng driver license.",
+      "p": "Tama. Hawakan muna ang permit nang hindi bababa sa 6 na buwan."
+    },
+    "ar": {
+      "q": "في Nevada، عمرك أقل من 18 سنة. ما المدة التي يجب أن تحمل فيها تصريح التعلّم قبل أن تتقدّم بطلب رخصة قيادة؟",
+      "o": [
+        "3 أشهر على الأقل",
+        "6 أشهر على الأقل",
+        "9 أشهر على الأقل",
+        "12 شهرًا على الأقل"
+      ],
+      "h1": "المدة نصف سنة.",
+      "h2": "في Nevada، يجب على السائق الذي عمره أقل من 18 سنة أن يحمل تصريح التعلّم لمدة 6 أشهر على الأقل قبل أن يتقدّم بطلب رخصة قيادة.",
+      "p": "صحيح. احمل التصريح 6 أشهر على الأقل أولًا."
+    }
+  },
+  {
+    "id": "nv-038",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 25,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, how must a child under age 2 ride in a car?",
+      "o": [
+        "In a booster seat in the front seat",
+        "Facing forward in the front seat",
+        "Facing forward in the back seat",
+        "In a rear-facing seat in the back seat"
+      ],
+      "h1": "The baby faces the back of the car, away from the front.",
+      "h2": "In Nevada, a child under age 2 must ride in a rear-facing child seat in the back seat.",
+      "p": "Right. Under 2: rear-facing, in the back seat."
+    },
+    "es": {
+      "q": "En Nevada, ¿cómo debe viajar en el carro un niño menor de 2 años?",
+      "o": [
+        "En un asiento elevado (booster) en el asiento delantero",
+        "Mirando hacia adelante en el asiento delantero",
+        "Mirando hacia adelante en el asiento trasero",
+        "En un asiento orientado hacia atrás en el asiento trasero"
+      ],
+      "h1": "El bebé mira hacia la parte de atrás del carro, no hacia el frente.",
+      "h2": "En Nevada, un niño menor de 2 años debe viajar en un asiento de seguridad orientado hacia atrás en el asiento trasero.",
+      "p": "Correcto. Menores de 2 años: mirando hacia atrás, en el asiento trasero."
+    },
+    "zh": {
+      "q": "在 Nevada，不到 2 岁的孩子必须怎样坐车？",
+      "o": [
+        "坐在前排的增高座椅里",
+        "在前排面朝前坐",
+        "在后排面朝前坐",
+        "在后排坐面朝后的座椅"
+      ],
+      "h1": "宝宝面朝车的后面，背对前面。",
+      "h2": "在 Nevada，不到 2 岁的孩子必须坐在后排面朝后的儿童座椅里。",
+      "p": "对。不到 2 岁：面朝后，坐后排。"
+    },
+    "vi": {
+      "q": "Ở Nevada, trẻ em dưới 2 tuổi phải ngồi trong xe như thế nào?",
+      "o": [
+        "Ngồi ghế nâng ở hàng ghế trước",
+        "Quay mặt về phía trước ở hàng ghế trước",
+        "Quay mặt về phía trước ở hàng ghế sau",
+        "Ngồi ghế quay mặt về phía sau ở hàng ghế sau"
+      ],
+      "h1": "Em bé quay mặt về phía sau xe, không nhìn về phía trước.",
+      "h2": "Ở Nevada, trẻ em dưới 2 tuổi phải ngồi trong ghế trẻ em quay mặt về phía sau ở hàng ghế sau.",
+      "p": "Đúng. Dưới 2 tuổi: quay mặt về phía sau, ở hàng ghế sau."
+    },
+    "tl": {
+      "q": "Sa Nevada, paano dapat sumakay sa kotse ang batang wala pang 2 taong gulang?",
+      "o": [
+        "Sa booster seat sa harapang upuan",
+        "Nakaharap sa unahan sa harapang upuan",
+        "Nakaharap sa unahan sa likurang upuan",
+        "Sa rear-facing seat sa likurang upuan"
+      ],
+      "h1": "Nakaharap ang sanggol sa likod ng kotse, palayo sa unahan.",
+      "h2": "Sa Nevada, ang batang wala pang 2 taon ay dapat sumakay sa rear-facing na child seat sa likurang upuan.",
+      "p": "Tama. Wala pang 2: nakaharap sa likod, sa likurang upuan."
+    },
+    "ar": {
+      "q": "في Nevada، كيف يجب أن يركب الطفل الذي عمره أقل من سنتين (2) في السيارة؟",
+      "o": [
+        "في مقعد رافع في المقعد الأمامي",
+        "متّجهًا إلى الأمام في المقعد الأمامي",
+        "متّجهًا إلى الأمام في المقعد الخلفي",
+        "في مقعد متّجه إلى الخلف في المقعد الخلفي"
+      ],
+      "h1": "يكون وجه الطفل نحو مؤخرة السيارة، بعيدًا عن الأمام.",
+      "h2": "في Nevada، يجب أن يركب الطفل الذي عمره أقل من سنتين (2) في مقعد أطفال متّجه إلى الخلف في المقعد الخلفي.",
+      "p": "صحيح. أقل من سنتين (2): مقعد متّجه إلى الخلف، في المقعد الخلفي."
+    }
+  },
+  {
+    "id": "nv-039",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 25,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, you may not leave a child aged 7 or younger alone in a car when it puts the child at risk, unless someone watches the child. How old must that person be?",
+      "o": [
+        "At least 12",
+        "At least 10",
+        "At least 16",
+        "At least 18"
+      ],
+      "h1": "The person can be younger than a teen driver.",
+      "h2": "In Nevada, a child aged 7 or younger may not be left in a car when it is risky unless a person at least 12 years old is watching and can see the child.",
+      "p": "Right. The person watching must be at least 12."
+    },
+    "es": {
+      "q": "En Nevada, usted no puede dejar solo en un carro a un niño de 7 años o menos cuando eso lo pone en riesgo, a menos que alguien lo cuide. ¿Qué edad debe tener esa persona?",
+      "o": [
+        "Por lo menos 12 años",
+        "Por lo menos 10 años",
+        "Por lo menos 16 años",
+        "Por lo menos 18 años"
+      ],
+      "h1": "La persona puede ser menor que un conductor adolescente.",
+      "h2": "En Nevada, no se puede dejar en un carro a un niño de 7 años o menos cuando es peligroso, a menos que lo cuide y lo pueda ver una persona de por lo menos 12 años.",
+      "p": "Correcto. La persona que lo cuida debe tener por lo menos 12 años."
+    },
+    "zh": {
+      "q": "在 Nevada，如果会让孩子有危险，你不可以把 7 岁或以下的孩子单独留在车里，除非有人看着孩子。这个人至少要几岁？",
+      "o": [
+        "至少 12 岁",
+        "至少 10 岁",
+        "至少 16 岁",
+        "至少 18 岁"
+      ],
+      "h1": "这个人可以比青少年司机还小。",
+      "h2": "在 Nevada，有危险时不可以把 7 岁或以下的孩子留在车里，除非有一个至少 12 岁的人在看着并且能看到孩子。",
+      "p": "对。看孩子的人必须至少 12 岁。"
+    },
+    "vi": {
+      "q": "Ở Nevada, bạn không được để trẻ từ 7 tuổi trở xuống một mình trong xe khi điều đó gây nguy hiểm cho trẻ, trừ khi có người trông trẻ. Người đó phải bao nhiêu tuổi?",
+      "o": [
+        "Ít nhất 12 tuổi",
+        "Ít nhất 10 tuổi",
+        "Ít nhất 16 tuổi",
+        "Ít nhất 18 tuổi"
+      ],
+      "h1": "Người này có thể nhỏ tuổi hơn một thiếu niên lái xe.",
+      "h2": "Ở Nevada, không được để trẻ từ 7 tuổi trở xuống trong xe khi có nguy hiểm, trừ khi có một người ít nhất 12 tuổi đang trông và có thể nhìn thấy trẻ.",
+      "p": "Đúng. Người trông trẻ phải ít nhất 12 tuổi."
+    },
+    "tl": {
+      "q": "Sa Nevada, hindi mo puwedeng iwanang mag-isa sa kotse ang batang 7 taong gulang pababa kapag mapapahamak ang bata, maliban kung may nagbabantay sa kanya. Ilang taon dapat ang taong iyon?",
+      "o": [
+        "Hindi bababa sa 12",
+        "Hindi bababa sa 10",
+        "Hindi bababa sa 16",
+        "Hindi bababa sa 18"
+      ],
+      "h1": "Puwedeng mas bata ang taong ito kaysa sa isang tinedyer na drayber.",
+      "h2": "Sa Nevada, hindi puwedeng iwan sa kotse ang batang 7 taon pababa kapag delikado, maliban kung may taong hindi bababa sa 12 taong gulang na nagbabantay at nakikita ang bata.",
+      "p": "Tama. Ang nagbabantay ay dapat hindi bababa sa 12 taong gulang."
+    },
+    "ar": {
+      "q": "في Nevada، لا يجوز لك أن تترك طفلًا عمره 7 سنوات أو أقل وحده في السيارة إذا كان ذلك يعرّضه للخطر، إلا إذا كان هناك شخص يراقبه. كم يجب أن يكون عمر هذا الشخص؟",
+      "o": [
+        "12 سنة على الأقل",
+        "10 سنوات على الأقل",
+        "16 سنة على الأقل",
+        "18 سنة على الأقل"
+      ],
+      "h1": "يمكن أن يكون هذا الشخص أصغر من سائق مراهق.",
+      "h2": "في Nevada، لا يجوز ترك طفل عمره 7 سنوات أو أقل في السيارة عندما يكون ذلك خطرًا، إلا إذا كان شخص عمره 12 سنة على الأقل يراقبه ويستطيع أن يراه.",
+      "p": "صحيح. يجب أن يكون عمر الشخص الذي يراقب 12 سنة على الأقل."
+    }
+  },
+  {
+    "id": "nv-040",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 32,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, you use a center turn lane to make a left turn. What is the farthest you may drive in it before you turn?",
+      "o": [
+        "100 feet",
+        "300 feet",
+        "200 feet",
+        "500 feet"
+      ],
+      "h1": "It is about 20 car lengths.",
+      "h2": "In Nevada, you may not drive more than 200 feet in a center turn lane before you make your left turn.",
+      "p": "Right. No more than 200 feet in the center turn lane before turning."
+    },
+    "es": {
+      "q": "En Nevada, usted usa un carril central de vuelta para dar vuelta a la izquierda. ¿Cuál es la distancia máxima que puede manejar en él antes de dar la vuelta?",
+      "o": [
+        "100 pies",
+        "300 pies",
+        "200 pies",
+        "500 pies"
+      ],
+      "h1": "Son más o menos 20 largos de carro.",
+      "h2": "En Nevada, usted no puede manejar más de 200 pies en un carril central de vuelta antes de dar vuelta a la izquierda.",
+      "p": "Correcto. No más de 200 pies en el carril central antes de dar la vuelta."
+    },
+    "zh": {
+      "q": "在 Nevada，你用中间转弯车道来左转。转弯之前，你最多可以在里面开多远？",
+      "o": [
+        "100 英尺",
+        "300 英尺",
+        "200 英尺",
+        "500 英尺"
+      ],
+      "h1": "大约 20 个车身长。",
+      "h2": "在 Nevada，左转之前，你在中间转弯车道里开的距离不可以超过 200 英尺。",
+      "p": "对。转弯前在中间转弯车道里不超过 200 英尺。"
+    },
+    "vi": {
+      "q": "Ở Nevada, bạn dùng làn rẽ ở giữa đường để rẽ trái. Bạn được chạy trong làn đó xa nhất bao nhiêu trước khi rẽ?",
+      "o": [
+        "100 feet",
+        "300 feet",
+        "200 feet",
+        "500 feet"
+      ],
+      "h1": "Khoảng 20 chiều dài xe.",
+      "h2": "Ở Nevada, bạn không được chạy quá 200 feet trong làn rẽ ở giữa đường trước khi rẽ trái.",
+      "p": "Đúng. Không quá 200 feet trong làn rẽ ở giữa trước khi rẽ."
+    },
+    "tl": {
+      "q": "Sa Nevada, gumagamit ka ng center turn lane para kumaliwa. Hanggang gaano kalayo ka puwedeng magmaneho rito bago ka lumiko?",
+      "o": [
+        "100 talampakan",
+        "300 talampakan",
+        "200 talampakan",
+        "500 talampakan"
+      ],
+      "h1": "Mga 20 haba ng kotse ito.",
+      "h2": "Sa Nevada, hindi ka puwedeng magmaneho nang higit sa 200 talampakan sa center turn lane bago ka kumaliwa.",
+      "p": "Tama. Hindi hihigit sa 200 talampakan sa center turn lane bago lumiko."
+    },
+    "ar": {
+      "q": "في Nevada، تستخدم مسار الانعطاف الأوسط لتنعطف يسارًا. ما أقصى مسافة يجوز لك أن تقودها فيه قبل أن تنعطف؟",
+      "o": [
+        "100 قدم",
+        "300 قدم",
+        "200 قدم",
+        "500 قدم"
+      ],
+      "h1": "المسافة نحو طول 20 سيارة.",
+      "h2": "في Nevada، لا يجوز لك أن تقود أكثر من 200 قدم في مسار الانعطاف الأوسط قبل أن تنعطف يسارًا.",
+      "p": "صحيح. لا تزد على 200 قدم في مسار الانعطاف الأوسط قبل الانعطاف."
+    }
+  },
+  {
+    "id": "nv-041",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 33,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, what is the speed limit in a school zone?",
+      "o": [
+        "10 or 20 mph",
+        "15 or 25 mph",
+        "20 or 30 mph",
+        "25 or 35 mph"
+      ],
+      "h1": "The higher number is the usual limit in business and residential areas.",
+      "h2": "In Nevada, the speed limit in a school zone is either 15 mph or 25 mph.",
+      "p": "Right. School zones in Nevada are 15 or 25 mph."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuál es el límite de velocidad en una zona escolar?",
+      "o": [
+        "10 o 20 mph",
+        "15 o 25 mph",
+        "20 o 30 mph",
+        "25 o 35 mph"
+      ],
+      "h1": "El número más alto es el límite usual en zonas comerciales y residenciales.",
+      "h2": "En Nevada, el límite de velocidad en una zona escolar es de 15 mph o de 25 mph.",
+      "p": "Correcto. Las zonas escolares en Nevada son de 15 o 25 mph."
+    },
+    "zh": {
+      "q": "在 Nevada，学校区的限速是多少？",
+      "o": [
+        "10 或 20 mph",
+        "15 或 25 mph",
+        "20 或 30 mph",
+        "25 或 35 mph"
+      ],
+      "h1": "较大的那个数字是商业区和住宅区通常的限速。",
+      "h2": "在 Nevada，学校区的限速是 15 mph 或 25 mph。",
+      "p": "对。Nevada 的学校区限速是 15 或 25 mph。"
+    },
+    "vi": {
+      "q": "Ở Nevada, giới hạn tốc độ trong khu vực trường học là bao nhiêu?",
+      "o": [
+        "10 hoặc 20 mph",
+        "15 hoặc 25 mph",
+        "20 hoặc 30 mph",
+        "25 hoặc 35 mph"
+      ],
+      "h1": "Số lớn hơn là giới hạn thường gặp ở khu thương mại và khu dân cư.",
+      "h2": "Ở Nevada, giới hạn tốc độ trong khu vực trường học là 15 mph hoặc 25 mph.",
+      "p": "Đúng. Khu vực trường học ở Nevada là 15 hoặc 25 mph."
+    },
+    "tl": {
+      "q": "Sa Nevada, ano ang speed limit sa school zone?",
+      "o": [
+        "10 o 20 mph",
+        "15 o 25 mph",
+        "20 o 30 mph",
+        "25 o 35 mph"
+      ],
+      "h1": "Ang mas mataas na numero ang karaniwang limit sa mga business at residential na lugar.",
+      "h2": "Sa Nevada, ang speed limit sa school zone ay 15 mph o 25 mph.",
+      "p": "Tama. 15 o 25 mph ang mga school zone sa Nevada."
+    },
+    "ar": {
+      "q": "في Nevada، ما حدّ السرعة في منطقة المدرسة؟",
+      "o": [
+        "10 أو 20 mph",
+        "15 أو 25 mph",
+        "20 أو 30 mph",
+        "25 أو 35 mph"
+      ],
+      "h1": "الرقم الأكبر هو الحدّ المعتاد في المناطق التجارية والسكنية.",
+      "h2": "في Nevada، حدّ السرعة في منطقة المدرسة هو 15 mph أو 25 mph.",
+      "p": "صحيح. مناطق المدارس في Nevada حدّها 15 أو 25 mph."
+    }
+  },
+  {
+    "id": "nv-042",
+    "scope": "NV",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 33,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, a school crossing guard is in the crosswalk in front of you. When may you go?",
+      "o": [
+        "As soon as the children reach the curb",
+        "When the guard turns to face the sidewalk",
+        "Right away, if you drive slowly around the guard",
+        "When the guard is all the way out of the crosswalk"
+      ],
+      "h1": "Think about where the guard is standing, not the children.",
+      "h2": "In Nevada, you must wait until the school crossing guard is completely out of the crosswalk before you go.",
+      "p": "Right. Wait until the guard has left the crosswalk."
+    },
+    "es": {
+      "q": "En Nevada, un guardia de cruce escolar está en el cruce de peatones frente a usted. ¿Cuándo puede seguir?",
+      "o": [
+        "En cuanto los niños lleguen a la banqueta",
+        "Cuando el guardia se voltee hacia la acera",
+        "Enseguida, si maneja despacio alrededor del guardia",
+        "Cuando el guardia haya salido por completo del cruce de peatones"
+      ],
+      "h1": "Piense en dónde está el guardia, no los niños.",
+      "h2": "En Nevada, usted debe esperar a que el guardia de cruce escolar salga por completo del cruce de peatones antes de seguir.",
+      "p": "Correcto. Espere a que el guardia salga del cruce de peatones."
+    },
+    "zh": {
+      "q": "在 Nevada，一位学校过路协管员在你前面的人行横道上。你什么时候可以走？",
+      "o": [
+        "孩子们一走到路边就可以",
+        "协管员转身面向人行道时",
+        "马上，只要你慢慢绕过协管员",
+        "协管员完全离开人行横道时"
+      ],
+      "h1": "想一想协管员站在哪里，而不是孩子们。",
+      "h2": "在 Nevada，你必须等学校过路协管员完全离开人行横道以后才可以走。",
+      "p": "对。等协管员离开人行横道再走。"
+    },
+    "vi": {
+      "q": "Ở Nevada, một người hướng dẫn qua đường cho học sinh đang ở trên lối qua đường trước mặt bạn. Khi nào bạn được đi?",
+      "o": [
+        "Ngay khi các em đến lề đường",
+        "Khi người hướng dẫn quay mặt về phía vỉa hè",
+        "Ngay lập tức, nếu bạn chạy chậm vòng qua người hướng dẫn",
+        "Khi người hướng dẫn đã ra khỏi hẳn lối qua đường"
+      ],
+      "h1": "Hãy nghĩ đến chỗ người hướng dẫn đang đứng, không phải các em học sinh.",
+      "h2": "Ở Nevada, bạn phải chờ đến khi người hướng dẫn qua đường cho học sinh ra khỏi hẳn lối qua đường rồi mới được đi.",
+      "p": "Đúng. Chờ đến khi người hướng dẫn đã rời khỏi lối qua đường."
+    },
+    "tl": {
+      "q": "Sa Nevada, may school crossing guard sa tawiran sa harap mo. Kailan ka puwedeng umandar?",
+      "o": [
+        "Pagdating ng mga bata sa gilid ng kalsada",
+        "Kapag humarap ang guard sa bangketa",
+        "Agad-agad, kung dahan-dahan kang dadaan sa paligid ng guard",
+        "Kapag ganap nang nakaalis ang guard sa tawiran"
+      ],
+      "h1": "Isipin kung saan nakatayo ang guard, hindi ang mga bata.",
+      "h2": "Sa Nevada, dapat kang maghintay hanggang ganap nang nakaalis sa tawiran ang school crossing guard bago ka umandar.",
+      "p": "Tama. Maghintay hanggang makaalis ang guard sa tawiran."
+    },
+    "ar": {
+      "q": "في Nevada، يقف مراقب عبور المدرسة في ممرّ المشاة أمامك. متى يجوز لك أن تتحرّك؟",
+      "o": [
+        "بمجرد أن يصل الأطفال إلى الرصيف",
+        "عندما يستدير المراقب ليواجه الرصيف",
+        "فورًا، إذا قدت ببطء حول المراقب",
+        "عندما يخرج المراقب من ممرّ المشاة بالكامل"
+      ],
+      "h1": "فكّر في مكان وقوف المراقب، وليس الأطفال.",
+      "h2": "في Nevada، يجب أن تنتظر حتى يخرج مراقب عبور المدرسة من ممرّ المشاة بالكامل قبل أن تتحرّك.",
+      "p": "صحيح. انتظر حتى يغادر المراقب ممرّ المشاة."
+    }
+  },
+  {
+    "id": "nv-043",
+    "scope": "NV",
+    "cat": "signals",
+    "conf": "high",
+    "page": 45,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, you are on an open highway. How far ahead should you start signaling before a turn?",
+      "o": [
+        "At least 300 feet (about 30 car lengths)",
+        "At least 100 feet (about 10 car lengths)",
+        "At least 50 feet (about 5 car lengths)",
+        "At least 1,000 feet (about 100 car lengths)"
+      ],
+      "h1": "On a city street it is 100 feet. On an open highway it is three times as far.",
+      "h2": "In Nevada, on an open highway you should signal at least 300 feet, about 30 car lengths, before you turn.",
+      "p": "Right. Signal at least 300 feet ahead on an open highway."
+    },
+    "es": {
+      "q": "En Nevada, usted va por una carretera abierta. ¿Con cuánta anticipación debe poner la señal antes de dar vuelta?",
+      "o": [
+        "Por lo menos 300 pies (unos 30 largos de carro)",
+        "Por lo menos 100 pies (unos 10 largos de carro)",
+        "Por lo menos 50 pies (unos 5 largos de carro)",
+        "Por lo menos 1,000 pies (unos 100 largos de carro)"
+      ],
+      "h1": "En una calle de la ciudad son 100 pies. En una carretera abierta es tres veces más.",
+      "h2": "En Nevada, en una carretera abierta usted debe poner la señal por lo menos 300 pies, unos 30 largos de carro, antes de dar vuelta.",
+      "p": "Correcto. Ponga la señal por lo menos 300 pies antes en una carretera abierta."
+    },
+    "zh": {
+      "q": "在 Nevada，你在开阔的公路上。转弯之前，你应该提前多远开始打转向灯？",
+      "o": [
+        "至少 300 英尺（大约 30 个车身长）",
+        "至少 100 英尺（大约 10 个车身长）",
+        "至少 50 英尺（大约 5 个车身长）",
+        "至少 1,000 英尺（大约 100 个车身长）"
+      ],
+      "h1": "在城市街道上是 100 英尺。在开阔的公路上是它的三倍。",
+      "h2": "在 Nevada，在开阔的公路上，你应该在转弯前至少 300 英尺（大约 30 个车身长）打转向灯。",
+      "p": "对。在开阔的公路上至少提前 300 英尺打灯。"
+    },
+    "vi": {
+      "q": "Ở Nevada, bạn đang ở trên xa lộ ngoài đường trống. Bạn nên bắt đầu bật đèn xi nhan cách chỗ rẽ bao xa?",
+      "o": [
+        "Ít nhất 300 feet (khoảng 30 chiều dài xe)",
+        "Ít nhất 100 feet (khoảng 10 chiều dài xe)",
+        "Ít nhất 50 feet (khoảng 5 chiều dài xe)",
+        "Ít nhất 1,000 feet (khoảng 100 chiều dài xe)"
+      ],
+      "h1": "Trên đường phố trong thành phố là 100 feet. Trên xa lộ ngoài đường trống thì xa gấp ba lần.",
+      "h2": "Ở Nevada, trên xa lộ ngoài đường trống bạn nên bật đèn xi nhan ít nhất 300 feet, khoảng 30 chiều dài xe, trước khi rẽ.",
+      "p": "Đúng. Bật xi nhan trước ít nhất 300 feet trên xa lộ ngoài đường trống."
+    },
+    "tl": {
+      "q": "Sa Nevada, nasa bukas na highway ka. Gaano kalayo bago lumiko ka dapat magsimulang mag-signal?",
+      "o": [
+        "Hindi bababa sa 300 talampakan (mga 30 haba ng kotse)",
+        "Hindi bababa sa 100 talampakan (mga 10 haba ng kotse)",
+        "Hindi bababa sa 50 talampakan (mga 5 haba ng kotse)",
+        "Hindi bababa sa 1,000 talampakan (mga 100 haba ng kotse)"
+      ],
+      "h1": "Sa kalye sa lungsod, 100 talampakan ito. Sa bukas na highway, tatlong beses ang layo.",
+      "h2": "Sa Nevada, sa bukas na highway dapat kang mag-signal nang hindi bababa sa 300 talampakan, mga 30 haba ng kotse, bago ka lumiko.",
+      "p": "Tama. Mag-signal nang hindi bababa sa 300 talampakan bago lumiko sa bukas na highway."
+    },
+    "ar": {
+      "q": "في Nevada، أنت على طريق سريع مفتوح. من أي مسافة قبل الانعطاف يجب أن تبدأ بإعطاء الإشارة؟",
+      "o": [
+        "300 قدم على الأقل (نحو طول 30 سيارة)",
+        "100 قدم على الأقل (نحو طول 10 سيارات)",
+        "50 قدمًا على الأقل (نحو طول 5 سيارات)",
+        "1,000 قدم على الأقل (نحو طول 100 سيارة)"
+      ],
+      "h1": "في شارع داخل المدينة تكون 100 قدم. على الطريق السريع المفتوح تكون ثلاثة أضعاف ذلك.",
+      "h2": "في Nevada، على الطريق السريع المفتوح يجب أن تعطي الإشارة قبل الانعطاف بمسافة 300 قدم على الأقل، أي نحو طول 30 سيارة.",
+      "p": "صحيح. أعطِ الإشارة قبل 300 قدم على الأقل على الطريق السريع المفتوح."
+    }
+  },
+  {
+    "id": "nv-044",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 46,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, you may not make a U-turn if a curve, hill, rain, or fog blocks your clear view for a certain distance in each direction. What is that distance?",
+      "o": [
+        "50 feet",
+        "100 feet",
+        "200 feet",
+        "1,000 feet"
+      ],
+      "h1": "It is about 20 car lengths.",
+      "h2": "In Nevada, you may not make a U-turn where you cannot see clearly for 200 feet in each direction.",
+      "p": "Right. You need a clear view of 200 feet each way for a U-turn."
+    },
+    "es": {
+      "q": "En Nevada, no puede dar una vuelta en U si una curva, una colina, la lluvia o la neblina no le deja ver con claridad cierta distancia en cada dirección. ¿Qué distancia es?",
+      "o": [
+        "50 pies",
+        "100 pies",
+        "200 pies",
+        "1,000 pies"
+      ],
+      "h1": "Son más o menos 20 largos de carro.",
+      "h2": "En Nevada, usted no puede dar una vuelta en U donde no puede ver con claridad 200 pies en cada dirección.",
+      "p": "Correcto. Para una vuelta en U necesita ver bien 200 pies en cada dirección."
+    },
+    "zh": {
+      "q": "在 Nevada，如果弯道、坡、雨或雾挡住了你在每个方向一定距离内的清楚视线，你就不可以掉头。这个距离是多少？",
+      "o": [
+        "50 英尺",
+        "100 英尺",
+        "200 英尺",
+        "1,000 英尺"
+      ],
+      "h1": "大约 20 个车身长。",
+      "h2": "在 Nevada，如果你不能在每个方向清楚地看到 200 英尺，就不可以掉头。",
+      "p": "对。掉头时每个方向都要能清楚地看到 200 英尺。"
+    },
+    "vi": {
+      "q": "Ở Nevada, bạn không được quay đầu xe nếu khúc cua, dốc, mưa hoặc sương mù che tầm nhìn rõ của bạn trong một khoảng cách nhất định ở mỗi hướng. Khoảng cách đó là bao nhiêu?",
+      "o": [
+        "50 feet",
+        "100 feet",
+        "200 feet",
+        "1,000 feet"
+      ],
+      "h1": "Khoảng 20 chiều dài xe.",
+      "h2": "Ở Nevada, bạn không được quay đầu xe ở nơi bạn không nhìn rõ được 200 feet ở mỗi hướng.",
+      "p": "Đúng. Bạn cần nhìn rõ 200 feet ở mỗi hướng để quay đầu xe."
+    },
+    "tl": {
+      "q": "Sa Nevada, hindi ka puwedeng mag-U-turn kung may kurba, burol, ulan, o hamog na humaharang sa malinaw mong tanaw sa isang tiyak na layo sa bawat direksyon. Ano ang layong iyon?",
+      "o": [
+        "50 talampakan",
+        "100 talampakan",
+        "200 talampakan",
+        "1,000 talampakan"
+      ],
+      "h1": "Mga 20 haba ng kotse ito.",
+      "h2": "Sa Nevada, hindi ka puwedeng mag-U-turn kung saan hindi mo malinaw na nakikita ang 200 talampakan sa bawat direksyon.",
+      "p": "Tama. Kailangan mo ng malinaw na tanaw na 200 talampakan sa bawat direksyon para mag-U-turn."
+    },
+    "ar": {
+      "q": "في Nevada، لا يجوز لك أن تستدير استدارة كاملة (U-turn) إذا كان منعطف أو تلّة أو مطر أو ضباب يحجب رؤيتك الواضحة لمسافة معيّنة في كل اتجاه. ما هذه المسافة؟",
+      "o": [
+        "50 قدمًا",
+        "100 قدم",
+        "200 قدم",
+        "1,000 قدم"
+      ],
+      "h1": "المسافة نحو طول 20 سيارة.",
+      "h2": "في Nevada، لا يجوز لك أن تستدير استدارة كاملة (U-turn) في مكان لا ترى فيه بوضوح مسافة 200 قدم في كل اتجاه.",
+      "p": "صحيح. تحتاج إلى رؤية واضحة لمسافة 200 قدم في كل اتجاه لتستدير استدارة كاملة."
+    }
+  },
+  {
+    "id": "nv-045",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 50,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, on the same side of the street, how close to the driveway entrance of a fire station may you park?",
+      "o": [
+        "No closer than 10 feet",
+        "No closer than 20 feet",
+        "No closer than 50 feet",
+        "No closer than 100 feet"
+      ],
+      "h1": "It is the same as the distance from a crosswalk.",
+      "h2": "In Nevada, you may not park within 20 feet of the driveway entrance to a fire station.",
+      "p": "Right. Stay at least 20 feet from a fire station driveway."
+    },
+    "es": {
+      "q": "En Nevada, en el mismo lado de la calle, ¿qué tan cerca de la entrada de vehículos de una estación de bomberos puede estacionarse?",
+      "o": [
+        "No más cerca de 10 pies",
+        "No más cerca de 20 pies",
+        "No más cerca de 50 pies",
+        "No más cerca de 100 pies"
+      ],
+      "h1": "Es la misma distancia que de un cruce de peatones.",
+      "h2": "En Nevada, usted no puede estacionarse a menos de 20 pies de la entrada de vehículos de una estación de bomberos.",
+      "p": "Correcto. Quédese por lo menos a 20 pies de la entrada de una estación de bomberos."
+    },
+    "zh": {
+      "q": "在 Nevada，在街道同一边，你可以在离消防站车道入口多近的地方停车？",
+      "o": [
+        "不能近于 10 英尺",
+        "不能近于 20 英尺",
+        "不能近于 50 英尺",
+        "不能近于 100 英尺"
+      ],
+      "h1": "和离人行横道的距离一样。",
+      "h2": "在 Nevada，你不可以在消防站车道入口 20 英尺以内停车。",
+      "p": "对。离消防站车道至少 20 英尺。"
+    },
+    "vi": {
+      "q": "Ở Nevada, trên cùng một bên đường, bạn được đậu xe gần lối vào trạm cứu hỏa đến mức nào?",
+      "o": [
+        "Không gần hơn 10 feet",
+        "Không gần hơn 20 feet",
+        "Không gần hơn 50 feet",
+        "Không gần hơn 100 feet"
+      ],
+      "h1": "Bằng với khoảng cách từ lối qua đường.",
+      "h2": "Ở Nevada, bạn không được đậu xe trong vòng 20 feet tính từ lối vào của trạm cứu hỏa.",
+      "p": "Đúng. Cách lối vào trạm cứu hỏa ít nhất 20 feet."
+    },
+    "tl": {
+      "q": "Sa Nevada, sa parehong gilid ng kalye, gaano kalapit sa pasukan ng driveway ng fire station ka puwedeng pumarada?",
+      "o": [
+        "Hindi lalapit sa 10 talampakan",
+        "Hindi lalapit sa 20 talampakan",
+        "Hindi lalapit sa 50 talampakan",
+        "Hindi lalapit sa 100 talampakan"
+      ],
+      "h1": "Pareho ito ng layo mula sa tawiran.",
+      "h2": "Sa Nevada, hindi ka puwedeng pumarada sa loob ng 20 talampakan mula sa pasukan ng driveway ng fire station.",
+      "p": "Tama. Lumayo nang hindi bababa sa 20 talampakan sa driveway ng fire station."
+    },
+    "ar": {
+      "q": "في Nevada، على الجهة نفسها من الشارع، إلى أي مدى يجوز لك أن تركن سيارتك قريبًا من مدخل ممرّ محطة الإطفاء؟",
+      "o": [
+        "ليس أقرب من 10 أقدام",
+        "ليس أقرب من 20 قدمًا",
+        "ليس أقرب من 50 قدمًا",
+        "ليس أقرب من 100 قدم"
+      ],
+      "h1": "هي نفس المسافة عن ممرّ المشاة.",
+      "h2": "في Nevada، لا يجوز لك أن تركن سيارتك على بُعد أقل من 20 قدمًا من مدخل ممرّ محطة الإطفاء.",
+      "p": "صحيح. ابقَ على بُعد 20 قدمًا على الأقل من ممرّ محطة الإطفاء."
+    }
+  },
+  {
+    "id": "nv-046",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 50,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, what is the lowest fine for parking in a disabled parking space without the right placard or license plate?",
+      "o": [
+        "$50",
+        "$100",
+        "$150",
+        "$250"
+      ],
+      "h1": "It is the highest amount here.",
+      "h2": "In Nevada, the minimum fine for parking in a space for people with disabilities without the right placard or plate is $250.",
+      "p": "Right. The fine starts at $250."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuál es la multa mínima por estacionarse en un espacio para personas con discapacidad sin el permiso (placard) o la placa correspondiente?",
+      "o": [
+        "$50",
+        "$100",
+        "$150",
+        "$250"
+      ],
+      "h1": "Es la cantidad más alta de estas.",
+      "h2": "En Nevada, la multa mínima por estacionarse en un espacio para personas con discapacidad sin el permiso o la placa correspondiente es de $250.",
+      "p": "Correcto. La multa empieza en $250."
+    },
+    "zh": {
+      "q": "在 Nevada，没有正确的停车证或车牌就停在残疾人车位，最低罚款是多少？",
+      "o": [
+        "$50",
+        "$100",
+        "$150",
+        "$250"
+      ],
+      "h1": "是这里最高的金额。",
+      "h2": "在 Nevada，没有正确的停车证或车牌就停在残疾人车位，最低罚款是 $250。",
+      "p": "对。罚款从 $250 起。"
+    },
+    "vi": {
+      "q": "Ở Nevada, mức phạt thấp nhất cho việc đậu xe ở chỗ dành cho người khuyết tật mà không có thẻ hoặc biển số đúng là bao nhiêu?",
+      "o": [
+        "$50",
+        "$100",
+        "$150",
+        "$250"
+      ],
+      "h1": "Đây là số tiền cao nhất ở đây.",
+      "h2": "Ở Nevada, mức phạt tối thiểu cho việc đậu xe ở chỗ dành cho người khuyết tật mà không có thẻ hoặc biển số đúng là $250.",
+      "p": "Đúng. Tiền phạt bắt đầu từ $250."
+    },
+    "tl": {
+      "q": "Sa Nevada, magkano ang pinakamababang multa sa pagparada sa disabled parking space nang walang tamang placard o license plate?",
+      "o": [
+        "$50",
+        "$100",
+        "$150",
+        "$250"
+      ],
+      "h1": "Ito ang pinakamataas na halaga rito.",
+      "h2": "Sa Nevada, ang pinakamababang multa sa pagparada sa puwesto para sa mga taong may kapansanan nang walang tamang placard o plate ay $250.",
+      "p": "Tama. Nagsisimula sa $250 ang multa."
+    },
+    "ar": {
+      "q": "في Nevada، ما أقل غرامة لركن السيارة في موقف ذوي الإعاقة من دون البطاقة أو لوحة الترخيص الصحيحة؟",
+      "o": [
+        "$50",
+        "$100",
+        "$150",
+        "$250"
+      ],
+      "h1": "هي أعلى مبلغ هنا.",
+      "h2": "في Nevada، الحدّ الأدنى لغرامة ركن السيارة في موقف مخصّص لذوي الإعاقة من دون البطاقة أو اللوحة الصحيحة هو $250.",
+      "p": "صحيح. الغرامة تبدأ من $250."
+    }
+  },
+  {
+    "id": "nv-047",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 57,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, when may you use studded snow tires?",
+      "o": [
+        "From October 1 through April 30",
+        "From November 1 through March 31",
+        "From December 1 through the end of February",
+        "Any time of year"
+      ],
+      "h1": "The season starts in the fall and ends in the spring.",
+      "h2": "In Nevada, studded snow tires may be used only from October 1 through April 30.",
+      "p": "Right. Studded tires are allowed October 1 through April 30."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuándo puede usar llantas de nieve con clavos?",
+      "o": [
+        "Del 1 de octubre al 30 de abril",
+        "Del 1 de noviembre al 31 de marzo",
+        "Del 1 de diciembre hasta el final de febrero",
+        "En cualquier época del año"
+      ],
+      "h1": "La temporada empieza en el otoño y termina en la primavera.",
+      "h2": "En Nevada, las llantas de nieve con clavos solo se pueden usar del 1 de octubre al 30 de abril.",
+      "p": "Correcto. Las llantas con clavos se permiten del 1 de octubre al 30 de abril."
+    },
+    "zh": {
+      "q": "在 Nevada，什么时候可以用带钉的雪地轮胎？",
+      "o": [
+        "从 10 月 1 日到 4 月 30 日",
+        "从 11 月 1 日到 3 月 31 日",
+        "从 12 月 1 日到 2 月底",
+        "一年中任何时候"
+      ],
+      "h1": "这个季节从秋天开始，到春天结束。",
+      "h2": "在 Nevada，带钉的雪地轮胎只能在 10 月 1 日到 4 月 30 日之间使用。",
+      "p": "对。10 月 1 日到 4 月 30 日可以用带钉轮胎。"
+    },
+    "vi": {
+      "q": "Ở Nevada, khi nào bạn được dùng lốp xe tuyết có đinh?",
+      "o": [
+        "Từ ngày 1 tháng 10 đến ngày 30 tháng 4",
+        "Từ ngày 1 tháng 11 đến ngày 31 tháng 3",
+        "Từ ngày 1 tháng 12 đến cuối tháng 2",
+        "Bất cứ lúc nào trong năm"
+      ],
+      "h1": "Mùa này bắt đầu vào mùa thu và kết thúc vào mùa xuân.",
+      "h2": "Ở Nevada, lốp xe tuyết có đinh chỉ được dùng từ ngày 1 tháng 10 đến ngày 30 tháng 4.",
+      "p": "Đúng. Lốp có đinh được dùng từ ngày 1 tháng 10 đến ngày 30 tháng 4."
+    },
+    "tl": {
+      "q": "Sa Nevada, kailan ka puwedeng gumamit ng studded snow tire?",
+      "o": [
+        "Mula Oktubre 1 hanggang Abril 30",
+        "Mula Nobyembre 1 hanggang Marso 31",
+        "Mula Disyembre 1 hanggang katapusan ng Pebrero",
+        "Kahit anong oras ng taon"
+      ],
+      "h1": "Nagsisimula ang panahong ito sa taglagas at natatapos sa tagsibol.",
+      "h2": "Sa Nevada, puwede lamang gamitin ang studded snow tire mula Oktubre 1 hanggang Abril 30.",
+      "p": "Tama. Pinapayagan ang studded tire mula Oktubre 1 hanggang Abril 30."
+    },
+    "ar": {
+      "q": "في Nevada، متى يجوز لك استخدام إطارات الثلج ذات المسامير؟",
+      "o": [
+        "من 1 أكتوبر حتى 30 أبريل",
+        "من 1 نوفمبر حتى 31 مارس",
+        "من 1 ديسمبر حتى نهاية فبراير",
+        "في أي وقت من السنة"
+      ],
+      "h1": "يبدأ هذا الموسم في الخريف وينتهي في الربيع.",
+      "h2": "في Nevada، يجوز استخدام إطارات الثلج ذات المسامير فقط من 1 أكتوبر حتى 30 أبريل.",
+      "p": "صحيح. الإطارات ذات المسامير مسموحة من 1 أكتوبر حتى 30 أبريل."
+    }
+  },
+  {
+    "id": "nv-048",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 39,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, how many people must be in a car to use an HOV (carpool) lane?",
+      "o": [
+        "Only the driver",
+        "At least 3",
+        "At least 2",
+        "At least 4"
+      ],
+      "h1": "The driver and one passenger are enough.",
+      "h2": "In Nevada, a car needs at least 2 people in it to use an HOV (carpool) lane.",
+      "p": "Right. Two or more people may use the carpool lane."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuántas personas deben ir en un carro para usar un carril HOV (de vehículos compartidos)?",
+      "o": [
+        "Solo el conductor",
+        "Por lo menos 3",
+        "Por lo menos 2",
+        "Por lo menos 4"
+      ],
+      "h1": "Basta con el conductor y un pasajero.",
+      "h2": "En Nevada, un carro necesita por lo menos 2 personas para usar un carril HOV (de vehículos compartidos).",
+      "p": "Correcto. Dos o más personas pueden usar el carril de vehículos compartidos."
+    },
+    "zh": {
+      "q": "在 Nevada，车里至少要有几个人才能用 HOV（拼车）车道？",
+      "o": [
+        "只有司机",
+        "至少 3 人",
+        "至少 2 人",
+        "至少 4 人"
+      ],
+      "h1": "司机加一名乘客就够了。",
+      "h2": "在 Nevada，车里至少要有 2 个人才能用 HOV（拼车）车道。",
+      "p": "对。两个人或以上可以用拼车车道。"
+    },
+    "vi": {
+      "q": "Ở Nevada, trong xe phải có bao nhiêu người mới được dùng làn HOV (làn đi chung xe)?",
+      "o": [
+        "Chỉ người lái xe",
+        "Ít nhất 3 người",
+        "Ít nhất 2 người",
+        "Ít nhất 4 người"
+      ],
+      "h1": "Người lái xe và một hành khách là đủ.",
+      "h2": "Ở Nevada, trong xe cần có ít nhất 2 người mới được dùng làn HOV (làn đi chung xe).",
+      "p": "Đúng. Hai người trở lên được dùng làn đi chung xe."
+    },
+    "tl": {
+      "q": "Sa Nevada, ilang tao ang dapat nasa kotse para magamit ang HOV (carpool) lane?",
+      "o": [
+        "Ang drayber lamang",
+        "Hindi bababa sa 3",
+        "Hindi bababa sa 2",
+        "Hindi bababa sa 4"
+      ],
+      "h1": "Sapat na ang drayber at isang pasahero.",
+      "h2": "Sa Nevada, kailangang may hindi bababa sa 2 tao sa kotse para magamit ang HOV (carpool) lane.",
+      "p": "Tama. Puwedeng gumamit ng carpool lane ang dalawa o higit pang tao."
+    },
+    "ar": {
+      "q": "في Nevada، كم شخصًا يجب أن يكون في السيارة لاستخدام مسار HOV (مسار المشاركة في الركوب)؟",
+      "o": [
+        "السائق فقط",
+        "3 أشخاص على الأقل",
+        "شخصان (2) على الأقل",
+        "4 أشخاص على الأقل"
+      ],
+      "h1": "السائق وراكب واحد يكفيان.",
+      "h2": "في Nevada، يجب أن يكون في السيارة شخصان (2) على الأقل لاستخدام مسار HOV (مسار المشاركة في الركوب).",
+      "p": "صحيح. يمكن لشخصين أو أكثر استخدام مسار المشاركة في الركوب."
+    }
+  },
+  {
+    "id": "nv-049",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 66,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, who may not ride in the open bed of a pickup truck on a paved highway, except in a parade or for farm or ranch work?",
+      "o": [
+        "Only children under 6",
+        "Anyone under 18",
+        "Only children under 12",
+        "Anyone over 65"
+      ],
+      "h1": "It is anyone who is not yet an adult.",
+      "h2": "In Nevada, no one under 18 may ride in the bed of a pickup truck on a paved highway, except in an approved parade or for farm or ranch work.",
+      "p": "Right. No one under 18 may ride in a pickup bed on a paved highway."
+    },
+    "es": {
+      "q": "En Nevada, ¿quién no puede viajar en la caja abierta de una camioneta pickup en una carretera pavimentada, salvo en un desfile o en trabajo de granja o rancho?",
+      "o": [
+        "Solo los niños menores de 6 años",
+        "Cualquier persona menor de 18 años",
+        "Solo los niños menores de 12 años",
+        "Cualquier persona mayor de 65 años"
+      ],
+      "h1": "Es cualquier persona que todavía no es adulta.",
+      "h2": "En Nevada, ninguna persona menor de 18 años puede viajar en la caja de una camioneta pickup en una carretera pavimentada, salvo en un desfile autorizado o en trabajo de granja o rancho.",
+      "p": "Correcto. Nadie menor de 18 años puede viajar en la caja de una pickup en una carretera pavimentada."
+    },
+    "zh": {
+      "q": "在 Nevada，除了游行或农场、牧场工作以外，谁不可以在铺好的公路上坐在皮卡的露天车斗里？",
+      "o": [
+        "只有不到 6 岁的孩子",
+        "任何不到 18 岁的人",
+        "只有不到 12 岁的孩子",
+        "任何超过 65 岁的人"
+      ],
+      "h1": "是任何还不是成年人的人。",
+      "h2": "在 Nevada，不到 18 岁的人都不可以在铺好的公路上坐在皮卡车斗里，除非是在批准的游行中或做农场、牧场工作。",
+      "p": "对。不到 18 岁的人不可以在铺好的公路上坐皮卡车斗。"
+    },
+    "vi": {
+      "q": "Ở Nevada, ai không được ngồi ở thùng sau để trống của xe bán tải trên đường cao tốc trải nhựa, trừ khi đi diễu hành hoặc làm việc ở nông trại hay trại chăn nuôi?",
+      "o": [
+        "Chỉ trẻ em dưới 6 tuổi",
+        "Bất cứ ai dưới 18 tuổi",
+        "Chỉ trẻ em dưới 12 tuổi",
+        "Bất cứ ai trên 65 tuổi"
+      ],
+      "h1": "Đó là bất cứ ai chưa phải là người lớn.",
+      "h2": "Ở Nevada, không ai dưới 18 tuổi được ngồi ở thùng sau xe bán tải trên đường cao tốc trải nhựa, trừ khi đi trong một cuộc diễu hành được chấp thuận hoặc làm việc ở nông trại hay trại chăn nuôi.",
+      "p": "Đúng. Không ai dưới 18 tuổi được ngồi thùng sau xe bán tải trên đường trải nhựa."
+    },
+    "tl": {
+      "q": "Sa Nevada, sino ang hindi puwedeng sumakay sa bukas na likuran (bed) ng pickup truck sa sementadong highway, maliban sa parada o sa trabaho sa bukid o rantso?",
+      "o": [
+        "Mga batang wala pang 6 lamang",
+        "Sinumang wala pang 18",
+        "Mga batang wala pang 12 lamang",
+        "Sinumang lampas 65"
+      ],
+      "h1": "Ito ay sinumang hindi pa adulto.",
+      "h2": "Sa Nevada, walang sinumang wala pang 18 ang puwedeng sumakay sa bed ng pickup truck sa sementadong highway, maliban sa aprubadong parada o sa trabaho sa bukid o rantso.",
+      "p": "Tama. Walang wala pang 18 ang puwedeng sumakay sa bed ng pickup sa sementadong highway."
+    },
+    "ar": {
+      "q": "في Nevada، من الذي لا يجوز له أن يركب في الصندوق الخلفي المكشوف لشاحنة بيك أب على طريق سريع معبّد، إلا في استعراض أو لعمل في مزرعة أو مزرعة مواشٍ؟",
+      "o": [
+        "الأطفال تحت 6 سنوات فقط",
+        "أي شخص تحت 18 سنة",
+        "الأطفال تحت 12 سنة فقط",
+        "أي شخص فوق 65 سنة"
+      ],
+      "h1": "هو أي شخص لم يصبح بالغًا بعد.",
+      "h2": "في Nevada، لا يجوز لأي شخص تحت 18 سنة أن يركب في الصندوق الخلفي لشاحنة بيك أب على طريق سريع معبّد، إلا في استعراض معتمد أو لعمل في مزرعة أو مزرعة مواشٍ.",
+      "p": "صحيح. لا يجوز لأي شخص تحت 18 سنة أن يركب في صندوق البيك أب على طريق سريع معبّد."
+    }
+  },
+  {
+    "id": "nv-050",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 81,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, what can you dial on a cell phone to report a driver you think is drunk?",
+      "o": [
+        "*311",
+        "*411",
+        "*368 (*DMV)",
+        "*647 (*NHP)"
+      ],
+      "h1": "The letters stand for the Nevada Highway Patrol.",
+      "h2": "In Nevada, you can report a suspected drunk driver or a highway emergency by dialing *NHP, which is *647.",
+      "p": "Right. Dial *NHP (*647) to report a drunk driver."
+    },
+    "es": {
+      "q": "En Nevada, ¿qué número puede marcar en un teléfono celular para reportar a un conductor que usted cree que está borracho?",
+      "o": [
+        "*311",
+        "*411",
+        "*368 (*DMV)",
+        "*647 (*NHP)"
+      ],
+      "h1": "Las letras son de la Patrulla de Carreteras de Nevada (Nevada Highway Patrol).",
+      "h2": "En Nevada, usted puede reportar a un conductor que parece borracho o una emergencia en la carretera marcando *NHP, que es *647.",
+      "p": "Correcto. Marque *NHP (*647) para reportar a un conductor borracho."
+    },
+    "zh": {
+      "q": "在 Nevada，你可以用手机拨什么号码来举报你认为喝醉的司机？",
+      "o": [
+        "*311",
+        "*411",
+        "*368 (*DMV)",
+        "*647 (*NHP)"
+      ],
+      "h1": "这些字母代表 Nevada 公路巡警（Nevada Highway Patrol）。",
+      "h2": "在 Nevada，你可以拨 *NHP，也就是 *647，来举报可能喝醉的司机或公路上的紧急情况。",
+      "p": "对。拨 *NHP（*647）举报醉酒司机。"
+    },
+    "vi": {
+      "q": "Ở Nevada, bạn có thể bấm số nào trên điện thoại di động để báo một người lái xe mà bạn nghĩ là say rượu?",
+      "o": [
+        "*311",
+        "*411",
+        "*368 (*DMV)",
+        "*647 (*NHP)"
+      ],
+      "h1": "Các chữ cái này là viết tắt của Cảnh sát Xa lộ Nevada (Nevada Highway Patrol).",
+      "h2": "Ở Nevada, bạn có thể báo một người lái xe nghi say rượu hoặc một trường hợp khẩn cấp trên xa lộ bằng cách bấm *NHP, tức là *647.",
+      "p": "Đúng. Bấm *NHP (*647) để báo người lái xe say rượu."
+    },
+    "tl": {
+      "q": "Sa Nevada, ano ang puwede mong i-dial sa cell phone para i-report ang drayber na sa tingin mo ay lasing?",
+      "o": [
+        "*311",
+        "*411",
+        "*368 (*DMV)",
+        "*647 (*NHP)"
+      ],
+      "h1": "Ang mga titik ay para sa Nevada Highway Patrol.",
+      "h2": "Sa Nevada, puwede mong i-report ang pinaghihinalaang lasing na drayber o emergency sa highway sa pag-dial ng *NHP, na *647.",
+      "p": "Tama. I-dial ang *NHP (*647) para i-report ang lasing na drayber."
+    },
+    "ar": {
+      "q": "في Nevada، ما الرقم الذي يمكنك أن تتصل به من الهاتف المحمول للإبلاغ عن سائق تظن أنه سكران؟",
+      "o": [
+        "*311",
+        "*411",
+        "*368 (*DMV)",
+        "*647 (*NHP)"
+      ],
+      "h1": "الحروف تعني دورية الطرق السريعة في Nevada (Nevada Highway Patrol).",
+      "h2": "في Nevada، يمكنك الإبلاغ عن سائق يُشتبه بأنه سكران أو عن حالة طارئة على الطريق السريع بالاتصال بالرقم *NHP، أي *647.",
+      "p": "صحيح. اتصل بالرقم *NHP (*647) للإبلاغ عن سائق سكران."
+    }
+  },
+  {
+    "id": "nv-051",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, which rule applies to a rider with a motorcycle instruction permit?",
+      "o": [
+        "Ride only in daylight hours",
+        "Ride at night only with a supervisor",
+        "Carry one passenger who is at least 21",
+        "Ride on freeways only with a supervisor"
+      ],
+      "h1": "Permit riders may not carry passengers or use freeways.",
+      "h2": "In Nevada, a rider with a motorcycle instruction permit may ride only in daylight, with no passengers and not on freeways.",
+      "p": "Right. Motorcycle permit riders ride in daylight only."
+    },
+    "es": {
+      "q": "En Nevada, ¿qué regla se aplica a quien tiene un permiso de instrucción de motocicleta?",
+      "o": [
+        "Manejar solo durante las horas de luz del día",
+        "Manejar de noche solo con un supervisor",
+        "Llevar un pasajero de por lo menos 21 años",
+        "Manejar en autopistas solo con un supervisor"
+      ],
+      "h1": "Con el permiso no se pueden llevar pasajeros ni usar autopistas.",
+      "h2": "En Nevada, quien tiene un permiso de instrucción de motocicleta solo puede manejar de día, sin pasajeros y no en autopistas.",
+      "p": "Correcto. Con el permiso de motocicleta se maneja solo de día."
+    },
+    "zh": {
+      "q": "在 Nevada，持有摩托车学习许可证的骑手要遵守哪条规定？",
+      "o": [
+        "只能在白天骑",
+        "有监督人陪同才能在晚上骑",
+        "可以带一名至少 21 岁的乘客",
+        "有监督人陪同才能上高速公路"
+      ],
+      "h1": "持学习许可证的骑手不可以带乘客，也不可以上高速公路。",
+      "h2": "在 Nevada，持有摩托车学习许可证的骑手只能在白天骑，不能带乘客，也不能上高速公路。",
+      "p": "对。持摩托车学习许可证只能在白天骑。"
+    },
+    "vi": {
+      "q": "Ở Nevada, quy định nào áp dụng cho người có giấy phép tập lái xe máy?",
+      "o": [
+        "Chỉ chạy vào ban ngày",
+        "Chạy ban đêm chỉ khi có người giám sát",
+        "Chở một hành khách ít nhất 21 tuổi",
+        "Chạy trên xa lộ cao tốc chỉ khi có người giám sát"
+      ],
+      "h1": "Người có giấy phép tập lái không được chở hành khách và không được chạy trên xa lộ cao tốc.",
+      "h2": "Ở Nevada, người có giấy phép tập lái xe máy chỉ được chạy vào ban ngày, không được chở hành khách và không được chạy trên xa lộ cao tốc.",
+      "p": "Đúng. Người có giấy phép tập lái xe máy chỉ chạy vào ban ngày."
+    },
+    "tl": {
+      "q": "Sa Nevada, aling patakaran ang para sa rider na may motorcycle instruction permit?",
+      "o": [
+        "Magmaneho lamang sa oras na may liwanag ng araw",
+        "Magmaneho sa gabi lamang kung may supervisor",
+        "Magsakay ng isang pasaherong hindi bababa sa 21",
+        "Magmaneho sa freeway lamang kung may supervisor"
+      ],
+      "h1": "Hindi puwedeng magsakay ng pasahero o gumamit ng freeway ang mga rider na may permit.",
+      "h2": "Sa Nevada, ang rider na may motorcycle instruction permit ay puwede lamang magmaneho kapag may liwanag ng araw, walang pasahero, at hindi sa freeway.",
+      "p": "Tama. Sa araw lamang nagmamaneho ang mga rider na may motorcycle permit."
+    },
+    "ar": {
+      "q": "في Nevada، أي قاعدة تنطبق على راكب الدرّاجة النارية الذي يحمل تصريح تعلّم للدرّاجة النارية؟",
+      "o": [
+        "القيادة في ساعات النهار فقط",
+        "القيادة ليلًا فقط مع مشرف",
+        "حمل راكب واحد عمره 21 سنة على الأقل",
+        "القيادة على الطرق السريعة فقط مع مشرف"
+      ],
+      "h1": "يجب ألّا يحمل أصحاب التصريح ركّابًا أو يستخدموا الطرق السريعة.",
+      "h2": "في Nevada، يجوز لصاحب تصريح تعلّم الدرّاجة النارية أن يقود في النهار فقط، من دون ركّاب، وليس على الطرق السريعة.",
+      "p": "صحيح. أصحاب تصريح الدرّاجة النارية يقودون في النهار فقط."
+    }
   }
 ]

@@ -2540,5 +2540,685 @@
       "h2": "في Maryland لا يجوز لك أن تتجاوز وأنت تعبر تقاطعًا أو معبر سكة حديدية، أو وأنت في حدود 100 قدم منهما.",
       "p": "صحيح. لا تتجاوز في حدود 100 قدم منهما."
     }
+  },
+  {
+    "id": "md-032",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 9,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Maryland, a licensed driver gets a Type 2 learner's permit for a different class of license. How long must they hold it before taking the driving test?",
+      "o": [
+        "At least 14 days",
+        "At least 9 months",
+        "At least 45 days",
+        "At least 6 months"
+      ],
+      "h1": "It is a short wait, because this person can already drive.",
+      "h2": "In Maryland, you may take the driving test once you have held a Type 2 learner's permit for at least 14 days.",
+      "p": "Right. A Type 2 permit must be held at least 14 days before the driving test."
+    },
+    "es": {
+      "q": "En Maryland, un conductor con licencia obtiene un permiso de aprendizaje Tipo 2 para otra clase de licencia. ¿Cuánto tiempo debe tenerlo antes del examen de manejo?",
+      "o": [
+        "Al menos 14 días",
+        "Al menos 9 meses",
+        "Al menos 45 días",
+        "Al menos 6 meses"
+      ],
+      "h1": "Es una espera corta, porque esta persona ya sabe manejar.",
+      "h2": "En Maryland, puede tomar el examen de manejo cuando haya tenido el permiso de aprendizaje Tipo 2 por al menos 14 días.",
+      "p": "Correcto. El permiso Tipo 2 se debe tener al menos 14 días antes del examen de manejo."
+    }
+  },
+  {
+    "id": "md-033",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 9,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Maryland, how many documents proving that you live in Maryland must you bring when you apply for a license?",
+      "o": [
+        "One",
+        "Two",
+        "Three",
+        "None, if you have a passport"
+      ],
+      "h1": "It is more than one.",
+      "h2": "In Maryland, you must bring two documents that prove you live in Maryland when you apply.",
+      "p": "Right. Bring two proofs that you live in Maryland."
+    },
+    "es": {
+      "q": "En Maryland, ¿cuántos documentos que prueben que vive en Maryland debe traer cuando solicita una licencia?",
+      "o": [
+        "Uno",
+        "Dos",
+        "Tres",
+        "Ninguno, si tiene pasaporte"
+      ],
+      "h1": "Es más de uno.",
+      "h2": "En Maryland, debe traer dos documentos que prueben que vive en Maryland cuando hace la solicitud.",
+      "p": "Correcto. Traiga dos pruebas de que vive en Maryland."
+    }
+  },
+  {
+    "id": "md-034",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maryland, a new driver is 25 or older. How many hours of supervised practice must they log with a learner's permit?",
+      "o": [
+        "60 hours, including 10 at night",
+        "40 hours, including 5 at night",
+        "14 hours, including 3 at night",
+        "No practice hours at all"
+      ],
+      "h1": "Older beginners need far fewer hours than teens.",
+      "h2": "In Maryland, a new driver 25 or older must log at least 14 hours of supervised practice, with at least 3 of them at night.",
+      "p": "Right. Drivers 25 or older need 14 hours, including 3 at night."
+    },
+    "es": {
+      "q": "En Maryland, un conductor nuevo tiene 25 años o más. ¿Cuántas horas de práctica supervisada debe registrar con el permiso de aprendizaje?",
+      "o": [
+        "60 horas, incluidas 10 de noche",
+        "40 horas, incluidas 5 de noche",
+        "14 horas, incluidas 3 de noche",
+        "Ninguna hora de práctica"
+      ],
+      "h1": "Los principiantes mayores necesitan muchas menos horas que los adolescentes.",
+      "h2": "En Maryland, un conductor nuevo de 25 años o más debe registrar al menos 14 horas de práctica supervisada, y al menos 3 de ellas de noche.",
+      "p": "Correcto. Los conductores de 25 años o más necesitan 14 horas, incluidas 3 de noche."
+    }
+  },
+  {
+    "id": "md-035",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Maryland, a new driver is 20 years old. How long must they hold a learner's permit, with no violations, before getting a provisional license?",
+      "o": [
+        "45 days",
+        "9 months",
+        "1 year",
+        "3 months"
+      ],
+      "h1": "It is shorter than for teens under 18, but longer than for drivers 25 or older.",
+      "h2": "In Maryland, a new driver aged 19 to 24, or 18 with a high school diploma or GED, must hold the permit for at least 3 months without a violation.",
+      "p": "Right. From 19 to 24, the permit must be held at least 3 months."
+    },
+    "es": {
+      "q": "En Maryland, un conductor nuevo tiene 20 años. ¿Cuánto tiempo debe tener el permiso de aprendizaje, sin infracciones, antes de obtener una licencia provisional?",
+      "o": [
+        "45 días",
+        "9 meses",
+        "1 año",
+        "3 meses"
+      ],
+      "h1": "Es menos que para los menores de 18, pero más que para los de 25 años o más.",
+      "h2": "En Maryland, un conductor nuevo de 19 a 24 años, o de 18 con diploma de secundaria o GED, debe tener el permiso al menos 3 meses sin infracciones.",
+      "p": "Correcto. De 19 a 24 años, el permiso se debe tener al menos 3 meses."
+    }
+  },
+  {
+    "id": "md-036",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 8,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Maryland, how much gas must be in the car you bring to the driving skills test?",
+      "o": [
+        "Any amount",
+        "At least half a tank",
+        "A full tank",
+        "At least a quarter tank"
+      ],
+      "h1": "The tank cannot be close to empty.",
+      "h2": "In Maryland, the car you use for the driving skills test must have at least half a tank of gas.",
+      "p": "Right. Bring the car with at least half a tank of gas."
+    },
+    "es": {
+      "q": "En Maryland, ¿cuánta gasolina debe tener el carro que lleva al examen de manejo?",
+      "o": [
+        "Cualquier cantidad",
+        "Al menos medio tanque",
+        "El tanque lleno",
+        "Al menos un cuarto de tanque"
+      ],
+      "h1": "El tanque no puede estar casi vacío.",
+      "h2": "En Maryland, el carro que usa para el examen de manejo debe tener al menos medio tanque de gasolina.",
+      "p": "Correcto. Lleve el carro con al menos medio tanque de gasolina."
+    }
+  },
+  {
+    "id": "md-037",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 53,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Maryland, which of these must you do during the driving skills test?",
+      "o": [
+        "Parallel park between two cars",
+        "Drive on an interstate highway",
+        "Change a flat tire",
+        "Pull-in parking, back-in parking and a three-point turn"
+      ],
+      "h1": "Parallel parking is no longer part of the test.",
+      "h2": "In Maryland, the driving test checks pull-in parking, back-in parking and a three-point turn; parallel parking is no longer required.",
+      "p": "Right. You will do pull-in parking, back-in parking and a three-point turn."
+    },
+    "es": {
+      "q": "En Maryland, ¿cuál de estas cosas debe hacer durante el examen de manejo?",
+      "o": [
+        "Estacionarse en paralelo entre dos carros",
+        "Manejar en una autopista interestatal",
+        "Cambiar una llanta ponchada",
+        "Estacionarse de frente, estacionarse en reversa y dar una vuelta en tres puntos"
+      ],
+      "h1": "El estacionamiento en paralelo ya no es parte del examen.",
+      "h2": "En Maryland, el examen de manejo revisa estacionarse de frente, estacionarse en reversa y la vuelta en tres puntos; ya no se exige el estacionamiento en paralelo.",
+      "p": "Correcto. Se estacionará de frente y en reversa, y dará una vuelta en tres puntos."
+    }
+  },
+  {
+    "id": "md-038",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 12,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Maryland, the knowledge test is offered in your language. How many times must you take it before you may use an interpreter?",
+      "o": [
+        "At least 5 times",
+        "At least 2 times",
+        "At least 10 times",
+        "You may use an interpreter the first time"
+      ],
+      "h1": "You must try on your own several times first.",
+      "h2": "In Maryland, if the knowledge test is offered in your language, you must take it at least 5 times before you may use an interpreter.",
+      "p": "Right. Take it at least 5 times in your language before using an interpreter."
+    },
+    "es": {
+      "q": "En Maryland, el examen de conocimientos se ofrece en su idioma. ¿Cuántas veces debe tomarlo antes de poder usar un intérprete?",
+      "o": [
+        "Al menos 5 veces",
+        "Al menos 2 veces",
+        "Al menos 10 veces",
+        "Puede usar un intérprete desde la primera vez"
+      ],
+      "h1": "Primero debe intentarlo usted solo varias veces.",
+      "h2": "En Maryland, si el examen de conocimientos se ofrece en su idioma, debe tomarlo al menos 5 veces antes de poder usar un intérprete.",
+      "p": "Correcto. Tómelo al menos 5 veces en su idioma antes de usar un intérprete."
+    }
+  },
+  {
+    "id": "md-039",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 49,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maryland, a provisional license holder who is 18 or older is convicted of a first moving violation. What penalty does the MVA add?",
+      "o": [
+        "The license is revoked",
+        "A 30-day suspension",
+        "A driver improvement program",
+        "No added penalty"
+      ],
+      "h1": "The first time, it is a class, not a suspension.",
+      "h2": "In Maryland, a provisional driver 18 or older with a first moving violation must complete a driver improvement program.",
+      "p": "Right. A first offense means a driver improvement program."
+    },
+    "es": {
+      "q": "En Maryland, un conductor con licencia provisional de 18 años o más es condenado por una primera infracción de tránsito en movimiento. ¿Qué sanción agrega la MVA?",
+      "o": [
+        "Le revocan la licencia",
+        "Una suspensión de 30 días",
+        "Un programa de mejoramiento para conductores",
+        "Ninguna sanción adicional"
+      ],
+      "h1": "La primera vez es una clase, no una suspensión.",
+      "h2": "En Maryland, un conductor provisional de 18 años o más con una primera infracción en movimiento debe completar un programa de mejoramiento para conductores.",
+      "p": "Correcto. Una primera infracción significa un programa de mejoramiento para conductores."
+    }
+  },
+  {
+    "id": "md-040",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 49,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Maryland, a provisional driver under 18 is convicted of a fourth moving violation. What happens?",
+      "o": [
+        "A warning letter only",
+        "The license is revoked, and all licensing tests must be passed again",
+        "A 30-day suspension",
+        "A $50 fine only"
+      ],
+      "h1": "It is the most serious step for a young driver.",
+      "h2": "In Maryland, a fourth moving violation by a provisional driver under 18 means the license is revoked, and all licensing tests must be passed again to get it back.",
+      "p": "Right. The license is revoked and every licensing test must be retaken."
+    },
+    "es": {
+      "q": "En Maryland, un conductor provisional menor de 18 años es condenado por una cuarta infracción en movimiento. ¿Qué pasa?",
+      "o": [
+        "Solo una carta de advertencia",
+        "Le revocan la licencia y debe aprobar otra vez todos los exámenes",
+        "Una suspensión de 30 días",
+        "Solo una multa de $50"
+      ],
+      "h1": "Es el paso más serio para un conductor joven.",
+      "h2": "En Maryland, con una cuarta infracción en movimiento, a un conductor provisional menor de 18 años le revocan la licencia, y debe aprobar otra vez todos los exámenes para recuperarla.",
+      "p": "Correcto. Le revocan la licencia y debe repetir todos los exámenes."
+    }
+  },
+  {
+    "id": "md-041",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 53,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Maryland, what fine can you face if you do not keep insurance on a vehicle?",
+      "o": [
+        "Up to $100 one time",
+        "Up to $500 one time",
+        "Only a warning the first time",
+        "Up to $2,500 per vehicle each year"
+      ],
+      "h1": "The fine is counted for each vehicle and each year.",
+      "h2": "In Maryland, if you do not keep insurance on your vehicles, you can be fined up to $2,500 per vehicle each year.",
+      "p": "Right. It can cost up to $2,500 per vehicle each year."
+    },
+    "es": {
+      "q": "En Maryland, ¿qué multa puede recibir si no mantiene un seguro en un vehículo?",
+      "o": [
+        "Hasta $100 una sola vez",
+        "Hasta $500 una sola vez",
+        "Solo una advertencia la primera vez",
+        "Hasta $2,500 por vehículo cada año"
+      ],
+      "h1": "La multa se cuenta por cada vehículo y por cada año.",
+      "h2": "En Maryland, si no mantiene seguro en sus vehículos, le pueden multar con hasta $2,500 por vehículo cada año.",
+      "p": "Correcto. Puede costar hasta $2,500 por vehículo cada año."
+    }
+  },
+  {
+    "id": "md-042",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 43,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Maryland, a driver is convicted of leaving the scene of a crash that caused a serious injury. What can happen?",
+      "o": [
+        "License revoked, up to 5 years in prison and up to a $5,000 fine",
+        "A $110 fine and 1 point",
+        "A warning and a safety class",
+        "A 30-day suspension only"
+      ],
+      "h1": "The penalties are severe: the license is taken away and prison is possible.",
+      "h2": "In Maryland, leaving the scene of a crash with a serious injury means your license is revoked, and you could get up to 5 years in prison and a fine up to $5,000.",
+      "p": "Right. Revocation, up to 5 years in prison and up to $5,000."
+    },
+    "es": {
+      "q": "En Maryland, un conductor es condenado por huir del lugar de un choque que causó una lesión grave. ¿Qué puede pasar?",
+      "o": [
+        "Le revocan la licencia, hasta 5 años de cárcel y una multa de hasta $5,000",
+        "Una multa de $110 y 1 punto",
+        "Una advertencia y una clase de seguridad",
+        "Solo una suspensión de 30 días"
+      ],
+      "h1": "Las sanciones son graves: le quitan la licencia y puede ir a la cárcel.",
+      "h2": "En Maryland, huir del lugar de un choque con una lesión grave significa que le revocan la licencia, y puede recibir hasta 5 años de cárcel y una multa de hasta $5,000.",
+      "p": "Correcto. Revocación, hasta 5 años de cárcel y hasta $5,000."
+    }
+  },
+  {
+    "id": "md-043",
+    "scope": "MD",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 34,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maryland, a driver is convicted of drunk or drugged driving with a child in the vehicle. What can the judge do?",
+      "o": [
+        "Lower the fine, because no one was hurt",
+        "Only give a warning",
+        "Double the fine and jail time",
+        "Take away 1 point"
+      ],
+      "h1": "Having a child in the car makes it worse, not better.",
+      "h2": "In Maryland, if you are convicted of drunk or drugged driving with a child in the vehicle, the judge can double your fine and jail time.",
+      "p": "Right. The judge can double the fine and the jail time."
+    },
+    "es": {
+      "q": "En Maryland, un conductor es condenado por manejar borracho o drogado con un niño en el vehículo. ¿Qué puede hacer el juez?",
+      "o": [
+        "Bajar la multa, porque nadie se lastimó",
+        "Solo dar una advertencia",
+        "Duplicar la multa y el tiempo de cárcel",
+        "Quitar 1 punto"
+      ],
+      "h1": "Llevar a un niño en el carro lo hace peor, no mejor.",
+      "h2": "En Maryland, si lo condenan por manejar borracho o drogado con un niño en el vehículo, el juez puede duplicar su multa y su tiempo de cárcel.",
+      "p": "Correcto. El juez puede duplicar la multa y el tiempo de cárcel."
+    }
+  },
+  {
+    "id": "md-044",
+    "scope": "MD",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 44,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Maryland, you hit and injure a dog with your car. What must you do?",
+      "o": [
+        "Drive on if the dog runs away",
+        "Wait until the next day to report it",
+        "Call only your insurance company",
+        "Call the police right away"
+      ],
+      "h1": "Dogs, cats, horses and cows count as domestic animals.",
+      "h2": "In Maryland, if you hit and injure a domestic animal such as a dog, you must call the police right away.",
+      "p": "Right. Call the police right away."
+    },
+    "es": {
+      "q": "En Maryland, usted atropella y lastima a un perro con su carro. ¿Qué debe hacer?",
+      "o": [
+        "Seguir manejando si el perro se va corriendo",
+        "Esperar hasta el día siguiente para reportarlo",
+        "Llamar solo a su compañía de seguros",
+        "Llamar a la policía de inmediato"
+      ],
+      "h1": "Los perros, gatos, caballos y vacas son animales domésticos.",
+      "h2": "En Maryland, si atropella y lastima a un animal doméstico, como un perro, debe llamar a la policía de inmediato.",
+      "p": "Correcto. Llame a la policía de inmediato."
+    }
+  },
+  {
+    "id": "md-045",
+    "scope": "MD",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 31,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Maryland, what do flashing blue lights in a work zone mean?",
+      "o": [
+        "A police officer wants you to pull over",
+        "Speed cameras are active",
+        "The work zone has ended",
+        "Highway maintenance vehicles are ahead"
+      ],
+      "h1": "Flashing green lights are for maintenance vehicles. Blue is about your speed.",
+      "h2": "In Maryland, flashing blue lights in a work zone mean the speed cameras are active.",
+      "p": "Right. Blue lights mean the speed cameras are on."
+    },
+    "es": {
+      "q": "En Maryland, ¿qué significan las luces azules intermitentes en una zona de trabajo?",
+      "o": [
+        "Un policía quiere que usted se detenga",
+        "Las cámaras de velocidad están activas",
+        "La zona de trabajo terminó",
+        "Hay vehículos de mantenimiento de carreteras más adelante"
+      ],
+      "h1": "Las luces verdes intermitentes son de vehículos de mantenimiento. Las azules tienen que ver con su velocidad.",
+      "h2": "En Maryland, las luces azules intermitentes en una zona de trabajo significan que las cámaras de velocidad están activas.",
+      "p": "Correcto. Las luces azules significan que las cámaras de velocidad están encendidas."
+    }
+  },
+  {
+    "id": "md-046",
+    "scope": "MD",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 15,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Maryland, what is the smallest following distance the MVA recommends in ideal conditions?",
+      "o": [
+        "3 to 4 seconds",
+        "1 second",
+        "1 to 2 seconds",
+        "10 seconds"
+      ],
+      "h1": "Count \"one thousand\" from the moment the car ahead passes a fixed object.",
+      "h2": "In Maryland, the MVA recommends following at least 3 to 4 seconds behind the car ahead in ideal conditions.",
+      "p": "Right. Stay at least 3 to 4 seconds behind."
+    },
+    "es": {
+      "q": "En Maryland, ¿cuál es la distancia mínima de seguimiento que recomienda la MVA en condiciones ideales?",
+      "o": [
+        "De 3 a 4 segundos",
+        "1 segundo",
+        "De 1 a 2 segundos",
+        "10 segundos"
+      ],
+      "h1": "Cuente \"mil uno\" desde que el carro de adelante pasa un objeto fijo.",
+      "h2": "En Maryland, la MVA recomienda ir al menos de 3 a 4 segundos detrás del carro de adelante en condiciones ideales.",
+      "p": "Correcto. Manténgase al menos de 3 a 4 segundos detrás."
+    }
+  },
+  {
+    "id": "md-047",
+    "scope": "MD",
+    "cat": "signals",
+    "conf": "high",
+    "page": 17,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maryland, when may you turn left on a steady red light after a complete stop?",
+      "o": [
+        "Never",
+        "From any street, if no cars are coming",
+        "From a one-way street onto another one-way street",
+        "Only when a police officer is present"
+      ],
+      "h1": "Both streets must carry traffic in only one direction.",
+      "h2": "In Maryland, unless a sign forbids it, you may turn left on red after a full stop only from a one-way street onto another one-way street.",
+      "p": "Right. Left on red is only from one one-way street onto another."
+    },
+    "es": {
+      "q": "En Maryland, ¿cuándo puede girar a la izquierda con la luz roja fija después de detenerse por completo?",
+      "o": [
+        "Nunca",
+        "Desde cualquier calle, si no vienen carros",
+        "De una calle de un solo sentido a otra calle de un solo sentido",
+        "Solo cuando hay un policía presente"
+      ],
+      "h1": "Las dos calles deben tener tráfico en un solo sentido.",
+      "h2": "En Maryland, si no hay una señal que lo prohíba, puede girar a la izquierda con luz roja después de detenerse por completo solo de una calle de un solo sentido a otra de un solo sentido.",
+      "p": "Correcto. A la izquierda con luz roja solo de una calle de un solo sentido a otra."
+    }
+  },
+  {
+    "id": "md-048",
+    "scope": "MD",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 32,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Maryland, you are driving in a funeral procession with your headlights and hazard lights on. What may you do at a red light?",
+      "o": [
+        "You must stop and let the procession split up",
+        "You may go only after honking",
+        "You must stop and wait for a green light",
+        "You may go through it with the procession"
+      ],
+      "h1": "Other drivers must yield to the procession, even on green.",
+      "h2": "In Maryland, a car in a funeral procession with its lights on may go through a red light with the procession.",
+      "p": "Right. With your lights on, you may follow the procession through the red light."
+    },
+    "es": {
+      "q": "En Maryland, usted maneja en un cortejo fúnebre con las luces delanteras y las luces de emergencia encendidas. ¿Qué puede hacer en un semáforo en rojo?",
+      "o": [
+        "Debe detenerse y dejar que el cortejo se divida",
+        "Puede pasar solo después de tocar la bocina",
+        "Debe detenerse y esperar la luz verde",
+        "Puede pasar el semáforo junto con el cortejo"
+      ],
+      "h1": "Los demás conductores deben ceder el paso al cortejo, aun con luz verde.",
+      "h2": "En Maryland, un carro en un cortejo fúnebre con las luces encendidas puede pasar un semáforo en rojo junto con el cortejo.",
+      "p": "Correcto. Con las luces encendidas, puede seguir al cortejo con la luz roja."
+    }
+  },
+  {
+    "id": "md-049",
+    "scope": "MD",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 30,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Maryland, which vehicles must stop before every railroad crossing, even when no train is coming?",
+      "o": [
+        "Buses, school buses and trucks carrying hazardous materials",
+        "Motorcycles and mopeds",
+        "All cars with passengers",
+        "Only vehicles towing a trailer"
+      ],
+      "h1": "These vehicles carry many people or dangerous loads.",
+      "h2": "In Maryland, buses, school buses and trucks carrying hazardous materials must stop before every railroad crossing, so be ready for them to stop.",
+      "p": "Right. Buses, school buses and hazardous-materials trucks stop at every crossing."
+    },
+    "es": {
+      "q": "En Maryland, ¿qué vehículos deben detenerse antes de cada cruce de ferrocarril, aunque no venga un tren?",
+      "o": [
+        "Los autobuses, los autobuses escolares y los camiones que llevan materiales peligrosos",
+        "Las motocicletas y los ciclomotores",
+        "Todos los carros con pasajeros",
+        "Solo los vehículos que remolcan un tráiler"
+      ],
+      "h1": "Estos vehículos llevan a muchas personas o cargas peligrosas.",
+      "h2": "En Maryland, los autobuses, los autobuses escolares y los camiones que llevan materiales peligrosos deben detenerse antes de cada cruce de ferrocarril, así que esté listo para que se detengan.",
+      "p": "Correcto. Los autobuses, los autobuses escolares y los camiones con materiales peligrosos se detienen en cada cruce."
+    }
+  },
+  {
+    "id": "md-050",
+    "scope": "MD",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Maryland, how must a child younger than 2 ride in a car?",
+      "o": [
+        "In a booster seat facing forward",
+        "In a rear-facing child safety seat",
+        "On an adult's lap with a seat belt",
+        "In the front seat with the air bag on"
+      ],
+      "h1": "The youngest children face the back of the car.",
+      "h2": "In Maryland, a child younger than 2 must ride in a rear-facing child safety seat until reaching the height or weight the seat maker sets.",
+      "p": "Right. Children under 2 ride in a rear-facing seat."
+    },
+    "es": {
+      "q": "En Maryland, ¿cómo debe viajar en un carro un niño menor de 2 años?",
+      "o": [
+        "En un asiento elevado mirando hacia adelante",
+        "En un asiento de seguridad para niños mirando hacia atrás",
+        "En las piernas de un adulto con el cinturón",
+        "En el asiento delantero con la bolsa de aire activada"
+      ],
+      "h1": "Los niños más pequeños miran hacia la parte de atrás del carro.",
+      "h2": "En Maryland, un niño menor de 2 años debe viajar en un asiento de seguridad mirando hacia atrás hasta llegar a la estatura o el peso que indica el fabricante del asiento.",
+      "p": "Correcto. Los niños menores de 2 años viajan en un asiento mirando hacia atrás."
+    }
+  },
+  {
+    "id": "md-051",
+    "scope": "MD",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maryland, on which roads may mopeds and motor scooters be ridden?",
+      "o": [
+        "Only on sidewalks and bike paths",
+        "On any road, including interstates",
+        "On roads with a posted speed limit of 50 mph or less",
+        "Only on roads with a speed limit of 25 mph or less"
+      ],
+      "h1": "They are kept off the fastest roads.",
+      "h2": "In Maryland, mopeds and motor scooters may be ridden on any road with a posted speed limit of 50 mph or less.",
+      "p": "Right. Mopeds and scooters may use roads posted at 50 mph or less."
+    },
+    "es": {
+      "q": "En Maryland, ¿en qué carreteras se pueden manejar los ciclomotores y las motonetas?",
+      "o": [
+        "Solo en las aceras y los caminos para bicicletas",
+        "En cualquier carretera, incluso las interestatales",
+        "En carreteras con un límite de velocidad de 50 mph o menos",
+        "Solo en carreteras con un límite de 25 mph o menos"
+      ],
+      "h1": "Se mantienen fuera de las carreteras más rápidas.",
+      "h2": "En Maryland, los ciclomotores y las motonetas se pueden manejar en cualquier carretera con un límite de velocidad de 50 mph o menos.",
+      "p": "Correcto. Los ciclomotores y las motonetas pueden usar carreteras con límite de 50 mph o menos."
+    }
   }
 ]

@@ -583,76 +583,28 @@
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In Louisiana, who may send or read a text message while driving?",
+      "q": "In Louisiana, who may type or read a text message on a phone held in the hand while driving?",
       "o": [
         "Drivers 18 and older",
         "Drivers on a highway only",
         "No driver, of any age",
-        "Drivers stopped at a red light"
+        "Drivers on an empty road"
       ],
       "h1": "The rule is the same for every age.",
-      "h2": "In Louisiana no driver of any age may write, send or read a text message while driving.",
+      "h2": "In Louisiana no driver of any age may write, send or read a text message on a hand-held phone while driving.",
       "p": "Right. No driver may text while driving."
     },
     "es": {
-      "q": "En Luisiana, ¿quién puede enviar o leer un mensaje de texto mientras maneja?",
+      "q": "En Luisiana, ¿quién puede escribir o leer un mensaje de texto en un teléfono sostenido en la mano mientras maneja?",
       "o": [
         "Los conductores de 18 años o más",
         "Solo los conductores en la carretera",
         "Ningún conductor, de ninguna edad",
-        "Los conductores detenidos en un semáforo en rojo"
+        "Los conductores en una calle vacía"
       ],
       "h1": "La regla es igual para todas las edades.",
-      "h2": "En Luisiana ningún conductor, de ninguna edad, puede escribir, enviar ni leer un mensaje de texto mientras maneja.",
+      "h2": "En Luisiana ningún conductor, de ninguna edad, puede escribir, enviar ni leer un mensaje de texto en un teléfono en la mano mientras maneja.",
       "p": "Correcto. Ningún conductor puede enviar textos mientras maneja."
-    },
-    "zh": {
-      "q": "在 Louisiana，谁可以在开车时发送或阅读短信？",
-      "o": [
-        "18 岁及以上的司机",
-        "只有在高速公路上的司机",
-        "任何年龄的司机都不可以",
-        "在红灯前停着的司机"
-      ],
-      "h1": "这个规定对所有年龄都一样。",
-      "h2": "在 Louisiana，任何年龄的司机开车时都不能写、发送或阅读短信。",
-      "p": "对。任何司机开车时都不能发短信。"
-    },
-    "vi": {
-      "q": "Ở Louisiana, ai được gửi hoặc đọc tin nhắn khi đang lái xe?",
-      "o": [
-        "Người lái từ 18 tuổi trở lên",
-        "Chỉ người lái trên xa lộ",
-        "Không người lái nào, ở bất kỳ tuổi nào",
-        "Người lái đang dừng ở đèn đỏ"
-      ],
-      "h1": "Quy định giống nhau cho mọi lứa tuổi.",
-      "h2": "Ở Louisiana, không người lái nào, ở bất kỳ tuổi nào, được viết, gửi hoặc đọc tin nhắn khi đang lái xe.",
-      "p": "Đúng. Không người lái nào được nhắn tin khi lái xe."
-    },
-    "tl": {
-      "q": "Sa Louisiana, sino ang puwedeng magpadala o magbasa ng text message habang nagmamaneho?",
-      "o": [
-        "Mga driver na 18 pataas",
-        "Mga driver sa highway lang",
-        "Walang driver, sa kahit anong edad",
-        "Mga driver na nakahinto sa red light"
-      ],
-      "h1": "Pareho ang patakaran sa lahat ng edad.",
-      "h2": "Sa Louisiana, walang driver sa kahit anong edad ang puwedeng sumulat, magpadala o magbasa ng text message habang nagmamaneho.",
-      "p": "Tama. Walang driver ang puwedeng mag-text habang nagmamaneho."
-    },
-    "ar": {
-      "q": "في Louisiana، من يُسمح له بإرسال رسالة نصية أو قراءتها أثناء القيادة؟",
-      "o": [
-        "السائقون بعمر 18 وأكثر",
-        "السائقون على الطريق السريع فقط",
-        "لا أحد من السائقين، بأي عمر",
-        "السائقون المتوقفون عند الإشارة الحمراء"
-      ],
-      "h1": "القاعدة نفسها لكل الأعمار.",
-      "h2": "في Louisiana لا يُسمح لأي سائق بأي عمر أن يكتب رسالة نصية أو يرسلها أو يقرأها أثناء القيادة.",
-      "p": "صحيح. لا يُسمح لأي سائق بالمراسلة أثناء القيادة."
     }
   },
   {
@@ -2539,6 +2491,686 @@
       "h1": "هذه المسافة أطول من المسافة عند السير خلف سيارة.",
       "h2": "في Louisiana يجب أن تستخدم الأضواء المنخفضة عندما تكون السيارة المقابلة على بعد 500 قدم أو أقل، أو عندما تسير خلف سيارة على بعد 200 قدم أو أقل.",
       "p": "صحيح. خفّض الأضواء عندما تكون السيارة المقابلة على بعد 500 قدم."
+    }
+  },
+  {
+    "id": "la-032",
+    "scope": "LA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 1,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Louisiana, you just moved here from another state. How long do you have to get a Louisiana driver's license?",
+      "o": [
+        "10 days",
+        "30 days",
+        "60 days",
+        "90 days"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In Louisiana, new residents have 30 days after moving in to get a Louisiana driver's license.",
+      "p": "Right. New residents have 30 days."
+    },
+    "es": {
+      "q": "En Luisiana, usted acaba de mudarse desde otro estado. ¿Cuánto tiempo tiene para obtener una licencia de conducir de Luisiana?",
+      "o": [
+        "10 días",
+        "30 días",
+        "60 días",
+        "90 días"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Luisiana, los nuevos residentes tienen 30 días después de mudarse para obtener una licencia de conducir de Luisiana.",
+      "p": "Correcto. Los nuevos residentes tienen 30 días."
+    }
+  },
+  {
+    "id": "la-033",
+    "scope": "LA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Louisiana, you move to a new home. How soon must you change the address on your license?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 60 days",
+        "At your next renewal"
+      ],
+      "h1": "It is less than two weeks.",
+      "h2": "In Louisiana, you must change the address on your license within 10 days after you move.",
+      "p": "Right. Update your address within 10 days."
+    },
+    "es": {
+      "q": "En Luisiana, usted se muda a una casa nueva. ¿En cuánto tiempo debe cambiar la dirección en su licencia?",
+      "o": [
+        "En 10 días",
+        "En 30 días",
+        "En 60 días",
+        "En su próxima renovación"
+      ],
+      "h1": "Es menos de dos semanas.",
+      "h2": "En Luisiana, debe cambiar la dirección en su licencia dentro de los 10 días después de mudarse.",
+      "p": "Correcto. Actualice su dirección en 10 días."
+    }
+  },
+  {
+    "id": "la-034",
+    "scope": "LA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Louisiana, how long does a DWI conviction stay on your public driving record?",
+      "o": [
+        "2 years",
+        "5 years",
+        "10 years",
+        "For life"
+      ],
+      "h1": "It stays twice as long as other traffic convictions.",
+      "h2": "In Louisiana, a DWI conviction stays on your driving record for 10 years; most other convictions stay for 5 years.",
+      "p": "Right. A DWI stays on your record for 10 years."
+    },
+    "es": {
+      "q": "En Luisiana, ¿cuánto tiempo queda una condena por DWI (manejar en estado de ebriedad) en su historial de manejo público?",
+      "o": [
+        "2 años",
+        "5 años",
+        "10 años",
+        "Toda la vida"
+      ],
+      "h1": "Queda el doble de tiempo que otras condenas de tránsito.",
+      "h2": "En Luisiana, una condena por DWI queda en su historial de manejo por 10 años; la mayoría de las otras condenas quedan por 5 años.",
+      "p": "Correcto. Un DWI queda en su historial por 10 años."
+    }
+  },
+  {
+    "id": "la-035",
+    "scope": "LA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 12,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Louisiana, how many reckless driving convictions within 12 months can make you lose your license?",
+      "o": [
+        "One",
+        "Five",
+        "Four",
+        "Three"
+      ],
+      "h1": "It is fewer than four.",
+      "h2": "In Louisiana, three reckless driving convictions within 12 months can cost you your driver's license.",
+      "p": "Right. Three reckless driving convictions in 12 months can cost you your license."
+    },
+    "es": {
+      "q": "En Luisiana, ¿cuántas condenas por manejo imprudente en 12 meses pueden hacerle perder su licencia?",
+      "o": [
+        "Una",
+        "Cinco",
+        "Cuatro",
+        "Tres"
+      ],
+      "h1": "Son menos de cuatro.",
+      "h2": "En Luisiana, tres condenas por manejo imprudente en 12 meses pueden hacerle perder su licencia de conducir.",
+      "p": "Correcto. Tres condenas por manejo imprudente en 12 meses pueden costarle la licencia."
+    }
+  },
+  {
+    "id": "la-036",
+    "scope": "LA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 126,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Louisiana, an officer arrests you for drunk driving and you refuse the alcohol test. This is your first refusal. How long is your license suspended?",
+      "o": [
+        "90 days",
+        "365 days",
+        "30 days",
+        "730 days"
+      ],
+      "h1": "It is a full year.",
+      "h2": "In Louisiana, refusing the alcohol test the first time suspends your driving privileges for 365 days.",
+      "p": "Right. A first refusal means a 365-day suspension."
+    },
+    "es": {
+      "q": "En Luisiana, un oficial lo arresta por manejar ebrio y usted se niega a la prueba de alcohol. Es la primera vez que se niega. ¿Por cuánto tiempo suspenden su licencia?",
+      "o": [
+        "90 días",
+        "365 días",
+        "30 días",
+        "730 días"
+      ],
+      "h1": "Es un año completo.",
+      "h2": "En Luisiana, negarse a la prueba de alcohol por primera vez suspende su privilegio de manejar por 365 días.",
+      "p": "Correcto. La primera negativa significa una suspensión de 365 días."
+    }
+  },
+  {
+    "id": "la-037",
+    "scope": "LA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 126,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Louisiana, you are 21 or older and take the alcohol test. It shows 0.08 to 0.149 percent. How long is your license suspended?",
+      "o": [
+        "180 days",
+        "30 days",
+        "730 days",
+        "10 days"
+      ],
+      "h1": "It is about six months.",
+      "h2": "In Louisiana, a driver 21 or older whose test shows 0.08 to 0.149 percent has driving privileges suspended for 180 days.",
+      "p": "Right. That result means a 180-day suspension."
+    },
+    "es": {
+      "q": "En Luisiana, usted tiene 21 años o más y se hace la prueba de alcohol. El resultado es de 0.08 a 0.149 por ciento. ¿Por cuánto tiempo suspenden su licencia?",
+      "o": [
+        "180 días",
+        "30 días",
+        "730 días",
+        "10 días"
+      ],
+      "h1": "Son unos seis meses.",
+      "h2": "En Luisiana, a un conductor de 21 años o más con un resultado de 0.08 a 0.149 por ciento le suspenden el privilegio de manejar por 180 días.",
+      "p": "Correcto. Ese resultado significa una suspensión de 180 días."
+    }
+  },
+  {
+    "id": "la-038",
+    "scope": "LA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 97,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Louisiana, what does the law say about wearing headphones while you drive?",
+      "o": [
+        "They are allowed in both ears at low volume",
+        "They are banned only at night",
+        "You may not wear them in both ears",
+        "They are allowed if you are over 21"
+      ],
+      "h1": "One ear is allowed.",
+      "h2": "In Louisiana, you may not wear headphones in both ears while driving, but one ear alone is allowed.",
+      "p": "Right. Never cover both ears while driving."
+    },
+    "es": {
+      "q": "En Luisiana, ¿qué dice la ley sobre usar audífonos mientras maneja?",
+      "o": [
+        "Se permiten en los dos oídos con volumen bajo",
+        "Están prohibidos solo de noche",
+        "No puede usarlos en los dos oídos",
+        "Se permiten si tiene más de 21 años"
+      ],
+      "h1": "Se permite en un oído.",
+      "h2": "En Luisiana, no puede usar audífonos en los dos oídos mientras maneja, pero sí se permite en un solo oído.",
+      "p": "Correcto. Nunca se cubra los dos oídos al manejar."
+    }
+  },
+  {
+    "id": "la-039",
+    "scope": "LA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 127,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Louisiana, what happens each time you are convicted of driving while your license is suspended?",
+      "o": [
+        "You get a warning only",
+        "Your suspension ends sooner",
+        "You must retake the vision test",
+        "Your suspension is extended by one year"
+      ],
+      "h1": "It makes the suspension longer.",
+      "h2": "In Louisiana, each conviction for driving under suspension adds one more year to your suspension.",
+      "p": "Right. Each conviction adds one year."
+    },
+    "es": {
+      "q": "En Luisiana, ¿qué pasa cada vez que lo condenan por manejar con la licencia suspendida?",
+      "o": [
+        "Solo recibe una advertencia",
+        "Su suspensión termina antes",
+        "Debe repetir el examen de la vista",
+        "Su suspensión se alarga un año"
+      ],
+      "h1": "Hace que la suspensión dure más.",
+      "h2": "En Luisiana, cada condena por manejar con la licencia suspendida le agrega un año más a su suspensión.",
+      "p": "Correcto. Cada condena agrega un año."
+    }
+  },
+  {
+    "id": "la-040",
+    "scope": "LA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 31,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Louisiana, what happens to traffic fines in a construction zone?",
+      "o": [
+        "They are cut in half",
+        "They are doubled",
+        "They stay the same",
+        "They are tripled"
+      ],
+      "h1": "Work zones carry a bigger penalty.",
+      "h2": "In Louisiana, traffic fines are doubled in construction zones.",
+      "p": "Right. Fines are doubled in work zones."
+    },
+    "es": {
+      "q": "En Luisiana, ¿qué pasa con las multas de tránsito en una zona de construcción?",
+      "o": [
+        "Se reducen a la mitad",
+        "Se duplican",
+        "Siguen iguales",
+        "Se triplican"
+      ],
+      "h1": "Las zonas de trabajo tienen una pena mayor.",
+      "h2": "En Luisiana, las multas de tránsito se duplican en las zonas de construcción.",
+      "p": "Correcto. Las multas se duplican en zonas de trabajo."
+    }
+  },
+  {
+    "id": "la-041",
+    "scope": "LA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 100,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Louisiana, if no sign shows a different limit, what is the highest speed allowed on an interstate?",
+      "o": [
+        "55 mph",
+        "65 mph",
+        "70 mph",
+        "80 mph"
+      ],
+      "h1": "It is between 65 and 75.",
+      "h2": "In Louisiana, the highest speed allowed on an interstate is 70 mph unless a sign shows a different limit.",
+      "p": "Right. The interstate limit is 70 mph unless posted otherwise."
+    },
+    "es": {
+      "q": "En Luisiana, si ningún letrero indica otro límite, ¿cuál es la velocidad más alta permitida en una autopista interestatal?",
+      "o": [
+        "55 mph",
+        "65 mph",
+        "70 mph",
+        "80 mph"
+      ],
+      "h1": "Está entre 65 y 75.",
+      "h2": "En Luisiana, la velocidad más alta permitida en una autopista interestatal es de 70 mph, a menos que un letrero indique otro límite.",
+      "p": "Correcto. El límite en la interestatal es de 70 mph, salvo que se indique otro."
+    }
+  },
+  {
+    "id": "la-042",
+    "scope": "LA",
+    "cat": "signals",
+    "conf": "high",
+    "page": 92,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Louisiana, how far before a turn must you start giving your turn signal?",
+      "o": [
+        "At least 100 feet",
+        "At least 25 feet",
+        "At least 50 feet",
+        "At least 300 feet"
+      ],
+      "h1": "It is about the length of a few houses.",
+      "h2": "In Louisiana, you must signal for at least 100 feet before you turn.",
+      "p": "Right. Signal for at least 100 feet before a turn."
+    },
+    "es": {
+      "q": "En Luisiana, ¿a qué distancia antes de dar vuelta debe empezar a usar la direccional?",
+      "o": [
+        "Por lo menos 100 pies",
+        "Por lo menos 25 pies",
+        "Por lo menos 50 pies",
+        "Por lo menos 300 pies"
+      ],
+      "h1": "Es más o menos el largo de unas cuantas casas.",
+      "h2": "En Luisiana, debe usar la direccional por lo menos 100 pies antes de dar vuelta.",
+      "p": "Correcto. Use la direccional por lo menos 100 pies antes de dar vuelta."
+    }
+  },
+  {
+    "id": "la-043",
+    "scope": "LA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 91,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Louisiana, how far may you drive in a shared center left-turn lane?",
+      "o": [
+        "Up to half a mile",
+        "Up to 1,000 feet",
+        "As far as you like",
+        "No more than 200 feet"
+      ],
+      "h1": "It is a short distance, only enough to get ready to turn.",
+      "h2": "In Louisiana, you may not drive more than 200 feet in a shared center left-turn lane.",
+      "p": "Right. Use no more than 200 feet of the center turn lane."
+    },
+    "es": {
+      "q": "En Luisiana, ¿qué distancia puede recorrer en un carril central compartido para dar vuelta a la izquierda?",
+      "o": [
+        "Hasta media milla",
+        "Hasta 1,000 pies",
+        "Toda la que quiera",
+        "No más de 200 pies"
+      ],
+      "h1": "Es una distancia corta, solo para prepararse para la vuelta.",
+      "h2": "En Luisiana, no puede recorrer más de 200 pies en un carril central compartido para dar vuelta a la izquierda.",
+      "p": "Correcto. No use más de 200 pies del carril central."
+    }
+  },
+  {
+    "id": "la-044",
+    "scope": "LA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 88,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Louisiana, a school bus is stopped to load or unload children. How far from the bus must you stop?",
+      "o": [
+        "At least 5 feet",
+        "At least 10 feet",
+        "At least 30 feet",
+        "At least 100 feet"
+      ],
+      "h1": "It is more than 20 feet.",
+      "h2": "In Louisiana, you must stop at least 30 feet from a school bus that is stopped to load or unload children.",
+      "p": "Right. Stop at least 30 feet from the bus."
+    },
+    "es": {
+      "q": "En Luisiana, un autobús escolar está detenido para subir o bajar niños. ¿A qué distancia del autobús debe detenerse?",
+      "o": [
+        "Por lo menos a 5 pies",
+        "Por lo menos a 10 pies",
+        "Por lo menos a 30 pies",
+        "Por lo menos a 100 pies"
+      ],
+      "h1": "Es más de 20 pies.",
+      "h2": "En Luisiana, debe detenerse por lo menos a 30 pies de un autobús escolar detenido para subir o bajar niños.",
+      "p": "Correcto. Deténgase por lo menos a 30 pies del autobús."
+    }
+  },
+  {
+    "id": "la-045",
+    "scope": "LA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 94,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Louisiana, the lights are flashing at a railroad crossing and a train is coming. Where must you stop?",
+      "o": [
+        "Right at the first rail",
+        "Between 15 and 50 feet from the nearest rail",
+        "Between 50 and 100 feet from the nearest rail",
+        "Anywhere you can see the train"
+      ],
+      "h1": "Not too close and not too far.",
+      "h2": "In Louisiana, you must stop no closer than 15 feet and no farther than 50 feet from the nearest rail.",
+      "p": "Right. Stop between 15 and 50 feet from the nearest rail."
+    },
+    "es": {
+      "q": "En Luisiana, las luces de un cruce de ferrocarril están destellando y viene un tren. ¿Dónde debe detenerse?",
+      "o": [
+        "Justo en el primer riel",
+        "Entre 15 y 50 pies del riel más cercano",
+        "Entre 50 y 100 pies del riel más cercano",
+        "En cualquier lugar donde vea el tren"
+      ],
+      "h1": "Ni muy cerca ni muy lejos.",
+      "h2": "En Luisiana, debe detenerse a no menos de 15 pies y a no más de 50 pies del riel más cercano.",
+      "p": "Correcto. Deténgase entre 15 y 50 pies del riel más cercano."
+    }
+  },
+  {
+    "id": "la-046",
+    "scope": "LA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 71,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Louisiana, how close to an intersection, railroad crossing, bridge or tunnel may you pass another vehicle?",
+      "o": [
+        "No closer than 100 feet",
+        "No closer than 25 feet",
+        "No closer than 50 feet",
+        "Any distance, if the road is clear"
+      ],
+      "h1": "It is more than 50 feet.",
+      "h2": "In Louisiana, you may not pass another vehicle within 100 feet of an intersection, railroad crossing, bridge or tunnel.",
+      "p": "Right. Do not pass within 100 feet of those places."
+    },
+    "es": {
+      "q": "En Luisiana, ¿qué tan cerca de una intersección, un cruce de ferrocarril, un puente o un túnel puede rebasar a otro vehículo?",
+      "o": [
+        "No a menos de 100 pies",
+        "No a menos de 25 pies",
+        "No a menos de 50 pies",
+        "A cualquier distancia, si el camino está libre"
+      ],
+      "h1": "Es más de 50 pies.",
+      "h2": "En Luisiana, no puede rebasar a otro vehículo a menos de 100 pies de una intersección, un cruce de ferrocarril, un puente o un túnel.",
+      "p": "Correcto. No rebase a menos de 100 pies de esos lugares."
+    }
+  },
+  {
+    "id": "la-047",
+    "scope": "LA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 70,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Louisiana, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 30 feet",
+        "No closer than 15 feet"
+      ],
+      "h1": "It is less than the distance for a railroad crossing.",
+      "h2": "In Louisiana, you may not park within 15 feet of a fire hydrant.",
+      "p": "Right. Stay at least 15 feet from a hydrant."
+    },
+    "es": {
+      "q": "En Luisiana, ¿qué tan cerca de un hidrante puede estacionarse?",
+      "o": [
+        "No a menos de 5 pies",
+        "No a menos de 10 pies",
+        "No a menos de 30 pies",
+        "No a menos de 15 pies"
+      ],
+      "h1": "Es menos que la distancia para un cruce de ferrocarril.",
+      "h2": "En Luisiana, no puede estacionarse a menos de 15 pies de un hidrante.",
+      "p": "Correcto. Quédese al menos a 15 pies de un hidrante."
+    }
+  },
+  {
+    "id": "la-048",
+    "scope": "LA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 80,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Louisiana, how much space must you leave when you pass a bicycle?",
+      "o": [
+        "At least 1 foot",
+        "At least 2 feet",
+        "At least 3 feet",
+        "At least 10 feet"
+      ],
+      "h1": "It is about the length of a yardstick.",
+      "h2": "In Louisiana, you must leave at least 3 feet between your car and a bicycle you are passing.",
+      "p": "Right. Give a bicycle at least 3 feet."
+    },
+    "es": {
+      "q": "En Luisiana, ¿cuánto espacio debe dejar cuando rebasa a una bicicleta?",
+      "o": [
+        "Por lo menos 1 pie",
+        "Por lo menos 2 pies",
+        "Por lo menos 3 pies",
+        "Por lo menos 10 pies"
+      ],
+      "h1": "Es más o menos el largo de una regla de una yarda.",
+      "h2": "En Luisiana, debe dejar por lo menos 3 pies entre su carro y la bicicleta que está rebasando.",
+      "p": "Correcto. Deje a la bicicleta por lo menos 3 pies."
+    }
+  },
+  {
+    "id": "la-049",
+    "scope": "LA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 81,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Louisiana, children under what age must wear an approved helmet when they ride a bicycle?",
+      "o": [
+        "12",
+        "8",
+        "16",
+        "18"
+      ],
+      "h1": "It is the age just before becoming a teenager.",
+      "h2": "In Louisiana, children under age 12 must wear an approved helmet when riding a bicycle or riding on one as a passenger.",
+      "p": "Right. Children under 12 must wear a bicycle helmet."
+    },
+    "es": {
+      "q": "En Luisiana, ¿los niños menores de qué edad deben usar un casco aprobado cuando andan en bicicleta?",
+      "o": [
+        "12",
+        "8",
+        "16",
+        "18"
+      ],
+      "h1": "Es la edad justo antes de ser adolescente.",
+      "h2": "En Luisiana, los niños menores de 12 años deben usar un casco aprobado cuando manejan una bicicleta o van en ella como pasajeros.",
+      "p": "Correcto. Los niños menores de 12 años deben usar casco de bicicleta."
+    }
+  },
+  {
+    "id": "la-050",
+    "scope": "LA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 96,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Louisiana, who may ride in the open bed of a pickup truck on an interstate highway?",
+      "o": [
+        "Anyone 12 or older",
+        "Anyone 18 or older",
+        "Adults wearing a seat belt",
+        "No one, of any age"
+      ],
+      "h1": "The interstate rule has no age exception.",
+      "h2": "In Louisiana, no one of any age may ride in the open bed of a truck on an interstate highway.",
+      "p": "Right. No one may ride in an open truck bed on the interstate."
+    },
+    "es": {
+      "q": "En Luisiana, ¿quién puede ir en la caja abierta de una camioneta pickup en una autopista interestatal?",
+      "o": [
+        "Cualquier persona de 12 años o más",
+        "Cualquier persona de 18 años o más",
+        "Los adultos con cinturón de seguridad",
+        "Nadie, de ninguna edad"
+      ],
+      "h1": "La regla de la interestatal no tiene excepción de edad.",
+      "h2": "En Luisiana, nadie, de ninguna edad, puede ir en la caja abierta de un camión en una autopista interestatal.",
+      "p": "Correcto. Nadie puede ir en la caja abierta en la interestatal."
+    }
+  },
+  {
+    "id": "la-051",
+    "scope": "LA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 97,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Louisiana, how close may you follow a fire truck or other emergency vehicle that is answering a call?",
+      "o": [
+        "No closer than 100 feet",
+        "No closer than 500 feet",
+        "No closer than 50 feet",
+        "Any distance, if you keep up"
+      ],
+      "h1": "It is much farther than a few car lengths.",
+      "h2": "In Louisiana, it is against the law to follow an emergency vehicle answering a call closer than 500 feet.",
+      "p": "Right. Stay at least 500 feet behind."
+    },
+    "es": {
+      "q": "En Luisiana, ¿qué tan cerca puede seguir a un camión de bomberos u otro vehículo de emergencia que atiende una llamada?",
+      "o": [
+        "No a menos de 100 pies",
+        "No a menos de 500 pies",
+        "No a menos de 50 pies",
+        "A cualquier distancia, si mantiene la velocidad"
+      ],
+      "h1": "Es mucho más que unos cuantos largos de carro.",
+      "h2": "En Luisiana, es ilegal seguir a menos de 500 pies a un vehículo de emergencia que atiende una llamada.",
+      "p": "Correcto. Quédese al menos a 500 pies detrás."
     }
   }
 ]

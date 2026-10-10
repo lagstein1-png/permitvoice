@@ -2540,5 +2540,685 @@
       "h2": "في Massachusetts، 3 مخالفات تستوجب رسومًا إضافية خلال سنتين، مثل حوادث تكون أنت المخطئ فيها أو مخالفات مرورية، تعني أنك يجب أن تُنهي دورة Driver Retraining خلال 90 يومًا وإلا تفقد رخصتك.",
       "p": "صحيح. ثلاث مخالفات تستوجب رسومًا إضافية خلال سنتين تعني دورة إعادة تدريب، أو إيقاف الرخصة."
     }
+  },
+  {
+    "id": "ma-032",
+    "scope": "MA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Massachusetts, what is the longest time a driver's license is valid before it must be renewed?",
+      "o": [
+        "Two years",
+        "Five years",
+        "Eight years",
+        "Ten years"
+      ],
+      "h1": "It is more than a few years, but less than ten.",
+      "h2": "In Massachusetts, a driver's license is valid for up to five years and usually expires on your birthday.",
+      "p": "Right. A Massachusetts license lasts up to five years."
+    },
+    "es": {
+      "q": "En Massachusetts, ¿cuánto tiempo como máximo es válida una licencia de conducir antes de renovarla?",
+      "o": [
+        "Dos años",
+        "Cinco años",
+        "Ocho años",
+        "Diez años"
+      ],
+      "h1": "Son más de unos pocos años, pero menos de diez.",
+      "h2": "En Massachusetts, una licencia de conducir es válida hasta por cinco años y por lo general vence el día de su cumpleaños.",
+      "p": "Correcto. Una licencia de Massachusetts dura hasta cinco años."
+    }
+  },
+  {
+    "id": "ma-033",
+    "scope": "MA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 5,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Massachusetts, what vision is needed in your better eye, with glasses if you wear them, for a full Class D license?",
+      "o": [
+        "20/100",
+        "20/70",
+        "20/60",
+        "20/40"
+      ],
+      "h1": "It is the best of these four numbers.",
+      "h2": "In Massachusetts, a full Class D license needs at least 20/40 vision in your better eye, with glasses or contacts if you use them.",
+      "p": "Right. You need at least 20/40 in your better eye."
+    },
+    "es": {
+      "q": "En Massachusetts, ¿qué visión necesita en su mejor ojo, con lentes si los usa, para una licencia Clase D completa?",
+      "o": [
+        "20/100",
+        "20/70",
+        "20/60",
+        "20/40"
+      ],
+      "h1": "Es el mejor de estos cuatro números.",
+      "h2": "En Massachusetts, una licencia Clase D completa requiere al menos una visión de 20/40 en su mejor ojo, con lentes o lentes de contacto si los usa.",
+      "p": "Correcto. Necesita al menos 20/40 en su mejor ojo."
+    }
+  },
+  {
+    "id": "ma-034",
+    "scope": "MA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Massachusetts, if you fail the road test, how long must you wait before you can take it again?",
+      "o": [
+        "At least 14 days",
+        "At least 3 days",
+        "At least 90 days",
+        "At least 6 months"
+      ],
+      "h1": "It is about two weeks.",
+      "h2": "In Massachusetts, if you fail the road test or miss your appointment, you must wait at least 14 days before you test again.",
+      "p": "Right. You wait at least 14 days to retake the road test."
+    },
+    "es": {
+      "q": "En Massachusetts, si no aprueba el examen de manejo, ¿cuánto tiempo debe esperar para tomarlo otra vez?",
+      "o": [
+        "Al menos 14 días",
+        "Al menos 3 días",
+        "Al menos 90 días",
+        "Al menos 6 meses"
+      ],
+      "h1": "Son unas dos semanas.",
+      "h2": "En Massachusetts, si no aprueba el examen de manejo o no se presenta a su cita, debe esperar al menos 14 días para volver a tomarlo.",
+      "p": "Correcto. Debe esperar al menos 14 días para repetir el examen de manejo."
+    }
+  },
+  {
+    "id": "ma-035",
+    "scope": "MA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 40,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Massachusetts, what is the fine for a first offense of using a hand-held phone while driving?",
+      "o": [
+        "$25",
+        "$50",
+        "$100",
+        "$500"
+      ],
+      "h1": "The fine goes up for a second and third offense. The first is the lowest of those.",
+      "h2": "In Massachusetts, a first offense for using a hand-held phone while driving is a $100 fine; it rises to $250 and then $500.",
+      "p": "Right. The first hand-held phone offense costs $100."
+    },
+    "es": {
+      "q": "En Massachusetts, ¿cuál es la multa por una primera infracción de usar un teléfono en la mano mientras maneja?",
+      "o": [
+        "$25",
+        "$50",
+        "$100",
+        "$500"
+      ],
+      "h1": "La multa sube en la segunda y la tercera infracción. La primera es la más baja de ellas.",
+      "h2": "En Massachusetts, la primera infracción por usar un teléfono en la mano mientras maneja tiene una multa de $100; luego sube a $250 y después a $500.",
+      "p": "Correcto. La primera infracción por usar el teléfono en la mano cuesta $100."
+    }
+  },
+  {
+    "id": "ma-036",
+    "scope": "MA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 35,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Massachusetts, what is the fine for a driver who is not wearing a seat belt?",
+      "o": [
+        "$10",
+        "$25",
+        "$150",
+        "$300"
+      ],
+      "h1": "It is a small fine, less than $50.",
+      "h2": "In Massachusetts, a driver who is not wearing a seat belt can be fined $25, and the same fine applies to passengers 16 and older.",
+      "p": "Right. Not wearing a seat belt can cost $25."
+    },
+    "es": {
+      "q": "En Massachusetts, ¿cuál es la multa para un conductor que no usa el cinturón de seguridad?",
+      "o": [
+        "$10",
+        "$25",
+        "$150",
+        "$300"
+      ],
+      "h1": "Es una multa pequeña, menos de $50.",
+      "h2": "En Massachusetts, un conductor que no usa el cinturón de seguridad puede recibir una multa de $25, y la misma multa se aplica a los pasajeros de 16 años o más.",
+      "p": "Correcto. No usar el cinturón de seguridad puede costar $25."
+    }
+  },
+  {
+    "id": "ma-037",
+    "scope": "MA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Massachusetts, a child must ride in an approved child safety seat until which point?",
+      "o": [
+        "Age 8 or 57 inches tall",
+        "Age 4 or 40 inches tall",
+        "Age 6 or 48 inches tall",
+        "Age 12 or 60 inches tall"
+      ],
+      "h1": "Think of a child in the second or third grade, a little under five feet tall.",
+      "h2": "In Massachusetts, a child must ride in an approved child safety seat until the child is at least 8 years old or at least 57 inches tall.",
+      "p": "Right. A child seat is needed until age 8 or 57 inches."
+    },
+    "es": {
+      "q": "En Massachusetts, ¿hasta cuándo debe viajar un niño en un asiento de seguridad infantil aprobado?",
+      "o": [
+        "Hasta los 8 años o 57 pulgadas de estatura",
+        "Hasta los 4 años o 40 pulgadas de estatura",
+        "Hasta los 6 años o 48 pulgadas de estatura",
+        "Hasta los 12 años o 60 pulgadas de estatura"
+      ],
+      "h1": "Piense en un niño de segundo o tercer grado, de un poco menos de cinco pies de estatura.",
+      "h2": "En Massachusetts, un niño debe viajar en un asiento de seguridad infantil aprobado hasta que tenga al menos 8 años o mida al menos 57 pulgadas.",
+      "p": "Correcto. Se necesita un asiento infantil hasta los 8 años o 57 pulgadas."
+    }
+  },
+  {
+    "id": "ma-038",
+    "scope": "MA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 49,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Massachusetts, when you pass a bicyclist, a pedestrian or a road worker, how much space must you leave?",
+      "o": [
+        "At least 1 foot",
+        "At least 2 feet",
+        "At least 3 feet",
+        "At least 4 feet"
+      ],
+      "h1": "It is the largest of these choices.",
+      "h2": "In Massachusetts, when you pass a vulnerable road user, such as a bicyclist, pedestrian or road worker, you must leave at least four feet of space.",
+      "p": "Right. Leave at least four feet when you pass."
+    },
+    "es": {
+      "q": "En Massachusetts, cuando rebasa a un ciclista, un peatón o un trabajador de la vía, ¿cuánto espacio debe dejar?",
+      "o": [
+        "Al menos 1 pie",
+        "Al menos 2 pies",
+        "Al menos 3 pies",
+        "Al menos 4 pies"
+      ],
+      "h1": "Es la mayor de estas opciones.",
+      "h2": "En Massachusetts, cuando rebasa a un usuario vulnerable de la vía, como un ciclista, un peatón o un trabajador de la vía, debe dejar al menos cuatro pies de espacio.",
+      "p": "Correcto. Deje al menos cuatro pies al rebasar."
+    }
+  },
+  {
+    "id": "ma-039",
+    "scope": "MA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 57,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Massachusetts, what happens to the fine if you are caught speeding in a posted work zone?",
+      "o": [
+        "It stays the same",
+        "It goes up by $10",
+        "It is doubled",
+        "It is cut in half"
+      ],
+      "h1": "Work zones protect people on foot, so the penalty is much higher.",
+      "h2": "In Massachusetts, the speeding fine is doubled when you are caught speeding in a posted work zone.",
+      "p": "Right. Speeding fines are doubled in work zones."
+    },
+    "es": {
+      "q": "En Massachusetts, ¿qué pasa con la multa si lo detienen por exceso de velocidad en una zona de obras señalizada?",
+      "o": [
+        "Sigue igual",
+        "Sube $10",
+        "Se duplica",
+        "Se reduce a la mitad"
+      ],
+      "h1": "Las zonas de obras protegen a personas a pie, así que la sanción es mucho mayor.",
+      "h2": "En Massachusetts, la multa por exceso de velocidad se duplica cuando lo detienen en una zona de obras señalizada.",
+      "p": "Correcto. Las multas por velocidad se duplican en las zonas de obras."
+    }
+  },
+  {
+    "id": "ma-040",
+    "scope": "MA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 57,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Massachusetts, what happens if you are found guilty of three speeding violations within 12 months?",
+      "o": [
+        "Your license is suspended for 30 days",
+        "You get a written warning only",
+        "Your license is suspended for 5 years",
+        "You must retake the permit exam only"
+      ],
+      "h1": "Your license is taken away for about a month.",
+      "h2": "In Massachusetts, three speeding violations within a 12-month period mean your license is automatically suspended for 30 days.",
+      "p": "Right. Three speeding violations in 12 months bring a 30-day suspension."
+    },
+    "es": {
+      "q": "En Massachusetts, ¿qué pasa si lo declaran culpable de tres infracciones por exceso de velocidad en 12 meses?",
+      "o": [
+        "Le suspenden la licencia por 30 días",
+        "Solo recibe una advertencia escrita",
+        "Le suspenden la licencia por 5 años",
+        "Solo debe repetir el examen del permiso"
+      ],
+      "h1": "Le quitan la licencia por más o menos un mes.",
+      "h2": "En Massachusetts, tres infracciones por exceso de velocidad en un período de 12 meses hacen que le suspendan la licencia automáticamente por 30 días.",
+      "p": "Correcto. Tres infracciones por velocidad en 12 meses traen una suspensión de 30 días."
+    }
+  },
+  {
+    "id": "ma-041",
+    "scope": "MA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 62,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Massachusetts, how long is your license suspended if you have seven surchargeable events within three years?",
+      "o": [
+        "7 days",
+        "60 days",
+        "3 years",
+        "For life"
+      ],
+      "h1": "It is about two months.",
+      "h2": "In Massachusetts, seven surchargeable events, such as at-fault crashes and moving violations, within three years mean an automatic 60-day license suspension.",
+      "p": "Right. Seven surchargeable events in three years bring a 60-day suspension."
+    },
+    "es": {
+      "q": "En Massachusetts, ¿por cuánto tiempo le suspenden la licencia si tiene siete incidentes con recargo en tres años?",
+      "o": [
+        "7 días",
+        "60 días",
+        "3 años",
+        "De por vida"
+      ],
+      "h1": "Son unos dos meses.",
+      "h2": "En Massachusetts, siete incidentes con recargo, como choques con culpa e infracciones de tránsito, en tres años causan una suspensión automática de la licencia por 60 días.",
+      "p": "Correcto. Siete incidentes con recargo en tres años traen una suspensión de 60 días."
+    }
+  },
+  {
+    "id": "ma-042",
+    "scope": "MA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 68,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Massachusetts, how long is the license suspension for a first conviction of operating under the influence (OUI)?",
+      "o": [
+        "30 days",
+        "90 days",
+        "Five years",
+        "One year"
+      ],
+      "h1": "It is longer than a few months, but much less than five years.",
+      "h2": "In Massachusetts, a first OUI conviction brings a one-year license suspension, although the court may allow an alcohol education program to shorten it.",
+      "p": "Right. A first OUI conviction means a one-year suspension."
+    },
+    "es": {
+      "q": "En Massachusetts, ¿cuánto dura la suspensión de la licencia por una primera condena por manejar bajo la influencia (OUI)?",
+      "o": [
+        "30 días",
+        "90 días",
+        "Cinco años",
+        "Un año"
+      ],
+      "h1": "Es más de unos pocos meses, pero mucho menos de cinco años.",
+      "h2": "En Massachusetts, una primera condena por OUI trae una suspensión de la licencia por un año, aunque el tribunal puede permitir un programa de educación sobre el alcohol para acortarla.",
+      "p": "Correcto. Una primera condena por OUI significa una suspensión de un año."
+    }
+  },
+  {
+    "id": "ma-043",
+    "scope": "MA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 70,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Massachusetts, a driver over 21 with no earlier OUI offense refuses a breath or blood test. How long is the license suspended?",
+      "o": [
+        "7 days",
+        "30 days",
+        "180 days",
+        "10 years"
+      ],
+      "h1": "It is about six months.",
+      "h2": "In Massachusetts, a driver over 21 with no prior OUI offense who refuses a chemical test loses the license for 180 days.",
+      "p": "Right. Refusing the test brings a 180-day suspension for a first-time adult driver."
+    },
+    "es": {
+      "q": "En Massachusetts, un conductor mayor de 21 años sin infracciones previas de OUI se niega a una prueba de aliento o de sangre. ¿Por cuánto tiempo le suspenden la licencia?",
+      "o": [
+        "7 días",
+        "30 días",
+        "180 días",
+        "10 años"
+      ],
+      "h1": "Son unos seis meses.",
+      "h2": "En Massachusetts, un conductor mayor de 21 años sin infracciones previas de OUI que se niega a una prueba química pierde la licencia por 180 días.",
+      "p": "Correcto. Negarse a la prueba trae una suspensión de 180 días para un adulto sin infracciones previas."
+    }
+  },
+  {
+    "id": "ma-044",
+    "scope": "MA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 131,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Massachusetts, after a crash with an injury or $1,000 or more in damage, how soon must you file a written crash report with the RMV?",
+      "o": [
+        "Within 5 days",
+        "Within 30 days",
+        "Within 60 days",
+        "Within 6 months"
+      ],
+      "h1": "It is less than one week.",
+      "h2": "In Massachusetts, you must file a written crash report with the RMV within five days of a crash that hurt or killed someone or caused $1,000 or more in damage.",
+      "p": "Right. The crash report is due within five days."
+    },
+    "es": {
+      "q": "En Massachusetts, después de un choque con heridos o con daños de $1,000 o más, ¿en qué plazo debe presentar un informe escrito del choque al RMV?",
+      "o": [
+        "En 5 días",
+        "En 30 días",
+        "En 60 días",
+        "En 6 meses"
+      ],
+      "h1": "Es menos de una semana.",
+      "h2": "En Massachusetts, debe presentar un informe escrito al RMV en un plazo de cinco días después de un choque que hirió o mató a alguien o que causó daños de $1,000 o más.",
+      "p": "Correcto. El informe del choque se debe presentar en cinco días."
+    }
+  },
+  {
+    "id": "ma-045",
+    "scope": "MA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 46,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Massachusetts, you must switch from high beams to low beams when an oncoming vehicle is within what distance?",
+      "o": [
+        "100 feet",
+        "500 feet",
+        "50 feet",
+        "2,000 feet"
+      ],
+      "h1": "It is more than the length of a football field.",
+      "h2": "In Massachusetts, you must dim your high beams when you are within 500 feet of an oncoming vehicle.",
+      "p": "Right. Dim your high beams within 500 feet of oncoming traffic."
+    },
+    "es": {
+      "q": "En Massachusetts, ¿a qué distancia de un vehículo que viene de frente debe cambiar de luces altas a luces bajas?",
+      "o": [
+        "100 pies",
+        "500 pies",
+        "50 pies",
+        "2,000 pies"
+      ],
+      "h1": "Es más que el largo de un campo de fútbol americano.",
+      "h2": "En Massachusetts, debe bajar las luces altas cuando está a 500 pies o menos de un vehículo que viene de frente.",
+      "p": "Correcto. Baje las luces altas a 500 pies del tráfico que viene de frente."
+    }
+  },
+  {
+    "id": "ma-046",
+    "scope": "MA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 120,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Massachusetts, how close may you follow an emergency vehicle that is answering an alarm?",
+      "o": [
+        "No closer than 50 feet",
+        "No closer than 100 feet",
+        "No closer than 150 feet",
+        "No closer than 300 feet"
+      ],
+      "h1": "It is the farthest of these choices.",
+      "h2": "In Massachusetts, it is illegal to follow closer than 300 feet behind an emergency vehicle that is responding to an alarm.",
+      "p": "Right. Stay at least 300 feet behind an emergency vehicle on a call."
+    },
+    "es": {
+      "q": "En Massachusetts, ¿qué tan cerca puede seguir a un vehículo de emergencia que responde a una alarma?",
+      "o": [
+        "No a menos de 50 pies",
+        "No a menos de 100 pies",
+        "No a menos de 150 pies",
+        "No a menos de 300 pies"
+      ],
+      "h1": "Es la mayor de estas opciones.",
+      "h2": "En Massachusetts, es ilegal seguir a menos de 300 pies detrás de un vehículo de emergencia que responde a una alarma.",
+      "p": "Correcto. Manténgase al menos a 300 pies detrás de un vehículo de emergencia que atiende una llamada."
+    }
+  },
+  {
+    "id": "ma-047",
+    "scope": "MA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 110,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Massachusetts, how close to an intersection may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 20 feet",
+        "No closer than 100 feet"
+      ],
+      "h1": "It is about the length of one large car.",
+      "h2": "In Massachusetts, you may not park within 20 feet of an intersection.",
+      "p": "Right. Park at least 20 feet from an intersection."
+    },
+    "es": {
+      "q": "En Massachusetts, ¿qué tan cerca de una intersección puede estacionarse?",
+      "o": [
+        "No a menos de 5 pies",
+        "No a menos de 10 pies",
+        "No a menos de 20 pies",
+        "No a menos de 100 pies"
+      ],
+      "h1": "Es más o menos el largo de un carro grande.",
+      "h2": "En Massachusetts, no puede estacionarse a menos de 20 pies de una intersección.",
+      "p": "Correcto. Estaciónese al menos a 20 pies de una intersección."
+    }
+  },
+  {
+    "id": "ma-048",
+    "scope": "MA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 87,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Massachusetts, when the lights flash at a railroad crossing, where must you stop?",
+      "o": [
+        "At least 15 feet before the gate or light post",
+        "Right on the first rail",
+        "At least 2 feet before the gate",
+        "Anywhere you can see the train"
+      ],
+      "h1": "Stop well back from the gate, about one car length away.",
+      "h2": "In Massachusetts, when the lights flash at a railroad crossing, you must stop at least 15 feet before the gate or light post and stay stopped until the gate goes up and the lights stop.",
+      "p": "Right. Stop at least 15 feet before the gate or light post."
+    },
+    "es": {
+      "q": "En Massachusetts, cuando las luces destellan en un cruce de ferrocarril, ¿dónde debe detenerse?",
+      "o": [
+        "Al menos a 15 pies antes de la barrera o del poste de luces",
+        "Justo sobre el primer riel",
+        "Al menos a 2 pies antes de la barrera",
+        "En cualquier lugar donde vea el tren"
+      ],
+      "h1": "Deténgase bien atrás de la barrera, a más o menos el largo de un carro.",
+      "h2": "En Massachusetts, cuando las luces destellan en un cruce de ferrocarril, debe detenerse al menos a 15 pies antes de la barrera o del poste de luces y quedarse detenido hasta que la barrera suba y las luces se apaguen.",
+      "p": "Correcto. Deténgase al menos a 15 pies antes de la barrera o del poste de luces."
+    }
+  },
+  {
+    "id": "ma-049",
+    "scope": "MA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 132,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Massachusetts, how long does state law let a stopped vehicle's engine idle?",
+      "o": [
+        "No more than 30 minutes",
+        "No more than 5 minutes",
+        "No more than 1 hour",
+        "As long as you want"
+      ],
+      "h1": "It is only a few minutes.",
+      "h2": "In Massachusetts, state law does not allow a vehicle to idle for more than five minutes.",
+      "p": "Right. Idling is limited to five minutes."
+    },
+    "es": {
+      "q": "En Massachusetts, ¿cuánto tiempo permite la ley estatal que el motor de un vehículo detenido quede encendido en marcha mínima?",
+      "o": [
+        "No más de 30 minutos",
+        "No más de 5 minutos",
+        "No más de 1 hora",
+        "Todo el tiempo que quiera"
+      ],
+      "h1": "Son solo unos pocos minutos.",
+      "h2": "En Massachusetts, la ley estatal no permite dejar un vehículo encendido en marcha mínima por más de cinco minutos.",
+      "p": "Correcto. El motor encendido sin moverse se limita a cinco minutos."
+    }
+  },
+  {
+    "id": "ma-050",
+    "scope": "MA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 103,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Massachusetts, to pass by crossing a broken yellow line, how far ahead must you be able to see clearly?",
+      "o": [
+        "At least 50 feet",
+        "At least 100 feet",
+        "At least 200 feet",
+        "At least 400 feet"
+      ],
+      "h1": "It is the longest of these distances.",
+      "h2": "In Massachusetts, you must be able to see clearly at least 400 feet ahead before you cross a broken yellow line to pass.",
+      "p": "Right. You need a clear view of at least 400 feet to pass."
+    },
+    "es": {
+      "q": "En Massachusetts, para rebasar cruzando una línea amarilla discontinua, ¿hasta qué distancia adelante debe poder ver con claridad?",
+      "o": [
+        "Al menos 50 pies",
+        "Al menos 100 pies",
+        "Al menos 200 pies",
+        "Al menos 400 pies"
+      ],
+      "h1": "Es la mayor de estas distancias.",
+      "h2": "En Massachusetts, debe poder ver con claridad al menos 400 pies adelante antes de cruzar una línea amarilla discontinua para rebasar.",
+      "p": "Correcto. Necesita ver con claridad al menos 400 pies para rebasar."
+    }
+  },
+  {
+    "id": "ma-051",
+    "scope": "MA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 74,
+    "src": "https://www.mass.gov/doc/english-drivers-manual/download",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Massachusetts, what fine can you get for having an open alcoholic drink in your vehicle?",
+      "o": [
+        "$5 to $20",
+        "$25 to $50",
+        "$100 to $500",
+        "$10,000 or more"
+      ],
+      "h1": "It starts at about one hundred dollars.",
+      "h2": "In Massachusetts, having an open alcoholic drink in your vehicle, even if someone else holds it, can bring a fine of $100 to $500.",
+      "p": "Right. An open container can cost $100 to $500."
+    },
+    "es": {
+      "q": "En Massachusetts, ¿qué multa puede recibir por tener una bebida alcohólica abierta en su vehículo?",
+      "o": [
+        "De $5 a $20",
+        "De $25 a $50",
+        "De $100 a $500",
+        "$10,000 o más"
+      ],
+      "h1": "Empieza en unos cien dólares.",
+      "h2": "En Massachusetts, tener una bebida alcohólica abierta en su vehículo, aunque la sostenga otra persona, puede traer una multa de $100 a $500.",
+      "p": "Correcto. Un envase abierto puede costar de $100 a $500."
+    }
   }
 ]

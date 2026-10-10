@@ -2540,5 +2540,1563 @@
       "h2": "في New York يجب أن تقدّم تقرير حادث إلى DMV خلال 10 أيام إذا أُصيب أحد أو توفي، أو إذا كان الضرر في ممتلكات شخص واحد $1,000 أو أكثر.",
       "p": "صحيح. بلّغ DMV خلال 10 أيام."
     }
+  },
+  {
+    "id": "ny-032",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 22,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, how many points within 24 months lead to a notice that your license will be suspended?",
+      "o": [
+        "6 or more points",
+        "11 or more points",
+        "15 or more points",
+        "20 or more points"
+      ],
+      "h1": "It is more than 10.",
+      "h2": "In New York, if you get 11 or more points within 24 months, the DMV will tell you by mail that your license will be suspended.",
+      "p": "Right. 11 points in 24 months means a suspension."
+    },
+    "es": {
+      "q": "En Nueva York, ¿cuántos puntos en 24 meses traen un aviso de que su licencia será suspendida?",
+      "o": [
+        "6 puntos o más",
+        "11 puntos o más",
+        "15 puntos o más",
+        "20 puntos o más"
+      ],
+      "h1": "Son más de 10.",
+      "h2": "En Nueva York, si usted acumula 11 puntos o más en 24 meses, el DMV le avisará por correo que su licencia será suspendida.",
+      "p": "Correcto. 11 puntos en 24 meses traen una suspensión."
+    },
+    "zh": {
+      "q": "在 New York，24 个月内被记多少分，就会收到驾照将被暂停的通知？",
+      "o": [
+        "6 分或以上",
+        "11 分或以上",
+        "15 分或以上",
+        "20 分或以上"
+      ],
+      "h1": "比 10 分多。",
+      "h2": "在 New York，如果你在 24 个月内被记 11 分或以上，DMV 会寄信告诉你，你的驾照将被暂停。",
+      "p": "对。24 个月内 11 分就会被暂停驾照。"
+    },
+    "vi": {
+      "q": "Ở New York, bị bao nhiêu điểm trong vòng 24 tháng thì bạn sẽ nhận thông báo bằng lái sẽ bị treo?",
+      "o": [
+        "6 điểm trở lên",
+        "11 điểm trở lên",
+        "15 điểm trở lên",
+        "20 điểm trở lên"
+      ],
+      "h1": "Nhiều hơn 10.",
+      "h2": "Ở New York, nếu bạn bị 11 điểm trở lên trong vòng 24 tháng, DMV sẽ gửi thư báo rằng bằng lái của bạn sẽ bị treo.",
+      "p": "Đúng. 11 điểm trong 24 tháng nghĩa là bị treo bằng lái."
+    },
+    "tl": {
+      "q": "Sa New York, ilang puntos sa loob ng 24 na buwan ang magdudulot ng abiso na masususpinde ang lisensya mo?",
+      "o": [
+        "6 na puntos o higit pa",
+        "11 puntos o higit pa",
+        "15 puntos o higit pa",
+        "20 puntos o higit pa"
+      ],
+      "h1": "Higit ito sa 10.",
+      "h2": "Sa New York, kung makakuha ka ng 11 puntos o higit pa sa loob ng 24 na buwan, sasabihan ka ng DMV sa sulat na masususpinde ang lisensya mo.",
+      "p": "Tama. Ang 11 puntos sa loob ng 24 na buwan ay nangangahulugang suspensyon."
+    },
+    "ar": {
+      "q": "في New York، كم نقطة خلال 24 شهرًا تؤدي إلى إشعار بأن رخصتك ستُوقف؟",
+      "o": [
+        "6 نقاط أو أكثر",
+        "11 نقطة أو أكثر",
+        "15 نقطة أو أكثر",
+        "20 نقطة أو أكثر"
+      ],
+      "h1": "العدد أكثر من 10.",
+      "h2": "في New York، إذا حصلت على 11 نقطة أو أكثر خلال 24 شهرًا، ترسل لك إدارة DMV رسالة بالبريد تخبرك أن رخصتك ستُوقف.",
+      "p": "صحيح. 11 نقطة خلال 24 شهرًا تعني إيقاف الرخصة."
+    }
+  },
+  {
+    "id": "ny-033",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, by how many points can a DMV-approved crash prevention course (PIRP) lower your point total?",
+      "o": [
+        "1 point",
+        "2 points",
+        "Up to 4 points",
+        "All of your points"
+      ],
+      "h1": "It helps, but it does not erase everything.",
+      "h2": "In New York, a DMV-approved crash prevention course (PIRP) can lower your point total by up to 4 points.",
+      "p": "Right. The course can take off up to 4 points."
+    },
+    "es": {
+      "q": "En Nueva York, ¿cuántos puntos puede reducir de su total un curso de prevención de choques aprobado por el DMV (PIRP)?",
+      "o": [
+        "1 punto",
+        "2 puntos",
+        "Hasta 4 puntos",
+        "Todos sus puntos"
+      ],
+      "h1": "Ayuda, pero no lo borra todo.",
+      "h2": "En Nueva York, un curso de prevención de choques aprobado por el DMV (PIRP) puede reducir su total hasta en 4 puntos.",
+      "p": "Correcto. El curso puede quitar hasta 4 puntos."
+    },
+    "zh": {
+      "q": "在 New York，经 DMV 批准的事故预防课程（PIRP）最多可以减掉你多少分？",
+      "o": [
+        "1 分",
+        "2 分",
+        "最多 4 分",
+        "全部的分"
+      ],
+      "h1": "它有帮助，但不会把所有分都清掉。",
+      "h2": "在 New York，经 DMV 批准的事故预防课程（PIRP）最多可以从你的总分里减掉 4 分。",
+      "p": "对。这个课程最多可以减掉 4 分。"
+    },
+    "vi": {
+      "q": "Ở New York, khóa học phòng ngừa tai nạn được DMV chấp thuận (PIRP) có thể giảm tổng số điểm của bạn bao nhiêu điểm?",
+      "o": [
+        "1 điểm",
+        "2 điểm",
+        "Tối đa 4 điểm",
+        "Tất cả số điểm của bạn"
+      ],
+      "h1": "Nó có giúp, nhưng không xóa hết mọi thứ.",
+      "h2": "Ở New York, khóa học phòng ngừa tai nạn được DMV chấp thuận (PIRP) có thể giảm tổng số điểm của bạn tối đa 4 điểm.",
+      "p": "Đúng. Khóa học có thể trừ tối đa 4 điểm."
+    },
+    "tl": {
+      "q": "Sa New York, ilang puntos ang maaaring ibawas sa kabuuang puntos mo ng crash prevention course (PIRP) na aprubado ng DMV?",
+      "o": [
+        "1 puntos",
+        "2 puntos",
+        "Hanggang 4 na puntos",
+        "Lahat ng puntos mo"
+      ],
+      "h1": "Nakakatulong ito, pero hindi nito binubura ang lahat.",
+      "h2": "Sa New York, ang crash prevention course (PIRP) na aprubado ng DMV ay maaaring magbawas ng hanggang 4 na puntos sa kabuuang puntos mo.",
+      "p": "Tama. Kayang magbawas ng kurso ng hanggang 4 na puntos."
+    },
+    "ar": {
+      "q": "في New York، بكم نقطة يمكن أن تُخفّض دورة الوقاية من الحوادث المعتمدة من DMV (PIRP) مجموع نقاطك؟",
+      "o": [
+        "نقطة واحدة (1)",
+        "نقطتان (2)",
+        "حتى 4 نقاط",
+        "كل نقاطك"
+      ],
+      "h1": "الدورة تساعد، لكنها لا تمحو كل شيء.",
+      "h2": "في New York، يمكن لدورة الوقاية من الحوادث المعتمدة من DMV (PIRP) أن تُخفّض مجموع نقاطك بما يصل إلى 4 نقاط.",
+      "p": "صحيح. الدورة يمكن أن تحذف حتى 4 نقاط."
+    }
+  },
+  {
+    "id": "ny-034",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, you are 18 or older and pass your road test. How long is your new license on probation?",
+      "o": [
+        "Six months",
+        "One month",
+        "Two years",
+        "There is no probation"
+      ],
+      "h1": "It is half a year.",
+      "h2": "In New York, a driver who is 18 or older when passing the road test is on probation for six months.",
+      "p": "Right. New adult drivers are on probation for six months."
+    },
+    "es": {
+      "q": "En Nueva York, usted tiene 18 años o más y aprueba el examen de manejo. ¿Cuánto dura el período de prueba de su nueva licencia?",
+      "o": [
+        "Seis meses",
+        "Un mes",
+        "Dos años",
+        "No hay período de prueba"
+      ],
+      "h1": "Es medio año.",
+      "h2": "En Nueva York, quien tiene 18 años o más al aprobar el examen de manejo queda en período de prueba por seis meses.",
+      "p": "Correcto. Los nuevos conductores adultos están a prueba seis meses."
+    },
+    "zh": {
+      "q": "在 New York，你 18 岁或以上并通过了路考。你的新驾照试用期（probation）有多长？",
+      "o": [
+        "六个月",
+        "一个月",
+        "两年",
+        "没有试用期"
+      ],
+      "h1": "是半年。",
+      "h2": "在 New York，通过路考时已满 18 岁的司机有六个月的试用期。",
+      "p": "对。新的成年司机有六个月的试用期。"
+    },
+    "vi": {
+      "q": "Ở New York, bạn từ 18 tuổi trở lên và đậu bài thi lái đường. Bằng lái mới của bạn ở trong thời gian thử thách (probation) bao lâu?",
+      "o": [
+        "Sáu tháng",
+        "Một tháng",
+        "Hai năm",
+        "Không có thời gian thử thách"
+      ],
+      "h1": "Là nửa năm.",
+      "h2": "Ở New York, người lái từ 18 tuổi trở lên khi đậu bài thi lái đường sẽ ở trong thời gian thử thách sáu tháng.",
+      "p": "Đúng. Người lái mới là người lớn có thời gian thử thách sáu tháng."
+    },
+    "tl": {
+      "q": "Sa New York, 18 taong gulang ka o higit pa at pumasa ka sa road test. Gaano katagal naka-probation ang bago mong lisensya?",
+      "o": [
+        "Anim na buwan",
+        "Isang buwan",
+        "Dalawang taon",
+        "Walang probation"
+      ],
+      "h1": "Kalahating taon ito.",
+      "h2": "Sa New York, ang driver na 18 taong gulang o higit pa nang pumasa sa road test ay naka-probation nang anim na buwan.",
+      "p": "Tama. Ang mga bagong adult driver ay naka-probation nang anim na buwan."
+    },
+    "ar": {
+      "q": "في New York، عمرك 18 سنة أو أكثر ونجحت في اختبار القيادة على الطريق. كم مدة فترة الاختبار (probation) لرخصتك الجديدة؟",
+      "o": [
+        "ستة أشهر",
+        "شهر واحد",
+        "سنتان",
+        "لا توجد فترة اختبار"
+      ],
+      "h1": "المدة نصف سنة.",
+      "h2": "في New York، السائق الذي عمره 18 سنة أو أكثر عند نجاحه في اختبار الطريق يكون في فترة اختبار لمدة ستة أشهر.",
+      "p": "صحيح. السائقون البالغون الجدد في فترة اختبار لمدة ستة أشهر."
+    }
+  },
+  {
+    "id": "ny-035",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, you move to a new home. How soon must you tell the DMV your new address?",
+      "o": [
+        "Within 24 hours",
+        "Within 60 days",
+        "When you renew your license",
+        "Within 10 days"
+      ],
+      "h1": "It is less than two weeks.",
+      "h2": "In New York, you must tell the DMV your new address within 10 days, by mail or online.",
+      "p": "Right. Tell the DMV within 10 days."
+    },
+    "es": {
+      "q": "En Nueva York, usted se muda a una casa nueva. ¿En qué plazo debe avisar al DMV su nueva dirección?",
+      "o": [
+        "Dentro de 24 horas",
+        "Dentro de 60 días",
+        "Cuando renueve su licencia",
+        "Dentro de 10 días"
+      ],
+      "h1": "Es menos de dos semanas.",
+      "h2": "En Nueva York, usted debe avisar al DMV su nueva dirección dentro de 10 días, por correo o en línea.",
+      "p": "Correcto. Avise al DMV dentro de 10 días."
+    },
+    "zh": {
+      "q": "在 New York，你搬了新家。你必须多快把新地址告诉 DMV？",
+      "o": [
+        "24 小时内",
+        "60 天内",
+        "在你更新驾照时",
+        "10 天内"
+      ],
+      "h1": "不到两个星期。",
+      "h2": "在 New York，你必须在 10 天内通过邮寄或网上把新地址告诉 DMV。",
+      "p": "对。要在 10 天内告诉 DMV。"
+    },
+    "vi": {
+      "q": "Ở New York, bạn chuyển đến nhà mới. Bạn phải báo địa chỉ mới cho DMV trong bao lâu?",
+      "o": [
+        "Trong vòng 24 giờ",
+        "Trong vòng 60 ngày",
+        "Khi bạn gia hạn bằng lái",
+        "Trong vòng 10 ngày"
+      ],
+      "h1": "Ít hơn hai tuần.",
+      "h2": "Ở New York, bạn phải báo địa chỉ mới cho DMV trong vòng 10 ngày, qua thư hoặc trên mạng.",
+      "p": "Đúng. Hãy báo cho DMV trong vòng 10 ngày."
+    },
+    "tl": {
+      "q": "Sa New York, lumipat ka sa bagong bahay. Gaano kabilis mo dapat sabihin sa DMV ang bago mong address?",
+      "o": [
+        "Sa loob ng 24 na oras",
+        "Sa loob ng 60 araw",
+        "Kapag nag-renew ka ng lisensya",
+        "Sa loob ng 10 araw"
+      ],
+      "h1": "Mas maikli ito sa dalawang linggo.",
+      "h2": "Sa New York, dapat mong sabihin sa DMV ang bago mong address sa loob ng 10 araw, sa koreo o online.",
+      "p": "Tama. Sabihan ang DMV sa loob ng 10 araw."
+    },
+    "ar": {
+      "q": "في New York، انتقلت إلى بيت جديد. خلال كم من الوقت يجب أن تُبلغ DMV بعنوانك الجديد؟",
+      "o": [
+        "خلال 24 ساعة",
+        "خلال 60 يومًا",
+        "عندما تجدّد رخصتك",
+        "خلال 10 أيام"
+      ],
+      "h1": "المدة أقل من أسبوعين.",
+      "h2": "في New York، يجب أن تُبلغ DMV بعنوانك الجديد خلال 10 أيام، بالبريد أو عبر الإنترنت.",
+      "p": "صحيح. أبلغ DMV خلال 10 أيام."
+    }
+  },
+  {
+    "id": "ny-036",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, you move here from another state and become a resident. How soon must you apply for a New York license?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 6 months",
+        "Only when your old license expires"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In New York, a new resident must apply for a New York driver license within 30 days of becoming a resident.",
+      "p": "Right. New residents have 30 days."
+    },
+    "es": {
+      "q": "En Nueva York, usted se muda desde otro estado y se hace residente. ¿En qué plazo debe solicitar una licencia de Nueva York?",
+      "o": [
+        "Dentro de 10 días",
+        "Dentro de 30 días",
+        "Dentro de 6 meses",
+        "Solo cuando venza su licencia anterior"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Nueva York, un nuevo residente debe solicitar una licencia de conducir de Nueva York dentro de 30 días de hacerse residente.",
+      "p": "Correcto. Los nuevos residentes tienen 30 días."
+    },
+    "zh": {
+      "q": "在 New York，你从别的州搬来，成为本州居民。你必须多快申请 New York 驾照？",
+      "o": [
+        "10 天内",
+        "30 天内",
+        "6 个月内",
+        "只在旧驾照过期时"
+      ],
+      "h1": "大约一个月。",
+      "h2": "在 New York，新居民必须在成为居民后 30 天内申请 New York 驾照。",
+      "p": "对。新居民有 30 天。"
+    },
+    "vi": {
+      "q": "Ở New York, bạn chuyển đến từ một tiểu bang khác và trở thành cư dân. Bạn phải nộp đơn xin bằng lái New York trong bao lâu?",
+      "o": [
+        "Trong vòng 10 ngày",
+        "Trong vòng 30 ngày",
+        "Trong vòng 6 tháng",
+        "Chỉ khi bằng lái cũ hết hạn"
+      ],
+      "h1": "Khoảng một tháng.",
+      "h2": "Ở New York, cư dân mới phải nộp đơn xin bằng lái New York trong vòng 30 ngày kể từ khi trở thành cư dân.",
+      "p": "Đúng. Cư dân mới có 30 ngày."
+    },
+    "tl": {
+      "q": "Sa New York, lumipat ka rito mula sa ibang estado at naging residente. Gaano kabilis ka dapat mag-apply ng lisensya ng New York?",
+      "o": [
+        "Sa loob ng 10 araw",
+        "Sa loob ng 30 araw",
+        "Sa loob ng 6 na buwan",
+        "Kapag nag-expire na lang ang luma mong lisensya"
+      ],
+      "h1": "Mga isang buwan ito.",
+      "h2": "Sa New York, ang bagong residente ay dapat mag-apply ng driver license ng New York sa loob ng 30 araw mula nang maging residente.",
+      "p": "Tama. May 30 araw ang mga bagong residente."
+    },
+    "ar": {
+      "q": "في New York، انتقلت إليها من ولاية أخرى وأصبحت مقيمًا. خلال كم من الوقت يجب أن تتقدّم بطلب رخصة New York؟",
+      "o": [
+        "خلال 10 أيام",
+        "خلال 30 يومًا",
+        "خلال 6 أشهر",
+        "فقط عندما تنتهي رخصتك القديمة"
+      ],
+      "h1": "المدة شهر تقريبًا.",
+      "h2": "في New York، يجب على المقيم الجديد أن يتقدّم بطلب رخصة قيادة New York خلال 30 يومًا من أن يصبح مقيمًا.",
+      "p": "صحيح. لدى المقيمين الجدد 30 يومًا."
+    }
+  },
+  {
+    "id": "ny-037",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 27,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, what is the minimum liability insurance for injury to one person in a crash?",
+      "o": [
+        "$5,000",
+        "$10,000",
+        "$25,000",
+        "$100,000"
+      ],
+      "h1": "It is more than $10,000 but much less than $100,000.",
+      "h2": "In New York, your liability insurance must cover at least $25,000 for injury to one person.",
+      "p": "Right. The minimum is $25,000 for injury to one person."
+    },
+    "es": {
+      "q": "En Nueva York, ¿cuál es el seguro de responsabilidad mínimo por lesiones a una persona en un choque?",
+      "o": [
+        "$5,000",
+        "$10,000",
+        "$25,000",
+        "$100,000"
+      ],
+      "h1": "Es más de $10,000 pero mucho menos de $100,000.",
+      "h2": "En Nueva York, su seguro de responsabilidad debe cubrir por lo menos $25,000 por lesiones a una persona.",
+      "p": "Correcto. El mínimo es $25,000 por lesiones a una persona."
+    },
+    "zh": {
+      "q": "在 New York，车祸中一个人受伤的最低责任保险金额是多少？",
+      "o": [
+        "$5,000",
+        "$10,000",
+        "$25,000",
+        "$100,000"
+      ],
+      "h1": "比 $10,000 多，但比 $100,000 少很多。",
+      "h2": "在 New York，你的责任保险对一个人受伤必须至少赔付 $25,000。",
+      "p": "对。一个人受伤的最低金额是 $25,000。"
+    },
+    "vi": {
+      "q": "Ở New York, mức bảo hiểm trách nhiệm tối thiểu cho thương tích của một người trong một vụ tai nạn là bao nhiêu?",
+      "o": [
+        "$5,000",
+        "$10,000",
+        "$25,000",
+        "$100,000"
+      ],
+      "h1": "Nhiều hơn $10,000 nhưng ít hơn $100,000 rất nhiều.",
+      "h2": "Ở New York, bảo hiểm trách nhiệm của bạn phải chi trả ít nhất $25,000 cho thương tích của một người.",
+      "p": "Đúng. Mức tối thiểu là $25,000 cho thương tích của một người."
+    },
+    "tl": {
+      "q": "Sa New York, ano ang pinakamababang liability insurance para sa pinsala sa isang tao sa isang banggaan?",
+      "o": [
+        "$5,000",
+        "$10,000",
+        "$25,000",
+        "$100,000"
+      ],
+      "h1": "Higit ito sa $10,000 pero mas mababa nang malaki sa $100,000.",
+      "h2": "Sa New York, dapat sakupin ng liability insurance mo ang hindi bababa sa $25,000 para sa pinsala sa isang tao.",
+      "p": "Tama. Ang pinakamababa ay $25,000 para sa pinsala sa isang tao."
+    },
+    "ar": {
+      "q": "في New York، ما الحد الأدنى لتأمين المسؤولية عن إصابة شخص واحد في حادث؟",
+      "o": [
+        "$5,000",
+        "$10,000",
+        "$25,000",
+        "$100,000"
+      ],
+      "h1": "المبلغ أكثر من $10,000 لكنه أقل بكثير من $100,000.",
+      "h2": "في New York، يجب أن يغطي تأمين المسؤولية لديك $25,000 على الأقل عن إصابة شخص واحد.",
+      "p": "صحيح. الحد الأدنى هو $25,000 عن إصابة شخص واحد."
+    }
+  },
+  {
+    "id": "ny-038",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 21,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, a driver age 21 or older refuses a chemical test for the first time. What happens to the license?",
+      "o": [
+        "Nothing, if the driver is found not guilty",
+        "A warning only",
+        "A 30-day suspension",
+        "It is revoked for at least one year"
+      ],
+      "h1": "Refusing is treated more strictly than many people think.",
+      "h2": "In New York, a first chemical test refusal by a driver age 21 or older means the license is revoked for at least one year.",
+      "p": "Right. A first refusal means at least a one-year revocation."
+    },
+    "es": {
+      "q": "En Nueva York, un conductor de 21 años o más se niega por primera vez a una prueba química. ¿Qué pasa con la licencia?",
+      "o": [
+        "Nada, si lo declaran no culpable",
+        "Solo una advertencia",
+        "Una suspensión de 30 días",
+        "Se revoca por al menos un año"
+      ],
+      "h1": "Negarse se castiga con más fuerza de lo que muchos piensan.",
+      "h2": "En Nueva York, la primera vez que un conductor de 21 años o más se niega a una prueba química, su licencia se revoca por al menos un año.",
+      "p": "Correcto. Negarse la primera vez trae una revocación de al menos un año."
+    },
+    "zh": {
+      "q": "在 New York，一位 21 岁或以上的司机第一次拒绝化学测试。驾照会怎样？",
+      "o": [
+        "如果司机被判无罪，就没事",
+        "只是警告",
+        "暂停 30 天",
+        "吊销至少一年"
+      ],
+      "h1": "拒绝测试的处罚比很多人想的更严格。",
+      "h2": "在 New York，21 岁或以上的司机第一次拒绝化学测试，驾照会被吊销至少一年。",
+      "p": "对。第一次拒绝就会被吊销至少一年。"
+    },
+    "vi": {
+      "q": "Ở New York, một người lái từ 21 tuổi trở lên từ chối xét nghiệm hóa học lần đầu. Bằng lái sẽ bị gì?",
+      "o": [
+        "Không sao, nếu người lái được xử là vô tội",
+        "Chỉ bị cảnh cáo",
+        "Bị treo 30 ngày",
+        "Bị thu hồi ít nhất một năm"
+      ],
+      "h1": "Việc từ chối bị xử nghiêm hơn nhiều người nghĩ.",
+      "h2": "Ở New York, người lái từ 21 tuổi trở lên từ chối xét nghiệm hóa học lần đầu sẽ bị thu hồi bằng lái ít nhất một năm.",
+      "p": "Đúng. Từ chối lần đầu nghĩa là bị thu hồi ít nhất một năm."
+    },
+    "tl": {
+      "q": "Sa New York, tumanggi sa chemical test sa unang pagkakataon ang driver na 21 taong gulang o higit pa. Ano ang mangyayari sa lisensya?",
+      "o": [
+        "Wala, kung mapatunayang hindi nagkasala ang driver",
+        "Babala lang",
+        "Suspensyon nang 30 araw",
+        "Babawiin ito nang hindi bababa sa isang taon"
+      ],
+      "h1": "Mas mahigpit ang trato sa pagtanggi kaysa sa inaakala ng marami.",
+      "h2": "Sa New York, kapag unang tumanggi sa chemical test ang driver na 21 taong gulang o higit pa, babawiin ang lisensya nang hindi bababa sa isang taon.",
+      "p": "Tama. Ang unang pagtanggi ay nangangahulugang pagbawi nang hindi bababa sa isang taon."
+    },
+    "ar": {
+      "q": "في New York، سائق عمره 21 سنة أو أكثر يرفض فحصًا كيميائيًا لأول مرة. ماذا يحدث للرخصة؟",
+      "o": [
+        "لا شيء، إذا ثبتت براءة السائق",
+        "إنذار فقط",
+        "إيقاف لمدة 30 يومًا",
+        "تُسحب لمدة سنة واحدة على الأقل"
+      ],
+      "h1": "الرفض يُعامل بصرامة أكبر مما يظن كثير من الناس.",
+      "h2": "في New York، إذا رفض سائق عمره 21 سنة أو أكثر الفحص الكيميائي لأول مرة، تُسحب رخصته لمدة سنة واحدة على الأقل.",
+      "p": "صحيح. الرفض الأول يعني سحب الرخصة لمدة سنة على الأقل."
+    }
+  },
+  {
+    "id": "ny-039",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 55,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, Aggravated Driving While Intoxicated (Agg-DWI) starts at what blood alcohol level?",
+      "o": [
+        "0.18 percent",
+        "0.05 percent",
+        "0.08 percent",
+        "0.12 percent"
+      ],
+      "h1": "It is more than twice the usual legal limit.",
+      "h2": "In New York, a blood alcohol level of 0.18 percent or more is evidence of Aggravated Driving While Intoxicated.",
+      "p": "Right. Agg-DWI starts at 0.18 percent."
+    },
+    "es": {
+      "q": "En Nueva York, ¿a partir de qué nivel de alcohol en la sangre se considera Manejar en Estado de Intoxicación Agravado (Agg-DWI)?",
+      "o": [
+        "0.18 por ciento",
+        "0.05 por ciento",
+        "0.08 por ciento",
+        "0.12 por ciento"
+      ],
+      "h1": "Es más del doble del límite legal normal.",
+      "h2": "En Nueva York, un nivel de alcohol en la sangre de 0.18 por ciento o más es prueba de Manejar en Estado de Intoxicación Agravado.",
+      "p": "Correcto. El Agg-DWI empieza en 0.18 por ciento."
+    },
+    "zh": {
+      "q": "在 New York，加重醉酒驾驶（Agg-DWI）从多少血液酒精浓度开始？",
+      "o": [
+        "0.18%",
+        "0.05%",
+        "0.08%",
+        "0.12%"
+      ],
+      "h1": "是一般法定上限的两倍多。",
+      "h2": "在 New York，血液酒精浓度达到 0.18% 或以上，就是加重醉酒驾驶（Aggravated Driving While Intoxicated）的证据。",
+      "p": "对。Agg-DWI 从 0.18% 开始。"
+    },
+    "vi": {
+      "q": "Ở New York, tội lái xe khi say rượu nghiêm trọng (Agg-DWI) bắt đầu từ nồng độ cồn trong máu là bao nhiêu?",
+      "o": [
+        "0.18 phần trăm",
+        "0.05 phần trăm",
+        "0.08 phần trăm",
+        "0.12 phần trăm"
+      ],
+      "h1": "Cao hơn gấp đôi mức giới hạn pháp lý thông thường.",
+      "h2": "Ở New York, nồng độ cồn trong máu từ 0.18 phần trăm trở lên là bằng chứng của tội lái xe khi say rượu nghiêm trọng (Aggravated Driving While Intoxicated).",
+      "p": "Đúng. Agg-DWI bắt đầu từ 0.18 phần trăm."
+    },
+    "tl": {
+      "q": "Sa New York, sa anong blood alcohol level nagsisimula ang Aggravated Driving While Intoxicated (Agg-DWI)?",
+      "o": [
+        "0.18 porsiyento",
+        "0.05 porsiyento",
+        "0.08 porsiyento",
+        "0.12 porsiyento"
+      ],
+      "h1": "Higit ito sa doble ng karaniwang legal na limitasyon.",
+      "h2": "Sa New York, ang blood alcohol level na 0.18 porsiyento o higit pa ay ebidensya ng Aggravated Driving While Intoxicated.",
+      "p": "Tama. Nagsisimula ang Agg-DWI sa 0.18 porsiyento."
+    },
+    "ar": {
+      "q": "في New York، من أي نسبة كحول في الدم تبدأ القيادة تحت تأثير الكحول المشدّدة (Agg-DWI)؟",
+      "o": [
+        "0.18 بالمئة",
+        "0.05 بالمئة",
+        "0.08 بالمئة",
+        "0.12 بالمئة"
+      ],
+      "h1": "النسبة أكثر من ضعف الحد القانوني المعتاد.",
+      "h2": "في New York، نسبة كحول في الدم تبلغ 0.18 بالمئة أو أكثر هي دليل على القيادة تحت تأثير الكحول المشدّدة (Aggravated Driving While Intoxicated).",
+      "p": "صحيح. تبدأ Agg-DWI من 0.18 بالمئة."
+    }
+  },
+  {
+    "id": "ny-040",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 59,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, under Leandra's Law, what can a drunk driver face if a child under 16 is in the vehicle?",
+      "o": [
+        "Only a larger fine",
+        "A felony charge",
+        "Points only",
+        "A warning letter"
+      ],
+      "h1": "It is a much more serious crime than a traffic ticket.",
+      "h2": "Under New York's Leandra's Law, a person who drives drunk with a child under 16 in the vehicle can be charged with a felony.",
+      "p": "Right. With a child under 16 in the car, it can be a felony."
+    },
+    "es": {
+      "q": "En Nueva York, según la Ley de Leandra, ¿a qué se expone un conductor ebrio si lleva en el vehículo a un niño menor de 16 años?",
+      "o": [
+        "Solo a una multa más alta",
+        "A un cargo de delito grave (felony)",
+        "Solo a puntos",
+        "A una carta de advertencia"
+      ],
+      "h1": "Es un delito mucho más serio que una multa de tráfico.",
+      "h2": "Según la Ley de Leandra de Nueva York, quien maneja ebrio con un niño menor de 16 años en el vehículo puede ser acusado de un delito grave (felony).",
+      "p": "Correcto. Con un niño menor de 16 años en el auto, puede ser un delito grave."
+    },
+    "zh": {
+      "q": "在 New York，根据 Leandra's Law，如果车里有未满 16 岁的孩子，醉酒司机会面临什么？",
+      "o": [
+        "只是更高的罚款",
+        "重罪指控",
+        "只记分",
+        "一封警告信"
+      ],
+      "h1": "这比交通罚单严重得多。",
+      "h2": "根据 New York 的 Leandra's Law，车里有未满 16 岁的孩子时醉酒驾驶的人，可以被控重罪。",
+      "p": "对。车里有未满 16 岁的孩子，就可能是重罪。"
+    },
+    "vi": {
+      "q": "Ở New York, theo Luật Leandra (Leandra's Law), người lái xe say rượu có thể bị gì nếu có trẻ dưới 16 tuổi trong xe?",
+      "o": [
+        "Chỉ bị phạt tiền nặng hơn",
+        "Bị buộc tội trọng tội (felony)",
+        "Chỉ bị trừ điểm",
+        "Một lá thư cảnh cáo"
+      ],
+      "h1": "Đây là tội nặng hơn nhiều so với một vé phạt giao thông.",
+      "h2": "Theo Luật Leandra (Leandra's Law) của New York, người lái xe say rượu khi có trẻ dưới 16 tuổi trong xe có thể bị buộc tội trọng tội (felony).",
+      "p": "Đúng. Có trẻ dưới 16 tuổi trong xe thì có thể là trọng tội."
+    },
+    "tl": {
+      "q": "Sa New York, sa ilalim ng Leandra's Law, ano ang maaaring harapin ng lasing na driver kung may batang wala pang 16 sa sasakyan?",
+      "o": [
+        "Mas malaking multa lang",
+        "Kasong felony",
+        "Puntos lang",
+        "Sulat ng babala"
+      ],
+      "h1": "Mas mabigat na krimen ito kaysa sa traffic ticket.",
+      "h2": "Sa ilalim ng Leandra's Law ng New York, ang taong nagmamaneho nang lasing na may batang wala pang 16 sa sasakyan ay maaaring kasuhan ng felony.",
+      "p": "Tama. Kapag may batang wala pang 16 sa kotse, maaari itong maging felony."
+    },
+    "ar": {
+      "q": "في New York، بموجب قانون Leandra's Law، ماذا قد يواجه السائق المخمور إذا كان في السيارة طفل عمره أقل من 16 سنة؟",
+      "o": [
+        "غرامة أكبر فقط",
+        "تهمة جناية (felony)",
+        "نقاط فقط",
+        "رسالة إنذار"
+      ],
+      "h1": "هذه جريمة أخطر بكثير من مخالفة مرورية.",
+      "h2": "بموجب قانون Leandra's Law في New York، يمكن أن يُتّهم بجناية (felony) من يقود وهو مخمور ومعه في السيارة طفل عمره أقل من 16 سنة.",
+      "p": "صحيح. مع طفل عمره أقل من 16 سنة في السيارة، قد تكون جناية."
+    }
+  },
+  {
+    "id": "ny-041",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, how many points can an adult driver get for a first offense of talking on a hand-held phone while driving?",
+      "o": [
+        "No points",
+        "2 points",
+        "5 points",
+        "11 points"
+      ],
+      "h1": "It is more than for most small violations.",
+      "h2": "In New York, a first offense for using a hand-held phone while driving can bring a fine of up to $200 and 5 points.",
+      "p": "Right. A hand-held phone can cost you 5 points."
+    },
+    "es": {
+      "q": "En Nueva York, ¿cuántos puntos puede recibir un conductor adulto por una primera infracción de hablar con el teléfono en la mano mientras maneja?",
+      "o": [
+        "Ningún punto",
+        "2 puntos",
+        "5 puntos",
+        "11 puntos"
+      ],
+      "h1": "Es más que por la mayoría de las infracciones menores.",
+      "h2": "En Nueva York, una primera infracción por usar el teléfono en la mano mientras maneja puede traer una multa de hasta $200 y 5 puntos.",
+      "p": "Correcto. El teléfono en la mano le puede costar 5 puntos."
+    },
+    "zh": {
+      "q": "在 New York，成年司机第一次开车时用手持电话通话，会被记多少分？",
+      "o": [
+        "不记分",
+        "2 分",
+        "5 分",
+        "11 分"
+      ],
+      "h1": "比大多数小违规的分数多。",
+      "h2": "在 New York，第一次开车时使用手持电话，可能被罚款最高 $200 并记 5 分。",
+      "p": "对。用手持电话可能让你被记 5 分。"
+    },
+    "vi": {
+      "q": "Ở New York, người lái là người lớn có thể bị bao nhiêu điểm khi vi phạm lần đầu vì nói chuyện bằng điện thoại cầm tay trong khi lái xe?",
+      "o": [
+        "Không bị điểm",
+        "2 điểm",
+        "5 điểm",
+        "11 điểm"
+      ],
+      "h1": "Nhiều hơn so với phần lớn các vi phạm nhỏ.",
+      "h2": "Ở New York, vi phạm lần đầu vì dùng điện thoại cầm tay trong khi lái xe có thể bị phạt tối đa $200 và 5 điểm.",
+      "p": "Đúng. Dùng điện thoại cầm tay có thể làm bạn bị 5 điểm."
+    },
+    "tl": {
+      "q": "Sa New York, ilang puntos ang maaaring makuha ng adult driver sa unang paglabag ng pakikipag-usap sa hand-held na telepono habang nagmamaneho?",
+      "o": [
+        "Walang puntos",
+        "2 puntos",
+        "5 puntos",
+        "11 puntos"
+      ],
+      "h1": "Mas marami ito kaysa sa karamihan ng maliliit na paglabag.",
+      "h2": "Sa New York, ang unang paglabag sa paggamit ng hand-held na telepono habang nagmamaneho ay maaaring magdulot ng multang hanggang $200 at 5 puntos.",
+      "p": "Tama. Ang hand-held na telepono ay maaaring magdulot sa iyo ng 5 puntos."
+    },
+    "ar": {
+      "q": "في New York، كم نقطة قد يحصل عليها سائق بالغ في أول مخالفة للتحدث بهاتف محمول باليد أثناء القيادة؟",
+      "o": [
+        "لا نقاط",
+        "2 نقطة",
+        "5 نقاط",
+        "11 نقطة"
+      ],
+      "h1": "العدد أكثر من معظم المخالفات الصغيرة.",
+      "h2": "في New York، أول مخالفة لاستخدام هاتف محمول باليد أثناء القيادة قد تؤدي إلى غرامة تصل إلى $200 و5 نقاط.",
+      "p": "صحيح. الهاتف المحمول باليد قد يكلّفك 5 نقاط."
+    }
+  },
+  {
+    "id": "ny-042",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 48,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, a passenger under 16 is not buckled in. What can happen to the driver?",
+      "o": [
+        "Nothing, the passenger gets the ticket",
+        "Only a warning",
+        "A $500 fine and a suspension",
+        "A fine of $25 to $100 and 3 points"
+      ],
+      "h1": "The driver is responsible for young passengers.",
+      "h2": "In New York, the driver can be fined $25 to $100 and get 3 points for each passenger under 16 who is not properly buckled in.",
+      "p": "Right. The driver can get a fine and 3 points."
+    },
+    "es": {
+      "q": "En Nueva York, un pasajero menor de 16 años no lleva puesto el cinturón. ¿Qué le puede pasar al conductor?",
+      "o": [
+        "Nada, la multa es para el pasajero",
+        "Solo una advertencia",
+        "Una multa de $500 y una suspensión",
+        "Una multa de $25 a $100 y 3 puntos"
+      ],
+      "h1": "El conductor es responsable de los pasajeros jóvenes.",
+      "h2": "En Nueva York, el conductor puede recibir una multa de $25 a $100 y 3 puntos por cada pasajero menor de 16 años que no esté bien abrochado.",
+      "p": "Correcto. El conductor puede recibir una multa y 3 puntos."
+    },
+    "zh": {
+      "q": "在 New York，一位未满 16 岁的乘客没有系好安全带。司机会怎样？",
+      "o": [
+        "没事，乘客会收到罚单",
+        "只是警告",
+        "罚款 $500 并暂停驾照",
+        "罚款 $25 到 $100 并记 3 分"
+      ],
+      "h1": "司机要为年幼的乘客负责。",
+      "h2": "在 New York，每有一位未满 16 岁的乘客没有正确系好安全带，司机就可能被罚款 $25 到 $100 并记 3 分。",
+      "p": "对。司机可能被罚款并记 3 分。"
+    },
+    "vi": {
+      "q": "Ở New York, một hành khách dưới 16 tuổi không thắt dây an toàn. Người lái có thể bị gì?",
+      "o": [
+        "Không sao, hành khách sẽ bị phạt",
+        "Chỉ bị cảnh cáo",
+        "Bị phạt $500 và treo bằng lái",
+        "Bị phạt từ $25 đến $100 và 3 điểm"
+      ],
+      "h1": "Người lái chịu trách nhiệm về hành khách nhỏ tuổi.",
+      "h2": "Ở New York, người lái có thể bị phạt từ $25 đến $100 và bị 3 điểm cho mỗi hành khách dưới 16 tuổi không thắt dây an toàn đúng cách.",
+      "p": "Đúng. Người lái có thể bị phạt tiền và 3 điểm."
+    },
+    "tl": {
+      "q": "Sa New York, hindi naka-seatbelt ang pasaherong wala pang 16. Ano ang maaaring mangyari sa driver?",
+      "o": [
+        "Wala, ang pasahero ang makakakuha ng ticket",
+        "Babala lang",
+        "Multang $500 at suspensyon",
+        "Multang $25 hanggang $100 at 3 puntos"
+      ],
+      "h1": "Ang driver ang may pananagutan sa mga batang pasahero.",
+      "h2": "Sa New York, maaaring multahan ang driver ng $25 hanggang $100 at bigyan ng 3 puntos para sa bawat pasaherong wala pang 16 na hindi maayos na naka-seatbelt.",
+      "p": "Tama. Maaaring makakuha ang driver ng multa at 3 puntos."
+    },
+    "ar": {
+      "q": "في New York، راكب عمره أقل من 16 سنة لا يربط حزام الأمان. ماذا قد يحدث للسائق؟",
+      "o": [
+        "لا شيء، الراكب هو من يأخذ المخالفة",
+        "إنذار فقط",
+        "غرامة $500 وإيقاف الرخصة",
+        "غرامة من $25 إلى $100 و3 نقاط"
+      ],
+      "h1": "السائق مسؤول عن الركّاب الصغار.",
+      "h2": "في New York، قد يُغرَّم السائق من $25 إلى $100 ويحصل على 3 نقاط عن كل راكب عمره أقل من 16 سنة لا يربط حزام الأمان بشكل صحيح.",
+      "p": "صحيح. قد يحصل السائق على غرامة و3 نقاط."
+    }
+  },
+  {
+    "id": "ny-043",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 48,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, how long must a young child ride in a rear-facing car seat?",
+      "o": [
+        "Until age 2, or until the child reaches the seat's weight or height limit",
+        "Until age 6 months",
+        "Until age 1, no matter what",
+        "Until the child can walk"
+      ],
+      "h1": "Think of a toddler's second birthday.",
+      "h2": "In New York, a child must ride rear-facing until age 2, or until the child reaches the highest weight or height the car seat allows.",
+      "p": "Right. Rear-facing until age 2 or the seat's limit."
+    },
+    "es": {
+      "q": "En Nueva York, ¿hasta cuándo debe viajar un niño pequeño en un asiento de seguridad mirando hacia atrás?",
+      "o": [
+        "Hasta los 2 años, o hasta que alcance el límite de peso o altura del asiento",
+        "Hasta los 6 meses",
+        "Hasta 1 año, sin importar nada más",
+        "Hasta que el niño pueda caminar"
+      ],
+      "h1": "Piense en el segundo cumpleaños de un niño pequeño.",
+      "h2": "En Nueva York, un niño debe viajar mirando hacia atrás hasta los 2 años, o hasta que alcance el peso o la altura máxima que permite el asiento.",
+      "p": "Correcto. Mirando hacia atrás hasta los 2 años o hasta el límite del asiento."
+    },
+    "zh": {
+      "q": "在 New York，幼儿要坐后向式儿童座椅坐到什么时候？",
+      "o": [
+        "到 2 岁，或到孩子达到座椅的体重或身高上限",
+        "到 6 个月大",
+        "到 1 岁，不管其他情况",
+        "到孩子会走路"
+      ],
+      "h1": "想想幼儿的第二个生日。",
+      "h2": "在 New York，孩子必须坐后向式座椅到 2 岁，或到孩子达到座椅允许的最高体重或身高。",
+      "p": "对。后向坐到 2 岁或到座椅的上限。"
+    },
+    "vi": {
+      "q": "Ở New York, trẻ nhỏ phải ngồi ghế an toàn quay mặt về phía sau cho đến khi nào?",
+      "o": [
+        "Đến 2 tuổi, hoặc đến khi trẻ đạt giới hạn cân nặng hoặc chiều cao của ghế",
+        "Đến 6 tháng tuổi",
+        "Đến 1 tuổi, dù thế nào đi nữa",
+        "Đến khi trẻ biết đi"
+      ],
+      "h1": "Hãy nghĩ đến sinh nhật thứ hai của em bé.",
+      "h2": "Ở New York, trẻ phải ngồi quay mặt về phía sau cho đến 2 tuổi, hoặc đến khi trẻ đạt mức cân nặng hoặc chiều cao cao nhất mà ghế cho phép.",
+      "p": "Đúng. Quay mặt về phía sau đến 2 tuổi hoặc đến giới hạn của ghế."
+    },
+    "tl": {
+      "q": "Sa New York, hanggang kailan dapat nakasakay ang maliit na bata sa rear-facing na car seat?",
+      "o": [
+        "Hanggang 2 taong gulang, o hanggang maabot ng bata ang limitasyon ng timbang o taas ng upuan",
+        "Hanggang 6 na buwang gulang",
+        "Hanggang 1 taong gulang, anuman ang mangyari",
+        "Hanggang makalakad ang bata"
+      ],
+      "h1": "Isipin ang ikalawang kaarawan ng isang toddler.",
+      "h2": "Sa New York, dapat nakasakay nang rear-facing ang bata hanggang 2 taong gulang, o hanggang maabot ng bata ang pinakamataas na timbang o taas na pinapayagan ng car seat.",
+      "p": "Tama. Rear-facing hanggang 2 taong gulang o hanggang sa limitasyon ng upuan."
+    },
+    "ar": {
+      "q": "في New York، إلى متى يجب أن يجلس الطفل الصغير في مقعد سيارة مواجه للخلف؟",
+      "o": [
+        "حتى عمر سنتين (2)، أو حتى يصل الطفل إلى حد الوزن أو الطول للمقعد",
+        "حتى عمر 6 أشهر",
+        "حتى عمر سنة واحدة (1)، مهما كان",
+        "حتى يستطيع الطفل المشي"
+      ],
+      "h1": "فكّر في عيد الميلاد الثاني للطفل الصغير.",
+      "h2": "في New York، يجب أن يجلس الطفل في مقعد مواجه للخلف حتى عمر سنتين (2)، أو حتى يصل إلى أعلى وزن أو طول يسمح به المقعد.",
+      "p": "صحيح. مواجهًا للخلف حتى عمر سنتين أو حتى حد المقعد."
+    }
+  },
+  {
+    "id": "ny-044",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 64,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, when may you use tires with metal studs?",
+      "o": [
+        "All year",
+        "Only from October 16 through April 30",
+        "Only in December, January and February",
+        "Never"
+      ],
+      "h1": "Think of the cold part of the year, from fall to spring.",
+      "h2": "In New York, tires with metal studs may be used only from October 16 through April 30.",
+      "p": "Right. Studded tires are allowed from October 16 to April 30."
+    },
+    "es": {
+      "q": "En Nueva York, ¿cuándo puede usar llantas con clavos de metal?",
+      "o": [
+        "Todo el año",
+        "Solo del 16 de octubre al 30 de abril",
+        "Solo en diciembre, enero y febrero",
+        "Nunca"
+      ],
+      "h1": "Piense en la parte fría del año, del otoño a la primavera.",
+      "h2": "En Nueva York, las llantas con clavos de metal solo se pueden usar del 16 de octubre al 30 de abril.",
+      "p": "Correcto. Las llantas con clavos se permiten del 16 de octubre al 30 de abril."
+    },
+    "zh": {
+      "q": "在 New York，什么时候可以使用带金属钉的轮胎？",
+      "o": [
+        "全年",
+        "只在 10 月 16 日到 4 月 30 日",
+        "只在十二月、一月和二月",
+        "永远不可以"
+      ],
+      "h1": "想想一年中寒冷的时候，从秋天到春天。",
+      "h2": "在 New York，带金属钉的轮胎只能在 10 月 16 日到 4 月 30 日使用。",
+      "p": "对。钉胎从 10 月 16 日到 4 月 30 日可以用。"
+    },
+    "vi": {
+      "q": "Ở New York, khi nào bạn được dùng lốp xe có đinh kim loại?",
+      "o": [
+        "Cả năm",
+        "Chỉ từ ngày 16 tháng 10 đến ngày 30 tháng 4",
+        "Chỉ trong tháng 12, tháng 1 và tháng 2",
+        "Không bao giờ"
+      ],
+      "h1": "Hãy nghĩ đến phần lạnh trong năm, từ mùa thu đến mùa xuân.",
+      "h2": "Ở New York, lốp xe có đinh kim loại chỉ được dùng từ ngày 16 tháng 10 đến ngày 30 tháng 4.",
+      "p": "Đúng. Lốp có đinh được phép dùng từ ngày 16 tháng 10 đến ngày 30 tháng 4."
+    },
+    "tl": {
+      "q": "Sa New York, kailan mo maaaring gamitin ang mga gulong na may metal studs?",
+      "o": [
+        "Buong taon",
+        "Mula Oktubre 16 hanggang Abril 30 lang",
+        "Sa Disyembre, Enero at Pebrero lang",
+        "Hindi kailanman"
+      ],
+      "h1": "Isipin ang malamig na bahagi ng taon, mula taglagas hanggang tagsibol.",
+      "h2": "Sa New York, ang mga gulong na may metal studs ay maaaring gamitin mula Oktubre 16 hanggang Abril 30 lang.",
+      "p": "Tama. Pinapayagan ang studded tires mula Oktubre 16 hanggang Abril 30."
+    },
+    "ar": {
+      "q": "في New York، متى يُسمح لك باستخدام إطارات فيها مسامير معدنية؟",
+      "o": [
+        "طوال السنة",
+        "فقط من 16 أكتوبر إلى 30 أبريل",
+        "فقط في ديسمبر ويناير وفبراير",
+        "أبدًا"
+      ],
+      "h1": "فكّر في الجزء البارد من السنة، من الخريف إلى الربيع.",
+      "h2": "في New York، يُسمح باستخدام الإطارات ذات المسامير المعدنية فقط من 16 أكتوبر إلى 30 أبريل.",
+      "p": "صحيح. الإطارات ذات المسامير مسموحة من 16 أكتوبر إلى 30 أبريل."
+    }
+  },
+  {
+    "id": "ny-045",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 69,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, which bicycle riders must wear an approved helmet by state law?",
+      "o": [
+        "Only riders under age 5",
+        "All riders of every age",
+        "Riders and passengers ages 1 to 13",
+        "Only riders on highways"
+      ],
+      "h1": "State law covers children, not adults.",
+      "h2": "In New York, bicycle riders and passengers ages 1 to 13 must wear an approved helmet.",
+      "p": "Right. Ages 1 to 13 must wear a helmet."
+    },
+    "es": {
+      "q": "En Nueva York, ¿qué ciclistas deben usar un casco aprobado según la ley estatal?",
+      "o": [
+        "Solo los menores de 5 años",
+        "Todos, de cualquier edad",
+        "Ciclistas y pasajeros de 1 a 13 años",
+        "Solo los que van por autopistas"
+      ],
+      "h1": "La ley estatal cubre a los niños, no a los adultos.",
+      "h2": "En Nueva York, los ciclistas y sus pasajeros de 1 a 13 años deben usar un casco aprobado.",
+      "p": "Correcto. De 1 a 13 años deben usar casco."
+    },
+    "zh": {
+      "q": "在 New York，按州法律，哪些骑自行车的人必须戴合格的头盔？",
+      "o": [
+        "只有未满 5 岁的骑车人",
+        "所有年龄的骑车人",
+        "1 到 13 岁的骑车人和乘坐者",
+        "只有在高速公路上骑车的人"
+      ],
+      "h1": "州法律管的是孩子，不是成年人。",
+      "h2": "在 New York，1 到 13 岁的自行车骑车人和乘坐者必须戴合格的头盔。",
+      "p": "对。1 到 13 岁必须戴头盔。"
+    },
+    "vi": {
+      "q": "Ở New York, theo luật tiểu bang, những người đi xe đạp nào phải đội mũ bảo hiểm được chấp thuận?",
+      "o": [
+        "Chỉ người đi xe dưới 5 tuổi",
+        "Mọi người đi xe ở mọi lứa tuổi",
+        "Người đi xe và người ngồi sau từ 1 đến 13 tuổi",
+        "Chỉ người đi xe trên xa lộ"
+      ],
+      "h1": "Luật tiểu bang áp dụng cho trẻ em, không phải người lớn.",
+      "h2": "Ở New York, người đi xe đạp và người ngồi sau từ 1 đến 13 tuổi phải đội mũ bảo hiểm được chấp thuận.",
+      "p": "Đúng. Từ 1 đến 13 tuổi phải đội mũ bảo hiểm."
+    },
+    "tl": {
+      "q": "Sa New York, aling mga nagbibisikleta ang dapat magsuot ng aprubadong helmet ayon sa batas ng estado?",
+      "o": [
+        "Mga nagbibisikletang wala pang 5 lang",
+        "Lahat ng nagbibisikleta sa anumang edad",
+        "Mga nagbibisikleta at pasaherong edad 1 hanggang 13",
+        "Mga nagbibisikleta sa highway lang"
+      ],
+      "h1": "Mga bata ang sakop ng batas ng estado, hindi ang mga adult.",
+      "h2": "Sa New York, ang mga nagbibisikleta at pasaherong edad 1 hanggang 13 ay dapat magsuot ng aprubadong helmet.",
+      "p": "Tama. Ang edad 1 hanggang 13 ay dapat magsuot ng helmet."
+    },
+    "ar": {
+      "q": "في New York، أيّ راكبي الدراجات الهوائية يجب أن يلبسوا خوذة معتمدة بحسب قانون الولاية؟",
+      "o": [
+        "فقط الراكبون الذين عمرهم أقل من 5 سنوات",
+        "كل الراكبين من كل الأعمار",
+        "الراكبون والركّاب من عمر 1 إلى 13 سنة",
+        "فقط الراكبون على الطرق السريعة"
+      ],
+      "h1": "قانون الولاية يشمل الأطفال، لا البالغين.",
+      "h2": "في New York، يجب على راكبي الدراجات الهوائية والركّاب معهم من عمر 1 إلى 13 سنة أن يلبسوا خوذة معتمدة.",
+      "p": "صحيح. من عمر 1 إلى 13 سنة يجب لبس الخوذة."
+    }
+  },
+  {
+    "id": "ny-046",
+    "scope": "NY",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 35,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, on a two-way road, an ambulance with its siren on is coming toward you in the opposite lane. What must you do?",
+      "o": [
+        "Keep driving, it is not in your lane",
+        "Speed up to clear the way",
+        "Stop right where you are, in your lane",
+        "Pull over to the right edge and stop"
+      ],
+      "h1": "The rule is the same no matter which direction it comes from.",
+      "h2": "In New York, you must pull over to the right edge and stop for an emergency vehicle, even when it is coming toward you in the opposite lane of a two-way road.",
+      "p": "Right. Pull over and stop, even for the opposite lane."
+    },
+    "es": {
+      "q": "En Nueva York, en una calle de doble sentido, una ambulancia con la sirena encendida viene hacia usted por el carril contrario. ¿Qué debe hacer?",
+      "o": [
+        "Seguir manejando, no está en su carril",
+        "Acelerar para abrir paso",
+        "Detenerse donde está, en su carril",
+        "Orillarse a la derecha y detenerse"
+      ],
+      "h1": "La regla es la misma venga de donde venga.",
+      "h2": "En Nueva York, usted debe orillarse a la derecha y detenerse ante un vehículo de emergencia, aunque venga hacia usted por el carril contrario de una calle de doble sentido.",
+      "p": "Correcto. Oríllese y deténgase, aunque venga por el carril contrario."
+    },
+    "zh": {
+      "q": "在 New York，在双向道路上，一辆开着警笛的救护车在对面车道朝你开来。你必须怎么做？",
+      "o": [
+        "继续开，它不在你的车道上",
+        "加速让开路",
+        "就在你的车道里原地停下",
+        "靠到右边路边停下"
+      ],
+      "h1": "不管它从哪个方向来，规则都一样。",
+      "h2": "在 New York，你必须靠到右边路边停下，给紧急车辆让路，即使它是在双向道路的对面车道朝你开来。",
+      "p": "对。即使是对面车道，也要靠边停下。"
+    },
+    "vi": {
+      "q": "Ở New York, trên đường hai chiều, một xe cứu thương đang hú còi chạy về phía bạn ở làn đường ngược chiều. Bạn phải làm gì?",
+      "o": [
+        "Cứ lái tiếp, nó không ở làn của bạn",
+        "Tăng tốc để nhường đường",
+        "Dừng ngay tại chỗ, trong làn của bạn",
+        "Tấp vào sát lề bên phải và dừng lại"
+      ],
+      "h1": "Quy định giống nhau dù xe đến từ hướng nào.",
+      "h2": "Ở New York, bạn phải tấp vào sát lề bên phải và dừng lại cho xe khẩn cấp, ngay cả khi xe đang chạy về phía bạn ở làn ngược chiều của đường hai chiều.",
+      "p": "Đúng. Tấp vào lề và dừng lại, ngay cả với làn ngược chiều."
+    },
+    "tl": {
+      "q": "Sa New York, sa two-way na kalsada, may ambulansyang naka-siren na papalapit sa iyo sa kabilang lane. Ano ang dapat mong gawin?",
+      "o": [
+        "Magpatuloy sa pagmamaneho, wala ito sa lane mo",
+        "Bumilis para magbigay-daan",
+        "Huminto kung nasaan ka, sa lane mo",
+        "Tumabi sa kanang gilid at huminto"
+      ],
+      "h1": "Pareho ang patakaran saanmang direksyon ito manggaling.",
+      "h2": "Sa New York, dapat kang tumabi sa kanang gilid at huminto para sa emergency vehicle, kahit papalapit ito sa iyo sa kabilang lane ng two-way na kalsada.",
+      "p": "Tama. Tumabi at huminto, kahit para sa kabilang lane."
+    },
+    "ar": {
+      "q": "في New York، على طريق باتجاهين، سيارة إسعاف تشغّل صفّارتها قادمة نحوك في المسار المقابل. ماذا يجب أن تفعل؟",
+      "o": [
+        "استمر في القيادة، فهي ليست في مسارك",
+        "زِد سرعتك لتفسح الطريق",
+        "توقّف في مكانك تمامًا، في مسارك",
+        "اقترب من الحافة اليمنى وتوقّف"
+      ],
+      "h1": "القاعدة نفسها مهما كان الاتجاه الذي تأتي منه.",
+      "h2": "في New York، يجب أن تقترب من الحافة اليمنى وتتوقّف لمركبة الطوارئ، حتى عندما تكون قادمة نحوك في المسار المقابل على طريق باتجاهين.",
+      "p": "صحيح. اقترب من الحافة وتوقّف، حتى للمسار المقابل."
+    }
+  },
+  {
+    "id": "ny-047",
+    "scope": "NY",
+    "cat": "signals",
+    "conf": "high",
+    "page": 35,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, a personal car shows a flashing blue light. Who is usually driving it?",
+      "o": [
+        "A volunteer firefighter answering an alarm",
+        "A police officer making a traffic stop",
+        "A snowplow driver",
+        "A school bus driver"
+      ],
+      "h1": "Green lights are used by volunteer ambulance members.",
+      "h2": "In New York, a flashing blue light on a personal car usually means a volunteer firefighter answering an alarm; it is not an emergency vehicle, but you should let it pass if you safely can.",
+      "p": "Right. Blue light means a volunteer firefighter."
+    },
+    "es": {
+      "q": "En Nueva York, un auto particular lleva una luz azul intermitente. ¿Quién lo maneja normalmente?",
+      "o": [
+        "Un bombero voluntario que acude a una alarma",
+        "Un policía que detiene a un conductor",
+        "El conductor de un quitanieves",
+        "El conductor de un autobús escolar"
+      ],
+      "h1": "Las luces verdes las usan los voluntarios de ambulancia.",
+      "h2": "En Nueva York, una luz azul intermitente en un auto particular suele indicar un bombero voluntario que acude a una alarma; no es un vehículo de emergencia, pero debe dejarlo pasar si puede hacerlo con seguridad.",
+      "p": "Correcto. La luz azul indica un bombero voluntario."
+    },
+    "zh": {
+      "q": "在 New York，一辆私家车闪着蓝灯。开车的通常是谁？",
+      "o": [
+        "赶去处理警报的志愿消防员",
+        "正在拦车的警察",
+        "扫雪车司机",
+        "校车司机"
+      ],
+      "h1": "绿灯是志愿救护队员用的。",
+      "h2": "在 New York，私家车上闪蓝灯通常表示是赶去处理警报的志愿消防员；它不是紧急车辆，但如果安全，你应该让它先过。",
+      "p": "对。蓝灯表示志愿消防员。"
+    },
+    "vi": {
+      "q": "Ở New York, một xe cá nhân có đèn xanh dương nhấp nháy. Người lái thường là ai?",
+      "o": [
+        "Một lính cứu hỏa tình nguyện đang đi ứng cứu báo động",
+        "Một cảnh sát đang chặn xe",
+        "Một tài xế xe ủi tuyết",
+        "Một tài xế xe buýt trường học"
+      ],
+      "h1": "Đèn xanh lá được các thành viên cứu thương tình nguyện dùng.",
+      "h2": "Ở New York, đèn xanh dương nhấp nháy trên xe cá nhân thường có nghĩa là một lính cứu hỏa tình nguyện đang đi ứng cứu báo động; đó không phải là xe khẩn cấp, nhưng bạn nên để xe đó đi qua nếu có thể làm an toàn.",
+      "p": "Đúng. Đèn xanh dương nghĩa là lính cứu hỏa tình nguyện."
+    },
+    "tl": {
+      "q": "Sa New York, may personal na kotseng may kumikislap na asul na ilaw. Sino ang karaniwang nagmamaneho nito?",
+      "o": [
+        "Isang volunteer firefighter na tumutugon sa alarma",
+        "Isang pulis na nagpapahinto ng sasakyan",
+        "Isang driver ng snowplow",
+        "Isang driver ng school bus"
+      ],
+      "h1": "Ang berdeng ilaw ay ginagamit ng mga volunteer na miyembro ng ambulansya.",
+      "h2": "Sa New York, ang kumikislap na asul na ilaw sa personal na kotse ay karaniwang nangangahulugang isang volunteer firefighter na tumutugon sa alarma; hindi ito emergency vehicle, pero dapat mo itong padaanin kung ligtas mong magagawa.",
+      "p": "Tama. Ang asul na ilaw ay nangangahulugang volunteer firefighter."
+    },
+    "ar": {
+      "q": "في New York، سيارة شخصية عليها ضوء أزرق وامض. من يقودها عادةً؟",
+      "o": [
+        "رجل إطفاء متطوّع ذاهب للاستجابة لإنذار",
+        "شرطي يوقف سيارة",
+        "سائق كاسحة ثلج",
+        "سائق حافلة مدرسية"
+      ],
+      "h1": "الأضواء الخضراء يستخدمها أعضاء الإسعاف المتطوّعون.",
+      "h2": "في New York، الضوء الأزرق الوامض على سيارة شخصية يعني عادةً رجل إطفاء متطوّعًا ذاهبًا للاستجابة لإنذار؛ إنها ليست مركبة طوارئ، لكن ينبغي أن تتركها تمرّ إذا استطعت ذلك بأمان.",
+      "p": "صحيح. الضوء الأزرق يعني رجل إطفاء متطوّعًا."
+    }
+  },
+  {
+    "id": "ny-048",
+    "scope": "NY",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 37,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, you may not make a U-turn where other drivers cannot see your car from how far away?",
+      "o": [
+        "100 feet",
+        "500 feet",
+        "50 feet",
+        "1 mile"
+      ],
+      "h1": "It is a long distance, more than the length of a football field.",
+      "h2": "In New York, you may not make a U-turn near a hilltop, a curve or any place where other drivers cannot see your car from 500 feet away in either direction.",
+      "p": "Right. Drivers must be able to see you from 500 feet."
+    },
+    "es": {
+      "q": "En Nueva York, no puede dar una vuelta en U donde otros conductores no puedan ver su auto desde ¿qué distancia?",
+      "o": [
+        "100 pies",
+        "500 pies",
+        "50 pies",
+        "1 milla"
+      ],
+      "h1": "Es una distancia larga, más que el largo de un campo de fútbol americano.",
+      "h2": "En Nueva York, no puede dar una vuelta en U cerca de la cima de una colina, en una curva ni en ningún lugar donde otros conductores no puedan ver su auto desde 500 pies en cualquier dirección.",
+      "p": "Correcto. Los demás deben poder verlo desde 500 pies."
+    },
+    "zh": {
+      "q": "在 New York，在其他司机从多远都看不到你的车的地方，你不可以掉头（U-turn）？",
+      "o": [
+        "100 英尺",
+        "500 英尺",
+        "50 英尺",
+        "1 英里"
+      ],
+      "h1": "这是很长的距离，比一个橄榄球场还长。",
+      "h2": "在 New York，在山顶、弯道附近，或任何其他司机从两个方向 500 英尺外都看不到你的车的地方，你不可以掉头。",
+      "p": "对。其他司机必须能从 500 英尺外看到你。"
+    },
+    "vi": {
+      "q": "Ở New York, bạn không được quay đầu xe (U-turn) ở nơi mà các người lái khác không thể thấy xe bạn từ khoảng cách bao xa?",
+      "o": [
+        "100 feet",
+        "500 feet",
+        "50 feet",
+        "1 dặm"
+      ],
+      "h1": "Đó là một khoảng cách dài, hơn chiều dài một sân bóng bầu dục.",
+      "h2": "Ở New York, bạn không được quay đầu xe gần đỉnh đồi, khúc cua hoặc bất cứ nơi nào mà các người lái khác không thể thấy xe bạn từ 500 feet ở cả hai hướng.",
+      "p": "Đúng. Các người lái khác phải thấy được bạn từ 500 feet."
+    },
+    "tl": {
+      "q": "Sa New York, hindi ka maaaring mag-U-turn kung saan hindi makikita ng ibang driver ang kotse mo mula sa gaano kalayo?",
+      "o": [
+        "100 feet",
+        "500 feet",
+        "50 feet",
+        "1 milya"
+      ],
+      "h1": "Malayong distansya ito, mas mahaba pa sa isang football field.",
+      "h2": "Sa New York, hindi ka maaaring mag-U-turn malapit sa tuktok ng burol, sa kurba o sa anumang lugar kung saan hindi makikita ng ibang driver ang kotse mo mula 500 feet ang layo sa alinmang direksyon.",
+      "p": "Tama. Dapat kang makita ng ibang driver mula 500 feet."
+    },
+    "ar": {
+      "q": "في New York، لا يجوز لك أن تستدير للخلف (U-turn) في مكان لا يستطيع السائقون الآخرون أن يروا سيارتك فيه من أي مسافة؟",
+      "o": [
+        "100 قدم (feet)",
+        "500 قدم (feet)",
+        "50 قدمًا (feet)",
+        "1 ميل"
+      ],
+      "h1": "إنها مسافة طويلة، أطول من ملعب كرة قدم أمريكية.",
+      "h2": "في New York، لا يجوز لك أن تستدير للخلف قرب قمة تلّ أو منعطف أو أي مكان لا يستطيع السائقون الآخرون أن يروا سيارتك فيه من مسافة 500 قدم (feet) في أي من الاتجاهين.",
+      "p": "صحيح. يجب أن يستطيع السائقون رؤيتك من مسافة 500 قدم."
+    }
+  },
+  {
+    "id": "ny-049",
+    "scope": "NY",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 76,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, you are about to pass a person riding a horse along the road. What must you not do?",
+      "o": [
+        "Slow down",
+        "Leave extra space",
+        "Sound your horn",
+        "Pass when it is safe"
+      ],
+      "h1": "A loud noise can scare the horse.",
+      "h2": "In New York, it is against the law to sound your horn when you come near or pass a horse.",
+      "p": "Right. Never honk near a horse."
+    },
+    "es": {
+      "q": "En Nueva York, está por pasar a una persona que va a caballo por la calle. ¿Qué no debe hacer?",
+      "o": [
+        "Reducir la velocidad",
+        "Dejar más espacio",
+        "Tocar la bocina",
+        "Pasar cuando sea seguro"
+      ],
+      "h1": "Un ruido fuerte puede asustar al caballo.",
+      "h2": "En Nueva York, es ilegal tocar la bocina cuando se acerca a un caballo o lo pasa.",
+      "p": "Correcto. Nunca toque la bocina cerca de un caballo."
+    },
+    "zh": {
+      "q": "在 New York，你要超过一个在路边骑马的人。你一定不可以做什么？",
+      "o": [
+        "减速",
+        "多留空间",
+        "按喇叭",
+        "安全时再超过"
+      ],
+      "h1": "很大的声音会吓到马。",
+      "h2": "在 New York，靠近或超过马的时候按喇叭是违法的。",
+      "p": "对。在马附近千万不要按喇叭。"
+    },
+    "vi": {
+      "q": "Ở New York, bạn sắp vượt qua một người đang cưỡi ngựa dọc đường. Bạn không được làm gì?",
+      "o": [
+        "Giảm tốc độ",
+        "Chừa thêm khoảng cách",
+        "Bấm còi",
+        "Vượt khi an toàn"
+      ],
+      "h1": "Tiếng động lớn có thể làm con ngựa sợ.",
+      "h2": "Ở New York, bấm còi khi bạn đến gần hoặc vượt qua một con ngựa là phạm luật.",
+      "p": "Đúng. Không bao giờ bấm còi gần ngựa."
+    },
+    "tl": {
+      "q": "Sa New York, malapit mo nang lampasan ang taong nakasakay sa kabayo sa tabi ng kalsada. Ano ang hindi mo dapat gawin?",
+      "o": [
+        "Magdahan-dahan",
+        "Mag-iwan ng dagdag na espasyo",
+        "Bumusina",
+        "Lumampas kapag ligtas na"
+      ],
+      "h1": "Maaaring matakot ang kabayo sa malakas na ingay.",
+      "h2": "Sa New York, labag sa batas ang bumusina kapag lumalapit ka o lumalampas sa kabayo.",
+      "p": "Tama. Huwag kailanman bumusina malapit sa kabayo."
+    },
+    "ar": {
+      "q": "في New York، أنت على وشك أن تتجاوز شخصًا يركب حصانًا على جانب الطريق. ما الذي يجب ألّا تفعله؟",
+      "o": [
+        "أن تخفّف السرعة",
+        "أن تترك مسافة إضافية",
+        "أن تستخدم البوق (الزمّور)",
+        "أن تتجاوز عندما يكون ذلك آمنًا"
+      ],
+      "h1": "الصوت العالي قد يُخيف الحصان.",
+      "h2": "في New York، استخدام البوق عندما تقترب من حصان أو تتجاوزه مخالف للقانون.",
+      "p": "صحيح. لا تستخدم البوق أبدًا قرب حصان."
+    }
+  },
+  {
+    "id": "ny-050",
+    "scope": "NY",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 43,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, how close to a fire station driveway may you park on the same side of the street?",
+      "o": [
+        "5 feet",
+        "10 feet",
+        "15 feet",
+        "No closer than 20 feet"
+      ],
+      "h1": "Across the street, the distance is 75 feet.",
+      "h2": "In New York, you may not park or stand within 20 feet of a fire station driveway on the same side of the street, or within 75 feet on the other side.",
+      "p": "Right. Stay at least 20 feet from a fire station driveway."
+    },
+    "es": {
+      "q": "En Nueva York, ¿a qué distancia de la entrada de una estación de bomberos puede estacionarse del mismo lado de la calle?",
+      "o": [
+        "5 pies",
+        "10 pies",
+        "15 pies",
+        "No más cerca de 20 pies"
+      ],
+      "h1": "Del otro lado de la calle, la distancia es de 75 pies.",
+      "h2": "En Nueva York, no puede estacionarse ni detenerse a menos de 20 pies de la entrada de una estación de bomberos del mismo lado de la calle, ni a menos de 75 pies del otro lado.",
+      "p": "Correcto. Manténgase por lo menos a 20 pies de la entrada de los bomberos."
+    },
+    "zh": {
+      "q": "在 New York，在同一边街道上，你可以把车停在离消防站车道多近的地方？",
+      "o": [
+        "5 英尺",
+        "10 英尺",
+        "15 英尺",
+        "不能近于 20 英尺"
+      ],
+      "h1": "在街道对面，距离是 75 英尺。",
+      "h2": "在 New York，在同一边街道上，你不可以在离消防站车道 20 英尺以内停车或停留；在对面一边是 75 英尺以内。",
+      "p": "对。要离消防站车道至少 20 英尺。"
+    },
+    "vi": {
+      "q": "Ở New York, bạn được đậu xe gần lối ra vào trạm cứu hỏa đến mức nào nếu ở cùng bên đường?",
+      "o": [
+        "5 feet",
+        "10 feet",
+        "15 feet",
+        "Không gần hơn 20 feet"
+      ],
+      "h1": "Ở bên kia đường, khoảng cách là 75 feet.",
+      "h2": "Ở New York, bạn không được đậu hoặc dừng xe trong vòng 20 feet tính từ lối ra vào trạm cứu hỏa nếu ở cùng bên đường, hoặc trong vòng 75 feet nếu ở bên kia đường.",
+      "p": "Đúng. Hãy cách lối ra vào trạm cứu hỏa ít nhất 20 feet."
+    },
+    "tl": {
+      "q": "Sa New York, gaano kalapit sa driveway ng fire station ka maaaring pumarada sa parehong panig ng kalye?",
+      "o": [
+        "5 feet",
+        "10 feet",
+        "15 feet",
+        "Hindi mas malapit sa 20 feet"
+      ],
+      "h1": "Sa kabilang panig ng kalye, 75 feet ang distansya.",
+      "h2": "Sa New York, hindi ka maaaring pumarada o tumigil sa loob ng 20 feet mula sa driveway ng fire station sa parehong panig ng kalye, o sa loob ng 75 feet sa kabilang panig.",
+      "p": "Tama. Lumayo nang hindi bababa sa 20 feet sa driveway ng fire station."
+    },
+    "ar": {
+      "q": "في New York، ما أقرب مسافة يمكنك أن تركن فيها من مدخل محطة إطفاء على نفس جانب الشارع؟",
+      "o": [
+        "5 أقدام (feet)",
+        "10 أقدام (feet)",
+        "15 قدمًا (feet)",
+        "ليس أقرب من 20 قدمًا (feet)"
+      ],
+      "h1": "على الجانب المقابل من الشارع، المسافة 75 قدمًا.",
+      "h2": "في New York، لا يجوز لك أن تركن أو تتوقّف على بعد أقل من 20 قدمًا (feet) من مدخل محطة إطفاء على نفس جانب الشارع، أو أقل من 75 قدمًا على الجانب الآخر.",
+      "p": "صحيح. ابقَ على بعد 20 قدمًا على الأقل من مدخل محطة الإطفاء."
+    }
   }
 ]

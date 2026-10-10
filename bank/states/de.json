@@ -2540,5 +2540,685 @@
       "h2": "في Delaware حد السرعة في المناطق التجارية والسكنية هو 25 mph ما لم يكن هناك حد مختلف مكتوب.",
       "p": "صحيح. إنه 25 mph."
     }
+  },
+  {
+    "id": "de-032",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 31,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, you just moved here from another state. How soon must you get a Delaware driver license?",
+      "o": [
+        "Within 30 days",
+        "Within 60 days",
+        "Within 90 days",
+        "Within 1 year"
+      ],
+      "h1": "It is about two months.",
+      "h2": "In Delaware, a new resident must apply for a Delaware driver license within 60 days of moving here.",
+      "p": "Right. You have 60 days."
+    },
+    "es": {
+      "q": "En Delaware, usted acaba de mudarse desde otro estado. ¿En cuánto tiempo debe obtener una licencia de conducir de Delaware?",
+      "o": [
+        "Dentro de 30 días",
+        "Dentro de 60 días",
+        "Dentro de 90 días",
+        "Dentro de 1 año"
+      ],
+      "h1": "Son unos dos meses.",
+      "h2": "En Delaware, un nuevo residente debe solicitar una licencia de conducir de Delaware dentro de los 60 días después de mudarse.",
+      "p": "Correcto. Tiene 60 días."
+    }
+  },
+  {
+    "id": "de-033",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 32,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, how long is a regular Class D driver license valid?",
+      "o": [
+        "2 years",
+        "4 years",
+        "6 years",
+        "8 years"
+      ],
+      "h1": "It lasts longer than in many states.",
+      "h2": "In Delaware, a regular Class D driver license is issued for 8 years.",
+      "p": "Right. It is valid for 8 years."
+    },
+    "es": {
+      "q": "En Delaware, ¿por cuánto tiempo es válida una licencia de conducir Clase D normal?",
+      "o": [
+        "2 años",
+        "4 años",
+        "6 años",
+        "8 años"
+      ],
+      "h1": "Dura más que en muchos estados.",
+      "h2": "En Delaware, una licencia de conducir Clase D normal se emite por 8 años.",
+      "p": "Correcto. Es válida por 8 años."
+    }
+  },
+  {
+    "id": "de-034",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 30,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, a teen breaks the rules of the Level One learner's permit for the first time. What happens?",
+      "o": [
+        "A 2-month suspension",
+        "A warning letter only",
+        "A 1-year suspension",
+        "A small fine only"
+      ],
+      "h1": "It is treated like driving without a license.",
+      "h2": "In Delaware, breaking the Level One permit rules counts as driving without a license, and the first offense brings a 2-month suspension.",
+      "p": "Right. The first time, it is a 2-month suspension."
+    },
+    "es": {
+      "q": "En Delaware, un joven no cumple las reglas del permiso de aprendizaje de Nivel Uno por primera vez. ¿Qué pasa?",
+      "o": [
+        "Una suspensión de 2 meses",
+        "Solo una carta de advertencia",
+        "Una suspensión de 1 año",
+        "Solo una multa pequeña"
+      ],
+      "h1": "Se trata como manejar sin licencia.",
+      "h2": "En Delaware, no cumplir las reglas del permiso de Nivel Uno cuenta como manejar sin licencia, y la primera vez trae una suspensión de 2 meses.",
+      "p": "Correcto. La primera vez es una suspensión de 2 meses."
+    }
+  },
+  {
+    "id": "de-035",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 43,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, you fail the road test. How long must you wait before you take it again?",
+      "o": [
+        "Until the next day",
+        "At least 7 days",
+        "At least 30 days",
+        "At least 6 months"
+      ],
+      "h1": "It gives you about a month to practice.",
+      "h2": "In Delaware, if you fail the road test, you must wait at least 30 days before you try again.",
+      "p": "Right. You wait at least 30 days."
+    },
+    "es": {
+      "q": "En Delaware, usted no aprueba el examen de manejo. ¿Cuánto tiempo debe esperar para tomarlo otra vez?",
+      "o": [
+        "Hasta el día siguiente",
+        "Por lo menos 7 días",
+        "Por lo menos 30 días",
+        "Por lo menos 6 meses"
+      ],
+      "h1": "Le da como un mes para practicar.",
+      "h2": "En Delaware, si no aprueba el examen de manejo, debe esperar por lo menos 30 días antes de intentarlo otra vez.",
+      "p": "Correcto. Debe esperar por lo menos 30 días."
+    }
+  },
+  {
+    "id": "de-036",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 44,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, how much is the fee to reinstate a revoked driver license?",
+      "o": [
+        "$25",
+        "$50",
+        "$100",
+        "$200"
+      ],
+      "h1": "A revoked license costs more to get back than a suspended one.",
+      "h2": "In Delaware, it costs $200 to reinstate a revoked license, while a suspended license costs $50.",
+      "p": "Right. The fee is $200."
+    },
+    "es": {
+      "q": "En Delaware, ¿cuánto cuesta restablecer una licencia de conducir revocada?",
+      "o": [
+        "$25",
+        "$50",
+        "$100",
+        "$200"
+      ],
+      "h1": "Recuperar una licencia revocada cuesta más que una suspendida.",
+      "h2": "En Delaware, cuesta $200 restablecer una licencia revocada, mientras que una licencia suspendida cuesta $50.",
+      "p": "Correcto. El cargo es de $200."
+    }
+  },
+  {
+    "id": "de-037",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 47,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, how many points do you get for driving 10 to 14 mph over the speed limit?",
+      "o": [
+        "4 points",
+        "2 points",
+        "6 points",
+        "8 points"
+      ],
+      "h1": "It is more than for going just a little over the limit.",
+      "h2": "In Delaware, speeding 10 to 14 mph over the posted limit adds 4 points to your record.",
+      "p": "Right. It is 4 points."
+    },
+    "es": {
+      "q": "En Delaware, ¿cuántos puntos recibe por manejar de 10 a 14 mph sobre el límite de velocidad?",
+      "o": [
+        "4 puntos",
+        "2 puntos",
+        "6 puntos",
+        "8 puntos"
+      ],
+      "h1": "Es más que por pasarse solo un poco del límite.",
+      "h2": "En Delaware, manejar de 10 a 14 mph sobre el límite señalado agrega 4 puntos a su historial.",
+      "p": "Correcto. Son 4 puntos."
+    }
+  },
+  {
+    "id": "de-038",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 47,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, what must a driver do after reaching 12 points?",
+      "o": [
+        "Nothing, it is only a warning",
+        "Finish a behavior modification driving course within 90 days",
+        "Lose the license for 1 year",
+        "Retake the vision test only"
+      ],
+      "h1": "It is a class, with a deadline.",
+      "h2": "In Delaware, a driver who reaches 12 points must complete a behavior modification driving course within 90 days, or face a 2-month suspension.",
+      "p": "Right. At 12 points you must take the course within 90 days."
+    },
+    "es": {
+      "q": "En Delaware, ¿qué debe hacer un conductor al llegar a 12 puntos?",
+      "o": [
+        "Nada, es solo una advertencia",
+        "Terminar un curso de modificación de conducta al volante dentro de 90 días",
+        "Perder la licencia por 1 año",
+        "Solo repetir el examen de la vista"
+      ],
+      "h1": "Es una clase, con una fecha límite.",
+      "h2": "En Delaware, un conductor que llega a 12 puntos debe completar un curso de modificación de conducta al volante dentro de 90 días, o tendrá una suspensión de 2 meses.",
+      "p": "Correcto. Con 12 puntos debe tomar el curso dentro de 90 días."
+    }
+  },
+  {
+    "id": "de-039",
+    "scope": "DE",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 48,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, a driver is convicted of going 25 mph over the speed limit. What happens to the license?",
+      "o": [
+        "Nothing happens to it",
+        "It is revoked for life",
+        "It is suspended for 1 month",
+        "It is suspended for 5 years"
+      ],
+      "h1": "It is a short suspension, and it grows with more speed.",
+      "h2": "In Delaware, driving 25 mph over the limit brings a 1-month license suspension, and it gets longer for each extra 5 mph.",
+      "p": "Right. It is a 1-month suspension."
+    },
+    "es": {
+      "q": "En Delaware, un conductor es declarado culpable de manejar 25 mph sobre el límite de velocidad. ¿Qué pasa con su licencia?",
+      "o": [
+        "No le pasa nada",
+        "Se revoca de por vida",
+        "Se suspende por 1 mes",
+        "Se suspende por 5 años"
+      ],
+      "h1": "Es una suspensión corta, y aumenta con más velocidad.",
+      "h2": "En Delaware, manejar 25 mph sobre el límite trae una suspensión de la licencia de 1 mes, y es más larga por cada 5 mph adicionales.",
+      "p": "Correcto. Es una suspensión de 1 mes."
+    }
+  },
+  {
+    "id": "de-040",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 49,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, what can an approved defensive driving course give you?",
+      "o": [
+        "A 3-point credit",
+        "A free license renewal",
+        "All your points erased",
+        "A higher speed limit"
+      ],
+      "h1": "It helps with future penalties, not with points you already have.",
+      "h2": "In Delaware, finishing an approved defensive driving course can give you a 3-point credit toward future DMV penalties.",
+      "p": "Right. It gives a 3-point credit."
+    },
+    "es": {
+      "q": "En Delaware, ¿qué le puede dar un curso aprobado de manejo defensivo?",
+      "o": [
+        "Un crédito de 3 puntos",
+        "Una renovación de licencia gratis",
+        "Que se borren todos sus puntos",
+        "Un límite de velocidad más alto"
+      ],
+      "h1": "Ayuda con sanciones futuras, no con los puntos que ya tiene.",
+      "h2": "En Delaware, terminar un curso aprobado de manejo defensivo le puede dar un crédito de 3 puntos para sanciones futuras del DMV.",
+      "p": "Correcto. Da un crédito de 3 puntos."
+    }
+  },
+  {
+    "id": "de-041",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 55,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, after an arrest for driving under the influence, how many days do you have to ask for a DMV hearing?",
+      "o": [
+        "5 days",
+        "15 days",
+        "30 days",
+        "60 days"
+      ],
+      "h1": "It matches the length of the temporary license the officer gives you.",
+      "h2": "In Delaware, after a DUI arrest you get a 15-day temporary license and have 15 days to ask for an administrative hearing.",
+      "p": "Right. You have 15 days."
+    },
+    "es": {
+      "q": "En Delaware, después de un arresto por manejar bajo la influencia, ¿cuántos días tiene para pedir una audiencia del DMV?",
+      "o": [
+        "5 días",
+        "15 días",
+        "30 días",
+        "60 días"
+      ],
+      "h1": "Es igual al tiempo de la licencia temporal que le da el oficial.",
+      "h2": "En Delaware, después de un arresto por DUI usted recibe una licencia temporal de 15 días y tiene 15 días para pedir una audiencia administrativa.",
+      "p": "Correcto. Tiene 15 días."
+    }
+  },
+  {
+    "id": "de-042",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 56,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, a driver is convicted of a first DUI with a blood alcohol level under 0.15. How long does the DMV take away the license?",
+      "o": [
+        "1 month",
+        "6 months",
+        "5 years",
+        "12 months"
+      ],
+      "h1": "It is a full year.",
+      "h2": "In Delaware, a first DUI conviction with a blood alcohol level under 0.15 means the DMV takes the license for 12 months.",
+      "p": "Right. It is 12 months."
+    },
+    "es": {
+      "q": "En Delaware, un conductor es declarado culpable de un primer DUI con un nivel de alcohol en la sangre menor de 0.15. ¿Por cuánto tiempo le quita la licencia el DMV?",
+      "o": [
+        "1 mes",
+        "6 meses",
+        "5 años",
+        "12 meses"
+      ],
+      "h1": "Es un año completo.",
+      "h2": "En Delaware, una primera condena por DUI con un nivel de alcohol en la sangre menor de 0.15 significa que el DMV le quita la licencia por 12 meses.",
+      "p": "Correcto. Son 12 meses."
+    }
+  },
+  {
+    "id": "de-043",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 54,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, a person under 21 is caught with alcohol for the first time. What is the fine?",
+      "o": [
+        "$25",
+        "$100",
+        "$500",
+        "$1,000"
+      ],
+      "h1": "It goes up for a second offense.",
+      "h2": "In Delaware, a person under 21 who has or drinks alcohol is fined $100 for the first offense.",
+      "p": "Right. The first fine is $100."
+    },
+    "es": {
+      "q": "En Delaware, a una persona menor de 21 años la encuentran con alcohol por primera vez. ¿Cuál es la multa?",
+      "o": [
+        "$25",
+        "$100",
+        "$500",
+        "$1,000"
+      ],
+      "h1": "Sube en una segunda ofensa.",
+      "h2": "En Delaware, una persona menor de 21 años que tiene o toma alcohol recibe una multa de $100 la primera vez.",
+      "p": "Correcto. La primera multa es de $100."
+    }
+  },
+  {
+    "id": "de-044",
+    "scope": "DE",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 62,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, besides at night, when must your headlights be on?",
+      "o": [
+        "Only on the highway",
+        "Only when it is snowing",
+        "Any time you cannot see beyond 1,000 feet",
+        "Any time you have passengers"
+      ],
+      "h1": "Think about how far ahead you can see.",
+      "h2": "In Delaware, your headlights must be on any time you cannot see clearly beyond 1,000 feet.",
+      "p": "Right. Use them when you cannot see past 1,000 feet."
+    },
+    "es": {
+      "q": "En Delaware, además de la noche, ¿cuándo debe tener las luces delanteras encendidas?",
+      "o": [
+        "Solo en la autopista",
+        "Solo cuando está nevando",
+        "Siempre que no pueda ver más allá de 1,000 pies",
+        "Siempre que lleve pasajeros"
+      ],
+      "h1": "Piense en qué tan lejos puede ver.",
+      "h2": "En Delaware, sus luces delanteras deben estar encendidas siempre que no pueda ver bien más allá de 1,000 pies.",
+      "p": "Correcto. Úselas cuando no pueda ver más allá de 1,000 pies."
+    }
+  },
+  {
+    "id": "de-045",
+    "scope": "DE",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 62,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, you are following another car at night. Within what distance must you switch to low beams?",
+      "o": [
+        "200 feet",
+        "50 feet",
+        "500 feet",
+        "1,000 feet"
+      ],
+      "h1": "It is shorter than the distance for a car coming toward you.",
+      "h2": "In Delaware, you must switch to low beams when you are within 200 feet of the car you are following.",
+      "p": "Right. Dim your lights within 200 feet."
+    },
+    "es": {
+      "q": "En Delaware, usted va detrás de otro carro de noche. ¿A qué distancia debe cambiar a luces bajas?",
+      "o": [
+        "200 pies",
+        "50 pies",
+        "500 pies",
+        "1,000 pies"
+      ],
+      "h1": "Es menos que la distancia para un carro que viene de frente.",
+      "h2": "En Delaware, debe cambiar a luces bajas cuando esté a 200 pies o menos del carro que va adelante.",
+      "p": "Correcto. Baje las luces a 200 pies."
+    }
+  },
+  {
+    "id": "de-046",
+    "scope": "DE",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 62,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, when may you use studded tires?",
+      "o": [
+        "All year",
+        "November 1 to March 31",
+        "December 1 to February 28",
+        "October 15 to April 15"
+      ],
+      "h1": "The season starts in the middle of October.",
+      "h2": "In Delaware, studded tires are legal from October 15 to April 15 and not allowed the rest of the year.",
+      "p": "Right. October 15 to April 15."
+    },
+    "es": {
+      "q": "En Delaware, ¿cuándo puede usar llantas con clavos?",
+      "o": [
+        "Todo el año",
+        "Del 1 de noviembre al 31 de marzo",
+        "Del 1 de diciembre al 28 de febrero",
+        "Del 15 de octubre al 15 de abril"
+      ],
+      "h1": "La temporada empieza a mediados de octubre.",
+      "h2": "En Delaware, las llantas con clavos son legales del 15 de octubre al 15 de abril y no se permiten el resto del año.",
+      "p": "Correcto. Del 15 de octubre al 15 de abril."
+    }
+  },
+  {
+    "id": "de-047",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 63,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, what is the least liability insurance a car must have for injury or death of one person in a crash?",
+      "o": [
+        "$5,000",
+        "$100,000",
+        "$25,000",
+        "$250,000"
+      ],
+      "h1": "It is half of the amount for two or more people.",
+      "h2": "In Delaware, a car must have at least $25,000 of coverage for injury or death of one person in any one crash.",
+      "p": "Right. The minimum is $25,000."
+    },
+    "es": {
+      "q": "En Delaware, ¿cuál es el seguro de responsabilidad mínimo que debe tener un carro por lesiones o muerte de una persona en un choque?",
+      "o": [
+        "$5,000",
+        "$100,000",
+        "$25,000",
+        "$250,000"
+      ],
+      "h1": "Es la mitad de la cantidad para dos o más personas.",
+      "h2": "En Delaware, un carro debe tener por lo menos $25,000 de cobertura por lesiones o muerte de una persona en un choque.",
+      "p": "Correcto. El mínimo es de $25,000."
+    }
+  },
+  {
+    "id": "de-048",
+    "scope": "DE",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 93,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, what speed limit does state law set for Route 1 and Interstate 495?",
+      "o": [
+        "60 mph",
+        "65 mph",
+        "70 mph",
+        "75 mph"
+      ],
+      "h1": "It is the highest limit in the state speed table.",
+      "h2": "In Delaware, the speed limit on Route 1 and Interstate 495 is 65 mph.",
+      "p": "Right. It is 65 mph."
+    },
+    "es": {
+      "q": "En Delaware, ¿qué límite de velocidad fija la ley estatal para la Ruta 1 y la Interestatal 495?",
+      "o": [
+        "60 mph",
+        "65 mph",
+        "70 mph",
+        "75 mph"
+      ],
+      "h1": "Es el límite más alto de la tabla de velocidades del estado.",
+      "h2": "En Delaware, el límite de velocidad en la Ruta 1 y la Interestatal 495 es de 65 mph.",
+      "p": "Correcto. Es de 65 mph."
+    }
+  },
+  {
+    "id": "de-049",
+    "scope": "DE",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 93,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, if no other limit is posted, what is the speed limit on a divided road or a road with four or more lanes?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "50 mph",
+        "65 mph"
+      ],
+      "h1": "It is a little faster than on a two-lane road.",
+      "h2": "In Delaware, the speed limit on divided roads and roads with four or more lanes is 55 mph unless another limit is posted.",
+      "p": "Right. It is 55 mph."
+    },
+    "es": {
+      "q": "En Delaware, si no hay otro límite señalado, ¿cuál es el límite de velocidad en una carretera dividida o con cuatro carriles o más?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "50 mph",
+        "65 mph"
+      ],
+      "h1": "Es un poco más rápido que en una carretera de dos carriles.",
+      "h2": "En Delaware, el límite de velocidad en carreteras divididas y carreteras con cuatro carriles o más es de 55 mph, salvo que haya otro límite señalado.",
+      "p": "Correcto. Es de 55 mph."
+    }
+  },
+  {
+    "id": "de-050",
+    "scope": "DE",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 100,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, you are following a motorcycle at more than 40 mph. How much following distance should you keep?",
+      "o": [
+        "1 second",
+        "2 seconds",
+        "4 seconds",
+        "10 seconds"
+      ],
+      "h1": "It doubles the distance used at lower speeds.",
+      "h2": "In Delaware, keep at least 4 seconds behind a motorcycle above 40 mph, and 2 seconds below 40 mph.",
+      "p": "Right. Keep 4 seconds behind."
+    },
+    "es": {
+      "q": "En Delaware, usted va detrás de una motocicleta a más de 40 mph. ¿Qué distancia debe mantener?",
+      "o": [
+        "1 segundo",
+        "2 segundos",
+        "4 segundos",
+        "10 segundos"
+      ],
+      "h1": "Es el doble de la distancia que se usa a velocidades más bajas.",
+      "h2": "En Delaware, mantenga por lo menos 4 segundos detrás de una motocicleta a más de 40 mph, y 2 segundos a menos de 40 mph.",
+      "p": "Correcto. Mantenga 4 segundos de distancia."
+    }
+  },
+  {
+    "id": "de-051",
+    "scope": "DE",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 116,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, may you drive with headphones or earbuds in both ears?",
+      "o": [
+        "Yes, if the volume is low",
+        "Yes, but only in the daytime",
+        "Yes, if you are 21 or older",
+        "No, it is against the law"
+      ],
+      "h1": "You need to hear horns and sirens.",
+      "h2": "In Delaware, it is illegal to drive with headphones or earphones that cover or go in both ears.",
+      "p": "Right. It is against the law."
+    },
+    "es": {
+      "q": "En Delaware, ¿puede manejar con audífonos en los dos oídos?",
+      "o": [
+        "Sí, si el volumen está bajo",
+        "Sí, pero solo de día",
+        "Sí, si tiene 21 años o más",
+        "No, es contra la ley"
+      ],
+      "h1": "Usted necesita oír bocinas y sirenas.",
+      "h2": "En Delaware, es ilegal manejar con audífonos que cubran o entren en los dos oídos.",
+      "p": "Correcto. Es contra la ley."
+    }
   }
 ]

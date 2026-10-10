@@ -1638,5 +1638,1127 @@
       "h2": "يطلب قانون الابتعاد في New Hampshire من السائقين أن يخففوا السرعة ويبتعدوا إلى مسار آخر، عندما يكون ذلك آمنًا، لمركبة متوقفة تُظهر أضواء وامضة زرقاء أو حمراء أو كهرمانية، مثل الشرطة أو الإطفاء أو سيارات السحب أو فرق الطرق.",
       "p": "صحيح. المركبات المتوقفة التي تُظهر أضواء وامضة زرقاء أو حمراء أو كهرمانية."
     }
+  },
+  {
+    "id": "nh-021",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-60.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, how fast may you drive in a posted school zone while the school limit is in effect?",
+      "o": [
+        "5 mph below the usual posted limit",
+        "15 mph, whatever the usual limit is",
+        "10 mph below the usual posted limit",
+        "20 mph below the usual posted limit"
+      ],
+      "h1": "The school limit is found by taking a set number off the usual limit.",
+      "h2": "In a posted New Hampshire school zone, the limit is 10 mph below the usual posted limit while the school limit is in effect.",
+      "p": "Right. Drive 10 mph under the usual limit."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿a qué velocidad puede manejar en una zona escolar señalizada mientras rige el límite escolar?",
+      "o": [
+        "5 mph menos que el límite habitual",
+        "15 mph, sea cual sea el límite habitual",
+        "10 mph menos que el límite habitual",
+        "20 mph menos que el límite habitual"
+      ],
+      "h1": "El límite escolar se obtiene restando un número fijo al límite habitual.",
+      "h2": "En una zona escolar señalizada de New Hampshire, el límite es 10 mph menos que el límite habitual mientras rige el límite escolar.",
+      "p": "Correcto. Maneje 10 mph por debajo del límite habitual."
+    }
+  },
+  {
+    "id": "nh-022",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-60.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, when does the lower speed limit in a posted school zone apply?",
+      "o": [
+        "From 45 minutes before school opens until it opens, and from closing until 45 minutes after",
+        "All day, every day of the year",
+        "Only when children are on the sidewalk",
+        "From 7 a.m. to 5 p.m. on weekdays"
+      ],
+      "h1": "It is tied to the times the school opens and closes.",
+      "h2": "In New Hampshire, the school zone limit applies from 45 minutes before school opens until it opens, and from the time school closes until 45 minutes later.",
+      "p": "Right. 45 minutes before opening and 45 minutes after closing."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿cuándo rige el límite de velocidad más bajo en una zona escolar señalizada?",
+      "o": [
+        "Desde 45 minutos antes de que abra la escuela hasta que abre, y desde el cierre hasta 45 minutos después",
+        "Todo el día, todos los días del año",
+        "Solo cuando hay niños en la acera",
+        "De 7 a.m. a 5 p.m. los días entre semana"
+      ],
+      "h1": "Depende de la hora en que la escuela abre y cierra.",
+      "h2": "En New Hampshire, el límite de la zona escolar rige desde 45 minutos antes de que abra la escuela hasta que abre, y desde que cierra hasta 45 minutos después.",
+      "p": "Correcto. 45 minutos antes de abrir y 45 minutos después de cerrar."
+    }
+  },
+  {
+    "id": "nh-023",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-60.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, what is the speed limit in a business district or a city residential area when no sign says otherwise?",
+      "o": [
+        "25 mph",
+        "30 mph",
+        "35 mph",
+        "40 mph"
+      ],
+      "h1": "It is the limit for town business streets, a little lower than in rural residential areas.",
+      "h2": "In New Hampshire, the speed limit in a business or urban residence district is 30 mph unless a sign says otherwise.",
+      "p": "Right. 30 mph in business and city residential areas."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿cuál es el límite de velocidad en una zona comercial o un barrio residencial de ciudad cuando ninguna señal indica otra cosa?",
+      "o": [
+        "25 mph",
+        "30 mph",
+        "35 mph",
+        "40 mph"
+      ],
+      "h1": "Es el límite para calles comerciales de pueblo, un poco más bajo que en zonas residenciales rurales.",
+      "h2": "En New Hampshire, el límite de velocidad en una zona comercial o un barrio residencial urbano es de 30 mph, salvo que una señal indique otra cosa.",
+      "p": "Correcto. 30 mph en zonas comerciales y barrios de ciudad."
+    }
+  },
+  {
+    "id": "nh-024",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-60.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, what is the speed limit in a rural residential area when no sign says otherwise?",
+      "o": [
+        "25 mph",
+        "30 mph",
+        "45 mph",
+        "35 mph"
+      ],
+      "h1": "It is a little higher than the limit in a town business area.",
+      "h2": "In New Hampshire, the speed limit in a rural residence district is 35 mph unless a sign says otherwise.",
+      "p": "Right. 35 mph in rural residential areas."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿cuál es el límite de velocidad en una zona residencial rural cuando ninguna señal indica otra cosa?",
+      "o": [
+        "25 mph",
+        "30 mph",
+        "45 mph",
+        "35 mph"
+      ],
+      "h1": "Es un poco más alto que el límite en una zona comercial de un pueblo.",
+      "h2": "En New Hampshire, el límite de velocidad en una zona residencial rural es de 35 mph, salvo que una señal indique otra cosa.",
+      "p": "Correcto. 35 mph en zonas residenciales rurales."
+    }
+  },
+  {
+    "id": "nh-025",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-60.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, you are on a paved two-lane state highway in the countryside, outside business and residential areas. No sign shows the limit. What is the speed limit?",
+      "o": [
+        "45 mph",
+        "50 mph",
+        "55 mph",
+        "65 mph"
+      ],
+      "h1": "It is 10 mph less than the usual limit on a four-lane interstate.",
+      "h2": "In New Hampshire, the speed limit on a paved two-lane highway in the countryside, outside business and residential areas, is 55 mph when no sign says otherwise.",
+      "p": "Right. The limit there is 55 mph."
+    },
+    "es": {
+      "q": "En New Hampshire, usted va por una carretera estatal pavimentada de dos carriles en el campo, fuera de zonas comerciales y residenciales. Ninguna señal indica el límite. ¿Cuál es el límite de velocidad?",
+      "o": [
+        "45 mph",
+        "50 mph",
+        "55 mph",
+        "65 mph"
+      ],
+      "h1": "Es 10 mph menos que el límite habitual en una interestatal de cuatro carriles.",
+      "h2": "En New Hampshire, el límite de velocidad en una carretera pavimentada de dos carriles en el campo, fuera de zonas comerciales y residenciales, es de 55 mph cuando ninguna señal indica otra cosa.",
+      "p": "Correcto. Allí el límite es de 55 mph."
+    }
+  },
+  {
+    "id": "nh-026",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-60.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, where is the speed limit set at 70 mph by state law?",
+      "o": [
+        "On every interstate highway",
+        "On part of I-93, from mile marker 45 to the Vermont border",
+        "On I-95 along the seacoast",
+        "Nowhere; the top limit is 65 mph"
+      ],
+      "h1": "It is one stretch of a single interstate, heading north and west.",
+      "h2": "In New Hampshire, the speed limit is 70 mph on part of I-93, from mile marker 45 to the Vermont border.",
+      "p": "Right. 70 mph on I-93 from mile marker 45 to Vermont."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿dónde fija la ley estatal un límite de velocidad de 70 mph?",
+      "o": [
+        "En todas las carreteras interestatales",
+        "En parte de la I-93, desde la milla 45 hasta la frontera con Vermont",
+        "En la I-95 a lo largo de la costa",
+        "En ningún lugar; el límite máximo es de 65 mph"
+      ],
+      "h1": "Es un tramo de una sola interestatal, hacia el norte y el oeste.",
+      "h2": "En New Hampshire, el límite de velocidad es de 70 mph en parte de la I-93, desde la milla 45 hasta la frontera con Vermont.",
+      "p": "Correcto. 70 mph en la I-93 desde la milla 45 hasta Vermont."
+    }
+  },
+  {
+    "id": "nh-027",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-60.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, road workers are working on or right next to the road. How fast may you drive past them?",
+      "o": [
+        "The usual posted limit",
+        "5 mph below the usual limit",
+        "25 mph, on any road",
+        "At least 10 mph below the usual limit"
+      ],
+      "h1": "You must take off a set number, and you may slow down even more.",
+      "h2": "In New Hampshire, when workers are on or close to the road, you must drive at least 10 mph below the usual posted limit.",
+      "p": "Right. At least 10 mph under the usual limit."
+    },
+    "es": {
+      "q": "En New Hampshire, hay trabajadores en la vía o justo al lado. ¿A qué velocidad puede pasar junto a ellos?",
+      "o": [
+        "Al límite habitual señalizado",
+        "5 mph menos que el límite habitual",
+        "25 mph, en cualquier vía",
+        "Al menos 10 mph menos que el límite habitual"
+      ],
+      "h1": "Debe restar un número fijo, y puede ir aún más despacio.",
+      "h2": "En New Hampshire, cuando hay trabajadores en la vía o muy cerca, debe manejar al menos 10 mph por debajo del límite habitual señalizado.",
+      "p": "Correcto. Al menos 10 mph menos que el límite habitual."
+    }
+  },
+  {
+    "id": "nh-028",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-60.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, your car has a toll transponder, such as E-ZPass. How fast may you go through a toll booth with a transponder reader that is not an open road tolling lane?",
+      "o": [
+        "25 mph",
+        "15 mph",
+        "35 mph",
+        "45 mph"
+      ],
+      "h1": "It is a little slower than the limit in a town business area.",
+      "h2": "In New Hampshire, a car with a transponder may go no faster than 25 mph through a toll booth with a transponder reader, unless it is an open road tolling lane.",
+      "p": "Right. 25 mph through the toll booth."
+    },
+    "es": {
+      "q": "En New Hampshire, su carro tiene un transpondedor de peaje, como E-ZPass. ¿A qué velocidad puede pasar por una caseta de peaje con lector de transpondedor que no es un carril de peaje abierto (open road tolling)?",
+      "o": [
+        "25 mph",
+        "15 mph",
+        "35 mph",
+        "45 mph"
+      ],
+      "h1": "Es un poco más lento que el límite en una zona comercial de un pueblo.",
+      "h2": "En New Hampshire, un carro con transpondedor no puede pasar a más de 25 mph por una caseta de peaje con lector de transpondedor, salvo en un carril de peaje abierto.",
+      "p": "Correcto. 25 mph por la caseta de peaje."
+    }
+  },
+  {
+    "id": "nh-029",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-69.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 15 feet",
+        "No closer than 25 feet"
+      ],
+      "h1": "It is about the length of one car.",
+      "h2": "In New Hampshire, you may not park within 15 feet of a fire hydrant.",
+      "p": "Right. Stay 15 feet from a hydrant."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿a qué distancia de un hidrante puede estacionarse?",
+      "o": [
+        "No a menos de 5 pies",
+        "No a menos de 10 pies",
+        "No a menos de 15 pies",
+        "No a menos de 25 pies"
+      ],
+      "h1": "Es más o menos el largo de un carro.",
+      "h2": "En New Hampshire, no puede estacionarse a menos de 15 pies de un hidrante.",
+      "p": "Correcto. Quédese a 15 pies del hidrante."
+    }
+  },
+  {
+    "id": "nh-030",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-69.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, how close to a crosswalk at an intersection may you park?",
+      "o": [
+        "No closer than 10 feet",
+        "No closer than 20 feet",
+        "No closer than 30 feet",
+        "No closer than 50 feet"
+      ],
+      "h1": "It is more than the space you leave at a fire hydrant.",
+      "h2": "In New Hampshire, you may not park within 20 feet of a crosswalk at an intersection.",
+      "p": "Right. Stay 20 feet from the crosswalk."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿a qué distancia de un cruce peatonal en una intersección puede estacionarse?",
+      "o": [
+        "No a menos de 10 pies",
+        "No a menos de 20 pies",
+        "No a menos de 30 pies",
+        "No a menos de 50 pies"
+      ],
+      "h1": "Es más que el espacio que deja junto a un hidrante.",
+      "h2": "En New Hampshire, no puede estacionarse a menos de 20 pies de un cruce peatonal en una intersección.",
+      "p": "Correcto. Quédese a 20 pies del cruce peatonal."
+    }
+  },
+  {
+    "id": "nh-031",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-69.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, you are coming up to a stop sign, a flashing signal or a traffic light at the side of the road. How close to it may you park?",
+      "o": [
+        "No closer than 10 feet",
+        "No closer than 15 feet",
+        "No closer than 20 feet",
+        "No closer than 30 feet"
+      ],
+      "h1": "Drivers need room to see the sign or light, so the gap is longer than at a crosswalk.",
+      "h2": "In New Hampshire, you may not park within 30 feet before a stop sign, flashing signal or traffic light at the side of the road.",
+      "p": "Right. Stay 30 feet back."
+    },
+    "es": {
+      "q": "En New Hampshire, usted se acerca a una señal de alto, una luz intermitente o un semáforo al lado de la vía. ¿A qué distancia puede estacionarse?",
+      "o": [
+        "No a menos de 10 pies",
+        "No a menos de 15 pies",
+        "No a menos de 20 pies",
+        "No a menos de 30 pies"
+      ],
+      "h1": "Los conductores necesitan espacio para ver la señal o la luz, así que la distancia es mayor que en un cruce peatonal.",
+      "h2": "En New Hampshire, no puede estacionarse a menos de 30 pies antes de una señal de alto, una luz intermitente o un semáforo al lado de la vía.",
+      "p": "Correcto. Quédese a 30 pies."
+    }
+  },
+  {
+    "id": "nh-032",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-69.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, how close to the nearest rail of a railroad crossing may you park?",
+      "o": [
+        "No closer than 50 feet",
+        "No closer than 15 feet",
+        "No closer than 25 feet",
+        "No closer than 100 feet"
+      ],
+      "h1": "It is the longest of the usual parking distances.",
+      "h2": "In New Hampshire, you may not park within 50 feet of the nearest rail of a railroad crossing, except for a short stop to load or unload.",
+      "p": "Right. Stay 50 feet from the nearest rail."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿a qué distancia del riel más cercano de un cruce de ferrocarril puede estacionarse?",
+      "o": [
+        "No a menos de 50 pies",
+        "No a menos de 15 pies",
+        "No a menos de 25 pies",
+        "No a menos de 100 pies"
+      ],
+      "h1": "Es la mayor de las distancias comunes para estacionar.",
+      "h2": "En New Hampshire, no puede estacionarse a menos de 50 pies del riel más cercano de un cruce de ferrocarril, salvo una parada corta para cargar o descargar.",
+      "p": "Correcto. Quédese a 50 pies del riel más cercano."
+    }
+  },
+  {
+    "id": "nh-033",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-69.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, how close to the driveway of a fire station may you park, on the same side of the street?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 20 feet",
+        "No closer than 100 feet"
+      ],
+      "h1": "It is the same distance as from a crosswalk at an intersection.",
+      "h2": "In New Hampshire, you may not park within 20 feet of the driveway entrance of a fire station.",
+      "p": "Right. Stay 20 feet from a fire station driveway."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿a qué distancia de la entrada de vehículos de una estación de bomberos puede estacionarse, del mismo lado de la calle?",
+      "o": [
+        "No a menos de 5 pies",
+        "No a menos de 10 pies",
+        "No a menos de 20 pies",
+        "No a menos de 100 pies"
+      ],
+      "h1": "Es la misma distancia que desde un cruce peatonal en una intersección.",
+      "h2": "En New Hampshire, no puede estacionarse a menos de 20 pies de la entrada de vehículos de una estación de bomberos.",
+      "p": "Correcto. Quédese a 20 pies de la entrada de los bomberos."
+    }
+  },
+  {
+    "id": "nh-034",
+    "scope": "NH",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-54.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, a school bus is stopped with its red lights flashing. How far from the bus must you stop?",
+      "o": [
+        "At least 10 feet away",
+        "At least 25 feet away",
+        "At least 50 feet away",
+        "At least 100 feet away"
+      ],
+      "h1": "It is a little less than two car lengths.",
+      "h2": "In New Hampshire, you must stop at least 25 feet from a school bus with flashing red lights and wait until it moves or the lights stop.",
+      "p": "Right. Stop at least 25 feet away."
+    },
+    "es": {
+      "q": "En New Hampshire, un autobús escolar está detenido con sus luces rojas intermitentes. ¿A qué distancia del autobús debe detenerse?",
+      "o": [
+        "Al menos a 10 pies",
+        "Al menos a 25 pies",
+        "Al menos a 50 pies",
+        "Al menos a 100 pies"
+      ],
+      "h1": "Es un poco menos que el largo de dos carros.",
+      "h2": "En New Hampshire, debe detenerse al menos a 25 pies de un autobús escolar con luces rojas intermitentes y esperar hasta que se mueva o se apaguen las luces.",
+      "p": "Correcto. Deténgase al menos a 25 pies."
+    }
+  },
+  {
+    "id": "nh-035",
+    "scope": "NH",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-54.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, you are on a divided highway with separate roadways. A school bus going the other way is stopped on the other roadway with red lights flashing. What must you do?",
+      "o": [
+        "Stop at least 25 feet away until the bus moves",
+        "Pull onto the shoulder and stop",
+        "Slow to 10 mph as you pass",
+        "You do not need to stop"
+      ],
+      "h1": "The bus is on a separate roadway, going the opposite way.",
+      "h2": "In New Hampshire, on a divided highway with separate roadways, you do not need to stop for a school bus going the opposite way.",
+      "p": "Right. On a divided highway, oncoming traffic does not stop."
+    },
+    "es": {
+      "q": "En New Hampshire, usted va por una carretera dividida con calzadas separadas. Un autobús escolar que va en sentido contrario está detenido en la otra calzada con luces rojas intermitentes. ¿Qué debe hacer?",
+      "o": [
+        "Detenerse al menos a 25 pies hasta que el autobús se mueva",
+        "Salir al acotamiento y detenerse",
+        "Bajar a 10 mph al pasar",
+        "No necesita detenerse"
+      ],
+      "h1": "El autobús está en una calzada separada y va en sentido contrario.",
+      "h2": "En New Hampshire, en una carretera dividida con calzadas separadas, no necesita detenerse por un autobús escolar que va en sentido contrario.",
+      "p": "Correcto. En una carretera dividida, el tránsito en sentido contrario no se detiene."
+    }
+  },
+  {
+    "id": "nh-036",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-143-a.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, you pass a bicycle while driving at 50 mph. What is the smallest gap the law treats as safe?",
+      "o": [
+        "3 feet",
+        "4 feet",
+        "5 feet",
+        "6 feet"
+      ],
+      "h1": "The 3-foot rule is for 30 mph or less. Above that, you need more room.",
+      "h2": "In New Hampshire, the gap starts at 3 feet at 30 mph or less and grows by one foot for every 10 mph above 30, so at 50 mph it is 5 feet.",
+      "p": "Right. At 50 mph, give at least 5 feet."
+    },
+    "es": {
+      "q": "En New Hampshire, usted rebasa a una bicicleta manejando a 50 mph. ¿Cuál es el espacio mínimo que la ley considera seguro?",
+      "o": [
+        "3 pies",
+        "4 pies",
+        "5 pies",
+        "6 pies"
+      ],
+      "h1": "La regla de 3 pies es para 30 mph o menos. Más rápido, necesita más espacio.",
+      "h2": "En New Hampshire, el espacio empieza en 3 pies a 30 mph o menos y aumenta un pie por cada 10 mph por encima de 30, así que a 50 mph es de 5 pies.",
+      "p": "Correcto. A 50 mph, deje al menos 5 pies."
+    }
+  },
+  {
+    "id": "nh-037",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-107-a.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, which child passenger must ride in an approved child restraint, such as a car seat or booster seat?",
+      "o": [
+        "A child under 7 who is shorter than 57 inches",
+        "Any child under 12",
+        "Only a child under 4",
+        "Any child shorter than 4 feet, at any age"
+      ],
+      "h1": "The rule uses both an age and a height.",
+      "h2": "In New Hampshire, a child under 7 must ride in an approved child restraint unless the child is 57 inches tall or more.",
+      "p": "Right. Under 7 and under 57 inches means a child restraint."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿qué niño pasajero debe ir en un sistema de retención infantil aprobado, como una silla de auto o un asiento elevador?",
+      "o": [
+        "Un niño menor de 7 años que mide menos de 57 pulgadas",
+        "Cualquier niño menor de 12 años",
+        "Solo un niño menor de 4 años",
+        "Cualquier niño que mide menos de 4 pies, a cualquier edad"
+      ],
+      "h1": "La regla usa una edad y una estatura.",
+      "h2": "En New Hampshire, un niño menor de 7 años debe ir en un sistema de retención infantil aprobado, salvo que mida 57 pulgadas o más.",
+      "p": "Correcto. Menor de 7 años y de menos de 57 pulgadas va en asiento infantil."
+    }
+  },
+  {
+    "id": "nh-038",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-107-a.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, a child under what age must ride in a rear-facing car seat?",
+      "o": [
+        "Under 6 months",
+        "Under 1 year",
+        "Under 4 years",
+        "Under 2 years"
+      ],
+      "h1": "It covers babies and young toddlers.",
+      "h2": "In New Hampshire, a child under 2 years old must ride in a rear-facing child restraint.",
+      "p": "Right. Under 2 rides rear-facing."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿un niño menor de qué edad debe ir en una silla de auto mirando hacia atrás?",
+      "o": [
+        "Menor de 6 meses",
+        "Menor de 1 año",
+        "Menor de 4 años",
+        "Menor de 2 años"
+      ],
+      "h1": "Incluye a bebés y a niños que recién empiezan a caminar.",
+      "h2": "En New Hampshire, un niño menor de 2 años debe ir en un sistema de retención infantil mirando hacia atrás.",
+      "p": "Correcto. Menores de 2 años van mirando hacia atrás."
+    }
+  },
+  {
+    "id": "nh-039",
+    "scope": "NH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/263/263-32.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, which rule applies to a rider with a motorcycle learner's permit?",
+      "o": [
+        "May ride at any hour with one passenger",
+        "May ride only in daylight and may not carry passengers",
+        "May ride only on interstate highways",
+        "May ride at night only with a passenger 25 or older"
+      ],
+      "h1": "A new rider rides alone, when it is easiest to see.",
+      "h2": "In New Hampshire, a motorcycle learner's permit allows riding only between sunrise and sunset, with no passengers.",
+      "p": "Right. Daylight only, and no passengers."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿qué regla se aplica a un motociclista con permiso de aprendiz de motocicleta?",
+      "o": [
+        "Puede manejar a cualquier hora con un pasajero",
+        "Puede manejar solo de día y no puede llevar pasajeros",
+        "Puede manejar solo en carreteras interestatales",
+        "Puede manejar de noche solo con un pasajero de 25 años o más"
+      ],
+      "h1": "Un motociclista nuevo va solo, cuando es más fácil ver.",
+      "h2": "En New Hampshire, el permiso de aprendiz de motocicleta permite manejar solo entre la salida y la puesta del sol, sin pasajeros.",
+      "p": "Correcto. Solo de día y sin pasajeros."
+    }
+  },
+  {
+    "id": "nh-040",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-109.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, during what period does the law require your vehicle's lamps to be lit?",
+      "o": [
+        "Only from 9 p.m. to 5 a.m.",
+        "From half an hour after sunset to half an hour before sunrise",
+        "From 1 hour after sunset to 1 hour before sunrise",
+        "Only when the street lights are off"
+      ],
+      "h1": "It starts a short time after the sun goes down.",
+      "h2": "In New Hampshire, your lamps must be lit from half an hour after sunset to half an hour before sunrise.",
+      "p": "Right. Lights on from half an hour after sunset to half an hour before sunrise."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿durante qué período exige la ley que las luces de su vehículo estén encendidas?",
+      "o": [
+        "Solo de 9 p.m. a 5 a.m.",
+        "Desde media hora después de la puesta del sol hasta media hora antes de la salida del sol",
+        "Desde 1 hora después de la puesta del sol hasta 1 hora antes de la salida del sol",
+        "Solo cuando las luces de la calle están apagadas"
+      ],
+      "h1": "Empieza poco después de que se pone el sol.",
+      "h2": "En New Hampshire, las luces deben estar encendidas desde media hora después de la puesta del sol hasta media hora antes de la salida del sol.",
+      "p": "Correcto. Luces encendidas desde media hora después de la puesta del sol hasta media hora antes de la salida."
+    }
+  },
+  {
+    "id": "nh-041",
+    "scope": "NH",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-100.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, a fire truck is going to a fire alarm. How close behind it may you follow?",
+      "o": [
+        "No closer than 500 feet",
+        "No closer than 100 feet",
+        "No closer than 200 feet",
+        "No closer than 1,000 feet"
+      ],
+      "h1": "It is about the length of one and a half football fields.",
+      "h2": "In New Hampshire, you may not follow a fire truck answering an alarm any closer than 500 feet.",
+      "p": "Right. Stay at least 500 feet behind."
+    },
+    "es": {
+      "q": "En New Hampshire, un camión de bomberos va a atender una alarma de incendio. ¿A qué distancia detrás de él puede seguirlo?",
+      "o": [
+        "No a menos de 500 pies",
+        "No a menos de 100 pies",
+        "No a menos de 200 pies",
+        "No a menos de 1,000 pies"
+      ],
+      "h1": "Es más o menos el largo de una cancha y media de fútbol americano.",
+      "h2": "En New Hampshire, no puede seguir a un camión de bomberos que atiende una alarma a menos de 500 pies.",
+      "p": "Correcto. Quédese al menos a 500 pies detrás."
+    }
+  },
+  {
+    "id": "nh-042",
+    "scope": "NH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/264/264-25.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, you are in a crash and no police officer investigates it. When must you send a written report to the Division of Motor Vehicles?",
+      "o": [
+        "Within 24 hours, for any crash",
+        "Within 30 days, if damage is over $500",
+        "Within 15 days, if anyone is hurt or killed or damage is over $1,000",
+        "Only if your insurance company asks for one"
+      ],
+      "h1": "The report is needed for injuries or larger damage, and you have about two weeks.",
+      "h2": "In New Hampshire, if no officer investigates, you must report in writing to the Division of Motor Vehicles within 15 days when anyone is hurt or killed or damage is over $1,000.",
+      "p": "Right. Within 15 days, for injury, death or damage over $1,000."
+    },
+    "es": {
+      "q": "En New Hampshire, usted tiene un choque y ningún policía lo investiga. ¿Cuándo debe enviar un informe por escrito a la División de Vehículos Motorizados?",
+      "o": [
+        "En 24 horas, para cualquier choque",
+        "En 30 días, si los daños pasan de $500",
+        "En 15 días, si alguien resulta herido o muerto o los daños pasan de $1,000",
+        "Solo si su compañía de seguros lo pide"
+      ],
+      "h1": "El informe se exige por heridos o daños mayores, y usted tiene unas dos semanas.",
+      "h2": "En New Hampshire, si ningún policía investiga, debe informar por escrito a la División de Vehículos Motorizados en 15 días cuando alguien resulta herido o muerto o los daños pasan de $1,000.",
+      "p": "Correcto. En 15 días, por heridos, muertos o daños de más de $1,000."
+    }
+  },
+  {
+    "id": "nh-043",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/264/264-31.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, you hit a dog or a cat with your car. What must you do?",
+      "o": [
+        "Nothing, if the animal ran away",
+        "Report it only if the animal dies",
+        "Call your insurance company within 30 days",
+        "Report it as soon as possible to the owner or a police officer"
+      ],
+      "h1": "Someone needs to know about the animal quickly.",
+      "h2": "In New Hampshire, if you hit a dog or a cat, you must report it as soon as possible to the owner or to a police officer.",
+      "p": "Right. Tell the owner or the police as soon as you can."
+    },
+    "es": {
+      "q": "En New Hampshire, usted atropella a un perro o un gato con su carro. ¿Qué debe hacer?",
+      "o": [
+        "Nada, si el animal se fue corriendo",
+        "Informarlo solo si el animal muere",
+        "Llamar a su compañía de seguros en 30 días",
+        "Informarlo lo antes posible al dueño o a un policía"
+      ],
+      "h1": "Alguien debe saber pronto lo que le pasó al animal.",
+      "h2": "En New Hampshire, si atropella a un perro o un gato, debe informarlo lo antes posible al dueño o a un policía.",
+      "p": "Correcto. Avise al dueño o a la policía lo antes posible."
+    }
+  },
+  {
+    "id": "nh-044",
+    "scope": "NH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/263/263-9.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, you move or change your name. How soon must you tell the DMV in writing?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 60 days",
+        "At your next license renewal"
+      ],
+      "h1": "You have about one month.",
+      "h2": "In New Hampshire, you must tell the DMV in writing within 30 days after you change your name or address.",
+      "p": "Right. Within 30 days."
+    },
+    "es": {
+      "q": "En New Hampshire, usted se muda o cambia de nombre. ¿En cuánto tiempo debe avisarle al DMV por escrito?",
+      "o": [
+        "En 10 días",
+        "En 30 días",
+        "En 60 días",
+        "En su próxima renovación de licencia"
+      ],
+      "h1": "Tiene más o menos un mes.",
+      "h2": "En New Hampshire, debe avisarle al DMV por escrito en un plazo de 30 días después de cambiar de nombre o de dirección.",
+      "p": "Correcto. En 30 días."
+    }
+  },
+  {
+    "id": "nh-045",
+    "scope": "NH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/263/263-10.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, when does a regular adult driver's license expire?",
+      "o": [
+        "On your fifth birthday after the license was issued",
+        "Exactly 4 years after the issue date",
+        "On your eighth birthday after the license was issued",
+        "Every 2 years on January 1"
+      ],
+      "h1": "It ends on a birthday, a few years after you got it.",
+      "h2": "In New Hampshire, a regular driver's license expires on your fifth birthday after it was issued.",
+      "p": "Right. It expires on your fifth birthday after issue."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿cuándo vence una licencia de conducir común para adultos?",
+      "o": [
+        "En su quinto cumpleaños después de que se emitió la licencia",
+        "Exactamente 4 años después de la fecha de emisión",
+        "En su octavo cumpleaños después de que se emitió la licencia",
+        "Cada 2 años el 1 de enero"
+      ],
+      "h1": "Vence en un cumpleaños, unos años después de recibirla.",
+      "h2": "En New Hampshire, una licencia de conducir común vence en su quinto cumpleaños después de que se emitió.",
+      "p": "Correcto. Vence en su quinto cumpleaños después de emitida."
+    }
+  },
+  {
+    "id": "nh-046",
+    "scope": "NH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/263/263-35.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, you move here from another state and become a resident. How soon must you get a New Hampshire driver's license?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 60 days",
+        "Within 1 year"
+      ],
+      "h1": "You have about two months.",
+      "h2": "In New Hampshire, a new resident must get a New Hampshire driver's license within 60 days of becoming a resident.",
+      "p": "Right. Within 60 days."
+    },
+    "es": {
+      "q": "En New Hampshire, usted se muda aquí desde otro estado y pasa a ser residente. ¿En cuánto tiempo debe obtener una licencia de conducir de New Hampshire?",
+      "o": [
+        "En 10 días",
+        "En 30 días",
+        "En 60 días",
+        "En 1 año"
+      ],
+      "h1": "Tiene más o menos dos meses.",
+      "h2": "En New Hampshire, un nuevo residente debe obtener una licencia de conducir de New Hampshire en un plazo de 60 días desde que pasa a ser residente.",
+      "p": "Correcto. En 60 días."
+    }
+  },
+  {
+    "id": "nh-047",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-72.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, you leave your car parked on a hill with no one in it. What must you do?",
+      "o": [
+        "Stop the engine and leave the key in, with the wheels pointed straight",
+        "Leave the engine running, set the brake and lock the doors",
+        "Stop the engine, take the key, and leave the car in neutral",
+        "Stop the engine, take the key, set the brake and turn the front wheels to the curb or side of the road"
+      ],
+      "h1": "The car must not be able to start or roll away.",
+      "h2": "In New Hampshire, before leaving a car on a hill, you must stop the engine, take the key, set the brake and turn the front wheels to the curb or side of the road.",
+      "p": "Right. Engine off, key out, brake set, wheels to the curb."
+    },
+    "es": {
+      "q": "En New Hampshire, usted deja su carro estacionado en una pendiente sin nadie adentro. ¿Qué debe hacer?",
+      "o": [
+        "Apagar el motor y dejar la llave puesta, con las ruedas derechas",
+        "Dejar el motor encendido, poner el freno y cerrar las puertas con llave",
+        "Apagar el motor, sacar la llave y dejar el carro en neutro",
+        "Apagar el motor, sacar la llave, poner el freno y girar las ruedas delanteras hacia la acera o el lado de la vía"
+      ],
+      "h1": "El carro no debe poder arrancar ni rodar.",
+      "h2": "En New Hampshire, antes de dejar un carro en una pendiente, debe apagar el motor, sacar la llave, poner el freno y girar las ruedas delanteras hacia la acera o el lado de la vía.",
+      "p": "Correcto. Motor apagado, llave afuera, freno puesto y ruedas hacia la acera."
+    }
+  },
+  {
+    "id": "nh-048",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/XXI/265-A/265-A-44.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, you are driving with a capped bottle of wine that is partly empty. Where must it be?",
+      "o": [
+        "Under the driver's seat",
+        "In the trunk",
+        "In the glove box",
+        "On the back seat, as long as it is capped"
+      ],
+      "h1": "It must be out of the area where people sit.",
+      "h2": "In New Hampshire, a capped, partly full container of alcohol must ride in the trunk, or in the place hardest for the driver to reach if there is no trunk.",
+      "p": "Right. It goes in the trunk."
+    },
+    "es": {
+      "q": "En New Hampshire, usted maneja con una botella de vino tapada que está medio vacía. ¿Dónde debe ir?",
+      "o": [
+        "Debajo del asiento del conductor",
+        "En el maletero (cajuela)",
+        "En la guantera",
+        "En el asiento de atrás, si está tapada"
+      ],
+      "h1": "Debe estar fuera del área donde van las personas.",
+      "h2": "En New Hampshire, un envase de alcohol tapado y parcialmente lleno debe ir en el maletero, o en el lugar más difícil de alcanzar para el conductor si no hay maletero.",
+      "p": "Correcto. Va en el maletero."
+    }
+  },
+  {
+    "id": "nh-049",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/XXI/265-A/265-A-18.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, what is the smallest fine for a first conviction for impaired driving (DWI)?",
+      "o": [
+        "$100",
+        "$250",
+        "$500",
+        "$5,000"
+      ],
+      "h1": "It is several hundred dollars.",
+      "h2": "In New Hampshire, a first DWI conviction brings a fine of at least $500.",
+      "p": "Right. The fine is at least $500."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿cuál es la multa mínima por una primera condena por manejar bajo los efectos del alcohol o drogas (DWI)?",
+      "o": [
+        "$100",
+        "$250",
+        "$500",
+        "$5,000"
+      ],
+      "h1": "Son varios cientos de dólares.",
+      "h2": "En New Hampshire, una primera condena por DWI trae una multa de al menos $500.",
+      "p": "Correcto. La multa es de al menos $500."
+    }
+  },
+  {
+    "id": "nh-050",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/XXI/265-A/265-A-3.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, at what blood alcohol level is driving aggravated DWI, even with no other factor?",
+      "o": [
+        "0.16 or more",
+        "0.10 or more",
+        "0.12 or more",
+        "0.20 or more"
+      ],
+      "h1": "It is twice the usual adult limit of 0.08.",
+      "h2": "In New Hampshire, driving with a blood alcohol level of 0.16 or more is aggravated DWI on its own.",
+      "p": "Right. 0.16 or more is aggravated DWI."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿con qué nivel de alcohol en la sangre manejar es DWI agravado, aunque no haya otro factor?",
+      "o": [
+        "0.16 o más",
+        "0.10 o más",
+        "0.12 o más",
+        "0.20 o más"
+      ],
+      "h1": "Es el doble del límite habitual para adultos, que es 0.08.",
+      "h2": "En New Hampshire, manejar con un nivel de alcohol en la sangre de 0.16 o más es DWI agravado por sí solo.",
+      "p": "Correcto. 0.16 o más es DWI agravado."
+    }
+  },
+  {
+    "id": "nh-051",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-122.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, who must wear a helmet on a motorcycle by law?",
+      "o": [
+        "Every rider and passenger",
+        "Only the driver",
+        "Only riders over 65",
+        "Riders and passengers under 18"
+      ],
+      "h1": "The law is about age, not about who steers.",
+      "h2": "In New Hampshire, the law requires a helmet for motorcycle riders and passengers under 18.",
+      "p": "Right. The helmet law covers anyone under 18."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿quién debe usar casco en una motocicleta por ley?",
+      "o": [
+        "Todos los motociclistas y pasajeros",
+        "Solo quien maneja",
+        "Solo los motociclistas mayores de 65 años",
+        "Los motociclistas y pasajeros menores de 18 años"
+      ],
+      "h1": "La ley se basa en la edad, no en quién maneja.",
+      "h2": "En New Hampshire, la ley exige casco a los motociclistas y pasajeros menores de 18 años.",
+      "p": "Correcto. La ley del casco aplica a menores de 18 años."
+    }
+  },
+  {
+    "id": "nh-052",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/266/266-48-a.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, what is the smallest tire tread depth allowed by law on a car?",
+      "o": [
+        "1/32 of an inch",
+        "2/32 of an inch",
+        "4/32 of an inch",
+        "6/32 of an inch"
+      ],
+      "h1": "It is very thin, but not the thinnest choice here.",
+      "h2": "In New Hampshire, a car's tires must have a tread depth of at least 2/32 of an inch.",
+      "p": "Right. At least 2/32 of an inch."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿cuál es la profundidad mínima de la banda de rodadura de las llantas que permite la ley en un carro?",
+      "o": [
+        "1/32 de pulgada",
+        "2/32 de pulgada",
+        "4/32 de pulgada",
+        "6/32 de pulgada"
+      ],
+      "h1": "Es muy poca, pero no la menor de estas opciones.",
+      "h2": "En New Hampshire, las llantas de un carro deben tener una banda de rodadura de al menos 2/32 de pulgada.",
+      "p": "Correcto. Al menos 2/32 de pulgada."
+    }
+  },
+  {
+    "id": "nh-053",
+    "scope": "NH",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-35.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, the car ahead of you in your lane has stopped at a crosswalk to let a person cross. What must you do?",
+      "o": [
+        "Pass it carefully on the left",
+        "Honk and pass it on the right",
+        "Do not pass it; stay behind it",
+        "Pass it once the person reaches the middle of the road"
+      ],
+      "h1": "The other driver may be stopped for someone you cannot see.",
+      "h2": "In New Hampshire, you may not pass a car that has stopped at a crosswalk to let a person cross.",
+      "p": "Right. Never pass a car stopped for a person crossing."
+    },
+    "es": {
+      "q": "En New Hampshire, el carro que va delante en su carril se detuvo en un cruce peatonal para dejar pasar a una persona. ¿Qué debe hacer?",
+      "o": [
+        "Rebasarlo con cuidado por la izquierda",
+        "Tocar la bocina y rebasarlo por la derecha",
+        "No rebasarlo; quedarse detrás",
+        "Rebasarlo cuando la persona llegue a la mitad de la calle"
+      ],
+      "h1": "El otro conductor puede estar detenido por alguien que usted no ve.",
+      "h2": "En New Hampshire, no puede rebasar a un carro que se detuvo en un cruce peatonal para dejar pasar a una persona.",
+      "p": "Correcto. Nunca rebase a un carro detenido por un peatón."
+    }
   }
 ]

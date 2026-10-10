@@ -2540,5 +2540,1563 @@
       "h2": "في North Carolina، لا يجوز لك أن توقف سيارتك على بُعد أقل من 15 feet من صنبور إطفاء الحريق أو من مدخل محطة الإطفاء.",
       "p": "صحيح. ابقَ على بُعد 15 feet على الأقل من صنبور الإطفاء."
     }
+  },
+  {
+    "id": "nc-032",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 34,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Carolina, how many driver license points can get you sent to a driver improvement clinic?",
+      "o": [
+        "3 points",
+        "7 points",
+        "5 points",
+        "12 points"
+      ],
+      "h1": "It is fewer points than the number that can lead to a suspension.",
+      "h2": "In North Carolina, a driver with 7 points may be sent to a driver improvement clinic, and finishing it takes 3 points off the record.",
+      "p": "Right. At 7 points you may be sent to a driver improvement clinic."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿con cuántos puntos en la licencia lo pueden mandar a una clínica para mejorar como conductor?",
+      "o": [
+        "3 puntos",
+        "7 puntos",
+        "5 puntos",
+        "12 puntos"
+      ],
+      "h1": "Son menos puntos que el número que puede llevar a una suspensión.",
+      "h2": "En Carolina del Norte, a un conductor con 7 puntos lo pueden mandar a una clínica para mejorar como conductor, y terminarla le quita 3 puntos del historial.",
+      "p": "Correcto. Con 7 puntos lo pueden mandar a una clínica para mejorar como conductor."
+    },
+    "zh": {
+      "q": "在 North Carolina，驾照上累计多少分可能会让你被送去上驾驶改进课程（driver improvement clinic）？",
+      "o": [
+        "3 分",
+        "7 分",
+        "5 分",
+        "12 分"
+      ],
+      "h1": "它比可能导致暂停驾照的分数少。",
+      "h2": "在 North Carolina，有 7 分的司机可能会被送去上驾驶改进课程，上完以后记录上会减掉 3 分。",
+      "p": "对。累计 7 分时，你可能会被送去上驾驶改进课程。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, bị bao nhiêu điểm trên bằng lái thì bạn có thể bị gửi đi học lớp cải thiện kỹ năng lái xe (driver improvement clinic)?",
+      "o": [
+        "3 điểm",
+        "7 điểm",
+        "5 điểm",
+        "12 điểm"
+      ],
+      "h1": "Số điểm này ít hơn số điểm có thể dẫn đến bị đình chỉ bằng lái.",
+      "h2": "Ở North Carolina, tài xế có 7 điểm có thể bị gửi đi học lớp cải thiện kỹ năng lái xe, và học xong lớp này sẽ được trừ 3 điểm khỏi hồ sơ.",
+      "p": "Đúng. Khi có 7 điểm, bạn có thể bị gửi đi học lớp cải thiện kỹ năng lái xe."
+    },
+    "tl": {
+      "q": "Sa North Carolina, ilang point sa lisensya ang puwedeng magpapadala sa iyo sa isang driver improvement clinic?",
+      "o": [
+        "3 point",
+        "7 point",
+        "5 point",
+        "12 point"
+      ],
+      "h1": "Mas kaunti ito kaysa sa bilang ng point na puwedeng magdulot ng suspensyon.",
+      "h2": "Sa North Carolina, ang driver na may 7 point ay puwedeng ipadala sa isang driver improvement clinic, at kapag natapos niya ito, mababawasan ng 3 point ang record niya.",
+      "p": "Tama. Kapag 7 point na, puwede kang ipadala sa isang driver improvement clinic."
+    },
+    "ar": {
+      "q": "في North Carolina، كم نقطة على رخصة القيادة قد تجعلهم يرسلونك إلى دورة لتحسين القيادة (driver improvement clinic)؟",
+      "o": [
+        "3 نقاط",
+        "7 نقاط",
+        "5 نقاط",
+        "12 نقطة"
+      ],
+      "h1": "هي نقاط أقل من العدد الذي قد يؤدي إلى إيقاف الرخصة.",
+      "h2": "في North Carolina، قد يُرسَل السائق الذي لديه 7 نقاط إلى دورة لتحسين القيادة، وإكمالها يحذف 3 نقاط من سجله.",
+      "p": "صحيح. عند 7 نقاط قد يُرسلونك إلى دورة لتحسين القيادة."
+    }
+  },
+  {
+    "id": "nc-033",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 34,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Carolina, your license is suspended for points for the first time. How long may it be taken?",
+      "o": [
+        "30 days",
+        "6 months",
+        "12 months",
+        "60 days"
+      ],
+      "h1": "It is longer than one month, and later suspensions are longer still.",
+      "h2": "In North Carolina, a first suspension for points may last 60 days; a second may last 6 months and a third 12 months.",
+      "p": "Right. A first points suspension may last 60 days."
+    },
+    "es": {
+      "q": "En Carolina del Norte, su licencia es suspendida por puntos por primera vez. ¿Por cuánto tiempo se la pueden quitar?",
+      "o": [
+        "30 días",
+        "6 meses",
+        "12 meses",
+        "60 días"
+      ],
+      "h1": "Es más de un mes, y las suspensiones siguientes son aún más largas.",
+      "h2": "En Carolina del Norte, una primera suspensión por puntos puede durar 60 días; la segunda puede durar 6 meses y la tercera 12 meses.",
+      "p": "Correcto. Una primera suspensión por puntos puede durar 60 días."
+    },
+    "zh": {
+      "q": "在 North Carolina，你的驾照第一次因为扣分被暂停。驾照可能会被收走多久？",
+      "o": [
+        "30 天",
+        "6 个月",
+        "12 个月",
+        "60 天"
+      ],
+      "h1": "它比一个月长，之后的暂停时间会更长。",
+      "h2": "在 North Carolina，第一次因扣分暂停驾照可能会持续 60 天；第二次可能 6 个月，第三次可能 12 个月。",
+      "p": "对。第一次因扣分暂停驾照可能会持续 60 天。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, bằng lái của bạn bị đình chỉ vì điểm lần đầu tiên. Bằng lái có thể bị thu trong bao lâu?",
+      "o": [
+        "30 ngày",
+        "6 tháng",
+        "12 tháng",
+        "60 ngày"
+      ],
+      "h1": "Thời gian này dài hơn một tháng, và những lần đình chỉ sau còn dài hơn nữa.",
+      "h2": "Ở North Carolina, lần đình chỉ đầu tiên vì điểm có thể kéo dài 60 ngày; lần thứ hai có thể 6 tháng và lần thứ ba 12 tháng.",
+      "p": "Đúng. Lần đình chỉ đầu tiên vì điểm có thể kéo dài 60 ngày."
+    },
+    "tl": {
+      "q": "Sa North Carolina, nasuspinde ang lisensya mo dahil sa mga point sa unang pagkakataon. Gaano katagal ito puwedeng kunin?",
+      "o": [
+        "30 araw",
+        "6 na buwan",
+        "12 buwan",
+        "60 araw"
+      ],
+      "h1": "Mas mahaba ito sa isang buwan, at mas mahaba pa ang mga susunod na suspensyon.",
+      "h2": "Sa North Carolina, ang unang suspensyon dahil sa mga point ay puwedeng tumagal nang 60 araw; ang ikalawa ay puwedeng 6 na buwan at ang ikatlo ay 12 buwan.",
+      "p": "Tama. Ang unang suspensyon dahil sa mga point ay puwedeng tumagal nang 60 araw."
+    },
+    "ar": {
+      "q": "في North Carolina، أُوقفت رخصتك بسبب النقاط لأول مرة. كم من الوقت قد تُسحب منك؟",
+      "o": [
+        "30 يومًا",
+        "6 أشهر",
+        "12 شهرًا",
+        "60 يومًا"
+      ],
+      "h1": "هي أطول من شهر واحد، والإيقافات التي بعدها أطول من ذلك.",
+      "h2": "في North Carolina، قد يستمر الإيقاف الأول بسبب النقاط 60 يومًا؛ وقد يستمر الثاني 6 أشهر والثالث 12 شهرًا.",
+      "p": "صحيح. قد يستمر الإيقاف الأول بسبب النقاط 60 يومًا."
+    }
+  },
+  {
+    "id": "nc-034",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 39,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Carolina, a driver under 18 is convicted of a second moving violation within 12 months. How long may the license be suspended?",
+      "o": [
+        "30 days",
+        "90 days",
+        "6 months",
+        "1 year"
+      ],
+      "h1": "It is the shortest of the suspensions for young drivers; more violations bring longer ones.",
+      "h2": "In North Carolina, a driver under 18 may lose the license for 30 days after a second moving violation within 12 months; a third brings 90 days and a fourth six months.",
+      "p": "Right. A second moving violation within 12 months can mean a 30-day suspension."
+    },
+    "es": {
+      "q": "En Carolina del Norte, un conductor menor de 18 años es declarado culpable de una segunda infracción en movimiento dentro de 12 meses. ¿Por cuánto tiempo pueden suspender su licencia?",
+      "o": [
+        "30 días",
+        "90 días",
+        "6 meses",
+        "1 año"
+      ],
+      "h1": "Es la más corta de las suspensiones para conductores jóvenes; más infracciones traen suspensiones más largas.",
+      "h2": "En Carolina del Norte, un conductor menor de 18 años puede perder la licencia por 30 días tras una segunda infracción en movimiento dentro de 12 meses; la tercera trae 90 días y la cuarta seis meses.",
+      "p": "Correcto. Una segunda infracción en movimiento dentro de 12 meses puede causar una suspensión de 30 días."
+    },
+    "zh": {
+      "q": "在 North Carolina，一名未满 18 岁的司机在 12 个月内第二次被判行车违规（moving violation）。驾照可能会被暂停多久？",
+      "o": [
+        "30 天",
+        "90 天",
+        "6 个月",
+        "1 年"
+      ],
+      "h1": "这是年轻司机最短的暂停时间；违规越多，暂停越长。",
+      "h2": "在 North Carolina，未满 18 岁的司机在 12 个月内第二次行车违规后，可能会失去驾照 30 天；第三次是 90 天，第四次是六个月。",
+      "p": "对。12 个月内第二次行车违规可能会导致暂停驾照 30 天。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, một tài xế dưới 18 tuổi bị kết tội vi phạm khi đang lái xe (moving violation) lần thứ hai trong vòng 12 tháng. Bằng lái có thể bị đình chỉ trong bao lâu?",
+      "o": [
+        "30 ngày",
+        "90 ngày",
+        "6 tháng",
+        "1 năm"
+      ],
+      "h1": "Đây là mức đình chỉ ngắn nhất cho tài xế trẻ; vi phạm nhiều hơn thì bị đình chỉ lâu hơn.",
+      "h2": "Ở North Carolina, tài xế dưới 18 tuổi có thể mất bằng lái 30 ngày sau lần vi phạm khi đang lái xe thứ hai trong vòng 12 tháng; lần thứ ba là 90 ngày và lần thứ tư là sáu tháng.",
+      "p": "Đúng. Lần vi phạm khi đang lái xe thứ hai trong vòng 12 tháng có thể bị đình chỉ 30 ngày."
+    },
+    "tl": {
+      "q": "Sa North Carolina, ang isang driver na wala pang 18 ay napatunayang nagkasala ng ikalawang moving violation sa loob ng 12 buwan. Gaano katagal puwedeng masuspinde ang lisensya?",
+      "o": [
+        "30 araw",
+        "90 araw",
+        "6 na buwan",
+        "1 taon"
+      ],
+      "h1": "Ito ang pinakamaikli sa mga suspensyon para sa mga batang driver; mas maraming paglabag, mas mahabang suspensyon.",
+      "h2": "Sa North Carolina, ang driver na wala pang 18 ay puwedeng mawalan ng lisensya nang 30 araw pagkatapos ng ikalawang moving violation sa loob ng 12 buwan; 90 araw sa ikatlo at anim na buwan sa ikaapat.",
+      "p": "Tama. Ang ikalawang moving violation sa loob ng 12 buwan ay puwedeng magdulot ng 30 araw na suspensyon."
+    },
+    "ar": {
+      "q": "في North Carolina، أُدين سائق عمره أقل من 18 سنة بمخالفة قيادة ثانية (moving violation) خلال 12 شهرًا. كم من الوقت قد تُوقَف الرخصة؟",
+      "o": [
+        "30 يومًا",
+        "90 يومًا",
+        "6 أشهر",
+        "سنة واحدة (1)"
+      ],
+      "h1": "هو أقصر إيقاف للسائقين الصغار؛ والمخالفات الأكثر تجلب إيقافًا أطول.",
+      "h2": "في North Carolina، قد يفقد السائق الذي عمره أقل من 18 سنة رخصته 30 يومًا بعد مخالفة قيادة ثانية خلال 12 شهرًا؛ والثالثة تجلب 90 يومًا والرابعة ستة أشهر.",
+      "p": "صحيح. مخالفة القيادة الثانية خلال 12 شهرًا قد تعني إيقافًا لمدة 30 يومًا."
+    }
+  },
+  {
+    "id": "nc-035",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 32,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Carolina, what happens to the license of a driver convicted of DWI for the first time?",
+      "o": [
+        "It is revoked for 30 days",
+        "It is revoked for 6 months",
+        "It is revoked for one year",
+        "It is revoked for four years"
+      ],
+      "h1": "The 30 days is what happens right after the arrest, not after the conviction.",
+      "h2": "In North Carolina, a first DWI conviction brings a mandatory one-year license revocation.",
+      "p": "Right. A first DWI conviction means losing the license for one year."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿qué le pasa a la licencia de un conductor declarado culpable de DWI (manejar bajo los efectos) por primera vez?",
+      "o": [
+        "Se revoca por 30 días",
+        "Se revoca por 6 meses",
+        "Se revoca por un año",
+        "Se revoca por cuatro años"
+      ],
+      "h1": "Los 30 días son lo que pasa justo después del arresto, no después de la condena.",
+      "h2": "En Carolina del Norte, una primera condena por DWI trae la revocación obligatoria de la licencia por un año.",
+      "p": "Correcto. Una primera condena por DWI significa perder la licencia por un año."
+    },
+    "zh": {
+      "q": "在 North Carolina，司机第一次被判酒后或药后驾驶（DWI），驾照会怎样？",
+      "o": [
+        "被吊销 30 天",
+        "被吊销 6 个月",
+        "被吊销一年",
+        "被吊销四年"
+      ],
+      "h1": "30 天是被逮捕后马上发生的事，不是被定罪以后。",
+      "h2": "在 North Carolina，第一次 DWI 定罪会强制吊销驾照一年。",
+      "p": "对。第一次 DWI 定罪表示失去驾照一年。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, điều gì xảy ra với bằng lái của tài xế bị kết tội lái xe khi say (DWI) lần đầu tiên?",
+      "o": [
+        "Bị thu hồi 30 ngày",
+        "Bị thu hồi 6 tháng",
+        "Bị thu hồi một năm",
+        "Bị thu hồi bốn năm"
+      ],
+      "h1": "30 ngày là chuyện xảy ra ngay sau khi bị bắt, không phải sau khi bị kết tội.",
+      "h2": "Ở North Carolina, lần đầu bị kết tội DWI thì bằng lái bắt buộc bị thu hồi một năm.",
+      "p": "Đúng. Lần đầu bị kết tội DWI nghĩa là mất bằng lái một năm."
+    },
+    "tl": {
+      "q": "Sa North Carolina, ano ang mangyayari sa lisensya ng driver na napatunayang nagkasala ng DWI (pagmamaneho nang lasing o lango) sa unang pagkakataon?",
+      "o": [
+        "Babawiin ito nang 30 araw",
+        "Babawiin ito nang 6 na buwan",
+        "Babawiin ito nang isang taon",
+        "Babawiin ito nang apat na taon"
+      ],
+      "h1": "Ang 30 araw ay nangyayari agad pagkatapos ng pag-aresto, hindi pagkatapos mapatunayang nagkasala.",
+      "h2": "Sa North Carolina, ang unang conviction sa DWI ay may sapilitang pagbawi ng lisensya nang isang taon.",
+      "p": "Tama. Ang unang conviction sa DWI ay nangangahulugang mawawalan ka ng lisensya nang isang taon."
+    },
+    "ar": {
+      "q": "في North Carolina، ماذا يحدث لرخصة سائق أُدين بالقيادة تحت تأثير الكحول أو المخدرات (DWI) لأول مرة؟",
+      "o": [
+        "تُلغى لمدة 30 يومًا",
+        "تُلغى لمدة 6 أشهر",
+        "تُلغى لمدة سنة واحدة",
+        "تُلغى لمدة أربع سنوات"
+      ],
+      "h1": "الـ 30 يومًا هي ما يحدث بعد الاعتقال مباشرة، وليس بعد الإدانة.",
+      "h2": "في North Carolina، الإدانة الأولى بـ DWI تجلب إلغاءً إجباريًا للرخصة لمدة سنة واحدة.",
+      "p": "صحيح. الإدانة الأولى بـ DWI تعني فقدان الرخصة لمدة سنة واحدة."
+    }
+  },
+  {
+    "id": "nc-036",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 32,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Carolina, a driver is convicted of DWI with a blood alcohol level of 0.15 or more. What must be put in the vehicle?",
+      "o": [
+        "A GPS tracker",
+        "An ignition interlock device",
+        "A dashboard camera",
+        "A speed limiter"
+      ],
+      "h1": "The device checks the driver's breath before the car will start.",
+      "h2": "In North Carolina, a DWI conviction with a blood alcohol level of 0.15 or more requires an ignition interlock device in the vehicle.",
+      "p": "Right. A 0.15 or higher DWI means an ignition interlock device."
+    },
+    "es": {
+      "q": "En Carolina del Norte, un conductor es declarado culpable de DWI con un nivel de alcohol en la sangre de 0.15 o más. ¿Qué se debe instalar en el vehículo?",
+      "o": [
+        "Un rastreador GPS",
+        "Un dispositivo de bloqueo de encendido (ignition interlock)",
+        "Una cámara en el tablero",
+        "Un limitador de velocidad"
+      ],
+      "h1": "El dispositivo revisa el aliento del conductor antes de que el carro arranque.",
+      "h2": "En Carolina del Norte, una condena por DWI con un nivel de alcohol en la sangre de 0.15 o más exige un dispositivo de bloqueo de encendido en el vehículo.",
+      "p": "Correcto. Un DWI con 0.15 o más significa un dispositivo de bloqueo de encendido."
+    },
+    "zh": {
+      "q": "在 North Carolina，一名司机被判 DWI，血液酒精浓度是 0.15 或更高。车里必须装什么？",
+      "o": [
+        "GPS 追踪器",
+        "点火联锁装置（ignition interlock device）",
+        "行车记录仪",
+        "限速器"
+      ],
+      "h1": "这个装置会在车子启动前检查司机呼出的气。",
+      "h2": "在 North Carolina，血液酒精浓度 0.15 或更高的 DWI 定罪，车里必须装点火联锁装置。",
+      "p": "对。0.15 或更高的 DWI 表示要装点火联锁装置。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, một tài xế bị kết tội DWI với nồng độ cồn trong máu từ 0.15 trở lên. Phải lắp gì vào xe?",
+      "o": [
+        "Một thiết bị định vị GPS",
+        "Một thiết bị khóa khởi động đo cồn (ignition interlock device)",
+        "Một camera hành trình",
+        "Một bộ giới hạn tốc độ"
+      ],
+      "h1": "Thiết bị này kiểm tra hơi thở của tài xế trước khi xe nổ máy.",
+      "h2": "Ở North Carolina, bị kết tội DWI với nồng độ cồn trong máu từ 0.15 trở lên thì xe bắt buộc phải lắp thiết bị khóa khởi động đo cồn.",
+      "p": "Đúng. DWI từ 0.15 trở lên nghĩa là phải lắp thiết bị khóa khởi động đo cồn."
+    },
+    "tl": {
+      "q": "Sa North Carolina, napatunayang nagkasala ng DWI ang isang driver na may blood alcohol level na 0.15 o higit pa. Ano ang dapat ilagay sa sasakyan?",
+      "o": [
+        "Isang GPS tracker",
+        "Isang ignition interlock device",
+        "Isang dashboard camera",
+        "Isang speed limiter"
+      ],
+      "h1": "Sinusuri ng device ang hininga ng driver bago umandar ang kotse.",
+      "h2": "Sa North Carolina, ang conviction sa DWI na may blood alcohol level na 0.15 o higit pa ay nangangailangan ng ignition interlock device sa sasakyan.",
+      "p": "Tama. Ang DWI na 0.15 o higit pa ay nangangahulugang ignition interlock device."
+    },
+    "ar": {
+      "q": "في North Carolina، أُدين سائق بـ DWI ونسبة الكحول في دمه 0.15 أو أكثر. ماذا يجب أن يُركَّب في المركبة؟",
+      "o": [
+        "جهاز تتبّع GPS",
+        "جهاز قفل التشغيل (ignition interlock device)",
+        "كاميرا على لوحة القيادة",
+        "جهاز لتحديد السرعة"
+      ],
+      "h1": "يفحص الجهاز نَفَس السائق قبل أن تعمل السيارة.",
+      "h2": "في North Carolina، الإدانة بـ DWI مع نسبة كحول في الدم 0.15 أو أكثر تفرض تركيب جهاز قفل التشغيل في المركبة.",
+      "p": "صحيح. الـ DWI بنسبة 0.15 أو أكثر يعني جهاز قفل التشغيل."
+    }
+  },
+  {
+    "id": "nc-037",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 25,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Carolina, you just moved here and became a resident. How soon must you get a North Carolina license?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 60 days",
+        "Within 90 days"
+      ],
+      "h1": "It is about two months.",
+      "h2": "In North Carolina, a new resident has 60 days after moving here to get a North Carolina license.",
+      "p": "Right. New residents have 60 days."
+    },
+    "es": {
+      "q": "En Carolina del Norte, usted acaba de mudarse y ahora es residente. ¿En cuánto tiempo debe sacar una licencia de Carolina del Norte?",
+      "o": [
+        "Dentro de 10 días",
+        "Dentro de 30 días",
+        "Dentro de 60 días",
+        "Dentro de 90 días"
+      ],
+      "h1": "Son unos dos meses.",
+      "h2": "En Carolina del Norte, un nuevo residente tiene 60 días después de mudarse para sacar una licencia de Carolina del Norte.",
+      "p": "Correcto. Los nuevos residentes tienen 60 días."
+    },
+    "zh": {
+      "q": "在 North Carolina，你刚搬来这里，成为居民。你必须多久之内拿到 North Carolina 的驾照？",
+      "o": [
+        "10 天内",
+        "30 天内",
+        "60 天内",
+        "90 天内"
+      ],
+      "h1": "大约是两个月。",
+      "h2": "在 North Carolina，新居民搬来以后有 60 天时间拿 North Carolina 的驾照。",
+      "p": "对。新居民有 60 天时间。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, bạn vừa chuyển đến đây và trở thành cư dân. Bạn phải lấy bằng lái North Carolina trong bao lâu?",
+      "o": [
+        "Trong vòng 10 ngày",
+        "Trong vòng 30 ngày",
+        "Trong vòng 60 ngày",
+        "Trong vòng 90 ngày"
+      ],
+      "h1": "Khoảng hai tháng.",
+      "h2": "Ở North Carolina, cư dân mới có 60 ngày sau khi chuyển đến để lấy bằng lái North Carolina.",
+      "p": "Đúng. Cư dân mới có 60 ngày."
+    },
+    "tl": {
+      "q": "Sa North Carolina, kalilipat mo lang dito at naging residente ka na. Gaano kabilis ka dapat kumuha ng lisensya ng North Carolina?",
+      "o": [
+        "Sa loob ng 10 araw",
+        "Sa loob ng 30 araw",
+        "Sa loob ng 60 araw",
+        "Sa loob ng 90 araw"
+      ],
+      "h1": "Mga dalawang buwan ito.",
+      "h2": "Sa North Carolina, may 60 araw ang bagong residente pagkatapos lumipat dito para kumuha ng lisensya ng North Carolina.",
+      "p": "Tama. May 60 araw ang mga bagong residente."
+    },
+    "ar": {
+      "q": "في North Carolina، انتقلت إلى هنا حديثًا وأصبحت مقيمًا. خلال كم من الوقت يجب أن تحصل على رخصة من North Carolina؟",
+      "o": [
+        "خلال 10 أيام",
+        "خلال 30 يومًا",
+        "خلال 60 يومًا",
+        "خلال 90 يومًا"
+      ],
+      "h1": "هي شهران تقريبًا.",
+      "h2": "في North Carolina، لدى المقيم الجديد 60 يومًا بعد انتقاله إلى هنا ليحصل على رخصة من North Carolina.",
+      "p": "صحيح. لدى المقيمين الجدد 60 يومًا."
+    }
+  },
+  {
+    "id": "nc-038",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Carolina, you are 30 years old when you get your driver license. How long is it valid?",
+      "o": [
+        "4 years",
+        "5 years",
+        "10 years",
+        "8 years"
+      ],
+      "h1": "Drivers 66 and older get a shorter license than this.",
+      "h2": "In North Carolina, a license issued to a driver aged 18 to 65 is valid for 8 years; from age 66 it is valid for 5 years.",
+      "p": "Right. Between 18 and 65, a license lasts 8 years."
+    },
+    "es": {
+      "q": "En Carolina del Norte, usted tiene 30 años cuando recibe su licencia de manejar. ¿Por cuánto tiempo es válida?",
+      "o": [
+        "4 años",
+        "5 años",
+        "10 años",
+        "8 años"
+      ],
+      "h1": "Los conductores de 66 años o más reciben una licencia más corta que esta.",
+      "h2": "En Carolina del Norte, una licencia dada a un conductor de 18 a 65 años es válida por 8 años; desde los 66 años es válida por 5 años.",
+      "p": "Correcto. Entre los 18 y los 65 años, la licencia dura 8 años."
+    },
+    "zh": {
+      "q": "在 North Carolina，你拿到驾照时 30 岁。驾照有效多久？",
+      "o": [
+        "4 年",
+        "5 年",
+        "10 年",
+        "8 年"
+      ],
+      "h1": "66 岁和以上的司机拿到的驾照有效期比这个短。",
+      "h2": "在 North Carolina，发给 18 到 65 岁司机的驾照有效 8 年；从 66 岁开始有效 5 年。",
+      "p": "对。18 到 65 岁之间，驾照有效 8 年。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, bạn 30 tuổi khi nhận bằng lái. Bằng lái có giá trị trong bao lâu?",
+      "o": [
+        "4 năm",
+        "5 năm",
+        "10 năm",
+        "8 năm"
+      ],
+      "h1": "Tài xế từ 66 tuổi trở lên nhận bằng lái có thời hạn ngắn hơn thế này.",
+      "h2": "Ở North Carolina, bằng lái cấp cho tài xế từ 18 đến 65 tuổi có giá trị 8 năm; từ 66 tuổi thì có giá trị 5 năm.",
+      "p": "Đúng. Từ 18 đến 65 tuổi, bằng lái có giá trị 8 năm."
+    },
+    "tl": {
+      "q": "Sa North Carolina, 30 taong gulang ka nang makuha mo ang lisensya mo. Gaano katagal ito valid?",
+      "o": [
+        "4 na taon",
+        "5 taon",
+        "10 taon",
+        "8 taon"
+      ],
+      "h1": "Mas maikli ang lisensyang nakukuha ng mga driver na 66 pataas.",
+      "h2": "Sa North Carolina, ang lisensyang ibinigay sa driver na edad 18 hanggang 65 ay valid nang 8 taon; mula edad 66, valid ito nang 5 taon.",
+      "p": "Tama. Mula 18 hanggang 65, tumatagal nang 8 taon ang lisensya."
+    },
+    "ar": {
+      "q": "في North Carolina، عمرك 30 سنة عندما تحصل على رخصة القيادة. ما مدة صلاحيتها؟",
+      "o": [
+        "4 سنوات",
+        "5 سنوات",
+        "10 سنوات",
+        "8 سنوات"
+      ],
+      "h1": "السائقون الذين أعمارهم 66 سنة أو أكثر يحصلون على رخصة مدتها أقصر من هذه.",
+      "h2": "في North Carolina، الرخصة التي تُعطى لسائق عمره من 18 إلى 65 سنة صالحة لمدة 8 سنوات؛ ومن عمر 66 سنة تكون صالحة لمدة 5 سنوات.",
+      "p": "صحيح. بين 18 و 65 سنة، تبقى الرخصة صالحة 8 سنوات."
+    }
+  },
+  {
+    "id": "nc-039",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 99,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Carolina, at least how much liability insurance must a car owner carry for injuries to one person in a crash?",
+      "o": [
+        "$30,000",
+        "$10,000",
+        "$25,000",
+        "$60,000"
+      ],
+      "h1": "It is half the amount required for all injuries in one crash.",
+      "h2": "In North Carolina, liability insurance must cover at least $30,000 for injuries to one person, $60,000 for all injuries and $25,000 for property damage in a crash.",
+      "p": "Right. At least $30,000 for injuries to one person."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿cuánto seguro de responsabilidad debe tener como mínimo el dueño de un carro para las lesiones de una persona en un choque?",
+      "o": [
+        "$30,000",
+        "$10,000",
+        "$25,000",
+        "$60,000"
+      ],
+      "h1": "Es la mitad de lo que se exige para todas las lesiones de un choque.",
+      "h2": "En Carolina del Norte, el seguro de responsabilidad debe cubrir al menos $30,000 por las lesiones de una persona, $60,000 por todas las lesiones y $25,000 por daños a la propiedad en un choque.",
+      "p": "Correcto. Al menos $30,000 por las lesiones de una persona."
+    },
+    "zh": {
+      "q": "在 North Carolina，车主至少要买多少责任保险，来赔偿车祸中一个人的受伤？",
+      "o": [
+        "$30,000",
+        "$10,000",
+        "$25,000",
+        "$60,000"
+      ],
+      "h1": "它是一次车祸所有受伤所需金额的一半。",
+      "h2": "在 North Carolina，责任保险必须至少赔偿一个人受伤 $30,000、所有人受伤 $60,000，以及车祸中的财产损失 $25,000。",
+      "p": "对。一个人受伤至少要赔 $30,000。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, chủ xe phải mua bảo hiểm trách nhiệm ít nhất bao nhiêu cho thương tích của một người trong một vụ tai nạn?",
+      "o": [
+        "$30,000",
+        "$10,000",
+        "$25,000",
+        "$60,000"
+      ],
+      "h1": "Đó là một nửa số tiền bắt buộc cho tất cả thương tích trong một vụ tai nạn.",
+      "h2": "Ở North Carolina, bảo hiểm trách nhiệm phải chi trả ít nhất $30,000 cho thương tích của một người, $60,000 cho tất cả thương tích và $25,000 cho thiệt hại tài sản trong một vụ tai nạn.",
+      "p": "Đúng. Ít nhất $30,000 cho thương tích của một người."
+    },
+    "tl": {
+      "q": "Sa North Carolina, hindi bababa sa magkano ang liability insurance na dapat mayroon ang may-ari ng kotse para sa pinsala sa isang tao sa isang banggaan?",
+      "o": [
+        "$30,000",
+        "$10,000",
+        "$25,000",
+        "$60,000"
+      ],
+      "h1": "Kalahati ito ng halagang kailangan para sa lahat ng nasaktan sa isang banggaan.",
+      "h2": "Sa North Carolina, dapat sumaklaw ang liability insurance nang hindi bababa sa $30,000 para sa pinsala sa isang tao, $60,000 para sa lahat ng pinsala sa tao at $25,000 para sa pinsala sa ari-arian sa isang banggaan.",
+      "p": "Tama. Hindi bababa sa $30,000 para sa pinsala sa isang tao."
+    },
+    "ar": {
+      "q": "في North Carolina، ما أقل مبلغ من تأمين المسؤولية يجب أن يكون لدى صاحب السيارة لإصابات شخص واحد في حادث؟",
+      "o": [
+        "$30,000",
+        "$10,000",
+        "$25,000",
+        "$60,000"
+      ],
+      "h1": "هو نصف المبلغ المطلوب لكل الإصابات في حادث واحد.",
+      "h2": "في North Carolina، يجب أن يغطي تأمين المسؤولية على الأقل $30,000 لإصابات شخص واحد، و $60,000 لكل الإصابات، و $25,000 لأضرار الممتلكات في الحادث.",
+      "p": "صحيح. على الأقل $30,000 لإصابات شخص واحد."
+    }
+  },
+  {
+    "id": "nc-040",
+    "scope": "NC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 53,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Carolina, outside cities and towns, what is the speed limit when no sign shows a different one?",
+      "o": [
+        "45 mph",
+        "55 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "It is 20 mph more than the limit in cities and towns.",
+      "h2": "In North Carolina, the speed limit outside cities and towns is 55 mph unless a sign shows a different limit.",
+      "p": "Right. Outside cities and towns, the limit is 55 mph unless posted."
+    },
+    "es": {
+      "q": "En Carolina del Norte, fuera de ciudades y pueblos, ¿cuál es el límite de velocidad cuando ningún letrero indica otro?",
+      "o": [
+        "45 mph",
+        "55 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "Son 20 mph más que el límite en ciudades y pueblos.",
+      "h2": "En Carolina del Norte, el límite de velocidad fuera de ciudades y pueblos es 55 mph, a menos que un letrero indique otro límite.",
+      "p": "Correcto. Fuera de ciudades y pueblos, el límite es 55 mph si no hay letrero."
+    },
+    "zh": {
+      "q": "在 North Carolina，在城市和镇以外，如果没有标志写别的限速，限速是多少？",
+      "o": [
+        "45 mph",
+        "55 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "它比城市和镇里的限速多 20 mph。",
+      "h2": "在 North Carolina，除非有标志写别的限速，城市和镇以外的限速是 55 mph。",
+      "p": "对。在城市和镇以外，没有标志时限速是 55 mph。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, bên ngoài thành phố và thị trấn, tốc độ tối đa là bao nhiêu khi không có biển báo ghi khác?",
+      "o": [
+        "45 mph",
+        "55 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "Nhanh hơn 20 mph so với tốc độ tối đa trong thành phố và thị trấn.",
+      "h2": "Ở North Carolina, tốc độ tối đa bên ngoài thành phố và thị trấn là 55 mph, trừ khi có biển báo ghi tốc độ khác.",
+      "p": "Đúng. Bên ngoài thành phố và thị trấn, tốc độ tối đa là 55 mph nếu không có biển báo."
+    },
+    "tl": {
+      "q": "Sa North Carolina, sa labas ng mga lungsod at bayan, ano ang speed limit kapag walang karatulang nagsasabi ng iba?",
+      "o": [
+        "45 mph",
+        "55 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "Mas mataas ito nang 20 mph kaysa sa speed limit sa mga lungsod at bayan.",
+      "h2": "Sa North Carolina, 55 mph ang speed limit sa labas ng mga lungsod at bayan maliban kung ibang limit ang nasa karatula.",
+      "p": "Tama. Sa labas ng mga lungsod at bayan, 55 mph ang limit kung walang karatula."
+    },
+    "ar": {
+      "q": "في North Carolina، خارج المدن والبلدات، ما حدّ السرعة عندما لا توجد لافتة تقول غير ذلك؟",
+      "o": [
+        "45 mph",
+        "55 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "هو أكثر بـ 20 mph من حدّ السرعة في المدن والبلدات.",
+      "h2": "في North Carolina، حدّ السرعة خارج المدن والبلدات هو 55 mph إلا إذا أظهرت لافتة حدًّا آخر.",
+      "p": "صحيح. خارج المدن والبلدات، الحدّ هو 55 mph إذا لم توجد لافتة."
+    }
+  },
+  {
+    "id": "nc-041",
+    "scope": "NC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 53,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Carolina, what is the highest speed a school bus may drive?",
+      "o": [
+        "35 mph",
+        "55 mph",
+        "45 mph",
+        "65 mph"
+      ],
+      "h1": "School activity buses may go faster than this.",
+      "h2": "In North Carolina, the maximum speed limit for a school bus is 45 mph.",
+      "p": "Right. A school bus may not go over 45 mph."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿cuál es la velocidad más alta a la que puede ir un autobús escolar?",
+      "o": [
+        "35 mph",
+        "55 mph",
+        "45 mph",
+        "65 mph"
+      ],
+      "h1": "Los autobuses para actividades escolares pueden ir más rápido que esto.",
+      "h2": "En Carolina del Norte, el límite de velocidad máximo para un autobús escolar es 45 mph.",
+      "p": "Correcto. Un autobús escolar no puede pasar de 45 mph."
+    },
+    "zh": {
+      "q": "在 North Carolina，校车最快可以开多快？",
+      "o": [
+        "35 mph",
+        "55 mph",
+        "45 mph",
+        "65 mph"
+      ],
+      "h1": "学校活动用的巴士可以开得比这个快。",
+      "h2": "在 North Carolina，校车的最高限速是 45 mph。",
+      "p": "对。校车不可以超过 45 mph。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, xe buýt trường học được chạy nhanh nhất là bao nhiêu?",
+      "o": [
+        "35 mph",
+        "55 mph",
+        "45 mph",
+        "65 mph"
+      ],
+      "h1": "Xe buýt dùng cho hoạt động của trường có thể chạy nhanh hơn mức này.",
+      "h2": "Ở North Carolina, tốc độ tối đa cho xe buýt trường học là 45 mph.",
+      "p": "Đúng. Xe buýt trường học không được chạy quá 45 mph."
+    },
+    "tl": {
+      "q": "Sa North Carolina, ano ang pinakamabilis na puwedeng takbo ng isang school bus?",
+      "o": [
+        "35 mph",
+        "55 mph",
+        "45 mph",
+        "65 mph"
+      ],
+      "h1": "Puwedeng mas mabilis dito ang mga school activity bus.",
+      "h2": "Sa North Carolina, 45 mph ang pinakamataas na speed limit para sa isang school bus.",
+      "p": "Tama. Hindi puwedeng lumampas sa 45 mph ang school bus."
+    },
+    "ar": {
+      "q": "في North Carolina، ما أعلى سرعة يجوز أن تسير بها الحافلة المدرسية؟",
+      "o": [
+        "35 mph",
+        "55 mph",
+        "45 mph",
+        "65 mph"
+      ],
+      "h1": "حافلات الأنشطة المدرسية يجوز أن تسير أسرع من هذا.",
+      "h2": "في North Carolina، أعلى حدّ للسرعة للحافلة المدرسية هو 45 mph.",
+      "p": "صحيح. لا يجوز للحافلة المدرسية أن تتجاوز 45 mph."
+    }
+  },
+  {
+    "id": "nc-042",
+    "scope": "NC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 56,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Carolina, the street has a curb. How close to the curb line of a crossing street may you park?",
+      "o": [
+        "No closer than 10 feet",
+        "No closer than 15 feet",
+        "No closer than 50 feet",
+        "No closer than 25 feet"
+      ],
+      "h1": "The shorter distance is only for streets with no curb.",
+      "h2": "In North Carolina, you may not park within 25 feet of the curb line of a crossing street, or within 15 feet where there is no curb.",
+      "p": "Right. Stay at least 25 feet from the curb line of a crossing street."
+    },
+    "es": {
+      "q": "En Carolina del Norte, la calle tiene bordillo. ¿Qué tan cerca de la línea del bordillo de una calle que cruza puede estacionarse?",
+      "o": [
+        "No a menos de 10 pies",
+        "No a menos de 15 pies",
+        "No a menos de 50 pies",
+        "No a menos de 25 pies"
+      ],
+      "h1": "La distancia más corta es solo para calles sin bordillo.",
+      "h2": "En Carolina del Norte, no puede estacionarse a menos de 25 pies de la línea del bordillo de una calle que cruza, ni a menos de 15 pies donde no hay bordillo.",
+      "p": "Correcto. Quédese al menos a 25 pies de la línea del bordillo de la calle que cruza."
+    },
+    "zh": {
+      "q": "在 North Carolina，这条街有路缘（curb）。你可以停在离交叉街道路缘线多近的地方？",
+      "o": [
+        "不能近于 10 英尺",
+        "不能近于 15 英尺",
+        "不能近于 50 英尺",
+        "不能近于 25 英尺"
+      ],
+      "h1": "较短的距离只适用于没有路缘的街道。",
+      "h2": "在 North Carolina，你不可以停在离交叉街道路缘线 25 英尺以内的地方；没有路缘的地方是 15 英尺以内。",
+      "p": "对。要离交叉街道的路缘线至少 25 英尺。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, con đường có lề đường (curb). Bạn được đậu xe gần đường lề của con đường cắt ngang đến mức nào?",
+      "o": [
+        "Không gần hơn 10 feet",
+        "Không gần hơn 15 feet",
+        "Không gần hơn 50 feet",
+        "Không gần hơn 25 feet"
+      ],
+      "h1": "Khoảng cách ngắn hơn chỉ dành cho đường không có lề.",
+      "h2": "Ở North Carolina, bạn không được đậu xe trong vòng 25 feet tính từ đường lề của con đường cắt ngang, hoặc trong vòng 15 feet nếu không có lề đường.",
+      "p": "Đúng. Hãy đậu cách đường lề của con đường cắt ngang ít nhất 25 feet."
+    },
+    "tl": {
+      "q": "Sa North Carolina, may curb ang kalye. Gaano kalapit sa curb line ng kalyeng tumatawid ka puwedeng pumarada?",
+      "o": [
+        "Hindi lalapit sa 10 feet",
+        "Hindi lalapit sa 15 feet",
+        "Hindi lalapit sa 50 feet",
+        "Hindi lalapit sa 25 feet"
+      ],
+      "h1": "Para lang sa mga kalyeng walang curb ang mas maikling distansya.",
+      "h2": "Sa North Carolina, hindi ka puwedeng pumarada sa loob ng 25 feet mula sa curb line ng kalyeng tumatawid, o sa loob ng 15 feet kung walang curb.",
+      "p": "Tama. Lumayo nang hindi bababa sa 25 feet mula sa curb line ng kalyeng tumatawid."
+    },
+    "ar": {
+      "q": "في North Carolina، للشارع رصيف (curb). إلى أي مدى يجوز أن توقف سيارتك قريبًا من خط رصيف الشارع المتقاطع؟",
+      "o": [
+        "ليس أقرب من 10 feet",
+        "ليس أقرب من 15 feet",
+        "ليس أقرب من 50 feet",
+        "ليس أقرب من 25 feet"
+      ],
+      "h1": "المسافة الأقصر هي فقط للشوارع التي ليس لها رصيف.",
+      "h2": "في North Carolina، لا يجوز لك أن توقف سيارتك على بُعد أقل من 25 feet من خط رصيف الشارع المتقاطع، أو أقل من 15 feet حيث لا يوجد رصيف.",
+      "p": "صحيح. ابقَ على بُعد 25 feet على الأقل من خط رصيف الشارع المتقاطع."
+    }
+  },
+  {
+    "id": "nc-043",
+    "scope": "NC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 48,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Carolina, an emergency vehicle has stopped at a crash to give help. How close to it may you park?",
+      "o": [
+        "No closer than 100 feet",
+        "No closer than 25 feet",
+        "No closer than 50 feet",
+        "No closer than 500 feet"
+      ],
+      "h1": "Think of about six car lengths.",
+      "h2": "In North Carolina, you may not park within 100 feet of an emergency vehicle that has stopped at a crash or to give help.",
+      "p": "Right. Park no closer than 100 feet."
+    },
+    "es": {
+      "q": "En Carolina del Norte, un vehículo de emergencia se detuvo en un choque para dar ayuda. ¿Qué tan cerca de él puede estacionarse?",
+      "o": [
+        "No a menos de 100 pies",
+        "No a menos de 25 pies",
+        "No a menos de 50 pies",
+        "No a menos de 500 pies"
+      ],
+      "h1": "Piense en unos seis carros en fila.",
+      "h2": "En Carolina del Norte, no puede estacionarse a menos de 100 pies de un vehículo de emergencia que se detuvo en un choque o para dar ayuda.",
+      "p": "Correcto. No se estacione a menos de 100 pies."
+    },
+    "zh": {
+      "q": "在 North Carolina，一辆紧急车辆停在车祸现场帮忙。你可以停在离它多近的地方？",
+      "o": [
+        "不能近于 100 英尺",
+        "不能近于 25 英尺",
+        "不能近于 50 英尺",
+        "不能近于 500 英尺"
+      ],
+      "h1": "想一想大约六辆车排成一排的长度。",
+      "h2": "在 North Carolina，你不可以停在离停在车祸现场或停下来帮忙的紧急车辆 100 英尺以内的地方。",
+      "p": "对。停车时离它不能近于 100 英尺。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, một xe khẩn cấp đã dừng tại một vụ tai nạn để giúp đỡ. Bạn được đậu xe gần nó đến mức nào?",
+      "o": [
+        "Không gần hơn 100 feet",
+        "Không gần hơn 25 feet",
+        "Không gần hơn 50 feet",
+        "Không gần hơn 500 feet"
+      ],
+      "h1": "Hãy nghĩ đến khoảng sáu chiếc xe nối đuôi nhau.",
+      "h2": "Ở North Carolina, bạn không được đậu xe trong vòng 100 feet tính từ một xe khẩn cấp đã dừng tại vụ tai nạn hoặc để giúp đỡ.",
+      "p": "Đúng. Đậu xe không gần hơn 100 feet."
+    },
+    "tl": {
+      "q": "Sa North Carolina, huminto ang isang emergency vehicle sa isang banggaan para tumulong. Gaano kalapit dito ka puwedeng pumarada?",
+      "o": [
+        "Hindi lalapit sa 100 feet",
+        "Hindi lalapit sa 25 feet",
+        "Hindi lalapit sa 50 feet",
+        "Hindi lalapit sa 500 feet"
+      ],
+      "h1": "Isipin ang mga anim na kotseng magkakasunod.",
+      "h2": "Sa North Carolina, hindi ka puwedeng pumarada sa loob ng 100 feet mula sa isang emergency vehicle na huminto sa banggaan o para tumulong.",
+      "p": "Tama. Pumarada nang hindi lalapit sa 100 feet."
+    },
+    "ar": {
+      "q": "في North Carolina، توقفت مركبة طوارئ عند حادث لتقديم المساعدة. إلى أي مدى يجوز أن توقف سيارتك قريبًا منها؟",
+      "o": [
+        "ليس أقرب من 100 feet",
+        "ليس أقرب من 25 feet",
+        "ليس أقرب من 50 feet",
+        "ليس أقرب من 500 feet"
+      ],
+      "h1": "فكّر في طول ست سيارات تقريبًا واحدة خلف الأخرى.",
+      "h2": "في North Carolina، لا يجوز لك أن توقف سيارتك على بُعد أقل من 100 feet من مركبة طوارئ توقفت عند حادث أو لتقديم المساعدة.",
+      "p": "صحيح. أوقف سيارتك على بُعد 100 feet على الأقل."
+    }
+  },
+  {
+    "id": "nc-044",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 90,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Carolina, who must wear a bicycle helmet?",
+      "o": [
+        "Only riders under 12",
+        "All riders and passengers under 16",
+        "All riders of any age",
+        "Only riders on busy highways"
+      ],
+      "h1": "The rule is about age, and it covers passengers too.",
+      "h2": "In North Carolina, every bicycle rider and passenger under 16 must wear an approved bicycle helmet.",
+      "p": "Right. Riders and passengers under 16 must wear a helmet."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿quién debe usar casco en bicicleta?",
+      "o": [
+        "Solo los ciclistas menores de 12 años",
+        "Todos los ciclistas y pasajeros menores de 16 años",
+        "Todos los ciclistas de cualquier edad",
+        "Solo los ciclistas en carreteras con mucho tráfico"
+      ],
+      "h1": "La regla depende de la edad y también incluye a los pasajeros.",
+      "h2": "En Carolina del Norte, todo ciclista y pasajero de bicicleta menor de 16 años debe usar un casco aprobado.",
+      "p": "Correcto. Los ciclistas y pasajeros menores de 16 años deben usar casco."
+    },
+    "zh": {
+      "q": "在 North Carolina，谁必须戴自行车头盔？",
+      "o": [
+        "只有未满 12 岁的骑车人",
+        "所有未满 16 岁的骑车人和乘客",
+        "所有年龄的骑车人",
+        "只有在繁忙公路上骑车的人"
+      ],
+      "h1": "这条规定和年龄有关，也包括乘客。",
+      "h2": "在 North Carolina，每个未满 16 岁的自行车骑车人和乘客都必须戴合格的自行车头盔。",
+      "p": "对。未满 16 岁的骑车人和乘客必须戴头盔。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, ai phải đội mũ bảo hiểm khi đi xe đạp?",
+      "o": [
+        "Chỉ người đi xe đạp dưới 12 tuổi",
+        "Tất cả người đi xe đạp và người ngồi sau dưới 16 tuổi",
+        "Tất cả người đi xe đạp ở mọi lứa tuổi",
+        "Chỉ người đi xe đạp trên đường cao tốc đông xe"
+      ],
+      "h1": "Quy định này dựa vào tuổi, và cũng áp dụng cho người ngồi sau.",
+      "h2": "Ở North Carolina, mọi người đi xe đạp và người ngồi sau dưới 16 tuổi đều phải đội mũ bảo hiểm xe đạp được chấp thuận.",
+      "p": "Đúng. Người đi xe đạp và người ngồi sau dưới 16 tuổi phải đội mũ bảo hiểm."
+    },
+    "tl": {
+      "q": "Sa North Carolina, sino ang dapat magsuot ng bicycle helmet?",
+      "o": [
+        "Ang mga siklistang wala pang 12 lang",
+        "Lahat ng siklista at pasaherong wala pang 16",
+        "Lahat ng siklista sa anumang edad",
+        "Ang mga siklista sa mga mataong highway lang"
+      ],
+      "h1": "Tungkol sa edad ang patakaran, at kasama rin ang mga pasahero.",
+      "h2": "Sa North Carolina, dapat magsuot ng aprobadong bicycle helmet ang bawat siklista at pasahero ng bisikleta na wala pang 16.",
+      "p": "Tama. Dapat magsuot ng helmet ang mga siklista at pasaherong wala pang 16."
+    },
+    "ar": {
+      "q": "في North Carolina، مَن يجب أن يلبس خوذة الدراجة الهوائية؟",
+      "o": [
+        "فقط راكبو الدراجات الذين أعمارهم أقل من 12 سنة",
+        "كل راكبي الدراجات والركاب الذين أعمارهم أقل من 16 سنة",
+        "كل راكبي الدراجات من كل الأعمار",
+        "فقط راكبو الدراجات على الطرق السريعة المزدحمة"
+      ],
+      "h1": "القاعدة تتعلق بالعمر، وتشمل الركاب أيضًا.",
+      "h2": "في North Carolina، يجب على كل راكب دراجة هوائية وكل راكب معه عمره أقل من 16 سنة أن يلبس خوذة دراجة معتمدة.",
+      "p": "صحيح. يجب على راكبي الدراجات والركاب الذين أعمارهم أقل من 16 سنة أن يلبسوا خوذة."
+    }
+  },
+  {
+    "id": "nc-045",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 90,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Carolina, a bicycle is ridden at night. How far away must its front light be seen?",
+      "o": [
+        "At least 100 feet",
+        "At least 200 feet",
+        "At least 300 feet",
+        "At least 500 feet"
+      ],
+      "h1": "It is farther than the rear red light or reflector must be seen.",
+      "h2": "In North Carolina, a bicycle ridden at night needs a front light seen from at least 300 feet and a red rear light or reflector seen from at least 200 feet.",
+      "p": "Right. The front light must be seen from at least 300 feet."
+    },
+    "es": {
+      "q": "En Carolina del Norte, alguien anda en bicicleta de noche. ¿Desde qué distancia se debe ver su luz delantera?",
+      "o": [
+        "Al menos 100 pies",
+        "Al menos 200 pies",
+        "Al menos 300 pies",
+        "Al menos 500 pies"
+      ],
+      "h1": "Es más lejos que la distancia desde la que se debe ver la luz o el reflector rojo de atrás.",
+      "h2": "En Carolina del Norte, una bicicleta de noche necesita una luz delantera que se vea desde al menos 300 pies y una luz o reflector rojo atrás que se vea desde al menos 200 pies.",
+      "p": "Correcto. La luz delantera se debe ver desde al menos 300 pies."
+    },
+    "zh": {
+      "q": "在 North Carolina，有人在晚上骑自行车。它的前灯必须在多远的地方能被看到？",
+      "o": [
+        "至少 100 英尺",
+        "至少 200 英尺",
+        "至少 300 英尺",
+        "至少 500 英尺"
+      ],
+      "h1": "它比后面的红灯或反光片必须被看到的距离更远。",
+      "h2": "在 North Carolina，晚上骑的自行车需要一个至少 300 英尺外能看到的前灯，以及一个至少 200 英尺外能看到的红色尾灯或反光片。",
+      "p": "对。前灯必须在至少 300 英尺外能被看到。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, có người đi xe đạp vào ban đêm. Đèn trước của xe đạp phải được nhìn thấy từ xa bao nhiêu?",
+      "o": [
+        "Ít nhất 100 feet",
+        "Ít nhất 200 feet",
+        "Ít nhất 300 feet",
+        "Ít nhất 500 feet"
+      ],
+      "h1": "Khoảng cách này xa hơn khoảng cách phải nhìn thấy đèn đỏ hoặc miếng phản quang phía sau.",
+      "h2": "Ở North Carolina, xe đạp đi vào ban đêm cần một đèn trước nhìn thấy được từ ít nhất 300 feet và một đèn đỏ hoặc miếng phản quang phía sau nhìn thấy được từ ít nhất 200 feet.",
+      "p": "Đúng. Đèn trước phải được nhìn thấy từ ít nhất 300 feet."
+    },
+    "tl": {
+      "q": "Sa North Carolina, may nagbibisikleta sa gabi. Gaano kalayo dapat makita ang ilaw sa harap nito?",
+      "o": [
+        "Hindi bababa sa 100 feet",
+        "Hindi bababa sa 200 feet",
+        "Hindi bababa sa 300 feet",
+        "Hindi bababa sa 500 feet"
+      ],
+      "h1": "Mas malayo ito kaysa sa layo kung saan dapat makita ang pulang ilaw o reflector sa likod.",
+      "h2": "Sa North Carolina, ang bisikletang ginagamit sa gabi ay kailangan ng ilaw sa harap na nakikita mula hindi bababa sa 300 feet at pulang ilaw o reflector sa likod na nakikita mula hindi bababa sa 200 feet.",
+      "p": "Tama. Dapat makita ang ilaw sa harap mula hindi bababa sa 300 feet."
+    },
+    "ar": {
+      "q": "في North Carolina، يركب شخص دراجة هوائية في الليل. من أي مسافة يجب أن يُرى ضوؤها الأمامي؟",
+      "o": [
+        "100 feet على الأقل",
+        "200 feet على الأقل",
+        "300 feet على الأقل",
+        "500 feet على الأقل"
+      ],
+      "h1": "هي أبعد من المسافة التي يجب أن يُرى منها الضوء الأحمر أو العاكس في الخلف.",
+      "h2": "في North Carolina، الدراجة الهوائية في الليل تحتاج إلى ضوء أمامي يُرى من 300 feet على الأقل، وضوء أحمر أو عاكس في الخلف يُرى من 200 feet على الأقل.",
+      "p": "صحيح. يجب أن يُرى الضوء الأمامي من 300 feet على الأقل."
+    }
+  },
+  {
+    "id": "nc-046",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 93,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Carolina, how old must you be to ride a moped on a public road?",
+      "o": [
+        "14 years old",
+        "15 years old",
+        "18 years old",
+        "16 years old"
+      ],
+      "h1": "You also need a North Carolina driver license or ID card.",
+      "h2": "In North Carolina, you must be at least 16 and have a North Carolina driver license or ID card to ride a moped on a public road.",
+      "p": "Right. You must be at least 16 to ride a moped."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿qué edad debe tener para manejar un moped en una vía pública?",
+      "o": [
+        "14 años",
+        "15 años",
+        "18 años",
+        "16 años"
+      ],
+      "h1": "También necesita una licencia de manejar o una tarjeta de identificación de Carolina del Norte.",
+      "h2": "En Carolina del Norte, debe tener al menos 16 años y una licencia de manejar o tarjeta de identificación de Carolina del Norte para manejar un moped en una vía pública.",
+      "p": "Correcto. Debe tener al menos 16 años para manejar un moped."
+    },
+    "zh": {
+      "q": "在 North Carolina，你必须几岁才可以在公共道路上骑轻便摩托车（moped）？",
+      "o": [
+        "14 岁",
+        "15 岁",
+        "18 岁",
+        "16 岁"
+      ],
+      "h1": "你还需要 North Carolina 的驾照或身份证。",
+      "h2": "在 North Carolina，你必须至少 16 岁，并且有 North Carolina 的驾照或身份证，才可以在公共道路上骑轻便摩托车。",
+      "p": "对。你必须至少 16 岁才可以骑轻便摩托车。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, bạn phải bao nhiêu tuổi mới được chạy xe gắn máy nhỏ (moped) trên đường công cộng?",
+      "o": [
+        "14 tuổi",
+        "15 tuổi",
+        "18 tuổi",
+        "16 tuổi"
+      ],
+      "h1": "Bạn cũng cần bằng lái hoặc thẻ căn cước của North Carolina.",
+      "h2": "Ở North Carolina, bạn phải ít nhất 16 tuổi và có bằng lái hoặc thẻ căn cước North Carolina mới được chạy moped trên đường công cộng.",
+      "p": "Đúng. Bạn phải ít nhất 16 tuổi mới được chạy moped."
+    },
+    "tl": {
+      "q": "Sa North Carolina, ilang taon ka dapat para makapagmaneho ng moped sa pampublikong kalsada?",
+      "o": [
+        "14 taong gulang",
+        "15 taong gulang",
+        "18 taong gulang",
+        "16 taong gulang"
+      ],
+      "h1": "Kailangan mo rin ng driver license o ID card ng North Carolina.",
+      "h2": "Sa North Carolina, dapat ay hindi bababa sa 16 ang edad mo at may driver license o ID card ka ng North Carolina para makapagmaneho ng moped sa pampublikong kalsada.",
+      "p": "Tama. Dapat ay hindi bababa sa 16 ka para makapagmaneho ng moped."
+    },
+    "ar": {
+      "q": "في North Carolina، كم يجب أن يكون عمرك لتقود دراجة نارية صغيرة (moped) على طريق عام؟",
+      "o": [
+        "14 سنة",
+        "15 سنة",
+        "18 سنة",
+        "16 سنة"
+      ],
+      "h1": "تحتاج أيضًا إلى رخصة قيادة أو بطاقة هوية من North Carolina.",
+      "h2": "في North Carolina، يجب أن يكون عمرك 16 سنة على الأقل وأن تكون لديك رخصة قيادة أو بطاقة هوية من North Carolina لتقود moped على طريق عام.",
+      "p": "صحيح. يجب أن يكون عمرك 16 سنة على الأقل لتقود moped."
+    }
+  },
+  {
+    "id": "nc-047",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 45,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Carolina, as a general rule, who may not ride in the open bed of a pickup truck?",
+      "o": [
+        "Children under 16",
+        "Children under 12",
+        "Anyone under 18",
+        "Adults over 65"
+      ],
+      "h1": "The age is the same as the one for bicycle helmets.",
+      "h2": "In North Carolina, children under 16 may not ride in the open bed of a pickup truck, except in a few cases such as when an adult in the bed supervises them.",
+      "p": "Right. Children under 16 may not ride in an open truck bed."
+    },
+    "es": {
+      "q": "En Carolina del Norte, como regla general, ¿quién no puede viajar en la caja abierta de una camioneta pickup?",
+      "o": [
+        "Los niños menores de 16 años",
+        "Los niños menores de 12 años",
+        "Cualquier persona menor de 18 años",
+        "Los adultos mayores de 65 años"
+      ],
+      "h1": "La edad es la misma que para el casco de bicicleta.",
+      "h2": "En Carolina del Norte, los niños menores de 16 años no pueden viajar en la caja abierta de una camioneta pickup, salvo en algunos casos, como cuando un adulto en la caja los supervisa.",
+      "p": "Correcto. Los niños menores de 16 años no pueden viajar en una caja abierta."
+    },
+    "zh": {
+      "q": "在 North Carolina，一般来说，谁不可以坐在皮卡车开放式的后车斗里？",
+      "o": [
+        "未满 16 岁的孩子",
+        "未满 12 岁的孩子",
+        "任何未满 18 岁的人",
+        "65 岁以上的成年人"
+      ],
+      "h1": "这个年龄和自行车头盔规定的年龄一样。",
+      "h2": "在 North Carolina，未满 16 岁的孩子不可以坐在皮卡车开放式的后车斗里，只有少数情况例外，例如有成年人在车斗里看着他们。",
+      "p": "对。未满 16 岁的孩子不可以坐在开放式的后车斗里。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, theo quy định chung, ai không được ngồi trong thùng hở phía sau xe bán tải (pickup)?",
+      "o": [
+        "Trẻ em dưới 16 tuổi",
+        "Trẻ em dưới 12 tuổi",
+        "Bất kỳ ai dưới 18 tuổi",
+        "Người lớn trên 65 tuổi"
+      ],
+      "h1": "Độ tuổi này giống với độ tuổi phải đội mũ bảo hiểm xe đạp.",
+      "h2": "Ở North Carolina, trẻ em dưới 16 tuổi không được ngồi trong thùng hở phía sau xe bán tải, trừ một vài trường hợp, ví dụ khi có một người lớn ngồi trong thùng trông chừng các em.",
+      "p": "Đúng. Trẻ em dưới 16 tuổi không được ngồi trong thùng xe hở."
+    },
+    "tl": {
+      "q": "Sa North Carolina, bilang pangkalahatang patakaran, sino ang hindi puwedeng sumakay sa bukas na likod (bed) ng pickup truck?",
+      "o": [
+        "Mga batang wala pang 16",
+        "Mga batang wala pang 12",
+        "Sinumang wala pang 18",
+        "Mga adultong lampas 65"
+      ],
+      "h1": "Pareho ang edad sa edad para sa bicycle helmet.",
+      "h2": "Sa North Carolina, hindi puwedeng sumakay ang mga batang wala pang 16 sa bukas na likod ng pickup truck, maliban sa ilang kaso gaya ng kapag may adulto sa likod na nagbabantay sa kanila.",
+      "p": "Tama. Hindi puwedeng sumakay ang mga batang wala pang 16 sa bukas na likod ng truck."
+    },
+    "ar": {
+      "q": "في North Carolina، كقاعدة عامة، مَن لا يجوز له أن يركب في الصندوق الخلفي المكشوف لشاحنة pickup؟",
+      "o": [
+        "الأطفال الذين أعمارهم أقل من 16 سنة",
+        "الأطفال الذين أعمارهم أقل من 12 سنة",
+        "أي شخص عمره أقل من 18 سنة",
+        "الكبار الذين أعمارهم أكثر من 65 سنة"
+      ],
+      "h1": "العمر هو نفسه العمر الخاص بخوذة الدراجة الهوائية.",
+      "h2": "في North Carolina، لا يجوز للأطفال الذين أعمارهم أقل من 16 سنة أن يركبوا في الصندوق الخلفي المكشوف لشاحنة pickup، إلا في حالات قليلة، مثل وجود شخص بالغ في الصندوق يراقبهم.",
+      "p": "صحيح. لا يجوز للأطفال الذين أعمارهم أقل من 16 سنة أن يركبوا في صندوق شاحنة مكشوف."
+    }
+  },
+  {
+    "id": "nc-048",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 44,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Carolina, your car has a back seat and a front passenger air bag that is turned on. Which child must ride in the back seat?",
+      "o": [
+        "A child under 8 who weighs less than 80 pounds",
+        "A child under 5 who weighs less than 40 pounds",
+        "Any child under 16",
+        "A child under 10 who weighs less than 60 pounds"
+      ],
+      "h1": "It is a younger, lighter child than the one who needs a booster seat.",
+      "h2": "In North Carolina, when the car has an active front passenger air bag and a back seat, a child under 5 who weighs less than 40 pounds must ride in the back seat, unless the child seat is made for use with the air bag.",
+      "p": "Right. A child under 5 and under 40 pounds must ride in the back."
+    },
+    "es": {
+      "q": "En Carolina del Norte, su carro tiene asiento trasero y una bolsa de aire del pasajero delantero que está encendida. ¿Qué niño debe ir en el asiento trasero?",
+      "o": [
+        "Un niño menor de 8 años que pesa menos de 80 libras",
+        "Un niño menor de 5 años que pesa menos de 40 libras",
+        "Cualquier niño menor de 16 años",
+        "Un niño menor de 10 años que pesa menos de 60 libras"
+      ],
+      "h1": "Es un niño más pequeño y liviano que el que necesita un asiento elevado.",
+      "h2": "En Carolina del Norte, cuando el carro tiene una bolsa de aire delantera del pasajero activa y un asiento trasero, un niño menor de 5 años que pesa menos de 40 libras debe ir atrás, salvo que su asiento esté hecho para usarse con la bolsa de aire.",
+      "p": "Correcto. Un niño menor de 5 años y de menos de 40 libras debe ir atrás."
+    },
+    "zh": {
+      "q": "在 North Carolina，你的车有后座，而且前排乘客安全气囊是开着的。哪个孩子必须坐在后座？",
+      "o": [
+        "未满 8 岁、体重不到 80 磅的孩子",
+        "未满 5 岁、体重不到 40 磅的孩子",
+        "任何未满 16 岁的孩子",
+        "未满 10 岁、体重不到 60 磅的孩子"
+      ],
+      "h1": "这个孩子比需要加高座椅的孩子更小、更轻。",
+      "h2": "在 North Carolina，当车里有开着的前排乘客安全气囊而且有后座时，未满 5 岁、体重不到 40 磅的孩子必须坐在后座，除非儿童座椅是专为和安全气囊一起使用而设计的。",
+      "p": "对。未满 5 岁、不到 40 磅的孩子必须坐在后座。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, xe của bạn có ghế sau và túi khí của ghế hành khách phía trước đang bật. Trẻ nào phải ngồi ở ghế sau?",
+      "o": [
+        "Trẻ dưới 8 tuổi nặng dưới 80 pound",
+        "Trẻ dưới 5 tuổi nặng dưới 40 pound",
+        "Bất kỳ trẻ nào dưới 16 tuổi",
+        "Trẻ dưới 10 tuổi nặng dưới 60 pound"
+      ],
+      "h1": "Đó là trẻ nhỏ và nhẹ hơn trẻ cần ghế nâng (booster seat).",
+      "h2": "Ở North Carolina, khi xe có túi khí hành khách phía trước đang bật và có ghế sau, trẻ dưới 5 tuổi nặng dưới 40 pound phải ngồi ở ghế sau, trừ khi ghế trẻ em được làm để dùng với túi khí.",
+      "p": "Đúng. Trẻ dưới 5 tuổi và dưới 40 pound phải ngồi ở phía sau."
+    },
+    "tl": {
+      "q": "Sa North Carolina, may back seat ang kotse mo at nakabukas ang air bag ng pasahero sa harap. Aling bata ang dapat umupo sa back seat?",
+      "o": [
+        "Batang wala pang 8 na mas magaan sa 80 pounds",
+        "Batang wala pang 5 na mas magaan sa 40 pounds",
+        "Sinumang batang wala pang 16",
+        "Batang wala pang 10 na mas magaan sa 60 pounds"
+      ],
+      "h1": "Mas bata at mas magaan ito kaysa sa batang kailangan ng booster seat.",
+      "h2": "Sa North Carolina, kapag may nakabukas na air bag ng pasahero sa harap at may back seat ang kotse, ang batang wala pang 5 na mas magaan sa 40 pounds ay dapat umupo sa back seat, maliban kung ginawa ang child seat para gamitin kasama ng air bag.",
+      "p": "Tama. Ang batang wala pang 5 at mas magaan sa 40 pounds ay dapat umupo sa likod."
+    },
+    "ar": {
+      "q": "في North Carolina، في سيارتك مقعد خلفي، والوسادة الهوائية للراكب الأمامي تعمل. أي طفل يجب أن يجلس في المقعد الخلفي؟",
+      "o": [
+        "طفل عمره أقل من 8 سنوات ووزنه أقل من 80 pounds",
+        "طفل عمره أقل من 5 سنوات ووزنه أقل من 40 pounds",
+        "أي طفل عمره أقل من 16 سنة",
+        "طفل عمره أقل من 10 سنوات ووزنه أقل من 60 pounds"
+      ],
+      "h1": "هو طفل أصغر وأخف من الطفل الذي يحتاج إلى مقعد رافع (booster seat).",
+      "h2": "في North Carolina، عندما تكون في السيارة وسادة هوائية تعمل للراكب الأمامي ومقعد خلفي، يجب أن يجلس الطفل الذي عمره أقل من 5 سنوات ووزنه أقل من 40 pounds في المقعد الخلفي، إلا إذا كان مقعد الطفل مصنوعًا للاستعمال مع الوسادة الهوائية.",
+      "p": "صحيح. الطفل الذي عمره أقل من 5 سنوات ووزنه أقل من 40 pounds يجب أن يجلس في الخلف."
+    }
+  },
+  {
+    "id": "nc-049",
+    "scope": "NC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 52,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Carolina, you are driving the same way as a funeral procession. When may you pass it?",
+      "o": [
+        "Any time, if you honk first",
+        "Whenever it goes slower than 25 mph",
+        "Only when the road has two or more lanes going your way",
+        "Never, on any road"
+      ],
+      "h1": "It depends on how many lanes go in your direction.",
+      "h2": "In North Carolina, you may not pass a funeral procession going your way unless the road is marked for two or more lanes in that direction.",
+      "p": "Right. Pass only when there are two or more lanes going your way."
+    },
+    "es": {
+      "q": "En Carolina del Norte, usted maneja en la misma dirección que un cortejo fúnebre. ¿Cuándo puede rebasarlo?",
+      "o": [
+        "En cualquier momento, si toca la bocina primero",
+        "Cuando vaya a menos de 25 mph",
+        "Solo cuando la vía tiene dos o más carriles en su dirección",
+        "Nunca, en ninguna vía"
+      ],
+      "h1": "Depende de cuántos carriles van en su dirección.",
+      "h2": "En Carolina del Norte, no puede rebasar un cortejo fúnebre que va en su dirección, a menos que la vía tenga marcados dos o más carriles en esa dirección.",
+      "p": "Correcto. Rebase solo cuando hay dos o más carriles en su dirección."
+    },
+    "zh": {
+      "q": "在 North Carolina，你和一支送葬车队往同一个方向开。你什么时候可以超过它？",
+      "o": [
+        "任何时候，只要先按喇叭",
+        "只要它的速度低于 25 mph",
+        "只有当道路在你的方向有两条或以上车道时",
+        "永远不可以，在任何道路上都不行"
+      ],
+      "h1": "这要看你的方向有几条车道。",
+      "h2": "在 North Carolina，你不可以超过和你同方向的送葬车队，除非道路在那个方向标有两条或以上车道。",
+      "p": "对。只有在你的方向有两条或以上车道时才可以超车。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, bạn đang lái cùng chiều với một đoàn xe đưa tang. Khi nào bạn được vượt đoàn xe này?",
+      "o": [
+        "Bất cứ lúc nào, nếu bạn bấm còi trước",
+        "Bất cứ khi nào đoàn xe chạy chậm hơn 25 mph",
+        "Chỉ khi con đường có từ hai làn xe trở lên đi theo chiều của bạn",
+        "Không bao giờ, trên bất kỳ con đường nào"
+      ],
+      "h1": "Điều này tùy thuộc vào số làn xe đi theo chiều của bạn.",
+      "h2": "Ở North Carolina, bạn không được vượt đoàn xe đưa tang đi cùng chiều với bạn, trừ khi con đường có kẻ vạch từ hai làn xe trở lên theo chiều đó.",
+      "p": "Đúng. Chỉ vượt khi có từ hai làn xe trở lên đi theo chiều của bạn."
+    },
+    "tl": {
+      "q": "Sa North Carolina, nagmamaneho ka sa parehong direksyon ng isang funeral procession. Kailan mo ito puwedeng lampasan?",
+      "o": [
+        "Kahit kailan, kung bumusina ka muna",
+        "Tuwing mas mabagal ito sa 25 mph",
+        "Kapag may dalawa o higit pang lane lang ang kalsada sa direksyon mo",
+        "Hindi kailanman, sa anumang kalsada"
+      ],
+      "h1": "Depende ito sa kung ilang lane ang papunta sa direksyon mo.",
+      "h2": "Sa North Carolina, hindi mo puwedeng lampasan ang funeral procession na papunta sa direksyon mo maliban kung may marka ang kalsada ng dalawa o higit pang lane sa direksyong iyon.",
+      "p": "Tama. Lumampas lang kapag may dalawa o higit pang lane sa direksyon mo."
+    },
+    "ar": {
+      "q": "في North Carolina، أنت تقود في نفس اتجاه موكب جنازة. متى يجوز لك أن تتجاوزه؟",
+      "o": [
+        "في أي وقت، إذا ضغطت على البوق أولًا",
+        "كلما سار بسرعة أقل من 25 mph",
+        "فقط عندما يكون للطريق مساران أو أكثر في اتجاهك",
+        "أبدًا، على أي طريق"
+      ],
+      "h1": "يعتمد ذلك على عدد المسارات في اتجاهك.",
+      "h2": "في North Carolina، لا يجوز لك أن تتجاوز موكب جنازة يسير في اتجاهك إلا إذا كان الطريق مُعلَّمًا بمسارين أو أكثر في ذلك الاتجاه.",
+      "p": "صحيح. تجاوز فقط عندما يكون هناك مساران أو أكثر في اتجاهك."
+    }
+  },
+  {
+    "id": "nc-050",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 95,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Carolina, trash is thrown from your car and you are convicted of littering for the first time. What is the lowest fine?",
+      "o": [
+        "$25",
+        "$100",
+        "$500",
+        "$250"
+      ],
+      "h1": "The highest fine for a first offense is $1,000.",
+      "h2": "In North Carolina, a first littering conviction carries a fine of at least $250 and up to $1,000, and the driver is held responsible for litter from the vehicle.",
+      "p": "Right. The fine starts at $250."
+    },
+    "es": {
+      "q": "En Carolina del Norte, alguien tira basura desde su carro y usted es declarado culpable de tirar basura por primera vez. ¿Cuál es la multa más baja?",
+      "o": [
+        "$25",
+        "$100",
+        "$500",
+        "$250"
+      ],
+      "h1": "La multa más alta para una primera vez es $1,000.",
+      "h2": "En Carolina del Norte, una primera condena por tirar basura tiene una multa de al menos $250 y hasta $1,000, y el conductor es responsable de la basura que sale del vehículo.",
+      "p": "Correcto. La multa empieza en $250."
+    },
+    "zh": {
+      "q": "在 North Carolina，有人从你的车里扔出垃圾，你第一次被判乱扔垃圾。最低罚款是多少？",
+      "o": [
+        "$25",
+        "$100",
+        "$500",
+        "$250"
+      ],
+      "h1": "第一次的最高罚款是 $1,000。",
+      "h2": "在 North Carolina，第一次被判乱扔垃圾会被罚款至少 $250，最多 $1,000，而且司机要对从车里扔出的垃圾负责。",
+      "p": "对。罚款从 $250 起。"
+    },
+    "vi": {
+      "q": "Ở North Carolina, có người ném rác ra khỏi xe của bạn và bạn bị kết tội xả rác lần đầu tiên. Mức phạt thấp nhất là bao nhiêu?",
+      "o": [
+        "$25",
+        "$100",
+        "$500",
+        "$250"
+      ],
+      "h1": "Mức phạt cao nhất cho lần đầu là $1,000.",
+      "h2": "Ở North Carolina, lần đầu bị kết tội xả rác sẽ bị phạt ít nhất $250 và tối đa $1,000, và tài xế phải chịu trách nhiệm về rác từ xe của mình.",
+      "p": "Đúng. Mức phạt bắt đầu từ $250."
+    },
+    "tl": {
+      "q": "Sa North Carolina, may nagtapon ng basura mula sa kotse mo at napatunayan kang nagkasala ng pagkakalat sa unang pagkakataon. Ano ang pinakamababang multa?",
+      "o": [
+        "$25",
+        "$100",
+        "$500",
+        "$250"
+      ],
+      "h1": "Ang pinakamataas na multa sa unang paglabag ay $1,000.",
+      "h2": "Sa North Carolina, ang unang conviction sa pagkakalat ay may multang hindi bababa sa $250 at hanggang $1,000, at ang driver ang mananagot sa basurang galing sa sasakyan.",
+      "p": "Tama. Nagsisimula sa $250 ang multa."
+    },
+    "ar": {
+      "q": "في North Carolina، رمى أحدهم القمامة من سيارتك وأُدنت برمي القمامة لأول مرة. ما أقل غرامة؟",
+      "o": [
+        "$25",
+        "$100",
+        "$500",
+        "$250"
+      ],
+      "h1": "أعلى غرامة في المرة الأولى هي $1,000.",
+      "h2": "في North Carolina، الإدانة الأولى برمي القمامة تجلب غرامة لا تقل عن $250 وتصل إلى $1,000، والسائق مسؤول عن القمامة التي تُرمى من المركبة.",
+      "p": "صحيح. تبدأ الغرامة من $250."
+    }
   }
 ]

@@ -2540,5 +2540,685 @@
       "h2": "في Indiana، إذا انتهت صلاحية رخصتك منذ 180 يومًا على الأقل ولكن أقل من خمس سنوات، يجب أن تدفع غرامة وتنجح في اختبار المعرفة وفحص النظر.",
       "p": "صحيح. ادفع الغرامة وانجح في اختبار المعرفة وفحص النظر."
     }
+  },
+  {
+    "id": "in-032",
+    "scope": "IN",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 2,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Indiana, you just moved here and became a resident. How long do you have to get an Indiana driver's license?",
+      "o": [
+        "30 days",
+        "10 days",
+        "60 days",
+        "One year"
+      ],
+      "h1": "It is about two months.",
+      "h2": "In Indiana, a new resident has 60 days to get an Indiana driver's license.",
+      "p": "Right. New residents have 60 days."
+    },
+    "es": {
+      "q": "En Indiana, usted acaba de mudarse y ahora es residente. ¿Cuánto tiempo tiene para sacar una licencia de manejar de Indiana?",
+      "o": [
+        "30 días",
+        "10 días",
+        "60 días",
+        "Un año"
+      ],
+      "h1": "Son unos dos meses.",
+      "h2": "En Indiana, un nuevo residente tiene 60 días para sacar una licencia de manejar de Indiana.",
+      "p": "Correcto. Los nuevos residentes tienen 60 días."
+    }
+  },
+  {
+    "id": "in-033",
+    "scope": "IN",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 9,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Indiana, how long is a regular driver's license valid for a driver younger than 75?",
+      "o": [
+        "Six years",
+        "Two years",
+        "Ten years",
+        "Four years"
+      ],
+      "h1": "Older drivers renew more often than this.",
+      "h2": "In Indiana, a driver's license is valid for six years if you are younger than 75.",
+      "p": "Right. Under 75, a license lasts six years."
+    },
+    "es": {
+      "q": "En Indiana, ¿por cuánto tiempo es válida una licencia de manejar normal para un conductor menor de 75 años?",
+      "o": [
+        "Seis años",
+        "Dos años",
+        "Diez años",
+        "Cuatro años"
+      ],
+      "h1": "Los conductores mayores la renuevan más seguido.",
+      "h2": "En Indiana, una licencia de manejar es válida por seis años si usted tiene menos de 75 años.",
+      "p": "Correcto. Antes de los 75, la licencia dura seis años."
+    }
+  },
+  {
+    "id": "in-034",
+    "scope": "IN",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 5,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Indiana, you fail the knowledge exam. When may you take it again?",
+      "o": [
+        "After 30 days",
+        "After seven days",
+        "After six months",
+        "The next business day"
+      ],
+      "h1": "The wait is very short.",
+      "h2": "In Indiana, if you fail the knowledge exam, you may take it again on the next business day.",
+      "p": "Right. You can retake it the next business day."
+    },
+    "es": {
+      "q": "En Indiana, usted no aprueba el examen de conocimientos. ¿Cuándo puede tomarlo otra vez?",
+      "o": [
+        "Después de 30 días",
+        "Después de siete días",
+        "Después de seis meses",
+        "El siguiente día hábil"
+      ],
+      "h1": "La espera es muy corta.",
+      "h2": "En Indiana, si no aprueba el examen de conocimientos, puede tomarlo otra vez el siguiente día hábil.",
+      "p": "Correcto. Puede repetirlo el siguiente día hábil."
+    }
+  },
+  {
+    "id": "in-035",
+    "scope": "IN",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Indiana, you fail the driving skills exam. How long must you wait before you take it again?",
+      "o": [
+        "Until the next day",
+        "Seven days",
+        "Six months",
+        "One year"
+      ],
+      "h1": "It is about one week.",
+      "h2": "In Indiana, after you fail a driving skills exam, you must wait seven days before you take it again.",
+      "p": "Right. You wait seven days to retake the skills exam."
+    },
+    "es": {
+      "q": "En Indiana, usted no aprueba el examen práctico de manejo. ¿Cuánto tiempo debe esperar para tomarlo otra vez?",
+      "o": [
+        "Hasta el día siguiente",
+        "Siete días",
+        "Seis meses",
+        "Un año"
+      ],
+      "h1": "Es como una semana.",
+      "h2": "En Indiana, si no aprueba un examen práctico de manejo, debe esperar siete días para tomarlo otra vez.",
+      "p": "Correcto. Espera siete días para repetir el examen práctico."
+    }
+  },
+  {
+    "id": "in-036",
+    "scope": "IN",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 21,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Indiana, how many points do you get for a hand-held phone violation while driving?",
+      "o": [
+        "2 points",
+        "8 points",
+        "4 points",
+        "10 points"
+      ],
+      "h1": "It is the same number of points as running a stop sign.",
+      "h2": "In Indiana, a violation for using a hand-held device while driving puts 4 points on your record.",
+      "p": "Right. A hand-held device violation is 4 points."
+    },
+    "es": {
+      "q": "En Indiana, ¿cuántos puntos recibe por una infracción de usar el teléfono en la mano mientras maneja?",
+      "o": [
+        "2 puntos",
+        "8 puntos",
+        "4 puntos",
+        "10 puntos"
+      ],
+      "h1": "Son los mismos puntos que por no respetar una señal de alto.",
+      "h2": "En Indiana, una infracción por usar un aparato en la mano mientras maneja le pone 4 puntos en su historial.",
+      "p": "Correcto. Usar un aparato en la mano son 4 puntos."
+    }
+  },
+  {
+    "id": "in-037",
+    "scope": "IN",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 21,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Indiana, any driver may finish a BMV-approved Driver Safety Program course. What does it give you?",
+      "o": [
+        "A four-point credit on your record",
+        "A free license renewal",
+        "All points erased forever",
+        "A lower insurance minimum"
+      ],
+      "h1": "It helps your point total.",
+      "h2": "In Indiana, finishing a BMV-approved Driver Safety Program course gives you a four-point credit, once every three years.",
+      "p": "Right. The course gives a four-point credit."
+    },
+    "es": {
+      "q": "En Indiana, cualquier conductor puede terminar un curso del Programa de Seguridad del Conductor aprobado por el BMV. ¿Qué le da?",
+      "o": [
+        "Un crédito de cuatro puntos en su historial",
+        "Una renovación de licencia gratis",
+        "Borrar todos los puntos para siempre",
+        "Un mínimo de seguro más bajo"
+      ],
+      "h1": "Ayuda con su total de puntos.",
+      "h2": "En Indiana, terminar un curso del Programa de Seguridad del Conductor aprobado por el BMV le da un crédito de cuatro puntos, una vez cada tres años.",
+      "p": "Correcto. El curso da un crédito de cuatro puntos."
+    }
+  },
+  {
+    "id": "in-038",
+    "scope": "IN",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 24,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Indiana, a driver fails a chemical test for alcohol. How long will the driver's license be suspended?",
+      "o": [
+        "30 days",
+        "180 days",
+        "5 years",
+        "10 years"
+      ],
+      "h1": "It is about half a year.",
+      "h2": "In Indiana, a driver who fails a chemical test faces a 180-day suspension of driving privileges.",
+      "p": "Right. Failing a chemical test means a 180-day suspension."
+    },
+    "es": {
+      "q": "En Indiana, un conductor no pasa una prueba química de alcohol. ¿Por cuánto tiempo le suspenden la licencia?",
+      "o": [
+        "30 días",
+        "180 días",
+        "5 años",
+        "10 años"
+      ],
+      "h1": "Es como medio año.",
+      "h2": "En Indiana, un conductor que no pasa una prueba química enfrenta una suspensión de 180 días de su privilegio de manejar.",
+      "p": "Correcto. No pasar la prueba química significa 180 días de suspensión."
+    }
+  },
+  {
+    "id": "in-039",
+    "scope": "IN",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 24,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Indiana, a driver with an earlier drunk driving (OWI) conviction refuses a chemical test. How long is the suspension?",
+      "o": [
+        "90 days",
+        "1 year",
+        "180 days",
+        "2 years"
+      ],
+      "h1": "The earlier conviction makes it longer than a first refusal.",
+      "h2": "In Indiana, a driver with a previous OWI conviction who refuses a chemical test faces a two-year suspension.",
+      "p": "Right. A refusal after an earlier OWI conviction means two years."
+    },
+    "es": {
+      "q": "En Indiana, un conductor que ya tiene una condena anterior por manejar intoxicado (OWI) se niega a una prueba química. ¿Cuánto dura la suspensión?",
+      "o": [
+        "90 días",
+        "1 año",
+        "180 días",
+        "2 años"
+      ],
+      "h1": "La condena anterior la hace más larga que una primera negativa.",
+      "h2": "En Indiana, un conductor con una condena anterior por OWI que se niega a una prueba química enfrenta una suspensión de dos años.",
+      "p": "Correcto. Negarse después de una condena por OWI significa dos años."
+    }
+  },
+  {
+    "id": "in-040",
+    "scope": "IN",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 23,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Indiana, your license was suspended for the first time for driving without insurance. What is the reinstatement fee?",
+      "o": [
+        "$250",
+        "$1,000",
+        "$50",
+        "$500"
+      ],
+      "h1": "The fee goes up with each new suspension.",
+      "h2": "In Indiana, the reinstatement fee for a first no-insurance suspension is $250.",
+      "p": "Right. A first no-insurance suspension costs $250 to reinstate."
+    },
+    "es": {
+      "q": "En Indiana, le suspendieron la licencia por primera vez por manejar sin seguro. ¿Cuánto cuesta la cuota para restablecerla?",
+      "o": [
+        "$250",
+        "$1,000",
+        "$50",
+        "$500"
+      ],
+      "h1": "La cuota sube con cada nueva suspensión.",
+      "h2": "En Indiana, la cuota para restablecer la licencia después de una primera suspensión por no tener seguro es de $250.",
+      "p": "Correcto. La primera suspensión por no tener seguro cuesta $250."
+    }
+  },
+  {
+    "id": "in-041",
+    "scope": "IN",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Indiana, you are 30 years old and have 6 active points on your record. What must you do to renew your license?",
+      "o": [
+        "Take a driving skills exam",
+        "Wait one year before renewing",
+        "Take the knowledge exam",
+        "Nothing extra; just pay the fee"
+      ],
+      "h1": "It is a written test, not a road test.",
+      "h2": "In Indiana, a driver 21 or older with six or more active points must take the knowledge exam to renew a license.",
+      "p": "Right. Six or more active points means taking the knowledge exam."
+    },
+    "es": {
+      "q": "En Indiana, usted tiene 30 años y 6 puntos activos en su historial. ¿Qué debe hacer para renovar su licencia?",
+      "o": [
+        "Tomar un examen práctico de manejo",
+        "Esperar un año antes de renovar",
+        "Tomar el examen de conocimientos",
+        "Nada más; solo pagar la cuota"
+      ],
+      "h1": "Es un examen escrito, no de manejo.",
+      "h2": "En Indiana, un conductor de 21 años o más con seis o más puntos activos debe tomar el examen de conocimientos para renovar la licencia.",
+      "p": "Correcto. Seis o más puntos activos significa tomar el examen de conocimientos."
+    }
+  },
+  {
+    "id": "in-042",
+    "scope": "IN",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 40,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Indiana, what is the speed limit on a rural state divided highway when no other limit is posted?",
+      "o": [
+        "45 mph",
+        "60 mph",
+        "70 mph",
+        "50 mph"
+      ],
+      "h1": "It is lower than the rural interstate limit.",
+      "h2": "In Indiana, the speed limit on a rural state divided highway is 60 mph unless another limit is posted.",
+      "p": "Right. A rural state divided highway is 60 mph."
+    },
+    "es": {
+      "q": "En Indiana, ¿cuál es el límite de velocidad en una carretera estatal dividida en zona rural cuando no hay otro límite indicado?",
+      "o": [
+        "45 mph",
+        "60 mph",
+        "70 mph",
+        "50 mph"
+      ],
+      "h1": "Es más bajo que el límite de una interestatal rural.",
+      "h2": "En Indiana, el límite de velocidad en una carretera estatal dividida en zona rural es de 60 millas por hora, a menos que haya otro límite indicado.",
+      "p": "Correcto. Una carretera estatal dividida rural es de 60 mph."
+    }
+  },
+  {
+    "id": "in-043",
+    "scope": "IN",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Indiana, what is the speed limit in an alley when no other limit is posted?",
+      "o": [
+        "30 mph",
+        "25 mph",
+        "20 mph",
+        "15 mph"
+      ],
+      "h1": "It is the lowest of these choices.",
+      "h2": "In Indiana, the speed limit in an alley is 15 mph unless another limit is posted.",
+      "p": "Right. The alley limit is 15 mph."
+    },
+    "es": {
+      "q": "En Indiana, ¿cuál es el límite de velocidad en un callejón cuando no hay otro límite indicado?",
+      "o": [
+        "30 mph",
+        "25 mph",
+        "20 mph",
+        "15 mph"
+      ],
+      "h1": "Es el más bajo de estas opciones.",
+      "h2": "En Indiana, el límite de velocidad en un callejón es de 15 millas por hora, a menos que haya otro límite indicado.",
+      "p": "Correcto. En un callejón el límite es 15 mph."
+    }
+  },
+  {
+    "id": "in-044",
+    "scope": "IN",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 44,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Indiana, you are driving behind another vehicle at night with high beams on. How close may you get before you must switch to low beams?",
+      "o": [
+        "Within 200 feet",
+        "Within 50 feet",
+        "Within 1,000 feet",
+        "Within 500 feet"
+      ],
+      "h1": "The distance for a car ahead is shorter than for an oncoming car.",
+      "h2": "In Indiana, you must use low beams when you are following within 200 feet of another vehicle.",
+      "p": "Right. Dim your lights within 200 feet of the car ahead."
+    },
+    "es": {
+      "q": "En Indiana, de noche usted maneja detrás de otro vehículo con las luces altas. ¿A qué distancia debe cambiar a luces bajas?",
+      "o": [
+        "A 200 pies o menos",
+        "A 50 pies o menos",
+        "A 1,000 pies o menos",
+        "A 500 pies o menos"
+      ],
+      "h1": "La distancia para un auto adelante es menor que para uno que viene de frente.",
+      "h2": "En Indiana, debe usar luces bajas cuando va a 200 pies o menos detrás de otro vehículo.",
+      "p": "Correcto. Baje las luces a 200 pies del auto de adelante."
+    }
+  },
+  {
+    "id": "in-045",
+    "scope": "IN",
+    "cat": "signals",
+    "conf": "high",
+    "page": 35,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Indiana, a motorcycle rider is stuck at a red light that does not turn green. What may the rider do?",
+      "o": [
+        "Wait for green, no matter how long",
+        "Go after a 10-second stop",
+        "Go with care after stopping for at least two minutes",
+        "Turn on hazard lights and go at once"
+      ],
+      "h1": "The rider must stop fully and wait a set time first.",
+      "h2": "In Indiana, a motorcycle rider at a red light that does not change may go with care after a complete stop of at least two minutes.",
+      "p": "Right. After a full stop of at least two minutes, the rider may go with care."
+    },
+    "es": {
+      "q": "En Indiana, un motociclista está detenido en un semáforo en rojo que no cambia a verde. ¿Qué puede hacer?",
+      "o": [
+        "Esperar la luz verde, sin importar cuánto tarde",
+        "Avanzar después de parar 10 segundos",
+        "Avanzar con cuidado después de parar al menos dos minutos",
+        "Prender las luces de emergencia y avanzar enseguida"
+      ],
+      "h1": "Primero debe parar por completo y esperar un tiempo fijo.",
+      "h2": "En Indiana, un motociclista en un semáforo en rojo que no cambia puede avanzar con cuidado después de parar por completo al menos dos minutos.",
+      "p": "Correcto. Después de parar al menos dos minutos, puede avanzar con cuidado."
+    }
+  },
+  {
+    "id": "in-046",
+    "scope": "IN",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 46,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Indiana, a driver commits aggressive driving when, in one trip, the driver does at least how many acts such as tailgating, honking for no reason, or flashing headlights again and again?",
+      "o": [
+        "One",
+        "Three",
+        "Two",
+        "Five"
+      ],
+      "h1": "It takes more than a pair of these acts.",
+      "h2": "In Indiana, a driver commits aggressive driving by doing at least three of the listed unsafe acts during one episode of driving.",
+      "p": "Right. Three or more of these acts in one trip is aggressive driving."
+    },
+    "es": {
+      "q": "En Indiana, ¿cuántos actos como seguir muy de cerca, tocar la bocina sin razón o hacer cambio de luces una y otra vez debe hacer un conductor, como mínimo, en un mismo viaje para que sea manejo agresivo?",
+      "o": [
+        "Uno",
+        "Tres",
+        "Dos",
+        "Cinco"
+      ],
+      "h1": "Se necesita más de un par de estos actos.",
+      "h2": "En Indiana, un conductor maneja de forma agresiva cuando hace al menos tres de los actos peligrosos de la lista en un mismo viaje.",
+      "p": "Correcto. Tres o más de estos actos en un viaje es manejo agresivo."
+    }
+  },
+  {
+    "id": "in-047",
+    "scope": "IN",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Indiana, a driver recklessly passes a stopped school bus with its stop arm out, and no one is hurt. What kind of offense is this?",
+      "o": [
+        "A warning only",
+        "A parking ticket",
+        "A Class C infraction",
+        "A Class A misdemeanor"
+      ],
+      "h1": "It is a crime, not just a ticket.",
+      "h2": "In Indiana, recklessly passing a school bus with its stop arm out is a Class A misdemeanor, and it becomes a felony if someone is hurt or killed.",
+      "p": "Right. Reckless passing of a stopped school bus is a Class A misdemeanor."
+    },
+    "es": {
+      "q": "En Indiana, un conductor rebasa de forma imprudente un autobús escolar detenido con el brazo de alto extendido, y nadie sale herido. ¿Qué tipo de delito es?",
+      "o": [
+        "Solo una advertencia",
+        "Una multa de estacionamiento",
+        "Una infracción Clase C",
+        "Un delito menor Clase A"
+      ],
+      "h1": "Es un delito, no solo una multa.",
+      "h2": "En Indiana, rebasar de forma imprudente un autobús escolar con el brazo de alto extendido es un delito menor Clase A, y pasa a ser un delito grave si alguien sale herido o muere.",
+      "p": "Correcto. Rebasar de forma imprudente un autobús escolar detenido es un delito menor Clase A."
+    }
+  },
+  {
+    "id": "in-048",
+    "scope": "IN",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Indiana, on a regular road with no bike path, how many bicyclists may ride side by side?",
+      "o": [
+        "No more than two",
+        "Only one; never side by side",
+        "Up to four",
+        "Any number"
+      ],
+      "h1": "Think of a pair.",
+      "h2": "In Indiana, bicyclists may not ride more than two side by side, except on paths or lanes set aside for bicycles.",
+      "p": "Right. No more than two side by side."
+    },
+    "es": {
+      "q": "En Indiana, en un camino normal sin ciclovía, ¿cuántos ciclistas pueden ir uno al lado del otro?",
+      "o": [
+        "No más de dos",
+        "Solo uno; nunca lado a lado",
+        "Hasta cuatro",
+        "Cualquier número"
+      ],
+      "h1": "Piense en una pareja.",
+      "h2": "En Indiana, los ciclistas no pueden ir más de dos lado a lado, excepto en caminos o carriles solo para bicicletas.",
+      "p": "Correcto. No más de dos lado a lado."
+    }
+  },
+  {
+    "id": "in-049",
+    "scope": "IN",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Indiana, how much following time should you leave behind a motorcycle?",
+      "o": [
+        "About one second",
+        "Half a second",
+        "At least three or four seconds",
+        "No set gap; stay close so the rider sees you"
+      ],
+      "h1": "Give more time than you might behind a car.",
+      "h2": "In Indiana, you should leave at least three or four seconds when following a motorcycle.",
+      "p": "Right. Leave at least three or four seconds behind a motorcycle."
+    },
+    "es": {
+      "q": "En Indiana, ¿cuánto tiempo de distancia debe dejar detrás de una motocicleta?",
+      "o": [
+        "Como un segundo",
+        "Medio segundo",
+        "Al menos tres o cuatro segundos",
+        "Ninguno fijo; vaya cerca para que el motociclista lo vea"
+      ],
+      "h1": "Deje más tiempo del que dejaría detrás de un auto.",
+      "h2": "En Indiana, debe dejar al menos tres o cuatro segundos cuando sigue a una motocicleta.",
+      "p": "Correcto. Deje al menos tres o cuatro segundos detrás de una motocicleta."
+    }
+  },
+  {
+    "id": "in-050",
+    "scope": "IN",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 56,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Indiana, children younger than what age must ride in a child car seat or booster seat?",
+      "o": [
+        "Younger than 2",
+        "Younger than 4",
+        "Younger than 5",
+        "Younger than 8"
+      ],
+      "h1": "The age is in the early school years.",
+      "h2": "In Indiana, passengers younger than eight must be secured in a child restraint, such as a car seat or booster seat.",
+      "p": "Right. Children under 8 need a car seat or booster seat."
+    },
+    "es": {
+      "q": "En Indiana, ¿los niños menores de qué edad deben ir en un asiento de seguridad o asiento elevado?",
+      "o": [
+        "Menores de 2",
+        "Menores de 4",
+        "Menores de 5",
+        "Menores de 8"
+      ],
+      "h1": "La edad está en los primeros años de escuela.",
+      "h2": "En Indiana, los pasajeros menores de ocho años deben ir asegurados en un sistema para niños, como un asiento de seguridad o un asiento elevado.",
+      "p": "Correcto. Los niños menores de 8 necesitan asiento de seguridad o elevado."
+    }
+  },
+  {
+    "id": "in-051",
+    "scope": "IN",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 60,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Indiana, a police car signals you to pull over. What does the driver's manual suggest you do first to show the officer you see them?",
+      "o": [
+        "Get out and walk to the police car",
+        "Turn on your right turn signal",
+        "Stop at once in the center median",
+        "Call the officer on your phone"
+      ],
+      "h1": "Use something already in your car that other drivers can see.",
+      "h2": "In Indiana, the manual suggests you turn on your right turn signal to show the officer you know they are there, then pull onto the right shoulder.",
+      "p": "Right. Turn on your right turn signal, then pull to the right."
+    },
+    "es": {
+      "q": "En Indiana, una patrulla le indica que se orille. ¿Qué sugiere el manual que haga primero para mostrar al policía que lo vio?",
+      "o": [
+        "Bajarse y caminar hacia la patrulla",
+        "Prender la direccional derecha",
+        "Parar enseguida en el camellón central",
+        "Llamar al policía por teléfono"
+      ],
+      "h1": "Use algo de su auto que los demás puedan ver.",
+      "h2": "En Indiana, el manual sugiere prender la direccional derecha para mostrar al policía que sabe que está ahí, y luego orillarse al acotamiento derecho.",
+      "p": "Correcto. Prenda la direccional derecha y luego oríllese a la derecha."
+    }
   }
 ]

@@ -2540,5 +2540,651 @@
       "h2": "في Washington، لا يجوز لك الوقوف على بعد أقل من 50 قدمًا من تقاطع السكة الحديدية.",
       "p": "صحيح. ابتعد 50 قدمًا على الأقل عن تقاطع السكة الحديدية عندما تقف."
     }
+  },
+  {
+    "id": "wa-032",
+    "scope": "WA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "§1.5",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Washington, you are 18 or older, you have a license from another state, and you just moved here. How soon must you get a Washington driver license?",
+      "o": [
+        "Within 30 days",
+        "Within 90 days",
+        "Within 10 days",
+        "Within 1 year"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In Washington, a new resident 18 or older with a license from another state has 30 days to get a Washington driver license.",
+      "p": "Right. New residents have 30 days to get a Washington license."
+    },
+    "es": {
+      "q": "En Washington, usted tiene 18 años o más, tiene licencia de otro estado y acaba de mudarse aquí. ¿En cuánto tiempo debe obtener una licencia de conducir de Washington?",
+      "o": [
+        "Dentro de 30 días",
+        "Dentro de 90 días",
+        "Dentro de 10 días",
+        "Dentro de 1 año"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Washington, un nuevo residente de 18 años o más con licencia de otro estado tiene 30 días para obtener una licencia de conducir de Washington.",
+      "p": "Correcto. Los nuevos residentes tienen 30 días para obtener una licencia de Washington."
+    }
+  },
+  {
+    "id": "wa-033",
+    "scope": "WA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "§1.16",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Washington, you move to a new home. How soon must you update your address with the Department of Licensing?",
+      "o": [
+        "Within 30 days",
+        "Within 10 days",
+        "Within 6 months",
+        "At your next renewal"
+      ],
+      "h1": "It is less than two weeks.",
+      "h2": "In Washington, you must update your address within 10 days after you move.",
+      "p": "Right. Update your address within 10 days."
+    },
+    "es": {
+      "q": "En Washington, usted se muda a una casa nueva. ¿En cuánto tiempo debe actualizar su dirección con el Departamento de Licencias?",
+      "o": [
+        "Dentro de 30 días",
+        "Dentro de 10 días",
+        "Dentro de 6 meses",
+        "En su próxima renovación"
+      ],
+      "h1": "Es menos de dos semanas.",
+      "h2": "En Washington, usted debe actualizar su dirección dentro de los 10 días después de mudarse.",
+      "p": "Correcto. Actualice su dirección dentro de 10 días."
+    }
+  },
+  {
+    "id": "wa-034",
+    "scope": "WA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "§1.15",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Washington, an officer thinks you are driving under the influence, and you refuse to be tested. How long could you lose your driving privilege?",
+      "o": [
+        "7 to 30 days",
+        "30 to 60 days",
+        "90 to 730 days, or until age 21 if that is longer",
+        "5 to 10 years"
+      ],
+      "h1": "It starts at about three months and can reach two years.",
+      "h2": "In Washington, refusing the test can cost you your driving privilege for 90 to 730 days, or until you turn 21 if that is longer.",
+      "p": "Right. A refusal can mean 90 to 730 days without your privilege, or until age 21 if that is longer."
+    },
+    "es": {
+      "q": "En Washington, un oficial cree que usted maneja bajo la influencia y usted se niega a hacerse la prueba. ¿Por cuánto tiempo podría perder su privilegio de manejar?",
+      "o": [
+        "De 7 a 30 días",
+        "De 30 a 60 días",
+        "De 90 a 730 días, o hasta los 21 años si eso es más tiempo",
+        "De 5 a 10 años"
+      ],
+      "h1": "Empieza en unos tres meses y puede llegar a dos años.",
+      "h2": "En Washington, negarse a la prueba puede costarle su privilegio de manejar por 90 a 730 días, o hasta cumplir 21 años si eso es más tiempo.",
+      "p": "Correcto. Negarse puede significar de 90 a 730 días sin su privilegio, o hasta los 21 años si eso es más tiempo."
+    }
+  },
+  {
+    "id": "wa-035",
+    "scope": "WA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "§1.8",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Washington, a driver with an intermediate license gets a second traffic violation or at-fault crash. What happens?",
+      "o": [
+        "Only a warning letter",
+        "A fine, but nothing else changes",
+        "The driver must retake the knowledge test",
+        "The license is suspended for 6 months or until age 18, whichever comes first"
+      ],
+      "h1": "After the second one, the driver stops driving for a while.",
+      "h2": "In Washington, a second violation on an intermediate license means the license is suspended for 6 months or until age 18, whichever comes first.",
+      "p": "Right. The license is suspended for 6 months or until age 18, whichever comes first."
+    },
+    "es": {
+      "q": "En Washington, un conductor con licencia intermedia recibe una segunda infracción de tránsito o tiene un segundo choque por su culpa. ¿Qué pasa?",
+      "o": [
+        "Solo una carta de advertencia",
+        "Una multa, pero nada más cambia",
+        "El conductor debe repetir el examen de conocimientos",
+        "La licencia se suspende por 6 meses o hasta los 18 años, lo que ocurra primero"
+      ],
+      "h1": "Después de la segunda vez, el conductor deja de manejar por un tiempo.",
+      "h2": "En Washington, una segunda infracción con licencia intermedia significa que la licencia se suspende por 6 meses o hasta los 18 años, lo que ocurra primero.",
+      "p": "Correcto. La licencia se suspende por 6 meses o hasta los 18 años, lo que ocurra primero."
+    }
+  },
+  {
+    "id": "wa-036",
+    "scope": "WA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "§5.10",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Washington, you get a traffic ticket. Within how many days must you follow the instructions on the back of it?",
+      "o": [
+        "15 days",
+        "30 days",
+        "60 days",
+        "5 days"
+      ],
+      "h1": "It is about two weeks.",
+      "h2": "In Washington, you must follow the instructions on the back of a ticket within 15 days, or your driving privilege could be suspended.",
+      "p": "Right. Act on a ticket within 15 days."
+    },
+    "es": {
+      "q": "En Washington, usted recibe una multa de tránsito. ¿En cuántos días debe seguir las instrucciones que están al reverso?",
+      "o": [
+        "15 días",
+        "30 días",
+        "60 días",
+        "5 días"
+      ],
+      "h1": "Son unas dos semanas.",
+      "h2": "En Washington, usted debe seguir las instrucciones al reverso de una multa dentro de 15 días, o su privilegio de manejar podría ser suspendido.",
+      "p": "Correcto. Responda a una multa dentro de 15 días."
+    }
+  },
+  {
+    "id": "wa-037",
+    "scope": "WA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "§2.5",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Washington, during which hours does the law require your headlights to be on?",
+      "o": [
+        "From sunset to sunrise only",
+        "From a half hour after sunset to a half hour before sunrise",
+        "From 8 p.m. to 6 a.m.",
+        "Only when there are no street lights"
+      ],
+      "h1": "The rule follows the sun, with a short gap of time.",
+      "h2": "In Washington, the law requires headlights from a half hour after sunset to a half hour before sunrise.",
+      "p": "Right. Headlights go on from a half hour after sunset to a half hour before sunrise."
+    },
+    "es": {
+      "q": "En Washington, ¿durante qué horas exige la ley que tenga los faros encendidos?",
+      "o": [
+        "Solo desde la puesta del sol hasta la salida del sol",
+        "Desde media hora después de la puesta del sol hasta media hora antes de la salida del sol",
+        "De 8 p.m. a 6 a.m.",
+        "Solo cuando no hay luces en la calle"
+      ],
+      "h1": "La regla sigue al sol, con un poco de tiempo de margen.",
+      "h2": "En Washington, la ley exige los faros encendidos desde media hora después de la puesta del sol hasta media hora antes de la salida del sol.",
+      "p": "Correcto. Los faros van encendidos desde media hora después de la puesta del sol hasta media hora antes de la salida del sol."
+    }
+  },
+  {
+    "id": "wa-038",
+    "scope": "WA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "§2.5",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Washington, you are driving behind another vehicle with your high beams on. Within how many feet of it must you switch to low beams?",
+      "o": [
+        "100 feet",
+        "200 feet",
+        "300 feet",
+        "1,000 feet"
+      ],
+      "h1": "It is less than the 500 feet used for a car coming toward you.",
+      "h2": "In Washington, you must switch to low beams when you are within 300 feet behind another vehicle.",
+      "p": "Right. Use low beams within 300 feet when you follow a vehicle."
+    },
+    "es": {
+      "q": "En Washington, usted maneja detrás de otro vehículo con las luces altas encendidas. ¿A cuántos pies de él debe cambiar a luces bajas?",
+      "o": [
+        "100 pies",
+        "200 pies",
+        "300 pies",
+        "1,000 pies"
+      ],
+      "h1": "Es menos que los 500 pies que se usan para un carro que viene de frente.",
+      "h2": "En Washington, usted debe cambiar a luces bajas cuando está a menos de 300 pies detrás de otro vehículo.",
+      "p": "Correcto. Use luces bajas a menos de 300 pies cuando sigue a un vehículo."
+    }
+  },
+  {
+    "id": "wa-039",
+    "scope": "WA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "§2.5",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Washington, at least how many feet before a turn should you turn on your signal?",
+      "o": [
+        "20 feet",
+        "50 feet",
+        "500 feet",
+        "100 feet"
+      ],
+      "h1": "It is about the length of six cars in a row.",
+      "h2": "In Washington, you should turn on your signal at least 100 feet before you turn.",
+      "p": "Right. Signal at least 100 feet before the turn."
+    },
+    "es": {
+      "q": "En Washington, ¿por lo menos a cuántos pies antes de una vuelta debe poner la direccional?",
+      "o": [
+        "20 pies",
+        "50 pies",
+        "500 pies",
+        "100 pies"
+      ],
+      "h1": "Es más o menos el largo de seis carros en fila.",
+      "h2": "En Washington, usted debe poner la direccional por lo menos 100 pies antes de dar la vuelta.",
+      "p": "Correcto. Ponga la direccional por lo menos 100 pies antes de la vuelta."
+    }
+  },
+  {
+    "id": "wa-040",
+    "scope": "WA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "§2.6",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Washington, children under what age should never ride in the front seat, because of the airbags?",
+      "o": [
+        "13",
+        "8",
+        "10",
+        "16"
+      ],
+      "h1": "It is the age when a child becomes a teenager.",
+      "h2": "In Washington, children under 13 should never ride in the front seat, because an airbag could badly hurt them.",
+      "p": "Right. Children under 13 ride in the back seat."
+    },
+    "es": {
+      "q": "En Washington, ¿los niños menores de qué edad nunca deben ir en el asiento delantero, por las bolsas de aire?",
+      "o": [
+        "13",
+        "8",
+        "10",
+        "16"
+      ],
+      "h1": "Es la edad en que un niño se vuelve adolescente.",
+      "h2": "En Washington, los niños menores de 13 años nunca deben ir en el asiento delantero, porque una bolsa de aire podría lastimarlos gravemente.",
+      "p": "Correcto. Los niños menores de 13 años van en el asiento de atrás."
+    }
+  },
+  {
+    "id": "wa-041",
+    "scope": "WA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "§4.18",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Washington, you may not park within how many feet of a stop sign, yield sign, or traffic signal?",
+      "o": [
+        "15 feet",
+        "30 feet",
+        "50 feet",
+        "10 feet"
+      ],
+      "h1": "It is twice the distance for a fire hydrant.",
+      "h2": "In Washington, you may not park within 30 feet of a stop sign, yield sign, or traffic signal.",
+      "p": "Right. Park at least 30 feet from a stop sign, yield sign, or traffic signal."
+    },
+    "es": {
+      "q": "En Washington, ¿a cuántos pies de una señal de alto, una señal de ceda el paso o un semáforo no puede estacionarse?",
+      "o": [
+        "15 pies",
+        "30 pies",
+        "50 pies",
+        "10 pies"
+      ],
+      "h1": "Es el doble de la distancia de un hidrante.",
+      "h2": "En Washington, usted no puede estacionarse a menos de 30 pies de una señal de alto, una señal de ceda el paso o un semáforo.",
+      "p": "Correcto. Estaciónese por lo menos a 30 pies de una señal de alto, de ceda el paso o de un semáforo."
+    }
+  },
+  {
+    "id": "wa-042",
+    "scope": "WA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "§4.18",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Washington, you may not park within how many feet of a fire hydrant?",
+      "o": [
+        "5 feet",
+        "10 feet",
+        "15 feet",
+        "30 feet"
+      ],
+      "h1": "It is about the length of one car.",
+      "h2": "In Washington, you may not park within 15 feet of a fire hydrant.",
+      "p": "Right. Keep at least 15 feet from a fire hydrant when you park."
+    },
+    "es": {
+      "q": "En Washington, ¿a cuántos pies de un hidrante no puede estacionarse?",
+      "o": [
+        "5 pies",
+        "10 pies",
+        "15 pies",
+        "30 pies"
+      ],
+      "h1": "Es más o menos el largo de un carro.",
+      "h2": "En Washington, usted no puede estacionarse a menos de 15 pies de un hidrante.",
+      "p": "Correcto. Al estacionarse, quédese por lo menos a 15 pies de un hidrante."
+    }
+  },
+  {
+    "id": "wa-043",
+    "scope": "WA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "§4.18",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Washington, when you park next to a curb, what is the farthest your vehicle may be from the curb?",
+      "o": [
+        "24 inches",
+        "18 inches",
+        "6 inches",
+        "12 inches"
+      ],
+      "h1": "Think of the length of a school ruler.",
+      "h2": "In Washington, a vehicle parked next to a curb may be no more than 12 inches from the curb.",
+      "p": "Right. Park no more than 12 inches from the curb."
+    },
+    "es": {
+      "q": "En Washington, cuando se estaciona junto a la acera, ¿a qué distancia máxima de la acera puede quedar su vehículo?",
+      "o": [
+        "24 pulgadas",
+        "18 pulgadas",
+        "6 pulgadas",
+        "12 pulgadas"
+      ],
+      "h1": "Piense en el largo de una regla escolar.",
+      "h2": "En Washington, un vehículo estacionado junto a la acera no puede quedar a más de 12 pulgadas de la acera.",
+      "p": "Correcto. Estaciónese a no más de 12 pulgadas de la acera."
+    }
+  },
+  {
+    "id": "wa-044",
+    "scope": "WA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "§4.17",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Washington, what is the speed limit in a school zone?",
+      "o": [
+        "20 mph",
+        "25 mph",
+        "15 mph",
+        "30 mph"
+      ],
+      "h1": "It is a low, round number.",
+      "h2": "In Washington, the speed limit in a school zone is 20 mph.",
+      "p": "Right. Drive no faster than 20 mph in a school zone."
+    },
+    "es": {
+      "q": "En Washington, ¿cuál es el límite de velocidad en una zona escolar?",
+      "o": [
+        "20 mph",
+        "25 mph",
+        "15 mph",
+        "30 mph"
+      ],
+      "h1": "Es un número bajo y redondo.",
+      "h2": "En Washington, el límite de velocidad en una zona escolar es de 20 mph.",
+      "p": "Correcto. No maneje a más de 20 mph en una zona escolar."
+    }
+  },
+  {
+    "id": "wa-045",
+    "scope": "WA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "§4.16",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Washington, you enter a shared center lane to turn left. What is the farthest you should drive in that lane?",
+      "o": [
+        "100 feet",
+        "300 feet",
+        "500 feet",
+        "As far as you want"
+      ],
+      "h1": "It is about the length of a football field.",
+      "h2": "In Washington, you should not drive more than 300 feet in a shared center left-turn lane.",
+      "p": "Right. Drive no more than 300 feet in the center lane."
+    },
+    "es": {
+      "q": "En Washington, usted entra al carril central compartido para dar vuelta a la izquierda. ¿Cuál es la distancia máxima que debe manejar en ese carril?",
+      "o": [
+        "100 pies",
+        "300 pies",
+        "500 pies",
+        "Lo que usted quiera"
+      ],
+      "h1": "Es más o menos el largo de un campo de fútbol americano.",
+      "h2": "En Washington, usted no debe manejar más de 300 pies en un carril central compartido para vueltas a la izquierda.",
+      "p": "Correcto. No maneje más de 300 pies en el carril central."
+    }
+  },
+  {
+    "id": "wa-046",
+    "scope": "WA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": "§4.1",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Washington, a person is walking across the street in front of you. They are not using a cane, wheelchair, or service animal. When may you drive on?",
+      "o": [
+        "As soon as they pass your front bumper",
+        "When they reach the middle of the street",
+        "When they have cleared your lane and one more lane",
+        "When they step off the curb"
+      ],
+      "h1": "Clearing only your own lane is not enough.",
+      "h2": "In Washington, you must wait until a person crossing has cleared your lane and one more lane before you drive on.",
+      "p": "Right. Wait until they clear your lane and one more lane."
+    },
+    "es": {
+      "q": "En Washington, una persona cruza la calle caminando frente a usted. No usa bastón, silla de ruedas ni animal de servicio. ¿Cuándo puede seguir manejando?",
+      "o": [
+        "En cuanto pase su parachoques delantero",
+        "Cuando llegue a la mitad de la calle",
+        "Cuando haya salido de su carril y de un carril más",
+        "Cuando baje de la acera"
+      ],
+      "h1": "No basta con que salga solo de su carril.",
+      "h2": "En Washington, usted debe esperar a que la persona que cruza haya salido de su carril y de un carril más antes de seguir.",
+      "p": "Correcto. Espere a que salga de su carril y de un carril más."
+    }
+  },
+  {
+    "id": "wa-047",
+    "scope": "WA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": "§4.2",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Washington, you are on a four-lane highway divided by a median. A school bus on the other side, coming toward you, stops with its red lights flashing. What must you do?",
+      "o": [
+        "Stop until the red lights stop flashing",
+        "Stop, then go when the bus driver waves",
+        "Stop and turn on your hazard lights",
+        "You do not need to stop, but watch for children"
+      ],
+      "h1": "The median keeps you apart from the bus.",
+      "h2": "In Washington, on a divided highway with three or more lanes, you do not need to stop for a school bus going the other way, but you should still watch for children.",
+      "p": "Right. You do not need to stop, but stay alert for children."
+    },
+    "es": {
+      "q": "En Washington, usted va por una carretera de cuatro carriles dividida por una mediana. Un autobús escolar del otro lado, que viene hacia usted, se detiene con las luces rojas intermitentes. ¿Qué debe hacer?",
+      "o": [
+        "Detenerse hasta que las luces rojas dejen de parpadear",
+        "Detenerse y seguir cuando el chofer del autobús le haga señas",
+        "Detenerse y encender las luces de emergencia",
+        "No necesita detenerse, pero esté atento a los niños"
+      ],
+      "h1": "La mediana lo separa del autobús.",
+      "h2": "En Washington, en una carretera dividida de tres o más carriles, usted no necesita detenerse por un autobús escolar que va en sentido contrario, pero aun así debe estar atento a los niños.",
+      "p": "Correcto. No necesita detenerse, pero esté atento a los niños."
+    }
+  },
+  {
+    "id": "wa-048",
+    "scope": "WA",
+    "cat": "signals",
+    "conf": "high",
+    "page": "§4.11",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Washington, what should you know about flashing green traffic lights?",
+      "o": [
+        "Washington does not use them",
+        "They mean you have a protected left turn",
+        "They mean stop, then go when it is safe",
+        "They mean the light will turn red soon"
+      ],
+      "h1": "You might see one across the border in British Columbia, Canada.",
+      "h2": "Washington does not use flashing green traffic lights, though you might see them in British Columbia, Canada.",
+      "p": "Right. You will not see a flashing green light in Washington."
+    },
+    "es": {
+      "q": "En Washington, ¿qué debe saber sobre los semáforos con luz verde intermitente?",
+      "o": [
+        "Washington no los usa",
+        "Significan que tiene una vuelta a la izquierda protegida",
+        "Significan pare y luego siga cuando sea seguro",
+        "Significan que la luz pronto cambiará a roja"
+      ],
+      "h1": "Podría ver uno al otro lado de la frontera, en Columbia Británica, Canadá.",
+      "h2": "Washington no usa semáforos con luz verde intermitente, aunque podría verlos en Columbia Británica, Canadá.",
+      "p": "Correcto. En Washington no verá una luz verde intermitente."
+    }
+  },
+  {
+    "id": "wa-049",
+    "scope": "WA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "§4.20",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Washington, you may drive on some ocean beaches. What is the speed limit on the beach?",
+      "o": [
+        "15 mph",
+        "25 mph",
+        "35 mph",
+        "45 mph"
+      ],
+      "h1": "It is between 20 and 30 mph.",
+      "h2": "In Washington, the speed limit on ocean beaches where driving is allowed is 25 mph.",
+      "p": "Right. Drive no faster than 25 mph on the beach."
+    },
+    "es": {
+      "q": "En Washington, se puede manejar en algunas playas del océano. ¿Cuál es el límite de velocidad en la playa?",
+      "o": [
+        "15 mph",
+        "25 mph",
+        "35 mph",
+        "45 mph"
+      ],
+      "h1": "Está entre 20 y 30 mph.",
+      "h2": "En Washington, el límite de velocidad en las playas del océano donde se permite manejar es de 25 mph.",
+      "p": "Correcto. No maneje a más de 25 mph en la playa."
+    }
+  },
+  {
+    "id": "wa-050",
+    "scope": "WA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": "§4.7",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Washington, the signal at a railroad crossing is flashing. Where must you stop?",
+      "o": [
+        "Between 5 and 10 feet from the nearest rail",
+        "Within 5 feet of the nearest rail",
+        "Between 15 and 50 feet from the nearest rail",
+        "At least 100 feet from the nearest rail"
+      ],
+      "h1": "Stay well clear of the tracks, but not so far back that you cannot see.",
+      "h2": "In Washington, when a railroad crossing signal is flashing, you must stop between 15 and 50 feet from the nearest rail.",
+      "p": "Right. Stop between 15 and 50 feet from the nearest rail."
+    },
+    "es": {
+      "q": "En Washington, la señal de un cruce de ferrocarril está parpadeando. ¿Dónde debe detenerse?",
+      "o": [
+        "Entre 5 y 10 pies del riel más cercano",
+        "A menos de 5 pies del riel más cercano",
+        "Entre 15 y 50 pies del riel más cercano",
+        "Por lo menos a 100 pies del riel más cercano"
+      ],
+      "h1": "Quédese lejos de las vías, pero no tan atrás que no pueda ver.",
+      "h2": "En Washington, cuando la señal de un cruce de ferrocarril está parpadeando, usted debe detenerse entre 15 y 50 pies del riel más cercano.",
+      "p": "Correcto. Deténgase entre 15 y 50 pies del riel más cercano."
+    }
   }
 ]
