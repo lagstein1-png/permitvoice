@@ -4180,5 +4180,1365 @@
       "h2": "في District of Columbia لا يجوز لك التوقف أو الركن أمام مدخل سيارات أو زقاق، أو على بُعد أقل من 5 أقدام منه.",
       "p": "صحيح. ابقَ على بُعد 5 أقدام من مدخل السيارات أو الزقاق."
     }
+  },
+  {
+    "id": "dc-052",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 12,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, you fail the knowledge test six times in a row. When may you take it again?",
+      "o": [
+        "Three calendar days after your last test",
+        "Thirty days after your last test",
+        "Twelve months after your first failed test",
+        "Right away, if you pay a new fee"
+      ],
+      "h1": "After many fails in a row, the wait becomes much longer.",
+      "h2": "In the District of Columbia, after six failed knowledge tests in a row, you must wait until twelve months after your first failed test to try again.",
+      "p": "Right. Six fails in a row means waiting 12 months from the first fail."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted reprueba el examen de conocimientos seis veces seguidas. ¿Cuándo puede volver a tomarlo?",
+      "o": [
+        "Tres días calendario después de su último examen",
+        "Treinta días después de su último examen",
+        "Doce meses después de su primer examen reprobado",
+        "De inmediato, si paga una nueva tarifa"
+      ],
+      "h1": "Después de muchos fracasos seguidos, la espera es mucho más larga.",
+      "h2": "En el Distrito de Columbia, después de reprobar el examen de conocimientos seis veces seguidas, debe esperar doce meses desde su primer examen reprobado para intentarlo otra vez.",
+      "p": "Correcto. Seis fracasos seguidos significan esperar 12 meses desde el primero."
+    }
+  },
+  {
+    "id": "dc-053",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 12,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, your license has been expired for more than 365 days, but not more than 545 days. What must you do to get it back?",
+      "o": [
+        "Pass the knowledge test or DC online traffic school",
+        "Pass the road skills test, but no knowledge test",
+        "Just pay the renewal fee; no test is needed",
+        "Wait six months, then apply like a new driver"
+      ],
+      "h1": "After a year, you must show you still know the rules.",
+      "h2": "In the District of Columbia, if your license has been expired for more than 365 days, you must pass the knowledge test or the DC online traffic school course.",
+      "p": "Right. After a year expired, take the knowledge test or online traffic school."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, su licencia lleva vencida más de 365 días, pero no más de 545 días. ¿Qué debe hacer para recuperarla?",
+      "o": [
+        "Aprobar el examen de conocimientos o el curso en línea de DC",
+        "Aprobar el examen práctico, pero no el de conocimientos",
+        "Solo pagar la renovación; no necesita examen",
+        "Esperar seis meses y solicitarla como conductor nuevo"
+      ],
+      "h1": "Después de un año, debe demostrar que todavía conoce las reglas.",
+      "h2": "En el Distrito de Columbia, si su licencia lleva vencida más de 365 días, debe aprobar el examen de conocimientos o el curso de escuela de tránsito en línea de DC.",
+      "p": "Correcto. Después de un año vencida, tome el examen de conocimientos o la escuela de tránsito en línea."
+    }
+  },
+  {
+    "id": "dc-054",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 12,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, you fail the vision screening at the DMV. What must you do next?",
+      "o": [
+        "Take the road skills test instead",
+        "Try the screening again at a different DMV",
+        "Ask for a license for daytime driving only",
+        "Bring an Eye Report from your eye care professional"
+      ],
+      "h1": "Your own eye doctor must fill out a form.",
+      "h2": "In the District of Columbia, if you fail the vision screening, you must turn in an Eye Report from your eye care professional.",
+      "p": "Right. A failed vision screening means bringing an Eye Report."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted no pasa la prueba de la vista en el DMV. ¿Qué debe hacer después?",
+      "o": [
+        "Tomar el examen práctico de manejo en su lugar",
+        "Repetir la prueba en otra oficina del DMV",
+        "Pedir una licencia solo para manejar de día",
+        "Traer un Informe de la Vista de su profesional de la vista"
+      ],
+      "h1": "Su propio doctor de los ojos debe llenar un formulario.",
+      "h2": "En el Distrito de Columbia, si no pasa la prueba de la vista, debe entregar un Informe de la Vista (Eye Report) de su profesional de la vista.",
+      "p": "Correcto. Si no pasa la prueba de la vista, traiga un Informe de la Vista."
+    }
+  },
+  {
+    "id": "dc-055",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 12,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, you have a valid driver license from another country. Which tests must you pass to get a DC license?",
+      "o": [
+        "No tests; the license is simply swapped",
+        "The knowledge test and the eye exam",
+        "Only the road skills test",
+        "Only a written form and a fee"
+      ],
+      "h1": "One test checks what you know, and the other checks how well you see.",
+      "h2": "In the District of Columbia, a person with a valid license from another country must pass the knowledge test and the eye exam to get a DC license.",
+      "p": "Right. A license from another country means taking the knowledge and eye exams."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted tiene una licencia de manejo válida de otro país. ¿Qué exámenes debe aprobar para obtener una licencia de DC?",
+      "o": [
+        "Ninguno; la licencia simplemente se cambia",
+        "El examen de conocimientos y el examen de la vista",
+        "Solo el examen práctico de manejo",
+        "Solo un formulario escrito y una tarifa"
+      ],
+      "h1": "Un examen revisa lo que usted sabe y el otro revisa qué tan bien ve.",
+      "h2": "En el Distrito de Columbia, una persona con una licencia válida de otro país debe aprobar el examen de conocimientos y el examen de la vista para obtener una licencia de DC.",
+      "p": "Correcto. Con una licencia de otro país, tome el examen de conocimientos y el de la vista."
+    }
+  },
+  {
+    "id": "dc-056",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 12,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, you move from another state with a valid license of the same class. What usually happens with the road skills test?",
+      "o": [
+        "You must pass it within 10 days",
+        "You must pass it before the eye test",
+        "It is usually waived, so you skip it",
+        "You must take it in a DMV vehicle"
+      ],
+      "h1": "Your license from the other state already shows you can drive.",
+      "h2": "In the District of Columbia, the road skills test is generally waived when you change a valid out-of-state license of the same class to a DC license.",
+      "p": "Right. A valid out-of-state license usually means no road test."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted se muda de otro estado con una licencia válida de la misma clase. ¿Qué pasa normalmente con el examen práctico de manejo?",
+      "o": [
+        "Debe aprobarlo en un plazo de 10 días",
+        "Debe aprobarlo antes del examen de la vista",
+        "Normalmente no se exige, así que no lo toma",
+        "Debe tomarlo en un vehículo del DMV"
+      ],
+      "h1": "Su licencia del otro estado ya demuestra que sabe manejar.",
+      "h2": "En el Distrito de Columbia, normalmente no se exige el examen práctico de manejo cuando cambia una licencia válida de otro estado, de la misma clase, por una licencia de DC.",
+      "p": "Correcto. Con una licencia válida de otro estado, normalmente no hay examen práctico."
+    }
+  },
+  {
+    "id": "dc-057",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, you have a learner permit and drive yourself alone to your road skills test. What happens?",
+      "o": [
+        "You will not be allowed to take the test",
+        "You take the test and pay a small fine",
+        "You take the test as planned",
+        "You take the test, but a week later"
+      ],
+      "h1": "A learner may not drive without a licensed adult, even to the test.",
+      "h2": "In the District of Columbia, if you drive to your road test without a fully licensed driver 21 or older, you will not be able to take the test.",
+      "p": "Right. Come with a fully licensed driver 21 or older, or you cannot test."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted tiene un permiso de aprendiz y maneja solo hasta su examen práctico de manejo. ¿Qué pasa?",
+      "o": [
+        "No le permitirán tomar el examen",
+        "Toma el examen y paga una multa pequeña",
+        "Toma el examen como estaba planeado",
+        "Toma el examen, pero una semana después"
+      ],
+      "h1": "Un aprendiz no puede manejar sin un adulto con licencia, ni siquiera para ir al examen.",
+      "h2": "En el Distrito de Columbia, si maneja hasta su examen práctico sin un conductor con licencia completa de 21 años o más, no podrá tomar el examen.",
+      "p": "Correcto. Venga con un conductor con licencia completa de 21 años o más, o no podrá tomar el examen."
+    }
+  },
+  {
+    "id": "dc-058",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, the car you bring for your road test has a small spare (donut) tire on one wheel. Can you use it for the test?",
+      "o": [
+        "Yes, if the tire has enough air",
+        "Yes, if it is on a back wheel",
+        "Yes, if you drive under 25 mph",
+        "No, donut spare tires are not accepted"
+      ],
+      "h1": "The test car must have regular tires in good shape.",
+      "h2": "In the District of Columbia, a car with a spare donut tire is not accepted for the road skills test; its tires must be in good condition and properly inflated.",
+      "p": "Right. No donut spare tires on the test car."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, el carro que trae para su examen práctico tiene una llanta de repuesto pequeña (tipo dona) en una rueda. ¿Puede usarlo para el examen?",
+      "o": [
+        "Sí, si la llanta tiene suficiente aire",
+        "Sí, si está en una rueda de atrás",
+        "Sí, si maneja a menos de 25 mph",
+        "No, no se aceptan llantas de repuesto tipo dona"
+      ],
+      "h1": "El carro del examen debe tener llantas normales en buen estado.",
+      "h2": "En el Distrito de Columbia, no se acepta un carro con una llanta de repuesto tipo dona para el examen práctico; sus llantas deben estar en buen estado y bien infladas.",
+      "p": "Correcto. Nada de llantas de repuesto tipo dona en el carro del examen."
+    }
+  },
+  {
+    "id": "dc-059",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 14,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, your learner permit has expired. How do you get a new one?",
+      "o": [
+        "Renew it online for two more years",
+        "Pass the knowledge test again",
+        "Pay a late fee at the DMV",
+        "Have your supervising driver sign a form"
+      ],
+      "h1": "A learner permit cannot be renewed.",
+      "h2": "In the District of Columbia, a learner permit cannot be renewed; once it expires, you must pass the knowledge test again to get a new one.",
+      "p": "Right. An expired learner permit means taking the knowledge test again."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, su permiso de aprendiz se venció. ¿Cómo obtiene uno nuevo?",
+      "o": [
+        "Renovándolo en línea por dos años más",
+        "Aprobando otra vez el examen de conocimientos",
+        "Pagando un recargo por atraso en el DMV",
+        "Pidiendo a su conductor supervisor que firme un formulario"
+      ],
+      "h1": "El permiso de aprendiz no se puede renovar.",
+      "h2": "En el Distrito de Columbia, el permiso de aprendiz no se puede renovar; cuando se vence, debe aprobar otra vez el examen de conocimientos para obtener uno nuevo.",
+      "p": "Correcto. Con el permiso vencido, debe tomar otra vez el examen de conocimientos."
+    }
+  },
+  {
+    "id": "dc-060",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 14,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, a 16-year-old wants a learner permit. Besides the knowledge test and vision screening, what is needed?",
+      "o": [
+        "A letter from the school principal",
+        "Proof of 40 hours of practice driving",
+        "A consent form signed by a parent or guardian",
+        "A paid insurance policy in their own name"
+      ],
+      "h1": "Drivers under 18 need an adult to say yes.",
+      "h2": "In the District of Columbia, a learner permit applicant under 18 must bring a consent form signed by a parent or guardian, in addition to passing the knowledge test and vision screening.",
+      "p": "Right. Under 18, a parent or guardian must sign a consent form."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, un joven de 16 años quiere un permiso de aprendiz. Además del examen de conocimientos y la prueba de la vista, ¿qué necesita?",
+      "o": [
+        "Una carta del director de la escuela",
+        "Prueba de 40 horas de práctica de manejo",
+        "Un formulario de consentimiento firmado por su padre, madre o tutor",
+        "Una póliza de seguro pagada a su propio nombre"
+      ],
+      "h1": "Los conductores menores de 18 años necesitan el permiso de un adulto.",
+      "h2": "En el Distrito de Columbia, quien solicita un permiso de aprendiz y es menor de 18 años debe traer un formulario de consentimiento firmado por su padre, madre o tutor, además de aprobar el examen de conocimientos y la prueba de la vista.",
+      "p": "Correcto. Si es menor de 18, su padre, madre o tutor debe firmar un consentimiento."
+    }
+  },
+  {
+    "id": "dc-061",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, a 17-year-old has a provisional license. May they drive for pay, such as making deliveries?",
+      "o": [
+        "No, not until they turn 18",
+        "Yes, during daytime hours only",
+        "Yes, with a parent's written OK",
+        "Yes, if each trip is short"
+      ],
+      "h1": "Think about the age when GRAD limits on paid driving end.",
+      "h2": "In the District of Columbia, a provisional driver under 18 may not drive a vehicle for pay.",
+      "p": "Right. No driving for pay before age 18."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, un joven de 17 años tiene una licencia provisional. ¿Puede manejar por pago, por ejemplo haciendo entregas?",
+      "o": [
+        "No, no hasta que cumpla 18 años",
+        "Sí, pero solo durante el día",
+        "Sí, con permiso escrito de sus padres",
+        "Sí, si cada viaje es corto"
+      ],
+      "h1": "Piense en la edad en que terminan los límites de GRAD para manejar por pago.",
+      "h2": "En el Distrito de Columbia, un conductor con licencia provisional menor de 18 años no puede manejar un vehículo por pago.",
+      "p": "Correcto. No puede manejar por pago antes de los 18 años."
+    }
+  },
+  {
+    "id": "dc-062",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, how long must a provisional driver go with no violations before moving to the full license with conditions?",
+      "o": [
+        "3 months in a row",
+        "6 months in a row",
+        "24 months in a row",
+        "12 months in a row"
+      ],
+      "h1": "It is one full year.",
+      "h2": "In the District of Columbia, a provisional driver must be violation-free for 12 months in a row before moving to the full license with conditions.",
+      "p": "Right. Twelve months in a row with no violations."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuánto tiempo debe pasar un conductor con licencia provisional sin infracciones antes de pasar a la licencia completa con condiciones?",
+      "o": [
+        "3 meses seguidos",
+        "6 meses seguidos",
+        "24 meses seguidos",
+        "12 meses seguidos"
+      ],
+      "h1": "Es un año completo.",
+      "h2": "En el Distrito de Columbia, un conductor con licencia provisional debe pasar 12 meses seguidos sin infracciones antes de pasar a la licencia completa con condiciones.",
+      "p": "Correcto. Doce meses seguidos sin infracciones."
+    }
+  },
+  {
+    "id": "dc-063",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, who may ride with a provisional driver?",
+      "o": [
+        "Up to three friends of any age, sitting in any seat",
+        "One licensed adult 21+ in front, plus siblings, children or parents",
+        "Only passengers under 21, as long as they wear belts",
+        "Anyone at all, as long as there are five people or fewer"
+      ],
+      "h1": "Family members are an exception to the limit.",
+      "h2": "In the District of Columbia, a provisional driver may carry one fully licensed adult 21 or older in the front seat, plus any siblings, their own child, or a parent.",
+      "p": "Right. One licensed adult 21 or older in front, plus close family."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿quién puede viajar con un conductor con licencia provisional?",
+      "o": [
+        "Hasta tres amigos de cualquier edad, sentados en cualquier asiento",
+        "Un adulto de 21+ con licencia adelante, más hermanos, hijos o padres",
+        "Solo pasajeros menores de 21, siempre que usen cinturón",
+        "Cualquier persona, siempre que sean cinco o menos en total"
+      ],
+      "h1": "Los familiares son una excepción al límite.",
+      "h2": "En el Distrito de Columbia, un conductor con licencia provisional puede llevar a un adulto de 21 años o más con licencia completa en el asiento delantero, más sus hermanos, su propio hijo o un padre o madre.",
+      "p": "Correcto. Un adulto de 21 o más con licencia adelante, más familia cercana."
+    }
+  },
+  {
+    "id": "dc-064",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, you have a provisional license. It is 11:30 p.m. on a Tuesday in October, and you are driving home from your job. Is this allowed?",
+      "o": [
+        "No, you must be off the road by 9:00 p.m.",
+        "No, the hour limits have no exceptions",
+        "Yes, driving to or from work is allowed",
+        "Only if a friend under 21 is with you"
+      ],
+      "h1": "The GRAD hour limits have a few exceptions, such as a job.",
+      "h2": "In the District of Columbia, a provisional driver may drive during the restricted hours when going to or from work.",
+      "p": "Right. Trips to or from work are an exception to the hour limits."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted tiene una licencia provisional. Son las 11:30 p.m. de un martes de octubre y maneja a casa desde su trabajo. ¿Está permitido?",
+      "o": [
+        "No, debe dejar de manejar a las 9:00 p.m.",
+        "No, los límites de horario no tienen excepciones",
+        "Sí, manejar hacia o desde el trabajo está permitido",
+        "Solo si va con un amigo menor de 21 años"
+      ],
+      "h1": "Los límites de horario de GRAD tienen algunas excepciones, como el trabajo.",
+      "h2": "En el Distrito de Columbia, un conductor con licencia provisional puede manejar durante las horas restringidas cuando va hacia o desde el trabajo.",
+      "p": "Correcto. Ir o volver del trabajo es una excepción a los límites de horario."
+    }
+  },
+  {
+    "id": "dc-065",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, when may you cancel the insurance on your registered car?",
+      "o": [
+        "Any time you stop driving it for a month",
+        "After you turn in your tags to the DMV",
+        "As soon as you park it for the winter",
+        "When your registration has one year left"
+      ],
+      "h1": "Insurance must last as long as the car is registered.",
+      "h2": "In the District of Columbia, insurance must stay in place as long as the car is registered, so do not cancel it until you surrender your tags to the DMV.",
+      "p": "Right. Keep insurance until your tags are turned in; a lapse brings fines."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuándo puede cancelar el seguro de su carro registrado?",
+      "o": [
+        "Cuando deje de manejarlo por un mes",
+        "Después de entregar sus placas al DMV",
+        "En cuanto lo guarde durante el invierno",
+        "Cuando a su registro le quede un año"
+      ],
+      "h1": "El seguro debe durar mientras el carro esté registrado.",
+      "h2": "En el Distrito de Columbia, el seguro debe mantenerse mientras el carro esté registrado, así que no lo cancele hasta que entregue sus placas al DMV.",
+      "p": "Correcto. Mantenga el seguro hasta entregar las placas; un periodo sin seguro trae multas."
+    }
+  },
+  {
+    "id": "dc-066",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, you get a ticket for a pointable moving violation and simply pay it. What happens with points?",
+      "o": [
+        "No points are added if you pay on time",
+        "Points are added only if you go to court",
+        "Points are added only after a second ticket",
+        "Points are added, because paying admits the violation"
+      ],
+      "h1": "Paying the ticket counts as saying you did it.",
+      "h2": "In the District of Columbia, paying a ticket is an admission of liability, so the DMV adds points for the violation.",
+      "p": "Right. Paying the ticket means the points go on your record."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted recibe una multa por una infracción de tránsito que da puntos y simplemente la paga. ¿Qué pasa con los puntos?",
+      "o": [
+        "No se suman puntos si paga a tiempo",
+        "Solo se suman puntos si va a la corte",
+        "Solo se suman puntos después de una segunda multa",
+        "Se le suman puntos, porque pagar es admitir la infracción"
+      ],
+      "h1": "Pagar la multa cuenta como decir que usted lo hizo.",
+      "h2": "En el Distrito de Columbia, pagar una multa es admitir la responsabilidad, así que el DMV le suma los puntos por la infracción.",
+      "p": "Correcto. Si paga la multa, los puntos van a su historial."
+    }
+  },
+  {
+    "id": "dc-067",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, what can happen if you do not pay child support?",
+      "o": [
+        "Your license and car registration can be suspended",
+        "You must take the road skills test again",
+        "The DMV adds 12 points to your record",
+        "Nothing; it does not affect driving"
+      ],
+      "h1": "The DMV can take away more than just your license.",
+      "h2": "In the District of Columbia, your driver license and vehicle registration can be suspended if you fail to pay child support.",
+      "p": "Right. Unpaid child support can cost you your license and registration."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿qué puede pasar si usted no paga la manutención de sus hijos?",
+      "o": [
+        "Le pueden suspender la licencia y el registro del carro",
+        "Debe tomar otra vez el examen práctico de manejo",
+        "El DMV le suma 12 puntos a su historial",
+        "Nada; no afecta su manejo"
+      ],
+      "h1": "El DMV puede quitarle más que solo la licencia.",
+      "h2": "En el Distrito de Columbia, le pueden suspender la licencia de manejo y el registro del vehículo si no paga la manutención de sus hijos.",
+      "p": "Correcto. No pagar la manutención puede costarle la licencia y el registro."
+    }
+  },
+  {
+    "id": "dc-068",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 22,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, you damage a parked car with no one in it, and you cannot find the owner. What must you do?",
+      "o": [
+        "Drive on, since no one was hurt",
+        "Wait 10 minutes, then drive away",
+        "Leave a written note with your details on the car",
+        "Only call your insurance company later"
+      ],
+      "h1": "The owner needs a way to find you.",
+      "h2": "In the District of Columbia, if you damage an empty vehicle and cannot find the owner, you must leave a written notice with your name, address, and vehicle and insurance details in a place on it where it is easy to see and will stay put.",
+      "p": "Right. Leave a written note with your information on the car."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted daña un carro estacionado sin nadie adentro y no puede encontrar al dueño. ¿Qué debe hacer?",
+      "o": [
+        "Seguir manejando, ya que nadie salió herido",
+        "Esperar 10 minutos y luego irse",
+        "Dejar en el carro una nota escrita con sus datos",
+        "Solo llamar más tarde a su compañía de seguros"
+      ],
+      "h1": "El dueño necesita una forma de encontrarlo a usted.",
+      "h2": "En el Distrito de Columbia, si daña un vehículo vacío y no puede encontrar al dueño, debe dejar una nota escrita con su nombre, dirección y datos del vehículo y del seguro en un lugar del carro donde se vea fácilmente y no se caiga.",
+      "p": "Correcto. Deje en el carro una nota escrita con sus datos."
+    }
+  },
+  {
+    "id": "dc-069",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 28,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, a snow emergency has been declared. What must vehicles on snow emergency routes use?",
+      "o": [
+        "Fog lights and hazard lights",
+        "Chains, snow tires, or radial tires",
+        "Four-wheel drive",
+        "Tires with extra air in them"
+      ],
+      "h1": "These help your tires grip the snow.",
+      "h2": "In the District of Columbia, when a snow emergency is declared, vehicles on snow emergency routes must use chains, snow tires, or radial tires.",
+      "p": "Right. Chains, snow tires, or radial tires on snow emergency routes."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, se ha declarado una emergencia por nieve. ¿Qué deben usar los vehículos en las rutas de emergencia por nieve?",
+      "o": [
+        "Luces antiniebla y luces intermitentes",
+        "Cadenas, llantas para nieve o llantas radiales",
+        "Tracción en las cuatro ruedas",
+        "Llantas con más aire de lo normal"
+      ],
+      "h1": "Esto ayuda a que las llantas se agarren a la nieve.",
+      "h2": "En el Distrito de Columbia, cuando se declara una emergencia por nieve, los vehículos en las rutas de emergencia por nieve deben usar cadenas, llantas para nieve o llantas radiales.",
+      "p": "Correcto. Cadenas, llantas para nieve o radiales en las rutas de emergencia por nieve."
+    }
+  },
+  {
+    "id": "dc-070",
+    "scope": "DC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 38,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, a school vehicle with flashing red lights is stopped on the other side of a divided highway. Must you stop?",
+      "o": [
+        "Yes, until the red lights turn off",
+        "Yes, at least 20 feet away from it",
+        "Yes, but only on school days",
+        "No, but you should still drive with care"
+      ],
+      "h1": "A median or divider separates you from the children.",
+      "h2": "In the District of Columbia, you do not have to stop for a school vehicle that is on the other side of a divided highway, but you should still use care.",
+      "p": "Right. On a divided highway, traffic on the other side need not stop."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, un vehículo escolar con luces rojas intermitentes está detenido al otro lado de una carretera dividida. ¿Debe detenerse usted?",
+      "o": [
+        "Sí, hasta que se apaguen las luces rojas",
+        "Sí, por lo menos a 20 pies de él",
+        "Sí, pero solo en días de escuela",
+        "No, pero aun así debe manejar con cuidado"
+      ],
+      "h1": "Una división o separador lo separa a usted de los niños.",
+      "h2": "En el Distrito de Columbia, no tiene que detenerse por un vehículo escolar que está al otro lado de una carretera dividida, pero aun así debe tener cuidado.",
+      "p": "Correcto. En una carretera dividida, el tráfico del otro lado no tiene que detenerse."
+    }
+  },
+  {
+    "id": "dc-071",
+    "scope": "DC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 38,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, may you pass a motorcycle while sharing its lane?",
+      "o": [
+        "No, passing it within its lane is illegal",
+        "Yes, if the rider stays near the edge",
+        "Yes, on streets with a 20 mph limit",
+        "Yes, if you sound your horn first"
+      ],
+      "h1": "A motorcycle has the right to use the whole lane.",
+      "h2": "In the District of Columbia, it is against the law to overtake or pass a motorcycle within the same lane.",
+      "p": "Right. Never pass a motorcycle inside its own lane."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿puede rebasar a una motocicleta compartiendo su mismo carril?",
+      "o": [
+        "No, rebasarla dentro de su carril es ilegal",
+        "Sí, si el motociclista va cerca del borde",
+        "Sí, en calles con límite de 20 mph",
+        "Sí, si primero toca la bocina"
+      ],
+      "h1": "Una motocicleta tiene derecho a usar todo el carril.",
+      "h2": "En el Distrito de Columbia, es ilegal alcanzar o rebasar a una motocicleta dentro del mismo carril.",
+      "p": "Correcto. Nunca rebase a una motocicleta dentro de su propio carril."
+    }
+  },
+  {
+    "id": "dc-072",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 39,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, besides buses, which of these may travel in a bus lane?",
+      "o": [
+        "Taxis that have passengers",
+        "Cars with three or more people",
+        "Bicycles and emergency vehicles",
+        "Delivery trucks that are unloading"
+      ],
+      "h1": "Think of riders who are not in cars, and vehicles going to help people.",
+      "h2": "In the District of Columbia, bus lanes are for transit, tour, charter, and school buses, and bicycles, paratransit, and emergency vehicles may also use them.",
+      "p": "Right. Bicycles and emergency vehicles may use bus lanes too."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, además de los autobuses, ¿cuál de estos puede circular por un carril de autobús?",
+      "o": [
+        "Los taxis que llevan pasajeros",
+        "Los carros con tres o más personas",
+        "Las bicicletas y los vehículos de emergencia",
+        "Los camiones de reparto que están descargando"
+      ],
+      "h1": "Piense en quienes no van en carro y en los vehículos que van a ayudar.",
+      "h2": "En el Distrito de Columbia, los carriles de autobús son para autobuses de transporte público, de turismo, chárter y escolares, y también los pueden usar las bicicletas, el transporte especial (paratransit) y los vehículos de emergencia.",
+      "p": "Correcto. Las bicicletas y los vehículos de emergencia también pueden usar los carriles de autobús."
+    }
+  },
+  {
+    "id": "dc-073",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 40,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, what can happen if you park or stop in a streetcar guideway or next to a streetcar platform?",
+      "o": [
+        "Nothing, as long as you stay in the car",
+        "You can be fined and your car towed or impounded",
+        "Nothing, if you leave within 5 minutes",
+        "You only get a written warning"
+      ],
+      "h1": "Streetcars cannot steer around a car in their way.",
+      "h2": "In the District of Columbia, parking, stopping, or standing in a streetcar guideway or next to a streetcar platform is against the law, and the vehicle can be fined and removed or impounded.",
+      "p": "Right. Stay out of the streetcar guideway, or face a fine and a tow."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿qué le puede pasar si se estaciona o se detiene en la vía del tranvía o junto a una plataforma del tranvía?",
+      "o": [
+        "Nada, mientras usted se quede en el carro",
+        "Le pueden multar y remolcar o incautar el carro",
+        "Nada, si se va en menos de 5 minutos",
+        "Solo recibe una advertencia por escrito"
+      ],
+      "h1": "El tranvía no puede desviarse para esquivar un carro.",
+      "h2": "En el Distrito de Columbia, estacionarse, detenerse o quedarse parado en la vía del tranvía o junto a una plataforma del tranvía es ilegal, y el vehículo puede recibir una multa y ser removido o incautado.",
+      "p": "Correcto. No se detenga en la vía del tranvía, o tendrá multa y grúa."
+    }
+  },
+  {
+    "id": "dc-074",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, how far before a turn must you start using your turn signal?",
+      "o": [
+        "At least 10 feet",
+        "At least 25 feet",
+        "At least 1,000 feet",
+        "At least 100 feet"
+      ],
+      "h1": "It is about the length of six or seven cars.",
+      "h2": "In the District of Columbia, you must signal continuously for at least 100 feet before you turn, and longer at higher speeds.",
+      "p": "Right. Signal for at least 100 feet before a turn."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿a qué distancia antes de una vuelta debe empezar a usar la direccional?",
+      "o": [
+        "Por lo menos a 10 pies",
+        "Por lo menos a 25 pies",
+        "Por lo menos a 1,000 pies",
+        "Por lo menos a 100 pies"
+      ],
+      "h1": "Es más o menos el largo de seis o siete carros.",
+      "h2": "En el Distrito de Columbia, debe señalar sin parar por lo menos 100 pies antes de dar la vuelta, y por más distancia a mayor velocidad.",
+      "p": "Correcto. Señale por lo menos 100 pies antes de dar la vuelta."
+    }
+  },
+  {
+    "id": "dc-075",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, on a two-lane road, within what distance of an intersection or railroad crossing must you not pass?",
+      "o": [
+        "Within 100 feet",
+        "Within 10 feet",
+        "Within 25 feet",
+        "Within 1 mile"
+      ],
+      "h1": "Think of about one third of a football field.",
+      "h2": "In the District of Columbia, on a two-lane road, you must not pass when crossing or within 100 feet of an intersection or a railroad crossing.",
+      "p": "Right. No passing within 100 feet of an intersection or railroad crossing."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, en una carretera de dos carriles, ¿a qué distancia de un cruce de calles o de un cruce de tren no debe rebasar?",
+      "o": [
+        "A menos de 100 pies",
+        "A menos de 10 pies",
+        "A menos de 25 pies",
+        "A menos de 1 milla"
+      ],
+      "h1": "Piense en más o menos un tercio de una cancha de fútbol americano.",
+      "h2": "En el Distrito de Columbia, en una carretera de dos carriles, no debe rebasar al atravesar un cruce de calles o un cruce de tren, ni a menos de 100 pies de ellos.",
+      "p": "Correcto. No rebase a menos de 100 pies de un cruce de calles o de tren."
+    }
+  },
+  {
+    "id": "dc-076",
+    "scope": "DC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 42,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, you see a vehicle stopped on the shoulder of a highway. What should you do?",
+      "o": [
+        "Speed up and pass it quickly",
+        "Stop behind it to offer help",
+        "Slow down and move left, away from it",
+        "Honk to warn the people near it"
+      ],
+      "h1": "Give the people at the side of the road more space.",
+      "h2": "In the District of Columbia, when you see a vehicle stopped on the shoulder, slow down and move to the left part of your lane or to the next lane if there is one.",
+      "p": "Right. Slow down and give a stopped vehicle more room."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted ve un vehículo detenido en el acotamiento de una carretera. ¿Qué debe hacer?",
+      "o": [
+        "Acelerar y pasarlo rápido",
+        "Detenerse detrás para ofrecer ayuda",
+        "Bajar la velocidad y moverse a la izquierda, lejos de él",
+        "Tocar la bocina para avisar a las personas"
+      ],
+      "h1": "Dé más espacio a las personas al lado de la carretera.",
+      "h2": "En el Distrito de Columbia, cuando vea un vehículo detenido en el acotamiento, baje la velocidad y muévase a la parte izquierda de su carril o al carril de al lado, si lo hay.",
+      "p": "Correcto. Baje la velocidad y dé más espacio al vehículo detenido."
+    }
+  },
+  {
+    "id": "dc-077",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 42,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, during which hours must your headlights be on?",
+      "o": [
+        "From exactly sunset until exactly sunrise each day",
+        "From 30 minutes after sunset to 30 minutes before sunrise",
+        "From 9:00 p.m. until 6:00 a.m. on every day",
+        "Only on streets that have no streetlights"
+      ],
+      "h1": "The rule starts a little after the sun goes down.",
+      "h2": "In the District of Columbia, you must turn on your headlights from one half hour after sunset until one half hour before sunrise.",
+      "p": "Right. Lights on from half an hour after sunset to half an hour before sunrise."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿durante qué horas debe tener las luces delanteras encendidas?",
+      "o": [
+        "Justo desde la puesta del sol hasta la salida del sol",
+        "De media hora tras la puesta del sol a media hora antes del amanecer",
+        "Desde las 9:00 p.m. hasta las 6:00 a.m. todos los días",
+        "Solo en calles que no tienen alumbrado público"
+      ],
+      "h1": "La regla empieza un poco después de que se pone el sol.",
+      "h2": "En el Distrito de Columbia, debe encender las luces delanteras desde media hora después de la puesta del sol hasta media hora antes de la salida del sol.",
+      "p": "Correcto. Luces encendidas desde media hora después de la puesta del sol hasta media hora antes de la salida."
+    }
+  },
+  {
+    "id": "dc-078",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 42,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, you are about to drive through a tunnel on a sunny day. What must you do?",
+      "o": [
+        "Turn on your headlights",
+        "Turn on your hazard lights",
+        "Keep your lights off",
+        "Flash your high beams"
+      ],
+      "h1": "It is a rule even in the middle of the day.",
+      "h2": "In the District of Columbia, you must turn on your headlights when you drive in a tunnel.",
+      "p": "Right. Headlights on in every tunnel."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted va a pasar por un túnel en un día soleado. ¿Qué debe hacer?",
+      "o": [
+        "Encender las luces delanteras",
+        "Encender las luces intermitentes",
+        "Dejar las luces apagadas",
+        "Hacer cambio de luces altas"
+      ],
+      "h1": "Es una regla incluso a mediodía.",
+      "h2": "En el Distrito de Columbia, debe encender las luces delanteras cuando maneja dentro de un túnel.",
+      "p": "Correcto. Luces delanteras encendidas en todo túnel."
+    }
+  },
+  {
+    "id": "dc-079",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 42,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, you are using high beams and a car is coming toward you. When must you switch to low beams?",
+      "o": [
+        "At least 50 feet before you meet it",
+        "At least 100 feet before you meet it",
+        "Only if the other driver flashes lights",
+        "At least 500 feet before you meet it"
+      ],
+      "h1": "Bright lights can blind a driver from far away.",
+      "h2": "In the District of Columbia, you must switch to low beams at least 500 feet before you meet an oncoming vehicle.",
+      "p": "Right. Dim your lights at least 500 feet before an oncoming car."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted usa las luces altas y viene un carro de frente. ¿Cuándo debe cambiar a luces bajas?",
+      "o": [
+        "Por lo menos 50 pies antes de cruzarse con él",
+        "Por lo menos 100 pies antes de cruzarse con él",
+        "Solo si el otro conductor le hace cambio de luces",
+        "Por lo menos 500 pies antes de cruzarse con él"
+      ],
+      "h1": "Las luces altas pueden encandilar a un conductor desde lejos.",
+      "h2": "En el Distrito de Columbia, debe cambiar a luces bajas por lo menos 500 pies antes de cruzarse con un vehículo que viene de frente.",
+      "p": "Correcto. Baje las luces por lo menos 500 pies antes de un carro que viene de frente."
+    }
+  },
+  {
+    "id": "dc-080",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 44,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, a stop sign stands at the side of the road. How close in front of it may you stand or park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 25 feet",
+        "No closer than 75 feet"
+      ],
+      "h1": "Drivers coming up must be able to see the sign clearly.",
+      "h2": "In the District of Columbia, you must not stand or park within 25 feet in front of a stop sign, flashing signal, or traffic signal at the side of the road.",
+      "p": "Right. Stay at least 25 feet back from a roadside stop sign or signal."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, hay una señal de alto al lado de la calle. ¿A qué distancia delante de ella puede detenerse o estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 10 pies",
+        "No más cerca de 25 pies",
+        "No más cerca de 75 pies"
+      ],
+      "h1": "Los conductores que se acercan deben poder ver bien la señal.",
+      "h2": "En el Distrito de Columbia, no debe detenerse ni estacionarse a menos de 25 pies delante de una señal de alto, una luz intermitente o un semáforo al lado de la calle.",
+      "p": "Correcto. Quédese por lo menos a 25 pies de una señal de alto o semáforo al lado de la calle."
+    }
+  },
+  {
+    "id": "dc-081",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 45,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, how close to the entrance of a fire station driveway may you stand or park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 20 feet",
+        "No closer than 100 feet",
+        "As close as you like if you stay inside"
+      ],
+      "h1": "Fire trucks need room to get out fast.",
+      "h2": "In the District of Columbia, you must not stand or park within 20 feet of the entrance to a fire station driveway.",
+      "p": "Right. Keep at least 20 feet from a fire station driveway."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿a qué distancia de la entrada de una estación de bomberos puede detenerse o estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 20 pies",
+        "No más cerca de 100 pies",
+        "Tan cerca como quiera si se queda adentro"
+      ],
+      "h1": "Los camiones de bomberos necesitan espacio para salir rápido.",
+      "h2": "En el Distrito de Columbia, no debe detenerse ni estacionarse a menos de 20 pies de la entrada de una estación de bomberos.",
+      "p": "Correcto. Quédese por lo menos a 20 pies de la entrada de una estación de bomberos."
+    }
+  },
+  {
+    "id": "dc-082",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 45,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, how close to the nearest rail of a railroad crossing may you park, unless you are loading or unloading?",
+      "o": [
+        "No closer than 10 feet",
+        "No closer than 25 feet",
+        "No closer than 200 feet",
+        "No closer than 50 feet"
+      ],
+      "h1": "It is more than two car lengths, but far less than a city block.",
+      "h2": "In the District of Columbia, you must not park within 50 feet of the nearest rail of a railroad crossing, except for a short stop to load or unload.",
+      "p": "Right. Park at least 50 feet from the nearest rail."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿a qué distancia del riel más cercano de un cruce de tren puede estacionarse, a menos que esté cargando o descargando?",
+      "o": [
+        "No más cerca de 10 pies",
+        "No más cerca de 25 pies",
+        "No más cerca de 200 pies",
+        "No más cerca de 50 pies"
+      ],
+      "h1": "Es más que el largo de dos carros, pero mucho menos que una cuadra.",
+      "h2": "En el Distrito de Columbia, no debe estacionarse a menos de 50 pies del riel más cercano de un cruce de tren, salvo una parada corta para cargar o descargar.",
+      "p": "Correcto. Estaciónese por lo menos a 50 pies del riel más cercano."
+    }
+  },
+  {
+    "id": "dc-083",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 46,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, what is the speed limit in an alley when no sign is posted?",
+      "o": [
+        "15 mph",
+        "5 mph",
+        "20 mph",
+        "25 mph"
+      ],
+      "h1": "It is lower than the limit on regular city streets.",
+      "h2": "In the District of Columbia, the speed limit in an alley is 15 mph unless a sign shows a different limit.",
+      "p": "Right. Alleys are 15 mph unless posted."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuál es el límite de velocidad en un callejón si no hay señal?",
+      "o": [
+        "15 mph",
+        "5 mph",
+        "20 mph",
+        "25 mph"
+      ],
+      "h1": "Es más bajo que el límite de las calles normales de la ciudad.",
+      "h2": "En el Distrito de Columbia, el límite de velocidad en un callejón es de 15 mph, a menos que una señal indique otro límite.",
+      "p": "Correcto. En los callejones son 15 mph si no hay señal."
+    }
+  },
+  {
+    "id": "dc-084",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 46,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, you drive faster than a yellow advisory speed sign shows and then have a crash. What can happen?",
+      "o": [
+        "Nothing, because advisory signs are never enforced",
+        "Your license is revoked on the spot",
+        "You may get a ticket for going too fast for conditions",
+        "Only your insurance price can change"
+      ],
+      "h1": "The sign is advice, but the general speed rule still applies.",
+      "h2": "In the District of Columbia, an advisory speed sign is not a law by itself, but if you go faster and crash, you may be found to have broken the general speed rule and get a ticket.",
+      "p": "Right. Ignoring an advisory speed can still lead to a ticket after a crash."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted maneja más rápido de lo que indica una señal amarilla de velocidad recomendada y luego choca. ¿Qué puede pasar?",
+      "o": [
+        "Nada, porque esas señales nunca se hacen cumplir",
+        "Le revocan la licencia en ese momento",
+        "Le pueden multar por ir demasiado rápido para las condiciones",
+        "Solo puede cambiar el precio de su seguro"
+      ],
+      "h1": "La señal es un consejo, pero la regla general de velocidad sigue valiendo.",
+      "h2": "En el Distrito de Columbia, una señal de velocidad recomendada no es una ley por sí sola, pero si va más rápido y choca, pueden decidir que violó la regla general de velocidad y multarlo.",
+      "p": "Correcto. No hacer caso a la velocidad recomendada puede traer una multa después de un choque."
+    }
+  },
+  {
+    "id": "dc-085",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 48,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, a passenger cannot wear a seat belt for a medical reason. What is needed for them to ride without one?",
+      "o": [
+        "A note from a parent or family member",
+        "A doctor's written certificate kept in the vehicle",
+        "A sticker placed on the windshield",
+        "Nothing; they may simply ride unbuckled"
+      ],
+      "h1": "A licensed physician must put it in writing.",
+      "h2": "In the District of Columbia, a person with a medical reason not to wear a seat belt needs a physician's written certificate that states the reason, and it must be carried in the vehicle.",
+      "p": "Right. The doctor's certificate must be in the vehicle."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, un pasajero no puede usar el cinturón de seguridad por una razón médica. ¿Qué necesita para viajar sin él?",
+      "o": [
+        "Una nota de su padre, madre u otro familiar",
+        "Un certificado escrito de un médico, guardado en el vehículo",
+        "Una calcomanía pegada en el parabrisas",
+        "Nada; puede viajar sin abrocharse"
+      ],
+      "h1": "Un médico con licencia debe ponerlo por escrito.",
+      "h2": "En el Distrito de Columbia, una persona con una razón médica para no usar el cinturón necesita un certificado escrito de un médico que explique la razón, y debe llevarlo en el vehículo.",
+      "p": "Correcto. El certificado del médico debe estar en el vehículo."
+    }
+  },
+  {
+    "id": "dc-086",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://code.dccouncil.gov/us/dc/council/code/sections/50-1703",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, children under what age must ride in an infant, toddler, or booster seat?",
+      "o": [
+        "Under 5 years old",
+        "Under 10 years old",
+        "Under 8 years old",
+        "Under 13 years old"
+      ],
+      "h1": "Many children still need a booster seat in early grade school.",
+      "h2": "In the District of Columbia, children under 8 years old must ride in a properly installed infant, toddler, or booster seat.",
+      "p": "Right. Children under 8 ride in a child safety seat or booster."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿los niños menores de qué edad deben viajar en un asiento para bebé, para niño pequeño o elevado (booster)?",
+      "o": [
+        "Menores de 5 años",
+        "Menores de 10 años",
+        "Menores de 8 años",
+        "Menores de 13 años"
+      ],
+      "h1": "Muchos niños todavía necesitan un asiento elevado en los primeros años de primaria.",
+      "h2": "En el Distrito de Columbia, los niños menores de 8 años deben viajar en un asiento para bebé, para niño pequeño o elevado (booster), bien instalado.",
+      "p": "Correcto. Los niños menores de 8 años van en asiento de seguridad o elevado."
+    }
+  },
+  {
+    "id": "dc-087",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 55,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, may you use your turn signal to tell the driver behind you that it is safe to pass?",
+      "o": [
+        "No, that is against the law",
+        "Yes, use your left signal",
+        "Yes, use your right signal",
+        "Yes, but only on highways"
+      ],
+      "h1": "Turn signals are only for showing what you are about to do.",
+      "h2": "In the District of Columbia, it is against the law to use your turn signals to tell drivers behind you that they can pass.",
+      "p": "Right. Never use your signals to wave someone past."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿puede usar la direccional para avisar al conductor de atrás que puede rebasar sin peligro?",
+      "o": [
+        "No, eso es ilegal",
+        "Sí, usando la direccional izquierda",
+        "Sí, usando la direccional derecha",
+        "Sí, pero solo en las carreteras"
+      ],
+      "h1": "Las direccionales solo sirven para mostrar lo que usted va a hacer.",
+      "h2": "En el Distrito de Columbia, es ilegal usar las direccionales para avisar a los conductores de atrás que pueden rebasar.",
+      "p": "Correcto. Nunca use las direccionales para indicar a alguien que pase."
+    }
+  },
+  {
+    "id": "dc-088",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 58,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, a center lane has a solid and a broken yellow line on each side. How far may you drive in it before you turn left?",
+      "o": [
+        "No more than 25 feet",
+        "No more than 1,000 feet",
+        "As far as you like",
+        "No more than 150 feet"
+      ],
+      "h1": "It is about half the length of a football field.",
+      "h2": "In the District of Columbia, in a center left-turn lane, you may not travel more than 150 feet.",
+      "p": "Right. Use the center turn lane for no more than 150 feet."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, un carril central tiene una línea amarilla continua y una discontinua a cada lado. ¿Qué distancia puede recorrer en él antes de dar vuelta a la izquierda?",
+      "o": [
+        "No más de 25 pies",
+        "No más de 1,000 pies",
+        "La distancia que quiera",
+        "No más de 150 pies"
+      ],
+      "h1": "Es más o menos la mitad de una cancha de fútbol americano.",
+      "h2": "En el Distrito de Columbia, en un carril central para dar vuelta a la izquierda, no puede recorrer más de 150 pies.",
+      "p": "Correcto. Use el carril central de vuelta por no más de 150 pies."
+    }
+  },
+  {
+    "id": "dc-089",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://code.dccouncil.gov/us/dc/council/code/sections/50-1731.06",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, what is the fine for using a hand-held phone while driving?",
+      "o": [
+        "$25",
+        "$100",
+        "$50",
+        "$500"
+      ],
+      "h1": "It is a round number in the hundreds.",
+      "h2": "In the District of Columbia, the fine for using a hand-held phone while driving is $100.",
+      "p": "Right. A hand-held phone while driving costs $100."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuál es la multa por usar un teléfono en la mano mientras maneja?",
+      "o": [
+        "$25",
+        "$100",
+        "$50",
+        "$500"
+      ],
+      "h1": "Es un número redondo de cientos.",
+      "h2": "En el Distrito de Columbia, la multa por usar un teléfono en la mano mientras maneja es de $100.",
+      "p": "Correcto. Usar el teléfono en la mano al manejar cuesta $100."
+    }
+  },
+  {
+    "id": "dc-090",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://code.dccouncil.gov/us/dc/council/code/sections/50-2201.04c",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, you get a ticket for a moving violation inside a work zone. How is the fine set?",
+      "o": [
+        "It is the same as anywhere else",
+        "It is half the usual fine",
+        "Only a warning is given",
+        "It is double the usual fine"
+      ],
+      "h1": "Signs at the start of work zones warn about this.",
+      "h2": "In the District of Columbia, the fine for a moving violation in a work zone is double the usual amount.",
+      "p": "Right. Fines are doubled in work zones."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted recibe una multa por una infracción de tránsito dentro de una zona de trabajo. ¿Cómo se fija la multa?",
+      "o": [
+        "Es igual que en cualquier otro lugar",
+        "Es la mitad de la multa normal",
+        "Solo le dan una advertencia",
+        "Es el doble de la multa normal"
+      ],
+      "h1": "Las señales al inicio de las zonas de trabajo avisan de esto.",
+      "h2": "En el Distrito de Columbia, la multa por una infracción de tránsito en una zona de trabajo es el doble de la cantidad normal.",
+      "p": "Correcto. Las multas se duplican en las zonas de trabajo."
+    }
+  },
+  {
+    "id": "dc-091",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://code.dccouncil.gov/us/dc/council/code/sections/50-1905",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, a driver with a DC license is arrested for impaired driving and refuses the chemical test. What does the law require?",
+      "o": [
+        "They must join the Ignition Interlock program",
+        "Nothing; the test is optional",
+        "They pay a $25 fine and go home",
+        "They must take a safety class only"
+      ],
+      "h1": "Refusing the test has its own penalty.",
+      "h2": "In the District of Columbia, a DC license holder who is arrested and refuses chemical testing must enroll in the Ignition Interlock program.",
+      "p": "Right. Refusing the test means joining the Ignition Interlock program."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, un conductor con licencia de DC es arrestado por manejar bajo los efectos y se niega a la prueba química. ¿Qué exige la ley?",
+      "o": [
+        "Debe entrar al programa Ignition Interlock",
+        "Nada; la prueba es opcional",
+        "Paga una multa de $25 y se va a casa",
+        "Solo debe tomar una clase de seguridad"
+      ],
+      "h1": "Negarse a la prueba tiene su propio castigo.",
+      "h2": "En el Distrito de Columbia, un conductor con licencia de DC que es arrestado y se niega a la prueba química debe inscribirse en el programa de bloqueo de encendido (Ignition Interlock).",
+      "p": "Correcto. Negarse a la prueba significa entrar al programa de bloqueo de encendido."
+    }
   }
 ]
