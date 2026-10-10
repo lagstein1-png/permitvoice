@@ -56,7 +56,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | TN | Tennessee | 200 | 200 | 30 q, pass 24 (80%) | [link](https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf) | — | yes |
 | TX | Texas | 200 | 200 | ? q, pass ? (70%) | [link](https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf) | — | yes |
 | UT | Utah | 200 | 200 | 50 q, pass 40 (80%) | [link](https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2026.pdf) | — | yes |
-| VA | Virginia | 50 | 50 | 40 q, pass 34 (80%) | [link](https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf) | [link](https://dmv.virginia.gov/licenses-ids/exams/manual-es) | yes |
+| VA | Virginia | 200 | 200 | 40 q, pass 34 (80%) | [link](https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf) | [link](https://dmv.virginia.gov/licenses-ids/exams/manual-es) | yes |
 | VT | Vermont | 50 | 50 | 20 q, pass 16 (80%) | [link](https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf) | [link](https://dmv.vermont.gov/sites/dmv/files/documents/VN-007spa-Drivers_Manual_foreign_Spanish.pdf) | yes |
 | WA | Washington | 50 | 50 | 40 q, pass 32 (80%) | [link](https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=) | [link](https://dol.wa.gov/media/pdf/4748/driver-guide-espdf/download?inline=) | yes |
 | WI | Wisconsin | 50 | 50 | 50 q, pass 40 (80%) | [link](https://wisconsindot.gov/Documents/dmv/shared/bds126-motorists-handbook.pdf) | [link](https://wisconsindot.gov/Documents/dmv/shared/s-handbook.pdf) | yes |
