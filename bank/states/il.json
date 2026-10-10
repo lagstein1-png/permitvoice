@@ -2212,5 +2212,141 @@
       "h2": "في Illinois، لديك ثلاث محاولات لتنجح في كل اختبار خلال سنة واحدة من تاريخ دفع رسوم الطلب.",
       "p": "صحيح. لديك ثلاث محاولات خلال سنة واحدة."
     }
+  },
+  {
+    "id": "il-028",
+    "scope": "IL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 35,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Illinois, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 15 feet",
+        "No closer than 30 feet",
+        "No closer than 50 feet"
+      ],
+      "h1": "Fire trucks need room to hook up their hoses.",
+      "h2": "In Illinois, you may not park within 15 feet of a fire hydrant.",
+      "p": "Right. Stay at least 15 feet from a hydrant."
+    },
+    "es": {
+      "q": "En Illinois, ¿qué tan cerca de un hidrante puede estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 15 pies",
+        "No más cerca de 30 pies",
+        "No más cerca de 50 pies"
+      ],
+      "h1": "Los bomberos necesitan espacio para conectar sus mangueras.",
+      "h2": "En Illinois, usted no puede estacionarse a menos de 15 pies de un hidrante.",
+      "p": "Correcto. Quédese al menos a 15 pies de un hidrante."
+    }
+  },
+  {
+    "id": "il-029",
+    "scope": "IL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Illinois, how much space must you leave when you pass a bicyclist, even one in a bike lane?",
+      "o": [
+        "At least 1 foot",
+        "At least 2 feet",
+        "At least 6 feet",
+        "At least 3 feet"
+      ],
+      "h1": "It is about the length of a long step or a yardstick.",
+      "h2": "In Illinois, you must keep at least 3 feet between your vehicle and a bicyclist when you pass, on any road and in a bike lane.",
+      "p": "Right. Give a bicyclist at least 3 feet."
+    },
+    "es": {
+      "q": "En Illinois, ¿cuánto espacio debe dejar al pasar a un ciclista, aunque vaya en un carril para bicicletas?",
+      "o": [
+        "Al menos 1 pie",
+        "Al menos 2 pies",
+        "Al menos 6 pies",
+        "Al menos 3 pies"
+      ],
+      "h1": "Es más o menos el largo de un paso grande o de una regla de una yarda.",
+      "h2": "En Illinois, usted debe dejar al menos 3 pies entre su vehículo y el ciclista al pasarlo, en cualquier camino y también en un carril para bicicletas.",
+      "p": "Correcto. Deje al menos 3 pies al ciclista."
+    }
+  },
+  {
+    "id": "il-030",
+    "scope": "IL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Illinois, what happens if your vision tests between 20/41 and 20/70?",
+      "o": [
+        "You may drive only in daylight",
+        "You may not get a license at all",
+        "You may drive only on interstates",
+        "You get no limit on your license"
+      ],
+      "h1": "The limit is about the time of day you may drive.",
+      "h2": "In Illinois, a driver whose vision is between 20/41 and 20/70 may drive only during daylight.",
+      "p": "Right. With that vision you may drive only in daylight."
+    },
+    "es": {
+      "q": "En Illinois, ¿qué pasa si su prueba de la vista da entre 20/41 y 20/70?",
+      "o": [
+        "Solo puede manejar de día",
+        "No puede obtener licencia",
+        "Solo puede manejar en autopistas interestatales",
+        "Su licencia no tiene ningún límite"
+      ],
+      "h1": "El límite tiene que ver con la hora del día en que puede manejar.",
+      "h2": "En Illinois, un conductor con una vista entre 20/41 y 20/70 solo puede manejar durante el día.",
+      "p": "Correcto. Con esa vista solo puede manejar de día."
+    }
+  },
+  {
+    "id": "il-031",
+    "scope": "IL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Illinois, when you pass on a two-lane road, how far from an oncoming vehicle must you be back in your lane?",
+      "o": [
+        "At least 50 feet",
+        "At least 100 feet",
+        "At least 200 feet",
+        "At least 500 feet"
+      ],
+      "h1": "The distance is more than half a football field.",
+      "h2": "In Illinois, you must be back in your own lane before you get within 200 feet of an oncoming vehicle.",
+      "p": "Right. Be back in your lane at least 200 feet before an oncoming vehicle."
+    },
+    "es": {
+      "q": "En Illinois, al rebasar en un camino de dos carriles, ¿a qué distancia de un vehículo que viene de frente debe estar ya en su carril?",
+      "o": [
+        "Al menos 50 pies",
+        "Al menos 100 pies",
+        "Al menos 200 pies",
+        "Al menos 500 pies"
+      ],
+      "h1": "La distancia es más de la mitad de un campo de fútbol americano.",
+      "h2": "En Illinois, usted debe volver a su carril antes de quedar a menos de 200 pies de un vehículo que viene de frente.",
+      "p": "Correcto. Vuelva a su carril al menos 200 pies antes del vehículo que viene."
+    }
   }
 ]

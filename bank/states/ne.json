@@ -2212,5 +2212,141 @@
       "h2": "في Nebraska، إذا لم يحقق أي شرطي في الحادث وأُصيب شخص أو كانت الأضرار $1,500 أو أكثر، يجب أن ترسل تقرير الحادث خلال 10 أيام.",
       "p": "صحيح. التقرير مطلوب خلال 10 أيام."
     }
+  },
+  {
+    "id": "ne-028",
+    "scope": "NE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 12,
+    "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nebraska, what happens if you fail the drive test three times in a row?",
+      "o": [
+        "You must wait one full year to try again",
+        "You need a driver training course or 90 days with an LPD",
+        "You must pay a double fee and test the next day",
+        "You lose your learner's permit for six months"
+      ],
+      "h1": "You need more training or more practice time before you can try again.",
+      "h2": "In Nebraska, after three failed drive tests in a row, you must finish an approved driver training course or hold an LPD for at least 90 days before you apply again.",
+      "p": "Right. Take a course or practice with an LPD for 90 days."
+    },
+    "es": {
+      "q": "En Nebraska, ¿qué pasa si reprueba el examen de manejo tres veces seguidas?",
+      "o": [
+        "Debe esperar un año completo para intentarlo otra vez",
+        "Necesita un curso de manejo o 90 días con un LPD",
+        "Debe pagar el doble y examinarse al día siguiente",
+        "Pierde su permiso de aprendiz por seis meses"
+      ],
+      "h1": "Necesita más entrenamiento o más tiempo de práctica antes de intentarlo otra vez.",
+      "h2": "En Nebraska, después de reprobar tres veces seguidas el examen de manejo, debe terminar un curso de manejo aprobado o tener un LPD por al menos 90 días antes de volver a solicitar.",
+      "p": "Correcto. Tome un curso o practique con un LPD por 90 días."
+    }
+  },
+  {
+    "id": "ne-029",
+    "scope": "NE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nebraska, when does a license issued to a driver under 21 expire?",
+      "o": [
+        "On the driver's 21st birthday",
+        "On the driver's 18th birthday",
+        "One year after it is issued",
+        "Five years after it is issued"
+      ],
+      "h1": "It is tied to the age when adult alcohol rules begin.",
+      "h2": "In Nebraska, a license issued to someone under 21 expires on the driver's 21st birthday.",
+      "p": "Right. It expires on the 21st birthday."
+    },
+    "es": {
+      "q": "En Nebraska, ¿cuándo vence una licencia emitida a un conductor menor de 21 años?",
+      "o": [
+        "El día que cumple 21 años",
+        "El día que cumple 18 años",
+        "Un año después de emitida",
+        "Cinco años después de emitida"
+      ],
+      "h1": "Está ligada a la edad en que empiezan las reglas de alcohol para adultos.",
+      "h2": "En Nebraska, la licencia emitida a una persona menor de 21 años vence el día que el conductor cumple 21 años.",
+      "p": "Correcto. Vence al cumplir 21 años."
+    }
+  },
+  {
+    "id": "ne-030",
+    "scope": "NE",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 53,
+    "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nebraska, it is illegal to pass another vehicle within what distance of an intersection or railroad crossing?",
+      "o": [
+        "25 feet",
+        "50 feet",
+        "100 feet",
+        "500 feet"
+      ],
+      "h1": "It is about the length of a few houses.",
+      "h2": "In Nebraska, it is illegal to pass another vehicle within 100 feet of an intersection or a railroad crossing.",
+      "p": "Right. No passing within 100 feet of either one."
+    },
+    "es": {
+      "q": "En Nebraska, ¿a qué distancia de una intersección o de un cruce de ferrocarril es ilegal rebasar a otro vehículo?",
+      "o": [
+        "25 pies",
+        "50 pies",
+        "100 pies",
+        "500 pies"
+      ],
+      "h1": "Es más o menos el largo de unas cuantas casas.",
+      "h2": "En Nebraska, es ilegal rebasar a otro vehículo a menos de 100 pies de una intersección o de un cruce de ferrocarril.",
+      "p": "Correcto. No rebase a menos de 100 pies de ninguno de los dos."
+    }
+  },
+  {
+    "id": "ne-031",
+    "scope": "NE",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 70,
+    "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nebraska, a snowplow is working on the road ahead. Unless you are passing, how far back should you stay?",
+      "o": [
+        "20 feet",
+        "50 feet",
+        "75 feet",
+        "100 feet"
+      ],
+      "h1": "Sand and chunks of ice can fly off the plow.",
+      "h2": "In Nebraska, you should stay 100 feet behind a snowplow or other road maintenance vehicle that is working, unless you are passing.",
+      "p": "Right. Keep 100 feet behind a working snowplow."
+    },
+    "es": {
+      "q": "En Nebraska, un quitanieves está trabajando en la carretera delante de usted. Si no va a rebasar, ¿a qué distancia debe mantenerse?",
+      "o": [
+        "20 pies",
+        "50 pies",
+        "75 pies",
+        "100 pies"
+      ],
+      "h1": "Del quitanieves pueden salir volando arena y trozos de hielo.",
+      "h2": "En Nebraska, debe mantenerse a 100 pies detrás de un quitanieves u otro vehículo de mantenimiento que esté trabajando, a menos que vaya a rebasar.",
+      "p": "Correcto. Manténgase a 100 pies de un quitanieves que trabaja."
+    }
   }
 ]
