@@ -5738,5 +5738,1331 @@
       "h2": "En Arizona, una primera infracción de la ley de \"move over\" para vehículos detenidos con luces intermitentes trae una multa civil de $275; sube a $500 y luego a $1,000 si se repite dentro de cinco años.",
       "p": "Correcto. $275 por una primera infracción."
     }
+  },
+  {
+    "id": "az-095",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/04135.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, a driver is caught without car insurance for the second time within 36 months. What is the lowest civil penalty?",
+      "o": [
+        "$100",
+        "$250",
+        "$750",
+        "$5,000"
+      ],
+      "h1": "It is higher than the $500 for a first violation.",
+      "h2": "In Arizona, a second violation of the insurance law within 36 months brings a civil penalty of at least $750, and the license, registration and plates are suspended for six months.",
+      "p": "Right. At least $750 for a second time."
+    },
+    "es": {
+      "q": "En Arizona, a un conductor lo detienen sin seguro de auto por segunda vez en 36 meses. ¿Cuál es la multa civil mínima?",
+      "o": [
+        "$100",
+        "$250",
+        "$750",
+        "$5,000"
+      ],
+      "h1": "Es más alta que los $500 de la primera vez.",
+      "h2": "En Arizona, una segunda infracción de la ley de seguro en 36 meses trae una multa civil de al menos $750, y se suspenden la licencia, el registro y las placas por seis meses.",
+      "p": "Correcto. Al menos $750 la segunda vez."
+    }
+  },
+  {
+    "id": "az-096",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/04135.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, a driver is caught without car insurance for the third time within 36 months. How long are the license and the vehicle's registration suspended?",
+      "o": [
+        "One year",
+        "One month",
+        "Three months",
+        "Ten years"
+      ],
+      "h1": "Each time, the suspension gets longer: 3 months, then 6 months, then...",
+      "h2": "In Arizona, a third insurance violation within 36 months means the driver license, the registration and the license plates are suspended for one year, and the penalty is at least $1,000.",
+      "p": "Right. One year for a third time."
+    },
+    "es": {
+      "q": "En Arizona, a un conductor lo detienen sin seguro de auto por tercera vez en 36 meses. ¿Por cuánto tiempo se suspenden la licencia y el registro del vehículo?",
+      "o": [
+        "Un año",
+        "Un mes",
+        "Tres meses",
+        "Diez años"
+      ],
+      "h1": "Cada vez la suspensión es más larga: 3 meses, luego 6 meses, luego...",
+      "h2": "En Arizona, una tercera infracción de seguro en 36 meses significa que la licencia de manejo, el registro y las placas se suspenden por un año, y la multa es de al menos $1,000.",
+      "p": "Correcto. Un año la tercera vez."
+    }
+  },
+  {
+    "id": "az-097",
+    "scope": "AZ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00857.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, a driver illegally passes a stopped school bus for the second time within 36 months. What can happen to the license?",
+      "o": [
+        "Nothing; only a warning is given",
+        "It is taken away for life",
+        "It gets 1 point only",
+        "It can be suspended for up to 6 months"
+      ],
+      "h1": "The court sends the case to the MVD for a suspension.",
+      "h2": "In Arizona, a second school bus violation within 36 months brings a penalty of at least $750, and the court has the MVD suspend the license for up to six months.",
+      "p": "Right. Up to 6 months of suspension."
+    },
+    "es": {
+      "q": "En Arizona, un conductor rebasa ilegalmente un autobús escolar detenido por segunda vez en 36 meses. ¿Qué le puede pasar a su licencia?",
+      "o": [
+        "Nada; solo recibe una advertencia",
+        "Se la quitan de por vida",
+        "Recibe solo 1 punto",
+        "Se la pueden suspender hasta 6 meses"
+      ],
+      "h1": "El tribunal manda el caso a la MVD para una suspensión.",
+      "h2": "En Arizona, una segunda infracción por el autobús escolar en 36 meses trae una multa de al menos $750, y el tribunal ordena a la MVD suspender la licencia hasta por seis meses.",
+      "p": "Correcto. Hasta 6 meses de suspensión."
+    }
+  },
+  {
+    "id": "az-098",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03511.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, police stop a driver who has never had a driver license from any state. What happens to the vehicle?",
+      "o": [
+        "It is impounded for 24 hours",
+        "It is impounded for 20 days",
+        "It is impounded for 1 year",
+        "Nothing happens to the vehicle"
+      ],
+      "h1": "It is a little less than three weeks.",
+      "h2": "In Arizona, if a person drives without ever having had a license or permit, the officer has the vehicle removed and impounded or immobilized for 20 days.",
+      "p": "Right. The vehicle is held for 20 days."
+    },
+    "es": {
+      "q": "En Arizona, la policía detiene a un conductor que nunca ha tenido licencia de manejo de ningún estado. ¿Qué pasa con el vehículo?",
+      "o": [
+        "Lo retienen por 24 horas",
+        "Lo retienen por 20 días",
+        "Lo retienen por 1 año",
+        "No le pasa nada al vehículo"
+      ],
+      "h1": "Es un poco menos de tres semanas.",
+      "h2": "En Arizona, si una persona maneja sin haber tenido nunca una licencia o permiso, el policía hace retirar el vehículo y lo retienen o inmovilizan por 20 días.",
+      "p": "Correcto. Retienen el vehículo por 20 días."
+    }
+  },
+  {
+    "id": "az-099",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/02051.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, you buy a used car from a private seller. How soon must you apply for a title in your name?",
+      "o": [
+        "Within 15 days",
+        "Within 6 months",
+        "Within 1 year",
+        "Only when you sell it"
+      ],
+      "h1": "It is about two weeks.",
+      "h2": "In Arizona, a buyer must apply to the MVD for a certificate of title within 15 days after buying the vehicle.",
+      "p": "Right. Apply for the title within 15 days."
+    },
+    "es": {
+      "q": "En Arizona, usted compra un auto usado a un vendedor particular. ¿En cuánto tiempo debe solicitar el título a su nombre?",
+      "o": [
+        "Dentro de 15 días",
+        "Dentro de 6 meses",
+        "Dentro de 1 año",
+        "Solo cuando lo venda"
+      ],
+      "h1": "Son unas dos semanas.",
+      "h2": "En Arizona, el comprador debe solicitar a la MVD el certificado de título dentro de los 15 días después de comprar el vehículo.",
+      "p": "Correcto. Solicite el título dentro de 15 días."
+    }
+  },
+  {
+    "id": "az-100",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/02532.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, what is the civil penalty for driving a vehicle that is not registered for the current year?",
+      "o": [
+        "$25",
+        "$50",
+        "$300",
+        "$3,000"
+      ],
+      "h1": "It is a few hundred dollars.",
+      "h2": "In Arizona, driving a vehicle that is not registered or has no current plates brings a $300 civil penalty, but the court dismisses it if the owner registers the vehicle afterward.",
+      "p": "Right. $300, dismissed if you register it."
+    },
+    "es": {
+      "q": "En Arizona, ¿cuál es la multa civil por manejar un vehículo que no está registrado para el año actual?",
+      "o": [
+        "$25",
+        "$50",
+        "$300",
+        "$3,000"
+      ],
+      "h1": "Son unos cientos de dólares.",
+      "h2": "En Arizona, manejar un vehículo sin registro o sin placas vigentes trae una multa civil de $300, pero el tribunal la anula si el dueño registra el vehículo después.",
+      "p": "Correcto. $300, anulada si lo registra."
+    }
+  },
+  {
+    "id": "az-101",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00737.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, you drive alone in an HOV (carpool) lane during the hours it is limited to two or more people. What is the civil penalty?",
+      "o": [
+        "$20",
+        "$200",
+        "$2,000",
+        "No penalty, only a warning"
+      ],
+      "h1": "It is more than $100 but less than $500.",
+      "h2": "In Arizona, driving alone in an HOV lane while it is limited to two or more people brings a $200 civil penalty.",
+      "p": "Right. $200."
+    },
+    "es": {
+      "q": "En Arizona, usted maneja solo en un carril HOV (de vehículos compartidos) en las horas en que es solo para dos o más personas. ¿Cuál es la multa civil?",
+      "o": [
+        "$20",
+        "$200",
+        "$2,000",
+        "No hay multa, solo una advertencia"
+      ],
+      "h1": "Es más de $100 pero menos de $500.",
+      "h2": "En Arizona, manejar solo en un carril HOV mientras es solo para dos o más personas trae una multa civil de $200.",
+      "p": "Correcto. $200."
+    }
+  },
+  {
+    "id": "az-102",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00876.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, you park a gas-powered car in a space marked only for charging electric vehicles. What is the lowest civil penalty?",
+      "o": [
+        "$15",
+        "$35",
+        "$100",
+        "$350"
+      ],
+      "h1": "It is a few hundred dollars.",
+      "h2": "In Arizona, parking a vehicle that is not an electric vehicle with the special plate or sticker in a space reserved for charging electric vehicles brings a civil penalty of at least $350.",
+      "p": "Right. At least $350."
+    },
+    "es": {
+      "q": "En Arizona, usted estaciona un auto de gasolina en un espacio marcado solo para cargar vehículos eléctricos. ¿Cuál es la multa civil mínima?",
+      "o": [
+        "$15",
+        "$35",
+        "$100",
+        "$350"
+      ],
+      "h1": "Son unos cientos de dólares.",
+      "h2": "En Arizona, estacionar en un espacio reservado para cargar vehículos eléctricos un vehículo que no es eléctrico con la placa o calcomanía especial trae una multa civil de al menos $350.",
+      "p": "Correcto. Al menos $350."
+    }
+  },
+  {
+    "id": "az-103",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00894.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, you are driving on a narrow mountain road or through a canyon. Where should you keep your vehicle?",
+      "o": [
+        "In the middle of the road",
+        "As far left as you can",
+        "As near the right edge as is reasonably possible",
+        "On the shoulder at all times"
+      ],
+      "h1": "Think about cars coming around a blind curve toward you.",
+      "h2": "In Arizona, on mountain highways and in canyons, you must keep your vehicle under control and as near the right edge of the road as is reasonably possible.",
+      "p": "Right. Keep under control and near the right edge."
+    },
+    "es": {
+      "q": "En Arizona, usted maneja por una carretera de montaña angosta o por un cañón. ¿Dónde debe mantener su vehículo?",
+      "o": [
+        "En el centro de la carretera",
+        "Lo más a la izquierda posible",
+        "Lo más cerca posible del borde derecho, de forma razonable",
+        "En el acotamiento todo el tiempo"
+      ],
+      "h1": "Piense en los autos que vienen hacia usted en una curva cerrada.",
+      "h2": "En Arizona, en carreteras de montaña y en cañones, usted debe mantener el control del vehículo y manejar lo más cerca posible del borde derecho, de forma razonable.",
+      "p": "Correcto. Con control y cerca del borde derecho."
+    }
+  },
+  {
+    "id": "az-104",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03473.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, a person drives on a public road while their license is suspended. What kind of offense is it?",
+      "o": [
+        "A class 1 misdemeanor (a crime)",
+        "A small civil ticket",
+        "No offense if the trip is short",
+        "Only a written warning"
+      ],
+      "h1": "It is more serious than a regular traffic ticket.",
+      "h2": "In Arizona, driving while your license is suspended, revoked or canceled is a class 1 misdemeanor, which is a crime.",
+      "p": "Right. It is a class 1 misdemeanor."
+    },
+    "es": {
+      "q": "En Arizona, una persona maneja en una vía pública mientras su licencia está suspendida. ¿Qué tipo de infracción es?",
+      "o": [
+        "Un delito menor de clase 1 (un delito)",
+        "Una pequeña multa civil",
+        "Ninguna, si el viaje es corto",
+        "Solo una advertencia por escrito"
+      ],
+      "h1": "Es más grave que una multa de tránsito común.",
+      "h2": "En Arizona, manejar con la licencia suspendida, revocada o cancelada es un delito menor de clase 1, es decir, un delito.",
+      "p": "Correcto. Es un delito menor de clase 1."
+    }
+  },
+  {
+    "id": "az-105",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03478.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, your friend asks to borrow your driver license. What does the law say?",
+      "o": [
+        "It is fine for one day",
+        "It is fine if your friend is over 21",
+        "It is fine if you are in the car",
+        "Lending it is a crime (class 2 misdemeanor)"
+      ],
+      "h1": "A license is only for the person it was issued to.",
+      "h2": "In Arizona, lending your driver license to another person, or letting someone else use it, is a class 2 misdemeanor.",
+      "p": "Right. Never lend your license."
+    },
+    "es": {
+      "q": "En Arizona, un amigo le pide prestada su licencia de manejo. ¿Qué dice la ley?",
+      "o": [
+        "Está bien por un día",
+        "Está bien si su amigo tiene más de 21 años",
+        "Está bien si usted va en el auto",
+        "Prestarla es un delito (delito menor de clase 2)"
+      ],
+      "h1": "La licencia es solo para la persona a quien se la dieron.",
+      "h2": "En Arizona, prestar su licencia de manejo a otra persona, o dejar que otra persona la use, es un delito menor de clase 2.",
+      "p": "Correcto. Nunca preste su licencia."
+    }
+  },
+  {
+    "id": "az-106",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03309.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, a 19-year-old is convicted for the first time of using a fake ID to buy alcohol. For up to how long can the license be suspended?",
+      "o": [
+        "1 week",
+        "6 months",
+        "5 years",
+        "For life"
+      ],
+      "h1": "It is half a year.",
+      "h2": "In Arizona, a person under 21 convicted of using a false license for alcohol has the license suspended for up to six months for a first conviction, and up to 12 months after that.",
+      "p": "Right. Up to 6 months the first time."
+    },
+    "es": {
+      "q": "En Arizona, una persona de 19 años es condenada por primera vez por usar una identificación falsa para comprar alcohol. ¿Hasta por cuánto tiempo se le puede suspender la licencia?",
+      "o": [
+        "1 semana",
+        "6 meses",
+        "5 años",
+        "De por vida"
+      ],
+      "h1": "Es medio año.",
+      "h2": "En Arizona, a una persona menor de 21 años condenada por usar una licencia falsa para obtener alcohol se le suspende la licencia hasta seis meses la primera vez, y hasta 12 meses después.",
+      "p": "Correcto. Hasta 6 meses la primera vez."
+    }
+  },
+  {
+    "id": "az-107",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03308.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, a driver gets a criminal traffic complaint and does not go to the court date. What does the MVD do?",
+      "o": [
+        "Adds one point only",
+        "Nothing at all",
+        "Suspends the license until the person appears",
+        "Takes the car away for good"
+      ],
+      "h1": "The suspension lasts until the person does what was missed.",
+      "h2": "In Arizona, when the court reports that a person failed to appear for a court date on a criminal traffic complaint, the MVD suspends the license until the person appears.",
+      "p": "Right. Suspended until the person appears in court."
+    },
+    "es": {
+      "q": "En Arizona, un conductor recibe una denuncia penal de tránsito y no se presenta a la fecha en el tribunal. ¿Qué hace la MVD?",
+      "o": [
+        "Solo agrega un punto",
+        "Nada",
+        "Suspende la licencia hasta que la persona se presente",
+        "Le quita el auto para siempre"
+      ],
+      "h1": "La suspensión dura hasta que la persona haga lo que no hizo.",
+      "h2": "En Arizona, cuando el tribunal informa que una persona no se presentó a una fecha de corte por una denuncia penal de tránsito, la MVD suspende la licencia hasta que la persona se presente.",
+      "p": "Correcto. Suspendida hasta que se presente."
+    }
+  },
+  {
+    "id": "az-108",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03165.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, who can get an identification card from the MVD (an ID that does not allow driving) with no fee?",
+      "o": [
+        "A person 65 or older",
+        "Anyone under 30",
+        "Any new resident",
+        "A person who owns a car"
+      ],
+      "h1": "It is based on age, for older people.",
+      "h2": "In Arizona, the fee for a nonoperating identification license does not apply to a person who is 65 or older, among a few other groups.",
+      "p": "Right. No fee at 65 or older."
+    },
+    "es": {
+      "q": "En Arizona, ¿quién puede obtener de la MVD una tarjeta de identificación (que no permite manejar) sin pagar?",
+      "o": [
+        "Una persona de 65 años o más",
+        "Cualquiera menor de 30 años",
+        "Cualquier residente nuevo",
+        "Una persona que tiene auto"
+      ],
+      "h1": "Depende de la edad, para personas mayores.",
+      "h2": "En Arizona, la tarifa de la tarjeta de identificación que no permite manejar no se cobra a las personas de 65 años o más, entre otros pocos grupos.",
+      "p": "Correcto. Sin costo a los 65 años o más."
+    }
+  },
+  {
+    "id": "az-109",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03171.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, after a driver's 60th birthday, a regular driver license is renewed for periods of how long?",
+      "o": [
+        "1 year",
+        "2 years",
+        "10 years",
+        "5 years"
+      ],
+      "h1": "It is half of ten.",
+      "h2": "In Arizona, after the 60th birthday, a driver license is renewed for periods of five years.",
+      "p": "Right. Five years at a time."
+    },
+    "es": {
+      "q": "En Arizona, después de que un conductor cumple 60 años, ¿por cuánto tiempo se renueva cada vez la licencia de manejo común?",
+      "o": [
+        "1 año",
+        "2 años",
+        "10 años",
+        "5 años"
+      ],
+      "h1": "Es la mitad de diez.",
+      "h2": "En Arizona, después de cumplir 60 años, la licencia de manejo se renueva por periodos de cinco años.",
+      "p": "Correcto. Cinco años cada vez."
+    }
+  },
+  {
+    "id": "az-110",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03171.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, a veteran's driver license expired while the veteran was in the military. How long after discharge does the veteran have before renewing?",
+      "o": [
+        "10 days",
+        "6 months",
+        "5 years",
+        "There is no extra time"
+      ],
+      "h1": "It is half a year.",
+      "h2": "In Arizona, a veteran whose license expires does not have to renew it until six months after the date of discharge from military service.",
+      "p": "Right. Six months after discharge."
+    },
+    "es": {
+      "q": "En Arizona, la licencia de un veterano venció mientras estaba en el ejército. ¿Cuánto tiempo tiene después de su baja para renovarla?",
+      "o": [
+        "10 días",
+        "6 meses",
+        "5 años",
+        "No hay tiempo extra"
+      ],
+      "h1": "Es medio año.",
+      "h2": "En Arizona, un veterano cuya licencia vence no tiene que renovarla hasta seis meses después de la fecha de su baja del servicio militar.",
+      "p": "Correcto. Seis meses después de la baja."
+    }
+  },
+  {
+    "id": "az-111",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03166.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, you receive a new driver license that has a space for your signature. When is the license valid?",
+      "o": [
+        "Only after 30 days",
+        "Only after you pay a second fee",
+        "Only after you sign it",
+        "Only after a police officer signs it"
+      ],
+      "h1": "You must do one simple thing to it yourself.",
+      "h2": "In Arizona, a driver license is not valid until the licensee signs it.",
+      "p": "Right. It is valid once you sign it."
+    },
+    "es": {
+      "q": "En Arizona, usted recibe una licencia de manejo nueva que tiene un espacio para su firma. ¿Cuándo es válida la licencia?",
+      "o": [
+        "Solo después de 30 días",
+        "Solo después de pagar una segunda tarifa",
+        "Solo después de que usted la firme",
+        "Solo después de que la firme un policía"
+      ],
+      "h1": "Usted mismo debe hacerle algo sencillo.",
+      "h2": "En Arizona, la licencia de manejo no es válida hasta que la persona la firma.",
+      "p": "Correcto. Es válida cuando usted la firma."
+    }
+  },
+  {
+    "id": "az-112",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03166.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, what is shown on the driver license of a person under 21, besides a special color or design?",
+      "o": [
+        "The year the person turns 21",
+        "The person's school grades",
+        "The parent's phone number",
+        "The number of hours driven"
+      ],
+      "h1": "It helps a store clerk check the drinking age quickly.",
+      "h2": "In Arizona, a license for a person under the legal drinking age is marked by color, code or design and shows the year the person will reach the legal drinking age of 21.",
+      "p": "Right. It shows the year the person turns 21."
+    },
+    "es": {
+      "q": "En Arizona, ¿qué aparece en la licencia de una persona menor de 21 años, además de un color o diseño especial?",
+      "o": [
+        "El año en que la persona cumple 21",
+        "Las calificaciones escolares",
+        "El teléfono de los padres",
+        "Las horas que ha manejado"
+      ],
+      "h1": "Ayuda al empleado de una tienda a revisar la edad para beber.",
+      "h2": "En Arizona, la licencia de una persona menor de la edad legal para beber tiene un color, código o diseño especial y muestra el año en que cumplirá 21 años, la edad legal para beber.",
+      "p": "Correcto. Muestra el año en que cumple 21."
+    }
+  },
+  {
+    "id": "az-113",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03173.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, the MVD will tell you to update your license photo if it has not been updated in how many years?",
+      "o": [
+        "2 years",
+        "4 years",
+        "8 years",
+        "16 years"
+      ],
+      "h1": "It is a long time, more than ten years.",
+      "h2": "In Arizona, the MVD must send written notice for a licensee to update the license photo if it has not been updated in the past 16 years.",
+      "p": "Right. Every 16 years at most."
+    },
+    "es": {
+      "q": "En Arizona, la MVD le pedirá actualizar la foto de su licencia si no se ha actualizado en ¿cuántos años?",
+      "o": [
+        "2 años",
+        "4 años",
+        "8 años",
+        "16 años"
+      ],
+      "h1": "Es mucho tiempo, más de diez años.",
+      "h2": "En Arizona, la MVD debe enviar un aviso por escrito para que la persona actualice la foto de su licencia si no se ha actualizado en los últimos 16 años.",
+      "p": "Correcto. Cada 16 años como máximo."
+    }
+  },
+  {
+    "id": "az-114",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03169.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, you are stopped and cited because you left your license at home. How can you get the citation cleared?",
+      "o": [
+        "Pay double the fine",
+        "Show the court a license that was valid at that time",
+        "Take the written test again",
+        "Nothing can clear it"
+      ],
+      "h1": "The law gives a defense if you really had a license.",
+      "h2": "In Arizona, you must carry your license while driving, but if you are cited for not having it, you are not responsible if you show the court or officer's office a legible license that was valid at the time.",
+      "p": "Right. Show a license that was valid then."
+    },
+    "es": {
+      "q": "En Arizona, lo detienen y le dan una citación porque dejó su licencia en casa. ¿Cómo puede anular la citación?",
+      "o": [
+        "Pagando el doble de la multa",
+        "Mostrando al tribunal una licencia válida en ese momento",
+        "Tomando otra vez el examen escrito",
+        "No hay forma de anularla"
+      ],
+      "h1": "La ley da una defensa si de verdad tenía licencia.",
+      "h2": "En Arizona, usted debe llevar su licencia cuando maneja, pero si le dan una citación por no tenerla, no es responsable si muestra al tribunal o a la oficina del policía una licencia legible que era válida en ese momento.",
+      "p": "Correcto. Muestre una licencia que era válida entonces."
+    }
+  },
+  {
+    "id": "az-115",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03160.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, a 15-and-a-half-year-old lives with both parents, who are married to each other. Who must sign the teen's permit application?",
+      "o": [
+        "Both parents and a teacher",
+        "Only a police officer",
+        "Either the father or the mother",
+        "No adult signature is needed"
+      ],
+      "h1": "With married parents who both have custody, one signature is enough.",
+      "h2": "In Arizona, when both parents are living, married to each other and have custody, either the father or the mother signs the minor's permit or license application.",
+      "p": "Right. Either parent may sign."
+    },
+    "es": {
+      "q": "En Arizona, un joven de 15 años y medio vive con sus dos padres, que están casados. ¿Quién debe firmar la solicitud de permiso del joven?",
+      "o": [
+        "Los dos padres y un maestro",
+        "Solo un policía",
+        "El padre o la madre, cualquiera de los dos",
+        "No se necesita la firma de un adulto"
+      ],
+      "h1": "Si los padres están casados y ambos tienen la custodia, basta una firma.",
+      "h2": "En Arizona, cuando los dos padres viven, están casados entre sí y tienen la custodia, el padre o la madre firma la solicitud de permiso o licencia del menor.",
+      "p": "Correcto. Puede firmar cualquiera de los padres."
+    }
+  },
+  {
+    "id": "az-116",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03474.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, a parent knowingly lets their 14-year-old, who has no permit, drive on a public road. What is this for the parent?",
+      "o": [
+        "A crime (class 2 misdemeanor)",
+        "Legal, if the parent rides along",
+        "Legal, on roads under 35 mph",
+        "Only the child gets a ticket"
+      ],
+      "h1": "The parent is responsible too.",
+      "h2": "In Arizona, a person who knowingly lets a child or anyone under 18 drive on a highway without authorization is guilty of a class 2 misdemeanor.",
+      "p": "Right. It is a crime for the parent."
+    },
+    "es": {
+      "q": "En Arizona, un padre deja a sabiendas que su hijo de 14 años, que no tiene permiso, maneje en una vía pública. ¿Qué es esto para el padre?",
+      "o": [
+        "Un delito (delito menor de clase 2)",
+        "Es legal si el padre va con él",
+        "Es legal en calles de menos de 35 mph",
+        "Solo el hijo recibe una multa"
+      ],
+      "h1": "El padre también es responsable.",
+      "h2": "En Arizona, una persona que a sabiendas deja que un hijo o cualquier menor de 18 años maneje en una vía pública sin autorización comete un delito menor de clase 2.",
+      "p": "Correcto. Es un delito para el padre."
+    }
+  },
+  {
+    "id": "az-117",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03480.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, your license says you must wear glasses, but you drive without them. What kind of violation is this?",
+      "o": [
+        "A felony",
+        "A class 1 misdemeanor",
+        "No violation at all",
+        "A civil traffic violation"
+      ],
+      "h1": "This restriction is treated more lightly than other license restrictions.",
+      "h2": "In Arizona, breaking most license restrictions is a class 2 misdemeanor, but breaking the restriction to wear corrective lenses is a civil traffic violation.",
+      "p": "Right. It is a civil traffic violation."
+    },
+    "es": {
+      "q": "En Arizona, su licencia dice que debe usar lentes, pero usted maneja sin ellos. ¿Qué tipo de infracción es?",
+      "o": [
+        "Un delito grave",
+        "Un delito menor de clase 1",
+        "No es ninguna infracción",
+        "Una infracción civil de tránsito"
+      ],
+      "h1": "Esta restricción se trata con menos dureza que otras restricciones de la licencia.",
+      "h2": "En Arizona, no cumplir la mayoría de las restricciones de la licencia es un delito menor de clase 2, pero no cumplir la restricción de usar lentes correctivos es una infracción civil de tránsito.",
+      "p": "Correcto. Es una infracción civil de tránsito."
+    }
+  },
+  {
+    "id": "az-118",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03320.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, a 16-year-old is convicted of stealing a car. How long is the driving privilege suspended?",
+      "o": [
+        "30 days",
+        "90 days",
+        "Until the 18th birthday",
+        "Until the 25th birthday"
+      ],
+      "h1": "It lasts until the teen becomes an adult.",
+      "h2": "In Arizona, a person under 18 convicted of motor vehicle theft has the driving privilege suspended, or a license refused, until the 18th birthday.",
+      "p": "Right. Until the 18th birthday."
+    },
+    "es": {
+      "q": "En Arizona, un joven de 16 años es condenado por robar un auto. ¿Por cuánto tiempo se suspende su privilegio de manejar?",
+      "o": [
+        "30 días",
+        "90 días",
+        "Hasta que cumpla 18 años",
+        "Hasta que cumpla 25 años"
+      ],
+      "h1": "Dura hasta que el joven sea adulto.",
+      "h2": "En Arizona, a una persona menor de 18 años condenada por robo de vehículo se le suspende el privilegio de manejar, o se le niega la licencia, hasta que cumpla 18 años.",
+      "p": "Correcto. Hasta los 18 años."
+    }
+  },
+  {
+    "id": "az-119",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03320.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, a 17-year-old is convicted of aggravated DUI. How long does the MVD suspend the driving privilege?",
+      "o": [
+        "3 years",
+        "6 months",
+        "1 year",
+        "10 days"
+      ],
+      "h1": "It is longer than the 2 years for a regular underage DUI.",
+      "h2": "In Arizona, a person under 18 convicted of aggravated DUI has the driving privilege suspended for three years.",
+      "p": "Right. Three years."
+    },
+    "es": {
+      "q": "En Arizona, un joven de 17 años es condenado por DUI agravado. ¿Por cuánto tiempo suspende la MVD su privilegio de manejar?",
+      "o": [
+        "3 años",
+        "6 meses",
+        "1 año",
+        "10 días"
+      ],
+      "h1": "Es más que los 2 años de un DUI común de un menor.",
+      "h2": "En Arizona, a una persona menor de 18 años condenada por DUI agravado se le suspende el privilegio de manejar por tres años.",
+      "p": "Correcto. Tres años."
+    }
+  },
+  {
+    "id": "az-120",
+    "scope": "AZ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00672.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, a driver fails to yield and causes a crash that seriously injures another person. What kind of offense can this be?",
+      "o": [
+        "Only a parking ticket",
+        "A class 1 misdemeanor (a crime)",
+        "No offense if it was an accident",
+        "Only a written warning"
+      ],
+      "h1": "When a moving violation causes serious harm, it becomes more than a ticket.",
+      "h2": "In Arizona, causing serious physical injury or death by certain moving violations, such as failing to yield, is a class 1 misdemeanor, with Traffic Survival School and a license suspension.",
+      "p": "Right. It is a class 1 misdemeanor."
+    },
+    "es": {
+      "q": "En Arizona, un conductor no cede el paso y causa un choque que hiere gravemente a otra persona. ¿Qué tipo de infracción puede ser?",
+      "o": [
+        "Solo una multa de estacionamiento",
+        "Un delito menor de clase 1 (un delito)",
+        "Ninguna, si fue un accidente",
+        "Solo una advertencia por escrito"
+      ],
+      "h1": "Cuando una infracción de manejo causa un daño grave, es más que una multa.",
+      "h2": "En Arizona, causar lesiones graves o la muerte por ciertas infracciones de manejo, como no ceder el paso, es un delito menor de clase 1, con la escuela Traffic Survival School y suspensión de la licencia.",
+      "p": "Correcto. Es un delito menor de clase 1."
+    }
+  },
+  {
+    "id": "az-121",
+    "scope": "AZ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00797.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, you reach a school crossing with the school's portable signs out. A person is in the crosswalk. What must you do?",
+      "o": [
+        "Slow to 25 mph and go around",
+        "Honk and keep going",
+        "Go if the person is on the far side",
+        "Come to a complete stop"
+      ],
+      "h1": "Slowing down is not enough here.",
+      "h2": "In Arizona, when the school's portable signs are out at a school crossing, every vehicle must come to a complete stop while a person is in the crosswalk.",
+      "p": "Right. Stop completely while anyone is in the crosswalk."
+    },
+    "es": {
+      "q": "En Arizona, usted llega a un cruce escolar con los letreros portátiles de la escuela puestos. Hay una persona en el cruce peatonal. ¿Qué debe hacer?",
+      "o": [
+        "Bajar a 25 mph y rodearla",
+        "Tocar la bocina y seguir",
+        "Seguir si la persona está del otro lado",
+        "Detenerse por completo"
+      ],
+      "h1": "Aquí no basta con bajar la velocidad.",
+      "h2": "En Arizona, cuando los letreros portátiles de la escuela están puestos en un cruce escolar, todos los vehículos deben detenerse por completo mientras haya una persona en el cruce peatonal.",
+      "p": "Correcto. Deténgase por completo mientras haya alguien en el cruce."
+    }
+  },
+  {
+    "id": "az-122",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00797.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, at a school crossing the signs say the penalty will double. You speed through it. What do you pay?",
+      "o": [
+        "The fine plus an equal extra amount",
+        "Only half the fine",
+        "Only the normal fine",
+        "Nothing if no child is there"
+      ],
+      "h1": "The sign tells you how the penalty changes.",
+      "h2": "In Arizona, at a school crossing posted with signs saying the penalty doubles, a violator pays the civil penalty plus an extra assessment equal to it.",
+      "p": "Right. The penalty is doubled."
+    },
+    "es": {
+      "q": "En Arizona, en un cruce escolar los letreros dicen que la multa será doble. Usted pasa con exceso de velocidad. ¿Qué paga?",
+      "o": [
+        "La multa más una cantidad extra igual",
+        "Solo la mitad de la multa",
+        "Solo la multa normal",
+        "Nada si no hay niños"
+      ],
+      "h1": "El letrero le dice cómo cambia la multa.",
+      "h2": "En Arizona, en un cruce escolar con letreros que dicen que la multa es doble, el infractor paga la multa civil más un cargo extra igual a ella.",
+      "p": "Correcto. La multa se duplica."
+    }
+  },
+  {
+    "id": "az-123",
+    "scope": "AZ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00793.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, a person on foot wants to cross a street between two intersections that both have working traffic signals. Where may they cross?",
+      "o": [
+        "Anywhere, if no car is near",
+        "Only by running",
+        "Only in a marked crosswalk",
+        "Anywhere in the middle of the block"
+      ],
+      "h1": "Between two signals, there is only one legal place.",
+      "h2": "In Arizona, between two nearby intersections with working traffic signals, pedestrians may cross only in a marked crosswalk.",
+      "p": "Right. Only in a marked crosswalk."
+    },
+    "es": {
+      "q": "En Arizona, una persona a pie quiere cruzar una calle entre dos intersecciones que tienen semáforos funcionando. ¿Por dónde puede cruzar?",
+      "o": [
+        "Por cualquier lugar si no hay autos cerca",
+        "Solo corriendo",
+        "Solo por un cruce peatonal marcado",
+        "Por cualquier lugar a mitad de cuadra"
+      ],
+      "h1": "Entre dos semáforos hay un solo lugar legal.",
+      "h2": "En Arizona, entre dos intersecciones cercanas con semáforos funcionando, los peatones solo pueden cruzar por un cruce peatonal marcado.",
+      "p": "Correcto. Solo por un cruce peatonal marcado."
+    }
+  },
+  {
+    "id": "az-124",
+    "scope": "AZ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00812.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, you get a civil traffic ticket while riding a bicycle. Can it be used against your driver license or car insurance?",
+      "o": [
+        "Yes, it adds points to your license",
+        "No, it cannot be used for either",
+        "Yes, it doubles your insurance",
+        "Only if you are over 18"
+      ],
+      "h1": "The law keeps bicycle tickets separate from driving.",
+      "h2": "In Arizona, a civil traffic violation while riding a bicycle may not be used to suspend or revoke a driver license, and an insurer may not count it against your car insurance.",
+      "p": "Right. It does not count against your license or insurance."
+    },
+    "es": {
+      "q": "En Arizona, usted recibe una multa civil de tránsito mientras anda en bicicleta. ¿Se puede usar contra su licencia de manejo o su seguro de auto?",
+      "o": [
+        "Sí, agrega puntos a su licencia",
+        "No, no se puede usar para ninguno de los dos",
+        "Sí, duplica su seguro",
+        "Solo si tiene más de 18 años"
+      ],
+      "h1": "La ley mantiene las multas en bicicleta separadas del manejo.",
+      "h2": "En Arizona, una infracción civil de tránsito en bicicleta no se puede usar para suspender o revocar una licencia de manejo, y la aseguradora no puede contarla contra su seguro de auto.",
+      "p": "Correcto. No cuenta contra su licencia ni su seguro."
+    }
+  },
+  {
+    "id": "az-125",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00872.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, your car breaks down on a freeway outside any city and you leave it. After how long may police have it towed?",
+      "o": [
+        "After 15 minutes",
+        "After 30 minutes",
+        "After 7 days",
+        "After more than 4 hours"
+      ],
+      "h1": "Inside a city the time is 2 hours; outside, it is longer.",
+      "h2": "In Arizona, police may tow a vehicle left unattended on a freeway for more than four hours, or more than two hours inside a city.",
+      "p": "Right. More than 4 hours outside a city."
+    },
+    "es": {
+      "q": "En Arizona, su auto se descompone en una autopista fuera de cualquier ciudad y usted lo deja. ¿Después de cuánto tiempo la policía puede mandar remolcarlo?",
+      "o": [
+        "Después de 15 minutos",
+        "Después de 30 minutos",
+        "Después de 7 días",
+        "Después de más de 4 horas"
+      ],
+      "h1": "Dentro de una ciudad son 2 horas; fuera, es más.",
+      "h2": "En Arizona, la policía puede remolcar un vehículo dejado solo en una autopista por más de cuatro horas, o por más de dos horas dentro de una ciudad.",
+      "p": "Correcto. Más de 4 horas fuera de una ciudad."
+    }
+  },
+  {
+    "id": "az-126",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00927.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, a police officer sees that your brake light is broken. It is your first time. What can the officer do?",
+      "o": [
+        "Give you a $500 fine",
+        "Take your license",
+        "Give only a warning or a notice to repair",
+        "Tow your car at once"
+      ],
+      "h1": "The first time is not a ticket.",
+      "h2": "In Arizona, a first violation for a missing or broken stop lamp is not a civil traffic violation; the officer may give a verbal or written warning or a notice to repair.",
+      "p": "Right. Only a warning or repair notice the first time."
+    },
+    "es": {
+      "q": "En Arizona, un policía ve que su luz de freno está rota. Es la primera vez. ¿Qué puede hacer el policía?",
+      "o": [
+        "Ponerle una multa de $500",
+        "Quitarle la licencia",
+        "Darle solo una advertencia o un aviso de reparación",
+        "Remolcar su auto enseguida"
+      ],
+      "h1": "La primera vez no es una multa.",
+      "h2": "En Arizona, la primera infracción por una luz de freno que falta o no funciona no es una infracción civil de tránsito; el policía puede darle una advertencia verbal o por escrito o un aviso de reparación.",
+      "p": "Correcto. Solo una advertencia o aviso de reparación la primera vez."
+    }
+  },
+  {
+    "id": "az-127",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00964.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, who must wear a helmet on a motorcycle?",
+      "o": [
+        "Riders and passengers under 18",
+        "Only riders over 65",
+        "Every rider of any age",
+        "No one; helmets are never required"
+      ],
+      "h1": "The law is about age.",
+      "h2": "In Arizona, a motorcycle operator or passenger who is under 18 must always wear a protective helmet.",
+      "p": "Right. Everyone under 18 must wear a helmet."
+    },
+    "es": {
+      "q": "En Arizona, ¿quién debe usar casco en una motocicleta?",
+      "o": [
+        "Conductores y pasajeros menores de 18 años",
+        "Solo conductores mayores de 65 años",
+        "Todos los conductores de cualquier edad",
+        "Nadie; el casco nunca es obligatorio"
+      ],
+      "h1": "La ley depende de la edad.",
+      "h2": "En Arizona, el conductor o pasajero de una motocicleta menor de 18 años siempre debe usar un casco protector.",
+      "p": "Correcto. Todos los menores de 18 años deben usar casco."
+    }
+  },
+  {
+    "id": "az-128",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00964.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, a motorcycle has no windshield. What must the rider wear?",
+      "o": [
+        "A reflective vest",
+        "Leather gloves",
+        "Boots above the ankle",
+        "Glasses, goggles or a clear face shield"
+      ],
+      "h1": "It protects the rider's eyes.",
+      "h2": "In Arizona, a motorcycle operator must always wear approved protective glasses, goggles or a clear face shield unless the motorcycle has a protective windshield.",
+      "p": "Right. Eye protection is required without a windshield."
+    },
+    "es": {
+      "q": "En Arizona, una motocicleta no tiene parabrisas. ¿Qué debe usar el conductor?",
+      "o": [
+        "Un chaleco reflectante",
+        "Guantes de cuero",
+        "Botas por encima del tobillo",
+        "Lentes, gafas protectoras o una careta transparente"
+      ],
+      "h1": "Protege los ojos del conductor.",
+      "h2": "En Arizona, el conductor de una motocicleta siempre debe usar lentes protectores aprobados, gafas o una careta transparente, a menos que la motocicleta tenga un parabrisas protector.",
+      "p": "Correcto. Sin parabrisas, se requiere protección para los ojos."
+    }
+  },
+  {
+    "id": "az-129",
+    "scope": "AZ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00775.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, fire trucks have stopped on a street to answer a fire alarm. Where may you NOT drive into or park?",
+      "o": [
+        "Any street in the same city",
+        "The block where the fire trucks stopped",
+        "Any road within 5 miles",
+        "Only the sidewalk next to them"
+      ],
+      "h1": "The area is small but close to the trucks.",
+      "h2": "In Arizona, unless you are on official business, you may not drive into or park within the block where fire apparatus has stopped to answer a fire alarm.",
+      "p": "Right. Stay out of that block."
+    },
+    "es": {
+      "q": "En Arizona, unos camiones de bomberos se detuvieron en una calle para atender una alarma de incendio. ¿Dónde NO puede entrar con su auto ni estacionarse?",
+      "o": [
+        "En ninguna calle de la misma ciudad",
+        "En la cuadra donde se detuvieron los camiones",
+        "En ninguna vía a 5 millas",
+        "Solo en la acera junto a ellos"
+      ],
+      "h1": "La zona es pequeña, pero cerca de los camiones.",
+      "h2": "En Arizona, a menos que esté en asuntos oficiales, usted no puede entrar con su vehículo ni estacionarse en la cuadra donde se detuvieron los bomberos para atender una alarma de incendio.",
+      "p": "Correcto. No entre en esa cuadra."
+    }
+  },
+  {
+    "id": "az-130",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/01381.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, at what alcohol level is a taxi or rideshare driver who is working guilty of DUI?",
+      "o": [
+        "0.15 or more",
+        "0.10 or more",
+        "0.04 or more",
+        "0.08 or more"
+      ],
+      "h1": "It is half of the limit for most adult drivers.",
+      "h2": "In Arizona, a person driving a vehicle for hire or giving rides as a rideshare driver commits DUI with an alcohol level of 0.04 or more.",
+      "p": "Right. 0.04 for taxi and rideshare drivers."
+    },
+    "es": {
+      "q": "En Arizona, ¿con qué nivel de alcohol comete DUI un conductor de taxi o de viajes compartidos que está trabajando?",
+      "o": [
+        "0.15 o más",
+        "0.10 o más",
+        "0.04 o más",
+        "0.08 o más"
+      ],
+      "h1": "Es la mitad del límite para la mayoría de los adultos.",
+      "h2": "En Arizona, una persona que maneja un vehículo de alquiler con chofer o lleva pasajeros como conductor de viajes compartidos comete DUI con un nivel de alcohol de 0.04 o más.",
+      "p": "Correcto. 0.04 para conductores de taxi y viajes compartidos."
+    }
+  },
+  {
+    "id": "az-131",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/01385.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, after a DUI arrest, the MVD sends the driver a notice of license suspension. How long does the driver have to ask for a hearing?",
+      "o": [
+        "30 days",
+        "24 hours",
+        "1 year",
+        "There is no hearing"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In Arizona, the MVD must receive a request for a hearing or summary review within 30 days after the date of the notice, or the suspension becomes final.",
+      "p": "Right. Ask within 30 days."
+    },
+    "es": {
+      "q": "En Arizona, después de un arresto por DUI, la MVD le envía al conductor un aviso de suspensión de la licencia. ¿Cuánto tiempo tiene para pedir una audiencia?",
+      "o": [
+        "30 días",
+        "24 horas",
+        "1 año",
+        "No hay audiencia"
+      ],
+      "h1": "Es como un mes.",
+      "h2": "En Arizona, la MVD debe recibir la solicitud de audiencia o de revisión sumaria dentro de los 30 días después de la fecha del aviso; si no, la suspensión queda firme.",
+      "p": "Correcto. Pídala dentro de 30 días."
+    }
+  },
+  {
+    "id": "az-132",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03152.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, a 17-year-old visitor from another state has a valid license from their home state. May they drive a car in Arizona?",
+      "o": [
+        "No, they need an Arizona license first",
+        "Only with a parent in the car",
+        "Only after 30 days",
+        "Yes, if they carry their home-state license"
+      ],
+      "h1": "Visitors 16 and older are covered by their home license.",
+      "h2": "In Arizona, a nonresident who is at least 16 and has a valid license from their home state with them may drive a vehicle that needs a class D license.",
+      "p": "Right. A valid home-state license works for visitors."
+    },
+    "es": {
+      "q": "En Arizona, un visitante de 17 años de otro estado tiene una licencia válida de su estado. ¿Puede manejar un auto en Arizona?",
+      "o": [
+        "No, primero necesita una licencia de Arizona",
+        "Solo con uno de sus padres en el auto",
+        "Solo después de 30 días",
+        "Sí, si lleva la licencia de su estado"
+      ],
+      "h1": "Los visitantes de 16 años o más están cubiertos por la licencia de su estado.",
+      "h2": "En Arizona, una persona no residente de al menos 16 años que lleva una licencia válida de su estado puede manejar un vehículo que requiere licencia clase D.",
+      "p": "Correcto. Una licencia válida de su estado sirve para visitantes."
+    }
+  },
+  {
+    "id": "az-133",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00963.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, while your car is moving, may you watch a video on your phone?",
+      "o": [
+        "Yes, if the phone is in a holder",
+        "No, only navigation or driving information is allowed",
+        "Yes, on the freeway only",
+        "Yes, if the sound is off"
+      ],
+      "h1": "Maps are allowed; movies are not.",
+      "h2": "In Arizona, while the vehicle is moving, a driver may not watch a video or movie on a phone or other device, except data for navigation or driving the vehicle.",
+      "p": "Right. No videos while moving."
+    },
+    "es": {
+      "q": "En Arizona, mientras su auto está en movimiento, ¿puede ver un video en su teléfono?",
+      "o": [
+        "Sí, si el teléfono está en un soporte",
+        "No, solo se permite información de navegación o del manejo",
+        "Sí, solo en la autopista",
+        "Sí, si el sonido está apagado"
+      ],
+      "h1": "Los mapas sí; las películas no.",
+      "h2": "En Arizona, mientras el vehículo está en movimiento, el conductor no puede ver un video o película en un teléfono u otro aparato, salvo datos de navegación o del manejo del vehículo.",
+      "p": "Correcto. Nada de videos mientras maneja."
+    }
   }
 ]
