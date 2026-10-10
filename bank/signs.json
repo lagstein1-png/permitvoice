@@ -4832,7 +4832,10 @@
     "conf": "high",
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 2B.23, https://mutcd.fhwa.dot.gov/",
-    "sign": null,
+    "sign": {
+      "shape": "rect-black",
+      "text": "NIGHT"
+    },
     "c": 2,
     "en": {
       "q": "Under a speed limit sign, a black plaque says NIGHT with a lower speed. When does that lower speed apply?",
@@ -6556,7 +6559,10 @@
     "conf": "high",
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 2D.13, https://mutcd.fhwa.dot.gov/",
-    "sign": null,
+    "sign": {
+      "shape": "rect-white",
+      "text": "JCT"
+    },
     "c": 1,
     "en": {
       "q": "A small plaque that says JCT is above a route sign. What does it mean?",
@@ -6627,7 +6633,10 @@
     "conf": "high",
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 2E.28, https://mutcd.fhwa.dot.gov/",
-    "sign": null,
+    "sign": {
+      "shape": "rect-yellow",
+      "text": "EXIT ONLY"
+    },
     "c": 3,
     "en": {
       "q": "On a green freeway sign, a yellow panel that says EXIT ONLY is above your lane. What does it mean?",
@@ -6661,7 +6670,10 @@
     "conf": "high",
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 2E.25, https://mutcd.fhwa.dot.gov/",
-    "sign": null,
+    "sign": {
+      "shape": "rect-yellow",
+      "text": "LEFT"
+    },
     "c": 0,
     "en": {
       "q": "A green freeway sign has a yellow panel that says LEFT. What does it tell you?",
@@ -7167,7 +7179,10 @@
     "conf": "high",
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 8B.21, https://mutcd.fhwa.dot.gov/",
-    "sign": null,
+    "sign": {
+      "shape": "rect-yellow",
+      "text": "STORAGE SPACE 50 FT"
+    },
     "c": 2,
     "en": {
       "q": "Just past a railroad crossing there is a stop sign at a highway. A sign says the storage space between them is short. Why does that matter?",
@@ -7239,7 +7254,7 @@
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 7B.04, https://mutcd.fhwa.dot.gov/",
     "sign": {
-      "shape": "diamond-yellow",
+      "shape": "diamond-ygreen",
       "text": "SCHOOL BUS STOP AHEAD"
     },
     "c": 0,
@@ -7571,7 +7586,10 @@
     "conf": "high",
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 6H.36, https://mutcd.fhwa.dot.gov/",
-    "sign": null,
+    "sign": {
+      "shape": "rect-orange",
+      "text": "END ROAD WORK"
+    },
     "c": 1,
     "en": {
       "q": "You see a sign that says END ROAD WORK. What does it tell you?",
@@ -7605,7 +7623,10 @@
     "conf": "high",
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 6H.37, https://mutcd.fhwa.dot.gov/",
-    "sign": null,
+    "sign": {
+      "shape": "rect-orange",
+      "text": "PILOT CAR FOLLOW ME"
+    },
     "c": 2,
     "en": {
       "q": "In a work zone, a truck has a sign that says PILOT CAR FOLLOW ME. What should you do?",
@@ -7881,8 +7902,7 @@
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 2B.49, https://mutcd.fhwa.dot.gov/",
     "sign": {
-      "shape": "rect-white",
-      "text": "ONE WAY"
+      "shape": "one-way"
     },
     "c": 2,
     "en": {
