@@ -1537,8 +1537,7 @@
     "conf": "high",
     "page": 48,
     "sign": {
-      "shape": "rect-white",
-      "text": "ONE WAY"
+      "shape": "one-way"
     },
     "c": 1,
     "en": {
@@ -4590,7 +4589,10 @@
     "cat": "signs",
     "conf": "high",
     "page": 46,
-    "sign": null,
+    "sign": {
+      "shape": "diamond-ygreen",
+      "text": "PEDESTRIAN"
+    },
     "c": 2,
     "en": {
       "q": "A bright yellow-green sign shows a person walking. What should you watch for?",
