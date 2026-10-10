@@ -2458,5 +2458,719 @@
       "h2": "تعطيك California ثلاث محاولات في الامتحان النظري لكل طلب؛ بعد ذلك يجب أن تقدّم طلبًا جديدًا وتدفع مرة أخرى.",
       "p": "صحيح. لديك ثلاث محاولات لكل طلب."
     }
+  },
+  {
+    "id": "ca-031",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 8,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, you move to a new home. How soon must you tell the DMV your new address?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 60 days",
+        "At your next renewal"
+      ],
+      "h1": "It is less than two weeks.",
+      "h2": "In California, you must give the DMV your new address within 10 days after you move.",
+      "p": "Right. Tell the DMV within 10 days of moving."
+    },
+    "es": {
+      "q": "En California, usted se muda a una nueva casa. ¿En cuánto tiempo debe darle su nueva dirección al DMV?",
+      "o": [
+        "En 10 días",
+        "En 30 días",
+        "En 60 días",
+        "En su próxima renovación"
+      ],
+      "h1": "Es menos de dos semanas.",
+      "h2": "En California, usted debe darle su nueva dirección al DMV dentro de los 10 días después de mudarse.",
+      "p": "Correcto. Avise al DMV dentro de 10 días después de mudarse."
+    }
+  },
+  {
+    "id": "ca-032",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 54,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, what is the lowest number of points in 12 months that can get an adult's license suspended?",
+      "o": [
+        "1 point",
+        "4 points",
+        "8 points",
+        "12 points"
+      ],
+      "h1": "It is less than the 6-point total used for a 24-month period.",
+      "h2": "In California, an adult with 4 points on their record in 12 months may have their license suspended.",
+      "p": "Right. 4 points in 12 months can lead to a suspension."
+    },
+    "es": {
+      "q": "En California, ¿cuál es el número más bajo de puntos en 12 meses que puede causar la suspensión de la licencia de un adulto?",
+      "o": [
+        "1 punto",
+        "4 puntos",
+        "8 puntos",
+        "12 puntos"
+      ],
+      "h1": "Es menos que el total de 6 puntos que se usa para un período de 24 meses.",
+      "h2": "En California, un adulto con 4 puntos en su historial en 12 meses puede perder su licencia por suspensión.",
+      "p": "Correcto. 4 puntos en 12 meses pueden causar una suspensión."
+    }
+  },
+  {
+    "id": "ca-033",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 55,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, a teen in the first year of a provisional license gets two tickets or at-fault crashes. What happens?",
+      "o": [
+        "Nothing until age 18",
+        "The license is taken away for one year",
+        "For 30 days, the teen may drive only with a licensed adult 25 or older",
+        "The teen must retake only the vision test"
+      ],
+      "h1": "The teen can still drive, but not alone.",
+      "h2": "In California, two tickets or at-fault crashes in the first year mean the teen may drive for 30 days only with a licensed adult age 25 or older.",
+      "p": "Right. For 30 days, a licensed adult 25 or older must ride along."
+    },
+    "es": {
+      "q": "En California, un joven en el primer año de su licencia provisional recibe dos multas o tiene dos choques por su culpa. ¿Qué pasa?",
+      "o": [
+        "Nada hasta los 18 años",
+        "Le quitan la licencia por un año",
+        "Por 30 días solo puede manejar con un adulto con licencia de 25 años o más",
+        "Solo debe repetir el examen de la vista"
+      ],
+      "h1": "El joven todavía puede manejar, pero no solo.",
+      "h2": "En California, dos multas o choques por su culpa en el primer año significan que el joven puede manejar por 30 días solo con un adulto con licencia de 25 años o más.",
+      "p": "Correcto. Por 30 días debe ir con un adulto con licencia de 25 años o más."
+    }
+  },
+  {
+    "id": "ca-034",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 55,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, a provisional driver has three tickets or at-fault crashes in the first year. What happens to the license?",
+      "o": [
+        "A warning letter only",
+        "A 30-day limit on night driving",
+        "A one-week suspension",
+        "A six-month suspension and one year of probation"
+      ],
+      "h1": "It is the strictest of these choices.",
+      "h2": "In California, three tickets or at-fault crashes in a provisional driver's first year bring a six-month suspension and one year of probation.",
+      "p": "Right. Six months of suspension, then one year of probation."
+    },
+    "es": {
+      "q": "En California, un conductor provisional tiene tres multas o choques por su culpa en el primer año. ¿Qué pasa con la licencia?",
+      "o": [
+        "Solo una carta de advertencia",
+        "Un límite de 30 días para manejar de noche",
+        "Una suspensión de una semana",
+        "Una suspensión de seis meses y un año de libertad condicional"
+      ],
+      "h1": "Es la opción más estricta.",
+      "h2": "En California, tres multas o choques por su culpa en el primer año de un conductor provisional causan una suspensión de seis meses y un año de libertad condicional.",
+      "p": "Correcto. Seis meses de suspensión y luego un año de libertad condicional."
+    }
+  },
+  {
+    "id": "ca-035",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 72,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, an officer thinks you are driving under the influence and you refuse a blood or urine test. What does the DMV do?",
+      "o": [
+        "Suspends or revokes your license for one year",
+        "Gives you a warning the first time",
+        "Suspends your license for one week",
+        "Nothing, because the test is optional"
+      ],
+      "h1": "Refusing the test is treated very seriously.",
+      "h2": "In California, if you refuse a chemical test when an officer suspects DUI, the DMV suspends or revokes your license for one year.",
+      "p": "Right. Refusing the test costs you your license for one year."
+    },
+    "es": {
+      "q": "En California, un oficial cree que usted maneja bajo la influencia y usted se niega a una prueba de sangre u orina. ¿Qué hace el DMV?",
+      "o": [
+        "Suspende o revoca su licencia por un año",
+        "Le da una advertencia la primera vez",
+        "Suspende su licencia por una semana",
+        "Nada, porque la prueba es opcional"
+      ],
+      "h1": "Negarse a la prueba es algo muy serio.",
+      "h2": "En California, si usted se niega a una prueba química cuando un oficial sospecha que maneja bajo la influencia, el DMV suspende o revoca su licencia por un año.",
+      "p": "Correcto. Negarse a la prueba le quita la licencia por un año."
+    }
+  },
+  {
+    "id": "ca-036",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 74,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, after a DUI arrest, how soon must you ask for a DMV hearing?",
+      "o": [
+        "Within 24 hours",
+        "Within 10 days of the arrest",
+        "Within 6 months",
+        "Only after a court trial"
+      ],
+      "h1": "It is a short window, well under a month.",
+      "h2": "In California, you may ask for a DMV administrative hearing within 10 days from the date of a DUI arrest.",
+      "p": "Right. Ask for the hearing within 10 days of the arrest."
+    },
+    "es": {
+      "q": "En California, después de un arresto por manejar bajo la influencia, ¿en cuánto tiempo debe pedir una audiencia del DMV?",
+      "o": [
+        "En 24 horas",
+        "En 10 días desde el arresto",
+        "En 6 meses",
+        "Solo después de un juicio"
+      ],
+      "h1": "Es un plazo corto, mucho menos de un mes.",
+      "h2": "En California, usted puede pedir una audiencia administrativa del DMV dentro de los 10 días desde la fecha del arresto por manejar bajo la influencia.",
+      "p": "Correcto. Pida la audiencia dentro de 10 días después del arresto."
+    }
+  },
+  {
+    "id": "ca-037",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 76,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, you are in a crash and you do not have the required insurance. What can happen to your license?",
+      "o": [
+        "Nothing, if the crash was not your fault",
+        "A 10-day suspension",
+        "Suspension for up to four years",
+        "A fine only, with no suspension"
+      ],
+      "h1": "It does not matter who caused the crash.",
+      "h2": "In California, driving without proper insurance and being in a crash can get your license suspended for up to four years, no matter who was at fault.",
+      "p": "Right. Up to four years of suspension, even if you were not at fault."
+    },
+    "es": {
+      "q": "En California, usted tiene un choque y no tiene el seguro requerido. ¿Qué le puede pasar a su licencia?",
+      "o": [
+        "Nada, si el choque no fue su culpa",
+        "Una suspensión de 10 días",
+        "Una suspensión de hasta cuatro años",
+        "Solo una multa, sin suspensión"
+      ],
+      "h1": "No importa quién causó el choque.",
+      "h2": "En California, manejar sin el seguro correcto y tener un choque puede causar la suspensión de su licencia hasta por cuatro años, sin importar quién tuvo la culpa.",
+      "p": "Correcto. Hasta cuatro años de suspensión, aunque no haya sido su culpa."
+    }
+  },
+  {
+    "id": "ca-038",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 78,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, a crash causes more than $1,000 in damage. What must each driver do?",
+      "o": [
+        "Nothing, if police came to the scene",
+        "Call the DMV within one hour",
+        "Report it only to their insurance company",
+        "File a report (SR 1) with the DMV within 10 days"
+      ],
+      "h1": "The police report does not count for you.",
+      "h2": "In California, each driver must file an SR 1 report with the DMV within 10 days when a crash causes more than $1,000 in damage or anyone is hurt.",
+      "p": "Right. File the SR 1 with the DMV within 10 days."
+    },
+    "es": {
+      "q": "En California, un choque causa más de $1,000 en daños. ¿Qué debe hacer cada conductor?",
+      "o": [
+        "Nada, si la policía llegó al lugar",
+        "Llamar al DMV dentro de una hora",
+        "Avisar solo a su compañía de seguros",
+        "Enviar un reporte (SR 1) al DMV dentro de 10 días"
+      ],
+      "h1": "El reporte de la policía no cuenta por usted.",
+      "h2": "En California, cada conductor debe enviar un reporte SR 1 al DMV dentro de 10 días cuando un choque causa más de $1,000 en daños o alguien sale herido.",
+      "p": "Correcto. Envíe el SR 1 al DMV dentro de 10 días."
+    }
+  },
+  {
+    "id": "ca-039",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 66,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, a child is 6 years old and 4 feet tall. How must the child ride?",
+      "o": [
+        "In a child safety seat in the back seat",
+        "With a regular seat belt in the front seat",
+        "On an adult's lap with a seat belt",
+        "With a lap belt only, in any seat"
+      ],
+      "h1": "Children under 8 or shorter than 4 feet 9 inches need more than a seat belt.",
+      "h2": "In California, a child under 8 years old, or shorter than 4 feet 9 inches, must ride in a child safety seat in the back seat.",
+      "p": "Right. Under 8 or under 4 feet 9 inches means a child seat in the back."
+    },
+    "es": {
+      "q": "En California, un niño tiene 6 años y mide 4 pies. ¿Cómo debe viajar?",
+      "o": [
+        "En un asiento de seguridad para niños en el asiento trasero",
+        "Con un cinturón normal en el asiento delantero",
+        "En las piernas de un adulto con cinturón",
+        "Solo con el cinturón de cadera, en cualquier asiento"
+      ],
+      "h1": "Los niños menores de 8 años o de menos de 4 pies 9 pulgadas necesitan más que un cinturón.",
+      "h2": "En California, un niño menor de 8 años, o que mide menos de 4 pies 9 pulgadas, debe viajar en un asiento de seguridad para niños en el asiento trasero.",
+      "p": "Correcto. Menor de 8 años o de menos de 4 pies 9 pulgadas: asiento para niños atrás."
+    }
+  },
+  {
+    "id": "ca-040",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 66,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, a child is under 2 years old, under 40 pounds and under 3 feet 4 inches tall. How must the child ride?",
+      "o": [
+        "In a forward-facing booster seat",
+        "In a rear-facing child seat",
+        "With a regular seat belt",
+        "In a front seat with an airbag"
+      ],
+      "h1": "The child faces the back of the car.",
+      "h2": "In California, a child under 2 who is under 40 pounds and under 3 feet 4 inches tall must ride in a rear-facing child seat.",
+      "p": "Right. Babies and toddlers this small ride rear-facing."
+    },
+    "es": {
+      "q": "En California, un niño tiene menos de 2 años, pesa menos de 40 libras y mide menos de 3 pies 4 pulgadas. ¿Cómo debe viajar?",
+      "o": [
+        "En un asiento elevado mirando hacia adelante",
+        "En un asiento para niños mirando hacia atrás",
+        "Con un cinturón de seguridad normal",
+        "En un asiento delantero con bolsa de aire"
+      ],
+      "h1": "El niño mira hacia la parte de atrás del carro.",
+      "h2": "En California, un niño menor de 2 años que pesa menos de 40 libras y mide menos de 3 pies 4 pulgadas debe viajar en un asiento para niños mirando hacia atrás.",
+      "p": "Correcto. Los niños tan pequeños viajan mirando hacia atrás."
+    }
+  },
+  {
+    "id": "ca-041",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 67,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, a child of what age may not be left alone in a car?",
+      "o": [
+        "Only a baby under 1",
+        "Only a child under 3",
+        "A child 6 years old or younger",
+        "A child 10 years old or younger"
+      ],
+      "h1": "The child may stay with someone age 12 or older.",
+      "h2": "In California, it is illegal to leave a child 6 years old or younger alone in a vehicle unless a person at least 12 years old is watching the child.",
+      "p": "Right. Never leave a child 6 or younger alone in the car."
+    },
+    "es": {
+      "q": "En California, ¿a un niño de qué edad no se le puede dejar solo en un carro?",
+      "o": [
+        "Solo a un bebé menor de 1 año",
+        "Solo a un niño menor de 3 años",
+        "A un niño de 6 años o menos",
+        "A un niño de 10 años o menos"
+      ],
+      "h1": "El niño puede quedarse con alguien de 12 años o más.",
+      "h2": "En California, es ilegal dejar solo en un vehículo a un niño de 6 años o menos, a menos que lo cuide una persona de por lo menos 12 años.",
+      "p": "Correcto. Nunca deje solo en el carro a un niño de 6 años o menos."
+    }
+  },
+  {
+    "id": "ca-042",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 9,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, what is the rule about headsets or earplugs while driving?",
+      "o": [
+        "You may wear them in both ears at low volume",
+        "You may wear them only on the freeway",
+        "You may wear them only during the day",
+        "You may not wear them in both ears"
+      ],
+      "h1": "You must be able to hear sirens and horns.",
+      "h2": "In California, it is illegal to drive while wearing a headset or earplugs in both ears.",
+      "p": "Right. Never cover both ears while you drive."
+    },
+    "es": {
+      "q": "En California, ¿cuál es la regla sobre audífonos o tapones para los oídos al manejar?",
+      "o": [
+        "Puede usarlos en los dos oídos con volumen bajo",
+        "Puede usarlos solo en la autopista",
+        "Puede usarlos solo durante el día",
+        "No puede usarlos en los dos oídos"
+      ],
+      "h1": "Usted debe poder oír sirenas y bocinas.",
+      "h2": "En California, es ilegal manejar con audífonos o tapones en los dos oídos.",
+      "p": "Correcto. Nunca se tape los dos oídos mientras maneja."
+    }
+  },
+  {
+    "id": "ca-043",
+    "scope": "CA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 45,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, how close may you follow a fire engine or ambulance that has its siren or flashing lights on?",
+      "o": [
+        "No closer than 300 feet",
+        "No closer than 50 feet",
+        "No closer than 100 feet",
+        "As close as you like if traffic is light"
+      ],
+      "h1": "It is about the length of a football field.",
+      "h2": "In California, it is against the law to follow within 300 feet of an emergency vehicle that has its siren or flashing lights on.",
+      "p": "Right. Stay at least 300 feet behind it."
+    },
+    "es": {
+      "q": "En California, ¿qué tan cerca puede seguir a un camión de bomberos o una ambulancia con la sirena o las luces encendidas?",
+      "o": [
+        "A no menos de 300 pies",
+        "A no menos de 50 pies",
+        "A no menos de 100 pies",
+        "Tan cerca como quiera si hay poco tráfico"
+      ],
+      "h1": "Es más o menos el largo de una cancha de fútbol americano.",
+      "h2": "En California, es ilegal seguir a menos de 300 pies a un vehículo de emergencia que tiene la sirena o las luces encendidas.",
+      "p": "Correcto. Quédese por lo menos a 300 pies detrás."
+    }
+  },
+  {
+    "id": "ca-044",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, how far may you drive in a center left turn lane?",
+      "o": [
+        "Up to 50 feet",
+        "Up to 200 feet",
+        "Up to half a mile",
+        "As far as you need"
+      ],
+      "h1": "It is not a lane for traveling or passing.",
+      "h2": "In California, you may drive no more than 200 feet in a center left turn lane before you turn.",
+      "p": "Right. Use it for at most 200 feet."
+    },
+    "es": {
+      "q": "En California, ¿qué distancia puede manejar en un carril central para dar vuelta a la izquierda?",
+      "o": [
+        "Hasta 50 pies",
+        "Hasta 200 pies",
+        "Hasta media milla",
+        "Toda la que necesite"
+      ],
+      "h1": "No es un carril para viajar ni para rebasar.",
+      "h2": "En California, usted puede manejar no más de 200 pies en un carril central para dar vuelta a la izquierda antes de dar la vuelta.",
+      "p": "Correcto. Úselo por 200 pies como máximo."
+    }
+  },
+  {
+    "id": "ca-045",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, you are driving slowly on a two-lane road where passing is unsafe. When must you use a turnout to let cars pass?",
+      "o": [
+        "Whenever one car is behind you",
+        "Only at night",
+        "When five or more vehicles are following you",
+        "Only when a police officer tells you"
+      ],
+      "h1": "Count the line of cars behind you.",
+      "h2": "In California, a slow driver on a two-lane road where passing is unsafe must use a turnout when five or more vehicles are following.",
+      "p": "Right. Five or more cars behind you means use the turnout."
+    },
+    "es": {
+      "q": "En California, usted maneja despacio en una carretera de dos carriles donde no es seguro rebasar. ¿Cuándo debe usar un área de salida (turnout) para dejar pasar a otros?",
+      "o": [
+        "Siempre que haya un carro detrás",
+        "Solo de noche",
+        "Cuando lo siguen cinco vehículos o más",
+        "Solo cuando un policía se lo pide"
+      ],
+      "h1": "Cuente la fila de carros detrás de usted.",
+      "h2": "En California, un conductor lento en una carretera de dos carriles donde no es seguro rebasar debe usar un área de salida cuando lo siguen cinco vehículos o más.",
+      "p": "Correcto. Con cinco carros o más detrás, use el área de salida."
+    }
+  },
+  {
+    "id": "ca-046",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 48,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, you cannot change lanes to pass a bicycle. How much space must you leave?",
+      "o": [
+        "At least 1 foot",
+        "At least 18 inches",
+        "At least 2 feet",
+        "At least 3 feet"
+      ],
+      "h1": "It is about one long step.",
+      "h2": "In California, when you pass a bicycle in the same lane, you must leave at least 3 feet, and you must wait if you cannot.",
+      "p": "Right. Give the bicycle at least 3 feet."
+    },
+    "es": {
+      "q": "En California, usted no puede cambiar de carril para rebasar a una bicicleta. ¿Cuánto espacio debe dejar?",
+      "o": [
+        "Por lo menos 1 pie",
+        "Por lo menos 18 pulgadas",
+        "Por lo menos 2 pies",
+        "Por lo menos 3 pies"
+      ],
+      "h1": "Es más o menos un paso largo.",
+      "h2": "En California, cuando rebasa a una bicicleta en el mismo carril, debe dejar por lo menos 3 pies, y si no puede, debe esperar.",
+      "p": "Correcto. Deje por lo menos 3 pies a la bicicleta."
+    }
+  },
+  {
+    "id": "ca-047",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, how close to a crosswalk may you park, when there is no curb extension?",
+      "o": [
+        "No closer than 20 feet",
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "Right up to the crosswalk lines"
+      ],
+      "h1": "It is a few car lengths away, so people on foot can be seen.",
+      "h2": "In California, you may not park within 20 feet of a marked or unmarked crosswalk, or within 15 feet where there is a curb extension.",
+      "p": "Right. Park at least 20 feet from a crosswalk."
+    },
+    "es": {
+      "q": "En California, ¿a qué distancia de un cruce peatonal puede estacionarse, cuando no hay una extensión de la acera?",
+      "o": [
+        "A no menos de 20 pies",
+        "A no menos de 5 pies",
+        "A no menos de 10 pies",
+        "Justo hasta las líneas del cruce"
+      ],
+      "h1": "Son algunos largos de carro, para que se vea a los peatones.",
+      "h2": "En California, no puede estacionarse a menos de 20 pies de un cruce peatonal, marcado o no, ni a menos de 15 pies donde hay una extensión de la acera.",
+      "p": "Correcto. Estaciónese por lo menos a 20 pies de un cruce peatonal."
+    }
+  },
+  {
+    "id": "ca-048",
+    "scope": "CA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 51,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, the signals at a railroad crossing warn that a train is coming. Where must you stop?",
+      "o": [
+        "Right on the edge of the tracks",
+        "At least 15 feet from the nearest track",
+        "At least 100 feet from the nearest track",
+        "Anywhere, as long as the gate is not down"
+      ],
+      "h1": "Leave room so the train cannot hit your car.",
+      "h2": "In California, when a crossing warns of a train, you must stop at least 15 feet from the nearest track.",
+      "p": "Right. Stop at least 15 feet from the nearest track."
+    },
+    "es": {
+      "q": "En California, las señales de un cruce de tren avisan que viene un tren. ¿Dónde debe detenerse?",
+      "o": [
+        "Justo en el borde de las vías",
+        "Por lo menos a 15 pies de la vía más cercana",
+        "Por lo menos a 100 pies de la vía más cercana",
+        "En cualquier lugar, si la barrera no está abajo"
+      ],
+      "h1": "Deje espacio para que el tren no golpee su carro.",
+      "h2": "En California, cuando un cruce avisa que viene un tren, usted debe detenerse por lo menos a 15 pies de la vía más cercana.",
+      "p": "Correcto. Deténgase por lo menos a 15 pies de la vía más cercana."
+    }
+  },
+  {
+    "id": "ca-049",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 50,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, what is the speed limit within 500 feet of a school while children are outside or crossing?",
+      "o": [
+        "15 mph in all cases",
+        "35 mph",
+        "25 mph, unless a lower limit is posted",
+        "45 mph"
+      ],
+      "h1": "It is the same as the limit in a residential district.",
+      "h2": "In California, the speed limit is 25 mph within 500 feet of a school while children are outside or crossing, and some school zones post 15 mph.",
+      "p": "Right. 25 mph near a school when children are around."
+    },
+    "es": {
+      "q": "En California, ¿cuál es el límite de velocidad a menos de 500 pies de una escuela cuando hay niños afuera o cruzando?",
+      "o": [
+        "15 mph en todos los casos",
+        "35 mph",
+        "25 mph, a menos que se indique un límite más bajo",
+        "45 mph"
+      ],
+      "h1": "Es igual que el límite en una zona residencial.",
+      "h2": "En California, el límite es de 25 mph a menos de 500 pies de una escuela cuando hay niños afuera o cruzando, y en algunas zonas escolares el límite es de 15 mph.",
+      "p": "Correcto. 25 mph cerca de una escuela cuando hay niños."
+    }
+  },
+  {
+    "id": "ca-050",
+    "scope": "CA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 51,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, what can happen if you do not stop for a school bus with flashing red lights?",
+      "o": [
+        "Only a warning",
+        "A $25 fine",
+        "A 30-day limit on passengers",
+        "A fine of up to $1,000 and a one-year suspension"
+      ],
+      "h1": "The penalty is one of the largest on this list.",
+      "h2": "In California, failing to stop for a school bus with flashing red lights can bring a fine of up to $1,000 and a one-year suspension of your driving privilege.",
+      "p": "Right. Up to $1,000 and a one-year suspension."
+    },
+    "es": {
+      "q": "En California, ¿qué puede pasar si no se detiene ante un autobús escolar con luces rojas intermitentes?",
+      "o": [
+        "Solo una advertencia",
+        "Una multa de $25",
+        "Un límite de pasajeros por 30 días",
+        "Una multa de hasta $1,000 y una suspensión de un año"
+      ],
+      "h1": "Es uno de los castigos más grandes de esta lista.",
+      "h2": "En California, no detenerse ante un autobús escolar con luces rojas intermitentes puede costarle una multa de hasta $1,000 y la suspensión de su privilegio de manejar por un año.",
+      "p": "Correcto. Hasta $1,000 y una suspensión de un año."
+    }
+  },
+  {
+    "id": "ca-051",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 82,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, a driver is 70 or older when the license expires. How must they renew it?",
+      "o": [
+        "In person, with a vision test",
+        "Online, with no tests",
+        "By mail, with a doctor's letter",
+        "They may not renew after age 70"
+      ],
+      "h1": "They must visit the DMV and have their eyes checked.",
+      "h2": "In California, a driver who is 70 or older when the license expires must renew in person and pass a vision test.",
+      "p": "Right. Age 70 and up renews in person with a vision test."
+    },
+    "es": {
+      "q": "En California, un conductor tiene 70 años o más cuando vence su licencia. ¿Cómo debe renovarla?",
+      "o": [
+        "En persona, con un examen de la vista",
+        "En línea, sin exámenes",
+        "Por correo, con una carta del médico",
+        "No puede renovarla después de los 70 años"
+      ],
+      "h1": "Debe ir al DMV y hacerse revisar la vista.",
+      "h2": "En California, un conductor que tiene 70 años o más cuando vence su licencia debe renovarla en persona y pasar un examen de la vista.",
+      "p": "Correcto. A partir de los 70 años se renueva en persona con examen de la vista."
+    }
   }
 ]
