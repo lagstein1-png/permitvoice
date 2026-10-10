@@ -5798,5 +5798,1637 @@
       "h2": "En Pensilvania, pasar alrededor o a través de letreros o barreras que cierran un camino por condiciones peligrosas trae 2 puntos y una multa de hasta $250, o hasta $500 más costos si hay que llamar a los socorristas.",
       "p": "Correcto. 2 puntos y una multa de hasta $250."
     }
+  },
+  {
+    "id": "pa-101",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 1,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, how long is the learner's permit application (DL-180) good for, counted from the date of your physical exam?",
+      "o": [
+        "One year",
+        "Six months",
+        "Two years",
+        "Five years"
+      ],
+      "h1": "Count from the day your health care provider examined you.",
+      "h2": "In Pennsylvania, the DL-180 learner's permit application is valid for one year from the date of your physical exam.",
+      "p": "Right. The DL-180 is good for one year from the physical exam."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿por cuánto tiempo es válida la solicitud del permiso de aprendizaje (DL-180), contando desde la fecha de su examen físico?",
+      "o": [
+        "Un año",
+        "Seis meses",
+        "Dos años",
+        "Cinco años"
+      ],
+      "h1": "Cuente desde el día en que su proveedor de salud lo examinó.",
+      "h2": "En Pensilvania, la solicitud del permiso de aprendizaje DL-180 es válida por un año desde la fecha de su examen físico.",
+      "p": "Correcto. La DL-180 es válida por un año desde el examen físico."
+    }
+  },
+  {
+    "id": "pa-102",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, three years have passed since your permit physical exam, and you still have not passed the road test. What must you do?",
+      "o": [
+        "Nothing; your permit stays valid until you pass",
+        "Start over with a new DL-180 and take the knowledge test again",
+        "Only take a new vision test",
+        "Wait one more year, then take the road test"
+      ],
+      "h1": "After that much time, you go back to the very first step.",
+      "h2": "In Pennsylvania, if you have not passed the road test within three years of your physical exam, you must start over with a new DL-180 and take the knowledge test again.",
+      "p": "Right. After three years, you start over with a new DL-180 and the knowledge test."
+    },
+    "es": {
+      "q": "En Pensilvania, han pasado tres años desde el examen físico de su permiso y todavía no ha aprobado el examen de manejo. ¿Qué debe hacer?",
+      "o": [
+        "Nada; su permiso sigue válido hasta que apruebe",
+        "Empezar de nuevo con una nueva DL-180 y tomar otra vez el examen de conocimientos",
+        "Solo tomar un nuevo examen de la vista",
+        "Esperar un año más y luego tomar el examen de manejo"
+      ],
+      "h1": "Después de tanto tiempo, vuelve al primer paso.",
+      "h2": "En Pensilvania, si no aprueba el examen de manejo dentro de los tres años desde su examen físico, debe empezar de nuevo con una nueva DL-180 y tomar otra vez el examen de conocimientos.",
+      "p": "Correcto. Después de tres años, empieza de nuevo con una nueva DL-180 y el examen de conocimientos."
+    }
+  },
+  {
+    "id": "pa-103",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, you are 17 and have a junior license. How long must you have held it before you can apply to change it to a regular license?",
+      "o": [
+        "Six months",
+        "Two years",
+        "One year",
+        "You cannot; you must wait until you turn 18"
+      ],
+      "h1": "You also need a clean record for that same length of time.",
+      "h2": "In Pennsylvania, you may apply for a regular license after holding a junior license for one year, if you meet the other conditions.",
+      "p": "Right. You must hold the junior license for one year first."
+    },
+    "es": {
+      "q": "En Pensilvania, usted tiene 17 años y una licencia de menor (junior). ¿Cuánto tiempo debe haberla tenido antes de pedir cambiarla a una licencia regular?",
+      "o": [
+        "Seis meses",
+        "Dos años",
+        "Un año",
+        "No puede; debe esperar a cumplir 18"
+      ],
+      "h1": "También necesita un récord limpio durante ese mismo tiempo.",
+      "h2": "En Pensilvania, puede pedir una licencia regular después de tener la licencia de menor por un año, si cumple con las demás condiciones.",
+      "p": "Correcto. Primero debe tener la licencia de menor por un año."
+    }
+  },
+  {
+    "id": "pa-104",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, which of these is a condition for changing a junior license to a regular license before you turn 18?",
+      "o": [
+        "You retake the road test",
+        "You log 100 more hours of practice",
+        "You take the special point exam",
+        "You passed a driver training course approved by the PA Department of Education"
+      ],
+      "h1": "It is a course, not a test or extra hours.",
+      "h2": "In Pennsylvania, to change a junior license to a regular license before 18, you must have passed a driver training course approved by the PA Department of Education, among other conditions.",
+      "p": "Right. You need an approved driver training course."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿cuál de estas es una condición para cambiar una licencia de menor (junior) a una licencia regular antes de cumplir 18 años?",
+      "o": [
+        "Tomar otra vez el examen de manejo",
+        "Practicar 100 horas más",
+        "Tomar el examen especial de puntos",
+        "Haber aprobado un curso de manejo aprobado por el Departamento de Educación de PA"
+      ],
+      "h1": "Es un curso, no un examen ni horas extra.",
+      "h2": "En Pensilvania, para cambiar una licencia de menor a una licencia regular antes de los 18, debe haber aprobado un curso de manejo aprobado por el Departamento de Educación de PA, entre otras condiciones.",
+      "p": "Correcto. Necesita un curso de manejo aprobado."
+    }
+  },
+  {
+    "id": "pa-105",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, you have a regular Class C license. Which of these may you also drive?",
+      "o": [
+        "A motor-driven cycle with an automatic transmission and 50 cc or less",
+        "Any two-wheeled motorcycle",
+        "A large motorcycle with a manual transmission",
+        "Any motorcycle, if you wear a helmet"
+      ],
+      "h1": "Only a very small cycle is allowed.",
+      "h2": "In Pennsylvania, a Class C license lets you drive a motor-driven cycle with an automatic transmission and an engine of 50 cc or less.",
+      "p": "Right. Class C covers a small automatic cycle of 50 cc or less."
+    },
+    "es": {
+      "q": "En Pensilvania, usted tiene una licencia regular Clase C. ¿Cuál de estos vehículos también puede manejar?",
+      "o": [
+        "Un ciclomotor con transmisión automática y de 50 cc o menos",
+        "Cualquier motocicleta de dos ruedas",
+        "Una motocicleta grande con transmisión manual",
+        "Cualquier motocicleta, si usa casco"
+      ],
+      "h1": "Solo se permite un ciclomotor muy pequeño.",
+      "h2": "En Pensilvania, la licencia Clase C le permite manejar un ciclomotor con transmisión automática y motor de 50 cc o menos.",
+      "p": "Correcto. La Clase C cubre un ciclomotor automático de 50 cc o menos."
+    }
+  },
+  {
+    "id": "pa-106",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, you want to drive a single motor home rated at 26,001 pounds. Which license class do you need?",
+      "o": [
+        "Class C",
+        "Class B",
+        "Class M",
+        "No special class; any license works"
+      ],
+      "h1": "It is a single vehicle rated over 26,000 pounds.",
+      "h2": "In Pennsylvania, you need a Class B license to drive any single vehicle rated over 26,000 pounds, such as a motor home rated at 26,001 pounds or more.",
+      "p": "Right. Class B is for a single vehicle over 26,000 pounds."
+    },
+    "es": {
+      "q": "En Pensilvania, usted quiere manejar una casa rodante (un solo vehículo) de 26,001 libras de peso nominal. ¿Qué clase de licencia necesita?",
+      "o": [
+        "Clase C",
+        "Clase B",
+        "Clase M",
+        "Ninguna clase especial; sirve cualquier licencia"
+      ],
+      "h1": "Es un solo vehículo de más de 26,000 libras.",
+      "h2": "En Pensilvania, necesita una licencia Clase B para manejar cualquier vehículo individual de más de 26,000 libras, como una casa rodante de 26,001 libras o más.",
+      "p": "Correcto. La Clase B es para un solo vehículo de más de 26,000 libras."
+    }
+  },
+  {
+    "id": "pa-107",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, how big is the space you must parallel park in during the road test?",
+      "o": [
+        "20 feet long and 6 feet wide",
+        "30 feet long and 10 feet wide",
+        "24 feet long and 8 feet wide",
+        "18 feet long and 8 feet wide"
+      ],
+      "h1": "It is about one and a half car lengths long.",
+      "h2": "In Pennsylvania, the road test parallel parking space is 24 feet long and 8 feet wide.",
+      "p": "Right. The space is 24 feet by 8 feet."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿qué tamaño tiene el espacio donde debe estacionarse en paralelo durante el examen de manejo?",
+      "o": [
+        "20 pies de largo y 6 pies de ancho",
+        "30 pies de largo y 10 pies de ancho",
+        "24 pies de largo y 8 pies de ancho",
+        "18 pies de largo y 8 pies de ancho"
+      ],
+      "h1": "Mide más o menos el largo de un auto y medio.",
+      "h2": "En Pensilvania, el espacio para estacionarse en paralelo en el examen de manejo mide 24 pies de largo y 8 pies de ancho.",
+      "p": "Correcto. El espacio mide 24 por 8 pies."
+    }
+  },
+  {
+    "id": "pa-108",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, during the road test you parallel park. How many adjustments may you make?",
+      "o": [
+        "As many as you need",
+        "None; it must be done in one move",
+        "Up to five, in two attempts",
+        "No more than three, in one attempt"
+      ],
+      "h1": "You get one try and a small number of corrections.",
+      "h2": "In Pennsylvania, on the road test you have one attempt to parallel park, using no more than three adjustments.",
+      "p": "Right. One attempt, no more than three adjustments."
+    },
+    "es": {
+      "q": "En Pensilvania, durante el examen de manejo usted se estaciona en paralelo. ¿Cuántos ajustes puede hacer?",
+      "o": [
+        "Todos los que necesite",
+        "Ninguno; debe hacerlo en un solo movimiento",
+        "Hasta cinco, en dos intentos",
+        "No más de tres, en un solo intento"
+      ],
+      "h1": "Tiene un intento y pocas correcciones.",
+      "h2": "En Pensilvania, en el examen de manejo tiene un intento para estacionarse en paralelo, con no más de tres ajustes.",
+      "p": "Correcto. Un intento, no más de tres ajustes."
+    }
+  },
+  {
+    "id": "pa-109",
+    "scope": "PA",
+    "cat": "signals",
+    "conf": "high",
+    "page": 11,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, a DIVIDED HIGHWAY sign is posted where your road crosses a divided highway. At the first roadway you reach, which turn may you make?",
+      "o": [
+        "Only a right turn",
+        "Only a left turn",
+        "A left or a right turn",
+        "No turn; you must go straight across both roadways"
+      ],
+      "h1": "A divided highway is two one-way roads. Think about which way the near side flows.",
+      "h2": "In Pennsylvania, at a divided highway you may only turn right onto the first roadway, and only turn left onto the second roadway.",
+      "p": "Right. Only right at the first roadway; left turns are made at the second."
+    },
+    "es": {
+      "q": "En Pensilvania, hay un letrero de DIVIDED HIGHWAY (carretera dividida) donde su camino cruza una carretera dividida. En la primera calzada a la que llega, ¿qué vuelta puede hacer?",
+      "o": [
+        "Solo una vuelta a la derecha",
+        "Solo una vuelta a la izquierda",
+        "Una vuelta a la izquierda o a la derecha",
+        "Ninguna; debe cruzar derecho las dos calzadas"
+      ],
+      "h1": "Una carretera dividida son dos caminos de un solo sentido. Piense hacia dónde va el lado más cercano.",
+      "h2": "En Pensilvania, en una carretera dividida solo puede dar vuelta a la derecha en la primera calzada, y solo a la izquierda en la segunda calzada.",
+      "p": "Correcto. Solo a la derecha en la primera calzada; a la izquierda se da vuelta en la segunda."
+    }
+  },
+  {
+    "id": "pa-110",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 54,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, how far before a work zone may warning signs, warning vehicles or message boards first appear?",
+      "o": [
+        "Only right at the start of the work",
+        "At least 200 feet before it",
+        "At least 5 miles before it",
+        "Exactly 50 feet before it"
+      ],
+      "h1": "It is more than 100 feet but much less than a mile.",
+      "h2": "In Pennsylvania, warning signs, advance warning vehicles or message boards may be placed a minimum of 200 feet before a work zone.",
+      "p": "Right. They may start at least 200 feet before the work zone."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿a qué distancia antes de una zona de obras pueden aparecer los primeros letreros, vehículos o tableros de aviso?",
+      "o": [
+        "Solo justo donde empieza la obra",
+        "Al menos 200 pies antes",
+        "Al menos 5 millas antes",
+        "Exactamente 50 pies antes"
+      ],
+      "h1": "Es más de 100 pies pero mucho menos que una milla.",
+      "h2": "En Pensilvania, los letreros de aviso, los vehículos de aviso o los tableros de mensajes se pueden poner como mínimo a 200 pies antes de una zona de obras.",
+      "p": "Correcto. Pueden empezar al menos 200 pies antes de la zona de obras."
+    }
+  },
+  {
+    "id": "pa-111",
+    "scope": "PA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 54,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, you are caught speeding in an active work zone. What happens to the fine?",
+      "o": [
+        "It is cut in half",
+        "It stays the same",
+        "It is doubled",
+        "There is no fine, only a warning"
+      ],
+      "h1": "Work zones protect workers, so the penalty is higher.",
+      "h2": "In Pennsylvania, fines are doubled for certain violations in active work zones, including speeding.",
+      "p": "Right. Speeding fines are doubled in active work zones."
+    },
+    "es": {
+      "q": "En Pensilvania, lo detienen por exceso de velocidad en una zona de obras activa. ¿Qué pasa con la multa?",
+      "o": [
+        "Se reduce a la mitad",
+        "Queda igual",
+        "Se duplica",
+        "No hay multa, solo una advertencia"
+      ],
+      "h1": "Las zonas de obras protegen a los trabajadores, por eso la pena es mayor.",
+      "h2": "En Pensilvania, las multas se duplican por ciertas infracciones en zonas de obras activas, incluido el exceso de velocidad.",
+      "p": "Correcto. Las multas por velocidad se duplican en zonas de obras activas."
+    }
+  },
+  {
+    "id": "pa-112",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 40,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, you did not turn on your headlights when the law required it. The fine starts at $25. With court costs and fees, about how much can the total reach?",
+      "o": [
+        "About $10",
+        "About $500",
+        "About $1,000",
+        "About $100"
+      ],
+      "h1": "It is about four times the starting fine.",
+      "h2": "In Pennsylvania, the fine for not using headlights when required starts at $25, and with other costs the penalty can approach $100.",
+      "p": "Right. With costs, it can approach $100."
+    },
+    "es": {
+      "q": "En Pensilvania, usted no encendió los faros cuando la ley lo exigía. La multa empieza en $25. Con los costos y cargos, ¿a cuánto puede llegar el total?",
+      "o": [
+        "A unos $10",
+        "A unos $500",
+        "A unos $1,000",
+        "A unos $100"
+      ],
+      "h1": "Es unas cuatro veces la multa inicial.",
+      "h2": "En Pensilvania, la multa por no usar los faros cuando se exige empieza en $25, y con otros costos la pena puede acercarse a $100.",
+      "p": "Correcto. Con los costos, puede acercarse a $100."
+    }
+  },
+  {
+    "id": "pa-113",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 41,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, the road is wet and slick. What following distance does the manual tell you to keep?",
+      "o": [
+        "5 or 6 seconds",
+        "2 seconds",
+        "3 seconds",
+        "10 seconds or more"
+      ],
+      "h1": "It is a little more than the normal dry-road rule.",
+      "h2": "In Pennsylvania, on wet roads you should slow down by 5 to 10 mph and increase your following distance to 5 or 6 seconds.",
+      "p": "Right. On wet roads, keep 5 or 6 seconds."
+    },
+    "es": {
+      "q": "En Pensilvania, el camino está mojado y resbaloso. ¿Qué distancia de seguimiento le indica el manual?",
+      "o": [
+        "5 o 6 segundos",
+        "2 segundos",
+        "3 segundos",
+        "10 segundos o más"
+      ],
+      "h1": "Es un poco más que la regla normal para camino seco.",
+      "h2": "En Pensilvania, en caminos mojados debe bajar la velocidad de 5 a 10 mph y aumentar la distancia de seguimiento a 5 o 6 segundos.",
+      "p": "Correcto. En camino mojado, deje 5 o 6 segundos."
+    }
+  },
+  {
+    "id": "pa-114",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 41,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, you are driving on an icy or snow-covered road. How much space should you leave behind the vehicle ahead?",
+      "o": [
+        "The same as normal",
+        "About 10 times more than normal",
+        "About twice as much as normal",
+        "One car length for every 10 mph"
+      ],
+      "h1": "It is far more than on a dry road.",
+      "h2": "In Pennsylvania, on ice or snow you should leave about 10 times more space than normal between you and the vehicle ahead.",
+      "p": "Right. Leave about 10 times the normal space."
+    },
+    "es": {
+      "q": "En Pensilvania, usted maneja en un camino con hielo o cubierto de nieve. ¿Cuánto espacio debe dejar detrás del vehículo de adelante?",
+      "o": [
+        "Lo mismo de siempre",
+        "Unas 10 veces más de lo normal",
+        "Unas dos veces más de lo normal",
+        "El largo de un auto por cada 10 mph"
+      ],
+      "h1": "Es mucho más que en un camino seco.",
+      "h2": "En Pensilvania, en hielo o nieve debe dejar unas 10 veces más espacio de lo normal entre usted y el vehículo de adelante.",
+      "p": "Correcto. Deje unas 10 veces el espacio normal."
+    }
+  },
+  {
+    "id": "pa-115",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 43,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, you suddenly drive into a snow squall and can barely see. What does the manual tell you to do?",
+      "o": [
+        "Brake hard right away",
+        "Speed up to get through it quickly",
+        "Slow down gradually and turn on your hazard lights",
+        "Stop in your lane and turn off your lights"
+      ],
+      "h1": "Avoid sudden moves, and help others see you.",
+      "h2": "In Pennsylvania, if you meet a snow squall, slow down gradually, turn on your hazard lights and do not slam on your brakes.",
+      "p": "Right. Slow gradually and use your hazard lights."
+    },
+    "es": {
+      "q": "En Pensilvania, de repente entra en una ráfaga de nieve (snow squall) y casi no puede ver. ¿Qué le indica el manual?",
+      "o": [
+        "Frenar fuerte de inmediato",
+        "Acelerar para salir rápido",
+        "Bajar la velocidad poco a poco y encender las luces de emergencia",
+        "Parar en su carril y apagar las luces"
+      ],
+      "h1": "Evite movimientos bruscos y ayude a que otros lo vean.",
+      "h2": "En Pensilvania, si encuentra una ráfaga de nieve, baje la velocidad poco a poco, encienda las luces de emergencia y no frene de golpe.",
+      "p": "Correcto. Baje poco a poco y use las luces de emergencia."
+    }
+  },
+  {
+    "id": "pa-116",
+    "scope": "PA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 45,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, why should you not move into a center left-turn lane too early?",
+      "o": [
+        "It is only for buses",
+        "You must stay in it for at least one block",
+        "It makes your turn signal stop working",
+        "You are more likely to meet a car head-on coming the other way"
+      ],
+      "h1": "Drivers from both directions use this lane.",
+      "h2": "In Pennsylvania, you should not enter a center turn lane too soon, because the longer you drive in it, the more likely you are to meet someone head-on.",
+      "p": "Right. The longer you drive in it, the bigger the head-on risk."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿por qué no debe entrar demasiado pronto a un carril central para dar vuelta a la izquierda?",
+      "o": [
+        "Es solo para autobuses",
+        "Debe quedarse en él por lo menos una cuadra",
+        "Hace que su direccional deje de funcionar",
+        "Es más probable encontrarse de frente con un auto que viene en sentido contrario"
+      ],
+      "h1": "Conductores de los dos sentidos usan este carril.",
+      "h2": "En Pensilvania, no debe entrar demasiado pronto a un carril central de vuelta, porque mientras más tiempo maneje en él, más probable es encontrarse a alguien de frente.",
+      "p": "Correcto. Mientras más tiempo esté en él, mayor el riesgo de choque de frente."
+    }
+  },
+  {
+    "id": "pa-117",
+    "scope": "PA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 46,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, where are U-turns not allowed, even with no sign?",
+      "o": [
+        "On a curve or near the top of a hill",
+        "On any two-lane road",
+        "On any street in daylight",
+        "Within 50 feet of a mailbox"
+      ],
+      "h1": "Think about places where other drivers cannot see you in time.",
+      "h2": "In Pennsylvania, U-turns are not allowed on curves or when you are approaching or near the crest of a hill.",
+      "p": "Right. No U-turns on curves or near the top of a hill."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿dónde no se permiten las vueltas en U, aunque no haya letrero?",
+      "o": [
+        "En una curva o cerca de la cima de una colina",
+        "En cualquier camino de dos carriles",
+        "En cualquier calle de día",
+        "A menos de 50 pies de un buzón"
+      ],
+      "h1": "Piense en lugares donde otros conductores no lo pueden ver a tiempo.",
+      "h2": "En Pensilvania, no se permiten las vueltas en U en curvas ni cuando se acerca o está cerca de la cima de una colina.",
+      "p": "Correcto. No hay vueltas en U en curvas ni cerca de la cima de una colina."
+    }
+  },
+  {
+    "id": "pa-118",
+    "scope": "PA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 46,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, you are crossing a busy street. When is it safe to stop halfway across?",
+      "o": [
+        "Whenever traffic comes from the left",
+        "Only when a turning lane in the center median is big enough to hold your whole vehicle",
+        "Any time your hazard lights are on",
+        "Never, even if there is a large median lane"
+      ],
+      "h1": "Your car must not stick out into any lane of traffic.",
+      "h2": "In Pennsylvania, stopping halfway across a street is safe only when there is a turning lane in the center median big enough to hold your entire vehicle.",
+      "p": "Right. Only if the median lane fits your whole vehicle."
+    },
+    "es": {
+      "q": "En Pensilvania, usted cruza una calle con mucho tráfico. ¿Cuándo es seguro detenerse a la mitad?",
+      "o": [
+        "Siempre que vengan autos por la izquierda",
+        "Solo cuando hay un carril de vuelta en la mediana central lo bastante grande para todo su vehículo",
+        "Cuando tenga encendidas las luces de emergencia",
+        "Nunca, aunque haya un carril grande en la mediana"
+      ],
+      "h1": "Su auto no debe quedar dentro de ningún carril de tráfico.",
+      "h2": "En Pensilvania, detenerse a la mitad de una calle solo es seguro cuando hay un carril de vuelta en la mediana central lo bastante grande para todo su vehículo.",
+      "p": "Correcto. Solo si el carril de la mediana cabe todo su vehículo."
+    }
+  },
+  {
+    "id": "pa-119",
+    "scope": "PA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 47,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, you want to pass a slower vehicle on a two-lane road at 45 mph. About how much clear road do you need?",
+      "o": [
+        "About 100 feet",
+        "About one car length",
+        "About a quarter of a mile",
+        "About 3 miles"
+      ],
+      "h1": "You will be in the lane of oncoming traffic for a while.",
+      "h2": "In Pennsylvania, to pass safely on a two-lane road at 45 mph, you need about a quarter of a mile of clear road.",
+      "p": "Right. About a quarter of a mile at 45 mph."
+    },
+    "es": {
+      "q": "En Pensilvania, usted quiere rebasar a un vehículo más lento en un camino de dos carriles a 45 mph. ¿Más o menos cuánto camino libre necesita?",
+      "o": [
+        "Como 100 pies",
+        "Como el largo de un auto",
+        "Como un cuarto de milla",
+        "Como 3 millas"
+      ],
+      "h1": "Estará un buen rato en el carril del tráfico que viene de frente.",
+      "h2": "En Pensilvania, para rebasar con seguridad en un camino de dos carriles a 45 mph, necesita como un cuarto de milla de camino libre.",
+      "p": "Correcto. Como un cuarto de milla a 45 mph."
+    }
+  },
+  {
+    "id": "pa-120",
+    "scope": "PA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 49,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, you are about to turn right onto a street. How big a gap should you allow from any vehicle coming from your left?",
+      "o": [
+        "About 2 seconds",
+        "About 4 seconds",
+        "About 15 seconds",
+        "About 8 seconds"
+      ],
+      "h1": "It is a little more than the gap needed to cross a 30 mph street.",
+      "h2": "In Pennsylvania, when you turn right, allow a gap of about 8 seconds between you and any vehicle approaching from the left.",
+      "p": "Right. Allow about 8 seconds."
+    },
+    "es": {
+      "q": "En Pensilvania, usted va a dar vuelta a la derecha hacia una calle. ¿Qué espacio de tiempo debe dejar con cualquier vehículo que viene por su izquierda?",
+      "o": [
+        "Unos 2 segundos",
+        "Unos 4 segundos",
+        "Unos 15 segundos",
+        "Unos 8 segundos"
+      ],
+      "h1": "Es un poco más que el espacio que necesita para cruzar una calle de 30 mph.",
+      "h2": "En Pensilvania, al dar vuelta a la derecha, deje un espacio de unos 8 segundos entre usted y cualquier vehículo que viene por la izquierda.",
+      "p": "Correcto. Deje unos 8 segundos."
+    }
+  },
+  {
+    "id": "pa-121",
+    "scope": "PA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 49,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, you are turning left from a minor street onto a major street. How big a gap should you allow from any vehicle coming from your right?",
+      "o": [
+        "About 9 seconds",
+        "About 3 seconds",
+        "About 5 seconds",
+        "About 20 seconds"
+      ],
+      "h1": "A left turn takes longer than a right turn, so you need a bit more than for a right turn.",
+      "h2": "In Pennsylvania, when turning left from a minor street onto a major street, allow a gap of about 9 seconds from any vehicle approaching from the right.",
+      "p": "Right. Allow about 9 seconds."
+    },
+    "es": {
+      "q": "En Pensilvania, usted da vuelta a la izquierda desde una calle menor hacia una calle principal. ¿Qué espacio de tiempo debe dejar con cualquier vehículo que viene por su derecha?",
+      "o": [
+        "Unos 9 segundos",
+        "Unos 3 segundos",
+        "Unos 5 segundos",
+        "Unos 20 segundos"
+      ],
+      "h1": "Una vuelta a la izquierda toma más tiempo, así que necesita un poco más que para una vuelta a la derecha.",
+      "h2": "En Pensilvania, al dar vuelta a la izquierda desde una calle menor hacia una principal, deje un espacio de unos 9 segundos con cualquier vehículo que viene por la derecha.",
+      "p": "Correcto. Deje unos 9 segundos."
+    }
+  },
+  {
+    "id": "pa-122",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 37,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, how far ahead does the manual say you should be able to spot problems while you drive?",
+      "o": [
+        "2 to 3 seconds ahead",
+        "12 to 15 seconds ahead",
+        "Only the car right in front of you",
+        "1 minute ahead"
+      ],
+      "h1": "In the city this is about one block.",
+      "h2": "In Pennsylvania, you should be able to identify problems 12 to 15 seconds ahead, about one block in the city or a quarter of a mile on the highway.",
+      "p": "Right. Look 12 to 15 seconds ahead."
+    },
+    "es": {
+      "q": "En Pensilvania, según el manual, ¿con cuánta anticipación debe poder ver los problemas mientras maneja?",
+      "o": [
+        "De 2 a 3 segundos adelante",
+        "De 12 a 15 segundos adelante",
+        "Solo el auto que va justo delante",
+        "1 minuto adelante"
+      ],
+      "h1": "En la ciudad, esto es como una cuadra.",
+      "h2": "En Pensilvania, debe poder identificar problemas de 12 a 15 segundos adelante, como una cuadra en la ciudad o un cuarto de milla en la carretera.",
+      "p": "Correcto. Mire de 12 a 15 segundos adelante."
+    }
+  },
+  {
+    "id": "pa-123",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, you must stop and park on the roadway itself. Besides using your four-way flashers, what does the manual require?",
+      "o": [
+        "You must leave the engine running",
+        "You must park facing traffic",
+        "Your vehicle must be visible from at least 500 feet in both directions",
+        "You must stay no more than 5 minutes"
+      ],
+      "h1": "Other drivers must be able to see you from far away.",
+      "h2": "In Pennsylvania, when you must park on the roadway, use your four-way flashers, leave room for passing vehicles and make sure your vehicle can be seen from at least 500 feet in both directions.",
+      "p": "Right. It must be visible from 500 feet both ways."
+    },
+    "es": {
+      "q": "En Pensilvania, usted tiene que detenerse y estacionarse en la misma calzada. Además de usar las luces intermitentes de emergencia, ¿qué exige el manual?",
+      "o": [
+        "Que deje el motor encendido",
+        "Que se estacione de frente al tráfico",
+        "Que su vehículo se vea desde al menos 500 pies en ambas direcciones",
+        "Que no se quede más de 5 minutos"
+      ],
+      "h1": "Los demás conductores deben poder verlo desde lejos.",
+      "h2": "En Pensilvania, si tiene que estacionarse en la calzada, use las luces intermitentes de emergencia, deje espacio para los vehículos que pasan y asegúrese de que su vehículo se vea desde al menos 500 pies en ambas direcciones.",
+      "p": "Correcto. Debe verse desde 500 pies en ambas direcciones."
+    }
+  },
+  {
+    "id": "pa-124",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, you park facing downhill next to a curb. Which way should you turn your steering wheel?",
+      "o": [
+        "To the left, away from the curb",
+        "Keep the wheels straight",
+        "It does not matter with the parking brake on",
+        "To the right, toward the curb"
+      ],
+      "h1": "If the car rolls, the front wheels should stop against the curb.",
+      "h2": "In Pennsylvania, when you park downhill, with or without a curb, turn your steering wheel so the wheels point completely to the right.",
+      "p": "Right. Downhill, turn the wheels to the right, toward the curb."
+    },
+    "es": {
+      "q": "En Pensilvania, usted se estaciona cuesta abajo junto a la acera. ¿Hacia dónde debe girar el volante?",
+      "o": [
+        "A la izquierda, lejos de la acera",
+        "Dejar las ruedas derechas",
+        "No importa si usa el freno de mano",
+        "A la derecha, hacia la acera"
+      ],
+      "h1": "Si el auto rueda, las ruedas delanteras deben detenerse contra la acera.",
+      "h2": "En Pensilvania, cuando se estaciona cuesta abajo, con o sin acera, gire el volante para que las ruedas apunten completamente a la derecha.",
+      "p": "Correcto. Cuesta abajo, gire las ruedas a la derecha, hacia la acera."
+    }
+  },
+  {
+    "id": "pa-125",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 53,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, how close to the driveway entrance of a fire station may you park?",
+      "o": [
+        "No closer than 20 feet",
+        "No closer than 5 feet",
+        "No closer than 100 feet",
+        "Right next to it, if you stay in the car"
+      ],
+      "h1": "It is the same distance as from a crosswalk at an intersection.",
+      "h2": "In Pennsylvania, you may not park within 20 feet of a driveway entrance to a fire station.",
+      "p": "Right. Stay at least 20 feet away."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿qué tan cerca de la entrada de vehículos de una estación de bomberos puede estacionarse?",
+      "o": [
+        "No más cerca de 20 pies",
+        "No más cerca de 5 pies",
+        "No más cerca de 100 pies",
+        "Justo al lado, si se queda en el auto"
+      ],
+      "h1": "Es la misma distancia que de un cruce peatonal en una intersección.",
+      "h2": "En Pensilvania, no puede estacionarse a menos de 20 pies de la entrada de vehículos de una estación de bomberos.",
+      "p": "Correcto. Quédese al menos a 20 pies."
+    }
+  },
+  {
+    "id": "pa-126",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 58,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, a loaded truck with good brakes is going 65 mph on a dry road. About how far does it need to stop, compared with about 400 feet for a car?",
+      "o": [
+        "About 200 feet",
+        "At least 600 feet",
+        "About 400 feet, the same as a car",
+        "About 100 feet"
+      ],
+      "h1": "A heavy truck needs more room than a car, not less.",
+      "h2": "In Pennsylvania, a loaded truck at 65 mph on a dry road needs at least 600 feet to stop, compared with about 400 feet for a passenger vehicle.",
+      "p": "Right. The truck needs at least 600 feet."
+    },
+    "es": {
+      "q": "En Pensilvania, un camión cargado con buenos frenos va a 65 mph en un camino seco. ¿Más o menos qué distancia necesita para detenerse, comparado con unos 400 pies para un auto?",
+      "o": [
+        "Unos 200 pies",
+        "Al menos 600 pies",
+        "Unos 400 pies, igual que un auto",
+        "Unos 100 pies"
+      ],
+      "h1": "Un camión pesado necesita más espacio que un auto, no menos.",
+      "h2": "En Pensilvania, un camión cargado a 65 mph en camino seco necesita al menos 600 pies para detenerse, comparado con unos 400 pies para un vehículo de pasajeros.",
+      "p": "Correcto. El camión necesita al menos 600 pies."
+    }
+  },
+  {
+    "id": "pa-127",
+    "scope": "PA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 58,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, a school bus ahead has stopped with red lights flashing and its stop arm out. How far away from the bus must you stop?",
+      "o": [
+        "At least 3 feet",
+        "At least 50 feet",
+        "At least 10 feet",
+        "At least 100 feet"
+      ],
+      "h1": "It is about the length of two adults lying end to end.",
+      "h2": "In Pennsylvania, you must stop at least 10 feet away from a school bus that has its red lights flashing and stop arm extended.",
+      "p": "Right. Stop at least 10 feet from the bus."
+    },
+    "es": {
+      "q": "En Pensilvania, un autobús escolar adelante se detuvo con las luces rojas intermitentes y el brazo de alto extendido. ¿A qué distancia del autobús debe detenerse?",
+      "o": [
+        "Al menos a 3 pies",
+        "Al menos a 50 pies",
+        "Al menos a 10 pies",
+        "Al menos a 100 pies"
+      ],
+      "h1": "Es como el largo de dos adultos acostados uno tras otro.",
+      "h2": "En Pensilvania, debe detenerse al menos a 10 pies de un autobús escolar que tiene las luces rojas intermitentes y el brazo de alto extendido.",
+      "p": "Correcto. Deténgase al menos a 10 pies del autobús."
+    }
+  },
+  {
+    "id": "pa-128",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 60,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, you must avoid a sudden hazard at 40 mph. You can brake or steer around it. What does the manual say is usually better?",
+      "o": [
+        "Braking hard, always",
+        "Steering around it, because you react faster when you swerve",
+        "Honking and keeping the same speed",
+        "Speeding up to get past it"
+      ],
+      "h1": "Above 25 mph, one of these takes less reaction time.",
+      "h2": "In Pennsylvania, when you can choose, steering to avoid a hazard is usually better than braking, especially above 25 mph, because your reaction time to swerve is faster.",
+      "p": "Right. Above 25 mph, steering is usually better."
+    },
+    "es": {
+      "q": "En Pensilvania, a 40 mph debe evitar un peligro repentino. Puede frenar o esquivarlo con el volante. ¿Qué dice el manual que suele ser mejor?",
+      "o": [
+        "Frenar fuerte, siempre",
+        "Esquivarlo con el volante, porque reacciona más rápido al girar",
+        "Tocar la bocina y seguir a la misma velocidad",
+        "Acelerar para pasarlo"
+      ],
+      "h1": "Arriba de 25 mph, una de estas acciones toma menos tiempo de reacción.",
+      "h2": "En Pensilvania, cuando puede elegir, esquivar un peligro con el volante suele ser mejor que frenar, sobre todo arriba de 25 mph, porque su tiempo de reacción para girar es más rápido.",
+      "p": "Correcto. Arriba de 25 mph, esquivar suele ser mejor."
+    }
+  },
+  {
+    "id": "pa-129",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 62,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, the manual warns about flooded roads. How deep must water be to carry away most vehicles, even SUVs?",
+      "o": [
+        "About 1 inch",
+        "About 3 inches",
+        "About 2 feet",
+        "About 6 feet"
+      ],
+      "h1": "It is measured in feet, but it is still not very deep.",
+      "h2": "In Pennsylvania, the manual warns that 2 feet of water will carry away most vehicles, including SUVs, so never drive into a flooded road.",
+      "p": "Right. About 2 feet of water can carry away most vehicles."
+    },
+    "es": {
+      "q": "En Pensilvania, el manual advierte sobre caminos inundados. ¿Qué profundidad de agua puede arrastrar a la mayoría de los vehículos, incluso las camionetas SUV?",
+      "o": [
+        "Una pulgada",
+        "Unas 3 pulgadas",
+        "Unos 2 pies",
+        "Unos 6 pies"
+      ],
+      "h1": "Se mide en pies, pero aun así no es muy profundo.",
+      "h2": "En Pensilvania, el manual advierte que 2 pies de agua arrastran a la mayoría de los vehículos, incluidas las SUV, así que nunca maneje por un camino inundado.",
+      "p": "Correcto. Unos 2 pies de agua pueden arrastrar a la mayoría de los vehículos."
+    }
+  },
+  {
+    "id": "pa-130",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 64,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, your right wheels drop off the pavement onto a low shoulder. How slow should you get before you steer back onto the road?",
+      "o": [
+        "Below 50 mph",
+        "You should not slow down; steer back right away",
+        "You must come to a full stop first",
+        "Below 25 mph, and closer to 10 mph if possible"
+      ],
+      "h1": "Ease off the gas and slow down gradually first.",
+      "h2": "In Pennsylvania, if you drift off the pavement, slow gradually to less than 25 mph, preferably closer to 10 mph, before you gently steer back onto the road.",
+      "p": "Right. Slow below 25 mph, ideally near 10 mph, then steer back gently."
+    },
+    "es": {
+      "q": "En Pensilvania, sus ruedas derechas se salen del pavimento a un acotamiento más bajo. ¿Qué tan despacio debe ir antes de volver al camino?",
+      "o": [
+        "A menos de 50 mph",
+        "No debe bajar la velocidad; vuelva de inmediato",
+        "Primero debe parar por completo",
+        "A menos de 25 mph, y si puede cerca de 10 mph"
+      ],
+      "h1": "Primero quite el pie del acelerador y baje la velocidad poco a poco.",
+      "h2": "En Pensilvania, si se sale del pavimento, baje poco a poco a menos de 25 mph, mejor cerca de 10 mph, antes de volver con suavidad al camino.",
+      "p": "Correcto. Baje a menos de 25 mph, mejor cerca de 10 mph, y vuelva con suavidad."
+    }
+  },
+  {
+    "id": "pa-131",
+    "scope": "PA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 64,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, how can you tell that a car is part of a funeral procession?",
+      "o": [
+        "Its headlights and emergency flashers are on, and it has a flag or other sign",
+        "It drives with all its lights off",
+        "It always has a police car right behind it",
+        "It drives faster than other traffic"
+      ],
+      "h1": "The cars use their lights and a marker to show they belong together.",
+      "h2": "In Pennsylvania, all vehicles in a funeral procession must have their headlights and emergency flashers on and carry a flag or other insignia; they may also show a flashing purple light.",
+      "p": "Right. Headlights, flashers and a flag or other sign."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿cómo puede saber que un auto es parte de un cortejo fúnebre?",
+      "o": [
+        "Tiene encendidos los faros y las luces intermitentes de emergencia, y lleva una bandera u otra señal",
+        "Maneja con todas las luces apagadas",
+        "Siempre tiene una patrulla justo detrás",
+        "Maneja más rápido que el resto del tráfico"
+      ],
+      "h1": "Los autos usan sus luces y una señal para mostrar que van juntos.",
+      "h2": "En Pensilvania, todos los vehículos de un cortejo fúnebre deben llevar encendidos los faros y las luces intermitentes de emergencia y una bandera u otra insignia; también pueden llevar una luz morada intermitente.",
+      "p": "Correcto. Faros, luces intermitentes y una bandera u otra señal."
+    }
+  },
+  {
+    "id": "pa-132",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, your license was suspended and is now restored. How many points will your driving record show, in most cases?",
+      "o": [
+        "0 points",
+        "5 points",
+        "The same points you had before",
+        "11 points"
+      ],
+      "h1": "It does not matter how many points you had before the suspension.",
+      "h2": "In Pennsylvania, after your driving privilege is restored, your record shows 5 points in most cases, no matter how many points you had before.",
+      "p": "Right. In most cases, your record restarts at 5 points."
+    },
+    "es": {
+      "q": "En Pensilvania, le suspendieron la licencia y ahora se la devolvieron. ¿Cuántos puntos mostrará su récord, en la mayoría de los casos?",
+      "o": [
+        "0 puntos",
+        "5 puntos",
+        "Los mismos puntos que tenía antes",
+        "11 puntos"
+      ],
+      "h1": "No importa cuántos puntos tenía antes de la suspensión.",
+      "h2": "En Pensilvania, después de que le devuelven el privilegio de manejar, su récord muestra 5 puntos en la mayoría de los casos, sin importar cuántos tenía antes.",
+      "p": "Correcto. En la mayoría de los casos, su récord vuelve a 5 puntos."
+    }
+  },
+  {
+    "id": "pa-133",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, PennDOT mails you a notice that your license will be suspended. How long do you have to appeal in court?",
+      "o": [
+        "5 days",
+        "6 months",
+        "30 days from the mailing date of the notice",
+        "There is no right to appeal"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In Pennsylvania, you may appeal a suspension in the Court of Common Pleas in your county, and the appeal must be filed within 30 days of the mailing date of PennDOT's notice.",
+      "p": "Right. You have 30 days from the mailing date."
+    },
+    "es": {
+      "q": "En Pensilvania, PennDOT le envía por correo un aviso de que su licencia será suspendida. ¿Cuánto tiempo tiene para apelar ante el tribunal?",
+      "o": [
+        "5 días",
+        "6 meses",
+        "30 días desde la fecha de envío del aviso",
+        "No hay derecho a apelar"
+      ],
+      "h1": "Es como un mes.",
+      "h2": "En Pensilvania, puede apelar una suspensión en el Tribunal de Causas Comunes (Court of Common Pleas) de su condado, y la apelación debe presentarse dentro de los 30 días desde la fecha de envío del aviso de PennDOT.",
+      "p": "Correcto. Tiene 30 días desde la fecha de envío."
+    }
+  },
+  {
+    "id": "pa-134",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 81,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, a car with flashing red lights signals you to pull over at night on a dark road. You are not sure it is really the police. What may you do?",
+      "o": [
+        "Speed up to get away from it",
+        "Ignore it and keep driving normally",
+        "Stop right away and get out of your car",
+        "Turn on your flashers, drive slowly and go to the nearest well-lit, busy area"
+      ],
+      "h1": "Show that you understand, but find a safe, lighted place with people around.",
+      "h2": "In Pennsylvania, if you are not sure the vehicle stopping you is the police, you may turn on your flashers, drive at a reduced speed and go to the nearest well-lit, populated area before stopping.",
+      "p": "Right. Use your flashers, drive slowly and stop in a well-lit, busy place."
+    },
+    "es": {
+      "q": "En Pensilvania, de noche en un camino oscuro, un auto con luces rojas intermitentes le indica que se detenga. Usted no está seguro de que sea la policía. ¿Qué puede hacer?",
+      "o": [
+        "Acelerar para alejarse",
+        "Ignorarlo y seguir manejando normal",
+        "Parar de inmediato y bajarse del auto",
+        "Encender las luces intermitentes, manejar despacio e ir al lugar más cercano bien iluminado y con gente"
+      ],
+      "h1": "Muestre que entendió, pero busque un lugar seguro, iluminado y con gente.",
+      "h2": "En Pensilvania, si no está seguro de que quien lo detiene sea la policía, puede encender las luces intermitentes, manejar a menor velocidad e ir al lugar más cercano bien iluminado y con gente antes de detenerse.",
+      "p": "Correcto. Use las intermitentes, maneje despacio y pare en un lugar iluminado y con gente."
+    }
+  },
+  {
+    "id": "pa-135",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, police stop you at night. What do police recommend you do before the officer walks up?",
+      "o": [
+        "Turn on your car's inside light",
+        "Get out and walk to the police car",
+        "Look for your papers under the seat",
+        "Unbuckle your seat belt"
+      ],
+      "h1": "Help the officer see inside your car.",
+      "h2": "In Pennsylvania, if police stop you at night, turn on your interior light before the officer approaches, keep your seat belt on and keep your hands on the wheel.",
+      "p": "Right. Turn on the inside light."
+    },
+    "es": {
+      "q": "En Pensilvania, la policía lo detiene de noche. ¿Qué recomienda la policía que haga antes de que el agente se acerque?",
+      "o": [
+        "Encender la luz interior del auto",
+        "Bajarse y caminar hasta la patrulla",
+        "Buscar sus papeles debajo del asiento",
+        "Quitarse el cinturón de seguridad"
+      ],
+      "h1": "Ayude al agente a ver dentro de su auto.",
+      "h2": "En Pensilvania, si la policía lo detiene de noche, encienda la luz interior antes de que el agente se acerque, mantenga puesto el cinturón y las manos en el volante.",
+      "p": "Correcto. Encienda la luz interior."
+    }
+  },
+  {
+    "id": "pa-136",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 83,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, an adult is convicted of a first DUI with a BAC of 0.08 to 0.099 (general impairment). What happens to the license?",
+      "o": [
+        "A 12-month suspension",
+        "No license suspension",
+        "An 18-month suspension",
+        "It is taken away for life"
+      ],
+      "h1": "This lowest level brings probation and a fine instead.",
+      "h2": "In Pennsylvania, a first DUI at the general impairment level (0.08 to 0.099 BAC) brings 6 months of probation and a $300 fine, with no license action.",
+      "p": "Right. No license action for a first general-impairment DUI, but there is probation and a fine."
+    },
+    "es": {
+      "q": "En Pensilvania, un adulto es condenado por un primer DUI con un BAC de 0.08 a 0.099 (deterioro general). ¿Qué pasa con su licencia?",
+      "o": [
+        "Una suspensión de 12 meses",
+        "No se suspende la licencia",
+        "Una suspensión de 18 meses",
+        "Se la quitan de por vida"
+      ],
+      "h1": "Este nivel más bajo trae libertad condicional y una multa en su lugar.",
+      "h2": "En Pensilvania, un primer DUI en el nivel de deterioro general (BAC de 0.08 a 0.099) trae 6 meses de libertad condicional y una multa de $300, sin acción sobre la licencia.",
+      "p": "Correcto. No hay acción sobre la licencia en un primer DUI de deterioro general, pero sí libertad condicional y multa."
+    }
+  },
+  {
+    "id": "pa-137",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 84,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, an adult knowingly gives alcohol to a person under 21. What is the lowest fine for a first offense?",
+      "o": [
+        "$25",
+        "$100",
+        "$1,000",
+        "$300"
+      ],
+      "h1": "Each additional minor costs $2,500.",
+      "h2": "In Pennsylvania, an adult convicted of knowingly supplying alcohol to minors faces a fine of at least $1,000 for the first offense, $2,500 for each additional one, and up to a year in jail.",
+      "p": "Right. At least $1,000 for the first offense."
+    },
+    "es": {
+      "q": "En Pensilvania, un adulto le da alcohol a sabiendas a una persona menor de 21 años. ¿Cuál es la multa mínima por una primera infracción?",
+      "o": [
+        "$25",
+        "$100",
+        "$1,000",
+        "$300"
+      ],
+      "h1": "Cada menor adicional cuesta $2,500.",
+      "h2": "En Pensilvania, un adulto condenado por dar alcohol a sabiendas a menores recibe una multa de al menos $1,000 por la primera infracción, $2,500 por cada una adicional y hasta un año de cárcel.",
+      "p": "Correcto. Al menos $1,000 por la primera infracción."
+    }
+  },
+  {
+    "id": "pa-138",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 92,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, you park in a space for persons with disabilities without the right plate or placard. What fine can you face?",
+      "o": [
+        "$5 to $10",
+        "$1,000 to $5,000",
+        "No fine, only a warning",
+        "$50 to $200"
+      ],
+      "h1": "Your car may also be towed at your cost.",
+      "h2": "In Pennsylvania, parking illegally in a space for persons with disabilities is a summary offense with a fine of $50 to $200, and the vehicle may be towed.",
+      "p": "Right. $50 to $200, and you may be towed."
+    },
+    "es": {
+      "q": "En Pensilvania, usted se estaciona en un espacio para personas con discapacidad sin la placa o el permiso correcto. ¿Qué multa puede recibir?",
+      "o": [
+        "De $5 a $10",
+        "De $1,000 a $5,000",
+        "Ninguna multa, solo una advertencia",
+        "De $50 a $200"
+      ],
+      "h1": "Además, su auto puede ser remolcado y usted paga el costo.",
+      "h2": "En Pensilvania, estacionarse ilegalmente en un espacio para personas con discapacidad es una infracción menor con multa de $50 a $200, y el vehículo puede ser remolcado.",
+      "p": "Correcto. De $50 a $200, y lo pueden remolcar."
+    }
+  },
+  {
+    "id": "pa-139",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 92,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, a police officer notices a broken part on your car, such as a taillight. How soon may you be required to fix it to avoid a citation?",
+      "o": [
+        "Within 5 days",
+        "Within 1 hour",
+        "Within 60 days",
+        "At your next yearly inspection"
+      ],
+      "h1": "It is less than a week.",
+      "h2": "In Pennsylvania, if a police officer notices faulty equipment on your vehicle, you may be required to fix it within 5 days to avoid a citation.",
+      "p": "Right. You may have 5 days to fix it."
+    },
+    "es": {
+      "q": "En Pensilvania, un policía nota una pieza dañada en su auto, como una luz trasera. ¿En cuánto tiempo pueden exigirle que la arregle para evitar una multa?",
+      "o": [
+        "En 5 días",
+        "En 1 hora",
+        "En 60 días",
+        "En su próxima inspección anual"
+      ],
+      "h1": "Es menos de una semana.",
+      "h2": "En Pensilvania, si un policía nota equipo defectuoso en su vehículo, pueden exigirle que lo arregle en 5 días para evitar una multa.",
+      "p": "Correcto. Puede tener 5 días para arreglarlo."
+    }
+  },
+  {
+    "id": "pa-140",
+    "scope": "PA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 92,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, you are passing a bicycle on a road with a double yellow center line. You cannot keep 4 feet of space in your lane. What does the law allow?",
+      "o": [
+        "You may pass with less space if you honk first",
+        "You may cross the double yellow line, if it is safe, to keep 4 feet of space",
+        "You may never cross the line, so pass closer",
+        "You must use the shoulder to pass"
+      ],
+      "h1": "The 4-foot rule matters so much that the law makes an exception.",
+      "h2": "In Pennsylvania, if necessary and safe, you may cross the double yellow center line to keep at least 4 feet between your vehicle and a bicycle you are passing.",
+      "p": "Right. If it is safe, you may cross the double yellow to keep 4 feet."
+    },
+    "es": {
+      "q": "En Pensilvania, usted rebasa a una bicicleta en un camino con doble línea amarilla en el centro. No puede dejar 4 pies de espacio dentro de su carril. ¿Qué permite la ley?",
+      "o": [
+        "Puede rebasar con menos espacio si toca la bocina antes",
+        "Puede cruzar la doble línea amarilla, si es seguro, para dejar 4 pies de espacio",
+        "Nunca puede cruzar la línea, así que rebase más cerca",
+        "Debe usar el acotamiento para rebasar"
+      ],
+      "h1": "La regla de 4 pies es tan importante que la ley hace una excepción.",
+      "h2": "En Pensilvania, si es necesario y seguro, puede cruzar la doble línea amarilla central para dejar al menos 4 pies entre su vehículo y la bicicleta que rebasa.",
+      "p": "Correcto. Si es seguro, puede cruzar la doble línea amarilla para dejar 4 pies."
+    }
+  },
+  {
+    "id": "pa-141",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 93,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, you are about to open your car door on a street where bicycles ride. Which hand does the manual suggest you use?",
+      "o": [
+        "The hand closer to the door",
+        "Either hand, as long as you open it fast",
+        "The hand farther from the door",
+        "Neither; always open it with your foot"
+      ],
+      "h1": "This method makes your body turn so you can look back.",
+      "h2": "In Pennsylvania, the manual suggests the Dutch Reach: check your mirrors, then open the door with your far hand so you turn and can see bicycles coming.",
+      "p": "Right. Use your far hand, the Dutch Reach."
+    },
+    "es": {
+      "q": "En Pensilvania, usted va a abrir la puerta de su auto en una calle donde pasan bicicletas. ¿Qué mano sugiere el manual que use?",
+      "o": [
+        "La mano más cercana a la puerta",
+        "Cualquier mano, si la abre rápido",
+        "La mano más lejana a la puerta",
+        "Ninguna; ábrala siempre con el pie"
+      ],
+      "h1": "Este método hace que su cuerpo gire para que pueda mirar hacia atrás.",
+      "h2": "En Pensilvania, el manual sugiere el método Dutch Reach: revise los espejos y abra la puerta con la mano más lejana, para girar y ver las bicicletas que vienen.",
+      "p": "Correcto. Use la mano más lejana, el Dutch Reach."
+    }
+  },
+  {
+    "id": "pa-142",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 81,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, you hit a parked car and cannot find the owner. What must you do?",
+      "o": [
+        "Drive away, since no one was hurt",
+        "Wait at the car for up to 24 hours",
+        "Only tell your own insurance company",
+        "Leave a note where it can be seen, with your name and phone number, and call the police"
+      ],
+      "h1": "The owner must be able to reach you, and the police must know.",
+      "h2": "In Pennsylvania, if you hit a parked vehicle and cannot find the owner, leave a note where it can be seen with the date, time, your name and a phone number, and call the police.",
+      "p": "Right. Leave a note and call the police."
+    },
+    "es": {
+      "q": "En Pensilvania, usted choca con un auto estacionado y no encuentra al dueño. ¿Qué debe hacer?",
+      "o": [
+        "Irse, ya que nadie se lastimó",
+        "Esperar junto al auto hasta 24 horas",
+        "Avisar solo a su propia compañía de seguros",
+        "Dejar una nota visible con su nombre y teléfono, y llamar a la policía"
+      ],
+      "h1": "El dueño debe poder comunicarse con usted, y la policía debe saberlo.",
+      "h2": "En Pensilvania, si choca con un vehículo estacionado y no encuentra al dueño, deje una nota visible con la fecha, la hora, su nombre y un teléfono, y llame a la policía.",
+      "p": "Correcto. Deje una nota y llame a la policía."
+    }
+  },
+  {
+    "id": "pa-143",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 90,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, how must a child under age 2 ride in a car?",
+      "o": [
+        "In a rear-facing car seat, until the child outgrows its weight and height limits",
+        "In a forward-facing seat in the front",
+        "In a booster seat with a lap belt",
+        "On an adult's lap with a seat belt around both"
+      ],
+      "h1": "The child faces the back of the car.",
+      "h2": "In Pennsylvania, children younger than 2 must ride in a rear-facing car seat until they outgrow the seat maker's weight and height limits.",
+      "p": "Right. Under 2, the child rides rear-facing."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿cómo debe viajar en un auto un niño menor de 2 años?",
+      "o": [
+        "En un asiento de seguridad mirando hacia atrás, hasta que pase los límites de peso y estatura del asiento",
+        "En un asiento mirando hacia adelante en el frente",
+        "En un asiento elevado (booster) con cinturón de cadera",
+        "En las piernas de un adulto con un cinturón alrededor de los dos"
+      ],
+      "h1": "El niño mira hacia la parte trasera del auto.",
+      "h2": "En Pensilvania, los niños menores de 2 años deben viajar en un asiento de seguridad mirando hacia atrás hasta que pasen los límites de peso y estatura del fabricante.",
+      "p": "Correcto. Menores de 2 años viajan mirando hacia atrás."
+    }
+  },
+  {
+    "id": "pa-144",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 89,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, which adults does the seat belt law require to buckle up?",
+      "o": [
+        "Only the driver",
+        "All drivers and front-seat passengers",
+        "Only passengers in the back seat",
+        "Only people on highways"
+      ],
+      "h1": "Think of everyone in the front of the car.",
+      "h2": "In Pennsylvania, the seat belt law requires all drivers and front-seat passengers to wear seat belts, and passengers 8 to 17 must buckle up in any seat.",
+      "p": "Right. Drivers and front-seat passengers must buckle up."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿a qué adultos obliga la ley a usar el cinturón de seguridad?",
+      "o": [
+        "Solo al conductor",
+        "A todos los conductores y pasajeros del asiento delantero",
+        "Solo a los pasajeros del asiento trasero",
+        "Solo a quienes van en autopista"
+      ],
+      "h1": "Piense en todos los que van en la parte delantera del auto.",
+      "h2": "En Pensilvania, la ley exige que todos los conductores y pasajeros del asiento delantero usen el cinturón, y los pasajeros de 8 a 17 años deben usarlo en cualquier asiento.",
+      "p": "Correcto. Conductores y pasajeros delanteros deben abrocharse."
+    }
+  },
+  {
+    "id": "pa-145",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 89,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, you report a name change to PennDOT. What do you get, and what must you do with it?",
+      "o": [
+        "A brand-new license, after a new road test",
+        "Nothing; you only tell the police",
+        "An update card, which you must carry with your license",
+        "A temporary permit good for 10 days"
+      ],
+      "h1": "It is a small card, and there is no fee for it.",
+      "h2": "In Pennsylvania, after you report a name change, you get a driver's license update card with the new information, and you must carry it with your license.",
+      "p": "Right. Carry the update card with your license."
+    },
+    "es": {
+      "q": "En Pensilvania, usted informa a PennDOT un cambio de nombre. ¿Qué recibe y qué debe hacer con eso?",
+      "o": [
+        "Una licencia nueva, después de otro examen de manejo",
+        "Nada; solo se le avisa a la policía",
+        "Una tarjeta de actualización, que debe llevar con su licencia",
+        "Un permiso temporal válido por 10 días"
+      ],
+      "h1": "Es una tarjeta pequeña y no tiene costo.",
+      "h2": "En Pensilvania, después de informar un cambio de nombre, recibe una tarjeta de actualización de la licencia con los datos nuevos, y debe llevarla con su licencia.",
+      "p": "Correcto. Lleve la tarjeta de actualización con su licencia."
+    }
+  },
+  {
+    "id": "pa-146",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 82,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, a driver who has a prior DUI conviction refuses a chemical test and is then convicted of DUI again. How long is the total suspension?",
+      "o": [
+        "6 months",
+        "1 year",
+        "10 years",
+        "3 years"
+      ],
+      "h1": "It is 18 months for the refusal plus 18 months for the DUI.",
+      "h2": "In Pennsylvania, a driver with a prior DUI or prior refusal who refuses a chemical test faces 18 months for the refusal plus 18 months for the DUI conviction, a total of 3 years.",
+      "p": "Right. 18 plus 18 months makes 3 years."
+    },
+    "es": {
+      "q": "En Pensilvania, un conductor con una condena previa por DUI se niega a una prueba química y luego es condenado otra vez por DUI. ¿Cuánto dura la suspensión total?",
+      "o": [
+        "6 meses",
+        "1 año",
+        "10 años",
+        "3 años"
+      ],
+      "h1": "Son 18 meses por la negativa más 18 meses por el DUI.",
+      "h2": "En Pensilvania, un conductor con un DUI o una negativa previa que se niega a una prueba química recibe 18 meses por la negativa más 18 meses por la condena de DUI, un total de 3 años.",
+      "p": "Correcto. 18 más 18 meses son 3 años."
+    }
+  },
+  {
+    "id": "pa-147",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 83,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, DUI penalties come in three levels. At what blood alcohol level does the \"highest rate\" begin?",
+      "o": [
+        "0.16 percent",
+        "0.02 percent",
+        "0.08 percent",
+        "0.30 percent"
+      ],
+      "h1": "It is twice the adult legal limit.",
+      "h2": "In Pennsylvania, the highest rate of DUI impairment begins at a BAC of 0.16 percent, and it also applies to drivers who refuse chemical testing.",
+      "p": "Right. The highest rate starts at 0.16 percent."
+    },
+    "es": {
+      "q": "En Pensilvania, las penas por DUI tienen tres niveles. ¿Con qué nivel de alcohol en la sangre empieza la \"tasa más alta\" (highest rate)?",
+      "o": [
+        "0.16 por ciento",
+        "0.02 por ciento",
+        "0.08 por ciento",
+        "0.30 por ciento"
+      ],
+      "h1": "Es el doble del límite legal para adultos.",
+      "h2": "En Pensilvania, la tasa más alta de DUI empieza con un BAC de 0.16 por ciento, y también se aplica a quienes se niegan a la prueba química.",
+      "p": "Correcto. La tasa más alta empieza en 0.16 por ciento."
+    }
+  },
+  {
+    "id": "pa-148",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 85,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, you got a traffic ticket in another state and never responded to it. What happens to your Pennsylvania driving privilege?",
+      "o": [
+        "Nothing, because the ticket was out of state",
+        "It is suspended until you respond to the ticket",
+        "You only get 1 point",
+        "It is suspended for exactly 7 days"
+      ],
+      "h1": "Under the Driver's License Compact, states share this information.",
+      "h2": "In Pennsylvania, not responding to an out-of-state citation leads to an indefinite suspension of your driving privilege until you respond.",
+      "p": "Right. It stays suspended until you respond."
+    },
+    "es": {
+      "q": "En Pensilvania, usted recibió una multa de tránsito en otro estado y nunca respondió. ¿Qué pasa con su privilegio de manejar en Pensilvania?",
+      "o": [
+        "Nada, porque la multa fue en otro estado",
+        "Se suspende hasta que responda a la multa",
+        "Solo recibe 1 punto",
+        "Se suspende exactamente 7 días"
+      ],
+      "h1": "Por el Acuerdo de Licencias de Conducir (Driver's License Compact), los estados comparten esta información.",
+      "h2": "En Pensilvania, no responder a una multa de otro estado lleva a una suspensión indefinida de su privilegio de manejar hasta que responda.",
+      "p": "Correcto. Sigue suspendido hasta que responda."
+    }
   }
 ]
