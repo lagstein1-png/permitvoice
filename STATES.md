@@ -30,7 +30,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | KS | Kansas | 200 | 200 | 25 q, pass 20 (80%) | [link](https://www.ksrevenue.gov/pdf/dlhb.pdf) | [link](https://www.ksrevenue.gov/pdf/dlhb-sp.pdf) | yes |
 | KY | Kentucky | 200 | 200 | ? q, pass ? (80%) | [link](https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf) | [link](https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2023/11/Kentucky-Driver-Manual09-08-2023_SPANISH.pdf) | yes |
 | LA | Louisiana | 200 | 200 | 40 q, pass 32 (80%) | [link](https://public.powerdms.com/LADPSC/documents/347039) | — | yes |
-| MA | Massachusetts | 51 | 51 | 25 q, pass 18 (72%) | [link](https://www.mass.gov/doc/english-drivers-manual/download) | [link](https://www.mass.gov/files/documents/2019/09/02/Drivers_Manual_Spanish_0119_rev0819.pdf) | yes |
+| MA | Massachusetts | 200 | 200 | 25 q, pass 18 (72%) | [link](https://www.mass.gov/doc/english-drivers-manual/download) | [link](https://www.mass.gov/files/documents/2019/09/02/Drivers_Manual_Spanish_0119_rev0819.pdf) | yes |
 | MD | Maryland | 200 | 200 | 25 q, pass 22 (88%) | [link](https://mva.maryland.gov/Documents/DL-002.pdf) | [link](https://mva.maryland.gov/media/143) | yes |
 | ME | Maine | 200 | 200 | 30 q, pass 24 (80%) | [link](https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf) | [link](https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Model%20Driver%20Manual_rev%2005_2025_Spanish_Final_1.pdf) | yes |
 | MI | Michigan | 200 | 200 | not found | [link](https://www.michigan.gov/sos/-/media/Project/Websites/sos/Resources/Forms-and-publications/WEDMK/WEDMK.pdf) | — | yes |
@@ -42,7 +42,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | ND | North Dakota | 152 | 149 | 25 q, pass 20 (80%) | [link](https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf) | [link](https://dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/2023-text-231023_SPA%20DL%20Manual.pdf) | yes |
 | NE | Nebraska | 148 | 148 | 25 q, pass 20 (80%) | [link](https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf) | [link](https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/SpanishDriversManual.pdf) | yes |
 | NH | New Hampshire | 102 | 99 | 40 q, pass 32 (80%) | [link](https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/nhdm.pdf) | — | yes |
-| NJ | New Jersey | 100 | 100 | 50 q, pass 40 (80%) | [link](https://www.nj.gov/mvc/pdf/license/drivermanual.pdf) | [link](https://www.nj.gov/mvc/pdf/license/drivermanuals.pdf) | yes |
+| NJ | New Jersey | 150 | 150 | 50 q, pass 40 (80%) | [link](https://www.nj.gov/mvc/pdf/license/drivermanual.pdf) | [link](https://www.nj.gov/mvc/pdf/license/drivermanuals.pdf) | yes |
 | NM | New Mexico | 144 | 144 | ? q, pass ? (70%) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/dlms11.19.19.pdf) | yes |
 | NV | Nevada | 101 | 100 | 25 q, pass 20 (80%) | [link](https://dmv.nv.gov/pdfforms/dlbook.pdf) | — | yes |
 | NY | New York | 100 | 100 | 20 q, pass 14 (70%) | [link](https://dmv.ny.gov/brochure/mv21.pdf) | [link](https://dmv.ny.gov/brochure/mv21s.pdf) | yes |
