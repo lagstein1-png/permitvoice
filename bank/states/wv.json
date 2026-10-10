@@ -1485,76 +1485,28 @@
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In West Virginia, which stopped vehicle with flashing lights is covered by the move over law?",
+      "q": "In West Virginia, which stopped vehicles does the move over law cover?",
       "o": [
         "Only police cars",
-        "Only fire trucks",
-        "Only ambulances",
-        "All of these: police cars, ambulances and tow trucks"
+        "Only police cars and ambulances",
+        "Only vehicles with red or blue lights",
+        "Any stopped vehicle showing flashing warning lights, hazard lights, flares or warning signs"
       ],
-      "h1": "The law covers any stopped vehicle that shows warning lights.",
-      "h2": "In West Virginia the move over law covers every stopped vehicle with flashing or hazard lights, including police cars, ambulances and tow trucks, so you move over if it is safe or slow down.",
-      "p": "Right. The law covers all of them."
+      "h1": "The law looks at the warning signal, not the kind of vehicle.",
+      "h2": "In West Virginia the move over law covers any stopped vehicle showing flashing warning lights, hazard lights, flares or warning signs, so you move over if it is safe or slow down.",
+      "p": "Right. Any stopped vehicle giving a warning signal is covered."
     },
     "es": {
-      "q": "En Virginia Occidental, ¿qué vehículo detenido con luces intermitentes está cubierto por la ley de cambiarse de carril (move over)?",
+      "q": "En Virginia Occidental, ¿qué vehículos detenidos cubre la ley de cambiarse de carril (move over)?",
       "o": [
-        "Solo patrullas",
-        "Solo camiones de bomberos",
-        "Solo ambulancias",
-        "Todos estos: patrullas, ambulancias y grúas"
+        "Solo las patrullas",
+        "Solo las patrullas y las ambulancias",
+        "Solo los vehículos con luces rojas o azules",
+        "Cualquier vehículo detenido que muestre luces intermitentes de advertencia, luces de emergencia, bengalas o señales de advertencia"
       ],
-      "h1": "La ley cubre a cualquier vehículo detenido que muestre luces de advertencia.",
-      "h2": "En Virginia Occidental, la ley de cambiarse de carril cubre a todo vehículo detenido con luces intermitentes o de emergencia, incluidas patrullas, ambulancias y grúas, así que usted se cambia de carril si es seguro o reduce la velocidad.",
-      "p": "Correcto. La ley los cubre a todos."
-    },
-    "zh": {
-      "q": "在 West Virginia，哪一种停在路边、亮着闪灯的车辆受「让道法」（move over law）保护？",
-      "o": [
-        "只有警车",
-        "只有消防车",
-        "只有救护车",
-        "以上都是：警车、救护车和拖车"
-      ],
-      "h1": "法律包括任何停着、亮着警示灯的车辆。",
-      "h2": "在 West Virginia，「让道法」包括所有停着、亮着闪灯或危险警示灯的车辆，包括警车、救护车和拖车，所以安全时你要换到另一条车道，否则要减速。",
-      "p": "对。法律包括所有这些车辆。"
-    },
-    "vi": {
-      "q": "Ở West Virginia, loại xe đang dừng và có đèn nhấp nháy nào được luật nhường đường (move over law) bảo vệ?",
-      "o": [
-        "Chỉ xe cảnh sát",
-        "Chỉ xe cứu hỏa",
-        "Chỉ xe cứu thương",
-        "Tất cả: xe cảnh sát, xe cứu thương và xe kéo"
-      ],
-      "h1": "Luật áp dụng cho bất kỳ xe nào đang dừng và bật đèn cảnh báo.",
-      "h2": "Ở West Virginia, luật nhường đường áp dụng cho mọi xe đang dừng có đèn nhấp nháy hoặc đèn cảnh báo nguy hiểm, kể cả xe cảnh sát, xe cứu thương và xe kéo, nên bạn phải chuyển làn nếu an toàn, hoặc chạy chậm lại.",
-      "p": "Đúng. Luật áp dụng cho tất cả các xe đó."
-    },
-    "tl": {
-      "q": "Sa West Virginia, aling nakahintong sasakyan na may kumikislap na ilaw ang sakop ng move over law?",
-      "o": [
-        "Mga sasakyan ng pulis lamang",
-        "Mga trak ng bumbero lamang",
-        "Mga ambulansya lamang",
-        "Lahat ng ito: sasakyan ng pulis, ambulansya at tow truck"
-      ],
-      "h1": "Sakop ng batas ang anumang nakahintong sasakyan na may babalang ilaw.",
-      "h2": "Sa West Virginia, sakop ng move over law ang bawat nakahintong sasakyan na may kumikislap o hazard na ilaw, kasama ang sasakyan ng pulis, ambulansya at tow truck, kaya lumipat ka ng lane kung ligtas, o bumagal.",
-      "p": "Tama. Sakop ng batas ang lahat ng ito."
-    },
-    "ar": {
-      "q": "في West Virginia، أي مركبة متوقّفة وأضواؤها تومض يشملها قانون الابتعاد (move over law)؟",
-      "o": [
-        "سيارات الشرطة فقط",
-        "سيارات الإطفاء فقط",
-        "سيارات الإسعاف فقط",
-        "كل هذه: سيارات الشرطة والإسعاف وشاحنات السحب"
-      ],
-      "h1": "القانون يشمل أي مركبة متوقّفة تُظهر أضواء تحذير.",
-      "h2": "في West Virginia يشمل قانون الابتعاد كل مركبة متوقّفة بأضواء وامضة أو أضواء تحذير، ومنها سيارات الشرطة والإسعاف وشاحنات السحب، لذلك تنتقل إلى مسار آخر إذا كان ذلك آمنًا، أو تخفّف السرعة.",
-      "p": "صحيح. القانون يشملها كلها."
+      "h1": "La ley se fija en la señal de advertencia, no en el tipo de vehículo.",
+      "h2": "En Virginia Occidental, la ley de cambiarse de carril cubre a cualquier vehículo detenido que muestre luces intermitentes de advertencia, luces de emergencia, bengalas o señales de advertencia, así que usted se cambia de carril si es seguro o reduce la velocidad.",
+      "p": "Correcto. Cualquier vehículo detenido que dé una señal de advertencia está cubierto."
     }
   },
   {
