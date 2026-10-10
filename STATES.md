@@ -26,7 +26,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | IA | Iowa | 31 | 31 | ? q, pass ? (80%) | [link](https://iowadot.gov/media/7308/download?inline) | [link](https://iowadot.gov/media/7173/download) | yes |
 | ID | Idaho | 51 | 51 | 40 q, pass 34 (85%) | [link](https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf) | [link](https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf) | yes |
 | IL | Illinois | 52 | 51 | 35 q, pass 28 (80%) | [link](https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf) | [link](https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a113.pdf) | yes |
-| IN | Indiana | 31 | 31 | ? q, pass ? (80%) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual-spanish.pdf) | yes |
+| IN | Indiana | 51 | 51 | ? q, pass ? (80%) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual-spanish.pdf) | yes |
 | KS | Kansas | 31 | 31 | 25 q, pass 20 (80%) | [link](https://www.ksrevenue.gov/pdf/dlhb.pdf) | [link](https://www.ksrevenue.gov/pdf/dlhb-sp.pdf) | yes |
 | KY | Kentucky | 31 | 31 | ? q, pass ? (80%) | [link](https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf) | [link](https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2023/11/Kentucky-Driver-Manual09-08-2023_SPANISH.pdf) | yes |
 | LA | Louisiana | 31 | 31 | 40 q, pass 32 (80%) | [link](https://public.powerdms.com/LADPSC/documents/347039) | — | yes |
@@ -36,7 +36,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | MI | Michigan | 51 | 51 | not found | [link](https://www.michigan.gov/sos/-/media/Project/Websites/sos/Resources/Forms-and-publications/WEDMK/WEDMK.pdf) | — | yes |
 | MN | Minnesota | 51 | 51 | ? q, pass ? (80%) | [link](https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-english.pdf) | [link](https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-spanish.pdf) | yes |
 | MO | Missouri | 31 | 31 | 25 q, pass 20 (80%) | [link](https://dor.mo.gov/forms/Driver%20Guide.pdf) | — | yes |
-| MS | Mississippi | 36 | 31 | 30 q, pass 24 (80%) | [link](https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf) | — | yes |
+| MS | Mississippi | 56 | 51 | 30 q, pass 24 (80%) | [link](https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf) | — | yes |
 | MT | Montana | 31 | 31 | 33 q, pass 27 | [link](https://opi.mt.gov/Portals/182/Page%20Files/Driver%20Education/Curriculum/Resources%20and%20Extras/Montana-Driver-Manual.pdf) | — | yes |
 | NC | North Carolina | 50 | 50 | not found | [link](https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf) | [link](https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/driver-handbook-spanish.pdf) | yes |
 | ND | North Dakota | 52 | 50 | 25 q, pass 20 (80%) | [link](https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf) | [link](https://dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/2023-text-231023_SPA%20DL%20Manual.pdf) | yes |
