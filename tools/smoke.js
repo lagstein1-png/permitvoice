@@ -95,6 +95,10 @@ srv.listen(0, async () => {
   ok(await p.evaluate(() => document.documentElement.dir === 'ltr'), 'leaving Arabic switches back to left-to-right');
   ok(await p.isVisible('#chkEn'), 'Florida in Chinese: English-only test notice with the "show English" switch');
   await p.click('#btnStart'); await p.waitForSelector('.opt');
+  // Questions not yet translated fall back to English; restart the shuffled deck until a translated one comes up.
+  for (let i = 0; i < 40 && !(await p.evaluate(() => window.PV_BANK.some(x => x.zh && x.zh.q === document.getElementById('qtitle').textContent))); i++) {
+    await p.click('#btnBack'); await p.click('#btnStart'); await p.waitForSelector('.opt');
+  }
   const zhOk = await p.evaluate(() => { const t = document.getElementById('qtitle').textContent;
     const q = window.PV_BANK.find(x => x.zh && x.zh.q === t); const en = document.getElementById('qen');
     return !!q && !!en && en.textContent === q.en.q && document.querySelectorAll('.opt .en2').length === 4; });
@@ -103,6 +107,9 @@ srv.listen(0, async () => {
   await p.click('#btnBack');
   ok(await p.isVisible('[data-lang="ht"]'), 'Haitian Creole is offered for Florida');
   await p.click('[data-lang="ht"]'); await p.click('#btnStart'); await p.waitForSelector('.opt');
+  for (let i = 0; i < 40 && !(await p.evaluate(() => window.PV_BANK.some(x => x.ht && x.ht.q === document.getElementById('qtitle').textContent))); i++) {
+    await p.click('#btnBack'); await p.click('#btnStart'); await p.waitForSelector('.opt');
+  }
   ok(await p.evaluate(() => window.PV_BANK.some(x => x.ht && x.ht.q === document.getElementById('qtitle').textContent)), 'Creole question shown');
   await p.click('#btnBack'); await p.selectOption('#selState', 'TX');
   ok(!(await p.isVisible('[data-lang="ht"]')) && await p.evaluate(() => document.documentElement.lang === 'en'), 'Creole is not offered for Texas, and the app falls back to English');

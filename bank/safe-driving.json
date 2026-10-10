@@ -5022,5 +5022,821 @@
       "h2": "Yon kamyon lou ka fè bak yon ti kras sou yon mòn anvan li avanse, kidonk kite plis espas devan w.",
       "p": "Se sa. Kite plis espas paske yon kamyon ka fè bak sou yon mòn."
     }
+  },
+  {
+    "id": "safe-driving-055",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Seat Belts, https://www.nhtsa.gov/vehicle-safety/seat-belts",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Where should the lap part of a seat belt go?",
+      "o": [
+        "Across your stomach",
+        "Loose across your lap",
+        "Under your legs",
+        "Low and snug across your hips"
+      ],
+      "h1": "The hip bones are strong.",
+      "h2": "The lap belt should sit low and snug across your hips, not across your stomach, so it holds your strong hip bones in a crash.",
+      "p": "Right. Low and snug across the hips."
+    },
+    "es": {
+      "q": "¿Dónde debe ir la parte del cinturón que cruza la cintura?",
+      "o": [
+        "Sobre el estómago",
+        "Floja sobre las piernas",
+        "Debajo de las piernas",
+        "Baja y ajustada sobre las caderas"
+      ],
+      "h1": "Los huesos de la cadera son fuertes.",
+      "h2": "La parte baja del cinturón debe ir baja y ajustada sobre las caderas, no sobre el estómago, para sujetar los huesos fuertes de la cadera en un choque.",
+      "p": "Correcto. Baja y ajustada sobre las caderas."
+    }
+  },
+  {
+    "id": "safe-driving-056",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Seat Belts, https://www.nhtsa.gov/vehicle-safety/seat-belts",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Where should the shoulder part of a seat belt go?",
+      "o": [
+        "Across the middle of your chest and over your shoulder",
+        "Behind your back",
+        "Under your arm",
+        "Across your neck"
+      ],
+      "h1": "Never move the shoulder belt out of the way.",
+      "h2": "The shoulder belt should cross the middle of your chest and your shoulder, never behind your back or under your arm.",
+      "p": "Right. Across the chest and shoulder."
+    },
+    "es": {
+      "q": "¿Dónde debe ir la parte del cinturón que cruza el hombro?",
+      "o": [
+        "Sobre el centro del pecho y el hombro",
+        "Detrás de la espalda",
+        "Debajo del brazo",
+        "Sobre el cuello"
+      ],
+      "h1": "Nunca quite la banda del hombro de su lugar.",
+      "h2": "La banda del hombro debe cruzar el centro del pecho y el hombro, nunca detrás de la espalda ni debajo del brazo.",
+      "p": "Correcto. Sobre el pecho y el hombro."
+    }
+  },
+  {
+    "id": "safe-driving-057",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Seat Belts, https://www.nhtsa.gov/vehicle-safety/seat-belts",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "How does a seat belt protect you in a crash?",
+      "o": [
+        "It stops the car faster",
+        "It keeps you in your seat so you are not thrown against the car or out of it",
+        "It makes the air bag work",
+        "It keeps the doors closed"
+      ],
+      "h1": "Being thrown from a car is often deadly.",
+      "h2": "A seat belt holds you in your seat, so you are not thrown into the dashboard or windshield or out of the vehicle.",
+      "p": "Right. It keeps you in your seat."
+    },
+    "es": {
+      "q": "¿Cómo lo protege el cinturón de seguridad en un choque?",
+      "o": [
+        "Hace que el carro se pare más rápido",
+        "Lo mantiene en su asiento para que no salga lanzado contra el carro o fuera de él",
+        "Hace funcionar la bolsa de aire",
+        "Mantiene las puertas cerradas"
+      ],
+      "h1": "Salir lanzado de un carro muchas veces es mortal.",
+      "h2": "El cinturón lo sujeta en su asiento, así no sale lanzado contra el tablero o el parabrisas ni fuera del vehículo.",
+      "p": "Correcto. Lo mantiene en su asiento."
+    }
+  },
+  {
+    "id": "safe-driving-058",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Air Bags, https://www.nhtsa.gov/vehicle-safety/air-bags",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Your car has air bags. Do you still need to wear a seat belt?",
+      "o": [
+        "No, air bags are enough",
+        "Only on the highway",
+        "Yes, air bags work with seat belts, not instead of them",
+        "Only in the back seat"
+      ],
+      "h1": "An air bag inflates once, very fast.",
+      "h2": "Air bags are made to work together with seat belts; without a belt, you can be hurt by the air bag or thrown from the car.",
+      "p": "Right. Always wear your belt too."
+    },
+    "es": {
+      "q": "Su carro tiene bolsas de aire. ¿Todavía necesita el cinturón de seguridad?",
+      "o": [
+        "No, las bolsas de aire bastan",
+        "Solo en la carretera",
+        "Sí, las bolsas de aire funcionan junto con el cinturón, no en su lugar",
+        "Solo en el asiento trasero"
+      ],
+      "h1": "Una bolsa de aire se infla una vez, muy rápido.",
+      "h2": "Las bolsas de aire están hechas para funcionar junto con el cinturón; sin el cinturón, la bolsa puede lastimarlo o puede salir lanzado del carro.",
+      "p": "Correcto. Use siempre el cinturón también."
+    }
+  },
+  {
+    "id": "safe-driving-059",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Car Seats and Booster Seats, https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Why must a rear-facing baby seat never be placed in front of an active air bag?",
+      "o": [
+        "The seat will not fit",
+        "The baby cannot see the driver",
+        "The air bag will not open",
+        "The air bag can hit the seat with great force and seriously hurt the baby"
+      ],
+      "h1": "The back of the baby seat would be close to the air bag.",
+      "h2": "A rear-facing car seat must never be in front of an active air bag, because the bag can strike the seat with force and seriously injure the baby.",
+      "p": "Right. The air bag can badly hurt the baby."
+    },
+    "es": {
+      "q": "¿Por qué nunca se debe poner una silla de bebé mirando hacia atrás frente a una bolsa de aire activa?",
+      "o": [
+        "Porque la silla no cabe",
+        "Porque el bebé no puede ver al conductor",
+        "Porque la bolsa no se abrirá",
+        "Porque la bolsa puede golpear la silla con mucha fuerza y lastimar gravemente al bebé"
+      ],
+      "h1": "El respaldo de la silla quedaría cerca de la bolsa de aire.",
+      "h2": "Una silla de bebé mirando hacia atrás nunca debe ir frente a una bolsa de aire activa, porque la bolsa puede golpearla con fuerza y lastimar gravemente al bebé.",
+      "p": "Correcto. La bolsa puede lastimar gravemente al bebé."
+    }
+  },
+  {
+    "id": "safe-driving-060",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Seat Belts, https://www.nhtsa.gov/vehicle-safety/seat-belts",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "How should a pregnant woman wear a seat belt?",
+      "o": [
+        "Lap belt low across the hips, below the belly, and shoulder belt across the chest",
+        "Lap belt across the belly",
+        "Shoulder belt behind the back",
+        "She should not wear one"
+      ],
+      "h1": "Keep the lap belt off the belly.",
+      "h2": "A pregnant woman should wear the lap belt low across her hips below her belly and the shoulder belt across her chest, away from her neck.",
+      "p": "Right. Lap belt below the belly."
+    },
+    "es": {
+      "q": "¿Cómo debe usar el cinturón una mujer embarazada?",
+      "o": [
+        "La banda baja sobre las caderas, debajo del vientre, y la del hombro sobre el pecho",
+        "La banda baja sobre el vientre",
+        "La banda del hombro detrás de la espalda",
+        "No debe usarlo"
+      ],
+      "h1": "Mantenga la banda baja lejos del vientre.",
+      "h2": "Una mujer embarazada debe usar la banda baja sobre las caderas, debajo del vientre, y la del hombro sobre el pecho, lejos del cuello.",
+      "p": "Correcto. La banda baja debajo del vientre."
+    }
+  },
+  {
+    "id": "safe-driving-061",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Air Bags, https://www.nhtsa.gov/vehicle-safety/air-bags",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Why should your hands be on the sides of the steering wheel instead of across the top?",
+      "o": [
+        "It looks better",
+        "If the air bag opens, your arms will not be thrown into your face",
+        "The horn is on the top",
+        "You can turn faster with one hand on top"
+      ],
+      "h1": "The air bag comes out of the center of the wheel.",
+      "h2": "Holding the wheel on the sides keeps your arms out of the way of the air bag, which bursts from the center of the wheel.",
+      "p": "Right. Your arms stay clear of the air bag."
+    },
+    "es": {
+      "q": "¿Por qué sus manos deben ir a los lados del volante y no cruzadas por arriba?",
+      "o": [
+        "Porque se ve mejor",
+        "Porque si se abre la bolsa de aire, sus brazos no saldrán lanzados contra su cara",
+        "Porque la bocina está arriba",
+        "Porque se gira más rápido con una mano arriba"
+      ],
+      "h1": "La bolsa de aire sale del centro del volante.",
+      "h2": "Sujetar el volante por los lados mantiene sus brazos fuera del camino de la bolsa de aire, que sale del centro del volante.",
+      "p": "Correcto. Sus brazos quedan lejos de la bolsa."
+    }
+  },
+  {
+    "id": "safe-driving-062",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "How should you adjust your seat's head restraint?",
+      "o": [
+        "As low as it goes",
+        "Removed for comfort",
+        "So it is level with the back of your head, close to it",
+        "Behind your neck"
+      ],
+      "h1": "It protects your neck in a rear-end crash.",
+      "h2": "Set the head restraint level with the back of your head and close to it, to help protect your neck if you are hit from behind.",
+      "p": "Right. Level with the back of your head."
+    },
+    "es": {
+      "q": "¿Cómo debe ajustar el apoyacabezas de su asiento?",
+      "o": [
+        "Lo más bajo posible",
+        "Quitarlo para ir más cómodo",
+        "A la altura de la parte de atrás de la cabeza, cerca de ella",
+        "Detrás del cuello"
+      ],
+      "h1": "Protege el cuello en un choque por detrás.",
+      "h2": "Ajuste el apoyacabezas a la altura de la parte de atrás de su cabeza y cerca de ella, para proteger el cuello si lo chocan por detrás.",
+      "p": "Correcto. A la altura de la parte de atrás de la cabeza."
+    }
+  },
+  {
+    "id": "safe-driving-063",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Child Heatstroke, https://www.nhtsa.gov/campaign/heatstroke",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "It is a warm day. Is it safe to leave a child in a parked car for a few minutes with a window cracked open?",
+      "o": [
+        "Yes, if a window is open",
+        "Yes, if it is under 80 degrees outside",
+        "Yes, if the child is asleep",
+        "No, a car can get dangerously hot in minutes, even with a window open"
+      ],
+      "h1": "A closed car heats up like an oven.",
+      "h2": "Never leave a child alone in a car: the inside can become deadly hot within minutes, even with a window cracked.",
+      "p": "Right. Never leave a child alone in a car."
+    },
+    "es": {
+      "q": "Hace un día cálido. ¿Es seguro dejar a un niño unos minutos en el carro estacionado con una ventana un poco abierta?",
+      "o": [
+        "Sí, si hay una ventana abierta",
+        "Sí, si afuera hace menos de 80 grados",
+        "Sí, si el niño está dormido",
+        "No, un carro puede calentarse peligrosamente en minutos, aun con una ventana abierta"
+      ],
+      "h1": "Un carro cerrado se calienta como un horno.",
+      "h2": "Nunca deje a un niño solo en un carro: el interior puede calentarse hasta ser mortal en pocos minutos, aun con una ventana un poco abierta.",
+      "p": "Correcto. Nunca deje a un niño solo en el carro."
+    }
+  },
+  {
+    "id": "safe-driving-064",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Distracted Driving, https://www.nhtsa.gov/risky-driving/distracted-driving",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "What are the three main kinds of driver distraction?",
+      "o": [
+        "Eyes off the road, hands off the wheel, and mind off driving",
+        "Rain, fog and snow",
+        "Speed, noise and heat",
+        "Signs, signals and markings"
+      ],
+      "h1": "Think of eyes, hands and mind.",
+      "h2": "Distraction takes your eyes off the road, your hands off the wheel, or your mind off driving; texting does all three.",
+      "p": "Right. Eyes, hands and mind."
+    },
+    "es": {
+      "q": "¿Cuáles son los tres tipos principales de distracción al manejar?",
+      "o": [
+        "Ojos fuera de la vía, manos fuera del volante y mente fuera del manejo",
+        "Lluvia, niebla y nieve",
+        "Velocidad, ruido y calor",
+        "Señales, semáforos y marcas"
+      ],
+      "h1": "Piense en los ojos, las manos y la mente.",
+      "h2": "La distracción le quita los ojos de la vía, las manos del volante o la mente del manejo; enviar mensajes de texto hace las tres cosas.",
+      "p": "Correcto. Ojos, manos y mente."
+    }
+  },
+  {
+    "id": "safe-driving-065",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Distracted Driving, https://www.nhtsa.gov/risky-driving/distracted-driving",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Reading a text takes your eyes off the road for about 5 seconds. At 55 mph, how far does your car travel in that time?",
+      "o": [
+        "About one car length",
+        "About the length of a football field",
+        "About 10 feet",
+        "You do not move much at all"
+      ],
+      "h1": "At 55 mph you cover about 80 feet each second.",
+      "h2": "At 55 mph, 5 seconds with your eyes off the road is like driving the length of a football field blindfolded.",
+      "p": "Right. About a football field."
+    },
+    "es": {
+      "q": "Leer un mensaje le quita los ojos de la vía unos 5 segundos. A 55 mph, ¿cuánto avanza su carro en ese tiempo?",
+      "o": [
+        "Más o menos el largo de un carro",
+        "Más o menos el largo de una cancha de fútbol americano",
+        "Unos 10 pies",
+        "Casi no se mueve"
+      ],
+      "h1": "A 55 mph avanza unos 80 pies por segundo.",
+      "h2": "A 55 mph, 5 segundos sin mirar la vía es como recorrer el largo de una cancha de fútbol americano con los ojos vendados.",
+      "p": "Correcto. Más o menos una cancha de fútbol americano."
+    }
+  },
+  {
+    "id": "safe-driving-066",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Distracted Driving, https://www.nhtsa.gov/risky-driving/distracted-driving",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Is talking on a hands-free phone while driving free of distraction?",
+      "o": [
+        "Yes, it is completely safe",
+        "Yes, if you use one hand",
+        "No, the conversation still takes your mind off driving",
+        "Yes, at low speeds"
+      ],
+      "h1": "Distraction is not only about your hands.",
+      "h2": "Even hands-free, a phone conversation pulls your attention away from the road, so you notice and react to hazards more slowly.",
+      "p": "Right. Your mind is still distracted."
+    },
+    "es": {
+      "q": "¿Hablar por un teléfono con manos libres mientras maneja está libre de distracción?",
+      "o": [
+        "Sí, es totalmente seguro",
+        "Sí, si usa una mano",
+        "No, la conversación igual le quita la mente del manejo",
+        "Sí, a baja velocidad"
+      ],
+      "h1": "La distracción no tiene que ver solo con las manos.",
+      "h2": "Aun con manos libres, una conversación por teléfono le quita atención a la vía, así que nota los peligros y reacciona más lento.",
+      "p": "Correcto. Su mente igual se distrae."
+    }
+  },
+  {
+    "id": "safe-driving-067",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Distracted Driving, https://www.nhtsa.gov/risky-driving/distracted-driving",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "When is the best time to set your GPS route and music?",
+      "o": [
+        "While driving on the highway",
+        "At a red light, while moving slowly",
+        "While turning",
+        "Before you start driving"
+      ],
+      "h1": "Do it when the car is not moving.",
+      "h2": "Set your GPS, music and other controls before you start driving, or pull over safely if you need to change them.",
+      "p": "Right. Before you start driving."
+    },
+    "es": {
+      "q": "¿Cuál es el mejor momento para programar el GPS y la música?",
+      "o": [
+        "Mientras maneja en la carretera",
+        "En un semáforo, mientras avanza despacio",
+        "Mientras gira",
+        "Antes de empezar a manejar"
+      ],
+      "h1": "Hágalo cuando el carro no se mueve.",
+      "h2": "Programe el GPS, la música y otros controles antes de empezar a manejar, u oríllese con seguridad si necesita cambiarlos.",
+      "p": "Correcto. Antes de empezar a manejar."
+    }
+  },
+  {
+    "id": "safe-driving-068",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Why should you secure loose items, like bags or bottles, inside your car?",
+      "o": [
+        "They can fly forward in a crash or roll under the brake pedal",
+        "They make the car heavier",
+        "They block the radio",
+        "They make noise"
+      ],
+      "h1": "Loose items keep moving when the car stops suddenly.",
+      "h2": "Loose objects can fly through the car in a sudden stop or crash, and can roll under your pedals, so put them away or secure them.",
+      "p": "Right. They can fly or block the pedals."
+    },
+    "es": {
+      "q": "¿Por qué debe asegurar los objetos sueltos, como bolsas o botellas, dentro del carro?",
+      "o": [
+        "Porque pueden salir volando en un choque o rodar debajo del pedal del freno",
+        "Porque hacen el carro más pesado",
+        "Porque tapan el radio",
+        "Porque hacen ruido"
+      ],
+      "h1": "Los objetos sueltos siguen moviéndose cuando el carro se para de golpe.",
+      "h2": "Los objetos sueltos pueden salir volando dentro del carro en una frenada o un choque, y pueden rodar debajo de los pedales, así que guárdelos o asegúrelos.",
+      "p": "Correcto. Pueden salir volando o trabar los pedales."
+    }
+  },
+  {
+    "id": "safe-driving-069",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Drowsy Driving, https://www.nhtsa.gov/risky-driving/drowsy-driving",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Which of these is a warning sign that you are too tired to drive?",
+      "o": [
+        "Feeling hungry",
+        "Yawning, heavy eyes, drifting from your lane, or missing your exit",
+        "Wanting to listen to music",
+        "Feeling cold"
+      ],
+      "h1": "Your body warns you before you fall asleep.",
+      "h2": "Frequent yawning, heavy eyelids, drifting out of your lane and missing exits are signs you are too drowsy to drive safely.",
+      "p": "Right. These are signs of drowsiness."
+    },
+    "es": {
+      "q": "¿Cuál de estas es una señal de que está demasiado cansado para manejar?",
+      "o": [
+        "Tener hambre",
+        "Bostezar, tener los ojos pesados, salirse del carril o pasarse la salida",
+        "Querer escuchar música",
+        "Tener frío"
+      ],
+      "h1": "Su cuerpo le avisa antes de dormirse.",
+      "h2": "Bostezar seguido, tener los párpados pesados, salirse del carril y pasarse las salidas son señales de que tiene demasiado sueño para manejar con seguridad.",
+      "p": "Correcto. Son señales de sueño."
+    }
+  },
+  {
+    "id": "safe-driving-070",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Drowsy Driving, https://www.nhtsa.gov/risky-driving/drowsy-driving",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You feel sleepy while driving. Will opening the window or turning up the radio keep you safe?",
+      "o": [
+        "Yes, cold air always works",
+        "Yes, loud music keeps you awake",
+        "No, only sleep fixes drowsiness; pull off safely and rest",
+        "Yes, if you also chew gum"
+      ],
+      "h1": "These tricks do not last.",
+      "h2": "Opening a window or turning up the radio does not fix drowsiness; the only real cure is sleep, so pull off safely and rest.",
+      "p": "Right. Only sleep fixes it."
+    },
+    "es": {
+      "q": "Siente sueño mientras maneja. ¿Abrir la ventana o subir el radio lo mantendrá seguro?",
+      "o": [
+        "Sí, el aire frío siempre funciona",
+        "Sí, la música alta lo mantiene despierto",
+        "No, solo dormir quita el sueño; oríllese con seguridad y descanse",
+        "Sí, si además masca chicle"
+      ],
+      "h1": "Estos trucos no duran.",
+      "h2": "Abrir la ventana o subir el radio no quita el sueño; la única solución real es dormir, así que oríllese con seguridad y descanse.",
+      "p": "Correcto. Solo dormir lo soluciona."
+    }
+  },
+  {
+    "id": "safe-driving-071",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Drowsy Driving, https://www.nhtsa.gov/risky-driving/drowsy-driving",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "On a long, straight highway, you feel dazed and are not paying attention, as if half asleep. What is this called, and what helps?",
+      "o": [
+        "Road rage; drive faster",
+        "Tunnel vision; close one eye",
+        "Night blindness; turn on high beams",
+        "Highway hypnosis; keep your eyes moving and take breaks"
+      ],
+      "h1": "Long, boring drives can dull your mind.",
+      "h2": "Highway hypnosis is a dazed state on long, unchanging drives; keep your eyes moving, check mirrors, and stop for breaks.",
+      "p": "Right. Highway hypnosis; move your eyes and take breaks."
+    },
+    "es": {
+      "q": "En una carretera larga y recta, se siente aturdido y sin prestar atención, como medio dormido. ¿Cómo se llama esto y qué ayuda?",
+      "o": [
+        "Furia al volante; maneje más rápido",
+        "Visión de túnel; cierre un ojo",
+        "Ceguera nocturna; encienda las luces altas",
+        "Hipnosis de carretera; mueva los ojos y tome descansos"
+      ],
+      "h1": "Los viajes largos y aburridos adormecen la mente.",
+      "h2": "La hipnosis de carretera es un estado de aturdimiento en viajes largos y monótonos; mueva los ojos, mire los espejos y pare a descansar.",
+      "p": "Correcto. Hipnosis de carretera; mueva los ojos y descanse."
+    }
+  },
+  {
+    "id": "safe-driving-072",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Drunk Driving, https://www.nhtsa.gov/risky-driving/drunk-driving",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Besides judgment, what does alcohol do to a driver?",
+      "o": [
+        "It slows reaction time and hurts coordination and vision",
+        "It makes reactions faster",
+        "It improves night vision",
+        "It has no effect after one drink"
+      ],
+      "h1": "Alcohol slows the brain and body.",
+      "h2": "Alcohol slows your reactions and harms your coordination, vision and ability to judge speed and distance.",
+      "p": "Right. Slower reactions and worse coordination and vision."
+    },
+    "es": {
+      "q": "Además del juicio, ¿qué le hace el alcohol a un conductor?",
+      "o": [
+        "Hace más lentos los reflejos y empeora la coordinación y la vista",
+        "Hace más rápidos los reflejos",
+        "Mejora la vista de noche",
+        "No tiene efecto después de un trago"
+      ],
+      "h1": "El alcohol hace más lentos el cerebro y el cuerpo.",
+      "h2": "El alcohol hace más lentos sus reflejos y empeora la coordinación, la vista y la capacidad de calcular velocidad y distancia.",
+      "p": "Correcto. Reflejos más lentos y peor coordinación y vista."
+    }
+  },
+  {
+    "id": "safe-driving-073",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NIAAA, What Is a Standard Drink?, https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Which has about the same amount of alcohol as a 12-ounce regular beer?",
+      "o": [
+        "A full bottle of wine",
+        "A 5-ounce glass of wine or a 1.5-ounce shot of liquor",
+        "Three shots of liquor",
+        "None; beer has much less alcohol"
+      ],
+      "h1": "A \"standard drink\" is the same amount of alcohol in different drinks.",
+      "h2": "A 12-ounce regular beer, a 5-ounce glass of wine and a 1.5-ounce shot of liquor each hold about the same amount of alcohol.",
+      "p": "Right. They are all about one standard drink."
+    },
+    "es": {
+      "q": "¿Qué tiene más o menos la misma cantidad de alcohol que una cerveza normal de 12 onzas?",
+      "o": [
+        "Una botella entera de vino",
+        "Una copa de vino de 5 onzas o un trago de licor de 1.5 onzas",
+        "Tres tragos de licor",
+        "Nada; la cerveza tiene mucho menos alcohol"
+      ],
+      "h1": "Una \"bebida estándar\" es la misma cantidad de alcohol en distintas bebidas.",
+      "h2": "Una cerveza normal de 12 onzas, una copa de vino de 5 onzas y un trago de licor de 1.5 onzas tienen más o menos la misma cantidad de alcohol.",
+      "p": "Correcto. Todas son más o menos una bebida estándar."
+    }
+  },
+  {
+    "id": "safe-driving-074",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Drug-Impaired Driving, https://www.nhtsa.gov/risky-driving/drug-impaired-driving",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Can marijuana make you unsafe to drive, even where it is legal?",
+      "o": [
+        "No, if it is legal it is safe",
+        "No, it only affects passengers",
+        "Yes, it slows reaction time and affects judgment of time and distance",
+        "Only if mixed with coffee"
+      ],
+      "h1": "Legal does not mean safe for driving.",
+      "h2": "Marijuana can slow your reactions and affect your judgment of time and distance, so driving after using it is unsafe even where it is legal.",
+      "p": "Right. It can make driving unsafe."
+    },
+    "es": {
+      "q": "¿La marihuana puede hacer que manejar sea inseguro, aun donde es legal?",
+      "o": [
+        "No, si es legal es segura",
+        "No, solo afecta a los pasajeros",
+        "Sí, hace más lentos los reflejos y afecta el cálculo de tiempo y distancia",
+        "Solo si se mezcla con café"
+      ],
+      "h1": "Legal no significa seguro para manejar.",
+      "h2": "La marihuana puede hacer más lentos sus reflejos y afectar su cálculo de tiempo y distancia, así que manejar después de usarla es inseguro aunque sea legal.",
+      "p": "Correcto. Puede hacer inseguro el manejo."
+    }
+  },
+  {
+    "id": "safe-driving-075",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Drug-Impaired Driving, https://www.nhtsa.gov/risky-driving/drug-impaired-driving",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "What happens when alcohol is mixed with other drugs, including some medicines?",
+      "o": [
+        "They cancel each other out",
+        "The alcohol wears off faster",
+        "Nothing changes",
+        "The effects can be much stronger, making driving even more dangerous"
+      ],
+      "h1": "Two impairing substances add up.",
+      "h2": "Mixing alcohol with drugs or some medicines can greatly increase the effects of both, making driving far more dangerous.",
+      "p": "Right. The effects can be much stronger."
+    },
+    "es": {
+      "q": "¿Qué pasa cuando se mezcla el alcohol con otras drogas, incluidos algunos medicamentos?",
+      "o": [
+        "Se cancelan entre sí",
+        "El alcohol se pasa más rápido",
+        "No cambia nada",
+        "Los efectos pueden ser mucho más fuertes, lo que hace manejar aún más peligroso"
+      ],
+      "h1": "Dos sustancias que afectan se suman.",
+      "h2": "Mezclar alcohol con drogas o algunos medicamentos puede aumentar mucho los efectos de ambos, lo que hace manejar mucho más peligroso.",
+      "p": "Correcto. Los efectos pueden ser mucho más fuertes."
+    }
+  },
+  {
+    "id": "safe-driving-076",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Drug-Impaired Driving, https://www.nhtsa.gov/risky-driving/drug-impaired-driving",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Your doctor gives you a new prescription medicine. What should you do before driving?",
+      "o": [
+        "Ask your doctor or pharmacist whether it is safe to drive while taking it",
+        "Drive; prescription medicines are always safe",
+        "Take extra so it works faster",
+        "Drive only at night"
+      ],
+      "h1": "Some medicines cause drowsiness or slow reactions.",
+      "h2": "Before driving on a new prescription, ask your doctor or pharmacist whether it can affect your driving, and read the label warnings.",
+      "p": "Right. Ask if it is safe to drive."
+    },
+    "es": {
+      "q": "Su médico le receta un medicamento nuevo. ¿Qué debe hacer antes de manejar?",
+      "o": [
+        "Preguntar al médico o farmacéutico si es seguro manejar mientras lo toma",
+        "Manejar; los medicamentos recetados siempre son seguros",
+        "Tomar más para que funcione más rápido",
+        "Manejar solo de noche"
+      ],
+      "h1": "Algunos medicamentos dan sueño o hacen más lentos los reflejos.",
+      "h2": "Antes de manejar con un medicamento nuevo, pregunte a su médico o farmacéutico si puede afectar su manejo y lea las advertencias de la etiqueta.",
+      "p": "Correcto. Pregunte si es seguro manejar."
+    }
+  },
+  {
+    "id": "safe-driving-077",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Drunk Driving, https://www.nhtsa.gov/risky-driving/drunk-driving",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "You are going to a party where you will drink alcohol. What is the safest plan?",
+      "o": [
+        "Drive slowly on the way home",
+        "Arrange a sober driver, a taxi or a ride service before you go",
+        "Drink coffee before driving",
+        "Wait 10 minutes after your last drink"
+      ],
+      "h1": "Plan before you start drinking.",
+      "h2": "If you will drink, plan a safe ride before you go, such as a sober designated driver, a taxi or a ride service.",
+      "p": "Right. Plan a sober ride ahead of time."
+    },
+    "es": {
+      "q": "Va a una fiesta donde tomará alcohol. ¿Cuál es el plan más seguro?",
+      "o": [
+        "Manejar despacio de regreso",
+        "Arreglar antes un conductor sobrio, un taxi o un servicio de transporte",
+        "Tomar café antes de manejar",
+        "Esperar 10 minutos después del último trago"
+      ],
+      "h1": "Planee antes de empezar a tomar.",
+      "h2": "Si va a tomar, planee un regreso seguro antes de salir, como un conductor designado sobrio, un taxi o un servicio de transporte.",
+      "p": "Correcto. Planee con tiempo un regreso sobrio."
+    }
+  },
+  {
+    "id": "safe-driving-078",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You are very angry or upset after an argument. What should you do before driving?",
+      "o": [
+        "Drive fast to release the stress",
+        "Drive, but play loud music",
+        "Wait until you calm down",
+        "Drive close behind others"
+      ],
+      "h1": "Strong emotions affect your judgment.",
+      "h2": "Strong emotions like anger can make you take risks and pay less attention, so wait until you are calm before you drive.",
+      "p": "Right. Calm down first."
+    },
+    "es": {
+      "q": "Usted está muy enojado o alterado después de una discusión. ¿Qué debe hacer antes de manejar?",
+      "o": [
+        "Manejar rápido para soltar el estrés",
+        "Manejar, pero con música alta",
+        "Esperar hasta calmarse",
+        "Manejar muy cerca de los demás"
+      ],
+      "h1": "Las emociones fuertes afectan su juicio.",
+      "h2": "Las emociones fuertes como el enojo pueden hacer que se arriesgue y preste menos atención, así que espere hasta estar tranquilo antes de manejar.",
+      "p": "Correcto. Cálmese primero."
+    }
   }
 ]
