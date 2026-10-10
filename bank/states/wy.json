@@ -4456,7 +4456,7 @@
         "At least 60 degrees",
         "At least 180 degrees"
       ],
-      "h1": "It is a bit more than a third of a full circle.",
+      "h1": "It is one third of a full circle.",
       "h2": "In Wyoming, you need a combined horizontal field of vision of at least 120 degrees.",
       "p": "Right. You need at least 120 degrees of side vision."
     },
@@ -4468,7 +4468,7 @@
         "Por lo menos 60 grados",
         "Por lo menos 180 grados"
       ],
-      "h1": "Es un poco más de un tercio de un círculo completo.",
+      "h1": "Es un tercio de un círculo completo.",
       "h2": "En Wyoming, usted necesita un campo de visión horizontal combinado de por lo menos 120 grados.",
       "p": "Correcto. Necesita por lo menos 120 grados de visión lateral."
     }
@@ -4715,7 +4715,7 @@
     "id": "wy-069",
     "scope": "WY",
     "cat": "licensing",
-    "conf": "high",
+    "conf": "medium",
     "page": 10,
     "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
     "sign": null,
@@ -4749,7 +4749,7 @@
     "id": "wy-070",
     "scope": "WY",
     "cat": "licensing",
-    "conf": "high",
+    "conf": "medium",
     "page": 10,
     "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
     "sign": null,
@@ -4954,33 +4954,33 @@
     "scope": "WY",
     "cat": "licensing",
     "conf": "high",
-    "page": 13,
-    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "page": null,
+    "src": "https://wyoleg.gov/statutes/compress/title31.pdf",
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In Wyoming, a 14-year-old asks for a restricted license because of a hardship at home. How far from school or work must the teen live?",
+      "q": "In Wyoming, a 14-year-old asks for a restricted license because of a hardship at home. Living how far from school or work counts as a hardship?",
       "o": [
         "At least 1 mile",
         "At least 2 miles",
-        "5 miles or more",
-        "25 miles or more"
+        "More than 5 miles",
+        "More than 25 miles"
       ],
       "h1": "It is a distance too far to walk easily, but not a huge one.",
-      "h2": "In Wyoming, a teen asking for a restricted hardship license must live five or more miles from school or work.",
-      "p": "Right. The teen must live 5 miles or more away."
+      "h2": "In Wyoming, living more than five miles from school or from a regular job counts as an extreme inconvenience for a restricted hardship license.",
+      "p": "Right. More than 5 miles away counts."
     },
     "es": {
-      "q": "En Wyoming, un joven de 14 años pide una licencia restringida por una dificultad en su casa. ¿A qué distancia de la escuela o del trabajo debe vivir?",
+      "q": "En Wyoming, un joven de 14 años pide una licencia restringida por una dificultad en su casa. ¿Vivir a qué distancia de la escuela o del trabajo cuenta como dificultad?",
       "o": [
         "Por lo menos 1 milla",
         "Por lo menos 2 millas",
-        "5 millas o más",
-        "25 millas o más"
+        "Más de 5 millas",
+        "Más de 25 millas"
       ],
       "h1": "Es una distancia difícil de caminar, pero no enorme.",
-      "h2": "En Wyoming, un joven que pide una licencia restringida por dificultad debe vivir a cinco millas o más de la escuela o del trabajo.",
-      "p": "Correcto. Debe vivir a 5 millas o más."
+      "h2": "En Wyoming, vivir a más de cinco millas de la escuela o de un trabajo regular cuenta como una dificultad extrema para una licencia restringida.",
+      "p": "Correcto. Vivir a más de 5 millas cuenta."
     }
   },
   {
@@ -5838,33 +5838,33 @@
     "scope": "WY",
     "cat": "licensing",
     "conf": "high",
-    "page": 25,
-    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "page": null,
+    "src": "https://wyoleg.gov/statutes/compress/title20.pdf",
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In Wyoming, a parent is behind on child support. When can the parent's license be suspended?",
+      "q": "In Wyoming, a parent is behind on child support. When can the state suspend the parent's driver license without a court order?",
       "o": [
         "After missing one payment",
-        "When $5,000 or more is owed for 90 days in a row",
+        "When more than $2,500 is owed and no full monthly payment has been made for 90 days in a row",
         "When $500 is owed for 30 days",
         "Never; licenses are not linked to child support"
       ],
       "h1": "Both a dollar amount and a length of time must be reached.",
-      "h2": "In Wyoming, a license can be suspended when a person owes $5,000 or more in child support for 90 consecutive days.",
-      "p": "Right. It is $5,000 or more owed for 90 days in a row."
+      "h2": "In Wyoming, a license can be suspended without a court order when a parent owes more than $2,500 in child support and has made no full monthly payment for 90 consecutive days.",
+      "p": "Right. It is more than $2,500 owed and no full payment for 90 days in a row."
     },
     "es": {
-      "q": "En Wyoming, un padre está atrasado con la manutención de sus hijos. ¿Cuándo le pueden suspender la licencia?",
+      "q": "En Wyoming, un padre está atrasado con la manutención de sus hijos. ¿Cuándo puede el estado suspenderle la licencia de conducir sin una orden de la corte?",
       "o": [
         "Después de no hacer un solo pago",
-        "Cuando debe $5,000 o más durante 90 días seguidos",
+        "Cuando debe más de $2,500 y no ha hecho un pago mensual completo durante 90 días seguidos",
         "Cuando debe $500 durante 30 días",
         "Nunca; la licencia no tiene relación con la manutención"
       ],
       "h1": "Se debe llegar a una cantidad de dinero y a un tiempo.",
-      "h2": "En Wyoming, se puede suspender una licencia cuando una persona debe $5,000 o más de manutención durante 90 días seguidos.",
-      "p": "Correcto. Son $5,000 o más durante 90 días seguidos."
+      "h2": "En Wyoming, se puede suspender una licencia sin orden de la corte cuando un padre debe más de $2,500 de manutención y no ha hecho un pago mensual completo durante 90 días seguidos.",
+      "p": "Correcto. Son más de $2,500 y ningún pago completo durante 90 días seguidos."
     }
   },
   {
@@ -6076,33 +6076,33 @@
     "scope": "WY",
     "cat": "licensing",
     "conf": "high",
-    "page": 28,
-    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "page": null,
+    "src": "https://wyoleg.gov/statutes/compress/title31.pdf",
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In Wyoming, WYDOT mails you a suspension order. When does the suspension usually start?",
+      "q": "In Wyoming, WYDOT gives you notice that it will suspend your license, and you do not ask for a hearing. When does the suspension usually start?",
       "o": [
-        "The day it is mailed",
-        "30 days from the date it is mailed",
+        "The day the notice is given",
+        "20 days after the notice is given",
         "One year later",
         "When you choose"
       ],
-      "h1": "You get some time before it begins.",
-      "h2": "In Wyoming, a suspension or revocation starts 30 days from the date the order is mailed or given to you, or when earlier suspensions end.",
-      "p": "Right. It starts 30 days after the order is mailed."
+      "h1": "You get a short time to ask for a hearing before it begins.",
+      "h2": "In Wyoming, a suspension or revocation usually starts 20 days after WYDOT gives notice, or later if a hearing is requested or an earlier suspension is still running.",
+      "p": "Right. It usually starts 20 days after the notice."
     },
     "es": {
-      "q": "En Wyoming, WYDOT le envía por correo una orden de suspensión. ¿Cuándo empieza normalmente la suspensión?",
+      "q": "En Wyoming, WYDOT le avisa que va a suspender su licencia y usted no pide una audiencia. ¿Cuándo empieza normalmente la suspensión?",
       "o": [
-        "El día que la envían",
-        "30 días después de la fecha de envío",
+        "El día en que le dan el aviso",
+        "20 días después de que le dan el aviso",
         "Un año después",
         "Cuando usted decida"
       ],
-      "h1": "Usted tiene algo de tiempo antes de que empiece.",
-      "h2": "En Wyoming, una suspensión o revocación empieza 30 días después de la fecha en que le envían o entregan la orden, o cuando terminan suspensiones anteriores.",
-      "p": "Correcto. Empieza 30 días después de enviada la orden."
+      "h1": "Usted tiene poco tiempo para pedir una audiencia antes de que empiece.",
+      "h2": "En Wyoming, una suspensión o revocación normalmente empieza 20 días después de que WYDOT da el aviso, o más tarde si se pide una audiencia o si sigue vigente una suspensión anterior.",
+      "p": "Correcto. Normalmente empieza 20 días después del aviso."
     }
   },
   {
@@ -6348,33 +6348,33 @@
     "scope": "WY",
     "cat": "safe-driving",
     "conf": "high",
-    "page": 30,
-    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "page": null,
+    "src": "https://wyoleg.gov/statutes/compress/title31.pdf",
     "sign": null,
     "c": 0,
     "en": {
       "q": "In Wyoming, what is the most you can be fined for a first child safety seat violation?",
       "o": [
-        "$60",
+        "$50",
         "$25",
-        "$110",
+        "$200",
         "$500"
       ],
-      "h1": "The second-offense fine is higher, at $110.",
-      "h2": "In Wyoming, the first child restraint offense has a maximum fine of $60.",
-      "p": "Right. The first offense fine is up to $60."
+      "h1": "The second-offense fine is higher, at $100.",
+      "h2": "In Wyoming, the first child restraint offense has a maximum fine of $50.",
+      "p": "Right. The first offense fine is up to $50."
     },
     "es": {
       "q": "En Wyoming, ¿cuál es la multa más alta por una primera infracción de asiento de seguridad para niños?",
       "o": [
-        "$60",
+        "$50",
         "$25",
-        "$110",
+        "$200",
         "$500"
       ],
-      "h1": "La multa por segunda vez es más alta, $110.",
-      "h2": "En Wyoming, la primera infracción de asiento de seguridad para niños tiene una multa máxima de $60.",
-      "p": "Correcto. La primera multa es de hasta $60."
+      "h1": "La multa por segunda vez es más alta, $100.",
+      "h2": "En Wyoming, la primera infracción de asiento de seguridad para niños tiene una multa máxima de $50.",
+      "p": "Correcto. La primera multa es de hasta $50."
     }
   },
   {
@@ -8013,7 +8013,7 @@
     "id": "wy-166",
     "scope": "WY",
     "cat": "speed-lanes",
-    "conf": "high",
+    "conf": "medium",
     "page": 56,
     "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
     "sign": null,
@@ -8081,7 +8081,7 @@
     "id": "wy-168",
     "scope": "WY",
     "cat": "safe-driving",
-    "conf": "high",
+    "conf": "medium",
     "page": 57,
     "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
     "sign": null,
