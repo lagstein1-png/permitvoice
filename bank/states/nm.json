@@ -9096,5 +9096,107 @@
       "h2": "En Nuevo México, cuando le rebasan en motocicleta, quédese en la parte del centro de su carril; irse al lado más lejano puede invitar al otro conductor a regresar a su carril antes de tiempo.",
       "p": "Correcto. Quédese en el centro de su carril."
     }
+  },
+  {
+    "id": "nm-198",
+    "scope": "NM",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 24,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Mexico, there are several slow cars ahead and passing is allowed. As a general rule, how many vehicles should you pass at a time?",
+      "o": [
+        "One",
+        "Two",
+        "Three",
+        "As many as you can see"
+      ],
+      "h1": "Do not count on having enough time to get around a whole line of cars.",
+      "h2": "In New Mexico, the manual's general rule is to pass only one vehicle at a time.",
+      "p": "Right. Pass one vehicle at a time."
+    },
+    "es": {
+      "q": "En Nuevo México, hay varios carros lentos adelante y se permite rebasar. Como regla general, ¿cuántos vehículos debe rebasar a la vez?",
+      "o": [
+        "Uno",
+        "Dos",
+        "Tres",
+        "Todos los que pueda ver"
+      ],
+      "h1": "No cuente con tener tiempo suficiente para pasar toda una fila de carros.",
+      "h2": "En Nuevo México, la regla general del manual es rebasar solo un vehículo a la vez.",
+      "p": "Correcto. Rebase un vehículo a la vez."
+    }
+  },
+  {
+    "id": "nm-199",
+    "scope": "NM",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Mexico, oil from cars often collects in a strip down the center of a lane. How wide is this strip, usually, for a motorcyclist to ride around?",
+      "o": [
+        "About half the lane",
+        "About 4 feet",
+        "No more than about 2 feet",
+        "About 6 feet"
+      ],
+      "h1": "It is narrow enough that you can ride to its left or right and still be in your lane.",
+      "h2": "In New Mexico, the oily strip in the center of a lane is usually no more than about two feet wide, so a motorcyclist can ride to either side of it and stay in the lane.",
+      "p": "Right. No more than about 2 feet wide."
+    },
+    "es": {
+      "q": "En Nuevo México, el aceite de los carros se suele juntar en una franja en el centro del carril. ¿Qué ancho tiene normalmente esta franja, que el motociclista puede evitar?",
+      "o": [
+        "Más o menos la mitad del carril",
+        "Unos 4 pies",
+        "No más de unos 2 pies",
+        "Unos 6 pies"
+      ],
+      "h1": "Es tan angosta que usted puede ir a su izquierda o a su derecha y seguir dentro de su carril.",
+      "h2": "En Nuevo México, la franja de aceite en el centro del carril normalmente no mide más de unos dos pies de ancho, así que el motociclista puede ir a cualquier lado de ella y seguir en su carril.",
+      "p": "Correcto. No más de unos 2 pies de ancho."
+    }
+  },
+  {
+    "id": "nm-200",
+    "scope": "NM",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 37,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Mexico, you ride a motorcycle at night. Distances are harder to judge in the dark. What following distance does the manual say to open up?",
+      "o": [
+        "One second",
+        "Three seconds",
+        "Two seconds",
+        "Half a second"
+      ],
+      "h1": "Distances are harder to judge at night, so do not cut the gap short.",
+      "h2": "In New Mexico, the manual says to open up a three-second following distance when you ride a motorcycle at night, and to allow more room to pass and be passed.",
+      "p": "Right. Open up three seconds."
+    },
+    "es": {
+      "q": "En Nuevo México, usted maneja una motocicleta de noche. En la oscuridad es más difícil calcular las distancias. ¿Qué distancia de seguimiento dice el manual que debe dejar?",
+      "o": [
+        "Un segundo",
+        "Tres segundos",
+        "Dos segundos",
+        "Medio segundo"
+      ],
+      "h1": "De noche es más difícil calcular distancias, así que no acorte el espacio.",
+      "h2": "En Nuevo México, el manual dice que deje una distancia de seguimiento de tres segundos cuando maneja una motocicleta de noche, y más espacio para rebasar y para que lo rebasen.",
+      "p": "Correcto. Deje tres segundos."
+    }
   }
 ]
