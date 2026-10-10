@@ -2212,5 +2212,141 @@
       "h2": "في South Carolina، يجب أن يجلس الأطفال الذين عمرهم سبع سنوات أو أقل في مقعد طفل في المقعد الخلفي للسيارة، بعيدًا عن الوسادة الهوائية الأمامية.",
       "p": "صحيح. مقعد طفل، في المقعد الخلفي."
     }
+  },
+  {
+    "id": "sc-028",
+    "scope": "SC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "8-6",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In South Carolina, what is the smallest following distance the driver's manual says to keep behind the car ahead?",
+      "o": [
+        "2 seconds",
+        "3 seconds",
+        "4 seconds",
+        "1 second"
+      ],
+      "h1": "Pick a sign or pole and count how long it takes you to reach it after the car ahead passes it.",
+      "h2": "In South Carolina, the driver's manual says to stay at least 4 seconds behind the vehicle in front of you.",
+      "p": "Right. At least 4 seconds behind."
+    },
+    "es": {
+      "q": "En Carolina del Sur, ¿cuál es la distancia mínima que, según el manual, debe dejar detrás del auto de adelante?",
+      "o": [
+        "2 segundos",
+        "3 segundos",
+        "4 segundos",
+        "1 segundo"
+      ],
+      "h1": "Elija un letrero o un poste y cuente cuánto tarda en llegar a él después de que pase el auto de adelante.",
+      "h2": "En Carolina del Sur, el manual de manejo dice que debe mantenerse al menos 4 segundos detrás del vehículo de adelante.",
+      "p": "Correcto. Al menos 4 segundos detrás."
+    }
+  },
+  {
+    "id": "sc-029",
+    "scope": "SC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-18",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In South Carolina, your driver's license has been expired for more than nine months. What must you do to get a license again?",
+      "o": [
+        "Pay a late fee online",
+        "Pass the vision, knowledge and skills tests again",
+        "Show a new photo ID only",
+        "Wait 30 days and renew by mail"
+      ],
+      "h1": "After a long time, the state wants to check your skills again.",
+      "h2": "In South Carolina, if your license has been expired for more than nine months, you must go to an SCDMV branch and pass the vision, knowledge and skills tests again.",
+      "p": "Right. All three tests again."
+    },
+    "es": {
+      "q": "En Carolina del Sur, su licencia de conducir lleva más de nueve meses vencida. ¿Qué debe hacer para obtener una licencia otra vez?",
+      "o": [
+        "Pagar un recargo por internet",
+        "Aprobar otra vez los exámenes de la vista, de conocimientos y de manejo",
+        "Mostrar solo una nueva identificación con foto",
+        "Esperar 30 días y renovar por correo"
+      ],
+      "h1": "Después de mucho tiempo, el estado quiere revisar otra vez sus habilidades.",
+      "h2": "En Carolina del Sur, si su licencia lleva más de nueve meses vencida, debe ir a una oficina del SCDMV y aprobar otra vez los exámenes de la vista, de conocimientos y de manejo.",
+      "p": "Correcto. Los tres exámenes otra vez."
+    }
+  },
+  {
+    "id": "sc-030",
+    "scope": "SC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "11-1",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In South Carolina, a car is coming toward you at night. When should you dim your high beams?",
+      "o": [
+        "When it is still 500 feet or more away",
+        "When it is about 100 feet away",
+        "Only if it flashes its lights at you",
+        "When it is right beside you"
+      ],
+      "h1": "Bright lights can blind the other driver from far away.",
+      "h2": "In South Carolina, you should dim your high beams while an oncoming vehicle is still 500 feet or more away.",
+      "p": "Right. Dim them at 500 feet or more."
+    },
+    "es": {
+      "q": "En Carolina del Sur, un auto viene hacia usted de noche. ¿Cuándo debe bajar las luces altas?",
+      "o": [
+        "Cuando todavía está a 500 pies o más",
+        "Cuando está a unos 100 pies",
+        "Solo si le hace cambio de luces",
+        "Cuando está justo a su lado"
+      ],
+      "h1": "Las luces fuertes pueden encandilar al otro conductor desde lejos.",
+      "h2": "En Carolina del Sur, debe bajar las luces altas cuando el vehículo que viene de frente todavía está a 500 pies o más.",
+      "p": "Correcto. Bájelas a 500 pies o más."
+    }
+  },
+  {
+    "id": "sc-031",
+    "scope": "SC",
+    "cat": "signals",
+    "conf": "high",
+    "page": "8-9",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In South Carolina, how far before a turn or lane change does state law say you must turn on your signal?",
+      "o": [
+        "At least 25 feet",
+        "At least 50 feet",
+        "Only as you begin to turn",
+        "At least 100 feet"
+      ],
+      "h1": "The distance is about the length of five or six cars.",
+      "h2": "In South Carolina, state law says you must signal at least 100 feet before you turn, change lanes or merge.",
+      "p": "Right. At least 100 feet ahead."
+    },
+    "es": {
+      "q": "En Carolina del Sur, ¿con cuánta anticipación exige la ley estatal poner la direccional antes de girar o cambiar de carril?",
+      "o": [
+        "Al menos 25 pies",
+        "Al menos 50 pies",
+        "Solo al empezar a girar",
+        "Al menos 100 pies"
+      ],
+      "h1": "La distancia es más o menos el largo de cinco o seis autos.",
+      "h2": "En Carolina del Sur, la ley estatal exige poner la direccional al menos 100 pies antes de girar, cambiar de carril o incorporarse al tráfico.",
+      "p": "Correcto. Al menos 100 pies antes."
+    }
   }
 ]
