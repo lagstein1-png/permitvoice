@@ -10042,5 +10042,171 @@
       "h2": "La ley de Florida dice que debe encender las luces de estacionamiento de noche cuando se estaciona en una carretera o acotamiento fuera de ciudades y pueblos.",
       "p": "Correcto. Luces de estacionamiento encendidas al estacionarse de noche en una carretera rural."
     }
+  },
+  {
+    "id": "safe-driving-111",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 39,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, may you drive while wearing headphones over both ears to listen to music?",
+      "o": [
+        "Yes, at any time",
+        "Yes, but only on highways",
+        "No, drivers may not wear headphones",
+        "Yes, if the volume is low"
+      ],
+      "h1": "You need to hear horns and sirens around you.",
+      "h2": "In Florida, drivers may not wear headsets or headphones while driving.",
+      "p": "Right. Florida does not allow drivers to wear headphones."
+    },
+    "es": {
+      "q": "En Florida, ¿puede manejar con audífonos en los dos oídos para escuchar música?",
+      "o": [
+        "Sí, en cualquier momento",
+        "Sí, pero solo en las autopistas",
+        "No, los conductores no pueden usar audífonos",
+        "Sí, si el volumen está bajo"
+      ],
+      "h1": "Usted necesita oír las bocinas y sirenas a su alrededor.",
+      "h2": "En Florida, los conductores no pueden usar audífonos mientras manejan.",
+      "p": "Correcto. Florida no permite que los conductores usen audífonos."
+    }
+  },
+  {
+    "id": "safe-driving-112",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 42,
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, your load sticks out more than 4 feet behind your vehicle. During the day, how must you mark its end?",
+      "o": [
+        "Red flags, 18 inches square",
+        "A small white rag",
+        "Hazard lights only",
+        "A blue ribbon"
+      ],
+      "h1": "The marker must be large and a warning color.",
+      "h2": "In Florida, a load that sticks out more than 4 feet past the rear must be marked during the day with red flags at least 18 inches square.",
+      "p": "Right. By day, use red flags at least 18 inches square."
+    },
+    "es": {
+      "q": "En Florida, su carga sobresale más de 4 pies por detrás de su vehículo. Durante el día, ¿cómo debe marcar el extremo?",
+      "o": [
+        "Con banderas rojas de 18 pulgadas por lado",
+        "Con un trapo blanco pequeño",
+        "Solo con las luces intermitentes",
+        "Con una cinta azul"
+      ],
+      "h1": "La marca debe ser grande y de un color de advertencia.",
+      "h2": "En Florida, una carga que sobresale más de 4 pies por detrás debe marcarse de día con banderas rojas de al menos 18 pulgadas por lado.",
+      "p": "Correcto. De día, use banderas rojas de al menos 18 pulgadas por lado."
+    }
+  },
+  {
+    "id": "safe-driving-113",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 82,
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, how many bicycle riders may ride side by side in a traffic lane?",
+      "o": [
+        "Only one; always single file",
+        "No more than two",
+        "Up to three",
+        "Up to four"
+      ],
+      "h1": "A pair is the limit, and they must ride single file if they hold up traffic.",
+      "h2": "In Florida, bicycle riders may not ride more than two side by side in a traffic lane, and must ride single file if they are holding up traffic.",
+      "p": "Right. No more than two bicycle riders side by side."
+    },
+    "es": {
+      "q": "En Florida, ¿cuántos ciclistas pueden ir uno al lado del otro en un carril de tránsito?",
+      "o": [
+        "Solo uno; siempre en fila",
+        "No más de dos",
+        "Hasta tres",
+        "Hasta cuatro"
+      ],
+      "h1": "Una pareja es el límite, y deben ir en fila si detienen el tránsito.",
+      "h2": "En Florida, los ciclistas no pueden ir más de dos uno al lado del otro en un carril de tránsito, y deben ir en fila si están deteniendo el tránsito.",
+      "p": "Correcto. No más de dos ciclistas uno al lado del otro."
+    }
+  },
+  {
+    "id": "safe-driving-114",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 82,
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, a bicycle is ridden after sunset. What light must it have on the front?",
+      "o": [
+        "A white light seen from 500 feet",
+        "A red light seen from 100 feet",
+        "A blue flashing light",
+        "A yellow light seen from 50 feet"
+      ],
+      "h1": "The front light is the same color as a car's headlights.",
+      "h2": "In Florida, a bicycle ridden between sunset and sunrise must have a white front light visible from 500 feet, plus a red rear light and reflector visible from 600 feet.",
+      "p": "Right. A bike at night needs a white front light seen from 500 feet."
+    },
+    "es": {
+      "q": "En Florida, se maneja una bicicleta después de la puesta del sol. ¿Qué luz debe tener adelante?",
+      "o": [
+        "Una luz blanca visible a 500 pies",
+        "Una luz roja visible a 100 pies",
+        "Una luz azul intermitente",
+        "Una luz amarilla visible a 50 pies"
+      ],
+      "h1": "La luz delantera es del mismo color que los faros de un carro.",
+      "h2": "En Florida, una bicicleta que se usa entre la puesta y la salida del sol debe tener una luz blanca delantera visible a 500 pies, además de una luz roja y un reflector traseros visibles a 600 pies.",
+      "p": "Correcto. De noche, la bicicleta necesita una luz blanca delantera visible a 500 pies."
+    }
+  },
+  {
+    "id": "safe-driving-115",
+    "scope": "FL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.flsenate.gov/Laws/Statutes/2025/316.2065",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, a large group of bicycle riders comes to a full stop at a stop sign. How many may then ride through together?",
+      "o": [
+        "Only one at a time",
+        "Groups of 10 or fewer",
+        "Groups of 25 or fewer",
+        "The whole group at once"
+      ],
+      "h1": "The law allows small groups, not the whole crowd.",
+      "h2": "In Florida, after a full stop at a stop sign, bicycle riders in a group may go through in groups of 10 or fewer, and drivers must let one such group go before moving.",
+      "p": "Right. Bicycle riders may cross in groups of 10 or fewer after stopping."
+    },
+    "es": {
+      "q": "En Florida, un grupo grande de ciclistas hace un alto total en una señal de PARE. ¿Cuántos pueden pasar juntos después?",
+      "o": [
+        "Solo uno a la vez",
+        "Grupos de 10 o menos",
+        "Grupos de 25 o menos",
+        "Todo el grupo a la vez"
+      ],
+      "h1": "La ley permite grupos pequeños, no a todo el grupo.",
+      "h2": "En Florida, después de un alto total en una señal de PARE, los ciclistas en grupo pueden pasar en grupos de 10 o menos, y los conductores deben dejar pasar a uno de esos grupos antes de avanzar.",
+      "p": "Correcto. Los ciclistas pueden cruzar en grupos de 10 o menos después de parar."
+    }
   }
 ]

@@ -4976,5 +4976,699 @@
       "h2": "En Florida, quien maneja un moped necesita una licencia de conducir Clase E; no se requiere endoso de motocicleta.",
       "p": "Correcto. Un moped requiere licencia Clase E, sin endoso."
     }
+  },
+  {
+    "id": "licensing-070",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, your driver license was stolen. You bring a copy of the police report to a service center in person and change nothing on the card. What does the replacement cost?",
+      "o": [
+        "The full replacement fee",
+        "Twice the normal fee",
+        "No fee at all",
+        "Half the normal fee"
+      ],
+      "h1": "The police report shows the loss was not your fault.",
+      "h2": "In Florida, if your license was stolen and you show a copy of the police report in person, the replacement fee is waived as long as you change nothing on the card.",
+      "p": "Right. A stolen license is replaced free when you bring the police report."
+    },
+    "es": {
+      "q": "En Florida, le robaron su licencia de conducir. Usted lleva en persona una copia del informe de la policía a una oficina de licencias y no cambia nada en la tarjeta. ¿Cuánto cuesta el reemplazo?",
+      "o": [
+        "La tarifa completa de reemplazo",
+        "El doble de la tarifa normal",
+        "No se cobra nada",
+        "La mitad de la tarifa normal"
+      ],
+      "h1": "El informe de la policía muestra que la pérdida no fue su culpa.",
+      "h2": "En Florida, si le robaron la licencia y muestra en persona una copia del informe de la policía, no se cobra el reemplazo, siempre que no cambie nada en la tarjeta.",
+      "p": "Correcto. Una licencia robada se reemplaza gratis si lleva el informe de la policía."
+    }
+  },
+  {
+    "id": "licensing-071",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 20,
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, how must you back up the car on the driving skills test?",
+      "o": [
+        "50 feet slowly, looking back, with no mirror or camera",
+        "100 feet quickly, using only the backup camera",
+        "20 feet slowly, using only the side mirrors",
+        "10 feet, using the mirror and the camera"
+      ],
+      "h1": "The examiner wants to see you turn and look behind you.",
+      "h2": "On the Florida driving skills test, you back up 50 feet at a slow speed while looking to the rear, without using the rear-view mirror or the backup camera.",
+      "p": "Right. You back up 50 feet slowly and look back yourself."
+    },
+    "es": {
+      "q": "En Florida, ¿cómo debe manejar en reversa en el examen práctico de manejo?",
+      "o": [
+        "50 pies despacio, mirando hacia atrás, sin espejo ni cámara",
+        "100 pies rápido, usando solo la cámara trasera",
+        "20 pies despacio, usando solo los espejos laterales",
+        "10 pies, usando el espejo y la cámara"
+      ],
+      "h1": "El examinador quiere ver que usted se voltee y mire hacia atrás.",
+      "h2": "En el examen práctico de manejo de Florida, usted maneja en reversa 50 pies a baja velocidad mirando hacia atrás, sin usar el espejo retrovisor ni la cámara trasera.",
+      "p": "Correcto. Retrocede 50 pies despacio y mira hacia atrás usted mismo."
+    }
+  },
+  {
+    "id": "licensing-072",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 21,
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, on the driving skills test, how much space do you get to turn the car around with a three-point turn?",
+      "o": [
+        "10 to 15 feet",
+        "20 to 40 feet",
+        "50 to 70 feet",
+        "80 to 100 feet"
+      ],
+      "h1": "It is about the width of a normal street.",
+      "h2": "On the Florida driving skills test, you turn the car around with a three-point turn in a space 20 to 40 feet wide.",
+      "p": "Right. The three-point turn is done in a 20 to 40 foot space."
+    },
+    "es": {
+      "q": "En Florida, en el examen práctico de manejo, ¿en cuánto espacio debe dar la vuelta al carro con una vuelta en tres puntos?",
+      "o": [
+        "De 10 a 15 pies",
+        "De 20 a 40 pies",
+        "De 50 a 70 pies",
+        "De 80 a 100 pies"
+      ],
+      "h1": "Es más o menos el ancho de una calle normal.",
+      "h2": "En el examen práctico de manejo de Florida, usted da la vuelta al carro con una vuelta en tres puntos en un espacio de 20 a 40 pies de ancho.",
+      "p": "Correcto. La vuelta en tres puntos se hace en un espacio de 20 a 40 pies."
+    }
+  },
+  {
+    "id": "licensing-073",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 24,
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, after a DUI conviction, how much bodily injury liability insurance must you carry for injuries to one person?",
+      "o": [
+        "$10,000",
+        "$25,000",
+        "$50,000",
+        "$100,000"
+      ],
+      "h1": "It is much higher than the usual amounts, because a DUI driver is a bigger risk.",
+      "h2": "In Florida, after a DUI conviction you must carry at least $100,000 of bodily injury liability for one person, $300,000 for two or more people and $50,000 for property damage, for 3 years.",
+      "p": "Right. After a DUI, you need $100,000 of coverage for one injured person."
+    },
+    "es": {
+      "q": "En Florida, después de una condena por DUI, ¿cuánto seguro de responsabilidad por lesiones corporales debe tener para las lesiones de una persona?",
+      "o": [
+        "$10,000",
+        "$25,000",
+        "$50,000",
+        "$100,000"
+      ],
+      "h1": "Es mucho más alto que las cantidades normales, porque un conductor con DUI es un riesgo mayor.",
+      "h2": "En Florida, después de una condena por DUI debe tener por 3 años al menos $100,000 de responsabilidad por lesiones para una persona, $300,000 para dos o más personas y $50,000 por daños a la propiedad.",
+      "p": "Correcto. Después de un DUI, necesita $100,000 de cobertura por una persona lesionada."
+    }
+  },
+  {
+    "id": "licensing-074",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 23,
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, you will stop insuring a car that still has a valid registration. What should you do before you cancel the insurance?",
+      "o": [
+        "Turn in the license plate",
+        "Call the police station",
+        "Park the car in a garage",
+        "Peel off the registration sticker"
+      ],
+      "h1": "A registered car must stay insured the whole registration period, unless you return one item first.",
+      "h2": "In Florida, you should turn in the car's license plate before you cancel the insurance, so your license is not suspended and you avoid reinstatement fees.",
+      "p": "Right. Turn in the plate first, then cancel the insurance."
+    },
+    "es": {
+      "q": "En Florida, usted va a dejar de asegurar un carro que todavía tiene el registro vigente. ¿Qué debe hacer antes de cancelar el seguro?",
+      "o": [
+        "Entregar la placa",
+        "Llamar a la estación de policía",
+        "Guardar el carro en un garaje",
+        "Quitar la calcomanía del registro"
+      ],
+      "h1": "Un carro registrado debe estar asegurado todo el período del registro, a menos que primero devuelva una cosa.",
+      "h2": "En Florida, debe entregar la placa del carro antes de cancelar el seguro, para que no le suspendan la licencia y evitar los cargos de restablecimiento.",
+      "p": "Correcto. Primero entregue la placa y después cancele el seguro."
+    }
+  },
+  {
+    "id": "licensing-075",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 26,
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, at least how many hours of community service come with a first DUI conviction?",
+      "o": [
+        "10 hours",
+        "25 hours",
+        "40 hours",
+        "50 hours"
+      ],
+      "h1": "It is more than a full work week of hours.",
+      "h2": "In Florida, a first DUI conviction includes at least 50 hours of community service.",
+      "p": "Right. A first DUI brings at least 50 hours of community service."
+    },
+    "es": {
+      "q": "En Florida, ¿cuántas horas de servicio comunitario, como mínimo, vienen con una primera condena por DUI?",
+      "o": [
+        "10 horas",
+        "25 horas",
+        "40 horas",
+        "50 horas"
+      ],
+      "h1": "Son más horas que una semana completa de trabajo.",
+      "h2": "En Florida, una primera condena por DUI incluye al menos 50 horas de servicio comunitario.",
+      "p": "Correcto. Un primer DUI trae al menos 50 horas de servicio comunitario."
+    }
+  },
+  {
+    "id": "licensing-076",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 26,
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, after a first DUI conviction, for at least how long is the driver license revoked?",
+      "o": [
+        "30 days",
+        "180 days",
+        "2 years",
+        "5 years"
+      ],
+      "h1": "It is about half a year.",
+      "h2": "In Florida, a first DUI conviction revokes your driver license for at least 180 days.",
+      "p": "Right. A first DUI costs you your license for at least 180 days."
+    },
+    "es": {
+      "q": "En Florida, después de una primera condena por DUI, ¿por cuánto tiempo, como mínimo, se revoca la licencia de conducir?",
+      "o": [
+        "30 días",
+        "180 días",
+        "2 años",
+        "5 años"
+      ],
+      "h1": "Es más o menos medio año.",
+      "h2": "En Florida, una primera condena por DUI revoca su licencia de conducir por al menos 180 días.",
+      "p": "Correcto. Un primer DUI le quita la licencia por al menos 180 días."
+    }
+  },
+  {
+    "id": "licensing-077",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 26,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, after a second DUI conviction, for at least how long must an ignition interlock device be installed?",
+      "o": [
+        "1 month",
+        "6 months",
+        "1 year",
+        "10 years"
+      ],
+      "h1": "The device stops the car from starting if it finds alcohol on your breath, and it stays in for a full year or more.",
+      "h2": "In Florida, a second DUI conviction requires an ignition interlock device for at least one continuous year.",
+      "p": "Right. After a second DUI, the interlock stays in for at least 1 year."
+    },
+    "es": {
+      "q": "En Florida, después de una segunda condena por DUI, ¿por cuánto tiempo, como mínimo, se debe instalar un dispositivo de bloqueo de encendido?",
+      "o": [
+        "1 mes",
+        "6 meses",
+        "1 año",
+        "10 años"
+      ],
+      "h1": "El dispositivo no deja arrancar el carro si detecta alcohol en su aliento, y se queda instalado un año completo o más.",
+      "h2": "En Florida, una segunda condena por DUI exige un dispositivo de bloqueo de encendido por al menos un año continuo.",
+      "p": "Correcto. Después de un segundo DUI, el dispositivo se queda al menos 1 año."
+    }
+  },
+  {
+    "id": "licensing-078",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.flsenate.gov/Laws/Statutes/2025/322.28",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, a driver is convicted of DUI a second time, within 5 years of the first conviction. For at least how long is the license revoked?",
+      "o": [
+        "6 months",
+        "1 year",
+        "2 years",
+        "5 years"
+      ],
+      "h1": "A second DUI in a short time is treated much more harshly than the first.",
+      "h2": "In Florida, a second DUI conviction within 5 years of the first revokes the driver license for at least 5 years.",
+      "p": "Right. A second DUI within 5 years means at least 5 years without a license."
+    },
+    "es": {
+      "q": "En Florida, un conductor es condenado por DUI por segunda vez, dentro de los 5 años después de la primera condena. ¿Por cuánto tiempo, como mínimo, se revoca la licencia?",
+      "o": [
+        "6 meses",
+        "1 año",
+        "2 años",
+        "5 años"
+      ],
+      "h1": "Un segundo DUI en poco tiempo se castiga mucho más que el primero.",
+      "h2": "En Florida, una segunda condena por DUI dentro de los 5 años después de la primera revoca la licencia de conducir por al menos 5 años.",
+      "p": "Correcto. Un segundo DUI en 5 años significa al menos 5 años sin licencia."
+    }
+  },
+  {
+    "id": "licensing-079",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 35,
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, how long must a DUI conviction stay on your driving record?",
+      "o": [
+        "3 years",
+        "7 years",
+        "10 years",
+        "75 years"
+      ],
+      "h1": "It is longer than most people drive in a lifetime.",
+      "h2": "In Florida, a DUI conviction must stay on your driving record for 75 years.",
+      "p": "Right. A DUI stays on a Florida driving record for 75 years."
+    },
+    "es": {
+      "q": "En Florida, ¿cuánto tiempo debe quedar una condena por DUI en su historial de manejo?",
+      "o": [
+        "3 años",
+        "7 años",
+        "10 años",
+        "75 años"
+      ],
+      "h1": "Es más tiempo del que la mayoría de las personas maneja en toda su vida.",
+      "h2": "En Florida, una condena por DUI debe quedar en su historial de manejo por 75 años.",
+      "p": "Correcto. Un DUI queda en el historial de manejo de Florida por 75 años."
+    }
+  },
+  {
+    "id": "licensing-080",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 28,
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, which of these people does NOT have to wear a seat belt by law?",
+      "o": [
+        "A front-seat passenger who is 19",
+        "A driver going to the store",
+        "A 15-year-old in the back seat",
+        "A worker delivering newspapers on a home route"
+      ],
+      "h1": "The law makes an exception for one kind of job with many quick stops.",
+      "h2": "In Florida, an employee of a newspaper home delivery service does not have to wear a seat belt while delivering newspapers on the route.",
+      "p": "Right. Newspaper home delivery workers on their route are exempt."
+    },
+    "es": {
+      "q": "En Florida, ¿cuál de estas personas NO tiene que usar el cinturón de seguridad por ley?",
+      "o": [
+        "Un pasajero de 19 años en el asiento delantero",
+        "Un conductor que va a la tienda",
+        "Un joven de 15 años en el asiento trasero",
+        "Un trabajador que reparte periódicos en una ruta a domicilio"
+      ],
+      "h1": "La ley hace una excepción para un tipo de trabajo con muchas paradas rápidas.",
+      "h2": "En Florida, un empleado de un servicio de reparto de periódicos a domicilio no tiene que usar el cinturón mientras reparte periódicos en su ruta.",
+      "p": "Correcto. Los repartidores de periódicos a domicilio están exentos en su ruta."
+    }
+  },
+  {
+    "id": "licensing-081",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 29,
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, a driver is convicted for a third crash within 36 months and must take a course with behind-the-wheel training. How long does the driver have to finish it before the license is canceled?",
+      "o": [
+        "30 days",
+        "90 days",
+        "1 year",
+        "2 years"
+      ],
+      "h1": "It is about three months.",
+      "h2": "In Florida, under the three crashes in three years law, the driver must complete the required course within 90 days, or the license is canceled.",
+      "p": "Right. The driver has 90 days to finish, or loses the license."
+    },
+    "es": {
+      "q": "En Florida, un conductor es condenado por un tercer choque en 36 meses y debe tomar un curso con práctica al volante. ¿Cuánto tiempo tiene para terminarlo antes de que le cancelen la licencia?",
+      "o": [
+        "30 días",
+        "90 días",
+        "1 año",
+        "2 años"
+      ],
+      "h1": "Son más o menos tres meses.",
+      "h2": "En Florida, según la ley de tres choques en tres años, el conductor debe terminar el curso requerido en 90 días, o le cancelan la licencia.",
+      "p": "Correcto. El conductor tiene 90 días para terminar, o pierde la licencia."
+    }
+  },
+  {
+    "id": "licensing-082",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, you choose a basic driver improvement course for a non-criminal traffic ticket. What happens to the civil penalty?",
+      "o": [
+        "It is doubled",
+        "It is cut by 18 percent",
+        "It stays the same",
+        "It is canceled completely"
+      ],
+      "h1": "Taking the course earns you a small discount.",
+      "h2": "In Florida, if you elect a basic driver improvement course for a non-criminal traffic ticket, the civil penalty is reduced by 18 percent.",
+      "p": "Right. The course lowers the civil penalty by 18 percent."
+    },
+    "es": {
+      "q": "En Florida, usted elige un curso básico de mejoramiento del conductor por una multa de tránsito no criminal. ¿Qué pasa con la multa civil?",
+      "o": [
+        "Se duplica",
+        "Se reduce un 18 por ciento",
+        "Se queda igual",
+        "Se cancela por completo"
+      ],
+      "h1": "Tomar el curso le da un pequeño descuento.",
+      "h2": "En Florida, si elige un curso básico de mejoramiento del conductor por una multa de tránsito no criminal, la multa civil se reduce un 18 por ciento.",
+      "p": "Correcto. El curso reduce la multa civil un 18 por ciento."
+    }
+  },
+  {
+    "id": "licensing-083",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 30,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, how many points go on your driving record for reckless driving?",
+      "o": [
+        "2 points",
+        "3 points",
+        "4 points",
+        "6 points"
+      ],
+      "h1": "It is the same number of points as passing a stopped school bus when no one is hurt.",
+      "h2": "In Florida, a reckless driving conviction puts 4 points on your driving record.",
+      "p": "Right. Reckless driving is 4 points."
+    },
+    "es": {
+      "q": "En Florida, ¿cuántos puntos se ponen en su historial de manejo por manejo temerario?",
+      "o": [
+        "2 puntos",
+        "3 puntos",
+        "4 puntos",
+        "6 puntos"
+      ],
+      "h1": "Es el mismo número de puntos que por pasar un autobús escolar detenido cuando nadie resulta herido.",
+      "h2": "En Florida, una condena por manejo temerario pone 4 puntos en su historial de manejo.",
+      "p": "Correcto. El manejo temerario son 4 puntos."
+    }
+  },
+  {
+    "id": "licensing-084",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 30,
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, you were speeding and it caused a crash. How many points go on your driving record?",
+      "o": [
+        "3 points",
+        "4 points",
+        "5 points",
+        "6 points"
+      ],
+      "h1": "A crash makes the points much higher than for speeding alone.",
+      "h2": "In Florida, unlawful speed that results in a crash puts 6 points on your driving record.",
+      "p": "Right. Speeding that causes a crash is 6 points."
+    },
+    "es": {
+      "q": "En Florida, usted iba con exceso de velocidad y eso causó un choque. ¿Cuántos puntos se ponen en su historial de manejo?",
+      "o": [
+        "3 puntos",
+        "4 puntos",
+        "5 puntos",
+        "6 puntos"
+      ],
+      "h1": "Un choque hace que los puntos sean mucho más altos que por la velocidad sola.",
+      "h2": "En Florida, la velocidad ilegal que causa un choque pone 6 puntos en su historial de manejo.",
+      "p": "Correcto. El exceso de velocidad que causa un choque son 6 puntos."
+    }
+  },
+  {
+    "id": "licensing-085",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 31,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, how many traffic convictions that carry points, within 5 years, make you a habitual traffic offender whose license is revoked?",
+      "o": [
+        "5",
+        "10",
+        "15",
+        "25"
+      ],
+      "h1": "It is more than ten.",
+      "h2": "In Florida, 15 convictions for offenses that carry points within a 5-year period make you a habitual traffic offender, and your license is revoked.",
+      "p": "Right. 15 point convictions in 5 years leads to revocation."
+    },
+    "es": {
+      "q": "En Florida, ¿cuántas condenas de tránsito con puntos, en 5 años, lo convierten en infractor habitual y le revocan la licencia?",
+      "o": [
+        "5",
+        "10",
+        "15",
+        "25"
+      ],
+      "h1": "Son más de diez.",
+      "h2": "En Florida, 15 condenas por infracciones con puntos en un período de 5 años lo convierten en infractor habitual de tránsito, y le revocan la licencia.",
+      "p": "Correcto. 15 condenas con puntos en 5 años llevan a la revocación."
+    }
+  },
+  {
+    "id": "licensing-086",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 37,
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, you live in another state but take a job in Florida. How soon must you register your car in Florida?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 90 days",
+        "Within 6 months"
+      ],
+      "h1": "It is a short time, less than two weeks.",
+      "h2": "In Florida, a non-resident who starts working in the state must register the car within 10 days after the job begins.",
+      "p": "Right. A non-resident who works in Florida registers the car within 10 days."
+    },
+    "es": {
+      "q": "En Florida, usted vive en otro estado pero acepta un trabajo en Florida. ¿En cuánto tiempo debe registrar su carro en Florida?",
+      "o": [
+        "En 10 días",
+        "En 30 días",
+        "En 90 días",
+        "En 6 meses"
+      ],
+      "h1": "Es poco tiempo, menos de dos semanas.",
+      "h2": "En Florida, una persona no residente que empieza a trabajar en el estado debe registrar su carro dentro de los 10 días después de empezar el trabajo.",
+      "p": "Correcto. Un no residente que trabaja en Florida registra el carro en 10 días."
+    }
+  },
+  {
+    "id": "licensing-087",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 37,
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, a car is owned by a person, not a company. When does its registration usually expire?",
+      "o": [
+        "On the first owner's birthday",
+        "On December 31",
+        "On the purchase date",
+        "On June 30"
+      ],
+      "h1": "The date is personal to the owner listed first on the registration.",
+      "h2": "In Florida, a car registration usually expires at midnight on the birthday of the first owner listed on the registration.",
+      "p": "Right. It expires on the first listed owner's birthday."
+    },
+    "es": {
+      "q": "En Florida, un carro es de una persona, no de una compañía. ¿Cuándo vence normalmente su registro?",
+      "o": [
+        "En el cumpleaños del primer dueño",
+        "El 31 de diciembre",
+        "En la fecha de compra",
+        "El 30 de junio"
+      ],
+      "h1": "La fecha es personal del dueño que aparece primero en el registro.",
+      "h2": "En Florida, el registro de un carro normalmente vence a la medianoche del cumpleaños del primer dueño que aparece en el registro.",
+      "p": "Correcto. Vence en el cumpleaños del primer dueño en el registro."
+    }
+  },
+  {
+    "id": "licensing-088",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 77,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, a driver leaves the scene of a crash in which someone died. What is the minimum prison term?",
+      "o": [
+        "6 months",
+        "1 year",
+        "4 years",
+        "No prison term"
+      ],
+      "h1": "It is a first-degree felony with a mandatory minimum of several years.",
+      "h2": "In Florida, leaving the scene of a crash that caused a death is a first-degree felony with a minimum prison term of 4 years.",
+      "p": "Right. A deadly hit and run carries at least 4 years in prison."
+    },
+    "es": {
+      "q": "En Florida, un conductor se va del lugar de un choque en el que murió una persona. ¿Cuál es la pena mínima de prisión?",
+      "o": [
+        "6 meses",
+        "1 año",
+        "4 años",
+        "Ninguna pena de prisión"
+      ],
+      "h1": "Es un delito grave de primer grado con un mínimo obligatorio de varios años.",
+      "h2": "En Florida, irse del lugar de un choque que causó una muerte es un delito grave de primer grado con una pena mínima de 4 años de prisión.",
+      "p": "Correcto. Huir de un choque mortal trae al menos 4 años de prisión."
+    }
+  },
+  {
+    "id": "licensing-089",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 87,
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, what must you complete before you can get a motorcycle endorsement?",
+      "o": [
+        "An approved motorcycle safety course",
+        "A 50-hour driving log",
+        "A first aid class",
+        "A basic driver improvement course"
+      ],
+      "h1": "The course is made just for motorcycle riders.",
+      "h2": "In Florida, you must complete an approved motorcycle safety course to get a motorcycle endorsement or a Motorcycle Only license.",
+      "p": "Right. An approved motorcycle safety course comes first."
+    },
+    "es": {
+      "q": "En Florida, ¿qué debe completar antes de obtener el endoso de motocicleta?",
+      "o": [
+        "Un curso aprobado de seguridad en motocicleta",
+        "Un registro de 50 horas de manejo",
+        "Una clase de primeros auxilios",
+        "Un curso básico de mejoramiento del conductor"
+      ],
+      "h1": "El curso está hecho solo para motociclistas.",
+      "h2": "En Florida, debe completar un curso aprobado de seguridad en motocicleta para obtener el endoso de motocicleta o una licencia solo para motocicleta.",
+      "p": "Correcto. Primero va un curso aprobado de seguridad en motocicleta."
+    }
+  },
+  {
+    "id": "licensing-090",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 87,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, must the owner of a motorcycle carry Personal Injury Protection (PIP) insurance?",
+      "o": [
+        "Yes, $10,000 of PIP",
+        "Yes, $20,000 of PIP",
+        "No, motorcycles do not need PIP",
+        "Only if the rider is under 21"
+      ],
+      "h1": "Florida's PIP rule for cars does not cover every kind of vehicle.",
+      "h2": "In Florida, operators of motorcycles and mopeds do not have to carry Personal Injury Protection (PIP) insurance.",
+      "p": "Right. Motorcycles and mopeds are not required to carry PIP."
+    },
+    "es": {
+      "q": "En Florida, ¿debe el dueño de una motocicleta tener seguro de Protección contra Lesiones Personales (PIP)?",
+      "o": [
+        "Sí, $10,000 de PIP",
+        "Sí, $20,000 de PIP",
+        "No, las motocicletas no necesitan PIP",
+        "Solo si el motociclista tiene menos de 21 años"
+      ],
+      "h1": "La regla de PIP de Florida para carros no cubre todo tipo de vehículo.",
+      "h2": "En Florida, quienes manejan motocicletas y ciclomotores no tienen que tener seguro de Protección contra Lesiones Personales (PIP).",
+      "p": "Correcto. Las motocicletas y los ciclomotores no necesitan PIP."
+    }
   }
 ]
