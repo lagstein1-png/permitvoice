@@ -7430,5 +7430,1399 @@
       "h2": "En Pensilvania, no responder a una multa de otro estado lleva a una suspensión indefinida de su privilegio de manejar hasta que responda.",
       "p": "Correcto. Sigue suspendido hasta que responda."
     }
+  },
+  {
+    "id": "pa-149",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 1,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, you are 25 and applying for your first learner's permit. How many proofs of where you live must you bring?",
+      "o": [
+        "Two",
+        "One",
+        "Three",
+        "None"
+      ],
+      "h1": "Think of things like a utility bill, a lease or a W-2 form. You need more than one.",
+      "h2": "In Pennsylvania, a permit applicant who is over 18 must show two proofs of residency, such as a utility bill, a lease or a W-2 form.",
+      "p": "Right. Over 18, you bring two proofs of residency."
+    },
+    "es": {
+      "q": "En Pensilvania, usted tiene 25 años y solicita su primer permiso de aprendizaje. ¿Cuántas pruebas de dónde vive debe llevar?",
+      "o": [
+        "Dos",
+        "Una",
+        "Tres",
+        "Ninguna"
+      ],
+      "h1": "Piense en una factura de servicios, un contrato de alquiler o un formulario W-2. Necesita más de una.",
+      "h2": "En Pensilvania, quien solicita el permiso y tiene más de 18 años debe mostrar dos pruebas de residencia, como una factura de servicios, un contrato de alquiler o un formulario W-2.",
+      "p": "Correcto. Con más de 18 años, lleva dos pruebas de residencia."
+    }
+  },
+  {
+    "id": "pa-150",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, you passed your motorcycle skills test on a motor-driven cycle (a small motorbike). Your license shows an \"8\" restriction. What does it mean?",
+      "o": [
+        "You may only ride in daylight",
+        "You may not drive a motorcycle",
+        "You may not carry a passenger",
+        "You must wear glasses"
+      ],
+      "h1": "The restriction is about the size of the bike you tested on.",
+      "h2": "In Pennsylvania, the \"8\" restriction is given when you test on a motor-driven cycle, and it means you may not drive a motorcycle.",
+      "p": "Right. The \"8\" restriction means no motorcycle."
+    },
+    "es": {
+      "q": "En Pensilvania, usted aprobó el examen práctico de motocicleta en un ciclo motorizado (una moto pequeña). Su licencia muestra la restricción \"8\". ¿Qué significa?",
+      "o": [
+        "Solo puede manejar de día",
+        "No puede manejar una motocicleta",
+        "No puede llevar pasajeros",
+        "Debe usar anteojos"
+      ],
+      "h1": "La restricción tiene que ver con el tamaño de la moto con la que hizo el examen.",
+      "h2": "En Pensilvania, la restricción \"8\" se da cuando hace el examen en un ciclo motorizado, y significa que no puede manejar una motocicleta.",
+      "p": "Correcto. La restricción \"8\" significa que no puede manejar motocicleta."
+    }
+  },
+  {
+    "id": "pa-151",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, you took your motorcycle skills test on a motorcycle with three wheels. Your license shows a \"9\" restriction. What may you not drive?",
+      "o": [
+        "A car",
+        "A three-wheeled motorcycle",
+        "A two-wheeled motorcycle",
+        "Any vehicle at night"
+      ],
+      "h1": "You tested on a bike with more than two wheels.",
+      "h2": "In Pennsylvania, the \"9\" restriction is given when you test on a motorcycle with more than two wheels, and it means you may not drive a two-wheeled motorcycle.",
+      "p": "Right. The \"9\" restriction means no two-wheeled motorcycle."
+    },
+    "es": {
+      "q": "En Pensilvania, usted hizo el examen práctico de motocicleta en una moto de tres ruedas. Su licencia muestra la restricción \"9\". ¿Qué no puede manejar?",
+      "o": [
+        "Un auto",
+        "Una motocicleta de tres ruedas",
+        "Una motocicleta de dos ruedas",
+        "Ningún vehículo de noche"
+      ],
+      "h1": "Usted hizo el examen en una moto con más de dos ruedas.",
+      "h2": "En Pensilvania, la restricción \"9\" se da cuando hace el examen en una motocicleta de más de dos ruedas, y significa que no puede manejar una motocicleta de dos ruedas.",
+      "p": "Correcto. La restricción \"9\" significa que no puede manejar una moto de dos ruedas."
+    }
+  },
+  {
+    "id": "pa-152",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, a new resident has a valid regular driver's license from Germany. What test must they still take to transfer it to a Pennsylvania license?",
+      "o": [
+        "The knowledge test and the road test",
+        "Only the road test",
+        "No test of any kind",
+        "Only a vision test"
+      ],
+      "h1": "Pennsylvania has an agreement with Germany, France, Korea and Taiwan, but one check is still done.",
+      "h2": "In Pennsylvania, a valid non-commercial license from France, Germany, Korea or Taiwan can be transferred without the knowledge or road test, but a vision test is still given.",
+      "p": "Right. Only the vision test is needed."
+    },
+    "es": {
+      "q": "En Pensilvania, un nuevo residente tiene una licencia de conducir regular y válida de Alemania. ¿Qué examen debe tomar todavía para cambiarla por una licencia de Pensilvania?",
+      "o": [
+        "El examen de conocimientos y el de manejo",
+        "Solo el examen de manejo",
+        "Ningún examen",
+        "Solo un examen de la vista"
+      ],
+      "h1": "Pensilvania tiene un acuerdo con Alemania, Francia, Corea y Taiwán, pero todavía se hace una revisión.",
+      "h2": "En Pensilvania, una licencia no comercial válida de Francia, Alemania, Corea o Taiwán se puede transferir sin el examen de conocimientos ni el de manejo, pero todavía se hace un examen de la vista.",
+      "p": "Correcto. Solo se necesita el examen de la vista."
+    }
+  },
+  {
+    "id": "pa-153",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, your car can park itself (a self-parking system). May you use that feature during the road test?",
+      "o": [
+        "No, it must be turned off for the whole test",
+        "Yes, for the parallel parking part only",
+        "Yes, if the examiner agrees",
+        "Yes, but you lose points"
+      ],
+      "h1": "The examiner wants to see your own skills.",
+      "h2": "In Pennsylvania, you may take the road test in a self-parking car, but the self-parking feature must be turned off and may not be used during the test.",
+      "p": "Right. The self-parking feature must stay off."
+    },
+    "es": {
+      "q": "En Pensilvania, su auto puede estacionarse solo (sistema de estacionamiento automático). ¿Puede usar esa función durante el examen de manejo?",
+      "o": [
+        "No, debe estar apagada durante todo el examen",
+        "Sí, solo para estacionar en paralelo",
+        "Sí, si el examinador está de acuerdo",
+        "Sí, pero pierde puntos"
+      ],
+      "h1": "El examinador quiere ver sus propias habilidades.",
+      "h2": "En Pensilvania, puede hacer el examen de manejo en un auto que se estaciona solo, pero esa función debe estar apagada y no se puede usar durante el examen.",
+      "p": "Correcto. La función de estacionamiento automático debe estar apagada."
+    }
+  },
+  {
+    "id": "pa-154",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, before the road test, the examiner asks you to turn on the defroster and the 4-way flashers. You cannot do it. What happens?",
+      "o": [
+        "You lose one point and keep going",
+        "The examiner does it for you",
+        "You fail the road test",
+        "Nothing; it is only practice"
+      ],
+      "h1": "Knowing your car's controls is part of the test.",
+      "h2": "In Pennsylvania, if you cannot properly operate any vehicle control the examiner asks for, you fail the road test.",
+      "p": "Right. Not working the controls means you fail."
+    },
+    "es": {
+      "q": "En Pensilvania, antes del examen de manejo, el examinador le pide encender el desempañador y las luces intermitentes de emergencia. Usted no puede hacerlo. ¿Qué pasa?",
+      "o": [
+        "Pierde un punto y sigue",
+        "El examinador lo hace por usted",
+        "Reprueba el examen de manejo",
+        "Nada; es solo práctica"
+      ],
+      "h1": "Conocer los controles de su auto es parte del examen.",
+      "h2": "En Pensilvania, si no puede usar bien cualquier control del vehículo que pida el examinador, reprueba el examen de manejo.",
+      "p": "Correcto. No usar bien los controles significa reprobar."
+    }
+  },
+  {
+    "id": "pa-155",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 5,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, you bring photocopies of the registration card and insurance card to your road test. What happens?",
+      "o": [
+        "The test goes on as usual",
+        "You pay a small fee and test",
+        "You test, but cannot get your license that day",
+        "You will not be given the test"
+      ],
+      "h1": "The examiner must see the real papers.",
+      "h2": "In Pennsylvania, you must bring the original documents, not copies, to the road test, or you will not be given the test.",
+      "p": "Right. Without the originals, there is no test."
+    },
+    "es": {
+      "q": "En Pensilvania, usted lleva fotocopias de la tarjeta de registro y de la tarjeta del seguro al examen de manejo. ¿Qué pasa?",
+      "o": [
+        "El examen sigue como siempre",
+        "Paga una pequeña tarifa y hace el examen",
+        "Hace el examen, pero no recibe la licencia ese día",
+        "No le darán el examen"
+      ],
+      "h1": "El examinador debe ver los papeles reales.",
+      "h2": "En Pensilvania, debe llevar los documentos originales, no copias, al examen de manejo; si no, no le darán el examen.",
+      "p": "Correcto. Sin los originales, no hay examen."
+    }
+  },
+  {
+    "id": "pa-156",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 32,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, may you drive wearing earphones in both ears to listen to music?",
+      "o": [
+        "Yes, if the volume is low",
+        "No, an earphone may be worn in only one ear, for communication",
+        "Yes, on highways only",
+        "Yes, if you are over 21"
+      ],
+      "h1": "You need to hear sirens and horns.",
+      "h2": "In Pennsylvania, headphones or ear pieces may be used in only one ear, and only for communication, while driving.",
+      "p": "Right. One ear only, for communication."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿puede manejar con audífonos en los dos oídos para escuchar música?",
+      "o": [
+        "Sí, si el volumen es bajo",
+        "No, solo se puede usar un audífono en un oído, para comunicarse",
+        "Sí, solo en autopistas",
+        "Sí, si tiene más de 21 años"
+      ],
+      "h1": "Usted necesita oír sirenas y bocinas.",
+      "h2": "En Pensilvania, los audífonos solo se pueden usar en un oído, y solo para comunicarse, mientras maneja.",
+      "p": "Correcto. Solo un oído, para comunicarse."
+    }
+  },
+  {
+    "id": "pa-157",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 32,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, what does the manual say about wearing sunglasses or tinted contact lenses when you drive at night?",
+      "o": [
+        "Wear them to cut headlight glare",
+        "Wear them only on highways",
+        "Do not wear them at night",
+        "Wear them only when it rains"
+      ],
+      "h1": "At night you need all the light you can get.",
+      "h2": "In Pennsylvania, the manual says not to wear sunglasses or tinted contact lenses when driving at night.",
+      "p": "Right. No sunglasses or tinted lenses at night."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿qué dice el manual sobre usar anteojos de sol o lentes de contacto con color al manejar de noche?",
+      "o": [
+        "Úselos para reducir el brillo de los faros",
+        "Úselos solo en autopistas",
+        "No los use de noche",
+        "Úselos solo cuando llueve"
+      ],
+      "h1": "De noche necesita toda la luz posible.",
+      "h2": "En Pensilvania, el manual dice que no use anteojos de sol ni lentes de contacto con color al manejar de noche.",
+      "p": "Correcto. Nada de anteojos de sol ni lentes con color de noche."
+    }
+  },
+  {
+    "id": "pa-158",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, you do not have at least 8 feet of open space on either side of your car to escape. What does the manual tell you to do?",
+      "o": [
+        "Drive closer to the center line",
+        "Increase your following distance",
+        "Speed up to get ahead of traffic",
+        "Turn on your high beams"
+      ],
+      "h1": "If you cannot escape to the side, you need more room in front.",
+      "h2": "In Pennsylvania, if you do not have at least 8 feet of space on one side as an escape path, you should increase your following distance.",
+      "p": "Right. With no side escape, leave more room ahead."
+    },
+    "es": {
+      "q": "En Pensilvania, usted no tiene por lo menos 8 pies de espacio libre a ningún lado de su auto para escapar. ¿Qué le dice el manual que haga?",
+      "o": [
+        "Manejar más cerca de la línea central",
+        "Aumentar la distancia con el vehículo de adelante",
+        "Acelerar para adelantarse al tráfico",
+        "Encender las luces altas"
+      ],
+      "h1": "Si no puede escapar hacia el lado, necesita más espacio adelante.",
+      "h2": "En Pensilvania, si no tiene por lo menos 8 pies de espacio a un lado como ruta de escape, debe aumentar la distancia con el vehículo de adelante.",
+      "p": "Correcto. Sin escape al lado, deje más espacio adelante."
+    }
+  },
+  {
+    "id": "pa-159",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 54,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, you are driving on the highway toward a work zone with cruise control on. What does the manual say?",
+      "o": [
+        "Keep it on so your speed stays steady",
+        "Set it 5 mph below the limit",
+        "Do not use cruise control in work zones",
+        "Use it only if no workers are present"
+      ],
+      "h1": "Traffic in a work zone can slow or stop suddenly.",
+      "h2": "In Pennsylvania, the manual says not to use cruise control in work zones.",
+      "p": "Right. Turn cruise control off in work zones."
+    },
+    "es": {
+      "q": "En Pensilvania, usted maneja por la autopista hacia una zona de obras con el control de velocidad crucero puesto. ¿Qué dice el manual?",
+      "o": [
+        "Déjelo puesto para mantener una velocidad estable",
+        "Póngalo 5 mph por debajo del límite",
+        "No use el control crucero en zonas de obras",
+        "Úselo solo si no hay trabajadores"
+      ],
+      "h1": "En una zona de obras el tráfico puede frenar o detenerse de repente.",
+      "h2": "En Pensilvania, el manual dice que no use el control de velocidad crucero en zonas de obras.",
+      "p": "Correcto. Apague el control crucero en zonas de obras."
+    }
+  },
+  {
+    "id": "pa-160",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 54,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, how should you change your following distance in a work zone, and why?",
+      "o": [
+        "Cut it in half, so traffic moves faster",
+        "Keep it the same, because speeds are lower",
+        "Double it, because side crashes are the most common",
+        "Double it, because rear-end crashes are the most common work zone crash"
+      ],
+      "h1": "Think about the crash that happens when traffic ahead stops suddenly.",
+      "h2": "In Pennsylvania, the manual says to double your following distance in work zones, because rear-end collisions are the most common work zone crash.",
+      "p": "Right. Double it; rear-end crashes are most common."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿cómo debe cambiar la distancia con el vehículo de adelante en una zona de obras, y por qué?",
+      "o": [
+        "Reducirla a la mitad, para que el tráfico avance más rápido",
+        "Mantenerla igual, porque las velocidades son menores",
+        "Duplicarla, porque los choques laterales son los más comunes",
+        "Duplicarla, porque los choques por detrás son los más comunes en zonas de obras"
+      ],
+      "h1": "Piense en el choque que ocurre cuando el tráfico de adelante se detiene de repente.",
+      "h2": "En Pensilvania, el manual dice que duplique la distancia con el vehículo de adelante en zonas de obras, porque los choques por detrás son los más comunes allí.",
+      "p": "Correcto. Duplíquela; los choques por detrás son los más comunes."
+    }
+  },
+  {
+    "id": "pa-161",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 56,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, you have just passed a bicycle rider. What should you not do right after passing?",
+      "o": [
+        "Slow down or stop quickly in front of the rider",
+        "Keep a steady speed",
+        "Check your mirror for the rider",
+        "Move back into your lane when it is safe"
+      ],
+      "h1": "The rider is right behind you now.",
+      "h2": "In Pennsylvania, after you pass a bicycle rider, you should not slow down or stop quickly, because the rider could crash into your vehicle.",
+      "p": "Right. Do not slow or stop quickly after passing a bicycle."
+    },
+    "es": {
+      "q": "En Pensilvania, usted acaba de rebasar a un ciclista. ¿Qué no debe hacer justo después de rebasarlo?",
+      "o": [
+        "Frenar o detenerse de repente delante del ciclista",
+        "Mantener una velocidad estable",
+        "Mirar al ciclista por el espejo",
+        "Volver a su carril cuando sea seguro"
+      ],
+      "h1": "El ciclista ahora está justo detrás de usted.",
+      "h2": "En Pensilvania, después de rebasar a un ciclista, no debe frenar ni detenerse de repente, porque el ciclista podría chocar contra su vehículo.",
+      "p": "Correcto. No frene de repente después de rebasar una bicicleta."
+    }
+  },
+  {
+    "id": "pa-162",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 57,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, a large truck is passing you. How can you help the truck driver?",
+      "o": [
+        "Speed up so the truck can pass faster",
+        "Move toward the truck so it has room behind",
+        "Keep to the far side of your lane and slow down slightly",
+        "Brake hard and stop on the shoulder"
+      ],
+      "h1": "Give the truck room, and do not race it.",
+      "h2": "In Pennsylvania, when a truck passes you, keep to the far side of your lane, slow down slightly and keep a steady speed; never speed up.",
+      "p": "Right. Move to the far side and ease off a little."
+    },
+    "es": {
+      "q": "En Pensilvania, un camión grande lo está rebasando. ¿Cómo puede ayudar al camionero?",
+      "o": [
+        "Acelerando para que el camión rebase más rápido",
+        "Acercándose al camión para dejarle espacio detrás",
+        "Manteniéndose en el lado más lejano de su carril y bajando un poco la velocidad",
+        "Frenando fuerte y parando en el arcén"
+      ],
+      "h1": "Dele espacio al camión y no compita con él.",
+      "h2": "En Pensilvania, cuando un camión lo rebasa, manténgase en el lado más lejano de su carril, baje un poco la velocidad y manténgala estable; nunca acelere.",
+      "p": "Correcto. Vaya al lado más lejano y baje un poco la velocidad."
+    }
+  },
+  {
+    "id": "pa-163",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 58,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, you see a runaway truck ramp on a long downhill road. Where may you stop or park?",
+      "o": [
+        "On the ramp, if you need to rest",
+        "At the bottom of the ramp only",
+        "Anywhere off the road near it",
+        "Never near the ramp"
+      ],
+      "h1": "A truck with failed brakes may need that space at any moment.",
+      "h2": "In Pennsylvania, you must never stop or park near a truck escape (runaway) ramp, because it is only for vehicles that cannot stop.",
+      "p": "Right. Never stop or park near an escape ramp."
+    },
+    "es": {
+      "q": "En Pensilvania, usted ve una rampa de escape para camiones en una bajada larga. ¿Dónde puede detenerse o estacionarse?",
+      "o": [
+        "En la rampa, si necesita descansar",
+        "Solo al pie de la rampa",
+        "En cualquier lugar fuera de la vía cerca de ella",
+        "Nunca cerca de la rampa"
+      ],
+      "h1": "Un camión sin frenos puede necesitar ese espacio en cualquier momento.",
+      "h2": "En Pensilvania, nunca debe detenerse ni estacionarse cerca de una rampa de escape para camiones, porque es solo para vehículos que no pueden frenar.",
+      "p": "Correcto. Nunca se detenga ni se estacione cerca de una rampa de escape."
+    }
+  },
+  {
+    "id": "pa-164",
+    "scope": "PA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 59,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, you are driving on a one-way street and an ambulance with a siren comes up behind you. Where should you pull over?",
+      "o": [
+        "Toward the nearest side of the road, and stop",
+        "Always to the right side",
+        "Always to the left side",
+        "Into the nearest intersection"
+      ],
+      "h1": "On a one-way street, either side may be closer.",
+      "h2": "In Pennsylvania, on a one-way street you pull toward the nearest roadside and stop when an emergency vehicle comes.",
+      "p": "Right. On a one-way street, go to the nearest side and stop."
+    },
+    "es": {
+      "q": "En Pensilvania, usted maneja por una calle de un solo sentido y una ambulancia con sirena se acerca por detrás. ¿Hacia dónde debe orillarse?",
+      "o": [
+        "Hacia el lado más cercano de la calle, y detenerse",
+        "Siempre hacia la derecha",
+        "Siempre hacia la izquierda",
+        "Hacia la intersección más cercana"
+      ],
+      "h1": "En una calle de un solo sentido, cualquiera de los dos lados puede estar más cerca.",
+      "h2": "En Pensilvania, en una calle de un solo sentido usted se orilla hacia el lado más cercano y se detiene cuando viene un vehículo de emergencia.",
+      "p": "Correcto. En calle de un solo sentido, vaya al lado más cercano y deténgase."
+    }
+  },
+  {
+    "id": "pa-165",
+    "scope": "PA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 59,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, the Move Over law also covers disabled vehicles. When does a broken-down car count as a disabled vehicle under this law?",
+      "o": [
+        "When its hood is raised",
+        "When it is marked with at least two warning devices, such as flashing lamps, flares or caution signs",
+        "When it has a white cloth tied to the antenna",
+        "Any time a car stops on the shoulder"
+      ],
+      "h1": "The car must be clearly marked.",
+      "h2": "In Pennsylvania, a disabled vehicle under the Move Over law is one in or beside a traffic lane that is clearly marked with at least two signal lamps, road flares, caution signs or other traffic control devices.",
+      "p": "Right. It must be marked with at least two warning devices."
+    },
+    "es": {
+      "q": "En Pensilvania, la ley Move Over también protege a los vehículos averiados. ¿Cuándo cuenta un auto descompuesto como vehículo averiado según esta ley?",
+      "o": [
+        "Cuando tiene el capó levantado",
+        "Cuando está marcado con por lo menos dos señales de advertencia, como luces intermitentes, bengalas o letreros de precaución",
+        "Cuando tiene una tela blanca atada a la antena",
+        "Siempre que un auto se detiene en el arcén"
+      ],
+      "h1": "El auto debe estar claramente marcado.",
+      "h2": "En Pensilvania, un vehículo averiado según la ley Move Over es uno que está en un carril o junto a él y claramente marcado con por lo menos dos luces de señal, bengalas, letreros de precaución u otros dispositivos de tránsito.",
+      "p": "Correcto. Debe estar marcado con por lo menos dos señales de advertencia."
+    }
+  },
+  {
+    "id": "pa-166",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 62,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, your brake warning light comes on in a newer car with a split braking system. What does the manual say you probably still have?",
+      "o": [
+        "Braking on two of the four wheels",
+        "No brakes at all",
+        "Full braking on all four wheels",
+        "Braking on the front wheels only, at full power"
+      ],
+      "h1": "Split systems keep part of the brakes working.",
+      "h2": "In Pennsylvania, the manual says a split braking system usually leaves braking on two of the four wheels, so you can pull over; push harder on the pedal and expect a longer stop.",
+      "p": "Right. You still have brakes on two wheels."
+    },
+    "es": {
+      "q": "En Pensilvania, en un auto nuevo con sistema de frenos dividido, se enciende la luz de advertencia de los frenos. ¿Qué dice el manual que probablemente todavía tiene?",
+      "o": [
+        "Frenos en dos de las cuatro ruedas",
+        "Ningún freno",
+        "Frenos completos en las cuatro ruedas",
+        "Frenos solo en las ruedas delanteras, con toda su fuerza"
+      ],
+      "h1": "Los sistemas divididos mantienen parte de los frenos funcionando.",
+      "h2": "En Pensilvania, el manual dice que un sistema de frenos dividido normalmente deja frenos en dos de las cuatro ruedas, para que pueda orillarse; pise más fuerte y espere una parada más larga.",
+      "p": "Correcto. Todavía tiene frenos en dos ruedas."
+    }
+  },
+  {
+    "id": "pa-167",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 63,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, one of your tires blows out while you are driving. What does the manual say about the brake?",
+      "o": [
+        "Brake hard right away",
+        "Stay off the brake at first, and slowly ease off the gas",
+        "Pump the brake quickly",
+        "Pull the parking brake"
+      ],
+      "h1": "Braking right after a blowout can make you skid.",
+      "h2": "In Pennsylvania, after a tire blowout you should hold the wheel tightly, stay off the brake, and slowly take your foot off the gas.",
+      "p": "Right. Stay off the brake and ease off the gas."
+    },
+    "es": {
+      "q": "En Pensilvania, se revienta una llanta mientras usted maneja. ¿Qué dice el manual sobre el freno?",
+      "o": [
+        "Frene fuerte de inmediato",
+        "No pise el freno al principio y suelte el acelerador poco a poco",
+        "Bombee el freno rápido",
+        "Jale el freno de mano"
+      ],
+      "h1": "Frenar justo después de un reventón puede hacerle patinar.",
+      "h2": "En Pensilvania, después de que se revienta una llanta, sujete el volante con fuerza, no pise el freno y quite el pie del acelerador poco a poco.",
+      "p": "Correcto. No pise el freno y suelte el acelerador poco a poco."
+    }
+  },
+  {
+    "id": "pa-168",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 62,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, how much water on a road can make you lose control of your vehicle, even at low speed?",
+      "o": [
+        "At least 3 feet",
+        "At least 4 feet",
+        "As little as 6 inches",
+        "Only water that is moving fast"
+      ],
+      "h1": "It is about the length of a dollar bill.",
+      "h2": "In Pennsylvania, the manual says as little as 6 inches of water can make you lose control of your vehicle and can float some small vehicles.",
+      "p": "Right. Just 6 inches of water can be enough."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿cuánta agua en la vía puede hacerle perder el control de su vehículo, aun a baja velocidad?",
+      "o": [
+        "Por lo menos 3 pies",
+        "Por lo menos 4 pies",
+        "Tan poco como 6 pulgadas",
+        "Solo agua que corre rápido"
+      ],
+      "h1": "Es más o menos el largo de un billete de un dólar.",
+      "h2": "En Pensilvania, el manual dice que tan solo 6 pulgadas de agua pueden hacerle perder el control de su vehículo y hacer flotar algunos vehículos pequeños.",
+      "p": "Correcto. Solo 6 pulgadas de agua pueden bastar."
+    }
+  },
+  {
+    "id": "pa-169",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, you drove your car while it had no insurance. Besides the registration suspension, what else happens?",
+      "o": [
+        "Nothing else",
+        "You get 2 points only",
+        "Your license is revoked for 5 years",
+        "Your driving privilege is suspended for three months"
+      ],
+      "h1": "Both the car and the driver are punished.",
+      "h2": "In Pennsylvania, if you drove or let someone drive your vehicle without insurance, your driving privilege is also suspended for three months.",
+      "p": "Right. Your license is suspended for three months too."
+    },
+    "es": {
+      "q": "En Pensilvania, usted manejó su auto mientras no tenía seguro. Además de suspender el registro, ¿qué más pasa?",
+      "o": [
+        "Nada más",
+        "Solo recibe 2 puntos",
+        "Su licencia se revoca por 5 años",
+        "Su privilegio de manejar se suspende por tres meses"
+      ],
+      "h1": "Se castiga tanto al auto como al conductor.",
+      "h2": "En Pensilvania, si manejó su vehículo sin seguro o dejó que otro lo manejara, su privilegio de manejar también se suspende por tres meses.",
+      "p": "Correcto. Su licencia también se suspende por tres meses."
+    }
+  },
+  {
+    "id": "pa-170",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, your suspension starts on June 1. You hand in your license on May 1. When does the suspension start?",
+      "o": [
+        "On June 1, the date in the notice",
+        "On May 1, when you handed it in",
+        "On the day PennDOT receives it",
+        "On the date of your court hearing"
+      ],
+      "h1": "Handing it in early does not change the date.",
+      "h2": "In Pennsylvania, a suspension starts on the effective date in the notice; surrendering your license early does not start it early.",
+      "p": "Right. It starts on the date in the notice."
+    },
+    "es": {
+      "q": "En Pensilvania, su suspensión empieza el 1 de junio. Usted entrega su licencia el 1 de mayo. ¿Cuándo empieza la suspensión?",
+      "o": [
+        "El 1 de junio, la fecha del aviso",
+        "El 1 de mayo, cuando la entregó",
+        "El día en que PennDOT la recibe",
+        "El día de su audiencia en la corte"
+      ],
+      "h1": "Entregarla antes no cambia la fecha.",
+      "h2": "En Pensilvania, una suspensión empieza en la fecha indicada en el aviso; entregar la licencia antes no la hace empezar antes.",
+      "p": "Correcto. Empieza en la fecha del aviso."
+    }
+  },
+  {
+    "id": "pa-171",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 80,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, police pull you over. What do police recommend about your seat belt?",
+      "o": [
+        "Unbuckle it right away so you can reach your papers",
+        "Keep it fastened until the officer has seen you are wearing it",
+        "Unbuckle it and step out of the car",
+        "It does not matter once you are stopped"
+      ],
+      "h1": "Let the officer see you were buckled up.",
+      "h2": "In Pennsylvania, police recommend you keep your seat belt fastened until the officer has seen that you are wearing it.",
+      "p": "Right. Keep it on until the officer sees it."
+    },
+    "es": {
+      "q": "En Pensilvania, la policía lo detiene. ¿Qué recomienda la policía sobre su cinturón de seguridad?",
+      "o": [
+        "Desabrocharlo de inmediato para alcanzar sus papeles",
+        "Mantenerlo abrochado hasta que el agente vea que lo lleva puesto",
+        "Desabrocharlo y bajarse del auto",
+        "No importa una vez que se detuvo"
+      ],
+      "h1": "Deje que el agente vea que tenía el cinturón puesto.",
+      "h2": "En Pensilvania, la policía recomienda mantener el cinturón abrochado hasta que el agente vea que lo lleva puesto.",
+      "p": "Correcto. Déjelo puesto hasta que el agente lo vea."
+    }
+  },
+  {
+    "id": "pa-172",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 80,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, police stop you and you have a firearm in the car. What do police recommend?",
+      "o": [
+        "Say nothing unless asked",
+        "Hand the firearm to the officer",
+        "Tell the officer right away",
+        "Get out and put it on the roof"
+      ],
+      "h1": "Clear, early information keeps everyone safe.",
+      "h2": "In Pennsylvania, police recommend that you tell the officer immediately if you are carrying any type of firearm.",
+      "p": "Right. Tell the officer right away."
+    },
+    "es": {
+      "q": "En Pensilvania, la policía lo detiene y usted tiene un arma de fuego en el auto. ¿Qué recomienda la policía?",
+      "o": [
+        "No decir nada a menos que pregunten",
+        "Entregarle el arma al agente",
+        "Decírselo al agente de inmediato",
+        "Bajarse y ponerla sobre el techo"
+      ],
+      "h1": "Informar claramente y pronto mantiene a todos seguros.",
+      "h2": "En Pensilvania, la policía recomienda que le diga al agente de inmediato si lleva cualquier tipo de arma de fuego.",
+      "p": "Correcto. Dígaselo al agente de inmediato."
+    }
+  },
+  {
+    "id": "pa-173",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 81,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, you are in a minor crash. Nobody is hurt, but one car cannot be driven and must be towed. Must you call the police?",
+      "o": [
+        "No, only if someone is hurt",
+        "No, only call your insurance company",
+        "Only if the other driver asks",
+        "Yes, call the police when any vehicle needs to be towed"
+      ],
+      "h1": "Towing is one of the reasons to call.",
+      "h2": "In Pennsylvania, you must call the police after a crash if anyone is hurt or killed, or if any vehicle needs to be towed.",
+      "p": "Right. A tow means you call the police."
+    },
+    "es": {
+      "q": "En Pensilvania, usted tiene un choque menor. Nadie está herido, pero un auto no se puede manejar y hay que remolcarlo. ¿Debe llamar a la policía?",
+      "o": [
+        "No, solo si alguien está herido",
+        "No, solo llame a su compañía de seguros",
+        "Solo si el otro conductor lo pide",
+        "Sí, llame a la policía cuando un vehículo necesite remolque"
+      ],
+      "h1": "El remolque es una de las razones para llamar.",
+      "h2": "En Pensilvania, después de un choque debe llamar a la policía si alguien está herido o muerto, o si algún vehículo necesita remolque.",
+      "p": "Correcto. Si hay remolque, llame a la policía."
+    }
+  },
+  {
+    "id": "pa-174",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 81,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, an adult driver's blood alcohol level is below 0.08, but police see them weaving and straddling lanes. Can the driver still be convicted of DUI?",
+      "o": [
+        "Yes, a driver can be convicted of DUI at a lower BAC for driving erratically",
+        "No, never below 0.08",
+        "Only if the driver is over 65",
+        "Only if there is a crash"
+      ],
+      "h1": "The 0.08 limit is not a safe zone.",
+      "h2": "In Pennsylvania, you may be convicted of DUI with a BAC below 0.08 if police stop you for driving erratically.",
+      "p": "Right. Erratic driving can bring a DUI even below 0.08."
+    },
+    "es": {
+      "q": "En Pensilvania, el nivel de alcohol en la sangre de un conductor adulto es menor de 0.08, pero la policía lo ve zigzagueando y ocupando dos carriles. ¿Pueden condenarlo por DUI de todos modos?",
+      "o": [
+        "Sí, se puede condenar por DUI con un BAC más bajo por manejar de forma errática",
+        "No, nunca por debajo de 0.08",
+        "Solo si el conductor tiene más de 65 años",
+        "Solo si hay un choque"
+      ],
+      "h1": "El límite de 0.08 no es una zona segura.",
+      "h2": "En Pensilvania, lo pueden condenar por DUI con un BAC menor de 0.08 si la policía lo detiene por manejar de forma errática.",
+      "p": "Correcto. Manejar de forma errática puede traer un DUI aun por debajo de 0.08."
+    }
+  },
+  {
+    "id": "pa-175",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 82,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, a 19-year-old is convicted of DUI with a BAC of 0.03. Which DUI penalty level applies?",
+      "o": [
+        "The General Impairment penalties",
+        "The High Rate penalties",
+        "No penalty, because the BAC is below 0.08",
+        "A warning only"
+      ],
+      "h1": "Drivers under 21 are treated more strictly.",
+      "h2": "In Pennsylvania, a driver under 21 convicted of DUI (BAC 0.02 or more) gets the High Rate penalties, even with a lower BAC.",
+      "p": "Right. Under 21, the High Rate penalties apply."
+    },
+    "es": {
+      "q": "En Pensilvania, una persona de 19 años es condenada por DUI con un BAC de 0.03. ¿Qué nivel de penas de DUI se aplica?",
+      "o": [
+        "Las penas de deterioro general (General Impairment)",
+        "Las penas de tasa alta (High Rate)",
+        "Ninguna pena, porque el BAC es menor de 0.08",
+        "Solo una advertencia"
+      ],
+      "h1": "A los conductores menores de 21 años se les trata con más rigor.",
+      "h2": "En Pensilvania, un conductor menor de 21 años condenado por DUI (BAC de 0.02 o más) recibe las penas de tasa alta (High Rate), aunque su BAC sea más bajo.",
+      "p": "Correcto. Menores de 21 años reciben las penas de tasa alta."
+    }
+  },
+  {
+    "id": "pa-176",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 82,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, a driver is convicted of DUI for driving under the influence of an illegal drug. Which DUI penalty level applies?",
+      "o": [
+        "The General Impairment penalties",
+        "The High Rate penalties",
+        "The Highest Rate penalties",
+        "None, because it was not alcohol"
+      ],
+      "h1": "Drugs are treated like the highest alcohol levels.",
+      "h2": "In Pennsylvania, anyone who drives under the influence of controlled substances gets the Highest Rate DUI penalties.",
+      "p": "Right. Drug DUI brings the Highest Rate penalties."
+    },
+    "es": {
+      "q": "En Pensilvania, un conductor es condenado por DUI por manejar bajo la influencia de una droga ilegal. ¿Qué nivel de penas de DUI se aplica?",
+      "o": [
+        "Las penas de deterioro general (General Impairment)",
+        "Las penas de tasa alta (High Rate)",
+        "Las penas de tasa más alta (Highest Rate)",
+        "Ninguna, porque no era alcohol"
+      ],
+      "h1": "Las drogas se tratan como los niveles de alcohol más altos.",
+      "h2": "En Pensilvania, quien maneja bajo la influencia de sustancias controladas recibe las penas de DUI de tasa más alta (Highest Rate).",
+      "p": "Correcto. El DUI por drogas trae las penas de tasa más alta."
+    }
+  },
+  {
+    "id": "pa-177",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 83,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, an adult's first DUI is at the General Impairment level (BAC 0.08 to 0.099). What sentence and fine apply?",
+      "o": [
+        "5 years in prison and a $10,000 fine",
+        "No sentence and no fine",
+        "30 days in jail and a $50 fine",
+        "6 months of probation and a $300 fine"
+      ],
+      "h1": "The license is not suspended at this level, but there is still a penalty.",
+      "h2": "In Pennsylvania, a first General Impairment DUI brings 6 months of probation and a $300 fine.",
+      "p": "Right. 6 months of probation and $300."
+    },
+    "es": {
+      "q": "En Pensilvania, el primer DUI de un adulto es de nivel de deterioro general (BAC de 0.08 a 0.099). ¿Qué sentencia y multa se aplican?",
+      "o": [
+        "5 años de prisión y una multa de $10,000",
+        "Ninguna sentencia ni multa",
+        "30 días de cárcel y una multa de $50",
+        "6 meses de libertad condicional y una multa de $300"
+      ],
+      "h1": "La licencia no se suspende en este nivel, pero hay una pena de todos modos.",
+      "h2": "En Pensilvania, un primer DUI de deterioro general trae 6 meses de libertad condicional y una multa de $300.",
+      "p": "Correcto. 6 meses de libertad condicional y $300."
+    }
+  },
+  {
+    "id": "pa-178",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 83,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, a first-time DUI offender at the high rate is accepted into the ARD program (Accelerated Rehabilitative Disposition). How long may they lose their license?",
+      "o": [
+        "Up to 90 days",
+        "Up to 5 years",
+        "For life",
+        "They never lose it"
+      ],
+      "h1": "ARD is a lighter path for some first offenders.",
+      "h2": "In Pennsylvania, a driver accepted into the ARD program for a first DUI loses their license for up to 90 days.",
+      "p": "Right. Up to 90 days."
+    },
+    "es": {
+      "q": "En Pensilvania, una persona con un primer DUI de tasa alta es aceptada en el programa ARD (Disposición de Rehabilitación Acelerada). ¿Por cuánto tiempo puede perder su licencia?",
+      "o": [
+        "Hasta 90 días",
+        "Hasta 5 años",
+        "De por vida",
+        "Nunca la pierde"
+      ],
+      "h1": "El ARD es un camino más leve para algunas personas con un primer delito.",
+      "h2": "En Pensilvania, un conductor aceptado en el programa ARD por un primer DUI pierde su licencia por hasta 90 días.",
+      "p": "Correcto. Hasta 90 días."
+    }
+  },
+  {
+    "id": "pa-179",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 84,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, you are 19 and driving. A friend leaves a closed, unopened can of beer in your car. Is that legal?",
+      "o": [
+        "Yes, because it is closed",
+        "No, it is illegal for a driver under 21 to have alcohol in the vehicle",
+        "Yes, if it belongs to the friend",
+        "Yes, if it is in the trunk"
+      ],
+      "h1": "The law covers more than drinking.",
+      "h2": "In Pennsylvania, it is against the law for a person under 21 to buy, drink or possess alcohol, or to have alcohol in the vehicle they are driving.",
+      "p": "Right. Under 21, no alcohol in the car you drive."
+    },
+    "es": {
+      "q": "En Pensilvania, usted tiene 19 años y maneja. Un amigo deja una lata de cerveza cerrada en su auto. ¿Es legal?",
+      "o": [
+        "Sí, porque está cerrada",
+        "No, es ilegal que un conductor menor de 21 años tenga alcohol en el vehículo",
+        "Sí, si es del amigo",
+        "Sí, si está en el maletero"
+      ],
+      "h1": "La ley cubre más que tomar.",
+      "h2": "En Pensilvania, es ilegal que una persona menor de 21 años compre, tome o tenga alcohol, o que tenga alcohol en el vehículo que maneja.",
+      "p": "Correcto. Con menos de 21 años, nada de alcohol en el auto que maneja."
+    }
+  },
+  {
+    "id": "pa-180",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 84,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, police arrest a 17-year-old and want a breath or blood test. Must a parent agree first?",
+      "o": [
+        "Yes, both parents must sign",
+        "Yes, one parent must agree",
+        "No, parental consent is not required, but the police will tell the parents",
+        "Yes, unless the teen is 18 within a month"
+      ],
+      "h1": "The test can go ahead without waiting for a parent.",
+      "h2": "In Pennsylvania, parental consent is not required for a minor's blood, breath or urine test after an arrest, but the police will notify the parents.",
+      "p": "Right. No consent needed, but parents are told."
+    },
+    "es": {
+      "q": "En Pensilvania, la policía arresta a un joven de 17 años y quiere hacerle una prueba de aliento o de sangre. ¿Tiene que estar de acuerdo antes un padre o madre?",
+      "o": [
+        "Sí, ambos padres deben firmar",
+        "Sí, uno de los padres debe aceptar",
+        "No, no se necesita el permiso de los padres, pero la policía les avisará",
+        "Sí, salvo que el joven cumpla 18 en un mes"
+      ],
+      "h1": "La prueba se puede hacer sin esperar a los padres.",
+      "h2": "En Pensilvania, no se necesita el permiso de los padres para la prueba de sangre, aliento u orina de un menor arrestado, pero la policía avisará a los padres.",
+      "p": "Correcto. No se necesita permiso, pero se avisa a los padres."
+    }
+  },
+  {
+    "id": "pa-181",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 86,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, a 20-year-old drinks alcohol at a party but does not drive. What is the penalty for a first offense?",
+      "o": [
+        "Nothing, because they did not drive",
+        "Only points on the driving record",
+        "A warning letter",
+        "A 90-day license suspension and a fine of up to $500"
+      ],
+      "h1": "Underage drinking can cost you your license even if you never drive.",
+      "h2": "In Pennsylvania, a person under 21 who drinks alcohol, even without driving, faces a 90-day license suspension and a fine of up to $500 for a first offense.",
+      "p": "Right. 90 days without a license and up to $500."
+    },
+    "es": {
+      "q": "En Pensilvania, una persona de 20 años toma alcohol en una fiesta pero no maneja. ¿Cuál es la pena por una primera vez?",
+      "o": [
+        "Nada, porque no manejó",
+        "Solo puntos en su historial",
+        "Una carta de advertencia",
+        "Una suspensión de la licencia por 90 días y una multa de hasta $500"
+      ],
+      "h1": "Tomar siendo menor puede costarle la licencia aunque no maneje.",
+      "h2": "En Pensilvania, una persona menor de 21 años que toma alcohol, aunque no maneje, enfrenta una suspensión de la licencia por 90 días y una multa de hasta $500 la primera vez.",
+      "p": "Correcto. 90 días sin licencia y hasta $500."
+    }
+  },
+  {
+    "id": "pa-182",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 87,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, a person under 21 is convicted of carrying a false ID card. When do the $500 fine and 90-day suspension apply?",
+      "o": [
+        "Even if they were not driving",
+        "Only if they were driving at the time",
+        "Only if their BAC was 0.02 or more",
+        "Only if they used it to buy alcohol twice"
+      ],
+      "h1": "The penalty is about the fake ID, not about driving.",
+      "h2": "In Pennsylvania, a person under 21 convicted of carrying a false ID pays a $500 fine and loses their license for 90 days, even if they were not driving.",
+      "p": "Right. Even without driving, the penalty applies."
+    },
+    "es": {
+      "q": "En Pensilvania, una persona menor de 21 años es condenada por llevar una identificación falsa. ¿Cuándo se aplican la multa de $500 y la suspensión de 90 días?",
+      "o": [
+        "Aunque no estuviera manejando",
+        "Solo si estaba manejando en ese momento",
+        "Solo si su BAC era de 0.02 o más",
+        "Solo si la usó dos veces para comprar alcohol"
+      ],
+      "h1": "La pena es por la identificación falsa, no por manejar.",
+      "h2": "En Pensilvania, una persona menor de 21 años condenada por llevar una identificación falsa paga una multa de $500 y pierde la licencia por 90 días, aunque no estuviera manejando.",
+      "p": "Correcto. Aunque no maneje, se aplica la pena."
+    }
+  },
+  {
+    "id": "pa-183",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 90,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, why does the manual warn against buckling a child into a car seat while wearing a thick winter coat?",
+      "o": [
+        "The coat makes the child too warm to sleep",
+        "The coat can set off the air bag",
+        "Coats are not allowed in cars by law",
+        "The coat can squeeze flat in a crash and leave the harness loose"
+      ],
+      "h1": "Think about what happens to the harness when the padding is crushed.",
+      "h2": "In Pennsylvania, the manual warns that a thick winter coat can compress in a crash and leave slack in the car seat harness, making the seat less safe.",
+      "p": "Right. A bulky coat can leave the harness too loose."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿por qué advierte el manual que no se abroche a un niño en su asiento de seguridad con un abrigo grueso de invierno?",
+      "o": [
+        "El abrigo da demasiado calor para dormir",
+        "El abrigo puede activar la bolsa de aire",
+        "La ley prohíbe los abrigos en los autos",
+        "El abrigo puede aplastarse en un choque y dejar flojo el arnés"
+      ],
+      "h1": "Piense en lo que pasa con el arnés cuando el relleno se aplasta.",
+      "h2": "En Pensilvania, el manual advierte que un abrigo grueso de invierno puede comprimirse en un choque y dejar flojo el arnés del asiento de seguridad, lo que lo hace menos seguro.",
+      "p": "Correcto. Un abrigo grueso puede dejar el arnés muy flojo."
+    }
+  },
+  {
+    "id": "pa-184",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 91,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, which children does the manual recommend should ride in the rear seat?",
+      "o": [
+        "All children ages 12 and under",
+        "Only children under 2",
+        "Only children in booster seats",
+        "Only children under 5"
+      ],
+      "h1": "Most crashes hit the front, and air bags open in front.",
+      "h2": "In Pennsylvania, the manual recommends that all children ages 12 and under ride in the rear seat.",
+      "p": "Right. Ages 12 and under ride in the back."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿qué niños recomienda el manual que viajen en el asiento trasero?",
+      "o": [
+        "Todos los niños de 12 años o menos",
+        "Solo los menores de 2 años",
+        "Solo los que usan asiento elevador",
+        "Solo los menores de 5 años"
+      ],
+      "h1": "La mayoría de los choques son de frente, y las bolsas de aire se abren adelante.",
+      "h2": "En Pensilvania, el manual recomienda que todos los niños de 12 años o menos viajen en el asiento trasero.",
+      "p": "Correcto. Los de 12 años o menos van atrás."
+    }
+  },
+  {
+    "id": "pa-185",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 92,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, many counties require a car built in 1975 or later to pass another inspection before the safety inspection can be finished. What is it?",
+      "o": [
+        "A paint inspection",
+        "A noise test of the radio",
+        "An emissions inspection",
+        "A new driver's road test"
+      ],
+      "h1": "It checks what comes out of the tailpipe.",
+      "h2": "In Pennsylvania, many counties require an emissions inspection for cars, vans and light trucks from model year 1975 or newer before the safety inspection can be completed.",
+      "p": "Right. An emissions inspection."
+    },
+    "es": {
+      "q": "En Pensilvania, muchos condados exigen que un auto fabricado en 1975 o después pase otra inspección antes de poder terminar la inspección de seguridad. ¿Cuál es?",
+      "o": [
+        "Una inspección de la pintura",
+        "Una prueba de ruido de la radio",
+        "Una inspección de emisiones",
+        "Un nuevo examen de manejo del conductor"
+      ],
+      "h1": "Revisa lo que sale por el tubo de escape.",
+      "h2": "En Pensilvania, muchos condados exigen una inspección de emisiones para autos, camionetas y camiones livianos del año 1975 o más nuevos antes de completar la inspección de seguridad.",
+      "p": "Correcto. Una inspección de emisiones."
+    }
+  },
+  {
+    "id": "pa-186",
+    "scope": "PA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 92,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, on a road with only one travel lane, may a bicycle rider use the whole lane?",
+      "o": [
+        "No, riders must always stay on the shoulder",
+        "Only on weekends",
+        "Only if riding faster than 25 mph",
+        "Yes, a rider may use any part of the lane to avoid hazards, such as parked car doors"
+      ],
+      "h1": "Riders need room to stay away from hazards.",
+      "h2": "In Pennsylvania, when there is only one travel lane, bicycle riders may use any part of the lane to avoid hazards, including keeping a safe distance from stopped and parked cars.",
+      "p": "Right. They may use any part of the lane."
+    },
+    "es": {
+      "q": "En Pensilvania, en una vía con un solo carril, ¿puede un ciclista usar todo el carril?",
+      "o": [
+        "No, siempre debe ir por el arcén",
+        "Solo los fines de semana",
+        "Solo si va a más de 25 mph",
+        "Sí, puede usar cualquier parte del carril para evitar peligros, como las puertas de autos estacionados"
+      ],
+      "h1": "Los ciclistas necesitan espacio para alejarse de los peligros.",
+      "h2": "En Pensilvania, cuando hay un solo carril, los ciclistas pueden usar cualquier parte del carril para evitar peligros, incluso para mantenerse lejos de autos detenidos y estacionados.",
+      "p": "Correcto. Pueden usar cualquier parte del carril."
+    }
+  },
+  {
+    "id": "pa-187",
+    "scope": "PA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 92,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, you want to turn right, and a bicycle rider on the shoulder is going straight beside you. What does the law say?",
+      "o": [
+        "You may not turn into the path of the rider going straight",
+        "You may turn first because you are bigger",
+        "You may turn if you honk first",
+        "The rider must stop for you"
+      ],
+      "h1": "The rider going straight has the right to keep going.",
+      "h2": "In Pennsylvania, drivers may not turn into the path of a bicycle rider who is going straight on the roadway or shoulder.",
+      "p": "Right. Do not turn across the rider's path."
+    },
+    "es": {
+      "q": "En Pensilvania, usted quiere girar a la derecha y un ciclista en el arcén sigue derecho a su lado. ¿Qué dice la ley?",
+      "o": [
+        "No puede girar en el camino del ciclista que sigue derecho",
+        "Puede girar primero porque es más grande",
+        "Puede girar si toca la bocina antes",
+        "El ciclista debe detenerse por usted"
+      ],
+      "h1": "El ciclista que sigue derecho tiene derecho a continuar.",
+      "h2": "En Pensilvania, los conductores no pueden girar en el camino de un ciclista que sigue derecho por la vía o el arcén.",
+      "p": "Correcto. No gire cruzando el camino del ciclista."
+    }
+  },
+  {
+    "id": "pa-188",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 93,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, how far from parked cars does the manual say bicycle riders should ride, to stay out of the \"door zone\"?",
+      "o": [
+        "At least 6 inches",
+        "At least 3 feet",
+        "At least 10 feet",
+        "At least 20 feet"
+      ],
+      "h1": "It is about the width of an open car door.",
+      "h2": "In Pennsylvania, the manual says bicycle riders should ride at least 3 feet from parked cars, with or without a bike lane, to stay out of the door zone.",
+      "p": "Right. At least 3 feet from parked cars."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿a qué distancia de los autos estacionados dice el manual que deben ir los ciclistas para estar fuera de la \"zona de puertas\"?",
+      "o": [
+        "Por lo menos 6 pulgadas",
+        "Por lo menos 3 pies",
+        "Por lo menos 10 pies",
+        "Por lo menos 20 pies"
+      ],
+      "h1": "Es más o menos el ancho de una puerta de auto abierta.",
+      "h2": "En Pensilvania, el manual dice que los ciclistas deben ir por lo menos a 3 pies de los autos estacionados, haya o no carril de bicicletas, para estar fuera de la zona de puertas.",
+      "p": "Correcto. Por lo menos 3 pies de los autos estacionados."
+    }
+  },
+  {
+    "id": "pa-189",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 95,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, you want to warm up your car in the garage on a cold morning. What does the manual say?",
+      "o": [
+        "Keep the door closed to hold in the heat",
+        "Open the door just a few inches",
+        "Run it only for 30 minutes",
+        "Open the garage door all the way while the car is running"
+      ],
+      "h1": "Car exhaust has a deadly gas you cannot smell.",
+      "h2": "In Pennsylvania, the manual says never to warm up your car with the garage door down or partly down; open it completely to avoid carbon monoxide poisoning.",
+      "p": "Right. Open the garage door all the way."
+    },
+    "es": {
+      "q": "En Pensilvania, usted quiere calentar su auto en el garaje una mañana fría. ¿Qué dice el manual?",
+      "o": [
+        "Mantenga la puerta cerrada para guardar el calor",
+        "Abra la puerta solo unas pulgadas",
+        "Déjelo encendido solo 30 minutos",
+        "Abra la puerta del garaje por completo mientras el auto está encendido"
+      ],
+      "h1": "El escape del auto tiene un gas mortal que no se puede oler.",
+      "h2": "En Pensilvania, el manual dice que nunca caliente el auto con la puerta del garaje cerrada o medio cerrada; ábrala por completo para evitar el envenenamiento por monóxido de carbono.",
+      "p": "Correcto. Abra la puerta del garaje por completo."
+    }
   }
 ]
