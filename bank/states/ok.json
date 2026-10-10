@@ -1064,5 +1064,447 @@
       "h2": "في Oklahoma، عندما يكون في الطريق فاصل وسطي، يمكن للسيارات القادمة من الاتجاه المعاكس للحافلة المدرسية أن تستمر في السير بحذر، أما السيارات في نفس اتجاه الحافلة فيجب أن تتوقّف.",
       "p": "صحيح. مع وجود فاصل وسطي، يمكن للسيارات القادمة أن تستمر بحذر."
     }
+  },
+  {
+    "id": "ok-014",
+    "scope": "OK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oklahoma, what is the speed limit on a turnpike when no other limit is posted?",
+      "o": [
+        "65 mph",
+        "70 mph",
+        "80 mph",
+        "85 mph"
+      ],
+      "h1": "Turnpikes have the highest limit in the state chart.",
+      "h2": "In Oklahoma, the speed limit on a turnpike is 80 mph unless a sign shows a different limit.",
+      "p": "Right. Oklahoma turnpikes allow 80 mph unless posted otherwise."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿cuál es el límite de velocidad en una autopista de peaje (turnpike) cuando no hay otro límite señalado?",
+      "o": [
+        "65 mph",
+        "70 mph",
+        "80 mph",
+        "85 mph"
+      ],
+      "h1": "Las autopistas de peaje tienen el límite más alto de la tabla del estado.",
+      "h2": "En Oklahoma, el límite de velocidad en una autopista de peaje es de 80 mph, a menos que una señal indique otro límite.",
+      "p": "Correcto. En las autopistas de peaje de Oklahoma se permite 80 mph, salvo que se indique otra cosa."
+    }
+  },
+  {
+    "id": "ok-015",
+    "scope": "OK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oklahoma, what is the speed limit on a county road when no sign is posted?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "It is lower than the limit on an undivided state highway.",
+      "h2": "In Oklahoma, the speed limit on a county road is 55 mph when no other limit is posted.",
+      "p": "Right. On Oklahoma county roads the limit is 55 mph unless posted otherwise."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿cuál es el límite de velocidad en un camino del condado cuando no hay señal?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "Es menor que el límite en una carretera estatal no dividida.",
+      "h2": "En Oklahoma, el límite de velocidad en un camino del condado es de 55 mph cuando no hay otro límite señalado.",
+      "p": "Correcto. En los caminos del condado de Oklahoma el límite es de 55 mph, salvo que se indique otra cosa."
+    }
+  },
+  {
+    "id": "ok-016",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 71,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oklahoma, how many points on your driving record will lead to a license suspension?",
+      "o": [
+        "6 or more in 1 year",
+        "10 or more in 5 years",
+        "12 or more in 2 years",
+        "15 or more in 10 years"
+      ],
+      "h1": "Count the points over several years, not just one.",
+      "h2": "In Oklahoma, your license will be suspended if you get 10 or more points within 5 years.",
+      "p": "Right. 10 or more points in 5 years means a suspension in Oklahoma."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿cuántos puntos en su historial de manejo causan la suspensión de la licencia?",
+      "o": [
+        "6 o más en 1 año",
+        "10 o más en 5 años",
+        "12 o más en 2 años",
+        "15 o más en 10 años"
+      ],
+      "h1": "Los puntos se cuentan durante varios años, no solo uno.",
+      "h2": "En Oklahoma, su licencia será suspendida si acumula 10 puntos o más en 5 años.",
+      "p": "Correcto. 10 puntos o más en 5 años significan una suspensión en Oklahoma."
+    }
+  },
+  {
+    "id": "ok-017",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 71,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oklahoma, how many points are added to your record for not stopping for a school bus that is loading or unloading?",
+      "o": [
+        "1 point",
+        "2 points",
+        "3 points",
+        "4 points"
+      ],
+      "h1": "It is one of the most serious offenses on the point list.",
+      "h2": "In Oklahoma, failing to stop for a school bus that is loading or unloading adds 4 points to your record.",
+      "p": "Right. Not stopping for a loading school bus costs 4 points in Oklahoma."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿cuántos puntos se agregan a su historial por no detenerse ante un autobús escolar que sube o baja estudiantes?",
+      "o": [
+        "1 punto",
+        "2 puntos",
+        "3 puntos",
+        "4 puntos"
+      ],
+      "h1": "Es una de las faltas más graves de la lista de puntos.",
+      "h2": "En Oklahoma, no detenerse ante un autobús escolar que sube o baja estudiantes agrega 4 puntos a su historial.",
+      "p": "Correcto. No detenerse ante un autobús escolar cuesta 4 puntos en Oklahoma."
+    }
+  },
+  {
+    "id": "ok-018",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 72,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oklahoma, how can points come off your driving record over time?",
+      "o": [
+        "2 points for each year with no convictions",
+        "1 point for each month with no tickets",
+        "All points after 6 months",
+        "Points never come off"
+      ],
+      "h1": "A clean year helps you.",
+      "h2": "In Oklahoma, 2 points come off your record for each 12-month period with no convictions for pointable violations.",
+      "p": "Right. Each year with no pointable convictions removes 2 points in Oklahoma."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿cómo se pueden quitar puntos de su historial de manejo con el tiempo?",
+      "o": [
+        "2 puntos por cada año sin condenas",
+        "1 punto por cada mes sin multas",
+        "Todos los puntos después de 6 meses",
+        "Los puntos nunca se quitan"
+      ],
+      "h1": "Un año sin faltas le ayuda.",
+      "h2": "En Oklahoma, se quitan 2 puntos de su historial por cada período de 12 meses sin condenas por infracciones con puntos.",
+      "p": "Correcto. Cada año sin condenas con puntos quita 2 puntos en Oklahoma."
+    }
+  },
+  {
+    "id": "ok-019",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 72,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oklahoma, what are the minimum amounts of liability insurance a driver must carry?",
+      "o": [
+        "$10,000 / $20,000 / $10,000",
+        "$15,000 / $30,000 / $15,000",
+        "$25,000 / $50,000 / $25,000",
+        "$50,000 / $100,000 / $50,000"
+      ],
+      "h1": "The amount for two or more people is twice the amount for one person.",
+      "h2": "In Oklahoma, the minimum liability insurance is $25,000 for one person, $50,000 for two or more people, and $25,000 for property damage.",
+      "p": "Right. Oklahoma requires at least $25,000, $50,000 and $25,000 of liability coverage."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿cuáles son los montos mínimos del seguro de responsabilidad civil que debe tener un conductor?",
+      "o": [
+        "$10,000 / $20,000 / $10,000",
+        "$15,000 / $30,000 / $15,000",
+        "$25,000 / $50,000 / $25,000",
+        "$50,000 / $100,000 / $50,000"
+      ],
+      "h1": "El monto para dos o más personas es el doble del monto para una persona.",
+      "h2": "En Oklahoma, el seguro de responsabilidad civil mínimo es de $25,000 por una persona, $50,000 por dos o más personas y $25,000 por daños a la propiedad.",
+      "p": "Correcto. Oklahoma exige como mínimo $25,000, $50,000 y $25,000 de cobertura de responsabilidad civil."
+    }
+  },
+  {
+    "id": "ok-020",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 72,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oklahoma, what can happen if you cannot show proof of insurance to an officer who asks for it?",
+      "o": [
+        "A written warning, the first time only",
+        "A fine up to $250, possible jail, and suspension",
+        "A $25 fine, with no other penalty",
+        "A new written and driving test"
+      ],
+      "h1": "The penalty affects both your license and your car's registration.",
+      "h2": "In Oklahoma, not showing proof of insurance when an officer asks can bring a fine of up to $250, up to 30 days in jail, and suspension of your license and registration.",
+      "p": "Right. In Oklahoma it can mean a fine up to $250, jail up to 30 days, and a suspended license and registration."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿qué puede pasar si no puede mostrar prueba de seguro a un oficial que se la pide?",
+      "o": [
+        "Una advertencia por escrito, solo la primera vez",
+        "Una multa de hasta $250, posible cárcel y suspensión",
+        "Una multa de $25, sin otra sanción",
+        "Repetir el examen escrito y el de manejo"
+      ],
+      "h1": "La sanción afecta tanto su licencia como el registro de su carro.",
+      "h2": "En Oklahoma, no mostrar prueba de seguro cuando un oficial la pide puede causar una multa de hasta $250, hasta 30 días de cárcel y la suspensión de su licencia y registro.",
+      "p": "Correcto. En Oklahoma puede significar una multa de hasta $250, hasta 30 días de cárcel y la suspensión de la licencia y el registro."
+    }
+  },
+  {
+    "id": "ok-021",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oklahoma, children under what age must ride in a child passenger restraint system?",
+      "o": [
+        "Under 2",
+        "Under 4",
+        "Under 6",
+        "Under 8"
+      ],
+      "h1": "Think of a child in about second or third grade.",
+      "h2": "In Oklahoma, a driver must properly secure every child under 8 years old in a child passenger restraint system.",
+      "p": "Right. Oklahoma requires a child restraint for children under 8."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿los niños menores de qué edad deben viajar en un sistema de retención infantil?",
+      "o": [
+        "Menores de 2",
+        "Menores de 4",
+        "Menores de 6",
+        "Menores de 8"
+      ],
+      "h1": "Piense en un niño de segundo o tercer grado, más o menos.",
+      "h2": "En Oklahoma, el conductor debe asegurar correctamente a todo niño menor de 8 años en un sistema de retención infantil.",
+      "p": "Correcto. Oklahoma exige un sistema de retención para los niños menores de 8 años."
+    }
+  },
+  {
+    "id": "ok-022",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oklahoma, until what age must a child ride in a rear-facing car seat, unless the child outgrows the seat's height or weight limit?",
+      "o": [
+        "2 years",
+        "1 year",
+        "3 years",
+        "4 years"
+      ],
+      "h1": "It is before the child turns 3.",
+      "h2": "In Oklahoma, a child must ride in a rear-facing car seat until age 2, or until the child reaches the seat maker's height or weight limit.",
+      "p": "Right. In Oklahoma a child rides rear-facing until age 2 or until outgrowing the seat."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿hasta qué edad debe viajar un niño en un asiento orientado hacia atrás, a menos que supere el límite de altura o peso del asiento?",
+      "o": [
+        "2 años",
+        "1 año",
+        "3 años",
+        "4 años"
+      ],
+      "h1": "Es antes de que el niño cumpla 3 años.",
+      "h2": "En Oklahoma, un niño debe viajar en un asiento orientado hacia atrás hasta los 2 años, o hasta que alcance el límite de altura o peso que fija el fabricante.",
+      "p": "Correcto. En Oklahoma un niño viaja mirando hacia atrás hasta los 2 años o hasta que el asiento le quede pequeño."
+    }
+  },
+  {
+    "id": "ok-023",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oklahoma, how early may you renew your driver license before it expires?",
+      "o": [
+        "30 days",
+        "90 days",
+        "1 year",
+        "2 years"
+      ],
+      "h1": "You have quite a long time to do it.",
+      "h2": "In Oklahoma, you may renew your driver license up to 1 year before it expires.",
+      "p": "Right. Oklahoma lets you renew up to 1 year early."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿con cuánta anticipación puede renovar su licencia de manejo antes de que venza?",
+      "o": [
+        "30 días",
+        "90 días",
+        "1 año",
+        "2 años"
+      ],
+      "h1": "Tiene bastante tiempo para hacerlo.",
+      "h2": "En Oklahoma, puede renovar su licencia de manejo hasta 1 año antes de que venza.",
+      "p": "Correcto. Oklahoma le permite renovar hasta 1 año antes."
+    }
+  },
+  {
+    "id": "ok-024",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oklahoma, after you move, how soon must you tell Service Oklahoma your new address?",
+      "o": [
+        "Within 5 days",
+        "Within 10 days",
+        "Within 30 days",
+        "Within 60 days"
+      ],
+      "h1": "It is less than two weeks.",
+      "h2": "In Oklahoma, you must tell Service Oklahoma your new address within 10 days after you move.",
+      "p": "Right. Oklahoma drivers must report a new address within 10 days."
+    },
+    "es": {
+      "q": "En Oklahoma, después de mudarse, ¿en cuánto tiempo debe informar su nueva dirección a Service Oklahoma?",
+      "o": [
+        "En 5 días",
+        "En 10 días",
+        "En 30 días",
+        "En 60 días"
+      ],
+      "h1": "Es menos de dos semanas.",
+      "h2": "En Oklahoma, debe informar su nueva dirección a Service Oklahoma dentro de los 10 días después de mudarse.",
+      "p": "Correcto. Los conductores de Oklahoma deben informar su nueva dirección en 10 días."
+    }
+  },
+  {
+    "id": "ok-025",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 65,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oklahoma, what happens if you refuse a breath or blood test when a police officer asks?",
+      "o": [
+        "Nothing, if you have not been drinking",
+        "You get a warning the first time",
+        "You pay a small fine only",
+        "Your driving privilege is automatically revoked"
+      ],
+      "h1": "By driving, you have already agreed to be tested.",
+      "h2": "In Oklahoma, refusing a breath or blood test leads to automatic revocation of your driving privilege, even if you have not been drinking.",
+      "p": "Right. In Oklahoma a refusal means your license is revoked automatically."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿qué pasa si se niega a una prueba de aliento o de sangre cuando un oficial de policía se la pide?",
+      "o": [
+        "Nada, si no ha tomado alcohol",
+        "Recibe una advertencia la primera vez",
+        "Solo paga una multa pequeña",
+        "Su privilegio de manejar se revoca automáticamente"
+      ],
+      "h1": "Al manejar, usted ya aceptó hacerse la prueba.",
+      "h2": "En Oklahoma, negarse a una prueba de aliento o de sangre causa la revocación automática de su privilegio de manejar, aunque no haya tomado alcohol.",
+      "p": "Correcto. En Oklahoma, negarse significa que su licencia se revoca automáticamente."
+    }
+  },
+  {
+    "id": "ok-026",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 63,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oklahoma, you hit a parked car and cannot find the owner. What must you do?",
+      "o": [
+        "Leave your name, address and insurance information where the owner will find it",
+        "Drive away if the damage looks small and minor",
+        "Wait next to the parked car until the next day",
+        "Call the owner's insurance company to report it"
+      ],
+      "h1": "The owner needs a way to reach you.",
+      "h2": "In Oklahoma, if you hit a parked car and cannot find the owner, you must leave the driver's and owner's name and address and your insurance information on the damaged car.",
+      "p": "Right. In Oklahoma you leave your name, address and insurance details where the owner will see them."
+    },
+    "es": {
+      "q": "En Oklahoma, usted choca contra un carro estacionado y no encuentra al dueño. ¿Qué debe hacer?",
+      "o": [
+        "Dejar su nombre, dirección e información del seguro donde el dueño la encuentre",
+        "Irse si el daño parece pequeño y sin importancia",
+        "Esperar junto al carro estacionado hasta el día siguiente",
+        "Llamar a la compañía de seguros del dueño para avisar"
+      ],
+      "h1": "El dueño necesita una forma de comunicarse con usted.",
+      "h2": "En Oklahoma, si choca contra un carro estacionado y no encuentra al dueño, debe dejar el nombre y la dirección del conductor y del dueño, y la información de su seguro, en el carro dañado.",
+      "p": "Correcto. En Oklahoma usted deja su nombre, dirección y datos del seguro donde el dueño los vea."
+    }
   }
 ]
