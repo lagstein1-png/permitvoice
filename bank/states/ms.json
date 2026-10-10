@@ -2950,5 +2950,685 @@
       "h2": "في Mississippi، لا يجوز لك أن تركن سيارتك على ممر المشاة أو ضمن 20 feet من ممر المشاة عند التقاطع.",
       "p": "صحيح. ابقَ على بعد 20 feet على الأقل من ممر المشاة."
     }
+  },
+  {
+    "id": "ms-037",
+    "scope": "MS",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Mississippi, what is the usual maximum speed on a two-lane state or U.S. highway, unless signs show a different limit?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "It is 10 mph lower than on a four-lane highway.",
+      "h2": "In Mississippi, the usual maximum speed on a two-lane state or U.S. highway is 55 mph.",
+      "p": "Right. Two-lane highways usually have a 55 mph limit."
+    },
+    "es": {
+      "q": "En Mississippi, ¿cuál es la velocidad máxima habitual en una carretera estatal o federal de dos carriles, a menos que las señales indiquen otro límite?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "Es 10 mph menos que en una carretera de cuatro carriles.",
+      "h2": "En Mississippi, la velocidad máxima habitual en una carretera estatal o federal de dos carriles es de 55 mph.",
+      "p": "Correcto. Las carreteras de dos carriles suelen tener un límite de 55 mph."
+    }
+  },
+  {
+    "id": "ms-038",
+    "scope": "MS",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Mississippi, what is the maximum speed on the Natchez Trace Parkway, unless a lower limit is posted?",
+      "o": [
+        "40 mph",
+        "50 mph",
+        "60 mph",
+        "70 mph"
+      ],
+      "h1": "It is slower than a regular two-lane highway.",
+      "h2": "In Mississippi, the maximum speed on the Natchez Trace Parkway is 50 mph, unless a lower limit is posted.",
+      "p": "Right. The Natchez Trace Parkway limit is 50 mph."
+    },
+    "es": {
+      "q": "En Mississippi, ¿cuál es la velocidad máxima en el Natchez Trace Parkway, a menos que se indique un límite más bajo?",
+      "o": [
+        "40 mph",
+        "50 mph",
+        "60 mph",
+        "70 mph"
+      ],
+      "h1": "Es más lenta que en una carretera normal de dos carriles.",
+      "h2": "En Mississippi, la velocidad máxima en el Natchez Trace Parkway es de 50 mph, a menos que se indique un límite más bajo.",
+      "p": "Correcto. El límite en el Natchez Trace Parkway es de 50 mph."
+    }
+  },
+  {
+    "id": "ms-039",
+    "scope": "MS",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 60,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Mississippi, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 3 feet",
+        "No closer than 50 feet",
+        "No closer than 10 feet",
+        "No closer than 100 feet"
+      ],
+      "h1": "It is about two car widths.",
+      "h2": "In Mississippi, you may not park within 10 feet of a fire hydrant.",
+      "p": "Right. Stay at least 10 feet from a fire hydrant."
+    },
+    "es": {
+      "q": "En Mississippi, ¿qué tan cerca de un hidrante puede estacionarse?",
+      "o": [
+        "A no menos de 3 pies",
+        "A no menos de 50 pies",
+        "A no menos de 10 pies",
+        "A no menos de 100 pies"
+      ],
+      "h1": "Es más o menos el ancho de dos carros.",
+      "h2": "En Mississippi, no puede estacionarse a menos de 10 pies de un hidrante.",
+      "p": "Correcto. Quédese por lo menos a 10 pies de un hidrante."
+    }
+  },
+  {
+    "id": "ms-040",
+    "scope": "MS",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 60,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Mississippi, there is no sign. How close to the driveway entrance of a fire station may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 100 feet",
+        "No closer than 500 feet",
+        "No closer than 20 feet"
+      ],
+      "h1": "It is the same distance as from a crosswalk at an intersection.",
+      "h2": "In Mississippi, you may not park within 20 feet of a fire station driveway, or within 75 feet if a sign says so.",
+      "p": "Right. Stay at least 20 feet from a fire station driveway, or 75 feet where posted."
+    },
+    "es": {
+      "q": "En Mississippi, no hay ninguna señal. ¿Qué tan cerca de la entrada de vehículos de una estación de bomberos puede estacionarse?",
+      "o": [
+        "A no menos de 5 pies",
+        "A no menos de 100 pies",
+        "A no menos de 500 pies",
+        "A no menos de 20 pies"
+      ],
+      "h1": "Es la misma distancia que desde un cruce peatonal en una intersección.",
+      "h2": "En Mississippi, no puede estacionarse a menos de 20 pies de la entrada de una estación de bomberos, o a menos de 75 pies si una señal lo indica.",
+      "p": "Correcto. Quédese por lo menos a 20 pies de la entrada de una estación de bomberos, o a 75 pies donde haya señal."
+    }
+  },
+  {
+    "id": "ms-041",
+    "scope": "MS",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 60,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Mississippi, how close to a stop sign or traffic light on your side of the road may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 30 feet",
+        "No closer than 200 feet",
+        "No closer than 500 feet"
+      ],
+      "h1": "It is more than the distance from a crosswalk, but less than 50 feet.",
+      "h2": "In Mississippi, you may not park within 30 feet of the approach to a stop sign, traffic light or other traffic control device.",
+      "p": "Right. Stay at least 30 feet back from a stop sign or traffic light."
+    },
+    "es": {
+      "q": "En Mississippi, ¿qué tan cerca de una señal de alto o un semáforo de su lado de la calle puede estacionarse?",
+      "o": [
+        "A no menos de 5 pies",
+        "A no menos de 30 pies",
+        "A no menos de 200 pies",
+        "A no menos de 500 pies"
+      ],
+      "h1": "Es más que la distancia desde un cruce peatonal, pero menos de 50 pies.",
+      "h2": "En Mississippi, no puede estacionarse a menos de 30 pies antes de una señal de alto, un semáforo u otro dispositivo de control de tráfico.",
+      "p": "Correcto. Quédese por lo menos a 30 pies antes de una señal de alto o un semáforo."
+    }
+  },
+  {
+    "id": "ms-042",
+    "scope": "MS",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 61,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Mississippi, when you parallel park, how close to the curb should your tires be?",
+      "o": [
+        "Within 12 inches",
+        "Within 24 inches",
+        "Within 3 feet",
+        "Within 5 feet"
+      ],
+      "h1": "It is about the length of a ruler.",
+      "h2": "In Mississippi, when you parallel park, your tires should be within 12 inches of the curb.",
+      "p": "Right. Park with your tires within 12 inches of the curb."
+    },
+    "es": {
+      "q": "En Mississippi, cuando se estaciona en paralelo, ¿qué tan cerca del borde de la acera deben estar sus llantas?",
+      "o": [
+        "A 12 pulgadas o menos",
+        "A 24 pulgadas o menos",
+        "A 3 pies o menos",
+        "A 5 pies o menos"
+      ],
+      "h1": "Es más o menos el largo de una regla.",
+      "h2": "En Mississippi, cuando se estaciona en paralelo, sus llantas deben quedar a 12 pulgadas o menos del borde de la acera.",
+      "p": "Correcto. Estaciónese con las llantas a 12 pulgadas o menos del borde."
+    }
+  },
+  {
+    "id": "ms-043",
+    "scope": "MS",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Mississippi, you move here and your out-of-state license expired more than 30 days ago. What must you do?",
+      "o": [
+        "Nothing more than a regular new resident",
+        "Take only a driving road test",
+        "Hold a learner's permit for one year",
+        "Take the computerized knowledge exam"
+      ],
+      "h1": "A valid out-of-state license lets you skip one test. An expired one does not.",
+      "h2": "In Mississippi, if your out-of-state license expired more than 30 days ago, you must take the computerized exam.",
+      "p": "Right. A license expired over 30 days means you take the computerized exam."
+    },
+    "es": {
+      "q": "En Mississippi, usted se muda aquí y su licencia de otro estado venció hace más de 30 días. ¿Qué debe hacer?",
+      "o": [
+        "Nada más que un nuevo residente común",
+        "Tomar solo un examen práctico de manejo",
+        "Tener un permiso de aprendiz por un año",
+        "Tomar el examen de conocimientos por computadora"
+      ],
+      "h1": "Una licencia válida de otro estado le permite saltarse un examen. Una vencida, no.",
+      "h2": "En Mississippi, si su licencia de otro estado venció hace más de 30 días, usted debe tomar el examen por computadora.",
+      "p": "Correcto. Con una licencia vencida hace más de 30 días, usted toma el examen por computadora."
+    }
+  },
+  {
+    "id": "ms-044",
+    "scope": "MS",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Mississippi, you passed the computerized exam for your learner's permit. How long is that passing score good for?",
+      "o": [
+        "Six months",
+        "One year",
+        "Two years",
+        "Ten years"
+      ],
+      "h1": "It is the same length of time the learner's permit is valid.",
+      "h2": "In Mississippi, a passing score on the computerized exam is valid for two years.",
+      "p": "Right. Your exam score stays good for two years."
+    },
+    "es": {
+      "q": "En Mississippi, usted aprobó el examen por computadora para su permiso de aprendiz. ¿Por cuánto tiempo es válido ese resultado?",
+      "o": [
+        "Seis meses",
+        "Un año",
+        "Dos años",
+        "Diez años"
+      ],
+      "h1": "Es el mismo tiempo que dura el permiso de aprendiz.",
+      "h2": "En Mississippi, el resultado aprobado del examen por computadora es válido por dos años.",
+      "p": "Correcto. Su resultado del examen es válido por dos años."
+    }
+  },
+  {
+    "id": "ms-045",
+    "scope": "MS",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Mississippi, a teen got a learner's permit at 16. The teen turns 17 before holding it for a full year. What is true?",
+      "o": [
+        "The teen may apply for a regular license now",
+        "The teen must still wait the full year",
+        "The teen must get a new learner's permit",
+        "The teen must wait until age 18"
+      ],
+      "h1": "Age 17 changes the waiting rule.",
+      "h2": "In Mississippi, if you turn 17 before you have held a learner's permit for one year, you may apply for a regular license.",
+      "p": "Right. At 17, the one-year wait no longer applies."
+    },
+    "es": {
+      "q": "En Mississippi, un joven obtuvo un permiso de aprendiz a los 16 años. Cumple 17 antes de tenerlo un año completo. ¿Qué es cierto?",
+      "o": [
+        "Ya puede solicitar una licencia regular",
+        "Todavía debe esperar el año completo",
+        "Debe obtener un nuevo permiso de aprendiz",
+        "Debe esperar hasta los 18 años"
+      ],
+      "h1": "Cumplir 17 años cambia la regla de espera.",
+      "h2": "En Mississippi, si usted cumple 17 años antes de tener el permiso de aprendiz por un año, puede solicitar una licencia regular.",
+      "p": "Correcto. A los 17 años, ya no aplica la espera de un año."
+    }
+  },
+  {
+    "id": "ms-046",
+    "scope": "MS",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Mississippi, an applicant under 18 brings a Certification of Attendance from school. How old may that form be?",
+      "o": [
+        "No more than 1 year old",
+        "No more than 30 days old",
+        "No more than 6 months old",
+        "Any age, if it is signed"
+      ],
+      "h1": "It must be about one month old or newer.",
+      "h2": "In Mississippi, the school Certification of Attendance for an applicant under 18 must not be more than 30 days old.",
+      "p": "Right. The attendance form must be 30 days old or newer."
+    },
+    "es": {
+      "q": "En Mississippi, un solicitante menor de 18 años trae un Certificado de Asistencia de la escuela. ¿Qué antigüedad puede tener ese formulario?",
+      "o": [
+        "No más de 1 año",
+        "No más de 30 días",
+        "No más de 6 meses",
+        "Cualquiera, si está firmado"
+      ],
+      "h1": "Debe tener más o menos un mes o menos.",
+      "h2": "En Mississippi, el Certificado de Asistencia escolar de un solicitante menor de 18 años no debe tener más de 30 días.",
+      "p": "Correcto. El formulario de asistencia debe tener 30 días o menos."
+    }
+  },
+  {
+    "id": "ms-047",
+    "scope": "MS",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Mississippi, a parent signs a teen's application for a permit or license. What does that signature mean?",
+      "o": [
+        "The parent must ride along on every trip",
+        "The parent pays the teen's insurance by law",
+        "The parent must take the exam too",
+        "The parent becomes liable for the teen's negligent driving"
+      ],
+      "h1": "The person who signs takes on legal responsibility.",
+      "h2": "In Mississippi, whoever signs a teen's application becomes liable for the teen's negligence or willful misconduct, and the signature must be notarized.",
+      "p": "Right. The signer becomes responsible for the teen's negligent driving."
+    },
+    "es": {
+      "q": "En Mississippi, un padre o una madre firma la solicitud de permiso o licencia de un joven. ¿Qué significa esa firma?",
+      "o": [
+        "Debe acompañar al joven en cada viaje",
+        "Debe pagar por ley el seguro del joven",
+        "También debe tomar el examen",
+        "Se vuelve responsable legal por la negligencia del joven al manejar"
+      ],
+      "h1": "La persona que firma asume una responsabilidad legal.",
+      "h2": "En Mississippi, quien firma la solicitud de un joven se vuelve responsable por la negligencia o mala conducta intencional del joven, y la firma debe estar notarizada.",
+      "p": "Correcto. Quien firma se vuelve responsable si el joven maneja con negligencia."
+    }
+  },
+  {
+    "id": "ms-048",
+    "scope": "MS",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 78,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Mississippi, you refuse a breath test and give your license to the officer. How long is the officer's receipt good as a temporary permit?",
+      "o": [
+        "10 days",
+        "90 days",
+        "45 days",
+        "1 year"
+      ],
+      "h1": "It is about a month and a half.",
+      "h2": "In Mississippi, after you refuse a breath or chemical test, the officer's receipt works as a temporary permit for 45 days.",
+      "p": "Right. The receipt is a temporary permit for 45 days."
+    },
+    "es": {
+      "q": "En Mississippi, usted se niega a la prueba de aliento y entrega su licencia al oficial. ¿Por cuánto tiempo sirve el recibo del oficial como permiso temporal?",
+      "o": [
+        "10 días",
+        "90 días",
+        "45 días",
+        "1 año"
+      ],
+      "h1": "Es más o menos un mes y medio.",
+      "h2": "En Mississippi, después de negarse a una prueba de aliento o química, el recibo del oficial sirve como permiso temporal por 45 días.",
+      "p": "Correcto. El recibo es un permiso temporal por 45 días."
+    }
+  },
+  {
+    "id": "ms-049",
+    "scope": "MS",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 79,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Mississippi, what is the fine for a first DUI offense for a driver 21 or older?",
+      "o": [
+        "$250 to $1,000",
+        "$25 to $100",
+        "$2,000 to $5,000",
+        "$5,000 to $10,000"
+      ],
+      "h1": "The highest amount is one thousand dollars.",
+      "h2": "In Mississippi, a first DUI offense for a driver 21 or older carries a fine of $250 to $1,000.",
+      "p": "Right. A first DUI fine is $250 to $1,000."
+    },
+    "es": {
+      "q": "En Mississippi, ¿cuál es la multa por un primer DUI para un conductor de 21 años o más?",
+      "o": [
+        "De $250 a $1,000",
+        "De $25 a $100",
+        "De $2,000 a $5,000",
+        "De $5,000 a $10,000"
+      ],
+      "h1": "La cantidad más alta es de mil dólares.",
+      "h2": "En Mississippi, un primer DUI para un conductor de 21 años o más tiene una multa de $250 a $1,000.",
+      "p": "Correcto. La multa por un primer DUI es de $250 a $1,000."
+    }
+  },
+  {
+    "id": "ms-050",
+    "scope": "MS",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 79,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Mississippi, a driver is convicted of a first DUI and also refused the breath test. What happens to the license suspension?",
+      "o": [
+        "The refusal is ignored",
+        "The suspension is cut in half",
+        "The license is taken for life",
+        "90 days are added to the suspension"
+      ],
+      "h1": "Refusing the test makes the penalty longer.",
+      "h2": "In Mississippi, if you are convicted of a first DUI and you also refused the breath or chemical test, 90 days are added to the license suspension.",
+      "p": "Right. Refusing the test adds 90 days."
+    },
+    "es": {
+      "q": "En Mississippi, un conductor es declarado culpable de un primer DUI y además se negó a la prueba de aliento. ¿Qué pasa con la suspensión de la licencia?",
+      "o": [
+        "No se toma en cuenta la negativa",
+        "La suspensión se reduce a la mitad",
+        "Se le quita la licencia de por vida",
+        "Se agregan 90 días a la suspensión"
+      ],
+      "h1": "Negarse a la prueba hace la pena más larga.",
+      "h2": "En Mississippi, si usted es declarado culpable de un primer DUI y además se negó a la prueba de aliento o química, se agregan 90 días a la suspensión de la licencia.",
+      "p": "Correcto. Negarse a la prueba agrega 90 días."
+    }
+  },
+  {
+    "id": "ms-051",
+    "scope": "MS",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 79,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Mississippi, a driver 21 or older is convicted of a second DUI within five years. For how long is the license suspended?",
+      "o": [
+        "30 days",
+        "1 year",
+        "120 days",
+        "10 years"
+      ],
+      "h1": "It is much longer than for a first offense.",
+      "h2": "In Mississippi, a second DUI within five years brings a license suspension of one year.",
+      "p": "Right. A second DUI within five years means a one-year suspension."
+    },
+    "es": {
+      "q": "En Mississippi, un conductor de 21 años o más es declarado culpable de un segundo DUI en un plazo de cinco años. ¿Por cuánto tiempo se suspende la licencia?",
+      "o": [
+        "30 días",
+        "1 año",
+        "120 días",
+        "10 años"
+      ],
+      "h1": "Es mucho más largo que por una primera vez.",
+      "h2": "En Mississippi, un segundo DUI en un plazo de cinco años trae una suspensión de la licencia por un año.",
+      "p": "Correcto. Un segundo DUI en cinco años significa una suspensión de un año."
+    }
+  },
+  {
+    "id": "ms-052",
+    "scope": "MS",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Mississippi, a driver is convicted of reckless driving three times within 12 months. What happens?",
+      "o": [
+        "Only a written warning",
+        "A required safe-driving video",
+        "The license is revoked for one year",
+        "Nothing, if the fines are paid"
+      ],
+      "h1": "The Commissioner must take the license away.",
+      "h2": "In Mississippi, three reckless driving convictions within 12 months mean the license is revoked for one year.",
+      "p": "Right. Three reckless driving convictions in a year mean a one-year revocation."
+    },
+    "es": {
+      "q": "En Mississippi, un conductor es declarado culpable de manejo imprudente tres veces en 12 meses. ¿Qué pasa?",
+      "o": [
+        "Solo recibe una advertencia por escrito",
+        "Debe ver un video de manejo seguro",
+        "Se le revoca la licencia por un año",
+        "Nada, si paga las multas"
+      ],
+      "h1": "El Comisionado debe quitarle la licencia.",
+      "h2": "En Mississippi, tres condenas por manejo imprudente en 12 meses significan que la licencia se revoca por un año.",
+      "p": "Correcto. Tres condenas por manejo imprudente en un año significan una revocación de un año."
+    }
+  },
+  {
+    "id": "ms-053",
+    "scope": "MS",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 76,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Mississippi, an at-fault driver had no liability insurance at the time of a crash. For how long must the driver keep proof of insurance on file?",
+      "o": [
+        "Three years from the crash",
+        "Six months from the crash",
+        "Until the next renewal",
+        "Ten years from the crash"
+      ],
+      "h1": "It is longer than one year but less than five.",
+      "h2": "In Mississippi, an at-fault driver who had no liability insurance must buy it and keep proof on file for three years from the date of the crash.",
+      "p": "Right. The proof of insurance must stay in effect for three years."
+    },
+    "es": {
+      "q": "En Mississippi, un conductor culpable de un choque no tenía seguro de responsabilidad civil en ese momento. ¿Por cuánto tiempo debe mantener registrada la prueba de seguro?",
+      "o": [
+        "Tres años desde el choque",
+        "Seis meses desde el choque",
+        "Hasta la próxima renovación",
+        "Diez años desde el choque"
+      ],
+      "h1": "Es más de un año pero menos de cinco.",
+      "h2": "En Mississippi, un conductor culpable que no tenía seguro de responsabilidad civil debe comprarlo y mantener registrada la prueba por tres años desde la fecha del choque.",
+      "p": "Correcto. La prueba de seguro debe estar vigente por tres años."
+    }
+  },
+  {
+    "id": "ms-054",
+    "scope": "MS",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 66,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Mississippi, you see an emergency on a highway. What can you dial on a cell phone to reach a Highway Patrol dispatcher?",
+      "o": [
+        "*311",
+        "*411",
+        "*511",
+        "*HP (*47)"
+      ],
+      "h1": "The letters stand for Highway Patrol.",
+      "h2": "In Mississippi, you can dial *HP (*47) on a cell phone to reach a Highway Patrol dispatcher for a real emergency.",
+      "p": "Right. Dial *HP, which is *47, for the Highway Patrol."
+    },
+    "es": {
+      "q": "En Mississippi, usted ve una emergencia en una carretera. ¿Qué número puede marcar en un celular para hablar con un despachador de la Patrulla de Carreteras?",
+      "o": [
+        "*311",
+        "*411",
+        "*511",
+        "*HP (*47)"
+      ],
+      "h1": "Las letras significan Highway Patrol (Patrulla de Carreteras).",
+      "h2": "En Mississippi, puede marcar *HP (*47) en un celular para hablar con un despachador de la Patrulla de Carreteras en una emergencia real.",
+      "p": "Correcto. Marque *HP, que es *47, para la Patrulla de Carreteras."
+    }
+  },
+  {
+    "id": "ms-055",
+    "scope": "MS",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 35,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Mississippi, which vehicle must always stop at every railroad crossing, even with no lights or gates?",
+      "o": [
+        "A pickup truck towing a boat",
+        "A school bus carrying even one child",
+        "A motorcycle with a passenger",
+        "Any car after dark"
+      ],
+      "h1": "Think of vehicles that carry children, paying passengers or dangerous cargo.",
+      "h2": "In Mississippi, a school bus with even one child, a vehicle for hire with passengers, and a vehicle carrying explosives or flammable liquids must stop at every railroad crossing.",
+      "p": "Right. A school bus with any child on board must always stop."
+    },
+    "es": {
+      "q": "En Mississippi, ¿qué vehículo siempre debe detenerse en todos los cruces de ferrocarril, aunque no haya luces ni barreras?",
+      "o": [
+        "Una camioneta que remolca un bote",
+        "Un autobús escolar que lleva aunque sea un niño",
+        "Una motocicleta con un pasajero",
+        "Cualquier carro de noche"
+      ],
+      "h1": "Piense en vehículos que llevan niños, pasajeros que pagan o carga peligrosa.",
+      "h2": "En Mississippi, un autobús escolar con aunque sea un niño, un vehículo de alquiler con pasajeros y un vehículo que lleva explosivos o líquidos inflamables deben detenerse en todos los cruces de ferrocarril.",
+      "p": "Correcto. Un autobús escolar con cualquier niño a bordo siempre debe detenerse."
+    }
+  },
+  {
+    "id": "ms-056",
+    "scope": "MS",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 75,
+    "src": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Mississippi, a car has aftermarket window tint. How much light must all the windows let through?",
+      "o": [
+        "At least 5 percent",
+        "At least 10 percent",
+        "At least 28 percent",
+        "At least 90 percent"
+      ],
+      "h1": "It is a little more than one quarter of the light.",
+      "h2": "In Mississippi, all windows must let through at least 28 percent of light, and aftermarket tint needs an inspection certificate and decal.",
+      "p": "Right. Windows must let through at least 28 percent of light."
+    },
+    "es": {
+      "q": "En Mississippi, un carro tiene polarizado de ventanas instalado después de la compra. ¿Cuánta luz deben dejar pasar todas las ventanas?",
+      "o": [
+        "Por lo menos 5 por ciento",
+        "Por lo menos 10 por ciento",
+        "Por lo menos 28 por ciento",
+        "Por lo menos 90 por ciento"
+      ],
+      "h1": "Es un poco más de la cuarta parte de la luz.",
+      "h2": "En Mississippi, todas las ventanas deben dejar pasar por lo menos el 28 por ciento de la luz, y el polarizado instalado después de la compra necesita un certificado de inspección y una calcomanía.",
+      "p": "Correcto. Las ventanas deben dejar pasar por lo menos el 28 por ciento de la luz."
+    }
   }
 ]
