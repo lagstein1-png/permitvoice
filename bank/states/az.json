@@ -2622,5 +2622,719 @@
       "h2": "في Arizona يجب أن تنتقل إلى الأضواء المنخفضة عندما تكون السيارة القادمة نحوك على بُعد 500 قدم أو أقل.",
       "p": "صحيح. استعمل الأضواء المنخفضة عندما تكون السيارة القادمة على بُعد 500 قدم أو أقل."
     }
+  },
+  {
+    "id": "az-033",
+    "scope": "AZ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00645.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, you are on a one-way street at a red light. You want to turn left onto another one-way street that goes left. What may you do?",
+      "o": [
+        "Never turn left on red",
+        "Turn left without stopping",
+        "Stop first, then turn left when it is safe",
+        "Wait for a police officer to wave you on"
+      ],
+      "h1": "It is like a right turn on red, but between two one-way streets.",
+      "h2": "In Arizona you may turn left on red from a one-way street onto a one-way street going left, after a full stop and yielding, unless a sign forbids it.",
+      "p": "Right. Stop, yield, then you may turn left onto the one-way street."
+    },
+    "es": {
+      "q": "En Arizona, usted está en una calle de un solo sentido con la luz roja. Quiere dar vuelta a la izquierda hacia otra calle de un solo sentido que va a la izquierda. ¿Qué puede hacer?",
+      "o": [
+        "Nunca dar vuelta a la izquierda con luz roja",
+        "Dar vuelta a la izquierda sin detenerse",
+        "Detenerse primero y luego dar vuelta a la izquierda cuando sea seguro",
+        "Esperar a que un policía le haga una señal"
+      ],
+      "h1": "Es como dar vuelta a la derecha con luz roja, pero entre dos calles de un solo sentido.",
+      "h2": "En Arizona usted puede dar vuelta a la izquierda con luz roja de una calle de un solo sentido a otra de un solo sentido que va a la izquierda, después de detenerse por completo y ceder el paso, a menos que un letrero lo prohíba.",
+      "p": "Correcto. Deténgase, ceda el paso y luego puede dar vuelta a la izquierda hacia la calle de un solo sentido."
+    }
+  },
+  {
+    "id": "az-034",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/03174.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, a teen in the first six months of a graduated license breaks one of its limits for the first time. What happens to the limits?",
+      "o": [
+        "They last 30 days longer",
+        "They end right away",
+        "They become permanent",
+        "Nothing changes"
+      ],
+      "h1": "The state gives the teen more time under the limits.",
+      "h2": "In Arizona a first violation of the graduated license limits adds 30 more days to those limits.",
+      "p": "Right. A first violation extends the limits by 30 days."
+    },
+    "es": {
+      "q": "En Arizona, un adolescente en los primeros seis meses de su licencia graduada no cumple uno de sus límites por primera vez. ¿Qué pasa con los límites?",
+      "o": [
+        "Duran 30 días más",
+        "Terminan de inmediato",
+        "Se vuelven permanentes",
+        "No cambia nada"
+      ],
+      "h1": "El estado le da al adolescente más tiempo con los límites.",
+      "h2": "En Arizona una primera infracción de los límites de la licencia graduada agrega 30 días más a esos límites.",
+      "p": "Correcto. Una primera infracción alarga los límites por 30 días."
+    }
+  },
+  {
+    "id": "az-035",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00666.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, you are in a crash and someone is hurt. When must you tell the police?",
+      "o": [
+        "Within 10 days, in writing",
+        "Right away, by the fastest way you can",
+        "Only if the other driver asks you to",
+        "Only if a car must be towed"
+      ],
+      "h1": "An injured person needs help quickly.",
+      "h2": "In Arizona, after a crash where someone is hurt or killed, you must tell the police right away by the fastest means you have.",
+      "p": "Right. Report an injury crash to the police right away."
+    },
+    "es": {
+      "q": "En Arizona, usted tiene un choque y alguien resulta herido. ¿Cuándo debe avisar a la policía?",
+      "o": [
+        "Dentro de 10 días, por escrito",
+        "De inmediato, por el medio más rápido que pueda",
+        "Solo si el otro conductor se lo pide",
+        "Solo si hay que remolcar un carro"
+      ],
+      "h1": "Una persona herida necesita ayuda rápido.",
+      "h2": "En Arizona, después de un choque donde alguien resulta herido o muerto, usted debe avisar a la policía de inmediato por el medio más rápido que tenga.",
+      "p": "Correcto. Avise a la policía de inmediato si hay heridos."
+    }
+  },
+  {
+    "id": "az-036",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00661.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, a driver leaves the scene of a crash where someone was hurt, without stopping. What kind of crime is this?",
+      "o": [
+        "A parking violation",
+        "A civil ticket with a small fine",
+        "It is not a crime if the driver was not at fault",
+        "A felony"
+      ],
+      "h1": "It is more serious than a misdemeanor.",
+      "h2": "In Arizona, leaving the scene of a crash where someone was hurt is a felony, and the license is revoked.",
+      "p": "Right. Leaving an injury crash is a felony."
+    },
+    "es": {
+      "q": "En Arizona, un conductor se va del lugar de un choque donde alguien resultó herido, sin detenerse. ¿Qué tipo de delito es?",
+      "o": [
+        "Una infracción de estacionamiento",
+        "Una multa civil pequeña",
+        "No es delito si el conductor no tuvo la culpa",
+        "Un delito grave (felonía)"
+      ],
+      "h1": "Es más serio que un delito menor.",
+      "h2": "En Arizona, irse del lugar de un choque donde alguien resultó herido es un delito grave (felonía), y se revoca la licencia.",
+      "p": "Correcto. Irse de un choque con heridos es un delito grave."
+    }
+  },
+  {
+    "id": "az-037",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00663.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, after a crash with another driver, what must you give that driver?",
+      "o": [
+        "Only your phone number",
+        "Your insurance company's address only",
+        "Your name, address and vehicle registration number, and your license if asked",
+        "Nothing, until the police arrive"
+      ],
+      "h1": "The other driver needs to know who you are and which car you were driving.",
+      "h2": "In Arizona, after a crash you must give your name, address and vehicle registration number, and show your driver license if asked.",
+      "p": "Right. Share your name, address and registration, and show your license if asked."
+    },
+    "es": {
+      "q": "En Arizona, después de un choque con otro conductor, ¿qué debe darle a ese conductor?",
+      "o": [
+        "Solo su número de teléfono",
+        "Solo la dirección de su compañía de seguros",
+        "Su nombre, dirección y número de registro del vehículo, y su licencia si se la piden",
+        "Nada, hasta que llegue la policía"
+      ],
+      "h1": "El otro conductor necesita saber quién es usted y qué carro manejaba.",
+      "h2": "En Arizona, después de un choque usted debe dar su nombre, dirección y número de registro del vehículo, y mostrar su licencia de manejo si se la piden.",
+      "p": "Correcto. Dé su nombre, dirección y registro, y muestre su licencia si se la piden."
+    }
+  },
+  {
+    "id": "az-038",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00695.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, a driver is convicted of aggressive driving. Which class must the driver complete?",
+      "o": [
+        "Traffic Survival School",
+        "A motorcycle safety course",
+        "A first aid class",
+        "No class is required"
+      ],
+      "h1": "It is the same school required after running a red light.",
+      "h2": "In Arizona a driver convicted of aggressive driving must complete Traffic Survival School.",
+      "p": "Right. Aggressive driving means Traffic Survival School."
+    },
+    "es": {
+      "q": "En Arizona, un conductor es declarado culpable de manejo agresivo. ¿Qué clase debe completar?",
+      "o": [
+        "La escuela de supervivencia en el tráfico (Traffic Survival School)",
+        "Un curso de seguridad en motocicleta",
+        "Una clase de primeros auxilios",
+        "No se requiere ninguna clase"
+      ],
+      "h1": "Es la misma escuela que se requiere después de pasarse una luz roja.",
+      "h2": "En Arizona un conductor declarado culpable de manejo agresivo debe completar la escuela de supervivencia en el tráfico (Traffic Survival School).",
+      "p": "Correcto. El manejo agresivo lleva a la Traffic Survival School."
+    }
+  },
+  {
+    "id": "az-039",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00693.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, a driver is convicted of reckless driving for the first time. For up to how long may the judge suspend the license?",
+      "o": [
+        "Up to 7 days",
+        "Up to 90 days",
+        "Up to 5 years",
+        "The judge may not suspend it"
+      ],
+      "h1": "It is about three months.",
+      "h2": "In Arizona a judge may suspend a driver's license for up to 90 days for a first reckless driving conviction.",
+      "p": "Right. A first reckless driving conviction can bring a suspension of up to 90 days."
+    },
+    "es": {
+      "q": "En Arizona, un conductor es declarado culpable de manejo imprudente por primera vez. ¿Por cuánto tiempo como máximo puede el juez suspender la licencia?",
+      "o": [
+        "Hasta 7 días",
+        "Hasta 90 días",
+        "Hasta 5 años",
+        "El juez no puede suspenderla"
+      ],
+      "h1": "Son unos tres meses.",
+      "h2": "En Arizona un juez puede suspender la licencia hasta por 90 días por una primera condena de manejo imprudente.",
+      "p": "Correcto. Una primera condena de manejo imprudente puede traer una suspensión de hasta 90 días."
+    }
+  },
+  {
+    "id": "az-040",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00701-02.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, when does speeding become the crime of excessive speed, not just a civil ticket?",
+      "o": [
+        "At 1 mph over the posted limit",
+        "At 5 mph over the posted limit",
+        "At more than 20 mph over the posted limit",
+        "Only at more than 50 mph over the posted limit"
+      ],
+      "h1": "It is a big number, but not as big as 50.",
+      "h2": "In Arizona, driving more than 20 mph over the posted speed limit is the crime of excessive speed.",
+      "p": "Right. More than 20 mph over the limit is a criminal offense."
+    },
+    "es": {
+      "q": "En Arizona, ¿cuándo se convierte el exceso de velocidad en el delito de velocidad excesiva y no solo en una multa civil?",
+      "o": [
+        "A 1 mph sobre el límite indicado",
+        "A 5 mph sobre el límite indicado",
+        "A más de 20 mph sobre el límite indicado",
+        "Solo a más de 50 mph sobre el límite indicado"
+      ],
+      "h1": "Es un número grande, pero no tanto como 50.",
+      "h2": "En Arizona, manejar a más de 20 mph sobre el límite de velocidad indicado es el delito de velocidad excesiva.",
+      "p": "Correcto. Más de 20 mph sobre el límite es un delito."
+    }
+  },
+  {
+    "id": "az-041",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00704.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, you drive slowly on a two-lane road where passing is unsafe. How many vehicles in a line behind you means you must pull into a turnout?",
+      "o": [
+        "2 or more",
+        "3 or more",
+        "5 or more",
+        "10 or more"
+      ],
+      "h1": "It is more than a few, but fewer than ten.",
+      "h2": "In Arizona, if 5 or more vehicles are lined up behind your slow vehicle on a two-lane road, you must pull off at the nearest safe turnout to let them pass.",
+      "p": "Right. With 5 or more vehicles behind you, use a turnout."
+    },
+    "es": {
+      "q": "En Arizona, usted maneja despacio en una carretera de dos carriles donde no es seguro rebasar. ¿Cuántos vehículos en fila detrás de usted lo obligan a salirse a un área de desvío?",
+      "o": [
+        "2 o más",
+        "3 o más",
+        "5 o más",
+        "10 o más"
+      ],
+      "h1": "Son más que unos pocos, pero menos de diez.",
+      "h2": "En Arizona, si 5 o más vehículos van en fila detrás de su vehículo lento en una carretera de dos carriles, usted debe salirse en el área de desvío segura más cercana para dejarlos pasar.",
+      "p": "Correcto. Con 5 o más vehículos detrás, use un área de desvío."
+    }
+  },
+  {
+    "id": "az-042",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00710.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, you get a speeding ticket in a state highway work zone while workers are present. What happens to the penalty?",
+      "o": [
+        "It is cut in half",
+        "It stays the same",
+        "It is only a warning",
+        "You pay an extra amount equal to the fine, so it doubles"
+      ],
+      "h1": "Workers' safety makes the penalty bigger.",
+      "h2": "In Arizona, speeding in a state highway work zone with workers present adds an extra charge equal to the fine, so the penalty doubles.",
+      "p": "Right. Speeding near workers doubles the penalty."
+    },
+    "es": {
+      "q": "En Arizona, usted recibe una multa por exceso de velocidad en una zona de construcción de una carretera estatal mientras hay trabajadores presentes. ¿Qué pasa con la multa?",
+      "o": [
+        "Se reduce a la mitad",
+        "Queda igual",
+        "Es solo una advertencia",
+        "Paga un cargo extra igual a la multa, así que se duplica"
+      ],
+      "h1": "La seguridad de los trabajadores hace que la multa sea mayor.",
+      "h2": "En Arizona, exceder la velocidad en una zona de construcción de una carretera estatal con trabajadores presentes agrega un cargo extra igual a la multa, así que la multa se duplica.",
+      "p": "Correcto. Exceder la velocidad cerca de trabajadores duplica la multa."
+    }
+  },
+  {
+    "id": "az-043",
+    "scope": "AZ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00735.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, you are passing a bicycle going the same way. How much space must you leave?",
+      "o": [
+        "At least 1 foot",
+        "At least 3 feet",
+        "At least 10 feet",
+        "No set amount"
+      ],
+      "h1": "It is about the length of a yardstick.",
+      "h2": "In Arizona you must leave at least 3 feet between your car and a bicycle you are passing.",
+      "p": "Right. Give a bicycle at least 3 feet when you pass."
+    },
+    "es": {
+      "q": "En Arizona, usted rebasa a una bicicleta que va en la misma dirección. ¿Cuánto espacio debe dejar?",
+      "o": [
+        "Por lo menos 1 pie",
+        "Por lo menos 3 pies",
+        "Por lo menos 10 pies",
+        "No hay una cantidad fija"
+      ],
+      "h1": "Es más o menos el largo de una regla de una yarda.",
+      "h2": "En Arizona usted debe dejar por lo menos 3 pies entre su carro y una bicicleta que está rebasando.",
+      "p": "Correcto. Deje por lo menos 3 pies al rebasar una bicicleta."
+    }
+  },
+  {
+    "id": "az-044",
+    "scope": "AZ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00815.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, on a regular road with no bike path, how many bicycle riders may ride side by side?",
+      "o": [
+        "No more than two",
+        "No more than three",
+        "No more than four",
+        "As many as they want"
+      ],
+      "h1": "Think of a pair.",
+      "h2": "In Arizona, bicycle riders on a roadway may not ride more than two side by side, except on paths set aside for bicycles.",
+      "p": "Right. Bicycle riders may ride no more than two side by side."
+    },
+    "es": {
+      "q": "En Arizona, en una calle normal sin ciclovía, ¿cuántos ciclistas pueden ir uno al lado del otro?",
+      "o": [
+        "No más de dos",
+        "No más de tres",
+        "No más de cuatro",
+        "Todos los que quieran"
+      ],
+      "h1": "Piense en una pareja.",
+      "h2": "En Arizona, los ciclistas en una calle no pueden ir más de dos uno al lado del otro, excepto en caminos reservados para bicicletas.",
+      "p": "Correcto. Los ciclistas pueden ir no más de dos uno al lado del otro."
+    }
+  },
+  {
+    "id": "az-045",
+    "scope": "AZ",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00754.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, before you turn, how far ahead must you keep your turn signal on?",
+      "o": [
+        "At least 10 feet",
+        "At least 25 feet",
+        "At least 1,000 feet",
+        "At least the last 100 feet"
+      ],
+      "h1": "It is about the length of six or seven cars.",
+      "h2": "In Arizona you must signal a turn for at least the last 100 feet before you turn.",
+      "p": "Right. Signal for at least the last 100 feet before turning."
+    },
+    "es": {
+      "q": "En Arizona, antes de dar vuelta, ¿con cuánta anticipación debe tener puesta la direccional?",
+      "o": [
+        "Por lo menos 10 pies",
+        "Por lo menos 25 pies",
+        "Por lo menos 1,000 pies",
+        "Por lo menos los últimos 100 pies"
+      ],
+      "h1": "Es más o menos el largo de seis o siete carros.",
+      "h2": "En Arizona usted debe señalar una vuelta durante por lo menos los últimos 100 pies antes de dar vuelta.",
+      "p": "Correcto. Señale por lo menos los últimos 100 pies antes de dar vuelta."
+    }
+  },
+  {
+    "id": "az-046",
+    "scope": "AZ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00851.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, the lights at a railroad crossing are flashing. Where must you stop?",
+      "o": [
+        "Right on the tracks",
+        "Between 15 and 50 feet from the nearest rail",
+        "Between 100 and 200 feet from the nearest rail",
+        "Anywhere you can see the train"
+      ],
+      "h1": "Not too close, but not too far to see.",
+      "h2": "In Arizona, when a railroad crossing signal warns of a train, you must stop between 15 and 50 feet from the nearest rail.",
+      "p": "Right. Stop 15 to 50 feet from the nearest rail."
+    },
+    "es": {
+      "q": "En Arizona, las luces de un cruce de ferrocarril están parpadeando. ¿Dónde debe detenerse?",
+      "o": [
+        "Justo encima de las vías",
+        "Entre 15 y 50 pies del riel más cercano",
+        "Entre 100 y 200 pies del riel más cercano",
+        "En cualquier lugar donde pueda ver el tren"
+      ],
+      "h1": "Ni muy cerca, ni tan lejos que no pueda ver.",
+      "h2": "En Arizona, cuando la señal de un cruce de ferrocarril avisa que viene un tren, usted debe detenerse entre 15 y 50 pies del riel más cercano.",
+      "p": "Correcto. Deténgase entre 15 y 50 pies del riel más cercano."
+    }
+  },
+  {
+    "id": "az-047",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00873.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, how close to a crosswalk at an intersection may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 20 feet",
+        "No closer than 100 feet"
+      ],
+      "h1": "It is a little more than the length of a car.",
+      "h2": "In Arizona you may not park within 20 feet of a crosswalk at an intersection.",
+      "p": "Right. Park at least 20 feet from a crosswalk at an intersection."
+    },
+    "es": {
+      "q": "En Arizona, ¿qué tan cerca de un cruce peatonal en una intersección puede estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 10 pies",
+        "No más cerca de 20 pies",
+        "No más cerca de 100 pies"
+      ],
+      "h1": "Es un poco más que el largo de un carro.",
+      "h2": "En Arizona usted no puede estacionarse a menos de 20 pies de un cruce peatonal en una intersección.",
+      "p": "Correcto. Estaciónese por lo menos a 20 pies de un cruce peatonal en una intersección."
+    }
+  },
+  {
+    "id": "az-048",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00873.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, how close may you park before a stop sign at the side of the road?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 15 feet",
+        "No closer than 30 feet"
+      ],
+      "h1": "Drivers coming up to the sign need to see it clearly.",
+      "h2": "In Arizona you may not park within 30 feet before a stop sign, yield sign, flashing beacon or traffic signal at the side of the road.",
+      "p": "Right. Park at least 30 feet before a stop sign."
+    },
+    "es": {
+      "q": "En Arizona, ¿qué tan cerca puede estacionarse antes de un letrero de alto al lado del camino?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 10 pies",
+        "No más cerca de 15 pies",
+        "No más cerca de 30 pies"
+      ],
+      "h1": "Los conductores que se acercan al letrero necesitan verlo bien.",
+      "h2": "En Arizona usted no puede estacionarse a menos de 30 pies antes de un letrero de alto, de ceda el paso, una luz intermitente o un semáforo al lado del camino.",
+      "p": "Correcto. Estaciónese por lo menos 30 pies antes de un letrero de alto."
+    }
+  },
+  {
+    "id": "az-049",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00873.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, how close to a railroad crossing may you park?",
+      "o": [
+        "No closer than 50 feet from the nearest rail",
+        "No closer than 10 feet from the nearest rail",
+        "No closer than 20 feet from the nearest rail",
+        "Anywhere, if you leave your flashers on"
+      ],
+      "h1": "It is more than 20 feet.",
+      "h2": "In Arizona you may not park within 50 feet of the nearest rail of a railroad crossing.",
+      "p": "Right. Park at least 50 feet from the nearest rail."
+    },
+    "es": {
+      "q": "En Arizona, ¿qué tan cerca de un cruce de ferrocarril puede estacionarse?",
+      "o": [
+        "No más cerca de 50 pies del riel más cercano",
+        "No más cerca de 10 pies del riel más cercano",
+        "No más cerca de 20 pies del riel más cercano",
+        "En cualquier lugar, si deja las luces intermitentes encendidas"
+      ],
+      "h1": "Es más de 20 pies.",
+      "h2": "En Arizona usted no puede estacionarse a menos de 50 pies del riel más cercano de un cruce de ferrocarril.",
+      "p": "Correcto. Estaciónese por lo menos a 50 pies del riel más cercano."
+    }
+  },
+  {
+    "id": "az-050",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00874.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, you park along a curb. How close to the curb must your right wheels be?",
+      "o": [
+        "Within 6 feet",
+        "Within 18 inches",
+        "Within 3 feet",
+        "Touching the curb"
+      ],
+      "h1": "It is a foot and a half.",
+      "h2": "In Arizona, when you park along a curb, your right wheels must be parallel to it and within 18 inches of it.",
+      "p": "Right. Park with your wheels within 18 inches of the curb."
+    },
+    "es": {
+      "q": "En Arizona, usted se estaciona junto a la banqueta. ¿Qué tan cerca de la banqueta deben estar sus llantas derechas?",
+      "o": [
+        "A menos de 6 pies",
+        "A menos de 18 pulgadas",
+        "A menos de 3 pies",
+        "Tocando la banqueta"
+      ],
+      "h1": "Es un pie y medio.",
+      "h2": "En Arizona, cuando se estaciona junto a la banqueta, sus llantas derechas deben estar paralelas a ella y a menos de 18 pulgadas.",
+      "p": "Correcto. Estaciónese con las llantas a menos de 18 pulgadas de la banqueta."
+    }
+  },
+  {
+    "id": "az-051",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00914.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, what is the fine for a first ticket for holding a phone while driving?",
+      "o": [
+        "$75 to $149",
+        "$10 to $25",
+        "$400 to $500",
+        "$1,000 to $2,000"
+      ],
+      "h1": "It is under $150.",
+      "h2": "In Arizona the civil penalty for a first violation of the hands-free law is $75 to $149.",
+      "p": "Right. A first hands-free violation costs $75 to $149."
+    },
+    "es": {
+      "q": "En Arizona, ¿cuál es la multa por una primera infracción por sostener el teléfono mientras maneja?",
+      "o": [
+        "De $75 a $149",
+        "De $10 a $25",
+        "De $400 a $500",
+        "De $1,000 a $2,000"
+      ],
+      "h1": "Es menos de $150.",
+      "h2": "En Arizona la multa civil por una primera infracción de la ley de manos libres es de $75 a $149.",
+      "p": "Correcto. Una primera infracción de manos libres cuesta de $75 a $149."
+    }
+  },
+  {
+    "id": "az-052",
+    "scope": "AZ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/04135.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, a driver is caught for the first time with no car insurance. What is the lowest penalty?",
+      "o": [
+        "A warning only",
+        "$50, with no effect on the license",
+        "$100 and one point",
+        "$500, and the license is suspended or restricted for 3 months"
+      ],
+      "h1": "It costs hundreds of dollars and affects the license.",
+      "h2": "In Arizona a first violation for driving without insurance brings a penalty of at least $500 and a 3-month suspension or restriction of the license.",
+      "p": "Right. At least $500 and 3 months of suspension or restriction."
+    },
+    "es": {
+      "q": "En Arizona, a un conductor lo detienen por primera vez sin seguro de auto. ¿Cuál es la multa más baja?",
+      "o": [
+        "Solo una advertencia",
+        "$50, sin efecto en la licencia",
+        "$100 y un punto",
+        "$500, y la licencia se suspende o se restringe por 3 meses"
+      ],
+      "h1": "Cuesta cientos de dólares y afecta la licencia.",
+      "h2": "En Arizona una primera infracción por manejar sin seguro trae una multa de por lo menos $500 y la suspensión o restricción de la licencia por 3 meses.",
+      "p": "Correcto. Por lo menos $500 y 3 meses de suspensión o restricción."
+    }
+  },
+  {
+    "id": "az-053",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/4/00251.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, may a passenger in a private car have an open can of beer?",
+      "o": [
+        "Yes, if the driver is sober",
+        "No, not anywhere in the passenger area",
+        "Yes, if they sit in the back seat",
+        "Yes, if the can is in a paper bag"
+      ],
+      "h1": "The rule covers everyone in the car, not only the driver.",
+      "h2": "In Arizona no one may have an open container of alcohol in the passenger area of a car on a public road; it may go in the trunk.",
+      "p": "Right. Open alcohol may not be in the passenger area."
+    },
+    "es": {
+      "q": "En Arizona, ¿puede un pasajero en un carro particular tener una lata de cerveza abierta?",
+      "o": [
+        "Sí, si el conductor está sobrio",
+        "No, en ninguna parte del área de pasajeros",
+        "Sí, si va en el asiento de atrás",
+        "Sí, si la lata está en una bolsa de papel"
+      ],
+      "h1": "La regla aplica a todos en el carro, no solo al conductor.",
+      "h2": "En Arizona nadie puede tener un envase abierto de alcohol en el área de pasajeros de un carro en una vía pública; puede ir en la cajuela.",
+      "p": "Correcto. El alcohol abierto no puede estar en el área de pasajeros."
+    }
   }
 ]
