@@ -175,6 +175,12 @@ srv.listen(0, async () => {
   ok(weak.n > 0 && weak.n <= 20 && weak.hasHint, 'weak-topics pack: up to 20 questions, practice mode with hints');
   await up.context().close();
   } catch (e) { ok(false, 'upgrade flow stopped: ' + e.message.split('\n')[0]); }
+  // Small phone (320px): the home screen must not scroll sideways. Florida has the most language buttons (7).
+  for (const lg of ['en', 'ar']) {
+    const n = await page(undefined, 'en-US', { path: '?state=FL&lang=' + lg }); await n.setViewportSize({ width: 320, height: 640 }); await n.waitForTimeout(200);
+    ok(await n.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth), `320px wide, ${lg}: no sideways scrolling on the home screen`);
+    await n.context().close();
+  }
   ok(!errs.length, 'no console errors' + (errs.length ? ': ' + errs.join(' | ') : ''));
   await b.close(); srv.close(); console.log(fails ? `${fails} FAILED` : 'ALL PASSED'); process.exit(fails ? 1 : 0);
 });
