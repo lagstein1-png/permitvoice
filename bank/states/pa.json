@@ -9198,5 +9198,107 @@
       "h2": "En Pensilvania, los ciclistas pueden ir por el acotamiento o la berma, pero la ley no los obliga a hacerlo.",
       "p": "Correcto. El ciclista puede usar el acotamiento, pero no tiene que hacerlo."
     }
+  },
+  {
+    "id": "pa-201",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 54,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, you speed and tailgate through a work zone. A flagger sees you. What can the flagger do?",
+      "o": [
+        "Nothing, flaggers only control traffic",
+        "Report you to the police",
+        "Take your license on the spot",
+        "Give you a parking ticket"
+      ],
+      "h1": "Flaggers do more than hold up signs.",
+      "h2": "In Pennsylvania, work zone flaggers can report speeders, unsafe drivers and aggressive drivers to the police.",
+      "p": "Right. A flagger can report you to the police."
+    },
+    "es": {
+      "q": "En Pensilvania, usted va con exceso de velocidad y muy pegado a otros autos en una zona de obras. Un abanderado lo ve. ¿Qué puede hacer el abanderado?",
+      "o": [
+        "Nada, los abanderados solo dirigen el tráfico",
+        "Denunciarlo a la policía",
+        "Quitarle la licencia en ese momento",
+        "Ponerle una multa de estacionamiento"
+      ],
+      "h1": "Los abanderados hacen más que sostener letreros.",
+      "h2": "En Pensilvania, los abanderados de las zonas de obras pueden denunciar a la policía a los conductores que van rápido, manejan de forma insegura o agresiva.",
+      "p": "Correcto. El abanderado puede denunciarlo a la policía."
+    }
+  },
+  {
+    "id": "pa-202",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 40,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, how often does the manual tell you to clean your headlights?",
+      "o": [
+        "Only at the yearly safety inspection",
+        "Only when a bulb burns out",
+        "Once a month",
+        "At least once a week, such as when you buy gas"
+      ],
+      "h1": "Dirty headlights can give only half the light they should.",
+      "h2": "In Pennsylvania, the manual says to clean your headlights at least once a week, for example when you buy gas, because dirty lights can give only half their light.",
+      "p": "Right. Clean them at least once a week, such as when you buy gas."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿cada cuánto le dice el manual que limpie los faros delanteros?",
+      "o": [
+        "Solo en la inspección de seguridad anual",
+        "Solo cuando se quema un foco",
+        "Una vez al mes",
+        "Al menos una vez por semana, por ejemplo cuando pone gasolina"
+      ],
+      "h1": "Los faros sucios pueden dar solo la mitad de la luz que deberían.",
+      "h2": "En Pensilvania, el manual dice que limpie los faros al menos una vez por semana, por ejemplo cuando pone gasolina, porque los faros sucios pueden dar solo la mitad de su luz.",
+      "p": "Correcto. Límpielos al menos una vez por semana, por ejemplo cuando pone gasolina."
+    }
+  },
+  {
+    "id": "pa-203",
+    "scope": "PA",
+    "cat": "signals",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, you see a LOW SHOULDER sign. How far below the road can the shoulder be?",
+      "o": [
+        "As much as 3 inches",
+        "As much as 1 foot",
+        "As much as 2 feet",
+        "The shoulder is level with the road"
+      ],
+      "h1": "A bigger drop gets a SHOULDER DROP OFF sign instead.",
+      "h2": "In Pennsylvania, a LOW SHOULDER sign warns that the shoulder can be as much as 3 inches below the road.",
+      "p": "Right. The shoulder can be as much as 3 inches lower than the road."
+    },
+    "es": {
+      "q": "En Pensilvania, usted ve un letrero LOW SHOULDER (acotamiento bajo). ¿Cuánto más bajo que la carretera puede estar el acotamiento?",
+      "o": [
+        "Hasta 3 pulgadas",
+        "Hasta 1 pie",
+        "Hasta 2 pies",
+        "El acotamiento está al mismo nivel que la carretera"
+      ],
+      "h1": "Una caída mayor lleva otro letrero: SHOULDER DROP OFF.",
+      "h2": "En Pensilvania, el letrero LOW SHOULDER advierte que el acotamiento puede estar hasta 3 pulgadas más bajo que la carretera.",
+      "p": "Correcto. El acotamiento puede estar hasta 3 pulgadas más bajo que la carretera."
+    }
   }
 ]
