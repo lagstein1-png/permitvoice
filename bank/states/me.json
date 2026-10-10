@@ -2540,5 +2540,685 @@
       "h2": "في Maine، ركن السيارة في الممر بجانب موقف ذوي الإعاقة مخالفة مرورية غرامتها $200 على الأقل.",
       "p": "صحيح. الغرامة $200 على الأقل."
     }
+  },
+  {
+    "id": "me-032",
+    "scope": "ME",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-2",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maine, how long is a learner's permit usually valid?",
+      "o": [
+        "6 months",
+        "1 year",
+        "2 years",
+        "5 years"
+      ],
+      "h1": "It lasts much longer than the 6 months you must hold it before the road test.",
+      "h2": "In Maine, a learner's permit is usually valid for 2 years.",
+      "p": "Right. A permit usually lasts 2 years."
+    },
+    "es": {
+      "q": "En Maine, ¿por cuánto tiempo suele ser válido un permiso de aprendizaje?",
+      "o": [
+        "6 meses",
+        "1 año",
+        "2 años",
+        "5 años"
+      ],
+      "h1": "Dura mucho más que los 6 meses que debe tenerlo antes del examen de manejo.",
+      "h2": "En Maine, un permiso de aprendizaje suele ser válido por 2 años.",
+      "p": "Correcto. Un permiso suele durar 2 años."
+    }
+  },
+  {
+    "id": "me-033",
+    "scope": "ME",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-2",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Maine, a new resident has a valid driver's license from another state. How soon must they apply for a Maine license?",
+      "o": [
+        "Within 30 days",
+        "Within 6 months",
+        "Within 1 year",
+        "When the old license expires"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In Maine, a new resident must give up the out-of-state license and apply for a Maine license within 30 days of moving here.",
+      "p": "Right. New residents have 30 days."
+    },
+    "es": {
+      "q": "En Maine, un nuevo residente tiene una licencia de manejo válida de otro estado. ¿En cuánto tiempo debe solicitar una licencia de Maine?",
+      "o": [
+        "Dentro de 30 días",
+        "Dentro de 6 meses",
+        "Dentro de 1 año",
+        "Cuando venza la licencia anterior"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Maine, un nuevo residente debe entregar la licencia de otro estado y solicitar una licencia de Maine dentro de los 30 días después de mudarse.",
+      "p": "Correcto. Los nuevos residentes tienen 30 días."
+    }
+  },
+  {
+    "id": "me-034",
+    "scope": "ME",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-3",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Maine, a person did not take an approved driver education course. What is the youngest age at which they can get a driver's license?",
+      "o": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "h1": "With driver education, the youngest age is 16. Without it, you must wait longer.",
+      "h2": "In Maine, a person who has not finished an approved driver education course must be at least 18 to get a driver's license.",
+      "p": "Right. Without driver education, you must be 18."
+    },
+    "es": {
+      "q": "En Maine, una persona no tomó un curso aprobado de educación vial. ¿Cuál es la edad mínima para que obtenga una licencia de manejo?",
+      "o": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "h1": "Con educación vial, la edad mínima es 16. Sin ella, debe esperar más.",
+      "h2": "En Maine, una persona que no ha terminado un curso aprobado de educación vial debe tener por lo menos 18 años para obtener una licencia de manejo.",
+      "p": "Correcto. Sin educación vial, debe tener 18 años."
+    }
+  },
+  {
+    "id": "me-035",
+    "scope": "ME",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-8",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Maine, a driver is convicted of going 30 mph or more over the speed limit. How long may the license be suspended?",
+      "o": [
+        "7 days",
+        "30 days",
+        "1 year",
+        "3 years"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In Maine, a conviction for speeding 30 mph or more over the limit may bring a 30-day license suspension.",
+      "p": "Right. It may mean a 30-day suspension."
+    },
+    "es": {
+      "q": "En Maine, un conductor es declarado culpable de manejar a 30 mph o más por encima del límite de velocidad. ¿Por cuánto tiempo pueden suspenderle la licencia?",
+      "o": [
+        "7 días",
+        "30 días",
+        "1 año",
+        "3 años"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Maine, una condena por manejar a 30 mph o más por encima del límite puede causar una suspensión de la licencia de 30 días.",
+      "p": "Correcto. Puede causar una suspensión de 30 días."
+    }
+  },
+  {
+    "id": "me-036",
+    "scope": "ME",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-9",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Maine, at how many demerit points does the Secretary of State send a driver a warning?",
+      "o": [
+        "3 points",
+        "6 points",
+        "9 points",
+        "12 points"
+      ],
+      "h1": "It is half of the number that leads to a suspension.",
+      "h2": "In Maine, a driver gets a warning at 6 demerit points, and the license is suspended at 12 points.",
+      "p": "Right. The warning comes at 6 points."
+    },
+    "es": {
+      "q": "En Maine, ¿con cuántos puntos de demérito le envía la Secretaría de Estado una advertencia al conductor?",
+      "o": [
+        "3 puntos",
+        "6 puntos",
+        "9 puntos",
+        "12 puntos"
+      ],
+      "h1": "Es la mitad del número que causa una suspensión.",
+      "h2": "En Maine, el conductor recibe una advertencia con 6 puntos de demérito, y la licencia se suspende con 12 puntos.",
+      "p": "Correcto. La advertencia llega con 6 puntos."
+    }
+  },
+  {
+    "id": "me-037",
+    "scope": "ME",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-9",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Maine, a driver earns one violation-free credit point for each calendar year with no convictions or suspensions. What is the most a driver can build up?",
+      "o": [
+        "1 point",
+        "2 points",
+        "3 points",
+        "4 points"
+      ],
+      "h1": "It is more than 3.",
+      "h2": "In Maine, a driver can build up to 4 violation-free credit points, one for each calendar year with no convictions or suspensions.",
+      "p": "Right. The most is 4 credit points."
+    },
+    "es": {
+      "q": "En Maine, un conductor gana un punto de crédito por cada año calendario sin condenas ni suspensiones. ¿Cuál es el máximo que puede acumular?",
+      "o": [
+        "1 punto",
+        "2 puntos",
+        "3 puntos",
+        "4 puntos"
+      ],
+      "h1": "Es más de 3.",
+      "h2": "En Maine, un conductor puede acumular hasta 4 puntos de crédito, uno por cada año calendario sin condenas ni suspensiones.",
+      "p": "Correcto. El máximo es 4 puntos de crédito."
+    }
+  },
+  {
+    "id": "me-038",
+    "scope": "ME",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "3-10",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Maine, an adult is convicted of OUI for the first time with an alcohol level of 0.15 or higher. What is the shortest jail time?",
+      "o": [
+        "48 hours",
+        "No jail time",
+        "12 hours",
+        "24 hours"
+      ],
+      "h1": "It is two full days.",
+      "h2": "In Maine, a first OUI conviction with an alcohol level of 0.15 or higher means at least 48 hours in jail.",
+      "p": "Right. The minimum is 48 hours in jail."
+    },
+    "es": {
+      "q": "En Maine, un adulto es declarado culpable de OUI (manejar bajo la influencia) por primera vez con un nivel de alcohol de 0.15 o más. ¿Cuál es el tiempo mínimo en la cárcel?",
+      "o": [
+        "48 horas",
+        "Nada de cárcel",
+        "12 horas",
+        "24 horas"
+      ],
+      "h1": "Son dos días completos.",
+      "h2": "En Maine, una primera condena por OUI con un nivel de alcohol de 0.15 o más significa por lo menos 48 horas en la cárcel.",
+      "p": "Correcto. El mínimo es 48 horas en la cárcel."
+    }
+  },
+  {
+    "id": "me-039",
+    "scope": "ME",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "3-10",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maine, what is the lowest fine for a first OUI conviction with an alcohol level of 0.08 to 0.14 and no test refusal?",
+      "o": [
+        "$50",
+        "$250",
+        "$500",
+        "$100"
+      ],
+      "h1": "It is several hundred dollars.",
+      "h2": "In Maine, a first OUI conviction with an alcohol level of 0.08 to 0.14 brings a fine of at least $500.",
+      "p": "Right. The fine is at least $500."
+    },
+    "es": {
+      "q": "En Maine, ¿cuál es la multa más baja por una primera condena por OUI con un nivel de alcohol de 0.08 a 0.14, sin negarse a la prueba?",
+      "o": [
+        "$50",
+        "$250",
+        "$500",
+        "$100"
+      ],
+      "h1": "Son varios cientos de dólares.",
+      "h2": "En Maine, una primera condena por OUI con un nivel de alcohol de 0.08 a 0.14 trae una multa de por lo menos $500.",
+      "p": "Correcto. La multa es de por lo menos $500."
+    }
+  },
+  {
+    "id": "me-040",
+    "scope": "ME",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "3-11",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Maine, after a first OUI conviction, the driver gets back a conditional license that allows no alcohol at all while driving. How long does that condition last?",
+      "o": [
+        "30 days",
+        "6 months",
+        "10 years",
+        "1 year"
+      ],
+      "h1": "The much longer period is for a second conviction.",
+      "h2": "In Maine, after a first OUI conviction, the reinstated license is conditional for one year.",
+      "p": "Right. The condition lasts one year."
+    },
+    "es": {
+      "q": "En Maine, después de una primera condena por OUI, el conductor recupera una licencia condicional que no permite nada de alcohol al manejar. ¿Cuánto dura esa condición?",
+      "o": [
+        "30 días",
+        "6 meses",
+        "10 años",
+        "1 año"
+      ],
+      "h1": "El período mucho más largo es para una segunda condena.",
+      "h2": "En Maine, después de una primera condena por OUI, la licencia restablecida es condicional por un año.",
+      "p": "Correcto. La condición dura un año."
+    }
+  },
+  {
+    "id": "me-041",
+    "scope": "ME",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "4-5",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Maine, a 6-year-old child weighs 65 pounds. How must the child ride in the car?",
+      "o": [
+        "In a regular seat belt only",
+        "In a federally approved booster seat",
+        "In a rear-facing infant seat",
+        "On an adult's lap with a belt"
+      ],
+      "h1": "The child is under 8 and weighs between 55 and 80 pounds.",
+      "h2": "In Maine, a child under 8 who weighs at least 55 but less than 80 pounds must ride in a federally approved child restraint system, such as a booster seat.",
+      "p": "Right. This child needs a booster seat."
+    },
+    "es": {
+      "q": "En Maine, un niño de 6 años pesa 65 libras. ¿Cómo debe viajar en el carro?",
+      "o": [
+        "Solo con el cinturón de seguridad normal",
+        "En un asiento elevador aprobado por el gobierno federal",
+        "En un asiento para bebé mirando hacia atrás",
+        "En las piernas de un adulto con cinturón"
+      ],
+      "h1": "El niño tiene menos de 8 años y pesa entre 55 y 80 libras.",
+      "h2": "En Maine, un niño menor de 8 años que pesa por lo menos 55 pero menos de 80 libras debe viajar en un sistema de retención infantil aprobado por el gobierno federal, como un asiento elevador.",
+      "p": "Correcto. Este niño necesita un asiento elevador."
+    }
+  },
+  {
+    "id": "me-042",
+    "scope": "ME",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "8-7",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Maine, what is the speed limit when passing a school during recess or when children are going to or from school?",
+      "o": [
+        "15 mph",
+        "20 mph",
+        "25 mph",
+        "10 mph"
+      ],
+      "h1": "It is lower than the 25 mph limit in town.",
+      "h2": "In Maine, the speed limit near a school during recess or school arrival and dismissal times is 15 mph.",
+      "p": "Right. It is 15 mph."
+    },
+    "es": {
+      "q": "En Maine, ¿cuál es el límite de velocidad al pasar por una escuela durante el recreo o cuando los niños van o vienen de la escuela?",
+      "o": [
+        "15 mph",
+        "20 mph",
+        "25 mph",
+        "10 mph"
+      ],
+      "h1": "Es más bajo que el límite de 25 mph en la ciudad.",
+      "h2": "En Maine, el límite de velocidad cerca de una escuela durante el recreo o en las horas de entrada y salida es de 15 mph.",
+      "p": "Correcto. Es de 15 mph."
+    }
+  },
+  {
+    "id": "me-043",
+    "scope": "ME",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "8-7",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maine, what is the top speed in a business or residential area when no speed limit is posted?",
+      "o": [
+        "15 mph",
+        "35 mph",
+        "25 mph",
+        "30 mph"
+      ],
+      "h1": "It is lower than 30 mph.",
+      "h2": "In Maine, the top speed in a business district, residential district or built-up area is 25 mph unless a sign says otherwise.",
+      "p": "Right. It is 25 mph."
+    },
+    "es": {
+      "q": "En Maine, ¿cuál es la velocidad máxima en una zona comercial o residencial cuando no hay un límite de velocidad señalado?",
+      "o": [
+        "15 mph",
+        "35 mph",
+        "25 mph",
+        "30 mph"
+      ],
+      "h1": "Es menos de 30 mph.",
+      "h2": "En Maine, la velocidad máxima en una zona comercial, residencial o urbanizada es de 25 mph, a menos que una señal indique otra cosa.",
+      "p": "Correcto. Es de 25 mph."
+    }
+  },
+  {
+    "id": "me-044",
+    "scope": "ME",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "8-11",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maine, what following distance does the driver manual tell you to keep behind the vehicle ahead?",
+      "o": [
+        "1 second",
+        "2 seconds",
+        "At least 4 seconds",
+        "At least 10 seconds"
+      ],
+      "h1": "Count \"one-thousand-one\" and keep going past three.",
+      "h2": "In Maine, the driver manual says to keep at least 4 seconds between your car and the vehicle in front.",
+      "p": "Right. Keep at least 4 seconds."
+    },
+    "es": {
+      "q": "En Maine, ¿qué distancia de seguimiento le indica el manual del conductor que mantenga detrás del vehículo de adelante?",
+      "o": [
+        "1 segundo",
+        "2 segundos",
+        "Por lo menos 4 segundos",
+        "Por lo menos 10 segundos"
+      ],
+      "h1": "Cuente \"mil uno\" y siga después del tres.",
+      "h2": "En Maine, el manual del conductor dice que debe mantener por lo menos 4 segundos entre su carro y el vehículo de adelante.",
+      "p": "Correcto. Mantenga por lo menos 4 segundos."
+    }
+  },
+  {
+    "id": "me-045",
+    "scope": "ME",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "8-16",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Maine, you must turn on your headlights when it is too dark, foggy or snowy to see how far ahead?",
+      "o": [
+        "1,000 feet",
+        "100 feet",
+        "300 feet",
+        "5,000 feet"
+      ],
+      "h1": "It is more than 500 feet.",
+      "h2": "In Maine, you must turn on your headlights whenever you cannot see 1,000 feet ahead.",
+      "p": "Right. If you cannot see 1,000 feet ahead, turn on your headlights."
+    },
+    "es": {
+      "q": "En Maine, si por oscuridad, neblina o nieve no puede ver hasta cierta distancia hacia adelante, debe encender las luces delanteras. ¿Cuál es esa distancia?",
+      "o": [
+        "1,000 pies",
+        "100 pies",
+        "300 pies",
+        "5,000 pies"
+      ],
+      "h1": "Es más de 500 pies.",
+      "h2": "En Maine, debe encender las luces delanteras siempre que no pueda ver 1,000 pies hacia adelante.",
+      "p": "Correcto. Si no puede ver 1,000 pies hacia adelante, encienda las luces."
+    }
+  },
+  {
+    "id": "me-046",
+    "scope": "ME",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "7-9",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Maine, when you park next to a curb, what is the farthest your car may be from the curb?",
+      "o": [
+        "6 feet",
+        "3 feet",
+        "30 inches",
+        "18 inches"
+      ],
+      "h1": "It is less than two feet.",
+      "h2": "In Maine, when you park next to a curb, park as close to it as you can and no more than 18 inches away.",
+      "p": "Right. Park no more than 18 inches from the curb."
+    },
+    "es": {
+      "q": "En Maine, cuando se estaciona junto a la acera, ¿cuál es la distancia máxima a la que puede quedar su carro de la acera?",
+      "o": [
+        "6 pies",
+        "3 pies",
+        "30 pulgadas",
+        "18 pulgadas"
+      ],
+      "h1": "Es menos de dos pies.",
+      "h2": "En Maine, cuando se estaciona junto a la acera, debe quedar lo más cerca posible y a no más de 18 pulgadas.",
+      "p": "Correcto. Estaciónese a no más de 18 pulgadas de la acera."
+    }
+  },
+  {
+    "id": "me-047",
+    "scope": "ME",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": "10-9",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Maine, a fire truck is going to a fire alarm. How close behind it may you follow?",
+      "o": [
+        "No closer than 100 feet",
+        "No closer than 500 feet",
+        "No closer than 50 feet",
+        "As close as you like if you are careful"
+      ],
+      "h1": "It is several hundred feet.",
+      "h2": "In Maine, it is against the law to follow within 500 feet of a fire truck that is going to a fire alarm.",
+      "p": "Right. Stay at least 500 feet back."
+    },
+    "es": {
+      "q": "En Maine, un camión de bomberos va a atender una alarma de incendio. ¿Qué tan cerca puede seguirlo?",
+      "o": [
+        "No a menos de 100 pies",
+        "No a menos de 500 pies",
+        "No a menos de 50 pies",
+        "Tan cerca como quiera si tiene cuidado"
+      ],
+      "h1": "Son varios cientos de pies.",
+      "h2": "En Maine, es ilegal seguir a menos de 500 pies a un camión de bomberos que va a atender una alarma de incendio.",
+      "p": "Correcto. Manténgase por lo menos a 500 pies."
+    }
+  },
+  {
+    "id": "me-048",
+    "scope": "ME",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": "8-3",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Maine, the red lights are flashing at a railroad crossing. Where must you stop?",
+      "o": [
+        "At least 15 feet from the crossing",
+        "Right at the edge of the first rail",
+        "At least 5 feet from the crossing",
+        "Nowhere, if you slow down and look"
+      ],
+      "h1": "Leave room between your car and the tracks.",
+      "h2": "In Maine, when the red lights flash at a railroad crossing, you must stop at least 15 feet from the crossing and wait.",
+      "p": "Right. Stop at least 15 feet away."
+    },
+    "es": {
+      "q": "En Maine, las luces rojas están intermitentes en un cruce de ferrocarril. ¿Dónde debe detenerse?",
+      "o": [
+        "Por lo menos a 15 pies del cruce",
+        "Justo en el borde del primer riel",
+        "Por lo menos a 5 pies del cruce",
+        "En ningún lugar, si baja la velocidad y mira"
+      ],
+      "h1": "Deje espacio entre su carro y las vías.",
+      "h2": "En Maine, cuando las luces rojas están intermitentes en un cruce de ferrocarril, debe detenerse por lo menos a 15 pies del cruce y esperar.",
+      "p": "Correcto. Deténgase por lo menos a 15 pies."
+    }
+  },
+  {
+    "id": "me-049",
+    "scope": "ME",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "7-8",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Maine, you are passing a car on a two-lane road. By when must you finish the pass?",
+      "o": [
+        "Before the next intersection only",
+        "Within 30 seconds",
+        "After the no passing zone ends",
+        "Before you reach the start of a no passing zone"
+      ],
+      "h1": "Think about where the solid line on your side begins.",
+      "h2": "In Maine, the law says you must finish a pass before you reach the beginning of a no passing zone.",
+      "p": "Right. Finish passing before the no passing zone begins."
+    },
+    "es": {
+      "q": "En Maine, usted está rebasando a un carro en una carretera de dos carriles. ¿Para cuándo debe terminar de rebasar?",
+      "o": [
+        "Solo antes de la próxima intersección",
+        "Dentro de 30 segundos",
+        "Después de que termine la zona de no rebasar",
+        "Antes de llegar al comienzo de una zona de no rebasar"
+      ],
+      "h1": "Piense en dónde empieza la línea continua de su lado.",
+      "h2": "En Maine, la ley dice que debe terminar de rebasar antes de llegar al comienzo de una zona de no rebasar.",
+      "p": "Correcto. Termine de rebasar antes de que empiece la zona de no rebasar."
+    }
+  },
+  {
+    "id": "me-050",
+    "scope": "ME",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "11-8",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Maine, a 16-year-old rides in a pickup truck to go shopping. Where must the teen ride?",
+      "o": [
+        "In the open cargo bed",
+        "Inside the passenger compartment",
+        "Anywhere, if the truck goes slowly",
+        "In the bed, if an adult rides there too"
+      ],
+      "h1": "The rule covers passengers under 19.",
+      "h2": "In Maine, a passenger under 19 in a pickup truck must ride inside the passenger compartment, except in a few cases such as work or a parade.",
+      "p": "Right. The teen must ride inside the cab."
+    },
+    "es": {
+      "q": "En Maine, un joven de 16 años va en una camioneta pickup de compras. ¿Dónde debe viajar?",
+      "o": [
+        "En la caja de carga abierta",
+        "Dentro de la cabina de pasajeros",
+        "En cualquier lugar, si la camioneta va despacio",
+        "En la caja, si un adulto también va allí"
+      ],
+      "h1": "La regla cubre a los pasajeros menores de 19 años.",
+      "h2": "En Maine, un pasajero menor de 19 años en una camioneta pickup debe viajar dentro de la cabina de pasajeros, salvo en algunos casos como el trabajo o un desfile.",
+      "p": "Correcto. El joven debe viajar dentro de la cabina."
+    }
+  },
+  {
+    "id": "me-051",
+    "scope": "ME",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "11-7",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maine, in which months do crashes with moose increase the most?",
+      "o": [
+        "January and February",
+        "December and March",
+        "May and June",
+        "July and August"
+      ],
+      "h1": "It is late spring.",
+      "h2": "In Maine, crashes with moose rise sharply in May and June, though they can happen in any month.",
+      "p": "Right. May and June are the peak months for moose crashes."
+    },
+    "es": {
+      "q": "En Maine, ¿en qué meses aumentan más los choques con alces (moose)?",
+      "o": [
+        "Enero y febrero",
+        "Diciembre y marzo",
+        "Mayo y junio",
+        "Julio y agosto"
+      ],
+      "h1": "Es a finales de la primavera.",
+      "h2": "En Maine, los choques con alces aumentan mucho en mayo y junio, aunque pueden ocurrir en cualquier mes.",
+      "p": "Correcto. Mayo y junio son los meses con más choques con alces."
+    }
   }
 ]
