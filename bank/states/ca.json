@@ -6401,7 +6401,7 @@
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In California, an adult driver gets 6 points. Within how many months can that lead to a suspension?",
+      "q": "In California, an adult driver's point total can lead to a suspension. For 6 points, what is the longest time period they can be spread over?",
       "o": [
         "6 months",
         "12 months",
@@ -6409,11 +6409,11 @@
         "60 months"
       ],
       "h1": "The handbook list goes 4 points, 6 points, 8 points, with a longer time for each.",
-      "h2": "In California, an adult's license may be suspended for 6 points in 24 months.",
+      "h2": "In California, an adult's license may be suspended for 6 points within 24 months.",
       "p": "Right. 6 points in 24 months."
     },
     "es": {
-      "q": "En California, un conductor adulto acumula 6 puntos. ¿En cuántos meses eso puede causar una suspensión?",
+      "q": "En California, el total de puntos de un conductor adulto puede causar una suspensión. Para 6 puntos, ¿cuál es el período más largo en que pueden acumularse?",
       "o": [
         "6 meses",
         "12 meses",
@@ -6421,7 +6421,7 @@
         "60 meses"
       ],
       "h1": "La lista del manual va de 4 puntos a 6 y a 8, con más tiempo para cada uno.",
-      "h2": "En California, la licencia de un adulto puede ser suspendida por 6 puntos en 24 meses.",
+      "h2": "En California, la licencia de un adulto puede ser suspendida por 6 puntos dentro de 24 meses.",
       "p": "Correcto. 6 puntos en 24 meses."
     }
   },
