@@ -5838,5 +5838,957 @@
       "h2": "Las emociones fuertes como el enojo pueden hacer que se arriesgue y preste menos atención, así que espere hasta estar tranquilo antes de manejar.",
       "p": "Correcto. Cálmese primero."
     }
+  },
+  {
+    "id": "safe-driving-079",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Your car has anti-lock brakes (ABS). You must stop fast in an emergency. What should you do?",
+      "o": [
+        "Pump the brake pedal quickly",
+        "Press the brake lightly and let go",
+        "Pull the parking brake",
+        "Press the brake pedal hard and hold it down"
+      ],
+      "h1": "ABS does the pumping for you.",
+      "h2": "With anti-lock brakes, press the pedal hard and keep holding it; you may feel the pedal pulse, which is normal, and you can still steer.",
+      "p": "Right. Press hard and hold."
+    },
+    "es": {
+      "q": "Su carro tiene frenos antibloqueo (ABS). Debe pararse rápido en una emergencia. ¿Qué debe hacer?",
+      "o": [
+        "Bombear el freno rápidamente",
+        "Pisar el freno suave y soltarlo",
+        "Jalar el freno de mano",
+        "Pisar el freno con fuerza y mantenerlo pisado"
+      ],
+      "h1": "El ABS hace el bombeo por usted.",
+      "h2": "Con frenos antibloqueo, pise el pedal con fuerza y manténgalo pisado; puede sentir que el pedal vibra, lo cual es normal, y todavía puede girar el volante.",
+      "p": "Correcto. Pise fuerte y mantenga."
+    }
+  },
+  {
+    "id": "safe-driving-080",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Your brakes fail, and pumping the pedal does not help. What should you try next?",
+      "o": [
+        "Use the parking brake slowly and shift to a lower gear",
+        "Turn off the engine and pull the key",
+        "Shift into reverse",
+        "Open the door and drag your foot"
+      ],
+      "h1": "Use another way to slow the car gently.",
+      "h2": "If pumping does not bring the brakes back, apply the parking brake gradually and shift to a lower gear to slow down, then steer to a safe place.",
+      "p": "Right. Parking brake slowly and a lower gear."
+    },
+    "es": {
+      "q": "Los frenos fallan y bombear el pedal no ayuda. ¿Qué debe intentar después?",
+      "o": [
+        "Usar el freno de mano poco a poco y pasar a un cambio más bajo",
+        "Apagar el motor y sacar la llave",
+        "Poner reversa",
+        "Abrir la puerta y arrastrar el pie"
+      ],
+      "h1": "Use otra forma de frenar el carro con suavidad.",
+      "h2": "Si bombear no recupera los frenos, use el freno de mano poco a poco y pase a un cambio más bajo para reducir la velocidad, y luego diríjase a un lugar seguro.",
+      "p": "Correcto. Freno de mano poco a poco y un cambio más bajo."
+    }
+  },
+  {
+    "id": "safe-driving-081",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "The temperature light comes on and your engine is overheating. What should you do?",
+      "o": [
+        "Keep driving fast to cool the engine",
+        "Pull off safely, turn off the engine, and do not open the radiator cap while it is hot",
+        "Open the radiator cap right away",
+        "Pour cold water on the hot engine"
+      ],
+      "h1": "Hot coolant is under pressure.",
+      "h2": "If your engine overheats, pull off safely and turn it off; never open the radiator cap while hot, because boiling coolant can burn you.",
+      "p": "Right. Pull off and leave the cap closed."
+    },
+    "es": {
+      "q": "Se enciende la luz de temperatura y el motor se está recalentando. ¿Qué debe hacer?",
+      "o": [
+        "Seguir rápido para enfriar el motor",
+        "Orillarse con seguridad, apagar el motor y no abrir la tapa del radiador mientras esté caliente",
+        "Abrir enseguida la tapa del radiador",
+        "Echar agua fría sobre el motor caliente"
+      ],
+      "h1": "El refrigerante caliente está bajo presión.",
+      "h2": "Si el motor se recalienta, oríllese con seguridad y apáguelo; nunca abra la tapa del radiador caliente, porque el refrigerante hirviendo puede quemarlo.",
+      "p": "Correcto. Oríllese y no abra la tapa."
+    }
+  },
+  {
+    "id": "safe-driving-082",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Your headlights suddenly go out at night. What should you do?",
+      "o": [
+        "Keep driving in the dark",
+        "Stop in your lane",
+        "Try the headlight switch and hazard lights, slow down, and pull off safely",
+        "Follow close behind another car"
+      ],
+      "h1": "Other drivers must be able to see you.",
+      "h2": "If your headlights fail, try the switches and turn on hazard lights, then slow down and pull off the road as safely as you can.",
+      "p": "Right. Try the switches and pull off safely."
+    },
+    "es": {
+      "q": "Los faros se apagan de repente de noche. ¿Qué debe hacer?",
+      "o": [
+        "Seguir manejando a oscuras",
+        "Pararse en su carril",
+        "Probar el interruptor de luces y las luces de emergencia, bajar la velocidad y orillarse con seguridad",
+        "Seguir de cerca a otro carro"
+      ],
+      "h1": "Los demás deben poder verlo.",
+      "h2": "Si fallan los faros, pruebe los interruptores y encienda las luces de emergencia, luego baje la velocidad y salga de la vía con la mayor seguridad posible.",
+      "p": "Correcto. Pruebe los interruptores y oríllese."
+    }
+  },
+  {
+    "id": "safe-driving-083",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "While you are driving, the hood flies up and blocks your view. What should you do?",
+      "o": [
+        "Brake hard in your lane",
+        "Get out to close it while moving",
+        "Speed up so the wind closes it",
+        "Look through the gap under the hood or out the side window, slow down, and pull off"
+      ],
+      "h1": "Keep control and find another way to see.",
+      "h2": "If the hood flies up, look through the gap below it or out the side window, slow down, and pull off the road safely.",
+      "p": "Right. Find a way to see, then pull off."
+    },
+    "es": {
+      "q": "Mientras maneja, el capó se levanta y le tapa la vista. ¿Qué debe hacer?",
+      "o": [
+        "Frenar fuerte en su carril",
+        "Bajarse a cerrarlo con el carro en marcha",
+        "Acelerar para que el viento lo cierre",
+        "Mirar por el espacio debajo del capó o por la ventana lateral, bajar la velocidad y orillarse"
+      ],
+      "h1": "Mantenga el control y busque otra forma de ver.",
+      "h2": "Si el capó se levanta, mire por el espacio de abajo o por la ventana lateral, baje la velocidad y salga de la vía con seguridad.",
+      "p": "Correcto. Busque cómo ver y oríllese."
+    }
+  },
+  {
+    "id": "safe-driving-084",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "You see smoke or flames coming from your car. What should you do?",
+      "o": [
+        "Pull over, turn off the engine, get everyone out and move far away",
+        "Keep driving to a gas station",
+        "Open the hood to look",
+        "Stay inside with the windows closed"
+      ],
+      "h1": "People matter more than the car.",
+      "h2": "If your car is on fire, pull over, turn off the engine, get everyone out and well away from the car, and call 911.",
+      "p": "Right. Get everyone out and away."
+    },
+    "es": {
+      "q": "Ve humo o llamas saliendo de su carro. ¿Qué debe hacer?",
+      "o": [
+        "Orillarse, apagar el motor, sacar a todos y alejarse bastante",
+        "Seguir manejando hasta una gasolinera",
+        "Abrir el capó para mirar",
+        "Quedarse adentro con las ventanas cerradas"
+      ],
+      "h1": "Las personas importan más que el carro.",
+      "h2": "Si su carro se incendia, oríllese, apague el motor, saque a todos y aléjense bien del carro, y llame al 911.",
+      "p": "Correcto. Saque a todos y aléjense."
+    }
+  },
+  {
+    "id": "safe-driving-085",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Your car breaks down on a highway. What should you do?",
+      "o": [
+        "Stop in your lane and wait",
+        "Pull as far off the road as you can and turn on your hazard lights",
+        "Walk along the lanes to find help",
+        "Leave the lights off to save the battery"
+      ],
+      "h1": "Other drivers need to see and avoid your car.",
+      "h2": "If your car breaks down, get as far off the road as possible and turn on your hazard lights so other drivers can see you.",
+      "p": "Right. Get off the road and use hazard lights."
+    },
+    "es": {
+      "q": "Su carro se descompone en la carretera. ¿Qué debe hacer?",
+      "o": [
+        "Pararse en su carril y esperar",
+        "Salirse de la vía lo más que pueda y encender las luces de emergencia",
+        "Caminar por los carriles para buscar ayuda",
+        "Dejar las luces apagadas para ahorrar batería"
+      ],
+      "h1": "Los demás deben ver su carro y esquivarlo.",
+      "h2": "Si su carro se descompone, salga de la vía lo más que pueda y encienda las luces de emergencia para que los demás lo vean.",
+      "p": "Correcto. Salga de la vía y use las luces de emergencia."
+    }
+  },
+  {
+    "id": "safe-driving-086",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "A car is coming toward you in your lane. What should you do?",
+      "o": [
+        "Steer into the left lane",
+        "Speed up",
+        "Slow down, honk, and steer to the right",
+        "Stop in your lane and wait"
+      ],
+      "h1": "The other driver may move back to their own lane.",
+      "h2": "If a car comes at you in your lane, slow down, sound your horn and steer right, toward the shoulder; do not swerve left into its lane.",
+      "p": "Right. Slow, honk and move right."
+    },
+    "es": {
+      "q": "Un carro viene hacia usted en su carril. ¿Qué debe hacer?",
+      "o": [
+        "Girar al carril izquierdo",
+        "Acelerar",
+        "Bajar la velocidad, tocar la bocina y girar a la derecha",
+        "Pararse en su carril y esperar"
+      ],
+      "h1": "El otro conductor puede volver a su carril.",
+      "h2": "Si un carro viene hacia usted en su carril, baje la velocidad, toque la bocina y gire a la derecha, hacia el acotamiento; no se desvíe a la izquierda, a su carril.",
+      "p": "Correcto. Baje la velocidad, toque la bocina y vaya a la derecha."
+    }
+  },
+  {
+    "id": "safe-driving-087",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "You stop to help at a crash. A person is hurt but there is no fire or other danger. What should you do?",
+      "o": [
+        "Pull the person out of the car",
+        "Give the person something to drink",
+        "Drive the person to the hospital yourself",
+        "Call 911 and do not move the person"
+      ],
+      "h1": "Moving an injured person can make injuries worse.",
+      "h2": "Do not move an injured person unless there is danger such as fire; call 911 and wait with them for help.",
+      "p": "Right. Call 911 and do not move them."
+    },
+    "es": {
+      "q": "Usted se para a ayudar en un choque. Una persona está herida, pero no hay fuego ni otro peligro. ¿Qué debe hacer?",
+      "o": [
+        "Sacar a la persona del carro",
+        "Darle algo de beber",
+        "Llevarla usted mismo al hospital",
+        "Llamar al 911 y no mover a la persona"
+      ],
+      "h1": "Mover a un herido puede empeorar sus lesiones.",
+      "h2": "No mueva a una persona herida salvo que haya un peligro como fuego; llame al 911 y espere con ella hasta que llegue ayuda.",
+      "p": "Correcto. Llame al 911 y no la mueva."
+    }
+  },
+  {
+    "id": "safe-driving-088",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Tires, https://www.nhtsa.gov/vehicle-safety/tires",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "How can you lower your chance of hydroplaning?",
+      "o": [
+        "Slow down on wet roads and keep good tread and the right air pressure in your tires",
+        "Drive faster to get through the water",
+        "Use cruise control in the rain",
+        "Let air out of your tires"
+      ],
+      "h1": "Speed and worn tires make hydroplaning more likely.",
+      "h2": "To lower the risk of hydroplaning, slow down when the road is wet and keep your tires properly inflated with good tread.",
+      "p": "Right. Slow down and keep good tires."
+    },
+    "es": {
+      "q": "¿Cómo puede reducir el riesgo de hidroplaneo?",
+      "o": [
+        "Bajando la velocidad en vías mojadas y manteniendo buen dibujo y la presión correcta en las llantas",
+        "Manejando más rápido para pasar el agua",
+        "Usando el control de crucero con lluvia",
+        "Sacándoles aire a las llantas"
+      ],
+      "h1": "La velocidad y las llantas gastadas hacen más probable el hidroplaneo.",
+      "h2": "Para reducir el riesgo de hidroplaneo, baje la velocidad cuando la vía está mojada y mantenga las llantas bien infladas y con buen dibujo.",
+      "p": "Correcto. Baje la velocidad y mantenga buenas llantas."
+    }
+  },
+  {
+    "id": "safe-driving-089",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "National Weather Service, Fog Safety, https://www.weather.gov/safety/fog",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "The fog becomes so thick that you can barely see. What is the safest thing to do?",
+      "o": [
+        "Stop in your lane",
+        "Pull completely off the road, away from traffic, and turn on your hazard lights",
+        "Speed up to get out of the fog",
+        "Turn on your high beams"
+      ],
+      "h1": "Stopping in a lane in fog invites a rear-end crash.",
+      "h2": "If fog is too thick to drive safely, pull completely off the road away from traffic, turn on your hazard lights, and wait for it to clear.",
+      "p": "Right. Pull fully off the road and use hazard lights."
+    },
+    "es": {
+      "q": "La niebla se vuelve tan espesa que casi no ve. ¿Qué es lo más seguro?",
+      "o": [
+        "Pararse en su carril",
+        "Salirse por completo de la vía, lejos del tráfico, y encender las luces de emergencia",
+        "Acelerar para salir de la niebla",
+        "Encender las luces altas"
+      ],
+      "h1": "Pararse en un carril con niebla invita a que lo choquen por detrás.",
+      "h2": "Si la niebla es demasiado espesa para manejar con seguridad, salga por completo de la vía lejos del tráfico, encienda las luces de emergencia y espere a que se despeje.",
+      "p": "Correcto. Salga de la vía y use las luces de emergencia."
+    }
+  },
+  {
+    "id": "safe-driving-090",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "National Weather Service, Fog Safety, https://www.weather.gov/safety/fog",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You are driving slowly in fog. What can help you stay in your lane?",
+      "o": [
+        "Follow the center line closely",
+        "Follow the taillights of the car ahead very closely",
+        "Use the white line on the right edge of the road as a guide",
+        "Look at the car beside you"
+      ],
+      "h1": "The edge line is away from oncoming traffic.",
+      "h2": "In fog, use the right edge line as a guide to stay in your lane, and keep a safe distance from the car ahead.",
+      "p": "Right. Use the right edge line."
+    },
+    "es": {
+      "q": "Usted maneja despacio en la niebla. ¿Qué le puede ayudar a mantenerse en su carril?",
+      "o": [
+        "Seguir de cerca la línea central",
+        "Seguir muy de cerca las luces traseras del carro de adelante",
+        "Usar como guía la línea blanca de la orilla derecha",
+        "Mirar al carro de al lado"
+      ],
+      "h1": "La línea de la orilla está lejos del tráfico de frente.",
+      "h2": "Con niebla, use la línea de la orilla derecha como guía para mantenerse en su carril, y guarde una distancia segura con el carro de adelante.",
+      "p": "Correcto. Use la línea de la orilla derecha."
+    }
+  },
+  {
+    "id": "safe-driving-091",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "At night, the headlights of a car behind you shine in your rearview mirror. What can you do?",
+      "o": [
+        "Brake to make the driver back off",
+        "Turn on your high beams",
+        "Look away from the road",
+        "Flip the mirror to its night setting"
+      ],
+      "h1": "Most inside mirrors have a tab or dim automatically.",
+      "h2": "Use the night setting on your rearview mirror to reduce glare from headlights behind you.",
+      "p": "Right. Use the mirror's night setting."
+    },
+    "es": {
+      "q": "De noche, los faros de un carro detrás de usted brillan en el espejo retrovisor. ¿Qué puede hacer?",
+      "o": [
+        "Frenar para que se aleje",
+        "Encender las luces altas",
+        "Dejar de mirar la vía",
+        "Poner el espejo en la posición de noche"
+      ],
+      "h1": "La mayoría de los espejos interiores tienen una palanca o se oscurecen solos.",
+      "h2": "Use la posición de noche del espejo retrovisor para reducir el reflejo de los faros que vienen detrás.",
+      "p": "Correcto. Use la posición de noche del espejo."
+    }
+  },
+  {
+    "id": "safe-driving-092",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "You are driving toward a low, bright sun and the glare makes it hard to see. What should you do?",
+      "o": [
+        "Use your sun visor and sunglasses, and slow down",
+        "Speed up to get past the glare",
+        "Close one eye",
+        "Follow the car ahead more closely"
+      ],
+      "h1": "If you see less, you need more time.",
+      "h2": "In sun glare, lower the visor, wear sunglasses, keep your windshield clean and slow down, leaving extra space ahead.",
+      "p": "Right. Visor, sunglasses, and slow down."
+    },
+    "es": {
+      "q": "Usted maneja hacia un sol bajo y brillante, y el reflejo no lo deja ver bien. ¿Qué debe hacer?",
+      "o": [
+        "Usar el parasol y lentes de sol, y bajar la velocidad",
+        "Acelerar para pasar el reflejo",
+        "Cerrar un ojo",
+        "Seguir más de cerca al carro de adelante"
+      ],
+      "h1": "Si ve menos, necesita más tiempo.",
+      "h2": "Con el reflejo del sol, baje el parasol, use lentes de sol, mantenga limpio el parabrisas y baje la velocidad, dejando más espacio adelante.",
+      "p": "Correcto. Parasol, lentes de sol y menos velocidad."
+    }
+  },
+  {
+    "id": "safe-driving-093",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Why should your windshield be clean inside and out, especially at night?",
+      "o": [
+        "It makes the car faster",
+        "Dirt and film scatter light and make glare worse",
+        "It keeps the wipers from working",
+        "It does not matter at night"
+      ],
+      "h1": "Lights from other cars hit your windshield.",
+      "h2": "A dirty windshield, inside or out, spreads the light from other headlights and makes glare much worse, so keep it clean.",
+      "p": "Right. Dirt makes glare worse."
+    },
+    "es": {
+      "q": "¿Por qué el parabrisas debe estar limpio por dentro y por fuera, sobre todo de noche?",
+      "o": [
+        "Porque el carro va más rápido",
+        "Porque la suciedad dispersa la luz y empeora el reflejo",
+        "Porque así no funcionan los limpiaparabrisas",
+        "No importa de noche"
+      ],
+      "h1": "Las luces de los otros carros dan en su parabrisas.",
+      "h2": "Un parabrisas sucio, por dentro o por fuera, dispersa la luz de los otros faros y empeora mucho el reflejo, así que manténgalo limpio.",
+      "p": "Correcto. La suciedad empeora el reflejo."
+    }
+  },
+  {
+    "id": "safe-driving-094",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "National Weather Service, Winter Safety, https://www.weather.gov/safety/winter",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Before you drive after a snowfall, what should you clear off your car?",
+      "o": [
+        "Only a small spot on the windshield",
+        "Only the driver's window",
+        "All snow and ice from the windows, mirrors, lights and roof",
+        "Nothing; it will blow off"
+      ],
+      "h1": "You need to see and be seen, and snow can fly off.",
+      "h2": "Clear all snow and ice from every window, mirror and light, and from the roof, so you can see, others can see you, and snow does not fly off onto other cars.",
+      "p": "Right. Clear it all off."
+    },
+    "es": {
+      "q": "Antes de manejar después de una nevada, ¿qué debe limpiar de su carro?",
+      "o": [
+        "Solo una parte pequeña del parabrisas",
+        "Solo la ventana del conductor",
+        "Toda la nieve y el hielo de las ventanas, espejos, luces y techo",
+        "Nada; se volará solo"
+      ],
+      "h1": "Necesita ver y que lo vean, y la nieve puede salir volando.",
+      "h2": "Quite toda la nieve y el hielo de cada ventana, espejo y luz, y del techo, para ver, para que lo vean, y para que la nieve no caiga sobre otros carros.",
+      "p": "Correcto. Quítelo todo."
+    }
+  },
+  {
+    "id": "safe-driving-095",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "FHWA, Road Weather Management, https://ops.fhwa.dot.gov/weather/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "What is \"black ice\", and where is it most likely?",
+      "o": [
+        "Dirty snow on the shoulder",
+        "Ice that is easy to see because it is dark",
+        "Ice that forms only in the afternoon sun",
+        "A thin, clear layer of ice that looks like wet road, often on bridges and in shade"
+      ],
+      "h1": "You often cannot see it.",
+      "h2": "Black ice is a thin, clear coat of ice that looks like a wet road; it forms most often on bridges, overpasses and shaded spots.",
+      "p": "Right. Clear ice that looks wet, often on bridges and in shade."
+    },
+    "es": {
+      "q": "¿Qué es el \"hielo negro\" y dónde es más probable?",
+      "o": [
+        "Nieve sucia en el acotamiento",
+        "Hielo fácil de ver porque es oscuro",
+        "Hielo que se forma solo con el sol de la tarde",
+        "Una capa fina y transparente de hielo que parece vía mojada, a menudo en puentes y en la sombra"
+      ],
+      "h1": "Muchas veces no se puede ver.",
+      "h2": "El hielo negro es una capa fina y transparente de hielo que parece vía mojada; se forma sobre todo en puentes, pasos elevados y lugares con sombra.",
+      "p": "Correcto. Hielo transparente que parece mojado, a menudo en puentes y en la sombra."
+    }
+  },
+  {
+    "id": "safe-driving-096",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "FHWA, Road Weather Management, https://ops.fhwa.dot.gov/weather/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "How should you drive on snow or ice?",
+      "o": [
+        "Speed up, brake and steer gently, and leave much more space",
+        "Brake hard to test the grip",
+        "Use cruise control",
+        "Make quick turns to stay in control"
+      ],
+      "h1": "Sudden moves make tires slide.",
+      "h2": "On snow or ice, do everything gently: accelerate, brake and steer smoothly, drive slower, and leave much more space ahead.",
+      "p": "Right. Gentle moves and more space."
+    },
+    "es": {
+      "q": "¿Cómo debe manejar sobre nieve o hielo?",
+      "o": [
+        "Acelerar, frenar y girar con suavidad, y dejar mucho más espacio",
+        "Frenar fuerte para probar el agarre",
+        "Usar el control de crucero",
+        "Hacer giros rápidos para mantener el control"
+      ],
+      "h1": "Los movimientos bruscos hacen patinar las llantas.",
+      "h2": "Sobre nieve o hielo, haga todo con suavidad: acelere, frene y gire suavemente, maneje más despacio y deje mucho más espacio adelante.",
+      "p": "Correcto. Movimientos suaves y más espacio."
+    }
+  },
+  {
+    "id": "safe-driving-097",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "National Weather Service, Winter Safety, https://www.weather.gov/safety/winter",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Your car is stuck in deep snow and you run the engine for heat. What must you check?",
+      "o": [
+        "That the radio works",
+        "That the exhaust pipe is clear of snow",
+        "That the windows are all shut tight",
+        "That the trunk is open"
+      ],
+      "h1": "Blocked exhaust can fill the car with a deadly gas.",
+      "h2": "If you run the engine while stuck in snow, keep the exhaust pipe clear, because a blocked pipe can fill the car with deadly carbon monoxide.",
+      "p": "Right. Keep the exhaust pipe clear."
+    },
+    "es": {
+      "q": "Su carro está atascado en nieve profunda y usted enciende el motor para tener calefacción. ¿Qué debe revisar?",
+      "o": [
+        "Que el radio funcione",
+        "Que el tubo de escape no esté tapado con nieve",
+        "Que todas las ventanas estén bien cerradas",
+        "Que el maletero esté abierto"
+      ],
+      "h1": "Un escape tapado puede llenar el carro de un gas mortal.",
+      "h2": "Si enciende el motor estando atascado en la nieve, mantenga libre el tubo de escape, porque si se tapa puede llenar el carro de monóxido de carbono, que es mortal.",
+      "p": "Correcto. Mantenga libre el tubo de escape."
+    }
+  },
+  {
+    "id": "safe-driving-098",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "National Weather Service, Turn Around Don't Drown, https://www.weather.gov/safety/flood-turn-around-dont-drown",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "How deep must moving water be to float many cars?",
+      "o": [
+        "About 5 feet",
+        "About 3 feet",
+        "About 12 inches (one foot)",
+        "Cars never float"
+      ],
+      "h1": "It takes much less water than people think.",
+      "h2": "About 12 inches of moving water can float many cars, so never drive into a flooded road: turn around, do not drown.",
+      "p": "Right. About one foot of water."
+    },
+    "es": {
+      "q": "¿Qué profundidad debe tener el agua en movimiento para hacer flotar a muchos carros?",
+      "o": [
+        "Unos 5 pies",
+        "Unos 3 pies",
+        "Unas 12 pulgadas (un pie)",
+        "Los carros nunca flotan"
+      ],
+      "h1": "Se necesita mucha menos agua de lo que la gente cree.",
+      "h2": "Unas 12 pulgadas de agua en movimiento pueden hacer flotar a muchos carros, así que nunca entre a una vía inundada: dé la vuelta.",
+      "p": "Correcto. Más o menos un pie de agua."
+    }
+  },
+  {
+    "id": "safe-driving-099",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Tires, https://www.nhtsa.gov/vehicle-safety/tires",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Where do you find the right air pressure for your car's tires?",
+      "o": [
+        "On the side of the tire, as the number to fill to",
+        "At any gas station sign",
+        "It is the same for every car",
+        "On the sticker inside the driver's door or in the owner's manual"
+      ],
+      "h1": "The number on the tire is the most it can hold.",
+      "h2": "The correct tire pressure is on the sticker in the driver's door frame or in the owner's manual; the number on the tire is the maximum, not the target.",
+      "p": "Right. On the door sticker or in the manual."
+    },
+    "es": {
+      "q": "¿Dónde encuentra la presión de aire correcta para las llantas de su carro?",
+      "o": [
+        "En el costado de la llanta, como la cifra a la que debe inflar",
+        "En cualquier letrero de gasolinera",
+        "Es igual para todos los carros",
+        "En la etiqueta dentro de la puerta del conductor o en el manual del dueño"
+      ],
+      "h1": "La cifra en la llanta es lo máximo que aguanta.",
+      "h2": "La presión correcta está en la etiqueta del marco de la puerta del conductor o en el manual del dueño; la cifra en la llanta es la máxima, no la recomendada.",
+      "p": "Correcto. En la etiqueta de la puerta o en el manual."
+    }
+  },
+  {
+    "id": "safe-driving-100",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Tires, https://www.nhtsa.gov/vehicle-safety/tires",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "When is the best time to check tire pressure?",
+      "o": [
+        "When the tires are cold, before driving far",
+        "Right after a long drive",
+        "Only once a year",
+        "Only when a tire looks flat"
+      ],
+      "h1": "Driving warms the tires and raises the reading.",
+      "h2": "Check tire pressure when the tires are cold, before you have driven far, because warm tires give a higher reading.",
+      "p": "Right. When the tires are cold."
+    },
+    "es": {
+      "q": "¿Cuál es el mejor momento para revisar la presión de las llantas?",
+      "o": [
+        "Cuando las llantas están frías, antes de manejar mucho",
+        "Justo después de un viaje largo",
+        "Solo una vez al año",
+        "Solo cuando una llanta se ve desinflada"
+      ],
+      "h1": "Manejar calienta las llantas y sube la lectura.",
+      "h2": "Revise la presión cuando las llantas están frías, antes de haber manejado mucho, porque las llantas calientes dan una lectura más alta.",
+      "p": "Correcto. Cuando las llantas están frías."
+    }
+  },
+  {
+    "id": "safe-driving-101",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Tires, https://www.nhtsa.gov/vehicle-safety/tires",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Small raised bars run across the grooves of your tire tread. The tread is now even with these bars. What does it mean?",
+      "o": [
+        "The tires are brand new",
+        "The tires are worn out and should be replaced",
+        "The tires need more air",
+        "The tires are made for snow"
+      ],
+      "h1": "These bars are tread wear indicators.",
+      "h2": "When the tread is worn down even with the wear bars, the tires no longer grip well, especially on wet roads, and should be replaced.",
+      "p": "Right. Time for new tires."
+    },
+    "es": {
+      "q": "Unas pequeñas barras elevadas cruzan las ranuras del dibujo de su llanta. El dibujo ya está al nivel de esas barras. ¿Qué significa?",
+      "o": [
+        "Que las llantas son nuevas",
+        "Que las llantas están gastadas y deben cambiarse",
+        "Que les falta aire",
+        "Que son llantas para nieve"
+      ],
+      "h1": "Estas barras son indicadores de desgaste.",
+      "h2": "Cuando el dibujo se gastó hasta el nivel de las barras de desgaste, las llantas ya no se agarran bien, sobre todo en vías mojadas, y deben cambiarse.",
+      "p": "Correcto. Es hora de llantas nuevas."
+    }
+  },
+  {
+    "id": "safe-driving-102",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "FHWA, Rumble Strips and Rumble Stripes, https://highways.dot.gov/safety/rwd/reduce-crash-severity/rumble-strips-and-rumble-stripes",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Your tires suddenly make a loud rumbling noise from grooves cut in the edge of the road. What does it mean?",
+      "o": [
+        "Your tire is flat",
+        "You must stop right away",
+        "You are drifting out of your lane; steer back gently",
+        "The road is about to end"
+      ],
+      "h1": "Rumble strips are meant to wake you up.",
+      "h2": "Rumble strips at the edge or center of the road warn that you are drifting out of your lane, so steer back gently and stay alert.",
+      "p": "Right. You are drifting; steer back gently."
+    },
+    "es": {
+      "q": "De repente sus llantas hacen un ruido fuerte por unas ranuras en la orilla de la vía. ¿Qué significa?",
+      "o": [
+        "Que tiene una llanta desinflada",
+        "Que debe pararse enseguida",
+        "Que se está saliendo del carril; vuelva con suavidad",
+        "Que la vía va a terminar"
+      ],
+      "h1": "Las bandas sonoras están hechas para despertarlo.",
+      "h2": "Las bandas sonoras en la orilla o el centro de la vía advierten que se está saliendo del carril, así que vuelva con suavidad y manténgase alerta.",
+      "p": "Correcto. Se está saliendo; vuelva con suavidad."
+    }
+  },
+  {
+    "id": "safe-driving-103",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "FHWA, Work Zone Management, https://ops.fhwa.dot.gov/wz/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "What kind of crash is the most common in work zones?",
+      "o": [
+        "Head-on crashes with trucks",
+        "Crashes with trains",
+        "Crashes in parking lots",
+        "Rear-end crashes, so keep extra space and expect sudden stops"
+      ],
+      "h1": "Traffic in work zones often slows or stops without warning.",
+      "h2": "Rear-end crashes are the most common in work zones, so leave extra space ahead and be ready for sudden slowdowns.",
+      "p": "Right. Rear-end crashes; keep extra space."
+    },
+    "es": {
+      "q": "¿Qué tipo de choque es el más común en las zonas de obras?",
+      "o": [
+        "Los choques de frente con camiones",
+        "Los choques con trenes",
+        "Los choques en estacionamientos",
+        "Los choques por detrás, así que deje más espacio y espere frenadas repentinas"
+      ],
+      "h1": "En las zonas de obras el tráfico muchas veces frena o se para sin aviso.",
+      "h2": "Los choques por detrás son los más comunes en las zonas de obras, así que deje más espacio adelante y esté listo para frenadas repentinas.",
+      "p": "Correcto. Choques por detrás; deje más espacio."
+    }
+  },
+  {
+    "id": "safe-driving-104",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "What does \"defensive driving\" mean?",
+      "o": [
+        "Expecting others to make mistakes and being ready to avoid them",
+        "Driving fast to get away from danger",
+        "Never letting anyone merge in front of you",
+        "Honking whenever someone is in your way"
+      ],
+      "h1": "Plan for other people's errors.",
+      "h2": "Defensive driving means watching for hazards, expecting other road users to make mistakes, and leaving yourself time and space to avoid a crash.",
+      "p": "Right. Expect mistakes and be ready."
+    },
+    "es": {
+      "q": "¿Qué significa \"manejo defensivo\"?",
+      "o": [
+        "Esperar que los demás cometan errores y estar listo para evitarlos",
+        "Manejar rápido para alejarse del peligro",
+        "No dejar nunca que alguien se meta delante",
+        "Tocar la bocina cuando alguien estorba"
+      ],
+      "h1": "Prepárese para los errores de los demás.",
+      "h2": "El manejo defensivo es estar atento a los peligros, esperar que los demás cometan errores y dejarse tiempo y espacio para evitar un choque.",
+      "p": "Correcto. Espere errores y esté listo."
+    }
+  },
+  {
+    "id": "safe-driving-105",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "You are waiting to turn and a person is about to cross in front of you. How can you be sure they know you see them?",
+      "o": [
+        "Flash your high beams",
+        "Make eye contact with the person",
+        "Honk loudly",
+        "Rev your engine"
+      ],
+      "h1": "People feel safer when they know a driver has seen them.",
+      "h2": "Making eye contact with people walking, bicycling or driving helps you both know you have seen each other before anyone moves.",
+      "p": "Right. Make eye contact."
+    },
+    "es": {
+      "q": "Usted espera para girar y una persona va a cruzar delante de usted. ¿Cómo puede asegurarse de que ella sabe que usted la vio?",
+      "o": [
+        "Haciendo cambio de luces",
+        "Haciendo contacto visual con la persona",
+        "Tocando la bocina fuerte",
+        "Acelerando el motor"
+      ],
+      "h1": "La gente se siente más segura si sabe que el conductor la vio.",
+      "h2": "Hacer contacto visual con quien camina, va en bicicleta o maneja ayuda a que ambos sepan que se vieron antes de moverse.",
+      "p": "Correcto. Haga contacto visual."
+    }
+  },
+  {
+    "id": "safe-driving-106",
+    "scope": "US",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Why is it dangerous to use cruise control on wet or icy roads?",
+      "o": [
+        "Cruise control uses more gas in the rain",
+        "It turns off your headlights",
+        "If the tires slip, the car may keep pushing and you may lose control",
+        "It is not dangerous"
+      ],
+      "h1": "You want full control of the gas pedal when grip is poor.",
+      "h2": "On wet or icy roads, cruise control can keep the wheels pushing when they slip, which can make you skid, so control the speed yourself.",
+      "p": "Right. It can make a skid worse."
+    },
+    "es": {
+      "q": "¿Por qué es peligroso usar el control de crucero en vías mojadas o con hielo?",
+      "o": [
+        "Porque gasta más gasolina con lluvia",
+        "Porque apaga los faros",
+        "Porque si las llantas patinan, el carro puede seguir acelerando y usted puede perder el control",
+        "No es peligroso"
+      ],
+      "h1": "Con poco agarre, usted quiere controlar el acelerador.",
+      "h2": "En vías mojadas o con hielo, el control de crucero puede seguir empujando las ruedas cuando patinan, lo que puede hacerlo derrapar, así que controle usted la velocidad.",
+      "p": "Correcto. Puede empeorar un derrape."
+    }
   }
 ]
