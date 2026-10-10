@@ -2212,5 +2212,141 @@
       "h2": "في Louisiana عقوبة المخالفة الأولى لرمي النفايات البسيط هي غرامة $150 أو 8 ساعات من خدمة المجتمع.",
       "p": "صحيح. المخالفة الأولى $150 أو 8 ساعات من الخدمة."
     }
+  },
+  {
+    "id": "la-028",
+    "scope": "LA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 8,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Louisiana, what is the minimum vision standard on the eye screening?",
+      "o": [
+        "20/20",
+        "20/40",
+        "20/70",
+        "20/100"
+      ],
+      "h1": "You do not need perfect vision, but you need fairly good vision.",
+      "h2": "In Louisiana, the eye screening checks that your vision meets the minimum standard of 20/40.",
+      "p": "Right. The minimum is 20/40."
+    },
+    "es": {
+      "q": "En Luisiana, ¿cuál es la visión mínima que se exige en el examen de la vista?",
+      "o": [
+        "20/20",
+        "20/40",
+        "20/70",
+        "20/100"
+      ],
+      "h1": "No necesita una visión perfecta, pero sí bastante buena.",
+      "h2": "En Luisiana, el examen de la vista comprueba que su visión cumpla el mínimo de 20/40.",
+      "p": "Correcto. El mínimo es 20/40."
+    }
+  },
+  {
+    "id": "la-029",
+    "scope": "LA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Louisiana, how long is a driver's license good for before it expires?",
+      "o": [
+        "Two years",
+        "Four years",
+        "Six years",
+        "Ten years"
+      ],
+      "h1": "It lasts more than four years.",
+      "h2": "In Louisiana, a driver's license expires six years from your nearest birthday, and you may renew it up to 180 days early.",
+      "p": "Right. A license lasts six years."
+    },
+    "es": {
+      "q": "En Luisiana, ¿por cuánto tiempo es válida una licencia de conducir antes de vencer?",
+      "o": [
+        "Dos años",
+        "Cuatro años",
+        "Seis años",
+        "Diez años"
+      ],
+      "h1": "Dura más de cuatro años.",
+      "h2": "En Luisiana, la licencia de conducir vence seis años después de su cumpleaños más cercano, y puede renovarla hasta 180 días antes.",
+      "p": "Correcto. La licencia dura seis años."
+    }
+  },
+  {
+    "id": "la-030",
+    "scope": "LA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 70,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Louisiana, how close to a railroad crossing may you park?",
+      "o": [
+        "No closer than 50 feet",
+        "No closer than 15 feet",
+        "No closer than 25 feet",
+        "No closer than 100 feet"
+      ],
+      "h1": "It is farther than the distance for a fire hydrant.",
+      "h2": "In Louisiana, you may not park within 50 feet of a railroad crossing.",
+      "p": "Right. Stay at least 50 feet away from the tracks."
+    },
+    "es": {
+      "q": "En Luisiana, ¿qué tan cerca de un cruce de ferrocarril puede estacionarse?",
+      "o": [
+        "No a menos de 50 pies",
+        "No a menos de 15 pies",
+        "No a menos de 25 pies",
+        "No a menos de 100 pies"
+      ],
+      "h1": "Es más lejos que la distancia para un hidrante.",
+      "h2": "En Luisiana, no puede estacionarse a menos de 50 pies de un cruce de ferrocarril.",
+      "p": "Correcto. Quédese al menos a 50 pies de las vías."
+    }
+  },
+  {
+    "id": "la-031",
+    "scope": "LA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 75,
+    "src": "https://public.powerdms.com/LADPSC/documents/347039",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Louisiana, a car is coming toward you at night. Within what distance must you switch to low beams?",
+      "o": [
+        "100 feet",
+        "200 feet",
+        "300 feet",
+        "500 feet"
+      ],
+      "h1": "It is a longer distance than the one for following a car.",
+      "h2": "In Louisiana, you must use low beams when an oncoming vehicle is within 500 feet, or when you follow a vehicle within 200 feet.",
+      "p": "Right. Dim your lights within 500 feet of an oncoming car."
+    },
+    "es": {
+      "q": "En Luisiana, de noche viene un carro de frente. ¿A qué distancia debe cambiar a luces bajas?",
+      "o": [
+        "100 pies",
+        "200 pies",
+        "300 pies",
+        "500 pies"
+      ],
+      "h1": "Es una distancia mayor que la que se usa al seguir a otro carro.",
+      "h2": "En Luisiana, debe usar luces bajas cuando un vehículo que viene de frente está a menos de 500 pies, o cuando sigue a un vehículo a menos de 200 pies.",
+      "p": "Correcto. Baje las luces a 500 pies de un carro que viene de frente."
+    }
   }
 ]
