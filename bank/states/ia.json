@@ -1802,5 +1802,175 @@
       "h2": "ما لم تُظهر لافتة حدًا مختلفًا، فإن حد السرعة في المنطقة التجارية في Iowa هو 20 mph.",
       "p": "صحيح. 20 mph في المنطقة التجارية."
     }
+  },
+  {
+    "id": "ia-023",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 35,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Iowa, how must a child under 6 years old ride in a car?",
+      "o": [
+        "With an adult seat belt only",
+        "On an adult's lap",
+        "In a child safety seat or booster seat",
+        "In the front seat with a seat belt"
+      ],
+      "h1": "A seat belt alone is not enough for a child this young.",
+      "h2": "In Iowa a child under 6 years old must ride in a child safety seat or a booster seat, not just a seat belt.",
+      "p": "Right. Under 6, a safety seat or booster seat."
+    },
+    "es": {
+      "q": "En Iowa, ¿cómo debe viajar en un auto un niño menor de 6 años?",
+      "o": [
+        "Solo con el cinturón de seguridad de adulto",
+        "En las piernas de un adulto",
+        "En un asiento de seguridad infantil o un asiento elevado",
+        "En el asiento delantero con cinturón"
+      ],
+      "h1": "Para un niño tan pequeño, el cinturón solo no es suficiente.",
+      "h2": "En Iowa un niño menor de 6 años debe viajar en un asiento de seguridad infantil o en un asiento elevado, no solo con el cinturón de seguridad.",
+      "p": "Correcto. Menores de 6, asiento de seguridad o asiento elevado."
+    }
+  },
+  {
+    "id": "ia-024",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 37,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Iowa, what happens if you refuse a breath test when a police officer asks?",
+      "o": [
+        "Your license is revoked for one year and you pay at least $1,250",
+        "Nothing, if you were not drinking",
+        "You get a warning the first time",
+        "Your license is suspended for one week"
+      ],
+      "h1": "Refusing is treated more harshly than failing the test.",
+      "h2": "In Iowa, refusing a breath test means your license is revoked for one year and you must pay a fine of at least $1,250.",
+      "p": "Right. One year without a license and a fine of at least $1,250."
+    },
+    "es": {
+      "q": "En Iowa, ¿qué pasa si usted se niega a una prueba de aliento cuando un policía se la pide?",
+      "o": [
+        "Le revocan la licencia por un año y paga al menos $1,250",
+        "Nada, si usted no había bebido",
+        "Recibe una advertencia la primera vez",
+        "Le suspenden la licencia por una semana"
+      ],
+      "h1": "Negarse se castiga más fuerte que no pasar la prueba.",
+      "h2": "En Iowa, negarse a una prueba de aliento significa que le revocan la licencia por un año y debe pagar una multa de al menos $1,250.",
+      "p": "Correcto. Un año sin licencia y una multa de al menos $1,250."
+    }
+  },
+  {
+    "id": "ia-025",
+    "scope": "IA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 63,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Iowa, a crash causes injury or more than $1,500 in damage. How soon must it be reported to the police?",
+      "o": [
+        "Within 30 days",
+        "Within 10 days",
+        "Only if your insurance asks",
+        "Within 72 hours"
+      ],
+      "h1": "The deadline is counted in hours, not days.",
+      "h2": "In Iowa a crash with injury, death or more than $1,500 in property damage must be reported to the police within 72 hours, or you can lose your license.",
+      "p": "Right. Report it within 72 hours."
+    },
+    "es": {
+      "q": "En Iowa, un choque causa heridos o más de $1,500 en daños. ¿En cuánto tiempo hay que reportarlo a la policía?",
+      "o": [
+        "En 30 días",
+        "En 10 días",
+        "Solo si su seguro lo pide",
+        "En 72 horas"
+      ],
+      "h1": "El plazo se cuenta en horas, no en días.",
+      "h2": "En Iowa un choque con heridos, muertos o más de $1,500 en daños a la propiedad se debe reportar a la policía en 72 horas, o usted puede perder su licencia.",
+      "p": "Correcto. Hay que reportarlo en 72 horas."
+    }
+  },
+  {
+    "id": "ia-026",
+    "scope": "IA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 42,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Iowa, what is the minimum speed on the interstate system?",
+      "o": [
+        "30 mph",
+        "40 mph",
+        "50 mph",
+        "55 mph"
+      ],
+      "h1": "Vehicles that cannot keep up with this speed are not allowed on the interstate.",
+      "h2": "On Iowa's interstate system the minimum speed is 40 mph, and vehicles that cannot go that fast are not allowed there.",
+      "p": "Right. The interstate minimum is 40 mph."
+    },
+    "es": {
+      "q": "En Iowa, ¿cuál es la velocidad mínima en las autopistas interestatales?",
+      "o": [
+        "30 mph",
+        "40 mph",
+        "50 mph",
+        "55 mph"
+      ],
+      "h1": "Los vehículos que no pueden mantener esta velocidad no pueden usar la interestatal.",
+      "h2": "En las autopistas interestatales de Iowa la velocidad mínima es de 40 millas por hora, y los vehículos que no pueden ir así de rápido no pueden usarlas.",
+      "p": "Correcto. La mínima en la interestatal es 40 mph."
+    }
+  },
+  {
+    "id": "ia-027",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 49,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Iowa, besides from sunset to sunrise, when does the law require your headlights to be on?",
+      "o": [
+        "Only on the interstate",
+        "Only when it is raining",
+        "When you can see 500 feet or less",
+        "When you drive more than 50 miles"
+      ],
+      "h1": "Think of fog, heavy rain or snow.",
+      "h2": "Iowa law requires both headlights from sunset to sunrise and whenever you can see only 500 feet or less, such as in fog, heavy rain or snow.",
+      "p": "Right. Headlights on when visibility is 500 feet or less."
+    },
+    "es": {
+      "q": "En Iowa, además de desde la puesta hasta la salida del sol, ¿cuándo exige la ley tener las luces delanteras encendidas?",
+      "o": [
+        "Solo en la interestatal",
+        "Solo cuando llueve",
+        "Cuando puede ver a 500 pies o menos",
+        "Cuando maneja más de 50 millas"
+      ],
+      "h1": "Piense en niebla, lluvia fuerte o nieve.",
+      "h2": "La ley de Iowa exige las dos luces delanteras desde la puesta hasta la salida del sol y siempre que solo pueda ver a 500 pies o menos, por ejemplo con niebla, lluvia fuerte o nieve.",
+      "p": "Correcto. Luces encendidas cuando la visibilidad es de 500 pies o menos."
+    }
   }
 ]
