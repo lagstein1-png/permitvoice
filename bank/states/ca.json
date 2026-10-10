@@ -8260,5 +8260,991 @@
       "h2": "En California, un conductor de cualquier edad que ya no puede manejar de forma segura por una condición física o mental puede cambiar su licencia por una tarjeta de identificación sin costo.",
       "p": "Correcto. La licencia se puede cambiar por una tarjeta de identificación sin costo."
     }
+  },
+  {
+    "id": "ca-172",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/instruction-permits/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, what score do you need to pass the knowledge test for an instruction permit?",
+      "o": [
+        "60 percent",
+        "70 percent",
+        "80 percent",
+        "90 percent"
+      ],
+      "h1": "You must get most of the questions right, about four out of every five.",
+      "h2": "In California, the passing score on the knowledge test for an instruction permit is 80 percent.",
+      "p": "Right. You need 80 percent to pass."
+    },
+    "es": {
+      "q": "En California, ¿qué puntaje necesita para pasar el examen de conocimientos para un permiso de instrucción?",
+      "o": [
+        "60 por ciento",
+        "70 por ciento",
+        "80 por ciento",
+        "90 por ciento"
+      ],
+      "h1": "Debe contestar bien la mayoría de las preguntas, unas cuatro de cada cinco.",
+      "h2": "En California, el puntaje para pasar el examen de conocimientos para un permiso de instrucción es 80 por ciento.",
+      "p": "Correcto. Necesita 80 por ciento para pasar."
+    }
+  },
+  {
+    "id": "ca-173",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/instruction-permits/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, a teen is 17 and a half and has not taken driver education. May the teen get an instruction permit?",
+      "o": [
+        "Yes, but no drive test until 18",
+        "No, driver education is always needed",
+        "Yes, and may test at once",
+        "No, the teen must wait until 18"
+      ],
+      "h1": "The permit is possible, but there is a catch about the drive test.",
+      "h2": "In California, a teen over 17 and a half but under 18 may get an instruction permit without driver education and training, but may not take the drive test until turning 18.",
+      "p": "Right. The permit is allowed, but the drive test must wait until 18."
+    },
+    "es": {
+      "q": "En California, un joven tiene 17 años y medio y no ha tomado educación vial. ¿Puede obtener un permiso de instrucción?",
+      "o": [
+        "Sí, pero sin examen de manejo hasta los 18",
+        "No, siempre necesita educación vial",
+        "Sí, y puede hacer el examen de inmediato",
+        "No, debe esperar hasta los 18"
+      ],
+      "h1": "El permiso es posible, pero hay una condición sobre el examen de manejo.",
+      "h2": "En California, un joven de más de 17 años y medio pero menor de 18 puede obtener un permiso de instrucción sin educación ni capacitación vial, pero no puede tomar el examen de manejo hasta cumplir 18 años.",
+      "p": "Correcto. Puede obtener el permiso, pero el examen de manejo debe esperar hasta los 18."
+    }
+  },
+  {
+    "id": "ca-174",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-licenses-dl/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, how many hours of professional driver training must a teen finish before the drive test?",
+      "o": [
+        "Two hours",
+        "Twenty hours",
+        "Fifty hours",
+        "Six hours"
+      ],
+      "h1": "This is the time with a driving instructor, not the practice time with a parent.",
+      "h2": "In California, a teen must complete six hours of professional driver training before taking the drive test.",
+      "p": "Right. Teens need six hours of professional driver training."
+    },
+    "es": {
+      "q": "En California, ¿cuántas horas de capacitación con un instructor profesional debe completar un joven antes del examen de manejo?",
+      "o": [
+        "Dos horas",
+        "Veinte horas",
+        "Cincuenta horas",
+        "Seis horas"
+      ],
+      "h1": "Es el tiempo con un instructor de manejo, no la práctica con un padre o una madre.",
+      "h2": "En California, un joven debe completar seis horas de capacitación con un instructor profesional antes de tomar el examen de manejo.",
+      "p": "Correcto. Los jóvenes necesitan seis horas de capacitación profesional."
+    }
+  },
+  {
+    "id": "ca-175",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-licenses-dl/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, you pass the drive test. How long is the temporary license good for while you wait for your card?",
+      "o": [
+        "10 days",
+        "60 days",
+        "30 days",
+        "One year"
+      ],
+      "h1": "It covers about two months, until the card comes in the mail.",
+      "h2": "In California, after you pass the drive test the DMV gives you a temporary license that is valid for 60 days.",
+      "p": "Right. The temporary license is good for 60 days."
+    },
+    "es": {
+      "q": "En California, usted pasa el examen de manejo. ¿Por cuánto tiempo es válida la licencia temporal mientras espera su tarjeta?",
+      "o": [
+        "10 días",
+        "60 días",
+        "30 días",
+        "Un año"
+      ],
+      "h1": "Cubre unos dos meses, hasta que la tarjeta llegue por correo.",
+      "h2": "En California, después de pasar el examen de manejo, el DMV le da una licencia temporal que es válida por 60 días.",
+      "p": "Correcto. La licencia temporal es válida por 60 días."
+    }
+  },
+  {
+    "id": "ca-176",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-licenses-dl/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, a 16-year-old visitor has a valid driver's license from another country. How long may the teen drive here without a special certificate?",
+      "o": [
+        "Six months",
+        "As long as the license is valid",
+        "Ten days at most",
+        "Not at all"
+      ],
+      "h1": "The time is short, less than two weeks.",
+      "h2": "In California, a 16- or 17-year-old with a valid license from another country may drive here for no more than ten days, unless the teen gets a nonresident minor's certificate and files proof of insurance.",
+      "p": "Right. Without the certificate, the limit is ten days."
+    },
+    "es": {
+      "q": "En California, un visitante de 16 años tiene una licencia válida de otro país. ¿Por cuánto tiempo puede manejar aquí sin un certificado especial?",
+      "o": [
+        "Seis meses",
+        "Mientras la licencia sea válida",
+        "Diez días como máximo",
+        "Nada"
+      ],
+      "h1": "El tiempo es corto, menos de dos semanas.",
+      "h2": "En California, un joven de 16 o 17 años con una licencia válida de otro país puede manejar aquí por no más de diez días, a menos que obtenga un certificado de menor no residente y presente prueba de seguro.",
+      "p": "Correcto. Sin el certificado, el límite es de diez días."
+    }
+  },
+  {
+    "id": "ca-177",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-licenses-dl/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, an adult has a driver's license from another country and applies for a California license. Besides the vision and knowledge tests, what must they pass?",
+      "o": [
+        "A drive test",
+        "Nothing else",
+        "A first-aid course",
+        "A traffic school class"
+      ],
+      "h1": "The DMV wants to see how this person actually drives.",
+      "h2": "In California, a person with a driver's license from another country must also pass a drive test to get an original California license.",
+      "p": "Right. A license from another country means you also take a drive test."
+    },
+    "es": {
+      "q": "En California, un adulto tiene una licencia de manejar de otro país y solicita una licencia de California. Además de los exámenes de la vista y de conocimientos, ¿qué debe pasar?",
+      "o": [
+        "Un examen de manejo",
+        "Nada más",
+        "Un curso de primeros auxilios",
+        "Una clase de escuela de tránsito"
+      ],
+      "h1": "El DMV quiere ver cómo maneja esta persona en realidad.",
+      "h2": "En California, una persona con licencia de manejar de otro país también debe pasar un examen de manejo para obtener una licencia original de California.",
+      "p": "Correcto. Con una licencia de otro país, también debe tomar el examen de manejo."
+    }
+  },
+  {
+    "id": "ca-178",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-licenses-dl/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, how can you tell that a driver's license is REAL ID compliant?",
+      "o": [
+        "It has a red stripe",
+        "It has the word FEDERAL",
+        "It has a blue border",
+        "It has a bear and a star"
+      ],
+      "h1": "Look at the top right corner for a California animal.",
+      "h2": "In California, a REAL ID compliant card has a California bear and a star in the upper right corner of the front.",
+      "p": "Right. A REAL ID card shows a bear and a star."
+    },
+    "es": {
+      "q": "En California, ¿cómo puede saber que una licencia de manejar cumple con REAL ID?",
+      "o": [
+        "Tiene una franja roja",
+        "Tiene la palabra FEDERAL",
+        "Tiene un borde azul",
+        "Tiene un oso y una estrella"
+      ],
+      "h1": "Mire la esquina superior derecha, donde hay un animal de California.",
+      "h2": "En California, una tarjeta que cumple con REAL ID tiene un oso de California y una estrella en la esquina superior derecha del frente.",
+      "p": "Correcto. Una tarjeta REAL ID muestra un oso y una estrella."
+    }
+  },
+  {
+    "id": "ca-179",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-licenses-dl/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, you have a basic Class C license. What is the heaviest single vehicle you may tow?",
+      "o": [
+        "2,000 lbs. GVWR or less",
+        "10,000 lbs. GVWR or less",
+        "26,000 lbs. GVWR or less",
+        "Any weight, if it has brakes"
+      ],
+      "h1": "The limit is a five-figure number in pounds of gross vehicle weight rating.",
+      "h2": "In California, a Class C license lets you tow a single vehicle with a gross vehicle weight rating (GVWR) of 10,000 pounds or less.",
+      "p": "Right. Class C allows towing one vehicle of 10,000 lbs. GVWR or less."
+    },
+    "es": {
+      "q": "En California, usted tiene una licencia básica Clase C. ¿Cuál es el vehículo individual más pesado que puede remolcar?",
+      "o": [
+        "2,000 lbs. de GVWR o menos",
+        "10,000 lbs. de GVWR o menos",
+        "26,000 lbs. de GVWR o menos",
+        "Cualquier peso, si tiene frenos"
+      ],
+      "h1": "El límite es un número de cinco cifras en libras de peso bruto vehicular nominal.",
+      "h2": "En California, una licencia Clase C le permite remolcar un solo vehículo con un peso bruto vehicular nominal (GVWR) de 10,000 libras o menos.",
+      "p": "Correcto. La Clase C permite remolcar un vehículo de 10,000 lbs. de GVWR o menos."
+    }
+  },
+  {
+    "id": "ca-180",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/motorcycle-license/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, what may you ride with a Class M2 license?",
+      "o": [
+        "Any two-wheeled motorcycle",
+        "A motorcycle with a sidecar only",
+        "Only a moped or motorized bicycle",
+        "Only an electric scooter for rent"
+      ],
+      "h1": "M2 is the smaller of the two motorcycle classes.",
+      "h2": "In California, a Class M2 license lets you ride only a motorized bicycle, a moped, or a bicycle with a motor attached; Class M1 is needed for any two-wheeled motorcycle.",
+      "p": "Right. M2 covers mopeds and motorized bicycles only."
+    },
+    "es": {
+      "q": "En California, ¿qué puede manejar con una licencia Clase M2?",
+      "o": [
+        "Cualquier motocicleta de dos ruedas",
+        "Solo una motocicleta con sidecar",
+        "Solo un ciclomotor o bicicleta motorizada",
+        "Solo un scooter eléctrico de alquiler"
+      ],
+      "h1": "La M2 es la menor de las dos clases de motocicleta.",
+      "h2": "En California, una licencia Clase M2 le permite manejar solo una bicicleta motorizada, un ciclomotor o una bicicleta con motor; se necesita la Clase M1 para cualquier motocicleta de dos ruedas.",
+      "p": "Correcto. La M2 cubre solo ciclomotores y bicicletas motorizadas."
+    }
+  },
+  {
+    "id": "ca-181",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/motorcycle-license/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, you are 19 and want a motorcycle license. What must you do first?",
+      "o": [
+        "Hold a permit 6 months and pass a CHP rider course",
+        "Only pass a written test",
+        "Ride with a parent for 50 hours",
+        "Wait until you turn 21"
+      ],
+      "h1": "Riders under 21 have two extra steps: time with a permit and a training course.",
+      "h2": "In California, a rider under 21 must hold a motorcycle instruction permit for at least six months and complete the CHP-approved California Motorcyclist Safety Program course before getting a motorcycle license.",
+      "p": "Right. Under 21, you need six months with a permit and the rider course."
+    },
+    "es": {
+      "q": "En California, usted tiene 19 años y quiere una licencia de motocicleta. ¿Qué debe hacer primero?",
+      "o": [
+        "Tener un permiso 6 meses y aprobar un curso de la CHP",
+        "Solo pasar un examen escrito",
+        "Manejar con un padre durante 50 horas",
+        "Esperar hasta cumplir 21 años"
+      ],
+      "h1": "Los motociclistas menores de 21 tienen dos pasos más: tiempo con permiso y un curso de capacitación.",
+      "h2": "En California, un motociclista menor de 21 años debe tener un permiso de instrucción de motocicleta por al menos seis meses y completar el curso del Programa de Seguridad para Motociclistas aprobado por la CHP antes de obtener una licencia de motocicleta.",
+      "p": "Correcto. Si es menor de 21, necesita seis meses con permiso y el curso para motociclistas."
+    }
+  },
+  {
+    "id": "ca-182",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/motorcycle-license/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, you are 30 and want a motorcycle license. Do you need a motorcycle instruction permit first?",
+      "o": [
+        "Yes, for six months",
+        "Yes, for one year",
+        "Yes, for 30 days",
+        "No, a permit is not required"
+      ],
+      "h1": "The waiting time with a permit is a rule for younger riders.",
+      "h2": "In California, a person over 21 does not need a motorcycle instruction permit before applying for a motorcycle license; they take a CHP-approved course or pass a DMV riding test.",
+      "p": "Right. Over 21, no motorcycle permit is required first."
+    },
+    "es": {
+      "q": "En California, usted tiene 30 años y quiere una licencia de motocicleta. ¿Necesita primero un permiso de instrucción de motocicleta?",
+      "o": [
+        "Sí, por seis meses",
+        "Sí, por un año",
+        "Sí, por 30 días",
+        "No, no se requiere permiso"
+      ],
+      "h1": "El tiempo de espera con permiso es una regla para motociclistas más jóvenes.",
+      "h2": "En California, una persona mayor de 21 años no necesita un permiso de instrucción de motocicleta antes de solicitar la licencia; toma un curso aprobado por la CHP o pasa un examen de manejo del DMV.",
+      "p": "Correcto. Si es mayor de 21, no necesita primero un permiso de motocicleta."
+    }
+  },
+  {
+    "id": "ca-183",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/vehicle-registration/smog-inspections/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, your gasoline car is five model years old. Does it need a smog inspection when you renew the registration?",
+      "o": [
+        "Yes, every year",
+        "No, it is under eight model years old",
+        "Yes, every renewal",
+        "Only if you drive on freeways"
+      ],
+      "h1": "Newer gasoline cars get a break for their first several years.",
+      "h2": "In California, a gasoline vehicle less than eight model years old does not need a smog inspection at registration renewal.",
+      "p": "Right. Gasoline cars under eight model years old skip the renewal smog check."
+    },
+    "es": {
+      "q": "En California, su carro de gasolina tiene cinco años de modelo. ¿Necesita una inspección de smog cuando renueva el registro?",
+      "o": [
+        "Sí, cada año",
+        "No, tiene menos de ocho años de modelo",
+        "Sí, en cada renovación",
+        "Solo si maneja en autopistas"
+      ],
+      "h1": "Los carros de gasolina más nuevos tienen una excepción durante sus primeros años.",
+      "h2": "En California, un vehículo de gasolina con menos de ocho años de modelo no necesita una inspección de smog al renovar el registro.",
+      "p": "Correcto. Los carros de gasolina con menos de ocho años de modelo no necesitan smog al renovar."
+    }
+  },
+  {
+    "id": "ca-184",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/vehicle-registration/smog-inspections/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, you sell your ten-year-old car to a private buyer. What must you give the buyer about smog?",
+      "o": [
+        "Nothing, the buyer handles it",
+        "A promise to pay for repairs",
+        "A valid smog certification",
+        "Your old registration sticker"
+      ],
+      "h1": "The seller is the one who takes care of the emissions check.",
+      "h2": "In California, when you sell a car you must give the new owner a valid smog certification, unless the car is less than four years old.",
+      "p": "Right. The seller gives the buyer a valid smog certification."
+    },
+    "es": {
+      "q": "En California, usted le vende su carro de diez años a un comprador particular. ¿Qué debe darle al comprador sobre el smog?",
+      "o": [
+        "Nada, el comprador se encarga",
+        "Una promesa de pagar reparaciones",
+        "Una certificación de smog válida",
+        "Su calcomanía de registro vieja"
+      ],
+      "h1": "El vendedor es quien se encarga de la revisión de emisiones.",
+      "h2": "En California, cuando usted vende un carro debe darle al nuevo dueño una certificación de smog válida, a menos que el carro tenga menos de cuatro años.",
+      "p": "Correcto. El vendedor le da al comprador una certificación de smog válida."
+    }
+  },
+  {
+    "id": "ca-185",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/vehicle-registration/smog-inspections/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, which of these vehicles never needs a smog inspection at registration renewal?",
+      "o": [
+        "An electric vehicle",
+        "A ten-year-old gasoline car",
+        "A 2005 gasoline pickup",
+        "A 2010 gasoline minivan"
+      ],
+      "h1": "Think about which vehicle has no tailpipe.",
+      "h2": "In California, an electric vehicle does not need a smog inspection when you renew its registration.",
+      "p": "Right. Electric vehicles do not need smog inspections."
+    },
+    "es": {
+      "q": "En California, ¿cuál de estos vehículos nunca necesita una inspección de smog al renovar el registro?",
+      "o": [
+        "Un vehículo eléctrico",
+        "Un carro de gasolina de diez años",
+        "Una camioneta de gasolina de 2005",
+        "Una minivan de gasolina de 2010"
+      ],
+      "h1": "Piense en cuál vehículo no tiene tubo de escape.",
+      "h2": "En California, un vehículo eléctrico no necesita inspección de smog cuando usted renueva su registro.",
+      "p": "Correcto. Los vehículos eléctricos no necesitan inspección de smog."
+    }
+  },
+  {
+    "id": "ca-186",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/disabled-person-parking-placards-plates/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, how long is a permanent disabled person parking placard valid?",
+      "o": [
+        "Six months",
+        "One year, ending on your birthday",
+        "For life, with no renewal",
+        "Two years, ending June 30 of odd years"
+      ],
+      "h1": "It ends on the same summer date for everyone, every other year.",
+      "h2": "In California, a permanent disabled person parking placard is valid for two years and expires on June 30 of every odd-numbered year.",
+      "p": "Right. It lasts two years and expires June 30 of odd-numbered years."
+    },
+    "es": {
+      "q": "En California, ¿por cuánto tiempo es válido un permiso permanente de estacionamiento para personas con discapacidad?",
+      "o": [
+        "Seis meses",
+        "Un año, hasta su cumpleaños",
+        "De por vida, sin renovar",
+        "Dos años, hasta el 30 de junio de años impares"
+      ],
+      "h1": "Vence en la misma fecha de verano para todos, cada dos años.",
+      "h2": "En California, un permiso permanente de estacionamiento para personas con discapacidad es válido por dos años y vence el 30 de junio de cada año impar.",
+      "p": "Correcto. Dura dos años y vence el 30 de junio de los años impares."
+    }
+  },
+  {
+    "id": "ca-187",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/disabled-person-parking-placards-plates/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, a car shows a valid disabled person placard. How long may it park at a green curb?",
+      "o": [
+        "Only 10 minutes",
+        "As long as the driver wishes",
+        "Only the time on the sign",
+        "It may not park there"
+      ],
+      "h1": "The placard removes the usual time limit at this curb color.",
+      "h2": "In California, a vehicle with a valid disabled person placard or plates may park next to a green curb for as long as the driver wishes.",
+      "p": "Right. With a valid placard, there is no time limit at a green curb."
+    },
+    "es": {
+      "q": "En California, un carro muestra un permiso válido para personas con discapacidad. ¿Por cuánto tiempo puede estacionarse junto a una acera verde?",
+      "o": [
+        "Solo 10 minutos",
+        "Todo el tiempo que quiera",
+        "Solo el tiempo del letrero",
+        "No puede estacionarse allí"
+      ],
+      "h1": "El permiso quita el límite de tiempo normal en este color de acera.",
+      "h2": "En California, un vehículo con un permiso o placas válidas para personas con discapacidad puede estacionarse junto a una acera verde todo el tiempo que quiera.",
+      "p": "Correcto. Con un permiso válido, no hay límite de tiempo en la acera verde."
+    }
+  },
+  {
+    "id": "ca-188",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/negligence/negligent-operator-actions/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, an adult driver gets 2 points within 12 months. What does the DMV send?",
+      "o": [
+        "A suspension order",
+        "A revocation order",
+        "A warning letter",
+        "A new license card"
+      ],
+      "h1": "This is the first and mildest step in the DMV's point system.",
+      "h2": "In California, an adult who gets 2 points within 12 months receives a warning letter from the DMV, the first level of action.",
+      "p": "Right. Two points in 12 months brings a warning letter."
+    },
+    "es": {
+      "q": "En California, un conductor adulto acumula 2 puntos en 12 meses. ¿Qué le envía el DMV?",
+      "o": [
+        "Una orden de suspensión",
+        "Una orden de revocación",
+        "Una carta de advertencia",
+        "Una tarjeta de licencia nueva"
+      ],
+      "h1": "Es el primer paso, y el más leve, del sistema de puntos del DMV.",
+      "h2": "En California, un adulto que acumula 2 puntos en 12 meses recibe una carta de advertencia del DMV, el primer nivel de acción.",
+      "p": "Correcto. Dos puntos en 12 meses traen una carta de advertencia."
+    }
+  },
+  {
+    "id": "ca-189",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/negligence/negligent-operator-actions/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, an adult reaches 4 points in 12 months and gets an order of probation and suspension. What does it include?",
+      "o": [
+        "One year probation with a six-month suspension",
+        "A one-week suspension only",
+        "A warning letter only",
+        "A lifetime revocation"
+      ],
+      "h1": "It has two parts: a long probation, and a suspension inside it.",
+      "h2": "In California, the DMV's probation and suspension order for too many points is one year of probation that includes a six-month suspension.",
+      "p": "Right. It is one year of probation with a six-month suspension."
+    },
+    "es": {
+      "q": "En California, un adulto llega a 4 puntos en 12 meses y recibe una orden de libertad condicional y suspensión. ¿Qué incluye?",
+      "o": [
+        "Un año de libertad condicional con seis meses de suspensión",
+        "Solo una semana de suspensión",
+        "Solo una carta de advertencia",
+        "Una revocación de por vida"
+      ],
+      "h1": "Tiene dos partes: una libertad condicional larga y una suspensión dentro de ella.",
+      "h2": "En California, la orden del DMV de libertad condicional y suspensión por demasiados puntos es un año de libertad condicional que incluye seis meses de suspensión.",
+      "p": "Correcto. Es un año de libertad condicional con seis meses de suspensión."
+    }
+  },
+  {
+    "id": "ca-190",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/negligence/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, how many points does a DUI or a hit-and-run conviction add to your driving record?",
+      "o": [
+        "Half a point",
+        "One point",
+        "Five points",
+        "Two points"
+      ],
+      "h1": "These are treated as more serious than a simple speeding ticket, which is one point.",
+      "h2": "In California, a conviction for DUI or for hit-and-run adds two points to your driving record, while most violations, such as speeding, add one point.",
+      "p": "Right. DUI and hit-and-run each count two points."
+    },
+    "es": {
+      "q": "En California, ¿cuántos puntos agrega a su historial de manejo una condena por DUI o por darse a la fuga?",
+      "o": [
+        "Medio punto",
+        "Un punto",
+        "Cinco puntos",
+        "Dos puntos"
+      ],
+      "h1": "Se consideran más graves que una multa simple por exceso de velocidad, que vale un punto.",
+      "h2": "En California, una condena por DUI o por darse a la fuga agrega dos puntos a su historial de manejo, mientras que la mayoría de las infracciones, como el exceso de velocidad, agregan un punto.",
+      "p": "Correcto. El DUI y darse a la fuga valen dos puntos cada uno."
+    }
+  },
+  {
+    "id": "ca-191",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 54,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, you get a speeding ticket while driving in another state. What happens to your California driving record?",
+      "o": [
+        "Nothing, other states do not count",
+        "The conviction can be added to it",
+        "It is added only if you were under 18",
+        "Only a fine is paid; no record"
+      ],
+      "h1": "California keeps track of more than what happens inside the state.",
+      "h2": "In California, traffic convictions reported by other states are also added to your driving record.",
+      "p": "Right. Convictions from other states can go on your California record."
+    },
+    "es": {
+      "q": "En California, usted recibe una multa por exceso de velocidad mientras maneja en otro estado. ¿Qué pasa con su historial de manejo de California?",
+      "o": [
+        "Nada, otros estados no cuentan",
+        "La condena se puede agregar",
+        "Se agrega solo si era menor de 18",
+        "Solo paga una multa, sin historial"
+      ],
+      "h1": "California lleva la cuenta de más de lo que pasa dentro del estado.",
+      "h2": "En California, las condenas de tránsito que reportan otros estados también se agregan a su historial de manejo.",
+      "p": "Correcto. Las condenas de otros estados pueden ir a su historial de California."
+    }
+  },
+  {
+    "id": "ca-192",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/driving-under-the-influence/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, you are 25 and a test after a DUI arrest shows 0.08 percent blood alcohol. It is your first offense. How long does the DMV suspend your license?",
+      "o": [
+        "Two weeks",
+        "Ten years",
+        "Four months",
+        "Three years"
+      ],
+      "h1": "This is the DMV's own action after the arrest, separate from the court.",
+      "h2": "In California, a driver 21 or older whose test shows 0.08 percent or more on a first offense gets a four-month DMV suspension.",
+      "p": "Right. A first offense brings a four-month suspension."
+    },
+    "es": {
+      "q": "En California, usted tiene 25 años y una prueba después de un arresto por DUI muestra 0.08 por ciento de alcohol en la sangre. Es su primera infracción. ¿Por cuánto tiempo suspende el DMV su licencia?",
+      "o": [
+        "Dos semanas",
+        "Diez años",
+        "Cuatro meses",
+        "Tres años"
+      ],
+      "h1": "Es la acción del propio DMV después del arresto, aparte de la corte.",
+      "h2": "En California, un conductor de 21 años o más cuya prueba muestra 0.08 por ciento o más en una primera infracción recibe una suspensión de cuatro meses del DMV.",
+      "p": "Correcto. Una primera infracción trae una suspensión de cuatro meses."
+    }
+  },
+  {
+    "id": "ca-193",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/driving-under-the-influence/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, an adult refuses a chemical test after a DUI arrest for the second time in 10 years. What does the DMV do?",
+      "o": [
+        "Gives a warning letter",
+        "Suspends it for 30 days",
+        "Nothing, if the court finds no DUI",
+        "Revokes the license for two years"
+      ],
+      "h1": "A second refusal is punished more harshly than the first one-year suspension.",
+      "h2": "In California, a second refusal of a chemical test within 10 years brings a two-year revocation of the driving privilege.",
+      "p": "Right. A second refusal in 10 years means a two-year revocation."
+    },
+    "es": {
+      "q": "En California, un adulto se niega a una prueba química después de un arresto por DUI por segunda vez en 10 años. ¿Qué hace el DMV?",
+      "o": [
+        "Le da una carta de advertencia",
+        "La suspende por 30 días",
+        "Nada, si la corte no encuentra DUI",
+        "Revoca la licencia por dos años"
+      ],
+      "h1": "Una segunda negativa se castiga más fuerte que la primera suspensión de un año.",
+      "h2": "En California, una segunda negativa a una prueba química dentro de 10 años trae una revocación de dos años del privilegio de manejar.",
+      "p": "Correcto. Una segunda negativa en 10 años significa una revocación de dos años."
+    }
+  },
+  {
+    "id": "ca-194",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/driving-under-the-influence/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, a driver has a third DUI offense within 10 years. May the driver get a restricted license to drive to work?",
+      "o": [
+        "No, no restricted license at all",
+        "Yes, right away",
+        "Yes, after 30 days",
+        "Yes, with a parent's signature"
+      ],
+      "h1": "At this point the law closes the door on any limited license.",
+      "h2": "In California, a driver with a third or later DUI offense within 10 years cannot apply for any type of restricted license.",
+      "p": "Right. After a third DUI in 10 years, no restricted license is allowed."
+    },
+    "es": {
+      "q": "En California, un conductor tiene una tercera infracción por DUI en 10 años. ¿Puede obtener una licencia restringida para ir al trabajo?",
+      "o": [
+        "No, ninguna licencia restringida",
+        "Sí, de inmediato",
+        "Sí, después de 30 días",
+        "Sí, con la firma de un padre"
+      ],
+      "h1": "En este punto la ley cierra la puerta a cualquier licencia limitada.",
+      "h2": "En California, un conductor con una tercera infracción o más por DUI en 10 años no puede solicitar ningún tipo de licencia restringida.",
+      "p": "Correcto. Después de un tercer DUI en 10 años, no se permite licencia restringida."
+    }
+  },
+  {
+    "id": "ca-195",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/driving-under-the-influence/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, the DMV suspended your license after a DUI arrest. Later the court reduces the charge to reckless driving. What happens to the DMV suspension?",
+      "o": [
+        "It is canceled at once",
+        "It stays in effect",
+        "It becomes a warning letter",
+        "It is cut in half"
+      ],
+      "h1": "The DMV action and the court case are separate.",
+      "h2": "In California, the DMV suspension after a DUI arrest stays in effect even if the court later reduces the DUI charge to reckless driving, because the two actions are independent.",
+      "p": "Right. The DMV suspension stays; the court case does not change it."
+    },
+    "es": {
+      "q": "En California, el DMV suspendió su licencia después de un arresto por DUI. Más tarde la corte reduce el cargo a manejo imprudente. ¿Qué pasa con la suspensión del DMV?",
+      "o": [
+        "Se cancela de inmediato",
+        "Sigue vigente",
+        "Se convierte en una carta de advertencia",
+        "Se reduce a la mitad"
+      ],
+      "h1": "La acción del DMV y el caso en la corte son cosas separadas.",
+      "h2": "En California, la suspensión del DMV después de un arresto por DUI sigue vigente aunque la corte reduzca el cargo a manejo imprudente, porque las dos acciones son independientes.",
+      "p": "Correcto. La suspensión del DMV sigue; el caso en la corte no la cambia."
+    }
+  },
+  {
+    "id": "ca-196",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/vehicle-registration/insurance-requirements/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, besides an insurance policy, what else can prove financial responsibility for a car?",
+      "o": [
+        "A letter from your employer",
+        "A $5,000 savings account",
+        "A paid-off car loan",
+        "A $75,000 cash deposit with the DMV"
+      ],
+      "h1": "The DMV accepts a large deposit or a surety bond of the same amount.",
+      "h2": "In California, instead of an insurance policy, you may prove financial responsibility with a $75,000 cash deposit with the DMV, a $75,000 surety bond, or a DMV self-insurance certificate.",
+      "p": "Right. A $75,000 cash deposit with the DMV is one accepted option."
+    },
+    "es": {
+      "q": "En California, además de una póliza de seguro, ¿qué más puede probar la responsabilidad financiera de un carro?",
+      "o": [
+        "Una carta de su empleador",
+        "Una cuenta de ahorros de $5,000",
+        "Un préstamo de carro ya pagado",
+        "Un depósito de $75,000 en efectivo con el DMV"
+      ],
+      "h1": "El DMV acepta un depósito grande o una fianza por la misma cantidad.",
+      "h2": "En California, en lugar de una póliza de seguro, usted puede probar la responsabilidad financiera con un depósito de $75,000 en efectivo con el DMV, una fianza de $75,000 o un certificado de autoseguro del DMV.",
+      "p": "Correcto. Un depósito de $75,000 en efectivo con el DMV es una opción aceptada."
+    }
+  },
+  {
+    "id": "ca-197",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/vehicle-registration/insurance-requirements/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, you want to cancel the insurance on a car that is still registered. What should you do to avoid a registration suspension?",
+      "o": [
+        "Tell the DMV within a year",
+        "Just remove the license plates",
+        "Tell the DMV before you cancel",
+        "Nothing, the DMV is not involved"
+      ],
+      "h1": "Timing matters: the DMV needs to hear from you first.",
+      "h2": "In California, you must notify the DMV before you cancel your insurance, or the vehicle's registration can be suspended.",
+      "p": "Right. Notify the DMV before you cancel the insurance."
+    },
+    "es": {
+      "q": "En California, usted quiere cancelar el seguro de un carro que sigue registrado. ¿Qué debe hacer para evitar la suspensión del registro?",
+      "o": [
+        "Avisar al DMV dentro de un año",
+        "Solo quitar las placas",
+        "Avisar al DMV antes de cancelar",
+        "Nada, el DMV no tiene que ver"
+      ],
+      "h1": "El momento importa: el DMV debe saberlo primero.",
+      "h2": "En California, usted debe avisar al DMV antes de cancelar su seguro, o el registro del vehículo puede ser suspendido.",
+      "p": "Correcto. Avise al DMV antes de cancelar el seguro."
+    }
+  },
+  {
+    "id": "ca-198",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/vehicle-registration/vehicle-registration-renewal/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, a 17-year-old has no driver's license. May the teen buy and register a car?",
+      "o": [
+        "No, not without a valid license",
+        "Yes, with cash only",
+        "Yes, if a friend drives it",
+        "Yes, after turning 16"
+      ],
+      "h1": "The law links buying a car as a minor to holding a license.",
+      "h2": "In California, a minor who does not have a valid driver's license may not buy, lease, order or receive a vehicle as a gift, so cannot register one.",
+      "p": "Right. A minor without a valid license cannot buy or register a vehicle."
+    },
+    "es": {
+      "q": "En California, un joven de 17 años no tiene licencia de manejar. ¿Puede comprar y registrar un carro?",
+      "o": [
+        "No, no sin una licencia válida",
+        "Sí, si paga en efectivo",
+        "Sí, si lo maneja un amigo",
+        "Sí, después de cumplir 16"
+      ],
+      "h1": "La ley une la compra de un carro por un menor con tener licencia.",
+      "h2": "En California, un menor que no tiene una licencia de manejar válida no puede comprar, arrendar, pedir ni recibir de regalo un vehículo, así que no puede registrarlo.",
+      "p": "Correcto. Un menor sin licencia válida no puede comprar ni registrar un vehículo."
+    }
+  },
+  {
+    "id": "ca-199",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/vehicle-registration/vehicle-registration-renewal/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, you have unpaid parking tickets on your car. What happens when you try to renew the registration?",
+      "o": [
+        "They are forgiven at renewal",
+        "They go on your driver's license",
+        "They are added to next year's bill",
+        "You must pay or settle them first"
+      ],
+      "h1": "The DMV holds the renewal until something is done about the tickets.",
+      "h2": "In California, you must pay or settle all parking tickets before your vehicle registration can be renewed.",
+      "p": "Right. Parking tickets must be paid or settled before renewal."
+    },
+    "es": {
+      "q": "En California, su carro tiene multas de estacionamiento sin pagar. ¿Qué pasa cuando intenta renovar el registro?",
+      "o": [
+        "Se perdonan al renovar",
+        "Pasan a su licencia de manejar",
+        "Se suman a la cuenta del año siguiente",
+        "Debe pagarlas o resolverlas primero"
+      ],
+      "h1": "El DMV detiene la renovación hasta que se resuelvan las multas.",
+      "h2": "En California, usted debe pagar o resolver todas las multas de estacionamiento antes de que se pueda renovar el registro de su vehículo.",
+      "p": "Correcto. Las multas de estacionamiento se deben pagar o resolver antes de renovar."
+    }
+  },
+  {
+    "id": "ca-200",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/senior-drivers/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, what is the DMV's vision standard for a driver's license?",
+      "o": [
+        "20/20",
+        "20/40",
+        "20/100",
+        "20/200"
+      ],
+      "h1": "If you do not meet it, the DMV sends you to an eye specialist.",
+      "h2": "In California, the DMV's vision standard is 20/40; a person who does not meet it is asked to see a vision specialist.",
+      "p": "Right. The DMV vision standard is 20/40."
+    },
+    "es": {
+      "q": "En California, ¿cuál es el estándar de visión del DMV para una licencia de manejar?",
+      "o": [
+        "20/20",
+        "20/40",
+        "20/100",
+        "20/200"
+      ],
+      "h1": "Si no lo cumple, el DMV lo envía a un especialista de la vista.",
+      "h2": "En California, el estándar de visión del DMV es 20/40; a una persona que no lo cumple se le pide ver a un especialista de la vista.",
+      "p": "Correcto. El estándar de visión del DMV es 20/40."
+    }
   }
 ]
