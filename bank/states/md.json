@@ -7795,26 +7795,26 @@
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Maryland, a learner's permit holder is practicing on a motorcycle. Where must the supervising driver be?",
+      "q": "In Maryland, a supervising driver must normally sit beside the learner. For which vehicle does this seating rule not apply?",
       "o": [
-        "On the same motorcycle, as a passenger",
-        "Waiting at home by phone",
-        "Seated beside the learner on the motorcycle",
-        "Supervising, but not seated beside the learner"
+        "A pickup truck",
+        "A minivan",
+        "None; it applies to every vehicle",
+        "A motorcycle"
       ],
-      "h1": "The beside-you rule has one exception.",
+      "h1": "On this vehicle there is no seat beside the rider.",
       "h2": "In Maryland, the supervising driver must be seated beside the learner unless the vehicle is a motorcycle.",
       "p": "Yes! The seated-beside rule does not apply to motorcycles."
     },
     "es": {
-      "q": "En Maryland, una persona con permiso de aprendizaje practica en motocicleta. ¿Dónde debe estar el conductor supervisor?",
+      "q": "En Maryland, el conductor supervisor normalmente debe ir sentado junto al aprendiz. ¿Para qué vehículo no se aplica esta regla?",
       "o": [
-        "En la misma motocicleta, como pasajero",
-        "Esperando en casa por teléfono",
-        "Sentado junto al aprendiz en la motocicleta",
-        "Supervisando, pero sin ir sentado junto al aprendiz"
+        "Una camioneta pickup",
+        "Una minivan",
+        "Ninguno; se aplica a todos los vehículos",
+        "Una motocicleta"
       ],
-      "h1": "La regla de ir sentado al lado tiene una excepción.",
+      "h1": "En este vehículo no hay asiento al lado del conductor.",
       "h2": "En Maryland, el conductor supervisor debe ir sentado junto al aprendiz, salvo que el vehículo sea una motocicleta.",
       "p": "¡Sí! La regla de ir sentado al lado no se aplica a motocicletas."
     }
@@ -8509,7 +8509,7 @@
     "sign": null,
     "c": 2,
     "en": {
-      "q": "Under Maryland law, how many points are added for speeding 10 mph or more over the posted limit (but less than 30 over)?",
+      "q": "Under Maryland law, how many points are added for speeding 10 to 19 mph over the posted limit?",
       "o": [
         "1 point",
         "5 points",
@@ -8517,11 +8517,11 @@
         "8 points"
       ],
       "h1": "Going a little over brings 1 point; this is the next step up.",
-      "h2": "Under Maryland law, speeding 10 mph or more over the posted limit adds 2 points to your record.",
+      "h2": "Under Maryland law, speeding 10 to 19 mph over the posted limit adds 2 points to your record.",
       "p": "Yes! It adds 2 points."
     },
     "es": {
-      "q": "Según la ley de Maryland, ¿cuántos puntos se suman por ir 10 mph o más por encima del límite (pero menos de 30)?",
+      "q": "Según la ley de Maryland, ¿cuántos puntos se suman por ir de 10 a 19 mph por encima del límite indicado?",
       "o": [
         "1 punto",
         "5 puntos",
@@ -8529,7 +8529,7 @@
         "8 puntos"
       ],
       "h1": "Pasarse un poco da 1 punto; este es el siguiente nivel.",
-      "h2": "Según la ley de Maryland, exceder el límite por 10 mph o más suma 2 puntos a su récord.",
+      "h2": "Según la ley de Maryland, exceder el límite indicado por 10 a 19 mph suma 2 puntos a su récord.",
       "p": "¡Sí! Suma 2 puntos."
     }
   },
