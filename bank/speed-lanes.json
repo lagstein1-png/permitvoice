@@ -6649,5 +6649,104 @@
       "h2": "Un vehículo de baja velocidad solo se puede manejar en calles con un límite de velocidad de 35 mph o menos, y el conductor debe tener licencia válida.",
       "p": "Correcto. Los LSV van solo por calles con límite de 35 mph o menos."
     }
+  },
+  {
+    "id": "speed-lanes-076",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 62,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, outside a city or town, how close may a truck follow another truck, unless it is passing?",
+      "o": [
+        "No closer than 100 feet",
+        "No closer than 200 feet",
+        "No closer than 300 feet",
+        "No closer than 500 feet"
+      ],
+      "h1": "It is the length of a football field.",
+      "h2": "In Florida, outside cities and towns, a truck or a vehicle towing another vehicle may not follow within 300 feet of another truck or towing vehicle, except when passing.",
+      "p": "Right. Trucks must stay at least 300 feet apart outside cities."
+    },
+    "es": {
+      "q": "En Florida, fuera de una ciudad o pueblo, ¿qué tan cerca puede un camión seguir a otro camión, a menos que lo esté rebasando?",
+      "o": [
+        "No más cerca de 100 pies",
+        "No más cerca de 200 pies",
+        "No más cerca de 300 pies",
+        "No más cerca de 500 pies"
+      ],
+      "h1": "Es el largo de un campo de fútbol americano.",
+      "h2": "En Florida, fuera de las ciudades y pueblos, un camión o un vehículo que remolca a otro no puede seguir a menos de 300 pies a otro camión o vehículo con remolque, excepto al rebasar.",
+      "p": "Correcto. Los camiones deben ir al menos a 300 pies de distancia fuera de las ciudades."
+    }
+  },
+  {
+    "id": "speed-lanes-077",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 63,
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, which of these may NOT be driven on a limited access highway, such as an interstate?",
+      "o": [
+        "A pickup truck",
+        "A car pulling a small trailer",
+        "A full-size motorcycle",
+        "A motor scooter of 150 cc or less"
+      ],
+      "h1": "Think of the smallest, slowest motor vehicle in the list.",
+      "h2": "In Florida, motor scooters and motor-driven cycles of 150 cc or less are not allowed on limited access highways.",
+      "p": "Right. Scooters of 150 cc or less may not use limited access highways."
+    },
+    "es": {
+      "q": "En Florida, ¿cuál de estos NO puede manejarse en una autopista de acceso limitado, como una interestatal?",
+      "o": [
+        "Una camioneta pickup",
+        "Un carro que remolca un remolque pequeño",
+        "Una motocicleta de tamaño normal",
+        "Una motoneta de 150 cc o menos"
+      ],
+      "h1": "Piense en el vehículo de motor más pequeño y lento de la lista.",
+      "h2": "En Florida, las motonetas y motocicletas de 150 cc o menos no se permiten en las autopistas de acceso limitado.",
+      "p": "Correcto. Las motonetas de 150 cc o menos no pueden usar las autopistas de acceso limitado."
+    }
+  },
+  {
+    "id": "speed-lanes-078",
+    "scope": "FL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 69,
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, may you use your turn signal to tell the driver behind you that it is safe to pass?",
+      "o": [
+        "Yes, that is what it is for",
+        "Yes, but only on two-lane roads",
+        "Yes, but only at night",
+        "No, that is against the law"
+      ],
+      "h1": "A turn signal should only tell others what you are about to do.",
+      "h2": "In Florida, it is against the law to use your turn signals to tell drivers behind you that they can pass.",
+      "p": "Right. Turn signals are not for waving others past."
+    },
+    "es": {
+      "q": "En Florida, ¿puede usar su direccional para decirle al conductor de atrás que es seguro rebasar?",
+      "o": [
+        "Sí, para eso sirve",
+        "Sí, pero solo en caminos de dos carriles",
+        "Sí, pero solo de noche",
+        "No, eso va contra la ley"
+      ],
+      "h1": "La direccional solo debe decir a los demás lo que usted va a hacer.",
+      "h2": "En Florida, es ilegal usar las direccionales para decirles a los conductores de atrás que pueden rebasar.",
+      "p": "Correcto. Las direccionales no sirven para indicar a otros que pasen."
+    }
   }
 ]
