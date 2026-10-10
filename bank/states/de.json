@@ -2130,5 +2130,175 @@
       "h2": "في Delaware، الطفل الذي عمره أقل من 12 سنة أو طوله أقل من 5 feet 5 inches يجب ألّا يجلس في مقعد الراكب الأمامي.",
       "p": "صحيح. الأطفال الذين عمرهم أقل من 12 سنة أو طولهم أقل من 5 feet 5 inches يجلسون في الخلف."
     }
+  },
+  {
+    "id": "de-027",
+    "scope": "DE",
+    "cat": "signals",
+    "conf": "high",
+    "page": 81,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, how far ahead must you signal before you turn?",
+      "o": [
+        "50 feet",
+        "100 feet",
+        "300 feet",
+        "1,000 feet"
+      ],
+      "h1": "Delaware asks for a longer distance than many states.",
+      "h2": "In Delaware, you must signal for at least 300 feet before you turn, stop or change lanes.",
+      "p": "Right. Signal 300 feet ahead."
+    },
+    "es": {
+      "q": "En Delaware, ¿con cuánta anticipación debe poner la direccional antes de dar vuelta?",
+      "o": [
+        "50 pies",
+        "100 pies",
+        "300 pies",
+        "1,000 pies"
+      ],
+      "h1": "Delaware pide una distancia más larga que muchos estados.",
+      "h2": "En Delaware, debe poner la direccional por lo menos 300 pies antes de dar vuelta, detenerse o cambiar de carril.",
+      "p": "Correcto. Ponga la direccional 300 pies antes."
+    }
+  },
+  {
+    "id": "de-028",
+    "scope": "DE",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 81,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, you are passing a bicyclist on a road with two lanes in your direction. What does the law say?",
+      "o": [
+        "Leave at least 3 feet and move to the other lane if you can",
+        "Leave at least 1 foot and stay in your lane",
+        "Honk and pass close to the bike",
+        "Pass on the right side of the bike"
+      ],
+      "h1": "There is a minimum distance, and an extra step on bigger roads.",
+      "h2": "In Delaware, you must leave at least three feet when passing a bicyclist, and on roads with more than one lane in your direction you should move to the next lane whenever possible.",
+      "p": "Right. At least 3 feet, and change lanes when you can."
+    },
+    "es": {
+      "q": "En Delaware, va a rebasar a un ciclista en una vía con dos carriles en su dirección. ¿Qué dice la ley?",
+      "o": [
+        "Dejar por lo menos 3 pies y pasarse al otro carril si puede",
+        "Dejar por lo menos 1 pie y quedarse en su carril",
+        "Tocar la bocina y pasar cerca de la bicicleta",
+        "Rebasar por el lado derecho de la bicicleta"
+      ],
+      "h1": "Hay una distancia mínima, y un paso más en vías grandes.",
+      "h2": "En Delaware, debe dejar por lo menos tres pies al rebasar a un ciclista, y en vías con más de un carril en su dirección debe pasarse al carril de al lado siempre que pueda.",
+      "p": "Correcto. Por lo menos 3 pies, y cámbiese de carril cuando pueda."
+    }
+  },
+  {
+    "id": "de-029",
+    "scope": "DE",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 92,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, how close to a fire hydrant may you stop or park?",
+      "o": [
+        "Up to 5 feet away",
+        "No closer than 15 feet",
+        "No closer than 30 feet",
+        "No closer than 50 feet"
+      ],
+      "h1": "Firefighters need room to reach the hydrant.",
+      "h2": "In Delaware, you may not stop or park within 15 feet of a fire hydrant.",
+      "p": "Right. Stay at least 15 feet from a fire hydrant."
+    },
+    "es": {
+      "q": "En Delaware, ¿a qué distancia de un hidrante puede detenerse o estacionarse?",
+      "o": [
+        "Hasta 5 pies de distancia",
+        "No más cerca de 15 pies",
+        "No más cerca de 30 pies",
+        "No más cerca de 50 pies"
+      ],
+      "h1": "Los bomberos necesitan espacio para llegar al hidrante.",
+      "h2": "En Delaware, usted no puede detenerse ni estacionarse a menos de 15 pies de un hidrante.",
+      "p": "Correcto. Quédese por lo menos a 15 pies de un hidrante."
+    }
+  },
+  {
+    "id": "de-030",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 40,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, what is the minimum vision needed for a driver license, with or without glasses?",
+      "o": [
+        "20/100",
+        "20/70",
+        "20/20",
+        "20/40"
+      ],
+      "h1": "It is the same standard many states use.",
+      "h2": "In Delaware, you need at least 20/40 vision, with or without glasses or contact lenses, to get a driver license.",
+      "p": "Right. The minimum is 20/40."
+    },
+    "es": {
+      "q": "En Delaware, ¿cuál es la visión mínima para una licencia de conducir, con o sin anteojos?",
+      "o": [
+        "20/100",
+        "20/70",
+        "20/20",
+        "20/40"
+      ],
+      "h1": "Es el mismo estándar que usan muchos estados.",
+      "h2": "En Delaware, necesita por lo menos una visión de 20/40, con o sin anteojos o lentes de contacto, para obtener una licencia de conducir.",
+      "p": "Correcto. El mínimo es 20/40."
+    }
+  },
+  {
+    "id": "de-031",
+    "scope": "DE",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 93,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, if no other limit is posted, what is the speed limit in a business or residential district?",
+      "o": [
+        "15 mph",
+        "35 mph",
+        "25 mph",
+        "45 mph"
+      ],
+      "h1": "It is a common town speed.",
+      "h2": "In Delaware, the speed limit in business and residential districts is 25 mph unless a different limit is posted.",
+      "p": "Right. It is 25 mph."
+    },
+    "es": {
+      "q": "En Delaware, si no hay otro límite señalado, ¿cuál es el límite de velocidad en una zona comercial o residencial?",
+      "o": [
+        "15 mph",
+        "35 mph",
+        "25 mph",
+        "45 mph"
+      ],
+      "h1": "Es una velocidad común en los pueblos.",
+      "h2": "En Delaware, el límite de velocidad en zonas comerciales y residenciales es de 25 mph, salvo que haya otro límite señalado.",
+      "p": "Correcto. Es de 25 mph."
+    }
   }
 ]
