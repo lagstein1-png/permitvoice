@@ -3634,5 +3634,1331 @@
       "h2": "Lè w ap antre sou yon gran wout, ou dwe kite machin ki deja sou li yo pase anvan epi chèche yon espas ki san danje.",
       "p": "Wi, se sa. Lè w ap antre, kite machin ki deja sou gran wout la pase anvan."
     }
+  },
+  {
+    "id": "right-of-way-040",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FHWA, Roundabouts, https://highways.dot.gov/safety/intersection-safety/intersection-types/roundabouts",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "You are about to enter a roundabout. Which way should you look for traffic?",
+      "o": [
+        "To your left, at cars already coming around",
+        "To your right only",
+        "Straight ahead only",
+        "Behind you only"
+      ],
+      "h1": "In the U.S., traffic in a roundabout comes from the left.",
+      "h2": "Before entering a roundabout, look to your left, because traffic already in the circle comes toward you from that side.",
+      "p": "Right. Look left before you enter."
+    },
+    "es": {
+      "q": "Usted va a entrar a una glorieta. ¿Hacia dónde debe mirar por el tráfico?",
+      "o": [
+        "A su izquierda, a los carros que ya vienen girando",
+        "Solo a su derecha",
+        "Solo de frente",
+        "Solo hacia atrás"
+      ],
+      "h1": "En EE. UU., el tráfico de la glorieta viene por la izquierda.",
+      "h2": "Antes de entrar a una glorieta, mire a su izquierda, porque el tráfico que ya está en el círculo viene hacia usted por ese lado.",
+      "p": "Correcto. Mire a la izquierda antes de entrar."
+    }
+  },
+  {
+    "id": "right-of-way-041",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FHWA, Roundabouts, https://highways.dot.gov/safety/intersection-safety/intersection-types/roundabouts",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "You are driving inside a roundabout. When should you stop?",
+      "o": [
+        "At every entry, to let cars in",
+        "Only if you must, to avoid a crash; otherwise keep moving to your exit",
+        "Whenever you want to read the signs",
+        "Before each exit"
+      ],
+      "h1": "Cars entering must yield to you.",
+      "h2": "Once you are inside a roundabout, keep moving to your exit and do not stop unless you must to avoid a crash.",
+      "p": "Right. Keep moving unless you must stop."
+    },
+    "es": {
+      "q": "Usted maneja dentro de una glorieta. ¿Cuándo debe pararse?",
+      "o": [
+        "En cada entrada, para dejar entrar carros",
+        "Solo si es necesario para evitar un choque; si no, siga hasta su salida",
+        "Cuando quiera leer las señales",
+        "Antes de cada salida"
+      ],
+      "h1": "Los que entran deben cederle el paso a usted.",
+      "h2": "Una vez dentro de la glorieta, siga avanzando hasta su salida y no se pare a menos que sea necesario para evitar un choque.",
+      "p": "Correcto. Siga avanzando salvo que deba pararse."
+    }
+  },
+  {
+    "id": "right-of-way-042",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FHWA, Roundabouts, https://highways.dot.gov/safety/intersection-safety/intersection-types/roundabouts",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You want to turn left at a roundabout. How do you do it?",
+      "o": [
+        "Turn left into the circle and go the short way",
+        "Drive across the center island",
+        "Go around the circle to the right (counterclockwise) to the exit on your left",
+        "Stop in the circle and wait for a gap"
+      ],
+      "h1": "In a roundabout, everyone goes the same direction.",
+      "h2": "To turn left at a roundabout, enter to the right and go counterclockwise around the center island to the exit on your left.",
+      "p": "Right. Go around to the right to reach your exit."
+    },
+    "es": {
+      "q": "Usted quiere girar a la izquierda en una glorieta. ¿Cómo lo hace?",
+      "o": [
+        "Gira a la izquierda al entrar y va por el lado corto",
+        "Cruza por la isla central",
+        "Da la vuelta al círculo hacia la derecha (en sentido contrario al reloj) hasta la salida a su izquierda",
+        "Se para en el círculo y espera un espacio"
+      ],
+      "h1": "En una glorieta, todos van en la misma dirección.",
+      "h2": "Para girar a la izquierda en una glorieta, entre hacia la derecha y dé la vuelta en sentido contrario al reloj alrededor de la isla central hasta la salida a su izquierda.",
+      "p": "Correcto. Dé la vuelta por la derecha hasta su salida."
+    }
+  },
+  {
+    "id": "right-of-way-043",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FHWA, Roundabouts, https://highways.dot.gov/safety/intersection-safety/intersection-types/roundabouts",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "You are inside a roundabout and miss your exit. What should you do?",
+      "o": [
+        "Stop and back up",
+        "Turn sharply across the lanes",
+        "Exit through the center island",
+        "Go around the circle again to your exit"
+      ],
+      "h1": "A roundabout lets you circle again safely.",
+      "h2": "If you miss your exit in a roundabout, simply go around again; never stop or back up.",
+      "p": "Right. Go around again."
+    },
+    "es": {
+      "q": "Usted está dentro de una glorieta y se pasa de su salida. ¿Qué debe hacer?",
+      "o": [
+        "Pararse y retroceder",
+        "Girar bruscamente cruzando los carriles",
+        "Salir por la isla central",
+        "Dar otra vuelta al círculo hasta su salida"
+      ],
+      "h1": "Una glorieta le permite dar otra vuelta con seguridad.",
+      "h2": "Si se pasa de su salida en una glorieta, simplemente dé otra vuelta; nunca se pare ni retroceda.",
+      "p": "Correcto. Dé otra vuelta."
+    }
+  },
+  {
+    "id": "right-of-way-044",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FHWA, Roundabouts, https://highways.dot.gov/safety/intersection-safety/intersection-types/roundabouts",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In a roundabout with two lanes, which lane is usually used to turn left or make a U-turn?",
+      "o": [
+        "The left (inside) lane, unless signs or arrows say otherwise",
+        "The right (outside) lane",
+        "Either lane, and change lanes in the circle",
+        "The shoulder"
+      ],
+      "h1": "Choose your lane before you enter.",
+      "h2": "In a two-lane roundabout, you usually use the left lane to turn left or make a U-turn, following any signs and lane arrows, and choose it before entering.",
+      "p": "Right. Usually the left lane, chosen before you enter."
+    },
+    "es": {
+      "q": "En una glorieta de dos carriles, ¿qué carril se usa normalmente para girar a la izquierda o dar la vuelta en U?",
+      "o": [
+        "El carril izquierdo (interior), salvo que las señales o flechas indiquen otra cosa",
+        "El carril derecho (exterior)",
+        "Cualquiera, cambiando de carril dentro del círculo",
+        "El acotamiento"
+      ],
+      "h1": "Escoja su carril antes de entrar.",
+      "h2": "En una glorieta de dos carriles, normalmente se usa el carril izquierdo para girar a la izquierda o dar la vuelta en U, siguiendo las señales y flechas, y se escoge antes de entrar.",
+      "p": "Correcto. Normalmente el izquierdo, escogido antes de entrar."
+    }
+  },
+  {
+    "id": "right-of-way-045",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FHWA, Roundabouts, https://highways.dot.gov/safety/intersection-safety/intersection-types/roundabouts",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "A large truck is entering a roundabout next to you. What should you do?",
+      "o": [
+        "Drive next to it so you both fit",
+        "Stay back; do not drive beside the truck in the circle",
+        "Pass it inside the circle",
+        "Honk so it waits"
+      ],
+      "h1": "Long trucks need extra room to turn.",
+      "h2": "A large truck may use more than one lane and the center apron in a roundabout, so stay back and do not drive beside it.",
+      "p": "Right. Give the truck room."
+    },
+    "es": {
+      "q": "Un camión grande entra a una glorieta al lado de usted. ¿Qué debe hacer?",
+      "o": [
+        "Manejar a su lado porque caben los dos",
+        "Quedarse atrás; no manejar al lado del camión en el círculo",
+        "Rebasarlo dentro del círculo",
+        "Tocar la bocina para que espere"
+      ],
+      "h1": "Los camiones largos necesitan más espacio para girar.",
+      "h2": "Un camión grande puede usar más de un carril y la plataforma central de la glorieta, así que quédese atrás y no maneje a su lado.",
+      "p": "Correcto. Dele espacio al camión."
+    }
+  },
+  {
+    "id": "right-of-way-046",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FHWA, Roundabouts, https://highways.dot.gov/safety/intersection-safety/intersection-types/roundabouts",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You are leaving a roundabout. People are in the crosswalk on the exit road. What should you do?",
+      "o": [
+        "Drive around them",
+        "Honk so they hurry",
+        "Stop and let them cross before you exit",
+        "Stay in the circle until they finish"
+      ],
+      "h1": "Crosswalks are just before and after the circle.",
+      "h2": "At a roundabout, crosswalks are set back from the circle, so when you exit you must stop for people in the crosswalk.",
+      "p": "Right. Let them cross before you exit."
+    },
+    "es": {
+      "q": "Usted está saliendo de una glorieta. Hay personas en el cruce peatonal de la vía de salida. ¿Qué debe hacer?",
+      "o": [
+        "Rodearlas",
+        "Tocar la bocina para que se apuren",
+        "Pararse y dejarlas cruzar antes de salir",
+        "Quedarse dando vueltas hasta que terminen"
+      ],
+      "h1": "Los cruces peatonales están justo antes y después del círculo.",
+      "h2": "En una glorieta, los cruces peatonales están un poco alejados del círculo, así que al salir debe pararse por las personas que estén en el cruce.",
+      "p": "Correcto. Déjelas cruzar antes de salir."
+    }
+  },
+  {
+    "id": "right-of-way-047",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FHWA, Roundabouts, https://highways.dot.gov/safety/intersection-safety/intersection-types/roundabouts",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "You are in a roundabout and hear a siren behind you. What should you do?",
+      "o": [
+        "Stop right away inside the circle",
+        "Speed up and go around again",
+        "Pull onto the center island",
+        "Drive on to your exit, leave the roundabout, then pull over"
+      ],
+      "h1": "Stopping inside the circle can block the emergency vehicle.",
+      "h2": "If an emergency vehicle comes while you are in a roundabout, continue to your exit, leave the circle, and then pull over to let it pass.",
+      "p": "Right. Exit first, then pull over."
+    },
+    "es": {
+      "q": "Usted está en una glorieta y oye una sirena detrás. ¿Qué debe hacer?",
+      "o": [
+        "Pararse enseguida dentro del círculo",
+        "Acelerar y dar otra vuelta",
+        "Subirse a la isla central",
+        "Seguir hasta su salida, salir de la glorieta y luego orillarse"
+      ],
+      "h1": "Pararse dentro del círculo puede bloquear al vehículo de emergencia.",
+      "h2": "Si viene un vehículo de emergencia mientras está en una glorieta, siga hasta su salida, salga del círculo y luego oríllese para dejarlo pasar.",
+      "p": "Correcto. Salga primero y luego oríllese."
+    }
+  },
+  {
+    "id": "right-of-way-048",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FHWA, Roundabouts, https://highways.dot.gov/safety/intersection-safety/intersection-types/roundabouts",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "What should you do just before you leave a roundabout?",
+      "o": [
+        "Turn on your right turn signal",
+        "Turn on your left turn signal",
+        "Turn on your hazard lights",
+        "Honk your horn"
+      ],
+      "h1": "Others need to know you are leaving.",
+      "h2": "Signal right just before your exit so drivers waiting to enter and people walking know you are leaving the roundabout.",
+      "p": "Right. Signal right before your exit."
+    },
+    "es": {
+      "q": "¿Qué debe hacer justo antes de salir de una glorieta?",
+      "o": [
+        "Encender la direccional derecha",
+        "Encender la direccional izquierda",
+        "Encender las luces de emergencia",
+        "Tocar la bocina"
+      ],
+      "h1": "Los demás necesitan saber que usted sale.",
+      "h2": "Ponga la direccional derecha justo antes de su salida para que los que esperan entrar y los peatones sepan que sale de la glorieta.",
+      "p": "Correcto. Señale a la derecha antes de salir."
+    }
+  },
+  {
+    "id": "right-of-way-049",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "Uniform Vehicle Code, rules of the road (see MUTCD 11th Edition Section 1A.06, https://mutcd.fhwa.dot.gov/)",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "You hear a siren but cannot tell where the emergency vehicle is. What should you do?",
+      "o": [
+        "Keep driving at the same speed",
+        "Slow down, check your mirrors and look around, and be ready to pull over",
+        "Stop in your lane right away",
+        "Speed up to get out of the way"
+      ],
+      "h1": "You need to find the vehicle before you act.",
+      "h2": "When you hear a siren but cannot see the vehicle, slow down, check mirrors and around you, and be ready to pull over and stop.",
+      "p": "Right. Slow down, look, and be ready."
+    },
+    "es": {
+      "q": "Usted oye una sirena pero no sabe dónde está el vehículo de emergencia. ¿Qué debe hacer?",
+      "o": [
+        "Seguir a la misma velocidad",
+        "Bajar la velocidad, mirar los espejos y alrededor, y estar listo para orillarse",
+        "Pararse enseguida en su carril",
+        "Acelerar para quitarse del camino"
+      ],
+      "h1": "Necesita encontrar el vehículo antes de actuar.",
+      "h2": "Cuando oye una sirena pero no ve el vehículo, baje la velocidad, revise los espejos y su alrededor, y esté listo para orillarse y pararse.",
+      "p": "Correcto. Baje la velocidad, mire y esté listo."
+    }
+  },
+  {
+    "id": "right-of-way-050",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "Uniform Vehicle Code, rules of the road (see MUTCD 11th Edition Section 1A.06, https://mutcd.fhwa.dot.gov/)",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You pulled over for a fire truck. It has passed. What should you do before you drive on?",
+      "o": [
+        "Follow close behind the fire truck",
+        "Pull out right away to catch up with traffic",
+        "Check for more emergency vehicles, then merge back carefully",
+        "Turn on your hazard lights and drive on the shoulder"
+      ],
+      "h1": "Emergency vehicles often travel in groups.",
+      "h2": "After an emergency vehicle passes, look and listen for others that may follow, then signal and return to traffic carefully.",
+      "p": "Right. Check for more, then merge carefully."
+    },
+    "es": {
+      "q": "Usted se orilló por un camión de bomberos. Ya pasó. ¿Qué debe hacer antes de seguir?",
+      "o": [
+        "Seguir muy de cerca al camión de bomberos",
+        "Salir enseguida para alcanzar al tráfico",
+        "Fijarse si vienen más vehículos de emergencia y volver al tráfico con cuidado",
+        "Poner las luces de emergencia y seguir por el acotamiento"
+      ],
+      "h1": "Los vehículos de emergencia muchas veces van en grupo.",
+      "h2": "Después de que pasa un vehículo de emergencia, mire y escuche por si vienen otros, y luego señale y vuelva al tráfico con cuidado.",
+      "p": "Correcto. Fíjese si vienen más y vuelva con cuidado."
+    }
+  },
+  {
+    "id": "right-of-way-051",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "Uniform Vehicle Code, rules of the road (see MUTCD 11th Edition Section 1A.06, https://mutcd.fhwa.dot.gov/)",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "You are listening to loud music with the windows up. Why is this a problem near emergency vehicles?",
+      "o": [
+        "Sirens can damage your speakers",
+        "Music makes emergency lights hard to see",
+        "It is not a problem",
+        "You may not hear a siren in time"
+      ],
+      "h1": "Your ears warn you before your eyes can.",
+      "h2": "Loud music and closed windows can keep you from hearing a siren, so check your mirrors often and keep the volume low enough to hear.",
+      "p": "Right. You may not hear the siren."
+    },
+    "es": {
+      "q": "Usted escucha música muy alta con las ventanas cerradas. ¿Por qué es un problema cerca de vehículos de emergencia?",
+      "o": [
+        "Porque las sirenas pueden dañar sus parlantes",
+        "Porque la música hace difícil ver las luces de emergencia",
+        "No es un problema",
+        "Porque puede no oír una sirena a tiempo"
+      ],
+      "h1": "Los oídos le avisan antes que los ojos.",
+      "h2": "La música alta y las ventanas cerradas pueden impedirle oír una sirena, así que mire los espejos a menudo y mantenga el volumen lo bastante bajo para oír.",
+      "p": "Correcto. Puede no oír la sirena."
+    }
+  },
+  {
+    "id": "right-of-way-052",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "Uniform Vehicle Code, rules of the road (see MUTCD 11th Edition Section 1A.06, https://mutcd.fhwa.dot.gov/) ; NHTSA, Pedestrian Safety, https://www.nhtsa.gov/road-safety/pedestrian-safety",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "A person is crossing in the middle of the block, not at a crosswalk. What should you do?",
+      "o": [
+        "Slow down and stop if needed to avoid hitting them",
+        "Keep going, because they are crossing in the wrong place",
+        "Honk and drive around them fast",
+        "Speed up to pass before they reach your lane"
+      ],
+      "h1": "Drivers must always try to avoid hitting people.",
+      "h2": "Even when a person crosses outside a crosswalk, you must slow down and stop if needed to avoid hitting them.",
+      "p": "Right. Always avoid hitting people on foot."
+    },
+    "es": {
+      "q": "Una persona cruza a mitad de cuadra, no en un cruce peatonal. ¿Qué debe hacer?",
+      "o": [
+        "Bajar la velocidad y pararse si es necesario para no atropellarla",
+        "Seguir, porque cruza en un lugar indebido",
+        "Tocar la bocina y rodearla rápido",
+        "Acelerar para pasar antes de que llegue a su carril"
+      ],
+      "h1": "Los conductores siempre deben tratar de no atropellar a nadie.",
+      "h2": "Aunque una persona cruce fuera de un cruce peatonal, usted debe bajar la velocidad y pararse si es necesario para no atropellarla.",
+      "p": "Correcto. Siempre evite atropellar a los peatones."
+    }
+  },
+  {
+    "id": "right-of-way-053",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Pedestrian Safety, https://www.nhtsa.gov/road-safety/pedestrian-safety",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "A ball rolls into the street from between parked cars. What should you do?",
+      "o": [
+        "Swerve around the ball and keep your speed",
+        "Slow down and be ready to stop; a child may run after it",
+        "Honk and keep going",
+        "Speed up to pass quickly"
+      ],
+      "h1": "Think about who might follow the ball.",
+      "h2": "A ball rolling into the street is a warning that a child may run out after it, so slow down and be ready to stop.",
+      "p": "Right. A child may follow the ball."
+    },
+    "es": {
+      "q": "Una pelota sale rodando a la calle entre carros estacionados. ¿Qué debe hacer?",
+      "o": [
+        "Esquivar la pelota y mantener la velocidad",
+        "Bajar la velocidad y estar listo para pararse; un niño puede salir detrás",
+        "Tocar la bocina y seguir",
+        "Acelerar para pasar rápido"
+      ],
+      "h1": "Piense en quién podría ir detrás de la pelota.",
+      "h2": "Una pelota que sale a la calle es una señal de que un niño puede salir corriendo detrás, así que baje la velocidad y esté listo para pararse.",
+      "p": "Correcto. Un niño puede seguir la pelota."
+    }
+  },
+  {
+    "id": "right-of-way-054",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Pedestrian Safety, https://www.nhtsa.gov/road-safety/pedestrian-safety",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You are stopped at a crosswalk, and a car in the next lane is also stopped there. What should you think?",
+      "o": [
+        "The other driver is lost",
+        "You may pass the stopped car",
+        "Someone may be crossing in front of that car, where you cannot see",
+        "The light must be broken"
+      ],
+      "h1": "A stopped car can hide a person on foot.",
+      "h2": "When another car is stopped at a crosswalk, a person may be crossing in front of it, so never pass it; wait until you are sure the crosswalk is clear.",
+      "p": "Right. A person may be hidden in front of it."
+    },
+    "es": {
+      "q": "Usted se acerca a un cruce peatonal y un carro en el carril de al lado está parado allí. ¿Qué debe pensar?",
+      "o": [
+        "Que el otro conductor está perdido",
+        "Que puede rebasar al carro parado",
+        "Que alguien puede estar cruzando frente a ese carro, donde usted no ve",
+        "Que el semáforo debe estar dañado"
+      ],
+      "h1": "Un carro parado puede ocultar a un peatón.",
+      "h2": "Cuando otro carro está parado en un cruce peatonal, puede haber una persona cruzando frente a él, así que nunca lo rebase; espere hasta estar seguro de que el cruce está libre.",
+      "p": "Correcto. Puede haber una persona oculta frente a él."
+    }
+  },
+  {
+    "id": "right-of-way-055",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Pedestrian Safety, https://www.nhtsa.gov/road-safety/pedestrian-safety",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Why should you take extra care near people walking at night?",
+      "o": [
+        "People walk faster at night",
+        "Crosswalks are closed at night",
+        "Streetlights make people easy to see",
+        "People in dark clothes are very hard to see"
+      ],
+      "h1": "Think about what your headlights show.",
+      "h2": "At night, people on foot, especially in dark clothing, are very hard to see, so slow down and watch carefully near crosswalks and roadsides.",
+      "p": "Right. People are hard to see at night."
+    },
+    "es": {
+      "q": "¿Por qué debe tener más cuidado con los peatones de noche?",
+      "o": [
+        "Porque la gente camina más rápido de noche",
+        "Porque los cruces se cierran de noche",
+        "Porque las luces de la calle hacen fácil verlos",
+        "Porque las personas con ropa oscura son muy difíciles de ver"
+      ],
+      "h1": "Piense en lo que muestran sus faros.",
+      "h2": "De noche, los peatones, sobre todo con ropa oscura, son muy difíciles de ver, así que baje la velocidad y mire con cuidado cerca de cruces y orillas.",
+      "p": "Correcto. De noche es difícil ver a la gente."
+    }
+  },
+  {
+    "id": "right-of-way-056",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Pedestrian Safety, https://www.nhtsa.gov/road-safety/pedestrian-safety",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "You are backing out of a parking space in a busy lot. What is most important?",
+      "o": [
+        "Back up slowly and keep looking behind you for people and cars",
+        "Back up quickly to get out of the way",
+        "Use only your mirrors",
+        "Honk and back out without looking"
+      ],
+      "h1": "Small children are hard to see behind a car.",
+      "h2": "When backing out, go slowly and keep looking behind you, because people, especially children, can walk behind your car without warning.",
+      "p": "Right. Back up slowly and keep looking."
+    },
+    "es": {
+      "q": "Usted sale en reversa de un espacio en un estacionamiento lleno. ¿Qué es lo más importante?",
+      "o": [
+        "Retroceder despacio y seguir mirando hacia atrás por personas y carros",
+        "Retroceder rápido para no estorbar",
+        "Usar solo los espejos",
+        "Tocar la bocina y salir sin mirar"
+      ],
+      "h1": "Los niños pequeños son difíciles de ver detrás de un carro.",
+      "h2": "Al salir en reversa, vaya despacio y siga mirando hacia atrás, porque las personas, sobre todo los niños, pueden pasar detrás de su carro sin aviso.",
+      "p": "Correcto. Retroceda despacio y siga mirando."
+    }
+  },
+  {
+    "id": "right-of-way-057",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Bicycle Safety, https://www.nhtsa.gov/road-safety/bicycle-safety",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "A bicycle rider is ahead of you in your lane on a narrow road. What should you do?",
+      "o": [
+        "Honk so the rider moves off the road",
+        "Slow down and pass only when you can give plenty of room safely",
+        "Pass closely at your normal speed",
+        "Follow very close behind"
+      ],
+      "h1": "A bicycle is a vehicle on the road.",
+      "h2": "Treat a bicycle as a slow vehicle: slow down, wait for a safe chance, and pass with plenty of space.",
+      "p": "Right. Wait and pass with plenty of room."
+    },
+    "es": {
+      "q": "Hay un ciclista delante de usted en su carril en una vía angosta. ¿Qué debe hacer?",
+      "o": [
+        "Tocar la bocina para que se salga de la vía",
+        "Bajar la velocidad y rebasar solo cuando pueda dejar mucho espacio con seguridad",
+        "Rebasarlo de cerca a su velocidad normal",
+        "Seguirlo muy de cerca"
+      ],
+      "h1": "Una bicicleta es un vehículo en la vía.",
+      "h2": "Trate a la bicicleta como un vehículo lento: baje la velocidad, espere una oportunidad segura y rebase dejando mucho espacio.",
+      "p": "Correcto. Espere y rebase con mucho espacio."
+    }
+  },
+  {
+    "id": "right-of-way-058",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Bicycle Safety, https://www.nhtsa.gov/road-safety/bicycle-safety",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "A bicycle rider ahead holds the left arm out with the hand pointing up. What does this mean?",
+      "o": [
+        "The rider is going to turn left",
+        "The rider wants you to pass",
+        "The rider is going to turn right",
+        "The rider is stopping to rest"
+      ],
+      "h1": "Some riders use the left arm to signal a right turn.",
+      "h2": "A left arm bent up at the elbow is the hand signal for a right turn, used by drivers and bicycle riders.",
+      "p": "Right. It means a right turn."
+    },
+    "es": {
+      "q": "Un ciclista adelante extiende el brazo izquierdo con la mano hacia arriba. ¿Qué significa?",
+      "o": [
+        "Que va a girar a la izquierda",
+        "Que quiere que usted lo rebase",
+        "Que va a girar a la derecha",
+        "Que se va a parar a descansar"
+      ],
+      "h1": "Algunos ciclistas usan el brazo izquierdo para señalar un giro a la derecha.",
+      "h2": "El brazo izquierdo doblado hacia arriba es la señal de mano para girar a la derecha, que usan conductores y ciclistas.",
+      "p": "Correcto. Significa giro a la derecha."
+    }
+  },
+  {
+    "id": "right-of-way-059",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Motorcycle Safety, https://www.nhtsa.gov/road-safety/motorcycles",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Why might a motorcycle rider move from one side of the lane to the other?",
+      "o": [
+        "To block you from passing",
+        "Because the lane is too small",
+        "Because riders should ride on the line",
+        "To be seen better and to avoid holes or debris"
+      ],
+      "h1": "Riders adjust to stay safe.",
+      "h2": "Motorcycle riders change position in the lane to be seen by others and to avoid hazards like potholes, oil or debris.",
+      "p": "Right. To be seen and avoid hazards."
+    },
+    "es": {
+      "q": "¿Por qué un motociclista puede moverse de un lado a otro del carril?",
+      "o": [
+        "Para no dejar que usted lo rebase",
+        "Porque el carril es muy pequeño",
+        "Porque los motociclistas deben ir sobre la línea",
+        "Para que lo vean mejor y para evitar baches o basura"
+      ],
+      "h1": "Los motociclistas se acomodan para ir seguros.",
+      "h2": "Los motociclistas cambian de posición en el carril para que los demás los vean y para evitar peligros como baches, aceite o basura.",
+      "p": "Correcto. Para ser vistos y evitar peligros."
+    }
+  },
+  {
+    "id": "right-of-way-060",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Motorcycle Safety, https://www.nhtsa.gov/road-safety/motorcycles",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Why should you leave more space when following a motorcycle?",
+      "o": [
+        "A motorcycle can stop very quickly",
+        "Motorcycles are slower than cars",
+        "Motorcycles always swerve",
+        "You need room to pass in the same lane"
+      ],
+      "h1": "Motorcycles are light and brake fast.",
+      "h2": "A motorcycle can stop much faster than a car, so leave extra following distance to avoid hitting it.",
+      "p": "Right. A motorcycle can stop very fast."
+    },
+    "es": {
+      "q": "¿Por qué debe dejar más espacio cuando sigue a una motocicleta?",
+      "o": [
+        "Porque una motocicleta puede pararse muy rápido",
+        "Porque las motocicletas son más lentas que los carros",
+        "Porque las motocicletas siempre zigzaguean",
+        "Porque necesita espacio para rebasar en el mismo carril"
+      ],
+      "h1": "Las motocicletas son livianas y frenan rápido.",
+      "h2": "Una motocicleta puede pararse mucho más rápido que un carro, así que deje más distancia para no chocarla.",
+      "p": "Correcto. Una motocicleta puede pararse muy rápido."
+    }
+  },
+  {
+    "id": "right-of-way-061",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Motorcycle Safety, https://www.nhtsa.gov/road-safety/motorcycles",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "A motorcycle coming toward you has its turn signal on. You want to pull out. What should you do?",
+      "o": [
+        "Pull out right away",
+        "Wait until you are sure it is really turning",
+        "Flash your lights so it stops",
+        "Honk and go"
+      ],
+      "h1": "Motorcycle signals do not always turn off by themselves.",
+      "h2": "Some motorcycle turn signals do not cancel on their own, so wait until you are sure the motorcycle is actually turning before you pull out.",
+      "p": "Right. Be sure it is turning first."
+    },
+    "es": {
+      "q": "Una motocicleta que viene de frente tiene la direccional puesta. Usted quiere salir. ¿Qué debe hacer?",
+      "o": [
+        "Salir enseguida",
+        "Esperar hasta estar seguro de que realmente va a girar",
+        "Hacerle cambio de luces para que se pare",
+        "Tocar la bocina y salir"
+      ],
+      "h1": "Las direccionales de las motocicletas no siempre se apagan solas.",
+      "h2": "Algunas direccionales de motocicleta no se apagan solas, así que espere hasta estar seguro de que la motocicleta realmente gira antes de salir.",
+      "p": "Correcto. Asegúrese primero de que gira."
+    }
+  },
+  {
+    "id": "right-of-way-062",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FMCSA, Our Roads, Our Safety, https://www.fmcsa.dot.gov/ourroads",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Where are a large truck's \"No-Zones\", where the driver may not see you?",
+      "o": [
+        "Only far behind the truck",
+        "Only in front of the cab",
+        "Beside the truck, close behind it, and close in front of it",
+        "There are none if the truck has mirrors"
+      ],
+      "h1": "Trucks have large blind spots on all sides.",
+      "h2": "A large truck has No-Zones beside it, right behind it and right in front of it, where the driver cannot see your car.",
+      "p": "Right. Beside, behind and in front."
+    },
+    "es": {
+      "q": "¿Dónde están las \"zonas ciegas\" (No-Zones) de un camión grande, donde el conductor puede no verlo?",
+      "o": [
+        "Solo lejos detrás del camión",
+        "Solo delante de la cabina",
+        "A los lados, muy cerca detrás y muy cerca delante",
+        "No hay si el camión tiene espejos"
+      ],
+      "h1": "Los camiones tienen grandes puntos ciegos en todos los lados.",
+      "h2": "Un camión grande tiene zonas ciegas a sus lados, justo detrás y justo delante, donde el conductor no puede ver su carro.",
+      "p": "Correcto. A los lados, detrás y delante."
+    }
+  },
+  {
+    "id": "right-of-way-063",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FMCSA, Our Roads, Our Safety, https://www.fmcsa.dot.gov/ourroads",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "You want to pass a large truck on the highway. How should you do it?",
+      "o": [
+        "Stay beside it to see if it changes lanes",
+        "Pass on the right side",
+        "Pass slowly, close to the truck",
+        "Pass steadily without staying beside it, and signal clearly"
+      ],
+      "h1": "The side of a truck is a blind spot.",
+      "h2": "Pass a large truck on the left, signal clearly, and move past steadily so you do not stay in its blind spot beside it.",
+      "p": "Right. Pass steadily; do not stay beside it."
+    },
+    "es": {
+      "q": "Usted quiere rebasar a un camión grande en la carretera. ¿Cómo debe hacerlo?",
+      "o": [
+        "Quedarse a su lado para ver si cambia de carril",
+        "Rebasar por la derecha",
+        "Rebasar despacio, cerca del camión",
+        "Rebasar de forma constante sin quedarse a su lado, y señalar claramente"
+      ],
+      "h1": "El costado de un camión es un punto ciego.",
+      "h2": "Rebase a un camión grande por la izquierda, señale claramente y pase de forma constante para no quedarse en su punto ciego al costado.",
+      "p": "Correcto. Pase de forma constante; no se quede al lado."
+    }
+  },
+  {
+    "id": "right-of-way-064",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FMCSA, Our Roads, Our Safety, https://www.fmcsa.dot.gov/ourroads",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Why is it dangerous to follow close behind a large truck?",
+      "o": [
+        "The driver cannot see you, and you cannot see the road ahead",
+        "Trucks never brake",
+        "The truck will slow down to let you pass",
+        "It saves fuel, so it is safe"
+      ],
+      "h1": "A truck blocks your view.",
+      "h2": "Following close behind a truck puts you in its blind spot and blocks your view of the road ahead, so drop back.",
+      "p": "Right. Neither of you can see well."
+    },
+    "es": {
+      "q": "¿Por qué es peligroso seguir muy de cerca a un camión grande?",
+      "o": [
+        "Porque el conductor no lo ve y usted no ve la vía adelante",
+        "Porque los camiones nunca frenan",
+        "Porque el camión bajará la velocidad para dejarlo pasar",
+        "Ahorra gasolina, así que es seguro"
+      ],
+      "h1": "Un camión le tapa la vista.",
+      "h2": "Seguir muy de cerca a un camión lo pone en su punto ciego y le tapa la vista de la vía adelante, así que quédese más atrás.",
+      "p": "Correcto. Ninguno de los dos ve bien."
+    }
+  },
+  {
+    "id": "right-of-way-065",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FMCSA, Our Roads, Our Safety, https://www.fmcsa.dot.gov/ourroads",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Why should you never cut in front of a large truck and then slow down?",
+      "o": [
+        "Trucks can stop faster than cars",
+        "A loaded truck needs much more distance to stop than a car",
+        "The truck driver will honk",
+        "It is only a problem at night"
+      ],
+      "h1": "Think about the weight of a truck.",
+      "h2": "A heavy truck needs much more distance to stop than a car, so cutting in and slowing down in front of it can cause a crash.",
+      "p": "Right. Trucks need far more room to stop."
+    },
+    "es": {
+      "q": "¿Por qué nunca debe meterse delante de un camión grande y luego frenar?",
+      "o": [
+        "Porque los camiones frenan más rápido que los carros",
+        "Porque un camión cargado necesita mucha más distancia para pararse que un carro",
+        "Porque el camionero tocará la bocina",
+        "Solo es un problema de noche"
+      ],
+      "h1": "Piense en el peso de un camión.",
+      "h2": "Un camión pesado necesita mucha más distancia para pararse que un carro, así que meterse y frenar delante de él puede causar un choque.",
+      "p": "Correcto. Los camiones necesitan mucho más espacio para parar."
+    }
+  },
+  {
+    "id": "right-of-way-066",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FMCSA, Our Roads, Our Safety, https://www.fmcsa.dot.gov/ourroads",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "A large truck passes you on the highway, and its wind pushes your car. What should you do?",
+      "o": [
+        "Brake hard",
+        "Steer sharply away",
+        "Keep both hands on the wheel and hold your lane",
+        "Speed up beside the truck"
+      ],
+      "h1": "The push is brief.",
+      "h2": "The air moving around a large truck can push your car, so keep both hands on the wheel, stay calm and hold your lane.",
+      "p": "Right. Hold the wheel and keep your lane."
+    },
+    "es": {
+      "q": "Un camión grande lo rebasa en la carretera y el viento empuja su carro. ¿Qué debe hacer?",
+      "o": [
+        "Frenar fuerte",
+        "Girar bruscamente para alejarse",
+        "Mantener ambas manos en el volante y seguir en su carril",
+        "Acelerar al lado del camión"
+      ],
+      "h1": "El empujón dura poco.",
+      "h2": "El aire que mueve un camión grande puede empujar su carro, así que mantenga ambas manos en el volante, conserve la calma y siga en su carril.",
+      "p": "Correcto. Sujete el volante y siga en su carril."
+    }
+  },
+  {
+    "id": "right-of-way-067",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FMCSA, Our Roads, Our Safety, https://www.fmcsa.dot.gov/ourroads",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "You are behind a school bus or transit bus that stops often. What should you do?",
+      "o": [
+        "Pass it as soon as it slows",
+        "Follow close so you can pass quickly",
+        "Honk each time it stops",
+        "Keep a safe distance and be ready to stop"
+      ],
+      "h1": "Buses stop to pick up and drop off people.",
+      "h2": "Buses stop often and people may be getting on or off, so stay back a safe distance and be ready to stop.",
+      "p": "Right. Stay back and be ready to stop."
+    },
+    "es": {
+      "q": "Usted va detrás de un autobús escolar o urbano que se para seguido. ¿Qué debe hacer?",
+      "o": [
+        "Rebasarlo en cuanto baje la velocidad",
+        "Seguirlo de cerca para rebasar rápido",
+        "Tocar la bocina cada vez que para",
+        "Mantener una distancia segura y estar listo para pararse"
+      ],
+      "h1": "Los autobuses paran para subir y bajar personas.",
+      "h2": "Los autobuses se paran a menudo y puede haber personas subiendo o bajando, así que manténgase a una distancia segura y esté listo para pararse.",
+      "p": "Correcto. Quédese atrás y esté listo para parar."
+    }
+  },
+  {
+    "id": "right-of-way-068",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FRA, Highway-Rail Grade Crossing Safety, https://railroads.dot.gov/ ; Operation Lifesaver, https://oli.org/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Why can a train not stop quickly to avoid a car on the tracks?",
+      "o": [
+        "A train is so heavy that it may need a mile or more to stop",
+        "Train drivers are not allowed to brake",
+        "Trains have no brakes",
+        "Trains can stop in a few feet"
+      ],
+      "h1": "Think about how heavy a train is.",
+      "h2": "A train is extremely heavy, so even with emergency brakes it can take a mile or more to stop; it cannot stop for a car on the tracks.",
+      "p": "Right. A train needs a very long distance to stop."
+    },
+    "es": {
+      "q": "¿Por qué un tren no puede pararse rápido para no chocar a un carro en las vías?",
+      "o": [
+        "Porque un tren es tan pesado que puede necesitar una milla o más para pararse",
+        "Porque los maquinistas no pueden frenar",
+        "Porque los trenes no tienen frenos",
+        "Los trenes pueden pararse en pocos pies"
+      ],
+      "h1": "Piense en lo pesado que es un tren.",
+      "h2": "Un tren es pesadísimo, así que aun con los frenos de emergencia puede tardar una milla o más en pararse; no puede pararse por un carro en las vías.",
+      "p": "Correcto. Un tren necesita muchísima distancia para parar."
+    }
+  },
+  {
+    "id": "right-of-way-069",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FRA, Highway-Rail Grade Crossing Safety, https://railroads.dot.gov/ ; Operation Lifesaver, https://oli.org/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "A train seems to be moving slowly and far away. Why should you still not try to cross ahead of it?",
+      "o": [
+        "Slow trains always stop for cars",
+        "Trains are usually closer and faster than they look",
+        "The crossing lights are wrong",
+        "Trains back up often"
+      ],
+      "h1": "Large objects are hard to judge.",
+      "h2": "A train is so big that it looks slower and farther away than it really is, so never try to beat a train to the crossing.",
+      "p": "Right. Trains are closer and faster than they look."
+    },
+    "es": {
+      "q": "Un tren parece ir despacio y estar lejos. ¿Por qué aun así no debe cruzar delante de él?",
+      "o": [
+        "Porque los trenes lentos siempre paran por los carros",
+        "Porque los trenes suelen estar más cerca e ir más rápido de lo que parece",
+        "Porque las luces del cruce están mal",
+        "Porque los trenes retroceden a menudo"
+      ],
+      "h1": "Los objetos grandes son difíciles de calcular.",
+      "h2": "Un tren es tan grande que parece más lento y más lejano de lo que realmente está, así que nunca intente ganarle al tren en el cruce.",
+      "p": "Correcto. Los trenes están más cerca y van más rápido de lo que parece."
+    }
+  },
+  {
+    "id": "right-of-way-070",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FRA, Highway-Rail Grade Crossing Safety, https://railroads.dot.gov/ ; Operation Lifesaver, https://oli.org/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You come to a railroad crossing with only a crossbuck sign: no lights or gates. What should you do?",
+      "o": [
+        "Cross at your normal speed",
+        "Stop only if you see a train on the tracks",
+        "Slow down, look both ways and listen, and be ready to stop for a train",
+        "Honk and cross"
+      ],
+      "h1": "Nothing will warn you here except your own eyes and ears.",
+      "h2": "At a crossing with no lights or gates, slow down, look both ways and listen, and stop for any train that is coming.",
+      "p": "Right. Slow down, look and listen."
+    },
+    "es": {
+      "q": "Usted llega a un cruce de tren que solo tiene la señal en cruz: sin luces ni barreras. ¿Qué debe hacer?",
+      "o": [
+        "Cruzar a su velocidad normal",
+        "Pararse solo si ve un tren sobre las vías",
+        "Bajar la velocidad, mirar a ambos lados y escuchar, y estar listo para pararse por un tren",
+        "Tocar la bocina y cruzar"
+      ],
+      "h1": "Aquí solo sus ojos y oídos le avisarán.",
+      "h2": "En un cruce sin luces ni barreras, baje la velocidad, mire a ambos lados y escuche, y párese por cualquier tren que se acerque.",
+      "p": "Correcto. Baje la velocidad, mire y escuche."
+    }
+  },
+  {
+    "id": "right-of-way-071",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FRA, Highway-Rail Grade Crossing Safety, https://railroads.dot.gov/ ; Operation Lifesaver, https://oli.org/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "You are waiting at a railroad crossing and the train has passed, but the lights are still flashing. What should you do?",
+      "o": [
+        "Go right away, since the train is gone",
+        "Drive around the gate",
+        "Back up and turn around",
+        "Keep waiting; another train may be coming"
+      ],
+      "h1": "The lights stay on for a reason.",
+      "h2": "If the lights keep flashing after a train passes, another train may be coming, so wait until the lights stop and the gates rise.",
+      "p": "Right. Wait until the lights stop."
+    },
+    "es": {
+      "q": "Usted espera en un cruce de tren y el tren ya pasó, pero las luces siguen parpadeando. ¿Qué debe hacer?",
+      "o": [
+        "Seguir enseguida, porque el tren ya pasó",
+        "Rodear la barrera",
+        "Retroceder y dar la vuelta",
+        "Seguir esperando; puede venir otro tren"
+      ],
+      "h1": "Las luces siguen encendidas por una razón.",
+      "h2": "Si las luces siguen parpadeando después de que pasa un tren, puede venir otro, así que espere hasta que se apaguen las luces y suban las barreras.",
+      "p": "Correcto. Espere hasta que se apaguen las luces."
+    }
+  },
+  {
+    "id": "right-of-way-072",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FHWA, Animal-Vehicle Collisions, https://highways.dot.gov/safety/other/animal-vehicle-collisions",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "A deer runs across the road in front of you and makes it across. What should you expect?",
+      "o": [
+        "More deer may follow, so slow down and watch",
+        "The danger is over",
+        "The deer will come back to the same spot",
+        "Deer only cross at night"
+      ],
+      "h1": "Deer often move in groups.",
+      "h2": "Deer often travel in groups, so when one crosses, slow down and watch for more that may follow.",
+      "p": "Right. More deer may follow."
+    },
+    "es": {
+      "q": "Un venado cruza corriendo la vía delante de usted y llega al otro lado. ¿Qué debe esperar?",
+      "o": [
+        "Que pueden seguir más venados, así que baje la velocidad y mire",
+        "Que el peligro terminó",
+        "Que el venado volverá al mismo lugar",
+        "Que los venados solo cruzan de noche"
+      ],
+      "h1": "Los venados suelen andar en grupo.",
+      "h2": "Los venados suelen andar en grupo, así que cuando uno cruza, baje la velocidad y fíjese en otros que puedan seguirlo.",
+      "p": "Correcto. Pueden seguir más venados."
+    }
+  },
+  {
+    "id": "right-of-way-073",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "FHWA, Animal-Vehicle Collisions, https://highways.dot.gov/safety/other/animal-vehicle-collisions",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "A deer suddenly stands in your lane and you cannot stop in time. What is usually safest?",
+      "o": [
+        "Swerve hard into the other lane",
+        "Brake firmly and stay in your lane",
+        "Swerve off the road",
+        "Speed up"
+      ],
+      "h1": "Swerving can cause a worse crash.",
+      "h2": "If you cannot avoid a deer, brake firmly and stay in your lane, because swerving can send you into oncoming traffic or off the road.",
+      "p": "Right. Brake and stay in your lane."
+    },
+    "es": {
+      "q": "De repente hay un venado en su carril y no alcanza a pararse. ¿Qué suele ser lo más seguro?",
+      "o": [
+        "Girar bruscamente al otro carril",
+        "Frenar con firmeza y quedarse en su carril",
+        "Salirse de la vía",
+        "Acelerar"
+      ],
+      "h1": "Esquivar puede causar un choque peor.",
+      "h2": "Si no puede evitar un venado, frene con firmeza y quédese en su carril, porque esquivar puede mandarlo contra el tráfico de frente o fuera de la vía.",
+      "p": "Correcto. Frene y quédese en su carril."
+    }
+  },
+  {
+    "id": "right-of-way-074",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "Uniform Vehicle Code, rules of the road (see MUTCD 11th Edition Section 1A.06, https://mutcd.fhwa.dot.gov/)",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "How do you give the hand signal for a left turn?",
+      "o": [
+        "Hold your left arm up, bent at the elbow",
+        "Hold your left arm down, bent at the elbow",
+        "Hold your left arm straight out the window",
+        "Wave your arm in a circle"
+      ],
+      "h1": "The arm points the way you will go.",
+      "h2": "To signal a left turn by hand, hold your left arm and hand straight out the window, pointing left.",
+      "p": "Right. Arm straight out means left turn."
+    },
+    "es": {
+      "q": "¿Cómo se hace la señal de mano para girar a la izquierda?",
+      "o": [
+        "Levantando el brazo izquierdo doblado hacia arriba",
+        "Bajando el brazo izquierdo doblado hacia abajo",
+        "Extendiendo el brazo izquierdo recto por la ventana",
+        "Moviendo el brazo en círculos"
+      ],
+      "h1": "El brazo apunta hacia donde va a ir.",
+      "h2": "Para señalar con la mano un giro a la izquierda, extienda el brazo y la mano izquierda rectos por la ventana, apuntando a la izquierda.",
+      "p": "Correcto. Brazo recto hacia afuera es giro a la izquierda."
+    }
+  },
+  {
+    "id": "right-of-way-075",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "Uniform Vehicle Code, rules of the road (see MUTCD 11th Edition Section 1A.06, https://mutcd.fhwa.dot.gov/)",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "A driver ahead holds the left arm out the window, bent down at the elbow. What does it mean?",
+      "o": [
+        "The driver is turning right",
+        "The driver is turning left",
+        "The driver wants you to pass",
+        "The driver is slowing down or stopping"
+      ],
+      "h1": "The arm points toward the ground.",
+      "h2": "A left arm bent downward is the hand signal for slowing down or stopping.",
+      "p": "Right. Arm down means slow or stop."
+    },
+    "es": {
+      "q": "Un conductor adelante saca el brazo izquierdo por la ventana, doblado hacia abajo. ¿Qué significa?",
+      "o": [
+        "Que va a girar a la derecha",
+        "Que va a girar a la izquierda",
+        "Que quiere que usted lo rebase",
+        "Que va a bajar la velocidad o pararse"
+      ],
+      "h1": "El brazo apunta hacia el suelo.",
+      "h2": "El brazo izquierdo doblado hacia abajo es la señal de mano para bajar la velocidad o pararse.",
+      "p": "Correcto. Brazo hacia abajo significa bajar la velocidad o parar."
+    }
+  },
+  {
+    "id": "right-of-way-076",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "Uniform Vehicle Code, rules of the road (see MUTCD 11th Edition Section 1A.06, https://mutcd.fhwa.dot.gov/)",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "You are about to drive across a sidewalk to enter a street from a parking lot. A person is walking on the sidewalk. What should you do?",
+      "o": [
+        "Stop and let the person pass before you cross the sidewalk",
+        "Drive across slowly in front of them",
+        "Honk so they stop",
+        "Keep going; they will wait for you"
+      ],
+      "h1": "People on the sidewalk come first.",
+      "h2": "Before you drive across a sidewalk, stop and let people on the sidewalk pass, because they have the right of way.",
+      "p": "Right. Let the person pass first."
+    },
+    "es": {
+      "q": "Usted va a cruzar una acera para entrar a la calle desde un estacionamiento. Una persona camina por la acera. ¿Qué debe hacer?",
+      "o": [
+        "Pararse y dejar pasar a la persona antes de cruzar la acera",
+        "Cruzar despacio delante de ella",
+        "Tocar la bocina para que se pare",
+        "Seguir; ella lo esperará"
+      ],
+      "h1": "Las personas en la acera van primero.",
+      "h2": "Antes de cruzar una acera con el carro, párese y deje pasar a las personas que van por ella, porque tienen el derecho de paso.",
+      "p": "Correcto. Deje pasar primero a la persona."
+    }
+  },
+  {
+    "id": "right-of-way-077",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "A person is riding a horse along the side of the road. How should you pass?",
+      "o": [
+        "Honk so the horse moves over",
+        "Slow down, give plenty of room, and do not honk",
+        "Pass quickly so the horse is not scared for long",
+        "Flash your lights to warn the rider"
+      ],
+      "h1": "Horses can be frightened by noise and speed.",
+      "h2": "When passing a horse and rider, slow down, leave plenty of room and avoid honking or revving, so the horse is not frightened.",
+      "p": "Right. Slow, wide and quiet."
+    },
+    "es": {
+      "q": "Una persona va a caballo por la orilla de la vía. ¿Cómo debe rebasarla?",
+      "o": [
+        "Tocando la bocina para que el caballo se aparte",
+        "Bajando la velocidad, dejando mucho espacio y sin tocar la bocina",
+        "Pasando rápido para que el caballo no se asuste mucho tiempo",
+        "Haciendo cambio de luces para avisar al jinete"
+      ],
+      "h1": "Los caballos se asustan con el ruido y la velocidad.",
+      "h2": "Al rebasar a una persona a caballo, baje la velocidad, deje mucho espacio y no toque la bocina ni acelere el motor, para no asustar al caballo.",
+      "p": "Correcto. Despacio, con espacio y en silencio."
+    }
+  },
+  {
+    "id": "right-of-way-078",
+    "scope": "US",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Bicycle Safety, https://www.nhtsa.gov/road-safety/bicycle-safety",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You are driving next to a row of parked cars where people ride bicycles. Why should you leave space between your car and the parked cars?",
+      "o": [
+        "Parked cars may roll into the road",
+        "You might want to park",
+        "A bicycle rider may swerve to avoid a car door that opens",
+        "It makes no difference"
+      ],
+      "h1": "Car doors can open suddenly.",
+      "h2": "Bicycle riders near parked cars may swerve into your path to avoid an opening door, so give them extra space.",
+      "p": "Right. Riders may swerve to avoid a door."
+    },
+    "es": {
+      "q": "Usted maneja junto a una fila de carros estacionados por donde pasan ciclistas. ¿Por qué debe dejar espacio entre su carro y los carros estacionados?",
+      "o": [
+        "Porque los carros estacionados pueden rodar a la vía",
+        "Porque quizás quiera estacionarse",
+        "Porque un ciclista puede desviarse para evitar una puerta que se abre",
+        "No hace ninguna diferencia"
+      ],
+      "h1": "Las puertas de los carros pueden abrirse de repente.",
+      "h2": "Los ciclistas cerca de carros estacionados pueden desviarse hacia usted para evitar una puerta que se abre, así que deles espacio extra.",
+      "p": "Correcto. Pueden desviarse para evitar una puerta."
+    }
   }
 ]
