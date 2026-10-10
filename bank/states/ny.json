@@ -2212,5 +2212,141 @@
       "h2": "في New York، أول إدانة باستخدام الهاتف أو إرسال الرسائل أثناء القيادة توقف junior permit أو الرخصة لمدة 120 يومًا.",
       "p": "صحيح. أول إدانة تعني إيقافًا لمدة 120 يومًا."
     }
+  },
+  {
+    "id": "ny-028",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, what vision do you need to pass the DMV vision test, with or without glasses?",
+      "o": [
+        "20/20 in both eyes",
+        "20/40 in at least one eye",
+        "20/60 in both eyes",
+        "20/100 in at least one eye"
+      ],
+      "h1": "Only one eye has to meet the standard.",
+      "h2": "In New York you need 20/40 vision in at least one eye, with or without glasses or contacts, to pass the vision test.",
+      "p": "Right. You need 20/40 in at least one eye."
+    },
+    "es": {
+      "q": "En Nueva York, ¿qué visión necesita para pasar el examen de la vista del DMV, con o sin lentes?",
+      "o": [
+        "20/20 en ambos ojos",
+        "20/40 en por lo menos un ojo",
+        "20/60 en ambos ojos",
+        "20/100 en por lo menos un ojo"
+      ],
+      "h1": "Solo un ojo tiene que cumplir el requisito.",
+      "h2": "En Nueva York usted necesita una visión de 20/40 en por lo menos un ojo, con o sin lentes o lentes de contacto, para pasar el examen de la vista.",
+      "p": "Correcto. Necesita 20/40 en por lo menos un ojo."
+    }
+  },
+  {
+    "id": "ny-029",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 8,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, when you apply for your first license, your proofs of name and identity must add up to how many points?",
+      "o": [
+        "At least 2 points",
+        "At least 4 points",
+        "At least 10 points",
+        "At least 6 points"
+      ],
+      "h1": "A U.S. passport counts for 4 points, and that is not enough on its own.",
+      "h2": "In New York your proofs of name must add up to at least 6 points, and at least one of them must have your signature.",
+      "p": "Right. You need at least 6 points."
+    },
+    "es": {
+      "q": "En Nueva York, cuando solicita su primera licencia, ¿cuántos puntos deben sumar sus pruebas de nombre e identidad?",
+      "o": [
+        "Por lo menos 2 puntos",
+        "Por lo menos 4 puntos",
+        "Por lo menos 10 puntos",
+        "Por lo menos 6 puntos"
+      ],
+      "h1": "Un pasaporte de EE. UU. vale 4 puntos, y eso solo no es suficiente.",
+      "h2": "En Nueva York sus pruebas de nombre deben sumar por lo menos 6 puntos, y por lo menos una de ellas debe tener su firma.",
+      "p": "Correcto. Necesita por lo menos 6 puntos."
+    }
+  },
+  {
+    "id": "ny-030",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 48,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, how must a child aged 4 to 7 ride in a car?",
+      "o": [
+        "In an approved child seat, usually a booster, with the lap and shoulder belt",
+        "With only the car's seat belt",
+        "On an adult's lap in the back seat",
+        "In a rear-facing infant seat"
+      ],
+      "h1": "The car's belt alone does not fit a small child.",
+      "h2": "In New York a child aged 4 to 7 must ride in an approved child restraint, usually a booster seat, used with the lap and shoulder belt.",
+      "p": "Right. A booster or other approved child seat is required."
+    },
+    "es": {
+      "q": "En Nueva York, ¿cómo debe viajar en un carro un niño de 4 a 7 años?",
+      "o": [
+        "En un asiento infantil aprobado, por lo general un asiento elevado, con el cinturón de regazo y hombro",
+        "Solo con el cinturón de seguridad del carro",
+        "En las piernas de un adulto en el asiento trasero",
+        "En un asiento para bebé mirando hacia atrás"
+      ],
+      "h1": "El cinturón del carro solo no le queda bien a un niño pequeño.",
+      "h2": "En Nueva York un niño de 4 a 7 años debe viajar en un sistema de retención infantil aprobado, por lo general un asiento elevado, usado con el cinturón de regazo y hombro.",
+      "p": "Correcto. Se requiere un asiento elevado u otro asiento infantil aprobado."
+    }
+  },
+  {
+    "id": "ny-031",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 77,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, after a crash with $1,000 or more in damage to one person's property, how soon must you report it to the DMV?",
+      "o": [
+        "Within 24 hours",
+        "Within 30 days",
+        "Within 10 days",
+        "Within 90 days"
+      ],
+      "h1": "Reporting to your insurance company does not count.",
+      "h2": "In New York you must file a crash report with the DMV within 10 days when someone is hurt or killed, or when one person's property has $1,000 or more in damage.",
+      "p": "Right. Report it to the DMV within 10 days."
+    },
+    "es": {
+      "q": "En Nueva York, después de un choque con $1,000 o más en daños a la propiedad de una persona, ¿en qué plazo debe reportarlo al DMV?",
+      "o": [
+        "Dentro de 24 horas",
+        "Dentro de 30 días",
+        "Dentro de 10 días",
+        "Dentro de 90 días"
+      ],
+      "h1": "Avisar a su compañía de seguros no cuenta.",
+      "h2": "En Nueva York usted debe presentar un informe de choque al DMV dentro de 10 días cuando alguien resulta herido o muere, o cuando la propiedad de una persona tiene $1,000 o más en daños.",
+      "p": "Correcto. Repórtelo al DMV dentro de 10 días."
+    }
   }
 ]
