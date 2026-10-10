@@ -2868,5 +2868,549 @@
       "h2": "يقدّم Colorado DMV اختبار المعرفة للقيادة بالإنجليزية والإسبانية، في المكتب وعبر الإنترنت.",
       "p": "صحيح. الاختبار متاح بالإنجليزية والإسبانية."
     }
+  },
+  {
+    "id": "co-036",
+    "scope": "CO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 5,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Colorado, what happens to your license if you refuse a chemical test when an officer suspects impaired driving?",
+      "o": [
+        "You get a warning the first time",
+        "It is suspended for 30 days",
+        "It is revoked for one year",
+        "Nothing, if you pass a field test"
+      ],
+      "h1": "Colorado's express consent law treats refusal very seriously.",
+      "h2": "In Colorado, if you refuse a chemical test of your blood, breath, saliva or urine, your license is revoked for one year, and you must also use an ignition interlock for two years.",
+      "p": "Right. Refusing the test means a one-year revocation."
+    },
+    "es": {
+      "q": "En Colorado, ¿qué pasa con su licencia si usted se niega a una prueba química cuando un agente sospecha que maneja bajo los efectos?",
+      "o": [
+        "Recibe una advertencia la primera vez",
+        "Se suspende por 30 días",
+        "Se revoca por un año",
+        "Nada, si pasa una prueba de campo"
+      ],
+      "h1": "La ley de consentimiento expreso de Colorado trata la negativa con mucha seriedad.",
+      "h2": "En Colorado, si usted se niega a una prueba química de sangre, aliento, saliva u orina, su licencia se revoca por un año y además debe usar un dispositivo de bloqueo de encendido por dos años.",
+      "p": "Correcto. Negarse a la prueba significa un año de revocación."
+    }
+  },
+  {
+    "id": "co-037",
+    "scope": "CO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Colorado, how many points go on your record for a first conviction of driving while ability impaired (DWAI)?",
+      "o": [
+        "8 points",
+        "2 points",
+        "4 points",
+        "12 points"
+      ],
+      "h1": "It is a large number, close to a full suspension for some drivers.",
+      "h2": "In Colorado, a first conviction for driving while ability impaired adds 8 points to your driving record.",
+      "p": "Right. A first DWAI brings 8 points."
+    },
+    "es": {
+      "q": "En Colorado, ¿cuántos puntos se agregan a su historial por una primera condena por manejar con la capacidad disminuida (DWAI)?",
+      "o": [
+        "8 puntos",
+        "2 puntos",
+        "4 puntos",
+        "12 puntos"
+      ],
+      "h1": "Es un número alto, cerca de una suspensión para algunos conductores.",
+      "h2": "En Colorado, una primera condena por manejar con la capacidad disminuida agrega 8 puntos a su historial de manejo.",
+      "p": "Correcto. Un primer DWAI suma 8 puntos."
+    }
+  },
+  {
+    "id": "co-038",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 5,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Colorado, at what level of THC (from marijuana) in the blood may a court infer that a driver was under the influence?",
+      "o": [
+        "Any amount at all",
+        "1 nanogram per milliliter",
+        "10 nanograms per milliliter",
+        "5 nanograms per milliliter"
+      ],
+      "h1": "The number is measured in nanograms per milliliter of blood.",
+      "h2": "In Colorado, a blood level of 5 nanograms of THC per milliliter allows a court to infer that the driver was driving under the influence.",
+      "p": "Right. The THC inference level is 5 nanograms per milliliter."
+    },
+    "es": {
+      "q": "En Colorado, ¿con qué nivel de THC (de la marihuana) en la sangre puede un tribunal suponer que el conductor manejaba bajo los efectos?",
+      "o": [
+        "Cualquier cantidad",
+        "1 nanogramo por mililitro",
+        "10 nanogramos por mililitro",
+        "5 nanogramos por mililitro"
+      ],
+      "h1": "El número se mide en nanogramos por mililitro de sangre.",
+      "h2": "En Colorado, un nivel de 5 nanogramos de THC por mililitro de sangre permite a un tribunal suponer que el conductor manejaba bajo los efectos.",
+      "p": "Correcto. El nivel para el THC es de 5 nanogramos por mililitro."
+    }
+  },
+  {
+    "id": "co-039",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 3,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Colorado, which open containers are not allowed in the passenger area of a vehicle on a public road?",
+      "o": [
+        "Only open bottles of liquor",
+        "Open containers of alcohol or marijuana",
+        "Only open beer cans",
+        "Open containers only if the driver drank"
+      ],
+      "h1": "The rule covers more than one substance.",
+      "h2": "In Colorado, it is against the law to have an open container of alcohol or an open container of marijuana in the passenger area of a vehicle on a public road.",
+      "p": "Right. No open alcohol or marijuana in the passenger area."
+    },
+    "es": {
+      "q": "En Colorado, ¿qué envases abiertos no se permiten en el área de pasajeros de un vehículo en una vía pública?",
+      "o": [
+        "Solo botellas de licor abiertas",
+        "Envases abiertos de alcohol o de marihuana",
+        "Solo latas de cerveza abiertas",
+        "Solo si el conductor bebió"
+      ],
+      "h1": "La regla cubre más de una sustancia.",
+      "h2": "En Colorado, es ilegal tener un envase abierto de alcohol o de marihuana en el área de pasajeros de un vehículo en una vía pública.",
+      "p": "Correcto. Nada de alcohol ni marihuana abiertos en el área de pasajeros."
+    }
+  },
+  {
+    "id": "co-040",
+    "scope": "CO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 1,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Colorado, how soon must a new resident get a Colorado driver license?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 90 days",
+        "Within one year"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In Colorado, a new resident must get a Colorado driver license within 30 days of becoming a resident, with a few exceptions such as active-duty military.",
+      "p": "Right. New residents have 30 days."
+    },
+    "es": {
+      "q": "En Colorado, ¿en cuánto tiempo debe un nuevo residente obtener una licencia de Colorado?",
+      "o": [
+        "En 10 días",
+        "En 30 días",
+        "En 90 días",
+        "En un año"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Colorado, un nuevo residente debe obtener una licencia de manejo de Colorado dentro de los 30 días de hacerse residente, con algunas excepciones como el personal militar en servicio activo.",
+      "p": "Correcto. Los nuevos residentes tienen 30 días."
+    }
+  },
+  {
+    "id": "co-041",
+    "scope": "CO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 2,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Colorado, a teen applies for a license before age 16 and a half. What training must the teen also complete?",
+      "o": [
+        "A first aid class",
+        "A night driving class only",
+        "Nothing more than the driving log",
+        "6 hours behind the wheel with a driving instructor"
+      ],
+      "h1": "It is time in the car with a professional teacher.",
+      "h2": "In Colorado, a teen younger than 16 and a half must also complete 6 hours of behind-the-wheel training with an approved driver education instructor.",
+      "p": "Right. Under 16 and a half, 6 hours with an instructor are needed."
+    },
+    "es": {
+      "q": "En Colorado, un adolescente pide la licencia antes de cumplir 16 años y medio. ¿Qué entrenamiento debe completar además?",
+      "o": [
+        "Una clase de primeros auxilios",
+        "Solo una clase de manejo nocturno",
+        "Nada más que el registro de manejo",
+        "6 horas al volante con un instructor de manejo"
+      ],
+      "h1": "Es tiempo en el carro con un maestro profesional.",
+      "h2": "En Colorado, un adolescente menor de 16 años y medio también debe completar 6 horas de práctica al volante con un instructor de educación vial aprobado.",
+      "p": "Correcto. Antes de los 16 años y medio, se necesitan 6 horas con un instructor."
+    }
+  },
+  {
+    "id": "co-042",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 16,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Colorado, when must your headlights be on, besides from sunset to sunrise?",
+      "o": [
+        "When you cannot see clearly for 1,000 feet",
+        "Only when it is snowing",
+        "Only on the interstate",
+        "When you drive faster than 55 mph"
+      ],
+      "h1": "Think about how far ahead you can see.",
+      "h2": "Colorado law requires headlights from sunset to sunrise and any time you cannot see clearly for 1,000 feet.",
+      "p": "Right. Lights on when you cannot see 1,000 feet."
+    },
+    "es": {
+      "q": "En Colorado, además de la puesta a la salida del sol, ¿cuándo deben estar encendidas sus luces delanteras?",
+      "o": [
+        "Cuando no puede ver bien a 1,000 pies",
+        "Solo cuando está nevando",
+        "Solo en la autopista interestatal",
+        "Cuando maneja a más de 55 mph"
+      ],
+      "h1": "Piense en qué tan lejos puede ver.",
+      "h2": "La ley de Colorado exige las luces delanteras desde la puesta hasta la salida del sol y siempre que usted no pueda ver bien a 1,000 pies.",
+      "p": "Correcto. Luces encendidas cuando no ve a 1,000 pies."
+    }
+  },
+  {
+    "id": "co-043",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 16,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Colorado, you are using high beams at night. How close may an oncoming vehicle get before you must dim them?",
+      "o": [
+        "100 feet",
+        "1,000 feet",
+        "500 feet",
+        "50 feet"
+      ],
+      "h1": "It is farther than the distance for a car you are following.",
+      "h2": "In Colorado, you must dim your high beams before you come within 500 feet of an oncoming vehicle.",
+      "p": "Right. Dim your lights within 500 feet of oncoming traffic."
+    },
+    "es": {
+      "q": "En Colorado, usted usa las luces altas de noche. ¿A qué distancia de un vehículo que viene de frente debe bajarlas?",
+      "o": [
+        "100 pies",
+        "1,000 pies",
+        "500 pies",
+        "50 pies"
+      ],
+      "h1": "Es más lejos que la distancia para un carro que usted sigue.",
+      "h2": "En Colorado, usted debe bajar las luces altas antes de acercarse a 500 pies de un vehículo que viene de frente.",
+      "p": "Correcto. Baje las luces a 500 pies del tráfico de frente."
+    }
+  },
+  {
+    "id": "co-044",
+    "scope": "CO",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 13,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Colorado, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 15 feet",
+        "No closer than 30 feet",
+        "No closer than 50 feet"
+      ],
+      "h1": "It is less than the distance for a stop sign.",
+      "h2": "In Colorado, you may not park within 15 feet of a fire hydrant.",
+      "p": "Right. Stay 15 feet from a fire hydrant."
+    },
+    "es": {
+      "q": "En Colorado, ¿qué tan cerca de un hidrante puede estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 15 pies",
+        "No más cerca de 30 pies",
+        "No más cerca de 50 pies"
+      ],
+      "h1": "Es menos que la distancia para un letrero de alto.",
+      "h2": "En Colorado, no puede estacionarse a menos de 15 pies de un hidrante.",
+      "p": "Correcto. Quédese a 15 pies de un hidrante."
+    }
+  },
+  {
+    "id": "co-045",
+    "scope": "CO",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 13,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Colorado, you may not park within how many feet of a stop sign, traffic signal or railroad crossing?",
+      "o": [
+        "10 feet",
+        "15 feet",
+        "20 feet",
+        "30 feet"
+      ],
+      "h1": "It is double the fire hydrant distance.",
+      "h2": "In Colorado, you may not park within 30 feet of a stop sign, a traffic signal or a railroad crossing.",
+      "p": "Right. Keep 30 feet away from those."
+    },
+    "es": {
+      "q": "En Colorado, ¿a menos de cuántos pies de un letrero de alto, un semáforo o un cruce de tren no puede estacionarse?",
+      "o": [
+        "10 pies",
+        "15 pies",
+        "20 pies",
+        "30 pies"
+      ],
+      "h1": "Es el doble de la distancia del hidrante.",
+      "h2": "En Colorado, no puede estacionarse a menos de 30 pies de un letrero de alto, un semáforo o un cruce de tren.",
+      "p": "Correcto. Manténgase a 30 pies de ellos."
+    }
+  },
+  {
+    "id": "co-046",
+    "scope": "CO",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 11,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Colorado, two cars meet on a steep mountain road too narrow for both. Who must usually yield?",
+      "o": [
+        "The car going downhill",
+        "The car going uphill",
+        "The smaller car",
+        "The car that honks last"
+      ],
+      "h1": "Starting again on a steep hill is harder going up.",
+      "h2": "In Colorado, on a steep, narrow road, the vehicle going downhill must yield by backing up to a wider spot or stopping to let the uphill vehicle pass.",
+      "p": "Right. The downhill car yields to the uphill car."
+    },
+    "es": {
+      "q": "En Colorado, dos carros se encuentran en un camino de montaña empinado y demasiado angosto para ambos. ¿Quién debe ceder el paso, por lo general?",
+      "o": [
+        "El carro que va cuesta abajo",
+        "El carro que va cuesta arriba",
+        "El carro más pequeño",
+        "El último que toca la bocina"
+      ],
+      "h1": "Volver a arrancar en una cuesta es más difícil subiendo.",
+      "h2": "En Colorado, en un camino empinado y angosto, el vehículo que baja debe ceder el paso retrocediendo a un lugar más ancho o deteniéndose para dejar pasar al que sube.",
+      "p": "Correcto. El que baja cede el paso al que sube."
+    }
+  },
+  {
+    "id": "co-047",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 11,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Colorado, several snow plows are clearing the highway together in a staggered, diagonal line. What does the law say?",
+      "o": [
+        "You may pass them on the right",
+        "You may pass after you honk",
+        "You may not pass them",
+        "You may pass if the road is dry"
+      ],
+      "h1": "The plows make a wall of blowing snow across the lanes.",
+      "h2": "In Colorado, it is illegal to pass snow plows that are working together in a staggered formation, so you must stay behind them.",
+      "p": "Right. Do not pass plows working in formation."
+    },
+    "es": {
+      "q": "En Colorado, varios quitanieves limpian la carretera juntos en una fila diagonal escalonada. ¿Qué dice la ley?",
+      "o": [
+        "Puede rebasarlos por la derecha",
+        "Puede rebasarlos después de tocar la bocina",
+        "No puede rebasarlos",
+        "Puede rebasarlos si el camino está seco"
+      ],
+      "h1": "Los quitanieves forman una pared de nieve en los carriles.",
+      "h2": "En Colorado, es ilegal rebasar a quitanieves que trabajan juntos en formación escalonada, así que usted debe quedarse detrás de ellos.",
+      "p": "Correcto. No rebase a quitanieves que trabajan en formación."
+    }
+  },
+  {
+    "id": "co-048",
+    "scope": "CO",
+    "cat": "signals",
+    "conf": "high",
+    "page": 12,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Colorado, on a four-lane highway with a speed limit above 40 mph, how far ahead must you signal before turning or changing lanes?",
+      "o": [
+        "50 feet",
+        "200 feet",
+        "100 feet",
+        "500 feet"
+      ],
+      "h1": "It is twice the distance used on city streets.",
+      "h2": "In Colorado, on a four-lane highway with a limit above 40 mph, you must signal for 200 feet before you turn or change lanes.",
+      "p": "Right. Signal for 200 feet on faster four-lane highways."
+    },
+    "es": {
+      "q": "En Colorado, en una carretera de cuatro carriles con límite de más de 40 mph, ¿con cuánta anticipación debe poner la direccional antes de girar o cambiar de carril?",
+      "o": [
+        "50 pies",
+        "200 pies",
+        "100 pies",
+        "500 pies"
+      ],
+      "h1": "Es el doble de la distancia que se usa en las calles de la ciudad.",
+      "h2": "En Colorado, en una carretera de cuatro carriles con límite de más de 40 mph, debe poner la direccional durante 200 pies antes de girar o cambiar de carril.",
+      "p": "Correcto. Direccional por 200 pies en carreteras rápidas de cuatro carriles."
+    }
+  },
+  {
+    "id": "co-049",
+    "scope": "CO",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 15,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Colorado, what is the least space you must leave when you pass a bicyclist?",
+      "o": [
+        "1 foot",
+        "2 feet",
+        "10 feet",
+        "3 feet"
+      ],
+      "h1": "Count from the outer edge of your car, including the mirrors.",
+      "h2": "In Colorado, you must leave at least 3 feet between the bicyclist and the outermost part of your vehicle, and you may briefly cross a solid yellow line to do it when no traffic is coming.",
+      "p": "Right. Give a bicyclist at least 3 feet."
+    },
+    "es": {
+      "q": "En Colorado, ¿cuál es el espacio mínimo que debe dejar al rebasar a un ciclista?",
+      "o": [
+        "1 pie",
+        "2 pies",
+        "10 pies",
+        "3 pies"
+      ],
+      "h1": "Cuente desde la parte más exterior de su carro, incluidos los espejos.",
+      "h2": "En Colorado, debe dejar por lo menos 3 pies entre el ciclista y la parte más exterior de su vehículo, y puede cruzar brevemente una línea amarilla continua para lograrlo si no viene tráfico.",
+      "p": "Correcto. Deje al ciclista por lo menos 3 pies."
+    }
+  },
+  {
+    "id": "co-050",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 25,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Colorado, you have a minor crash on a divided highway. No one is hurt, no alcohol or drugs are involved, and the cars can be driven. What must you do?",
+      "o": [
+        "Move the cars off the highway",
+        "Leave the cars where they stopped",
+        "Wait in the cars for police",
+        "Drive home and call later"
+      ],
+      "h1": "Colorado has a law named for what you should do with the cars.",
+      "h2": "Under Colorado's Move It law, after a minor crash on a divided highway with no injuries, no alcohol or drugs, and drivable cars, you must move the vehicles off the highway, then exchange information and notify police.",
+      "p": "Right. Move it off the highway, then share information."
+    },
+    "es": {
+      "q": "En Colorado, usted tiene un choque menor en una carretera dividida. Nadie está herido, no hay alcohol ni drogas, y los carros se pueden manejar. ¿Qué debe hacer?",
+      "o": [
+        "Sacar los carros de la carretera",
+        "Dejar los carros donde quedaron",
+        "Esperar en los carros a la policía",
+        "Irse a casa y llamar después"
+      ],
+      "h1": "Colorado tiene una ley con el nombre de lo que debe hacer con los carros.",
+      "h2": "Según la ley Move It de Colorado, después de un choque menor en una carretera dividida, sin heridos, sin alcohol ni drogas y con carros que se pueden manejar, usted debe sacar los vehículos de la carretera y luego intercambiar datos y avisar a la policía.",
+      "p": "Correcto. Saque los carros de la carretera y luego intercambie datos."
+    }
+  },
+  {
+    "id": "co-051",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.codot.gov/travel/winter-driving/tractionlaw",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Colorado, when the traction law is active, how much tread must the tires on an all-wheel or four-wheel drive vehicle have?",
+      "o": [
+        "1/16 inch",
+        "2/32 inch",
+        "3/16 inch",
+        "Any tread is enough"
+      ],
+      "h1": "Snow driving needs deep grooves, much more than the bare legal minimum.",
+      "h2": "In Colorado, when the traction law is active, an all-wheel or four-wheel drive vehicle without chains needs snow-rated or all-weather tires with at least 3/16 inch of tread.",
+      "p": "Right. The traction law needs 3/16 inch of tread."
+    },
+    "es": {
+      "q": "En Colorado, cuando la ley de tracción está activa, ¿cuánta profundidad de dibujo deben tener las llantas de un vehículo con tracción integral o en las cuatro ruedas?",
+      "o": [
+        "1/16 de pulgada",
+        "2/32 de pulgada",
+        "3/16 de pulgada",
+        "Cualquier dibujo es suficiente"
+      ],
+      "h1": "Manejar en nieve necesita surcos profundos, mucho más que el mínimo legal.",
+      "h2": "En Colorado, cuando la ley de tracción está activa, un vehículo con tracción integral o en las cuatro ruedas sin cadenas necesita llantas para nieve o para todo clima con al menos 3/16 de pulgada de dibujo.",
+      "p": "Correcto. La ley de tracción exige 3/16 de pulgada de dibujo."
+    }
   }
 ]
