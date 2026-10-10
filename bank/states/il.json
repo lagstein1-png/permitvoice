@@ -4375,7 +4375,7 @@
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Illinois, a 16-year-old with a permit drives home from a job at 11:30 p.m. on a Tuesday, with no stops. Is this allowed?",
+      "q": "In Illinois, a 16-year-old with a permit drives home from a job at 11:30 p.m. on a Tuesday, with no stops and a licensed aunt aged 30 in the seat beside them. Is this allowed?",
       "o": [
         "No, there are no exceptions to the night limit",
         "Only if the job is less than 5 miles away",
@@ -4387,7 +4387,7 @@
       "p": "Right. Going straight to or from work is an exception."
     },
     "es": {
-      "q": "En Illinois, un joven de 16 años con permiso conduce a casa desde su trabajo a las 11:30 p.m. de un martes, sin paradas. ¿Está permitido?",
+      "q": "En Illinois, un joven de 16 años con permiso conduce a casa desde su trabajo a las 11:30 p.m. de un martes, sin paradas y con una tía de 30 años con licencia en el asiento de al lado. ¿Está permitido?",
       "o": [
         "No, el límite nocturno no tiene excepciones",
         "Solo si el trabajo queda a menos de 5 millas",
@@ -4919,7 +4919,7 @@
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Illinois, at what age must a driver take a driving test to renew the license?",
+      "q": "In Illinois, a driver with no traffic convictions renews the license. From what age must they pass a driving test to renew?",
       "o": [
         "75 or older",
         "79 or older",
@@ -4927,11 +4927,11 @@
         "87 or older"
       ],
       "h1": "It is the same age at which the license starts to last only one year.",
-      "h2": "In Illinois, a driver aged 87 or older must show safe driving in a road test to renew the license.",
+      "h2": "In Illinois, a driver with a clean record must show safe driving in a road test to renew the license from age 87.",
       "p": "Right. From 87, renewal includes a driving test."
     },
     "es": {
-      "q": "En Illinois, ¿a qué edad debe un conductor hacer un examen práctico para renovar la licencia?",
+      "q": "En Illinois, un conductor sin condenas de tránsito renueva la licencia. ¿Desde qué edad debe aprobar un examen práctico para renovarla?",
       "o": [
         "75 años o más",
         "79 años o más",
@@ -4939,7 +4939,7 @@
         "87 años o más"
       ],
       "h1": "Es la misma edad en que la licencia empieza a durar solo un año.",
-      "h2": "En Illinois, un conductor de 87 años o más debe demostrar que conduce con seguridad en un examen práctico para renovar la licencia.",
+      "h2": "En Illinois, un conductor sin condenas de tránsito debe demostrar que conduce con seguridad en un examen práctico para renovar la licencia desde los 87 años.",
       "p": "Correcto. Desde los 87, la renovación incluye un examen práctico."
     }
   },
@@ -5055,7 +5055,7 @@
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Illinois, what is the fee for an original 4-year driver's license for an adult under 69?",
+      "q": "In Illinois, what is the fee for an original 4-year driver's license for a person aged 21 to 68?",
       "o": [
         "$10",
         "$60",
@@ -5063,11 +5063,11 @@
         "$30"
       ],
       "h1": "It is less than $50.",
-      "h2": "In Illinois, the fee for an original 4-year driver's license is $30.",
+      "h2": "In Illinois, the fee for an original 4-year driver's license for a person aged 21 to 68 is $30.",
       "p": "Right. The 4-year license costs $30."
     },
     "es": {
-      "q": "En Illinois, ¿cuánto cuesta una licencia de conducir original de 4 años para un adulto menor de 69 años?",
+      "q": "En Illinois, ¿cuánto cuesta una licencia de conducir original de 4 años para una persona de 21 a 68 años?",
       "o": [
         "$10",
         "$60",
@@ -5075,7 +5075,7 @@
         "$30"
       ],
       "h1": "Es menos de $50.",
-      "h2": "En Illinois, la licencia de conducir original de 4 años cuesta $30.",
+      "h2": "En Illinois, la licencia de conducir original de 4 años cuesta $30 para una persona de 21 a 68 años.",
       "p": "Correcto. La licencia de 4 años cuesta $30."
     }
   },
@@ -5123,7 +5123,7 @@
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In Illinois, what is the fee for a first instruction permit for a person who never held an Illinois permit or license?",
+      "q": "In Illinois, what is the fee for a first instruction permit for a person under 69 who never held an Illinois permit or license?",
       "o": [
         "$5",
         "$20",
@@ -5135,7 +5135,7 @@
       "p": "Right. A first permit costs $20."
     },
     "es": {
-      "q": "En Illinois, ¿cuánto cuesta el primer permiso de aprendizaje para alguien que nunca tuvo permiso ni licencia de Illinois?",
+      "q": "En Illinois, ¿cuánto cuesta el primer permiso de aprendizaje para una persona menor de 69 años que nunca tuvo permiso ni licencia de Illinois?",
       "o": [
         "$5",
         "$20",
