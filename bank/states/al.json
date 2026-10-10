@@ -4180,5 +4180,1365 @@
       "h2": "في Alabama يمكنك أن تطلب *HP، أي *47، من الهاتف المحمول للاتصال بشرطة الولاية (State Troopers) في حالات الطوارئ على الطرق السريعة والحوادث والسائقين المخمورين.",
       "p": "صحيح. اطلب *HP (*47) للاتصال بشرطة الولاية."
     }
+  },
+  {
+    "id": "al-052",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 5,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alabama, you just moved here with a valid license from your old state. How long may you drive on it?",
+      "o": [
+        "10 days",
+        "30 days",
+        "6 months",
+        "Until it expires"
+      ],
+      "h1": "It is about one month.",
+      "h2": "A new Alabama resident with a valid license from the previous state may drive on it for 30 days after becoming a resident.",
+      "p": "Right. New residents may use the old license for 30 days."
+    },
+    "es": {
+      "q": "En Alabama, usted acaba de mudarse aquí con una licencia válida de su estado anterior. ¿Por cuánto tiempo puede manejar con ella?",
+      "o": [
+        "10 días",
+        "30 días",
+        "6 meses",
+        "Hasta que venza"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "Un nuevo residente de Alabama con una licencia válida del estado anterior puede manejar con ella durante 30 días después de hacerse residente.",
+      "p": "Correcto. Los nuevos residentes pueden usar la licencia anterior por 30 días."
+    }
+  },
+  {
+    "id": "al-053",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 5,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, you can skip the driver exam when you trade in an out-of-state license if it has not been expired for more than how long?",
+      "o": [
+        "30 days",
+        "6 months",
+        "One year",
+        "Five years"
+      ],
+      "h1": "It is twelve months.",
+      "h2": "In Alabama a person with an out-of-state license that has not been expired for more than one year does not have to pass the driver exam.",
+      "p": "Right. Up to one year expired, no exam is needed."
+    },
+    "es": {
+      "q": "En Alabama, al cambiar una licencia de otro estado, usted no tiene que tomar el examen de manejo si esa licencia no lleva vencida más de ¿cuánto tiempo?",
+      "o": [
+        "30 días",
+        "6 meses",
+        "Un año",
+        "Cinco años"
+      ],
+      "h1": "Son doce meses.",
+      "h2": "En Alabama una persona con una licencia de otro estado que no lleva vencida más de un año no tiene que aprobar el examen de manejo.",
+      "p": "Correcto. Con hasta un año de vencida, no necesita examen."
+    }
+  },
+  {
+    "id": "al-054",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 9,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, what is the minimum age to drive without a supervising driver beside you?",
+      "o": [
+        "16 years old",
+        "15 years old",
+        "17 years old",
+        "18 years old"
+      ],
+      "h1": "It is one year after the youngest learner age.",
+      "h2": "The minimum driving age in Alabama is 16; a 15-year-old may only drive with a learner license and a qualified adult beside them.",
+      "p": "Right. The minimum driving age is 16."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuál es la edad mínima para manejar sin un conductor supervisor a su lado?",
+      "o": [
+        "16 años",
+        "15 años",
+        "17 años",
+        "18 años"
+      ],
+      "h1": "Es un año después de la edad mínima del aprendiz.",
+      "h2": "La edad mínima para manejar en Alabama es 16 años; un joven de 15 años solo puede manejar con licencia de aprendiz y un adulto calificado a su lado.",
+      "p": "Correcto. La edad mínima para manejar es 16 años."
+    }
+  },
+  {
+    "id": "al-055",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 8,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alabama, applicants under what age must bring a current Student Enrollment/Exclusion Form (DL-1-93)?",
+      "o": [
+        "Under 16",
+        "Under 17",
+        "Under 21",
+        "Under 19"
+      ],
+      "h1": "It covers most high school students, and a bit older.",
+      "h2": "In Alabama every license applicant under age 19 must present a current Student Enrollment/Exclusion Form, DL-1-93, signed by the school.",
+      "p": "Right. Applicants under 19 need the school form."
+    },
+    "es": {
+      "q": "En Alabama, ¿los solicitantes menores de qué edad deben traer un formulario vigente de inscripción o exclusión escolar (DL-1-93)?",
+      "o": [
+        "Menores de 16",
+        "Menores de 17",
+        "Menores de 21",
+        "Menores de 19"
+      ],
+      "h1": "Incluye a la mayoría de los estudiantes de secundaria, y un poco más.",
+      "h2": "En Alabama todo solicitante de licencia menor de 19 años debe presentar un formulario vigente de inscripción o exclusión escolar, DL-1-93, firmado por la escuela.",
+      "p": "Correcto. Los menores de 19 necesitan el formulario escolar."
+    }
+  },
+  {
+    "id": "al-056",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 9,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alabama, which restriction letter is printed on a learner license?",
+      "o": [
+        "B",
+        "Y",
+        "M",
+        "D"
+      ],
+      "h1": "It is near the end of the alphabet.",
+      "h2": "An Alabama learner license is a Class D license with a \"Y\" restriction, which means you may drive only with a qualified licensed driver beside you.",
+      "p": "Right. The learner license carries a Y restriction."
+    },
+    "es": {
+      "q": "En Alabama, ¿qué letra de restricción aparece en una licencia de aprendiz?",
+      "o": [
+        "B",
+        "Y",
+        "M",
+        "D"
+      ],
+      "h1": "Está cerca del final del alfabeto.",
+      "h2": "Una licencia de aprendiz de Alabama es una licencia Clase D con la restricción \"Y\", que significa que solo puede manejar con un conductor con licencia calificado a su lado.",
+      "p": "Correcto. La licencia de aprendiz lleva la restricción Y."
+    }
+  },
+  {
+    "id": "al-057",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 9,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, a learner has just turned 16. Who may now sit beside them while they drive?",
+      "o": [
+        "Only a parent",
+        "Only a driving instructor",
+        "Any licensed driver",
+        "Any passenger age 14 or older"
+      ],
+      "h1": "The age 21 rule no longer applies after the 16th birthday.",
+      "h2": "In Alabama, once a learner license holder turns 16, any licensed driver may sit in the seat beside them while they drive.",
+      "p": "Right. After 16, any licensed driver may supervise."
+    },
+    "es": {
+      "q": "En Alabama, un aprendiz acaba de cumplir 16 años. ¿Quién puede ir sentado a su lado ahora mientras maneja?",
+      "o": [
+        "Solo un padre",
+        "Solo un instructor de manejo",
+        "Cualquier conductor con licencia",
+        "Cualquier pasajero de 14 años o más"
+      ],
+      "h1": "La regla de los 21 años ya no se aplica después de cumplir 16.",
+      "h2": "En Alabama, cuando el titular de una licencia de aprendiz cumple 16 años, cualquier conductor con licencia puede ir en el asiento de al lado mientras maneja.",
+      "p": "Correcto. Después de los 16, cualquier conductor con licencia puede supervisar."
+    }
+  },
+  {
+    "id": "al-058",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alabama, what is the youngest age to get a restricted license for a small motor-driven cycle?",
+      "o": [
+        "12 years old",
+        "13 years old",
+        "16 years old",
+        "14 years old"
+      ],
+      "h1": "It is one year younger than the learner license age.",
+      "h2": "In Alabama a person 14 or 15 years old may get a restricted Class M license to ride a motor-driven cycle of no more than 150cc.",
+      "p": "Right. The motor-driven cycle license starts at 14."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuál es la edad mínima para obtener una licencia restringida para un ciclomotor pequeño (motor-driven cycle)?",
+      "o": [
+        "12 años",
+        "13 años",
+        "16 años",
+        "14 años"
+      ],
+      "h1": "Es un año menos que la edad de la licencia de aprendiz.",
+      "h2": "En Alabama una persona de 14 o 15 años puede obtener una licencia Clase M restringida para manejar un ciclomotor de no más de 150cc.",
+      "p": "Correcto. La licencia de ciclomotor empieza a los 14 años."
+    }
+  },
+  {
+    "id": "al-059",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, your license is suspended and you do not turn it in on time. What extra fee is added when you reinstate it?",
+      "o": [
+        "$50",
+        "$5",
+        "$25",
+        "$500"
+      ],
+      "h1": "It is half of the basic reinstatement fee.",
+      "h2": "In Alabama, if you fail to surrender a suspended, revoked, or canceled license in the time allowed, an extra $50 fee is added to the reinstatement fee.",
+      "p": "Right. Not turning in the license costs an extra $50."
+    },
+    "es": {
+      "q": "En Alabama, su licencia está suspendida y usted no la entrega a tiempo. ¿Qué cargo adicional se agrega al restablecerla?",
+      "o": [
+        "$50",
+        "$5",
+        "$25",
+        "$500"
+      ],
+      "h1": "Es la mitad del cargo básico de restablecimiento.",
+      "h2": "En Alabama, si no entrega una licencia suspendida, revocada o cancelada en el plazo indicado, se agrega un cargo adicional de $50 al cargo de restablecimiento.",
+      "p": "Correcto. No entregar la licencia cuesta $50 más."
+    }
+  },
+  {
+    "id": "al-060",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alabama, after a license revocation period ends, what must the driver do to get a new license?",
+      "o": [
+        "Just pay a small fee",
+        "Pass the complete driver exams",
+        "Wait one more year",
+        "Only take a vision test"
+      ],
+      "h1": "A revoked license is not simply turned back on.",
+      "h2": "In Alabama, when a revocation period is over, the driver must apply for a new license and take and pass the complete examinations again.",
+      "p": "Right. After revocation you must pass all the exams again."
+    },
+    "es": {
+      "q": "En Alabama, cuando termina el período de revocación de una licencia, ¿qué debe hacer el conductor para obtener una nueva?",
+      "o": [
+        "Solo pagar un cargo pequeño",
+        "Aprobar todos los exámenes de manejo",
+        "Esperar un año más",
+        "Solo tomar un examen de la vista"
+      ],
+      "h1": "Una licencia revocada no se vuelve a activar así nada más.",
+      "h2": "En Alabama, cuando termina un período de revocación, el conductor debe solicitar una licencia nueva y tomar y aprobar otra vez todos los exámenes.",
+      "p": "Correcto. Después de una revocación debe aprobar todos los exámenes otra vez."
+    }
+  },
+  {
+    "id": "al-061",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, how many reckless driving convictions within 12 months require the license to be revoked?",
+      "o": [
+        "One",
+        "Two",
+        "Three",
+        "Five"
+      ],
+      "h1": "It is more than two.",
+      "h2": "In Alabama the license must be revoked when a driver is convicted of reckless driving three times within 12 months.",
+      "p": "Right. Three reckless driving convictions in 12 months means revocation."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuántas condenas por manejo imprudente en 12 meses obligan a revocar la licencia?",
+      "o": [
+        "Una",
+        "Dos",
+        "Tres",
+        "Cinco"
+      ],
+      "h1": "Son más de dos.",
+      "h2": "En Alabama la licencia debe revocarse cuando un conductor es condenado por manejo imprudente tres veces en 12 meses.",
+      "p": "Correcto. Tres condenas por manejo imprudente en 12 meses significan revocación."
+    }
+  },
+  {
+    "id": "al-062",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alabama, a teen on a graduated (GDL) license can have it suspended after how many moving traffic violations?",
+      "o": [
+        "Five",
+        "Four",
+        "Three",
+        "Two"
+      ],
+      "h1": "It takes very few tickets for a new driver.",
+      "h2": "In Alabama a driver on a graduated driver license may be suspended after 2 or more moving traffic violations.",
+      "p": "Right. Two moving violations can suspend a GDL license."
+    },
+    "es": {
+      "q": "En Alabama, a un adolescente con licencia graduada (GDL) se le puede suspender después de ¿cuántas infracciones de tránsito en movimiento?",
+      "o": [
+        "Cinco",
+        "Cuatro",
+        "Tres",
+        "Dos"
+      ],
+      "h1": "Para un conductor nuevo bastan muy pocas multas.",
+      "h2": "En Alabama a un conductor con licencia graduada se le puede suspender después de 2 o más infracciones de tránsito en movimiento.",
+      "p": "Correcto. Dos infracciones en movimiento pueden suspender una licencia GDL."
+    }
+  },
+  {
+    "id": "al-063",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, how many points does a drinking-and-driving conviction add when it does not bring a mandatory revocation?",
+      "o": [
+        "6 points",
+        "2 points",
+        "3 points",
+        "4 points"
+      ],
+      "h1": "It is the highest value on Alabama's point list.",
+      "h2": "In Alabama a conviction for drinking alcohol and driving that does not require mandatory revocation adds 6 points to the driving record.",
+      "p": "Right. It adds 6 points."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuántos puntos agrega una condena por tomar alcohol y manejar cuando no trae una revocación obligatoria?",
+      "o": [
+        "6 puntos",
+        "2 puntos",
+        "3 puntos",
+        "4 puntos"
+      ],
+      "h1": "Es el valor más alto de la lista de puntos de Alabama.",
+      "h2": "En Alabama una condena por tomar alcohol y manejar que no exige revocación obligatoria agrega 6 puntos al historial de manejo.",
+      "p": "Correcto. Agrega 6 puntos."
+    }
+  },
+  {
+    "id": "al-064",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alabama, how many points are added for failing to yield the right of way?",
+      "o": [
+        "2 points",
+        "5 points",
+        "1 point",
+        "8 points"
+      ],
+      "h1": "It is the same as passing a stopped school bus.",
+      "h2": "In Alabama a conviction for failure to yield the right of way adds 5 points to your driving record.",
+      "p": "Right. Failure to yield is 5 points."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuántos puntos se agregan por no ceder el paso?",
+      "o": [
+        "2 puntos",
+        "5 puntos",
+        "1 punto",
+        "8 puntos"
+      ],
+      "h1": "Es lo mismo que por pasar a un autobús escolar detenido.",
+      "h2": "En Alabama una condena por no ceder el paso agrega 5 puntos a su historial de manejo.",
+      "p": "Correcto. No ceder el paso son 5 puntos."
+    }
+  },
+  {
+    "id": "al-065",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, how many points are added for following another vehicle too closely?",
+      "o": [
+        "1 point",
+        "6 points",
+        "3 points",
+        "5 points"
+      ],
+      "h1": "It is more than a speeding ticket for 1 to 25 mph over.",
+      "h2": "In Alabama a conviction for following too closely adds 3 points to your driving record.",
+      "p": "Right. Following too closely is 3 points."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuántos puntos se agregan por seguir demasiado cerca a otro vehículo?",
+      "o": [
+        "1 punto",
+        "6 puntos",
+        "3 puntos",
+        "5 puntos"
+      ],
+      "h1": "Es más que una multa por exceso de velocidad de 1 a 25 mph.",
+      "h2": "En Alabama una condena por seguir demasiado cerca agrega 3 puntos a su historial de manejo.",
+      "p": "Correcto. Seguir demasiado cerca son 3 puntos."
+    }
+  },
+  {
+    "id": "al-066",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 32,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alabama, what is the fine for a first offense of texting while driving?",
+      "o": [
+        "$100",
+        "$250",
+        "$500",
+        "$25"
+      ],
+      "h1": "It is the smallest amount on the list; it goes up with each offense.",
+      "h2": "In Alabama a first texting-while-driving offense brings a $25 fine, then $50 for a second and $75 for a third or later offense.",
+      "p": "Right. The first texting fine is $25."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuál es la multa por una primera infracción de enviar mensajes de texto mientras maneja?",
+      "o": [
+        "$100",
+        "$250",
+        "$500",
+        "$25"
+      ],
+      "h1": "Es la cantidad más pequeña de la lista; sube con cada infracción.",
+      "h2": "En Alabama una primera infracción por enviar mensajes de texto mientras maneja trae una multa de $25, luego $50 por la segunda y $75 por la tercera o siguientes.",
+      "p": "Correcto. La primera multa por textear es de $25."
+    }
+  },
+  {
+    "id": "al-067",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 38,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, when Form SR-31 must be filed after a crash, how many days do you have to send it?",
+      "o": [
+        "30 days",
+        "5 days",
+        "10 days",
+        "1 year"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In Alabama, when the at-fault driver was not insured and the crash caused injury, death, or $500 or more in damage, the written SR-31 form must be sent within 30 days.",
+      "p": "Right. The SR-31 form is due within 30 days."
+    },
+    "es": {
+      "q": "En Alabama, cuando hay que enviar el formulario SR-31 después de un choque, ¿cuántos días tiene para enviarlo?",
+      "o": [
+        "30 días",
+        "5 días",
+        "10 días",
+        "1 año"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Alabama, cuando el conductor culpable no tenía seguro y el choque causó lesiones, una muerte o $500 o más en daños, el formulario escrito SR-31 debe enviarse dentro de 30 días.",
+      "p": "Correcto. El formulario SR-31 se envía dentro de 30 días."
+    }
+  },
+  {
+    "id": "al-068",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 68,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alabama, besides a fine, what license penalty can a liability insurance violation bring?",
+      "o": [
+        "A 30-day suspension",
+        "A six-month suspension",
+        "A five-year revocation",
+        "No license penalty"
+      ],
+      "h1": "It is half a year.",
+      "h2": "In Alabama a conviction for not having the required liability insurance can bring a fine and/or a six-month driver license suspension.",
+      "p": "Right. It can mean a six-month suspension."
+    },
+    "es": {
+      "q": "En Alabama, además de una multa, ¿qué castigo para la licencia puede traer una infracción del seguro de responsabilidad?",
+      "o": [
+        "Una suspensión de 30 días",
+        "Una suspensión de seis meses",
+        "Una revocación de cinco años",
+        "Ningún castigo para la licencia"
+      ],
+      "h1": "Es medio año.",
+      "h2": "En Alabama una condena por no tener el seguro de responsabilidad obligatorio puede traer una multa y/o una suspensión de la licencia de seis meses.",
+      "p": "Correcto. Puede significar una suspensión de seis meses."
+    }
+  },
+  {
+    "id": "al-069",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 33,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, a school bus or daycare driver is legally under the influence at what blood alcohol level?",
+      "o": [
+        "0.08 percent or more",
+        "0.10 percent or more",
+        "0.02 percent or more",
+        "0.05 percent or more"
+      ],
+      "h1": "It is the same low limit used for drivers under 21.",
+      "h2": "In Alabama a school bus or daycare driver is breaking the DUI law with a blood alcohol level of 0.02 percent or more.",
+      "p": "Right. For school bus and daycare drivers the limit is 0.02."
+    },
+    "es": {
+      "q": "En Alabama, un conductor de autobús escolar o de guardería está legalmente bajo los efectos del alcohol con ¿qué nivel de alcohol en la sangre?",
+      "o": [
+        "0.08 por ciento o más",
+        "0.10 por ciento o más",
+        "0.02 por ciento o más",
+        "0.05 por ciento o más"
+      ],
+      "h1": "Es el mismo límite bajo que se usa para los conductores menores de 21 años.",
+      "h2": "En Alabama un conductor de autobús escolar o de guardería viola la ley de DUI con un nivel de alcohol en la sangre de 0.02 por ciento o más.",
+      "p": "Correcto. Para conductores de autobús escolar y guardería el límite es 0.02."
+    }
+  },
+  {
+    "id": "al-070",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 33,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alabama, what is the fine range for a first DUI conviction?",
+      "o": [
+        "$50 to $100",
+        "$100 to $500",
+        "$5,000 to $10,000",
+        "$600 to $2,100"
+      ],
+      "h1": "It starts at several hundred dollars and can go above two thousand.",
+      "h2": "In Alabama a first DUI conviction carries a fine of $600 to $2,100, up to one year in jail, or both.",
+      "p": "Right. A first DUI fine is $600 to $2,100."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuál es el rango de la multa por una primera condena por DUI?",
+      "o": [
+        "$50 a $100",
+        "$100 a $500",
+        "$5,000 a $10,000",
+        "$600 a $2,100"
+      ],
+      "h1": "Empieza en varios cientos de dólares y puede pasar de dos mil.",
+      "h2": "En Alabama una primera condena por DUI trae una multa de $600 a $2,100, hasta un año de cárcel, o ambas.",
+      "p": "Correcto. La multa por un primer DUI es de $600 a $2,100."
+    }
+  },
+  {
+    "id": "al-071",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 33,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, after a second DUI conviction within 10 years, how long is the driver license revoked?",
+      "o": [
+        "One year",
+        "90 days",
+        "30 days",
+        "Ten years"
+      ],
+      "h1": "It is longer than the suspension for a first DUI.",
+      "h2": "In Alabama a second DUI conviction within 10 years brings a one-year license revocation, plus a fine and at least 48 hours in jail or 20 days of community service.",
+      "p": "Right. A second DUI means a one-year revocation."
+    },
+    "es": {
+      "q": "En Alabama, después de una segunda condena por DUI en 10 años, ¿por cuánto tiempo se revoca la licencia?",
+      "o": [
+        "Un año",
+        "90 días",
+        "30 días",
+        "Diez años"
+      ],
+      "h1": "Es más largo que la suspensión por un primer DUI.",
+      "h2": "En Alabama una segunda condena por DUI en 10 años trae una revocación de la licencia por un año, además de una multa y por lo menos 48 horas de cárcel o 20 días de servicio comunitario.",
+      "p": "Correcto. Un segundo DUI significa una revocación de un año."
+    }
+  },
+  {
+    "id": "al-072",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 34,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alabama, a driver arrested for DUI refuses the breath test an officer asks for. What happens?",
+      "o": [
+        "Nothing, the test is optional",
+        "The driver license is suspended",
+        "The driver gets a warning only",
+        "The driver must retake the road test"
+      ],
+      "h1": "Driving on Alabama roads means you have already agreed to be tested.",
+      "h2": "Under Alabama's implied consent law, a driver arrested for DUI who refuses the chemical breath test will have the driver license suspended.",
+      "p": "Right. Refusing the test leads to a license suspension."
+    },
+    "es": {
+      "q": "En Alabama, un conductor arrestado por DUI se niega a la prueba de aliento que le pide un oficial. ¿Qué pasa?",
+      "o": [
+        "Nada, la prueba es opcional",
+        "Se suspende la licencia de manejar",
+        "El conductor solo recibe una advertencia",
+        "El conductor debe repetir el examen práctico"
+      ],
+      "h1": "Manejar en las calles de Alabama significa que usted ya aceptó hacerse la prueba.",
+      "h2": "Según la ley de consentimiento implícito de Alabama, a un conductor arrestado por DUI que se niega a la prueba química de aliento se le suspende la licencia de manejar.",
+      "p": "Correcto. Negarse a la prueba lleva a una suspensión de la licencia."
+    }
+  },
+  {
+    "id": "al-073",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 38,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, you hit a parked car and the owner is not there. Which is one thing the law allows you to do?",
+      "o": [
+        "Drive away if the damage is small",
+        "Wait one hour, then leave",
+        "Leave a note with your name and address",
+        "Report it only if asked"
+      ],
+      "h1": "The owner must be able to find you.",
+      "h2": "In Alabama, if you hit an unattended vehicle, you must notify the police, try to find the owner, or leave a written note in plain view with your name and address.",
+      "p": "Right. You may leave a note with your name and address in plain view."
+    },
+    "es": {
+      "q": "En Alabama, usted choca contra un carro estacionado y el dueño no está. ¿Cuál es una cosa que la ley le permite hacer?",
+      "o": [
+        "Irse si el daño es pequeño",
+        "Esperar una hora y luego irse",
+        "Dejar una nota con su nombre y dirección",
+        "Reportarlo solo si se lo piden"
+      ],
+      "h1": "El dueño debe poder encontrarlo a usted.",
+      "h2": "En Alabama, si choca contra un vehículo sin nadie adentro, debe avisar a la policía, tratar de encontrar al dueño o dejar una nota escrita a la vista con su nombre y dirección.",
+      "p": "Correcto. Puede dejar una nota a la vista con su nombre y dirección."
+    }
+  },
+  {
+    "id": "al-074",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 30,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alabama, until when must a baby ride in a rear-facing car seat?",
+      "o": [
+        "Until 3 months old or 10 pounds",
+        "Until the baby can sit up alone",
+        "Until 6 months old or 15 pounds",
+        "Until at least 1 year or 20 pounds"
+      ],
+      "h1": "Think of a baby's first birthday.",
+      "h2": "Alabama law requires an infant seat or convertible seat facing the rear until the baby is at least 1 year old or 20 pounds.",
+      "p": "Right. Rear-facing until at least 1 year or 20 pounds."
+    },
+    "es": {
+      "q": "En Alabama, ¿hasta cuándo debe un bebé viajar en un asiento de seguridad mirando hacia atrás?",
+      "o": [
+        "Hasta los 3 meses o 10 libras",
+        "Hasta que el bebé se siente solo",
+        "Hasta los 6 meses o 15 libras",
+        "Hasta por lo menos 1 año o 20 libras"
+      ],
+      "h1": "Piense en el primer cumpleaños del bebé.",
+      "h2": "La ley de Alabama exige un asiento para bebé o convertible mirando hacia atrás hasta que el bebé tenga por lo menos 1 año o 20 libras.",
+      "p": "Correcto. Mirando hacia atrás hasta por lo menos 1 año o 20 libras."
+    }
+  },
+  {
+    "id": "al-075",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 69,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, a car is coming toward you at night. Within what distance must you dim your high beams?",
+      "o": [
+        "500 feet",
+        "100 feet",
+        "200 feet",
+        "2,000 feet"
+      ],
+      "h1": "It is longer than the distance for a car you are following.",
+      "h2": "In Alabama you must dim your headlights when you are within 500 feet of an oncoming vehicle.",
+      "p": "Right. Dim your lights within 500 feet of oncoming traffic."
+    },
+    "es": {
+      "q": "En Alabama, un carro viene de frente hacia usted de noche. ¿A qué distancia debe bajar las luces altas?",
+      "o": [
+        "500 pies",
+        "100 pies",
+        "200 pies",
+        "2,000 pies"
+      ],
+      "h1": "Es más larga que la distancia para un carro que va delante de usted.",
+      "h2": "En Alabama usted debe bajar las luces cuando está a 500 pies o menos de un vehículo que viene de frente.",
+      "p": "Correcto. Baje las luces a 500 pies del tráfico que viene de frente."
+    }
+  },
+  {
+    "id": "al-076",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 70,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alabama, your car breaks down at night. Where should you place flares or reflectors?",
+      "o": [
+        "Right next to your car",
+        "100 to 500 feet behind your car",
+        "In front of your car only",
+        "In the middle of the opposite lane"
+      ],
+      "h1": "Other drivers need warning well before they reach you.",
+      "h2": "The Alabama manual says to put flares or reflectors 100 to 500 feet behind your vehicle, on the right edge of the highway, to warn traffic.",
+      "p": "Right. Place them 100 to 500 feet behind your car."
+    },
+    "es": {
+      "q": "En Alabama, su carro se descompone de noche. ¿Dónde debe poner bengalas o reflectores?",
+      "o": [
+        "Justo al lado de su carro",
+        "De 100 a 500 pies detrás de su carro",
+        "Solo delante de su carro",
+        "En medio del carril contrario"
+      ],
+      "h1": "Los otros conductores necesitan aviso mucho antes de llegar a usted.",
+      "h2": "El manual de Alabama indica poner bengalas o reflectores de 100 a 500 pies detrás de su vehículo, en el borde derecho de la carretera, para avisar al tráfico.",
+      "p": "Correcto. Póngalos de 100 a 500 pies detrás de su carro."
+    }
+  },
+  {
+    "id": "al-077",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 80,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, a tire is illegal when its tread is less than how deep?",
+      "o": [
+        "1/2 inch",
+        "1/4 inch",
+        "1/16 inch",
+        "1/64 inch"
+      ],
+      "h1": "It is about the depth from the edge of a penny to the top of Lincoln's head.",
+      "h2": "In Alabama a tire is illegal if its tread is less than 1/16 inch deep.",
+      "p": "Right. Tread under 1/16 inch is illegal."
+    },
+    "es": {
+      "q": "En Alabama, una llanta es ilegal cuando la profundidad de su dibujo es menor de ¿cuánto?",
+      "o": [
+        "1/2 pulgada",
+        "1/4 de pulgada",
+        "1/16 de pulgada",
+        "1/64 de pulgada"
+      ],
+      "h1": "Es más o menos la distancia del borde de una moneda de un centavo a la parte de arriba de la cabeza de Lincoln.",
+      "h2": "En Alabama una llanta es ilegal si el dibujo tiene menos de 1/16 de pulgada de profundidad.",
+      "p": "Correcto. Un dibujo de menos de 1/16 de pulgada es ilegal."
+    }
+  },
+  {
+    "id": "al-078",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 73,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alabama, what does the law say about coasting downhill with the transmission in neutral?",
+      "o": [
+        "It is allowed to save fuel",
+        "It is allowed on hills only",
+        "It is required on steep hills",
+        "It is against the law"
+      ],
+      "h1": "You need the engine to help control your speed.",
+      "h2": "Alabama law forbids coasting downhill with the transmission in neutral, and coasting adds 2 points to your record.",
+      "p": "Right. Coasting in neutral is against the law."
+    },
+    "es": {
+      "q": "En Alabama, ¿qué dice la ley sobre bajar una cuesta en neutro (sin cambio), dejándose llevar?",
+      "o": [
+        "Se permite para ahorrar gasolina",
+        "Solo se permite en las cuestas",
+        "Es obligatorio en cuestas empinadas",
+        "Va contra la ley"
+      ],
+      "h1": "Usted necesita el motor para ayudar a controlar la velocidad.",
+      "h2": "La ley de Alabama prohíbe bajar una cuesta con la transmisión en neutro, y hacerlo agrega 2 puntos a su historial.",
+      "p": "Correcto. Bajar en neutro va contra la ley."
+    }
+  },
+  {
+    "id": "al-079",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 68,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, the side and rear windows of a sedan must let at least what percent of light through?",
+      "o": [
+        "32 percent",
+        "10 percent",
+        "20 percent",
+        "70 percent"
+      ],
+      "h1": "It is a little less than one third.",
+      "h2": "In Alabama the side and rear windows of a passenger car may be tinted only if they still let at least 32 percent of light through.",
+      "p": "Right. Window tint must allow at least 32 percent light."
+    },
+    "es": {
+      "q": "En Alabama, las ventanas laterales y trasera de un sedán deben dejar pasar por lo menos ¿qué porcentaje de luz?",
+      "o": [
+        "32 por ciento",
+        "10 por ciento",
+        "20 por ciento",
+        "70 por ciento"
+      ],
+      "h1": "Es un poco menos de un tercio.",
+      "h2": "En Alabama las ventanas laterales y trasera de un carro de pasajeros pueden polarizarse solo si siguen dejando pasar por lo menos el 32 por ciento de la luz.",
+      "p": "Correcto. El polarizado debe dejar pasar por lo menos 32 por ciento de luz."
+    }
+  },
+  {
+    "id": "al-080",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 67,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alabama, a load sticks out 4 feet or more from the back of your vehicle in daytime. What must you attach to the end?",
+      "o": [
+        "A white cloth",
+        "A red flag, 12 inches square",
+        "A yellow WIDE LOAD sign",
+        "Nothing, if you drive slowly"
+      ],
+      "h1": "It is red and at least one foot on each side.",
+      "h2": "In Alabama a load that extends 4 feet or more past the rear needs a red flag at least 12 inches square at its end in daytime, and a red light at night.",
+      "p": "Right. Attach a red flag at least 12 inches square."
+    },
+    "es": {
+      "q": "En Alabama, una carga sobresale 4 pies o más de la parte de atrás de su vehículo durante el día. ¿Qué debe ponerle en el extremo?",
+      "o": [
+        "Un trapo blanco",
+        "Una bandera roja de 12 pulgadas por lado",
+        "Un letrero amarillo de CARGA ANCHA",
+        "Nada, si maneja despacio"
+      ],
+      "h1": "Es roja y mide por lo menos un pie por cada lado.",
+      "h2": "En Alabama una carga que sobresale 4 pies o más por detrás necesita una bandera roja de por lo menos 12 pulgadas por lado en el extremo durante el día, y una luz roja de noche.",
+      "p": "Correcto. Ponga una bandera roja de por lo menos 12 pulgadas por lado."
+    }
+  },
+  {
+    "id": "al-081",
+    "scope": "AL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 39,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, which vehicle must always stop before crossing any railroad crossing?",
+      "o": [
+        "A pickup truck",
+        "A motorcycle",
+        "A truck hauling explosives",
+        "A car pulling a small trailer"
+      ],
+      "h1": "Think of vehicles that carry many passengers or dangerous cargo.",
+      "h2": "In Alabama school buses, church buses, other passenger buses, and trucks carrying flammable, explosive, or hazardous materials must stop before every railroad crossing.",
+      "p": "Right. Trucks carrying explosives or other hazardous cargo must stop at every railroad crossing."
+    },
+    "es": {
+      "q": "En Alabama, ¿qué vehículo siempre debe parar antes de cruzar cualquier cruce de tren?",
+      "o": [
+        "Una camioneta pickup",
+        "Una motocicleta",
+        "Un camión que lleva explosivos",
+        "Un carro que jala un remolque pequeño"
+      ],
+      "h1": "Piense en vehículos que llevan muchos pasajeros o carga peligrosa.",
+      "h2": "En Alabama los autobuses escolares, los autobuses de iglesia, otros autobuses de pasajeros y los camiones que llevan materiales inflamables, explosivos o peligrosos deben parar antes de cada cruce de tren.",
+      "p": "Correcto. Los camiones con explosivos u otra carga peligrosa deben parar en cada cruce de tren."
+    }
+  },
+  {
+    "id": "al-082",
+    "scope": "AL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 61,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alabama, besides a school bus, which stopped bus with its stop arm out and red lights flashing must you stop for?",
+      "o": [
+        "A city transit bus",
+        "A tour bus",
+        "An airport shuttle",
+        "A church bus"
+      ],
+      "h1": "It carries people to religious services.",
+      "h2": "In Alabama you must stop for a school bus or a church bus that is stopped with its stop signal arm out and red lights flashing.",
+      "p": "Right. Church buses get the same stop as school buses."
+    },
+    "es": {
+      "q": "En Alabama, además de un autobús escolar, ¿por qué otro autobús detenido con el brazo de alto extendido y luces rojas intermitentes debe parar?",
+      "o": [
+        "Un autobús de transporte urbano",
+        "Un autobús de turismo",
+        "Un transporte del aeropuerto",
+        "Un autobús de iglesia"
+      ],
+      "h1": "Lleva personas a servicios religiosos.",
+      "h2": "En Alabama usted debe parar por un autobús escolar o un autobús de iglesia que esté detenido con el brazo de alto extendido y las luces rojas intermitentes.",
+      "p": "Correcto. Por los autobuses de iglesia se para igual que por los escolares."
+    }
+  },
+  {
+    "id": "al-083",
+    "scope": "AL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 62,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, when you stop for a school bus with red lights flashing, how far from the bus must you stop?",
+      "o": [
+        "At least 20 feet",
+        "At least 5 feet",
+        "At least 10 feet",
+        "At least 100 feet"
+      ],
+      "h1": "It is about the length of one and a half cars.",
+      "h2": "In Alabama you must stop at least 20 feet from a school bus that is loading or unloading children.",
+      "p": "Right. Stop at least 20 feet away from the bus."
+    },
+    "es": {
+      "q": "En Alabama, cuando usted para por un autobús escolar con luces rojas intermitentes, ¿a qué distancia del autobús debe parar?",
+      "o": [
+        "Por lo menos a 20 pies",
+        "Por lo menos a 5 pies",
+        "Por lo menos a 10 pies",
+        "Por lo menos a 100 pies"
+      ],
+      "h1": "Es más o menos el largo de un carro y medio.",
+      "h2": "En Alabama usted debe parar por lo menos a 20 pies de un autobús escolar que está subiendo o bajando niños.",
+      "p": "Correcto. Pare por lo menos a 20 pies del autobús."
+    }
+  },
+  {
+    "id": "al-084",
+    "scope": "AL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 63,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alabama, a person is crossing holding out a white cane tipped with red. What must you do?",
+      "o": [
+        "Honk so they know you are there",
+        "Stop and give them the right of way",
+        "Drive around them slowly",
+        "Wait only if there is a crosswalk"
+      ],
+      "h1": "The law protects a person who is blind at any intersection.",
+      "h2": "Alabama law requires you to stop and give the right of way at any intersection to a blind person carrying a white cane tipped with red or using a guide dog.",
+      "p": "Right. Stop and let the person cross."
+    },
+    "es": {
+      "q": "En Alabama, una persona cruza con un bastón blanco con punta roja extendido. ¿Qué debe hacer usted?",
+      "o": [
+        "Tocar el claxon para que sepa que usted está ahí",
+        "Parar y darle el paso",
+        "Pasar despacio a su alrededor",
+        "Esperar solo si hay un cruce peatonal"
+      ],
+      "h1": "La ley protege a una persona ciega en cualquier intersección.",
+      "h2": "La ley de Alabama exige que usted pare y dé el paso en cualquier intersección a una persona ciega que lleva un bastón blanco con punta roja o usa un perro guía.",
+      "p": "Correcto. Pare y deje cruzar a la persona."
+    }
+  },
+  {
+    "id": "al-085",
+    "scope": "AL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 63,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, you reach an intersection with no signs or signals at an unlawful speed. What happens to your right of way?",
+      "o": [
+        "You keep it if you came from the right",
+        "You keep it if you got there first",
+        "You lose any right of way you had",
+        "You gain it because you are faster"
+      ],
+      "h1": "Breaking the speed law costs you something here.",
+      "h2": "In Alabama, if you enter an uncontrolled intersection at an unlawful speed, you lose any right of way you would otherwise have had.",
+      "p": "Right. Speeding into the intersection means you lose the right of way."
+    },
+    "es": {
+      "q": "En Alabama, usted llega a una intersección sin señales ni semáforos a una velocidad ilegal. ¿Qué pasa con su derecho de paso?",
+      "o": [
+        "Lo conserva si venía de la derecha",
+        "Lo conserva si llegó primero",
+        "Pierde cualquier derecho de paso que tuviera",
+        "Lo gana porque va más rápido"
+      ],
+      "h1": "Violar la ley de velocidad le cuesta algo aquí.",
+      "h2": "En Alabama, si entra a una intersección sin control a una velocidad ilegal, pierde cualquier derecho de paso que de otro modo habría tenido.",
+      "p": "Correcto. Entrar con exceso de velocidad significa perder el derecho de paso."
+    }
+  },
+  {
+    "id": "al-086",
+    "scope": "AL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 65,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alabama, a fire truck is on an emergency run. How close may you follow it if you are not on official business?",
+      "o": [
+        "No closer than 50 feet",
+        "No closer than 100 feet",
+        "No closer than 200 feet",
+        "No closer than 500 feet"
+      ],
+      "h1": "It is the longest distance on the list.",
+      "h2": "In Alabama only vehicles on necessary official business may follow within 500 feet of an emergency vehicle on an emergency run.",
+      "p": "Right. Stay more than 500 feet behind."
+    },
+    "es": {
+      "q": "En Alabama, un camión de bomberos va a una emergencia. ¿Qué tan cerca puede seguirlo si usted no va en asuntos oficiales?",
+      "o": [
+        "No a menos de 50 pies",
+        "No a menos de 100 pies",
+        "No a menos de 200 pies",
+        "No a menos de 500 pies"
+      ],
+      "h1": "Es la distancia más larga de la lista.",
+      "h2": "En Alabama solo los vehículos en asuntos oficiales necesarios pueden seguir a menos de 500 pies a un vehículo de emergencia que va a una emergencia.",
+      "p": "Correcto. Manténgase a más de 500 pies detrás."
+    }
+  },
+  {
+    "id": "al-087",
+    "scope": "AL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 24,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, where is it illegal for a person to ride a bicycle?",
+      "o": [
+        "On the sidewalk",
+        "In a marked bike lane",
+        "Two side by side on the road",
+        "With the flow of traffic"
+      ],
+      "h1": "Bicycles belong on the road, not where people walk.",
+      "h2": "In Alabama it is illegal for people on bicycles to ride on the sidewalk; they ride with traffic and must use a bike lane when there is one.",
+      "p": "Right. Riding a bicycle on the sidewalk is illegal in Alabama."
+    },
+    "es": {
+      "q": "En Alabama, ¿dónde es ilegal que una persona ande en bicicleta?",
+      "o": [
+        "En la acera",
+        "En un carril para bicicletas marcado",
+        "Dos lado a lado en la calle",
+        "En la misma dirección del tráfico"
+      ],
+      "h1": "Las bicicletas van en la calle, no donde camina la gente.",
+      "h2": "En Alabama es ilegal que las personas en bicicleta anden por la acera; deben ir con el tráfico y usar el carril para bicicletas cuando lo haya.",
+      "p": "Correcto. Andar en bicicleta por la acera es ilegal en Alabama."
+    }
+  },
+  {
+    "id": "al-088",
+    "scope": "AL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 68,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alabama, on a two-lane road with a 20 mph limit, you pass a stopped emergency vehicle with flashing lights. How fast should you go?",
+      "o": [
+        "5 mph",
+        "10 mph",
+        "15 mph",
+        "20 mph"
+      ],
+      "h1": "It is half the posted limit in this case.",
+      "h2": "Under Alabama's Move Over law, on a two-lane road where the limit is 20 mph or less, you must move as far away as you can in your lane and slow to 10 mph.",
+      "p": "Right. Slow to 10 mph."
+    },
+    "es": {
+      "q": "En Alabama, en un camino de dos carriles con límite de 20 mph, usted pasa junto a un vehículo de emergencia detenido con luces intermitentes. ¿A qué velocidad debe ir?",
+      "o": [
+        "5 mph",
+        "10 mph",
+        "15 mph",
+        "20 mph"
+      ],
+      "h1": "En este caso es la mitad del límite indicado.",
+      "h2": "Según la ley Move Over de Alabama, en un camino de dos carriles con límite de 20 mph o menos, usted debe alejarse lo más posible dentro de su carril y bajar a 10 mph.",
+      "p": "Correcto. Baje a 10 mph."
+    }
+  },
+  {
+    "id": "al-089",
+    "scope": "AL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 65,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, you may not cross the center line to pass on a hill or curve unless you can see clearly ahead for at least how far?",
+      "o": [
+        "100 feet",
+        "200 feet",
+        "500 feet",
+        "50 feet"
+      ],
+      "h1": "It is the same distance as the headlight visibility rule.",
+      "h2": "In Alabama you may not cross the center line to pass on a curve or hill where you cannot see a clear passing distance of at least 500 feet.",
+      "p": "Right. You need at least 500 feet of clear view."
+    },
+    "es": {
+      "q": "En Alabama, no puede cruzar la línea central para rebasar en una cuesta o curva a menos que vea claramente hacia adelante por lo menos ¿qué distancia?",
+      "o": [
+        "100 pies",
+        "200 pies",
+        "500 pies",
+        "50 pies"
+      ],
+      "h1": "Es la misma distancia que la regla de visibilidad de las luces.",
+      "h2": "En Alabama no puede cruzar la línea central para rebasar en una curva o cuesta donde no pueda ver una distancia libre de por lo menos 500 pies.",
+      "p": "Correcto. Necesita ver por lo menos 500 pies libres."
+    }
+  },
+  {
+    "id": "al-090",
+    "scope": "AL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 66,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alabama, you miss your exit on a freeway. May you back up on the shoulder to reach it?",
+      "o": [
+        "Yes, if you use hazard lights",
+        "Yes, if traffic is light",
+        "Yes, but only at night",
+        "No, backing on a freeway is prohibited"
+      ],
+      "h1": "Only emergency vehicles on duty are excepted.",
+      "h2": "In Alabama backing is prohibited on controlled-access highways such as freeways, except for emergency vehicles on duty, so go on to the next exit.",
+      "p": "Right. Never back up on a freeway; take the next exit."
+    },
+    "es": {
+      "q": "En Alabama, usted se pasa de su salida en una autopista. ¿Puede retroceder por el acotamiento para llegar a ella?",
+      "o": [
+        "Sí, si usa las luces de emergencia",
+        "Sí, si hay poco tráfico",
+        "Sí, pero solo de noche",
+        "No, está prohibido retroceder en una autopista"
+      ],
+      "h1": "Solo se exceptúan los vehículos de emergencia en servicio.",
+      "h2": "En Alabama está prohibido retroceder en las carreteras de acceso controlado, como las autopistas, excepto los vehículos de emergencia en servicio, así que siga hasta la próxima salida.",
+      "p": "Correcto. Nunca retroceda en una autopista; tome la próxima salida."
+    }
+  },
+  {
+    "id": "al-091",
+    "scope": "AL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 29,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, how close may you park to a stop sign at the side of the road?",
+      "o": [
+        "No closer than 30 feet",
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 100 feet"
+      ],
+      "h1": "It is twice the distance for a fire hydrant.",
+      "h2": "In Alabama you may not park within 30 feet of a stop sign, flashing beacon, or traffic signal at the side of the road.",
+      "p": "Right. Stay at least 30 feet from a stop sign."
+    },
+    "es": {
+      "q": "En Alabama, ¿qué tan cerca de una señal de alto al lado del camino puede estacionarse?",
+      "o": [
+        "No a menos de 30 pies",
+        "No a menos de 5 pies",
+        "No a menos de 10 pies",
+        "No a menos de 100 pies"
+      ],
+      "h1": "Es el doble de la distancia para un hidrante.",
+      "h2": "En Alabama no puede estacionarse a menos de 30 pies de una señal de alto, una luz intermitente o un semáforo al lado del camino.",
+      "p": "Correcto. Quédese por lo menos a 30 pies de una señal de alto."
+    }
   }
 ]
