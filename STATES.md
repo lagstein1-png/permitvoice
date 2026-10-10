@@ -46,7 +46,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | NM | New Mexico | 96 | 96 | ? q, pass ? (70%) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/dlms11.19.19.pdf) | yes |
 | NV | Nevada | 51 | 50 | 25 q, pass 20 (80%) | [link](https://dmv.nv.gov/pdfforms/dlbook.pdf) | — | yes |
 | NY | New York | 50 | 50 | 20 q, pass 14 (70%) | [link](https://dmv.ny.gov/brochure/mv21.pdf) | [link](https://dmv.ny.gov/brochure/mv21s.pdf) | yes |
-| OH | Ohio | 50 | 50 | 40 q, pass 30 (75%) | [link](https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws) | — | yes |
+| OH | Ohio | 100 | 100 | 40 q, pass 30 (75%) | [link](https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws) | — | yes |
 | OK | Oklahoma | 50 | 50 | 20 q, pass ? | [link](https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf) | — | yes |
 | OR | Oregon | 50 | 50 | 35 q, pass 28 (80%) | [link](https://www.oregon.gov/odot/Forms/DMV/37.pdf) | [link](https://www.oregon.gov/odot/Forms/DMV/37s.pdf) | yes |
 | PA | Pennsylvania | 50 | 50 | 18 q, pass 15 (83%) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/spanish/pub%2095s.pdf) | yes |
