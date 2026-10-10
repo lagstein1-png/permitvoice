@@ -5959,28 +5959,28 @@
     "sign": null,
     "c": 0,
     "en": {
-      "q": "In Massachusetts, what is the shortest jail time a person must actually serve for a second OUI conviction?",
+      "q": "In Massachusetts, a judge gives a jail sentence for a second OUI conviction. What is the least time of that sentence that cannot be cut or suspended?",
       "o": [
         "30 days",
-        "No jail time",
+        "7 days",
         "1 day",
         "5 years"
       ],
-      "h1": "The sentence is at least 60 days, and part of it cannot be cut or suspended.",
-      "h2": "In Massachusetts, a second OUI brings a jail sentence of at least 60 days, and at least 30 days must be served.",
-      "p": "Correct! At least 30 days must be served."
+      "h1": "The sentence is at least 60 days, and half of that is fixed.",
+      "h2": "In Massachusetts, a jail sentence for a second OUI is at least 60 days, and it cannot be cut or suspended below 30 days.",
+      "p": "Correct! At least 30 days cannot be cut."
     },
     "es": {
-      "q": "En Massachusetts, ¿cuál es el tiempo mínimo de cárcel que se debe cumplir por una segunda condena por OUI?",
+      "q": "En Massachusetts, un juez da una condena de cárcel por una segunda condena por OUI. ¿Cuál es el tiempo mínimo de esa condena que no se puede reducir ni suspender?",
       "o": [
         "30 días",
-        "Nada de cárcel",
+        "7 días",
         "1 día",
         "5 años"
       ],
-      "h1": "La condena es de al menos 60 días, y una parte no se puede reducir ni suspender.",
-      "h2": "En Massachusetts, un segundo OUI trae una condena de al menos 60 días de cárcel, y se deben cumplir al menos 30 días.",
-      "p": "¡Correcto! Se deben cumplir al menos 30 días."
+      "h1": "La condena es de al menos 60 días, y la mitad de eso es fija.",
+      "h2": "En Massachusetts, una condena de cárcel por un segundo OUI es de al menos 60 días, y no se puede reducir ni suspender por debajo de 30 días.",
+      "p": "¡Correcto! Al menos 30 días no se pueden reducir."
     }
   },
   {
@@ -6061,28 +6061,28 @@
     "sign": null,
     "c": 0,
     "en": {
-      "q": "In Massachusetts, a driver under 21 refuses a breath test after an OUI arrest. How long is the license suspended?",
+      "q": "In Massachusetts, a driver aged 18 to 20 with no earlier OUI refuses a breath test after an OUI arrest. How long is the license suspended in total?",
       "o": [
-        "3 years",
+        "3 years plus 180 days",
         "90 days",
         "180 days",
         "30 days"
       ],
-      "h1": "Young drivers get a much longer suspension than the 180 days for adults.",
-      "h2": "In Massachusetts, a driver under 21 who refuses a breath or blood test has the license suspended for three years.",
-      "p": "Correct! Three years for drivers under 21."
+      "h1": "Drivers under 21 get years, not the 180 days an adult gets, and the under-21 law adds more on top.",
+      "h2": "In Massachusetts, a driver aged 18 to 20 with no earlier OUI who refuses a breath or blood test loses the license for three years, plus another 180 days under the under-21 law.",
+      "p": "Correct! Three years plus 180 days."
     },
     "es": {
-      "q": "En Massachusetts, un conductor menor de 21 años se niega a la prueba de aliento después de un arresto por OUI. ¿Por cuánto tiempo se suspende la licencia?",
+      "q": "En Massachusetts, un conductor de 18 a 20 años sin OUI anterior se niega a la prueba de aliento después de un arresto por OUI. ¿Por cuánto tiempo en total se suspende la licencia?",
       "o": [
-        "3 años",
+        "3 años más 180 días",
         "90 días",
         "180 días",
         "30 días"
       ],
-      "h1": "A los jóvenes se les suspende mucho más que los 180 días para adultos.",
-      "h2": "En Massachusetts, a un conductor menor de 21 años que se niega a la prueba de aliento o de sangre se le suspende la licencia por tres años.",
-      "p": "¡Correcto! Tres años para menores de 21."
+      "h1": "A los menores de 21 se les suspende por años, no los 180 días de un adulto, y la ley para menores de 21 añade más.",
+      "h2": "En Massachusetts, un conductor de 18 a 20 años sin OUI anterior que se niega a la prueba de aliento o de sangre pierde la licencia por tres años, más otros 180 días por la ley para menores de 21.",
+      "p": "¡Correcto! Tres años más 180 días."
     }
   },
   {
@@ -6265,7 +6265,7 @@
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In Massachusetts, a 19-year-old driver is found with a blood alcohol level of 0.02 or more. How long does the RMV suspend the license?",
+      "q": "In Massachusetts, a 19-year-old arrested for OUI tests at 0.02 or more. Besides the 30-day suspension that starts right away, how long an extra suspension does the RMV add?",
       "o": [
         "30 days",
         "90 days",
@@ -6273,11 +6273,11 @@
         "3 years"
       ],
       "h1": "It is about half a year.",
-      "h2": "In Massachusetts, the RMV suspends the license of a driver aged 18 to 20 with 0.02 or more for 180 days.",
-      "p": "Correct! 180 days for a driver aged 18 to 20."
+      "h2": "In Massachusetts, a driver aged 18 to 20 who tests at 0.02 or more gets an extra 180-day RMV suspension, which can be waived on a first OUI case by entering an approved alcohol education program.",
+      "p": "Correct! An extra 180 days for a driver aged 18 to 20."
     },
     "es": {
-      "q": "En Massachusetts, a un conductor de 19 años le encuentran un nivel de alcohol en la sangre de 0.02 o más. ¿Por cuánto tiempo suspende el RMV la licencia?",
+      "q": "En Massachusetts, a un joven de 19 años arrestado por OUI le sale 0.02 o más en la prueba. Además de la suspensión de 30 días que empieza de inmediato, ¿cuánto tiempo de suspensión extra añade el RMV?",
       "o": [
         "30 días",
         "90 días",
@@ -6285,8 +6285,8 @@
         "3 años"
       ],
       "h1": "Es más o menos medio año.",
-      "h2": "En Massachusetts, el RMV suspende por 180 días la licencia de un conductor de 18 a 20 años con 0.02 o más.",
-      "p": "¡Correcto! 180 días para un conductor de 18 a 20 años."
+      "h2": "En Massachusetts, un conductor de 18 a 20 años con 0.02 o más recibe una suspensión extra del RMV de 180 días, que se puede perdonar en un primer caso de OUI si entra a un programa aprobado de educación sobre el alcohol.",
+      "p": "¡Correcto! 180 días extra para un conductor de 18 a 20 años."
     }
   },
   {
@@ -6299,28 +6299,28 @@
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Massachusetts, a 17-year-old driver is found with a blood alcohol level of 0.02 or more. How long does the RMV suspend the license?",
+      "q": "In Massachusetts, a 17-year-old arrested for OUI tests at 0.02 or more. Besides the 30-day suspension that starts right away, how long an extra suspension does the RMV add?",
       "o": [
         "30 days",
         "60 days",
-        "180 days",
+        "2 years",
         "One year"
       ],
-      "h1": "Drivers under 18 get twice as long as drivers aged 18 to 20.",
-      "h2": "In Massachusetts, the RMV suspends the license of a driver under 18 with 0.02 or more for one year.",
-      "p": "Right! One year for a driver under 18."
+      "h1": "Drivers under 18 get twice the 180 days that drivers aged 18 to 20 get.",
+      "h2": "In Massachusetts, a driver under 18 who tests at 0.02 or more gets an extra one-year RMV suspension, which can drop to 180 days on a first OUI case by entering an approved alcohol education program.",
+      "p": "Right! An extra year for a driver under 18."
     },
     "es": {
-      "q": "En Massachusetts, a un conductor de 17 años le encuentran un nivel de alcohol en la sangre de 0.02 o más. ¿Por cuánto tiempo suspende el RMV la licencia?",
+      "q": "En Massachusetts, a un joven de 17 años arrestado por OUI le sale 0.02 o más en la prueba. Además de la suspensión de 30 días que empieza de inmediato, ¿cuánto tiempo de suspensión extra añade el RMV?",
       "o": [
         "30 días",
         "60 días",
-        "180 días",
+        "2 años",
         "Un año"
       ],
-      "h1": "A los menores de 18 se les suspende el doble que a los de 18 a 20 años.",
-      "h2": "En Massachusetts, el RMV suspende por un año la licencia de un conductor menor de 18 años con 0.02 o más.",
-      "p": "¡Correcto! Un año para un conductor menor de 18."
+      "h1": "A los menores de 18 se les da el doble de los 180 días que reciben los de 18 a 20 años.",
+      "h2": "En Massachusetts, un conductor menor de 18 años con 0.02 o más recibe una suspensión extra del RMV de un año, que puede bajar a 180 días en un primer caso de OUI si entra a un programa aprobado de educación sobre el alcohol.",
+      "p": "¡Correcto! Un año extra para un conductor menor de 18."
     }
   },
   {
