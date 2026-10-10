@@ -9246,5 +9246,39 @@
       "h2": "En Montana, no puede estacionarse en un puente u otra estructura elevada, ni en un túnel o paso a desnivel inferior.",
       "p": "Correcto. Nunca se estacione en un puente ni en un túnel."
     }
+  },
+  {
+    "id": "mt-201",
+    "scope": "MT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 15,
+    "src": "https://opi.mt.gov/Portals/182/Page%20Files/Driver%20Education/Curriculum/Resources%20and%20Extras/Montana-Driver-Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Montana, may you put flashing or rotating lights (other than turn signals) on your private car?",
+      "o": [
+        "Yes, if they are amber",
+        "No, they are only for emergency and other authorized vehicles",
+        "Yes, if you use them only at night",
+        "Yes, under the car as decoration"
+      ],
+      "h1": "Flashing and rotating lights tell other drivers that a special vehicle is coming.",
+      "h2": "In Montana, flashing, blinking, rotating or pulsing lights other than turn signals are not allowed except on emergency or authorized vehicles, and decorative lights under the car may not flash or rotate either.",
+      "p": "Right. Flashing and rotating lights are only for emergency and authorized vehicles."
+    },
+    "es": {
+      "q": "En Montana, ¿puede poner luces intermitentes o giratorias (además de las direccionales) en su auto particular?",
+      "o": [
+        "Sí, si son de color ámbar",
+        "No, son solo para vehículos de emergencia y otros autorizados",
+        "Sí, si las usa solo de noche",
+        "Sí, debajo del auto como decoración"
+      ],
+      "h1": "Las luces intermitentes y giratorias avisan a otros conductores que viene un vehículo especial.",
+      "h2": "En Montana, las luces intermitentes, parpadeantes, giratorias o pulsantes, además de las direccionales, no están permitidas excepto en vehículos de emergencia o autorizados, y las luces decorativas debajo del auto tampoco pueden parpadear ni girar.",
+      "p": "Correcto. Las luces intermitentes y giratorias son solo para vehículos de emergencia y autorizados."
+    }
   }
 ]
