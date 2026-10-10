@@ -2540,5 +2540,719 @@
       "h2": "في Illinois يجب أن ترجع إلى مسارك قبل أن تصبح على بعد أقل من 200 قدم من السيارة القادمة من الاتجاه المقابل.",
       "p": "صحيح. ارجع إلى مسارك قبل السيارة القادمة بـ 200 قدم على الأقل."
     }
+  },
+  {
+    "id": "il-032",
+    "scope": "IL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 5,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Illinois, you move here with a valid license from another state. How soon must you get an Illinois license?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 90 days",
+        "Within 1 year"
+      ],
+      "h1": "You get about three months, unless your old license runs out first.",
+      "h2": "A new Illinois resident must get an Illinois license within 90 days, or sooner if the old license expires first.",
+      "p": "Right. New residents have 90 days."
+    },
+    "es": {
+      "q": "En Illinois, usted se muda aquí con una licencia válida de otro estado. ¿En cuánto tiempo debe sacar una licencia de Illinois?",
+      "o": [
+        "En 10 días",
+        "En 30 días",
+        "En 90 días",
+        "En 1 año"
+      ],
+      "h1": "Tiene unos tres meses, a menos que su licencia anterior venza antes.",
+      "h2": "Un nuevo residente de Illinois debe sacar una licencia de Illinois en 90 días, o antes si la licencia anterior vence primero.",
+      "p": "Correcto. Los nuevos residentes tienen 90 días."
+    }
+  },
+  {
+    "id": "il-033",
+    "scope": "IL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Illinois, after you move to a new address, how soon must you tell the Secretary of State?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 60 days",
+        "Within 6 months"
+      ],
+      "h1": "It is a short time, less than two weeks.",
+      "h2": "In Illinois, you must report a change of address to the Secretary of State within 10 days of moving.",
+      "p": "Right. Report a new address within 10 days."
+    },
+    "es": {
+      "q": "En Illinois, después de mudarse a una nueva dirección, ¿en cuánto tiempo debe avisar a la Secretaría de Estado?",
+      "o": [
+        "En 10 días",
+        "En 30 días",
+        "En 60 días",
+        "En 6 meses"
+      ],
+      "h1": "Es poco tiempo, menos de dos semanas.",
+      "h2": "En Illinois, usted debe informar un cambio de dirección a la Secretaría de Estado en 10 días después de mudarse.",
+      "p": "Correcto. Informe su nueva dirección en 10 días."
+    }
+  },
+  {
+    "id": "il-034",
+    "scope": "IL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 8,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Illinois, for most adult drivers, how long is a driver's license valid?",
+      "o": [
+        "2 years",
+        "4 years",
+        "6 years",
+        "8 years"
+      ],
+      "h1": "Drivers over 80 renew more often than most adults.",
+      "h2": "For most adult drivers in Illinois, a driver's license is valid for four years and expires on the driver's birthday.",
+      "p": "Right. Most Illinois licenses last four years."
+    },
+    "es": {
+      "q": "En Illinois, para la mayoría de los conductores adultos, ¿por cuánto tiempo es válida la licencia de conducir?",
+      "o": [
+        "2 años",
+        "4 años",
+        "6 años",
+        "8 años"
+      ],
+      "h1": "Los conductores mayores de 80 años renuevan más seguido que la mayoría de los adultos.",
+      "h2": "Para la mayoría de los conductores adultos en Illinois, la licencia de conducir es válida por cuatro años y vence el día del cumpleaños del conductor.",
+      "p": "Correcto. La mayoría de las licencias de Illinois duran cuatro años."
+    }
+  },
+  {
+    "id": "il-035",
+    "scope": "IL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 8,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Illinois, when does a license issued to a driver under 21 expire?",
+      "o": [
+        "3 months after the 21st birthday",
+        "On the 21st birthday",
+        "On the 18th birthday",
+        "1 year after the 21st birthday"
+      ],
+      "h1": "It is a little while after the driver turns 21.",
+      "h2": "In Illinois, a license issued to a driver under 21 expires three months after the driver's 21st birthday.",
+      "p": "Right. It expires three months after turning 21."
+    },
+    "es": {
+      "q": "En Illinois, ¿cuándo vence la licencia de un conductor menor de 21 años?",
+      "o": [
+        "3 meses después de cumplir 21 años",
+        "El día que cumple 21 años",
+        "El día que cumple 18 años",
+        "1 año después de cumplir 21 años"
+      ],
+      "h1": "Es un poco después de que el conductor cumple 21 años.",
+      "h2": "En Illinois, la licencia de un conductor menor de 21 años vence tres meses después de que cumple 21 años.",
+      "p": "Correcto. Vence tres meses después de cumplir 21."
+    }
+  },
+  {
+    "id": "il-036",
+    "scope": "IL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Illinois, how long is an instruction permit valid?",
+      "o": [
+        "6 months",
+        "12 months",
+        "18 months",
+        "24 months"
+      ],
+      "h1": "It lasts longer than the nine months a teen must hold it.",
+      "h2": "In Illinois, an instruction permit is valid for 24 months.",
+      "p": "Right. The permit is good for 24 months."
+    },
+    "es": {
+      "q": "En Illinois, ¿por cuánto tiempo es válido el permiso de aprendizaje?",
+      "o": [
+        "6 meses",
+        "12 meses",
+        "18 meses",
+        "24 meses"
+      ],
+      "h1": "Dura más que los nueve meses que un adolescente debe tenerlo.",
+      "h2": "En Illinois, el permiso de aprendizaje es válido por 24 meses.",
+      "p": "Correcto. El permiso es válido por 24 meses."
+    }
+  },
+  {
+    "id": "il-037",
+    "scope": "IL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Illinois, an 18-year-old has never been licensed and never took driver education. What must they finish before getting a license?",
+      "o": [
+        "A 30-hour classroom course",
+        "A 6-hour adult driver education course",
+        "A short online safety video",
+        "Nothing, because they are 18"
+      ],
+      "h1": "There is a special course for new drivers ages 18 to 20.",
+      "h2": "In Illinois, a first-time applicant age 18, 19 or 20 who never took driver education must complete a six-hour Adult Driver Education Course.",
+      "p": "Right. They need the 6-hour adult course."
+    },
+    "es": {
+      "q": "En Illinois, una persona de 18 años nunca ha tenido licencia ni tomó educación vial. ¿Qué debe completar antes de obtener una licencia?",
+      "o": [
+        "Un curso de 30 horas en el aula",
+        "Un curso de educación vial para adultos de 6 horas",
+        "Un video corto de seguridad en línea",
+        "Nada, porque tiene 18 años"
+      ],
+      "h1": "Hay un curso especial para conductores nuevos de 18 a 20 años.",
+      "h2": "En Illinois, una persona de 18, 19 o 20 años que solicita su primera licencia y nunca tomó educación vial debe completar un curso de educación vial para adultos de seis horas.",
+      "p": "Correcto. Necesita el curso para adultos de 6 horas."
+    }
+  },
+  {
+    "id": "il-038",
+    "scope": "IL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Illinois, a driver under 21 is convicted of two moving violations within 24 months. What happens?",
+      "o": [
+        "Only a warning letter",
+        "A fine, but no effect on the license",
+        "The license is revoked for life",
+        "A license suspension of at least 30 days"
+      ],
+      "h1": "Young drivers lose their license sooner than adults do.",
+      "h2": "In Illinois, a driver under 21 with two or more moving violation convictions within 24 months faces a suspension of at least 30 days.",
+      "p": "Right. At least a 30-day suspension."
+    },
+    "es": {
+      "q": "En Illinois, un conductor menor de 21 años es declarado culpable de dos infracciones de tránsito en 24 meses. ¿Qué pasa?",
+      "o": [
+        "Solo recibe una carta de advertencia",
+        "Paga una multa, sin efecto en la licencia",
+        "Le revocan la licencia de por vida",
+        "Le suspenden la licencia por al menos 30 días"
+      ],
+      "h1": "Los conductores jóvenes pierden la licencia más pronto que los adultos.",
+      "h2": "En Illinois, un conductor menor de 21 años con dos o más condenas por infracciones de tránsito en 24 meses recibe una suspensión de al menos 30 días.",
+      "p": "Correcto. Una suspensión de al menos 30 días."
+    }
+  },
+  {
+    "id": "il-039",
+    "scope": "IL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 24,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Illinois, unless a sign says otherwise, what is the speed limit on a highway with four lanes?",
+      "o": [
+        "55 mph",
+        "60 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "It is lower than on interstates but higher than on other rural roads.",
+      "h2": "Unless a sign says otherwise, the speed limit on an Illinois highway with four lanes is 65 miles per hour.",
+      "p": "Right. Four-lane highways are 65 mph."
+    },
+    "es": {
+      "q": "En Illinois, si no hay un letrero que diga otra cosa, ¿cuál es el límite de velocidad en una carretera de cuatro carriles?",
+      "o": [
+        "55 mph",
+        "60 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "Es menor que en las interestatales, pero mayor que en otras carreteras rurales.",
+      "h2": "Si no hay un letrero que diga otra cosa, el límite de velocidad en una carretera de cuatro carriles de Illinois es de 65 millas por hora.",
+      "p": "Correcto. Las carreteras de cuatro carriles son de 65 mph."
+    }
+  },
+  {
+    "id": "il-040",
+    "scope": "IL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 24,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Illinois, what is the speed limit in a posted school zone on a school day when children are present?",
+      "o": [
+        "15 mph",
+        "20 mph",
+        "25 mph",
+        "30 mph"
+      ],
+      "h1": "It is slower than the usual city limit of 30 mph.",
+      "h2": "In Illinois, you must slow to 20 miles per hour in a posted school zone on school days when children are present.",
+      "p": "Right. School zones are 20 mph."
+    },
+    "es": {
+      "q": "En Illinois, ¿cuál es el límite de velocidad en una zona escolar señalizada, en un día de clases, cuando hay niños presentes?",
+      "o": [
+        "15 mph",
+        "20 mph",
+        "25 mph",
+        "30 mph"
+      ],
+      "h1": "Es más lento que el límite normal de la ciudad, que es de 30 mph.",
+      "h2": "En Illinois, usted debe bajar a 20 millas por hora en una zona escolar señalizada los días de clases cuando hay niños presentes.",
+      "p": "Correcto. Las zonas escolares son de 20 mph."
+    }
+  },
+  {
+    "id": "il-041",
+    "scope": "IL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 25,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Illinois, when must you obey the posted speed limit in a construction zone?",
+      "o": [
+        "At all times, day and night",
+        "Only when workers are present",
+        "Only during daylight hours",
+        "Only on weekdays"
+      ],
+      "h1": "Road work dangers do not go away when the workers go home.",
+      "h2": "In Illinois, you must obey the posted construction zone speed limit 24 hours a day, seven days a week, even when no workers are there.",
+      "p": "Right. The work zone limit applies all the time."
+    },
+    "es": {
+      "q": "En Illinois, ¿cuándo debe obedecer el límite de velocidad señalizado en una zona de construcción?",
+      "o": [
+        "Siempre, de día y de noche",
+        "Solo cuando hay trabajadores",
+        "Solo durante el día",
+        "Solo de lunes a viernes"
+      ],
+      "h1": "Los peligros de la obra no desaparecen cuando los trabajadores se van a casa.",
+      "h2": "En Illinois, usted debe obedecer el límite de velocidad señalizado en una zona de construcción las 24 horas del día, los siete días de la semana, aunque no haya trabajadores.",
+      "p": "Correcto. El límite de la zona de obras se aplica siempre."
+    }
+  },
+  {
+    "id": "il-042",
+    "scope": "IL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 29,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Illinois, may you pass another vehicle on a two-lane road inside a construction zone?",
+      "o": [
+        "Yes, if the road ahead is clear",
+        "Yes, but only in daylight",
+        "Only if no workers are present",
+        "No, every construction zone is a no-passing zone"
+      ],
+      "h1": "Think about narrow lanes and workers close to traffic.",
+      "h2": "In Illinois, all construction zones are no-passing zones, so you may not pass there.",
+      "p": "Right. No passing in any construction zone."
+    },
+    "es": {
+      "q": "En Illinois, ¿puede rebasar a otro vehículo en una carretera de dos carriles dentro de una zona de construcción?",
+      "o": [
+        "Sí, si el camino adelante está libre",
+        "Sí, pero solo durante el día",
+        "Solo si no hay trabajadores",
+        "No, todas las zonas de construcción son zonas de no rebasar"
+      ],
+      "h1": "Piense en los carriles angostos y en los trabajadores cerca del tráfico.",
+      "h2": "En Illinois, todas las zonas de construcción son zonas de no rebasar, así que usted no puede rebasar allí.",
+      "p": "Correcto. No se rebasa en ninguna zona de construcción."
+    }
+  },
+  {
+    "id": "il-043",
+    "scope": "IL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 29,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Illinois, on an interstate, when should you drive in the left lane?",
+      "o": [
+        "Whenever you like",
+        "When you are passing another vehicle",
+        "Only at night",
+        "When you are going below the speed limit"
+      ],
+      "h1": "The left lane is not for cruising.",
+      "h2": "On an Illinois interstate, you may not drive in the left lane except to pass, apart from a few exceptions such as heavy traffic, bad weather or a hazard in the right lane.",
+      "p": "Right. The left lane is for passing."
+    },
+    "es": {
+      "q": "En Illinois, en una carretera interestatal, ¿cuándo debe manejar en el carril izquierdo?",
+      "o": [
+        "Cuando usted quiera",
+        "Cuando está rebasando a otro vehículo",
+        "Solo de noche",
+        "Cuando va más despacio que el límite"
+      ],
+      "h1": "El carril izquierdo no es para ir de paseo.",
+      "h2": "En una interestatal de Illinois, usted no puede manejar en el carril izquierdo excepto para rebasar, salvo algunas excepciones como tráfico pesado, mal tiempo o un peligro en el carril derecho.",
+      "p": "Correcto. El carril izquierdo es para rebasar."
+    }
+  },
+  {
+    "id": "il-044",
+    "scope": "IL",
+    "cat": "signals",
+    "conf": "high",
+    "page": 30,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Illinois, outside business and residential areas, how far before a turn must you start your turn signal?",
+      "o": [
+        "At least 50 feet",
+        "At least 100 feet",
+        "At least 200 feet",
+        "At least 500 feet"
+      ],
+      "h1": "It is twice the distance required in town.",
+      "h2": "In Illinois, outside business and residential areas, you must signal for at least 200 feet before turning.",
+      "p": "Right. Signal at least 200 feet ahead outside town."
+    },
+    "es": {
+      "q": "En Illinois, fuera de las zonas comerciales y residenciales, ¿a qué distancia antes de una vuelta debe poner la direccional?",
+      "o": [
+        "Al menos 50 pies",
+        "Al menos 100 pies",
+        "Al menos 200 pies",
+        "Al menos 500 pies"
+      ],
+      "h1": "Es el doble de la distancia que se pide en la ciudad.",
+      "h2": "En Illinois, fuera de las zonas comerciales y residenciales, usted debe poner la direccional al menos 200 pies antes de dar vuelta.",
+      "p": "Correcto. Fuera de la ciudad, señale al menos 200 pies antes."
+    }
+  },
+  {
+    "id": "il-045",
+    "scope": "IL",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 33,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Illinois, what is the penalty for being convicted of passing a stopped school bus with its stop arm out?",
+      "o": [
+        "A $300 fine and a license suspension",
+        "A $50 fine and nothing more",
+        "A warning for the first time",
+        "Traffic school, with no fine"
+      ],
+      "h1": "It costs money and also affects your license.",
+      "h2": "In Illinois, a conviction for passing a stopped school bus brings a mandatory $300 fine and a suspension of your driver's license.",
+      "p": "Right. A $300 fine and a suspension."
+    },
+    "es": {
+      "q": "En Illinois, ¿cuál es la sanción por ser declarado culpable de rebasar un autobús escolar detenido con el brazo de alto extendido?",
+      "o": [
+        "Una multa de $300 y la suspensión de la licencia",
+        "Una multa de $50 y nada más",
+        "Una advertencia la primera vez",
+        "Escuela de tránsito, sin multa"
+      ],
+      "h1": "Cuesta dinero y también afecta su licencia.",
+      "h2": "En Illinois, una condena por rebasar un autobús escolar detenido trae una multa obligatoria de $300 y la suspensión de su licencia de conducir.",
+      "p": "Correcto. Una multa de $300 y una suspensión."
+    }
+  },
+  {
+    "id": "il-046",
+    "scope": "IL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Illinois, how close to a STOP sign may you park?",
+      "o": [
+        "No closer than 10 feet",
+        "No closer than 20 feet",
+        "No closer than 30 feet",
+        "No closer than 50 feet"
+      ],
+      "h1": "Other drivers need to see the sign clearly.",
+      "h2": "In Illinois, you may not park within 30 feet of a STOP sign, a YIELD sign or a traffic signal.",
+      "p": "Right. Stay at least 30 feet from a STOP sign."
+    },
+    "es": {
+      "q": "En Illinois, ¿qué tan cerca de un letrero de ALTO puede estacionarse?",
+      "o": [
+        "No más cerca de 10 pies",
+        "No más cerca de 20 pies",
+        "No más cerca de 30 pies",
+        "No más cerca de 50 pies"
+      ],
+      "h1": "Los demás conductores necesitan ver bien el letrero.",
+      "h2": "En Illinois, usted no puede estacionarse a menos de 30 pies de un letrero de ALTO, un letrero de CEDA EL PASO o un semáforo.",
+      "p": "Correcto. Quédese al menos a 30 pies de un letrero de ALTO."
+    }
+  },
+  {
+    "id": "il-047",
+    "scope": "IL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 55,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Illinois, what happens to your driving privileges if you are convicted of driving without the required insurance?",
+      "o": [
+        "Nothing, you only pay a fine",
+        "They are suspended for at least 3 months",
+        "They are suspended for 1 week",
+        "They are revoked for 10 years"
+      ],
+      "h1": "You lose your license for a few months, and no driving permit is offered.",
+      "h2": "In Illinois, a conviction for driving without the required insurance means losing your driving privileges for at least three months.",
+      "p": "Right. At least a 3-month suspension."
+    },
+    "es": {
+      "q": "En Illinois, ¿qué pasa con su privilegio de manejar si lo declaran culpable de manejar sin el seguro obligatorio?",
+      "o": [
+        "Nada, solo paga una multa",
+        "Se lo suspenden por al menos 3 meses",
+        "Se lo suspenden por 1 semana",
+        "Se lo revocan por 10 años"
+      ],
+      "h1": "Pierde la licencia por unos meses y no le dan un permiso para manejar.",
+      "h2": "En Illinois, una condena por manejar sin el seguro obligatorio significa perder el privilegio de manejar por al menos tres meses.",
+      "p": "Correcto. Una suspensión de al menos 3 meses."
+    }
+  },
+  {
+    "id": "il-048",
+    "scope": "IL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 49,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Illinois, a first offender arrested for DUI has a test result of 0.08 or more. How long is the statutory summary suspension?",
+      "o": [
+        "1 month",
+        "3 months",
+        "6 months",
+        "2 years"
+      ],
+      "h1": "It is half a year.",
+      "h2": "In Illinois, a first offender whose test shows 0.08 or more gets a statutory summary suspension of six months.",
+      "p": "Right. Six months for a failed test."
+    },
+    "es": {
+      "q": "En Illinois, una persona arrestada por primera vez por manejar bajo los efectos (DUI) tiene un resultado de 0.08 o más. ¿Cuánto dura la suspensión sumaria (statutory summary suspension)?",
+      "o": [
+        "1 mes",
+        "3 meses",
+        "6 meses",
+        "2 años"
+      ],
+      "h1": "Es medio año.",
+      "h2": "En Illinois, una persona arrestada por primera vez cuyo examen muestra 0.08 o más recibe una suspensión sumaria de seis meses.",
+      "p": "Correcto. Seis meses por no pasar el examen."
+    }
+  },
+  {
+    "id": "il-049",
+    "scope": "IL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 49,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Illinois, a first offender arrested for DUI refuses the chemical test. How long is the license suspended?",
+      "o": [
+        "1 year",
+        "6 months",
+        "3 months",
+        "30 days"
+      ],
+      "h1": "Refusing costs you more than failing the test.",
+      "h2": "In Illinois, a first offender who refuses chemical testing after a DUI arrest has driving privileges suspended for one year.",
+      "p": "Right. Refusing means a one-year suspension."
+    },
+    "es": {
+      "q": "En Illinois, una persona arrestada por primera vez por DUI se niega a hacer la prueba química. ¿Por cuánto tiempo le suspenden la licencia?",
+      "o": [
+        "1 año",
+        "6 meses",
+        "3 meses",
+        "30 días"
+      ],
+      "h1": "Negarse le cuesta más que no pasar la prueba.",
+      "h2": "En Illinois, una persona arrestada por primera vez por DUI que se niega a la prueba química pierde el privilegio de manejar por un año.",
+      "p": "Correcto. Negarse significa una suspensión de un año."
+    }
+  },
+  {
+    "id": "il-050",
+    "scope": "IL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 50,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Illinois, what is the least a driver loses for a first DUI conviction?",
+      "o": [
+        "A 30-day suspension",
+        "A 3-month suspension",
+        "A lifetime revocation",
+        "A revocation of at least 1 year"
+      ],
+      "h1": "A DUI conviction takes the license away, not just for a few weeks.",
+      "h2": "In Illinois, a first DUI conviction brings a revocation of driving privileges for at least one year.",
+      "p": "Right. At least a one-year revocation."
+    },
+    "es": {
+      "q": "En Illinois, ¿qué es lo mínimo que pierde un conductor por su primera condena por DUI?",
+      "o": [
+        "Una suspensión de 30 días",
+        "Una suspensión de 3 meses",
+        "Una revocación de por vida",
+        "Una revocación de al menos 1 año"
+      ],
+      "h1": "Una condena por DUI le quita la licencia, y no solo por unas semanas.",
+      "h2": "En Illinois, una primera condena por DUI trae la revocación del privilegio de manejar por al menos un año.",
+      "p": "Correcto. Una revocación de al menos un año."
+    }
+  },
+  {
+    "id": "il-051",
+    "scope": "IL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Illinois, a driver under 21 is convicted of DUI for the first time. What is the minimum revocation?",
+      "o": [
+        "2 years",
+        "1 year",
+        "6 months",
+        "3 months"
+      ],
+      "h1": "It is longer than the minimum for an adult.",
+      "h2": "In Illinois, a driver under 21 convicted of DUI for the first time loses driving privileges for at least two years.",
+      "p": "Right. At least two years for a driver under 21."
+    },
+    "es": {
+      "q": "En Illinois, un conductor menor de 21 años es declarado culpable de DUI por primera vez. ¿Cuál es la revocación mínima?",
+      "o": [
+        "2 años",
+        "1 año",
+        "6 meses",
+        "3 meses"
+      ],
+      "h1": "Es más larga que el mínimo para un adulto.",
+      "h2": "En Illinois, un conductor menor de 21 años declarado culpable de DUI por primera vez pierde el privilegio de manejar por al menos dos años.",
+      "p": "Correcto. Al menos dos años para un conductor menor de 21."
+    }
+  },
+  {
+    "id": "il-052",
+    "scope": "IL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 48,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Illinois, how must cannabis be carried in a vehicle?",
+      "o": [
+        "In an open bag on the back seat",
+        "In a closed paper bag in the glove box",
+        "Anywhere, as long as no one uses it",
+        "In a sealed, odor-proof, child-resistant container"
+      ],
+      "h1": "The container must keep in the smell and keep out small children.",
+      "h2": "In Illinois, cannabis may be carried in a vehicle only in a sealed, odor-proof, child-resistant container.",
+      "p": "Right. Sealed, odor-proof and child-resistant."
+    },
+    "es": {
+      "q": "En Illinois, ¿cómo se debe llevar el cannabis en un vehículo?",
+      "o": [
+        "En una bolsa abierta en el asiento de atrás",
+        "En una bolsa de papel cerrada en la guantera",
+        "En cualquier lugar, si nadie lo usa",
+        "En un envase sellado, a prueba de olores y a prueba de niños"
+      ],
+      "h1": "El envase debe guardar el olor y no dejar que los niños pequeños lo abran.",
+      "h2": "En Illinois, el cannabis solo se puede llevar en un vehículo en un envase sellado, a prueba de olores y a prueba de niños.",
+      "p": "Correcto. Sellado, a prueba de olores y a prueba de niños."
+    }
   }
 ]
