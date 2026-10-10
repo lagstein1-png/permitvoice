@@ -2540,5 +2540,651 @@
       "h2": "في Texas، وجود عبوة كحول مفتوحة في مكان الركّاب على طريق عام قد يؤدي إلى غرامة تصل إلى $500، حتى لو كانت المركبة متوقفة أو مركونة.",
       "p": "صحيح. قد تصل الغرامة إلى $500."
     }
+  },
+  {
+    "id": "tx-032",
+    "scope": "TX",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Texas, which new driver license applicants must finish an approved driver education course?",
+      "o": [
+        "Only applicants under 18",
+        "Only applicants under 21",
+        "Applicants younger than 25",
+        "Every applicant, at any age"
+      ],
+      "h1": "The rule covers teens and many young adults too.",
+      "h2": "In Texas every license applicant younger than 25 must finish an approved driver education course.",
+      "p": "Right. Under 25 means driver education first."
+    },
+    "es": {
+      "q": "En Texas, ¿qué solicitantes nuevos de licencia de manejo deben terminar un curso aprobado de educación vial?",
+      "o": [
+        "Solo los menores de 18 años",
+        "Solo los menores de 21 años",
+        "Los menores de 25 años",
+        "Todos los solicitantes, de cualquier edad"
+      ],
+      "h1": "La regla incluye a los adolescentes y también a muchos adultos jóvenes.",
+      "h2": "En Texas todo solicitante de licencia menor de 25 años debe terminar un curso aprobado de educación vial.",
+      "p": "Correcto. Si tiene menos de 25 años, primero hace educación vial."
+    }
+  },
+  {
+    "id": "tx-033",
+    "scope": "TX",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Texas, even if you can renew online, how often must you go to a driver license office for a vision exam and a new photo?",
+      "o": [
+        "At least once every 4 years",
+        "At least once every 8 years",
+        "At least once every 12 years",
+        "At least once every 16 years"
+      ],
+      "h1": "It is twice as long as one license period of eight years.",
+      "h2": "In Texas you must visit a driver license office at least once every 16 years for a vision exam and to update your photo, signature and fingerprints.",
+      "p": "Right. Once every 16 years, in person."
+    },
+    "es": {
+      "q": "En Texas, aunque pueda renovar en línea, ¿cada cuánto tiempo debe ir a una oficina de licencias para un examen de la vista y una foto nueva?",
+      "o": [
+        "Por lo menos una vez cada 4 años",
+        "Por lo menos una vez cada 8 años",
+        "Por lo menos una vez cada 12 años",
+        "Por lo menos una vez cada 16 años"
+      ],
+      "h1": "Es el doble de un periodo de licencia de ocho años.",
+      "h2": "En Texas usted debe ir a una oficina de licencias por lo menos una vez cada 16 años para un examen de la vista y para actualizar su foto, firma y huellas.",
+      "p": "Correcto. Una vez cada 16 años, en persona."
+    }
+  },
+  {
+    "id": "tx-034",
+    "scope": "TX",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 9,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Texas, what fine can a driver get for a first conviction of driving without a license?",
+      "o": [
+        "Up to $50",
+        "Up to $200",
+        "Up to $1,000",
+        "Up to $4,000"
+      ],
+      "h1": "A second conviction within one year carries a fine of $25 to the same top amount.",
+      "h2": "In Texas a first conviction for driving without a license brings a fine of up to $200.",
+      "p": "Right. The fine can be up to $200."
+    },
+    "es": {
+      "q": "En Texas, ¿qué multa puede recibir un conductor por una primera condena por manejar sin licencia?",
+      "o": [
+        "Hasta $50",
+        "Hasta $200",
+        "Hasta $1,000",
+        "Hasta $4,000"
+      ],
+      "h1": "Una segunda condena en un año trae una multa de $25 hasta la misma cantidad máxima.",
+      "h2": "En Texas una primera condena por manejar sin licencia trae una multa de hasta $200.",
+      "p": "Correcto. La multa puede ser de hasta $200."
+    }
+  },
+  {
+    "id": "tx-035",
+    "scope": "TX",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Texas, what is the basic penalty for driving while your license is suspended or revoked?",
+      "o": [
+        "A fine of up to $500",
+        "A warning only",
+        "A fine of up to $25",
+        "Ten years in prison"
+      ],
+      "h1": "In the simplest case it is a Class C misdemeanor, like many traffic tickets.",
+      "h2": "In Texas driving while your license is suspended, cancelled, denied or revoked is a Class C misdemeanor with a fine of up to $500, and the penalty is higher in some cases.",
+      "p": "Right. The basic fine is up to $500."
+    },
+    "es": {
+      "q": "En Texas, ¿cuál es la sanción básica por manejar con la licencia suspendida o revocada?",
+      "o": [
+        "Una multa de hasta $500",
+        "Solo una advertencia",
+        "Una multa de hasta $25",
+        "Diez años de prisión"
+      ],
+      "h1": "En el caso más simple es un delito menor de clase C, como muchas multas de tránsito.",
+      "h2": "En Texas manejar con la licencia suspendida, cancelada, negada o revocada es un delito menor de clase C con una multa de hasta $500, y la sanción es más alta en algunos casos.",
+      "p": "Correcto. La multa básica es de hasta $500."
+    }
+  },
+  {
+    "id": "tx-036",
+    "scope": "TX",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Texas, a driver age 18 or older can have the license suspended for repeated traffic violations. How many separate convictions within 12 months can lead to this?",
+      "o": [
+        "Two or more",
+        "Four or more",
+        "Ten or more",
+        "Twenty or more"
+      ],
+      "h1": "For drivers under 18 the number is lower.",
+      "h2": "In Texas, after a hearing, DPS may suspend the license of a driver with four or more separate traffic convictions within any 12 months.",
+      "p": "Right. Four or more in 12 months."
+    },
+    "es": {
+      "q": "En Texas, a un conductor de 18 años o más le pueden suspender la licencia por infracciones de tránsito repetidas. ¿Cuántas condenas separadas en 12 meses pueden causarlo?",
+      "o": [
+        "Dos o más",
+        "Cuatro o más",
+        "Diez o más",
+        "Veinte o más"
+      ],
+      "h1": "Para los conductores menores de 18 años el número es menor.",
+      "h2": "En Texas, después de una audiencia, el DPS puede suspender la licencia de un conductor con cuatro o más condenas de tránsito separadas en cualquier periodo de 12 meses.",
+      "p": "Correcto. Cuatro o más en 12 meses."
+    }
+  },
+  {
+    "id": "tx-037",
+    "scope": "TX",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 58,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Texas, an adult driver refuses a breath or blood test for the first time. How long is the license suspended?",
+      "o": [
+        "30 days",
+        "90 days",
+        "180 days",
+        "5 years"
+      ],
+      "h1": "It is longer than the suspension for failing the test.",
+      "h2": "In Texas an adult who refuses a breath or blood test has the license suspended for 180 days, and up to 730 days for a later refusal.",
+      "p": "Right. A first refusal means 180 days."
+    },
+    "es": {
+      "q": "En Texas, un conductor adulto se niega por primera vez a una prueba de aliento o de sangre. ¿Por cuánto tiempo le suspenden la licencia?",
+      "o": [
+        "30 días",
+        "90 días",
+        "180 días",
+        "5 años"
+      ],
+      "h1": "Es más tiempo que la suspensión por no pasar la prueba.",
+      "h2": "En Texas a un adulto que se niega a una prueba de aliento o de sangre le suspenden la licencia por 180 días, y hasta 730 días si se niega otra vez más adelante.",
+      "p": "Correcto. La primera negativa son 180 días."
+    }
+  },
+  {
+    "id": "tx-038",
+    "scope": "TX",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 58,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Texas, what is the highest fine for a first DWI offense by an adult?",
+      "o": [
+        "$200",
+        "$500",
+        "$1,000",
+        "$2,000"
+      ],
+      "h1": "It also comes with 72 hours to 180 days in jail.",
+      "h2": "In Texas a first DWI offense by an adult can bring a fine of up to $2,000, plus jail time and a license suspension.",
+      "p": "Right. The fine can be up to $2,000."
+    },
+    "es": {
+      "q": "En Texas, ¿cuál es la multa más alta para un adulto por una primera infracción de DWI (manejar intoxicado)?",
+      "o": [
+        "$200",
+        "$500",
+        "$1,000",
+        "$2,000"
+      ],
+      "h1": "También trae de 72 horas a 180 días de cárcel.",
+      "h2": "En Texas una primera infracción de DWI de un adulto puede traer una multa de hasta $2,000, además de cárcel y suspensión de la licencia.",
+      "p": "Correcto. La multa puede ser de hasta $2,000."
+    }
+  },
+  {
+    "id": "tx-039",
+    "scope": "TX",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 57,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Texas, a driver under 21 takes a breath test that shows a small amount of alcohol, below 0.08. For a first offense, how long is the license suspended?",
+      "o": [
+        "7 days",
+        "60 days",
+        "2 years",
+        "It is not suspended"
+      ],
+      "h1": "A second offense doubles the time.",
+      "h2": "In Texas a driver under 21 whose test shows any detectable alcohol loses the license for 60 days the first time, 120 days the second time.",
+      "p": "Right. The first suspension is 60 days."
+    },
+    "es": {
+      "q": "En Texas, un conductor menor de 21 años hace una prueba de aliento que muestra un poco de alcohol, menos de 0.08. Si es la primera vez, ¿por cuánto tiempo le suspenden la licencia?",
+      "o": [
+        "7 días",
+        "60 días",
+        "2 años",
+        "No se la suspenden"
+      ],
+      "h1": "La segunda vez el tiempo se duplica.",
+      "h2": "En Texas a un conductor menor de 21 años cuya prueba muestra cualquier cantidad de alcohol le suspenden la licencia por 60 días la primera vez y 120 días la segunda vez.",
+      "p": "Correcto. La primera suspensión es de 60 días."
+    }
+  },
+  {
+    "id": "tx-040",
+    "scope": "TX",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Texas, a driver fails to yield the right-of-way and causes bodily injury to another person. What fine can the driver get?",
+      "o": [
+        "$500 to $2,000",
+        "$25 to $50",
+        "$50 to $100",
+        "$10,000 to $20,000"
+      ],
+      "h1": "If the injury is serious, the fine goes up to as much as $4,000.",
+      "h2": "In Texas failing to yield the right-of-way and causing bodily injury brings a fine of $500 to $2,000.",
+      "p": "Right. The fine is $500 to $2,000."
+    },
+    "es": {
+      "q": "En Texas, un conductor no cede el paso y causa una lesión a otra persona. ¿Qué multa puede recibir?",
+      "o": [
+        "De $500 a $2,000",
+        "De $25 a $50",
+        "De $50 a $100",
+        "De $10,000 a $20,000"
+      ],
+      "h1": "Si la lesión es grave, la multa sube hasta $4,000.",
+      "h2": "En Texas no ceder el paso y causar una lesión a otra persona trae una multa de $500 a $2,000.",
+      "p": "Correcto. La multa es de $500 a $2,000."
+    }
+  },
+  {
+    "id": "tx-041",
+    "scope": "TX",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 21,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Texas, you must stop at a railroad crossing when an approaching train is about how close?",
+      "o": [
+        "Within 100 feet",
+        "Within 500 feet",
+        "Within 1,500 feet",
+        "Within 5,000 feet"
+      ],
+      "h1": "The train will sound a warning at about this distance.",
+      "h2": "In Texas you must stop at a railroad crossing when an approaching train is within about 1,500 feet of it.",
+      "p": "Right. About 1,500 feet means stop."
+    },
+    "es": {
+      "q": "En Texas, ¿a qué distancia, más o menos, debe estar un tren que se acerca para que usted tenga que detenerse en un cruce de ferrocarril?",
+      "o": [
+        "A menos de 100 pies",
+        "A menos de 500 pies",
+        "A menos de 1,500 pies",
+        "A menos de 5,000 pies"
+      ],
+      "h1": "El tren hace sonar un aviso más o menos a esa distancia.",
+      "h2": "En Texas usted debe detenerse en un cruce de ferrocarril cuando un tren que se acerca está a unos 1,500 pies o menos.",
+      "p": "Correcto. A unos 1,500 pies, deténgase."
+    }
+  },
+  {
+    "id": "tx-042",
+    "scope": "TX",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 22,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Texas, what fine can a driver get for breaking the law at a railroad crossing?",
+      "o": [
+        "$1 to $10",
+        "$10 to $25",
+        "$1,000 to $5,000",
+        "$50 to $200"
+      ],
+      "h1": "It is a modest fine, in the same range as many traffic tickets.",
+      "h2": "In Texas a driver who does not obey the law at a railroad crossing can be fined $50 to $200.",
+      "p": "Right. The fine is $50 to $200."
+    },
+    "es": {
+      "q": "En Texas, ¿qué multa puede recibir un conductor por no cumplir la ley en un cruce de ferrocarril?",
+      "o": [
+        "De $1 a $10",
+        "De $10 a $25",
+        "De $1,000 a $5,000",
+        "De $50 a $200"
+      ],
+      "h1": "Es una multa moderada, parecida a muchas multas de tránsito.",
+      "h2": "En Texas un conductor que no cumple la ley en un cruce de ferrocarril puede recibir una multa de $50 a $200.",
+      "p": "Correcto. La multa es de $50 a $200."
+    }
+  },
+  {
+    "id": "tx-043",
+    "scope": "TX",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 37,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Texas, a barricade is placed where water covers the road. What can happen if you drive around it?",
+      "o": [
+        "A fine of up to $2,000, up to 180 days in jail, or both",
+        "A warning only",
+        "A $25 fine",
+        "A fine of $1 to $200 only"
+      ],
+      "h1": "Around flood water, this is treated much more seriously than an ordinary sign violation.",
+      "h2": "In Texas driving around a barricade or warning sign placed where water covers the road is a Class B misdemeanor, with a fine of up to $2,000, up to 180 days in jail, or both.",
+      "p": "Right. It can mean up to $2,000 and jail."
+    },
+    "es": {
+      "q": "En Texas, hay una barrera donde el agua cubre la calle. ¿Qué puede pasar si usted maneja alrededor de ella?",
+      "o": [
+        "Una multa de hasta $2,000, hasta 180 días de cárcel, o ambas",
+        "Solo una advertencia",
+        "Una multa de $25",
+        "Solo una multa de $1 a $200"
+      ],
+      "h1": "Cuando hay agua de inundación, esto es mucho más grave que no cumplir una señal común.",
+      "h2": "En Texas manejar alrededor de una barrera o señal de advertencia puesta donde el agua cubre la calle es un delito menor de clase B, con una multa de hasta $2,000, hasta 180 días de cárcel, o ambas.",
+      "p": "Correcto. Puede costar hasta $2,000 y cárcel."
+    }
+  },
+  {
+    "id": "tx-044",
+    "scope": "TX",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 42,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Texas, what fine can you get for a first offense of parking illegally in a space for people with disabilities?",
+      "o": [
+        "$25 to $50",
+        "$100 to $200",
+        "$500 to $750",
+        "$5,000 to $10,000"
+      ],
+      "h1": "The fine grows with more offenses, up to $1,250.",
+      "h2": "In Texas parking illegally in a disabled parking space brings a fine of $500 to $750 for a first offense.",
+      "p": "Right. The first fine is $500 to $750."
+    },
+    "es": {
+      "q": "En Texas, ¿qué multa puede recibir por una primera vez que estaciona sin permiso en un espacio para personas con discapacidad?",
+      "o": [
+        "De $25 a $50",
+        "De $100 a $200",
+        "De $500 a $750",
+        "De $5,000 a $10,000"
+      ],
+      "h1": "La multa sube con más infracciones, hasta $1,250.",
+      "h2": "En Texas estacionar sin permiso en un espacio para personas con discapacidad trae una multa de $500 a $750 la primera vez.",
+      "p": "Correcto. La primera multa es de $500 a $750."
+    }
+  },
+  {
+    "id": "tx-045",
+    "scope": "TX",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 44,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Texas, when you parallel park next to a curb, what is the farthest your car may be from it?",
+      "o": [
+        "12 inches",
+        "18 inches",
+        "24 inches",
+        "36 inches"
+      ],
+      "h1": "It is a foot and a half.",
+      "h2": "In Texas when you parallel park, your car may not be more than 18 inches from the curb or edge of the road.",
+      "p": "Right. No more than 18 inches."
+    },
+    "es": {
+      "q": "En Texas, cuando se estaciona en paralelo junto a la acera, ¿a qué distancia máxima puede quedar su carro de ella?",
+      "o": [
+        "12 pulgadas",
+        "18 pulgadas",
+        "24 pulgadas",
+        "36 pulgadas"
+      ],
+      "h1": "Es un pie y medio.",
+      "h2": "En Texas cuando se estaciona en paralelo, su carro no puede quedar a más de 18 pulgadas de la acera o del borde de la calle.",
+      "p": "Correcto. No más de 18 pulgadas."
+    }
+  },
+  {
+    "id": "tx-046",
+    "scope": "TX",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 64,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Texas, a child under 8 must ride in a child car seat unless the child is taller than what?",
+      "o": [
+        "4 feet 9 inches",
+        "3 feet",
+        "4 feet",
+        "5 feet 6 inches"
+      ],
+      "h1": "It is a little under five feet.",
+      "h2": "In Texas a child under 8 must be secured in a child car seat unless the child is taller than 4 feet 9 inches.",
+      "p": "Right. Taller than 4 feet 9 inches."
+    },
+    "es": {
+      "q": "En Texas, ¿qué estatura debe pasar un niño menor de 8 años para no tener que ir en un asiento de seguridad para niños?",
+      "o": [
+        "4 pies 9 pulgadas",
+        "3 pies",
+        "4 pies",
+        "5 pies 6 pulgadas"
+      ],
+      "h1": "Es un poco menos de cinco pies.",
+      "h2": "En Texas un niño menor de 8 años debe ir sujeto en un asiento de seguridad para niños, a menos que mida más de 4 pies 9 pulgadas.",
+      "p": "Correcto. Más de 4 pies 9 pulgadas."
+    }
+  },
+  {
+    "id": "tx-047",
+    "scope": "TX",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 53,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Texas, how much following distance should you leave behind a motorcycle?",
+      "o": [
+        "1 second",
+        "2 seconds",
+        "3 seconds",
+        "At least 4 to 6 seconds"
+      ],
+      "h1": "Leave more room than you would behind a car, because the slightest contact can make the rider fall.",
+      "h2": "In Texas you should stay at least 4 to 6 seconds behind a motorcycle, so the rider has time to move or stop in an emergency.",
+      "p": "Right. Stay 4 to 6 seconds back."
+    },
+    "es": {
+      "q": "En Texas, ¿cuánta distancia debe dejar cuando va detrás de una motocicleta?",
+      "o": [
+        "1 segundo",
+        "2 segundos",
+        "3 segundos",
+        "Por lo menos de 4 a 6 segundos"
+      ],
+      "h1": "Deje más espacio que detrás de un carro, porque el menor contacto puede hacer caer al motociclista.",
+      "h2": "En Texas usted debe quedarse por lo menos de 4 a 6 segundos detrás de una motocicleta, para que el motociclista tenga tiempo de moverse o detenerse en una emergencia.",
+      "p": "Correcto. Quédese de 4 a 6 segundos atrás."
+    }
+  },
+  {
+    "id": "tx-048",
+    "scope": "TX",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 47,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Texas, from when to when must your headlights be on at night?",
+      "o": [
+        "From sunset to sunrise",
+        "From 30 minutes after sunset to 30 minutes before sunrise",
+        "From 1 hour after sunset to 1 hour before sunrise",
+        "Only when there are no streetlights"
+      ],
+      "h1": "There is a half-hour of twilight at each end.",
+      "h2": "In Texas you must use your headlights from 30 minutes after sunset until 30 minutes before sunrise, and any time you cannot see people or vehicles clearly for 1,000 feet.",
+      "p": "Right. 30 minutes after sunset to 30 minutes before sunrise."
+    },
+    "es": {
+      "q": "En Texas, ¿desde cuándo y hasta cuándo debe tener encendidas las luces delanteras de noche?",
+      "o": [
+        "Desde la puesta del sol hasta la salida del sol",
+        "Desde 30 minutos después de la puesta del sol hasta 30 minutos antes de la salida del sol",
+        "Desde 1 hora después de la puesta del sol hasta 1 hora antes de la salida del sol",
+        "Solo cuando no hay luces en la calle"
+      ],
+      "h1": "Hay media hora de crepúsculo en cada extremo.",
+      "h2": "En Texas usted debe usar las luces delanteras desde 30 minutos después de la puesta del sol hasta 30 minutos antes de la salida del sol, y siempre que no pueda ver bien a personas o vehículos a 1,000 pies.",
+      "p": "Correcto. Desde 30 minutos después de la puesta hasta 30 minutos antes de la salida del sol."
+    }
+  },
+  {
+    "id": "tx-049",
+    "scope": "TX",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 46,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Texas, unless a sign says otherwise, what is the speed limit in an alley?",
+      "o": [
+        "15 mph",
+        "5 mph",
+        "25 mph",
+        "30 mph"
+      ],
+      "h1": "It is half the speed limit of a city street.",
+      "h2": "In Texas the speed limit in an alley is 15 mph unless a sign shows a different limit.",
+      "p": "Right. Alleys are 15 mph."
+    },
+    "es": {
+      "q": "En Texas, a menos que una señal diga otra cosa, ¿cuál es el límite de velocidad en un callejón?",
+      "o": [
+        "15 mph",
+        "5 mph",
+        "25 mph",
+        "30 mph"
+      ],
+      "h1": "Es la mitad del límite de una calle de ciudad.",
+      "h2": "En Texas el límite de velocidad en un callejón es de 15 mph, a menos que una señal muestre otro límite.",
+      "p": "Correcto. En los callejones son 15 mph."
+    }
+  },
+  {
+    "id": "tx-050",
+    "scope": "TX",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Texas, you are on a two-lane road that meets a divided road or a road with three or more lanes. No sign or signal controls the intersection. Who must yield?",
+      "o": [
+        "Traffic on the larger road must yield to you",
+        "The driver on the right goes first",
+        "You must yield to traffic on the larger road",
+        "The faster car goes first"
+      ],
+      "h1": "Think about which road carries more traffic.",
+      "h2": "In Texas a driver on a one-lane or two-lane road must yield the right-of-way to vehicles on a divided road or a road with three or more lanes.",
+      "p": "Right. You yield to the larger road."
+    },
+    "es": {
+      "q": "En Texas, usted va por un camino de dos carriles que se cruza con una carretera dividida o con tres carriles o más. Ninguna señal ni semáforo controla el cruce. ¿Quién debe ceder el paso?",
+      "o": [
+        "El tráfico de la carretera más grande debe cederle el paso a usted",
+        "El conductor de la derecha pasa primero",
+        "Usted debe ceder el paso al tráfico de la carretera más grande",
+        "El carro más rápido pasa primero"
+      ],
+      "h1": "Piense en cuál camino lleva más tráfico.",
+      "h2": "En Texas el conductor que va por un camino de uno o dos carriles debe ceder el paso a los vehículos de una carretera dividida o de tres carriles o más.",
+      "p": "Correcto. Usted cede el paso a la carretera más grande."
+    }
   }
 ]
