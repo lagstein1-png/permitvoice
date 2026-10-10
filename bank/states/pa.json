@@ -2540,5 +2540,651 @@
       "h2": "في Pennsylvania، رمي القمامة من السيارة قد يؤدي إلى غرامة تصل إلى $300، ويمكن تغريم السائق على ما يرميه الركاب.",
       "p": "صحيح. رمي القمامة من السيارة قد يكلّف غرامة تصل إلى $300."
     }
+  },
+  {
+    "id": "pa-032",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 2,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, a learner is practicing with a supervising driver who is not a parent, guardian or spouse. How old must that licensed driver be?",
+      "o": [
+        "At least 21",
+        "At least 18",
+        "At least 16",
+        "At least 25"
+      ],
+      "h1": "A parent or spouse may be younger, but anyone else must be older.",
+      "h2": "In Pennsylvania, a learner's supervising driver must be a licensed driver at least 21 years old, or a licensed parent, guardian or spouse who is 18 or older, sitting in the front seat.",
+      "p": "Right. Any other supervising driver must be at least 21."
+    },
+    "es": {
+      "q": "En Pensilvania, un aprendiz practica con un conductor supervisor que no es su padre, madre, tutor ni cónyuge. ¿Qué edad debe tener ese conductor con licencia?",
+      "o": [
+        "Al menos 21 años",
+        "Al menos 18 años",
+        "Al menos 16 años",
+        "Al menos 25 años"
+      ],
+      "h1": "Un padre o cónyuge puede ser más joven, pero cualquier otra persona debe ser mayor.",
+      "h2": "En Pensilvania, el conductor supervisor de un aprendiz debe tener licencia y al menos 21 años, o ser el padre, madre, tutor o cónyuge con licencia de 18 años o más, sentado en el asiento delantero.",
+      "p": "Correcto. Cualquier otro conductor supervisor debe tener al menos 21 años."
+    }
+  },
+  {
+    "id": "pa-033",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, a driver under 18 fails the road test. How long must they wait before trying again?",
+      "o": [
+        "The next business day",
+        "7 days",
+        "30 days",
+        "6 months"
+      ],
+      "h1": "It is about one week.",
+      "h2": "In Pennsylvania, a driver under 18 who fails the road test must wait 7 days before taking it again.",
+      "p": "Right. Wait 7 days, and use them to practice."
+    },
+    "es": {
+      "q": "En Pensilvania, un conductor menor de 18 años no aprueba el examen de manejo. ¿Cuánto tiempo debe esperar para intentarlo de nuevo?",
+      "o": [
+        "El siguiente día hábil",
+        "7 días",
+        "30 días",
+        "6 meses"
+      ],
+      "h1": "Es más o menos una semana.",
+      "h2": "En Pensilvania, un conductor menor de 18 años que no aprueba el examen de manejo debe esperar 7 días para tomarlo de nuevo.",
+      "p": "Correcto. Espere 7 días y úselos para practicar."
+    }
+  },
+  {
+    "id": "pa-034",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, how many chances do you get to pass the road test with one learner's permit?",
+      "o": [
+        "One",
+        "Two",
+        "Three",
+        "As many as you want"
+      ],
+      "h1": "After the last failed try, you must apply to extend the permit.",
+      "h2": "In Pennsylvania you get three chances to pass the road test with each learner's permit; after the third failure you must apply to extend it.",
+      "p": "Right. Three tries per permit."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿cuántas oportunidades tiene para aprobar el examen de manejo con un mismo permiso de aprendiz?",
+      "o": [
+        "Una",
+        "Dos",
+        "Tres",
+        "Todas las que quiera"
+      ],
+      "h1": "Después del último intento fallido, debe solicitar que se extienda el permiso.",
+      "h2": "En Pensilvania usted tiene tres oportunidades para aprobar el examen de manejo con cada permiso de aprendiz; después del tercer intento fallido debe solicitar que se extienda.",
+      "p": "Correcto. Tres intentos por permiso."
+    }
+  },
+  {
+    "id": "pa-035",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, you just moved here and have a valid license from another state. How soon must you get a Pennsylvania license?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 1 year",
+        "Within 60 days"
+      ],
+      "h1": "It is about two months.",
+      "h2": "In Pennsylvania, a new resident with a valid license from another state must get a Pennsylvania driver's license within 60 days and turn in the old license.",
+      "p": "Right. New residents have 60 days."
+    },
+    "es": {
+      "q": "En Pensilvania, usted acaba de mudarse aquí y tiene una licencia válida de otro estado. ¿En qué plazo debe obtener una licencia de Pensilvania?",
+      "o": [
+        "En 10 días",
+        "En 30 días",
+        "En 1 año",
+        "En 60 días"
+      ],
+      "h1": "Son unos dos meses.",
+      "h2": "En Pensilvania, un nuevo residente con una licencia válida de otro estado debe obtener una licencia de conducir de Pensilvania en 60 días y entregar la licencia anterior.",
+      "p": "Correcto. Los nuevos residentes tienen 60 días."
+    }
+  },
+  {
+    "id": "pa-036",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 79,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, a driver under 18 is convicted of speeding. How far over the limit leads to a license suspension, even with no other points?",
+      "o": [
+        "26 mph or more",
+        "10 mph or more",
+        "15 mph or more",
+        "50 mph or more"
+      ],
+      "h1": "It is a little more than 25 mph over.",
+      "h2": "In Pennsylvania, a driver under 18 convicted of driving 26 mph or more over the speed limit has the license suspended, for 90 days the first time.",
+      "p": "Right. 26 mph or more over the limit means a suspension for drivers under 18."
+    },
+    "es": {
+      "q": "En Pensilvania, un conductor menor de 18 años es condenado por exceso de velocidad. ¿Cuánto por encima del límite lleva a la suspensión de la licencia, aunque no tenga otros puntos?",
+      "o": [
+        "26 mph o más",
+        "10 mph o más",
+        "15 mph o más",
+        "50 mph o más"
+      ],
+      "h1": "Es un poco más de 25 mph por encima.",
+      "h2": "En Pensilvania, a un conductor menor de 18 años condenado por manejar 26 mph o más por encima del límite se le suspende la licencia, por 90 días la primera vez.",
+      "p": "Correcto. 26 mph o más por encima del límite significa una suspensión para menores de 18 años."
+    }
+  },
+  {
+    "id": "pa-037",
+    "scope": "PA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 9,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, the yellow lights on a school zone speed sign are flashing. What is the speed limit?",
+      "o": [
+        "10 mph",
+        "15 mph",
+        "20 mph",
+        "25 mph"
+      ],
+      "h1": "It is lower than 20 mph.",
+      "h2": "In Pennsylvania, you may drive no faster than 15 mph in a school zone when the yellow lights are flashing or during the times shown on the sign.",
+      "p": "Right. 15 mph in a school zone."
+    },
+    "es": {
+      "q": "En Pensilvania, las luces amarillas de una señal de velocidad de zona escolar están parpadeando. ¿Cuál es el límite de velocidad?",
+      "o": [
+        "10 mph",
+        "15 mph",
+        "20 mph",
+        "25 mph"
+      ],
+      "h1": "Es menos de 20 mph.",
+      "h2": "En Pensilvania, no puede manejar a más de 15 mph en una zona escolar cuando las luces amarillas parpadean o durante el horario que indica la señal.",
+      "p": "Correcto. 15 mph en una zona escolar."
+    }
+  },
+  {
+    "id": "pa-038",
+    "scope": "PA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 9,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, how many points go on your record for speeding in a school zone?",
+      "o": [
+        "One point",
+        "Two points",
+        "Three points",
+        "Six points"
+      ],
+      "h1": "You also pay a fine, and the points are fewer than for passing a stopped school bus.",
+      "h2": "In Pennsylvania, speeding in a school zone puts three points on your driving record, and you are also fined.",
+      "p": "Right. Three points, plus a fine."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿cuántos puntos se agregan a su historial por exceso de velocidad en una zona escolar?",
+      "o": [
+        "Un punto",
+        "Dos puntos",
+        "Tres puntos",
+        "Seis puntos"
+      ],
+      "h1": "También paga una multa, y son menos puntos que por pasar un autobús escolar detenido.",
+      "h2": "En Pensilvania, el exceso de velocidad en una zona escolar agrega tres puntos a su historial de manejo, y además recibe una multa.",
+      "p": "Correcto. Tres puntos, más una multa."
+    }
+  },
+  {
+    "id": "pa-039",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, police stop you for a traffic violation in a work zone, and your headlights are off. What happens?",
+      "o": [
+        "Nothing extra, if it is daytime",
+        "You get a warning only",
+        "Your license is suspended",
+        "You pay an extra $25 fine"
+      ],
+      "h1": "Headlights are required in every posted work zone, day or night.",
+      "h2": "In Pennsylvania, if you are stopped for a traffic violation in a work zone with your headlights off, you pay an extra $25 fine.",
+      "p": "Right. Headlights off in a work zone adds $25 to the fine."
+    },
+    "es": {
+      "q": "En Pensilvania, la policía lo detiene por una infracción en una zona de trabajo y sus faros están apagados. ¿Qué pasa?",
+      "o": [
+        "Nada más, si es de día",
+        "Solo recibe una advertencia",
+        "Le suspenden la licencia",
+        "Paga una multa adicional de $25"
+      ],
+      "h1": "Los faros son obligatorios en toda zona de trabajo señalizada, de día o de noche.",
+      "h2": "En Pensilvania, si lo detienen por una infracción en una zona de trabajo con los faros apagados, paga una multa adicional de $25.",
+      "p": "Correcto. Los faros apagados en una zona de trabajo suman $25 a la multa."
+    }
+  },
+  {
+    "id": "pa-040",
+    "scope": "PA",
+    "cat": "signals",
+    "conf": "high",
+    "page": 44,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, you are driving at 45 mph. How far before a turn must you turn on your signal?",
+      "o": [
+        "At least 300 feet",
+        "At least 100 feet",
+        "At least 50 feet",
+        "At least 1,000 feet"
+      ],
+      "h1": "At 35 mph or more, you need more than the city distance of 100 feet.",
+      "h2": "In Pennsylvania, when you drive 35 mph or faster, you must signal at least 300 feet before you turn; below 35 mph it is at least 100 feet.",
+      "p": "Right. At 35 mph or more, signal at least 300 feet ahead."
+    },
+    "es": {
+      "q": "En Pensilvania, usted maneja a 45 mph. ¿Con cuánta distancia antes de una vuelta debe poner la direccional?",
+      "o": [
+        "Al menos 300 pies",
+        "Al menos 100 pies",
+        "Al menos 50 pies",
+        "Al menos 1,000 pies"
+      ],
+      "h1": "A 35 mph o más, necesita más que los 100 pies de la ciudad.",
+      "h2": "En Pensilvania, cuando maneja a 35 mph o más, debe poner la direccional al menos 300 pies antes de dar la vuelta; a menos de 35 mph son al menos 100 pies.",
+      "p": "Correcto. A 35 mph o más, ponga la direccional al menos 300 pies antes."
+    }
+  },
+  {
+    "id": "pa-041",
+    "scope": "PA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 44,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, you must drive slower than 40 mph on a limited access highway. What should you do?",
+      "o": [
+        "Drive on the shoulder",
+        "Turn on your hazard (four-way) flashers",
+        "Flash your high beams",
+        "Honk every few seconds"
+      ],
+      "h1": "Warn the drivers coming up behind you.",
+      "h2": "In Pennsylvania, if you must drive below 40 mph on a limited access highway, you should turn on your hazard flashers to warn drivers behind you.",
+      "p": "Right. Below 40 mph on a limited access highway, use your hazard flashers."
+    },
+    "es": {
+      "q": "En Pensilvania, usted debe manejar a menos de 40 mph en una autopista de acceso limitado. ¿Qué debe hacer?",
+      "o": [
+        "Manejar por el acotamiento",
+        "Encender las luces de emergencia (intermitentes)",
+        "Hacer señales con las luces altas",
+        "Tocar el claxon cada pocos segundos"
+      ],
+      "h1": "Avise a los conductores que vienen detrás de usted.",
+      "h2": "En Pensilvania, si debe manejar a menos de 40 mph en una autopista de acceso limitado, debe encender las luces de emergencia para avisar a los conductores que vienen detrás.",
+      "p": "Correcto. A menos de 40 mph en una autopista de acceso limitado, use las luces de emergencia."
+    }
+  },
+  {
+    "id": "pa-042",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 41,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, snow or ice flies off your moving car and hits another vehicle, causing serious injury. What fine can you face?",
+      "o": [
+        "No fine, because it was an accident",
+        "Up to $50",
+        "$200 to $1,000",
+        "Exactly $25"
+      ],
+      "h1": "The fine can reach four figures.",
+      "h2": "In Pennsylvania, if snow or ice from your moving vehicle strikes a vehicle or person and causes death or serious injury, you face a fine of $200 to $1,000 for each offense, so clear your car before you drive.",
+      "p": "Right. $200 to $1,000, so clear all snow and ice first."
+    },
+    "es": {
+      "q": "En Pensilvania, nieve o hielo sale volando de su carro en movimiento y golpea otro vehículo, causando una lesión grave. ¿Qué multa puede recibir?",
+      "o": [
+        "Ninguna multa, porque fue un accidente",
+        "Hasta $50",
+        "De $200 a $1,000",
+        "Exactamente $25"
+      ],
+      "h1": "La multa puede llegar a cuatro cifras.",
+      "h2": "En Pensilvania, si la nieve o el hielo de su vehículo en movimiento golpea a un vehículo o a una persona y causa la muerte o una lesión grave, puede recibir una multa de $200 a $1,000 por cada infracción, así que limpie su carro antes de manejar.",
+      "p": "Correcto. De $200 a $1,000, así que quite toda la nieve y el hielo primero."
+    }
+  },
+  {
+    "id": "pa-043",
+    "scope": "PA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 59,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, a person is riding in the open bed of a pickup truck. What is the fastest the truck may go?",
+      "o": [
+        "25 mph",
+        "45 mph",
+        "55 mph",
+        "35 mph"
+      ],
+      "h1": "It is 10 mph faster than a typical neighborhood street limit.",
+      "h2": "In Pennsylvania, an open-bed pickup or flatbed truck may not go faster than 35 mph when anyone is riding in the bed, and children under 18 generally may not ride there at all.",
+      "p": "Right. No more than 35 mph with someone in the bed."
+    },
+    "es": {
+      "q": "En Pensilvania, una persona va en la caja abierta de una camioneta pickup. ¿Cuál es la velocidad máxima de la camioneta?",
+      "o": [
+        "25 mph",
+        "45 mph",
+        "55 mph",
+        "35 mph"
+      ],
+      "h1": "Es 10 mph más que el límite típico de una calle de barrio.",
+      "h2": "En Pensilvania, una camioneta pickup o de plataforma abierta no puede ir a más de 35 mph cuando alguien va en la caja, y en general los menores de 18 años no pueden ir ahí.",
+      "p": "Correcto. No más de 35 mph con alguien en la caja."
+    }
+  },
+  {
+    "id": "pa-044",
+    "scope": "PA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 59,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, how many points go on your driving record if you are convicted of breaking the Move Over law?",
+      "o": [
+        "Two points",
+        "No points",
+        "Five points",
+        "Six points"
+      ],
+      "h1": "It is fewer points than failing to stop for a school bus.",
+      "h2": "In Pennsylvania, a conviction for breaking the Move Over law puts 2 points on your driving record, along with a fine.",
+      "p": "Right. Two points, plus a fine."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿cuántos puntos se agregan a su historial de manejo si lo condenan por no cumplir la ley Move Over?",
+      "o": [
+        "Dos puntos",
+        "Ningún punto",
+        "Cinco puntos",
+        "Seis puntos"
+      ],
+      "h1": "Son menos puntos que por no detenerse por un autobús escolar.",
+      "h2": "En Pensilvania, una condena por no cumplir la ley Move Over agrega 2 puntos a su historial de manejo, además de una multa.",
+      "p": "Correcto. Dos puntos, más una multa."
+    }
+  },
+  {
+    "id": "pa-045",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, PennDOT finds your car had no insurance for 31 days or more. What happens to the registration?",
+      "o": [
+        "Nothing, if you buy insurance now",
+        "It is suspended for three months",
+        "It is suspended for one week",
+        "It is canceled forever"
+      ],
+      "h1": "It lasts one season of the year.",
+      "h2": "In Pennsylvania, if your vehicle had no insurance for 31 days or more, its registration is suspended for three months, and your license too if you drove it or let someone drive it.",
+      "p": "Right. Three months without registration."
+    },
+    "es": {
+      "q": "En Pensilvania, PennDOT descubre que su carro no tuvo seguro por 31 días o más. ¿Qué pasa con el registro?",
+      "o": [
+        "Nada, si compra el seguro ahora",
+        "Se suspende por tres meses",
+        "Se suspende por una semana",
+        "Se cancela para siempre"
+      ],
+      "h1": "Dura una estación del año.",
+      "h2": "En Pensilvania, si su vehículo no tuvo seguro por 31 días o más, el registro se suspende por tres meses, y también su licencia si usted lo manejó o dejó que otra persona lo manejara.",
+      "p": "Correcto. Tres meses sin registro."
+    }
+  },
+  {
+    "id": "pa-046",
+    "scope": "PA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 79,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, what happens to your license if you do not obey a railroad crossing gate?",
+      "o": [
+        "A one-year suspension",
+        "Only a warning",
+        "A 30-day suspension",
+        "Your license is revoked forever"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In Pennsylvania, failing to obey a railroad crossing gate or barrier brings a 30-day license suspension.",
+      "p": "Right. A 30-day suspension."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿qué pasa con su licencia si no respeta la barrera de un cruce de ferrocarril?",
+      "o": [
+        "Una suspensión de un año",
+        "Solo una advertencia",
+        "Una suspensión de 30 días",
+        "Le revocan la licencia para siempre"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Pensilvania, no respetar la barrera o la reja de un cruce de ferrocarril lleva a una suspensión de la licencia por 30 días.",
+      "p": "Correcto. Una suspensión de 30 días."
+    }
+  },
+  {
+    "id": "pa-047",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 82,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Pennsylvania, a driver refuses a chemical test for the first time. Besides the suspension, what restoration fee must they pay?",
+      "o": [
+        "$50",
+        "$100",
+        "$2,000",
+        "$500"
+      ],
+      "h1": "The fee doubles for a second refusal.",
+      "h2": "In Pennsylvania, a driver who refuses a chemical test pays a refusal restoration fee of $500 the first time, $1,000 the second time and $2,000 after that.",
+      "p": "Right. $500 for a first refusal."
+    },
+    "es": {
+      "q": "En Pensilvania, un conductor se niega por primera vez a una prueba química. Además de la suspensión, ¿qué cargo de restablecimiento debe pagar?",
+      "o": [
+        "$50",
+        "$100",
+        "$2,000",
+        "$500"
+      ],
+      "h1": "El cargo se duplica con una segunda negativa.",
+      "h2": "En Pensilvania, un conductor que se niega a una prueba química paga un cargo de restablecimiento de $500 la primera vez, $1,000 la segunda y $2,000 después.",
+      "p": "Correcto. $500 por la primera negativa."
+    }
+  },
+  {
+    "id": "pa-048",
+    "scope": "PA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 89,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Pennsylvania, you change your name or address. How soon must you tell PennDOT?",
+      "o": [
+        "Within 15 days",
+        "Within 60 days",
+        "Within 6 months",
+        "Only when you renew your license"
+      ],
+      "h1": "It is about two weeks.",
+      "h2": "In Pennsylvania, you must tell PennDOT about a change of name or address within 15 days, even if you move out of state.",
+      "p": "Right. Tell PennDOT within 15 days."
+    },
+    "es": {
+      "q": "En Pensilvania, usted cambia de nombre o de dirección. ¿En qué plazo debe avisar a PennDOT?",
+      "o": [
+        "En 15 días",
+        "En 60 días",
+        "En 6 meses",
+        "Solo cuando renueve su licencia"
+      ],
+      "h1": "Son unas dos semanas.",
+      "h2": "En Pensilvania, usted debe avisar a PennDOT de un cambio de nombre o de dirección en 15 días, aunque se mude a otro estado.",
+      "p": "Correcto. Avise a PennDOT en 15 días."
+    }
+  },
+  {
+    "id": "pa-049",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 89,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Pennsylvania, a 12-year-old rides in the back seat. Must the child wear a seat belt?",
+      "o": [
+        "No, seat belts are only for the front seat",
+        "Yes, passengers 8 to 17 must buckle up in any seat",
+        "Only on highways",
+        "Only if the driver is under 18"
+      ],
+      "h1": "For passengers under 18, the seat does not matter.",
+      "h2": "In Pennsylvania, passengers age 8 or older but under 18 must wear a seat belt no matter where they sit in the vehicle.",
+      "p": "Right. Ages 8 to 17 buckle up in every seat."
+    },
+    "es": {
+      "q": "En Pensilvania, un niño de 12 años va en el asiento trasero. ¿Debe usar el cinturón de seguridad?",
+      "o": [
+        "No, el cinturón es solo para el asiento delantero",
+        "Sí, los pasajeros de 8 a 17 años deben abrocharse en cualquier asiento",
+        "Solo en las autopistas",
+        "Solo si el conductor es menor de 18 años"
+      ],
+      "h1": "Para los pasajeros menores de 18 años, el asiento no importa.",
+      "h2": "En Pensilvania, los pasajeros de 8 años o más pero menores de 18 deben usar el cinturón de seguridad sin importar dónde vayan sentados en el vehículo.",
+      "p": "Correcto. De 8 a 17 años se abrochan en todos los asientos."
+    }
+  },
+  {
+    "id": "pa-050",
+    "scope": "PA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 92,
+    "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Pennsylvania, how often must your vehicle pass a safety inspection?",
+      "o": [
+        "Every 6 months",
+        "Every 2 years",
+        "Every 12 months",
+        "Only when you buy it"
+      ],
+      "h1": "The sticker on your windshield shows when it is due again.",
+      "h2": "In Pennsylvania, your vehicle must have a safety inspection at an authorized station every 12 months, and it may be done up to 90 days early.",
+      "p": "Right. A safety inspection every 12 months."
+    },
+    "es": {
+      "q": "En Pensilvania, ¿cada cuánto debe pasar su vehículo una inspección de seguridad?",
+      "o": [
+        "Cada 6 meses",
+        "Cada 2 años",
+        "Cada 12 meses",
+        "Solo cuando lo compra"
+      ],
+      "h1": "La calcomanía del parabrisas muestra cuándo le toca otra vez.",
+      "h2": "En Pensilvania, su vehículo debe pasar una inspección de seguridad en una estación autorizada cada 12 meses, y puede hacerse hasta 90 días antes.",
+      "p": "Correcto. Una inspección de seguridad cada 12 meses."
+    }
   }
 ]
