@@ -4720,7 +4720,7 @@
     "cat": "signs",
     "conf": "high",
     "page": null,
-    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2B.05, https://mutcd.fhwa.dot.gov/",
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2B.18, https://mutcd.fhwa.dot.gov/",
     "sign": {
       "shape": "yield",
       "text": "YIELD"
@@ -4797,11 +4797,11 @@
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 2B.24, https://mutcd.fhwa.dot.gov/",
     "sign": {
       "shape": "rect-white",
-      "text": "MINIMUM SPEED 40"
+      "text": "MINIMUM 40"
     },
     "c": 1,
     "en": {
-      "q": "A white sign says MINIMUM SPEED 40. What does it mean?",
+      "q": "Under a speed limit sign, a white plaque says MINIMUM 40. What does it mean?",
       "o": [
         "Never drive faster than 40 mph",
         "In good conditions, do not drive slower than 40 mph",
@@ -4809,11 +4809,11 @@
         "The speed limit ends in 40 miles"
       ],
       "h1": "Minimum means the lowest.",
-      "h2": "A MINIMUM SPEED sign means that, when conditions are good, you must not drive slower than the speed shown.",
+      "h2": "A MINIMUM plaque under a speed limit sign means that, when conditions are good, you must not drive slower than the speed shown.",
       "p": "Right. It is the lowest speed allowed in good conditions."
     },
     "es": {
-      "q": "Una señal blanca dice MINIMUM SPEED 40. ¿Qué significa?",
+      "q": "Debajo de una señal de límite de velocidad, una placa blanca dice MINIMUM 40. ¿Qué significa?",
       "o": [
         "Nunca maneje a más de 40 mph",
         "Con buenas condiciones, no maneje a menos de 40 mph",
@@ -4821,7 +4821,7 @@
         "El límite de velocidad termina en 40 millas"
       ],
       "h1": "Minimum quiere decir la más baja.",
-      "h2": "Una señal MINIMUM SPEED significa que, cuando las condiciones son buenas, usted no debe manejar más despacio que la velocidad indicada.",
+      "h2": "Una placa MINIMUM debajo de una señal de límite de velocidad significa que, cuando las condiciones son buenas, usted no debe manejar más despacio que la velocidad indicada.",
       "p": "Correcto. Es la velocidad más baja permitida con buenas condiciones."
     }
   },
@@ -4832,10 +4832,7 @@
     "conf": "high",
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 2B.23, https://mutcd.fhwa.dot.gov/",
-    "sign": {
-      "shape": "rect-white",
-      "text": "NIGHT 45"
-    },
+    "sign": null,
     "c": 2,
     "en": {
       "q": "Under a speed limit sign, a black plaque says NIGHT with a lower speed. When does that lower speed apply?",
@@ -5381,10 +5378,7 @@
     "conf": "high",
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 2B.53, https://mutcd.fhwa.dot.gov/",
-    "sign": {
-      "shape": "rect-white",
-      "text": "NO PARKING"
-    },
+    "sign": null,
     "c": 1,
     "en": {
       "q": "Parking signs come in two colors of letters. What do parking signs with green letters usually show?",
@@ -5834,24 +5828,24 @@
       "q": "A yellow sign at the start of a street says NO OUTLET. What does it mean?",
       "o": [
         "The street has no parking",
-        "The street does not connect to another road at the other end",
+        "There is no other way out; you will have to come back the same way",
         "The street has no sidewalks",
         "The street is one-way"
       ],
       "h1": "An outlet is a way out.",
-      "h2": "NO OUTLET (or DEAD END) means the street does not lead to another road, so you will have to come back the same way.",
+      "h2": "NO OUTLET means the street, or the group of streets it leads into, has no other way out, so you will have to come back the same way.",
       "p": "Right. There is no way through."
     },
     "es": {
       "q": "Una señal amarilla al principio de una calle dice NO OUTLET. ¿Qué significa?",
       "o": [
         "La calle no tiene estacionamiento",
-        "La calle no conecta con otra vía en el otro extremo",
+        "No hay otra salida; tendrá que regresar por el mismo camino",
         "La calle no tiene aceras",
         "La calle es de un solo sentido"
       ],
       "h1": "Outlet es una salida.",
-      "h2": "NO OUTLET (o DEAD END) significa que la calle no lleva a otra vía, así que tendrá que regresar por donde vino.",
+      "h2": "NO OUTLET significa que la calle, o el grupo de calles al que lleva, no tiene otra salida, así que tendrá que regresar por el mismo camino.",
       "p": "Correcto. No tiene salida."
     }
   },
@@ -5872,11 +5866,11 @@
       "o": [
         "A bump that will lift your car",
         "A place to stop and rest",
-        "A low spot in the road that can hide cars or hold water",
+        "A sharp low spot in the road ahead",
         "A sharp curve to the left"
       ],
       "h1": "A dip goes down, then up.",
-      "h2": "A DIP sign warns of a low spot in the road that can hide other vehicles from view and may fill with water.",
+      "h2": "A DIP sign warns of a sharp low spot in the road ahead, so slow down to keep control of your car.",
       "p": "Right. A low spot is ahead."
     },
     "es": {
@@ -5884,11 +5878,11 @@
       "o": [
         "De un tope que levantará su carro",
         "De un lugar para descansar",
-        "De un hundimiento en la vía que puede ocultar carros o juntar agua",
+        "Una parte baja y brusca en la vía más adelante",
         "De una curva cerrada a la izquierda"
       ],
       "h1": "Un dip baja y luego sube.",
-      "h2": "Una señal DIP advierte de una parte baja en la vía que puede ocultar otros vehículos y llenarse de agua.",
+      "h2": "Una señal DIP advierte de una parte baja y brusca en la vía más adelante, así que baje la velocidad para no perder el control del carro.",
       "p": "Correcto. Viene una parte baja."
     }
   },
@@ -5972,7 +5966,7 @@
     "cat": "signs",
     "conf": "high",
     "page": null,
-    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2C.34, https://mutcd.fhwa.dot.gov/",
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2C.30, https://mutcd.fhwa.dot.gov/",
     "sign": {
       "shape": "diamond-yellow",
       "text": "BRIDGE ICES BEFORE ROAD"
@@ -6160,31 +6154,31 @@
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 2C.40, https://mutcd.fhwa.dot.gov/",
     "sign": {
       "shape": "diamond-yellow",
-      "text": "REDUCED SPEED LIMIT AHEAD"
+      "text": "SPEED LIMIT 55"
     },
     "c": 2,
     "en": {
-      "q": "A yellow sign says REDUCED SPEED LIMIT AHEAD. What should you do?",
+      "q": "A yellow diamond sign shows a SPEED LIMIT 55 sign with an arrow above it. What should you do?",
       "o": [
         "Speed up before the limit changes",
         "Slow down only if police are there",
         "Get ready to slow down to a lower speed limit soon",
         "Stop at the next sign"
       ],
-      "h1": "Reduced means made lower.",
-      "h2": "REDUCED SPEED LIMIT AHEAD warns that a lower speed limit begins soon, so start slowing down so you are at the new limit when you reach it.",
+      "h1": "A yellow sign warns you about something coming up.",
+      "h2": "This Reduced Speed Limit Ahead sign warns that a lower speed limit begins soon, so start slowing down so you are at the new limit when you reach it.",
       "p": "Right. A lower limit is coming."
     },
     "es": {
-      "q": "Una señal amarilla dice REDUCED SPEED LIMIT AHEAD. ¿Qué debe hacer?",
+      "q": "Una señal amarilla en forma de rombo muestra una señal SPEED LIMIT 55 con una flecha encima. ¿Qué debe hacer?",
       "o": [
         "Acelerar antes de que cambie el límite",
         "Bajar la velocidad solo si hay policía",
         "Prepararse para bajar pronto a un límite de velocidad menor",
         "Pararse en la próxima señal"
       ],
-      "h1": "Reduced quiere decir reducido.",
-      "h2": "REDUCED SPEED LIMIT AHEAD advierte que pronto empieza un límite de velocidad más bajo, así que empiece a reducir para ir al nuevo límite cuando llegue.",
+      "h1": "Una señal amarilla le avisa de algo que viene más adelante.",
+      "h2": "Esta señal de límite de velocidad reducido más adelante advierte que pronto empieza un límite de velocidad más bajo, así que empiece a reducir para ir al nuevo límite cuando llegue.",
       "p": "Correcto. Viene un límite más bajo."
     }
   },
@@ -6275,7 +6269,7 @@
     },
     "c": 1,
     "en": {
-      "q": "You are on a highway. A yellow sign shows a lane joining from the side, with the words ADDED LANE. What does it mean?",
+      "q": "You are on a highway. A yellow Added Lane sign shows your straight arrow and a second arrow joining from the side in its own lane. What does it mean?",
       "o": [
         "Your lane is ending",
         "The joining traffic gets its own new lane and does not have to merge",
@@ -6283,11 +6277,11 @@
         "A lane is closed for work"
       ],
       "h1": "Added means one more lane.",
-      "h2": "ADDED LANE means the road coming in gets its own new lane, so that traffic does not need to merge into your lane.",
+      "h2": "The Added Lane sign means the road coming in gets its own new lane, so that traffic does not need to merge into your lane.",
       "p": "Right. The joining traffic gets its own lane."
     },
     "es": {
-      "q": "Usted va por una carretera. Una señal amarilla muestra un carril que se une desde el lado, con las palabras ADDED LANE. ¿Qué significa?",
+      "q": "Usted va por una carretera. Una señal amarilla de carril adicional muestra su flecha recta y otra flecha que se une desde el lado en su propio carril. ¿Qué significa?",
       "o": [
         "Su carril termina",
         "El tráfico que entra tiene un carril nuevo propio y no tiene que incorporarse",
@@ -6295,7 +6289,7 @@
         "Hay un carril cerrado por obras"
       ],
       "h1": "Added quiere decir que hay un carril más.",
-      "h2": "ADDED LANE significa que la vía que entra tiene su propio carril nuevo, así que ese tráfico no necesita meterse en su carril.",
+      "h2": "La señal de carril adicional significa que la vía que entra tiene su propio carril nuevo, así que ese tráfico no necesita meterse en su carril.",
       "p": "Correcto. El tráfico que entra tiene su propio carril."
     }
   },
@@ -6416,7 +6410,7 @@
     "cat": "signs",
     "conf": "high",
     "page": null,
-    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2C.55, https://mutcd.fhwa.dot.gov/",
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2C.54, https://mutcd.fhwa.dot.gov/",
     "sign": {
       "shape": "diamond-yellow",
       "text": "HORSE AND BUGGY"
@@ -6460,7 +6454,7 @@
     },
     "c": 2,
     "en": {
-      "q": "A yellow sign shows children playing, with the word PLAYGROUND. What should you do?",
+      "q": "A yellow sign shows two children on a seesaw. What should you do?",
       "o": [
         "Honk to warn the children",
         "Park and wait for the children to leave",
@@ -6468,11 +6462,11 @@
         "Keep your speed; children will stay off the road"
       ],
       "h1": "Children at play may not look for cars.",
-      "h2": "A PLAYGROUND sign warns that children may be playing nearby and could run into the road, so slow down and watch carefully.",
+      "h2": "The Playground sign warns that a children's playground is next to the road and children could run into the road, so slow down and watch carefully.",
       "p": "Right. Slow down and watch for children."
     },
     "es": {
-      "q": "Una señal amarilla muestra niños jugando, con la palabra PLAYGROUND. ¿Qué debe hacer?",
+      "q": "Una señal amarilla muestra a dos niños en un subibaja. ¿Qué debe hacer?",
       "o": [
         "Tocar la bocina para avisar a los niños",
         "Estacionarse y esperar que los niños se vayan",
@@ -6480,7 +6474,7 @@
         "Mantener su velocidad; los niños no saldrán a la vía"
       ],
       "h1": "Los niños que juegan quizás no miren si vienen carros.",
-      "h2": "Una señal PLAYGROUND advierte que puede haber niños jugando cerca que podrían salir a la vía, así que baje la velocidad y mire con cuidado.",
+      "h2": "La señal de parque infantil advierte que hay un parque infantil junto a la vía y los niños podrían salir a la vía, así que baje la velocidad y mire con cuidado.",
       "p": "Correcto. Baje la velocidad y fíjese en los niños."
     }
   }
