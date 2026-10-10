@@ -2294,5 +2294,107 @@
       "h2": "Michigan ولاية بدون تحديد خطأ (no-fault)، لذلك يجب أن يحمل كل مالك تأمين no-fault يشمل حماية الإصابات الشخصية، الذي يدفع تكاليف علاجك أنت بعد الحادث.",
       "p": "صحيح. تطلب Michigan تأمين no-fault يشمل حماية الإصابات الشخصية."
     }
+  },
+  {
+    "id": "mi-029",
+    "scope": "MI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 57,
+    "src": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Resources/Forms-and-publications/WEDMK/WEDMK.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Michigan, how much space must you leave between your car and a bicycle when you pass it?",
+      "o": [
+        "1 foot",
+        "At least 3 feet",
+        "At least 10 feet",
+        "One full lane always"
+      ],
+      "h1": "It is about the length of a yardstick.",
+      "h2": "In Michigan you must leave at least 3 feet of space between your vehicle and a bicyclist when you pass.",
+      "p": "Right. Give a bicycle at least 3 feet."
+    },
+    "es": {
+      "q": "En Michigan, ¿cuánto espacio debe dejar entre su carro y una bicicleta al rebasarla?",
+      "o": [
+        "1 pie",
+        "Por lo menos 3 pies",
+        "Por lo menos 10 pies",
+        "Siempre un carril completo"
+      ],
+      "h1": "Es más o menos el largo de una regla de una yarda.",
+      "h2": "En Michigan usted debe dejar por lo menos 3 pies de espacio entre su vehículo y un ciclista al rebasarlo.",
+      "p": "Correcto. Deje por lo menos 3 pies a una bicicleta."
+    }
+  },
+  {
+    "id": "mi-030",
+    "scope": "MI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Resources/Forms-and-publications/WEDMK/WEDMK.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Michigan, when does the driver's license of a person under 21 expire?",
+      "o": [
+        "On their 18th birthday",
+        "Exactly one year after it is issued",
+        "On their 21st birthday",
+        "After eight years"
+      ],
+      "h1": "Other drivers usually get four years, but young drivers have a special date.",
+      "h2": "In Michigan, a license issued to a driver under 21 expires on the driver's 21st birthday.",
+      "p": "Right. Under 21, the license ends on the 21st birthday."
+    },
+    "es": {
+      "q": "En Michigan, ¿cuándo vence la licencia de manejar de una persona menor de 21 años?",
+      "o": [
+        "En su cumpleaños número 18",
+        "Un año exacto después de emitida",
+        "En su cumpleaños número 21",
+        "Después de ocho años"
+      ],
+      "h1": "Los demás conductores suelen tener cuatro años, pero los jóvenes tienen una fecha especial.",
+      "h2": "En Michigan, la licencia de un conductor menor de 21 años vence en su cumpleaños número 21.",
+      "p": "Correcto. Si es menor de 21, la licencia vence al cumplir 21."
+    }
+  },
+  {
+    "id": "mi-031",
+    "scope": "MI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Resources/Forms-and-publications/WEDMK/WEDMK.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Michigan, how long do points stay on your driving record?",
+      "o": [
+        "Two years from the date of conviction",
+        "Six months",
+        "Ten years",
+        "For life"
+      ],
+      "h1": "It is less than the seven years most convictions stay on the record.",
+      "h2": "In Michigan, points stay on your driving record for two years from the date you are convicted.",
+      "p": "Right. Points stay for two years."
+    },
+    "es": {
+      "q": "En Michigan, ¿cuánto tiempo se quedan los puntos en su historial de manejo?",
+      "o": [
+        "Dos años desde la fecha de la condena",
+        "Seis meses",
+        "Diez años",
+        "Toda la vida"
+      ],
+      "h1": "Es menos que los siete años que se quedan la mayoría de las condenas.",
+      "h2": "En Michigan, los puntos se quedan en su historial de manejo por dos años desde la fecha de la condena.",
+      "p": "Correcto. Los puntos se quedan dos años."
+    }
   }
 ]
