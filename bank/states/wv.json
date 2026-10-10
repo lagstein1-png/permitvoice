@@ -2212,5 +2212,141 @@
       "h2": "في West Virginia، إنهاء دورة قيادة دفاعية معتمدة مدتها 8 ساعات يزيل 3 نقاط من سجلك، ولا يكون ذلك أكثر من مرة واحدة كل 12 شهرًا.",
       "p": "صحيح. الدورة تزيل 3 نقاط."
     }
+  },
+  {
+    "id": "wv-028",
+    "scope": "WV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 2,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In West Virginia, after you move to the state, how soon must you apply for a West Virginia driver's license?",
+      "o": [
+        "Within 30 days",
+        "Within 10 days",
+        "Within 90 days",
+        "Within 1 year"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In West Virginia, a new resident who wants to drive must apply for a West Virginia driver's license within 30 days.",
+      "p": "Right. New residents have 30 days to apply."
+    },
+    "es": {
+      "q": "En West Virginia, después de mudarse al estado, ¿en cuánto tiempo debe solicitar una licencia de conducir de West Virginia?",
+      "o": [
+        "En 30 días",
+        "En 10 días",
+        "En 90 días",
+        "En 1 año"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En West Virginia, un nuevo residente que quiere manejar debe solicitar una licencia de conducir de West Virginia en 30 días.",
+      "p": "Correcto. Los nuevos residentes tienen 30 días para solicitarla."
+    }
+  },
+  {
+    "id": "wv-029",
+    "scope": "WV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 62,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In West Virginia, you are driving at night behind another vehicle. Within how many feet must you dim your headlights?",
+      "o": [
+        "100 feet",
+        "500 feet",
+        "200 feet",
+        "1,000 feet"
+      ],
+      "h1": "It is a shorter distance than for an oncoming vehicle.",
+      "h2": "In West Virginia, you must dim your headlights within 200 feet when you follow another vehicle.",
+      "p": "Right. Dim your lights within 200 feet of a vehicle ahead."
+    },
+    "es": {
+      "q": "En West Virginia, usted maneja de noche detrás de otro vehículo. ¿A cuántos pies debe bajar las luces?",
+      "o": [
+        "100 pies",
+        "500 pies",
+        "200 pies",
+        "1,000 pies"
+      ],
+      "h1": "Es una distancia más corta que para un vehículo que viene de frente.",
+      "h2": "En West Virginia, usted debe bajar las luces a 200 pies cuando va detrás de otro vehículo.",
+      "p": "Correcto. Baje las luces a 200 pies de un vehículo que va adelante."
+    }
+  },
+  {
+    "id": "wv-030",
+    "scope": "WV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 45,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In West Virginia, you may not park within how many feet of a fire hydrant?",
+      "o": [
+        "5 feet",
+        "10 feet",
+        "25 feet",
+        "15 feet"
+      ],
+      "h1": "Fire trucks need room to connect their hoses.",
+      "h2": "In West Virginia, you may not park within 15 feet of a fire hydrant.",
+      "p": "Right. Stay at least 15 feet from a fire hydrant when you park."
+    },
+    "es": {
+      "q": "En West Virginia, ¿a cuántos pies de un hidrante no puede estacionarse?",
+      "o": [
+        "5 pies",
+        "10 pies",
+        "25 pies",
+        "15 pies"
+      ],
+      "h1": "Los bomberos necesitan espacio para conectar sus mangueras.",
+      "h2": "En West Virginia, usted no puede estacionarse a menos de 15 pies de un hidrante.",
+      "p": "Correcto. Al estacionarse, quédese por lo menos a 15 pies de un hidrante."
+    }
+  },
+  {
+    "id": "wv-031",
+    "scope": "WV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 77,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In West Virginia, what is the lowest fine for littering on a road?",
+      "o": [
+        "$10",
+        "$50",
+        "$250",
+        "$2,000"
+      ],
+      "h1": "The fine can go up to $1,000.",
+      "h2": "In West Virginia, littering can bring a fine of at least $50 and up to $1,000, or instead jail or picking up litter along the road.",
+      "p": "Right. Littering costs at least $50, and you may also get points."
+    },
+    "es": {
+      "q": "En West Virginia, ¿cuál es la multa más baja por tirar basura en la carretera?",
+      "o": [
+        "$10",
+        "$50",
+        "$250",
+        "$2,000"
+      ],
+      "h1": "La multa puede llegar hasta $1,000.",
+      "h2": "En West Virginia, tirar basura puede costar una multa de por lo menos $50 y hasta $1,000, o en su lugar cárcel o recoger basura en la carretera.",
+      "p": "Correcto. Tirar basura cuesta por lo menos $50, y también puede recibir puntos."
+    }
   }
 ]

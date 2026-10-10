@@ -2130,5 +2130,175 @@
       "h2": "في Maryland، لا يُسمح بتغطية الأذنين معًا بسماعات أذن أو سماعة رأس أو سدادات أذن أثناء القيادة. أما أجهزة السمع فمسموح بها.",
       "p": "صحيح. لا تغطِّ أذنيك الاثنتين أبدًا أثناء القيادة."
     }
+  },
+  {
+    "id": "md-027",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Maryland, what visual acuity do you need in each eye to qualify for a driver's license?",
+      "o": [
+        "At least 20/100",
+        "At least 20/40",
+        "At least 20/10",
+        "At least 20/200"
+      ],
+      "h1": "Glasses or contact lenses may be used to reach it.",
+      "h2": "In Maryland, you need visual acuity of at least 20/40 in each eye, with glasses or contacts if needed, to qualify for a driver's license.",
+      "p": "Right. You need at least 20/40 in each eye."
+    },
+    "es": {
+      "q": "En Maryland, ¿qué agudeza visual necesita en cada ojo para calificar para una licencia de conducir?",
+      "o": [
+        "Por lo menos 20/100",
+        "Por lo menos 20/40",
+        "Por lo menos 20/10",
+        "Por lo menos 20/200"
+      ],
+      "h1": "Puede usar anteojos o lentes de contacto para lograrla.",
+      "h2": "En Maryland, usted necesita una agudeza visual de por lo menos 20/40 en cada ojo, con anteojos o lentes de contacto si hace falta, para calificar para una licencia de conducir.",
+      "p": "Correcto. Necesita por lo menos 20/40 en cada ojo."
+    }
+  },
+  {
+    "id": "md-028",
+    "scope": "MD",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 40,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Maryland, how much space must you leave between your vehicle and a bicycle when you pass it?",
+      "o": [
+        "At least 1 foot",
+        "At least 10 feet",
+        "At least 2 feet",
+        "At least 3 feet"
+      ],
+      "h1": "Think of about one long step.",
+      "h2": "In Maryland, you must leave at least 3 feet between your vehicle and a bicycle when you pass it, even in a bike lane or on the shoulder.",
+      "p": "Right. Leave at least 3 feet."
+    },
+    "es": {
+      "q": "En Maryland, ¿cuánto espacio debe dejar entre su vehículo y una bicicleta al pasarla?",
+      "o": [
+        "Por lo menos 1 pie",
+        "Por lo menos 10 pies",
+        "Por lo menos 2 pies",
+        "Por lo menos 3 pies"
+      ],
+      "h1": "Piense en un paso largo.",
+      "h2": "En Maryland, usted debe dejar por lo menos 3 pies entre su vehículo y una bicicleta al pasarla, también en un carril para bicicletas o en el acotamiento.",
+      "p": "Correcto. Deje por lo menos 3 pies."
+    }
+  },
+  {
+    "id": "md-029",
+    "scope": "MD",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 27,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Maryland, you are using high beams at night. A car is coming toward you. When must you switch to low beams?",
+      "o": [
+        "At least 500 feet before you reach it",
+        "When it is 50 feet away",
+        "Only after it passes you",
+        "At least 2 miles before you reach it"
+      ],
+      "h1": "It is the length of more than one football field.",
+      "h2": "In Maryland, you must switch to low beams at least 500 feet before you reach a vehicle coming toward you.",
+      "p": "Right. Switch at least 500 feet before it."
+    },
+    "es": {
+      "q": "En Maryland, usted usa las luces altas de noche. Un carro viene hacia usted. ¿Cuándo debe cambiar a luces bajas?",
+      "o": [
+        "Por lo menos 500 pies antes de llegar a él",
+        "Cuando esté a 50 pies",
+        "Solo después de que le pase",
+        "Por lo menos 2 millas antes de llegar a él"
+      ],
+      "h1": "Es más que el largo de una cancha de fútbol americano.",
+      "h2": "En Maryland, usted debe cambiar a luces bajas por lo menos 500 pies antes de llegar a un vehículo que viene de frente.",
+      "p": "Correcto. Cambie por lo menos 500 pies antes."
+    }
+  },
+  {
+    "id": "md-030",
+    "scope": "MD",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 33,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maryland, which of these counts as an open container of alcohol in the passenger area?",
+      "o": [
+        "A sealed bottle in the trunk",
+        "A closed case of soda",
+        "A six-pack with some cans missing or empty",
+        "An empty water bottle in a cup holder"
+      ],
+      "h1": "Think about a package that has already been opened.",
+      "h2": "In Maryland, a six-pack with open, empty or missing cans or bottles can count as an open container, and it is illegal in the passenger area.",
+      "p": "Right. A six-pack with missing or empty cans can count as open."
+    },
+    "es": {
+      "q": "En Maryland, ¿cuál de estos cuenta como un envase abierto de alcohol en el área de pasajeros?",
+      "o": [
+        "Una botella sellada en el maletero",
+        "Una caja cerrada de refrescos",
+        "Un paquete de seis con algunas latas que faltan o están vacías",
+        "Una botella de agua vacía en un portavasos"
+      ],
+      "h1": "Piense en un paquete que ya se abrió.",
+      "h2": "En Maryland, un paquete de seis con latas o botellas abiertas, vacías o que faltan puede contar como un envase abierto, y es ilegal en el área de pasajeros.",
+      "p": "Correcto. Un paquete de seis con latas que faltan o vacías puede contar como abierto."
+    }
+  },
+  {
+    "id": "md-031",
+    "scope": "MD",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 16,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Maryland, how close to an intersection or railroad crossing may you be when you pass another vehicle?",
+      "o": [
+        "Within 10 feet",
+        "Not within 100 feet",
+        "Within 50 feet",
+        "Any distance, if you signal"
+      ],
+      "h1": "It is about the length of six or seven cars.",
+      "h2": "In Maryland, you may not pass when you are crossing or within 100 feet of an intersection or a railroad crossing.",
+      "p": "Right. Do not pass within 100 feet of them."
+    },
+    "es": {
+      "q": "En Maryland, ¿qué tan cerca de una intersección o un cruce de ferrocarril puede estar al pasar a otro vehículo?",
+      "o": [
+        "A 10 pies",
+        "No a menos de 100 pies",
+        "A 50 pies",
+        "A cualquier distancia, si usa la señal"
+      ],
+      "h1": "Es como el largo de seis o siete carros.",
+      "h2": "En Maryland, no puede pasar a otro vehículo al cruzar una intersección o un cruce de ferrocarril, ni a menos de 100 pies de ellos.",
+      "p": "Correcto. No pase a menos de 100 pies de ellos."
+    }
   }
 ]
