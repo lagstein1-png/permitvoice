@@ -2212,5 +2212,175 @@
       "h2": "في Rhode Island، يجب أن تشغّل المصابيح الأمامية كلما استخدمت ماسحات الزجاج الأمامي بسبب المطر أو المطر المتجمد أو الثلج، وكذلك من غروب الشمس حتى شروقها.",
       "p": "صحيح. إذا عملت الماسحات، تعمل المصابيح الأمامية."
     }
+  },
+  {
+    "id": "ri-028",
+    "scope": "RI",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 32,
+    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Rhode Island, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 8 feet",
+        "No closer than 15 feet",
+        "No closer than 25 feet"
+      ],
+      "h1": "It is less than 10 feet.",
+      "h2": "In Rhode Island you may not park within 8 feet of a fire hydrant.",
+      "p": "Right. Stay at least 8 feet away from a fire hydrant."
+    },
+    "es": {
+      "q": "En Rhode Island, ¿qué tan cerca de un hidrante de incendios puede estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 8 pies",
+        "No más cerca de 15 pies",
+        "No más cerca de 25 pies"
+      ],
+      "h1": "Es menos de 10 pies.",
+      "h2": "En Rhode Island usted no puede estacionarse a menos de 8 pies de un hidrante de incendios.",
+      "p": "Correcto. Manténgase por lo menos a 8 pies de un hidrante."
+    }
+  },
+  {
+    "id": "ri-029",
+    "scope": "RI",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 32,
+    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Rhode Island, how close to a stop sign or traffic light may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 15 feet",
+        "No closer than 30 feet"
+      ],
+      "h1": "Other drivers need to see the sign or light from far away.",
+      "h2": "In Rhode Island you may not park within 30 feet of a stop sign, a traffic light or a flashing red or yellow light.",
+      "p": "Right. Park at least 30 feet from a stop sign or traffic light."
+    },
+    "es": {
+      "q": "En Rhode Island, ¿qué tan cerca de una señal de alto o un semáforo puede estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 10 pies",
+        "No más cerca de 15 pies",
+        "No más cerca de 30 pies"
+      ],
+      "h1": "Los otros conductores necesitan ver la señal o la luz desde lejos.",
+      "h2": "En Rhode Island usted no puede estacionarse a menos de 30 pies de una señal de alto, un semáforo o una luz roja o amarilla intermitente.",
+      "p": "Correcto. Estaciónese por lo menos a 30 pies de una señal de alto o un semáforo."
+    }
+  },
+  {
+    "id": "ri-030",
+    "scope": "RI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 49,
+    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Rhode Island, you are using high beams at night and following another car. When must you dim your lights?",
+      "o": [
+        "When you are within 200 feet of it",
+        "When you are within 50 feet of it",
+        "When you are within 1,000 feet of it",
+        "Only when it is raining"
+      ],
+      "h1": "It is less than the 500 feet used for oncoming cars.",
+      "h2": "In Rhode Island you must dim your high beams when you follow another vehicle within 200 feet.",
+      "p": "Right. Dim your high beams when you are 200 feet or less behind another car."
+    },
+    "es": {
+      "q": "En Rhode Island, usted lleva las luces altas de noche y va detrás de otro carro. ¿Cuándo debe bajar las luces?",
+      "o": [
+        "Cuando esté a menos de 200 pies de él",
+        "Cuando esté a menos de 50 pies de él",
+        "Cuando esté a menos de 1,000 pies de él",
+        "Solo cuando está lloviendo"
+      ],
+      "h1": "Es menos que los 500 pies que se usan para los carros que vienen de frente.",
+      "h2": "En Rhode Island usted debe bajar las luces altas cuando va detrás de otro vehículo a menos de 200 pies.",
+      "p": "Correcto. Baje las luces altas cuando esté a 200 pies o menos detrás de otro carro."
+    }
+  },
+  {
+    "id": "ri-031",
+    "scope": "RI",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 35,
+    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Rhode Island, a fire truck is going to a fire alarm. How close may you follow it?",
+      "o": [
+        "No closer than 50 feet",
+        "No closer than 200 feet",
+        "No closer than 500 feet",
+        "As close as you want if you are careful"
+      ],
+      "h1": "Give it plenty of room, because it may stop or turn suddenly.",
+      "h2": "In Rhode Island you may not follow a fire truck going to an alarm any closer than 500 feet.",
+      "p": "Right. Stay at least 500 feet behind a fire truck on its way to an alarm."
+    },
+    "es": {
+      "q": "En Rhode Island, un camión de bomberos va hacia una alarma de incendio. ¿Qué tan cerca puede seguirlo?",
+      "o": [
+        "No más cerca de 50 pies",
+        "No más cerca de 200 pies",
+        "No más cerca de 500 pies",
+        "Tan cerca como quiera si tiene cuidado"
+      ],
+      "h1": "Dele mucho espacio, porque puede detenerse o dar vuelta de repente.",
+      "h2": "En Rhode Island usted no puede seguir a un camión de bomberos que va hacia una alarma a menos de 500 pies.",
+      "p": "Correcto. Quédese por lo menos a 500 pies detrás de un camión de bomberos que va a una alarma."
+    }
+  },
+  {
+    "id": "ri-032",
+    "scope": "RI",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 35,
+    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Rhode Island, what is the speed limit in a residential area when no other limit is posted?",
+      "o": [
+        "20 mph",
+        "25 mph",
+        "35 mph",
+        "40 mph"
+      ],
+      "h1": "It is the same limit used in business districts.",
+      "h2": "In Rhode Island the speed limit in a residential area is 25 mph when no other limit is posted.",
+      "p": "Right. The limit in a residential area is 25 mph."
+    },
+    "es": {
+      "q": "En Rhode Island, ¿cuál es el límite de velocidad en una zona residencial cuando no hay otro límite indicado?",
+      "o": [
+        "20 mph",
+        "25 mph",
+        "35 mph",
+        "40 mph"
+      ],
+      "h1": "Es el mismo límite que en las zonas comerciales.",
+      "h2": "En Rhode Island el límite de velocidad en una zona residencial es de 25 mph cuando no hay otro límite indicado.",
+      "p": "Correcto. El límite en una zona residencial es de 25 mph."
+    }
   }
 ]
