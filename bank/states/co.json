@@ -8260,5 +8260,1025 @@
       "h2": "En Colorado, un residente que está temporalmente fuera del estado cuando vence su licencia puede pedir, antes del vencimiento, una extensión de un año y pagar una cuota.",
       "p": "Correcto. Puede pedir una extensión de un año antes del vencimiento."
     }
+  },
+  {
+    "id": "co-172",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Colorado, how many points does a conviction for trying to get away from a police officer (eluding) add?",
+      "o": [
+        "2 points",
+        "4 points",
+        "12 points",
+        "6 points"
+      ],
+      "h1": "It counts the same as a DUI.",
+      "h2": "In Colorado, eluding or trying to elude a police officer adds 12 points to your driving record.",
+      "p": "Right. Eluding a police officer adds 12 points."
+    },
+    "es": {
+      "q": "En Colorado, ¿cuántos puntos agrega una condena por intentar escapar de un policía (evadir a la policía)?",
+      "o": [
+        "2 puntos",
+        "4 puntos",
+        "12 puntos",
+        "6 puntos"
+      ],
+      "h1": "Cuenta lo mismo que un DUI.",
+      "h2": "En Colorado, evadir o intentar evadir a un policía agrega 12 puntos a su historial de manejo.",
+      "p": "Correcto. Evadir a la policía agrega 12 puntos."
+    }
+  },
+  {
+    "id": "co-173",
+    "scope": "CO",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Colorado, how many points does a ticket for running a red light or a stop sign add?",
+      "o": [
+        "4 points",
+        "1 point",
+        "8 points",
+        "No points"
+      ],
+      "h1": "It is the same number as following too closely.",
+      "h2": "In Colorado, failing to obey a traffic sign or signal, such as a red light or a stop sign, adds 4 points to your driving record.",
+      "p": "Right. Ignoring a sign or signal adds 4 points."
+    },
+    "es": {
+      "q": "En Colorado, ¿cuántos puntos agrega una multa por pasarse un semáforo en rojo o una señal de alto?",
+      "o": [
+        "4 puntos",
+        "1 punto",
+        "8 puntos",
+        "Ningún punto"
+      ],
+      "h1": "Es la misma cantidad que por seguir muy de cerca a otro vehículo.",
+      "h2": "En Colorado, no obedecer una señal o un semáforo, como una luz roja o una señal de alto, agrega 4 puntos a su historial de manejo.",
+      "p": "Correcto. No obedecer una señal o semáforo agrega 4 puntos."
+    }
+  },
+  {
+    "id": "co-174",
+    "scope": "CO",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Colorado, how many points does a ticket for not using your turn signal add?",
+      "o": [
+        "No points",
+        "2 points",
+        "6 points",
+        "4 points"
+      ],
+      "h1": "It is one of the smaller point values.",
+      "h2": "In Colorado, failing to signal or giving an improper signal adds 2 points to your driving record.",
+      "p": "Right. Not signaling adds 2 points."
+    },
+    "es": {
+      "q": "En Colorado, ¿cuántos puntos agrega una multa por no usar la direccional?",
+      "o": [
+        "Ningún punto",
+        "2 puntos",
+        "6 puntos",
+        "4 puntos"
+      ],
+      "h1": "Es uno de los valores de puntos más bajos.",
+      "h2": "En Colorado, no señalizar o hacer una señal incorrecta agrega 2 puntos a su historial de manejo.",
+      "p": "Correcto. No señalizar agrega 2 puntos."
+    }
+  },
+  {
+    "id": "co-175",
+    "scope": "CO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Colorado, how many points does a conviction for not having or not showing proof of insurance add?",
+      "o": [
+        "No points",
+        "1 point",
+        "12 points",
+        "4 points"
+      ],
+      "h1": "It is the same number as careless driving.",
+      "h2": "In Colorado, failing to have or show proof of insurance adds 4 points to your driving record.",
+      "p": "Right. No proof of insurance adds 4 points."
+    },
+    "es": {
+      "q": "En Colorado, ¿cuántos puntos agrega una condena por no tener o no mostrar prueba de seguro?",
+      "o": [
+        "Ningún punto",
+        "1 punto",
+        "12 puntos",
+        "4 puntos"
+      ],
+      "h1": "Es la misma cantidad que por manejar sin cuidado.",
+      "h2": "En Colorado, no tener o no mostrar prueba de seguro agrega 4 puntos a su historial de manejo.",
+      "p": "Correcto. No tener prueba de seguro agrega 4 puntos."
+    }
+  },
+  {
+    "id": "co-176",
+    "scope": "CO",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Colorado, how many points does a ticket for driving 1 to 4 mph over the speed limit add?",
+      "o": [
+        "No points",
+        "1 point",
+        "2 points",
+        "4 points"
+      ],
+      "h1": "You still get a ticket, but the point schedule is kind at this level.",
+      "h2": "In Colorado, a ticket for driving 1 to 4 mph over the speed limit adds no points to your driving record.",
+      "p": "Right. Speeding by 1 to 4 mph adds no points."
+    },
+    "es": {
+      "q": "En Colorado, ¿cuántos puntos agrega una multa por manejar de 1 a 4 mph por encima del límite de velocidad?",
+      "o": [
+        "Ningún punto",
+        "1 punto",
+        "2 puntos",
+        "4 puntos"
+      ],
+      "h1": "Igual le ponen la multa, pero la tabla de puntos es suave en este nivel.",
+      "h2": "En Colorado, una multa por manejar de 1 a 4 mph por encima del límite de velocidad no agrega puntos a su historial de manejo.",
+      "p": "Correcto. Exceder el límite por 1 a 4 mph no agrega puntos."
+    }
+  },
+  {
+    "id": "co-177",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Colorado, how many points does a ticket for not dimming your high beams or not turning on your headlights add?",
+      "o": [
+        "6 points",
+        "No points",
+        "2 points",
+        "8 points"
+      ],
+      "h1": "It counts the same as not using your turn signal.",
+      "h2": "In Colorado, failing to dim your lights or to turn them on when required adds 2 points to your driving record.",
+      "p": "Right. A headlight violation adds 2 points."
+    },
+    "es": {
+      "q": "En Colorado, ¿cuántos puntos agrega una multa por no bajar las luces altas o no encender los faros?",
+      "o": [
+        "6 puntos",
+        "Ningún punto",
+        "2 puntos",
+        "8 puntos"
+      ],
+      "h1": "Cuenta lo mismo que no usar la direccional.",
+      "h2": "En Colorado, no bajar las luces o no encenderlas cuando la ley lo exige agrega 2 puntos a su historial de manejo.",
+      "p": "Correcto. Una falta con los faros agrega 2 puntos."
+    }
+  },
+  {
+    "id": "co-178",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 4,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Colorado, what is the shortest jail sentence for a second DWAI or DUI conviction for a driver 21 or older?",
+      "o": [
+        "2 days",
+        "10 days",
+        "60 days",
+        "1 year"
+      ],
+      "h1": "It is more than a week but much less than a month.",
+      "h2": "In Colorado, a second DWAI or DUI conviction carries at least 10 days in jail, and up to one year.",
+      "p": "Right. A second offense means at least 10 days in jail."
+    },
+    "es": {
+      "q": "En Colorado, ¿cuál es la pena de cárcel más corta por una segunda condena de DWAI o DUI para un conductor de 21 años o más?",
+      "o": [
+        "2 días",
+        "10 días",
+        "60 días",
+        "1 año"
+      ],
+      "h1": "Es más de una semana, pero mucho menos de un mes.",
+      "h2": "En Colorado, una segunda condena de DWAI o DUI conlleva al menos 10 días de cárcel y hasta un año.",
+      "p": "Correcto. Una segunda falta significa al menos 10 días de cárcel."
+    }
+  },
+  {
+    "id": "co-179",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 4,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Colorado, what is the shortest jail sentence for a third DWAI or DUI conviction for a driver 21 or older?",
+      "o": [
+        "5 days",
+        "10 days",
+        "30 days",
+        "60 days"
+      ],
+      "h1": "It is about two months.",
+      "h2": "In Colorado, a third or later DWAI or DUI conviction carries at least 60 days in jail, and up to one year.",
+      "p": "Right. A third offense means at least 60 days in jail."
+    },
+    "es": {
+      "q": "En Colorado, ¿cuál es la pena de cárcel más corta por una tercera condena de DWAI o DUI para un conductor de 21 años o más?",
+      "o": [
+        "5 días",
+        "10 días",
+        "30 días",
+        "60 días"
+      ],
+      "h1": "Son unos dos meses.",
+      "h2": "En Colorado, una tercera condena o más de DWAI o DUI conlleva al menos 60 días de cárcel y hasta un año.",
+      "p": "Correcto. Una tercera falta significa al menos 60 días de cárcel."
+    }
+  },
+  {
+    "id": "co-180",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 4,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Colorado, how many hours of public service can a court order for a first DWAI conviction?",
+      "o": [
+        "24 to 48 hours",
+        "48 to 96 hours",
+        "100 to 200 hours",
+        "4 to 8 hours"
+      ],
+      "h1": "It is between one and two full days.",
+      "h2": "In Colorado, a first DWAI conviction comes with 24 to 48 hours of public service.",
+      "p": "Right. A first DWAI means 24 to 48 hours of public service."
+    },
+    "es": {
+      "q": "En Colorado, ¿cuántas horas de servicio comunitario puede ordenar un tribunal por una primera condena de DWAI?",
+      "o": [
+        "De 24 a 48 horas",
+        "De 48 a 96 horas",
+        "De 100 a 200 horas",
+        "De 4 a 8 horas"
+      ],
+      "h1": "Es entre uno y dos días completos.",
+      "h2": "En Colorado, una primera condena de DWAI conlleva de 24 a 48 horas de servicio comunitario.",
+      "p": "Correcto. Un primer DWAI significa de 24 a 48 horas de servicio comunitario."
+    }
+  },
+  {
+    "id": "co-181",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 3,
+    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Colorado, the driver handbook says a person's blood alcohol level drops, on average, by about how much each hour?",
+      "o": [
+        "0.08 percent",
+        "0.05 percent",
+        "0.015 percent",
+        "0.20 percent"
+      ],
+      "h1": "It is a very small amount, so it takes hours to sober up.",
+      "h2": "In Colorado, the handbook says a person's blood alcohol level drops on average by about 0.015 percent per hour, and only time lowers it.",
+      "p": "Right. It drops only about 0.015 percent an hour."
+    },
+    "es": {
+      "q": "En Colorado, según el manual del conductor, ¿cuánto baja en promedio el nivel de alcohol en la sangre cada hora?",
+      "o": [
+        "0.08 por ciento",
+        "0.05 por ciento",
+        "0.015 por ciento",
+        "0.20 por ciento"
+      ],
+      "h1": "Es una cantidad muy pequeña, por eso se tarda horas en estar sobrio.",
+      "h2": "En Colorado, el manual dice que el nivel de alcohol en la sangre baja en promedio unos 0.015 por ciento por hora, y solo el tiempo lo reduce.",
+      "p": "Correcto. Baja solo unos 0.015 por ciento por hora."
+    }
+  },
+  {
+    "id": "co-182",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Colorado, a driver 21 or older is asked to take a test for alcohol. Which test may the driver choose?",
+      "o": [
+        "A urine test only",
+        "A blood test or a breath test",
+        "No test; the officer must wait",
+        "A walking test instead"
+      ],
+      "h1": "There are two choices, and both measure alcohol directly.",
+      "h2": "In Colorado, a driver 21 or older who is asked to take an alcohol test may choose a blood test or a breath test.",
+      "p": "Right. The driver may choose blood or breath."
+    },
+    "es": {
+      "q": "En Colorado, a un conductor de 21 años o más le piden hacerse una prueba de alcohol. ¿Qué prueba puede elegir?",
+      "o": [
+        "Solo una prueba de orina",
+        "Una prueba de sangre o de aliento",
+        "Ninguna; el policía debe esperar",
+        "Una prueba de caminar en su lugar"
+      ],
+      "h1": "Hay dos opciones, y ambas miden el alcohol directamente.",
+      "h2": "En Colorado, un conductor de 21 años o más al que le piden una prueba de alcohol puede elegir una prueba de sangre o una de aliento.",
+      "p": "Correcto. Puede elegir sangre o aliento."
+    }
+  },
+  {
+    "id": "co-183",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Colorado, an officer asks for a breath or blood test for alcohol. Within what time after driving must the sample be taken?",
+      "o": [
+        "Within 8 hours",
+        "Within 24 hours",
+        "Within 30 minutes",
+        "Within 2 hours"
+      ],
+      "h1": "The time limit is counted in hours, and it is short.",
+      "h2": "In Colorado, the driver must cooperate so that the breath or blood sample can be taken within two hours of driving.",
+      "p": "Right. The sample must be taken within two hours of driving."
+    },
+    "es": {
+      "q": "En Colorado, un policía pide una prueba de aliento o de sangre para detectar alcohol. ¿En cuánto tiempo después de manejar se debe tomar la muestra?",
+      "o": [
+        "En 8 horas",
+        "En 24 horas",
+        "En 30 minutos",
+        "En 2 horas"
+      ],
+      "h1": "El límite se cuenta en horas, y es corto.",
+      "h2": "En Colorado, el conductor debe cooperar para que la muestra de aliento o de sangre se pueda tomar dentro de las dos horas después de manejar.",
+      "p": "Correcto. La muestra se debe tomar dentro de las dos horas después de manejar."
+    }
+  },
+  {
+    "id": "co-184",
+    "scope": "CO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Colorado, a driver becomes a habitual offender after three convictions for offenses such as DUI or reckless driving within how many years?",
+      "o": [
+        "2 years",
+        "3 years",
+        "7 years",
+        "20 years"
+      ],
+      "h1": "It is longer than five years but less than ten.",
+      "h2": "In Colorado, three or more convictions for serious offenses such as DUI, DWAI, reckless driving, or driving while revoked within seven years make a person a habitual offender.",
+      "p": "Right. Three serious convictions in seven years make a habitual offender."
+    },
+    "es": {
+      "q": "En Colorado, ¿en cuántos años tres condenas por faltas como DUI o manejo imprudente convierten a un conductor en infractor habitual?",
+      "o": [
+        "2 años",
+        "3 años",
+        "7 años",
+        "20 años"
+      ],
+      "h1": "Es más de cinco años, pero menos de diez.",
+      "h2": "En Colorado, tres o más condenas por faltas graves como DUI, DWAI, manejo imprudente o manejar con la licencia revocada en siete años convierten a una persona en infractor habitual.",
+      "p": "Correcto. Tres condenas graves en siete años hacen a un infractor habitual."
+    }
+  },
+  {
+    "id": "co-185",
+    "scope": "CO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Colorado, after the DMV finds that a person is a habitual offender, how long may the person not get a license or drive?",
+      "o": [
+        "5 years",
+        "6 months",
+        "1 year",
+        "10 years"
+      ],
+      "h1": "It is half of ten years.",
+      "h2": "In Colorado, a habitual offender may not get a license or drive for five years from the date of the DMV's order.",
+      "p": "Right. A habitual offender may not drive for five years."
+    },
+    "es": {
+      "q": "En Colorado, después de que el DMV declara a una persona infractor habitual, ¿por cuánto tiempo no puede obtener licencia ni manejar?",
+      "o": [
+        "5 años",
+        "6 meses",
+        "1 año",
+        "10 años"
+      ],
+      "h1": "Es la mitad de diez años.",
+      "h2": "En Colorado, un infractor habitual no puede obtener licencia ni manejar durante cinco años desde la fecha de la orden del DMV.",
+      "p": "Correcto. Un infractor habitual no puede manejar por cinco años."
+    }
+  },
+  {
+    "id": "co-186",
+    "scope": "CO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Colorado, a person is caught driving while the license is suspended. What does the DMV do about getting a license back?",
+      "o": [
+        "Nothing changes if no one was hurt",
+        "It adds one more year before a license can be issued",
+        "It ends the suspension early",
+        "It gives a temporary permit"
+      ],
+      "h1": "Driving while suspended makes the wait longer.",
+      "h2": "In Colorado, if a person drives while the license is suspended or revoked, the DMV adds one more year before it will issue a new license.",
+      "p": "Right. Driving while suspended adds one more year."
+    },
+    "es": {
+      "q": "En Colorado, una persona es detenida manejando con la licencia suspendida. ¿Qué hace el DMV sobre recuperar la licencia?",
+      "o": [
+        "Nada cambia si nadie salió herido",
+        "Agrega un año más antes de poder emitir una licencia",
+        "Termina la suspensión antes",
+        "Le da un permiso temporal"
+      ],
+      "h1": "Manejar con la licencia suspendida alarga la espera.",
+      "h2": "En Colorado, si una persona maneja con la licencia suspendida o revocada, el DMV agrega un año más antes de emitirle una nueva licencia.",
+      "p": "Correcto. Manejar suspendido agrega un año más."
+    }
+  },
+  {
+    "id": "co-187",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Colorado, a car's horn must be loud enough to be heard from at least how far away?",
+      "o": [
+        "20 feet",
+        "50 feet",
+        "1,000 feet",
+        "200 feet"
+      ],
+      "h1": "It is the same distance your mirrors must show behind you.",
+      "h2": "In Colorado, a motor vehicle's horn must work and be heard under normal conditions from at least 200 feet away.",
+      "p": "Right. The horn must be heard from 200 feet."
+    },
+    "es": {
+      "q": "En Colorado, ¿desde qué distancia mínima se debe poder oír la bocina de un carro?",
+      "o": [
+        "20 pies",
+        "50 pies",
+        "1,000 pies",
+        "200 pies"
+      ],
+      "h1": "Es la misma distancia que deben mostrar sus espejos hacia atrás.",
+      "h2": "En Colorado, la bocina de un vehículo debe funcionar y oírse en condiciones normales desde al menos 200 pies.",
+      "p": "Correcto. La bocina se debe oír desde 200 pies."
+    }
+  },
+  {
+    "id": "co-188",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Colorado, your mirrors must give you a clear view of the road behind for at least how far?",
+      "o": [
+        "20 feet",
+        "50 feet",
+        "200 feet",
+        "1 mile"
+      ],
+      "h1": "It is the same distance a horn must be heard.",
+      "h2": "In Colorado, every motor vehicle must have mirrors that show the driver a clear view of the road at least 200 feet to the rear.",
+      "p": "Right. Mirrors must show 200 feet behind."
+    },
+    "es": {
+      "q": "En Colorado, ¿a qué distancia mínima hacia atrás deben mostrarle sus espejos una vista clara del camino?",
+      "o": [
+        "20 pies",
+        "50 pies",
+        "200 pies",
+        "1 milla"
+      ],
+      "h1": "Es la misma distancia desde la que se debe oír la bocina.",
+      "h2": "En Colorado, todo vehículo debe tener espejos que le muestren al conductor una vista clara del camino al menos 200 pies hacia atrás.",
+      "p": "Correcto. Los espejos deben mostrar 200 pies hacia atrás."
+    }
+  },
+  {
+    "id": "co-189",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Colorado, when lit, a car's tail lamps must show a red light that can be seen from how far behind?",
+      "o": [
+        "500 feet",
+        "50 feet",
+        "100 feet",
+        "5 miles"
+      ],
+      "h1": "It is half of the 1,000 feet that matters for headlights.",
+      "h2": "In Colorado, tail lamps must give off a red light plainly visible from 500 feet to the rear.",
+      "p": "Right. Tail lamps must be seen from 500 feet."
+    },
+    "es": {
+      "q": "En Colorado, cuando están encendidas, ¿desde qué distancia hacia atrás debe verse la luz roja de las luces traseras de un carro?",
+      "o": [
+        "500 pies",
+        "50 pies",
+        "100 pies",
+        "5 millas"
+      ],
+      "h1": "Es la mitad de los 1,000 pies que importan para los faros.",
+      "h2": "En Colorado, las luces traseras deben dar una luz roja claramente visible desde 500 pies hacia atrás.",
+      "p": "Correcto. Las luces traseras se deben ver desde 500 pies."
+    }
+  },
+  {
+    "id": "co-190",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Colorado, a bicycle ridden at night must have what on the front?",
+      "o": [
+        "A red reflector only",
+        "A white light seen from 500 feet",
+        "A horn or a siren",
+        "An orange flag"
+      ],
+      "h1": "It is a light, and its color is the same as a car's headlights.",
+      "h2": "In Colorado, a bicycle used at night must have a front lamp with a white light visible from at least 500 feet ahead.",
+      "p": "Right. A bike needs a white front light seen from 500 feet."
+    },
+    "es": {
+      "q": "En Colorado, ¿qué debe tener al frente una bicicleta que se usa de noche?",
+      "o": [
+        "Solo un reflector rojo",
+        "Una luz blanca visible desde 500 pies",
+        "Una bocina o una sirena",
+        "Una bandera anaranjada"
+      ],
+      "h1": "Es una luz, del mismo color que los faros de un carro.",
+      "h2": "En Colorado, una bicicleta que se usa de noche debe tener una luz delantera blanca visible desde al menos 500 pies.",
+      "p": "Correcto. La bicicleta necesita una luz blanca delantera visible desde 500 pies."
+    }
+  },
+  {
+    "id": "co-191",
+    "scope": "CO",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Colorado, you missed your exit on a freeway (a controlled-access highway). May you back up on the shoulder to reach it?",
+      "o": [
+        "Yes, if your flashers are on",
+        "Yes, if traffic is light",
+        "Yes, for up to 100 feet",
+        "No, never on the shoulder or roadway"
+      ],
+      "h1": "The law has no exceptions for this kind of road.",
+      "h2": "In Colorado, you may never back up on the shoulder or roadway of a controlled-access highway; go on to the next exit.",
+      "p": "Right. Never back up on a freeway or its shoulder."
+    },
+    "es": {
+      "q": "En Colorado, se le pasó la salida en una autopista (carretera de acceso controlado). ¿Puede ir en reversa por el acotamiento para llegar a ella?",
+      "o": [
+        "Sí, con las luces intermitentes encendidas",
+        "Sí, si hay poco tráfico",
+        "Sí, hasta 100 pies",
+        "No, nunca en el acotamiento ni en la vía"
+      ],
+      "h1": "La ley no tiene excepciones para este tipo de carretera.",
+      "h2": "En Colorado, nunca puede ir en reversa por el acotamiento ni por la vía de una carretera de acceso controlado; siga hasta la próxima salida.",
+      "p": "Correcto. Nunca vaya en reversa en una autopista ni en su acotamiento."
+    }
+  },
+  {
+    "id": "co-192",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Colorado, may you drive your own car with a lamp in it that can show a red or blue light to the front?",
+      "o": [
+        "Yes, if it is turned off",
+        "Yes, if it is a small one",
+        "No, unless you are authorized",
+        "Yes, but only at night"
+      ],
+      "h1": "Those colors facing forward belong to emergency vehicles.",
+      "h2": "In Colorado, it is a misdemeanor to drive a vehicle that you know has a lamp able to show a red or blue light to the front, unless it is an emergency vehicle or you are authorized.",
+      "p": "Right. A red or blue front light is for authorized vehicles only."
+    },
+    "es": {
+      "q": "En Colorado, ¿puede manejar su propio carro con una lámpara que pueda mostrar luz roja o azul hacia el frente?",
+      "o": [
+        "Sí, si está apagada",
+        "Sí, si es pequeña",
+        "No, a menos que esté autorizado",
+        "Sí, pero solo de noche"
+      ],
+      "h1": "Esos colores hacia el frente son de los vehículos de emergencia.",
+      "h2": "En Colorado, es un delito menor manejar un vehículo que usted sabe que tiene una lámpara capaz de mostrar luz roja o azul hacia el frente, a menos que sea un vehículo de emergencia o usted esté autorizado.",
+      "p": "Correcto. La luz roja o azul hacia el frente es solo para vehículos autorizados."
+    }
+  },
+  {
+    "id": "co-193",
+    "scope": "CO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Colorado, a friend with no driver license asks to borrow your car. May you lend it?",
+      "o": [
+        "No, not to an unlicensed driver",
+        "Yes, for a short trip",
+        "Yes, if you ride along",
+        "Yes, if the friend is over 21"
+      ],
+      "h1": "The law looks at whether the other person holds a valid license.",
+      "h2": "In Colorado, you may not rent or lend a motor vehicle to a person who is not licensed to drive.",
+      "p": "Right. Never lend your car to an unlicensed driver."
+    },
+    "es": {
+      "q": "En Colorado, un amigo sin licencia de manejar le pide prestado su carro. ¿Puede prestárselo?",
+      "o": [
+        "No, no a un conductor sin licencia",
+        "Sí, para un viaje corto",
+        "Sí, si usted va con él",
+        "Sí, si el amigo tiene más de 21 años"
+      ],
+      "h1": "La ley se fija en si la otra persona tiene una licencia válida.",
+      "h2": "En Colorado, no puede alquilar ni prestar un vehículo a una persona que no tiene licencia para manejar.",
+      "p": "Correcto. Nunca preste su carro a un conductor sin licencia."
+    }
+  },
+  {
+    "id": "co-194",
+    "scope": "CO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Colorado, a parent knowingly lets a 15-year-old with an instruction permit drive alone. Is the parent breaking the law?",
+      "o": [
+        "No, the permit covers it",
+        "No, if the trip is short",
+        "Only the teen is breaking it",
+        "Yes, the parent commits a traffic infraction"
+      ],
+      "h1": "The law also holds parents responsible for a minor's permit limits.",
+      "h2": "In Colorado, a parent or guardian who knowingly lets a child under 18 drive without a valid license or permit, or against the permit's limits, commits a traffic infraction.",
+      "p": "Right. The parent is breaking the law too."
+    },
+    "es": {
+      "q": "En Colorado, un padre a sabiendas deja que su hijo de 15 años con permiso de aprendizaje maneje solo. ¿El padre está violando la ley?",
+      "o": [
+        "No, el permiso lo cubre",
+        "No, si el viaje es corto",
+        "Solo el adolescente la viola",
+        "Sí, el padre comete una infracción de tránsito"
+      ],
+      "h1": "La ley también hace responsables a los padres de los límites del permiso de un menor.",
+      "h2": "En Colorado, un padre o tutor que a sabiendas deja manejar a un hijo menor de 18 años sin licencia o permiso válido, o en contra de los límites del permiso, comete una infracción de tránsito.",
+      "p": "Correcto. El padre también está violando la ley."
+    }
+  },
+  {
+    "id": "co-195",
+    "scope": "CO",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Colorado, after a snowstorm, children want to sled down a quiet street. What does the law say?",
+      "o": [
+        "It is allowed on side streets",
+        "It is allowed if an adult watches",
+        "Using a roadway as a sled course is not allowed",
+        "It is allowed after dark only"
+      ],
+      "h1": "Roads are for traffic, unless they are set aside and marked for play.",
+      "h2": "In Colorado, it is unlawful to use a roadway as a sled or ski course, unless the street is set aside and roped off or marked for that use.",
+      "p": "Right. Sledding on a roadway is not allowed."
+    },
+    "es": {
+      "q": "En Colorado, después de una tormenta de nieve, unos niños quieren deslizarse en trineo por una calle tranquila. ¿Qué dice la ley?",
+      "o": [
+        "Se permite en calles secundarias",
+        "Se permite si un adulto los vigila",
+        "No se permite usar la vía como pista de trineo",
+        "Se permite solo de noche"
+      ],
+      "h1": "Las calles son para el tráfico, a menos que se aparten y marquen para jugar.",
+      "h2": "En Colorado, es ilegal usar una vía como pista de trineo o de esquí, a menos que la calle esté apartada y cerrada con cuerdas o marcada para ese uso.",
+      "p": "Correcto. No se permite deslizarse en trineo por la vía."
+    }
+  },
+  {
+    "id": "co-196",
+    "scope": "CO",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Colorado, what is the fine for a first ticket for driving alone in an HOV (carpool) lane when it is restricted?",
+      "o": [
+        "$15",
+        "$65",
+        "$500",
+        "$1,000"
+      ],
+      "h1": "It is less than $100.",
+      "h2": "In Colorado, a first violation of high occupancy vehicle (HOV) lane rules is a $65 fine; a third offense within 12 months is $125.",
+      "p": "Right. A first HOV lane violation is $65."
+    },
+    "es": {
+      "q": "En Colorado, ¿cuál es la multa por una primera infracción por manejar solo en un carril HOV (de vehículos compartidos) cuando está restringido?",
+      "o": [
+        "$15",
+        "$65",
+        "$500",
+        "$1,000"
+      ],
+      "h1": "Es menos de $100.",
+      "h2": "En Colorado, una primera infracción de las reglas del carril de alta ocupación (HOV) tiene una multa de $65; una tercera en 12 meses es de $125.",
+      "p": "Correcto. Una primera infracción en el carril HOV cuesta $65."
+    }
+  },
+  {
+    "id": "co-197",
+    "scope": "CO",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Colorado, may a motorcycle with only one rider use an HOV (carpool) lane?",
+      "o": [
+        "Yes, unless signs prohibit it",
+        "No, never",
+        "Only on weekends",
+        "Only with a passenger"
+      ],
+      "h1": "Federal and state law treat motorcycles in a special way here.",
+      "h2": "In Colorado, a motorcycle may use high occupancy vehicle (HOV) and toll lanes unless official signs prohibit it.",
+      "p": "Right. Motorcycles may use HOV lanes unless signs say no."
+    },
+    "es": {
+      "q": "En Colorado, ¿puede una motocicleta con un solo ocupante usar un carril HOV (de vehículos compartidos)?",
+      "o": [
+        "Sí, a menos que las señales lo prohíban",
+        "No, nunca",
+        "Solo los fines de semana",
+        "Solo con un pasajero"
+      ],
+      "h1": "La ley federal y la estatal tratan a las motocicletas de forma especial aquí.",
+      "h2": "En Colorado, una motocicleta puede usar los carriles de alta ocupación (HOV) y de peaje a menos que las señales oficiales lo prohíban.",
+      "p": "Correcto. Las motocicletas pueden usar los carriles HOV a menos que las señales lo prohíban."
+    }
+  },
+  {
+    "id": "co-198",
+    "scope": "CO",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Colorado, on a highway with a speed limit of 65 mph or more, what is the fine for cruising in the left lane when you are not passing?",
+      "o": [
+        "$15",
+        "$35",
+        "$500",
+        "$100"
+      ],
+      "h1": "It is a round number in the hundreds.",
+      "h2": "In Colorado, staying in the left passing lane on a 65 mph or faster highway when you are not passing or turning left brings a $100 fine.",
+      "p": "Right. The left-lane fine is $100."
+    },
+    "es": {
+      "q": "En Colorado, en una carretera con límite de 65 mph o más, ¿cuál es la multa por ir en el carril izquierdo sin estar rebasando?",
+      "o": [
+        "$15",
+        "$35",
+        "$500",
+        "$100"
+      ],
+      "h1": "Es un número redondo de cientos.",
+      "h2": "En Colorado, quedarse en el carril izquierdo de rebase en una carretera de 65 mph o más cuando no está rebasando ni girando a la izquierda tiene una multa de $100.",
+      "p": "Correcto. La multa del carril izquierdo es de $100."
+    }
+  },
+  {
+    "id": "co-199",
+    "scope": "CO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Colorado, outside city limits, a car left unattended on public property counts as abandoned after how long?",
+      "o": [
+        "2 hours",
+        "12 hours",
+        "48 hours",
+        "30 days"
+      ],
+      "h1": "It is two full days.",
+      "h2": "In Colorado, a vehicle left unattended on public property outside city or town limits for 48 hours or longer counts as abandoned and may be towed.",
+      "p": "Right. After 48 hours it counts as abandoned."
+    },
+    "es": {
+      "q": "En Colorado, fuera de los límites de una ciudad, ¿después de cuánto tiempo se considera abandonado un carro dejado solo en propiedad pública?",
+      "o": [
+        "2 horas",
+        "12 horas",
+        "48 horas",
+        "30 días"
+      ],
+      "h1": "Son dos días completos.",
+      "h2": "En Colorado, un vehículo dejado solo en propiedad pública fuera de los límites de una ciudad o pueblo por 48 horas o más se considera abandonado y puede ser remolcado.",
+      "p": "Correcto. Después de 48 horas se considera abandonado."
+    }
+  },
+  {
+    "id": "co-200",
+    "scope": "CO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Colorado, a load falls from your pickup truck because it was not secured, and no one is hurt. What is the base fine?",
+      "o": [
+        "$35",
+        "$100",
+        "$500",
+        "$15"
+      ],
+      "h1": "It is more than $50 but less than $200.",
+      "h2": "In Colorado, driving a car or pickup whose load is not secured or covered, without injuring anyone, brings a $100 fine plus a surcharge; if someone is hurt, it is a misdemeanor.",
+      "p": "Right. An unsecured load in a car or pickup costs $100."
+    },
+    "es": {
+      "q": "En Colorado, se cae la carga de su camioneta pickup porque no estaba asegurada, y nadie sale herido. ¿Cuál es la multa base?",
+      "o": [
+        "$35",
+        "$100",
+        "$500",
+        "$15"
+      ],
+      "h1": "Es más de $50, pero menos de $200.",
+      "h2": "En Colorado, manejar un carro o una pickup con la carga sin asegurar ni cubrir, sin herir a nadie, tiene una multa de $100 más un recargo; si alguien sale herido, es un delito menor.",
+      "p": "Correcto. Una carga sin asegurar en un carro o pickup cuesta $100."
+    }
+  },
+  {
+    "id": "co-201",
+    "scope": "CO",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Colorado, you are on a motorcycle and the traffic light stays red because it does not detect you. What may you do?",
+      "o": [
+        "Wait until a car arrives behind you",
+        "Go through at once without stopping",
+        "Turn around and leave",
+        "Treat it like a stop sign and go when safe"
+      ],
+      "h1": "The rules for a stop sign apply.",
+      "h2": "In Colorado, when a traffic signal does not detect a motorcycle, the rider treats it like a stop sign: stop, yield, and go when it is safe.",
+      "p": "Right. Treat it like a stop sign."
+    },
+    "es": {
+      "q": "En Colorado, usted va en motocicleta y el semáforo se queda en rojo porque no la detecta. ¿Qué puede hacer?",
+      "o": [
+        "Esperar a que llegue un carro detrás",
+        "Pasar de inmediato sin detenerse",
+        "Dar la vuelta e irse",
+        "Tratarlo como una señal de alto y avanzar cuando sea seguro"
+      ],
+      "h1": "Se aplican las reglas de una señal de alto.",
+      "h2": "En Colorado, cuando un semáforo no detecta una motocicleta, el motociclista lo trata como una señal de alto: se detiene, cede el paso y avanza cuando es seguro.",
+      "p": "Correcto. Trátelo como una señal de alto."
+    }
   }
 ]
