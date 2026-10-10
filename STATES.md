@@ -33,7 +33,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | MA | Massachusetts | 31 | 31 | 25 q, pass 18 (72%) | [link](https://www.mass.gov/doc/english-drivers-manual/download) | [link](https://www.mass.gov/files/documents/2019/09/02/Drivers_Manual_Spanish_0119_rev0819.pdf) | yes |
 | MD | Maryland | 31 | 31 | 25 q, pass 22 (88%) | [link](https://mva.maryland.gov/Documents/DL-002.pdf) | [link](https://mva.maryland.gov/media/143) | yes |
 | ME | Maine | 31 | 31 | 30 q, pass 24 (80%) | [link](https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf) | [link](https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Model%20Driver%20Manual_rev%2005_2025_Spanish_Final_1.pdf) | yes |
-| MI | Michigan | 31 | 31 | not found | [link](https://www.michigan.gov/sos/-/media/Project/Websites/sos/Resources/Forms-and-publications/WEDMK/WEDMK.pdf) | — | yes |
+| MI | Michigan | 51 | 51 | not found | [link](https://www.michigan.gov/sos/-/media/Project/Websites/sos/Resources/Forms-and-publications/WEDMK/WEDMK.pdf) | — | yes |
 | MN | Minnesota | 31 | 31 | ? q, pass ? (80%) | [link](https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-english.pdf) | [link](https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-spanish.pdf) | yes |
 | MO | Missouri | 31 | 31 | 25 q, pass 20 (80%) | [link](https://dor.mo.gov/forms/Driver%20Guide.pdf) | — | yes |
 | MS | Mississippi | 36 | 31 | 30 q, pass 24 (80%) | [link](https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf) | — | yes |
