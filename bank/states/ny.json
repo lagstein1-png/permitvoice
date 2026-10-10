@@ -8994,5 +8994,209 @@
       "h2": "En Nueva York, si el conductor está herido y no puede llenar el informe de choque, un pasajero o el dueño del vehículo lo puede hacer.",
       "p": "Correcto. Un pasajero o el dueño puede presentarlo."
     }
+  },
+  {
+    "id": "ny-195",
+    "scope": "NY",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 40,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, a school bus with flashing red lights is stopped in a school parking lot. What must you do?",
+      "o": [
+        "Drive past slowly, because the rule is only for public roads",
+        "Stop before you reach the bus, as you would on the road",
+        "Honk and then go around the bus",
+        "Stop only if a child is in front of you"
+      ],
+      "h1": "The school bus rule does not end at the edge of the street.",
+      "h2": "In New York, you must stop for a school bus with flashing red lights even in front of a school and in school parking lots.",
+      "p": "Right. The school bus stop rule also applies in school parking lots."
+    },
+    "es": {
+      "q": "En Nueva York, un autobús escolar con luces rojas intermitentes está detenido en el estacionamiento de una escuela. ¿Qué debe hacer usted?",
+      "o": [
+        "Pasar despacio, porque la regla es solo para calles públicas",
+        "Detenerse antes de llegar al autobús, igual que en la calle",
+        "Tocar la bocina y luego rodear el autobús",
+        "Detenerse solo si hay un niño delante de usted"
+      ],
+      "h1": "La regla del autobús escolar no termina en el borde de la calle.",
+      "h2": "En Nueva York, usted debe detenerse ante un autobús escolar con luces rojas intermitentes incluso frente a una escuela y en los estacionamientos escolares.",
+      "p": "Correcto. La regla de detenerse ante el autobús escolar también se aplica en los estacionamientos de las escuelas."
+    }
+  },
+  {
+    "id": "ny-196",
+    "scope": "NY",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 43,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, a sign says NO STOPPING. When may you stop there?",
+      "o": [
+        "To pick up or drop off a passenger",
+        "To load or unload goods",
+        "For up to 5 minutes if you stay in the car",
+        "Only to obey a sign, signal or officer, or to avoid a crash with another vehicle"
+      ],
+      "h1": "It is stricter than NO STANDING and NO PARKING.",
+      "h2": "In New York, at a NO STOPPING sign you may stop only to obey a traffic sign, signal or officer, or to avoid a conflict with another vehicle.",
+      "p": "Right. NO STOPPING allows a stop only for traffic control or to avoid a conflict."
+    },
+    "es": {
+      "q": "En Nueva York, un letrero dice NO STOPPING (no detenerse). ¿Cuándo puede detenerse allí?",
+      "o": [
+        "Para recoger o dejar a un pasajero",
+        "Para cargar o descargar mercancía",
+        "Hasta 5 minutos si se queda en el auto",
+        "Solo para obedecer una señal, un semáforo o a un agente, o para evitar un choque con otro vehículo"
+      ],
+      "h1": "Es más estricto que NO STANDING y NO PARKING.",
+      "h2": "En Nueva York, ante un letrero NO STOPPING usted puede detenerse solo para obedecer una señal de tránsito, un semáforo o a un agente, o para evitar un conflicto con otro vehículo.",
+      "p": "Correcto. NO STOPPING permite detenerse solo por el control del tránsito o para evitar un conflicto."
+    }
+  },
+  {
+    "id": "ny-197",
+    "scope": "NY",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 43,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, where does state law forbid you to park, stop or stand, even if there is no sign?",
+      "o": [
+        "On a bridge or in a tunnel",
+        "On any street with a bus stop",
+        "On a one-way street",
+        "Within 100 feet of a school"
+      ],
+      "h1": "Think of places where a stopped car has no way around it.",
+      "h2": "In New York, state law says you may not park, stop or stand on a bridge or in a tunnel, even where no sign says so.",
+      "p": "Right. No parking, stopping or standing on a bridge or in a tunnel."
+    },
+    "es": {
+      "q": "En Nueva York, ¿dónde prohíbe la ley estatal estacionarse, detenerse o pararse, aunque no haya letrero?",
+      "o": [
+        "En un puente o en un túnel",
+        "En cualquier calle con parada de autobús",
+        "En una calle de un solo sentido",
+        "A menos de 100 pies de una escuela"
+      ],
+      "h1": "Piense en lugares donde no hay forma de rodear un auto detenido.",
+      "h2": "En Nueva York, la ley estatal dice que usted no puede estacionarse, detenerse ni pararse en un puente o en un túnel, aunque no haya letrero.",
+      "p": "Correcto. No se puede estacionar, detener ni parar en un puente o en un túnel."
+    }
+  },
+  {
+    "id": "ny-198",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 24,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, you move here from another state with your car. How soon must you get a New York registration for it?",
+      "o": [
+        "Within 10 days",
+        "Within 1 year",
+        "Within 30 days of becoming a resident",
+        "When your old registration expires"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In New York, a new resident must get a New York registration within 30 days of becoming a resident.",
+      "p": "Right. A new resident must register the vehicle within 30 days."
+    },
+    "es": {
+      "q": "En Nueva York, usted se muda aquí desde otro estado con su auto. ¿En cuánto tiempo debe obtener un registro de Nueva York para el auto?",
+      "o": [
+        "En 10 días",
+        "En 1 año",
+        "En 30 días desde que se hace residente",
+        "Cuando venza su registro anterior"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Nueva York, un nuevo residente debe obtener el registro de Nueva York dentro de los 30 días después de hacerse residente.",
+      "p": "Correcto. Un nuevo residente debe registrar el vehículo en 30 días."
+    }
+  },
+  {
+    "id": "ny-199",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 58,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, a driver is convicted of DWI for the second time within 10 years. What kind of crime is it?",
+      "o": [
+        "A traffic infraction",
+        "A Class E felony",
+        "A violation with no jail possible",
+        "A misdemeanor, the same as the first time"
+      ],
+      "h1": "The first offense is a misdemeanor; the second is more serious.",
+      "h2": "In New York, a second DWI conviction within 10 years is a Class E felony, with up to 4 years in prison.",
+      "p": "Right. A second DWI within 10 years is a felony."
+    },
+    "es": {
+      "q": "En Nueva York, un conductor es condenado por DWI por segunda vez en 10 años. ¿Qué tipo de delito es?",
+      "o": [
+        "Una infracción de tránsito",
+        "Un delito grave (felony) Clase E",
+        "Una falta sin posibilidad de cárcel",
+        "Un delito menor (misdemeanor), igual que la primera vez"
+      ],
+      "h1": "La primera vez es un delito menor; la segunda es más grave.",
+      "h2": "En Nueva York, una segunda condena por DWI en 10 años es un delito grave (felony) Clase E, con hasta 4 años de prisión.",
+      "p": "Correcto. Un segundo DWI en 10 años es un delito grave."
+    }
+  },
+  {
+    "id": "ny-200",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 77,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, after a crash, electric wires are down and touching a car. What should the people inside do?",
+      "o": [
+        "Get out fast and run away",
+        "Touch the wires to move them away",
+        "Push the car off the wires",
+        "Stay inside the car until help arrives"
+      ],
+      "h1": "Do not go near the wires, and do not step out onto them.",
+      "h2": "In New York, if downed wires touch a vehicle or lie near it, the people inside should stay in the vehicle until help arrives.",
+      "p": "Right. Stay inside until help arrives, and keep away from the wires."
+    },
+    "es": {
+      "q": "En Nueva York, después de un choque, hay cables eléctricos caídos que tocan un auto. ¿Qué deben hacer las personas que están adentro?",
+      "o": [
+        "Salir rápido y correr",
+        "Tocar los cables para apartarlos",
+        "Empujar el auto para sacarlo de los cables",
+        "Quedarse dentro del auto hasta que llegue ayuda"
+      ],
+      "h1": "No se acerque a los cables ni pise sobre ellos.",
+      "h2": "En Nueva York, si hay cables caídos que tocan un vehículo o están cerca, las personas adentro deben quedarse en el vehículo hasta que llegue ayuda.",
+      "p": "Correcto. Quédese adentro hasta que llegue ayuda y aléjese de los cables."
+    }
   }
 ]
