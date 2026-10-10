@@ -2983,6 +2983,54 @@
       "h1": "Es 10 mph menos que en una carretera de cuatro carriles.",
       "h2": "En Mississippi, la velocidad máxima habitual en una carretera estatal o federal de dos carriles es de 55 mph.",
       "p": "Correcto. Las carreteras de dos carriles suelen tener un límite de 55 mph."
+    },
+    "zh": {
+      "q": "在 Mississippi，如果没有标志显示其他限速，双车道的州公路或美国国道（U.S. highway）通常的最高速度是多少？",
+      "o": [
+        "55 英里/小时",
+        "45 英里/小时",
+        "65 英里/小时",
+        "70 英里/小时"
+      ],
+      "h1": "它比四车道公路低 10 英里/小时。",
+      "h2": "在 Mississippi，双车道的州公路或美国国道通常的最高速度是 55 英里/小时。",
+      "p": "对。双车道公路通常限速 55 英里/小时。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, tốc độ tối đa thông thường trên xa lộ tiểu bang hoặc xa lộ liên bang Hoa Kỳ (U.S. highway) có hai làn xe là bao nhiêu, trừ khi biển báo cho thấy giới hạn khác?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "Nó thấp hơn 10 mph so với trên xa lộ bốn làn xe.",
+      "h2": "Ở Mississippi, tốc độ tối đa thông thường trên xa lộ tiểu bang hoặc U.S. highway có hai làn xe là 55 mph.",
+      "p": "Đúng. Xa lộ hai làn xe thường có giới hạn 55 mph."
+    },
+    "tl": {
+      "q": "Sa Mississippi, ano ang karaniwang pinakamataas na bilis sa two-lane na state o U.S. highway, maliban kung may sign na nagpapakita ng ibang limit?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "Mas mababa ito nang 10 mph kaysa sa four-lane na highway.",
+      "h2": "Sa Mississippi, ang karaniwang pinakamataas na bilis sa two-lane na state o U.S. highway ay 55 mph.",
+      "p": "Tama. Karaniwang 55 mph ang limit sa two-lane na highway."
+    },
+    "ar": {
+      "q": "في Mississippi، ما السرعة القصوى المعتادة على طريق سريع للولاية أو طريق سريع أمريكي (U.S. highway) ذي مسارين، ما لم تُظهر اللافتات حدًا مختلفًا؟",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "إنها أقل بمقدار 10 mph من السرعة على طريق سريع ذي أربعة مسارات.",
+      "h2": "في Mississippi، السرعة القصوى المعتادة على طريق سريع للولاية أو طريق سريع أمريكي ذي مسارين هي 55 mph.",
+      "p": "صحيح. الحد المعتاد على الطرق السريعة ذات المسارين هو 55 mph."
     }
   },
   {
@@ -3017,6 +3065,54 @@
       "h1": "Es más lenta que en una carretera normal de dos carriles.",
       "h2": "En Mississippi, la velocidad máxima en el Natchez Trace Parkway es de 50 mph, a menos que se indique un límite más bajo.",
       "p": "Correcto. El límite en el Natchez Trace Parkway es de 50 mph."
+    },
+    "zh": {
+      "q": "在 Mississippi，如果没有标出更低的限速，Natchez Trace Parkway 上的最高速度是多少？",
+      "o": [
+        "40 英里/小时",
+        "50 英里/小时",
+        "60 英里/小时",
+        "70 英里/小时"
+      ],
+      "h1": "它比普通双车道公路慢。",
+      "h2": "在 Mississippi，Natchez Trace Parkway 上的最高速度是 50 英里/小时，除非标出了更低的限速。",
+      "p": "对。Natchez Trace Parkway 的限速是 50 英里/小时。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, tốc độ tối đa trên Natchez Trace Parkway là bao nhiêu, trừ khi có biển báo giới hạn thấp hơn?",
+      "o": [
+        "40 mph",
+        "50 mph",
+        "60 mph",
+        "70 mph"
+      ],
+      "h1": "Nó chậm hơn so với xa lộ hai làn xe thông thường.",
+      "h2": "Ở Mississippi, tốc độ tối đa trên Natchez Trace Parkway là 50 mph, trừ khi có biển báo giới hạn thấp hơn.",
+      "p": "Đúng. Giới hạn trên Natchez Trace Parkway là 50 mph."
+    },
+    "tl": {
+      "q": "Sa Mississippi, ano ang pinakamataas na bilis sa Natchez Trace Parkway, maliban kung may nakapaskil na mas mababang limit?",
+      "o": [
+        "40 mph",
+        "50 mph",
+        "60 mph",
+        "70 mph"
+      ],
+      "h1": "Mas mabagal ito kaysa sa karaniwang two-lane na highway.",
+      "h2": "Sa Mississippi, ang pinakamataas na bilis sa Natchez Trace Parkway ay 50 mph, maliban kung may nakapaskil na mas mababang limit.",
+      "p": "Tama. 50 mph ang limit sa Natchez Trace Parkway."
+    },
+    "ar": {
+      "q": "في Mississippi، ما السرعة القصوى على طريق Natchez Trace Parkway، ما لم يُعلَن عن حد أقل؟",
+      "o": [
+        "40 mph",
+        "50 mph",
+        "60 mph",
+        "70 mph"
+      ],
+      "h1": "إنها أبطأ من طريق سريع عادي ذي مسارين.",
+      "h2": "في Mississippi، السرعة القصوى على طريق Natchez Trace Parkway هي 50 mph، ما لم يُعلَن عن حد أقل.",
+      "p": "صحيح. الحد على طريق Natchez Trace Parkway هو 50 mph."
     }
   },
   {
@@ -3051,6 +3147,54 @@
       "h1": "Es más o menos el ancho de dos carros.",
       "h2": "En Mississippi, no puede estacionarse a menos de 10 pies de un hidrante.",
       "p": "Correcto. Quédese por lo menos a 10 pies de un hidrante."
+    },
+    "zh": {
+      "q": "在 Mississippi，你可以在离消防栓多近的地方停车？",
+      "o": [
+        "不能近于 3 英尺",
+        "不能近于 50 英尺",
+        "不能近于 10 英尺",
+        "不能近于 100 英尺"
+      ],
+      "h1": "大约是两辆车的宽度。",
+      "h2": "在 Mississippi，你不可以在消防栓 10 英尺以内停车。",
+      "p": "对。要离消防栓至少 10 英尺。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, bạn được đỗ xe gần trụ nước cứu hỏa đến mức nào?",
+      "o": [
+        "Không gần hơn 3 feet",
+        "Không gần hơn 50 feet",
+        "Không gần hơn 10 feet",
+        "Không gần hơn 100 feet"
+      ],
+      "h1": "Khoảng bằng chiều ngang của hai chiếc xe.",
+      "h2": "Ở Mississippi, bạn không được đỗ xe trong vòng 10 feet tính từ trụ nước cứu hỏa.",
+      "p": "Đúng. Hãy cách trụ nước cứu hỏa ít nhất 10 feet."
+    },
+    "tl": {
+      "q": "Sa Mississippi, gaano kalapit sa fire hydrant ka puwedeng mag-park?",
+      "o": [
+        "Hindi mas malapit sa 3 feet",
+        "Hindi mas malapit sa 50 feet",
+        "Hindi mas malapit sa 10 feet",
+        "Hindi mas malapit sa 100 feet"
+      ],
+      "h1": "Mga kasing-lapad ito ng dalawang kotse.",
+      "h2": "Sa Mississippi, hindi ka puwedeng mag-park sa loob ng 10 feet mula sa fire hydrant.",
+      "p": "Tama. Lumayo nang hindi bababa sa 10 feet mula sa fire hydrant."
+    },
+    "ar": {
+      "q": "في Mississippi، إلى أي مدى يمكنك أن تركن قرب صنبور إطفاء الحريق؟",
+      "o": [
+        "ليس أقرب من 3 feet",
+        "ليس أقرب من 50 feet",
+        "ليس أقرب من 10 feet",
+        "ليس أقرب من 100 feet"
+      ],
+      "h1": "إنها تقريبًا عرض سيارتين.",
+      "h2": "في Mississippi، يجب ألّا تركن سيارتك على بعد أقل من 10 feet من صنبور إطفاء الحريق.",
+      "p": "صحيح. ابقَ على بعد 10 feet على الأقل من صنبور إطفاء الحريق."
     }
   },
   {
@@ -3085,6 +3229,54 @@
       "h1": "Es la misma distancia que desde un cruce peatonal en una intersección.",
       "h2": "En Mississippi, no puede estacionarse a menos de 20 pies de la entrada de una estación de bomberos, o a menos de 75 pies si una señal lo indica.",
       "p": "Correcto. Quédese por lo menos a 20 pies de la entrada de una estación de bomberos, o a 75 pies donde haya señal."
+    },
+    "zh": {
+      "q": "在 Mississippi，没有标志时，你可以在离消防站车道入口多近的地方停车？",
+      "o": [
+        "不能近于 5 英尺",
+        "不能近于 100 英尺",
+        "不能近于 500 英尺",
+        "不能近于 20 英尺"
+      ],
+      "h1": "它和在路口离人行横道的距离一样。",
+      "h2": "在 Mississippi，你不可以在消防站车道 20 英尺以内停车；如果有标志，就是 75 英尺以内。",
+      "p": "对。要离消防站车道至少 20 英尺；有标志的地方是 75 英尺。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, không có biển báo. Bạn được đỗ xe gần lối xe ra vào của trạm cứu hỏa đến mức nào?",
+      "o": [
+        "Không gần hơn 5 feet",
+        "Không gần hơn 100 feet",
+        "Không gần hơn 500 feet",
+        "Không gần hơn 20 feet"
+      ],
+      "h1": "Khoảng cách này bằng khoảng cách từ lối qua đường dành cho người đi bộ ở giao lộ.",
+      "h2": "Ở Mississippi, bạn không được đỗ xe trong vòng 20 feet tính từ lối xe ra vào của trạm cứu hỏa, hoặc trong vòng 75 feet nếu có biển báo.",
+      "p": "Đúng. Hãy cách lối xe ra vào của trạm cứu hỏa ít nhất 20 feet, hoặc 75 feet nếu có biển báo."
+    },
+    "tl": {
+      "q": "Sa Mississippi, walang sign. Gaano kalapit sa pasukan ng driveway ng fire station ka puwedeng mag-park?",
+      "o": [
+        "Hindi mas malapit sa 5 feet",
+        "Hindi mas malapit sa 100 feet",
+        "Hindi mas malapit sa 500 feet",
+        "Hindi mas malapit sa 20 feet"
+      ],
+      "h1": "Kapareho ito ng layo mula sa crosswalk sa isang intersection.",
+      "h2": "Sa Mississippi, hindi ka puwedeng mag-park sa loob ng 20 feet mula sa driveway ng fire station, o sa loob ng 75 feet kung may sign na nagsasabi nito.",
+      "p": "Tama. Lumayo nang hindi bababa sa 20 feet mula sa driveway ng fire station, o 75 feet kung may nakapaskil."
+    },
+    "ar": {
+      "q": "في Mississippi، لا توجد لافتة. إلى أي مدى يمكنك أن تركن قرب مدخل ممر سيارات محطة الإطفاء؟",
+      "o": [
+        "ليس أقرب من 5 feet",
+        "ليس أقرب من 100 feet",
+        "ليس أقرب من 500 feet",
+        "ليس أقرب من 20 feet"
+      ],
+      "h1": "إنها نفس المسافة من ممر المشاة عند التقاطع.",
+      "h2": "في Mississippi، يجب ألّا تركن على بعد أقل من 20 feet من ممر سيارات محطة الإطفاء، أو أقل من 75 feet إذا كانت هناك لافتة تقول ذلك.",
+      "p": "صحيح. ابقَ على بعد 20 feet على الأقل من ممر سيارات محطة الإطفاء، أو 75 feet حيث توجد لافتة."
     }
   },
   {
@@ -3119,6 +3311,54 @@
       "h1": "Es más que la distancia desde un cruce peatonal, pero menos de 50 pies.",
       "h2": "En Mississippi, no puede estacionarse a menos de 30 pies antes de una señal de alto, un semáforo u otro dispositivo de control de tráfico.",
       "p": "Correcto. Quédese por lo menos a 30 pies antes de una señal de alto o un semáforo."
+    },
+    "zh": {
+      "q": "在 Mississippi，你可以在离你这一侧道路上的停车标志或红绿灯多近的地方停车？",
+      "o": [
+        "不能近于 5 英尺",
+        "不能近于 30 英尺",
+        "不能近于 200 英尺",
+        "不能近于 500 英尺"
+      ],
+      "h1": "它比离人行横道的距离远，但少于 50 英尺。",
+      "h2": "在 Mississippi，你不可以在停车标志、红绿灯或其他交通控制设施前方 30 英尺以内停车。",
+      "p": "对。要在停车标志或红绿灯前至少 30 英尺的地方停车。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, bạn được đỗ xe gần biển báo dừng hoặc đèn giao thông ở phía đường của bạn đến mức nào?",
+      "o": [
+        "Không gần hơn 5 feet",
+        "Không gần hơn 30 feet",
+        "Không gần hơn 200 feet",
+        "Không gần hơn 500 feet"
+      ],
+      "h1": "Nó xa hơn khoảng cách từ lối qua đường dành cho người đi bộ, nhưng ít hơn 50 feet.",
+      "h2": "Ở Mississippi, bạn không được đỗ xe trong vòng 30 feet trước biển báo dừng, đèn giao thông hoặc thiết bị điều khiển giao thông khác.",
+      "p": "Đúng. Hãy cách biển báo dừng hoặc đèn giao thông ít nhất 30 feet."
+    },
+    "tl": {
+      "q": "Sa Mississippi, gaano kalapit sa stop sign o traffic light sa iyong panig ng kalsada ka puwedeng mag-park?",
+      "o": [
+        "Hindi mas malapit sa 5 feet",
+        "Hindi mas malapit sa 30 feet",
+        "Hindi mas malapit sa 200 feet",
+        "Hindi mas malapit sa 500 feet"
+      ],
+      "h1": "Mas malayo ito kaysa sa layo mula sa crosswalk, pero kulang sa 50 feet.",
+      "h2": "Sa Mississippi, hindi ka puwedeng mag-park sa loob ng 30 feet bago ang stop sign, traffic light o iba pang traffic control device.",
+      "p": "Tama. Lumayo nang hindi bababa sa 30 feet bago ang stop sign o traffic light."
+    },
+    "ar": {
+      "q": "في Mississippi، إلى أي مدى يمكنك أن تركن قرب لافتة توقف أو إشارة مرور على جانبك من الطريق؟",
+      "o": [
+        "ليس أقرب من 5 feet",
+        "ليس أقرب من 30 feet",
+        "ليس أقرب من 200 feet",
+        "ليس أقرب من 500 feet"
+      ],
+      "h1": "إنها أكثر من المسافة من ممر المشاة، لكنها أقل من 50 feet.",
+      "h2": "في Mississippi، يجب ألّا تركن على بعد أقل من 30 feet قبل لافتة التوقف أو إشارة المرور أو أي جهاز آخر لتنظيم المرور.",
+      "p": "صحيح. ابقَ على بعد 30 feet على الأقل قبل لافتة التوقف أو إشارة المرور."
     }
   },
   {
@@ -3153,6 +3393,54 @@
       "h1": "Es más o menos el largo de una regla.",
       "h2": "En Mississippi, cuando se estaciona en paralelo, sus llantas deben quedar a 12 pulgadas o menos del borde de la acera.",
       "p": "Correcto. Estaciónese con las llantas a 12 pulgadas o menos del borde."
+    },
+    "zh": {
+      "q": "在 Mississippi，你平行停车时，轮胎应该离路边多近？",
+      "o": [
+        "12 英寸以内",
+        "24 英寸以内",
+        "3 英尺以内",
+        "5 英尺以内"
+      ],
+      "h1": "大约是一把尺子的长度。",
+      "h2": "在 Mississippi，你平行停车时，轮胎应该在离路边 12 英寸以内。",
+      "p": "对。停车时轮胎要在离路边 12 英寸以内。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, khi bạn đỗ xe song song, bánh xe nên cách lề đường bao xa?",
+      "o": [
+        "Trong vòng 12 inches",
+        "Trong vòng 24 inches",
+        "Trong vòng 3 feet",
+        "Trong vòng 5 feet"
+      ],
+      "h1": "Khoảng bằng chiều dài một cây thước kẻ.",
+      "h2": "Ở Mississippi, khi bạn đỗ xe song song, bánh xe của bạn nên cách lề đường trong vòng 12 inches.",
+      "p": "Đúng. Đỗ xe sao cho bánh xe cách lề đường trong vòng 12 inches."
+    },
+    "tl": {
+      "q": "Sa Mississippi, kapag nag-parallel park ka, gaano kalapit sa curb dapat ang iyong mga gulong?",
+      "o": [
+        "Sa loob ng 12 inches",
+        "Sa loob ng 24 inches",
+        "Sa loob ng 3 feet",
+        "Sa loob ng 5 feet"
+      ],
+      "h1": "Mga kasinghaba ito ng isang ruler.",
+      "h2": "Sa Mississippi, kapag nag-parallel park ka, dapat nasa loob ng 12 inches mula sa curb ang iyong mga gulong.",
+      "p": "Tama. Mag-park nang nasa loob ng 12 inches mula sa curb ang iyong mga gulong."
+    },
+    "ar": {
+      "q": "في Mississippi، عندما تركن بشكل موازٍ، كم يجب أن تكون إطاراتك قريبة من الرصيف؟",
+      "o": [
+        "ضمن 12 inches",
+        "ضمن 24 inches",
+        "ضمن 3 feet",
+        "ضمن 5 feet"
+      ],
+      "h1": "إنها تقريبًا طول مسطرة.",
+      "h2": "في Mississippi، عندما تركن بشكل موازٍ، يجب أن تكون إطاراتك ضمن 12 inches من الرصيف.",
+      "p": "صحيح. اركن بحيث تكون إطاراتك ضمن 12 inches من الرصيف."
     }
   },
   {
@@ -3187,6 +3475,54 @@
       "h1": "Una licencia válida de otro estado le permite saltarse un examen. Una vencida, no.",
       "h2": "En Mississippi, si su licencia de otro estado venció hace más de 30 días, usted debe tomar el examen por computadora.",
       "p": "Correcto. Con una licencia vencida hace más de 30 días, usted toma el examen por computadora."
+    },
+    "zh": {
+      "q": "在 Mississippi，你搬到这里，而你的外州驾照已经过期超过 30 天。你必须做什么？",
+      "o": [
+        "和一般新居民一样，不需要做别的",
+        "只考路考",
+        "持有学习驾照一年",
+        "参加电脑知识考试"
+      ],
+      "h1": "有效的外州驾照可以让你免考一项考试。过期的驾照就不行。",
+      "h2": "在 Mississippi，如果你的外州驾照已经过期超过 30 天，你必须参加电脑考试。",
+      "p": "对。驾照过期超过 30 天，就要参加电脑考试。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, bạn chuyển đến đây và bằng lái của tiểu bang khác đã hết hạn hơn 30 ngày. Bạn phải làm gì?",
+      "o": [
+        "Không cần làm gì hơn một cư dân mới bình thường",
+        "Chỉ thi lái xe trên đường",
+        "Giữ giấy phép tập lái trong một năm",
+        "Thi kiến thức trên máy tính"
+      ],
+      "h1": "Bằng lái còn hạn của tiểu bang khác giúp bạn được miễn một bài thi. Bằng đã hết hạn thì không.",
+      "h2": "Ở Mississippi, nếu bằng lái của tiểu bang khác đã hết hạn hơn 30 ngày, bạn phải thi trên máy tính.",
+      "p": "Đúng. Bằng lái hết hạn hơn 30 ngày nghĩa là bạn phải thi trên máy tính."
+    },
+    "tl": {
+      "q": "Sa Mississippi, lumipat ka rito at ang iyong out-of-state na license ay nag-expire nang higit sa 30 araw na ang nakalipas. Ano ang dapat mong gawin?",
+      "o": [
+        "Wala nang iba kundi ang ginagawa ng karaniwang bagong residente",
+        "Kumuha lang ng driving road test",
+        "Hawakan ang learner's permit nang isang taon",
+        "Kumuha ng computerized knowledge exam"
+      ],
+      "h1": "Dahil sa valid na out-of-state na license, puwede kang hindi kumuha ng isang test. Hindi ganoon kapag expired na ito.",
+      "h2": "Sa Mississippi, kung nag-expire ang iyong out-of-state na license nang higit sa 30 araw na ang nakalipas, dapat kang kumuha ng computerized exam.",
+      "p": "Tama. Kapag expired nang higit sa 30 araw ang license, kukuha ka ng computerized exam."
+    },
+    "ar": {
+      "q": "في Mississippi، انتقلت إلى هنا، ورخصتك من ولاية أخرى انتهت صلاحيتها منذ أكثر من 30 يومًا. ماذا يجب أن تفعل؟",
+      "o": [
+        "لا شيء أكثر مما يفعله أي مقيم جديد عادي",
+        "تؤدي اختبار القيادة على الطريق فقط",
+        "تحمل تصريح تعلّم القيادة لمدة سنة",
+        "تؤدي اختبار المعرفة على الكمبيوتر"
+      ],
+      "h1": "الرخصة السارية من ولاية أخرى تعفيك من اختبار واحد. أما الرخصة المنتهية فلا تعفيك.",
+      "h2": "في Mississippi، إذا انتهت صلاحية رخصتك من ولاية أخرى منذ أكثر من 30 يومًا، فيجب أن تؤدي الاختبار على الكمبيوتر.",
+      "p": "صحيح. الرخصة المنتهية منذ أكثر من 30 يومًا تعني أن تؤدي الاختبار على الكمبيوتر."
     }
   },
   {
@@ -3221,6 +3557,54 @@
       "h1": "Es el mismo tiempo que dura el permiso de aprendiz.",
       "h2": "En Mississippi, el resultado aprobado del examen por computadora es válido por dos años.",
       "p": "Correcto. Su resultado del examen es válido por dos años."
+    },
+    "zh": {
+      "q": "在 Mississippi，你通过了学习驾照的电脑考试。这个及格成绩有效多久？",
+      "o": [
+        "六个月",
+        "一年",
+        "两年",
+        "十年"
+      ],
+      "h1": "它和学习驾照的有效时间一样长。",
+      "h2": "在 Mississippi，电脑考试的及格成绩有效期是两年。",
+      "p": "对。你的考试成绩两年内有效。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, bạn đã đậu bài thi trên máy tính để lấy giấy phép tập lái. Điểm đậu đó có giá trị trong bao lâu?",
+      "o": [
+        "Sáu tháng",
+        "Một năm",
+        "Hai năm",
+        "Mười năm"
+      ],
+      "h1": "Đó là cùng khoảng thời gian giấy phép tập lái có hiệu lực.",
+      "h2": "Ở Mississippi, điểm đậu bài thi trên máy tính có giá trị trong hai năm.",
+      "p": "Đúng. Điểm thi của bạn có giá trị trong hai năm."
+    },
+    "tl": {
+      "q": "Sa Mississippi, pumasa ka sa computerized exam para sa iyong learner's permit. Gaano katagal valid ang pumasang score na iyon?",
+      "o": [
+        "Anim na buwan",
+        "Isang taon",
+        "Dalawang taon",
+        "Sampung taon"
+      ],
+      "h1": "Kasinghaba ito ng panahong valid ang learner's permit.",
+      "h2": "Sa Mississippi, valid nang dalawang taon ang pumasang score sa computerized exam.",
+      "p": "Tama. Valid nang dalawang taon ang iyong exam score."
+    },
+    "ar": {
+      "q": "في Mississippi، نجحت في الاختبار على الكمبيوتر للحصول على تصريح تعلّم القيادة. كم تبقى نتيجة النجاح هذه صالحة؟",
+      "o": [
+        "ستة أشهر",
+        "سنة واحدة",
+        "سنتان",
+        "عشر سنوات"
+      ],
+      "h1": "إنها نفس المدة التي يكون فيها تصريح تعلّم القيادة صالحًا.",
+      "h2": "في Mississippi، تبقى نتيجة النجاح في الاختبار على الكمبيوتر صالحة لمدة سنتين.",
+      "p": "صحيح. تبقى نتيجة اختبارك صالحة لمدة سنتين."
     }
   },
   {
@@ -3255,6 +3639,54 @@
       "h1": "Cumplir 17 años cambia la regla de espera.",
       "h2": "En Mississippi, si usted cumple 17 años antes de tener el permiso de aprendiz por un año, puede solicitar una licencia regular.",
       "p": "Correcto. A los 17 años, ya no aplica la espera de un año."
+    },
+    "zh": {
+      "q": "在 Mississippi，一名青少年 16 岁拿到学习驾照。他还没持有满一年就满 17 岁了。哪一项是对的？",
+      "o": [
+        "这名青少年现在可以申请普通驾照",
+        "这名青少年仍然必须等满一年",
+        "这名青少年必须重新拿一张学习驾照",
+        "这名青少年必须等到 18 岁"
+      ],
+      "h1": "17 岁会改变等待的规定。",
+      "h2": "在 Mississippi，如果你在持有学习驾照满一年之前就满 17 岁，你可以申请普通驾照。",
+      "p": "对。满 17 岁时，就不用再等一年了。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, một thiếu niên được cấp giấy phép tập lái lúc 16 tuổi. Thiếu niên đó tròn 17 tuổi trước khi giữ giấy phép đủ một năm. Điều nào đúng?",
+      "o": [
+        "Thiếu niên đó có thể nộp đơn xin bằng lái thông thường ngay bây giờ",
+        "Thiếu niên đó vẫn phải chờ đủ một năm",
+        "Thiếu niên đó phải xin giấy phép tập lái mới",
+        "Thiếu niên đó phải chờ đến 18 tuổi"
+      ],
+      "h1": "Tuổi 17 làm thay đổi quy định về thời gian chờ.",
+      "h2": "Ở Mississippi, nếu bạn tròn 17 tuổi trước khi giữ giấy phép tập lái đủ một năm, bạn có thể nộp đơn xin bằng lái thông thường.",
+      "p": "Đúng. Khi 17 tuổi, không còn phải chờ một năm nữa."
+    },
+    "tl": {
+      "q": "Sa Mississippi, nakakuha ang isang teen ng learner's permit sa edad na 16. Nag-17 ang teen bago pa nito mahawakan ang permit nang buong isang taon. Ano ang totoo?",
+      "o": [
+        "Puwede nang mag-apply ang teen ng regular na license ngayon",
+        "Kailangan pa ring hintayin ng teen ang buong taon",
+        "Kailangang kumuha ang teen ng bagong learner's permit",
+        "Kailangang maghintay ang teen hanggang edad 18"
+      ],
+      "h1": "Binabago ng edad na 17 ang patakaran sa paghihintay.",
+      "h2": "Sa Mississippi, kung mag-17 ka bago mo mahawakan ang learner's permit nang isang taon, puwede ka nang mag-apply ng regular na license.",
+      "p": "Tama. Sa edad na 17, hindi na kailangan ang isang taong paghihintay."
+    },
+    "ar": {
+      "q": "في Mississippi، حصل مراهق على تصريح تعلّم القيادة في سن 16. وبلغ سن 17 قبل أن يحمله لمدة سنة كاملة. ما الصحيح؟",
+      "o": [
+        "يمكن للمراهق أن يتقدم الآن بطلب للحصول على رخصة عادية",
+        "يجب على المراهق أن ينتظر السنة الكاملة رغم ذلك",
+        "يجب على المراهق أن يحصل على تصريح تعلّم جديد",
+        "يجب على المراهق أن ينتظر حتى سن 18"
+      ],
+      "h1": "سن 17 يغيّر قاعدة الانتظار.",
+      "h2": "في Mississippi، إذا بلغت سن 17 قبل أن تحمل تصريح تعلّم القيادة لمدة سنة واحدة، يمكنك أن تتقدم بطلب للحصول على رخصة عادية.",
+      "p": "صحيح. في سن 17، لم تعد مدة الانتظار البالغة سنة واحدة تنطبق."
     }
   },
   {
@@ -3289,6 +3721,54 @@
       "h1": "Debe tener más o menos un mes o menos.",
       "h2": "En Mississippi, el Certificado de Asistencia escolar de un solicitante menor de 18 años no debe tener más de 30 días.",
       "p": "Correcto. El formulario de asistencia debe tener 30 días o menos."
+    },
+    "zh": {
+      "q": "在 Mississippi，一位未满 18 岁的申请人带来学校开的出勤证明（Certification of Attendance）。这份表格最多可以是多久以前开的？",
+      "o": [
+        "不超过 1 年",
+        "不超过 30 天",
+        "不超过 6 个月",
+        "多久都可以，只要有签名"
+      ],
+      "h1": "它必须是大约一个月内开的。",
+      "h2": "在 Mississippi，未满 18 岁申请人的学校出勤证明不能超过 30 天。",
+      "p": "对。出勤证明必须是 30 天内开的。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, một người nộp đơn dưới 18 tuổi mang theo Giấy chứng nhận đi học (Certification of Attendance) của trường. Giấy này được cấp tối đa bao lâu trước đó?",
+      "o": [
+        "Không quá 1 năm",
+        "Không quá 30 ngày",
+        "Không quá 6 tháng",
+        "Bao lâu cũng được, nếu có chữ ký"
+      ],
+      "h1": "Giấy phải được cấp trong khoảng một tháng trở lại đây.",
+      "h2": "Ở Mississippi, Giấy chứng nhận đi học của trường cho người nộp đơn dưới 18 tuổi không được cấp quá 30 ngày.",
+      "p": "Đúng. Giấy chứng nhận đi học phải được cấp trong vòng 30 ngày."
+    },
+    "tl": {
+      "q": "Sa Mississippi, nagdala ang isang aplikanteng wala pang 18 ng Certification of Attendance mula sa paaralan. Gaano na katagal puwede ang form na iyon?",
+      "o": [
+        "Hindi hihigit sa 1 taon",
+        "Hindi hihigit sa 30 araw",
+        "Hindi hihigit sa 6 na buwan",
+        "Kahit gaano katagal, basta may pirma"
+      ],
+      "h1": "Dapat mga isang buwan pa lang ito o mas bago.",
+      "h2": "Sa Mississippi, ang Certification of Attendance mula sa paaralan para sa aplikanteng wala pang 18 ay hindi dapat lumampas sa 30 araw.",
+      "p": "Tama. Dapat 30 araw pa lang o mas bago ang attendance form."
+    },
+    "ar": {
+      "q": "في Mississippi، أحضر متقدم عمره أقل من 18 سنة شهادة حضور من المدرسة (Certification of Attendance). كم يمكن أن يكون عمر هذا النموذج؟",
+      "o": [
+        "ليس أقدم من 1 سنة",
+        "ليس أقدم من 30 يومًا",
+        "ليس أقدم من 6 أشهر",
+        "أي عمر، إذا كان موقّعًا"
+      ],
+      "h1": "يجب أن يكون عمره شهرًا تقريبًا أو أحدث.",
+      "h2": "في Mississippi، يجب ألّا يكون عمر شهادة الحضور المدرسية لمتقدم عمره أقل من 18 سنة أكثر من 30 يومًا.",
+      "p": "صحيح. يجب أن يكون عمر نموذج الحضور 30 يومًا أو أقل."
     }
   },
   {
@@ -3323,6 +3803,54 @@
       "h1": "La persona que firma asume una responsabilidad legal.",
       "h2": "En Mississippi, quien firma la solicitud de un joven se vuelve responsable por la negligencia o mala conducta intencional del joven, y la firma debe estar notarizada.",
       "p": "Correcto. Quien firma se vuelve responsable si el joven maneja con negligencia."
+    },
+    "zh": {
+      "q": "在 Mississippi，父母在青少年的学习驾照或驾照申请上签名。这个签名是什么意思？",
+      "o": [
+        "父母每次开车都必须同车",
+        "依法由父母支付青少年的保险",
+        "父母也必须参加考试",
+        "父母要为青少年的疏忽驾驶承担法律责任"
+      ],
+      "h1": "签名的人要承担法律责任。",
+      "h2": "在 Mississippi，在青少年申请上签名的人，要为青少年的疏忽或故意不当行为承担法律责任，而且签名必须经过公证。",
+      "p": "对。签名的人要为青少年的疏忽驾驶负责。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, cha hoặc mẹ ký vào đơn xin giấy phép tập lái hoặc bằng lái của thiếu niên. Chữ ký đó có nghĩa là gì?",
+      "o": [
+        "Cha mẹ phải đi cùng trong mọi chuyến xe",
+        "Theo luật, cha mẹ trả tiền bảo hiểm cho thiếu niên",
+        "Cha mẹ cũng phải thi",
+        "Cha mẹ phải chịu trách nhiệm pháp lý về việc lái xe cẩu thả của thiếu niên"
+      ],
+      "h1": "Người ký nhận trách nhiệm pháp lý.",
+      "h2": "Ở Mississippi, người ký vào đơn của thiếu niên phải chịu trách nhiệm pháp lý về sự cẩu thả hoặc hành vi sai trái cố ý của thiếu niên, và chữ ký phải được công chứng.",
+      "p": "Đúng. Người ký phải chịu trách nhiệm về việc lái xe cẩu thả của thiếu niên."
+    },
+    "tl": {
+      "q": "Sa Mississippi, pumirma ang magulang sa application ng isang teen para sa permit o license. Ano ang ibig sabihin ng pirmang iyon?",
+      "o": [
+        "Kailangang sumama ang magulang sa bawat biyahe",
+        "Ayon sa batas, babayaran ng magulang ang insurance ng teen",
+        "Kailangan ding kumuha ng exam ang magulang",
+        "Mananagot ang magulang sa pabayang pagmamaneho ng teen"
+      ],
+      "h1": "Ang taong pumirma ang tumatanggap ng legal na pananagutan.",
+      "h2": "Sa Mississippi, ang sinumang pumirma sa application ng teen ay mananagot sa kapabayaan o sadyang maling gawain ng teen, at kailangang notarized ang pirma.",
+      "p": "Tama. Mananagot ang pumirma sa pabayang pagmamaneho ng teen."
+    },
+    "ar": {
+      "q": "في Mississippi، يوقّع أحد الوالدين على طلب مراهق للحصول على تصريح أو رخصة. ماذا يعني هذا التوقيع؟",
+      "o": [
+        "يجب أن يركب الوالد مع المراهق في كل رحلة",
+        "يدفع الوالد تأمين المراهق بحكم القانون",
+        "يجب أن يؤدي الوالد الاختبار أيضًا",
+        "يصبح الوالد مسؤولًا قانونيًا عن قيادة المراهق المهملة"
+      ],
+      "h1": "الشخص الذي يوقّع يتحمل المسؤولية القانونية.",
+      "h2": "في Mississippi، كل من يوقّع على طلب المراهق يصبح مسؤولًا قانونيًا عن إهمال المراهق أو سوء سلوكه المتعمد، ويجب أن يكون التوقيع موثّقًا لدى كاتب عدل.",
+      "p": "صحيح. يصبح الموقّع مسؤولًا عن قيادة المراهق المهملة."
     }
   },
   {
@@ -3357,6 +3885,54 @@
       "h1": "Es más o menos un mes y medio.",
       "h2": "En Mississippi, después de negarse a una prueba de aliento o química, el recibo del oficial sirve como permiso temporal por 45 días.",
       "p": "Correcto. El recibo es un permiso temporal por 45 días."
+    },
+    "zh": {
+      "q": "在 Mississippi，你拒绝呼气测试，并把驾照交给警察。警察给你的收据可以当临时驾照用多久？",
+      "o": [
+        "10 天",
+        "90 天",
+        "45 天",
+        "1 年"
+      ],
+      "h1": "大约是一个半月。",
+      "h2": "在 Mississippi，你拒绝呼气或化学测试后，警察给的收据可以当 45 天的临时驾照。",
+      "p": "对。收据是 45 天的临时驾照。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, bạn từ chối thử hơi thở và giao bằng lái cho cảnh sát. Biên nhận của cảnh sát có giá trị như giấy phép tạm thời trong bao lâu?",
+      "o": [
+        "10 ngày",
+        "90 ngày",
+        "45 ngày",
+        "1 năm"
+      ],
+      "h1": "Khoảng một tháng rưỡi.",
+      "h2": "Ở Mississippi, sau khi bạn từ chối thử hơi thở hoặc thử hóa chất, biên nhận của cảnh sát có giá trị như giấy phép tạm thời trong 45 ngày.",
+      "p": "Đúng. Biên nhận là giấy phép tạm thời trong 45 ngày."
+    },
+    "tl": {
+      "q": "Sa Mississippi, tumanggi ka sa breath test at ibinigay mo ang iyong license sa officer. Gaano katagal valid bilang temporary permit ang resibo ng officer?",
+      "o": [
+        "10 araw",
+        "90 araw",
+        "45 araw",
+        "1 taon"
+      ],
+      "h1": "Mga isang buwan at kalahati ito.",
+      "h2": "Sa Mississippi, pagkatapos mong tumanggi sa breath o chemical test, magsisilbing temporary permit ang resibo ng officer nang 45 araw.",
+      "p": "Tama. Temporary permit ang resibo nang 45 araw."
+    },
+    "ar": {
+      "q": "في Mississippi، رفضت اختبار التنفس وسلّمت رخصتك للشرطي. كم يبقى إيصال الشرطي صالحًا كتصريح مؤقت؟",
+      "o": [
+        "10 أيام",
+        "90 يومًا",
+        "45 يومًا",
+        "1 سنة"
+      ],
+      "h1": "إنها تقريبًا شهر ونصف.",
+      "h2": "في Mississippi، بعد أن ترفض اختبار التنفس أو الاختبار الكيميائي، يكون إيصال الشرطي تصريحًا مؤقتًا لمدة 45 يومًا.",
+      "p": "صحيح. الإيصال تصريح مؤقت لمدة 45 يومًا."
     }
   },
   {
@@ -3391,6 +3967,54 @@
       "h1": "La cantidad más alta es de mil dólares.",
       "h2": "En Mississippi, un primer DUI para un conductor de 21 años o más tiene una multa de $250 a $1,000.",
       "p": "Correcto. La multa por un primer DUI es de $250 a $1,000."
+    },
+    "zh": {
+      "q": "在 Mississippi，21 岁或以上的司机第一次酒驾（DUI）的罚款是多少？",
+      "o": [
+        "$250 到 $1,000",
+        "$25 到 $100",
+        "$2,000 到 $5,000",
+        "$5,000 到 $10,000"
+      ],
+      "h1": "最高金额是一千美元。",
+      "h2": "在 Mississippi，21 岁或以上的司机第一次酒驾，罚款是 $250 到 $1,000。",
+      "p": "对。第一次酒驾的罚款是 $250 到 $1,000。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, mức phạt cho lần vi phạm DUI đầu tiên của người lái xe từ 21 tuổi trở lên là bao nhiêu?",
+      "o": [
+        "$250 đến $1,000",
+        "$25 đến $100",
+        "$2,000 đến $5,000",
+        "$5,000 đến $10,000"
+      ],
+      "h1": "Số tiền cao nhất là một nghìn đô la.",
+      "h2": "Ở Mississippi, lần vi phạm DUI đầu tiên của người lái xe từ 21 tuổi trở lên bị phạt từ $250 đến $1,000.",
+      "p": "Đúng. Tiền phạt DUI lần đầu là từ $250 đến $1,000."
+    },
+    "tl": {
+      "q": "Sa Mississippi, magkano ang multa para sa unang DUI offense ng driver na 21 o mas matanda?",
+      "o": [
+        "$250 hanggang $1,000",
+        "$25 hanggang $100",
+        "$2,000 hanggang $5,000",
+        "$5,000 hanggang $10,000"
+      ],
+      "h1": "Isang libong dolyar ang pinakamataas na halaga.",
+      "h2": "Sa Mississippi, ang unang DUI offense ng driver na 21 o mas matanda ay may multang $250 hanggang $1,000.",
+      "p": "Tama. $250 hanggang $1,000 ang multa sa unang DUI."
+    },
+    "ar": {
+      "q": "في Mississippi، ما غرامة المخالفة الأولى للقيادة تحت تأثير الكحول (DUI) لسائق عمره 21 سنة أو أكثر؟",
+      "o": [
+        "من $250 إلى $1,000",
+        "من $25 إلى $100",
+        "من $2,000 إلى $5,000",
+        "من $5,000 إلى $10,000"
+      ],
+      "h1": "أعلى مبلغ هو ألف دولار.",
+      "h2": "في Mississippi، غرامة المخالفة الأولى للقيادة تحت تأثير الكحول (DUI) لسائق عمره 21 سنة أو أكثر هي من $250 إلى $1,000.",
+      "p": "صحيح. غرامة DUI الأولى هي من $250 إلى $1,000."
     }
   },
   {
@@ -3425,6 +4049,54 @@
       "h1": "Negarse a la prueba hace la pena más larga.",
       "h2": "En Mississippi, si usted es declarado culpable de un primer DUI y además se negó a la prueba de aliento o química, se agregan 90 días a la suspensión de la licencia.",
       "p": "Correcto. Negarse a la prueba agrega 90 días."
+    },
+    "zh": {
+      "q": "在 Mississippi，一位司机第一次酒驾（DUI）被定罪，而且他也拒绝了呼气测试。驾照的暂停期会怎样？",
+      "o": [
+        "拒绝测试不算",
+        "暂停期减半",
+        "驾照被终身收回",
+        "暂停期再加 90 天"
+      ],
+      "h1": "拒绝测试会让处罚更长。",
+      "h2": "在 Mississippi，如果你第一次酒驾被定罪，而且你也拒绝了呼气或化学测试，驾照暂停期会再加 90 天。",
+      "p": "对。拒绝测试会多加 90 天。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, một người lái xe bị kết án DUI lần đầu và cũng đã từ chối thử hơi thở. Việc đình chỉ bằng lái sẽ ra sao?",
+      "o": [
+        "Việc từ chối không được tính",
+        "Thời gian đình chỉ bị giảm một nửa",
+        "Bằng lái bị lấy đi suốt đời",
+        "Thời gian đình chỉ được cộng thêm 90 ngày"
+      ],
+      "h1": "Từ chối thử nghiệm làm hình phạt dài hơn.",
+      "h2": "Ở Mississippi, nếu bạn bị kết án DUI lần đầu và bạn cũng đã từ chối thử hơi thở hoặc thử hóa chất, thời gian đình chỉ bằng lái được cộng thêm 90 ngày.",
+      "p": "Đúng. Từ chối thử nghiệm sẽ bị cộng thêm 90 ngày."
+    },
+    "tl": {
+      "q": "Sa Mississippi, nahatulan ang isang driver sa unang DUI at tumanggi rin siya sa breath test. Ano ang mangyayari sa suspension ng license?",
+      "o": [
+        "Hindi papansinin ang pagtanggi",
+        "Mababawasan nang kalahati ang suspension",
+        "Kukunin ang license habambuhay",
+        "Madadagdagan ng 90 araw ang suspension"
+      ],
+      "h1": "Pinahahaba ng pagtanggi sa test ang parusa.",
+      "h2": "Sa Mississippi, kung nahatulan ka sa unang DUI at tumanggi ka rin sa breath o chemical test, madadagdagan ng 90 araw ang suspension ng license.",
+      "p": "Tama. Nagdadagdag ng 90 araw ang pagtanggi sa test."
+    },
+    "ar": {
+      "q": "في Mississippi، أُدين سائق بأول مخالفة قيادة تحت تأثير الكحول (DUI)، وكان قد رفض أيضًا اختبار التنفس. ماذا يحدث لمدة إيقاف الرخصة؟",
+      "o": [
+        "يُتجاهَل الرفض",
+        "تُخفَّض مدة الإيقاف إلى النصف",
+        "تُسحب الرخصة مدى الحياة",
+        "تُضاف 90 يومًا إلى مدة الإيقاف"
+      ],
+      "h1": "رفض الاختبار يجعل العقوبة أطول.",
+      "h2": "في Mississippi، إذا أُدنت بأول مخالفة DUI وكنت قد رفضت أيضًا اختبار التنفس أو الاختبار الكيميائي، تُضاف 90 يومًا إلى مدة إيقاف الرخصة.",
+      "p": "صحيح. رفض الاختبار يضيف 90 يومًا."
     }
   },
   {
@@ -3459,6 +4131,54 @@
       "h1": "Es mucho más largo que por una primera vez.",
       "h2": "En Mississippi, un segundo DUI en un plazo de cinco años trae una suspensión de la licencia por un año.",
       "p": "Correcto. Un segundo DUI en cinco años significa una suspensión de un año."
+    },
+    "zh": {
+      "q": "在 Mississippi，一位 21 岁或以上的司机在五年内第二次酒驾（DUI）被定罪。驾照会被暂停多久？",
+      "o": [
+        "30 天",
+        "1 年",
+        "120 天",
+        "10 年"
+      ],
+      "h1": "它比第一次违规长很多。",
+      "h2": "在 Mississippi，五年内第二次酒驾会让驾照被暂停一年。",
+      "p": "对。五年内第二次酒驾，驾照暂停一年。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, một người lái xe từ 21 tuổi trở lên bị kết án DUI lần thứ hai trong vòng năm năm. Bằng lái bị đình chỉ trong bao lâu?",
+      "o": [
+        "30 ngày",
+        "1 năm",
+        "120 ngày",
+        "10 năm"
+      ],
+      "h1": "Thời gian này dài hơn nhiều so với lần vi phạm đầu tiên.",
+      "h2": "Ở Mississippi, vi phạm DUI lần thứ hai trong vòng năm năm sẽ bị đình chỉ bằng lái một năm.",
+      "p": "Đúng. DUI lần thứ hai trong vòng năm năm nghĩa là bị đình chỉ một năm."
+    },
+    "tl": {
+      "q": "Sa Mississippi, nahatulan ang isang driver na 21 o mas matanda sa ikalawang DUI sa loob ng limang taon. Gaano katagal masususpinde ang license?",
+      "o": [
+        "30 araw",
+        "1 taon",
+        "120 araw",
+        "10 taon"
+      ],
+      "h1": "Mas matagal ito nang husto kaysa sa unang offense.",
+      "h2": "Sa Mississippi, ang ikalawang DUI sa loob ng limang taon ay may suspension ng license nang isang taon.",
+      "p": "Tama. Ang ikalawang DUI sa loob ng limang taon ay nangangahulugan ng isang taong suspension."
+    },
+    "ar": {
+      "q": "في Mississippi، أُدين سائق عمره 21 سنة أو أكثر بمخالفة DUI ثانية خلال خمس سنوات. كم مدة إيقاف الرخصة؟",
+      "o": [
+        "30 يومًا",
+        "1 سنة",
+        "120 يومًا",
+        "10 سنوات"
+      ],
+      "h1": "إنها أطول بكثير من مدة المخالفة الأولى.",
+      "h2": "في Mississippi، المخالفة الثانية للقيادة تحت تأثير الكحول (DUI) خلال خمس سنوات تؤدي إلى إيقاف الرخصة لمدة سنة واحدة.",
+      "p": "صحيح. مخالفة DUI الثانية خلال خمس سنوات تعني إيقافًا لمدة سنة واحدة."
     }
   },
   {
@@ -3493,6 +4213,54 @@
       "h1": "El Comisionado debe quitarle la licencia.",
       "h2": "En Mississippi, tres condenas por manejo imprudente en 12 meses significan que la licencia se revoca por un año.",
       "p": "Correcto. Tres condenas por manejo imprudente en un año significan una revocación de un año."
+    },
+    "zh": {
+      "q": "在 Mississippi，一位司机在 12 个月内三次因鲁莽驾驶被定罪。会发生什么？",
+      "o": [
+        "只给书面警告",
+        "必须看安全驾驶视频",
+        "驾照被吊销一年",
+        "只要交了罚款，就什么都不会发生"
+      ],
+      "h1": "局长（Commissioner）必须收回驾照。",
+      "h2": "在 Mississippi，12 个月内三次鲁莽驾驶定罪，驾照会被吊销一年。",
+      "p": "对。一年内三次鲁莽驾驶定罪，驾照吊销一年。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, một người lái xe bị kết án lái xe liều lĩnh ba lần trong vòng 12 tháng. Chuyện gì xảy ra?",
+      "o": [
+        "Chỉ bị cảnh cáo bằng văn bản",
+        "Bắt buộc xem video lái xe an toàn",
+        "Bằng lái bị thu hồi một năm",
+        "Không có gì, nếu đã nộp tiền phạt"
+      ],
+      "h1": "Ủy viên (Commissioner) phải lấy lại bằng lái.",
+      "h2": "Ở Mississippi, ba lần bị kết án lái xe liều lĩnh trong vòng 12 tháng nghĩa là bằng lái bị thu hồi một năm.",
+      "p": "Đúng. Ba lần bị kết án lái xe liều lĩnh trong một năm nghĩa là bị thu hồi bằng lái một năm."
+    },
+    "tl": {
+      "q": "Sa Mississippi, nahatulan ang isang driver sa reckless driving nang tatlong beses sa loob ng 12 buwan. Ano ang mangyayari?",
+      "o": [
+        "Nakasulat na babala lang",
+        "Isang video tungkol sa ligtas na pagmamaneho na kailangang panoorin",
+        "Babawiin ang license nang isang taon",
+        "Wala, kung nabayaran ang mga multa"
+      ],
+      "h1": "Kailangang bawiin ng Commissioner ang license.",
+      "h2": "Sa Mississippi, ang tatlong conviction sa reckless driving sa loob ng 12 buwan ay nangangahulugang babawiin ang license nang isang taon.",
+      "p": "Tama. Ang tatlong conviction sa reckless driving sa loob ng isang taon ay nangangahulugang babawiin ang license nang isang taon."
+    },
+    "ar": {
+      "q": "في Mississippi، أُدين سائق بالقيادة المتهورة ثلاث مرات خلال 12 شهرًا. ماذا يحدث؟",
+      "o": [
+        "إنذار مكتوب فقط",
+        "فيديو إلزامي عن القيادة الآمنة",
+        "تُلغى الرخصة لمدة سنة واحدة",
+        "لا شيء، إذا دُفعت الغرامات"
+      ],
+      "h1": "يجب على المفوض (Commissioner) أن يسحب الرخصة.",
+      "h2": "في Mississippi، ثلاث إدانات بالقيادة المتهورة خلال 12 شهرًا تعني إلغاء الرخصة لمدة سنة واحدة.",
+      "p": "صحيح. ثلاث إدانات بالقيادة المتهورة خلال سنة تعني إلغاء الرخصة لمدة سنة واحدة."
     }
   },
   {
@@ -3527,6 +4295,54 @@
       "h1": "Es más de un año pero menos de cinco.",
       "h2": "En Mississippi, un conductor culpable que no tenía seguro de responsabilidad civil debe comprarlo y mantener registrada la prueba por tres años desde la fecha del choque.",
       "p": "Correcto. La prueba de seguro debe estar vigente por tres años."
+    },
+    "zh": {
+      "q": "在 Mississippi，一位有过错的司机在事故发生时没有责任保险。这位司机必须把保险证明存档多久？",
+      "o": [
+        "从事故起三年",
+        "从事故起六个月",
+        "直到下次续期",
+        "从事故起十年"
+      ],
+      "h1": "它比一年长，但少于五年。",
+      "h2": "在 Mississippi，没有责任保险的过错司机必须买保险，并从事故当天起把保险证明存档三年。",
+      "p": "对。保险证明必须保持有效三年。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, một người lái xe có lỗi không có bảo hiểm trách nhiệm lúc xảy ra tai nạn. Người lái xe đó phải lưu giữ bằng chứng bảo hiểm trong hồ sơ bao lâu?",
+      "o": [
+        "Ba năm kể từ tai nạn",
+        "Sáu tháng kể từ tai nạn",
+        "Cho đến lần gia hạn tới",
+        "Mười năm kể từ tai nạn"
+      ],
+      "h1": "Thời gian này dài hơn một năm nhưng ít hơn năm năm.",
+      "h2": "Ở Mississippi, người lái xe có lỗi mà không có bảo hiểm trách nhiệm phải mua bảo hiểm và lưu giữ bằng chứng trong hồ sơ trong ba năm kể từ ngày xảy ra tai nạn.",
+      "p": "Đúng. Bằng chứng bảo hiểm phải còn hiệu lực trong ba năm."
+    },
+    "tl": {
+      "q": "Sa Mississippi, walang liability insurance ang isang driver na may kasalanan noong nangyari ang banggaan. Gaano katagal dapat nakatala ang patunay ng insurance ng driver?",
+      "o": [
+        "Tatlong taon mula sa banggaan",
+        "Anim na buwan mula sa banggaan",
+        "Hanggang sa susunod na renewal",
+        "Sampung taon mula sa banggaan"
+      ],
+      "h1": "Mas mahaba ito sa isang taon pero kulang sa lima.",
+      "h2": "Sa Mississippi, ang driver na may kasalanan na walang liability insurance ay dapat bumili nito at panatilihing nakatala ang patunay nang tatlong taon mula sa petsa ng banggaan.",
+      "p": "Tama. Dapat may bisa ang patunay ng insurance nang tatlong taon."
+    },
+    "ar": {
+      "q": "في Mississippi، لم يكن لدى سائق مخطئ تأمين المسؤولية وقت وقوع الحادث. كم مدة يجب أن يُبقي السائق إثبات التأمين في الملف؟",
+      "o": [
+        "ثلاث سنوات من تاريخ الحادث",
+        "ستة أشهر من تاريخ الحادث",
+        "حتى التجديد القادم",
+        "عشر سنوات من تاريخ الحادث"
+      ],
+      "h1": "إنها أطول من سنة واحدة لكنها أقل من خمس سنوات.",
+      "h2": "في Mississippi، يجب على السائق المخطئ الذي لم يكن لديه تأمين المسؤولية أن يشتريه وأن يُبقي إثباته في الملف لمدة ثلاث سنوات من تاريخ الحادث.",
+      "p": "صحيح. يجب أن يبقى إثبات التأمين ساريًا لمدة ثلاث سنوات."
     }
   },
   {
@@ -3561,6 +4377,54 @@
       "h1": "Las letras significan Highway Patrol (Patrulla de Carreteras).",
       "h2": "En Mississippi, puede marcar *HP (*47) en un celular para hablar con un despachador de la Patrulla de Carreteras en una emergencia real.",
       "p": "Correcto. Marque *HP, que es *47, para la Patrulla de Carreteras."
+    },
+    "zh": {
+      "q": "在 Mississippi，你在公路上看到紧急情况。你可以用手机拨什么号码联系公路巡警（Highway Patrol）调度员？",
+      "o": [
+        "*311",
+        "*411",
+        "*511",
+        "*HP (*47)"
+      ],
+      "h1": "这些字母代表 Highway Patrol。",
+      "h2": "在 Mississippi，遇到真正的紧急情况时，你可以用手机拨 *HP (*47) 联系公路巡警调度员。",
+      "p": "对。拨 *HP，也就是 *47，联系公路巡警。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, bạn thấy một trường hợp khẩn cấp trên xa lộ. Bạn có thể bấm số nào trên điện thoại di động để gọi nhân viên điều phối của Highway Patrol?",
+      "o": [
+        "*311",
+        "*411",
+        "*511",
+        "*HP (*47)"
+      ],
+      "h1": "Các chữ cái này là viết tắt của Highway Patrol.",
+      "h2": "Ở Mississippi, bạn có thể bấm *HP (*47) trên điện thoại di động để gọi nhân viên điều phối của Highway Patrol khi có trường hợp khẩn cấp thật sự.",
+      "p": "Đúng. Bấm *HP, tức là *47, để gọi Highway Patrol."
+    },
+    "tl": {
+      "q": "Sa Mississippi, may nakita kang emergency sa highway. Ano ang puwede mong i-dial sa cell phone para makausap ang dispatcher ng Highway Patrol?",
+      "o": [
+        "*311",
+        "*411",
+        "*511",
+        "*HP (*47)"
+      ],
+      "h1": "Ang mga letra ay para sa Highway Patrol.",
+      "h2": "Sa Mississippi, puwede mong i-dial ang *HP (*47) sa cell phone para makausap ang dispatcher ng Highway Patrol sa tunay na emergency.",
+      "p": "Tama. I-dial ang *HP, na *47, para sa Highway Patrol."
+    },
+    "ar": {
+      "q": "في Mississippi، رأيت حالة طوارئ على طريق سريع. ما الرقم الذي يمكنك الاتصال به من الهاتف المحمول للوصول إلى موظف إرسال دوريات الطرق السريعة (Highway Patrol)؟",
+      "o": [
+        "*311",
+        "*411",
+        "*511",
+        "*HP (*47)"
+      ],
+      "h1": "الحرفان يرمزان إلى Highway Patrol.",
+      "h2": "في Mississippi، يمكنك الاتصال بالرقم *HP (*47) من الهاتف المحمول للوصول إلى موظف إرسال دوريات الطرق السريعة في حالة طوارئ حقيقية.",
+      "p": "صحيح. اتصل بالرقم *HP، وهو *47، للوصول إلى دوريات الطرق السريعة."
     }
   },
   {
@@ -3595,6 +4459,54 @@
       "h1": "Piense en vehículos que llevan niños, pasajeros que pagan o carga peligrosa.",
       "h2": "En Mississippi, un autobús escolar con aunque sea un niño, un vehículo de alquiler con pasajeros y un vehículo que lleva explosivos o líquidos inflamables deben detenerse en todos los cruces de ferrocarril.",
       "p": "Correcto. Un autobús escolar con cualquier niño a bordo siempre debe detenerse."
+    },
+    "zh": {
+      "q": "在 Mississippi，哪种车辆必须在每个铁路道口都停车，即使没有灯或栏杆？",
+      "o": [
+        "拖着船的皮卡车",
+        "载着哪怕只有一个孩子的校车",
+        "载着乘客的摩托车",
+        "天黑后的任何汽车"
+      ],
+      "h1": "想想载孩子、付费乘客或危险货物的车辆。",
+      "h2": "在 Mississippi，载着哪怕只有一个孩子的校车、载有乘客的营业车辆，以及运送爆炸物或易燃液体的车辆，都必须在每个铁路道口停车。",
+      "p": "对。只要车上有孩子，校车就必须停车。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, loại xe nào phải luôn dừng lại ở mọi chỗ giao với đường sắt, kể cả khi không có đèn hay thanh chắn?",
+      "o": [
+        "Xe bán tải kéo một chiếc thuyền",
+        "Xe buýt trường học chở dù chỉ một em nhỏ",
+        "Xe máy có chở người ngồi sau",
+        "Bất kỳ xe hơi nào sau khi trời tối"
+      ],
+      "h1": "Hãy nghĩ đến những xe chở trẻ em, hành khách trả tiền hoặc hàng nguy hiểm.",
+      "h2": "Ở Mississippi, xe buýt trường học chở dù chỉ một em nhỏ, xe chở khách thuê có hành khách, và xe chở chất nổ hoặc chất lỏng dễ cháy phải dừng lại ở mọi chỗ giao với đường sắt.",
+      "p": "Đúng. Xe buýt trường học có bất kỳ em nhỏ nào trên xe phải luôn dừng lại."
+    },
+    "tl": {
+      "q": "Sa Mississippi, aling sasakyan ang dapat laging huminto sa bawat railroad crossing, kahit walang ilaw o harang?",
+      "o": [
+        "Pickup truck na humihila ng bangka",
+        "School bus na may sakay kahit isang bata lang",
+        "Motorsiklo na may angkas",
+        "Anumang kotse kapag madilim na"
+      ],
+      "h1": "Isipin ang mga sasakyang may sakay na mga bata, nagbabayad na pasahero o mapanganib na kargamento.",
+      "h2": "Sa Mississippi, ang school bus na may sakay kahit isang bata, ang sasakyang pinauupahan na may mga pasahero, at ang sasakyang may kargang pampasabog o likidong madaling magliyab ay dapat huminto sa bawat railroad crossing.",
+      "p": "Tama. Dapat laging huminto ang school bus na may sakay na kahit isang bata."
+    },
+    "ar": {
+      "q": "في Mississippi، أي مركبة يجب أن تتوقف دائمًا عند كل معبر سكة حديد، حتى إذا لم تكن هناك أضواء أو حواجز؟",
+      "o": [
+        "شاحنة صغيرة (pickup) تسحب قاربًا",
+        "حافلة مدرسية تحمل ولو طفلًا واحدًا",
+        "دراجة نارية عليها راكب",
+        "أي سيارة بعد حلول الظلام"
+      ],
+      "h1": "فكّر في المركبات التي تنقل أطفالًا أو ركابًا يدفعون الأجرة أو حمولة خطرة.",
+      "h2": "في Mississippi، يجب على الحافلة المدرسية التي تحمل ولو طفلًا واحدًا، والمركبة المؤجّرة التي تحمل ركابًا، والمركبة التي تنقل متفجرات أو سوائل قابلة للاشتعال أن تتوقف عند كل معبر سكة حديد.",
+      "p": "صحيح. يجب أن تتوقف الحافلة المدرسية دائمًا إذا كان فيها أي طفل."
     }
   },
   {
@@ -3629,6 +4541,54 @@
       "h1": "Es un poco más de la cuarta parte de la luz.",
       "h2": "En Mississippi, todas las ventanas deben dejar pasar por lo menos el 28 por ciento de la luz, y el polarizado instalado después de la compra necesita un certificado de inspección y una calcomanía.",
       "p": "Correcto. Las ventanas deben dejar pasar por lo menos el 28 por ciento de la luz."
+    },
+    "zh": {
+      "q": "在 Mississippi，一辆车贴了后装的车窗膜。所有车窗必须透过多少光？",
+      "o": [
+        "至少 5%",
+        "至少 10%",
+        "至少 28%",
+        "至少 90%"
+      ],
+      "h1": "它比四分之一的光多一点。",
+      "h2": "在 Mississippi，所有车窗必须透过至少 28% 的光，而且后装的车窗膜需要检验证书和贴纸。",
+      "p": "对。车窗必须透过至少 28% 的光。"
+    },
+    "vi": {
+      "q": "Ở Mississippi, một chiếc xe có dán phim cửa kính loại gắn thêm sau khi mua (aftermarket). Tất cả cửa kính phải cho bao nhiêu ánh sáng đi qua?",
+      "o": [
+        "Ít nhất 5 phần trăm",
+        "Ít nhất 10 phần trăm",
+        "Ít nhất 28 phần trăm",
+        "Ít nhất 90 phần trăm"
+      ],
+      "h1": "Nhiều hơn một phần tư lượng ánh sáng một chút.",
+      "h2": "Ở Mississippi, tất cả cửa kính phải cho ít nhất 28 phần trăm ánh sáng đi qua, và phim dán gắn thêm cần có giấy chứng nhận kiểm định và nhãn dán.",
+      "p": "Đúng. Cửa kính phải cho ít nhất 28 phần trăm ánh sáng đi qua."
+    },
+    "tl": {
+      "q": "Sa Mississippi, may aftermarket na window tint ang isang kotse. Gaano karaming liwanag ang dapat pinapadaan ng lahat ng bintana?",
+      "o": [
+        "Hindi bababa sa 5 porsiyento",
+        "Hindi bababa sa 10 porsiyento",
+        "Hindi bababa sa 28 porsiyento",
+        "Hindi bababa sa 90 porsiyento"
+      ],
+      "h1": "Medyo higit ito sa ikaapat na bahagi ng liwanag.",
+      "h2": "Sa Mississippi, dapat magpadaan ang lahat ng bintana ng hindi bababa sa 28 porsiyento ng liwanag, at kailangan ng aftermarket tint ng inspection certificate at decal.",
+      "p": "Tama. Dapat magpadaan ang mga bintana ng hindi bababa sa 28 porsiyento ng liwanag."
+    },
+    "ar": {
+      "q": "في Mississippi، على نوافذ سيارة تظليل مُضاف بعد الشراء (aftermarket). كم من الضوء يجب أن تسمح جميع النوافذ بمروره؟",
+      "o": [
+        "5 في المئة على الأقل",
+        "10 في المئة على الأقل",
+        "28 في المئة على الأقل",
+        "90 في المئة على الأقل"
+      ],
+      "h1": "إنها أكثر قليلًا من ربع الضوء.",
+      "h2": "في Mississippi، يجب أن تسمح جميع النوافذ بمرور 28 في المئة من الضوء على الأقل، ويحتاج التظليل المُضاف بعد الشراء إلى شهادة فحص وملصق.",
+      "p": "صحيح. يجب أن تسمح النوافذ بمرور 28 في المئة من الضوء على الأقل."
     }
   }
 ]

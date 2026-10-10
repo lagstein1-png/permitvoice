@@ -2573,6 +2573,54 @@
       "h1": "La espera es corta, menos de una semana.",
       "h2": "En Idaho, si no aprueba el examen de conocimientos, debe esperar tres días para repetirlo y pagar otra vez la tarifa.",
       "p": "Correcto. Espera tres días y paga la tarifa otra vez."
+    },
+    "zh": {
+      "q": "在 Idaho，你没有通过笔试。要等多久才能再考？",
+      "o": [
+        "当天就可以重考",
+        "三天",
+        "两个星期",
+        "30 天"
+      ],
+      "h1": "等的时间很短，不到一个星期。",
+      "h2": "在 Idaho，笔试没通过后，你必须等三天才能重考，而且要再付一次考试费。",
+      "p": "对。你要等三天，并再付一次费用。"
+    },
+    "vi": {
+      "q": "Ở Idaho, bạn thi trượt bài thi kiến thức. Bạn phải chờ bao lâu mới được thi lại?",
+      "o": [
+        "Bạn có thể thi lại ngay trong ngày",
+        "Ba ngày",
+        "Hai tuần",
+        "30 ngày"
+      ],
+      "h1": "Thời gian chờ ngắn, ít hơn một tuần.",
+      "h2": "Ở Idaho, sau khi thi trượt bài thi kiến thức, bạn phải chờ ba ngày mới được thi lại, và phải trả lệ phí thi một lần nữa.",
+      "p": "Đúng. Bạn chờ ba ngày và trả lệ phí lại."
+    },
+    "tl": {
+      "q": "Sa Idaho, bumagsak ka sa knowledge test. Gaano katagal ka dapat maghintay bago ka makakuha ulit?",
+      "o": [
+        "Puwede kang kumuha ulit sa parehong araw",
+        "Tatlong araw",
+        "Dalawang linggo",
+        "30 araw"
+      ],
+      "h1": "Maikli ang paghihintay, wala pang isang linggo.",
+      "h2": "Sa Idaho, pagkatapos bumagsak sa knowledge test, dapat kang maghintay ng tatlong araw bago kumuha ulit, at babayaran mo ulit ang test fee.",
+      "p": "Tama. Maghihintay ka ng tatlong araw at magbabayad ulit ng fee."
+    },
+    "ar": {
+      "q": "في Idaho، رسبت في اختبار المعرفة. كم يجب أن تنتظر قبل أن تعيده؟",
+      "o": [
+        "يمكنك أن تعيده في اليوم نفسه",
+        "ثلاثة أيام",
+        "أسبوعان",
+        "30 يومًا"
+      ],
+      "h1": "الانتظار قصير، أقل من أسبوع.",
+      "h2": "في Idaho، بعد الرسوب في اختبار المعرفة يجب أن تنتظر ثلاثة أيام لتعيد الاختبار، وتدفع رسوم الاختبار مرة أخرى.",
+      "p": "صحيح. تنتظر ثلاثة أيام وتدفع الرسوم مرة أخرى."
     }
   },
   {
@@ -2607,6 +2655,54 @@
       "h1": "Es más o menos un mes.",
       "h2": "Los nuevos residentes de Idaho deben solicitar una licencia de Idaho dentro de 30 días, aunque su licencia anterior no haya vencido.",
       "p": "Correcto. Los nuevos residentes tienen 30 días."
+    },
+    "zh": {
+      "q": "在 Idaho，你刚搬到这个州，持有另一个州的有效驾照。你必须多快申请 Idaho 驾照？",
+      "o": [
+        "7 天内",
+        "90 天内",
+        "只有在旧驾照过期时",
+        "30 天内"
+      ],
+      "h1": "大约一个月。",
+      "h2": "新搬到 Idaho 的居民必须在 30 天内申请 Idaho 驾照，即使旧驾照还没过期。",
+      "p": "对。新居民有 30 天时间。"
+    },
+    "vi": {
+      "q": "Ở Idaho, bạn vừa chuyển đến tiểu bang với bằng lái còn hạn của một tiểu bang khác. Bạn phải xin bằng lái Idaho trong bao lâu?",
+      "o": [
+        "Trong vòng 7 ngày",
+        "Trong vòng 90 ngày",
+        "Chỉ khi bằng lái cũ hết hạn",
+        "Trong vòng 30 ngày"
+      ],
+      "h1": "Khoảng một tháng.",
+      "h2": "Cư dân mới của Idaho phải xin bằng lái Idaho trong vòng 30 ngày, ngay cả khi bằng lái cũ chưa hết hạn.",
+      "p": "Đúng. Cư dân mới có 30 ngày."
+    },
+    "tl": {
+      "q": "Sa Idaho, kalilipat mo lang sa state na may valid na lisensya mula sa ibang state. Gaano kabilis ka dapat mag-apply ng lisensya ng Idaho?",
+      "o": [
+        "Sa loob ng 7 araw",
+        "Sa loob ng 90 araw",
+        "Kapag nag-expire lang ang luma mong lisensya",
+        "Sa loob ng 30 araw"
+      ],
+      "h1": "Mga isang buwan ito.",
+      "h2": "Ang mga bagong residente ng Idaho ay dapat mag-apply ng driver's license ng Idaho sa loob ng 30 araw, kahit hindi pa expired ang lumang lisensya.",
+      "p": "Tama. May 30 araw ang mga bagong residente."
+    },
+    "ar": {
+      "q": "في Idaho، انتقلت للتو إلى الولاية ومعك رخصة سارية من ولاية أخرى. خلال كم من الوقت يجب أن تطلب رخصة Idaho؟",
+      "o": [
+        "خلال 7 أيام",
+        "خلال 90 يومًا",
+        "فقط عندما تنتهي رخصتك القديمة",
+        "خلال 30 يومًا"
+      ],
+      "h1": "المدة حوالي شهر واحد.",
+      "h2": "يجب على السكان الجدد في Idaho أن يطلبوا رخصة قيادة من Idaho خلال 30 يومًا، حتى لو لم تنتهِ الرخصة القديمة.",
+      "p": "صحيح. لدى السكان الجدد 30 يومًا."
     }
   },
   {
@@ -2641,6 +2737,54 @@
       "h1": "La persona debe ser adulta.",
       "h2": "Con un permiso de instrucción Clase D, el aprendiz debe manejar con un adulto con licencia que tenga al menos 18 años.",
       "p": "Correcto. El conductor con licencia debe tener al menos 18 años."
+    },
+    "zh": {
+      "q": "在 Idaho，一个 17 岁的人用 Class D Instruction Permit 练车。陪同的持照司机至少要几岁？",
+      "o": [
+        "至少 18 岁",
+        "至少 16 岁",
+        "至少 25 岁",
+        "至少 30 岁"
+      ],
+      "h1": "这个人必须是成年人。",
+      "h2": "持 Class D Instruction Permit 时，学车的人必须和一位至少 18 岁的持照成年人一起开车。",
+      "p": "对。持照司机必须至少 18 岁。"
+    },
+    "vi": {
+      "q": "Ở Idaho, một người 17 tuổi tập lái với Class D Instruction Permit. Người lái có bằng đi cùng phải ít nhất bao nhiêu tuổi?",
+      "o": [
+        "Ít nhất 18 tuổi",
+        "Ít nhất 16 tuổi",
+        "Ít nhất 25 tuổi",
+        "Ít nhất 30 tuổi"
+      ],
+      "h1": "Người đó phải là người lớn.",
+      "h2": "Với Class D Instruction Permit, người học lái phải lái cùng một người lớn có bằng lái và ít nhất 18 tuổi.",
+      "p": "Đúng. Người lái có bằng phải ít nhất 18 tuổi."
+    },
+    "tl": {
+      "q": "Sa Idaho, isang 17 taong gulang ang nagpa-practice gamit ang Class D Instruction Permit. Ilang taon dapat ang lisensyadong driver na kasama niya?",
+      "o": [
+        "Hindi bababa sa 18",
+        "Hindi bababa sa 16",
+        "Hindi bababa sa 25",
+        "Hindi bababa sa 30"
+      ],
+      "h1": "Dapat adult ang taong ito.",
+      "h2": "Sa Class D Instruction Permit, ang nag-aaral ay dapat magmaneho kasama ang isang lisensyadong adult na hindi bababa sa 18 taong gulang.",
+      "p": "Tama. Ang lisensyadong driver ay dapat hindi bababa sa 18."
+    },
+    "ar": {
+      "q": "في Idaho، شخص عمره 17 سنة يتدرّب بتصريح Class D Instruction Permit. كم يجب أن يكون عمر السائق المرخَّص الذي معه؟",
+      "o": [
+        "18 سنة على الأقل",
+        "16 سنة على الأقل",
+        "25 سنة على الأقل",
+        "30 سنة على الأقل"
+      ],
+      "h1": "يجب أن يكون هذا الشخص بالغًا.",
+      "h2": "مع تصريح Class D Instruction Permit، يجب أن يقود المتعلّم مع شخص بالغ مرخَّص عمره 18 سنة على الأقل.",
+      "p": "صحيح. يجب أن يكون عمر السائق المرخَّص 18 سنة على الأقل."
     }
   },
   {
@@ -2675,6 +2819,54 @@
       "h1": "Piense en la licencia que dice \"Under 21\" (menor de 21).",
       "h2": "En Idaho, la licencia de un conductor de 18 a 20 años dice \"Under 21\" y vence cinco días después de cumplir 21 años.",
       "p": "Correcto. Vence cinco días después de cumplir 21 años."
+    },
+    "zh": {
+      "q": "在 Idaho，一位司机 19 岁。他的驾照什么时候过期？",
+      "o": [
+        "在他 20 岁生日那天",
+        "发照十年后",
+        "在他 21 岁生日后五天",
+        "在他 25 岁生日那天"
+      ],
+      "h1": "看那张写着 \"Under 21\" 的驾照。",
+      "h2": "在 Idaho，18 到 20 岁司机的驾照上写着 \"Under 21\"，会在 21 岁生日后五天过期。",
+      "p": "对。驾照在 21 岁生日后五天过期。"
+    },
+    "vi": {
+      "q": "Ở Idaho, một người lái 19 tuổi. Khi nào bằng lái của người đó hết hạn?",
+      "o": [
+        "Vào sinh nhật lần thứ 20",
+        "Mười năm sau khi được cấp",
+        "Năm ngày sau sinh nhật lần thứ 21",
+        "Vào sinh nhật lần thứ 25"
+      ],
+      "h1": "Hãy tìm bằng lái có ghi \"Under 21.\"",
+      "h2": "Ở Idaho, bằng lái của người từ 18 đến 20 tuổi có ghi \"Under 21\" và hết hạn năm ngày sau sinh nhật lần thứ 21.",
+      "p": "Đúng. Bằng lái hết hạn năm ngày sau sinh nhật lần thứ 21."
+    },
+    "tl": {
+      "q": "Sa Idaho, 19 taong gulang ang isang driver. Kailan mag-e-expire ang kanyang driver's license?",
+      "o": [
+        "Sa kanyang ika-20 kaarawan",
+        "Sampung taon matapos itong ibigay",
+        "Limang araw matapos ang kanyang ika-21 kaarawan",
+        "Sa kanyang ika-25 kaarawan"
+      ],
+      "h1": "Hanapin ang lisensyang may nakasulat na \"Under 21.\"",
+      "h2": "Sa Idaho, ang lisensya ng driver na 18 hanggang 20 taong gulang ay may nakasulat na \"Under 21\" at mag-e-expire limang araw matapos ang ika-21 kaarawan.",
+      "p": "Tama. Mag-e-expire ito limang araw matapos ang ika-21 kaarawan."
+    },
+    "ar": {
+      "q": "في Idaho، عمر سائق 19 سنة. متى تنتهي رخصة قيادته؟",
+      "o": [
+        "في عيد ميلاده العشرين",
+        "بعد عشر سنوات من إصدارها",
+        "بعد خمسة أيام من عيد ميلاده الحادي والعشرين",
+        "في عيد ميلاده الخامس والعشرين"
+      ],
+      "h1": "ابحث عن الرخصة المكتوب عليها \"Under 21\".",
+      "h2": "في Idaho، رخصة السائق الذي عمره من 18 إلى 20 سنة مكتوب عليها \"Under 21\"، وتنتهي بعد خمسة أيام من عيد الميلاد الحادي والعشرين.",
+      "p": "صحيح. تنتهي بعد خمسة أيام من عيد الميلاد الحادي والعشرين."
     }
   },
   {
@@ -2709,6 +2901,54 @@
       "h1": "Piense en un año completo.",
       "h2": "Un conductor de Idaho que está fuera del estado por un tiempo puede obtener una prórroga de hasta 12 meses por una tarifa de $10.",
       "p": "Correcto. Una prórroga dura hasta 12 meses."
+    },
+    "zh": {
+      "q": "在 Idaho，你的驾照到期时你会在州外待一段时间。一次延期最长可以多久？",
+      "o": [
+        "最多 30 天",
+        "最多 3 个月",
+        "最多 5 年",
+        "最多 12 个月"
+      ],
+      "h1": "想想一整年。",
+      "h2": "暂时在州外的 Idaho 司机可以付 $10 的费用，得到最长 12 个月的延期。",
+      "p": "对。一次延期最长 12 个月。"
+    },
+    "vi": {
+      "q": "Ở Idaho, bạn sẽ ở ngoài tiểu bang một thời gian khi bằng lái hết hạn. Một lần gia hạn có thể kéo dài bao lâu?",
+      "o": [
+        "Tối đa 30 ngày",
+        "Tối đa 3 tháng",
+        "Tối đa 5 năm",
+        "Tối đa 12 tháng"
+      ],
+      "h1": "Hãy nghĩ đến trọn một năm.",
+      "h2": "Người lái ở Idaho tạm thời ở ngoài tiểu bang có thể được gia hạn tối đa 12 tháng với lệ phí $10.",
+      "p": "Đúng. Một lần gia hạn kéo dài tối đa 12 tháng."
+    },
+    "tl": {
+      "q": "Sa Idaho, nasa labas ka ng state nang ilang panahon kapag nag-expire ang lisensya mo. Gaano katagal ang isang extension?",
+      "o": [
+        "Hanggang 30 araw",
+        "Hanggang 3 buwan",
+        "Hanggang 5 taon",
+        "Hanggang 12 buwan"
+      ],
+      "h1": "Isipin ang isang buong taon.",
+      "h2": "Ang driver ng Idaho na pansamantalang nasa labas ng state ay puwedeng makakuha ng extension na hanggang 12 buwan sa bayad na $10.",
+      "p": "Tama. Hanggang 12 buwan ang isang extension."
+    },
+    "ar": {
+      "q": "في Idaho، ستكون خارج الولاية لفترة عندما تنتهي رخصتك. كم يمكن أن يستمر التمديد الواحد؟",
+      "o": [
+        "حتى 30 يومًا",
+        "حتى 3 أشهر",
+        "حتى 5 سنوات",
+        "حتى 12 شهرًا"
+      ],
+      "h1": "فكّر في سنة كاملة.",
+      "h2": "السائق في Idaho الموجود خارج الولاية مؤقتًا يمكنه أن يحصل على تمديد حتى 12 شهرًا مقابل رسوم $10.",
+      "p": "صحيح. التمديد الواحد يستمر حتى 12 شهرًا."
     }
   },
   {
@@ -2743,6 +2983,54 @@
       "h1": "La primera condena trae solo una carta de advertencia. La segunda es más fuerte.",
       "h2": "Según las reglas de licencia gradual de Idaho, un conductor menor de 17 años recibe una suspensión de 30 días por una segunda condena por infracción en movimiento.",
       "p": "Correcto. Una segunda condena significa una suspensión de 30 días."
+    },
+    "zh": {
+      "q": "在 Idaho，一个 17 岁以下的持照司机第二次被判行车违规。会怎么样？",
+      "o": [
+        "一封警告信",
+        "暂停驾照 30 天",
+        "暂停驾照一年",
+        "罚款 $50，没有别的"
+      ],
+      "h1": "第一次被判只会收到警告信。第二次更严重。",
+      "h2": "按照 Idaho 的分级驾照规定，17 岁以下的司机第二次被判行车违规，驾照会被暂停 30 天。",
+      "p": "对。第二次被判就是暂停 30 天。"
+    },
+    "vi": {
+      "q": "Ở Idaho, một người lái có bằng dưới 17 tuổi bị kết tội vi phạm giao thông khi lái xe lần thứ hai. Điều gì xảy ra?",
+      "o": [
+        "Một thư cảnh cáo",
+        "Đình chỉ bằng lái 30 ngày",
+        "Đình chỉ bằng lái một năm",
+        "Phạt $50 và không gì khác"
+      ],
+      "h1": "Lần bị kết tội đầu tiên chỉ bị thư cảnh cáo. Lần thứ hai nặng hơn.",
+      "h2": "Theo luật bằng lái theo cấp của Idaho, người lái dưới 17 tuổi bị đình chỉ bằng lái 30 ngày khi bị kết tội vi phạm giao thông lần thứ hai.",
+      "p": "Đúng. Lần bị kết tội thứ hai nghĩa là đình chỉ 30 ngày."
+    },
+    "tl": {
+      "q": "Sa Idaho, ang isang lisensyadong driver na wala pang 17 ay na-convict sa ikalawang moving violation. Ano ang mangyayari?",
+      "o": [
+        "Isang warning letter",
+        "30 araw na suspensyon",
+        "Isang taong suspensyon",
+        "$50 na multa at wala nang iba"
+      ],
+      "h1": "Ang unang conviction ay warning letter lang. Mas mabigat ang ikalawa.",
+      "h2": "Ayon sa graduated license rules ng Idaho, ang driver na wala pang 17 ay may 30 araw na suspensyon para sa ikalawang conviction sa moving violation.",
+      "p": "Tama. Ang ikalawang conviction ay 30 araw na suspensyon."
+    },
+    "ar": {
+      "q": "في Idaho، أُدين سائق مرخَّص عمره أقل من 17 سنة بمخالفة قيادة ثانية. ماذا يحدث؟",
+      "o": [
+        "رسالة إنذار",
+        "توقيف الرخصة 30 يومًا",
+        "توقيف الرخصة سنة واحدة",
+        "غرامة $50 فقط ولا شيء غيرها"
+      ],
+      "h1": "الإدانة الأولى تجلب رسالة إنذار فقط. والثانية أشد.",
+      "h2": "حسب قواعد الرخصة المتدرّجة في Idaho، السائق الذي عمره أقل من 17 سنة تُوقَف رخصته 30 يومًا عند الإدانة الثانية بمخالفة قيادة.",
+      "p": "صحيح. الإدانة الثانية تعني توقيف الرخصة 30 يومًا."
     }
   },
   {
@@ -2777,6 +3065,54 @@
       "h1": "Son unos tres meses.",
       "h2": "En Idaho, la primera prueba de alcohol no aprobada trae una suspensión administrativa de 90 días, sin poder manejar nada durante los primeros 30 días.",
       "p": "Correcto. La suspensión es de 90 días."
+    },
+    "zh": {
+      "q": "在 Idaho，一个成年人第一次没有通过酒精呼气测试。行政暂停驾照多久？",
+      "o": [
+        "90 天",
+        "7 天",
+        "两年",
+        "五年"
+      ],
+      "h1": "大约三个月。",
+      "h2": "在 Idaho，第一次酒精测试不合格，会被行政暂停驾照 90 天，前 30 天完全不能开车。",
+      "p": "对。暂停 90 天。"
+    },
+    "vi": {
+      "q": "Ở Idaho, một người lớn không đạt bài kiểm tra hơi thở về rượu lần đầu tiên. Thời gian đình chỉ bằng lái hành chính là bao lâu?",
+      "o": [
+        "90 ngày",
+        "7 ngày",
+        "Hai năm",
+        "Năm năm"
+      ],
+      "h1": "Khoảng ba tháng.",
+      "h2": "Ở Idaho, lần đầu không đạt bài kiểm tra rượu sẽ bị đình chỉ bằng lái hành chính 90 ngày, và trong 30 ngày đầu hoàn toàn không được lái xe.",
+      "p": "Đúng. Thời gian đình chỉ là 90 ngày."
+    },
+    "tl": {
+      "q": "Sa Idaho, bumagsak ang isang adult sa breath test para sa alak sa unang pagkakataon. Gaano katagal ang administrative suspension ng lisensya?",
+      "o": [
+        "90 araw",
+        "7 araw",
+        "Dalawang taon",
+        "Limang taon"
+      ],
+      "h1": "Mga tatlong buwan ito.",
+      "h2": "Sa Idaho, ang unang bagsak sa alcohol test ay may 90 araw na administrative suspension, at bawal talagang magmaneho sa unang 30 araw.",
+      "p": "Tama. 90 araw ang suspensyon."
+    },
+    "ar": {
+      "q": "في Idaho، رسب شخص بالغ في اختبار التنفّس للكحول لأول مرة. كم مدة التوقيف الإداري للرخصة؟",
+      "o": [
+        "90 يومًا",
+        "7 أيام",
+        "سنتان",
+        "خمس سنوات"
+      ],
+      "h1": "المدة حوالي ثلاثة أشهر.",
+      "h2": "في Idaho، الرسوب الأول في اختبار الكحول يؤدي إلى توقيف إداري للرخصة مدته 90 يومًا، ولا يُسمح بالقيادة أبدًا في أول 30 يومًا.",
+      "p": "صحيح. مدة التوقيف 90 يومًا."
     }
   },
   {
@@ -2811,6 +3147,54 @@
       "h1": "Es más o menos una semana.",
       "h2": "En Idaho, usted puede pedir una audiencia administrativa dentro de 7 días a partir de la fecha del Aviso de Suspensión.",
       "p": "Correcto. Tiene 7 días para pedir una audiencia."
+    },
+    "zh": {
+      "q": "在 Idaho，你酒精测试没通过后收到一份 Notice of Suspension。你有多久时间可以申请听证？",
+      "o": [
+        "24 小时",
+        "60 天",
+        "7 天",
+        "一年"
+      ],
+      "h1": "大约一个星期。",
+      "h2": "在 Idaho，你可以在 Notice of Suspension 上的日期起 7 天内申请行政听证。",
+      "p": "对。你有 7 天时间申请听证。"
+    },
+    "vi": {
+      "q": "Ở Idaho, bạn nhận được Notice of Suspension sau khi không đạt bài kiểm tra rượu. Bạn có bao lâu để yêu cầu một phiên điều trần?",
+      "o": [
+        "24 giờ",
+        "60 ngày",
+        "7 ngày",
+        "Một năm"
+      ],
+      "h1": "Khoảng một tuần.",
+      "h2": "Ở Idaho, bạn có thể yêu cầu một phiên điều trần hành chính trong vòng 7 ngày kể từ ngày ghi trên Notice of Suspension.",
+      "p": "Đúng. Bạn có 7 ngày để yêu cầu điều trần."
+    },
+    "tl": {
+      "q": "Sa Idaho, nakatanggap ka ng Notice of Suspension matapos bumagsak sa alcohol test. Gaano katagal ang mayroon ka para humingi ng hearing?",
+      "o": [
+        "24 oras",
+        "60 araw",
+        "7 araw",
+        "Isang taon"
+      ],
+      "h1": "Mga isang linggo ito.",
+      "h2": "Sa Idaho, puwede kang humingi ng administrative hearing sa loob ng 7 araw mula sa petsa sa Notice of Suspension.",
+      "p": "Tama. May 7 araw ka para humingi ng hearing."
+    },
+    "ar": {
+      "q": "في Idaho، وصلك Notice of Suspension بعد الرسوب في اختبار الكحول. كم لديك من الوقت لتطلب جلسة استماع؟",
+      "o": [
+        "24 ساعة",
+        "60 يومًا",
+        "7 أيام",
+        "سنة واحدة"
+      ],
+      "h1": "المدة حوالي أسبوع واحد.",
+      "h2": "في Idaho، يمكنك أن تطلب جلسة استماع إدارية خلال 7 أيام من التاريخ المكتوب على Notice of Suspension.",
+      "p": "صحيح. لديك 7 أيام لتطلب جلسة استماع."
     }
   },
   {
@@ -2845,6 +3229,54 @@
       "h1": "Es más de $100 y menos de $500.",
       "h2": "Según la ley de consentimiento implícito de Idaho, negarse a la prueba puede traer una suspensión de la licencia y una multa civil de $250.",
       "p": "Correcto. La multa civil es de $250."
+    },
+    "zh": {
+      "q": "在 Idaho，一位司机拒绝警察要求的酒精或毒品测试。除了暂停驾照，他还可能面对什么民事罚款？",
+      "o": [
+        "$25",
+        "$100",
+        "$5,000",
+        "$250"
+      ],
+      "h1": "比 $100 多，比 $500 少。",
+      "h2": "根据 Idaho 的默示同意法，拒绝测试可能会被暂停驾照，并被处以 $250 的民事罚款。",
+      "p": "对。民事罚款是 $250。"
+    },
+    "vi": {
+      "q": "Ở Idaho, một người lái từ chối yêu cầu kiểm tra rượu hoặc ma túy của cảnh sát. Ngoài việc bị đình chỉ bằng lái, họ có thể bị phạt dân sự bao nhiêu?",
+      "o": [
+        "$25",
+        "$100",
+        "$5,000",
+        "$250"
+      ],
+      "h1": "Nhiều hơn $100 và ít hơn $500.",
+      "h2": "Theo luật đồng ý ngầm của Idaho, từ chối kiểm tra có thể bị đình chỉ bằng lái và bị phạt dân sự $250.",
+      "p": "Đúng. Tiền phạt dân sự là $250."
+    },
+    "tl": {
+      "q": "Sa Idaho, tumanggi ang isang driver sa hiling ng pulis na alcohol o drug test. Anong civil penalty ang puwede niyang harapin, bukod sa suspensyon?",
+      "o": [
+        "$25",
+        "$100",
+        "$5,000",
+        "$250"
+      ],
+      "h1": "Higit ito sa $100 at kulang sa $500.",
+      "h2": "Ayon sa implied consent law ng Idaho, ang pagtanggi sa test ay puwedeng magdulot ng suspensyon ng lisensya at civil penalty na $250.",
+      "p": "Tama. $250 ang civil penalty."
+    },
+    "ar": {
+      "q": "في Idaho، رفض سائق طلب الشرطي إجراء اختبار للكحول أو المخدرات. ما الغرامة المدنية التي قد يواجهها، إضافةً إلى توقيف الرخصة؟",
+      "o": [
+        "$25",
+        "$100",
+        "$5,000",
+        "$250"
+      ],
+      "h1": "هي أكثر من $100 وأقل من $500.",
+      "h2": "حسب قانون الموافقة الضمنية في Idaho، رفض الاختبار قد يؤدي إلى توقيف الرخصة وغرامة مدنية قدرها $250.",
+      "p": "صحيح. الغرامة المدنية هي $250."
     }
   },
   {
@@ -2879,6 +3311,54 @@
       "h1": "Negarse se castiga más que no pasar la prueba.",
       "h2": "En Idaho, la primera negativa a la prueba trae una suspensión de un año sin ningún privilegio de manejo.",
       "p": "Correcto. La primera negativa significa un año sin manejar."
+    },
+    "zh": {
+      "q": "在 Idaho，一位司机第一次拒绝酒精测试，法庭支持警察的决定。驾照会被暂停多久？",
+      "o": [
+        "一年，完全不能开车",
+        "30 天，可以开车去上班",
+        "90 天",
+        "第一次拒绝不会暂停驾照"
+      ],
+      "h1": "拒绝测试比测试不合格处罚更重。",
+      "h2": "在 Idaho，第一次拒绝测试会被暂停驾照一年，而且完全没有任何开车的权利。",
+      "p": "对。第一次拒绝就是一年完全不能开车。"
+    },
+    "vi": {
+      "q": "Ở Idaho, một người lái từ chối kiểm tra rượu lần đầu tiên, và tòa án đồng ý với cảnh sát. Bằng lái bị đình chỉ bao lâu?",
+      "o": [
+        "Một năm, hoàn toàn không được lái xe",
+        "30 ngày, được lái xe đi làm",
+        "90 ngày",
+        "Không bị đình chỉ khi từ chối lần đầu"
+      ],
+      "h1": "Từ chối kiểm tra bị xử nặng hơn là không đạt bài kiểm tra.",
+      "h2": "Ở Idaho, lần đầu từ chối kiểm tra sẽ bị đình chỉ bằng lái một năm và hoàn toàn không có quyền lái xe.",
+      "p": "Đúng. Lần đầu từ chối nghĩa là một năm hoàn toàn không được lái xe."
+    },
+    "tl": {
+      "q": "Sa Idaho, tumanggi ang isang driver sa alcohol test sa unang pagkakataon, at pumanig ang korte sa pulis. Gaano katagal sususpendihin ang lisensya?",
+      "o": [
+        "Isang taon, bawal talagang magmaneho",
+        "30 araw, puwedeng magmaneho papunta sa trabaho",
+        "90 araw",
+        "Walang suspensyon sa unang pagtanggi"
+      ],
+      "h1": "Mas mabigat ang parusa sa pagtanggi kaysa sa pagbagsak sa test.",
+      "h2": "Sa Idaho, ang unang pagtanggi sa test ay may isang taong suspensyon na walang anumang pribilehiyong magmaneho.",
+      "p": "Tama. Ang unang pagtanggi ay isang taon na bawal magmaneho."
+    },
+    "ar": {
+      "q": "في Idaho، رفض سائق اختبار الكحول لأول مرة، وأيّدت المحكمة قرار الشرطي. كم مدة توقيف الرخصة؟",
+      "o": [
+        "سنة واحدة، بلا قيادة أبدًا",
+        "30 يومًا، مع السماح بالقيادة إلى العمل",
+        "90 يومًا",
+        "لا يوجد توقيف عند الرفض الأول"
+      ],
+      "h1": "الرفض يُعاقَب بشدة أكبر من الرسوب في الاختبار.",
+      "h2": "في Idaho، الرفض الأول للاختبار يؤدي إلى توقيف الرخصة سنة واحدة، بلا أي حق في القيادة أبدًا.",
+      "p": "صحيح. الرفض الأول يعني سنة واحدة بلا قيادة."
     }
   },
   {
@@ -2913,6 +3393,54 @@
       "h1": "Algunos tramos pueden tener un límite aún más alto, de 80.",
       "h2": "En Idaho, el límite en las autopistas interestatales es de 75 mph, a menos que se indique otro, y puede ser de 80 mph donde esté señalado.",
       "p": "Correcto. Es de 75 mph a menos que se indique otro."
+    },
+    "zh": {
+      "q": "在 Idaho，没有标出其他限速时，汽车在州际公路上的限速是多少？",
+      "o": [
+        "55 mph",
+        "65 mph",
+        "75 mph",
+        "85 mph"
+      ],
+      "h1": "有些路段可能标出更高的限速，到 80。",
+      "h2": "在 Idaho，州际公路的限速是 75 mph，除非标出不同的限速，有标示的地方可能允许 80 mph。",
+      "p": "对。除非另有标示，限速是 75 mph。"
+    },
+    "vi": {
+      "q": "Ở Idaho, tốc độ giới hạn cho xe hơi trên xa lộ liên bang là bao nhiêu khi không có biển báo giới hạn khác?",
+      "o": [
+        "55 mph",
+        "65 mph",
+        "75 mph",
+        "85 mph"
+      ],
+      "h1": "Một số đoạn đường có thể có biển báo cao hơn, đến 80.",
+      "h2": "Ở Idaho, tốc độ giới hạn trên xa lộ liên bang là 75 mph trừ khi có biển báo giới hạn khác, và có thể được phép 80 mph ở nơi có biển báo.",
+      "p": "Đúng. Là 75 mph trừ khi có biển báo khác."
+    },
+    "tl": {
+      "q": "Sa Idaho, ano ang speed limit ng mga kotse sa interstate kapag walang ibang limit na nakapaskil?",
+      "o": [
+        "55 mph",
+        "65 mph",
+        "75 mph",
+        "85 mph"
+      ],
+      "h1": "May ilang bahagi na puwedeng mas mataas pa ang nakapaskil, hanggang 80.",
+      "h2": "Sa Idaho, 75 mph ang speed limit sa mga interstate maliban kung may ibang limit na nakapaskil, at puwedeng payagan ang 80 mph kung saan ito nakapaskil.",
+      "p": "Tama. 75 mph ito maliban kung iba ang nakapaskil."
+    },
+    "ar": {
+      "q": "في Idaho، ما حد السرعة للسيارات على الطريق السريع بين الولايات (interstate) عندما لا يوجد حد آخر مكتوب؟",
+      "o": [
+        "55 mph",
+        "65 mph",
+        "75 mph",
+        "85 mph"
+      ],
+      "h1": "بعض الأجزاء قد يُكتب فيها حد أعلى، حتى 80.",
+      "h2": "في Idaho، حد السرعة على الطرق السريعة بين الولايات هو 75 ميلًا في الساعة (mph) ما لم يُكتب حد مختلف، وقد يُسمح بـ 80 mph حيث يكون ذلك مكتوبًا.",
+      "p": "صحيح. هو 75 mph ما لم يُكتب غير ذلك."
     }
   },
   {
@@ -2947,6 +3475,54 @@
       "h1": "Es menos de 45 mph.",
       "h2": "En Idaho, la velocidad máxima en cualquier zona residencial, comercial o urbana es de 35 mph, a menos que se indique otro límite.",
       "p": "Correcto. Es de 35 mph a menos que se indique otra."
+    },
+    "zh": {
+      "q": "在 Idaho，没有标志另外规定时，在住宅区、商业区或市区的最高速度是多少？",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "比 45 mph 低。",
+      "h2": "在 Idaho，任何住宅区、商业区或市区的最高速度是 35 mph，除非标出不同的限速。",
+      "p": "对。除非另有标示，限速是 35 mph。"
+    },
+    "vi": {
+      "q": "Ở Idaho, tốc độ tối đa trong khu dân cư, khu thương mại hoặc khu đô thị là bao nhiêu khi không có biển báo khác?",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "Thấp hơn 45 mph.",
+      "h2": "Ở Idaho, tốc độ tối đa trong mọi khu dân cư, khu thương mại hoặc khu đô thị là 35 mph trừ khi có biển báo giới hạn khác.",
+      "p": "Đúng. Là 35 mph trừ khi có biển báo khác."
+    },
+    "tl": {
+      "q": "Sa Idaho, ano ang pinakamataas na bilis sa residential, business o urban district kapag walang karatulang nagsasabi ng iba?",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "Mas mababa ito sa 45 mph.",
+      "h2": "Sa Idaho, 35 mph ang pinakamataas na bilis sa anumang residential, business o urban district maliban kung may ibang limit na nakapaskil.",
+      "p": "Tama. 35 mph ito maliban kung iba ang nakapaskil."
+    },
+    "ar": {
+      "q": "في Idaho، ما أعلى سرعة في منطقة سكنية أو تجارية أو حضرية عندما لا توجد لافتة تقول غير ذلك؟",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "هي أقل من 45 mph.",
+      "h2": "في Idaho، أعلى سرعة في أي منطقة سكنية أو تجارية أو حضرية هي 35 ميلًا في الساعة (mph) ما لم يُكتب حد مختلف.",
+      "p": "صحيح. هي 35 mph ما لم يُكتب غير ذلك."
     }
   },
   {
@@ -2981,6 +3557,54 @@
       "h1": "Se permite solo al rebasar, y nunca en zonas de obras.",
       "h2": "En Idaho, un auto que no remolca nada puede ir hasta 15 mph sobre el límite para rebasar a un vehículo más lento en una carretera de dos carriles con límite de 55 mph o más, y luego debe volver a bajar la velocidad.",
       "p": "Correcto. Puede ir hasta 15 mph sobre el límite al rebasar."
+    },
+    "zh": {
+      "q": "在 Idaho，你在一条限速 55 mph 或以上的双车道路上超越一辆较慢的车。超车时你可以超过限速多少？",
+      "o": [
+        "完全不可以",
+        "最多 5 mph",
+        "最多 25 mph",
+        "最多 15 mph"
+      ],
+      "h1": "这只适用于超车时，而且在施工区绝对不行。",
+      "h2": "在 Idaho，没有拖带任何东西的汽车，在限速 55 mph 或以上的双车道路上超越较慢的车时，最多可以超过限速 15 mph，超车后要再减速。",
+      "p": "对。超车时最多可以超过限速 15 mph。"
+    },
+    "vi": {
+      "q": "Ở Idaho, bạn đang vượt một xe chậm hơn trên đường hai làn có giới hạn 55 mph trở lên. Khi vượt, bạn được chạy quá giới hạn bao nhiêu?",
+      "o": [
+        "Hoàn toàn không được",
+        "Tối đa 5 mph",
+        "Tối đa 25 mph",
+        "Tối đa 15 mph"
+      ],
+      "h1": "Điều này chỉ áp dụng khi vượt xe, và không bao giờ trong khu công trường.",
+      "h2": "Ở Idaho, xe hơi không kéo theo gì có thể chạy quá giới hạn tối đa 15 mph để vượt một xe chậm hơn trên đường hai làn có giới hạn 55 mph trở lên, rồi giảm tốc độ trở lại.",
+      "p": "Đúng. Bạn được chạy quá tối đa 15 mph khi vượt xe."
+    },
+    "tl": {
+      "q": "Sa Idaho, nag-o-overtake ka sa mas mabagal na kotse sa two-lane na kalsada na may nakapaskil na 55 mph o higit pa. Gaano kalaki ang puwede mong ilampas sa limit habang nag-o-overtake?",
+      "o": [
+        "Hindi talaga puwede",
+        "Hanggang 5 mph",
+        "Hanggang 25 mph",
+        "Hanggang 15 mph"
+      ],
+      "h1": "Para lang ito habang nag-o-overtake, at hindi kailanman sa work zone.",
+      "h2": "Sa Idaho, ang kotseng walang hinihila ay puwedeng lumampas nang hanggang 15 mph sa limit para mag-overtake sa mas mabagal na sasakyan sa two-lane na kalsada na may nakapaskil na 55 mph o higit pa, at pagkatapos ay babagal ulit.",
+      "p": "Tama. Puwede kang lumampas nang hanggang 15 mph habang nag-o-overtake."
+    },
+    "ar": {
+      "q": "في Idaho، أنت تتجاوز سيارة أبطأ على طريق بمسارين حدّ السرعة المكتوب عليه 55 mph أو أكثر. كم يجوز أن تزيد على الحد أثناء التجاوز؟",
+      "o": [
+        "لا يجوز أبدًا",
+        "حتى 5 mph",
+        "حتى 25 mph",
+        "حتى 15 mph"
+      ],
+      "h1": "هذا ينطبق أثناء التجاوز فقط، ولا ينطبق أبدًا في مناطق الأشغال.",
+      "h2": "في Idaho، السيارة التي لا تسحب شيئًا يجوز أن تزيد حتى 15 mph على الحد لتتجاوز مركبة أبطأ على طريق بمسارين حدّه المكتوب 55 mph أو أكثر، ثم تعود فتخفّف السرعة.",
+      "p": "صحيح. يجوز أن تزيد حتى 15 mph أثناء التجاوز."
     }
   },
   {
@@ -3015,6 +3639,54 @@
       "h1": "Es más o menos el largo de seis o siete autos.",
       "h2": "En Idaho, no puede rebasar a menos de 100 pies de una intersección o de un cruce de ferrocarril, salvo que los dispositivos de control de tránsito lo permitan.",
       "p": "Correcto. No se rebasa a menos de 100 pies."
+    },
+    "zh": {
+      "q": "在 Idaho，除非标志或标线另有规定，在离路口或铁路道口多近的地方不可以超车？",
+      "o": [
+        "100 英尺以内",
+        "10 英尺以内",
+        "1,000 英尺以内",
+        "一英里以内"
+      ],
+      "h1": "大约是六到七辆车的长度。",
+      "h2": "在 Idaho，你不可以在离路口或铁路道口 100 英尺以内的地方超车，除非交通控制设施允许。",
+      "p": "对。100 英尺以内不可以超车。"
+    },
+    "vi": {
+      "q": "Ở Idaho, không được vượt xe khi cách giao lộ hoặc chỗ băng qua đường sắt gần bao nhiêu, trừ khi biển báo hoặc vạch kẻ đường cho phép?",
+      "o": [
+        "Trong vòng 100 feet",
+        "Trong vòng 10 feet",
+        "Trong vòng 1,000 feet",
+        "Trong vòng một dặm"
+      ],
+      "h1": "Khoảng chiều dài của sáu hoặc bảy xe hơi.",
+      "h2": "Ở Idaho, bạn không được vượt xe trong vòng 100 feet cách giao lộ hoặc chỗ băng qua đường sắt, trừ khi thiết bị điều khiển giao thông cho phép.",
+      "p": "Đúng. Không được vượt trong vòng 100 feet."
+    },
+    "tl": {
+      "q": "Sa Idaho, gaano kalapit sa intersection o railroad crossing bawal mag-overtake, maliban kung iba ang sinasabi ng mga karatula o marka?",
+      "o": [
+        "Sa loob ng 100 feet",
+        "Sa loob ng 10 feet",
+        "Sa loob ng 1,000 feet",
+        "Sa loob ng isang milya"
+      ],
+      "h1": "Mga haba ito ng anim o pitong kotse.",
+      "h2": "Sa Idaho, bawal kang mag-overtake sa loob ng 100 feet mula sa intersection o railroad crossing, maliban kung pinapayagan ito ng mga traffic control device.",
+      "p": "Tama. Bawal mag-overtake sa loob ng 100 feet."
+    },
+    "ar": {
+      "q": "في Idaho، ما المسافة من التقاطع أو من معبر السكة الحديدية التي لا يُسمح بالتجاوز ضمنها، ما لم تقل اللافتات أو العلامات غير ذلك؟",
+      "o": [
+        "ضمن 100 قدم",
+        "ضمن 10 أقدام",
+        "ضمن 1,000 قدم",
+        "ضمن ميل واحد"
+      ],
+      "h1": "هي تقريبًا طول ست أو سبع سيارات.",
+      "h2": "في Idaho، لا يجوز أن تتجاوز ضمن 100 قدم من تقاطع أو معبر سكة حديدية، إلا إذا سمحت بذلك أجهزة التحكم في المرور.",
+      "p": "صحيح. لا تجاوز ضمن 100 قدم."
     }
   },
   {
@@ -3049,6 +3721,54 @@
       "h1": "Depende de cuántos carriles tiene la carretera.",
       "h2": "En Idaho, no tiene que detenerse por un autobús escolar al otro lado si la carretera tiene cuatro carriles o más, con dos carriles en cada sentido.",
       "p": "Correcto. En una carretera con dos carriles en cada sentido, el otro lado no se detiene."
+    },
+    "zh": {
+      "q": "在 Idaho，一辆校车停在马路对面，红灯在闪。什么时候你不需要停车？",
+      "o": [
+        "当你赶时间时",
+        "当校车在双车道路上时",
+        "当公路有四条或更多车道，每个方向两条时",
+        "当看不到孩子时"
+      ],
+      "h1": "这取决于公路有几条车道。",
+      "h2": "在 Idaho，如果公路有四条或更多车道，每个方向有两条车道，你就不需要为对面的校车停车。",
+      "p": "对。在每个方向有两条车道的公路上，对面的车不用停。"
+    },
+    "vi": {
+      "q": "Ở Idaho, một xe buýt trường học đang dừng với đèn đỏ nhấp nháy ở phía bên kia đường. Khi nào bạn KHÔNG phải dừng lại?",
+      "o": [
+        "Khi bạn đang vội",
+        "Khi xe buýt ở trên đường hai làn",
+        "Khi xa lộ có bốn làn trở lên, mỗi chiều hai làn",
+        "Khi không thấy trẻ em nào"
+      ],
+      "h1": "Điều đó tùy vào số làn của xa lộ.",
+      "h2": "Ở Idaho, bạn không phải dừng lại vì xe buýt trường học ở phía bên kia nếu xa lộ có bốn làn trở lên, với hai làn đi mỗi chiều.",
+      "p": "Đúng. Trên xa lộ có hai làn mỗi chiều, xe ở phía bên kia không phải dừng."
+    },
+    "tl": {
+      "q": "Sa Idaho, may school bus na nakahinto na kumikislap ang pulang ilaw sa kabilang panig ng kalsada. Kailan HINDI mo kailangang huminto?",
+      "o": [
+        "Kapag nagmamadali ka",
+        "Kapag nasa two-lane na kalsada ang bus",
+        "Kapag ang highway ay may apat o higit pang lane, dalawa sa bawat direksyon",
+        "Kapag walang batang nakikita"
+      ],
+      "h1": "Depende ito sa dami ng lane ng highway.",
+      "h2": "Sa Idaho, hindi mo kailangang huminto para sa school bus sa kabilang panig kung ang highway ay may apat o higit pang lane, na may dalawang lane sa bawat direksyon.",
+      "p": "Tama. Sa highway na may dalawang lane bawat direksyon, hindi humihinto ang kabilang panig."
+    },
+    "ar": {
+      "q": "في Idaho، حافلة مدرسية متوقفة وأضواؤها الحمراء تومض على الجهة الأخرى من الطريق. متى ليس عليك أن تتوقف؟",
+      "o": [
+        "عندما تكون مستعجلًا",
+        "عندما تكون الحافلة على طريق بمسارين",
+        "عندما يكون للطريق السريع أربعة مسارات أو أكثر، اثنان في كل اتجاه",
+        "عندما لا ترى أي أطفال"
+      ],
+      "h1": "هذا يعتمد على عدد مسارات الطريق السريع.",
+      "h2": "في Idaho، ليس عليك أن تتوقف لحافلة مدرسية على الجهة الأخرى إذا كان للطريق السريع أربعة مسارات أو أكثر، مع مسارين في كل اتجاه.",
+      "p": "صحيح. على طريق سريع فيه مساران في كل اتجاه، لا تتوقف الجهة الأخرى."
     }
   },
   {
@@ -3083,6 +3803,54 @@
       "h1": "Idaho tiene una regla especial de alto para bicicletas.",
       "h2": "En Idaho, un ciclista no tiene que detenerse por completo en una señal de alto, pero debe ceder el paso a los vehículos en la intersección o cerca de ella y luego seguir con cuidado.",
       "p": "Correcto. Un ciclista puede ceder el paso en una señal de alto sin detenerse por completo."
+    },
+    "zh": {
+      "q": "在 Idaho，骑自行车的人在停车标志前必须怎么做？",
+      "o": [
+        "下车，推着自行车过去",
+        "减速并让行，不用完全停下",
+        "完全停下，等汽车示意他先走",
+        "走人行道绕过去"
+      ],
+      "h1": "Idaho 对自行车有一个特别的停车标志规定。",
+      "h2": "在 Idaho，骑自行车的人在停车标志前不需要完全停下，但必须让路口或路口附近的车辆先走，然后小心前进。",
+      "p": "对。骑自行车的人在停车标志前可以让行，不用完全停下。"
+    },
+    "vi": {
+      "q": "Ở Idaho, người đi xe đạp phải làm gì ở biển báo dừng?",
+      "o": [
+        "Xuống xe và dắt xe đạp qua",
+        "Chạy chậm lại và nhường đường, không cần dừng hẳn",
+        "Dừng hẳn và chờ một xe hơi ra hiệu cho đi",
+        "Đi lên vỉa hè để vòng qua"
+      ],
+      "h1": "Idaho có một luật đặc biệt về biển báo dừng cho xe đạp.",
+      "h2": "Ở Idaho, người đi xe đạp không cần dừng hẳn ở biển báo dừng, nhưng phải nhường đường cho xe cộ ở tại hoặc gần giao lộ rồi mới cẩn thận đi tiếp.",
+      "p": "Đúng. Người đi xe đạp có thể nhường đường ở biển báo dừng mà không cần dừng hẳn."
+    },
+    "tl": {
+      "q": "Sa Idaho, ano ang dapat gawin ng nagbibisikleta sa stop sign?",
+      "o": [
+        "Bumaba at itulak ang bisikleta pagtawid",
+        "Bumagal at magbigay-daan, nang hindi humihinto nang buo",
+        "Huminto nang buo at hintaying sumenyas ang kotse na tumuloy siya",
+        "Gamitin ang sidewalk para lampasan ito"
+      ],
+      "h1": "May espesyal na patakaran ang Idaho sa stop sign para sa bisikleta.",
+      "h2": "Sa Idaho, hindi kailangang huminto nang buo ng nagbibisikleta sa stop sign, pero dapat siyang magbigay-daan sa mga sasakyan na nasa intersection o malapit dito at saka tumuloy nang maingat.",
+      "p": "Tama. Puwedeng magbigay-daan ang nagbibisikleta sa stop sign nang hindi humihinto nang buo."
+    },
+    "ar": {
+      "q": "في Idaho، ماذا يجب أن يفعل راكب الدراجة عند لافتة التوقف؟",
+      "o": [
+        "ينزل ويمشي بالدراجة ليعبر",
+        "يخفّف السرعة ويعطي الأولوية، بلا توقف كامل",
+        "يتوقف تمامًا وينتظر أن تشير له سيارة بالمرور",
+        "يستخدم الرصيف ليلتفّ حولها"
+      ],
+      "h1": "في Idaho قاعدة خاصة للدراجات عند لافتة التوقف.",
+      "h2": "في Idaho، ليس على راكب الدراجة أن يتوقف تمامًا عند لافتة التوقف، لكن يجب أن يعطي الأولوية للمركبات الموجودة في التقاطع أو قربه، ثم يتابع بحذر.",
+      "p": "صحيح. يمكن لراكب الدراجة أن يعطي الأولوية عند لافتة التوقف بلا توقف كامل."
     }
   },
   {
@@ -3117,6 +3885,54 @@
       "h1": "Piense en un paso largo.",
       "h2": "El manual de Idaho dice que debe dejar al menos 3 pies al rebasar a un ciclista, y más espacio a mayor velocidad.",
       "p": "Correcto. Deje al menos 3 pies."
+    },
+    "zh": {
+      "q": "在 Idaho，你要超过一个骑自行车的人，但不能换车道。至少要留多少安全距离？",
+      "o": [
+        "6 英寸",
+        "1 英尺",
+        "2 英尺",
+        "3 英尺"
+      ],
+      "h1": "想想大约一大步。",
+      "h2": "Idaho 驾驶手册说，超过骑自行车的人时至少要留 3 英尺，速度越快要留更多空间。",
+      "p": "对。至少留 3 英尺。"
+    },
+    "vi": {
+      "q": "Ở Idaho, bạn đang vượt một người đi xe đạp và không thể đổi làn. Khoảng cách an toàn tối thiểu cần chừa là bao nhiêu?",
+      "o": [
+        "6 inch",
+        "1 foot",
+        "2 feet",
+        "3 feet"
+      ],
+      "h1": "Hãy nghĩ đến khoảng một bước dài.",
+      "h2": "Sổ tay lái xe của Idaho nói phải chừa ít nhất 3 feet khi vượt người đi xe đạp, và chừa nhiều hơn khi chạy nhanh hơn.",
+      "p": "Đúng. Chừa ít nhất 3 feet."
+    },
+    "tl": {
+      "q": "Sa Idaho, nag-o-overtake ka sa isang nagbibisikleta at hindi ka makalipat ng lane. Ano ang pinakamaliit na ligtas na espasyong dapat mong iwan?",
+      "o": [
+        "6 inches",
+        "1 foot",
+        "2 feet",
+        "3 feet"
+      ],
+      "h1": "Isipin ang mga isang malaking hakbang.",
+      "h2": "Sinasabi ng handbook ng Idaho na mag-iwan ng hindi bababa sa 3 feet kapag nag-o-overtake sa nagbibisikleta, at mas malaking espasyo kapag mas mabilis.",
+      "p": "Tama. Mag-iwan ng hindi bababa sa 3 feet."
+    },
+    "ar": {
+      "q": "في Idaho، أنت تتجاوز راكب دراجة ولا تستطيع أن تغيّر المسار. ما المسافة الآمنة التي يجب أن تتركها على الأقل؟",
+      "o": [
+        "6 بوصات",
+        "قدم واحد (1)",
+        "قدمان (2)",
+        "3 أقدام"
+      ],
+      "h1": "فكّر في خطوة كبيرة واحدة تقريبًا.",
+      "h2": "يقول دليل Idaho أن تترك 3 أقدام على الأقل عندما تتجاوز راكب دراجة، ومسافة أكبر عند السرعات الأعلى.",
+      "p": "صحيح. اترك 3 أقدام على الأقل."
     }
   },
   {
@@ -3151,6 +3967,54 @@
       "h1": "Piense en más de una cancha y media de fútbol americano.",
       "h2": "En Idaho, debe bajar las luces a menos de 500 pies de un vehículo que viene de frente, y a menos de 200 pies de un vehículo que va delante de usted.",
       "p": "Correcto. Bájelas a menos de 500 pies de un auto que viene de frente."
+    },
+    "zh": {
+      "q": "在 Idaho，晚上有一辆车朝你开过来。你必须什么时候把远光灯调暗？",
+      "o": [
+        "离那辆车 500 英尺以内时",
+        "离那辆车 50 英尺以内时",
+        "只有当那辆车在你旁边时",
+        "只有当对方司机闪灯时"
+      ],
+      "h1": "想想比一个半足球场还长的距离。",
+      "h2": "在 Idaho，离迎面来车 500 英尺以内时，你必须把车灯调暗；跟在别的车后面 200 英尺以内时也要调暗。",
+      "p": "对。离迎面来车 500 英尺以内时要调暗。"
+    },
+    "vi": {
+      "q": "Ở Idaho, một xe đang chạy về phía bạn vào ban đêm. Khi nào bạn phải hạ đèn pha xuống?",
+      "o": [
+        "Khi cách xe đó trong vòng 500 feet",
+        "Khi cách xe đó trong vòng 50 feet",
+        "Chỉ khi xe đó ở ngay bên cạnh bạn",
+        "Chỉ khi người lái kia nháy đèn"
+      ],
+      "h1": "Hãy nghĩ đến chiều dài hơn một sân bóng bầu dục rưỡi.",
+      "h2": "Ở Idaho, bạn phải hạ đèn pha khi cách xe chạy ngược chiều trong vòng 500 feet, và khi cách xe bạn đang chạy theo sau trong vòng 200 feet.",
+      "p": "Đúng. Hạ đèn khi cách xe ngược chiều trong vòng 500 feet."
+    },
+    "tl": {
+      "q": "Sa Idaho, may kotseng papalapit sa iyo sa gabi. Kailan mo dapat i-dim ang iyong high beams?",
+      "o": [
+        "Sa loob ng 500 feet mula sa kotse",
+        "Sa loob ng 50 feet mula sa kotse",
+        "Kapag nasa tabi mo na lang ang kotse",
+        "Kapag nag-flash lang ng ilaw ang ibang driver"
+      ],
+      "h1": "Isipin ang haba na higit sa isa't kalahating football field.",
+      "h2": "Sa Idaho, dapat mong i-dim ang iyong headlights sa loob ng 500 feet mula sa paparating na sasakyan, at sa loob ng 200 feet mula sa sasakyang sinusundan mo.",
+      "p": "Tama. I-dim ang mga ito sa loob ng 500 feet mula sa paparating na kotse."
+    },
+    "ar": {
+      "q": "في Idaho، سيارة قادمة نحوك في الليل. متى يجب أن تخفض الأضواء العالية؟",
+      "o": [
+        "ضمن 500 قدم من السيارة",
+        "ضمن 50 قدمًا من السيارة",
+        "فقط عندما تكون السيارة بجانبك",
+        "فقط إذا أومض السائق الآخر بأضوائه"
+      ],
+      "h1": "فكّر في طول أكثر من ملعب كرة قدم ونصف.",
+      "h2": "في Idaho، يجب أن تخفض أضواءك ضمن 500 قدم من مركبة قادمة نحوك، وضمن 200 قدم من مركبة تسير خلفها.",
+      "p": "صحيح. اخفضها ضمن 500 قدم من سيارة قادمة نحوك."
     }
   },
   {
@@ -3185,6 +4049,54 @@
       "h1": "Son para la parte fría del año.",
       "h2": "En Idaho, las llantas de nieve con clavos se pueden usar del 1 de octubre al 30 de abril, y a veces ITD ajusta las fechas por el clima.",
       "p": "Correcto. Las llantas con clavos se permiten del 1 de octubre al 30 de abril."
+    },
+    "zh": {
+      "q": "在 Idaho，除非 ITD 改变日期，什么时候可以使用带钉的雪地轮胎？",
+      "o": [
+        "全年",
+        "只在一月和二月",
+        "从 10 月 1 日到 4 月 30 日",
+        "从 5 月 1 日到 9 月 30 日"
+      ],
+      "h1": "它们是给一年中寒冷的时候用的。",
+      "h2": "在 Idaho，带钉的雪地轮胎可以从 10 月 1 日用到 4 月 30 日，ITD 有时会因为天气调整日期。",
+      "p": "对。带钉轮胎可以从 10 月 1 日用到 4 月 30 日。"
+    },
+    "vi": {
+      "q": "Ở Idaho, khi nào bạn được dùng lốp tuyết có đinh, trừ khi ITD thay đổi ngày?",
+      "o": [
+        "Cả năm",
+        "Chỉ trong tháng 1 và tháng 2",
+        "Từ 1 tháng 10 đến 30 tháng 4",
+        "Từ 1 tháng 5 đến 30 tháng 9"
+      ],
+      "h1": "Chúng dành cho thời gian lạnh trong năm.",
+      "h2": "Ở Idaho, lốp tuyết có đinh được dùng từ 1 tháng 10 đến 30 tháng 4, và đôi khi ITD điều chỉnh ngày theo thời tiết.",
+      "p": "Đúng. Lốp có đinh được phép từ 1 tháng 10 đến 30 tháng 4."
+    },
+    "tl": {
+      "q": "Sa Idaho, kailan puwedeng gumamit ng studded snow tires, maliban kung babaguhin ng ITD ang mga petsa?",
+      "o": [
+        "Buong taon",
+        "Sa Enero at Pebrero lang",
+        "Mula Oktubre 1 hanggang Abril 30",
+        "Mula Mayo 1 hanggang Setyembre 30"
+      ],
+      "h1": "Para ang mga ito sa malamig na bahagi ng taon.",
+      "h2": "Sa Idaho, puwedeng gamitin ang studded snow tires mula Oktubre 1 hanggang Abril 30, at minsan ay inaayos ng ITD ang mga petsa dahil sa panahon.",
+      "p": "Tama. Puwede ang studded tires mula Oktubre 1 hanggang Abril 30."
+    },
+    "ar": {
+      "q": "في Idaho، متى يجوز أن تستخدم إطارات الثلج ذات المسامير، ما لم يغيّر ITD التواريخ؟",
+      "o": [
+        "طوال السنة",
+        "في يناير وفبراير فقط",
+        "من 1 أكتوبر إلى 30 أبريل",
+        "من 1 مايو إلى 30 سبتمبر"
+      ],
+      "h1": "هي للجزء البارد من السنة.",
+      "h2": "في Idaho، يجوز استخدام إطارات الثلج ذات المسامير من 1 أكتوبر إلى 30 أبريل، وأحيانًا يعدّل ITD التواريخ بسبب الطقس.",
+      "p": "صحيح. الإطارات ذات المسامير مسموحة من 1 أكتوبر إلى 30 أبريل."
     }
   },
   {
@@ -3219,6 +4131,54 @@
       "h1": "En campo abierto, el ganado puede andar suelto.",
       "h2": "En Idaho, si choca con ganado en campo abierto, el dueño del animal no es responsable de los daños a usted o a su auto, y usted puede tener que pagar por el animal si fue descuidado.",
       "p": "Correcto. En campo abierto, el dueño no paga por sus daños."
+    },
+    "zh": {
+      "q": "在 Idaho，你在城市范围外的开放牧场上撞到一头牛，你的车坏了。谁来付修车的钱？",
+      "o": [
+        "牛的主人必须付钱",
+        "牛的主人不用为你的损失负责",
+        "县政府付全部修理费",
+        "州道路部门付钱"
+      ],
+      "h1": "在开放牧场上，牲畜可以自由走动。",
+      "h2": "在 Idaho，如果你在开放牧场上撞到牲畜，动物的主人不用为你或你的车的损失负责；如果你开车不小心，你可能还要赔这只动物。",
+      "p": "对。在开放牧场上，主人不用赔你的损失。"
+    },
+    "vi": {
+      "q": "Ở Idaho, bạn đâm phải một con bò trên vùng chăn thả tự do ngoài ranh giới thành phố và xe bạn bị hư. Ai trả tiền cho xe của bạn?",
+      "o": [
+        "Chủ con bò phải trả",
+        "Chủ con bò không chịu trách nhiệm về thiệt hại của bạn",
+        "Quận trả toàn bộ tiền sửa xe",
+        "Sở đường bộ tiểu bang trả"
+      ],
+      "h1": "Trên vùng chăn thả tự do, gia súc được phép đi lại tự do.",
+      "h2": "Ở Idaho, nếu bạn đâm phải gia súc trên vùng chăn thả tự do, chủ con vật không chịu trách nhiệm về thiệt hại cho bạn hoặc xe của bạn, và bạn có thể phải bồi thường con vật nếu bạn bất cẩn.",
+      "p": "Đúng. Trên vùng chăn thả tự do, chủ con vật không trả tiền thiệt hại cho bạn."
+    },
+    "tl": {
+      "q": "Sa Idaho, nakabangga ka ng baka sa open range sa labas ng city limits at nasira ang kotse mo. Sino ang magbabayad para sa kotse mo?",
+      "o": [
+        "Dapat magbayad ang may-ari ng baka",
+        "Hindi mananagot ang may-ari ng baka sa pinsala mo",
+        "Babayaran ng county ang lahat ng pagkukumpuni",
+        "Magbabayad ang departamento ng kalsada ng state"
+      ],
+      "h1": "Sa open range, puwedeng gumala nang malaya ang mga hayop.",
+      "h2": "Sa Idaho, kung nakabangga ka ng hayop sa open range, hindi mananagot ang may-ari ng hayop sa pinsala sa iyo o sa kotse mo, at puwede kang magbayad para sa hayop kung naging pabaya ka.",
+      "p": "Tama. Sa open range, hindi babayaran ng may-ari ang pinsala mo."
+    },
+    "ar": {
+      "q": "في Idaho، صدمت بقرة في منطقة رعي مفتوحة خارج حدود المدينة وتضرّرت سيارتك. من يدفع ثمن إصلاح سيارتك؟",
+      "o": [
+        "يجب أن يدفع صاحب البقرة",
+        "صاحب البقرة غير مسؤول عن الضرر الذي لحق بك",
+        "المقاطعة تدفع كل الإصلاحات",
+        "دائرة الطرق في الولاية تدفع"
+      ],
+      "h1": "في منطقة الرعي المفتوحة، يُسمح للماشية بأن تتجوّل بحرية.",
+      "h2": "في Idaho، إذا صدمت ماشية في منطقة رعي مفتوحة، فصاحب الحيوان غير مسؤول عن الضرر الذي لحق بك أو بسيارتك، وقد تدفع أنت ثمن الحيوان إذا كنت مهملًا.",
+      "p": "صحيح. في منطقة الرعي المفتوحة، لا يدفع صاحب الحيوان ثمن الضرر الذي لحق بك."
     }
   }
 ]

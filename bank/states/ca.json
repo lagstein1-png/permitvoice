@@ -2491,6 +2491,54 @@
       "h1": "Es menos de dos semanas.",
       "h2": "En California, usted debe darle su nueva dirección al DMV dentro de los 10 días después de mudarse.",
       "p": "Correcto. Avise al DMV dentro de 10 días después de mudarse."
+    },
+    "zh": {
+      "q": "在 California，你搬到新家。你必须在多久之内把新地址告诉 DMV？",
+      "o": [
+        "10 天内",
+        "30 天内",
+        "60 天内",
+        "下次更新驾照时"
+      ],
+      "h1": "不到两个星期。",
+      "h2": "在 California，你搬家后必须在 10 天内把新地址告诉 DMV。",
+      "p": "对。搬家后 10 天内告诉 DMV。"
+    },
+    "vi": {
+      "q": "Ở California, bạn chuyển đến nhà mới. Bạn phải báo địa chỉ mới cho DMV trong bao lâu?",
+      "o": [
+        "Trong vòng 10 ngày",
+        "Trong vòng 30 ngày",
+        "Trong vòng 60 ngày",
+        "Vào lần gia hạn tới"
+      ],
+      "h1": "Ít hơn hai tuần.",
+      "h2": "Ở California, bạn phải báo địa chỉ mới cho DMV trong vòng 10 ngày sau khi chuyển nhà.",
+      "p": "Đúng. Báo cho DMV trong vòng 10 ngày sau khi chuyển nhà."
+    },
+    "tl": {
+      "q": "Sa California, lumipat ka sa bagong bahay. Gaano kabilis mo dapat sabihin sa DMV ang bago mong address?",
+      "o": [
+        "Sa loob ng 10 araw",
+        "Sa loob ng 30 araw",
+        "Sa loob ng 60 araw",
+        "Sa susunod mong renewal"
+      ],
+      "h1": "Mas maikli ito sa dalawang linggo.",
+      "h2": "Sa California, dapat mong ibigay sa DMV ang bago mong address sa loob ng 10 araw pagkatapos mong lumipat.",
+      "p": "Tama. Sabihin sa DMV sa loob ng 10 araw pagkatapos lumipat."
+    },
+    "ar": {
+      "q": "في California، انتقلت إلى بيت جديد. خلال كم من الوقت يجب أن تُبلغ DMV بعنوانك الجديد؟",
+      "o": [
+        "خلال 10 أيام",
+        "خلال 30 يومًا",
+        "خلال 60 يومًا",
+        "عند التجديد القادم"
+      ],
+      "h1": "أقل من أسبوعين.",
+      "h2": "في California، يجب أن تُبلغ DMV بعنوانك الجديد خلال 10 أيام بعد الانتقال.",
+      "p": "صحيح. أبلِغ DMV خلال 10 أيام من الانتقال."
     }
   },
   {
@@ -2525,6 +2573,54 @@
       "h1": "Es menos que el total de 6 puntos que se usa para un período de 24 meses.",
       "h2": "En California, un adulto con 4 puntos en su historial en 12 meses puede perder su licencia por suspensión.",
       "p": "Correcto. 4 puntos en 12 meses pueden causar una suspensión."
+    },
+    "zh": {
+      "q": "在 California，12 个月内最少累积几分就可能让成年人的驾照被暂停？",
+      "o": [
+        "1 分",
+        "4 分",
+        "8 分",
+        "12 分"
+      ],
+      "h1": "它比 24 个月期间用的 6 分总数少。",
+      "h2": "在 California，成年人如果 12 个月内记录上有 4 分，驾照可能会被暂停。",
+      "p": "对。12 个月内 4 分就可能导致暂停驾照。"
+    },
+    "vi": {
+      "q": "Ở California, số điểm thấp nhất trong 12 tháng có thể khiến bằng lái của người lớn bị đình chỉ là bao nhiêu?",
+      "o": [
+        "1 điểm",
+        "4 điểm",
+        "8 điểm",
+        "12 điểm"
+      ],
+      "h1": "Ít hơn tổng 6 điểm dùng cho thời gian 24 tháng.",
+      "h2": "Ở California, người lớn có 4 điểm trong hồ sơ trong 12 tháng có thể bị đình chỉ bằng lái.",
+      "p": "Đúng. 4 điểm trong 12 tháng có thể dẫn đến đình chỉ bằng lái."
+    },
+    "tl": {
+      "q": "Sa California, ano ang pinakamababang bilang ng puntos sa loob ng 12 buwan na puwedeng magpasuspinde sa lisensya ng isang adulto?",
+      "o": [
+        "1 puntos",
+        "4 na puntos",
+        "8 puntos",
+        "12 puntos"
+      ],
+      "h1": "Mas mababa ito sa kabuuang 6 na puntos na ginagamit para sa 24 na buwan.",
+      "h2": "Sa California, ang adultong may 4 na puntos sa rekord sa loob ng 12 buwan ay puwedeng masuspinde ang lisensya.",
+      "p": "Tama. Ang 4 na puntos sa loob ng 12 buwan ay puwedeng humantong sa suspensyon."
+    },
+    "ar": {
+      "q": "في California، ما أقل عدد من النقاط خلال 12 شهرًا يمكن أن يؤدي إلى إيقاف رخصة شخص بالغ؟",
+      "o": [
+        "نقطة واحدة (1)",
+        "4 نقاط",
+        "8 نقاط",
+        "12 نقطة"
+      ],
+      "h1": "هو أقل من مجموع 6 نقاط المستخدم لمدة 24 شهرًا.",
+      "h2": "في California، يمكن إيقاف رخصة الشخص البالغ إذا كان في سجلّه 4 نقاط خلال 12 شهرًا.",
+      "p": "صحيح. 4 نقاط خلال 12 شهرًا يمكن أن تؤدي إلى إيقاف الرخصة."
     }
   },
   {
@@ -2559,6 +2655,54 @@
       "h1": "El joven todavía puede manejar, pero no solo.",
       "h2": "En California, dos multas o choques por su culpa en el primer año significan que el joven puede manejar por 30 días solo con un adulto con licencia de 25 años o más.",
       "p": "Correcto. Por 30 días debe ir con un adulto con licencia de 25 años o más."
+    },
+    "zh": {
+      "q": "在 California，一个青少年在拿过渡驾照的第一年里收到两张罚单或发生两次自己有责任的车祸。会怎么样？",
+      "o": [
+        "到 18 岁以前都没事",
+        "驾照被收走一年",
+        "30 天内，这个青少年只能在 25 岁或以上的有驾照成年人陪同下开车",
+        "这个青少年只需要重考视力检查"
+      ],
+      "h1": "这个青少年还可以开车，但不能一个人开。",
+      "h2": "在 California，第一年里有两张罚单或两次自己有责任的车祸，这个青少年在 30 天内只能在 25 岁或以上的有驾照成年人陪同下开车。",
+      "p": "对。30 天内必须有一位 25 岁或以上的有驾照成年人同车。"
+    },
+    "vi": {
+      "q": "Ở California, một thiếu niên trong năm đầu có bằng lái tạm thời bị hai vé phạt hoặc gây ra hai tai nạn do lỗi của mình. Chuyện gì xảy ra?",
+      "o": [
+        "Không có gì cho đến 18 tuổi",
+        "Bằng lái bị thu một năm",
+        "Trong 30 ngày, thiếu niên chỉ được lái khi có một người lớn có bằng lái từ 25 tuổi trở lên",
+        "Thiếu niên chỉ phải thi lại phần kiểm tra thị lực"
+      ],
+      "h1": "Thiếu niên vẫn được lái, nhưng không được lái một mình.",
+      "h2": "Ở California, hai vé phạt hoặc hai tai nạn do lỗi của mình trong năm đầu có nghĩa là trong 30 ngày thiếu niên chỉ được lái khi có một người lớn có bằng lái từ 25 tuổi trở lên.",
+      "p": "Đúng. Trong 30 ngày, phải có một người lớn có bằng lái từ 25 tuổi trở lên đi cùng."
+    },
+    "tl": {
+      "q": "Sa California, ang isang tinedyer na nasa unang taon ng provisional license ay nakakuha ng dalawang tiket o dalawang banggaan na siya ang may kasalanan. Ano ang mangyayari?",
+      "o": [
+        "Wala hanggang edad 18",
+        "Kukunin ang lisensya nang isang taon",
+        "Sa loob ng 30 araw, puwede lang magmaneho ang tinedyer kung may kasamang may lisensyang adulto na 25 taong gulang pataas",
+        "Ang vision test lang ang uulitin ng tinedyer"
+      ],
+      "h1": "Puwede pa ring magmaneho ang tinedyer, pero hindi nang mag-isa.",
+      "h2": "Sa California, kapag may dalawang tiket o dalawang banggaan na siya ang may kasalanan sa unang taon, puwede lang magmaneho ang tinedyer sa loob ng 30 araw kung may kasamang may lisensyang adulto na 25 taong gulang pataas.",
+      "p": "Tama. Sa loob ng 30 araw, dapat may kasamang may lisensyang adulto na 25 pataas."
+    },
+    "ar": {
+      "q": "في California، مراهق في السنة الأولى من رخصته المؤقتة حصل على مخالفتين أو تسبّب في حادثين بخطئه. ماذا يحدث؟",
+      "o": [
+        "لا شيء حتى عمر 18",
+        "تُسحب الرخصة لمدة سنة",
+        "لمدة 30 يومًا، يمكن للمراهق أن يقود فقط مع شخص بالغ عمره 25 سنة أو أكثر ولديه رخصة",
+        "يجب على المراهق إعادة فحص النظر فقط"
+      ],
+      "h1": "ما زال المراهق يستطيع القيادة، لكن ليس وحده.",
+      "h2": "في California، مخالفتان أو حادثان بخطئه في السنة الأولى يعنيان أن المراهق يمكنه القيادة لمدة 30 يومًا فقط مع شخص بالغ عمره 25 سنة أو أكثر ولديه رخصة.",
+      "p": "صحيح. لمدة 30 يومًا يجب أن يركب معه شخص بالغ عمره 25 سنة أو أكثر ولديه رخصة."
     }
   },
   {
@@ -2593,6 +2737,54 @@
       "h1": "Es la opción más estricta.",
       "h2": "En California, tres multas o choques por su culpa en el primer año de un conductor provisional causan una suspensión de seis meses y un año de libertad condicional.",
       "p": "Correcto. Seis meses de suspensión y luego un año de libertad condicional."
+    },
+    "zh": {
+      "q": "在 California，一个过渡驾照驾驶人在第一年里有三张罚单或三次自己有责任的车祸。驾照会怎么样？",
+      "o": [
+        "只收到一封警告信",
+        "晚上开车受限 30 天",
+        "暂停一个星期",
+        "暂停六个月，再加一年观察期"
+      ],
+      "h1": "它是这些选项中最严格的。",
+      "h2": "在 California，过渡驾照驾驶人在第一年里有三张罚单或三次自己有责任的车祸，会被暂停驾照六个月，再加一年观察期。",
+      "p": "对。暂停六个月，然后一年观察期。"
+    },
+    "vi": {
+      "q": "Ở California, một người lái có bằng lái tạm thời bị ba vé phạt hoặc gây ra ba tai nạn do lỗi của mình trong năm đầu. Bằng lái sẽ ra sao?",
+      "o": [
+        "Chỉ có một thư cảnh cáo",
+        "Bị giới hạn lái ban đêm 30 ngày",
+        "Bị đình chỉ một tuần",
+        "Bị đình chỉ sáu tháng và thử thách một năm"
+      ],
+      "h1": "Đây là lựa chọn nghiêm khắc nhất.",
+      "h2": "Ở California, ba vé phạt hoặc ba tai nạn do lỗi của mình trong năm đầu của người lái có bằng tạm thời dẫn đến đình chỉ bằng lái sáu tháng và thử thách một năm.",
+      "p": "Đúng. Đình chỉ sáu tháng, rồi thử thách một năm."
+    },
+    "tl": {
+      "q": "Sa California, ang isang provisional driver ay may tatlong tiket o tatlong banggaan na siya ang may kasalanan sa unang taon. Ano ang mangyayari sa lisensya?",
+      "o": [
+        "Sulat ng babala lang",
+        "30 araw na limitasyon sa pagmamaneho sa gabi",
+        "Isang linggong suspensyon",
+        "Anim na buwang suspensyon at isang taong probation"
+      ],
+      "h1": "Ito ang pinakamahigpit sa mga pagpipiliang ito.",
+      "h2": "Sa California, ang tatlong tiket o tatlong banggaan na kasalanan ng provisional driver sa unang taon ay nagdudulot ng anim na buwang suspensyon at isang taong probation.",
+      "p": "Tama. Anim na buwang suspensyon, tapos isang taong probation."
+    },
+    "ar": {
+      "q": "في California، سائق برخصة مؤقتة حصل على ثلاث مخالفات أو تسبّب في ثلاثة حوادث بخطئه في السنة الأولى. ماذا يحدث للرخصة؟",
+      "o": [
+        "رسالة تحذير فقط",
+        "تقييد القيادة ليلًا لمدة 30 يومًا",
+        "إيقاف لمدة أسبوع",
+        "إيقاف لمدة ستة أشهر وفترة مراقبة لمدة سنة"
+      ],
+      "h1": "هو أشدّ هذه الخيارات.",
+      "h2": "في California، ثلاث مخالفات أو ثلاثة حوادث بخطأ السائق في السنة الأولى من الرخصة المؤقتة تؤدي إلى إيقاف الرخصة ستة أشهر وفترة مراقبة لمدة سنة.",
+      "p": "صحيح. إيقاف ستة أشهر، ثم مراقبة لمدة سنة."
     }
   },
   {
@@ -2627,6 +2819,54 @@
       "h1": "Negarse a la prueba es algo muy serio.",
       "h2": "En California, si usted se niega a una prueba química cuando un oficial sospecha que maneja bajo la influencia, el DMV suspende o revoca su licencia por un año.",
       "p": "Correcto. Negarse a la prueba le quita la licencia por un año."
+    },
+    "zh": {
+      "q": "在 California，警察认为你酒后或药后驾驶，而你拒绝验血或验尿。DMV 会怎么做？",
+      "o": [
+        "暂停或吊销你的驾照一年",
+        "第一次只给你警告",
+        "暂停你的驾照一个星期",
+        "什么都不做，因为检测是自愿的"
+      ],
+      "h1": "拒绝检测会被看得很严重。",
+      "h2": "在 California，如果警察怀疑你酒后或药后驾驶（DUI）而你拒绝化学检测，DMV 会暂停或吊销你的驾照一年。",
+      "p": "对。拒绝检测会让你失去驾照一年。"
+    },
+    "vi": {
+      "q": "Ở California, cảnh sát nghĩ rằng bạn đang lái xe khi say rượu hoặc dùng chất kích thích, và bạn từ chối xét nghiệm máu hoặc nước tiểu. DMV sẽ làm gì?",
+      "o": [
+        "Đình chỉ hoặc thu hồi bằng lái của bạn một năm",
+        "Cảnh cáo bạn lần đầu",
+        "Đình chỉ bằng lái của bạn một tuần",
+        "Không làm gì, vì xét nghiệm là tự nguyện"
+      ],
+      "h1": "Từ chối xét nghiệm bị xem là rất nghiêm trọng.",
+      "h2": "Ở California, nếu bạn từ chối xét nghiệm hóa học khi cảnh sát nghi bạn lái xe khi say (DUI), DMV sẽ đình chỉ hoặc thu hồi bằng lái của bạn một năm.",
+      "p": "Đúng. Từ chối xét nghiệm làm bạn mất bằng lái một năm."
+    },
+    "tl": {
+      "q": "Sa California, iniisip ng pulis na nagmamaneho ka nang lasing o nakadroga, at tumanggi ka sa blood o urine test. Ano ang gagawin ng DMV?",
+      "o": [
+        "Sususpindihin o babawiin ang lisensya mo nang isang taon",
+        "Bibigyan ka ng babala sa unang beses",
+        "Sususpindihin ang lisensya mo nang isang linggo",
+        "Wala, dahil hindi sapilitan ang test"
+      ],
+      "h1": "Itinuturing na napakaseryoso ang pagtanggi sa test.",
+      "h2": "Sa California, kapag tumanggi ka sa chemical test habang pinaghihinalaan ka ng pulis ng DUI, sususpindihin o babawiin ng DMV ang lisensya mo nang isang taon.",
+      "p": "Tama. Ang pagtanggi sa test ay magpapawala sa lisensya mo nang isang taon."
+    },
+    "ar": {
+      "q": "في California، يظن الشرطي أنك تقود تحت تأثير الكحول أو المخدرات، وأنت ترفض فحص الدم أو البول. ماذا تفعل DMV؟",
+      "o": [
+        "توقف رخصتك أو تلغيها لمدة سنة",
+        "تعطيك تحذيرًا في المرة الأولى",
+        "توقف رخصتك لمدة أسبوع",
+        "لا شيء، لأن الفحص اختياري"
+      ],
+      "h1": "رفض الفحص يُعامَل بجدّية كبيرة.",
+      "h2": "في California، إذا رفضت الفحص الكيميائي عندما يشكّ الشرطي في أنك تقود تحت التأثير (DUI)، توقف DMV رخصتك أو تلغيها لمدة سنة.",
+      "p": "صحيح. رفض الفحص يُفقدك رخصتك لمدة سنة."
     }
   },
   {
@@ -2661,6 +2901,54 @@
       "h1": "Es un plazo corto, mucho menos de un mes.",
       "h2": "En California, usted puede pedir una audiencia administrativa del DMV dentro de los 10 días desde la fecha del arresto por manejar bajo la influencia.",
       "p": "Correcto. Pida la audiencia dentro de 10 días después del arresto."
+    },
+    "zh": {
+      "q": "在 California，因酒后或药后驾驶（DUI）被捕后，你必须在多久之内申请 DMV 听证？",
+      "o": [
+        "24 小时内",
+        "被捕后 10 天内",
+        "6 个月内",
+        "只能在法院审判以后"
+      ],
+      "h1": "时间很短，远不到一个月。",
+      "h2": "在 California，你可以在 DUI 被捕那天起 10 天内申请 DMV 行政听证。",
+      "p": "对。在被捕后 10 天内申请听证。"
+    },
+    "vi": {
+      "q": "Ở California, sau khi bị bắt vì lái xe khi say (DUI), bạn phải yêu cầu một buổi điều trần của DMV trong bao lâu?",
+      "o": [
+        "Trong vòng 24 giờ",
+        "Trong vòng 10 ngày kể từ khi bị bắt",
+        "Trong vòng 6 tháng",
+        "Chỉ sau phiên tòa"
+      ],
+      "h1": "Đó là một khoảng thời gian ngắn, ít hơn nhiều so với một tháng.",
+      "h2": "Ở California, bạn có thể yêu cầu một buổi điều trần hành chính của DMV trong vòng 10 ngày kể từ ngày bị bắt vì DUI.",
+      "p": "Đúng. Yêu cầu điều trần trong vòng 10 ngày sau khi bị bắt."
+    },
+    "tl": {
+      "q": "Sa California, pagkatapos maaresto dahil sa DUI, gaano kabilis ka dapat humiling ng hearing sa DMV?",
+      "o": [
+        "Sa loob ng 24 na oras",
+        "Sa loob ng 10 araw mula sa pagkaaresto",
+        "Sa loob ng 6 na buwan",
+        "Pagkatapos lang ng paglilitis sa korte"
+      ],
+      "h1": "Maikli ang panahon, mas maikli pa sa isang buwan.",
+      "h2": "Sa California, puwede kang humiling ng administrative hearing sa DMV sa loob ng 10 araw mula sa araw ng pagkaaresto dahil sa DUI.",
+      "p": "Tama. Humiling ng hearing sa loob ng 10 araw mula sa pagkaaresto."
+    },
+    "ar": {
+      "q": "في California، بعد القبض عليك بسبب القيادة تحت التأثير (DUI)، خلال كم من الوقت يجب أن تطلب جلسة استماع من DMV؟",
+      "o": [
+        "خلال 24 ساعة",
+        "خلال 10 أيام من القبض عليك",
+        "خلال 6 أشهر",
+        "فقط بعد محاكمة في المحكمة"
+      ],
+      "h1": "هي مدة قصيرة، أقل بكثير من شهر.",
+      "h2": "في California، يمكنك أن تطلب جلسة استماع إدارية من DMV خلال 10 أيام من تاريخ القبض عليك بسبب DUI.",
+      "p": "صحيح. اطلب الجلسة خلال 10 أيام من القبض عليك."
     }
   },
   {
@@ -2695,6 +2983,54 @@
       "h1": "No importa quién causó el choque.",
       "h2": "En California, manejar sin el seguro correcto y tener un choque puede causar la suspensión de su licencia hasta por cuatro años, sin importar quién tuvo la culpa.",
       "p": "Correcto. Hasta cuatro años de suspensión, aunque no haya sido su culpa."
+    },
+    "zh": {
+      "q": "在 California，你发生了车祸，而你没有规定的保险。你的驾照可能会怎么样？",
+      "o": [
+        "如果车祸不是你的错，就没事",
+        "暂停 10 天",
+        "暂停最多四年",
+        "只罚款，不暂停"
+      ],
+      "h1": "是谁造成车祸都没有关系。",
+      "h2": "在 California，没有合格的保险开车又发生车祸，你的驾照可能会被暂停最多四年，不管是谁的错。",
+      "p": "对。最多暂停四年，即使不是你的错。"
+    },
+    "vi": {
+      "q": "Ở California, bạn bị tai nạn và bạn không có bảo hiểm bắt buộc. Bằng lái của bạn có thể bị gì?",
+      "o": [
+        "Không có gì, nếu tai nạn không phải lỗi của bạn",
+        "Bị đình chỉ 10 ngày",
+        "Bị đình chỉ đến bốn năm",
+        "Chỉ bị phạt tiền, không bị đình chỉ"
+      ],
+      "h1": "Ai gây ra tai nạn cũng không quan trọng.",
+      "h2": "Ở California, lái xe không có bảo hiểm đúng quy định và bị tai nạn có thể khiến bằng lái của bạn bị đình chỉ đến bốn năm, dù lỗi là của ai.",
+      "p": "Đúng. Đình chỉ đến bốn năm, kể cả khi không phải lỗi của bạn."
+    },
+    "tl": {
+      "q": "Sa California, nabangga ka at wala kang kinakailangang insurance. Ano ang puwedeng mangyari sa lisensya mo?",
+      "o": [
+        "Wala, kung hindi mo kasalanan ang banggaan",
+        "10 araw na suspensyon",
+        "Suspensyon nang hanggang apat na taon",
+        "Multa lang, walang suspensyon"
+      ],
+      "h1": "Hindi mahalaga kung sino ang nagdulot ng banggaan.",
+      "h2": "Sa California, ang pagmamaneho nang walang tamang insurance at pagkakaroon ng banggaan ay puwedeng magpasuspinde sa lisensya mo nang hanggang apat na taon, kahit sino pa ang may kasalanan.",
+      "p": "Tama. Hanggang apat na taong suspensyon, kahit hindi mo kasalanan."
+    },
+    "ar": {
+      "q": "في California، تعرّضت لحادث وليس لديك التأمين المطلوب. ماذا يمكن أن يحدث لرخصتك؟",
+      "o": [
+        "لا شيء، إذا لم يكن الحادث بخطئك",
+        "إيقاف لمدة 10 أيام",
+        "إيقاف لمدة تصل إلى أربع سنوات",
+        "غرامة فقط، بدون إيقاف"
+      ],
+      "h1": "لا يهمّ من تسبّب في الحادث.",
+      "h2": "في California، القيادة بدون التأمين المطلوب والتعرّض لحادث يمكن أن يؤديا إلى إيقاف رخصتك لمدة تصل إلى أربع سنوات، مهما كان المخطئ.",
+      "p": "صحيح. إيقاف يصل إلى أربع سنوات، حتى لو لم يكن الخطأ خطأك."
     }
   },
   {
@@ -2729,6 +3065,54 @@
       "h1": "El reporte de la policía no cuenta por usted.",
       "h2": "En California, cada conductor debe enviar un reporte SR 1 al DMV dentro de 10 días cuando un choque causa más de $1,000 en daños o alguien sale herido.",
       "p": "Correcto. Envíe el SR 1 al DMV dentro de 10 días."
+    },
+    "zh": {
+      "q": "在 California，一场车祸造成超过 $1,000 的损失。每位驾驶人必须做什么？",
+      "o": [
+        "如果警察来过现场，就什么都不用做",
+        "在一小时内打电话给 DMV",
+        "只报告给自己的保险公司",
+        "在 10 天内向 DMV 提交报告（SR 1）"
+      ],
+      "h1": "警察的报告不能代替你的报告。",
+      "h2": "在 California，车祸造成超过 $1,000 的损失或有人受伤时，每位驾驶人都必须在 10 天内向 DMV 提交 SR 1 报告。",
+      "p": "对。在 10 天内向 DMV 提交 SR 1。"
+    },
+    "vi": {
+      "q": "Ở California, một tai nạn gây thiệt hại hơn $1,000. Mỗi người lái phải làm gì?",
+      "o": [
+        "Không làm gì, nếu cảnh sát đã đến hiện trường",
+        "Gọi DMV trong vòng một giờ",
+        "Chỉ báo cho công ty bảo hiểm của mình",
+        "Nộp báo cáo (SR 1) cho DMV trong vòng 10 ngày"
+      ],
+      "h1": "Báo cáo của cảnh sát không thay cho báo cáo của bạn.",
+      "h2": "Ở California, mỗi người lái phải nộp báo cáo SR 1 cho DMV trong vòng 10 ngày khi tai nạn gây thiệt hại hơn $1,000 hoặc có người bị thương.",
+      "p": "Đúng. Nộp SR 1 cho DMV trong vòng 10 ngày."
+    },
+    "tl": {
+      "q": "Sa California, ang isang banggaan ay nagdulot ng higit sa $1,000 na pinsala. Ano ang dapat gawin ng bawat driver?",
+      "o": [
+        "Wala, kung dumating ang pulis sa lugar",
+        "Tawagan ang DMV sa loob ng isang oras",
+        "I-report lang ito sa kanilang insurance company",
+        "Mag-file ng report (SR 1) sa DMV sa loob ng 10 araw"
+      ],
+      "h1": "Hindi binibilang para sa iyo ang report ng pulis.",
+      "h2": "Sa California, dapat mag-file ang bawat driver ng SR 1 report sa DMV sa loob ng 10 araw kapag ang banggaan ay nagdulot ng higit sa $1,000 na pinsala o may nasaktan.",
+      "p": "Tama. Mag-file ng SR 1 sa DMV sa loob ng 10 araw."
+    },
+    "ar": {
+      "q": "في California، حادث سبّب أضرارًا بأكثر من $1,000. ماذا يجب على كل سائق أن يفعل؟",
+      "o": [
+        "لا شيء، إذا جاءت الشرطة إلى المكان",
+        "الاتصال بـ DMV خلال ساعة واحدة",
+        "الإبلاغ لشركة التأمين فقط",
+        "تقديم تقرير (SR 1) إلى DMV خلال 10 أيام"
+      ],
+      "h1": "تقرير الشرطة لا يُحسب بدلًا منك.",
+      "h2": "في California، يجب على كل سائق أن يقدّم تقرير SR 1 إلى DMV خلال 10 أيام عندما يسبّب الحادث أضرارًا بأكثر من $1,000 أو يُصاب أي شخص.",
+      "p": "صحيح. قدّم SR 1 إلى DMV خلال 10 أيام."
     }
   },
   {
@@ -2763,6 +3147,54 @@
       "h1": "Los niños menores de 8 años o de menos de 4 pies 9 pulgadas necesitan más que un cinturón.",
       "h2": "En California, un niño menor de 8 años, o que mide menos de 4 pies 9 pulgadas, debe viajar en un asiento de seguridad para niños en el asiento trasero.",
       "p": "Correcto. Menor de 8 años o de menos de 4 pies 9 pulgadas: asiento para niños atrás."
+    },
+    "zh": {
+      "q": "在 California，一个孩子 6 岁，身高 4 英尺。这个孩子必须怎样坐车？",
+      "o": [
+        "坐在后座的儿童安全座椅里",
+        "在前座系普通安全带",
+        "坐在大人腿上并系安全带",
+        "在任何座位只系腰带"
+      ],
+      "h1": "不到 8 岁或身高不到 4 英尺 9 英寸的孩子需要的不只是安全带。",
+      "h2": "在 California，不到 8 岁或身高不到 4 英尺 9 英寸的孩子必须坐在后座的儿童安全座椅里。",
+      "p": "对。不到 8 岁或不到 4 英尺 9 英寸，就要坐后座的儿童座椅。"
+    },
+    "vi": {
+      "q": "Ở California, một đứa trẻ 6 tuổi và cao 4 feet. Đứa trẻ phải ngồi xe như thế nào?",
+      "o": [
+        "Trong ghế an toàn cho trẻ em ở ghế sau",
+        "Với dây an toàn thường ở ghế trước",
+        "Ngồi trên đùi người lớn có thắt dây an toàn",
+        "Chỉ với dây đai ngang hông, ở bất kỳ ghế nào"
+      ],
+      "h1": "Trẻ dưới 8 tuổi hoặc thấp hơn 4 feet 9 inch cần nhiều hơn dây an toàn.",
+      "h2": "Ở California, trẻ dưới 8 tuổi, hoặc thấp hơn 4 feet 9 inch, phải ngồi trong ghế an toàn cho trẻ em ở ghế sau.",
+      "p": "Đúng. Dưới 8 tuổi hoặc dưới 4 feet 9 inch thì ngồi ghế trẻ em ở phía sau."
+    },
+    "tl": {
+      "q": "Sa California, ang isang bata ay 6 na taong gulang at 4 feet ang taas. Paano dapat sumakay ang bata?",
+      "o": [
+        "Sa child safety seat sa likurang upuan",
+        "Na may karaniwang seat belt sa harapang upuan",
+        "Sa kandungan ng adulto na may seat belt",
+        "Na lap belt lang, sa kahit anong upuan"
+      ],
+      "h1": "Ang mga batang wala pang 8 o mas maliit sa 4 feet 9 inches ay nangangailangan ng higit pa sa seat belt.",
+      "h2": "Sa California, ang batang wala pang 8 taong gulang, o mas maliit sa 4 feet 9 inches, ay dapat sumakay sa child safety seat sa likurang upuan.",
+      "p": "Tama. Wala pang 8 o wala pang 4 feet 9 inches ay child seat sa likod."
+    },
+    "ar": {
+      "q": "في California، طفل عمره 6 سنوات وطوله 4 أقدام. كيف يجب أن يركب الطفل؟",
+      "o": [
+        "في مقعد أمان للأطفال في المقعد الخلفي",
+        "بحزام أمان عادي في المقعد الأمامي",
+        "في حضن شخص بالغ مع حزام أمان",
+        "بحزام الحِجر فقط، في أي مقعد"
+      ],
+      "h1": "الأطفال تحت 8 سنوات أو الأقصر من 4 أقدام و9 بوصات يحتاجون أكثر من حزام الأمان.",
+      "h2": "في California، يجب على الطفل الذي عمره أقل من 8 سنوات، أو طوله أقل من 4 أقدام و9 بوصات، أن يركب في مقعد أمان للأطفال في المقعد الخلفي.",
+      "p": "صحيح. أقل من 8 سنوات أو أقل من 4 أقدام و9 بوصات يعني مقعد أطفال في الخلف."
     }
   },
   {
@@ -2797,6 +3229,54 @@
       "h1": "El niño mira hacia la parte de atrás del carro.",
       "h2": "En California, un niño menor de 2 años que pesa menos de 40 libras y mide menos de 3 pies 4 pulgadas debe viajar en un asiento para niños mirando hacia atrás.",
       "p": "Correcto. Los niños tan pequeños viajan mirando hacia atrás."
+    },
+    "zh": {
+      "q": "在 California，一个孩子不到 2 岁、不到 40 磅，身高不到 3 英尺 4 英寸。这个孩子必须怎样坐车？",
+      "o": [
+        "坐在面向前方的增高座椅里",
+        "坐在面向后方的儿童座椅里",
+        "系普通安全带",
+        "坐在有安全气囊的前座"
+      ],
+      "h1": "孩子面向车的后面。",
+      "h2": "在 California，不到 2 岁、不到 40 磅且身高不到 3 英尺 4 英寸的孩子必须坐在面向后方的儿童座椅里。",
+      "p": "对。这么小的婴幼儿要面向后方坐。"
+    },
+    "vi": {
+      "q": "Ở California, một đứa trẻ dưới 2 tuổi, nặng dưới 40 pound và cao dưới 3 feet 4 inch. Đứa trẻ phải ngồi xe như thế nào?",
+      "o": [
+        "Trong ghế nâng quay về phía trước",
+        "Trong ghế trẻ em quay về phía sau",
+        "Với dây an toàn thường",
+        "Ở ghế trước có túi khí"
+      ],
+      "h1": "Đứa trẻ quay mặt về phía sau xe.",
+      "h2": "Ở California, trẻ dưới 2 tuổi, nặng dưới 40 pound và cao dưới 3 feet 4 inch phải ngồi trong ghế trẻ em quay về phía sau.",
+      "p": "Đúng. Trẻ nhỏ như vậy phải ngồi quay về phía sau."
+    },
+    "tl": {
+      "q": "Sa California, ang isang bata ay wala pang 2 taong gulang, wala pang 40 pounds at wala pang 3 feet 4 inches ang taas. Paano dapat sumakay ang bata?",
+      "o": [
+        "Sa booster seat na nakaharap sa unahan",
+        "Sa child seat na nakaharap sa likod",
+        "Na may karaniwang seat belt",
+        "Sa harapang upuan na may airbag"
+      ],
+      "h1": "Nakaharap ang bata sa likod ng kotse.",
+      "h2": "Sa California, ang batang wala pang 2 taong gulang na wala pang 40 pounds at wala pang 3 feet 4 inches ang taas ay dapat sumakay sa child seat na nakaharap sa likod.",
+      "p": "Tama. Ang mga sanggol at batang ganito kaliit ay nakaharap sa likod."
+    },
+    "ar": {
+      "q": "في California، طفل عمره أقل من سنتين (2)، ووزنه أقل من 40 رطلًا، وطوله أقل من 3 أقدام و4 بوصات. كيف يجب أن يركب الطفل؟",
+      "o": [
+        "في مقعد رافع مواجه للأمام",
+        "في مقعد أطفال مواجه للخلف",
+        "بحزام أمان عادي",
+        "في مقعد أمامي فيه وسادة هوائية"
+      ],
+      "h1": "يكون وجه الطفل نحو خلف السيارة.",
+      "h2": "في California، يجب على الطفل الذي عمره أقل من سنتين (2) ووزنه أقل من 40 رطلًا وطوله أقل من 3 أقدام و4 بوصات أن يركب في مقعد أطفال مواجه للخلف.",
+      "p": "صحيح. الأطفال الصغار بهذا الحجم يركبون ووجوههم للخلف."
     }
   },
   {
@@ -2831,6 +3311,54 @@
       "h1": "El niño puede quedarse con alguien de 12 años o más.",
       "h2": "En California, es ilegal dejar solo en un vehículo a un niño de 6 años o menos, a menos que lo cuide una persona de por lo menos 12 años.",
       "p": "Correcto. Nunca deje solo en el carro a un niño de 6 años o menos."
+    },
+    "zh": {
+      "q": "在 California，多大的孩子不可以一个人留在车里？",
+      "o": [
+        "只有不到 1 岁的婴儿",
+        "只有不到 3 岁的孩子",
+        "6 岁或更小的孩子",
+        "10 岁或更小的孩子"
+      ],
+      "h1": "孩子可以和 12 岁或以上的人待在一起。",
+      "h2": "在 California，把 6 岁或更小的孩子单独留在车里是违法的，除非有一个至少 12 岁的人在看着孩子。",
+      "p": "对。绝不要把 6 岁或更小的孩子单独留在车里。"
+    },
+    "vi": {
+      "q": "Ở California, trẻ ở độ tuổi nào thì không được để một mình trong xe?",
+      "o": [
+        "Chỉ em bé dưới 1 tuổi",
+        "Chỉ trẻ dưới 3 tuổi",
+        "Trẻ 6 tuổi trở xuống",
+        "Trẻ 10 tuổi trở xuống"
+      ],
+      "h1": "Đứa trẻ có thể ở lại với người từ 12 tuổi trở lên.",
+      "h2": "Ở California, để trẻ 6 tuổi trở xuống một mình trong xe là phạm luật, trừ khi có một người ít nhất 12 tuổi trông chừng đứa trẻ.",
+      "p": "Đúng. Không bao giờ để trẻ 6 tuổi trở xuống một mình trong xe."
+    },
+    "tl": {
+      "q": "Sa California, ilang taong gulang na bata ang hindi puwedeng iwanang mag-isa sa kotse?",
+      "o": [
+        "Sanggol lang na wala pang 1",
+        "Bata lang na wala pang 3",
+        "Batang 6 na taong gulang pababa",
+        "Batang 10 taong gulang pababa"
+      ],
+      "h1": "Puwedeng maiwan ang bata kasama ang taong 12 taong gulang pataas.",
+      "h2": "Sa California, labag sa batas na iwanang mag-isa sa sasakyan ang batang 6 na taong gulang pababa maliban kung may taong hindi bababa sa 12 taong gulang na nagbabantay sa bata.",
+      "p": "Tama. Huwag kailanman iwanang mag-isa sa kotse ang batang 6 pababa."
+    },
+    "ar": {
+      "q": "في California، الطفل الذي في أي عمر لا يجوز تركه وحده في السيارة؟",
+      "o": [
+        "الرضيع تحت سنة واحدة (1) فقط",
+        "الطفل تحت 3 سنوات فقط",
+        "الطفل الذي عمره 6 سنوات أو أقل",
+        "الطفل الذي عمره 10 سنوات أو أقل"
+      ],
+      "h1": "يمكن أن يبقى الطفل مع شخص عمره 12 سنة أو أكثر.",
+      "h2": "في California، ترك طفل عمره 6 سنوات أو أقل وحده في السيارة مخالف للقانون، إلا إذا كان شخص عمره 12 سنة على الأقل يراقب الطفل.",
+      "p": "صحيح. لا تترك أبدًا طفلًا عمره 6 سنوات أو أقل وحده في السيارة."
     }
   },
   {
@@ -2865,6 +3393,54 @@
       "h1": "Usted debe poder oír sirenas y bocinas.",
       "h2": "En California, es ilegal manejar con audífonos o tapones en los dos oídos.",
       "p": "Correcto. Nunca se tape los dos oídos mientras maneja."
+    },
+    "zh": {
+      "q": "在 California，开车时戴耳机或耳塞有什么规定？",
+      "o": [
+        "两只耳朵都可以戴，只要音量小",
+        "只有在高速公路上可以戴",
+        "只有白天可以戴",
+        "两只耳朵不可以都戴"
+      ],
+      "h1": "你必须能听到警笛和喇叭声。",
+      "h2": "在 California，开车时两只耳朵都戴着耳机或耳塞是违法的。",
+      "p": "对。开车时绝不要把两只耳朵都盖住。"
+    },
+    "vi": {
+      "q": "Ở California, quy định về tai nghe hoặc nút bịt tai khi lái xe là gì?",
+      "o": [
+        "Bạn có thể đeo ở cả hai tai với âm lượng nhỏ",
+        "Bạn chỉ có thể đeo trên xa lộ",
+        "Bạn chỉ có thể đeo vào ban ngày",
+        "Bạn không được đeo ở cả hai tai"
+      ],
+      "h1": "Bạn phải nghe được còi xe cứu thương và còi xe.",
+      "h2": "Ở California, lái xe khi đeo tai nghe hoặc nút bịt tai ở cả hai tai là phạm luật.",
+      "p": "Đúng. Không bao giờ che cả hai tai khi lái xe."
+    },
+    "tl": {
+      "q": "Sa California, ano ang patakaran tungkol sa headset o earplugs habang nagmamaneho?",
+      "o": [
+        "Puwede mong isuot sa dalawang tainga kung mahina ang volume",
+        "Puwede mo lang isuot sa freeway",
+        "Puwede mo lang isuot sa araw",
+        "Hindi mo puwedeng isuot sa dalawang tainga"
+      ],
+      "h1": "Dapat mong marinig ang mga sirena at busina.",
+      "h2": "Sa California, labag sa batas ang magmaneho nang may suot na headset o earplugs sa dalawang tainga.",
+      "p": "Tama. Huwag kailanman takpan ang dalawang tainga habang nagmamaneho."
+    },
+    "ar": {
+      "q": "في California، ما القاعدة بشأن سماعات الرأس أو سدّادات الأذن أثناء القيادة؟",
+      "o": [
+        "يمكنك لبسها في الأذنين بصوت منخفض",
+        "يمكنك لبسها على الطريق السريع فقط",
+        "يمكنك لبسها في النهار فقط",
+        "يجب ألّا تلبسها في الأذنين الاثنتين"
+      ],
+      "h1": "يجب أن تستطيع سماع صفارات الإنذار والأبواق.",
+      "h2": "في California، القيادة مع لبس سماعات الرأس أو سدّادات الأذن في الأذنين الاثنتين مخالفة للقانون.",
+      "p": "صحيح. لا تغطِّ أذنيك الاثنتين أبدًا وأنت تقود."
     }
   },
   {
@@ -2899,6 +3475,54 @@
       "h1": "Es más o menos el largo de una cancha de fútbol americano.",
       "h2": "En California, es ilegal seguir a menos de 300 pies a un vehículo de emergencia que tiene la sirena o las luces encendidas.",
       "p": "Correcto. Quédese por lo menos a 300 pies detrás."
+    },
+    "zh": {
+      "q": "在 California，消防车或救护车开着警笛或闪灯时，你最近可以跟在它后面多远？",
+      "o": [
+        "不能比 300 英尺更近",
+        "不能比 50 英尺更近",
+        "不能比 100 英尺更近",
+        "如果车不多，想多近都可以"
+      ],
+      "h1": "大约是一个足球场的长度。",
+      "h2": "在 California，跟在开着警笛或闪灯的紧急车辆后面 300 英尺以内是违法的。",
+      "p": "对。至少在它后面 300 英尺。"
+    },
+    "vi": {
+      "q": "Ở California, bạn được đi theo sau xe cứu hỏa hoặc xe cứu thương đang bật còi hoặc đèn nhấp nháy gần đến mức nào?",
+      "o": [
+        "Không gần hơn 300 feet",
+        "Không gần hơn 50 feet",
+        "Không gần hơn 100 feet",
+        "Gần bao nhiêu cũng được nếu ít xe"
+      ],
+      "h1": "Khoảng chiều dài một sân bóng bầu dục.",
+      "h2": "Ở California, đi theo trong vòng 300 feet sau một xe khẩn cấp đang bật còi hoặc đèn nhấp nháy là phạm luật.",
+      "p": "Đúng. Giữ khoảng cách ít nhất 300 feet phía sau."
+    },
+    "tl": {
+      "q": "Sa California, gaano kalapit ka puwedeng sumunod sa fire truck o ambulansya na nakabukas ang sirena o kumikislap na ilaw?",
+      "o": [
+        "Hindi lalapit sa 300 feet",
+        "Hindi lalapit sa 50 feet",
+        "Hindi lalapit sa 100 feet",
+        "Kahit gaano kalapit kung kaunti ang trapiko"
+      ],
+      "h1": "Halos kasinghaba ito ng isang football field.",
+      "h2": "Sa California, labag sa batas ang sumunod sa loob ng 300 feet sa emergency vehicle na nakabukas ang sirena o kumikislap na ilaw.",
+      "p": "Tama. Manatili nang hindi bababa sa 300 feet sa likod nito."
+    },
+    "ar": {
+      "q": "في California، إلى أي مدى يمكنك أن تقترب وأنت تسير خلف سيارة إطفاء أو إسعاف صفارتها أو أضواؤها الوامضة تعمل؟",
+      "o": [
+        "ليس أقرب من 300 قدم",
+        "ليس أقرب من 50 قدمًا",
+        "ليس أقرب من 100 قدم",
+        "بقدر ما تريد إذا كانت حركة السير خفيفة"
+      ],
+      "h1": "هي تقريبًا طول ملعب كرة قدم أمريكية.",
+      "h2": "في California، السير خلف مركبة طوارئ صفارتها أو أضواؤها الوامضة تعمل على مسافة أقل من 300 قدم مخالف للقانون.",
+      "p": "صحيح. ابقَ خلفها بمسافة 300 قدم على الأقل."
     }
   },
   {
@@ -2933,6 +3557,54 @@
       "h1": "No es un carril para viajar ni para rebasar.",
       "h2": "En California, usted puede manejar no más de 200 pies en un carril central para dar vuelta a la izquierda antes de dar la vuelta.",
       "p": "Correcto. Úselo por 200 pies como máximo."
+    },
+    "zh": {
+      "q": "在 California，你在中央左转车道里最多可以开多远？",
+      "o": [
+        "最多 50 英尺",
+        "最多 200 英尺",
+        "最多半英里",
+        "需要多远就开多远"
+      ],
+      "h1": "它不是用来行驶或超车的车道。",
+      "h2": "在 California，你在转弯前在中央左转车道里最多只能开 200 英尺。",
+      "p": "对。最多使用 200 英尺。"
+    },
+    "vi": {
+      "q": "Ở California, bạn được chạy bao xa trong làn rẽ trái ở giữa đường?",
+      "o": [
+        "Tối đa 50 feet",
+        "Tối đa 200 feet",
+        "Tối đa nửa dặm",
+        "Bao xa tùy bạn cần"
+      ],
+      "h1": "Đó không phải là làn để chạy hoặc vượt xe.",
+      "h2": "Ở California, bạn chỉ được chạy tối đa 200 feet trong làn rẽ trái ở giữa đường trước khi rẽ.",
+      "p": "Đúng. Dùng nó tối đa 200 feet."
+    },
+    "tl": {
+      "q": "Sa California, gaano kalayo ka puwedeng magmaneho sa center left turn lane?",
+      "o": [
+        "Hanggang 50 feet",
+        "Hanggang 200 feet",
+        "Hanggang kalahating milya",
+        "Kahit gaano kalayo ang kailangan mo"
+      ],
+      "h1": "Hindi ito lane para bumiyahe o mag-overtake.",
+      "h2": "Sa California, hindi ka puwedeng magmaneho nang higit sa 200 feet sa center left turn lane bago ka lumiko.",
+      "p": "Tama. Gamitin ito nang hindi hihigit sa 200 feet."
+    },
+    "ar": {
+      "q": "في California، ما أقصى مسافة يمكنك أن تقودها في حارة الانعطاف لليسار في الوسط؟",
+      "o": [
+        "حتى 50 قدمًا",
+        "حتى 200 قدم",
+        "حتى نصف ميل",
+        "بقدر ما تحتاج"
+      ],
+      "h1": "ليست حارة للسير أو للتجاوز.",
+      "h2": "في California، يمكنك أن تقود 200 قدم على الأكثر في حارة الانعطاف لليسار في الوسط قبل أن تنعطف.",
+      "p": "صحيح. استخدمها لمسافة 200 قدم على الأكثر."
     }
   },
   {
@@ -2967,6 +3639,54 @@
       "h1": "Cuente la fila de carros detrás de usted.",
       "h2": "En California, un conductor lento en una carretera de dos carriles donde no es seguro rebasar debe usar un área de salida cuando lo siguen cinco vehículos o más.",
       "p": "Correcto. Con cinco carros o más detrás, use el área de salida."
+    },
+    "zh": {
+      "q": "在 California，你在一条不安全超车的双车道道路上开得很慢。你什么时候必须开进让车区（turnout）让其他车超过？",
+      "o": [
+        "只要后面有一辆车",
+        "只在晚上",
+        "当有五辆或更多车跟在你后面时",
+        "只在警察叫你时"
+      ],
+      "h1": "数一数你后面排了几辆车。",
+      "h2": "在 California，在不安全超车的双车道道路上，开得慢的驾驶人在有五辆或更多车跟在后面时，必须开进让车区。",
+      "p": "对。后面有五辆或更多车，就开进让车区。"
+    },
+    "vi": {
+      "q": "Ở California, bạn đang chạy chậm trên đường hai làn nơi vượt xe không an toàn. Khi nào bạn phải tấp vào chỗ tránh xe (turnout) để cho xe khác vượt?",
+      "o": [
+        "Bất cứ khi nào có một xe phía sau",
+        "Chỉ vào ban đêm",
+        "Khi có năm xe trở lên đang theo sau bạn",
+        "Chỉ khi cảnh sát bảo bạn"
+      ],
+      "h1": "Hãy đếm hàng xe phía sau bạn.",
+      "h2": "Ở California, người lái chậm trên đường hai làn nơi vượt xe không an toàn phải tấp vào chỗ tránh xe khi có năm xe trở lên đang theo sau.",
+      "p": "Đúng. Có năm xe trở lên phía sau thì tấp vào chỗ tránh xe."
+    },
+    "tl": {
+      "q": "Sa California, mabagal kang nagmamaneho sa two-lane na kalsada kung saan hindi ligtas mag-overtake. Kailan mo dapat gamitin ang turnout para makalampas ang ibang kotse?",
+      "o": [
+        "Tuwing may isang kotse sa likod mo",
+        "Sa gabi lang",
+        "Kapag lima o higit pang sasakyan ang sumusunod sa iyo",
+        "Kapag sinabi lang ng pulis"
+      ],
+      "h1": "Bilangin ang hanay ng mga kotse sa likod mo.",
+      "h2": "Sa California, ang mabagal na driver sa two-lane na kalsada kung saan hindi ligtas mag-overtake ay dapat gumamit ng turnout kapag lima o higit pang sasakyan ang sumusunod.",
+      "p": "Tama. Lima o higit pang kotse sa likod mo ay nangangahulugang gamitin ang turnout."
+    },
+    "ar": {
+      "q": "في California، أنت تقود ببطء على طريق بحارتين لا يكون التجاوز فيه آمنًا. متى يجب أن تدخل إلى مكان الانتظار الجانبي (turnout) لتترك السيارات تتجاوزك؟",
+      "o": [
+        "كلما كانت سيارة واحدة خلفك",
+        "في الليل فقط",
+        "عندما تكون خمس مركبات أو أكثر خلفك",
+        "فقط عندما يطلب منك شرطي ذلك"
+      ],
+      "h1": "عُدّ صفّ السيارات خلفك.",
+      "h2": "في California، يجب على السائق البطيء على طريق بحارتين لا يكون التجاوز فيه آمنًا أن يدخل إلى مكان الانتظار الجانبي عندما تكون خمس مركبات أو أكثر خلفه.",
+      "p": "صحيح. خمس سيارات أو أكثر خلفك تعني أن تدخل إلى مكان الانتظار الجانبي."
     }
   },
   {
@@ -3001,6 +3721,54 @@
       "h1": "Es más o menos un paso largo.",
       "h2": "En California, cuando rebasa a una bicicleta en el mismo carril, debe dejar por lo menos 3 pies, y si no puede, debe esperar.",
       "p": "Correcto. Deje por lo menos 3 pies a la bicicleta."
+    },
+    "zh": {
+      "q": "在 California，你没办法换车道来超过一辆自行车。你必须留出多少空间？",
+      "o": [
+        "至少 1 英尺",
+        "至少 18 英寸",
+        "至少 2 英尺",
+        "至少 3 英尺"
+      ],
+      "h1": "大约是跨一大步的距离。",
+      "h2": "在 California，在同一条车道上超过自行车时，你必须留出至少 3 英尺；如果做不到，就必须等。",
+      "p": "对。给自行车留出至少 3 英尺。"
+    },
+    "vi": {
+      "q": "Ở California, bạn không thể đổi làn để vượt một xe đạp. Bạn phải chừa khoảng cách bao nhiêu?",
+      "o": [
+        "Ít nhất 1 foot",
+        "Ít nhất 18 inch",
+        "Ít nhất 2 feet",
+        "Ít nhất 3 feet"
+      ],
+      "h1": "Khoảng một bước chân dài.",
+      "h2": "Ở California, khi vượt xe đạp trong cùng một làn, bạn phải chừa ít nhất 3 feet, và nếu không thể thì bạn phải chờ.",
+      "p": "Đúng. Chừa cho xe đạp ít nhất 3 feet."
+    },
+    "tl": {
+      "q": "Sa California, hindi ka makalipat ng lane para lampasan ang isang bisikleta. Gaano kalaking espasyo ang dapat mong iwan?",
+      "o": [
+        "Hindi bababa sa 1 foot",
+        "Hindi bababa sa 18 inches",
+        "Hindi bababa sa 2 feet",
+        "Hindi bababa sa 3 feet"
+      ],
+      "h1": "Halos isang mahabang hakbang ito.",
+      "h2": "Sa California, kapag nilalampasan mo ang bisikleta sa parehong lane, dapat kang mag-iwan ng hindi bababa sa 3 feet, at dapat kang maghintay kung hindi mo ito magagawa.",
+      "p": "Tama. Bigyan ang bisikleta ng hindi bababa sa 3 feet."
+    },
+    "ar": {
+      "q": "في California، لا تستطيع أن تغيّر الحارة لتتجاوز درّاجة هوائية. كم مسافة يجب أن تترك؟",
+      "o": [
+        "قدم واحد (1) على الأقل",
+        "18 بوصة على الأقل",
+        "قدمان (2) على الأقل",
+        "3 أقدام على الأقل"
+      ],
+      "h1": "هي تقريبًا خطوة واحدة طويلة.",
+      "h2": "في California، عندما تتجاوز درّاجة هوائية في نفس الحارة، يجب أن تترك 3 أقدام على الأقل، ويجب أن تنتظر إذا لم تستطع ذلك.",
+      "p": "صحيح. اترك للدرّاجة 3 أقدام على الأقل."
     }
   },
   {
@@ -3035,6 +3803,54 @@
       "h1": "Son algunos largos de carro, para que se vea a los peatones.",
       "h2": "En California, no puede estacionarse a menos de 20 pies de un cruce peatonal, marcado o no, ni a menos de 15 pies donde hay una extensión de la acera.",
       "p": "Correcto. Estaciónese por lo menos a 20 pies de un cruce peatonal."
+    },
+    "zh": {
+      "q": "在 California，没有路缘延伸（curb extension）时，你最近可以在离人行横道多远的地方停车？",
+      "o": [
+        "不能比 20 英尺更近",
+        "不能比 5 英尺更近",
+        "不能比 10 英尺更近",
+        "可以一直停到人行横道线边上"
+      ],
+      "h1": "大约是几辆车的长度，这样走路的人才能被看见。",
+      "h2": "在 California，你不可以在有标线或没有标线的人行横道 20 英尺以内停车；有路缘延伸的地方是 15 英尺以内。",
+      "p": "对。停车时离人行横道至少 20 英尺。"
+    },
+    "vi": {
+      "q": "Ở California, khi không có phần lề đường mở rộng (curb extension), bạn được đậu xe gần lối qua đường cho người đi bộ đến mức nào?",
+      "o": [
+        "Không gần hơn 20 feet",
+        "Không gần hơn 5 feet",
+        "Không gần hơn 10 feet",
+        "Sát ngay vạch lối qua đường"
+      ],
+      "h1": "Cách vài chiều dài xe, để người đi bộ có thể được nhìn thấy.",
+      "h2": "Ở California, bạn không được đậu xe trong vòng 20 feet của lối qua đường có vạch hoặc không có vạch, hoặc trong vòng 15 feet nơi có phần lề đường mở rộng.",
+      "p": "Đúng. Đậu xe cách lối qua đường ít nhất 20 feet."
+    },
+    "tl": {
+      "q": "Sa California, gaano kalapit sa tawiran ka puwedeng pumarada kapag walang curb extension?",
+      "o": [
+        "Hindi lalapit sa 20 feet",
+        "Hindi lalapit sa 5 feet",
+        "Hindi lalapit sa 10 feet",
+        "Hanggang mismo sa mga linya ng tawiran"
+      ],
+      "h1": "Ilang haba ito ng kotse ang layo, para makita ang mga taong naglalakad.",
+      "h2": "Sa California, hindi ka puwedeng pumarada sa loob ng 20 feet ng tawiran na may marka o walang marka, o sa loob ng 15 feet kung saan may curb extension.",
+      "p": "Tama. Pumarada nang hindi bababa sa 20 feet mula sa tawiran."
+    },
+    "ar": {
+      "q": "في California، إلى أي مدى يمكنك أن تركن قرب ممرّ المشاة، عندما لا يوجد امتداد لحافّة الرصيف (curb extension)؟",
+      "o": [
+        "ليس أقرب من 20 قدمًا",
+        "ليس أقرب من 5 أقدام",
+        "ليس أقرب من 10 أقدام",
+        "حتى خطوط ممرّ المشاة مباشرة"
+      ],
+      "h1": "هي مسافة بطول بضع سيارات، حتى يمكن رؤية المشاة.",
+      "h2": "في California، يجب ألّا تركن على مسافة أقل من 20 قدمًا من ممرّ مشاة له خطوط أو بدون خطوط، أو أقل من 15 قدمًا حيث يوجد امتداد لحافّة الرصيف.",
+      "p": "صحيح. اركن على بعد 20 قدمًا على الأقل من ممرّ المشاة."
     }
   },
   {
@@ -3069,6 +3885,54 @@
       "h1": "Deje espacio para que el tren no golpee su carro.",
       "h2": "En California, cuando un cruce avisa que viene un tren, usted debe detenerse por lo menos a 15 pies de la vía más cercana.",
       "p": "Correcto. Deténgase por lo menos a 15 pies de la vía más cercana."
+    },
+    "zh": {
+      "q": "在 California，铁路道口的信号警告火车要来了。你必须在哪里停车？",
+      "o": [
+        "就停在铁轨边上",
+        "离最近的铁轨至少 15 英尺",
+        "离最近的铁轨至少 100 英尺",
+        "哪里都可以，只要栏杆没放下"
+      ],
+      "h1": "留出空间，让火车撞不到你的车。",
+      "h2": "在 California，道口警告有火车时，你必须停在离最近的铁轨至少 15 英尺的地方。",
+      "p": "对。停在离最近的铁轨至少 15 英尺的地方。"
+    },
+    "vi": {
+      "q": "Ở California, tín hiệu ở chỗ giao nhau với đường ray cảnh báo có tàu hỏa đang đến. Bạn phải dừng ở đâu?",
+      "o": [
+        "Ngay sát mép đường ray",
+        "Cách đường ray gần nhất ít nhất 15 feet",
+        "Cách đường ray gần nhất ít nhất 100 feet",
+        "Ở đâu cũng được, miễn là thanh chắn chưa hạ xuống"
+      ],
+      "h1": "Chừa khoảng trống để tàu không thể đụng vào xe của bạn.",
+      "h2": "Ở California, khi chỗ giao nhau báo có tàu, bạn phải dừng cách đường ray gần nhất ít nhất 15 feet.",
+      "p": "Đúng. Dừng cách đường ray gần nhất ít nhất 15 feet."
+    },
+    "tl": {
+      "q": "Sa California, nagbababala ang mga signal sa railroad crossing na may paparating na tren. Saan ka dapat huminto?",
+      "o": [
+        "Mismo sa gilid ng riles",
+        "Hindi bababa sa 15 feet mula sa pinakamalapit na riles",
+        "Hindi bababa sa 100 feet mula sa pinakamalapit na riles",
+        "Kahit saan, basta hindi pa bumababa ang harang"
+      ],
+      "h1": "Mag-iwan ng espasyo para hindi mabangga ng tren ang kotse mo.",
+      "h2": "Sa California, kapag nagbababala ang crossing na may tren, dapat kang huminto nang hindi bababa sa 15 feet mula sa pinakamalapit na riles.",
+      "p": "Tama. Huminto nang hindi bababa sa 15 feet mula sa pinakamalapit na riles."
+    },
+    "ar": {
+      "q": "في California، إشارات تقاطع السكة الحديدية تحذّر من أن قطارًا قادم. أين يجب أن تتوقف؟",
+      "o": [
+        "على حافّة السكة مباشرة",
+        "على بعد 15 قدمًا على الأقل من أقرب سكة",
+        "على بعد 100 قدم على الأقل من أقرب سكة",
+        "في أي مكان، ما دام الحاجز لم ينزل"
+      ],
+      "h1": "اترك مسافة حتى لا يصدم القطار سيارتك.",
+      "h2": "في California، عندما يحذّر التقاطع من قطار، يجب أن تتوقف على بعد 15 قدمًا على الأقل من أقرب سكة.",
+      "p": "صحيح. توقف على بعد 15 قدمًا على الأقل من أقرب سكة."
     }
   },
   {
@@ -3103,6 +3967,54 @@
       "h1": "Es igual que el límite en una zona residencial.",
       "h2": "En California, el límite es de 25 mph a menos de 500 pies de una escuela cuando hay niños afuera o cruzando, y en algunas zonas escolares el límite es de 15 mph.",
       "p": "Correcto. 25 mph cerca de una escuela cuando hay niños."
+    },
+    "zh": {
+      "q": "在 California，孩子在外面或正在过马路时，学校 500 英尺以内的限速是多少？",
+      "o": [
+        "任何情况下都是 15 mph",
+        "35 mph",
+        "25 mph，除非标示了更低的限速",
+        "45 mph"
+      ],
+      "h1": "它和住宅区的限速一样。",
+      "h2": "在 California，孩子在外面或正在过马路时，学校 500 英尺以内的限速是 25 mph，有些学校区标示 15 mph。",
+      "p": "对。孩子在附近时，学校旁边是 25 mph。"
+    },
+    "vi": {
+      "q": "Ở California, tốc độ tối đa trong vòng 500 feet quanh trường học khi trẻ em đang ở ngoài hoặc đang băng qua đường là bao nhiêu?",
+      "o": [
+        "15 mph trong mọi trường hợp",
+        "35 mph",
+        "25 mph, trừ khi có biển ghi tốc độ thấp hơn",
+        "45 mph"
+      ],
+      "h1": "Giống với tốc độ tối đa trong khu dân cư.",
+      "h2": "Ở California, tốc độ tối đa là 25 mph trong vòng 500 feet quanh trường học khi trẻ em đang ở ngoài hoặc đang băng qua đường, và một số khu trường học có biển 15 mph.",
+      "p": "Đúng. 25 mph gần trường học khi có trẻ em xung quanh."
+    },
+    "tl": {
+      "q": "Sa California, ano ang speed limit sa loob ng 500 feet ng paaralan habang nasa labas o tumatawid ang mga bata?",
+      "o": [
+        "15 mph sa lahat ng kaso",
+        "35 mph",
+        "25 mph, maliban kung may nakasulat na mas mababang limitasyon",
+        "45 mph"
+      ],
+      "h1": "Pareho ito ng limitasyon sa residential na lugar.",
+      "h2": "Sa California, ang speed limit ay 25 mph sa loob ng 500 feet ng paaralan habang nasa labas o tumatawid ang mga bata, at may ilang school zone na nakasulat na 15 mph.",
+      "p": "Tama. 25 mph malapit sa paaralan kapag may mga bata sa paligid."
+    },
+    "ar": {
+      "q": "في California، ما حدّ السرعة على مسافة 500 قدم من المدرسة عندما يكون الأطفال في الخارج أو يعبرون الطريق؟",
+      "o": [
+        "15 mph في كل الحالات",
+        "35 mph",
+        "25 mph، إلا إذا ظهر على لافتة حدّ أقل",
+        "45 mph"
+      ],
+      "h1": "هو نفس الحدّ في المنطقة السكنية.",
+      "h2": "في California، حدّ السرعة هو 25 mph على مسافة 500 قدم من المدرسة عندما يكون الأطفال في الخارج أو يعبرون الطريق، وبعض مناطق المدارس عليها لافتة 15 mph.",
+      "p": "صحيح. 25 mph قرب المدرسة عندما يكون الأطفال حولها."
     }
   },
   {
@@ -3137,6 +4049,54 @@
       "h1": "Es uno de los castigos más grandes de esta lista.",
       "h2": "En California, no detenerse ante un autobús escolar con luces rojas intermitentes puede costarle una multa de hasta $1,000 y la suspensión de su privilegio de manejar por un año.",
       "p": "Correcto. Hasta $1,000 y una suspensión de un año."
+    },
+    "zh": {
+      "q": "在 California，如果你没有为亮着红色闪灯的校车停车，可能会怎么样？",
+      "o": [
+        "只有警告",
+        "罚款 $25",
+        "30 天内限制载客",
+        "罚款最多 $1,000，并暂停驾照一年"
+      ],
+      "h1": "这个处罚是这里最重的之一。",
+      "h2": "在 California，没有为亮着红色闪灯的校车停车，可能被罚款最多 $1,000，并暂停驾驶资格一年。",
+      "p": "对。最多 $1,000，并暂停一年。"
+    },
+    "vi": {
+      "q": "Ở California, chuyện gì có thể xảy ra nếu bạn không dừng lại khi xe buýt trường học bật đèn đỏ nhấp nháy?",
+      "o": [
+        "Chỉ bị cảnh cáo",
+        "Bị phạt $25",
+        "Bị giới hạn chở người 30 ngày",
+        "Bị phạt đến $1,000 và đình chỉ một năm"
+      ],
+      "h1": "Hình phạt này là một trong những hình phạt nặng nhất trong danh sách.",
+      "h2": "Ở California, không dừng lại khi xe buýt trường học bật đèn đỏ nhấp nháy có thể bị phạt đến $1,000 và bị đình chỉ quyền lái xe một năm.",
+      "p": "Đúng. Phạt đến $1,000 và đình chỉ một năm."
+    },
+    "tl": {
+      "q": "Sa California, ano ang puwedeng mangyari kung hindi ka huminto para sa school bus na may kumikislap na pulang ilaw?",
+      "o": [
+        "Babala lang",
+        "$25 na multa",
+        "30 araw na limitasyon sa mga pasahero",
+        "Multang hanggang $1,000 at isang taong suspensyon"
+      ],
+      "h1": "Isa ang parusang ito sa pinakamabigat sa listahan.",
+      "h2": "Sa California, ang hindi paghinto para sa school bus na may kumikislap na pulang ilaw ay puwedeng magdulot ng multang hanggang $1,000 at isang taong suspensyon ng pribilehiyo mong magmaneho.",
+      "p": "Tama. Hanggang $1,000 at isang taong suspensyon."
+    },
+    "ar": {
+      "q": "في California، ماذا يمكن أن يحدث إذا لم تتوقف لحافلة مدرسية أضواؤها الحمراء تومض؟",
+      "o": [
+        "تحذير فقط",
+        "غرامة $25",
+        "تقييد عدد الركاب لمدة 30 يومًا",
+        "غرامة تصل إلى $1,000 وإيقاف لمدة سنة"
+      ],
+      "h1": "هذه العقوبة من أكبر العقوبات في هذه القائمة.",
+      "h2": "في California، عدم التوقف لحافلة مدرسية أضواؤها الحمراء تومض يمكن أن يؤدي إلى غرامة تصل إلى $1,000 وإيقاف حقّك في القيادة لمدة سنة.",
+      "p": "صحيح. غرامة تصل إلى $1,000 وإيقاف لمدة سنة."
     }
   },
   {
@@ -3171,6 +4131,54 @@
       "h1": "Debe ir al DMV y hacerse revisar la vista.",
       "h2": "En California, un conductor que tiene 70 años o más cuando vence su licencia debe renovarla en persona y pasar un examen de la vista.",
       "p": "Correcto. A partir de los 70 años se renueva en persona con examen de la vista."
+    },
+    "zh": {
+      "q": "在 California，一位驾驶人在驾照到期时已经 70 岁或以上。他们必须怎样更新驾照？",
+      "o": [
+        "亲自去办，并做视力检查",
+        "在网上办，不用任何检测",
+        "邮寄，附上医生的信",
+        "70 岁以后不可以更新"
+      ],
+      "h1": "他们必须去 DMV 检查眼睛。",
+      "h2": "在 California，驾照到期时 70 岁或以上的驾驶人必须亲自去更新，并通过视力检查。",
+      "p": "对。70 岁及以上要亲自更新，并做视力检查。"
+    },
+    "vi": {
+      "q": "Ở California, một người lái đã 70 tuổi trở lên khi bằng lái hết hạn. Họ phải gia hạn như thế nào?",
+      "o": [
+        "Trực tiếp, có kiểm tra thị lực",
+        "Trực tuyến, không cần kiểm tra gì",
+        "Qua thư, kèm thư của bác sĩ",
+        "Họ không được gia hạn sau 70 tuổi"
+      ],
+      "h1": "Họ phải đến DMV và kiểm tra mắt.",
+      "h2": "Ở California, người lái từ 70 tuổi trở lên khi bằng lái hết hạn phải gia hạn trực tiếp và qua bài kiểm tra thị lực.",
+      "p": "Đúng. Từ 70 tuổi trở lên gia hạn trực tiếp, có kiểm tra thị lực."
+    },
+    "tl": {
+      "q": "Sa California, ang isang driver ay 70 taong gulang pataas nang mag-expire ang lisensya. Paano niya ito dapat i-renew?",
+      "o": [
+        "Nang personal, na may vision test",
+        "Online, nang walang anumang test",
+        "Sa koreo, na may sulat ng doktor",
+        "Hindi na siya puwedeng mag-renew pagkalipas ng 70"
+      ],
+      "h1": "Dapat siyang pumunta sa DMV at magpatingin ng mata.",
+      "h2": "Sa California, ang driver na 70 taong gulang pataas nang mag-expire ang lisensya ay dapat mag-renew nang personal at pumasa sa vision test.",
+      "p": "Tama. Ang edad 70 pataas ay nagre-renew nang personal na may vision test."
+    },
+    "ar": {
+      "q": "في California، سائق عمره 70 سنة أو أكثر عندما تنتهي رخصته. كيف يجب أن يجدّدها؟",
+      "o": [
+        "شخصيًا، مع فحص النظر",
+        "عبر الإنترنت، بدون أي فحوص",
+        "بالبريد، مع رسالة من الطبيب",
+        "لا يمكنه التجديد بعد عمر 70"
+      ],
+      "h1": "يجب أن يذهب إلى DMV ويفحص عينيه.",
+      "h2": "في California، يجب على السائق الذي عمره 70 سنة أو أكثر عندما تنتهي رخصته أن يجدّدها شخصيًا وأن ينجح في فحص النظر.",
+      "p": "صحيح. من عمر 70 فما فوق يجدّد شخصيًا مع فحص النظر."
     }
   }
 ]
