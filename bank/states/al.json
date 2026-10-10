@@ -2540,5 +2540,685 @@
       "h2": "في Alabama يجب أن تخفّض أضواء سيارتك عندما تكون على مسافة 200 قدم أو أقل من مركبة تسير خلفها.",
       "p": "صحيح. استعمل الأضواء المنخفضة ضمن 200 قدم من السيارة التي أمامك."
     }
+  },
+  {
+    "id": "al-032",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, how early can you renew your driver license before it expires?",
+      "o": [
+        "Up to 30 days before",
+        "Up to 90 days before",
+        "Up to 180 days before",
+        "Up to 2 years before"
+      ],
+      "h1": "The renewal window is longer than three months but much less than a year.",
+      "h2": "In Alabama you may renew your driver license at any time within 180 days before it expires.",
+      "p": "Right. You can renew up to 180 days early."
+    },
+    "es": {
+      "q": "En Alabama, ¿con cuánta anticipación puede renovar su licencia de manejar antes de que venza?",
+      "o": [
+        "Hasta 30 días antes",
+        "Hasta 90 días antes",
+        "Hasta 180 días antes",
+        "Hasta 2 años antes"
+      ],
+      "h1": "El plazo para renovar es de más de tres meses, pero mucho menos de un año.",
+      "h2": "En Alabama usted puede renovar su licencia de manejar en cualquier momento dentro de los 180 días antes de que venza.",
+      "p": "Correcto. Puede renovar hasta 180 días antes."
+    }
+  },
+  {
+    "id": "al-033",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alabama, up to how long after your license expires can you renew it without taking the tests again?",
+      "o": [
+        "6 months",
+        "1 year",
+        "2 years",
+        "3 years"
+      ],
+      "h1": "It is more than two years.",
+      "h2": "In Alabama you can renew an expired driver license without an exam for up to 3 years after it expired, but you may not drive while it is expired.",
+      "p": "Right. You have up to 3 years to renew without a test."
+    },
+    "es": {
+      "q": "En Alabama, ¿hasta cuánto tiempo después de que vence su licencia puede renovarla sin volver a tomar los exámenes?",
+      "o": [
+        "6 meses",
+        "1 año",
+        "2 años",
+        "3 años"
+      ],
+      "h1": "Es más de dos años.",
+      "h2": "En Alabama usted puede renovar una licencia vencida sin examen hasta 3 años después de que venció, pero no puede manejar mientras esté vencida.",
+      "p": "Correcto. Tiene hasta 3 años para renovar sin examen."
+    }
+  },
+  {
+    "id": "al-034",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 14,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alabama, after you move to a new address in the state, how many days do you have to tell the Driver License Division?",
+      "o": [
+        "10 days",
+        "15 days",
+        "60 days",
+        "30 days"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In Alabama you must report your new address to the Driver License Division within 30 days after you move.",
+      "p": "Right. Report a new address within 30 days."
+    },
+    "es": {
+      "q": "En Alabama, después de mudarse a una nueva dirección dentro del estado, ¿cuántos días tiene para avisar a la División de Licencias de Manejar?",
+      "o": [
+        "10 días",
+        "15 días",
+        "60 días",
+        "30 días"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Alabama usted debe informar su nueva dirección a la División de Licencias de Manejar dentro de los 30 días después de mudarse.",
+      "p": "Correcto. Informe la nueva dirección dentro de 30 días."
+    }
+  },
+  {
+    "id": "al-035",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, how much is the fee for each written knowledge test?",
+      "o": [
+        "$5",
+        "$25",
+        "$10",
+        "$50"
+      ],
+      "h1": "It is the smallest amount on the list.",
+      "h2": "In Alabama each knowledge test costs $5, and checks are not accepted.",
+      "p": "Right. Each knowledge test costs $5."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuánto cuesta cada examen escrito de conocimientos?",
+      "o": [
+        "$5",
+        "$25",
+        "$10",
+        "$50"
+      ],
+      "h1": "Es la cantidad más pequeña de la lista.",
+      "h2": "En Alabama cada examen de conocimientos cuesta $5, y no se aceptan cheques.",
+      "p": "Correcto. Cada examen de conocimientos cuesta $5."
+    }
+  },
+  {
+    "id": "al-036",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alabama, who must come with a 16-year-old applicant to the road test?",
+      "o": [
+        "Any friend with a license",
+        "A parent or guardian",
+        "A driving school teacher",
+        "No one; they may come alone"
+      ],
+      "h1": "It is the adult who is legally responsible for the teen.",
+      "h2": "In Alabama a 16-year-old must be accompanied by a parent or guardian when taking the road test.",
+      "p": "Right. A parent or guardian must come along."
+    },
+    "es": {
+      "q": "En Alabama, ¿quién debe acompañar a un solicitante de 16 años al examen de manejo?",
+      "o": [
+        "Cualquier amigo con licencia",
+        "Un padre, madre o tutor",
+        "Un maestro de escuela de manejo",
+        "Nadie; puede ir solo"
+      ],
+      "h1": "Es el adulto que es legalmente responsable del joven.",
+      "h2": "En Alabama un joven de 16 años debe ir acompañado de su padre, madre o tutor para tomar el examen de manejo.",
+      "p": "Correcto. Debe ir un padre, madre o tutor."
+    }
+  },
+  {
+    "id": "al-037",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, what is the penalty for a first conviction under the hands-free law?",
+      "o": [
+        "A $25 fine and no points",
+        "A $100 fine and 2 points",
+        "A $50 fine and 1 point",
+        "A $150 fine and 3 points"
+      ],
+      "h1": "The penalty grows with each conviction, and this is the first step.",
+      "h2": "In Alabama a first hands-free law conviction brings a $50 fine and 1 point on your driving record.",
+      "p": "Right. The first conviction is $50 and 1 point."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuál es la sanción por una primera condena bajo la ley de manos libres?",
+      "o": [
+        "Una multa de $25 y ningún punto",
+        "Una multa de $100 y 2 puntos",
+        "Una multa de $50 y 1 punto",
+        "Una multa de $150 y 3 puntos"
+      ],
+      "h1": "La sanción aumenta con cada condena, y este es el primer paso.",
+      "h2": "En Alabama una primera condena por la ley de manos libres trae una multa de $50 y 1 punto en su historial de manejo.",
+      "p": "Correcto. La primera condena es $50 y 1 punto."
+    }
+  },
+  {
+    "id": "al-038",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 32,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alabama, how many points go on your driving record for each texting-while-driving offense?",
+      "o": [
+        "1 point",
+        "2 points",
+        "4 points",
+        "6 points"
+      ],
+      "h1": "It is the same number for the first, second, and third offense.",
+      "h2": "In Alabama each texting-while-driving offense puts 2 points on your driving record, in addition to a fine.",
+      "p": "Right. Each texting offense adds 2 points."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuántos puntos se ponen en su historial de manejo por cada infracción de enviar mensajes de texto mientras maneja?",
+      "o": [
+        "1 punto",
+        "2 puntos",
+        "4 puntos",
+        "6 puntos"
+      ],
+      "h1": "Es el mismo número para la primera, la segunda y la tercera infracción.",
+      "h2": "En Alabama cada infracción por enviar mensajes de texto mientras maneja pone 2 puntos en su historial, además de una multa.",
+      "p": "Correcto. Cada infracción por textear suma 2 puntos."
+    }
+  },
+  {
+    "id": "al-039",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alabama, how many points are added to your record for passing a stopped school bus?",
+      "o": [
+        "2 points",
+        "3 points",
+        "4 points",
+        "5 points"
+      ],
+      "h1": "It is one of the highest point values for a moving violation.",
+      "h2": "In Alabama passing a stopped school bus adds 5 points to your driving record.",
+      "p": "Right. Passing a stopped school bus costs 5 points."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuántos puntos se agregan a su historial por pasar un autobús escolar detenido?",
+      "o": [
+        "2 puntos",
+        "3 puntos",
+        "4 puntos",
+        "5 puntos"
+      ],
+      "h1": "Es uno de los valores de puntos más altos para una infracción de tránsito.",
+      "h2": "En Alabama pasar un autobús escolar detenido agrega 5 puntos a su historial de manejo.",
+      "p": "Correcto. Pasar un autobús escolar detenido cuesta 5 puntos."
+    }
+  },
+  {
+    "id": "al-040",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, how many points are added for speeding 1 to 25 mph over the limit?",
+      "o": [
+        "2 points",
+        "5 points",
+        "6 points",
+        "8 points"
+      ],
+      "h1": "It is the lowest point value on Alabama's list.",
+      "h2": "In Alabama a speeding ticket for 1 to 25 mph over the limit adds 2 points, while 26 mph or more over adds 5 points.",
+      "p": "Right. Speeding up to 25 mph over is 2 points."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuántos puntos se agregan por exceder el límite de velocidad por 1 a 25 mph?",
+      "o": [
+        "2 puntos",
+        "5 puntos",
+        "6 puntos",
+        "8 puntos"
+      ],
+      "h1": "Es el valor de puntos más bajo de la lista de Alabama.",
+      "h2": "En Alabama una multa por exceder el límite por 1 a 25 mph agrega 2 puntos, y por 26 mph o más agrega 5 puntos.",
+      "p": "Correcto. Exceder hasta 25 mph son 2 puntos."
+    }
+  },
+  {
+    "id": "al-041",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alabama, a driver who gets 12 to 14 points within 2 years has the license suspended for how long?",
+      "o": [
+        "30 days",
+        "60 days",
+        "6 months",
+        "1 year"
+      ],
+      "h1": "It is the shortest suspension in the point schedule, about two months.",
+      "h2": "In Alabama a driver with 12 to 14 points in a 2-year period has the license suspended for 60 days.",
+      "p": "Right. 12 to 14 points means a 60-day suspension."
+    },
+    "es": {
+      "q": "En Alabama, a un conductor que acumula de 12 a 14 puntos en 2 años, ¿por cuánto tiempo le suspenden la licencia?",
+      "o": [
+        "30 días",
+        "60 días",
+        "6 meses",
+        "1 año"
+      ],
+      "h1": "Es la suspensión más corta de la tabla de puntos, más o menos dos meses.",
+      "h2": "En Alabama a un conductor con 12 a 14 puntos en un período de 2 años le suspenden la licencia por 60 días.",
+      "p": "Correcto. De 12 a 14 puntos significa una suspensión de 60 días."
+    }
+  },
+  {
+    "id": "al-042",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 33,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, after a first DUI conviction, how long is the driver license suspended?",
+      "o": [
+        "90 days",
+        "30 days",
+        "1 year",
+        "3 years"
+      ],
+      "h1": "It is about three months.",
+      "h2": "In Alabama a first DUI conviction brings a 90-day license suspension, in addition to a fine and possible jail time.",
+      "p": "Right. A first DUI means a 90-day suspension."
+    },
+    "es": {
+      "q": "En Alabama, después de una primera condena por manejar bajo los efectos (DUI), ¿por cuánto tiempo se suspende la licencia?",
+      "o": [
+        "90 días",
+        "30 días",
+        "1 año",
+        "3 años"
+      ],
+      "h1": "Son más o menos tres meses.",
+      "h2": "En Alabama una primera condena por DUI trae una suspensión de la licencia de 90 días, además de una multa y posible cárcel.",
+      "p": "Correcto. Un primer DUI significa una suspensión de 90 días."
+    }
+  },
+  {
+    "id": "al-043",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 34,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, after a third DUI conviction, how long is the driver license revoked?",
+      "o": [
+        "6 months",
+        "1 year",
+        "3 years",
+        "Only until the fine is paid"
+      ],
+      "h1": "It is several years, but less than the revocation for a fourth conviction.",
+      "h2": "In Alabama a third DUI conviction brings a 3-year license revocation, along with a large fine and at least 60 days in jail.",
+      "p": "Right. A third DUI means a 3-year revocation."
+    },
+    "es": {
+      "q": "En Alabama, después de una tercera condena por DUI, ¿por cuánto tiempo se revoca la licencia?",
+      "o": [
+        "6 meses",
+        "1 año",
+        "3 años",
+        "Solo hasta pagar la multa"
+      ],
+      "h1": "Son varios años, pero menos que la revocación por una cuarta condena.",
+      "h2": "En Alabama una tercera condena por DUI trae una revocación de la licencia por 3 años, además de una multa grande y por lo menos 60 días de cárcel.",
+      "p": "Correcto. Un tercer DUI significa una revocación de 3 años."
+    }
+  },
+  {
+    "id": "al-044",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, at least how much is the fee to reinstate a license that was suspended or revoked?",
+      "o": [
+        "$100",
+        "$20",
+        "$50",
+        "$10"
+      ],
+      "h1": "It is the largest amount on the list.",
+      "h2": "In Alabama you must pay a reinstatement fee of at least $100, plus meet other legal requirements, to get back a suspended or revoked license.",
+      "p": "Right. Reinstatement costs at least $100."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuánto cuesta como mínimo la cuota para restablecer una licencia suspendida o revocada?",
+      "o": [
+        "$100",
+        "$20",
+        "$50",
+        "$10"
+      ],
+      "h1": "Es la cantidad más grande de la lista.",
+      "h2": "En Alabama usted debe pagar una cuota de restablecimiento de por lo menos $100, y cumplir otros requisitos legales, para recuperar una licencia suspendida o revocada.",
+      "p": "Correcto. El restablecimiento cuesta por lo menos $100."
+    }
+  },
+  {
+    "id": "al-045",
+    "scope": "AL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 68,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, what is the highest fine for a first conviction of driving without the required liability insurance?",
+      "o": [
+        "$100",
+        "$250",
+        "$500",
+        "$5,000"
+      ],
+      "h1": "A second conviction can cost up to twice this amount.",
+      "h2": "In Alabama a first conviction for not having the required liability insurance can bring a fine of up to $500.",
+      "p": "Right. The first offense fine is up to $500."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuál es la multa máxima por una primera condena por manejar sin el seguro de responsabilidad obligatorio?",
+      "o": [
+        "$100",
+        "$250",
+        "$500",
+        "$5,000"
+      ],
+      "h1": "Una segunda condena puede costar hasta el doble de esta cantidad.",
+      "h2": "En Alabama una primera condena por no tener el seguro de responsabilidad obligatorio puede traer una multa de hasta $500.",
+      "p": "Correcto. La multa por la primera vez es de hasta $500."
+    }
+  },
+  {
+    "id": "al-046",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 24,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alabama, what is the least space you must leave between your car and a person on a bicycle when you pass?",
+      "o": [
+        "1 foot",
+        "18 inches",
+        "2 feet",
+        "3 feet"
+      ],
+      "h1": "It is about one yard, the largest choice here.",
+      "h2": "In Alabama you must leave at least 3 feet between your vehicle and a person on a bicycle when you pass.",
+      "p": "Right. Give a bicycle rider at least 3 feet."
+    },
+    "es": {
+      "q": "En Alabama, ¿cuál es el espacio mínimo que debe dejar entre su carro y una persona en bicicleta al pasarla?",
+      "o": [
+        "1 pie",
+        "18 pulgadas",
+        "2 pies",
+        "3 pies"
+      ],
+      "h1": "Es más o menos una yarda, la opción más grande aquí.",
+      "h2": "En Alabama usted debe dejar por lo menos 3 pies entre su vehículo y una persona en bicicleta al pasarla.",
+      "p": "Correcto. Deje por lo menos 3 pies al ciclista."
+    }
+  },
+  {
+    "id": "al-047",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 24,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alabama, bicycle riders under what age must wear a helmet on public roads?",
+      "o": [
+        "Under 12",
+        "Under 16",
+        "Under 18",
+        "Under 21"
+      ],
+      "h1": "It covers younger teens, but not all teenagers.",
+      "h2": "In Alabama bicycle riders under 16 must wear a fastened helmet on public roads, bike paths, and in public parks.",
+      "p": "Right. Riders under 16 must wear a helmet."
+    },
+    "es": {
+      "q": "En Alabama, ¿los ciclistas menores de qué edad deben usar casco en las vías públicas?",
+      "o": [
+        "Menores de 12",
+        "Menores de 16",
+        "Menores de 18",
+        "Menores de 21"
+      ],
+      "h1": "Incluye a los adolescentes más jóvenes, pero no a todos los adolescentes.",
+      "h2": "En Alabama los ciclistas menores de 16 años deben usar un casco abrochado en las vías públicas, las ciclovías y los parques públicos.",
+      "p": "Correcto. Los menores de 16 deben usar casco."
+    }
+  },
+  {
+    "id": "al-048",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 30,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, until what age must a child ride in a booster seat?",
+      "o": [
+        "3 years old",
+        "4 years old",
+        "6 years old",
+        "10 years old"
+      ],
+      "h1": "It is the age when many children start first grade.",
+      "h2": "In Alabama a child must use a booster seat until age 6, and then a seat belt through age 15.",
+      "p": "Right. Booster seats are required until age 6."
+    },
+    "es": {
+      "q": "En Alabama, ¿hasta qué edad debe un niño viajar en un asiento elevado (booster)?",
+      "o": [
+        "3 años",
+        "4 años",
+        "6 años",
+        "10 años"
+      ],
+      "h1": "Es la edad en que muchos niños empiezan el primer grado.",
+      "h2": "En Alabama un niño debe usar un asiento elevado hasta los 6 años, y después el cinturón de seguridad hasta los 15 años.",
+      "p": "Correcto. El asiento elevado es obligatorio hasta los 6 años."
+    }
+  },
+  {
+    "id": "al-049",
+    "scope": "AL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 29,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alabama, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 10 feet",
+        "No closer than 15 feet",
+        "No closer than 30 feet",
+        "No closer than 50 feet"
+      ],
+      "h1": "It is closer than the distance for a railroad crossing.",
+      "h2": "In Alabama you may not park within 15 feet of a fire hydrant.",
+      "p": "Right. Stay at least 15 feet from a fire hydrant."
+    },
+    "es": {
+      "q": "En Alabama, ¿a qué distancia de un hidrante puede estacionarse?",
+      "o": [
+        "No más cerca de 10 pies",
+        "No más cerca de 15 pies",
+        "No más cerca de 30 pies",
+        "No más cerca de 50 pies"
+      ],
+      "h1": "Es más cerca que la distancia para un cruce de ferrocarril.",
+      "h2": "En Alabama usted no puede estacionarse a menos de 15 pies de un hidrante.",
+      "p": "Correcto. Quédese por lo menos a 15 pies de un hidrante."
+    }
+  },
+  {
+    "id": "al-050",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 69,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alabama, your headlights must be on whenever you cannot see clearly for at least how far ahead?",
+      "o": [
+        "100 feet",
+        "200 feet",
+        "300 feet",
+        "500 feet"
+      ],
+      "h1": "It is the longest distance on the list.",
+      "h2": "In Alabama headlights must be on from a half hour after sunset to a half hour before sunrise, and any time you cannot see clearly for at least 500 feet.",
+      "p": "Right. Turn on headlights when you cannot see 500 feet ahead."
+    },
+    "es": {
+      "q": "En Alabama, sus luces delanteras deben estar encendidas siempre que no pueda ver claramente por lo menos ¿a qué distancia?",
+      "o": [
+        "100 pies",
+        "200 pies",
+        "300 pies",
+        "500 pies"
+      ],
+      "h1": "Es la distancia más larga de la lista.",
+      "h2": "En Alabama las luces delanteras deben estar encendidas desde media hora después de la puesta del sol hasta media hora antes del amanecer, y siempre que no pueda ver claramente por lo menos a 500 pies.",
+      "p": "Correcto. Encienda las luces cuando no pueda ver a 500 pies."
+    }
+  },
+  {
+    "id": "al-051",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 76,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, what can you dial on a cell phone to reach the State Troopers about a crash or a drunk driver?",
+      "o": [
+        "*HP (*47)",
+        "*DL (*35)",
+        "#77",
+        "*411"
+      ],
+      "h1": "It starts with a star, then two letters that stand for the troopers' patrol.",
+      "h2": "In Alabama you can dial *HP, which is *47, on a cell phone to reach the State Troopers for highway emergencies, crashes, and drunk drivers.",
+      "p": "Right. Dial *HP (*47) to reach the State Troopers."
+    },
+    "es": {
+      "q": "En Alabama, ¿qué número puede marcar en un celular para comunicarse con la Policía Estatal (State Troopers) por un choque o un conductor ebrio?",
+      "o": [
+        "*HP (*47)",
+        "*DL (*35)",
+        "#77",
+        "*411"
+      ],
+      "h1": "Empieza con una estrella y luego dos letras que representan la patrulla de los troopers.",
+      "h2": "En Alabama usted puede marcar *HP, que es *47, en un celular para comunicarse con la Policía Estatal por emergencias en la carretera, choques y conductores ebrios.",
+      "p": "Correcto. Marque *HP (*47) para comunicarse con la Policía Estatal."
+    }
   }
 ]
