@@ -4183,5 +4183,798 @@
       "h2": "Pifò moun bezwen yon lisans Class E pou kondi yon machin òdinè, paske Class A, B, ak C se pou machin komèsyal.",
       "p": "Se sa. Yon machin òdinè bezwen yon lisans Class E."
     }
+  },
+  {
+    "id": "licensing-046",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, a Class E license lets you drive non-commercial vehicles up to what weight rating?",
+      "o": [
+        "Under 10,001 pounds",
+        "Under 16,001 pounds",
+        "Under 26,001 pounds",
+        "Under 36,001 pounds"
+      ],
+      "h1": "Above this weight rating, you need a commercial license (CDL).",
+      "h2": "A Florida Class E license covers non-commercial vehicles with a weight rating under 26,001 pounds.",
+      "p": "Right. Class E covers vehicles under 26,001 pounds; heavier ones need a CDL."
+    },
+    "es": {
+      "q": "En Florida, ¿hasta qué peso nominal le permite manejar vehículos no comerciales una licencia Clase E?",
+      "o": [
+        "Menos de 10,001 libras",
+        "Menos de 16,001 libras",
+        "Menos de 26,001 libras",
+        "Menos de 36,001 libras"
+      ],
+      "h1": "Por encima de este peso nominal se necesita una licencia comercial (CDL).",
+      "h2": "En Florida, la licencia Clase E cubre vehículos no comerciales con un peso nominal de menos de 26,001 libras.",
+      "p": "Correcto. La Clase E cubre vehículos de menos de 26,001 libras; los más pesados requieren una CDL."
+    }
+  },
+  {
+    "id": "licensing-047",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, you need a motorcycle endorsement for a motorcycle whose engine is bigger than what size?",
+      "o": [
+        "50 cc",
+        "150 cc",
+        "250 cc",
+        "500 cc"
+      ],
+      "h1": "It is a small number, the size of many scooter engines.",
+      "h2": "In Florida, you need a motorcycle endorsement, or a Motorcycle Only license, for any motorcycle with an engine over 50 cc.",
+      "p": "Right. Over 50 cc, you need a motorcycle endorsement."
+    },
+    "es": {
+      "q": "En Florida, ¿a partir de qué tamaño de motor necesita un endoso de motocicleta?",
+      "o": [
+        "Más de 50 cc",
+        "Más de 150 cc",
+        "Más de 250 cc",
+        "Más de 500 cc"
+      ],
+      "h1": "Es un número pequeño, del tamaño del motor de muchos scooters.",
+      "h2": "En Florida, necesita un endoso de motocicleta, o una licencia Solo Motocicleta, para cualquier motocicleta con motor de más de 50 cc.",
+      "p": "Correcto. Con más de 50 cc, necesita un endoso de motocicleta."
+    }
+  },
+  {
+    "id": "licensing-048",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 5,
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, what kind of identity documents must you bring to get a driver license?",
+      "o": [
+        "Clear photocopies of the papers",
+        "Copies signed by a notary",
+        "Photos of the papers on your phone",
+        "Original or certified documents"
+      ],
+      "h1": "The office will not take copies of any kind.",
+      "h2": "Florida accepts only original or certified documents; photocopies and notarized copies are not accepted.",
+      "p": "Right. Bring original or certified documents, not copies."
+    },
+    "es": {
+      "q": "En Florida, ¿qué tipo de documentos de identidad debe llevar para sacar una licencia de conducir?",
+      "o": [
+        "Fotocopias claras de los papeles",
+        "Copias firmadas por un notario",
+        "Fotos de los papeles en su teléfono",
+        "Documentos originales o certificados"
+      ],
+      "h1": "La oficina no acepta copias de ningún tipo.",
+      "h2": "Florida solo acepta documentos originales o certificados; no acepta fotocopias ni copias notariadas.",
+      "p": "Correcto. Lleve documentos originales o certificados, no copias."
+    }
+  },
+  {
+    "id": "licensing-049",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, how many documents showing your home address must you bring to get a driver license?",
+      "o": [
+        "One",
+        "Two",
+        "Three",
+        "None"
+      ],
+      "h1": "One is not enough.",
+      "h2": "Every applicant for a Florida driver license or ID card must show two documents with their Florida home address.",
+      "p": "Right. You need two proofs of your Florida address."
+    },
+    "es": {
+      "q": "En Florida, ¿cuántos documentos con la dirección de su casa debe llevar para sacar una licencia de conducir?",
+      "o": [
+        "Uno",
+        "Dos",
+        "Tres",
+        "Ninguno"
+      ],
+      "h1": "Uno no es suficiente.",
+      "h2": "Toda persona que pide una licencia o tarjeta de identificación de Florida debe mostrar dos documentos con su dirección en Florida.",
+      "p": "Correcto. Necesita dos pruebas de su dirección en Florida."
+    }
+  },
+  {
+    "id": "licensing-050",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 8,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, a 15-year-old who is not married applies for a license. Where must a parent or guardian sign the application?",
+      "o": [
+        "At home, before the visit",
+        "Online, within 30 days",
+        "In front of a license agent or a notary",
+        "On the back of the test sheet"
+      ],
+      "h1": "Someone official must watch the parent sign.",
+      "h2": "For an unmarried applicant under 18, a parent or legal guardian must sign the application in front of a driver license agent or a notary public.",
+      "p": "Right. The parent signs in front of a license agent or a notary."
+    },
+    "es": {
+      "q": "En Florida, un joven de 15 años que no está casado pide una licencia. ¿Dónde debe firmar la solicitud el padre, la madre o el tutor?",
+      "o": [
+        "En casa, antes de la cita",
+        "En línea, dentro de 30 días",
+        "Frente a un agente de licencias o un notario",
+        "Al reverso de la hoja del examen"
+      ],
+      "h1": "Una persona oficial debe ver firmar al padre o a la madre.",
+      "h2": "Si el solicitante es menor de 18 años y no está casado, el padre, la madre o el tutor legal debe firmar la solicitud frente a un agente de licencias o un notario público.",
+      "p": "Correcto. El padre o la madre firma frente a un agente de licencias o un notario."
+    }
+  },
+  {
+    "id": "licensing-051",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 9,
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, the parent who signed a teen's license application later withdraws that consent. What happens to the teen's license?",
+      "o": [
+        "It is canceled",
+        "It stays valid until age 18",
+        "It becomes a learner license",
+        "Nothing changes"
+      ],
+      "h1": "The signer took responsibility for the teen's driving.",
+      "h2": "If the person who signed a minor's application takes back responsibility, the minor's license is canceled.",
+      "p": "Right. Without the signer's consent, the teen's license is canceled."
+    },
+    "es": {
+      "q": "En Florida, el padre que firmó la solicitud de licencia de un adolescente después retira su permiso. ¿Qué pasa con la licencia del adolescente?",
+      "o": [
+        "Se cancela",
+        "Sigue válida hasta los 18 años",
+        "Se convierte en permiso de aprendiz",
+        "No cambia nada"
+      ],
+      "h1": "Quien firmó aceptó la responsabilidad por el manejo del adolescente.",
+      "h2": "Si la persona que firmó la solicitud de un menor retira su responsabilidad, la licencia del menor se cancela.",
+      "p": "Correcto. Sin el permiso de quien firmó, la licencia del adolescente se cancela."
+    }
+  },
+  {
+    "id": "licensing-052",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, your license shows restriction code B. What does it mean?",
+      "o": [
+        "You may drive only in daylight",
+        "You may drive only to work",
+        "You need hand controls",
+        "You must wear glasses or contacts"
+      ],
+      "h1": "Think about what helps you see.",
+      "h2": "Restriction code B means you must wear corrective lenses, glasses or contacts, at all times while driving.",
+      "p": "Right. Code B means corrective lenses every time you drive."
+    },
+    "es": {
+      "q": "En Florida, su licencia tiene el código de restricción B. ¿Qué significa?",
+      "o": [
+        "Solo puede manejar de día",
+        "Solo puede manejar al trabajo",
+        "Necesita controles manuales",
+        "Debe usar lentes o lentes de contacto"
+      ],
+      "h1": "Piense en lo que le ayuda a ver.",
+      "h2": "El código de restricción B significa que debe usar lentes correctivos, anteojos o lentes de contacto, siempre que maneje.",
+      "p": "Correcto. El código B significa lentes correctivos cada vez que maneja."
+    }
+  },
+  {
+    "id": "licensing-053",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, what vision in each eye meets the state standard without a referral to an eye doctor?",
+      "o": [
+        "20/70 or better",
+        "20/40 or better",
+        "20/100 or better",
+        "20/200 or better"
+      ],
+      "h1": "Worse than this, you are sent to an eye specialist.",
+      "h2": "Vision of 20/40 or better in each eye, with or without glasses, meets the Florida standard without a referral to an eye specialist.",
+      "p": "Right. 20/40 or better in each eye meets the standard."
+    },
+    "es": {
+      "q": "En Florida, ¿qué visión en cada ojo cumple con el estándar del estado sin que lo envíen a un oculista?",
+      "o": [
+        "20/70 o mejor",
+        "20/40 o mejor",
+        "20/100 o mejor",
+        "20/200 o mejor"
+      ],
+      "h1": "Si es peor que esto, lo envían a un especialista de la vista.",
+      "h2": "Una visión de 20/40 o mejor en cada ojo, con o sin lentes, cumple con el estándar de Florida sin que lo envíen a un especialista.",
+      "p": "Correcto. 20/40 o mejor en cada ojo cumple con el estándar."
+    }
+  },
+  {
+    "id": "licensing-054",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 23,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, after how many days in the state during the last year must a car carry Florida PIP and PDL insurance?",
+      "o": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "180 days"
+      ],
+      "h1": "The days do not have to be in a row.",
+      "h2": "You must have Florida PIP and PDL insurance if your car has been in Florida for 90 days, in a row or not, during the last 365 days.",
+      "p": "Right. 90 days in the last year means you need Florida insurance."
+    },
+    "es": {
+      "q": "En Florida, ¿después de cuántos días en el estado durante el último año debe tener un carro seguro PIP y PDL de Florida?",
+      "o": [
+        "30 días",
+        "60 días",
+        "90 días",
+        "180 días"
+      ],
+      "h1": "Los días no tienen que ser seguidos.",
+      "h2": "Debe tener seguro PIP y PDL de Florida si su carro ha estado en Florida 90 días, seguidos o no, durante los últimos 365 días.",
+      "p": "Correcto. 90 días en el último año significa que necesita seguro de Florida."
+    }
+  },
+  {
+    "id": "licensing-055",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 24,
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, your license is suspended because you had no car insurance. May you get a temporary license to drive to work?",
+      "o": [
+        "No, not for any reason",
+        "Yes, for work only",
+        "Yes, after 10 days",
+        "Yes, if a parent signs"
+      ],
+      "h1": "This suspension has no hardship exception.",
+      "h2": "If your license or plate is suspended for not having insurance, you cannot get a temporary license for any reason, not even to go to work.",
+      "p": "Right. No temporary license, not even for work."
+    },
+    "es": {
+      "q": "En Florida, le suspendieron la licencia por no tener seguro de carro. ¿Puede obtener una licencia temporal para manejar al trabajo?",
+      "o": [
+        "No, por ningún motivo",
+        "Sí, solo para el trabajo",
+        "Sí, después de 10 días",
+        "Sí, si firma un padre"
+      ],
+      "h1": "Esta suspensión no tiene excepción por necesidad.",
+      "h2": "Si le suspenden la licencia o la placa por no tener seguro, no puede obtener una licencia temporal por ningún motivo, ni siquiera para ir al trabajo.",
+      "p": "Correcto. No hay licencia temporal, ni siquiera para el trabajo."
+    }
+  },
+  {
+    "id": "licensing-056",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, you are convicted of running a red light. What must you complete to keep your license?",
+      "o": [
+        "A motorcycle safety course",
+        "A basic driver improvement course",
+        "A new knowledge test",
+        "A first aid class"
+      ],
+      "h1": "It is a traffic school course.",
+      "h2": "After a conviction for running a red light, you must complete a basic driver improvement course to keep your Florida license.",
+      "p": "Right. Running a red light means a basic driver improvement course."
+    },
+    "es": {
+      "q": "En Florida, lo declaran culpable de pasarse una luz roja. ¿Qué debe completar para conservar su licencia?",
+      "o": [
+        "Un curso de seguridad en motocicleta",
+        "Un curso básico para mejorar el manejo",
+        "Un nuevo examen de conocimientos",
+        "Una clase de primeros auxilios"
+      ],
+      "h1": "Es un curso de escuela de tránsito.",
+      "h2": "Después de una condena por pasarse una luz roja, debe completar un curso básico para mejorar el manejo (basic driver improvement) para conservar su licencia de Florida.",
+      "p": "Correcto. Pasarse una luz roja significa un curso básico para mejorar el manejo."
+    }
+  },
+  {
+    "id": "licensing-057",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, you may usually choose a driver improvement course instead of points. When is that choice NOT allowed for speeding?",
+      "o": [
+        "When you were 5 mph over",
+        "When you were 10 mph over",
+        "When you were 15 mph over",
+        "When you were more than 30 mph over"
+      ],
+      "h1": "It is for very high speeds only.",
+      "h2": "You may not choose the basic driver improvement course instead of points if you were charged with going more than 30 mph over the speed limit.",
+      "p": "Right. More than 30 mph over, and the course option is gone."
+    },
+    "es": {
+      "q": "En Florida, normalmente puede elegir un curso para mejorar el manejo en vez de recibir puntos. ¿Cuándo NO se permite esa opción por exceso de velocidad?",
+      "o": [
+        "Si iba 5 mph por encima",
+        "Si iba 10 mph por encima",
+        "Si iba 15 mph por encima",
+        "Si iba más de 30 mph por encima"
+      ],
+      "h1": "Es solo para velocidades muy altas.",
+      "h2": "No puede elegir el curso básico para mejorar el manejo en vez de puntos si lo acusan de ir a más de 30 mph por encima del límite.",
+      "p": "Correcto. Con más de 30 mph por encima, ya no puede elegir el curso."
+    }
+  },
+  {
+    "id": "licensing-058",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, you chose traffic school instead of points for a ticket 8 months ago. You get another ticket. May you choose traffic school again?",
+      "o": [
+        "Yes, as often as you like",
+        "Yes, if you pay a double fee",
+        "No, not within 12 months",
+        "No, never again in your life"
+      ],
+      "h1": "There is a waiting period after each choice.",
+      "h2": "You may not choose traffic school instead of points if you already made that choice in the past 12 months.",
+      "p": "Right. Only once in any 12-month period."
+    },
+    "es": {
+      "q": "En Florida, hace 8 meses eligió la escuela de tránsito en vez de puntos por una multa. Recibe otra multa. ¿Puede elegir la escuela de tránsito otra vez?",
+      "o": [
+        "Sí, todas las veces que quiera",
+        "Sí, si paga una tarifa doble",
+        "No, no dentro de 12 meses",
+        "No, nunca más en su vida"
+      ],
+      "h1": "Hay un tiempo de espera después de cada vez.",
+      "h2": "No puede elegir la escuela de tránsito en vez de puntos si ya hizo esa elección en los últimos 12 meses.",
+      "p": "Correcto. Solo una vez en cualquier período de 12 meses."
+    }
+  },
+  {
+    "id": "licensing-059",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 30,
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, how many points do you get for speeding 15 mph or less over the limit?",
+      "o": [
+        "3 points",
+        "4 points",
+        "6 points",
+        "8 points"
+      ],
+      "h1": "Going 16 mph or more over gives one point more than this.",
+      "h2": "Speeding by 15 mph or less over the limit adds 3 points to your Florida driving record.",
+      "p": "Right. 15 mph or less over the limit is 3 points."
+    },
+    "es": {
+      "q": "En Florida, ¿cuántos puntos recibe por manejar 15 mph o menos por encima del límite?",
+      "o": [
+        "3 puntos",
+        "4 puntos",
+        "6 puntos",
+        "8 puntos"
+      ],
+      "h1": "Ir a 16 mph o más por encima da un punto más que esto.",
+      "h2": "Exceder el límite por 15 mph o menos agrega 3 puntos a su récord de manejo en Florida.",
+      "p": "Correcto. 15 mph o menos por encima del límite son 3 puntos."
+    }
+  },
+  {
+    "id": "licensing-060",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 30,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, you leave the scene of a crash that caused more than $50 in property damage. How many points go on your record?",
+      "o": [
+        "2 points",
+        "3 points",
+        "6 points",
+        "10 points"
+      ],
+      "h1": "It is one of the highest point values in the table.",
+      "h2": "Leaving the scene of a crash with more than $50 in property damage adds 6 points to your Florida driving record.",
+      "p": "Right. Leaving the scene of a property damage crash is 6 points."
+    },
+    "es": {
+      "q": "En Florida, usted se va del lugar de un choque que causó más de $50 en daños a la propiedad. ¿Cuántos puntos van a su récord?",
+      "o": [
+        "2 puntos",
+        "3 puntos",
+        "6 puntos",
+        "10 puntos"
+      ],
+      "h1": "Es uno de los valores más altos de la tabla.",
+      "h2": "Irse del lugar de un choque con más de $50 en daños a la propiedad agrega 6 puntos a su récord de manejo en Florida.",
+      "p": "Correcto. Irse del lugar de un choque con daños son 6 puntos."
+    }
+  },
+  {
+    "id": "licensing-061",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 30,
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, how many points do you get for passing a stopped school bus when no one is hurt?",
+      "o": [
+        "2 points",
+        "4 points",
+        "6 points",
+        "12 points"
+      ],
+      "h1": "If someone is badly hurt, it is more than this.",
+      "h2": "Passing a stopped school bus adds 4 points to your record, or 6 points if it causes serious injury or death.",
+      "p": "Right. Passing a stopped school bus is 4 points."
+    },
+    "es": {
+      "q": "En Florida, ¿cuántos puntos recibe por pasar un autobús escolar detenido si nadie sale herido?",
+      "o": [
+        "2 puntos",
+        "4 puntos",
+        "6 puntos",
+        "12 puntos"
+      ],
+      "h1": "Si alguien sale gravemente herido, son más que esto.",
+      "h2": "Pasar un autobús escolar detenido agrega 4 puntos a su récord, o 6 puntos si causa lesiones graves o la muerte.",
+      "p": "Correcto. Pasar un autobús escolar detenido son 4 puntos."
+    }
+  },
+  {
+    "id": "licensing-062",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.flsenate.gov/Laws/Statutes/2025/318.18",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, a driver fails to stop for a school bus a second time within 5 years. What happens to the license?",
+      "o": [
+        "Nothing beyond a fine",
+        "A written warning",
+        "A 30-day restriction to work driving",
+        "A suspension of 180 days to 1 year"
+      ],
+      "h1": "A repeat offense brings a long suspension.",
+      "h2": "A second failure to stop for a school bus within 5 years leads to a license suspension of at least 180 days and up to 1 year.",
+      "p": "Right. A second offense in 5 years means a suspension of 180 days to 1 year."
+    },
+    "es": {
+      "q": "En Florida, un conductor no se detiene ante un autobús escolar por segunda vez en 5 años. ¿Qué pasa con su licencia?",
+      "o": [
+        "Nada más que una multa",
+        "Una advertencia por escrito",
+        "Restricción de 30 días a manejar al trabajo",
+        "Una suspensión de 180 días a 1 año"
+      ],
+      "h1": "Repetir la falta trae una suspensión larga.",
+      "h2": "Una segunda falta por no detenerse ante un autobús escolar dentro de 5 años lleva a una suspensión de la licencia de 180 días como mínimo y hasta 1 año.",
+      "p": "Correcto. Una segunda falta en 5 años significa una suspensión de 180 días a 1 año."
+    }
+  },
+  {
+    "id": "licensing-063",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 29,
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, a driver under 18 is already limited to business-purposes-only driving because of points. What happens for each extra point?",
+      "o": [
+        "The limit lasts 90 more days",
+        "The limit lasts 1 more week",
+        "The license is revoked for good",
+        "Nothing more happens"
+      ],
+      "h1": "The restriction gets longer, a few months at a time.",
+      "h2": "For a driver under 18 on the business-purposes-only restriction, each additional point extends the restriction by 90 days.",
+      "p": "Right. Each extra point adds 90 days to the restriction."
+    },
+    "es": {
+      "q": "En Florida, a un conductor menor de 18 años ya lo limitaron a manejar solo por motivos de trabajo o estudio por los puntos. ¿Qué pasa por cada punto adicional?",
+      "o": [
+        "El límite dura 90 días más",
+        "El límite dura 1 semana más",
+        "Le revocan la licencia para siempre",
+        "No pasa nada más"
+      ],
+      "h1": "La restricción se alarga, unos meses a la vez.",
+      "h2": "Para un conductor menor de 18 años con la restricción de solo motivos de trabajo o estudio, cada punto adicional alarga la restricción por 90 días.",
+      "p": "Correcto. Cada punto adicional agrega 90 días a la restricción."
+    }
+  },
+  {
+    "id": "licensing-064",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 26,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, what is the usual fine range for a first DUI conviction?",
+      "o": [
+        "$50 to $100",
+        "$100 to $250",
+        "$500 to $1,000",
+        "$5,000 to $10,000"
+      ],
+      "h1": "It is higher if the blood alcohol level is 0.15 or more, or a child was in the car.",
+      "h2": "A first DUI conviction in Florida usually brings a fine of $500 to $1,000, and more if the blood alcohol level was 0.15 or higher or a minor was in the car.",
+      "p": "Right. A first DUI usually means a fine of $500 to $1,000."
+    },
+    "es": {
+      "q": "En Florida, ¿cuál es el rango normal de la multa por una primera condena por DUI?",
+      "o": [
+        "De $50 a $100",
+        "De $100 a $250",
+        "De $500 a $1,000",
+        "De $5,000 a $10,000"
+      ],
+      "h1": "Es más alta si el nivel de alcohol es 0.15 o más, o si había un niño en el carro.",
+      "h2": "Una primera condena por DUI en Florida normalmente trae una multa de $500 a $1,000, y más si el nivel de alcohol era 0.15 o más o había un menor en el carro.",
+      "p": "Correcto. Un primer DUI normalmente significa una multa de $500 a $1,000."
+    }
+  },
+  {
+    "id": "licensing-065",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 26,
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, a driver under 21 is stopped with a blood alcohol level of 0.05. Besides losing the license, what must the driver do?",
+      "o": [
+        "Pay for a new car inspection",
+        "Attend a substance abuse course",
+        "Retake the driving skills test",
+        "Do nothing more"
+      ],
+      "h1": "It is a course about alcohol and drugs.",
+      "h2": "A driver under 21 with a blood alcohol level of 0.05 or higher must attend a substance abuse course.",
+      "p": "Right. At 0.05 or higher, a driver under 21 must take a substance abuse course."
+    },
+    "es": {
+      "q": "En Florida, detienen a un conductor menor de 21 años con un nivel de alcohol en la sangre de 0.05. Además de perder la licencia, ¿qué debe hacer?",
+      "o": [
+        "Pagar una nueva inspección del carro",
+        "Asistir a un curso sobre abuso de sustancias",
+        "Repetir el examen práctico de manejo",
+        "Nada más"
+      ],
+      "h1": "Es un curso sobre el alcohol y las drogas.",
+      "h2": "Un conductor menor de 21 años con un nivel de alcohol de 0.05 o más debe asistir a un curso sobre abuso de sustancias.",
+      "p": "Correcto. Con 0.05 o más, un conductor menor de 21 años debe tomar un curso sobre abuso de sustancias."
+    }
+  },
+  {
+    "id": "licensing-066",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 31,
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Florida, your license is suspended at a DUI arrest. How long do you have to ask for a review hearing?",
+      "o": [
+        "24 hours",
+        "30 days",
+        "90 days",
+        "10 days"
+      ],
+      "h1": "It is less than two weeks.",
+      "h2": "To challenge a license suspension from a DUI arrest, you must ask for a formal or informal review hearing within 10 days.",
+      "p": "Right. You have 10 days to ask for a review."
+    },
+    "es": {
+      "q": "En Florida, le suspenden la licencia al arrestarlo por DUI. ¿Cuánto tiempo tiene para pedir una audiencia de revisión?",
+      "o": [
+        "24 horas",
+        "30 días",
+        "90 días",
+        "10 días"
+      ],
+      "h1": "Es menos de dos semanas.",
+      "h2": "Para apelar la suspensión de la licencia por un arresto por DUI, debe pedir una audiencia de revisión formal o informal dentro de 10 días.",
+      "p": "Correcto. Tiene 10 días para pedir una revisión."
+    }
+  },
+  {
+    "id": "licensing-067",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 77,
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Florida, a driver leaves the scene of a crash where a person was hurt. For at least how long will the driver lose the license?",
+      "o": [
+        "3 years",
+        "6 months",
+        "30 days",
+        "1 year"
+      ],
+      "h1": "It is several years.",
+      "h2": "A driver who leaves the scene of a crash with injury or death loses the license for at least 3 years.",
+      "p": "Right. Hit-and-run with injury means losing the license for at least 3 years."
+    },
+    "es": {
+      "q": "En Florida, un conductor se va del lugar de un choque donde una persona salió herida. ¿Por cuánto tiempo como mínimo perderá la licencia?",
+      "o": [
+        "3 años",
+        "6 meses",
+        "30 días",
+        "1 año"
+      ],
+      "h1": "Son varios años.",
+      "h2": "Un conductor que se va del lugar de un choque con heridos o muertos pierde la licencia por al menos 3 años.",
+      "p": "Correcto. Huir de un choque con heridos significa perder la licencia por al menos 3 años."
+    }
+  },
+  {
+    "id": "licensing-068",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 28,
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Florida, your 19-year-old front-seat passenger is not wearing a seat belt. Who gets the ticket?",
+      "o": [
+        "You, the driver",
+        "The car's owner",
+        "The passenger",
+        "No one"
+      ],
+      "h1": "The answer is different for passengers under 18.",
+      "h2": "A passenger 18 or older who does not wear a required seat belt gets the ticket; the driver is charged only for passengers under 18.",
+      "p": "Right. A passenger 18 or older is charged for not buckling up."
+    },
+    "es": {
+      "q": "En Florida, su pasajero de 19 años en el asiento delantero no lleva el cinturón de seguridad. ¿Quién recibe la multa?",
+      "o": [
+        "Usted, el conductor",
+        "El dueño del carro",
+        "El pasajero",
+        "Nadie"
+      ],
+      "h1": "La respuesta es distinta para pasajeros menores de 18 años.",
+      "h2": "Un pasajero de 18 años o más que no usa el cinturón cuando la ley lo exige recibe la multa; al conductor solo lo multan por pasajeros menores de 18.",
+      "p": "Correcto. Al pasajero de 18 años o más lo multan por no abrocharse."
+    }
+  },
+  {
+    "id": "licensing-069",
+    "scope": "FL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 87,
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Florida, what license do you need to ride a moped?",
+      "o": [
+        "A motorcycle endorsement",
+        "A Class E driver license",
+        "A commercial license",
+        "No license at all"
+      ],
+      "h1": "It is the regular car license.",
+      "h2": "In Florida, moped riders need a Class E driver license; a motorcycle endorsement is not required.",
+      "p": "Right. A moped needs a Class E license, no endorsement."
+    },
+    "es": {
+      "q": "En Florida, ¿qué licencia necesita para manejar un moped?",
+      "o": [
+        "Un endoso de motocicleta",
+        "Una licencia de conducir Clase E",
+        "Una licencia comercial",
+        "Ninguna licencia"
+      ],
+      "h1": "Es la licencia normal para carros.",
+      "h2": "En Florida, quien maneja un moped necesita una licencia de conducir Clase E; no se requiere endoso de motocicleta.",
+      "p": "Correcto. Un moped requiere licencia Clase E, sin endoso."
+    }
   }
 ]
