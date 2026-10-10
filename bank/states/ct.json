@@ -2212,5 +2212,141 @@
       "h2": "في Connecticut يمكن أن تؤدي السرعة الزائدة أو تعريض عامل الطريق للخطر في منطقة أعمال إلى غرامة تصل إلى $1,000، بالإضافة إلى نقاط على رخصتك.",
       "p": "صحيح. يمكن أن تصل الغرامة إلى $1,000."
     }
+  },
+  {
+    "id": "ct-028",
+    "scope": "CT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 22,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Connecticut, how much space must you leave between your car and a bicycle when you pass it?",
+      "o": [
+        "At least 1 foot",
+        "At least 2 feet",
+        "At least 3 feet",
+        "At least 10 feet"
+      ],
+      "h1": "Think of about one long step to the side.",
+      "h2": "In Connecticut, you must leave at least three feet of space when you pass a bicycle.",
+      "p": "Right. Give a bicycle at least three feet when you pass."
+    },
+    "es": {
+      "q": "En Connecticut, ¿cuánto espacio debe dejar entre su auto y una bicicleta al rebasarla?",
+      "o": [
+        "Al menos 1 pie",
+        "Al menos 2 pies",
+        "Al menos 3 pies",
+        "Al menos 10 pies"
+      ],
+      "h1": "Piense en un paso largo hacia un lado.",
+      "h2": "En Connecticut, debe dejar al menos tres pies de espacio al rebasar una bicicleta.",
+      "p": "Correcto. Deje al menos tres pies al rebasar una bicicleta."
+    }
+  },
+  {
+    "id": "ct-029",
+    "scope": "CT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 37,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, how close to a fire hydrant may you not park?",
+      "o": [
+        "Within 10 feet",
+        "Within 5 feet",
+        "Within 25 feet",
+        "Within 50 feet"
+      ],
+      "h1": "Fire crews need room to reach the hydrant. The distance is short.",
+      "h2": "In Connecticut, you may not park within 10 feet of a fire hydrant.",
+      "p": "Right. Stay at least 10 feet away from a fire hydrant when you park."
+    },
+    "es": {
+      "q": "En Connecticut, ¿a qué distancia de un hidrante no puede estacionarse?",
+      "o": [
+        "A menos de 10 pies",
+        "A menos de 5 pies",
+        "A menos de 25 pies",
+        "A menos de 50 pies"
+      ],
+      "h1": "Los bomberos necesitan espacio para llegar al hidrante. La distancia es corta.",
+      "h2": "En Connecticut, no puede estacionarse a menos de 10 pies de un hidrante.",
+      "p": "Correcto. Quédese al menos a 10 pies de un hidrante al estacionarse."
+    }
+  },
+  {
+    "id": "ct-030",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 5,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, what is the minimum vision needed for a driver's license, with or without glasses?",
+      "o": [
+        "20/20",
+        "20/40",
+        "20/70",
+        "20/100"
+      ],
+      "h1": "It is the same for all license classes, and glasses or contacts may be used.",
+      "h2": "In Connecticut, you need at least 20/40 vision, with or without glasses or contact lenses.",
+      "p": "Right. The minimum is 20/40, and glasses or contacts are allowed."
+    },
+    "es": {
+      "q": "En Connecticut, ¿cuál es la visión mínima para una licencia de conducir, con o sin lentes?",
+      "o": [
+        "20/20",
+        "20/40",
+        "20/70",
+        "20/100"
+      ],
+      "h1": "Es igual para todas las clases de licencia, y se pueden usar lentes o lentes de contacto.",
+      "h2": "En Connecticut, necesita una visión de al menos 20/40, con o sin lentes o lentes de contacto.",
+      "p": "Correcto. El mínimo es 20/40, y se permiten lentes o lentes de contacto."
+    }
+  },
+  {
+    "id": "ct-031",
+    "scope": "CT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 38,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, you turn on your windshield wipers because of rain. What does the law say you must also turn on?",
+      "o": [
+        "Your hazard lights",
+        "Your parking lights only",
+        "Your high beams",
+        "Your headlights"
+      ],
+      "h1": "Other drivers need to see you better in the rain.",
+      "h2": "In Connecticut, the law says that when your wipers are on, your headlights must be on too.",
+      "p": "Right. Wipers on means headlights on."
+    },
+    "es": {
+      "q": "En Connecticut, usted enciende los limpiaparabrisas porque llueve. ¿Qué más debe encender según la ley?",
+      "o": [
+        "Las luces de emergencia",
+        "Solo las luces de estacionamiento",
+        "Las luces altas",
+        "Los faros delanteros"
+      ],
+      "h1": "Los demás conductores necesitan verlo mejor bajo la lluvia.",
+      "h2": "En Connecticut, la ley dice que si los limpiaparabrisas están encendidos, los faros delanteros también deben estarlo.",
+      "p": "Correcto. Con limpiaparabrisas encendidos, faros encendidos."
+    }
   }
 ]
