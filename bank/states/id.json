@@ -2540,5 +2540,685 @@
       "h2": "في Idaho، يجب نقل وعاء الكحول المفتوح في صندوق السيارة الخلفي، أو خلف آخر مقعد قائم إذا لم يكن للسيارة صندوق.",
       "p": "صحيح. الوعاء المفتوح يوضع في صندوق السيارة الخلفي، أو خلف آخر مقعد قائم."
     }
+  },
+  {
+    "id": "id-032",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 32,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Idaho, you fail the knowledge test. How long must you wait before you can take it again?",
+      "o": [
+        "You can retake it the same day",
+        "Three days",
+        "Two weeks",
+        "30 days"
+      ],
+      "h1": "The wait is short, less than one week.",
+      "h2": "In Idaho, after failing the knowledge test you must wait three days to retest, and you pay the test fee again.",
+      "p": "Right. You wait three days and pay the fee again."
+    },
+    "es": {
+      "q": "En Idaho, usted no aprueba el examen de conocimientos. ¿Cuánto debe esperar para volver a tomarlo?",
+      "o": [
+        "Puede repetirlo el mismo día",
+        "Tres días",
+        "Dos semanas",
+        "30 días"
+      ],
+      "h1": "La espera es corta, menos de una semana.",
+      "h2": "En Idaho, si no aprueba el examen de conocimientos, debe esperar tres días para repetirlo y pagar otra vez la tarifa.",
+      "p": "Correcto. Espera tres días y paga la tarifa otra vez."
+    }
+  },
+  {
+    "id": "id-033",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Idaho, you just moved to the state with a valid license from another state. How soon must you apply for an Idaho license?",
+      "o": [
+        "Within 7 days",
+        "Within 90 days",
+        "Only when your old license expires",
+        "Within 30 days"
+      ],
+      "h1": "It is about one month.",
+      "h2": "New Idaho residents must apply for an Idaho driver's license within 30 days, even if the old license has not expired.",
+      "p": "Right. New residents have 30 days."
+    },
+    "es": {
+      "q": "En Idaho, usted acaba de mudarse al estado con una licencia válida de otro estado. ¿En cuánto tiempo debe solicitar una licencia de Idaho?",
+      "o": [
+        "Dentro de 7 días",
+        "Dentro de 90 días",
+        "Solo cuando venza su licencia anterior",
+        "Dentro de 30 días"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "Los nuevos residentes de Idaho deben solicitar una licencia de Idaho dentro de 30 días, aunque su licencia anterior no haya vencido.",
+      "p": "Correcto. Los nuevos residentes tienen 30 días."
+    }
+  },
+  {
+    "id": "id-034",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 16,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Idaho, a 17-year-old practices with a Class D Instruction Permit. How old must the licensed driver with them be?",
+      "o": [
+        "At least 18",
+        "At least 16",
+        "At least 25",
+        "At least 30"
+      ],
+      "h1": "The person must be an adult.",
+      "h2": "With a Class D Instruction Permit, the learner must drive with a licensed adult who is at least 18 years old.",
+      "p": "Right. The licensed driver must be at least 18."
+    },
+    "es": {
+      "q": "En Idaho, un joven de 17 años practica con un permiso de instrucción Clase D. ¿Qué edad debe tener el conductor con licencia que lo acompaña?",
+      "o": [
+        "Al menos 18 años",
+        "Al menos 16 años",
+        "Al menos 25 años",
+        "Al menos 30 años"
+      ],
+      "h1": "La persona debe ser adulta.",
+      "h2": "Con un permiso de instrucción Clase D, el aprendiz debe manejar con un adulto con licencia que tenga al menos 18 años.",
+      "p": "Correcto. El conductor con licencia debe tener al menos 18 años."
+    }
+  },
+  {
+    "id": "id-035",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Idaho, a driver is 19 years old. When does their driver's license expire?",
+      "o": [
+        "On their 20th birthday",
+        "Ten years after it was issued",
+        "Five days after their 21st birthday",
+        "On their 25th birthday"
+      ],
+      "h1": "Look for the license that says \"Under 21.\"",
+      "h2": "In Idaho, a license for a driver aged 18 to 20 says \"Under 21\" and expires five days after the 21st birthday.",
+      "p": "Right. It expires five days after the 21st birthday."
+    },
+    "es": {
+      "q": "En Idaho, un conductor tiene 19 años. ¿Cuándo vence su licencia de manejo?",
+      "o": [
+        "En su cumpleaños número 20",
+        "Diez años después de emitirse",
+        "Cinco días después de cumplir 21 años",
+        "En su cumpleaños número 25"
+      ],
+      "h1": "Piense en la licencia que dice \"Under 21\" (menor de 21).",
+      "h2": "En Idaho, la licencia de un conductor de 18 a 20 años dice \"Under 21\" y vence cinco días después de cumplir 21 años.",
+      "p": "Correcto. Vence cinco días después de cumplir 21 años."
+    }
+  },
+  {
+    "id": "id-036",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 31,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Idaho, you will be out of state for a while when your license expires. How long can one extension last?",
+      "o": [
+        "Up to 30 days",
+        "Up to 3 months",
+        "Up to 5 years",
+        "Up to 12 months"
+      ],
+      "h1": "Think of one full year.",
+      "h2": "An Idaho driver who is temporarily out of state can get an extension of up to 12 months for a $10 fee.",
+      "p": "Right. One extension lasts up to 12 months."
+    },
+    "es": {
+      "q": "En Idaho, usted estará fuera del estado cuando venza su licencia. ¿Cuánto puede durar una prórroga?",
+      "o": [
+        "Hasta 30 días",
+        "Hasta 3 meses",
+        "Hasta 5 años",
+        "Hasta 12 meses"
+      ],
+      "h1": "Piense en un año completo.",
+      "h2": "Un conductor de Idaho que está fuera del estado por un tiempo puede obtener una prórroga de hasta 12 meses por una tarifa de $10.",
+      "p": "Correcto. Una prórroga dura hasta 12 meses."
+    }
+  },
+  {
+    "id": "id-037",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 125,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Idaho, a licensed driver under 17 is convicted of a second moving violation. What happens?",
+      "o": [
+        "A warning letter",
+        "A 30-day suspension",
+        "A one-year suspension",
+        "A $50 fine and nothing more"
+      ],
+      "h1": "The first conviction brings only a warning letter. The second is stronger.",
+      "h2": "Under Idaho's graduated license rules, a driver under 17 gets a 30-day suspension for a second moving violation conviction.",
+      "p": "Right. A second conviction means a 30-day suspension."
+    },
+    "es": {
+      "q": "En Idaho, un conductor con licencia menor de 17 años recibe una segunda condena por una infracción de tránsito en movimiento. ¿Qué pasa?",
+      "o": [
+        "Una carta de advertencia",
+        "Una suspensión de 30 días",
+        "Una suspensión de un año",
+        "Una multa de $50 y nada más"
+      ],
+      "h1": "La primera condena trae solo una carta de advertencia. La segunda es más fuerte.",
+      "h2": "Según las reglas de licencia gradual de Idaho, un conductor menor de 17 años recibe una suspensión de 30 días por una segunda condena por infracción en movimiento.",
+      "p": "Correcto. Una segunda condena significa una suspensión de 30 días."
+    }
+  },
+  {
+    "id": "id-038",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 126,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Idaho, an adult fails a breath test for alcohol for the first time. How long is the administrative license suspension?",
+      "o": [
+        "90 days",
+        "7 days",
+        "Two years",
+        "Five years"
+      ],
+      "h1": "It is about three months.",
+      "h2": "In Idaho, a first failed alcohol test brings a 90-day administrative suspension, with no driving at all for the first 30 days.",
+      "p": "Right. The suspension is 90 days."
+    },
+    "es": {
+      "q": "En Idaho, un adulto no pasa una prueba de aliento de alcohol por primera vez. ¿Cuánto dura la suspensión administrativa de la licencia?",
+      "o": [
+        "90 días",
+        "7 días",
+        "Dos años",
+        "Cinco años"
+      ],
+      "h1": "Son unos tres meses.",
+      "h2": "En Idaho, la primera prueba de alcohol no aprobada trae una suspensión administrativa de 90 días, sin poder manejar nada durante los primeros 30 días.",
+      "p": "Correcto. La suspensión es de 90 días."
+    }
+  },
+  {
+    "id": "id-039",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 125,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Idaho, you get a Notice of Suspension after failing an alcohol test. How long do you have to ask for a hearing?",
+      "o": [
+        "24 hours",
+        "60 days",
+        "7 days",
+        "One year"
+      ],
+      "h1": "It is about one week.",
+      "h2": "In Idaho, you may ask for an administrative hearing within 7 days of the date on the Notice of Suspension.",
+      "p": "Right. You have 7 days to ask for a hearing."
+    },
+    "es": {
+      "q": "En Idaho, usted recibe un Aviso de Suspensión después de no pasar una prueba de alcohol. ¿Cuánto tiempo tiene para pedir una audiencia?",
+      "o": [
+        "24 horas",
+        "60 días",
+        "7 días",
+        "Un año"
+      ],
+      "h1": "Es más o menos una semana.",
+      "h2": "En Idaho, usted puede pedir una audiencia administrativa dentro de 7 días a partir de la fecha del Aviso de Suspensión.",
+      "p": "Correcto. Tiene 7 días para pedir una audiencia."
+    }
+  },
+  {
+    "id": "id-040",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 126,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Idaho, a driver refuses an officer's request for an alcohol or drug test. What civil penalty can they face, besides a suspension?",
+      "o": [
+        "$25",
+        "$100",
+        "$5,000",
+        "$250"
+      ],
+      "h1": "It is more than $100 and less than $500.",
+      "h2": "Under Idaho's implied consent law, refusing the test can bring a license suspension and a civil penalty of $250.",
+      "p": "Right. The civil penalty is $250."
+    },
+    "es": {
+      "q": "En Idaho, un conductor se niega a hacer la prueba de alcohol o drogas que pide un oficial. ¿Qué multa civil puede recibir, además de una suspensión?",
+      "o": [
+        "$25",
+        "$100",
+        "$5,000",
+        "$250"
+      ],
+      "h1": "Es más de $100 y menos de $500.",
+      "h2": "Según la ley de consentimiento implícito de Idaho, negarse a la prueba puede traer una suspensión de la licencia y una multa civil de $250.",
+      "p": "Correcto. La multa civil es de $250."
+    }
+  },
+  {
+    "id": "id-041",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 126,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Idaho, a driver refuses an alcohol test for the first time, and the court upholds the officer. How long is the license suspended?",
+      "o": [
+        "One year, with no driving at all",
+        "30 days, with work driving allowed",
+        "90 days",
+        "There is no suspension for a first refusal"
+      ],
+      "h1": "A refusal is treated more harshly than failing the test.",
+      "h2": "In Idaho, a first test refusal brings a one-year suspension with absolutely no driving privileges.",
+      "p": "Right. A first refusal means one year with no driving."
+    },
+    "es": {
+      "q": "En Idaho, un conductor se niega por primera vez a una prueba de alcohol, y el tribunal confirma lo que dijo el oficial. ¿Por cuánto tiempo se suspende la licencia?",
+      "o": [
+        "Un año, sin poder manejar nada",
+        "30 días, con permiso para manejar al trabajo",
+        "90 días",
+        "No hay suspensión por la primera negativa"
+      ],
+      "h1": "Negarse se castiga más que no pasar la prueba.",
+      "h2": "En Idaho, la primera negativa a la prueba trae una suspensión de un año sin ningún privilegio de manejo.",
+      "p": "Correcto. La primera negativa significa un año sin manejar."
+    }
+  },
+  {
+    "id": "id-042",
+    "scope": "ID",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 68,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Idaho, what is the speed limit for cars on an interstate when no other limit is posted?",
+      "o": [
+        "55 mph",
+        "65 mph",
+        "75 mph",
+        "85 mph"
+      ],
+      "h1": "Some stretches may be posted even higher, at 80.",
+      "h2": "In Idaho, the speed limit on interstates is 75 mph unless a different limit is posted, and 80 mph may be allowed where posted.",
+      "p": "Right. It is 75 mph unless posted otherwise."
+    },
+    "es": {
+      "q": "En Idaho, ¿cuál es el límite de velocidad para autos en una autopista interestatal cuando no hay otro límite señalado?",
+      "o": [
+        "55 mph",
+        "65 mph",
+        "75 mph",
+        "85 mph"
+      ],
+      "h1": "Algunos tramos pueden tener un límite aún más alto, de 80.",
+      "h2": "En Idaho, el límite en las autopistas interestatales es de 75 mph, a menos que se indique otro, y puede ser de 80 mph donde esté señalado.",
+      "p": "Correcto. Es de 75 mph a menos que se indique otro."
+    }
+  },
+  {
+    "id": "id-043",
+    "scope": "ID",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 69,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Idaho, what is the top speed in a residential, business or urban district when no sign says otherwise?",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "It is less than 45 mph.",
+      "h2": "In Idaho, the maximum speed in any residential, business or urban district is 35 mph unless a different limit is posted.",
+      "p": "Right. It is 35 mph unless posted otherwise."
+    },
+    "es": {
+      "q": "En Idaho, ¿cuál es la velocidad máxima en una zona residencial, comercial o urbana cuando ninguna señal indica otra?",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "Es menos de 45 mph.",
+      "h2": "En Idaho, la velocidad máxima en cualquier zona residencial, comercial o urbana es de 35 mph, a menos que se indique otro límite.",
+      "p": "Correcto. Es de 35 mph a menos que se indique otra."
+    }
+  },
+  {
+    "id": "id-044",
+    "scope": "ID",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 77,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Idaho, you are passing a slower car on a two-lane road posted at 55 mph or more. How much over the limit may you go while passing?",
+      "o": [
+        "Not at all",
+        "Up to 5 mph",
+        "Up to 25 mph",
+        "Up to 15 mph"
+      ],
+      "h1": "It applies only while passing, and never in work zones.",
+      "h2": "In Idaho, a car not towing anything may go up to 15 mph over the limit to pass a slower vehicle on a two-lane road posted at 55 mph or more, then slow back down.",
+      "p": "Right. You may go up to 15 mph over while passing."
+    },
+    "es": {
+      "q": "En Idaho, usted rebasa a un auto más lento en una carretera de dos carriles con límite de 55 mph o más. ¿Cuánto puede pasar del límite mientras rebasa?",
+      "o": [
+        "Nada",
+        "Hasta 5 mph",
+        "Hasta 25 mph",
+        "Hasta 15 mph"
+      ],
+      "h1": "Se permite solo al rebasar, y nunca en zonas de obras.",
+      "h2": "En Idaho, un auto que no remolca nada puede ir hasta 15 mph sobre el límite para rebasar a un vehículo más lento en una carretera de dos carriles con límite de 55 mph o más, y luego debe volver a bajar la velocidad.",
+      "p": "Correcto. Puede ir hasta 15 mph sobre el límite al rebasar."
+    }
+  },
+  {
+    "id": "id-045",
+    "scope": "ID",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 76,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Idaho, how close to an intersection or a railroad crossing is passing not allowed, unless signs or markings say otherwise?",
+      "o": [
+        "Within 100 feet",
+        "Within 10 feet",
+        "Within 1,000 feet",
+        "Within one mile"
+      ],
+      "h1": "It is about the length of six or seven cars.",
+      "h2": "In Idaho, you may not pass within 100 feet of an intersection or a railroad crossing, unless traffic control devices allow it.",
+      "p": "Right. No passing within 100 feet."
+    },
+    "es": {
+      "q": "En Idaho, ¿a qué distancia de una intersección o de un cruce de ferrocarril no se permite rebasar, salvo que las señales o marcas indiquen otra cosa?",
+      "o": [
+        "A menos de 100 pies",
+        "A menos de 10 pies",
+        "A menos de 1,000 pies",
+        "A menos de una milla"
+      ],
+      "h1": "Es más o menos el largo de seis o siete autos.",
+      "h2": "En Idaho, no puede rebasar a menos de 100 pies de una intersección o de un cruce de ferrocarril, salvo que los dispositivos de control de tránsito lo permitan.",
+      "p": "Correcto. No se rebasa a menos de 100 pies."
+    }
+  },
+  {
+    "id": "id-046",
+    "scope": "ID",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 70,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Idaho, a school bus is stopped with red lights flashing on the other side of the road. When do you NOT have to stop?",
+      "o": [
+        "When you are in a hurry",
+        "When the bus is on a two-lane road",
+        "When the highway has four or more lanes, with two going each way",
+        "When no children are in sight"
+      ],
+      "h1": "It depends on how many lanes the highway has.",
+      "h2": "In Idaho, you do not have to stop for a school bus on the other side if the highway has four or more lanes, with two lanes going in each direction.",
+      "p": "Right. On a highway with two lanes each way, the other side does not stop."
+    },
+    "es": {
+      "q": "En Idaho, un autobús escolar está detenido con las luces rojas encendidas al otro lado de la carretera. ¿Cuándo NO tiene que detenerse?",
+      "o": [
+        "Cuando usted tiene prisa",
+        "Cuando el autobús está en una carretera de dos carriles",
+        "Cuando la carretera tiene cuatro carriles o más, con dos en cada sentido",
+        "Cuando no se ven niños"
+      ],
+      "h1": "Depende de cuántos carriles tiene la carretera.",
+      "h2": "En Idaho, no tiene que detenerse por un autobús escolar al otro lado si la carretera tiene cuatro carriles o más, con dos carriles en cada sentido.",
+      "p": "Correcto. En una carretera con dos carriles en cada sentido, el otro lado no se detiene."
+    }
+  },
+  {
+    "id": "id-047",
+    "scope": "ID",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 98,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Idaho, what must a bicyclist do at a stop sign?",
+      "o": [
+        "Get off and walk the bike across",
+        "Slow down and yield, without a full stop",
+        "Stop fully and wait for a car to wave them on",
+        "Use the sidewalk to get around it"
+      ],
+      "h1": "Idaho has a special stop sign rule for bicycles.",
+      "h2": "In Idaho, a bicyclist does not need to come to a complete stop at a stop sign, but must yield to vehicles at or near the intersection and then go on with care.",
+      "p": "Right. A bicyclist may yield at a stop sign without a full stop."
+    },
+    "es": {
+      "q": "En Idaho, ¿qué debe hacer un ciclista en una señal de alto?",
+      "o": [
+        "Bajarse y cruzar caminando con la bicicleta",
+        "Bajar la velocidad y ceder el paso, sin detenerse por completo",
+        "Detenerse por completo y esperar que un auto le haga señas",
+        "Usar la acera para rodearla"
+      ],
+      "h1": "Idaho tiene una regla especial de alto para bicicletas.",
+      "h2": "En Idaho, un ciclista no tiene que detenerse por completo en una señal de alto, pero debe ceder el paso a los vehículos en la intersección o cerca de ella y luego seguir con cuidado.",
+      "p": "Correcto. Un ciclista puede ceder el paso en una señal de alto sin detenerse por completo."
+    }
+  },
+  {
+    "id": "id-048",
+    "scope": "ID",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 98,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Idaho, you are passing a bicyclist and cannot change lanes. What is the safe space to leave, at a minimum?",
+      "o": [
+        "6 inches",
+        "1 foot",
+        "2 feet",
+        "3 feet"
+      ],
+      "h1": "Think of about one big step.",
+      "h2": "The Idaho handbook says to leave at least 3 feet when passing a bicyclist, and more space at higher speeds.",
+      "p": "Right. Leave at least 3 feet."
+    },
+    "es": {
+      "q": "En Idaho, usted rebasa a un ciclista y no puede cambiar de carril. ¿Cuál es el espacio mínimo seguro que debe dejar?",
+      "o": [
+        "6 pulgadas",
+        "1 pie",
+        "2 pies",
+        "3 pies"
+      ],
+      "h1": "Piense en un paso largo.",
+      "h2": "El manual de Idaho dice que debe dejar al menos 3 pies al rebasar a un ciclista, y más espacio a mayor velocidad.",
+      "p": "Correcto. Deje al menos 3 pies."
+    }
+  },
+  {
+    "id": "id-049",
+    "scope": "ID",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 43,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Idaho, a car is coming toward you at night. When must you dim your high beams?",
+      "o": [
+        "Within 500 feet of the car",
+        "Within 50 feet of the car",
+        "Only when the car is beside you",
+        "Only if the other driver flashes their lights"
+      ],
+      "h1": "Think of the length of more than one and a half football fields.",
+      "h2": "In Idaho, you must dim your headlights within 500 feet of an oncoming vehicle, and within 200 feet of a vehicle you follow.",
+      "p": "Right. Dim them within 500 feet of an oncoming car."
+    },
+    "es": {
+      "q": "En Idaho, un auto viene hacia usted de noche. ¿Cuándo debe bajar las luces altas?",
+      "o": [
+        "A menos de 500 pies del auto",
+        "A menos de 50 pies del auto",
+        "Solo cuando el auto está a su lado",
+        "Solo si el otro conductor le hace cambio de luces"
+      ],
+      "h1": "Piense en más de una cancha y media de fútbol americano.",
+      "h2": "En Idaho, debe bajar las luces a menos de 500 pies de un vehículo que viene de frente, y a menos de 200 pies de un vehículo que va delante de usted.",
+      "p": "Correcto. Bájelas a menos de 500 pies de un auto que viene de frente."
+    }
+  },
+  {
+    "id": "id-050",
+    "scope": "ID",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 42,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Idaho, when may you use studded snow tires, unless ITD changes the dates?",
+      "o": [
+        "All year",
+        "Only in January and February",
+        "From October 1 to April 30",
+        "From May 1 to September 30"
+      ],
+      "h1": "They are for the cold part of the year.",
+      "h2": "In Idaho, studded snow tires may be used from October 1 to April 30, and ITD sometimes adjusts the dates for weather.",
+      "p": "Right. Studded tires are allowed October 1 to April 30."
+    },
+    "es": {
+      "q": "En Idaho, ¿cuándo puede usar llantas de nieve con clavos, si ITD no cambia las fechas?",
+      "o": [
+        "Todo el año",
+        "Solo en enero y febrero",
+        "Del 1 de octubre al 30 de abril",
+        "Del 1 de mayo al 30 de septiembre"
+      ],
+      "h1": "Son para la parte fría del año.",
+      "h2": "En Idaho, las llantas de nieve con clavos se pueden usar del 1 de octubre al 30 de abril, y a veces ITD ajusta las fechas por el clima.",
+      "p": "Correcto. Las llantas con clavos se permiten del 1 de octubre al 30 de abril."
+    }
+  },
+  {
+    "id": "id-051",
+    "scope": "ID",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 108,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Idaho, you hit a cow on open range outside city limits and your car is damaged. Who pays for your car?",
+      "o": [
+        "The cow's owner must pay",
+        "The cow's owner is not liable for your damage",
+        "The county pays for all repairs",
+        "The state road department pays"
+      ],
+      "h1": "On open range, livestock are allowed to roam free.",
+      "h2": "In Idaho, if you hit livestock on open range, the animal's owner is not liable for damage to you or your car, and you may owe for the animal if you were careless.",
+      "p": "Right. On open range, the owner does not pay for your damage."
+    },
+    "es": {
+      "q": "En Idaho, usted choca con una vaca en campo abierto (open range) fuera de la ciudad y su auto se daña. ¿Quién paga por su auto?",
+      "o": [
+        "El dueño de la vaca debe pagar",
+        "El dueño de la vaca no es responsable de sus daños",
+        "El condado paga todas las reparaciones",
+        "El departamento de carreteras del estado paga"
+      ],
+      "h1": "En campo abierto, el ganado puede andar suelto.",
+      "h2": "En Idaho, si choca con ganado en campo abierto, el dueño del animal no es responsable de los daños a usted o a su auto, y usted puede tener que pagar por el animal si fue descuidado.",
+      "p": "Correcto. En campo abierto, el dueño no paga por sus daños."
+    }
   }
 ]
