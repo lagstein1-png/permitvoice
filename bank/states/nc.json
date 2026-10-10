@@ -1649,7 +1649,7 @@
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In North Carolina, how many driver license points within three years can lead to a license suspension?",
+      "q": "In North Carolina, what is the lowest number of driver license points within three years that can lead to a license suspension?",
       "o": [
         "4 points",
         "7 points",
@@ -1661,7 +1661,7 @@
       "p": "Right. 12 points in three years can mean a suspension."
     },
     "es": {
-      "q": "En Carolina del Norte, ¿cuántos puntos en la licencia dentro de tres años pueden llevar a una suspensión?",
+      "q": "En Carolina del Norte, ¿cuál es la menor cantidad de puntos en la licencia en tres años que puede llevar a una suspensión?",
       "o": [
         "4 puntos",
         "7 puntos",
@@ -1671,54 +1671,6 @@
       "h1": "Es más que el número que lo manda a una clínica para mejorar como conductor.",
       "h2": "En Carolina del Norte, su licencia puede ser suspendida si acumula 12 puntos dentro de tres años.",
       "p": "Correcto. 12 puntos en tres años pueden causar una suspensión."
-    },
-    "zh": {
-      "q": "在 North Carolina，三年内累计多少驾照扣分点可能导致驾照被吊销？",
-      "o": [
-        "4 分",
-        "7 分",
-        "12 分",
-        "20 分"
-      ],
-      "h1": "它比让你去上驾驶改进课程（driver improvement clinic）的分数更多。",
-      "h2": "在 North Carolina，如果你在三年内累计 12 分，你的驾照可能被吊销。",
-      "p": "对。三年内 12 分可能导致驾照被吊销。"
-    },
-    "vi": {
-      "q": "Ở North Carolina, bao nhiêu điểm phạt trên bằng lái trong ba năm có thể khiến bằng lái bị đình chỉ?",
-      "o": [
-        "4 điểm",
-        "7 điểm",
-        "12 điểm",
-        "20 điểm"
-      ],
-      "h1": "Con số này lớn hơn số điểm khiến bạn phải đi học lớp cải thiện kỹ năng lái xe (driver improvement clinic).",
-      "h2": "Ở North Carolina, bằng lái của bạn có thể bị đình chỉ nếu bạn bị 12 điểm trong ba năm.",
-      "p": "Đúng. 12 điểm trong ba năm có thể dẫn đến bị đình chỉ bằng lái."
-    },
-    "tl": {
-      "q": "Sa North Carolina, ilang puntos sa lisensya sa loob ng tatlong taon ang puwedeng magdulot ng suspensyon ng lisensya?",
-      "o": [
-        "4 na puntos",
-        "7 puntos",
-        "12 puntos",
-        "20 puntos"
-      ],
-      "h1": "Mas marami ito kaysa sa bilang na magpapapunta sa iyo sa isang driver improvement clinic.",
-      "h2": "Sa North Carolina, puwedeng masuspinde ang lisensya mo kung makaipon ka ng 12 puntos sa loob ng tatlong taon.",
-      "p": "Tama. Ang 12 puntos sa tatlong taon ay puwedeng mauwi sa suspensyon."
-    },
-    "ar": {
-      "q": "في North Carolina، كم نقطة على رخصة القيادة خلال ثلاث سنوات قد تؤدي إلى إيقاف الرخصة؟",
-      "o": [
-        "4 نقاط",
-        "7 نقاط",
-        "12 نقطة",
-        "20 نقطة"
-      ],
-      "h1": "هو أكثر من العدد الذي يرسلك إلى دورة لتحسين القيادة (driver improvement clinic).",
-      "h2": "في North Carolina، قد تُوقَف رخصتك إذا جمعت 12 نقطة خلال ثلاث سنوات.",
-      "p": "صحيح. 12 نقطة في ثلاث سنوات قد تعني إيقاف الرخصة."
     }
   },
   {
@@ -2146,7 +2098,7 @@
         "Only if a car must be towed",
         "When the damage looks like $1,000 or more",
         "Only if the other driver asks you to",
-        "When the damage looks like $5,000 or more"
+        "Only when the damage looks like $5,000 or more"
       ],
       "h1": "It depends on how much the damage seems to cost.",
       "h2": "In North Carolina, you must report a crash to the police right away if anyone is hurt or killed, or if the damage looks like $1,000 or more.",
@@ -2158,59 +2110,11 @@
         "Solo si hay que remolcar un auto",
         "Cuando el daño parece ser de $1,000 o más",
         "Solo si el otro conductor se lo pide",
-        "Cuando el daño parece ser de $5,000 o más"
+        "Solo cuando el daño parece ser de $5,000 o más"
       ],
       "h1": "Depende de cuánto parece costar el daño.",
       "h2": "En Carolina del Norte, debe reportar un choque a la policía de inmediato si alguien resulta herido o muerto, o si el daño parece ser de $1,000 o más.",
       "p": "Correcto. Un daño de unos $1,000 o más se debe reportar."
-    },
-    "zh": {
-      "q": "在 North Carolina，一场车祸中没有人受伤。什么时候你必须马上向警察报告？",
-      "o": [
-        "只有车需要被拖走时",
-        "损坏看起来达到 $1,000 或更多时",
-        "只有对方驾驶人要求你报告时",
-        "损坏看起来达到 $5,000 或更多时"
-      ],
-      "h1": "这要看损坏看起来值多少钱。",
-      "h2": "在 North Carolina，如果有人受伤或死亡，或者损坏看起来达到 $1,000 或更多，你必须马上向警察报告车祸。",
-      "p": "对。大约 $1,000 或更多的损坏必须报告。"
-    },
-    "vi": {
-      "q": "Ở North Carolina, không ai bị thương trong một vụ tai nạn. Khi nào bạn phải báo cảnh sát ngay?",
-      "o": [
-        "Chỉ khi có xe phải bị kéo đi",
-        "Khi thiệt hại trông như từ $1,000 trở lên",
-        "Chỉ khi tài xế kia yêu cầu bạn",
-        "Khi thiệt hại trông như từ $5,000 trở lên"
-      ],
-      "h1": "Điều này tùy vào thiệt hại có vẻ tốn bao nhiêu tiền.",
-      "h2": "Ở North Carolina, bạn phải báo cảnh sát ngay về vụ tai nạn nếu có người bị thương hoặc chết, hoặc nếu thiệt hại trông như từ $1,000 trở lên.",
-      "p": "Đúng. Thiệt hại khoảng $1,000 trở lên phải được báo cáo."
-    },
-    "tl": {
-      "q": "Sa North Carolina, walang nasaktan sa isang banggaan. Kailan mo dapat i-report agad ito sa pulis?",
-      "o": [
-        "Kung may sasakyan lang na kailangang i-tow",
-        "Kapag mukhang $1,000 o higit pa ang pinsala",
-        "Kung hilingin lang ito ng ibang driver",
-        "Kapag mukhang $5,000 o higit pa ang pinsala"
-      ],
-      "h1": "Nakadepende ito sa kung magkano ang mukhang halaga ng pinsala.",
-      "h2": "Sa North Carolina, dapat mong i-report agad sa pulis ang banggaan kung may nasaktan o namatay, o kung mukhang $1,000 o higit pa ang pinsala.",
-      "p": "Tama. Dapat i-report ang pinsalang mga $1,000 o higit pa."
-    },
-    "ar": {
-      "q": "في North Carolina، لم يُصَب أحد في حادث. متى يجب أن تبلّغ الشرطة فورًا؟",
-      "o": [
-        "فقط إذا كانت سيارة تحتاج إلى سحب",
-        "عندما يبدو أن الضرر $1,000 أو أكثر",
-        "فقط إذا طلب منك السائق الآخر ذلك",
-        "عندما يبدو أن الضرر $5,000 أو أكثر"
-      ],
-      "h1": "يعتمد ذلك على كم تبدو تكلفة الضرر.",
-      "h2": "في North Carolina، يجب أن تبلّغ الشرطة فورًا عن الحادث إذا أُصيب أحد أو مات، أو إذا بدا أن الضرر $1,000 أو أكثر.",
-      "p": "صحيح. يجب التبليغ عن ضرر يقارب $1,000 أو أكثر."
     }
   }
 ]
