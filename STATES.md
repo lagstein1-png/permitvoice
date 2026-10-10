@@ -52,7 +52,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | PA | Pennsylvania | 50 | 50 | 18 q, pass 15 (83%) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/spanish/pub%2095s.pdf) | yes |
 | RI | Rhode Island | 51 | 50 | not found | [link](https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf) | [link](https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual_SP.pdf) | yes |
 | SC | South Carolina | 50 | 50 | 30 q, pass 24 (80%) | [link](https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf) | — | yes |
-| SD | South Dakota | 50 | 50 | ? q, pass ? (80%) | [link](https://www.sd.gov/sys_attachment.do?sys_id=d8e0b08e47bd0390a497127ba26d4348) | [link](https://www.sd.gov/sys_attachment.do?sys_id=616c057e47406e10237fbd51026d430f) | yes |
+| SD | South Dakota | 50 | 49 | ? q, pass ? (80%) | [link](https://www.sd.gov/sys_attachment.do?sys_id=d8e0b08e47bd0390a497127ba26d4348) | [link](https://www.sd.gov/sys_attachment.do?sys_id=616c057e47406e10237fbd51026d430f) | yes |
 | TN | Tennessee | 50 | 50 | 30 q, pass 24 (80%) | [link](https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf) | — | yes |
 | TX | Texas | 50 | 50 | ? q, pass ? (70%) | [link](https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf) | — | yes |
 | UT | Utah | 50 | 50 | 50 q, pass 40 (80%) | [link](https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2026.pdf) | — | yes |
