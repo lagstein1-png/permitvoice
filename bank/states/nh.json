@@ -9240,5 +9240,209 @@
       "h2": "En New Hampshire, una primera condena por manejo temerario tiene una multa de al menos $500 más un recargo.",
       "p": "Correcto. $500 más un recargo."
     }
+  },
+  {
+    "id": "nh-198",
+    "scope": "NH",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-55.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, a city bus has stopped to let passengers get off. You are about to drive past it. What must you do?",
+      "o": [
+        "Slow down, and stop fully if people's safety requires it",
+        "Keep your speed; only school buses need care",
+        "Honk so passengers stay on the curb",
+        "Pass quickly before the bus pulls out"
+      ],
+      "h1": "People getting off a bus may step into the road.",
+      "h2": "In New Hampshire, a driver passing a bus or other passenger vehicle stopped to let people get on or off must slow down, and stop fully if safety requires it.",
+      "p": "Right. Slow down, and stop if safety requires it."
+    },
+    "es": {
+      "q": "En New Hampshire, un autobús urbano se detuvo para que bajen pasajeros. Usted está por pasarlo. ¿Qué debe hacer?",
+      "o": [
+        "Reducir la velocidad, y detenerse por completo si la seguridad de las personas lo exige",
+        "Mantener su velocidad; solo los autobuses escolares exigen cuidado",
+        "Tocar la bocina para que los pasajeros se queden en la acera",
+        "Pasar rápido antes de que el autobús arranque"
+      ],
+      "h1": "Las personas que bajan de un autobús pueden entrar en la calle.",
+      "h2": "En New Hampshire, quien pasa un autobús u otro vehículo de pasajeros detenido para que suba o baje gente debe reducir la velocidad, y detenerse por completo si la seguridad lo exige.",
+      "p": "Correcto. Reducir la velocidad, y detenerse si la seguridad lo exige."
+    }
+  },
+  {
+    "id": "nh-199",
+    "scope": "NH",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-45.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, you need to stop or slow down suddenly and a car is behind you. What does the law require first?",
+      "o": [
+        "Nothing; just brake",
+        "An appropriate signal, when there is a chance to give one",
+        "Turn on your high beams",
+        "Sound your horn twice"
+      ],
+      "h1": "The driver behind you needs a warning.",
+      "h2": "In New Hampshire, you may not stop or suddenly slow down without first giving an appropriate signal to the driver behind, when there is a chance to give one.",
+      "p": "Right. Give an appropriate signal first."
+    },
+    "es": {
+      "q": "En New Hampshire, necesita detenerse o frenar de golpe y hay un auto detrás. ¿Qué exige la ley primero?",
+      "o": [
+        "Nada; solo frenar",
+        "Una señal adecuada, cuando haya oportunidad de darla",
+        "Encender las luces altas",
+        "Tocar la bocina dos veces"
+      ],
+      "h1": "El conductor de atrás necesita un aviso.",
+      "h2": "En New Hampshire, no puede detenerse ni frenar de golpe sin dar antes una señal adecuada al conductor de atrás, cuando haya oportunidad de darla.",
+      "p": "Correcto. Dar primero una señal adecuada."
+    }
+  },
+  {
+    "id": "nh-200",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-108.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, how many trailers may a regular pickup truck tow at one time on a public road?",
+      "o": [
+        "Two, if both are small",
+        "Three",
+        "One",
+        "As many as it can pull"
+      ],
+      "h1": "Farm towing and some big rigs have exceptions, but not a regular pickup.",
+      "h2": "In New Hampshire, a vehicle may not tow more than one trailer or other vehicle on a public way, except for farm use, wreckers and some approved truck combinations.",
+      "p": "Right. One."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿cuántos tráileres puede remolcar a la vez una camioneta común en una vía pública?",
+      "o": [
+        "Dos, si ambos son pequeños",
+        "Tres",
+        "Uno",
+        "Todos los que pueda jalar"
+      ],
+      "h1": "Hay excepciones para el campo y algunos camiones grandes, pero no para una camioneta común.",
+      "h2": "En New Hampshire, un vehículo no puede remolcar más de un tráiler u otro vehículo en una vía pública, salvo para uso agrícola, grúas y algunas combinaciones de camiones aprobadas.",
+      "p": "Correcto. Uno."
+    }
+  },
+  {
+    "id": "nh-201",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-144.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, a friend wants to ride on your one-seat bicycle with you. What does the law say?",
+      "o": [
+        "It is allowed for short trips",
+        "It is allowed if the friend sits on the handlebars",
+        "It is allowed if both wear helmets",
+        "A bicycle may carry only as many people as it was built and equipped for"
+      ],
+      "h1": "Think about how many seats the bicycle has.",
+      "h2": "In New Hampshire, a bicycle may not carry more people at one time than it was designed and equipped for.",
+      "p": "Right. Only as many people as it was built for."
+    },
+    "es": {
+      "q": "En New Hampshire, un amigo quiere ir con usted en su bicicleta de un solo asiento. ¿Qué dice la ley?",
+      "o": [
+        "Está permitido en viajes cortos",
+        "Está permitido si el amigo va sentado en el manubrio",
+        "Está permitido si ambos usan casco",
+        "Una bicicleta solo puede llevar a tantas personas como para las que fue hecha y equipada"
+      ],
+      "h1": "Piense en cuántos asientos tiene la bicicleta.",
+      "h2": "En New Hampshire, una bicicleta no puede llevar a más personas a la vez que las que permite su diseño y equipo.",
+      "p": "Correcto. Solo tantas personas como para las que fue hecha."
+    }
+  },
+  {
+    "id": "nh-202",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/266/266-86.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, you ride a moped after dark. Which lights must it have on the back?",
+      "o": [
+        "Tail lamps and stop lamps",
+        "Only a red reflector",
+        "A flashing amber light",
+        "No lights are needed on the back"
+      ],
+      "h1": "A moped needs more than a bicycle at night.",
+      "h2": "In New Hampshire, a moped ridden in the dark must have a headlamp, and tail lamps and stop lamps on the back.",
+      "p": "Right. Tail lamps and stop lamps."
+    },
+    "es": {
+      "q": "En New Hampshire, usted maneja un ciclomotor (moped) de noche. ¿Qué luces debe tener atrás?",
+      "o": [
+        "Luces traseras y luces de freno",
+        "Solo un reflector rojo",
+        "Una luz ámbar intermitente",
+        "No se necesitan luces atrás"
+      ],
+      "h1": "Un ciclomotor necesita más que una bicicleta de noche.",
+      "h2": "En New Hampshire, un ciclomotor (moped) en la oscuridad debe tener luz delantera, y luces traseras y luces de freno atrás.",
+      "p": "Correcto. Luces traseras y luces de freno."
+    }
+  },
+  {
+    "id": "nh-203",
+    "scope": "NH",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-121.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, a motorcycle is riding near the right side of your lane ahead of you. May you pull up beside it in the same lane to pass?",
+      "o": [
+        "Yes, if the lane is wide enough",
+        "No, a motorcycle is entitled to the full use of a lane",
+        "Yes, if the rider waves you by",
+        "Yes, but only below 30 mph"
+      ],
+      "h1": "Treat the motorcycle like any other vehicle in the lane.",
+      "h2": "In New Hampshire, every motorcycle is entitled to the full use of a lane, and no driver may take part of that lane from it.",
+      "p": "Right. A motorcycle gets the full lane."
+    },
+    "es": {
+      "q": "En New Hampshire, una motocicleta va por el lado derecho de su carril, delante de usted. ¿Puede ponerse a su lado en el mismo carril para rebasarla?",
+      "o": [
+        "Sí, si el carril es bastante ancho",
+        "No, una motocicleta tiene derecho a usar todo el carril",
+        "Sí, si el motociclista le hace señas",
+        "Sí, pero solo a menos de 30 mph"
+      ],
+      "h1": "Trate a la motocicleta como a cualquier otro vehículo en el carril.",
+      "h2": "En New Hampshire, toda motocicleta tiene derecho a usar todo el carril, y ningún conductor puede quitarle parte de ese carril.",
+      "p": "Correcto. La motocicleta tiene derecho a todo el carril."
+    }
   }
 ]
