@@ -5798,5 +5798,1569 @@
       "h2": "En Nueva York, si daña un vehículo estacionado u otra propiedad, debe tratar de encontrar al dueño o avisar a la policía.",
       "p": "Correcto. Busque al dueño o llame a la policía."
     }
+  },
+  {
+    "id": "ny-101",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, what is the youngest age for a full Class D driver license if you did NOT finish a driver education course?",
+      "o": [
+        "18",
+        "16",
+        "17",
+        "21"
+      ],
+      "h1": "Finishing driver education lets you get it one year sooner.",
+      "h2": "In New York, the minimum age for a Class D license is 18, or 17 if you have a driver education Certificate of Completion.",
+      "p": "Right. Without driver education, you must be 18."
+    },
+    "es": {
+      "q": "En Nueva York, ¿cuál es la edad mínima para una licencia Clase D completa si usted NO terminó un curso de educación vial?",
+      "o": [
+        "18",
+        "16",
+        "17",
+        "21"
+      ],
+      "h1": "Terminar la educación vial le permite obtenerla un año antes.",
+      "h2": "En Nueva York, la edad mínima para una licencia Clase D es 18 años, o 17 si usted tiene un Certificado de Finalización de educación vial.",
+      "p": "Correcto. Sin educación vial, debe tener 18 años."
+    }
+  },
+  {
+    "id": "ny-102",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, what extra use does an Enhanced Driver License have?",
+      "o": [
+        "It lets you drive a bus or large truck without a CDL",
+        "It can be used instead of a passport at land and sea crossings to Canada or Mexico",
+        "It lets a 16-year-old drive alone in New York City",
+        "It never needs to be renewed"
+      ],
+      "h1": "Think about crossing a border.",
+      "h2": "In New York, an Enhanced Driver License can be used instead of a passport at land and sea crossings to and from Canada, Mexico, Bermuda and the Caribbean.",
+      "p": "Right. It works like a passport at land and sea borders."
+    },
+    "es": {
+      "q": "En Nueva York, ¿qué uso adicional tiene una Licencia de Conducir Mejorada (Enhanced Driver License)?",
+      "o": [
+        "Le permite manejar un autobús o un camión grande sin una CDL",
+        "Se puede usar en lugar de un pasaporte en cruces por tierra y mar hacia Canadá o México",
+        "Le permite a un joven de 16 años manejar solo en la ciudad de Nueva York",
+        "Nunca hay que renovarla"
+      ],
+      "h1": "Piense en cruzar una frontera.",
+      "h2": "En Nueva York, una Licencia de Conducir Mejorada se puede usar en lugar de un pasaporte en cruces por tierra y mar hacia y desde Canadá, México, Bermudas y el Caribe.",
+      "p": "Correcto. Funciona como un pasaporte en fronteras por tierra y mar."
+    }
+  },
+  {
+    "id": "ny-103",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, how early can you renew your driver license before its printed expiration date?",
+      "o": [
+        "Only in the last 10 days",
+        "Up to five years before",
+        "Up to one year before",
+        "Only after it has expired"
+      ],
+      "h1": "It is many months, but not years.",
+      "h2": "In New York, you can renew your driver license up to one year before its printed expiration date.",
+      "p": "Right. You can renew up to one year early."
+    },
+    "es": {
+      "q": "En Nueva York, ¿con cuánta anticipación puede renovar su licencia antes de la fecha de vencimiento impresa?",
+      "o": [
+        "Solo en los últimos 10 días",
+        "Hasta cinco años antes",
+        "Hasta un año antes",
+        "Solo después de que haya vencido"
+      ],
+      "h1": "Son muchos meses, pero no años.",
+      "h2": "En Nueva York, usted puede renovar su licencia de conducir hasta un año antes de la fecha de vencimiento impresa.",
+      "p": "Correcto. Puede renovarla hasta un año antes."
+    }
+  },
+  {
+    "id": "ny-104",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, you renew your driver license by mail. What must you send with your renewal application?",
+      "o": [
+        "A new road test certificate",
+        "A letter from your employer",
+        "Your car's inspection sticker",
+        "An Eye Test Report showing you passed a vision test"
+      ],
+      "h1": "The DMV needs to know you can still see well.",
+      "h2": "In New York, to renew your license by mail you send the renewal application with a completed Eye Test Report (MV-619) showing you passed the vision test.",
+      "p": "Right. Send an Eye Test Report with it."
+    },
+    "es": {
+      "q": "En Nueva York, usted renueva su licencia por correo. ¿Qué debe enviar con la solicitud de renovación?",
+      "o": [
+        "Un nuevo certificado de examen práctico",
+        "Una carta de su empleador",
+        "La calcomanía de inspección de su carro",
+        "Un Informe de Examen de la Vista que muestre que aprobó la prueba de visión"
+      ],
+      "h1": "El DMV necesita saber que usted todavía ve bien.",
+      "h2": "En Nueva York, para renovar la licencia por correo usted envía la solicitud con un Informe de Examen de la Vista (MV-619) completo que muestre que aprobó la prueba de visión.",
+      "p": "Correcto. Envíe un Informe de Examen de la Vista."
+    }
+  },
+  {
+    "id": "ny-105",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 20,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, you get a speeding ticket while visiting Pennsylvania and you never answer it. What can happen to your New York license?",
+      "o": [
+        "It is suspended until you answer the ticket",
+        "Nothing, because the ticket was out of state",
+        "It is revoked for five years",
+        "You get 11 points right away"
+      ],
+      "h1": "An unanswered ticket follows you home.",
+      "h2": "In New York, your license will be suspended if you do not answer a moving traffic ticket from most other states, and it stays suspended until you answer it.",
+      "p": "Right. It stays suspended until you answer the ticket."
+    },
+    "es": {
+      "q": "En Nueva York, usted recibe una multa por exceso de velocidad mientras visita Pensilvania y nunca la responde. ¿Qué puede pasar con su licencia de Nueva York?",
+      "o": [
+        "Se suspende hasta que usted responda la multa",
+        "Nada, porque la multa fue en otro estado",
+        "Se revoca por cinco años",
+        "Recibe 11 puntos de inmediato"
+      ],
+      "h1": "Una multa sin responder lo sigue hasta su casa.",
+      "h2": "En Nueva York, su licencia será suspendida si usted no responde una multa de tránsito en movimiento de la mayoría de los otros estados, y sigue suspendida hasta que la responda.",
+      "p": "Correcto. Sigue suspendida hasta que responda la multa."
+    }
+  },
+  {
+    "id": "ny-106",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 20,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, what license penalty comes with a first conviction for Driving While Ability Impaired by alcohol (DWAI)?",
+      "o": [
+        "No license penalty, only a fine",
+        "A 90-day suspension",
+        "Revocation for at least one year",
+        "Revocation for life"
+      ],
+      "h1": "It is about three months.",
+      "h2": "In New York, a first DWAI (alcohol) conviction brings a 90-day license suspension.",
+      "p": "Right. A first DWAI means a 90-day suspension."
+    },
+    "es": {
+      "q": "En Nueva York, ¿qué castigo a la licencia trae una primera condena por Manejar con la Capacidad Disminuida por alcohol (DWAI)?",
+      "o": [
+        "Ningún castigo a la licencia, solo una multa",
+        "Una suspensión de 90 días",
+        "Revocación por al menos un año",
+        "Revocación de por vida"
+      ],
+      "h1": "Son unos tres meses.",
+      "h2": "En Nueva York, una primera condena por DWAI (alcohol) trae una suspensión de la licencia por 90 días.",
+      "p": "Correcto. Un primer DWAI significa una suspensión de 90 días."
+    }
+  },
+  {
+    "id": "ny-107",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 20,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, what is the least license penalty for a first conviction of Aggravated DWI (blood alcohol 0.18 or more)?",
+      "o": [
+        "A 90-day suspension",
+        "A 30-day suspension",
+        "Revocation for at least one year",
+        "A warning letter only"
+      ],
+      "h1": "It is longer than the penalty for a regular first DWI.",
+      "h2": "In New York, a first Aggravated DWI conviction brings a license revocation of at least one year.",
+      "p": "Right. At least a one-year revocation."
+    },
+    "es": {
+      "q": "En Nueva York, ¿cuál es el castigo mínimo a la licencia por una primera condena de DWI Agravado (alcohol en la sangre de 0.18 o más)?",
+      "o": [
+        "Una suspensión de 90 días",
+        "Una suspensión de 30 días",
+        "Revocación por al menos un año",
+        "Solo una carta de advertencia"
+      ],
+      "h1": "Es más largo que el castigo por un primer DWI normal.",
+      "h2": "En Nueva York, una primera condena por DWI Agravado trae una revocación de la licencia por al menos un año.",
+      "p": "Correcto. Al menos un año de revocación."
+    }
+  },
+  {
+    "id": "ny-108",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 21,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, a 30-year-old driver refuses a chemical test. Three years ago the same driver's license was revoked for an earlier refusal. What is the least revocation now?",
+      "o": [
+        "90 days",
+        "6 months",
+        "10 years",
+        "18 months"
+      ],
+      "h1": "It is longer than the one year for a first refusal.",
+      "h2": "In New York, a driver over 21 who refuses a chemical test within five years of an earlier refusal revocation or alcohol or drug violation loses the license for at least 18 months.",
+      "p": "Right. At least 18 months."
+    },
+    "es": {
+      "q": "En Nueva York, un conductor de 30 años se niega a una prueba química. Hace tres años, su licencia fue revocada por otra negativa. ¿Cuál es la revocación mínima ahora?",
+      "o": [
+        "90 días",
+        "6 meses",
+        "10 años",
+        "18 meses"
+      ],
+      "h1": "Es más largo que el año de una primera negativa.",
+      "h2": "En Nueva York, un conductor mayor de 21 años que se niega a una prueba química dentro de cinco años de una revocación anterior por negativa o por una infracción de alcohol o drogas pierde la licencia por al menos 18 meses.",
+      "p": "Correcto. Al menos 18 meses."
+    }
+  },
+  {
+    "id": "ny-109",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 21,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, a 19-year-old driver breaks the Zero Tolerance law for the second time. What happens to the license?",
+      "o": [
+        "It is revoked for at least one year or until age 21, whichever is longer",
+        "It is suspended for 30 days",
+        "The same six-month suspension as the first time",
+        "It is revoked for life"
+      ],
+      "h1": "It is stricter than the first time, and age 21 matters.",
+      "h2": "In New York, a second Zero Tolerance violation means the license is revoked for at least one year or until the driver turns 21, whichever is longer.",
+      "p": "Right. One year or until 21, whichever is longer."
+    },
+    "es": {
+      "q": "En Nueva York, un conductor de 19 años viola la ley de Tolerancia Cero por segunda vez. ¿Qué pasa con la licencia?",
+      "o": [
+        "Se revoca por al menos un año o hasta los 21 años, lo que sea más largo",
+        "Se suspende por 30 días",
+        "La misma suspensión de seis meses que la primera vez",
+        "Se revoca de por vida"
+      ],
+      "h1": "Es más estricto que la primera vez, y la edad de 21 años importa.",
+      "h2": "En Nueva York, una segunda violación de Tolerancia Cero significa que la licencia se revoca por al menos un año o hasta que el conductor cumpla 21 años, lo que sea más largo.",
+      "p": "Correcto. Un año o hasta los 21, lo que sea más largo."
+    }
+  },
+  {
+    "id": "ny-110",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 21,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, you let a friend drive your car, and the car has no insurance. What happens to your own license?",
+      "o": [
+        "Nothing, because you were not driving",
+        "It is revoked for at least one year",
+        "You get a warning letter",
+        "It is suspended for 10 days"
+      ],
+      "h1": "The owner is responsible for the insurance.",
+      "h2": "In New York, your license is revoked for at least one year if you drive, or let another person drive, your uninsured vehicle.",
+      "p": "Right. At least a one-year revocation."
+    },
+    "es": {
+      "q": "En Nueva York, usted deja que un amigo maneje su carro, y el carro no tiene seguro. ¿Qué pasa con su propia licencia?",
+      "o": [
+        "Nada, porque usted no manejaba",
+        "Se revoca por al menos un año",
+        "Recibe una carta de advertencia",
+        "Se suspende por 10 días"
+      ],
+      "h1": "El dueño es responsable del seguro.",
+      "h2": "En Nueva York, su licencia se revoca por al menos un año si usted maneja, o deja que otra persona maneje, su vehículo sin seguro.",
+      "p": "Correcto. Al menos un año de revocación."
+    }
+  },
+  {
+    "id": "ny-111",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 22,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, how many points do you get for driving 11 to 20 mph over the speed limit?",
+      "o": [
+        "2 points",
+        "6 points",
+        "4 points",
+        "11 points"
+      ],
+      "h1": "It is one more than for going 1 to 10 mph over.",
+      "h2": "In New York, driving 11 to 20 mph over the speed limit adds 4 points to your record.",
+      "p": "Right. 11 to 20 mph over is 4 points."
+    },
+    "es": {
+      "q": "En Nueva York, ¿cuántos puntos recibe por manejar de 11 a 20 mph por encima del límite de velocidad?",
+      "o": [
+        "2 puntos",
+        "6 puntos",
+        "4 puntos",
+        "11 puntos"
+      ],
+      "h1": "Es uno más que por ir de 1 a 10 mph por encima.",
+      "h2": "En Nueva York, manejar de 11 a 20 mph por encima del límite de velocidad suma 4 puntos a su historial.",
+      "p": "Correcto. De 11 a 20 mph por encima son 4 puntos."
+    }
+  },
+  {
+    "id": "ny-112",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 22,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, how many points does a reckless driving conviction add to your record?",
+      "o": [
+        "2 points",
+        "3 points",
+        "8 points",
+        "5 points"
+      ],
+      "h1": "It is the same as for texting while driving.",
+      "h2": "In New York, a reckless driving conviction adds 5 points to your driving record.",
+      "p": "Right. Reckless driving is 5 points."
+    },
+    "es": {
+      "q": "En Nueva York, ¿cuántos puntos suma a su historial una condena por manejo imprudente (reckless driving)?",
+      "o": [
+        "2 puntos",
+        "3 puntos",
+        "8 puntos",
+        "5 puntos"
+      ],
+      "h1": "Es lo mismo que por enviar mensajes de texto mientras maneja.",
+      "h2": "En Nueva York, una condena por manejo imprudente suma 5 puntos a su historial de manejo.",
+      "p": "Correcto. El manejo imprudente son 5 puntos."
+    }
+  },
+  {
+    "id": "ny-113",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 22,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, a driver under 21 had the license suspended under the Zero Tolerance law. What must the driver pay to get it back?",
+      "o": [
+        "A $125 civil penalty and a $100 suspension termination fee",
+        "Nothing at all",
+        "A $50 fee only",
+        "A $750 civil penalty"
+      ],
+      "h1": "There are two charges, and together they are a little over $200.",
+      "h2": "In New York, after a Zero Tolerance suspension, the driver must pay a $125 civil penalty and a $100 suspension termination fee to be licensed again.",
+      "p": "Right. $125 plus $100."
+    },
+    "es": {
+      "q": "En Nueva York, a un conductor menor de 21 años le suspendieron la licencia por la ley de Tolerancia Cero. ¿Qué debe pagar para recuperarla?",
+      "o": [
+        "Una multa civil de $125 y un cargo de $100 por terminar la suspensión",
+        "Nada",
+        "Solo un cargo de $50",
+        "Una multa civil de $750"
+      ],
+      "h1": "Son dos cargos, y juntos suman un poco más de $200.",
+      "h2": "En Nueva York, después de una suspensión por Tolerancia Cero, el conductor debe pagar una multa civil de $125 y un cargo de $100 por terminar la suspensión para volver a tener licencia.",
+      "p": "Correcto. $125 más $100."
+    }
+  },
+  {
+    "id": "ny-114",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 23,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, a driver is convicted of DWI. What Driver Responsibility Assessment must the driver pay the DMV?",
+      "o": [
+        "$25 one time",
+        "$250 a year for three years",
+        "$100 a year for one year",
+        "$1,000 a year for ten years"
+      ],
+      "h1": "It is paid every year for a few years.",
+      "h2": "In New York, a conviction for DWI, DWAI or a chemical test refusal brings a Driver Responsibility Assessment of $250 each year for three years.",
+      "p": "Right. $250 a year for three years."
+    },
+    "es": {
+      "q": "En Nueva York, un conductor es condenado por DWI. ¿Qué Cargo de Responsabilidad del Conductor (Driver Responsibility Assessment) debe pagar al DMV?",
+      "o": [
+        "$25 una sola vez",
+        "$250 al año durante tres años",
+        "$100 al año durante un año",
+        "$1,000 al año durante diez años"
+      ],
+      "h1": "Se paga cada año durante algunos años.",
+      "h2": "En Nueva York, una condena por DWI, DWAI o por negarse a una prueba química trae un Cargo de Responsabilidad del Conductor de $250 cada año durante tres años.",
+      "p": "Correcto. $250 al año durante tres años."
+    }
+  },
+  {
+    "id": "ny-115",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 23,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, is it a crime to drive while your license is suspended or revoked?",
+      "o": [
+        "No, it is like a parking ticket",
+        "Only if you cause a crash",
+        "Yes, it is a criminal offense with mandatory fines of $200 to $5,000",
+        "No, if you drive less than 10 miles"
+      ],
+      "h1": "The penalties can include jail or probation.",
+      "h2": "In New York, driving while your license is suspended or revoked is a criminal offense, with mandatory fines from $200 to $5,000 and possible jail or probation.",
+      "p": "Right. It is a crime."
+    },
+    "es": {
+      "q": "En Nueva York, ¿es un delito manejar mientras su licencia está suspendida o revocada?",
+      "o": [
+        "No, es como una multa de estacionamiento",
+        "Solo si usted causa un choque",
+        "Sí, es un delito penal con multas obligatorias de $200 a $5,000",
+        "No, si maneja menos de 10 millas"
+      ],
+      "h1": "Los castigos pueden incluir cárcel o libertad condicional.",
+      "h2": "En Nueva York, manejar con la licencia suspendida o revocada es un delito penal, con multas obligatorias de $200 a $5,000 y posible cárcel o libertad condicional.",
+      "p": "Correcto. Es un delito."
+    }
+  },
+  {
+    "id": "ny-116",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 26,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, you are about to sell your old car. What should you take off it first?",
+      "o": [
+        "The spare tire",
+        "Only the inspection sticker",
+        "Nothing; the buyer keeps your plates",
+        "The license plates and the windshield registration sticker"
+      ],
+      "h1": "Think about parking tickets that could come to you later.",
+      "h2": "In New York, before you sell or trade in a car, remove the license plates and the windshield registration sticker so you are not charged with parking tickets that are not yours.",
+      "p": "Right. Take the plates and the registration sticker."
+    },
+    "es": {
+      "q": "En Nueva York, usted va a vender su carro viejo. ¿Qué debe quitarle primero?",
+      "o": [
+        "La llanta de repuesto",
+        "Solo la calcomanía de inspección",
+        "Nada; el comprador se queda con sus placas",
+        "Las placas y la calcomanía de registro del parabrisas"
+      ],
+      "h1": "Piense en multas de estacionamiento que le podrían llegar después.",
+      "h2": "En Nueva York, antes de vender o entregar un carro, quite las placas y la calcomanía de registro del parabrisas para que no le cobren multas de estacionamiento que no son suyas.",
+      "p": "Correcto. Quite las placas y la calcomanía de registro."
+    }
+  },
+  {
+    "id": "ny-117",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 27,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, your registered car has had no insurance for 90 days, and you never turned in the plates. What happens to your driver license?",
+      "o": [
+        "It is suspended",
+        "Nothing happens to it",
+        "It gets 2 points",
+        "It is renewed early"
+      ],
+      "h1": "The problem is not only with the registration.",
+      "h2": "In New York, if your vehicle is not insured for 90 days and you have not turned in the plates, your driver license is also suspended.",
+      "p": "Right. Your license is suspended too."
+    },
+    "es": {
+      "q": "En Nueva York, su carro registrado lleva 90 días sin seguro, y usted nunca entregó las placas. ¿Qué pasa con su licencia de conducir?",
+      "o": [
+        "Se suspende",
+        "No le pasa nada",
+        "Recibe 2 puntos",
+        "Se renueva antes de tiempo"
+      ],
+      "h1": "El problema no es solo con el registro.",
+      "h2": "En Nueva York, si su vehículo no tiene seguro durante 90 días y usted no ha entregado las placas, su licencia de conducir también se suspende.",
+      "p": "Correcto. Su licencia también se suspende."
+    }
+  },
+  {
+    "id": "ny-118",
+    "scope": "NY",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 34,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, you and another driver reach an intersection with no signs or signals at the same time. The other driver is on your right. Who must yield?",
+      "o": [
+        "The driver on your right must yield to you",
+        "You must yield to the driver on your right",
+        "The faster driver goes first",
+        "The larger vehicle goes first"
+      ],
+      "h1": "The driver on the left waits.",
+      "h2": "In New York, at an intersection with no signs or signals, the driver on the left must yield to the driver on the right when they arrive at the same time.",
+      "p": "Right. Yield to the driver on your right."
+    },
+    "es": {
+      "q": "En Nueva York, usted y otro conductor llegan al mismo tiempo a una intersección sin señales ni semáforos. El otro conductor está a su derecha. ¿Quién debe ceder el paso?",
+      "o": [
+        "El conductor de su derecha debe cederle el paso a usted",
+        "Usted debe ceder el paso al conductor de su derecha",
+        "El conductor más rápido pasa primero",
+        "El vehículo más grande pasa primero"
+      ],
+      "h1": "El conductor de la izquierda espera.",
+      "h2": "En Nueva York, en una intersección sin señales ni semáforos, el conductor de la izquierda debe ceder el paso al conductor de la derecha cuando llegan al mismo tiempo.",
+      "p": "Correcto. Ceda el paso al conductor de su derecha."
+    }
+  },
+  {
+    "id": "ny-119",
+    "scope": "NY",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 35,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, you are in the middle of an intersection when an ambulance with its siren on comes up behind you. What should you do?",
+      "o": [
+        "Stop right where you are, in the intersection",
+        "Back up out of the intersection",
+        "Drive out of the intersection, then pull over to the right and stop",
+        "Speed up and stay ahead of it"
+      ],
+      "h1": "Do not block the intersection while you wait.",
+      "h2": "In New York, if you are in an intersection when an emergency vehicle comes, drive out of the intersection first, then pull over to the right edge and stop.",
+      "p": "Right. Clear the intersection, then pull over."
+    },
+    "es": {
+      "q": "En Nueva York, usted está en medio de una intersección cuando una ambulancia con la sirena encendida se acerca por detrás. ¿Qué debe hacer?",
+      "o": [
+        "Detenerse ahí mismo, dentro de la intersección",
+        "Retroceder para salir de la intersección",
+        "Salir de la intersección y luego orillarse a la derecha y detenerse",
+        "Acelerar y mantenerse delante de ella"
+      ],
+      "h1": "No bloquee la intersección mientras espera.",
+      "h2": "En Nueva York, si usted está en una intersección cuando llega un vehículo de emergencia, primero salga de la intersección y luego oríllese a la derecha y deténgase.",
+      "p": "Correcto. Salga de la intersección y luego oríllese."
+    }
+  },
+  {
+    "id": "ny-120",
+    "scope": "NY",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 37,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York City, where is a U-turn against the law, even with no sign?",
+      "o": [
+        "On any street with a bus stop",
+        "At any intersection with a traffic light",
+        "On any street with parked cars",
+        "In a business district"
+      ],
+      "h1": "Think of busy areas with many stores and offices.",
+      "h2": "In New York City, U-turns are illegal in business districts, as well as anywhere a NO U-TURN sign is posted.",
+      "p": "Right. No U-turns in New York City business districts."
+    },
+    "es": {
+      "q": "En la ciudad de Nueva York, ¿dónde es ilegal dar una vuelta en U, aunque no haya letrero?",
+      "o": [
+        "En cualquier calle con parada de autobús",
+        "En cualquier intersección con semáforo",
+        "En cualquier calle con carros estacionados",
+        "En una zona comercial"
+      ],
+      "h1": "Piense en zonas con mucho movimiento, tiendas y oficinas.",
+      "h2": "En la ciudad de Nueva York, las vueltas en U son ilegales en las zonas comerciales, y también donde haya un letrero de NO U-TURN.",
+      "p": "Correcto. No se permiten vueltas en U en zonas comerciales de la ciudad de Nueva York."
+    }
+  },
+  {
+    "id": "ny-121",
+    "scope": "NY",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 69,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, how many bicycle riders may ride side by side in one lane?",
+      "o": [
+        "No more than two",
+        "Only one",
+        "Up to three",
+        "Any number"
+      ],
+      "h1": "Think of a pair.",
+      "h2": "In New York, bicyclists may never ride more than two side by side in a single lane.",
+      "p": "Right. No more than two side by side."
+    },
+    "es": {
+      "q": "En Nueva York, ¿cuántos ciclistas pueden ir uno al lado del otro en un mismo carril?",
+      "o": [
+        "No más de dos",
+        "Solo uno",
+        "Hasta tres",
+        "Cualquier número"
+      ],
+      "h1": "Piense en una pareja.",
+      "h2": "En Nueva York, los ciclistas nunca pueden ir más de dos uno al lado del otro en un mismo carril.",
+      "p": "Correcto. No más de dos lado a lado."
+    }
+  },
+  {
+    "id": "ny-122",
+    "scope": "NY",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 40,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, you stopped for a school bus with flashing red lights. When may you drive on?",
+      "o": [
+        "As soon as the children are off the bus",
+        "When the bus starts moving, or the bus driver or a traffic officer signals you to go",
+        "After waiting 30 seconds",
+        "When the bus starts to flash yellow lights"
+      ],
+      "h1": "Watch the bus, its driver, or an officer.",
+      "h2": "In New York, after you stop for a school bus, you may not drive on until the bus starts moving or the bus driver or a traffic officer signals that you can go.",
+      "p": "Right. Wait for the bus to move or for a signal to go."
+    },
+    "es": {
+      "q": "En Nueva York, usted se detuvo por un autobús escolar con luces rojas intermitentes. ¿Cuándo puede seguir?",
+      "o": [
+        "En cuanto los niños se bajen del autobús",
+        "Cuando el autobús empiece a moverse, o el chofer o un agente de tránsito le indique que siga",
+        "Después de esperar 30 segundos",
+        "Cuando el autobús empiece a encender luces amarillas"
+      ],
+      "h1": "Fíjese en el autobús, su chofer o un agente.",
+      "h2": "En Nueva York, después de detenerse por un autobús escolar, usted no puede seguir hasta que el autobús empiece a moverse o el chofer o un agente de tránsito le indique que puede seguir.",
+      "p": "Correcto. Espere a que el autobús se mueva o a una señal para seguir."
+    }
+  },
+  {
+    "id": "ny-123",
+    "scope": "NY",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 43,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, a sign says NO STANDING. What may you do there?",
+      "o": [
+        "Park for up to 15 minutes",
+        "Stop to load and unload goods",
+        "Stop briefly to pick up or drop off passengers, without leaving the car",
+        "Stop for any reason if the driver stays in the car"
+      ],
+      "h1": "It is only about people getting in or out.",
+      "h2": "In New York, at a NO STANDING sign you may only stop for a moment to pick up or drop off passengers, and the driver may not leave the vehicle.",
+      "p": "Right. Only a quick stop for passengers."
+    },
+    "es": {
+      "q": "En Nueva York, un letrero dice NO STANDING. ¿Qué puede hacer ahí?",
+      "o": [
+        "Estacionarse hasta 15 minutos",
+        "Detenerse para cargar y descargar mercancía",
+        "Detenerse un momento para recoger o dejar pasajeros, sin bajarse del carro",
+        "Detenerse por cualquier motivo si el conductor se queda en el carro"
+      ],
+      "h1": "Se trata solo de personas que suben o bajan.",
+      "h2": "En Nueva York, ante un letrero de NO STANDING usted solo puede detenerse un momento para recoger o dejar pasajeros, y el conductor no puede bajarse del vehículo.",
+      "p": "Correcto. Solo una parada breve para pasajeros."
+    }
+  },
+  {
+    "id": "ny-124",
+    "scope": "NY",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 44,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, your car has a disability parking permit issued to your father. When may you park in a reserved disability space?",
+      "o": [
+        "Any time, because the car has the permit",
+        "Only at night",
+        "Only for 15 minutes",
+        "Only when your father is in the car"
+      ],
+      "h1": "The permit belongs to a person, not to the car.",
+      "h2": "In New York, you may park in a space reserved for people with disabilities only when the person who received the permit or plates is in the vehicle.",
+      "p": "Right. Only when the permit holder is with you."
+    },
+    "es": {
+      "q": "En Nueva York, su carro tiene un permiso de estacionamiento para personas con discapacidad a nombre de su padre. ¿Cuándo puede estacionarse en un espacio reservado?",
+      "o": [
+        "En cualquier momento, porque el carro tiene el permiso",
+        "Solo de noche",
+        "Solo por 15 minutos",
+        "Solo cuando su padre está en el carro"
+      ],
+      "h1": "El permiso es de una persona, no del carro.",
+      "h2": "En Nueva York, usted puede estacionarse en un espacio reservado para personas con discapacidad solo cuando la persona que recibió el permiso o las placas está en el vehículo.",
+      "p": "Correcto. Solo cuando el titular del permiso va con usted."
+    }
+  },
+  {
+    "id": "ny-125",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 48,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, an 18-year-old passenger does not wear a seat belt. Who can be fined up to $50?",
+      "o": [
+        "The passenger",
+        "Only the car's owner",
+        "No one, because adults may choose",
+        "The passenger in the next seat"
+      ],
+      "h1": "From age 16, passengers answer for their own belt.",
+      "h2": "In New York, a passenger age 16 or older who does not buckle up can be fined up to $50.",
+      "p": "Right. The passenger can be fined."
+    },
+    "es": {
+      "q": "En Nueva York, un pasajero de 18 años no usa el cinturón de seguridad. ¿A quién le pueden poner una multa de hasta $50?",
+      "o": [
+        "Al pasajero",
+        "Solo al dueño del carro",
+        "A nadie, porque los adultos pueden decidir",
+        "Al pasajero del asiento de al lado"
+      ],
+      "h1": "Desde los 16 años, los pasajeros responden por su propio cinturón.",
+      "h2": "En Nueva York, un pasajero de 16 años o más que no se abrocha el cinturón puede recibir una multa de hasta $50.",
+      "p": "Correcto. Al pasajero le pueden poner la multa."
+    }
+  },
+  {
+    "id": "ny-126",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 49,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, how much space should there be between the center of your chest and the air bag cover in the steering wheel?",
+      "o": [
+        "About 2 inches",
+        "At least 10 inches",
+        "At least 3 feet",
+        "It does not matter"
+      ],
+      "h1": "It is a little less than the length of a sheet of paper.",
+      "h2": "The New York Driver's Manual says to sit with at least 10 inches between the center of your chest and the air bag cover.",
+      "p": "Right. At least 10 inches."
+    },
+    "es": {
+      "q": "En Nueva York, ¿cuánto espacio debe haber entre el centro de su pecho y la tapa de la bolsa de aire del volante?",
+      "o": [
+        "Unas 2 pulgadas",
+        "Al menos 10 pulgadas",
+        "Al menos 3 pies",
+        "No importa"
+      ],
+      "h1": "Es un poco menos que el largo de una hoja de papel.",
+      "h2": "El Manual del Conductor de Nueva York dice que se siente con al menos 10 pulgadas entre el centro de su pecho y la tapa de la bolsa de aire.",
+      "p": "Correcto. Al menos 10 pulgadas."
+    }
+  },
+  {
+    "id": "ny-127",
+    "scope": "NY",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 50,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, a bicycle is riding in the lane ahead of you inside a roundabout. What should you do?",
+      "o": [
+        "Pass it quickly on the left",
+        "Honk so it moves to the edge",
+        "Pass it on the right",
+        "Stay behind it; do not pass a bicycle in the roundabout"
+      ],
+      "h1": "In a roundabout, the bicycle uses the lane like a car.",
+      "h2": "In New York, bicyclists may ride in the lane inside a roundabout like other vehicles, and you should not pass a bicycle in the roundabout.",
+      "p": "Right. Stay behind the bicycle."
+    },
+    "es": {
+      "q": "En Nueva York, una bicicleta va en el carril delante de usted dentro de una glorieta. ¿Qué debe hacer?",
+      "o": [
+        "Rebasarla rápido por la izquierda",
+        "Tocar la bocina para que se haga a la orilla",
+        "Rebasarla por la derecha",
+        "Quedarse detrás; no rebase una bicicleta dentro de la glorieta"
+      ],
+      "h1": "En una glorieta, la bicicleta usa el carril como un carro.",
+      "h2": "En Nueva York, los ciclistas pueden ir en el carril dentro de una glorieta como los demás vehículos, y usted no debe rebasar una bicicleta dentro de la glorieta.",
+      "p": "Correcto. Quédese detrás de la bicicleta."
+    }
+  },
+  {
+    "id": "ny-128",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, the Driver's Manual says that after you wake up from sleep you should wait how long before you drive?",
+      "o": [
+        "At least 15 minutes",
+        "No time at all",
+        "At least 2 hours",
+        "About 30 seconds"
+      ],
+      "h1": "It is about a quarter of an hour.",
+      "h2": "The New York Driver's Manual says not to drive for at least 15 minutes after you wake up from sleep.",
+      "p": "Right. Wait at least 15 minutes."
+    },
+    "es": {
+      "q": "En Nueva York, según el Manual del Conductor, ¿cuánto tiempo debe esperar después de despertarse antes de manejar?",
+      "o": [
+        "Al menos 15 minutos",
+        "Nada de tiempo",
+        "Al menos 2 horas",
+        "Unos 30 segundos"
+      ],
+      "h1": "Es como un cuarto de hora.",
+      "h2": "El Manual del Conductor de Nueva York dice que no maneje durante al menos 15 minutos después de despertarse.",
+      "p": "Correcto. Espere al menos 15 minutos."
+    }
+  },
+  {
+    "id": "ny-129",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 52,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, a junior license holder had a 120-day suspension for a phone violation. Within six months of getting the license back, the teen is convicted again. What happens?",
+      "o": [
+        "Only another warning",
+        "The license is revoked for at least one year",
+        "A 30-day suspension",
+        "Only a fine, with no license action"
+      ],
+      "h1": "It is much longer than the first 120 days.",
+      "h2": "In New York, a junior or probationary driver convicted again of phone use or texting within six months after the license is restored faces a revocation of at least one year.",
+      "p": "Right. At least a one-year revocation."
+    },
+    "es": {
+      "q": "En Nueva York, un joven con licencia junior tuvo una suspensión de 120 días por usar el teléfono. Dentro de los seis meses después de recuperar la licencia, lo condenan otra vez. ¿Qué pasa?",
+      "o": [
+        "Solo otra advertencia",
+        "La licencia se revoca por al menos un año",
+        "Una suspensión de 30 días",
+        "Solo una multa, sin castigo a la licencia"
+      ],
+      "h1": "Es mucho más largo que los primeros 120 días.",
+      "h2": "En Nueva York, un conductor junior o en periodo de prueba condenado otra vez por usar el teléfono o enviar mensajes dentro de los seis meses después de recuperar la licencia enfrenta una revocación de al menos un año.",
+      "p": "Correcto. Al menos un año de revocación."
+    }
+  },
+  {
+    "id": "ny-130",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 56,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, what does the Implied Consent law mean?",
+      "o": [
+        "You agree to let police search your phone",
+        "You agree to pay any ticket without going to court",
+        "You agree to take a road test every year",
+        "By driving in New York, you are considered to have agreed to a chemical test for alcohol or drugs"
+      ],
+      "h1": "It is about breath, blood, urine or saliva tests.",
+      "h2": "Under New York's Implied Consent law, when you drive in the state you are considered to have agreed to take a chemical test for alcohol or drugs.",
+      "p": "Right. Driving here means you agreed to a chemical test."
+    },
+    "es": {
+      "q": "En Nueva York, ¿qué significa la ley de Consentimiento Implícito (Implied Consent)?",
+      "o": [
+        "Usted acepta que la policía revise su teléfono",
+        "Usted acepta pagar cualquier multa sin ir a la corte",
+        "Usted acepta hacer un examen práctico cada año",
+        "Al manejar en Nueva York, se considera que usted aceptó una prueba química de alcohol o drogas"
+      ],
+      "h1": "Se trata de pruebas de aliento, sangre, orina o saliva.",
+      "h2": "Según la ley de Consentimiento Implícito de Nueva York, cuando usted maneja en el estado se considera que aceptó hacerse una prueba química de alcohol o drogas.",
+      "p": "Correcto. Manejar aquí significa que aceptó una prueba química."
+    }
+  },
+  {
+    "id": "ny-131",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 57,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, a person under 21 uses a driver license as proof of age to buy alcohol illegally. What does state law require?",
+      "o": [
+        "The driver license is suspended",
+        "Only a warning",
+        "Only the store is punished",
+        "Two points on the license, nothing more"
+      ],
+      "h1": "The license was misused, so the license is affected.",
+      "h2": "In New York, using a driver license or non-driver ID to buy alcohol illegally leads to a required suspension of the license or of the right to apply for one.",
+      "p": "Right. The license is suspended."
+    },
+    "es": {
+      "q": "En Nueva York, una persona menor de 21 años usa una licencia de conducir como prueba de edad para comprar alcohol ilegalmente. ¿Qué exige la ley del estado?",
+      "o": [
+        "Se suspende la licencia de conducir",
+        "Solo una advertencia",
+        "Solo se castiga a la tienda",
+        "Dos puntos en la licencia, nada más"
+      ],
+      "h1": "Se usó mal la licencia, así que la licencia se ve afectada.",
+      "h2": "En Nueva York, usar una licencia de conducir o una identificación para comprar alcohol ilegalmente lleva a la suspensión obligatoria de la licencia o del derecho a solicitarla.",
+      "p": "Correcto. Se suspende la licencia."
+    }
+  },
+  {
+    "id": "ny-132",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 57,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, a passenger in a car on a public road smokes marijuana (cannabis). Is this allowed?",
+      "o": [
+        "Yes, because cannabis is legal for adults",
+        "No, it is a traffic infraction",
+        "Yes, if the windows are open",
+        "Yes, as long as the driver does not smoke"
+      ],
+      "h1": "The same rule covers drinking alcohol in a car.",
+      "h2": "In New York, it is a traffic infraction for a driver or passenger to consume marijuana (cannabis) in a motor vehicle on a public road.",
+      "p": "Right. It is a traffic infraction."
+    },
+    "es": {
+      "q": "En Nueva York, un pasajero en un carro en una vía pública fuma marihuana (cannabis). ¿Está permitido?",
+      "o": [
+        "Sí, porque el cannabis es legal para adultos",
+        "No, es una infracción de tránsito",
+        "Sí, si las ventanas están abiertas",
+        "Sí, mientras el conductor no fume"
+      ],
+      "h1": "La misma regla aplica a tomar alcohol en un carro.",
+      "h2": "En Nueva York, es una infracción de tránsito que un conductor o pasajero consuma marihuana (cannabis) en un vehículo en una vía pública.",
+      "p": "Correcto. Es una infracción de tránsito."
+    }
+  },
+  {
+    "id": "ny-133",
+    "scope": "NY",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 61,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, you are following a bus with passengers toward a railroad crossing. No train is in sight. What should you expect the bus to do?",
+      "o": [
+        "Speed up to cross quickly",
+        "Move onto the shoulder",
+        "Stop at the crossing",
+        "Cross without slowing down"
+      ],
+      "h1": "Some vehicles must stop at every crossing.",
+      "h2": "In New York, school buses, other buses with passengers, and vehicles carrying explosives or flammable cargo must stop at all railroad crossings, so be ready to stop behind them.",
+      "p": "Right. The bus must stop at the crossing."
+    },
+    "es": {
+      "q": "En Nueva York, usted va detrás de un autobús con pasajeros hacia un cruce de tren. No se ve ningún tren. ¿Qué debe esperar que haga el autobús?",
+      "o": [
+        "Acelerar para cruzar rápido",
+        "Pasarse al acotamiento",
+        "Detenerse en el cruce",
+        "Cruzar sin bajar la velocidad"
+      ],
+      "h1": "Algunos vehículos deben detenerse en todos los cruces.",
+      "h2": "En Nueva York, los autobuses escolares, otros autobuses con pasajeros y los vehículos con explosivos o carga inflamable deben detenerse en todos los cruces de tren, así que esté listo para detenerse detrás de ellos.",
+      "p": "Correcto. El autobús debe detenerse en el cruce."
+    }
+  },
+  {
+    "id": "ny-134",
+    "scope": "NY",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 62,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, the entrance lane to an expressway is too short to reach expressway speed. What is the safest way to enter?",
+      "o": [
+        "Drive on the shoulder until a gap appears",
+        "Enter slowly and let traffic go around you",
+        "Back up and use a different ramp",
+        "Stop, wait for a large gap in traffic, then enter and speed up quickly"
+      ],
+      "h1": "You need a big space because you start slowly.",
+      "h2": "In New York, if an expressway entrance lane is too short to speed up, the safest way is to stop and wait for a large gap, then enter and speed up quickly.",
+      "p": "Right. Wait for a large gap, then go."
+    },
+    "es": {
+      "q": "En Nueva York, el carril de entrada a una autopista es demasiado corto para alcanzar la velocidad de la autopista. ¿Cuál es la forma más segura de entrar?",
+      "o": [
+        "Manejar por el acotamiento hasta que haya un espacio",
+        "Entrar despacio y dejar que el tráfico lo rodee",
+        "Retroceder y usar otra rampa",
+        "Detenerse, esperar un espacio grande en el tráfico y luego entrar y acelerar rápido"
+      ],
+      "h1": "Necesita un espacio grande porque empieza despacio.",
+      "h2": "En Nueva York, si el carril de entrada a una autopista es demasiado corto para acelerar, lo más seguro es detenerse y esperar un espacio grande, y luego entrar y acelerar rápido.",
+      "p": "Correcto. Espere un espacio grande y luego entre."
+    }
+  },
+  {
+    "id": "ny-135",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 62,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, about how far ahead do your headlights light the road at night?",
+      "o": [
+        "About 350 feet",
+        "About 50 feet",
+        "About 1,000 feet",
+        "About one mile"
+      ],
+      "h1": "It is a bit longer than a football field.",
+      "h2": "The New York Driver's Manual says your headlights cover about 350 feet ahead, so drive at a speed that lets you stop within that distance.",
+      "p": "Right. About 350 feet."
+    },
+    "es": {
+      "q": "En Nueva York, ¿hasta qué distancia, más o menos, iluminan el camino sus faros de noche?",
+      "o": [
+        "Unos 350 pies",
+        "Unos 50 pies",
+        "Unos 1,000 pies",
+        "Una milla"
+      ],
+      "h1": "Es un poco más que un campo de fútbol americano.",
+      "h2": "El Manual del Conductor de Nueva York dice que sus faros alumbran unos 350 pies hacia adelante, así que maneje a una velocidad que le permita detenerse dentro de esa distancia.",
+      "p": "Correcto. Unos 350 pies."
+    }
+  },
+  {
+    "id": "ny-136",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 63,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, during what hours does the law require your headlights to be on?",
+      "o": [
+        "Only from midnight to 5 a.m.",
+        "From one-half hour after sunset to one-half hour before sunrise",
+        "Only from 9 p.m. to 5 a.m.",
+        "Only when the street lights are off"
+      ],
+      "h1": "It starts a little after the sun goes down.",
+      "h2": "New York law requires headlights from one-half hour after sunset to one-half hour before sunrise.",
+      "p": "Right. Half an hour after sunset to half an hour before sunrise."
+    },
+    "es": {
+      "q": "En Nueva York, ¿en qué horas exige la ley que tenga los faros encendidos?",
+      "o": [
+        "Solo de medianoche a las 5 a.m.",
+        "Desde media hora después de la puesta del sol hasta media hora antes de la salida del sol",
+        "Solo de 9 p.m. a 5 a.m.",
+        "Solo cuando las luces de la calle están apagadas"
+      ],
+      "h1": "Empieza un poco después de que se pone el sol.",
+      "h2": "La ley de Nueva York exige los faros desde media hora después de la puesta del sol hasta media hora antes de la salida del sol.",
+      "p": "Correcto. De media hora después de la puesta del sol a media hora antes de la salida."
+    }
+  },
+  {
+    "id": "ny-137",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 63,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, it is daytime, but heavy smoke means you cannot see clearly beyond about 800 feet. Must your headlights be on?",
+      "o": [
+        "No, headlights are only required at night",
+        "Only if you are on an expressway",
+        "Yes, they are required when you cannot see 1,000 feet ahead",
+        "No, parking lights are enough"
+      ],
+      "h1": "The law gives a distance in feet.",
+      "h2": "New York law requires headlights whenever visibility is less than 1,000 feet, even in daytime.",
+      "p": "Right. Under 1,000 feet of visibility, headlights go on."
+    },
+    "es": {
+      "q": "En Nueva York, es de día, pero el humo espeso no le deja ver bien más allá de unos 800 pies. ¿Debe tener los faros encendidos?",
+      "o": [
+        "No, los faros solo son obligatorios de noche",
+        "Solo si está en una autopista",
+        "Sí, son obligatorios cuando no puede ver 1,000 pies adelante",
+        "No, las luces de estacionamiento son suficientes"
+      ],
+      "h1": "La ley da una distancia en pies.",
+      "h2": "La ley de Nueva York exige los faros cada vez que la visibilidad es menor de 1,000 pies, incluso de día.",
+      "p": "Correcto. Con menos de 1,000 pies de visibilidad, se encienden los faros."
+    }
+  },
+  {
+    "id": "ny-138",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 63,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, you are using high beams and a car comes toward you. Within how many feet of it must you switch to low beams?",
+      "o": [
+        "100 feet",
+        "200 feet",
+        "1,000 feet",
+        "500 feet"
+      ],
+      "h1": "It is farther than the distance for a car ahead of you.",
+      "h2": "In New York, you must switch to low beams within 500 feet of an oncoming vehicle.",
+      "p": "Right. Dim your lights within 500 feet of oncoming traffic."
+    },
+    "es": {
+      "q": "En Nueva York, usted lleva las luces altas y un carro viene de frente. ¿A cuántos pies de él debe cambiar a luces bajas?",
+      "o": [
+        "100 pies",
+        "200 pies",
+        "1,000 pies",
+        "500 pies"
+      ],
+      "h1": "Es más lejos que la distancia para un carro que va delante de usted.",
+      "h2": "En Nueva York, usted debe cambiar a luces bajas a menos de 500 pies de un vehículo que viene de frente.",
+      "p": "Correcto. Baje las luces a menos de 500 pies del tráfico de frente."
+    }
+  },
+  {
+    "id": "ny-139",
+    "scope": "NY",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 67,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, where there is no sidewalk, how should people walk along the road?",
+      "o": [
+        "With their backs to traffic",
+        "Facing traffic, as far from it as possible",
+        "In the middle of the lane",
+        "On either side; it does not matter"
+      ],
+      "h1": "Walkers should be able to see the cars coming.",
+      "h2": "In New York, pedestrians must use the sidewalk when there is one; otherwise they must walk facing traffic, as far from the nearest lane as possible.",
+      "p": "Right. Walk facing traffic."
+    },
+    "es": {
+      "q": "En Nueva York, donde no hay acera, ¿cómo deben caminar las personas a lo largo de la calle?",
+      "o": [
+        "De espaldas al tráfico",
+        "De frente al tráfico, lo más lejos posible de él",
+        "En medio del carril",
+        "De cualquier lado; no importa"
+      ],
+      "h1": "Los peatones deben poder ver los carros que vienen.",
+      "h2": "En Nueva York, los peatones deben usar la acera cuando la hay; si no, deben caminar de frente al tráfico, lo más lejos posible del carril más cercano.",
+      "p": "Correcto. Caminar de frente al tráfico."
+    }
+  },
+  {
+    "id": "ny-140",
+    "scope": "NY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 73,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, what license do you need to ride a Class A moped (top speed 31 to 40 mph)?",
+      "o": [
+        "Any class of driver license",
+        "No license at all",
+        "A motorcycle (Class M) license or permit",
+        "A commercial bus license"
+      ],
+      "h1": "The fastest mopeds are treated more like motorcycles.",
+      "h2": "In New York, a Class A moped needs a motorcycle (Class M) license or learner permit, while Class B and C mopeds can be ridden with any class of license.",
+      "p": "Right. A Class A moped needs a motorcycle license."
+    },
+    "es": {
+      "q": "En Nueva York, ¿qué licencia necesita para manejar un ciclomotor Clase A (velocidad máxima de 31 a 40 mph)?",
+      "o": [
+        "Cualquier clase de licencia de conducir",
+        "Ninguna licencia",
+        "Una licencia o permiso de motocicleta (Clase M)",
+        "Una licencia comercial de autobús"
+      ],
+      "h1": "Los ciclomotores más rápidos se tratan más como motocicletas.",
+      "h2": "En Nueva York, un ciclomotor Clase A necesita una licencia o permiso de aprendiz de motocicleta (Clase M), mientras que los de Clase B y C se pueden manejar con cualquier clase de licencia.",
+      "p": "Correcto. Un ciclomotor Clase A necesita licencia de motocicleta."
+    }
+  },
+  {
+    "id": "ny-141",
+    "scope": "NY",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 76,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, a vehicle ahead has a reflective orange triangle on its back. What does it tell you?",
+      "o": [
+        "It is a slow-moving vehicle, such as a farm vehicle",
+        "It is a school bus",
+        "It is carrying explosives",
+        "It is a police car"
+      ],
+      "h1": "Farm tractors and horse-drawn wagons show it.",
+      "h2": "In New York, the reflective orange triangle is the slow-moving vehicle symbol, shown on animal-drawn vehicles, most farm vehicles, construction equipment and rural mail vehicles.",
+      "p": "Right. It marks a slow-moving vehicle."
+    },
+    "es": {
+      "q": "En Nueva York, un vehículo delante de usted tiene un triángulo naranja reflectante en la parte de atrás. ¿Qué le indica?",
+      "o": [
+        "Es un vehículo lento, como un vehículo agrícola",
+        "Es un autobús escolar",
+        "Lleva explosivos",
+        "Es un carro de policía"
+      ],
+      "h1": "Los tractores agrícolas y las carretas tiradas por caballos lo llevan.",
+      "h2": "En Nueva York, el triángulo naranja reflectante es el símbolo de vehículo lento, que llevan los vehículos tirados por animales, la mayoría de los vehículos agrícolas, la maquinaria de construcción y los vehículos de correo rural.",
+      "p": "Correcto. Marca un vehículo lento."
+    }
+  },
+  {
+    "id": "ny-142",
+    "scope": "NY",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 74,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, a tractor-trailer with a long hood can have a blind spot of about how far in front of it?",
+      "o": [
+        "2 feet",
+        "20 feet",
+        "200 feet",
+        "There is no blind spot in front"
+      ],
+      "h1": "It is about the length of one car or more.",
+      "h2": "The New York Driver's Manual says tractors with long hoods can have a blind spot of about 20 feet in front, so do not cut in close ahead of them.",
+      "p": "Right. About 20 feet in front."
+    },
+    "es": {
+      "q": "En Nueva York, ¿de qué tamaño, más o menos, puede ser el punto ciego delante de un tractocamión con el cofre largo?",
+      "o": [
+        "2 pies",
+        "20 pies",
+        "200 pies",
+        "No tiene punto ciego adelante"
+      ],
+      "h1": "Es más o menos el largo de un carro o más.",
+      "h2": "El Manual del Conductor de Nueva York dice que los tractocamiones con cofre largo pueden tener un punto ciego de unos 20 pies adelante, así que no se meta muy cerca delante de ellos.",
+      "p": "Correcto. Unos 20 pies adelante."
+    }
+  },
+  {
+    "id": "ny-143",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 48,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New York, may a police officer stop you just because a passenger is not wearing a seat belt?",
+      "o": [
+        "No, only if you break another law too",
+        "Only on expressways",
+        "Yes, New York is a primary enforcement state",
+        "Only if the passenger is under 8"
+      ],
+      "h1": "The seat belt alone is enough reason.",
+      "h2": "New York is a primary enforcement state, so a police officer can pull you over just because you or a passenger is not wearing a seat belt.",
+      "p": "Right. A seat belt violation alone is enough."
+    },
+    "es": {
+      "q": "En Nueva York, ¿puede un policía detenerlo solo porque un pasajero no lleva el cinturón de seguridad?",
+      "o": [
+        "No, solo si usted también viola otra ley",
+        "Solo en autopistas",
+        "Sí, Nueva York es un estado de aplicación primaria",
+        "Solo si el pasajero tiene menos de 8 años"
+      ],
+      "h1": "El cinturón por sí solo es razón suficiente.",
+      "h2": "Nueva York es un estado de aplicación primaria, así que un policía puede detenerlo solo porque usted o un pasajero no lleva el cinturón de seguridad.",
+      "p": "Correcto. No llevar el cinturón basta."
+    }
+  },
+  {
+    "id": "ny-144",
+    "scope": "NY",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 67,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New York, children are playing near your home, and you need to back out of the driveway. What does the Driver's Manual say to do first?",
+      "o": [
+        "Honk twice and back out slowly",
+        "Use only your mirrors",
+        "Back out fast so you are in the way for less time",
+        "Get out of the car and check behind it"
+      ],
+      "h1": "Small children can be hidden right behind the car.",
+      "h2": "The New York Driver's Manual says that before you back into or out of a driveway, you should get out of the vehicle and check behind it, especially when children are near.",
+      "p": "Right. Get out and look behind the car."
+    },
+    "es": {
+      "q": "En Nueva York, hay niños jugando cerca de su casa y usted necesita salir en reversa de la entrada. ¿Qué dice el Manual del Conductor que haga primero?",
+      "o": [
+        "Tocar la bocina dos veces y salir despacio",
+        "Usar solo los espejos",
+        "Salir rápido para estorbar menos tiempo",
+        "Bajarse del carro y revisar detrás de él"
+      ],
+      "h1": "Los niños pequeños pueden estar escondidos justo detrás del carro.",
+      "h2": "El Manual del Conductor de Nueva York dice que antes de entrar o salir en reversa de una entrada de garaje, usted debe bajarse del vehículo y revisar detrás de él, sobre todo cuando hay niños cerca.",
+      "p": "Correcto. Bájese y mire detrás del carro."
+    }
+  },
+  {
+    "id": "ny-145",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 77,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New York, a driver leaves the scene of a crash in which someone was hurt. What kind of offense is this?",
+      "o": [
+        "A crime (criminal violation)",
+        "Only a parking violation",
+        "No offense if the damage was small",
+        "Only a warning"
+      ],
+      "h1": "Leaving after property damage is a traffic violation; an injury makes it more serious.",
+      "h2": "In New York, leaving the scene of a crash that causes injury or death is a criminal violation, while leaving a property-damage crash is a traffic violation.",
+      "p": "Right. It is a crime."
+    },
+    "es": {
+      "q": "En Nueva York, un conductor se va del lugar de un choque en el que alguien resultó herido. ¿Qué tipo de falta es?",
+      "o": [
+        "Un delito (violación penal)",
+        "Solo una infracción de estacionamiento",
+        "No es falta si el daño fue pequeño",
+        "Solo una advertencia"
+      ],
+      "h1": "Irse después de daños a la propiedad es una infracción de tránsito; si hay heridos es más grave.",
+      "h2": "En Nueva York, irse del lugar de un choque con heridos o muertos es una violación penal, mientras que irse de un choque con solo daños a la propiedad es una infracción de tránsito.",
+      "p": "Correcto. Es un delito."
+    }
+  },
+  {
+    "id": "ny-146",
+    "scope": "NY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 65,
+    "src": "https://dmv.ny.gov/brochure/mv21.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New York, your car suddenly will not respond when you turn the steering wheel. What should you do?",
+      "o": [
+        "Brake hard right away",
+        "Slowly ease off the gas, turn on your emergency lights, and keep off the brake while it is safe",
+        "Turn off the engine at once",
+        "Speed up to regain control"
+      ],
+      "h1": "A sudden change in speed could send the car out of control.",
+      "h2": "In New York, if your steering fails, slowly take your foot off the gas, turn on your emergency lights and keep off the brake while it is safe; once you have slowed, brake very gently to stop.",
+      "p": "Right. Ease off the gas, flashers on, brake gently later."
+    },
+    "es": {
+      "q": "En Nueva York, su carro de repente no responde cuando gira el volante. ¿Qué debe hacer?",
+      "o": [
+        "Frenar fuerte de inmediato",
+        "Soltar el acelerador poco a poco, encender las luces de emergencia y no frenar mientras sea seguro",
+        "Apagar el motor enseguida",
+        "Acelerar para recuperar el control"
+      ],
+      "h1": "Un cambio brusco de velocidad podría hacerle perder el control.",
+      "h2": "En Nueva York, si falla la dirección, suelte el acelerador poco a poco, encienda las luces de emergencia y no frene mientras sea seguro; cuando haya bajado la velocidad, frene con mucho cuidado para detenerse.",
+      "p": "Correcto. Suelte el acelerador, luces de emergencia y frene con suavidad después."
+    }
   }
 ]
