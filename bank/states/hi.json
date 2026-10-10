@@ -1638,5 +1638,277 @@
       "h2": "في Hawaii، عندما يكون الطريق مقسومًا بحاجز، يجب أن يتوقف السائقون في كل مسار على نفس جهة الحافلة المدرسية المتوقفة.",
       "p": "صحيح. كل مسار على جهة الحافلة يتوقف."
     }
+  },
+  {
+    "id": "hi-021",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 52,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, a crash causes property damage but no injuries. At what amount of damage must it be reported to the police right away?",
+      "o": [
+        "$1,000 or more",
+        "$3,000 or more",
+        "$5,000 or more",
+        "$10,000 or more"
+      ],
+      "h1": "It is more than one thousand and less than five thousand dollars.",
+      "h2": "In Hawaii you must report a crash to the police right away if it causes $3,000 or more in property damage.",
+      "p": "Right. In Hawaii, $3,000 or more in damage must be reported to the police."
+    },
+    "es": {
+      "q": "En Hawái, un choque causa daños a la propiedad pero no hay heridos. ¿A partir de qué cantidad de daños debe reportarlo de inmediato a la policía?",
+      "o": [
+        "$1,000 o más",
+        "$3,000 o más",
+        "$5,000 o más",
+        "$10,000 o más"
+      ],
+      "h1": "Es más de mil y menos de cinco mil dólares.",
+      "h2": "En Hawái usted debe reportar un choque a la policía de inmediato si causa $3,000 o más en daños a la propiedad.",
+      "p": "Correcto. En Hawái, los daños de $3,000 o más se deben reportar a la policía."
+    }
+  },
+  {
+    "id": "hi-022",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 54,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, what is the minimum liability insurance for injury to one person in a crash?",
+      "o": [
+        "$10,000",
+        "$15,000",
+        "$25,000",
+        "$20,000"
+      ],
+      "h1": "The limit for the whole crash is twice this amount, $40,000.",
+      "h2": "In Hawaii the minimum liability insurance for injury to one person is $20,000, with $40,000 for the whole crash.",
+      "p": "Right. Hawaii requires at least $20,000 for injury to one person."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuál es el seguro mínimo de responsabilidad civil por lesiones a una persona en un choque?",
+      "o": [
+        "$10,000",
+        "$15,000",
+        "$25,000",
+        "$20,000"
+      ],
+      "h1": "El límite para todo el choque es el doble de esta cantidad, $40,000.",
+      "h2": "En Hawái el seguro mínimo de responsabilidad civil por lesiones a una persona es de $20,000, con $40,000 para todo el choque.",
+      "p": "Correcto. Hawái exige al menos $20,000 por lesiones a una persona."
+    }
+  },
+  {
+    "id": "hi-023",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 54,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, what is the minimum liability insurance for damage to other people's property in one crash?",
+      "o": [
+        "$10,000",
+        "$20,000",
+        "$25,000",
+        "$40,000"
+      ],
+      "h1": "It is the smallest of these amounts.",
+      "h2": "In Hawaii the minimum liability insurance for property damage is $10,000 per crash.",
+      "p": "Right. Hawaii requires at least $10,000 for property damage."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuál es el seguro mínimo de responsabilidad civil por daños a la propiedad de otras personas en un choque?",
+      "o": [
+        "$10,000",
+        "$20,000",
+        "$25,000",
+        "$40,000"
+      ],
+      "h1": "Es la cantidad más pequeña de estas.",
+      "h2": "En Hawái el seguro mínimo de responsabilidad civil por daños a la propiedad es de $10,000 por choque.",
+      "p": "Correcto. Hawái exige al menos $10,000 por daños a la propiedad."
+    }
+  },
+  {
+    "id": "hi-024",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, how often must a regular car pass a safety inspection?",
+      "o": [
+        "Only when it is sold",
+        "Every two years",
+        "At least once a year",
+        "Every six months"
+      ],
+      "h1": "Only ambulances need it more often than this.",
+      "h2": "In Hawaii a car must pass a safety inspection at least once a year, though a brand-new car gets a longer first period.",
+      "p": "Right. Hawaii cars need a safety inspection at least once a year."
+    },
+    "es": {
+      "q": "En Hawái, ¿cada cuánto tiempo debe pasar un auto común una inspección de seguridad?",
+      "o": [
+        "Solo cuando se vende",
+        "Cada dos años",
+        "Por lo menos una vez al año",
+        "Cada seis meses"
+      ],
+      "h1": "Solo las ambulancias la necesitan con más frecuencia.",
+      "h2": "En Hawái un auto debe pasar una inspección de seguridad por lo menos una vez al año, aunque un auto nuevo tiene un primer plazo más largo.",
+      "p": "Correcto. En Hawái los autos necesitan una inspección de seguridad por lo menos una vez al año."
+    }
+  },
+  {
+    "id": "hi-025",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, your driver's license expired yesterday. May you still drive on it?",
+      "o": [
+        "Yes, for a 30-day grace period",
+        "No, it is not valid after it expires",
+        "Yes, until you get a renewal notice",
+        "Yes, if you renew within one year"
+      ],
+      "h1": "Hawaii gives no extra time to drive after the date on the license.",
+      "h2": "In Hawaii a driver's license is not valid after its expiration date, because there is no grace period.",
+      "p": "Right. Hawaii has no grace period, so an expired license is not valid."
+    },
+    "es": {
+      "q": "En Hawái, su licencia de conducir venció ayer. ¿Puede seguir manejando con ella?",
+      "o": [
+        "Sí, durante un periodo de gracia de 30 días",
+        "No, no es válida después de vencer",
+        "Sí, hasta que reciba un aviso de renovación",
+        "Sí, si la renueva dentro de un año"
+      ],
+      "h1": "Hawái no da tiempo extra para manejar después de la fecha de la licencia.",
+      "h2": "En Hawái una licencia de conducir no es válida después de su fecha de vencimiento, porque no hay periodo de gracia.",
+      "p": "Correcto. Hawái no tiene periodo de gracia, así que una licencia vencida no es válida."
+    }
+  },
+  {
+    "id": "hi-026",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 20,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, children under what age must ride in a child restraint (car seat)?",
+      "o": [
+        "Under 2",
+        "Under 6",
+        "Under 8",
+        "Under 4"
+      ],
+      "h1": "It is a very young age, before most children start school.",
+      "h2": "In Hawaii children under age 4 must ride in a child restraint.",
+      "p": "Right. In Hawaii, children under 4 need a child restraint."
+    },
+    "es": {
+      "q": "En Hawái, ¿los niños menores de qué edad deben ir en un sistema de retención infantil (asiento de seguridad)?",
+      "o": [
+        "Menores de 2",
+        "Menores de 6",
+        "Menores de 8",
+        "Menores de 4"
+      ],
+      "h1": "Es una edad muy temprana, antes de que la mayoría de los niños empiecen la escuela.",
+      "h2": "En Hawái los niños menores de 4 años deben ir en un sistema de retención infantil.",
+      "p": "Correcto. En Hawái, los niños menores de 4 años necesitan un asiento de seguridad."
+    }
+  },
+  {
+    "id": "hi-027",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 55,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, what happens right away if you refuse an alcohol test or test at 0.08 or more?",
+      "o": [
+        "Your license is taken and you get a 30-day temporary permit",
+        "You get a warning and may keep driving",
+        "You must pay a $50 fine on the spot",
+        "Your car is inspected for safety"
+      ],
+      "h1": "You get a short paper permit while your case goes forward.",
+      "h2": "In Hawaii, if you refuse an alcohol test or test at 0.08 or more, your license is taken away and you get a 30-day temporary driving permit.",
+      "p": "Right. Hawaii takes the license and gives a 30-day temporary permit."
+    },
+    "es": {
+      "q": "En Hawái, ¿qué pasa de inmediato si usted se niega a una prueba de alcohol o su resultado es 0.08 o más?",
+      "o": [
+        "Le quitan la licencia y le dan un permiso temporal de 30 días",
+        "Le dan una advertencia y puede seguir manejando",
+        "Debe pagar una multa de $50 en el momento",
+        "Le hacen una inspección de seguridad al auto"
+      ],
+      "h1": "Le dan un permiso corto en papel mientras sigue su caso.",
+      "h2": "En Hawái, si usted se niega a una prueba de alcohol o su resultado es 0.08 o más, le quitan la licencia y le dan un permiso temporal para manejar de 30 días.",
+      "p": "Correcto. Hawái quita la licencia y da un permiso temporal de 30 días."
+    }
+  },
+  {
+    "id": "hi-028",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 20,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, who in a car must wear a seat belt?",
+      "o": [
+        "Only the driver",
+        "Only people in the front seat",
+        "Everyone in the front and back seats",
+        "Only passengers under 18"
+      ],
+      "h1": "Where you sit in the car does not matter.",
+      "h2": "In Hawaii everyone in the front and back seats must wear a seat belt or ride in a child restraint.",
+      "p": "Right. In Hawaii, every person in the car must be buckled up."
+    },
+    "es": {
+      "q": "En Hawái, ¿quién debe usar el cinturón de seguridad en un auto?",
+      "o": [
+        "Solo el conductor",
+        "Solo las personas del asiento delantero",
+        "Todas las personas de los asientos delanteros y traseros",
+        "Solo los pasajeros menores de 18 años"
+      ],
+      "h1": "No importa en qué parte del auto se siente.",
+      "h2": "En Hawái todas las personas de los asientos delanteros y traseros deben usar el cinturón de seguridad o ir en un asiento infantil.",
+      "p": "Correcto. En Hawái, todas las personas del auto deben abrocharse el cinturón."
+    }
   }
 ]
