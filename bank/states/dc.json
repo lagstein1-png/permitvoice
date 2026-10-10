@@ -1064,5 +1064,447 @@
       "h2": "في District of Columbia لا يجوز أن يكون لدى السائق الذي عمره أقل من 21 سنة أي كمية كحول يمكن قياسها، ويمكن القبض عليه بتهمة القيادة تحت تأثير الكحول.",
       "p": "صحيح. تحت 21 سنة في DC الحد هو صفر."
     }
+  },
+  {
+    "id": "dc-014",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 14,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, how long is a learner permit valid for a US citizen?",
+      "o": [
+        "6 months",
+        "2 years",
+        "4 years",
+        "8 years"
+      ],
+      "h1": "It is longer than one year, but you cannot renew it.",
+      "h2": "In the District of Columbia, a learner permit is valid for two years for a US citizen and cannot be renewed; after that you must pass the knowledge test again.",
+      "p": "Right. The permit lasts two years and cannot be renewed."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿por cuánto tiempo es válido el permiso de aprendiz para un ciudadano de EE. UU.?",
+      "o": [
+        "6 meses",
+        "2 años",
+        "4 años",
+        "8 años"
+      ],
+      "h1": "Es más de un año, pero no se puede renovar.",
+      "h2": "En el Distrito de Columbia, el permiso de aprendiz es válido por dos años para un ciudadano de EE. UU. y no se puede renovar; después usted debe aprobar otra vez el examen de conocimientos.",
+      "p": "Correcto. El permiso dura dos años y no se puede renovar."
+    }
+  },
+  {
+    "id": "dc-015",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 14,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, what is the youngest age to get a provisional license?",
+      "o": [
+        "16 years old",
+        "17 years old",
+        "18 years old",
+        "16 and a half years old"
+      ],
+      "h1": "It is six months after the youngest age for a learner permit.",
+      "h2": "In the District of Columbia, you must be at least 16 and a half years old to get a provisional license.",
+      "p": "Right. The provisional license starts at 16 and a half."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuál es la edad mínima para obtener una licencia provisional?",
+      "o": [
+        "16 años",
+        "17 años",
+        "18 años",
+        "16 años y medio"
+      ],
+      "h1": "Es seis meses después de la edad mínima para el permiso de aprendiz.",
+      "h2": "En el Distrito de Columbia, usted debe tener por lo menos 16 años y medio para obtener una licencia provisional.",
+      "p": "Correcto. La licencia provisional empieza a los 16 años y medio."
+    }
+  },
+  {
+    "id": "dc-016",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 12,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, you fail the knowledge test. How long must you wait before you try again?",
+      "o": [
+        "3 calendar days",
+        "1 week",
+        "30 days",
+        "6 months"
+      ],
+      "h1": "It is only a few days.",
+      "h2": "In the District of Columbia, after you fail the knowledge test you must wait 3 calendar days before you can take it again.",
+      "p": "Right. Wait 3 calendar days, then try again."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted no aprueba el examen de conocimientos. ¿Cuánto tiempo debe esperar para intentarlo otra vez?",
+      "o": [
+        "3 días naturales",
+        "1 semana",
+        "30 días",
+        "6 meses"
+      ],
+      "h1": "Son solo unos pocos días.",
+      "h2": "En el Distrito de Columbia, si usted no aprueba el examen de conocimientos, debe esperar 3 días naturales para volver a tomarlo.",
+      "p": "Correcto. Espere 3 días naturales y vuelva a intentarlo."
+    }
+  },
+  {
+    "id": "dc-017",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, who may ride in the car while a learner permit holder is driving?",
+      "o": [
+        "Any friends, if they wear seat belts",
+        "Up to two passengers under 21",
+        "Only the supervising driver, who is 21 or older",
+        "Only family members"
+      ],
+      "h1": "Think of the one person the learner needs next to them.",
+      "h2": "In the District of Columbia, a learner permit holder may not carry any passengers other than the fully licensed supervising driver, who is 21 or older and sits in the front seat.",
+      "p": "Right. With a learner permit, only the supervisor rides along."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿quién puede ir en el carro mientras maneja una persona con permiso de aprendiz?",
+      "o": [
+        "Cualquier amigo, si usa el cinturón",
+        "Hasta dos pasajeros menores de 21 años",
+        "Solo el conductor que supervisa, de 21 años o más",
+        "Solo familiares"
+      ],
+      "h1": "Piense en la única persona que el aprendiz necesita a su lado.",
+      "h2": "En el Distrito de Columbia, una persona con permiso de aprendiz no puede llevar más pasajeros que el conductor supervisor con licencia completa, de 21 años o más, sentado en el asiento delantero.",
+      "p": "Correcto. Con permiso de aprendiz, solo va el supervisor."
+    }
+  },
+  {
+    "id": "dc-018",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, a driver under 18 has a full license with conditions. How many passengers under 21 may they carry, not counting siblings or their own child?",
+      "o": [
+        "None",
+        "No more than 2",
+        "No more than 3",
+        "No more than 4"
+      ],
+      "h1": "It is a small number, but more than one.",
+      "h2": "In the District of Columbia, a driver under 18 with a full license with conditions may carry no more than two passengers under 21, not counting their brothers, sisters or own child.",
+      "p": "Right. No more than two passengers under 21."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, un conductor menor de 18 años tiene licencia completa con condiciones. ¿Cuántos pasajeros menores de 21 años puede llevar, sin contar a sus hermanos ni a su propio hijo?",
+      "o": [
+        "Ninguno",
+        "No más de 2",
+        "No más de 3",
+        "No más de 4"
+      ],
+      "h1": "Es un número pequeño, pero más de uno.",
+      "h2": "En el Distrito de Columbia, un conductor menor de 18 años con licencia completa con condiciones puede llevar no más de dos pasajeros menores de 21 años, sin contar a sus hermanos ni a su propio hijo.",
+      "p": "Correcto. No más de dos pasajeros menores de 21 años."
+    }
+  },
+  {
+    "id": "dc-019",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, what happens when a driver reaches 10 or 11 points?",
+      "o": [
+        "A warning letter only",
+        "A required safety class only",
+        "The license is suspended for 90 days",
+        "The license is revoked for 2 years"
+      ],
+      "h1": "You lose your driving privileges for about three months.",
+      "h2": "In the District of Columbia, a driver who reaches 10 or 11 points has the license suspended for 90 days.",
+      "p": "Right. 10 or 11 points means a 90-day suspension."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿qué pasa cuando un conductor llega a 10 u 11 puntos?",
+      "o": [
+        "Solo recibe una carta de advertencia",
+        "Solo debe tomar una clase de seguridad",
+        "Le suspenden la licencia por 90 días",
+        "Le revocan la licencia por 2 años"
+      ],
+      "h1": "Usted pierde el derecho a manejar por unos tres meses.",
+      "h2": "En el Distrito de Columbia, a un conductor que llega a 10 u 11 puntos le suspenden la licencia por 90 días.",
+      "p": "Correcto. 10 u 11 puntos significan una suspensión de 90 días."
+    }
+  },
+  {
+    "id": "dc-020",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, what happens when a driver reaches 12 or more points?",
+      "o": [
+        "The license is revoked for at least 6 months",
+        "The license is suspended for 30 days",
+        "The driver pays a fine and keeps driving",
+        "The points are removed after a class"
+      ],
+      "h1": "This is more serious than a suspension.",
+      "h2": "In the District of Columbia, a driver who reaches 12 or more points has the license revoked and cannot get it back for at least six months.",
+      "p": "Right. 12 points or more means revocation for at least six months."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿qué pasa cuando un conductor llega a 12 puntos o más?",
+      "o": [
+        "Le revocan la licencia por lo menos 6 meses",
+        "Le suspenden la licencia por 30 días",
+        "Paga una multa y sigue manejando",
+        "Le quitan los puntos después de una clase"
+      ],
+      "h1": "Es más grave que una suspensión.",
+      "h2": "En el Distrito de Columbia, a un conductor que llega a 12 puntos o más le revocan la licencia y no la puede recuperar por lo menos en seis meses.",
+      "p": "Correcto. 12 puntos o más significan revocación por lo menos por seis meses."
+    }
+  },
+  {
+    "id": "dc-021",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, how long do points stay active on your driving record?",
+      "o": [
+        "6 months",
+        "1 year",
+        "5 years",
+        "2 years"
+      ],
+      "h1": "It is more than one year, but less than three.",
+      "h2": "In the District of Columbia, points stay active on your driving record for two years.",
+      "p": "Right. Points stay active for two years."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿por cuánto tiempo siguen activos los puntos en su historial de manejo?",
+      "o": [
+        "6 meses",
+        "1 año",
+        "5 años",
+        "2 años"
+      ],
+      "h1": "Es más de un año, pero menos de tres.",
+      "h2": "En el Distrito de Columbia, los puntos siguen activos en su historial de manejo por dos años.",
+      "p": "Correcto. Los puntos siguen activos por dos años."
+    }
+  },
+  {
+    "id": "dc-022",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 16,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, a learner permit holder gets 8 points or breaks a GRAD rule. What happens?",
+      "o": [
+        "Nothing, if no one was hurt",
+        "The permit is suspended for 90 days",
+        "The permit is extended by one week",
+        "The supervisor gets the points instead"
+      ],
+      "h1": "The learner loses the permit for about three months.",
+      "h2": "In the District of Columbia, a learner permit holder who gets 8 or more points or breaks a GRAD rule has the permit suspended for 90 days and must pay a fee to get it back.",
+      "p": "Right. That means a 90-day suspension of the permit."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, una persona con permiso de aprendiz recibe 8 puntos o no cumple una regla del programa GRAD. ¿Qué pasa?",
+      "o": [
+        "Nada, si nadie salió herido",
+        "Le suspenden el permiso por 90 días",
+        "Le alargan el permiso una semana",
+        "El supervisor recibe los puntos"
+      ],
+      "h1": "El aprendiz pierde el permiso por unos tres meses.",
+      "h2": "En el Distrito de Columbia, a una persona con permiso de aprendiz que recibe 8 puntos o más, o que no cumple una regla del programa GRAD, le suspenden el permiso por 90 días y debe pagar una cuota para recuperarlo.",
+      "p": "Correcto. Eso significa una suspensión del permiso por 90 días."
+    }
+  },
+  {
+    "id": "dc-023",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 48,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, what is the penalty when someone in the car is not wearing a seat belt?",
+      "o": [
+        "A warning only",
+        "A $10 fine and no points",
+        "A $50 fine and 2 points",
+        "A $500 fine and 6 points"
+      ],
+      "h1": "There is a fine and also points on the driver's record.",
+      "h2": "In the District of Columbia, the penalty for not wearing a seat belt is a $50 fine and 2 points, and the driver is responsible for every passenger.",
+      "p": "Right. A $50 fine and 2 points."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuál es la sanción cuando alguien en el carro no usa el cinturón de seguridad?",
+      "o": [
+        "Solo una advertencia",
+        "Una multa de $10 y ningún punto",
+        "Una multa de $50 y 2 puntos",
+        "Una multa de $500 y 6 puntos"
+      ],
+      "h1": "Hay una multa y también puntos en el historial del conductor.",
+      "h2": "En el Distrito de Columbia, la sanción por no usar el cinturón de seguridad es una multa de $50 y 2 puntos, y el conductor es responsable de todos los pasajeros.",
+      "p": "Correcto. Una multa de $50 y 2 puntos."
+    }
+  },
+  {
+    "id": "dc-024",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 47,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, what is true about wearing headphones while you drive?",
+      "o": [
+        "Headphones for music are not allowed; a phone earpiece or hearing aid is allowed",
+        "Headphones are allowed if the volume is low",
+        "Headphones are allowed only on the highway",
+        "Headphones are allowed in both ears at any time"
+      ],
+      "h1": "Think about what could stop you from hearing a siren.",
+      "h2": "In the District of Columbia, you may not wear headphones or earplugs connected to a radio or other audio player while driving, but a cell phone earpiece or a hearing aid is allowed.",
+      "p": "Right. No music headphones; a phone earpiece or hearing aid is fine."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿qué es cierto sobre usar audífonos mientras maneja?",
+      "o": [
+        "Los audífonos para música no se permiten; el audífono del celular o un aparato auditivo sí",
+        "Se permiten audífonos si el volumen está bajo",
+        "Se permiten audífonos solo en la autopista",
+        "Se permiten audífonos en los dos oídos en todo momento"
+      ],
+      "h1": "Piense en lo que le podría impedir oír una sirena.",
+      "h2": "En el Distrito de Columbia, usted no puede usar audífonos ni tapones conectados a un radio u otro aparato de audio mientras maneja, pero sí puede usar el audífono del celular o un aparato auditivo.",
+      "p": "Correcto. Nada de audífonos para música; el del celular o un aparato auditivo sí."
+    }
+  },
+  {
+    "id": "dc-025",
+    "scope": "DC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 42,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, may you turn left on a red light?",
+      "o": [
+        "Yes, after a full stop",
+        "Yes, from a one-way street onto another one-way street",
+        "Yes, if no cars are coming",
+        "No, a left turn on red is against the law"
+      ],
+      "h1": "DC is stricter than many states about this.",
+      "h2": "In the District of Columbia, it is against the law to make a left turn on a red light.",
+      "p": "Right. In DC you never turn left on red."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿puede usted girar a la izquierda con la luz roja?",
+      "o": [
+        "Sí, después de parar por completo",
+        "Sí, de una calle de un solo sentido a otra de un solo sentido",
+        "Sí, si no vienen carros",
+        "No, girar a la izquierda con luz roja es ilegal"
+      ],
+      "h1": "DC es más estricto que muchos estados en esto.",
+      "h2": "En el Distrito de Columbia, es ilegal girar a la izquierda con la luz roja.",
+      "p": "Correcto. En DC nunca se gira a la izquierda con luz roja."
+    }
+  },
+  {
+    "id": "dc-026",
+    "scope": "DC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 47,
+    "src": "https://dmv.dc.gov/publication/dc-dmv-automobile-driver-manual",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, where is a U-turn against the law?",
+      "o": [
+        "On any one-way street",
+        "At an intersection with traffic lights",
+        "On any street with two lanes",
+        "Anywhere after dark"
+      ],
+      "h1": "Think of intersections controlled by signals.",
+      "h2": "In the District of Columbia, U-turns are not allowed at intersections controlled by traffic lights, or on a crosswalk next to one.",
+      "p": "Right. No U-turns at intersections with traffic lights."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿dónde es ilegal dar una vuelta en U?",
+      "o": [
+        "En cualquier calle de un solo sentido",
+        "En una intersección con semáforo",
+        "En cualquier calle de dos carriles",
+        "En cualquier lugar de noche"
+      ],
+      "h1": "Piense en las intersecciones controladas por señales.",
+      "h2": "En el Distrito de Columbia, no se permiten las vueltas en U en intersecciones controladas por semáforos, ni en el cruce peatonal junto a ellas.",
+      "p": "Correcto. Nada de vueltas en U en intersecciones con semáforo."
+    }
   }
 ]
