@@ -3913,5 +3913,923 @@
       "h2": "Ou pa ka pake sou zòn ki gen liy bawo bò kote yon plas pou moun andikape, paske li dwe rete lib pou chèz woulant ak asansè machin yo.",
       "p": "Wi, se sa. Pa janm pake sou zòn ki gen liy bawo a."
     }
+  },
+  {
+    "id": "speed-lanes-043",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "Uniform Vehicle Code, rules of the road (see MUTCD 11th Edition Section 1A.06, https://mutcd.fhwa.dot.gov/)",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "You want to pass a car on a two-lane road. What must you be sure of first?",
+      "o": [
+        "The car ahead is going under the speed limit",
+        "Your headlights are on",
+        "There is a car behind you",
+        "There is enough clear road ahead to pass and get back into your lane"
+      ],
+      "h1": "You will be in the lane of oncoming traffic.",
+      "h2": "Before passing on a two-lane road, make sure the road ahead is clear for long enough to pass and safely return to your lane.",
+      "p": "Right. You need enough clear road to pass and return."
+    },
+    "es": {
+      "q": "Usted quiere rebasar a un carro en una vía de dos carriles. ¿De qué debe estar seguro primero?",
+      "o": [
+        "De que el carro de adelante va por debajo del límite",
+        "De que sus luces están encendidas",
+        "De que hay un carro detrás de usted",
+        "De que hay suficiente vía libre adelante para rebasar y volver a su carril"
+      ],
+      "h1": "Va a estar en el carril del tráfico que viene de frente.",
+      "h2": "Antes de rebasar en una vía de dos carriles, asegúrese de que la vía adelante está libre el tiempo suficiente para rebasar y volver a su carril con seguridad.",
+      "p": "Correcto. Necesita vía libre para rebasar y volver."
+    }
+  },
+  {
+    "id": "speed-lanes-044",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "Uniform Vehicle Code, rules of the road (see MUTCD 11th Edition Section 1A.06, https://mutcd.fhwa.dot.gov/)",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Why is it dangerous to pass near the top of a hill or in a curve?",
+      "o": [
+        "You cannot see cars coming toward you",
+        "Your engine may stall",
+        "The road is always slippery there",
+        "Other cars go faster there"
+      ],
+      "h1": "Hills and curves hide what is ahead.",
+      "h2": "Near a hilltop or in a curve you cannot see oncoming traffic, so you might meet a car head-on while passing.",
+      "p": "Right. You cannot see oncoming cars."
+    },
+    "es": {
+      "q": "¿Por qué es peligroso rebasar cerca de la cima de una loma o en una curva?",
+      "o": [
+        "Porque no puede ver los carros que vienen de frente",
+        "Porque el motor se puede apagar",
+        "Porque allí la vía siempre está resbalosa",
+        "Porque allí los demás van más rápido"
+      ],
+      "h1": "Las lomas y curvas ocultan lo que viene.",
+      "h2": "Cerca de la cima de una loma o en una curva no puede ver el tráfico de frente, así que podría encontrarse de frente con un carro mientras rebasa.",
+      "p": "Correcto. No puede ver los carros de frente."
+    }
+  },
+  {
+    "id": "speed-lanes-045",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "Uniform Vehicle Code, rules of the road (see MUTCD 11th Edition Section 1A.06, https://mutcd.fhwa.dot.gov/)",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "You start to pass on a two-lane road, and a car appears ahead coming toward you. There is not enough room. What should you do?",
+      "o": [
+        "Speed up and hope you make it",
+        "Slow down and move back behind the car you were passing",
+        "Drive onto the left shoulder",
+        "Stay beside the car and honk"
+      ],
+      "h1": "Getting back safely is better than racing.",
+      "h2": "If you cannot finish passing safely, slow down and return to your lane behind the car you were passing.",
+      "p": "Right. Drop back into your lane."
+    },
+    "es": {
+      "q": "Usted empieza a rebasar en una vía de dos carriles y aparece un carro de frente. No hay espacio suficiente. ¿Qué debe hacer?",
+      "o": [
+        "Acelerar y esperar que le alcance",
+        "Bajar la velocidad y volver detrás del carro que rebasaba",
+        "Salirse al acotamiento izquierdo",
+        "Quedarse al lado del carro y tocar la bocina"
+      ],
+      "h1": "Volver con seguridad es mejor que apurarse.",
+      "h2": "Si no puede terminar de rebasar con seguridad, baje la velocidad y vuelva a su carril detrás del carro que estaba rebasando.",
+      "p": "Correcto. Vuelva a su carril detrás."
+    }
+  },
+  {
+    "id": "speed-lanes-046",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Speeding, https://www.nhtsa.gov/risky-driving/speeding",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "When is the best time to slow down for a curve?",
+      "o": [
+        "In the middle of the curve",
+        "At the end of the curve",
+        "Before you enter the curve",
+        "You do not need to slow down"
+      ],
+      "h1": "Braking hard in a curve can make you skid.",
+      "h2": "Slow down before you enter a curve, then keep a steady speed through it; braking in the curve can make your tires lose grip.",
+      "p": "Right. Slow down before the curve."
+    },
+    "es": {
+      "q": "¿Cuál es el mejor momento para bajar la velocidad en una curva?",
+      "o": [
+        "En medio de la curva",
+        "Al final de la curva",
+        "Antes de entrar a la curva",
+        "No necesita bajar la velocidad"
+      ],
+      "h1": "Frenar fuerte en una curva puede hacerlo patinar.",
+      "h2": "Baje la velocidad antes de entrar a una curva y mantenga una velocidad constante en ella; frenar en la curva puede hacer que las llantas pierdan agarre.",
+      "p": "Correcto. Baje la velocidad antes de la curva."
+    }
+  },
+  {
+    "id": "speed-lanes-047",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Why should you try to keep open space beside your car, not just in front?",
+      "o": [
+        "So other cars can park",
+        "So your car stays cooler",
+        "So you can drive on two lanes",
+        "So you have somewhere to steer if something happens ahead"
+      ],
+      "h1": "Space is your escape route.",
+      "h2": "Keeping open space beside your car gives you room to steer away from a hazard if you cannot stop in time.",
+      "p": "Right. It gives you a way out."
+    },
+    "es": {
+      "q": "¿Por qué debe tratar de mantener espacio libre a los lados de su carro, no solo adelante?",
+      "o": [
+        "Para que otros carros puedan estacionarse",
+        "Para que su carro se mantenga más fresco",
+        "Para poder manejar en dos carriles",
+        "Para tener hacia dónde girar si pasa algo adelante"
+      ],
+      "h1": "El espacio es su ruta de escape.",
+      "h2": "Mantener espacio libre a los lados le da lugar para esquivar un peligro si no alcanza a pararse a tiempo.",
+      "p": "Correcto. Le da una salida."
+    }
+  },
+  {
+    "id": "speed-lanes-048",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "You stop behind another car at a light. How much space should you leave?",
+      "o": [
+        "Enough to see its rear tires touching the road",
+        "Just a few inches",
+        "At least five car lengths",
+        "No space; pull right up to it"
+      ],
+      "h1": "You want room to get around it.",
+      "h2": "When stopped, leave enough space to see the rear tires of the car ahead touching the road, so you can steer around it if it stalls.",
+      "p": "Right. See its rear tires on the road."
+    },
+    "es": {
+      "q": "Usted se para detrás de otro carro en un semáforo. ¿Cuánto espacio debe dejar?",
+      "o": [
+        "Suficiente para ver sus llantas traseras tocando la vía",
+        "Solo unas pulgadas",
+        "Por lo menos cinco carros de largo",
+        "Ninguno; acérquese del todo"
+      ],
+      "h1": "Necesita espacio para rodearlo.",
+      "h2": "Al pararse, deje suficiente espacio para ver las llantas traseras del carro de adelante tocando la vía, para poder rodearlo si se queda parado.",
+      "p": "Correcto. Vea sus llantas traseras en la vía."
+    }
+  },
+  {
+    "id": "speed-lanes-049",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "What is a blind spot?",
+      "o": [
+        "A dark part of the road at night",
+        "An area around your car that you cannot see in your mirrors",
+        "A spot on your windshield",
+        "A place where parking is not allowed"
+      ],
+      "h1": "Mirrors do not show everything.",
+      "h2": "A blind spot is an area beside or behind your car that your mirrors do not show, so you must turn your head to check it.",
+      "p": "Right. Your mirrors cannot show it."
+    },
+    "es": {
+      "q": "¿Qué es un punto ciego?",
+      "o": [
+        "Una parte oscura de la vía de noche",
+        "Un área alrededor de su carro que no ve en los espejos",
+        "Una mancha en el parabrisas",
+        "Un lugar donde no se puede estacionar"
+      ],
+      "h1": "Los espejos no muestran todo.",
+      "h2": "Un punto ciego es un área al lado o detrás de su carro que los espejos no muestran, así que debe girar la cabeza para revisarla.",
+      "p": "Correcto. Los espejos no lo muestran."
+    }
+  },
+  {
+    "id": "speed-lanes-050",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You are driving just behind and to the side of another car, where the driver may not see you. What should you do?",
+      "o": [
+        "Stay there; it is the safest place",
+        "Honk every few seconds",
+        "Speed up or drop back so you are not in the driver's blind spot",
+        "Turn on your hazard lights"
+      ],
+      "h1": "Do not stay where the other driver cannot see you.",
+      "h2": "Do not ride in another driver's blind spot; speed up or drop back so the driver can see you in a mirror.",
+      "p": "Right. Move out of their blind spot."
+    },
+    "es": {
+      "q": "Usted maneja justo detrás y al costado de otro carro, donde el conductor quizás no lo ve. ¿Qué debe hacer?",
+      "o": [
+        "Quedarse allí; es el lugar más seguro",
+        "Tocar la bocina cada pocos segundos",
+        "Acelerar o quedarse atrás para no estar en el punto ciego del conductor",
+        "Encender las luces de emergencia"
+      ],
+      "h1": "No se quede donde el otro conductor no lo ve.",
+      "h2": "No maneje en el punto ciego de otro conductor; acelere o quédese atrás para que el conductor pueda verlo en un espejo.",
+      "p": "Correcto. Salga de su punto ciego."
+    }
+  },
+  {
+    "id": "speed-lanes-051",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "How should you set your side mirrors to see as much as possible?",
+      "o": [
+        "So you see mostly your own car",
+        "Pointed at the ground",
+        "Pointed at the sky",
+        "So you can just barely see the side of your own car"
+      ],
+      "h1": "Seeing a lot of your own car wastes mirror space.",
+      "h2": "Set each side mirror so you can just barely see the side of your car; this shows more of the lanes beside you and makes blind spots smaller.",
+      "p": "Right. Just barely see your own car."
+    },
+    "es": {
+      "q": "¿Cómo debe ajustar los espejos laterales para ver lo más posible?",
+      "o": [
+        "De modo que vea sobre todo su propio carro",
+        "Apuntando al suelo",
+        "Apuntando al cielo",
+        "De modo que apenas vea el costado de su propio carro"
+      ],
+      "h1": "Ver mucho de su propio carro desperdicia espacio del espejo.",
+      "h2": "Ajuste cada espejo lateral de modo que apenas vea el costado de su carro; así ve más de los carriles a su lado y los puntos ciegos son más pequeños.",
+      "p": "Correcto. Apenas vea su propio carro."
+    }
+  },
+  {
+    "id": "speed-lanes-052",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "You just changed lanes. What should you check?",
+      "o": [
+        "That your turn signal has turned off",
+        "That your hazard lights are on",
+        "That your high beams are on",
+        "That your radio is off"
+      ],
+      "h1": "A signal left on sends the wrong message.",
+      "h2": "After a lane change, make sure your turn signal is off, or other drivers may think you are about to turn or change lanes again.",
+      "p": "Right. Make sure the signal is off."
+    },
+    "es": {
+      "q": "Usted acaba de cambiar de carril. ¿Qué debe revisar?",
+      "o": [
+        "Que la direccional se haya apagado",
+        "Que las luces de emergencia estén encendidas",
+        "Que las luces altas estén encendidas",
+        "Que el radio esté apagado"
+      ],
+      "h1": "Una direccional encendida da un mensaje equivocado.",
+      "h2": "Después de cambiar de carril, asegúrese de que la direccional esté apagada, o los demás pueden pensar que va a girar o cambiar de carril otra vez.",
+      "p": "Correcto. Asegúrese de que esté apagada."
+    }
+  },
+  {
+    "id": "speed-lanes-053",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "Why should you look far down the road ahead, not just at the car in front of you?",
+      "o": [
+        "To read signs for fun",
+        "To see problems early and have time to react",
+        "To rest your eyes",
+        "Because the car ahead does not matter"
+      ],
+      "h1": "Early warning gives you time.",
+      "h2": "Looking far ahead lets you spot hazards early, so you have more time to slow down, change lanes or stop smoothly.",
+      "p": "Right. You see trouble sooner."
+    },
+    "es": {
+      "q": "¿Por qué debe mirar lejos hacia adelante, y no solo al carro de enfrente?",
+      "o": [
+        "Para leer señales por diversión",
+        "Para ver los problemas temprano y tener tiempo de reaccionar",
+        "Para descansar la vista",
+        "Porque el carro de adelante no importa"
+      ],
+      "h1": "Ver antes le da tiempo.",
+      "h2": "Mirar lejos hacia adelante le permite ver los peligros temprano, así tiene más tiempo para bajar la velocidad, cambiar de carril o pararse con suavidad.",
+      "p": "Correcto. Ve los problemas antes."
+    }
+  },
+  {
+    "id": "speed-lanes-054",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "How often should you check your mirrors while driving?",
+      "o": [
+        "Only when you back up",
+        "Only at red lights",
+        "Every few seconds, and before slowing, stopping or changing lanes",
+        "Once at the start of the trip"
+      ],
+      "h1": "Traffic around you changes all the time.",
+      "h2": "Check your mirrors every few seconds and always before you slow down, stop, turn or change lanes.",
+      "p": "Right. Every few seconds and before any change."
+    },
+    "es": {
+      "q": "¿Cada cuánto debe mirar los espejos mientras maneja?",
+      "o": [
+        "Solo al retroceder",
+        "Solo en los semáforos en rojo",
+        "Cada pocos segundos, y antes de frenar, pararse o cambiar de carril",
+        "Una vez al empezar el viaje"
+      ],
+      "h1": "El tráfico a su alrededor cambia todo el tiempo.",
+      "h2": "Mire los espejos cada pocos segundos y siempre antes de bajar la velocidad, pararse, girar o cambiar de carril.",
+      "p": "Correcto. Cada pocos segundos y antes de cualquier cambio."
+    }
+  },
+  {
+    "id": "speed-lanes-055",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Why should you avoid stopping at the end of a freeway on-ramp, if traffic allows?",
+      "o": [
+        "Stopping there is always a crime",
+        "Cars behind you will pass on the shoulder",
+        "The ramp will close",
+        "It is very hard to merge into fast traffic from a stop"
+      ],
+      "h1": "Freeway traffic is moving fast.",
+      "h2": "Use the ramp to build up speed; stopping at the end means trying to merge into fast traffic from a standstill, which is dangerous.",
+      "p": "Right. Merging from a stop is very hard."
+    },
+    "es": {
+      "q": "¿Por qué debe evitar pararse al final de una rampa de entrada a la autopista, si el tráfico lo permite?",
+      "o": [
+        "Porque pararse allí siempre es un delito",
+        "Porque los de atrás lo rebasarán por el acotamiento",
+        "Porque la rampa se cerrará",
+        "Porque es muy difícil incorporarse al tráfico rápido desde cero"
+      ],
+      "h1": "El tráfico de la autopista va rápido.",
+      "h2": "Use la rampa para tomar velocidad; pararse al final significa incorporarse a un tráfico rápido desde cero, lo cual es peligroso.",
+      "p": "Correcto. Incorporarse desde cero es muy difícil."
+    }
+  },
+  {
+    "id": "speed-lanes-056",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "You are on the freeway in the right lane. A car is coming down an on-ramp to merge. How can you help?",
+      "o": [
+        "Move one lane left if it is safe, or adjust your speed to leave a gap",
+        "Speed up so it cannot merge",
+        "Stop in your lane",
+        "Honk to warn it"
+      ],
+      "h1": "Merging is easier when others make room.",
+      "h2": "To help a car merge, change lanes to the left if it is safe, or adjust your speed so there is a gap for it.",
+      "p": "Right. Make room if you safely can."
+    },
+    "es": {
+      "q": "Usted va por la autopista en el carril derecho. Un carro baja por una rampa para incorporarse. ¿Cómo puede ayudar?",
+      "o": [
+        "Pasarse un carril a la izquierda si es seguro, o ajustar su velocidad para dejar espacio",
+        "Acelerar para que no pueda entrar",
+        "Pararse en su carril",
+        "Tocar la bocina para avisarle"
+      ],
+      "h1": "Incorporarse es más fácil cuando los demás dejan espacio.",
+      "h2": "Para ayudar a un carro a incorporarse, cámbiese a la izquierda si es seguro, o ajuste su velocidad para dejarle un espacio.",
+      "p": "Correcto. Dele espacio si puede hacerlo con seguridad."
+    }
+  },
+  {
+    "id": "speed-lanes-057",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "As you merge onto a freeway, how do you check for a gap in traffic?",
+      "o": [
+        "Use only the rearview mirror",
+        "Use your mirrors and a quick look over your shoulder",
+        "Look only straight ahead",
+        "Wait for other drivers to wave you in"
+      ],
+      "h1": "Your mirrors have blind spots.",
+      "h2": "To merge, check your mirrors and take a quick look over your shoulder to find a safe gap, then signal and merge smoothly.",
+      "p": "Right. Mirrors plus a look over your shoulder."
+    },
+    "es": {
+      "q": "Al incorporarse a una autopista, ¿cómo revisa si hay un espacio en el tráfico?",
+      "o": [
+        "Solo con el espejo retrovisor",
+        "Con los espejos y una mirada rápida por encima del hombro",
+        "Mirando solo hacia adelante",
+        "Esperando que otros le hagan señas"
+      ],
+      "h1": "Los espejos tienen puntos ciegos.",
+      "h2": "Para incorporarse, mire los espejos y eche una mirada rápida por encima del hombro para encontrar un espacio seguro; luego señale y entre con suavidad.",
+      "p": "Correcto. Espejos y una mirada por encima del hombro."
+    }
+  },
+  {
+    "id": "speed-lanes-058",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Your freeway exit is coming up in a mile. What should you do?",
+      "o": [
+        "Stay in the left lane and cut across at the end",
+        "Slow down sharply in the main lanes",
+        "Move into the lane next to the exit early and signal before the exit",
+        "Stop on the shoulder near the exit"
+      ],
+      "h1": "Plan ahead so you do not need sudden moves.",
+      "h2": "Before a freeway exit, move into the lane next to the exit early, signal, and wait to slow down until you are in the exit lane.",
+      "p": "Right. Get over early and signal."
+    },
+    "es": {
+      "q": "Su salida de la autopista está a una milla. ¿Qué debe hacer?",
+      "o": [
+        "Quedarse en el carril izquierdo y cruzar al final",
+        "Frenar fuerte en los carriles principales",
+        "Pasarse temprano al carril junto a la salida y señalar antes de salir",
+        "Pararse en el acotamiento cerca de la salida"
+      ],
+      "h1": "Planee con tiempo para no hacer movimientos bruscos.",
+      "h2": "Antes de una salida, pásese temprano al carril junto a la salida, señale, y espere a estar en el carril de salida para bajar la velocidad.",
+      "p": "Correcto. Cámbiese temprano y señale."
+    }
+  },
+  {
+    "id": "speed-lanes-059",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "You park on a hill where there is no curb. Which way should you turn your front wheels?",
+      "o": [
+        "Toward the middle of the road",
+        "Straight ahead",
+        "It does not matter",
+        "Toward the edge of the road, away from traffic"
+      ],
+      "h1": "If the car rolls, it should roll off the road.",
+      "h2": "On a hill with no curb, turn your front wheels toward the edge of the road, so if the car rolls it goes away from traffic.",
+      "p": "Right. Toward the edge of the road."
+    },
+    "es": {
+      "q": "Usted se estaciona en una loma donde no hay acera. ¿Hacia dónde debe girar las ruedas delanteras?",
+      "o": [
+        "Hacia el centro de la vía",
+        "Derecho",
+        "No importa",
+        "Hacia la orilla de la vía, lejos del tráfico"
+      ],
+      "h1": "Si el carro rueda, debe salirse de la vía.",
+      "h2": "En una loma sin acera, gire las ruedas delanteras hacia la orilla de la vía, así si el carro rueda se aleja del tráfico.",
+      "p": "Correcto. Hacia la orilla de la vía."
+    }
+  },
+  {
+    "id": "speed-lanes-060",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "You park on any hill. What else should you do besides turning your wheels?",
+      "o": [
+        "Set the parking brake",
+        "Leave the engine running",
+        "Turn on your hazard lights",
+        "Leave the car in neutral"
+      ],
+      "h1": "Something must hold the car still.",
+      "h2": "When you park on a hill, always set the parking brake and leave the car in park (or in gear for a manual) as well as turning the wheels.",
+      "p": "Right. Set the parking brake."
+    },
+    "es": {
+      "q": "Usted se estaciona en cualquier loma. Además de girar las ruedas, ¿qué más debe hacer?",
+      "o": [
+        "Poner el freno de mano",
+        "Dejar el motor encendido",
+        "Encender las luces de emergencia",
+        "Dejar el carro en neutro"
+      ],
+      "h1": "Algo debe mantener el carro quieto.",
+      "h2": "Al estacionarse en una loma, siempre ponga el freno de mano y deje el carro en \"park\" (o en cambio si es manual), además de girar las ruedas.",
+      "p": "Correcto. Ponga el freno de mano."
+    }
+  },
+  {
+    "id": "speed-lanes-061",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "Uniform Vehicle Code, rules of the road (see MUTCD 11th Edition Section 1A.06, https://mutcd.fhwa.dot.gov/)",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "You are pulling out of a parallel parking space. What should you do first?",
+      "o": [
+        "Pull out quickly before cars come",
+        "Signal, check your mirror and look over your shoulder, then go when there is a safe gap",
+        "Honk and pull out",
+        "Back into traffic"
+      ],
+      "h1": "Cars in the lane have the right of way.",
+      "h2": "Before leaving a parking space, signal, check your mirror and blind spot, and wait for a safe gap, because traffic in the lane goes first.",
+      "p": "Right. Signal, look, and wait for a gap."
+    },
+    "es": {
+      "q": "Usted va a salir de un espacio de estacionamiento en paralelo. ¿Qué debe hacer primero?",
+      "o": [
+        "Salir rápido antes de que vengan carros",
+        "Señalar, mirar el espejo y por encima del hombro, y salir cuando haya un espacio seguro",
+        "Tocar la bocina y salir",
+        "Retroceder hacia el tráfico"
+      ],
+      "h1": "Los carros en el carril tienen el derecho de paso.",
+      "h2": "Antes de salir de un espacio de estacionamiento, señale, mire el espejo y el punto ciego, y espere un espacio seguro, porque el tráfico del carril va primero.",
+      "p": "Correcto. Señale, mire y espere un espacio."
+    }
+  },
+  {
+    "id": "speed-lanes-062",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Speeding, https://www.nhtsa.gov/risky-driving/speeding",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Why can driving much slower than the traffic around you be dangerous?",
+      "o": [
+        "Your engine will overheat",
+        "Slow cars use more gas",
+        "Other drivers must brake hard or pass you, which can cause crashes",
+        "It is never dangerous"
+      ],
+      "h1": "Big speed differences cause conflicts.",
+      "h2": "Driving much slower than other traffic makes drivers behind you brake suddenly or pass, which raises the chance of a crash.",
+      "p": "Right. It forces others to brake or pass."
+    },
+    "es": {
+      "q": "¿Por qué manejar mucho más despacio que el tráfico a su alrededor puede ser peligroso?",
+      "o": [
+        "Porque el motor se calienta",
+        "Porque los carros lentos gastan más gasolina",
+        "Porque los demás deben frenar fuerte o rebasarlo, lo que puede causar choques",
+        "Nunca es peligroso"
+      ],
+      "h1": "Las grandes diferencias de velocidad causan conflictos.",
+      "h2": "Manejar mucho más despacio que los demás hace que los de atrás frenen de golpe o lo rebasen, lo que aumenta el riesgo de choque.",
+      "p": "Correcto. Obliga a los demás a frenar o rebasar."
+    }
+  },
+  {
+    "id": "speed-lanes-063",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Speeding, https://www.nhtsa.gov/risky-driving/speeding",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Besides a longer stopping distance, what else happens when you drive faster?",
+      "o": [
+        "Your car grips the road better",
+        "You see more of the road",
+        "Your seat belt works better",
+        "A crash hits much harder, so injuries are worse"
+      ],
+      "h1": "More speed means more force.",
+      "h2": "Higher speed means more force in a crash, so injuries are much more serious, in addition to needing more distance to stop.",
+      "p": "Right. Crashes are much more severe."
+    },
+    "es": {
+      "q": "Además de necesitar más distancia para frenar, ¿qué más pasa cuando maneja más rápido?",
+      "o": [
+        "El carro se agarra mejor a la vía",
+        "Ve más de la vía",
+        "El cinturón funciona mejor",
+        "Un choque golpea mucho más fuerte, así que las lesiones son peores"
+      ],
+      "h1": "Más velocidad significa más fuerza.",
+      "h2": "A mayor velocidad, hay más fuerza en un choque, así que las lesiones son mucho más graves, además de necesitar más distancia para frenar.",
+      "p": "Correcto. Los choques son mucho más graves."
+    }
+  },
+  {
+    "id": "speed-lanes-064",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "When can high beams help you see better?",
+      "o": [
+        "On dark roads with no other cars close ahead or coming toward you",
+        "In thick fog",
+        "In heavy snow",
+        "In city traffic"
+      ],
+      "h1": "High beams can blind other drivers and reflect off fog.",
+      "h2": "High beams help on dark, open roads when no vehicle is close ahead or coming toward you; switch to low beams for other traffic and in fog or snow.",
+      "p": "Right. On dark roads with no cars nearby."
+    },
+    "es": {
+      "q": "¿Cuándo le pueden ayudar las luces altas a ver mejor?",
+      "o": [
+        "En vías oscuras sin otros carros cerca adelante ni de frente",
+        "Con niebla espesa",
+        "Con nieve fuerte",
+        "En el tráfico de la ciudad"
+      ],
+      "h1": "Las luces altas pueden encandilar y rebotan en la niebla.",
+      "h2": "Las luces altas ayudan en vías oscuras y abiertas cuando no hay vehículos cerca adelante ni de frente; use las bajas con otros carros y con niebla o nieve.",
+      "p": "Correcto. En vías oscuras sin carros cerca."
+    }
+  },
+  {
+    "id": "speed-lanes-065",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "How should you back up a car safely?",
+      "o": [
+        "Use only the backup camera at normal speed",
+        "Turn and look back through the rear window, and go slowly",
+        "Look only in the side mirrors and go fast",
+        "Honk and back up without looking"
+      ],
+      "h1": "Cameras and mirrors have blind spots.",
+      "h2": "To back up safely, turn your head to look through the rear window, check all around, and back up slowly.",
+      "p": "Right. Look back and go slowly."
+    },
+    "es": {
+      "q": "¿Cómo debe retroceder con seguridad?",
+      "o": [
+        "Usando solo la cámara de reversa a velocidad normal",
+        "Girando para mirar por el vidrio trasero, y yendo despacio",
+        "Mirando solo los espejos laterales y yendo rápido",
+        "Tocando la bocina y retrocediendo sin mirar"
+      ],
+      "h1": "Las cámaras y los espejos tienen puntos ciegos.",
+      "h2": "Para retroceder con seguridad, gire la cabeza para mirar por el vidrio trasero, revise todo alrededor y retroceda despacio.",
+      "p": "Correcto. Mire hacia atrás y vaya despacio."
+    }
+  },
+  {
+    "id": "speed-lanes-066",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Why should you avoid changing lanes while you are in the middle of an intersection?",
+      "o": [
+        "Your signal will not work there",
+        "Intersections have no lanes",
+        "Other drivers do not expect it, and it can cause a crash",
+        "It makes the light change"
+      ],
+      "h1": "Many things happen at once in an intersection.",
+      "h2": "Changing lanes inside an intersection surprises other drivers and people crossing, so pick your lane before the intersection.",
+      "p": "Right. Others do not expect it."
+    },
+    "es": {
+      "q": "¿Por qué debe evitar cambiar de carril en medio de una intersección?",
+      "o": [
+        "Porque la direccional no funciona allí",
+        "Porque las intersecciones no tienen carriles",
+        "Porque los demás no lo esperan y puede causar un choque",
+        "Porque hace cambiar el semáforo"
+      ],
+      "h1": "En una intersección pasan muchas cosas a la vez.",
+      "h2": "Cambiar de carril dentro de una intersección sorprende a otros conductores y a los peatones, así que escoja su carril antes de la intersección.",
+      "p": "Correcto. Los demás no lo esperan."
+    }
+  },
+  {
+    "id": "speed-lanes-067",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "What is the \"space cushion\" around your car?",
+      "o": [
+        "A pillow for the driver",
+        "The air in your tires",
+        "The space in your trunk",
+        "Open space on all sides that gives you time and room to react"
+      ],
+      "h1": "Think of space as a safety zone.",
+      "h2": "A space cushion is the open space you keep ahead, behind and beside your car, giving you time and room to avoid trouble.",
+      "p": "Right. Open space all around your car."
+    },
+    "es": {
+      "q": "¿Qué es el \"colchón de espacio\" alrededor de su carro?",
+      "o": [
+        "Una almohada para el conductor",
+        "El aire de las llantas",
+        "El espacio del maletero",
+        "El espacio libre en todos los lados que le da tiempo y lugar para reaccionar"
+      ],
+      "h1": "Piense en el espacio como una zona de seguridad.",
+      "h2": "El colchón de espacio es el espacio libre que mantiene adelante, atrás y a los lados de su carro, que le da tiempo y lugar para evitar problemas.",
+      "p": "Correcto. Espacio libre alrededor de su carro."
+    }
+  },
+  {
+    "id": "speed-lanes-068",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Road Safety, https://www.nhtsa.gov/road-safety",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "You are driving on a two-lane road and a line of cars is stuck behind you because you are slow. What is a courteous, safe thing to do?",
+      "o": [
+        "Pull over where it is safe and let them pass",
+        "Speed up beyond what is safe",
+        "Brake to make them back off",
+        "Drive on the center line"
+      ],
+      "h1": "A turnout or wide shoulder can help.",
+      "h2": "If several cars are stuck behind you, pull over at a safe place, like a turnout, and let them pass.",
+      "p": "Right. Pull over safely and let them pass."
+    },
+    "es": {
+      "q": "Usted maneja por una vía de dos carriles y una fila de carros va detrás de usted porque va despacio. ¿Qué es lo cortés y seguro?",
+      "o": [
+        "Orillarse en un lugar seguro y dejarlos pasar",
+        "Acelerar más de lo seguro",
+        "Frenar para que se alejen",
+        "Manejar sobre la línea central"
+      ],
+      "h1": "Un apartadero o un acotamiento ancho puede ayudar.",
+      "h2": "Si varios carros van atrapados detrás de usted, oríllese en un lugar seguro, como un apartadero, y déjelos pasar.",
+      "p": "Correcto. Oríllese con seguridad y déjelos pasar."
+    }
+  },
+  {
+    "id": "speed-lanes-069",
+    "scope": "US",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "NHTSA, Speeding, https://www.nhtsa.gov/risky-driving/speeding",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "It is getting dark and the road is unfamiliar. How should you choose your speed?",
+      "o": [
+        "Always at the speed limit",
+        "Slow enough to stop within the distance you can see",
+        "Faster, to get there before dark",
+        "The same as the car ahead, no matter what"
+      ],
+      "h1": "You can only react to what you can see.",
+      "h2": "Choose a speed that lets you stop within the distance you can clearly see, which is often slower than the limit at night or on an unfamiliar road.",
+      "p": "Right. Stop within the distance you can see."
+    },
+    "es": {
+      "q": "Está oscureciendo y no conoce la vía. ¿Cómo debe escoger su velocidad?",
+      "o": [
+        "Siempre al límite de velocidad",
+        "Lo bastante despacio para pararse dentro de la distancia que ve",
+        "Más rápido, para llegar antes de que oscurezca",
+        "Igual que el carro de adelante, pase lo que pase"
+      ],
+      "h1": "Solo puede reaccionar a lo que ve.",
+      "h2": "Escoja una velocidad que le permita pararse dentro de la distancia que ve con claridad, lo que muchas veces es menos que el límite de noche o en una vía desconocida.",
+      "p": "Correcto. Párese dentro de la distancia que ve."
+    }
   }
 ]
