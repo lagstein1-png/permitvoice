@@ -3755,7 +3755,7 @@
     "sign": null,
     "c": 3,
     "en": {
-      "q": "At a crosswalk in the middle of a block, a signal above the road is dark (no lights on). What does that mean?",
+      "q": "At a crosswalk in the middle of a block, a pedestrian hybrid beacon (two red lights side by side above one yellow light) is dark, with no lights on. What does that mean?",
       "o": [
         "You must stop",
         "The signal is broken, so stop",
@@ -3767,7 +3767,7 @@
       "p": "Right. Dark means no one is crossing yet."
     },
     "es": {
-      "q": "En un cruce peatonal a mitad de cuadra, un semáforo sobre la vía está apagado. ¿Qué significa?",
+      "q": "En un cruce peatonal a mitad de cuadra, un semáforo híbrido peatonal (dos luces rojas lado a lado sobre una luz amarilla) está apagado, sin ninguna luz. ¿Qué significa?",
       "o": [
         "Debe pararse",
         "El semáforo está dañado, así que párese",
@@ -4098,25 +4098,25 @@
       "q": "On road markings, what does a double line usually tell you?",
       "o": [
         "You may cross it when you like",
-        "There are strong limits; do not cross it",
+        "It shows the strongest limits, such as no passing",
         "The road is about to end",
         "You are near a school"
       ],
       "h1": "Two lines are stronger than one.",
-      "h2": "A double line on the road shows the strongest limits, such as no passing or no lane changes, so you should not cross it.",
-      "p": "Right. A double line means do not cross."
+      "h2": "A double line on the road shows the strongest limits, such as no passing or no lane changes across it.",
+      "p": "Right. A double line shows the strongest limits."
     },
     "es": {
       "q": "En las marcas de la vía, ¿qué suele indicar una línea doble?",
       "o": [
         "Que puede cruzarla cuando quiera",
-        "Restricciones fuertes; no la cruce",
+        "Indica las restricciones más fuertes, como no rebasar",
         "Que la vía va a terminar",
         "Que está cerca de una escuela"
       ],
       "h1": "Dos líneas son más fuertes que una.",
-      "h2": "Una línea doble en la vía indica las restricciones más fuertes, como no rebasar o no cambiar de carril, así que no debe cruzarla.",
-      "p": "Correcto. Una línea doble significa no cruzar."
+      "h2": "Una línea doble en la vía indica las restricciones más fuertes, como no rebasar o no cambiar de carril cruzándola.",
+      "p": "Correcto. Una línea doble indica las restricciones más fuertes."
     }
   },
   {
@@ -4168,7 +4168,7 @@
         "You are entering a school zone",
         "The road will become gravel",
         "A police check is ahead",
-        "The lane ahead will end or turn off, so get in the right lane"
+        "The lane ahead will end or turn off, so get into the lane you need early"
       ],
       "h1": "Short, close dashes mean a change is coming.",
       "h2": "A dotted white lane line warns that the lane ahead will change, for example by ending or becoming an exit or turn lane.",
@@ -4180,7 +4180,7 @@
         "De que entra a una zona escolar",
         "De que la vía será de grava",
         "De que hay un control de policía",
-        "De que el carril adelante terminará o saldrá, así que póngase en el carril correcto"
+        "De que el carril adelante terminará o saldrá, así que póngase a tiempo en el carril que necesita"
       ],
       "h1": "Rayas cortas y juntas indican que viene un cambio.",
       "h2": "Una línea blanca punteada entre carriles advierte que el carril adelante va a cambiar, por ejemplo terminando o convirtiéndose en salida o carril de giro.",
@@ -4273,7 +4273,7 @@
         "Drive over it to pass"
       ],
       "h1": "The stripes fill space that is not a lane.",
-      "h2": "White diagonal or chevron stripes mark an area that is not for driving, so you must not drive across it.",
+      "h2": "White diagonal or chevron stripes mark an area that is not meant for driving, so stay off it.",
       "p": "Right. Stay off the striped area."
     },
     "es": {
@@ -4285,7 +4285,7 @@
         "Pasar por encima para rebasar"
       ],
       "h1": "Las rayas llenan un espacio que no es carril.",
-      "h2": "Las rayas blancas diagonales o en forma de V marcan un área que no es para manejar, así que no debe cruzarla.",
+      "h2": "Las rayas blancas diagonales o en forma de V marcan un área que no es para manejar, así que no pase por ella.",
       "p": "Correcto. No pase por el área rayada."
     }
   },
@@ -4443,7 +4443,7 @@
         "A bike lane; do not drive in it"
       ],
       "h1": "Look at the symbol painted in the lane.",
-      "h2": "A lane marked with a solid white line and a bicycle symbol is a bike lane, so do not drive in it except to cross it carefully where allowed.",
+      "h2": "A lane marked with a solid white line and a bicycle symbol is a bike lane, so do not drive in it, except to enter or cross it carefully where the law allows, such as to turn or park.",
       "p": "Right. It is a bike lane."
     },
     "es": {
@@ -4455,7 +4455,7 @@
         "Un carril para bicicletas; no maneje en él"
       ],
       "h1": "Fíjese en el símbolo pintado en el carril.",
-      "h2": "Un carril marcado con una línea blanca continua y el símbolo de bicicleta es un carril para bicicletas, así que no maneje en él salvo para cruzarlo con cuidado donde se permita.",
+      "h2": "Un carril marcado con una línea blanca continua y el símbolo de bicicleta es un carril para bicicletas, así que no maneje en él, salvo para entrar o cruzarlo con cuidado donde la ley lo permita, por ejemplo para girar o estacionarse.",
       "p": "Correcto. Es un carril para bicicletas."
     }
   },
