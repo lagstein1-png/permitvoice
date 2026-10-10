@@ -7633,7 +7633,7 @@
     "id": "nd-152",
     "scope": "ND",
     "cat": "safe-driving",
-    "conf": "high",
+    "conf": "medium",
     "page": 30,
     "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
     "sign": null,
@@ -7661,6 +7661,1502 @@
       "h1": "Use cualquier otra luz que tenga para que lo vean.",
       "h2": "En Dakota del Norte, si fallan sus faros, intente usar las luces de estacionamiento y las direccionales, y salga del camino en cuanto haya bajado la velocidad.",
       "p": "Correcto. Use otras luces y salga del camino."
+    }
+  },
+  {
+    "id": "nd-153",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, a driver's license is suspended for DUI. When can a temporary restricted license be issued, if the driver is not in the 24/7 Sobriety Program?",
+      "o": [
+        "Right away, on the day of the arrest",
+        "After 7 days of the suspension",
+        "After at least 30 days of the suspension",
+        "Only after the whole suspension ends"
+      ],
+      "h1": "It is about one month into the suspension.",
+      "h2": "In North Dakota, a temporary restricted license can be issued after at least 30 days of a DUI suspension have been served, or after 14 days for a driver in the 24/7 Sobriety Program.",
+      "p": "Right. At least 30 days must be served first."
+    },
+    "es": {
+      "q": "En Dakota del Norte, a un conductor le suspenden la licencia por manejar bajo la influencia (DUI). Si no está en el programa de sobriedad 24/7, ¿cuándo se le puede dar una licencia restringida temporal?",
+      "o": [
+        "De inmediato, el mismo día del arresto",
+        "Después de 7 días de la suspensión",
+        "Después de cumplir al menos 30 días de la suspensión",
+        "Solo cuando termine toda la suspensión"
+      ],
+      "h1": "Es más o menos un mes después de empezar la suspensión.",
+      "h2": "En Dakota del Norte, se puede dar una licencia restringida temporal después de cumplir al menos 30 días de una suspensión por DUI, o 14 días si el conductor está en el programa de sobriedad 24/7.",
+      "p": "Correcto. Primero debe cumplir al menos 30 días."
+    }
+  },
+  {
+    "id": "nd-154",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, a driver suspended for DUI joins the 24/7 Sobriety Program. After how many days of the suspension can a temporary restricted license be issued?",
+      "o": [
+        "At least 14 days",
+        "At least 3 days",
+        "At least 60 days",
+        "At least 91 days"
+      ],
+      "h1": "The program shortens the usual 30-day wait to two weeks.",
+      "h2": "In North Dakota, a driver in the 24/7 Sobriety Program can get a temporary restricted license after serving at least 14 days of the suspension.",
+      "p": "Right. With the 24/7 program, it is at least 14 days."
+    },
+    "es": {
+      "q": "En Dakota del Norte, un conductor suspendido por DUI entra al programa de sobriedad 24/7. ¿Después de cuántos días de la suspensión se le puede dar una licencia restringida temporal?",
+      "o": [
+        "Al menos 14 días",
+        "Al menos 3 días",
+        "Al menos 60 días",
+        "Al menos 91 días"
+      ],
+      "h1": "El programa acorta la espera normal de 30 días a dos semanas.",
+      "h2": "En Dakota del Norte, un conductor en el programa de sobriedad 24/7 puede recibir una licencia restringida temporal después de cumplir al menos 14 días de la suspensión.",
+      "p": "Correcto. Con el programa 24/7, son al menos 14 días."
+    }
+  },
+  {
+    "id": "nd-155",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, a driver has a second alcohol offense within seven years, with an alcohol level under 0.18 percent. How long is the license suspended?",
+      "o": [
+        "91 days",
+        "30 days",
+        "10 years",
+        "365 days"
+      ],
+      "h1": "It is a full year.",
+      "h2": "In North Dakota, a second alcohol offense within seven years, with an alcohol level under 0.18 percent, brings a license suspension of 365 days.",
+      "p": "Right. A second offense in seven years means 365 days."
+    },
+    "es": {
+      "q": "En Dakota del Norte, un conductor comete una segunda infracción por alcohol en siete años, con un nivel de alcohol menor de 0.18 por ciento. ¿Por cuánto tiempo le suspenden la licencia?",
+      "o": [
+        "91 días",
+        "30 días",
+        "10 años",
+        "365 días"
+      ],
+      "h1": "Es un año completo.",
+      "h2": "En Dakota del Norte, una segunda infracción por alcohol en siete años, con un nivel de alcohol menor de 0.18 por ciento, trae una suspensión de la licencia de 365 días.",
+      "p": "Correcto. Una segunda infracción en siete años son 365 días."
+    }
+  },
+  {
+    "id": "nd-156",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, a driver has a second alcohol offense within seven years, and this time the alcohol level is 0.18 percent or more. How long is the license suspended?",
+      "o": [
+        "91 days",
+        "Two years",
+        "180 days",
+        "30 days"
+      ],
+      "h1": "A high alcohol level on a second offense means more than one year.",
+      "h2": "In North Dakota, a second alcohol offense within seven years with an alcohol level of 0.18 percent or more brings a two-year license suspension.",
+      "p": "Right. It is two years."
+    },
+    "es": {
+      "q": "En Dakota del Norte, un conductor comete una segunda infracción por alcohol en siete años, y esta vez el nivel de alcohol es de 0.18 por ciento o más. ¿Por cuánto tiempo le suspenden la licencia?",
+      "o": [
+        "91 días",
+        "Dos años",
+        "180 días",
+        "30 días"
+      ],
+      "h1": "Un nivel alto de alcohol en una segunda infracción significa más de un año.",
+      "h2": "En Dakota del Norte, una segunda infracción por alcohol en siete años con un nivel de alcohol de 0.18 por ciento o más trae una suspensión de la licencia de dos años.",
+      "p": "Correcto. Son dos años."
+    }
+  },
+  {
+    "id": "nd-157",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, a driver has a third alcohol offense within seven years, with an alcohol level of 0.18 percent or more. How long is the license suspended?",
+      "o": [
+        "One year",
+        "Three years",
+        "91 days",
+        "Two years"
+      ],
+      "h1": "This is the longest suspension on the handbook's list.",
+      "h2": "In North Dakota, a third or later alcohol offense within seven years with an alcohol level of 0.18 percent or more brings a three-year license suspension.",
+      "p": "Right. It is three years."
+    },
+    "es": {
+      "q": "En Dakota del Norte, un conductor comete una tercera infracción por alcohol en siete años, con un nivel de alcohol de 0.18 por ciento o más. ¿Por cuánto tiempo le suspenden la licencia?",
+      "o": [
+        "Un año",
+        "Tres años",
+        "91 días",
+        "Dos años"
+      ],
+      "h1": "Es la suspensión más larga de la lista del manual.",
+      "h2": "En Dakota del Norte, una tercera infracción por alcohol (o más) en siete años con un nivel de alcohol de 0.18 por ciento o más trae una suspensión de la licencia de tres años.",
+      "p": "Correcto. Son tres años."
+    }
+  },
+  {
+    "id": "nd-158",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, a person drives while the license is suspended for an alcohol violation. What is the smallest jail sentence?",
+      "o": [
+        "No jail, only a warning",
+        "1 hour",
+        "1 day, which can be skipped",
+        "4 days"
+      ],
+      "h1": "The law sets a mandatory minimum of a few days.",
+      "h2": "In North Dakota, driving while your license is suspended or revoked after an alcohol violation brings a mandatory minimum of four days in jail, plus a fine.",
+      "p": "Right. At least 4 days in jail."
+    },
+    "es": {
+      "q": "En Dakota del Norte, una persona maneja con la licencia suspendida por una infracción de alcohol. ¿Cuál es la pena de cárcel más corta?",
+      "o": [
+        "Sin cárcel, solo una advertencia",
+        "1 hora",
+        "1 día, que se puede saltar",
+        "4 días"
+      ],
+      "h1": "La ley fija un mínimo obligatorio de unos días.",
+      "h2": "En Dakota del Norte, manejar con la licencia suspendida o revocada después de una infracción de alcohol trae un mínimo obligatorio de cuatro días de cárcel, más una multa.",
+      "p": "Correcto. Al menos 4 días de cárcel."
+    }
+  },
+  {
+    "id": "nd-159",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, a license is suspended or revoked after an alcohol violation. What can also happen to the vehicle's license plates and registration card?",
+      "o": [
+        "They may be taken (impounded) for as long as the suspension lasts",
+        "Nothing; they stay with the car",
+        "They must be painted a different color",
+        "They are given to the driver's insurance company"
+      ],
+      "h1": "Without them, the car cannot be driven legally.",
+      "h2": "In North Dakota, the license plates and registration card of your vehicle may be impounded for the length of an alcohol-related suspension or revocation.",
+      "p": "Right. Plates and registration may be impounded."
+    },
+    "es": {
+      "q": "En Dakota del Norte, una licencia es suspendida o revocada después de una infracción de alcohol. ¿Qué más puede pasar con las placas y la tarjeta de registro del vehículo?",
+      "o": [
+        "Se las pueden quitar (confiscar) mientras dure la suspensión",
+        "Nada; se quedan con el carro",
+        "Deben pintarse de otro color",
+        "Se entregan a la compañía de seguros del conductor"
+      ],
+      "h1": "Sin ellas, el carro no se puede manejar legalmente.",
+      "h2": "En Dakota del Norte, las placas y la tarjeta de registro de su vehículo se pueden confiscar durante todo el tiempo de una suspensión o revocación por alcohol.",
+      "p": "Correcto. Pueden confiscar las placas y el registro."
+    }
+  },
+  {
+    "id": "nd-160",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, a driver's first DUI conviction is for an alcohol level of 0.16 percent or more. What is the court penalty?",
+      "o": [
+        "A $100 fine only",
+        "A warning letter",
+        "A fine of at least $750 and at least two days in jail",
+        "A $25 fine and one point"
+      ],
+      "h1": "A very high alcohol level makes even a first offense come with jail time.",
+      "h2": "In North Dakota, a first DUI conviction with an alcohol level of 0.16 percent or more brings a fine of at least $750 and at least two days in jail, which may be changed to community service.",
+      "p": "Right. At least $750 and two days in jail."
+    },
+    "es": {
+      "q": "En Dakota del Norte, la primera condena por DUI de un conductor es con un nivel de alcohol de 0.16 por ciento o más. ¿Cuál es la pena del tribunal?",
+      "o": [
+        "Solo una multa de $100",
+        "Una carta de advertencia",
+        "Una multa de al menos $750 y al menos dos días de cárcel",
+        "Una multa de $25 y un punto"
+      ],
+      "h1": "Un nivel de alcohol muy alto hace que incluso una primera infracción tenga cárcel.",
+      "h2": "En Dakota del Norte, una primera condena por DUI con un nivel de alcohol de 0.16 por ciento o más trae una multa de al menos $750 y al menos dos días de cárcel, que se pueden cambiar por servicio comunitario.",
+      "p": "Correcto. Al menos $750 y dos días de cárcel."
+    }
+  },
+  {
+    "id": "nd-161",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, a driver is convicted of DUI for the second time within seven years. How many days in jail does the sentence include?",
+      "o": [
+        "1 day",
+        "120 days",
+        "No jail",
+        "10 days"
+      ],
+      "h1": "It is more than a week but less than a month.",
+      "h2": "In North Dakota, a second DUI conviction within seven years includes 10 days in jail, a fine, and at least 12 months in the 24/7 Sobriety Program.",
+      "p": "Right. A second DUI in seven years means 10 days in jail."
+    },
+    "es": {
+      "q": "En Dakota del Norte, un conductor es condenado por DUI por segunda vez en siete años. ¿Cuántos días de cárcel incluye la sentencia?",
+      "o": [
+        "1 día",
+        "120 días",
+        "Sin cárcel",
+        "10 días"
+      ],
+      "h1": "Es más de una semana pero menos de un mes.",
+      "h2": "En Dakota del Norte, una segunda condena por DUI en siete años incluye 10 días de cárcel, una multa y al menos 12 meses en el programa de sobriedad 24/7.",
+      "p": "Correcto. Un segundo DUI en siete años significa 10 días de cárcel."
+    }
+  },
+  {
+    "id": "nd-162",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 37,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, a driver is convicted of DUI for the third time within seven years. What is the sentence?",
+      "o": [
+        "A $500 fine and no jail",
+        "A $250 fine and 2 days in jail",
+        "A $2,000 fine and 120 days in jail",
+        "A $100 fine and 10 days in jail"
+      ],
+      "h1": "Jail time is about four months.",
+      "h2": "In North Dakota, a third DUI conviction within seven years brings a $2,000 fine, 120 days in jail and the 24/7 Sobriety Program as a condition of probation.",
+      "p": "Right. A $2,000 fine and 120 days in jail."
+    },
+    "es": {
+      "q": "En Dakota del Norte, un conductor es condenado por DUI por tercera vez en siete años. ¿Cuál es la sentencia?",
+      "o": [
+        "Una multa de $500 y sin cárcel",
+        "Una multa de $250 y 2 días de cárcel",
+        "Una multa de $2,000 y 120 días de cárcel",
+        "Una multa de $100 y 10 días de cárcel"
+      ],
+      "h1": "La cárcel es de unos cuatro meses.",
+      "h2": "En Dakota del Norte, una tercera condena por DUI en siete años trae una multa de $2,000, 120 días de cárcel y el programa de sobriedad 24/7 como condición de la libertad condicional.",
+      "p": "Correcto. Una multa de $2,000 y 120 días de cárcel."
+    }
+  },
+  {
+    "id": "nd-163",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 37,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, how much jail time comes with a fourth DUI offense?",
+      "o": [
+        "10 days",
+        "One year and one day",
+        "30 days",
+        "Two days"
+      ],
+      "h1": "It is just over one year.",
+      "h2": "In North Dakota, a fourth or later DUI offense brings one year and one day in jail, a $2,000 fine and the 24/7 Sobriety Program.",
+      "p": "Right. One year and one day."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuánto tiempo de cárcel trae una cuarta infracción por DUI?",
+      "o": [
+        "10 días",
+        "Un año y un día",
+        "30 días",
+        "Dos días"
+      ],
+      "h1": "Es un poco más de un año.",
+      "h2": "En Dakota del Norte, una cuarta infracción por DUI (o más) trae un año y un día de cárcel, una multa de $2,000 y el programa de sobriedad 24/7.",
+      "p": "Correcto. Un año y un día."
+    }
+  },
+  {
+    "id": "nd-164",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 37,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, besides fines and jail, what must every person convicted of DUI do?",
+      "o": [
+        "Get an alcohol addiction evaluation and complete any treatment it recommends",
+        "Retake only the vision test",
+        "Pay for a new license plate design",
+        "Nothing else"
+      ],
+      "h1": "It is a check of the person's use of alcohol.",
+      "h2": "In North Dakota, everyone convicted of DUI must have an alcohol addiction evaluation and complete any treatment that is recommended.",
+      "p": "Right. An addiction evaluation and any recommended treatment."
+    },
+    "es": {
+      "q": "En Dakota del Norte, además de multas y cárcel, ¿qué debe hacer toda persona condenada por DUI?",
+      "o": [
+        "Hacerse una evaluación de adicción al alcohol y completar el tratamiento que se recomiende",
+        "Repetir solo el examen de la vista",
+        "Pagar por un nuevo diseño de placa",
+        "Nada más"
+      ],
+      "h1": "Es una revisión del uso de alcohol de la persona.",
+      "h2": "En Dakota del Norte, toda persona condenada por DUI debe hacerse una evaluación de adicción al alcohol y completar cualquier tratamiento que se recomiende.",
+      "p": "Correcto. Una evaluación de adicción y el tratamiento recomendado."
+    }
+  },
+  {
+    "id": "nd-165",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 37,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, a driver refuses an alcohol test or is convicted of DUI. What must the driver then show about insurance?",
+      "o": [
+        "Nothing; insurance does not change",
+        "A letter from a friend",
+        "Proof of financial responsibility, called SR-22 insurance",
+        "Proof the car is paid off"
+      ],
+      "h1": "It is a special filing that proves you are insured.",
+      "h2": "In North Dakota, after refusing an alcohol test or a DUI conviction, the law requires you to show proof of financial responsibility (SR-22 insurance), and your insurance rates may double or triple.",
+      "p": "Right. You must show SR-22 proof of insurance."
+    },
+    "es": {
+      "q": "En Dakota del Norte, un conductor se niega a una prueba de alcohol o es condenado por DUI. ¿Qué debe mostrar después sobre su seguro?",
+      "o": [
+        "Nada; el seguro no cambia",
+        "Una carta de un amigo",
+        "Prueba de responsabilidad financiera, llamada seguro SR-22",
+        "Prueba de que el carro está pagado"
+      ],
+      "h1": "Es un documento especial que prueba que usted tiene seguro.",
+      "h2": "En Dakota del Norte, después de negarse a una prueba de alcohol o de una condena por DUI, la ley exige mostrar prueba de responsabilidad financiera (seguro SR-22), y el costo de su seguro puede duplicarse o triplicarse.",
+      "p": "Correcto. Debe mostrar la prueba de seguro SR-22."
+    }
+  },
+  {
+    "id": "nd-166",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 37,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, an adult passenger wants to drink a beer while you drive. Is it legal?",
+      "o": [
+        "No, no one in a vehicle, driver or passenger, may drink alcohol",
+        "Yes, only the driver may not drink",
+        "Yes, if the windows are closed",
+        "Yes, on rural roads"
+      ],
+      "h1": "The law covers everyone in or on the vehicle.",
+      "h2": "In North Dakota, it is illegal for anyone, driver or passenger, to drink alcohol in or on a motor vehicle.",
+      "p": "Right. No one in the vehicle may drink."
+    },
+    "es": {
+      "q": "En Dakota del Norte, un pasajero adulto quiere tomar una cerveza mientras usted maneja. ¿Es legal?",
+      "o": [
+        "No, nadie en un vehículo, ni el conductor ni los pasajeros, puede tomar alcohol",
+        "Sí, solo el conductor no puede tomar",
+        "Sí, si las ventanas están cerradas",
+        "Sí, en caminos rurales"
+      ],
+      "h1": "La ley cubre a todos los que van dentro o encima del vehículo.",
+      "h2": "En Dakota del Norte, es ilegal que cualquier persona, conductor o pasajero, tome bebidas alcohólicas dentro o encima de un vehículo motorizado.",
+      "p": "Correcto. Nadie en el vehículo puede tomar."
+    }
+  },
+  {
+    "id": "nd-167",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 40,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, a driver's record shows 15 points and the license is suspended. How long is the suspension?",
+      "o": [
+        "7 days",
+        "15 days",
+        "1 year",
+        "28 days"
+      ],
+      "h1": "It is 7 days for each point over 11.",
+      "h2": "In North Dakota, a driver with 13 or more points is suspended 7 days for each point over 11, so 15 points means 4 times 7, or 28 days.",
+      "p": "Right. 15 points means 28 days."
+    },
+    "es": {
+      "q": "En Dakota del Norte, el récord de un conductor muestra 15 puntos y le suspenden la licencia. ¿Cuánto dura la suspensión?",
+      "o": [
+        "7 días",
+        "15 días",
+        "1 año",
+        "28 días"
+      ],
+      "h1": "Son 7 días por cada punto por encima de 11.",
+      "h2": "En Dakota del Norte, a un conductor con 13 puntos o más le suspenden 7 días por cada punto por encima de 11, así que 15 puntos son 4 por 7, o 28 días.",
+      "p": "Correcto. 15 puntos son 28 días."
+    }
+  },
+  {
+    "id": "nd-168",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 40,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, you may take a driver improvement course instead of getting points for a ticket. For which tickets is this allowed?",
+      "o": [
+        "Any violation, even DUI",
+        "Violations worth 5 points or less",
+        "Only violations worth 10 points or more",
+        "Only parking tickets"
+      ],
+      "h1": "It is for smaller violations only.",
+      "h2": "In North Dakota, you may take an approved driver improvement course instead of getting points for a violation worth five points or less.",
+      "p": "Right. Only for violations of 5 points or less."
+    },
+    "es": {
+      "q": "En Dakota del Norte, usted puede tomar un curso de mejoramiento para conductores en lugar de recibir puntos por una multa. ¿Para qué multas se permite?",
+      "o": [
+        "Cualquier infracción, incluso DUI",
+        "Infracciones de 5 puntos o menos",
+        "Solo infracciones de 10 puntos o más",
+        "Solo multas de estacionamiento"
+      ],
+      "h1": "Es solo para infracciones menores.",
+      "h2": "En Dakota del Norte, usted puede tomar un curso aprobado de mejoramiento para conductores en lugar de recibir puntos por una infracción de cinco puntos o menos.",
+      "p": "Correcto. Solo para infracciones de 5 puntos o menos."
+    }
+  },
+  {
+    "id": "nd-169",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 40,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, how often may you choose a driver improvement course instead of points on your record?",
+      "o": [
+        "Once every week",
+        "Once every 12 months",
+        "As often as you like",
+        "Only once in your life"
+      ],
+      "h1": "Think of one year.",
+      "h2": "In North Dakota, the choice to take a driver improvement course instead of points can be used once every 12 months.",
+      "p": "Right. Once every 12 months."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cada cuánto puede elegir un curso de mejoramiento para conductores en lugar de puntos en su récord?",
+      "o": [
+        "Una vez cada semana",
+        "Una vez cada 12 meses",
+        "Las veces que quiera",
+        "Solo una vez en la vida"
+      ],
+      "h1": "Piense en un año.",
+      "h2": "En Dakota del Norte, la opción de tomar un curso de mejoramiento para conductores en lugar de recibir puntos se puede usar una vez cada 12 meses.",
+      "p": "Correcto. Una vez cada 12 meses."
+    }
+  },
+  {
+    "id": "nd-170",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 40,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, a parent signed for a 16-year-old's license and now takes back that consent. What happens?",
+      "o": [
+        "Nothing; consent cannot be taken back",
+        "The teen gets two points",
+        "The teen must retake driver education",
+        "The license is canceled"
+      ],
+      "h1": "The parent's signature is what keeps the minor's license valid.",
+      "h2": "In North Dakota, the parent or guardian who consented can withdraw consent at any time, and the minor's permit or license is then canceled until consent is given again or the teen turns 18.",
+      "p": "Right. The license is canceled."
+    },
+    "es": {
+      "q": "En Dakota del Norte, un padre firmó para la licencia de su hijo de 16 años y ahora retira ese permiso. ¿Qué pasa?",
+      "o": [
+        "Nada; el permiso no se puede retirar",
+        "El joven recibe dos puntos",
+        "El joven debe repetir la educación vial",
+        "La licencia se cancela"
+      ],
+      "h1": "La firma del padre es lo que mantiene válida la licencia del menor.",
+      "h2": "En Dakota del Norte, el padre o tutor que dio su consentimiento puede retirarlo en cualquier momento, y el permiso o la licencia del menor se cancela hasta que se dé el consentimiento otra vez o el joven cumpla 18 años.",
+      "p": "Correcto. La licencia se cancela."
+    }
+  },
+  {
+    "id": "nd-171",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 34,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, what does the child passenger law require for children ages 8 through 17?",
+      "o": [
+        "They must be secured in a seat belt or a child restraint",
+        "Nothing; the law ends at age 8",
+        "They must ride in a booster seat",
+        "They must sit in the front seat"
+      ],
+      "h1": "The law does not stop at age 8.",
+      "h2": "In North Dakota, children ages 8 through 17 must be properly secured in a seat belt or a child restraint.",
+      "p": "Right. A seat belt or child restraint for ages 8 through 17."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿qué exige la ley de pasajeros infantiles para niños de 8 a 17 años?",
+      "o": [
+        "Que vayan asegurados con cinturón de seguridad o un asiento de seguridad",
+        "Nada; la ley termina a los 8 años",
+        "Que vayan en un asiento elevado",
+        "Que se sienten adelante"
+      ],
+      "h1": "La ley no termina a los 8 años.",
+      "h2": "En Dakota del Norte, los niños de 8 a 17 años deben ir bien asegurados con un cinturón de seguridad o un asiento de seguridad.",
+      "p": "Correcto. Cinturón o asiento de seguridad de 8 a 17 años."
+    }
+  },
+  {
+    "id": "nd-172",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 34,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, the handbook says a child should be at least how big and how old before moving from a car seat to a booster seat?",
+      "o": [
+        "At least 20 pounds and 1 year old",
+        "At least 80 pounds and 10 years old",
+        "At least 40 pounds and at least 4 years old",
+        "At least 57 inches and 8 years old"
+      ],
+      "h1": "Think of a preschool child.",
+      "h2": "In North Dakota, the handbook says children should be at least 40 pounds and at least 4 years old to move from a car seat to a booster seat.",
+      "p": "Right. At least 40 pounds and 4 years old."
+    },
+    "es": {
+      "q": "En Dakota del Norte, según el manual, ¿qué tamaño y edad debe tener un niño, como mínimo, para pasar de una silla de auto a un asiento elevado (booster)?",
+      "o": [
+        "Al menos 20 libras y 1 año",
+        "Al menos 80 libras y 10 años",
+        "Al menos 40 libras y al menos 4 años",
+        "Al menos 57 pulgadas y 8 años"
+      ],
+      "h1": "Piense en un niño de edad preescolar.",
+      "h2": "En Dakota del Norte, el manual dice que los niños deben pesar al menos 40 libras y tener al menos 4 años para pasar de una silla de auto a un asiento elevado.",
+      "p": "Correcto. Al menos 40 libras y 4 años."
+    }
+  },
+  {
+    "id": "nd-173",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 34,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, you are driving a pickup truck and have more children than seats. May some ride in the cargo area (the truck bed)?",
+      "o": [
+        "Yes, on short trips",
+        "Yes, if they sit down",
+        "Yes, if an adult rides with them",
+        "No, never let children ride in the cargo area of a pickup"
+      ],
+      "h1": "The handbook says this is never safe.",
+      "h2": "In North Dakota, the handbook says never to allow children to ride in the cargo area of a pickup truck.",
+      "p": "Right. Never in the cargo area."
+    },
+    "es": {
+      "q": "En Dakota del Norte, usted maneja una camioneta pickup y tiene más niños que asientos. ¿Pueden algunos ir en la parte de carga (la caja)?",
+      "o": [
+        "Sí, en viajes cortos",
+        "Sí, si van sentados",
+        "Sí, si un adulto va con ellos",
+        "No, nunca deje que los niños vayan en la parte de carga de una pickup"
+      ],
+      "h1": "El manual dice que esto nunca es seguro.",
+      "h2": "En Dakota del Norte, el manual dice que nunca se debe permitir que los niños vayan en la parte de carga de una camioneta pickup.",
+      "p": "Correcto. Nunca en la parte de carga."
+    }
+  },
+  {
+    "id": "nd-174",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 34,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, what are the two parts of using a child car seat correctly?",
+      "o": [
+        "Put the seat in front of the air bag and leave the straps loose",
+        "Set the seat on the seat without tying it in",
+        "Install the seat tightly with the seat belt or LATCH system, and buckle the child in snugly",
+        "Use a pillow under the child instead of straps"
+      ],
+      "h1": "Both the seat and the child must be held firmly.",
+      "h2": "In North Dakota, using a child restraint correctly means installing the car seat tightly with the seat belt or LATCH system and snugly securing the child in the seat.",
+      "p": "Right. A tight seat and a snug child."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuáles son las dos partes de usar bien una silla de auto para niños?",
+      "o": [
+        "Poner la silla frente a la bolsa de aire y dejar las correas flojas",
+        "Poner la silla sobre el asiento sin sujetarla",
+        "Instalar la silla bien firme con el cinturón o el sistema LATCH, y abrochar al niño bien ajustado",
+        "Usar una almohada bajo el niño en vez de correas"
+      ],
+      "h1": "Tanto la silla como el niño deben quedar bien sujetos.",
+      "h2": "En Dakota del Norte, usar bien una silla de auto significa instalarla firmemente con el cinturón de seguridad o el sistema LATCH y asegurar al niño bien ajustado en la silla.",
+      "p": "Correcto. Silla firme y niño bien ajustado."
+    }
+  },
+  {
+    "id": "nd-175",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 31,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, about how far does a fully loaded tractor-trailer need to stop on dry pavement?",
+      "o": [
+        "More than 400 feet, longer than a football field",
+        "About 50 feet",
+        "About 100 feet",
+        "The same distance as a car"
+      ],
+      "h1": "It is more than the length of a football field.",
+      "h2": "In North Dakota, the handbook says a fully loaded tractor-trailer may need more than 400 feet on dry pavement to stop, more than the length of a football field.",
+      "p": "Right. More than 400 feet."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿aproximadamente qué distancia necesita un tráiler (camión de 18 ruedas) completamente cargado para detenerse en pavimento seco?",
+      "o": [
+        "Más de 400 pies, más que un campo de fútbol americano",
+        "Unos 50 pies",
+        "Unos 100 pies",
+        "La misma distancia que un carro"
+      ],
+      "h1": "Es más que el largo de un campo de fútbol americano.",
+      "h2": "En Dakota del Norte, el manual dice que un tráiler completamente cargado puede necesitar más de 400 pies en pavimento seco para detenerse, más que el largo de un campo de fútbol americano.",
+      "p": "Correcto. Más de 400 pies."
+    }
+  },
+  {
+    "id": "nd-176",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 31,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, a tractor-trailer's blind spot behind it can reach how far back?",
+      "o": [
+        "Up to 5 feet",
+        "Up to 20 feet",
+        "Up to 200 feet",
+        "There is no blind spot behind a truck"
+      ],
+      "h1": "It is much longer than the truck itself.",
+      "h2": "In North Dakota, the handbook says a tractor-trailer's blind spot can reach up to 200 feet behind it, and up to 20 feet in front of the cab.",
+      "p": "Right. Up to 200 feet behind."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿hasta qué distancia detrás de un tráiler puede llegar su punto ciego?",
+      "o": [
+        "Hasta 5 pies",
+        "Hasta 20 pies",
+        "Hasta 200 pies",
+        "Un camión no tiene punto ciego atrás"
+      ],
+      "h1": "Es mucho más largo que el mismo camión.",
+      "h2": "En Dakota del Norte, el manual dice que el punto ciego de un tráiler puede llegar hasta 200 pies detrás de él, y hasta 20 pies delante de la cabina.",
+      "p": "Correcto. Hasta 200 pies atrás."
+    }
+  },
+  {
+    "id": "nd-177",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 31,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, when any vehicle turns, how do its rear wheels move compared with the front wheels?",
+      "o": [
+        "They follow a shorter path, cutting closer to the inside of the turn",
+        "They follow the exact same path",
+        "They follow a wider path",
+        "They do not move during a turn"
+      ],
+      "h1": "That is why long trucks swing wide.",
+      "h2": "In North Dakota, the handbook explains that the rear wheels of a turning vehicle follow a shorter path than the front wheels, and the longer the vehicle, the bigger the difference.",
+      "p": "Right. The rear wheels take a shorter path."
+    },
+    "es": {
+      "q": "En Dakota del Norte, cuando un vehículo da vuelta, ¿cómo se mueven sus llantas traseras comparadas con las delanteras?",
+      "o": [
+        "Siguen un camino más corto, más cerca del lado interior de la vuelta",
+        "Siguen exactamente el mismo camino",
+        "Siguen un camino más amplio",
+        "No se mueven durante la vuelta"
+      ],
+      "h1": "Por eso los camiones largos abren mucho la vuelta.",
+      "h2": "En Dakota del Norte, el manual explica que las llantas traseras de un vehículo que da vuelta siguen un camino más corto que las delanteras, y mientras más largo el vehículo, mayor es la diferencia.",
+      "p": "Correcto. Las llantas traseras siguen un camino más corto."
+    }
+  },
+  {
+    "id": "nd-178",
+    "scope": "ND",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 32,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, on a multi-lane highway, which lane do tractor-trailers usually stay in?",
+      "o": [
+        "The far left lane",
+        "The shoulder",
+        "The far right lane only",
+        "The center lane"
+      ],
+      "h1": "It helps local traffic get on and off the highway.",
+      "h2": "In North Dakota, the handbook says tractor-trailers stay in the center lane on multi-lane highways to help local traffic get on and off, and to have room to change lanes in an emergency.",
+      "p": "Right. Trucks usually stay in the center lane."
+    },
+    "es": {
+      "q": "En Dakota del Norte, en una carretera de varios carriles, ¿en qué carril suelen ir los tráileres?",
+      "o": [
+        "El carril de la extrema izquierda",
+        "El acotamiento",
+        "Solo el carril de la extrema derecha",
+        "El carril del centro"
+      ],
+      "h1": "Ayuda al tráfico local a entrar y salir de la carretera.",
+      "h2": "En Dakota del Norte, el manual dice que los tráileres van en el carril del centro en carreteras de varios carriles para ayudar al tráfico local a entrar y salir, y para tener espacio para cambiar de carril en una emergencia.",
+      "p": "Correcto. Los camiones suelen ir en el carril del centro."
+    }
+  },
+  {
+    "id": "nd-179",
+    "scope": "ND",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 32,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, on which side should you pass a tractor-trailer?",
+      "o": [
+        "On the right, if that lane is open",
+        "Always on the left, and pass it completely",
+        "On the shoulder",
+        "Either side, then stay beside it"
+      ],
+      "h1": "Pass where the truck driver can see you best, and do not stay alongside.",
+      "h2": "In North Dakota, the handbook says always pass a tractor-trailer on the left side and pass it completely, without lingering beside it.",
+      "p": "Right. Pass on the left, completely."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿por qué lado debe rebasar a un tráiler?",
+      "o": [
+        "Por la derecha, si ese carril está libre",
+        "Siempre por la izquierda, y rebasarlo por completo",
+        "Por el acotamiento",
+        "Por cualquier lado, y luego quedarse a su lado"
+      ],
+      "h1": "Rebase por donde el camionero lo ve mejor, y no se quede a su lado.",
+      "h2": "En Dakota del Norte, el manual dice que siempre se debe rebasar a un tráiler por el lado izquierdo y por completo, sin quedarse a su lado.",
+      "p": "Correcto. Por la izquierda y por completo."
+    }
+  },
+  {
+    "id": "nd-180",
+    "scope": "ND",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 32,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, a motorcycle is in your lane and there seems to be room for your car beside it. What should you do?",
+      "o": [
+        "Drive beside it in the same lane",
+        "Give the motorcycle the full lane width; do not share the lane",
+        "Honk so it moves over",
+        "Pass it inside the same lane"
+      ],
+      "h1": "The rider needs the whole lane to move safely.",
+      "h2": "In North Dakota, you must allow a motorcycle a full lane width and never share the lane with it, because the rider needs room to move safely.",
+      "p": "Right. A motorcycle gets the whole lane."
+    },
+    "es": {
+      "q": "En Dakota del Norte, hay una motocicleta en su carril y parece que hay espacio para su carro a su lado. ¿Qué debe hacer?",
+      "o": [
+        "Manejar a su lado en el mismo carril",
+        "Darle a la motocicleta todo el ancho del carril; no compartir el carril",
+        "Tocar la bocina para que se mueva",
+        "Rebasarla dentro del mismo carril"
+      ],
+      "h1": "El motociclista necesita todo el carril para moverse con seguridad.",
+      "h2": "En Dakota del Norte, debe darle a una motocicleta todo el ancho del carril y nunca compartir el carril con ella, porque el motociclista necesita espacio para moverse con seguridad.",
+      "p": "Correcto. La motocicleta tiene derecho a todo el carril."
+    }
+  },
+  {
+    "id": "nd-181",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 33,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, how much following distance should you leave behind a motorcycle?",
+      "o": [
+        "One second",
+        "Half a second",
+        "No extra space is needed",
+        "Three or four seconds"
+      ],
+      "h1": "Give the rider time to react or stop in an emergency.",
+      "h2": "In North Dakota, the handbook says to leave three or four seconds of following distance behind a motorcycle.",
+      "p": "Right. Three or four seconds."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuánta distancia debe dejar detrás de una motocicleta?",
+      "o": [
+        "Un segundo",
+        "Medio segundo",
+        "No hace falta espacio extra",
+        "Tres o cuatro segundos"
+      ],
+      "h1": "Dele al motociclista tiempo para reaccionar o parar en una emergencia.",
+      "h2": "En Dakota del Norte, el manual dice que debe dejar tres o cuatro segundos de distancia detrás de una motocicleta.",
+      "p": "Correcto. Tres o cuatro segundos."
+    }
+  },
+  {
+    "id": "nd-182",
+    "scope": "ND",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 33,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, when may you drive in a marked bicycle lane?",
+      "o": [
+        "Only to make a right turn, after you signal and look",
+        "To pass slow traffic",
+        "To park for a moment",
+        "Whenever no bicycle is in sight"
+      ],
+      "h1": "It has to do with turning at the corner.",
+      "h2": "In North Dakota, avoid driving in a bicycle lane except to make a right turn, and signal and look before you move into it.",
+      "p": "Right. Only to make a right turn."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuándo puede manejar en un carril marcado para bicicletas?",
+      "o": [
+        "Solo para dar vuelta a la derecha, después de señalar y mirar",
+        "Para rebasar al tráfico lento",
+        "Para estacionarse un momento",
+        "Siempre que no se vea ninguna bicicleta"
+      ],
+      "h1": "Tiene que ver con dar vuelta en la esquina.",
+      "h2": "En Dakota del Norte, evite manejar en un carril para bicicletas excepto para dar vuelta a la derecha, y señale y mire antes de entrar en él.",
+      "p": "Correcto. Solo para dar vuelta a la derecha."
+    }
+  },
+  {
+    "id": "nd-183",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 38,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, a motorized bicycle (moped) must have a small engine. How fast may it be able to go on level ground?",
+      "o": [
+        "No more than 55 mph",
+        "No more than 45 mph",
+        "No more than 30 mph",
+        "Any speed"
+      ],
+      "h1": "It is the same as many city speed limits plus a little.",
+      "h2": "In North Dakota, a motorized bicycle has an engine of no more than 49.98 cc and cannot go faster than 30 mph on a level surface.",
+      "p": "Right. No more than 30 mph."
+    },
+    "es": {
+      "q": "En Dakota del Norte, una bicicleta motorizada (moped) debe tener un motor pequeño. ¿A qué velocidad puede ir, como máximo, en terreno plano?",
+      "o": [
+        "No más de 55 mph",
+        "No más de 45 mph",
+        "No más de 30 mph",
+        "A cualquier velocidad"
+      ],
+      "h1": "Es un poco más que muchos límites de la ciudad.",
+      "h2": "En Dakota del Norte, una bicicleta motorizada tiene un motor de no más de 49.98 cc y no puede ir a más de 30 mph en terreno plano.",
+      "p": "Correcto. No más de 30 mph."
+    }
+  },
+  {
+    "id": "nd-184",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 38,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, who must wear an approved safety helmet to ride a motorized bicycle (moped)?",
+      "o": [
+        "Only riders under 14",
+        "No one",
+        "Only riders over 65",
+        "Riders under 18"
+      ],
+      "h1": "The law covers young riders.",
+      "h2": "In North Dakota, anyone under 18 must wear an approved safety helmet to ride a motorized bicycle, and the handbook advises a helmet at any age.",
+      "p": "Right. Riders under 18 must wear a helmet."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿quién debe usar un casco de seguridad aprobado para andar en bicicleta motorizada (moped)?",
+      "o": [
+        "Solo los menores de 14 años",
+        "Nadie",
+        "Solo los mayores de 65 años",
+        "Los menores de 18 años"
+      ],
+      "h1": "La ley cubre a los conductores jóvenes.",
+      "h2": "En Dakota del Norte, toda persona menor de 18 años debe usar un casco de seguridad aprobado para andar en bicicleta motorizada, y el manual aconseja usar casco a cualquier edad.",
+      "p": "Correcto. Los menores de 18 deben usar casco."
+    }
+  },
+  {
+    "id": "nd-185",
+    "scope": "ND",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 38,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, how many bicycle or moped riders may ride side by side?",
+      "o": [
+        "Any number",
+        "Three",
+        "No more than two; single file is safest",
+        "They must never ride on the road"
+      ],
+      "h1": "Single file is safest, but there is a limit.",
+      "h2": "In North Dakota, bicycle and motorized bicycle riders may ride no more than two side by side, and single file is safest.",
+      "p": "Right. No more than two side by side."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuántos ciclistas o conductores de moped pueden ir lado a lado?",
+      "o": [
+        "Cualquier número",
+        "Tres",
+        "No más de dos; en fila de uno es lo más seguro",
+        "Nunca pueden ir por la calle"
+      ],
+      "h1": "En fila de uno es lo más seguro, pero hay un límite.",
+      "h2": "En Dakota del Norte, los ciclistas y conductores de bicicleta motorizada pueden ir no más de dos lado a lado, y en fila de uno es lo más seguro.",
+      "p": "Correcto. No más de dos lado a lado."
+    }
+  },
+  {
+    "id": "nd-186",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 38,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, what lights and reflectors must a bicycle have at night?",
+      "o": [
+        "Only a bell",
+        "A headlight seen from 500 feet and a red reflector on the rear",
+        "Only reflectors on the pedals",
+        "A flashing blue light"
+      ],
+      "h1": "Others must see it from the front and from behind.",
+      "h2": "In North Dakota, a bicycle at night must have a headlight visible from 500 feet and a red reflector on the rear; a taillight, if it has one, must be seen from 500 feet.",
+      "p": "Right. A 500-foot headlight and a red rear reflector."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿qué luces y reflectores debe tener una bicicleta de noche?",
+      "o": [
+        "Solo una campana",
+        "Un faro que se vea a 500 pies y un reflector rojo atrás",
+        "Solo reflectores en los pedales",
+        "Una luz azul intermitente"
+      ],
+      "h1": "Los demás deben verla de frente y desde atrás.",
+      "h2": "En Dakota del Norte, una bicicleta de noche debe tener un faro visible a 500 pies y un reflector rojo atrás; si tiene luz trasera, debe verse a 500 pies.",
+      "p": "Correcto. Un faro de 500 pies y un reflector rojo atrás."
+    }
+  },
+  {
+    "id": "nd-187",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 39,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, in general, on which paved highways may a licensed driver operate a registered off-highway vehicle (OHV)?",
+      "o": [
+        "Paved highways designated and posted at 55 mph or less",
+        "Any interstate highway",
+        "Any paved highway at any speed",
+        "No paved roads at all"
+      ],
+      "h1": "The posted speed limit must be low enough.",
+      "h2": "In North Dakota, a licensed driver may operate a registered off-highway vehicle on gravel or dirt roads and on paved highways designated and posted at 55 mph or less; a driver over 16 may take a registered class III OHV on paved highways posted up to 65 mph.",
+      "p": "Right. Paved highways posted at 55 mph or less."
+    },
+    "es": {
+      "q": "En Dakota del Norte, en general, ¿por qué carreteras pavimentadas puede un conductor con licencia manejar un vehículo todoterreno (OHV) registrado?",
+      "o": [
+        "Carreteras pavimentadas designadas y con límite de 55 mph o menos",
+        "Cualquier carretera interestatal",
+        "Cualquier carretera pavimentada a cualquier velocidad",
+        "Por ninguna carretera pavimentada"
+      ],
+      "h1": "El límite de velocidad marcado debe ser bastante bajo.",
+      "h2": "En Dakota del Norte, un conductor con licencia puede manejar un vehículo todoterreno registrado en caminos de grava o tierra y en carreteras pavimentadas designadas y con límite de 55 mph o menos; un conductor mayor de 16 años puede llevar un OHV clase III registrado en carreteras pavimentadas con límite de hasta 65 mph.",
+      "p": "Correcto. Carreteras pavimentadas con límite de 55 mph o menos."
+    }
+  },
+  {
+    "id": "nd-188",
+    "scope": "ND",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 39,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, you are on a snowmobile and must cross a road. What must you do?",
+      "o": [
+        "Speed up and cross at an angle",
+        "Ride along the shoulder until you find a gap",
+        "Stop before the shoulder, yield to all traffic, and cross at a right angle when it is clear",
+        "Cross anywhere on a divided highway"
+      ],
+      "h1": "Stop first, then go straight across.",
+      "h2": "In North Dakota, a snowmobile must come to a complete stop before reaching the shoulder, yield to all traffic, and cross at right angles to the road when it is clear; on a divided highway, cross only at intersections.",
+      "p": "Right. Stop, yield, and cross straight across."
+    },
+    "es": {
+      "q": "En Dakota del Norte, usted va en una motonieve y debe cruzar una carretera. ¿Qué debe hacer?",
+      "o": [
+        "Acelerar y cruzar en diagonal",
+        "Ir por el acotamiento hasta encontrar un espacio",
+        "Parar antes del acotamiento, ceder el paso a todo el tráfico y cruzar en ángulo recto cuando esté libre",
+        "Cruzar por cualquier parte en una carretera dividida"
+      ],
+      "h1": "Pare primero y luego cruce derecho.",
+      "h2": "En Dakota del Norte, una motonieve debe parar por completo antes de llegar al acotamiento, ceder el paso a todo el tráfico y cruzar en ángulo recto cuando el camino esté libre; en una carretera dividida, solo puede cruzar en las intersecciones.",
+      "p": "Correcto. Pare, ceda el paso y cruce derecho."
+    }
+  },
+  {
+    "id": "nd-189",
+    "scope": "ND",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 39,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, you ride a snowmobile in the ditch beside a road. Which way must you go?",
+      "o": [
+        "The same direction as the traffic on that side of the road",
+        "Against traffic, so you can see cars coming",
+        "Any direction",
+        "Only on the side nearest the center line"
+      ],
+      "h1": "Move with the cars, not against them.",
+      "h2": "In North Dakota, a snowmobile in a ditch alongside the road must travel in the same direction as the roadway traffic.",
+      "p": "Right. Go the same way as traffic."
+    },
+    "es": {
+      "q": "En Dakota del Norte, usted va en motonieve por la zanja junto a una carretera. ¿En qué dirección debe ir?",
+      "o": [
+        "En la misma dirección que el tráfico de ese lado de la carretera",
+        "Contra el tráfico, para ver los carros que vienen",
+        "En cualquier dirección",
+        "Solo por el lado más cerca de la línea central"
+      ],
+      "h1": "Vaya con los carros, no en contra.",
+      "h2": "En Dakota del Norte, una motonieve en la zanja junto a la carretera debe ir en la misma dirección que el tráfico de la carretera.",
+      "p": "Correcto. Vaya en la misma dirección que el tráfico."
+    }
+  },
+  {
+    "id": "nd-190",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 39,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, may you ride a snowmobile in the median or ditch of an Interstate highway?",
+      "o": [
+        "Yes, in the ditch only",
+        "Yes, in the median only",
+        "Yes, from November to April",
+        "No, never; the Interstate right of way includes the median, shoulders and ditches"
+      ],
+      "h1": "The whole Interstate right of way is closed to snowmobiles.",
+      "h2": "In North Dakota, you may never ride a snowmobile on the right of way of an Interstate highway, which includes the road, the median, the shoulders and the ditches.",
+      "p": "Right. Never on the Interstate right of way."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿puede andar en motonieve por el camellón central o la zanja de una carretera interestatal?",
+      "o": [
+        "Sí, solo en la zanja",
+        "Sí, solo en el camellón",
+        "Sí, de noviembre a abril",
+        "No, nunca; el derecho de vía de la interestatal incluye el camellón, los acotamientos y las zanjas"
+      ],
+      "h1": "Todo el derecho de vía de la interestatal está cerrado para las motonieves.",
+      "h2": "En Dakota del Norte, nunca puede andar en motonieve en el derecho de vía de una carretera interestatal, que incluye el camino, el camellón central, los acotamientos y las zanjas.",
+      "p": "Correcto. Nunca en el derecho de vía de la interestatal."
+    }
+  },
+  {
+    "id": "nd-191",
+    "scope": "ND",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 37,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, a person on foot crosses a road where there is no crosswalk. Who has the right of way?",
+      "o": [
+        "The person on foot",
+        "The vehicles on the road",
+        "Whoever is faster",
+        "The person on foot, only at night"
+      ],
+      "h1": "Walkers have the right of way only in crosswalks.",
+      "h2": "In North Dakota, a pedestrian crossing where there is no crosswalk must yield the right of way to all vehicles on the road.",
+      "p": "Right. Outside a crosswalk, the walker must yield to vehicles."
+    },
+    "es": {
+      "q": "En Dakota del Norte, una persona a pie cruza una calle donde no hay cruce peatonal. ¿Quién tiene el derecho de paso?",
+      "o": [
+        "La persona a pie",
+        "Los vehículos que van por la calle",
+        "El que sea más rápido",
+        "La persona a pie, solo de noche"
+      ],
+      "h1": "Los peatones tienen el derecho de paso solo en los cruces peatonales.",
+      "h2": "En Dakota del Norte, un peatón que cruza donde no hay cruce peatonal debe ceder el paso a todos los vehículos de la calle.",
+      "p": "Correcto. Fuera del cruce peatonal, el peatón cede el paso a los vehículos."
+    }
+  },
+  {
+    "id": "nd-192",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 30,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, your windshield wipers stop working in heavy rain. What does the handbook say to do?",
+      "o": [
+        "Slow down and look out your side window as you leave the road",
+        "Keep driving at the same speed",
+        "Stop right away in your lane",
+        "Turn on your high beams and keep going"
+      ],
+      "h1": "You still need to see while you get off the road.",
+      "h2": "In North Dakota, if your wipers fail in rain or snow, slow down and put your head out the side window so you can see as you leave the road.",
+      "p": "Right. Slow down, look out the side window, and leave the road."
+    },
+    "es": {
+      "q": "En Dakota del Norte, sus limpiaparabrisas dejan de funcionar con mucha lluvia. ¿Qué dice el manual que debe hacer?",
+      "o": [
+        "Bajar la velocidad y mirar por la ventana lateral mientras sale del camino",
+        "Seguir a la misma velocidad",
+        "Parar de inmediato en su carril",
+        "Prender las luces altas y seguir"
+      ],
+      "h1": "Necesita ver mientras sale del camino.",
+      "h2": "En Dakota del Norte, si los limpiaparabrisas fallan con lluvia o nieve, baje la velocidad y saque la cabeza por la ventana lateral para poder ver mientras sale del camino.",
+      "p": "Correcto. Baje la velocidad, mire por la ventana lateral y salga del camino."
+    }
+  },
+  {
+    "id": "nd-193",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 30,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, why should you never turn the ignition to the LOCK position while the car is moving?",
+      "o": [
+        "The radio will stop",
+        "The doors will open",
+        "The steering will lock if you try to turn the wheel",
+        "The headlights will get brighter"
+      ],
+      "h1": "Think about what happens to the steering wheel.",
+      "h2": "In North Dakota, never turn the ignition to LOCK while the vehicle is moving, because the steering will lock when you try to turn the wheel.",
+      "p": "Right. The steering would lock."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿por qué nunca debe poner el encendido en la posición LOCK (bloqueo) mientras el carro está en movimiento?",
+      "o": [
+        "Se apagará el radio",
+        "Se abrirán las puertas",
+        "El volante se bloqueará si intenta girarlo",
+        "Los faros alumbrarán más"
+      ],
+      "h1": "Piense en lo que pasa con el volante.",
+      "h2": "En Dakota del Norte, nunca ponga el encendido en LOCK mientras el vehículo está en movimiento, porque el volante se bloqueará cuando intente girarlo.",
+      "p": "Correcto. El volante se bloquearía."
+    }
+  },
+  {
+    "id": "nd-194",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 30,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, an oncoming car crosses into your lane. What should you do first?",
+      "o": [
+        "Speed up to get past it",
+        "Swerve into the left lane",
+        "Stop in your lane and wait",
+        "Slow down and flash your headlights to warn the driver"
+      ],
+      "h1": "Try to get the other driver's attention while you lose speed.",
+      "h2": "In North Dakota, if an oncoming car comes into your lane, slow down and flash your headlights to warn the driver; if it keeps coming, pull as far right as you can or steer off the road to the right.",
+      "p": "Right. Slow down and flash your lights, then move right."
+    },
+    "es": {
+      "q": "En Dakota del Norte, un carro que viene de frente se mete en su carril. ¿Qué debe hacer primero?",
+      "o": [
+        "Acelerar para pasarlo",
+        "Desviarse al carril de la izquierda",
+        "Parar en su carril y esperar",
+        "Bajar la velocidad y hacer cambio de luces para avisar al conductor"
+      ],
+      "h1": "Trate de llamar la atención del otro conductor mientras baja la velocidad.",
+      "h2": "En Dakota del Norte, si un carro que viene de frente entra en su carril, baje la velocidad y haga cambio de luces para avisar al conductor; si sigue viniendo, muévase lo más a la derecha que pueda o salga del camino por la derecha.",
+      "p": "Correcto. Baje la velocidad, haga cambio de luces y muévase a la derecha."
+    }
+  },
+  {
+    "id": "nd-195",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 42,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, what happens to your braking distance if you double your speed?",
+      "o": [
+        "It stays the same",
+        "It becomes four times as long",
+        "It doubles",
+        "It gets shorter"
+      ],
+      "h1": "It grows much faster than your speed.",
+      "h2": "In North Dakota, the handbook says doubling your speed will quadruple your braking distance, making it four times as long.",
+      "p": "Right. Double the speed, four times the braking distance."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿qué pasa con su distancia de frenado si duplica su velocidad?",
+      "o": [
+        "Queda igual",
+        "Se vuelve cuatro veces más larga",
+        "Se duplica",
+        "Se hace más corta"
+      ],
+      "h1": "Crece mucho más rápido que su velocidad.",
+      "h2": "En Dakota del Norte, el manual dice que duplicar la velocidad cuadruplica la distancia de frenado, es decir, la hace cuatro veces más larga.",
+      "p": "Correcto. Doble velocidad, cuatro veces la distancia de frenado."
+    }
+  },
+  {
+    "id": "nd-196",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 42,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, you are towing a trailer, so your vehicle weighs twice as much. What happens to your braking distance?",
+      "o": [
+        "It doubles",
+        "It stays the same",
+        "It gets shorter",
+        "It becomes ten times as long"
+      ],
+      "h1": "More weight means a longer stop, in the same proportion.",
+      "h2": "In North Dakota, the handbook says doubling your vehicle's weight will double your braking distance, so a large vehicle or one towing a trailer takes longer to stop.",
+      "p": "Right. Twice the weight, twice the braking distance."
+    },
+    "es": {
+      "q": "En Dakota del Norte, usted remolca un tráiler, así que su vehículo pesa el doble. ¿Qué pasa con su distancia de frenado?",
+      "o": [
+        "Se duplica",
+        "Queda igual",
+        "Se hace más corta",
+        "Se vuelve diez veces más larga"
+      ],
+      "h1": "Más peso significa una parada más larga, en la misma proporción.",
+      "h2": "En Dakota del Norte, el manual dice que duplicar el peso del vehículo duplica la distancia de frenado, así que un vehículo grande o uno que remolca un tráiler tarda más en parar.",
+      "p": "Correcto. El doble de peso, el doble de distancia de frenado."
     }
   }
 ]

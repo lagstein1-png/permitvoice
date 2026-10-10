@@ -5880,5 +5880,1603 @@
       "h2": "En Nevada, si usted cancela su seguro y no consigue otro, debe cancelar el registro del vehículo y entregar las placas el mismo día.",
       "p": "Correcto. Cancele el registro y entregue las placas ese mismo día."
     }
+  },
+  {
+    "id": "nv-102",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, apart from special restricted licenses, what is the youngest age to get a driver license?",
+      "o": [
+        "16 years old",
+        "15 and a half years old",
+        "17 years old",
+        "18 years old"
+      ],
+      "h1": "It is older than the age for an instruction permit.",
+      "h2": "In Nevada, you must be at least 16 years old to get a driver license.",
+      "p": "Right. You must be at least 16 for a driver license."
+    },
+    "es": {
+      "q": "En Nevada, aparte de las licencias restringidas especiales, ¿cuál es la edad mínima para obtener una licencia de manejo?",
+      "o": [
+        "16 años",
+        "15 años y medio",
+        "17 años",
+        "18 años"
+      ],
+      "h1": "Es más que la edad para el permiso de aprendizaje.",
+      "h2": "En Nevada, usted debe tener por lo menos 16 años para obtener una licencia de manejo.",
+      "p": "Correcto. Debe tener por lo menos 16 años para la licencia."
+    }
+  },
+  {
+    "id": "nv-103",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, a parent co-signs the license application of a driver under 18. What does that mean for the parent?",
+      "o": [
+        "The parent must ride along every time the teen drives",
+        "The parent shares liability for damage the teen causes while driving",
+        "The parent must pay for driver education",
+        "Nothing after the license is issued"
+      ],
+      "h1": "Think about who pays if the teen causes a crash.",
+      "h2": "In Nevada, the person who co-signs a minor's license application shares liability for damage the minor causes by careless or willful driving.",
+      "p": "Right. The co-signer shares liability for the teen's driving."
+    },
+    "es": {
+      "q": "En Nevada, un padre firma como cofirmante la solicitud de licencia de un conductor menor de 18 años. ¿Qué significa eso para el padre?",
+      "o": [
+        "El padre debe acompañarlo cada vez que maneje",
+        "El padre comparte la responsabilidad por los daños que cause el joven al manejar",
+        "El padre debe pagar la educación vial",
+        "Nada, una vez que se emite la licencia"
+      ],
+      "h1": "Piense en quién paga si el joven causa un choque.",
+      "h2": "En Nevada, la persona que firma como cofirmante la solicitud de licencia de un menor comparte la responsabilidad por los daños que el menor cause al manejar con descuido o a propósito.",
+      "p": "Correcto. El cofirmante comparte la responsabilidad por el manejo del joven."
+    }
+  },
+  {
+    "id": "nv-104",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, you get a Nevada license and you still have a license from another state. What happens to the old license?",
+      "o": [
+        "You may keep using both",
+        "You must mail it back to the other state yourself",
+        "You must surrender it, and it is voided",
+        "It stays valid for one more year"
+      ],
+      "h1": "A Nevada resident may hold only one license or ID card.",
+      "h2": "In Nevada, a resident may hold only one license or ID card, so you must surrender your out-of-state license and it is voided.",
+      "p": "Right. You surrender the old license and it is voided."
+    },
+    "es": {
+      "q": "En Nevada, usted obtiene una licencia de Nevada y todavía tiene una licencia de otro estado. ¿Qué pasa con la licencia anterior?",
+      "o": [
+        "Puede seguir usando las dos",
+        "Debe enviarla usted mismo por correo al otro estado",
+        "Debe entregarla y queda anulada",
+        "Sigue siendo válida por un año más"
+      ],
+      "h1": "Un residente de Nevada solo puede tener una licencia o tarjeta de identificación.",
+      "h2": "En Nevada, un residente solo puede tener una licencia o tarjeta de identificación, así que usted debe entregar su licencia de otro estado y esta queda anulada.",
+      "p": "Correcto. Usted entrega la licencia anterior y queda anulada."
+    }
+  },
+  {
+    "id": "nv-105",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, a new resident with a valid license from another state may have the knowledge and drive tests waived. What is one of the rules about their driving record?",
+      "o": [
+        "No more than 5 moving violations in the past 2 years",
+        "No parking tickets in the past year",
+        "At least 10 years of driving with no crashes",
+        "Fewer than 3 moving violations in the past 4 years"
+      ],
+      "h1": "The rule counts moving violations over a few years.",
+      "h2": "In Nevada, to have the other tests waived, a new resident must have had fewer than 3 moving violations in the past 4 years, along with the other rules.",
+      "p": "Right. You need fewer than 3 moving violations in 4 years."
+    },
+    "es": {
+      "q": "En Nevada, a un nuevo residente con una licencia válida de otro estado le pueden dispensar el examen de conocimientos y el de manejo. ¿Cuál es una de las reglas sobre su historial de manejo?",
+      "o": [
+        "No más de 5 infracciones en movimiento en los últimos 2 años",
+        "Ninguna multa de estacionamiento en el último año",
+        "Por lo menos 10 años manejando sin choques",
+        "Menos de 3 infracciones de tránsito en movimiento en los últimos 4 años"
+      ],
+      "h1": "La regla cuenta las infracciones en movimiento durante algunos años.",
+      "h2": "En Nevada, para que le dispensen los otros exámenes, un nuevo residente debe tener menos de 3 infracciones en movimiento en los últimos 4 años, además de cumplir las otras reglas.",
+      "p": "Correcto. Necesita menos de 3 infracciones en movimiento en 4 años."
+    }
+  },
+  {
+    "id": "nv-106",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 8,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, which of these is NOT accepted as proof of your name and date of birth?",
+      "o": [
+        "A birth certificate issued by a hospital",
+        "A certified birth certificate issued by a state",
+        "A valid U.S. passport",
+        "A Certificate of Naturalization"
+      ],
+      "h1": "The DMV wants a birth certificate from a government office.",
+      "h2": "In Nevada, a hospital-issued birth certificate is not accepted as proof of name and date of birth; a state-issued certificate is.",
+      "p": "Right. A hospital birth certificate is not accepted."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuál de estos NO se acepta como prueba de su nombre y fecha de nacimiento?",
+      "o": [
+        "Un certificado de nacimiento emitido por un hospital",
+        "Un certificado de nacimiento certificado emitido por un estado",
+        "Un pasaporte de EE. UU. válido",
+        "Un Certificado de Naturalización"
+      ],
+      "h1": "El DMV quiere un certificado de nacimiento de una oficina del gobierno.",
+      "h2": "En Nevada, un certificado de nacimiento emitido por un hospital no se acepta como prueba de nombre y fecha de nacimiento; uno emitido por el estado sí.",
+      "p": "Correcto. El certificado de nacimiento del hospital no se acepta."
+    }
+  },
+  {
+    "id": "nv-107",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, how many documents showing your Nevada home address must you bring to get a first license or ID card?",
+      "o": [
+        "One",
+        "Two",
+        "Three",
+        "None, if you have a Social Security card"
+      ],
+      "h1": "It is more than one.",
+      "h2": "In Nevada, you must bring two documents that show your Nevada home address, such as a utility bill or a lease.",
+      "p": "Right. You need two proofs of Nevada residency."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuántos documentos que muestren su domicilio en Nevada debe llevar para obtener su primera licencia o tarjeta de identificación?",
+      "o": [
+        "Uno",
+        "Dos",
+        "Tres",
+        "Ninguno, si tiene tarjeta del Seguro Social"
+      ],
+      "h1": "Es más de uno.",
+      "h2": "En Nevada, usted debe llevar dos documentos que muestren su domicilio en Nevada, como una factura de servicios o un contrato de alquiler.",
+      "p": "Correcto. Necesita dos pruebas de residencia en Nevada."
+    }
+  },
+  {
+    "id": "nv-108",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, a teen gives the DMV a DMV-301 school attendance form. How recent must the school's signature be?",
+      "o": [
+        "Signed within the past year",
+        "Signed within the past 6 months",
+        "Any date is fine",
+        "Signed within the past 60 days"
+      ],
+      "h1": "It is about two months.",
+      "h2": "In Nevada, the DMV-301 attendance form must be signed and dated within the previous 60 days.",
+      "p": "Right. The DMV-301 must be signed within 60 days."
+    },
+    "es": {
+      "q": "En Nevada, un joven entrega al DMV el formulario de asistencia escolar DMV-301. ¿Qué tan reciente debe ser la firma de la escuela?",
+      "o": [
+        "Firmado dentro del último año",
+        "Firmado dentro de los últimos 6 meses",
+        "Cualquier fecha sirve",
+        "Firmado dentro de los últimos 60 días"
+      ],
+      "h1": "Es más o menos dos meses.",
+      "h2": "En Nevada, el formulario de asistencia DMV-301 debe estar firmado y fechado dentro de los 60 días anteriores.",
+      "p": "Correcto. El DMV-301 debe estar firmado dentro de 60 días."
+    }
+  },
+  {
+    "id": "nv-109",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 14,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, a teen lives more than 30 miles from a driver education school and cannot take a class online. How much supervised driving must they do instead?",
+      "o": [
+        "100 hours, with 10 at night",
+        "50 hours, with 10 at night",
+        "75 hours, with 15 at night",
+        "30 hours, with 5 at night"
+      ],
+      "h1": "It is twice the usual number of hours.",
+      "h2": "In Nevada, a teen with no driver education school within 30 miles and no internet access must complete 100 hours of supervised driving, 10 of them at night.",
+      "p": "Right. Without driver education, it is 100 hours, 10 at night."
+    },
+    "es": {
+      "q": "En Nevada, un joven vive a más de 30 millas de una escuela de manejo y no puede tomar la clase por internet. ¿Cuánta práctica supervisada debe hacer en su lugar?",
+      "o": [
+        "100 horas, 10 de noche",
+        "50 horas, 10 de noche",
+        "75 horas, 15 de noche",
+        "30 horas, 5 de noche"
+      ],
+      "h1": "Es el doble de las horas normales.",
+      "h2": "En Nevada, un joven sin escuela de manejo a menos de 30 millas y sin acceso a internet debe completar 100 horas de manejo supervisado, 10 de ellas de noche.",
+      "p": "Correcto. Sin educación vial, son 100 horas, 10 de noche."
+    }
+  },
+  {
+    "id": "nv-110",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 14,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, before a minor gets a driver license, for how long must they have no at-fault crashes, no moving violation convictions and no alcohol or drug convictions?",
+      "o": [
+        "One month",
+        "Six months",
+        "Three months",
+        "One year"
+      ],
+      "h1": "It is half a year.",
+      "h2": "In Nevada, a minor must stay free of at-fault crashes, moving violation convictions and alcohol or drug convictions for six months before getting a driver license.",
+      "p": "Right. Six months with a clean record."
+    },
+    "es": {
+      "q": "En Nevada, antes de que un menor obtenga su licencia, ¿por cuánto tiempo debe estar sin choques con culpa, sin condenas por infracciones en movimiento y sin condenas por alcohol o drogas?",
+      "o": [
+        "Un mes",
+        "Seis meses",
+        "Tres meses",
+        "Un año"
+      ],
+      "h1": "Es medio año.",
+      "h2": "En Nevada, un menor debe estar libre de choques con culpa, condenas por infracciones en movimiento y condenas por alcohol o drogas durante seis meses antes de obtener la licencia.",
+      "p": "Correcto. Seis meses con un historial limpio."
+    }
+  },
+  {
+    "id": "nv-111",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, you practice with a motorcycle instruction permit. Where must your supervising rider be?",
+      "o": [
+        "In a car driving behind you",
+        "On the back seat of your motorcycle",
+        "On a motorcycle, watching you",
+        "Anywhere, as long as you can call them"
+      ],
+      "h1": "The supervisor may not be in a car or truck.",
+      "h2": "In Nevada, the licensed rider who supervises a motorcycle permit holder must be on a motorcycle, in direct sight of the learner, not in a car or truck.",
+      "p": "Right. The supervisor rides a motorcycle too."
+    },
+    "es": {
+      "q": "En Nevada, usted practica con un permiso de aprendizaje de motocicleta. ¿Dónde debe estar la persona que lo supervisa?",
+      "o": [
+        "En un auto detrás de usted",
+        "En el asiento de atrás de su motocicleta",
+        "En una motocicleta, observándolo",
+        "En cualquier lugar, si usted puede llamarla"
+      ],
+      "h1": "El supervisor no puede ir en un auto ni en una camioneta.",
+      "h2": "En Nevada, el motociclista con licencia que supervisa a quien tiene permiso de motocicleta debe ir en una motocicleta, a la vista del aprendiz, y no en un auto ni en una camioneta.",
+      "p": "Correcto. El supervisor también va en motocicleta."
+    }
+  },
+  {
+    "id": "nv-112",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 16,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, with a Class C license, how long may a combination of vehicles (such as a truck and trailer) be?",
+      "o": [
+        "No more than 40 feet",
+        "No more than 55 feet",
+        "No more than 100 feet",
+        "No more than 70 feet"
+      ],
+      "h1": "It is between 60 and 80 feet.",
+      "h2": "In Nevada, a combination of vehicles driven with a Class C license may not be longer than 70 feet.",
+      "p": "Right. A Class C combination may be up to 70 feet long."
+    },
+    "es": {
+      "q": "En Nevada, con una licencia Clase C, ¿qué largo puede tener una combinación de vehículos (como una camioneta con remolque)?",
+      "o": [
+        "No más de 40 pies",
+        "No más de 55 pies",
+        "No más de 100 pies",
+        "No más de 70 pies"
+      ],
+      "h1": "Está entre 60 y 80 pies.",
+      "h2": "En Nevada, una combinación de vehículos que se maneja con licencia Clase C no puede medir más de 70 pies.",
+      "p": "Correcto. Una combinación Clase C puede medir hasta 70 pies."
+    }
+  },
+  {
+    "id": "nv-113",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 16,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, your license shows Restriction G. What does it mean?",
+      "o": [
+        "You may drive only in daylight",
+        "You must have extra rearview mirrors",
+        "You need a yearly vision exam",
+        "You must wear glasses"
+      ],
+      "h1": "Think about the time of day.",
+      "h2": "In Nevada, Restriction G on a license means daylight driving only.",
+      "p": "Right. Restriction G means daylight driving only."
+    },
+    "es": {
+      "q": "En Nevada, su licencia tiene la Restricción G. ¿Qué significa?",
+      "o": [
+        "Solo puede manejar de día",
+        "Debe tener espejos retrovisores adicionales",
+        "Necesita un examen de la vista cada año",
+        "Debe usar lentes"
+      ],
+      "h1": "Piense en la hora del día.",
+      "h2": "En Nevada, la Restricción G en una licencia significa que solo puede manejar con luz de día.",
+      "p": "Correcto. La Restricción G significa manejar solo de día."
+    }
+  },
+  {
+    "id": "nv-114",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, you have a Class C license and want to tow a trailer weighing more than 10,000 pounds (the whole combination under 26,000 pounds and 70 feet). What do you need?",
+      "o": [
+        "A motorcycle endorsement",
+        "A J endorsement",
+        "Nothing extra",
+        "A Class M license"
+      ],
+      "h1": "An endorsement is a special added permission on your license.",
+      "h2": "In Nevada, a Class C driver needs a J endorsement to tow a vehicle over 10,000 pounds, as long as the combination stays within 26,000 pounds and 70 feet.",
+      "p": "Right. Towing over 10,000 pounds with Class C needs a J endorsement."
+    },
+    "es": {
+      "q": "En Nevada, usted tiene licencia Clase C y quiere remolcar un remolque de más de 10,000 libras (la combinación completa pesa menos de 26,000 libras y mide menos de 70 pies). ¿Qué necesita?",
+      "o": [
+        "Un endoso de motocicleta",
+        "Un endoso J",
+        "Nada más",
+        "Una licencia Clase M"
+      ],
+      "h1": "Un endoso es un permiso especial que se agrega a su licencia.",
+      "h2": "En Nevada, un conductor Clase C necesita un endoso J para remolcar un vehículo de más de 10,000 libras, siempre que la combinación no pase de 26,000 libras ni de 70 pies.",
+      "p": "Correcto. Para remolcar más de 10,000 libras con Clase C se necesita un endoso J."
+    }
+  },
+  {
+    "id": "nv-115",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, you get a motorcycle instruction permit after your 17th birthday. When does it expire?",
+      "o": [
+        "One year after it is issued",
+        "Six months after it is issued",
+        "On your 18th birthday",
+        "On your 21st birthday"
+      ],
+      "h1": "It ends when you become an adult.",
+      "h2": "In Nevada, a motorcycle instruction permit issued after you turn 17 expires on your 18th birthday.",
+      "p": "Right. It expires on your 18th birthday."
+    },
+    "es": {
+      "q": "En Nevada, usted obtiene un permiso de aprendizaje de motocicleta después de cumplir 17 años. ¿Cuándo vence?",
+      "o": [
+        "Un año después de emitido",
+        "Seis meses después de emitido",
+        "El día que cumple 18 años",
+        "El día que cumple 21 años"
+      ],
+      "h1": "Termina cuando usted llega a la mayoría de edad.",
+      "h2": "En Nevada, un permiso de aprendizaje de motocicleta emitido después de cumplir 17 años vence el día que usted cumple 18.",
+      "p": "Correcto. Vence el día que cumple 18 años."
+    }
+  },
+  {
+    "id": "nv-116",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, your license is suspended. When might you qualify for a restricted license?",
+      "o": [
+        "Right after the suspension starts",
+        "Only after the whole suspension ends",
+        "Never",
+        "After you serve half of the suspension"
+      ],
+      "h1": "It is partway through the suspension.",
+      "h2": "In Nevada, a restricted license may be issued, in special cases, to a person who has served half of the required suspension or revocation period.",
+      "p": "Right. Half of the suspension must be served first."
+    },
+    "es": {
+      "q": "En Nevada, su licencia está suspendida. ¿Cuándo podría usted calificar para una licencia restringida?",
+      "o": [
+        "Justo cuando empieza la suspensión",
+        "Solo cuando termine toda la suspensión",
+        "Nunca",
+        "Después de cumplir la mitad de la suspensión"
+      ],
+      "h1": "Es a mitad de camino de la suspensión.",
+      "h2": "En Nevada, en casos especiales se puede dar una licencia restringida a una persona que ya cumplió la mitad del período de suspensión o revocación.",
+      "p": "Correcto. Primero debe cumplir la mitad de la suspensión."
+    }
+  },
+  {
+    "id": "nv-117",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 20,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, you hold a driver license and then get a Nevada identification (ID) card. What happens?",
+      "o": [
+        "Your driving privilege is surrendered",
+        "You keep both and may still drive",
+        "Your license is extended by four years",
+        "Nothing changes"
+      ],
+      "h1": "A Nevada resident may hold only one of the two cards.",
+      "h2": "In Nevada, getting an identification card automatically surrenders your driving privilege.",
+      "p": "Right. Getting an ID card surrenders your driving privilege."
+    },
+    "es": {
+      "q": "En Nevada, usted tiene licencia de manejo y luego obtiene una tarjeta de identificación (ID) de Nevada. ¿Qué pasa?",
+      "o": [
+        "Usted entrega su privilegio de manejar",
+        "Conserva las dos y puede seguir manejando",
+        "Su licencia se extiende cuatro años",
+        "No cambia nada"
+      ],
+      "h1": "Un residente de Nevada solo puede tener una de las dos tarjetas.",
+      "h2": "En Nevada, obtener una tarjeta de identificación entrega automáticamente su privilegio de manejar.",
+      "p": "Correcto. Obtener una tarjeta ID entrega su privilegio de manejar."
+    }
+  },
+  {
+    "id": "nv-118",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 27,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, you check your tire tread with a penny, putting Lincoln's head into a groove. What shows the tire still has a safe amount of tread?",
+      "o": [
+        "You can see all of Lincoln's head",
+        "Part of Lincoln's head is covered by the tread",
+        "The penny falls out of the groove",
+        "The penny touches the rim"
+      ],
+      "h1": "Deep tread hides part of the coin.",
+      "h2": "In Nevada, if the tread covers part of Lincoln's head in the penny test, the tire has a safe amount of tread.",
+      "p": "Right. If the tread covers part of Lincoln's head, the tread is safe."
+    },
+    "es": {
+      "q": "En Nevada, usted revisa el dibujo de la llanta con un centavo, metiendo la cabeza de Lincoln en una ranura. ¿Qué muestra que la llanta todavía tiene suficiente dibujo?",
+      "o": [
+        "Se ve toda la cabeza de Lincoln",
+        "El dibujo cubre parte de la cabeza de Lincoln",
+        "El centavo se cae de la ranura",
+        "El centavo toca el rin"
+      ],
+      "h1": "Un dibujo profundo esconde parte de la moneda.",
+      "h2": "En Nevada, si en la prueba del centavo el dibujo cubre parte de la cabeza de Lincoln, la llanta tiene suficiente dibujo.",
+      "p": "Correcto. Si el dibujo cubre parte de la cabeza de Lincoln, está bien."
+    }
+  },
+  {
+    "id": "nv-119",
+    "scope": "NV",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 34,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, what does the law say about the right-of-way?",
+      "o": [
+        "It always gives the right-of-way to the bigger vehicle",
+        "It gives the right-of-way to whoever honks first",
+        "It does not give anyone the right-of-way; it only says who must yield",
+        "It gives drivers the right-of-way over people walking"
+      ],
+      "h1": "Even when you may go first, you must still try to avoid a crash.",
+      "h2": "In Nevada, the law does not give anyone the right-of-way; it only says who must yield, and you must do everything you can to avoid a crash.",
+      "p": "Right. The law only says who must yield."
+    },
+    "es": {
+      "q": "En Nevada, ¿qué dice la ley sobre el derecho de paso?",
+      "o": [
+        "Siempre se lo da al vehículo más grande",
+        "Se lo da a quien toque la bocina primero",
+        "No le da a nadie el derecho de paso; solo dice quién debe ceder",
+        "Les da a los conductores el derecho de paso sobre los peatones"
+      ],
+      "h1": "Aunque usted pueda pasar primero, debe tratar de evitar un choque.",
+      "h2": "En Nevada, la ley no le da a nadie el derecho de paso; solo dice quién debe ceder, y usted debe hacer todo lo posible para evitar un choque.",
+      "p": "Correcto. La ley solo dice quién debe ceder el paso."
+    }
+  },
+  {
+    "id": "nv-120",
+    "scope": "NV",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 34,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, a funeral procession with headlights on is going through an intersection. What should you do?",
+      "o": [
+        "Drive between the cars when there is a gap",
+        "Honk so they know you are waiting",
+        "Follow the last car through the light",
+        "Yield and let the vehicles pass as a group"
+      ],
+      "h1": "The cars in the procession stay together.",
+      "h2": "In Nevada, you should yield to a funeral procession and let the vehicles with headlights on pass as a group.",
+      "p": "Right. Let the funeral procession pass as a group."
+    },
+    "es": {
+      "q": "En Nevada, un cortejo fúnebre con las luces encendidas pasa por una intersección. ¿Qué debe hacer usted?",
+      "o": [
+        "Pasar entre los autos cuando haya un espacio",
+        "Tocar la bocina para que sepan que espera",
+        "Seguir al último auto a través del semáforo",
+        "Ceder el paso y dejar pasar los vehículos en grupo"
+      ],
+      "h1": "Los autos del cortejo van juntos.",
+      "h2": "En Nevada, usted debe ceder el paso a un cortejo fúnebre y dejar pasar en grupo a los vehículos con las luces encendidas.",
+      "p": "Correcto. Deje pasar el cortejo fúnebre en grupo."
+    }
+  },
+  {
+    "id": "nv-121",
+    "scope": "NV",
+    "cat": "signals",
+    "conf": "high",
+    "page": 33,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, which vehicles must stop at a railroad crossing even when there is no stop signal and no train is coming?",
+      "o": [
+        "Passenger buses and trucks carrying flammable or dangerous materials",
+        "All pickup trucks",
+        "Motorcycles",
+        "Cars pulling any trailer"
+      ],
+      "h1": "Think of vehicles that carry many people or risky loads.",
+      "h2": "In Nevada, passenger buses and trucks carrying flammable or dangerous materials must stop at railroad crossings even when no train is coming.",
+      "p": "Right. Buses and hazardous-load trucks always stop."
+    },
+    "es": {
+      "q": "En Nevada, ¿qué vehículos deben detenerse en un cruce de ferrocarril aunque no haya señal de alto y no venga ningún tren?",
+      "o": [
+        "Los autobuses de pasajeros y los camiones con materiales inflamables o peligrosos",
+        "Todas las camionetas pickup",
+        "Las motocicletas",
+        "Los autos que jalan cualquier remolque"
+      ],
+      "h1": "Piense en vehículos que llevan a muchas personas o cargas peligrosas.",
+      "h2": "En Nevada, los autobuses de pasajeros y los camiones con materiales inflamables o peligrosos deben detenerse en los cruces de ferrocarril aunque no venga ningún tren.",
+      "p": "Correcto. Los autobuses y los camiones con carga peligrosa siempre se detienen."
+    }
+  },
+  {
+    "id": "nv-122",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 33,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, what should you avoid doing while you drive across railroad tracks?",
+      "o": [
+        "Looking both ways",
+        "Shifting gears",
+        "Keeping both hands on the wheel",
+        "Driving at a steady speed"
+      ],
+      "h1": "Your car could stall on the tracks.",
+      "h2": "In Nevada, you should not shift gears while crossing railroad tracks.",
+      "p": "Right. Do not shift gears on the tracks."
+    },
+    "es": {
+      "q": "En Nevada, ¿qué debe evitar hacer mientras cruza las vías del tren?",
+      "o": [
+        "Mirar a ambos lados",
+        "Cambiar de velocidad (marcha)",
+        "Mantener las dos manos en el volante",
+        "Manejar a una velocidad constante"
+      ],
+      "h1": "Su auto se podría apagar sobre las vías.",
+      "h2": "En Nevada, usted no debe cambiar de velocidad (marcha) mientras cruza las vías del tren.",
+      "p": "Correcto. No cambie de marcha sobre las vías."
+    }
+  },
+  {
+    "id": "nv-123",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 33,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, a school zone uses flashing yellow lights, and the lights are off while students are in class. What speed limit applies then?",
+      "o": [
+        "15 mph",
+        "25 mph",
+        "The limit posted for non-school hours",
+        "No limit at all"
+      ],
+      "h1": "The lower school limit is in effect only when the lights say so.",
+      "h2": "In Nevada, when school zone flashing lights are turned off during class hours, the speed limit goes back to the one posted for non-school hours.",
+      "p": "Right. With the lights off, the regular posted limit applies."
+    },
+    "es": {
+      "q": "En Nevada, una zona escolar usa luces amarillas intermitentes, y las luces están apagadas mientras los alumnos están en clase. ¿Qué límite de velocidad se aplica entonces?",
+      "o": [
+        "15 mph",
+        "25 mph",
+        "El límite indicado para las horas sin clases",
+        "Ningún límite"
+      ],
+      "h1": "El límite escolar más bajo solo rige cuando las luces lo indican.",
+      "h2": "En Nevada, cuando las luces intermitentes de la zona escolar se apagan durante las clases, el límite de velocidad vuelve al indicado para las horas sin clases.",
+      "p": "Correcto. Con las luces apagadas, rige el límite normal indicado."
+    }
+  },
+  {
+    "id": "nv-124",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 37,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, a freeway on-ramp has a ramp meter and a carpool (HOV) bypass lane marked with a diamond. You have two people in your car. What may you do?",
+      "o": [
+        "Use the bypass lane but stop at its red light",
+        "Use only the metered lane",
+        "Drive on the shoulder past the meter",
+        "Use the bypass lane without stopping"
+      ],
+      "h1": "The HOV bypass lane is not metered.",
+      "h2": "In Nevada, a carpool of two or more people may use the HOV ramp meter bypass lane without stopping.",
+      "p": "Right. Carpools may use the bypass lane without stopping."
+    },
+    "es": {
+      "q": "En Nevada, una rampa de entrada a la autopista tiene un semáforo de rampa y un carril de paso para vehículos compartidos (HOV) marcado con un rombo. Usted lleva dos personas en su auto. ¿Qué puede hacer?",
+      "o": [
+        "Usar el carril de paso pero detenerse en su luz roja",
+        "Usar solo el carril con semáforo",
+        "Pasar el semáforo por el acotamiento",
+        "Usar el carril de paso sin detenerse"
+      ],
+      "h1": "El carril de paso HOV no tiene semáforo.",
+      "h2": "En Nevada, un vehículo compartido con dos o más personas puede usar el carril de paso HOV del semáforo de rampa sin detenerse.",
+      "p": "Correcto. Los vehículos compartidos usan el carril de paso sin detenerse."
+    }
+  },
+  {
+    "id": "nv-125",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 39,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, a carpool (HOV) lane is separated from the other lanes by a double solid white line. Where may you enter or leave the carpool lane?",
+      "o": [
+        "Only where the line is broken (dashed) white",
+        "Anywhere, if you signal",
+        "Across the double white line when traffic is light",
+        "Only at freeway exits"
+      ],
+      "h1": "A double solid white line means do not cross.",
+      "h2": "In Nevada, you may not cross a double solid white line to enter or leave a carpool lane; you enter or exit where the line is broken white.",
+      "p": "Right. Enter or exit the carpool lane only at the broken white line."
+    },
+    "es": {
+      "q": "En Nevada, un carril para vehículos compartidos (HOV) está separado de los otros carriles por una doble línea blanca continua. ¿Dónde puede entrar o salir del carril?",
+      "o": [
+        "Solo donde la línea blanca es discontinua",
+        "En cualquier lugar, si pone la direccional",
+        "Cruzando la doble línea blanca cuando hay poco tráfico",
+        "Solo en las salidas de la autopista"
+      ],
+      "h1": "Una doble línea blanca continua significa no cruzar.",
+      "h2": "En Nevada, usted no puede cruzar una doble línea blanca continua para entrar o salir de un carril HOV; entra o sale donde la línea blanca es discontinua.",
+      "p": "Correcto. Entre o salga del carril HOV solo en la línea blanca discontinua."
+    }
+  },
+  {
+    "id": "nv-126",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 40,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, the ABS light on your dashboard stays on long after you start the car. What does it mean?",
+      "o": [
+        "All your brakes have failed",
+        "The anti-lock brakes are not working, but your regular brakes still work",
+        "The parking brake is on",
+        "The car needs gas"
+      ],
+      "h1": "There are two brake systems to think about.",
+      "h2": "In Nevada, if the ABS light stays on long after the car starts, the anti-lock system is not working, but the regular brakes still work.",
+      "p": "Right. ABS is off, but normal brakes still work."
+    },
+    "es": {
+      "q": "En Nevada, la luz ABS del tablero sigue encendida mucho tiempo después de arrancar el auto. ¿Qué significa?",
+      "o": [
+        "Todos los frenos fallaron",
+        "Los frenos antibloqueo no funcionan, pero los frenos normales sí",
+        "El freno de mano está puesto",
+        "El auto necesita gasolina"
+      ],
+      "h1": "Hay dos sistemas de frenos en qué pensar.",
+      "h2": "En Nevada, si la luz ABS sigue encendida mucho después de arrancar, el sistema antibloqueo no funciona, pero los frenos normales sí funcionan.",
+      "p": "Correcto. El ABS no funciona, pero los frenos normales sí."
+    }
+  },
+  {
+    "id": "nv-127",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 42,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, you are driving 40 mph or slower. What is the minimum following distance behind the vehicle ahead?",
+      "o": [
+        "One second",
+        "Half a second",
+        "Ten seconds",
+        "Two seconds"
+      ],
+      "h1": "Count one thousand one, one thousand ...",
+      "h2": "In Nevada, at 40 mph or less, you should stay at least two seconds behind the vehicle ahead; this is the minimum.",
+      "p": "Right. At least two seconds is the minimum."
+    },
+    "es": {
+      "q": "En Nevada, usted maneja a 40 mph o menos. ¿Cuál es la distancia mínima que debe dejar detrás del vehículo de adelante?",
+      "o": [
+        "Un segundo",
+        "Medio segundo",
+        "Diez segundos",
+        "Dos segundos"
+      ],
+      "h1": "Cuente mil uno, mil ...",
+      "h2": "En Nevada, a 40 mph o menos, usted debe ir por lo menos dos segundos detrás del vehículo de adelante; ese es el mínimo.",
+      "p": "Correcto. Dos segundos es el mínimo."
+    }
+  },
+  {
+    "id": "nv-128",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 43,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, when may you use a handheld phone while driving?",
+      "o": [
+        "To report an emergency when stopping would be unsafe",
+        "To read a text at a red light",
+        "To check a map while moving slowly",
+        "To make a short call under one minute"
+      ],
+      "h1": "There is one exception, for safety.",
+      "h2": "In Nevada, you may use a handheld phone while driving to report an emergency if stopping the vehicle would be unwise, impractical or dangerous.",
+      "p": "Right. Only to report an emergency when stopping is unsafe."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuándo puede usar un teléfono en la mano mientras maneja?",
+      "o": [
+        "Para reportar una emergencia cuando detenerse no sería seguro",
+        "Para leer un mensaje en un semáforo en rojo",
+        "Para ver un mapa mientras avanza despacio",
+        "Para hacer una llamada corta de menos de un minuto"
+      ],
+      "h1": "Hay una excepción, por seguridad.",
+      "h2": "En Nevada, usted puede usar un teléfono en la mano mientras maneja para reportar una emergencia si detener el vehículo sería imprudente, poco práctico o peligroso.",
+      "p": "Correcto. Solo para reportar una emergencia cuando detenerse no es seguro."
+    }
+  },
+  {
+    "id": "nv-129",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 44,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, in a roundabout with two lanes, what may you do from the right lane?",
+      "o": [
+        "Turn left or make a U-turn",
+        "Turn right or go straight",
+        "Only make a U-turn",
+        "Only go straight"
+      ],
+      "h1": "The left lane is for left turns and U-turns.",
+      "h2": "In Nevada, in a two-lane roundabout, you use the right lane to turn right or to go straight.",
+      "p": "Right. From the right lane, turn right or go straight."
+    },
+    "es": {
+      "q": "En Nevada, en una glorieta de dos carriles, ¿qué puede hacer desde el carril derecho?",
+      "o": [
+        "Girar a la izquierda o dar vuelta en U",
+        "Girar a la derecha o seguir derecho",
+        "Solo dar vuelta en U",
+        "Solo seguir derecho"
+      ],
+      "h1": "El carril izquierdo es para girar a la izquierda y dar vuelta en U.",
+      "h2": "En Nevada, en una glorieta de dos carriles, usted usa el carril derecho para girar a la derecha o seguir derecho.",
+      "p": "Correcto. Desde el carril derecho, gire a la derecha o siga derecho."
+    }
+  },
+  {
+    "id": "nv-130",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 46,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, you may not make a U-turn near a grade (a hill) where you can see less than what distance in both directions?",
+      "o": [
+        "100 feet",
+        "50 feet",
+        "500 feet",
+        "1,000 feet"
+      ],
+      "h1": "It is more than the 200 feet used for curves and fog.",
+      "h2": "In Nevada, you may not make a U-turn near a grade where there is less than 500 feet of visibility in both directions.",
+      "p": "Right. Near a grade, you need 500 feet of view each way."
+    },
+    "es": {
+      "q": "En Nevada, no puede dar vuelta en U cerca de una pendiente (una colina) si puede ver menos de cierta distancia en ambas direcciones. ¿Cuál es esa distancia?",
+      "o": [
+        "100 pies",
+        "50 pies",
+        "500 pies",
+        "1,000 pies"
+      ],
+      "h1": "Es más que los 200 pies que se usan para curvas y neblina.",
+      "h2": "En Nevada, usted no puede dar vuelta en U cerca de una pendiente donde hay menos de 500 pies de visibilidad en ambas direcciones.",
+      "p": "Correcto. Cerca de una pendiente necesita 500 pies de visibilidad en cada dirección."
+    }
+  },
+  {
+    "id": "nv-131",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 48,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, what does a white curb usually mean?",
+      "o": [
+        "Parking for a limited time shown on a sign",
+        "A loading zone for trucks",
+        "Parking for people with disabilities",
+        "A very short stop only, to pick up or drop off passengers or mail"
+      ],
+      "h1": "You may not stay there long at all.",
+      "h2": "In Nevada, a white curb usually means a very short stop only, to take on or let off passengers or to drop mail in a mailbox.",
+      "p": "Right. White means a very short stop for passengers or mail."
+    },
+    "es": {
+      "q": "En Nevada, ¿qué significa normalmente una banqueta (cordón) pintada de blanco?",
+      "o": [
+        "Estacionamiento por un tiempo limitado que indica un letrero",
+        "Una zona de carga para camiones",
+        "Estacionamiento para personas con discapacidad",
+        "Solo una parada muy corta, para subir o bajar pasajeros o dejar correo"
+      ],
+      "h1": "No se puede quedar mucho tiempo.",
+      "h2": "En Nevada, una banqueta blanca normalmente significa solo una parada muy corta, para subir o bajar pasajeros o dejar correo en un buzón.",
+      "p": "Correcto. El blanco es una parada muy corta para pasajeros o correo."
+    }
+  },
+  {
+    "id": "nv-132",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 48,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, you park on the side of a road. From how far away in each direction should other drivers be able to see your vehicle?",
+      "o": [
+        "200 feet (about 20 car lengths)",
+        "50 feet (about 5 car lengths)",
+        "100 feet (about 10 car lengths)",
+        "1,000 feet"
+      ],
+      "h1": "It is about 20 car lengths.",
+      "h2": "In Nevada, a parked vehicle should be visible for 200 feet, about 20 car lengths, in each direction.",
+      "p": "Right. Park where you can be seen from 200 feet each way."
+    },
+    "es": {
+      "q": "En Nevada, usted se estaciona al lado de un camino. ¿Desde qué distancia en cada dirección deben poder ver su vehículo los otros conductores?",
+      "o": [
+        "200 pies (unos 20 largos de auto)",
+        "50 pies (unos 5 largos de auto)",
+        "100 pies (unos 10 largos de auto)",
+        "1,000 pies"
+      ],
+      "h1": "Son unos 20 largos de auto.",
+      "h2": "En Nevada, un vehículo estacionado debe verse desde 200 pies, unos 20 largos de auto, en cada dirección.",
+      "p": "Correcto. Estaciónese donde lo vean desde 200 pies en cada dirección."
+    }
+  },
+  {
+    "id": "nv-133",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 50,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, how close to a traffic signal at the side of a highway may you park?",
+      "o": [
+        "No closer than 10 feet",
+        "No closer than 30 feet",
+        "No closer than 15 feet",
+        "No closer than 75 feet"
+      ],
+      "h1": "It is more than the distance for a fire hydrant.",
+      "h2": "In Nevada, you may not park within 30 feet of a traffic control signal at the side of a highway.",
+      "p": "Right. Stay at least 30 feet from a traffic signal."
+    },
+    "es": {
+      "q": "En Nevada, ¿qué tan cerca de un semáforo al lado de una carretera puede estacionarse?",
+      "o": [
+        "A no menos de 10 pies",
+        "A no menos de 30 pies",
+        "A no menos de 15 pies",
+        "A no menos de 75 pies"
+      ],
+      "h1": "Es más que la distancia para un hidrante.",
+      "h2": "En Nevada, usted no puede estacionarse a menos de 30 pies de un semáforo al lado de una carretera.",
+      "p": "Correcto. Quédese por lo menos a 30 pies de un semáforo."
+    }
+  },
+  {
+    "id": "nv-134",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 50,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, you want to park on the side of the street across from a fire station driveway. How far from the entrance must you stay?",
+      "o": [
+        "At least 20 feet",
+        "At least 30 feet",
+        "At least 75 feet",
+        "At least 15 feet"
+      ],
+      "h1": "It is much farther than on the same side of the street.",
+      "h2": "In Nevada, on the side of a highway opposite a fire station entrance, you may not park within 75 feet of that entrance.",
+      "p": "Right. Across from a fire station entrance, stay 75 feet away."
+    },
+    "es": {
+      "q": "En Nevada, usted quiere estacionarse en el lado de la calle frente a la entrada de una estación de bomberos. ¿A qué distancia de la entrada debe quedarse?",
+      "o": [
+        "Por lo menos a 20 pies",
+        "Por lo menos a 30 pies",
+        "Por lo menos a 75 pies",
+        "Por lo menos a 15 pies"
+      ],
+      "h1": "Es mucho más lejos que en el mismo lado de la calle.",
+      "h2": "En Nevada, en el lado de la carretera frente a la entrada de una estación de bomberos, usted no puede estacionarse a menos de 75 pies de esa entrada.",
+      "p": "Correcto. Frente a la entrada de bomberos, quédese a 75 pies."
+    }
+  },
+  {
+    "id": "nv-135",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 56,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, you are using high beams at night and come up behind another vehicle going the same way. At what distance should you switch to low beams?",
+      "o": [
+        "At least 300 feet behind it",
+        "At least 50 feet behind it",
+        "At least 100 feet behind it",
+        "Only when it is 1,000 feet ahead"
+      ],
+      "h1": "It is less than the distance for oncoming cars.",
+      "h2": "In Nevada, you should change to low beams when you are at least 300 feet behind a vehicle you are following.",
+      "p": "Right. Dim your lights 300 feet behind the car ahead."
+    },
+    "es": {
+      "q": "En Nevada, usted usa las luces altas de noche y se acerca por detrás a otro vehículo que va en su misma dirección. ¿A qué distancia debe cambiar a luces bajas?",
+      "o": [
+        "Por lo menos a 300 pies detrás de él",
+        "Por lo menos a 50 pies detrás de él",
+        "Por lo menos a 100 pies detrás de él",
+        "Solo cuando esté a 1,000 pies adelante"
+      ],
+      "h1": "Es menos que la distancia para autos que vienen de frente.",
+      "h2": "En Nevada, usted debe cambiar a luces bajas cuando esté por lo menos a 300 pies detrás de un vehículo al que sigue.",
+      "p": "Correcto. Baje las luces a 300 pies detrás del auto de adelante."
+    }
+  },
+  {
+    "id": "nv-136",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 58,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, a gasoline fire starts under your hood and you have no fire extinguisher. What should you never use on it?",
+      "o": [
+        "Sand",
+        "Water",
+        "Dirt",
+        "A chemical fire extinguisher"
+      ],
+      "h1": "Burning gasoline floats.",
+      "h2": "In Nevada, you should never use water on a car fire, because burning gasoline floats on water and spreads the fire; sand or dirt can smother it.",
+      "p": "Right. Never use water on a gasoline fire."
+    },
+    "es": {
+      "q": "En Nevada, se inicia un incendio de gasolina bajo el cofre y usted no tiene extintor. ¿Qué nunca debe usar para apagarlo?",
+      "o": [
+        "Arena",
+        "Agua",
+        "Tierra",
+        "Un extintor químico"
+      ],
+      "h1": "La gasolina encendida flota.",
+      "h2": "En Nevada, nunca debe usar agua en un incendio del auto, porque la gasolina encendida flota sobre el agua y extiende el fuego; la arena o la tierra pueden sofocarlo.",
+      "p": "Correcto. Nunca use agua en un incendio de gasolina."
+    }
+  },
+  {
+    "id": "nv-137",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 59,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, how much water on the road can push a car going at high speed off the road?",
+      "o": [
+        "At least 3 feet",
+        "At least 2 feet",
+        "Only 6 inches",
+        "At least 1 foot"
+      ],
+      "h1": "It is much less than you might think: about half a foot.",
+      "h2": "In Nevada, a car traveling at high speed can be pushed off the road by only 6 inches of water.",
+      "p": "Right. Just 6 inches of water can push a fast car off the road."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuánta agua en el camino puede sacar del camino a un auto que va a alta velocidad?",
+      "o": [
+        "Por lo menos 3 pies",
+        "Por lo menos 2 pies",
+        "Solo 6 pulgadas",
+        "Por lo menos 1 pie"
+      ],
+      "h1": "Es mucho menos de lo que usted cree: como medio pie.",
+      "h2": "En Nevada, un auto que va a alta velocidad puede salir del camino con solo 6 pulgadas de agua.",
+      "p": "Correcto. Solo 6 pulgadas de agua pueden sacar del camino a un auto rápido."
+    }
+  },
+  {
+    "id": "nv-138",
+    "scope": "NV",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 63,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, why should you be careful about a motorcycle's turn signal before you turn or change lanes?",
+      "o": [
+        "Motorcycles do not have turn signals",
+        "Motorcycle signals are red",
+        "Riders must use only hand signals",
+        "On most motorcycles, turn signals do not turn off by themselves"
+      ],
+      "h1": "The rider may have forgotten to turn the signal off.",
+      "h2": "In Nevada, turn signals are not self-canceling on most motorcycles, so make sure you know what the rider is really doing.",
+      "p": "Right. A motorcycle signal may still be on by mistake."
+    },
+    "es": {
+      "q": "En Nevada, ¿por qué debe tener cuidado con la direccional de una motocicleta antes de girar o cambiar de carril?",
+      "o": [
+        "Las motocicletas no tienen direccionales",
+        "Las direccionales de motocicleta son rojas",
+        "Los motociclistas solo deben usar señales con la mano",
+        "En la mayoría de las motocicletas, las direccionales no se apagan solas"
+      ],
+      "h1": "El motociclista pudo haber olvidado apagar la direccional.",
+      "h2": "En Nevada, en la mayoría de las motocicletas las direccionales no se apagan solas, así que asegúrese de saber lo que realmente hace el motociclista.",
+      "p": "Correcto. La direccional de una moto puede seguir encendida por error."
+    }
+  },
+  {
+    "id": "nv-139",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 64,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, what is the top speed of a moped on flat ground?",
+      "o": [
+        "30 mph",
+        "15 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "It is a little more than 25 mph.",
+      "h2": "In Nevada, a moped has a maximum speed of 30 mph on flat or nearly flat ground and no more than two brake horsepower.",
+      "p": "Right. A moped goes no faster than 30 mph on flat ground."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuál es la velocidad máxima de un ciclomotor (moped) en terreno plano?",
+      "o": [
+        "30 mph",
+        "15 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "Es un poco más de 25 mph.",
+      "h2": "En Nevada, un ciclomotor tiene una velocidad máxima de 30 mph en terreno plano o casi plano y no más de dos caballos de fuerza al freno.",
+      "p": "Correcto. Un ciclomotor no pasa de 30 mph en terreno plano."
+    }
+  },
+  {
+    "id": "nv-140",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 64,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, what does a moped owner have to do?",
+      "o": [
+        "Insure the moped, but registration is not required",
+        "Register the moped, but insurance is not required",
+        "Both register and insure it every year",
+        "Neither register nor insure it"
+      ],
+      "h1": "Registration is a one-time fee to help prevent theft.",
+      "h2": "In Nevada, moped owners must register their mopeds with the DMV, but they are not required to insure them.",
+      "p": "Right. Register it; insurance is not required."
+    },
+    "es": {
+      "q": "En Nevada, ¿qué debe hacer el dueño de un ciclomotor (moped)?",
+      "o": [
+        "Asegurarlo, pero no se requiere registro",
+        "Registrarlo, pero no se requiere seguro",
+        "Registrarlo y asegurarlo cada año",
+        "Ni registrarlo ni asegurarlo"
+      ],
+      "h1": "El registro es un pago único que ayuda a prevenir robos.",
+      "h2": "En Nevada, los dueños de ciclomotores deben registrarlos en el DMV, pero no están obligados a asegurarlos.",
+      "p": "Correcto. Se registra; el seguro no es obligatorio."
+    }
+  },
+  {
+    "id": "nv-141",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 64,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, a moped rider must stay in the far right lane. When may the rider leave it to turn left?",
+      "o": [
+        "Whenever the rider wants to pass",
+        "Only on freeways",
+        "When getting ready to turn left within a quarter mile",
+        "Never; mopeds may not turn left"
+      ],
+      "h1": "The turn must be close by.",
+      "h2": "In Nevada, a moped rider may leave the far right lane to prepare for a left turn, and the turn must be made within one-quarter mile.",
+      "p": "Right. Moving left is allowed for a left turn within a quarter mile."
+    },
+    "es": {
+      "q": "En Nevada, quien maneja un ciclomotor (moped) debe ir en el carril de la extrema derecha. ¿Cuándo puede salir de él para girar a la izquierda?",
+      "o": [
+        "Siempre que quiera rebasar",
+        "Solo en autopistas",
+        "Cuando se prepara para girar a la izquierda dentro de un cuarto de milla",
+        "Nunca; los ciclomotores no pueden girar a la izquierda"
+      ],
+      "h1": "El giro debe estar cerca.",
+      "h2": "En Nevada, quien maneja un ciclomotor puede salir del carril derecho para prepararse para un giro a la izquierda, y el giro debe hacerse dentro de un cuarto de milla.",
+      "p": "Correcto. Puede moverse a la izquierda para girar dentro de un cuarto de milla."
+    }
+  },
+  {
+    "id": "nv-142",
+    "scope": "NV",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 64,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, a school bus driver sees you pass the bus while its red lights are flashing and reports it. What can happen?",
+      "o": [
+        "Nothing, only police can report it",
+        "The bus driver may take your license",
+        "Your car is towed right away",
+        "The vehicle's registered owner gets a warning letter"
+      ],
+      "h1": "The report goes to the school district and the DMV.",
+      "h2": "In Nevada, school bus drivers may report violations to the school district and the DMV, and the vehicle's registered owner is sent a warning letter.",
+      "p": "Right. The registered owner gets a warning letter."
+    },
+    "es": {
+      "q": "En Nevada, el conductor de un autobús escolar ve que usted rebasa el autobús mientras tiene las luces rojas intermitentes y lo reporta. ¿Qué puede pasar?",
+      "o": [
+        "Nada, solo la policía puede reportarlo",
+        "El conductor del autobús puede quitarle la licencia",
+        "Su auto es remolcado de inmediato",
+        "El dueño registrado del vehículo recibe una carta de advertencia"
+      ],
+      "h1": "El reporte va al distrito escolar y al DMV.",
+      "h2": "En Nevada, los conductores de autobuses escolares pueden reportar infracciones al distrito escolar y al DMV, y al dueño registrado del vehículo se le envía una carta de advertencia.",
+      "p": "Correcto. El dueño registrado recibe una carta de advertencia."
+    }
+  },
+  {
+    "id": "nv-143",
+    "scope": "NV",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 67,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, you stop for a person who is blind waiting at a crosswalk. How close to the crosswalk should you stop?",
+      "o": [
+        "No more than five feet from it",
+        "At least 20 feet back from it",
+        "In the middle of it",
+        "It does not matter"
+      ],
+      "h1": "The person uses the sound of your engine as a guide.",
+      "h2": "In Nevada, you should not stop more than five feet from the crosswalk, because a person who is blind uses the sound of your engine as a guide.",
+      "p": "Right. Stop within five feet of the crosswalk."
+    },
+    "es": {
+      "q": "En Nevada, usted se detiene por una persona ciega que espera en un cruce peatonal. ¿Qué tan cerca del cruce debe detenerse?",
+      "o": [
+        "A no más de cinco pies de él",
+        "Por lo menos a 20 pies antes de él",
+        "En medio del cruce",
+        "No importa"
+      ],
+      "h1": "La persona usa el sonido de su motor como guía.",
+      "h2": "En Nevada, usted no debe detenerse a más de cinco pies del cruce peatonal, porque una persona ciega usa el sonido de su motor como guía.",
+      "p": "Correcto. Deténgase a no más de cinco pies del cruce."
+    }
+  },
+  {
+    "id": "nv-144",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 70,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, you start a long trip pulling a trailer. When should you first stop to inspect the trailer and its load again?",
+      "o": [
+        "After 500 miles",
+        "Within the first 50 miles",
+        "Only when you arrive",
+        "After 8 hours"
+      ],
+      "h1": "Check early, before a small problem grows.",
+      "h2": "In Nevada, you should inspect the trailer and the load-securing devices again within 50 miles after starting an extended trip.",
+      "p": "Right. Check again within the first 50 miles."
+    },
+    "es": {
+      "q": "En Nevada, usted empieza un viaje largo jalando un remolque. ¿Cuándo debe detenerse por primera vez para revisar otra vez el remolque y la carga?",
+      "o": [
+        "Después de 500 millas",
+        "Dentro de las primeras 50 millas",
+        "Solo al llegar",
+        "Después de 8 horas"
+      ],
+      "h1": "Revise pronto, antes de que un problema pequeño crezca.",
+      "h2": "En Nevada, usted debe revisar otra vez el remolque y los amarres de la carga dentro de las primeras 50 millas de un viaje largo.",
+      "p": "Correcto. Revise de nuevo dentro de las primeras 50 millas."
+    }
+  },
+  {
+    "id": "nv-145",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 77,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, how long do DUI convictions stay on your driving record?",
+      "o": [
+        "One year",
+        "Three years",
+        "Seven years",
+        "Ten years"
+      ],
+      "h1": "Most other violations are reported to insurers for three years; DUI lasts longer.",
+      "h2": "In Nevada, convictions related to DUI stay on your driving record for seven years.",
+      "p": "Right. DUI convictions stay on your record seven years."
+    },
+    "es": {
+      "q": "En Nevada, ¿por cuánto tiempo quedan en su historial de manejo las condenas por DUI?",
+      "o": [
+        "Un año",
+        "Tres años",
+        "Siete años",
+        "Diez años"
+      ],
+      "h1": "La mayoría de las otras infracciones se reportan a las aseguradoras por tres años; el DUI dura más.",
+      "h2": "En Nevada, las condenas relacionadas con DUI quedan en su historial de manejo por siete años.",
+      "p": "Correcto. Las condenas por DUI quedan siete años en su historial."
+    }
+  },
+  {
+    "id": "nv-146",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 78,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, how many demerit points does a conviction for careless driving add?",
+      "o": [
+        "2 points",
+        "4 points",
+        "8 points",
+        "6 points"
+      ],
+      "h1": "It is fewer than reckless driving, which is 8.",
+      "h2": "In Nevada, careless driving adds 6 demerit points to your driving record.",
+      "p": "Right. Careless driving is 6 points."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuántos puntos de demérito agrega una condena por manejo descuidado (careless driving)?",
+      "o": [
+        "2 puntos",
+        "4 puntos",
+        "8 puntos",
+        "6 puntos"
+      ],
+      "h1": "Es menos que el manejo imprudente, que son 8.",
+      "h2": "En Nevada, el manejo descuidado agrega 6 puntos de demérito a su historial de manejo.",
+      "p": "Correcto. El manejo descuidado son 6 puntos."
+    }
+  },
+  {
+    "id": "nv-147",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, you are convicted of a second DUI within 7 years. How long is your license revoked?",
+      "o": [
+        "One year",
+        "90 days",
+        "185 days",
+        "Five years"
+      ],
+      "h1": "It is longer than for a first offense, but shorter than for a third.",
+      "h2": "In Nevada, a second DUI offense within 7 years brings a one-year license revocation, along with other penalties.",
+      "p": "Right. A second DUI in 7 years means a one-year revocation."
+    },
+    "es": {
+      "q": "En Nevada, a usted lo condenan por un segundo DUI dentro de 7 años. ¿Por cuánto tiempo le revocan la licencia?",
+      "o": [
+        "Un año",
+        "90 días",
+        "185 días",
+        "Cinco años"
+      ],
+      "h1": "Es más que para un primer delito, pero menos que para un tercero.",
+      "h2": "En Nevada, un segundo delito de DUI dentro de 7 años trae la revocación de la licencia por un año, además de otras penas.",
+      "p": "Correcto. Un segundo DUI en 7 años significa un año de revocación."
+    }
+  },
+  {
+    "id": "nv-148",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 83,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, you move here with a car registered in another state. When must you register it in Nevada?",
+      "o": [
+        "Within 6 months",
+        "Within 30 days of becoming a resident, or when you get a Nevada license if that is sooner",
+        "Only when the old registration expires",
+        "Within one year"
+      ],
+      "h1": "Whichever of two events comes first.",
+      "h2": "In Nevada, you must register your vehicle within 30 days of becoming a resident or when you get a Nevada driver license, whichever comes first.",
+      "p": "Right. Register within 30 days, or sooner if you get your license first."
+    },
+    "es": {
+      "q": "En Nevada, usted se muda aquí con un auto registrado en otro estado. ¿Cuándo debe registrarlo en Nevada?",
+      "o": [
+        "Dentro de 6 meses",
+        "Dentro de 30 días de hacerse residente, o al obtener su licencia de Nevada si eso pasa antes",
+        "Solo cuando venza el registro anterior",
+        "Dentro de un año"
+      ],
+      "h1": "Lo que pase primero de dos cosas.",
+      "h2": "En Nevada, usted debe registrar su vehículo dentro de 30 días de hacerse residente o al obtener su licencia de manejo de Nevada, lo que ocurra primero.",
+      "p": "Correcto. Regístrelo dentro de 30 días, o antes si obtiene primero la licencia."
+    }
   }
 ]
