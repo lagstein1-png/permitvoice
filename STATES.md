@@ -48,7 +48,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | NY | New York | 146 | 146 | 20 q, pass 14 (70%) | [link](https://dmv.ny.gov/brochure/mv21.pdf) | [link](https://dmv.ny.gov/brochure/mv21s.pdf) | yes |
 | OH | Ohio | 197 | 196 | 40 q, pass 30 (75%) | [link](https://publicsafety.ohio.gov/who-we-are/resources/digest-of-motor-vehicle-laws) | — | yes |
 | OK | Oklahoma | 195 | 195 | 20 q, pass ? | [link](https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf) | — | yes |
-| OR | Oregon | 148 | 148 | 35 q, pass 28 (80%) | [link](https://www.oregon.gov/odot/Forms/DMV/37.pdf) | [link](https://www.oregon.gov/odot/Forms/DMV/37s.pdf) | yes |
+| OR | Oregon | 200 | 200 | 35 q, pass 28 (80%) | [link](https://www.oregon.gov/odot/Forms/DMV/37.pdf) | [link](https://www.oregon.gov/odot/Forms/DMV/37s.pdf) | yes |
 | PA | Pennsylvania | 189 | 189 | 18 q, pass 15 (83%) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/spanish/pub%2095s.pdf) | yes |
 | RI | Rhode Island | 201 | 200 | not found | [link](https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf) | [link](https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual_SP.pdf) | yes |
 | SC | South Carolina | 200 | 199 | 30 q, pass 24 (80%) | [link](https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf) | — | yes |
