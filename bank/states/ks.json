@@ -1884,5 +1884,141 @@
       "h2": "في Kansas يمكن للشرطة إيقاف سيارة فقط لأن السائق أو الراكب في المقعد الأمامي لا يضع حزام الأمان.",
       "p": "صحيح. في المقعد الأمامي، إنها مخالفة أساسية."
     }
+  },
+  {
+    "id": "ks-024",
+    "scope": "KS",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.ksrevenue.gov/pdf/dlhb.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Kansas, how many questions are on the knowledge test?",
+      "o": [
+        "20 questions",
+        "25 questions",
+        "40 questions",
+        "50 questions"
+      ],
+      "h1": "It is a quarter of one hundred.",
+      "h2": "In Kansas, the knowledge test has 25 questions about traffic laws and road signs.",
+      "p": "Right. The Kansas knowledge test has 25 questions."
+    },
+    "es": {
+      "q": "En Kansas, ¿cuántas preguntas tiene el examen de conocimientos?",
+      "o": [
+        "20 preguntas",
+        "25 preguntas",
+        "40 preguntas",
+        "50 preguntas"
+      ],
+      "h1": "Es la cuarta parte de cien.",
+      "h2": "En Kansas, el examen de conocimientos tiene 25 preguntas sobre leyes de tránsito y señales de tránsito.",
+      "p": "Correcto. El examen de conocimientos de Kansas tiene 25 preguntas."
+    }
+  },
+  {
+    "id": "ks-025",
+    "scope": "KS",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 14,
+    "src": "https://www.ksrevenue.gov/pdf/dlhb.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Kansas, what happens after you fail the written test for the fourth time?",
+      "o": [
+        "You may try again the next working day",
+        "You must wait 30 days",
+        "You must take a driver education course first",
+        "You must wait at least six months"
+      ],
+      "h1": "The wait is half a year.",
+      "h2": "In Kansas, after a fourth failed written test you must wait at least six months before you test again.",
+      "p": "Right. After four failures, you wait at least six months."
+    },
+    "es": {
+      "q": "En Kansas, ¿qué pasa si reprueba el examen escrito por cuarta vez?",
+      "o": [
+        "Puede intentarlo de nuevo el siguiente día hábil",
+        "Debe esperar 30 días",
+        "Primero debe tomar un curso de educación vial",
+        "Debe esperar al menos seis meses"
+      ],
+      "h1": "La espera es de medio año.",
+      "h2": "En Kansas, después de reprobar el examen escrito por cuarta vez, usted debe esperar al menos seis meses antes de volver a presentarlo.",
+      "p": "Correcto. Después de cuatro intentos fallidos, espera al menos seis meses."
+    }
+  },
+  {
+    "id": "ks-026",
+    "scope": "KS",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 14,
+    "src": "https://www.ksrevenue.gov/pdf/dlhb.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Kansas, what happens the first time a driver refuses a test for alcohol or drugs?",
+      "o": [
+        "The license is suspended for 1 year",
+        "The driver gets a warning only",
+        "The license is suspended for 30 days",
+        "The license is taken away for life"
+      ],
+      "h1": "It is a long suspension, but not for life.",
+      "h2": "In Kansas, refusing a test for alcohol or drugs the first time means a mandatory one-year license suspension.",
+      "p": "Right. A first refusal brings a one-year suspension."
+    },
+    "es": {
+      "q": "En Kansas, ¿qué pasa la primera vez que un conductor se niega a hacerse una prueba de alcohol o drogas?",
+      "o": [
+        "La licencia se suspende por 1 año",
+        "El conductor solo recibe una advertencia",
+        "La licencia se suspende por 30 días",
+        "Le quitan la licencia de por vida"
+      ],
+      "h1": "Es una suspensión larga, pero no de por vida.",
+      "h2": "En Kansas, negarse por primera vez a una prueba de alcohol o drogas significa una suspensión obligatoria de la licencia por un año.",
+      "p": "Correcto. Una primera negativa trae una suspensión de un año."
+    }
+  },
+  {
+    "id": "ks-027",
+    "scope": "KS",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.ksrevenue.gov/pdf/dlhb.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Kansas, a child aged 4 to 8 may use a seat belt instead of a booster seat in which case?",
+      "o": [
+        "When riding in the back seat",
+        "When the trip is short",
+        "When the child is taller than 4 feet 9 inches or weighs over 80 pounds",
+        "When a parent gives permission"
+      ],
+      "h1": "It depends on the child's size, not on the trip.",
+      "h2": "In Kansas, a child aged 4 to 8 must use a child safety seat or booster seat unless the child is taller than 4 feet 9 inches or weighs more than 80 pounds.",
+      "p": "Right. Only a child over 4 feet 9 inches or 80 pounds may skip the booster."
+    },
+    "es": {
+      "q": "En Kansas, ¿en qué caso un niño de 4 a 8 años puede usar el cinturón de seguridad en lugar de un asiento elevado?",
+      "o": [
+        "Cuando va en el asiento trasero",
+        "Cuando el viaje es corto",
+        "Cuando el niño mide más de 4 pies 9 pulgadas o pesa más de 80 libras",
+        "Cuando un padre le da permiso"
+      ],
+      "h1": "Depende del tamaño del niño, no del viaje.",
+      "h2": "En Kansas, un niño de 4 a 8 años debe usar un asiento de seguridad infantil o asiento elevado, a menos que mida más de 4 pies 9 pulgadas o pese más de 80 libras.",
+      "p": "Correcto. Solo un niño de más de 4 pies 9 pulgadas o de 80 libras puede dejar el asiento elevado."
+    }
   }
 ]
