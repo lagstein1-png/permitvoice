@@ -2540,5 +2540,651 @@
       "h2": "في New Jersey، لا يجوز لك أن تركن على مسافة أقل من 10 أقدام من صنبور إطفاء الحريق.",
       "p": "صحيح. ابقَ على بعد 10 أقدام على الأقل من صنبور الإطفاء."
     }
+  },
+  {
+    "id": "nj-032",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, you move to a new home. How soon must you report your new address to the MVC?",
+      "o": [
+        "Within one week",
+        "Within 30 days",
+        "Within 60 days",
+        "Only when you renew your license"
+      ],
+      "h1": "It is a short time, counted in days, not months.",
+      "h2": "In New Jersey, you must report a new address to the MVC within one week after you move.",
+      "p": "Right. Report a new address within one week."
+    },
+    "es": {
+      "q": "En New Jersey, usted se muda a una casa nueva. ¿En cuánto tiempo debe informar su nueva dirección a la MVC?",
+      "o": [
+        "Dentro de una semana",
+        "Dentro de 30 días",
+        "Dentro de 60 días",
+        "Solo cuando renueve su licencia"
+      ],
+      "h1": "Es poco tiempo, contado en días, no en meses.",
+      "h2": "En New Jersey, usted debe informar su nueva dirección a la MVC dentro de una semana después de mudarse.",
+      "p": "Correcto. Informe la nueva dirección dentro de una semana."
+    }
+  },
+  {
+    "id": "nj-033",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, for how long is a new driver license valid?",
+      "o": [
+        "Two years",
+        "Four years",
+        "Eight years",
+        "Until you turn 65"
+      ],
+      "h1": "It is more than two years but less than eight.",
+      "h2": "In New Jersey, driver licenses are valid for four years.",
+      "p": "Right. A New Jersey license lasts four years."
+    },
+    "es": {
+      "q": "En New Jersey, ¿por cuánto tiempo es válida una licencia de conducir nueva?",
+      "o": [
+        "Dos años",
+        "Cuatro años",
+        "Ocho años",
+        "Hasta que cumpla 65 años"
+      ],
+      "h1": "Es más de dos años pero menos de ocho.",
+      "h2": "En New Jersey, las licencias de conducir son válidas por cuatro años.",
+      "p": "Correcto. Una licencia de New Jersey dura cuatro años."
+    }
+  },
+  {
+    "id": "nj-034",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, how many hours of behind-the-wheel lessons does an approved course for a special learner permit include?",
+      "o": [
+        "Two hours",
+        "Fifty hours",
+        "Six hours",
+        "Ten hours"
+      ],
+      "h1": "It is about one full school day of lessons with an instructor.",
+      "h2": "In New Jersey, an approved course for a special learner permit is six full hours of behind-the-wheel lessons in a car with dual controls.",
+      "p": "Right. The course is six hours behind the wheel."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuántas horas de clases al volante incluye un curso aprobado para el permiso especial de aprendiz?",
+      "o": [
+        "Dos horas",
+        "Cincuenta horas",
+        "Seis horas",
+        "Diez horas"
+      ],
+      "h1": "Es más o menos un día escolar completo de clases con un instructor.",
+      "h2": "En New Jersey, un curso aprobado para el permiso especial de aprendiz son seis horas completas de clases al volante en un carro con doble control.",
+      "p": "Correcto. El curso es de seis horas al volante."
+    }
+  },
+  {
+    "id": "nj-035",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, how long must you drive with a probationary license before you can get a basic driver license?",
+      "o": [
+        "Three months",
+        "Six months",
+        "Two years",
+        "At least one year"
+      ],
+      "h1": "It is longer than the six months of supervised practice.",
+      "h2": "In New Jersey, you must drive for at least one year with a probationary license before you can get a basic driver license.",
+      "p": "Right. At least one year on a probationary license."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuánto tiempo debe manejar con licencia probatoria antes de obtener la licencia de conducir básica?",
+      "o": [
+        "Tres meses",
+        "Seis meses",
+        "Dos años",
+        "Al menos un año"
+      ],
+      "h1": "Es más que los seis meses de práctica supervisada.",
+      "h2": "En New Jersey, usted debe manejar al menos un año con licencia probatoria antes de obtener la licencia de conducir básica.",
+      "p": "Correcto. Al menos un año con licencia probatoria."
+    }
+  },
+  {
+    "id": "nj-036",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 99,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, when may you use studded snow tires?",
+      "o": [
+        "From November 15 to April 1",
+        "From October 1 to May 1",
+        "From December 1 to March 1",
+        "Any time of the year"
+      ],
+      "h1": "The season starts in the middle of November.",
+      "h2": "In New Jersey, you may use studded snow tires from November 15 to April 1.",
+      "p": "Right. Studded tires are allowed from November 15 to April 1."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuándo puede usar llantas de nieve con clavos?",
+      "o": [
+        "Del 15 de noviembre al 1 de abril",
+        "Del 1 de octubre al 1 de mayo",
+        "Del 1 de diciembre al 1 de marzo",
+        "En cualquier época del año"
+      ],
+      "h1": "La temporada empieza a mediados de noviembre.",
+      "h2": "En New Jersey, puede usar llantas de nieve con clavos del 15 de noviembre al 1 de abril.",
+      "p": "Correcto. Las llantas con clavos se permiten del 15 de noviembre al 1 de abril."
+    }
+  },
+  {
+    "id": "nj-037",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 47,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, you drive without clearing the snow and ice off your car. What fine can you get, even if nothing flies off?",
+      "o": [
+        "No fine, unless snow flies off",
+        "$25 to $75",
+        "$200 to $1,000",
+        "$1,500"
+      ],
+      "h1": "You can be fined even if no snow falls off, but the amount is small.",
+      "h2": "In New Jersey, driving without clearing snow and ice off your car can bring a fine of $25 to $75, even if nothing flies off.",
+      "p": "Right. Not clearing your car can cost $25 to $75."
+    },
+    "es": {
+      "q": "En New Jersey, usted maneja sin quitar la nieve y el hielo de su carro. ¿Qué multa le pueden poner, aunque no se caiga nada?",
+      "o": [
+        "Ninguna multa, a menos que se caiga la nieve",
+        "$25 a $75",
+        "$200 a $1,000",
+        "$1,500"
+      ],
+      "h1": "Le pueden multar aunque no se caiga nada de nieve, pero la cantidad es pequeña.",
+      "h2": "En New Jersey, manejar sin quitar la nieve y el hielo de su carro puede costarle una multa de $25 a $75, aunque no se caiga nada.",
+      "p": "Correcto. No limpiar su carro puede costar de $25 a $75."
+    }
+  },
+  {
+    "id": "nj-038",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 50,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, apart from a few exceptions such as being stuck in traffic, how long may a vehicle sit with its engine idling?",
+      "o": [
+        "One minute",
+        "Ten minutes",
+        "Three minutes",
+        "Fifteen minutes"
+      ],
+      "h1": "It is only a few minutes.",
+      "h2": "In New Jersey, the law limits vehicle idling to three minutes or less, with a few exceptions such as being stuck in traffic.",
+      "p": "Right. Idling is limited to three minutes."
+    },
+    "es": {
+      "q": "En New Jersey, salvo algunas excepciones como estar atascado en el tráfico, ¿cuánto tiempo puede estar un vehículo con el motor encendido sin moverse?",
+      "o": [
+        "Un minuto",
+        "Diez minutos",
+        "Tres minutos",
+        "Quince minutos"
+      ],
+      "h1": "Son solo unos pocos minutos.",
+      "h2": "En New Jersey, la ley limita a tres minutos o menos el tiempo que un vehículo puede estar con el motor encendido sin moverse, con algunas excepciones como estar atascado en el tráfico.",
+      "p": "Correcto. El motor encendido sin moverse se limita a tres minutos."
+    }
+  },
+  {
+    "id": "nj-039",
+    "scope": "NJ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 78,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, an ice cream truck ahead has its red lights flashing and its stop arm out. What must you do?",
+      "o": [
+        "Slow to 25 mph and pass",
+        "Pass at normal speed if no one is crossing",
+        "Stop and wait until the truck drives away",
+        "Stop, then pass at no more than 15 mph"
+      ],
+      "h1": "Children may run to or from the truck, so you stop first.",
+      "h2": "In New Jersey, you must stop for an ice cream truck with flashing red lights and a stop arm, yield to people crossing, then pass at no more than 15 mph.",
+      "p": "Right. Stop first, then pass at 15 mph or less."
+    },
+    "es": {
+      "q": "En New Jersey, un camión de helados adelante tiene las luces rojas intermitentes y el brazo de pare extendido. ¿Qué debe hacer?",
+      "o": [
+        "Bajar a 25 mph y pasar",
+        "Pasar a velocidad normal si nadie está cruzando",
+        "Parar y esperar hasta que el camión se vaya",
+        "Parar, y luego pasar a no más de 15 mph"
+      ],
+      "h1": "Puede haber niños que corren hacia el camión o desde él, así que primero se para.",
+      "h2": "En New Jersey, usted debe parar ante un camión de helados con luces rojas intermitentes y brazo de pare, ceder el paso a quienes cruzan, y luego pasar a no más de 15 mph.",
+      "p": "Correcto. Primero pare, y luego pase a 15 mph o menos."
+    }
+  },
+  {
+    "id": "nj-040",
+    "scope": "NJ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 78,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, how close may you park to a fire department vehicle that is in service?",
+      "o": [
+        "No closer than 200 feet",
+        "No closer than 50 feet",
+        "No closer than 20 feet",
+        "No closer than 10 feet"
+      ],
+      "h1": "It is a long distance, more than half a football field.",
+      "h2": "In New Jersey, you may not park within 200 feet of a fire department vehicle that is in service.",
+      "p": "Right. Stay at least 200 feet away from a working fire vehicle."
+    },
+    "es": {
+      "q": "En New Jersey, ¿qué tan cerca puede estacionarse de un vehículo de bomberos que está en servicio?",
+      "o": [
+        "No a menos de 200 pies",
+        "No a menos de 50 pies",
+        "No a menos de 20 pies",
+        "No a menos de 10 pies"
+      ],
+      "h1": "Es una distancia larga, más de medio campo de fútbol americano.",
+      "h2": "En New Jersey, no puede estacionarse a menos de 200 pies de un vehículo de bomberos que está en servicio.",
+      "p": "Correcto. Quédese al menos a 200 pies de un vehículo de bomberos en servicio."
+    }
+  },
+  {
+    "id": "nj-041",
+    "scope": "NJ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 66,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, how many points go on your record if you fail to stop for a person in a crosswalk?",
+      "o": [
+        "None, only a fine",
+        "Two points",
+        "Five points",
+        "Eight points"
+      ],
+      "h1": "It is the same number of points as many common moving violations.",
+      "h2": "In New Jersey, failing to stop for a person in a crosswalk adds two points to your record, along with a fine of up to $500.",
+      "p": "Right. It adds two points to your record."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuántos puntos se agregan a su historial si no para ante una persona en un cruce peatonal?",
+      "o": [
+        "Ninguno, solo una multa",
+        "Dos puntos",
+        "Cinco puntos",
+        "Ocho puntos"
+      ],
+      "h1": "Es la misma cantidad de puntos que muchas infracciones de tránsito comunes.",
+      "h2": "En New Jersey, no parar ante una persona en un cruce peatonal agrega dos puntos a su historial, además de una multa de hasta $500.",
+      "p": "Correcto. Agrega dos puntos a su historial."
+    }
+  },
+  {
+    "id": "nj-042",
+    "scope": "NJ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 62,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, on a road with a 65 mph limit, how fast over the limit must you go for the speeding fine to double?",
+      "o": [
+        "Any amount over the limit",
+        "5 mph or more over",
+        "10 mph or more over",
+        "20 mph or more over"
+      ],
+      "h1": "It is a round number between 5 and 20.",
+      "h2": "In New Jersey, speeding fines are doubled for going 10 mph or more over the limit in a 65 mph zone.",
+      "p": "Right. Fines double at 10 mph or more over in a 65 mph zone."
+    },
+    "es": {
+      "q": "En New Jersey, en una carretera con límite de 65 mph, ¿cuánto debe pasar el límite para que la multa por exceso de velocidad sea el doble?",
+      "o": [
+        "Cualquier cantidad sobre el límite",
+        "5 mph o más sobre el límite",
+        "10 mph o más sobre el límite",
+        "20 mph o más sobre el límite"
+      ],
+      "h1": "Es un número redondo entre 5 y 20.",
+      "h2": "En New Jersey, las multas por exceso de velocidad son el doble si va a 10 mph o más sobre el límite en una zona de 65 mph.",
+      "p": "Correcto. La multa es el doble a 10 mph o más sobre el límite en una zona de 65 mph."
+    }
+  },
+  {
+    "id": "nj-043",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 139,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, how many points do you get for driving 15 to 29 mph over the speed limit?",
+      "o": [
+        "Two points",
+        "Three points",
+        "Five points",
+        "Four points"
+      ],
+      "h1": "It is more than the points for going 1 to 14 mph over, and less than for 30 or more.",
+      "h2": "In New Jersey, driving 15 to 29 mph over the speed limit adds four points to your record.",
+      "p": "Right. Going 15 to 29 mph over costs four points."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuántos puntos recibe por manejar de 15 a 29 mph sobre el límite de velocidad?",
+      "o": [
+        "Dos puntos",
+        "Tres puntos",
+        "Cinco puntos",
+        "Cuatro puntos"
+      ],
+      "h1": "Es más que los puntos por ir de 1 a 14 mph sobre el límite, y menos que por ir 30 o más.",
+      "h2": "En New Jersey, manejar de 15 a 29 mph sobre el límite de velocidad agrega cuatro puntos a su historial.",
+      "p": "Correcto. Ir de 15 a 29 mph sobre el límite cuesta cuatro puntos."
+    }
+  },
+  {
+    "id": "nj-044",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 135,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, how many points come off your record when you finish an approved defensive driving course?",
+      "o": [
+        "Two points",
+        "Four points",
+        "Six points",
+        "All of your points"
+      ],
+      "h1": "It is a small number, and the MVC counts the course only once every five years.",
+      "h2": "In New Jersey, finishing an approved defensive driving course takes two points off your record.",
+      "p": "Right. The course removes two points."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuántos puntos se quitan de su historial cuando termina un curso aprobado de manejo defensivo?",
+      "o": [
+        "Dos puntos",
+        "Cuatro puntos",
+        "Seis puntos",
+        "Todos sus puntos"
+      ],
+      "h1": "Es un número pequeño, y la MVC cuenta el curso solo una vez cada cinco años.",
+      "h2": "En New Jersey, terminar un curso aprobado de manejo defensivo quita dos puntos de su historial.",
+      "p": "Correcto. El curso quita dos puntos."
+    }
+  },
+  {
+    "id": "nj-045",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 134,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, a new driver is convicted of two moving violations worth 4 or more points in the first two years after getting a permit. What must the driver do?",
+      "o": [
+        "Retake the knowledge test",
+        "Complete the Probationary Driver Program",
+        "Pay a $1,000 surcharge",
+        "Get a new permit and start over"
+      ],
+      "h1": "It is a program for new drivers, run by approved driving schools and safety groups.",
+      "h2": "In New Jersey, a new driver with two or more moving violations worth 4 or more points in the two-year probationary period must complete the Probationary Driver Program.",
+      "p": "Right. The driver must complete the Probationary Driver Program."
+    },
+    "es": {
+      "q": "En New Jersey, un conductor nuevo es condenado por dos infracciones de tránsito que suman 4 puntos o más en los primeros dos años después de obtener el permiso. ¿Qué debe hacer?",
+      "o": [
+        "Volver a tomar el examen de conocimientos",
+        "Completar el Probationary Driver Program (programa para conductores nuevos)",
+        "Pagar un recargo de $1,000",
+        "Obtener un permiso nuevo y empezar de cero"
+      ],
+      "h1": "Es un programa para conductores nuevos que dan escuelas de manejo y organizaciones de seguridad aprobadas.",
+      "h2": "En New Jersey, un conductor nuevo con dos o más infracciones que suman 4 puntos o más en el período probatorio de dos años debe completar el Probationary Driver Program.",
+      "p": "Correcto. El conductor debe completar el Probationary Driver Program."
+    }
+  },
+  {
+    "id": "nj-046",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 127,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, a driver refuses to take a breath test. What surcharge does the driver face?",
+      "o": [
+        "$250, paid once",
+        "$500 a year for two years",
+        "$1,000 a year for three years",
+        "No surcharge, only a warning"
+      ],
+      "h1": "It is paid every year for more than one year.",
+      "h2": "In New Jersey, a driver who refuses a breath test faces a surcharge of $1,000 a year for three years.",
+      "p": "Right. Refusing costs $1,000 a year for three years."
+    },
+    "es": {
+      "q": "En New Jersey, un conductor se niega a hacerse la prueba de aliento. ¿Qué recargo le corresponde?",
+      "o": [
+        "$250, que se paga una vez",
+        "$500 al año por dos años",
+        "$1,000 al año por tres años",
+        "Ningún recargo, solo una advertencia"
+      ],
+      "h1": "Se paga cada año, por más de un año.",
+      "h2": "En New Jersey, un conductor que se niega a la prueba de aliento debe pagar un recargo de $1,000 al año por tres años.",
+      "p": "Correcto. Negarse cuesta $1,000 al año por tres años."
+    }
+  },
+  {
+    "id": "nj-047",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 130,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, a driver leaves the scene of a crash where someone was hurt. For a first offense, how long does the driver lose their license?",
+      "o": [
+        "30 days",
+        "Six months",
+        "For life",
+        "One year"
+      ],
+      "h1": "Losing it for life is the penalty for doing it again.",
+      "h2": "In New Jersey, a first offense of leaving the scene of a crash where someone was hurt means losing your license for one year.",
+      "p": "Right. A first hit-and-run with injury costs your license for one year."
+    },
+    "es": {
+      "q": "En New Jersey, un conductor se va del lugar de un choque donde alguien resultó herido. Por una primera infracción, ¿por cuánto tiempo pierde la licencia?",
+      "o": [
+        "30 días",
+        "Seis meses",
+        "De por vida",
+        "Un año"
+      ],
+      "h1": "Perderla de por vida es el castigo por hacerlo otra vez.",
+      "h2": "En New Jersey, una primera infracción por irse del lugar de un choque donde alguien resultó herido significa perder la licencia por un año.",
+      "p": "Correcto. Una primera fuga con heridos le quita la licencia por un año."
+    }
+  },
+  {
+    "id": "nj-048",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 129,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, what is the fine for a first offense of carrying an open container of alcohol in the passenger area of a car?",
+      "o": [
+        "$200",
+        "$50",
+        "$100",
+        "$1,000"
+      ],
+      "h1": "It is a few hundred dollars, not thousands.",
+      "h2": "In New Jersey, a first offense of carrying an open container of alcohol in the passenger area of a car brings a $200 fine.",
+      "p": "Right. A first offense costs $200."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuál es la multa por una primera vez de llevar un envase de alcohol abierto en el área de pasajeros de un carro?",
+      "o": [
+        "$200",
+        "$50",
+        "$100",
+        "$1,000"
+      ],
+      "h1": "Son unos cientos de dólares, no miles.",
+      "h2": "En New Jersey, una primera infracción por llevar un envase de alcohol abierto en el área de pasajeros de un carro tiene una multa de $200.",
+      "p": "Correcto. Una primera infracción cuesta $200."
+    }
+  },
+  {
+    "id": "nj-049",
+    "scope": "NJ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 150,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, a bus has picked up passengers and signals to pull back into traffic. What must you do?",
+      "o": [
+        "Speed up and pass it before it moves",
+        "Yield and let the bus back into the lane",
+        "Yield only if it is a school bus",
+        "Honk and keep going, because the bus must wait"
+      ],
+      "h1": "State law protects buses at this moment.",
+      "h2": "In New Jersey, you must yield to a bus that is pulling back into traffic after picking up or dropping off passengers.",
+      "p": "Right. Let the bus back into traffic."
+    },
+    "es": {
+      "q": "En New Jersey, un autobús recogió pasajeros y señala que va a volver al tráfico. ¿Qué debe hacer?",
+      "o": [
+        "Acelerar y pasarlo antes de que se mueva",
+        "Ceder el paso y dejar que el autobús vuelva al carril",
+        "Ceder el paso solo si es un autobús escolar",
+        "Tocar la bocina y seguir, porque el autobús debe esperar"
+      ],
+      "h1": "La ley del estado protege a los autobuses en este momento.",
+      "h2": "En New Jersey, usted debe ceder el paso a un autobús que vuelve al tráfico después de recoger o dejar pasajeros.",
+      "p": "Correcto. Deje que el autobús vuelva al tráfico."
+    }
+  },
+  {
+    "id": "nj-050",
+    "scope": "NJ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 155,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, how fast may you go when you come up to or pass a horse-drawn vehicle?",
+      "o": [
+        "No more than 10 mph",
+        "No more than 35 mph",
+        "No more than 25 mph",
+        "The posted speed limit"
+      ],
+      "h1": "It is the same speed as in many school zones.",
+      "h2": "In New Jersey, you must slow to 25 mph or less when you come up to or pass a horse-drawn vehicle.",
+      "p": "Right. Slow to 25 mph or less near a horse-drawn vehicle."
+    },
+    "es": {
+      "q": "En New Jersey, ¿a qué velocidad puede ir cuando se acerca a un vehículo tirado por caballos o lo pasa?",
+      "o": [
+        "A no más de 10 mph",
+        "A no más de 35 mph",
+        "A no más de 25 mph",
+        "Al límite de velocidad indicado"
+      ],
+      "h1": "Es la misma velocidad que en muchas zonas escolares.",
+      "h2": "En New Jersey, usted debe bajar a 25 mph o menos cuando se acerca a un vehículo tirado por caballos o lo pasa.",
+      "p": "Correcto. Baje a 25 mph o menos cerca de un vehículo tirado por caballos."
+    }
   }
 ]
