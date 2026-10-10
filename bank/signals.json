@@ -3472,5 +3472,1331 @@
       "h2": "Sou yon wout ki gen separasyon, liy bò goch la jòn epi liy bò dwat la blan, sa ki ede ou wè bò ki vire sou machin k ap ale nan direksyon opoze a.",
       "p": "Se sa. Liy bò goch la jòn; liy bò dwat la blan."
     }
+  },
+  {
+    "id": "signals-039",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4E.04, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "On a traffic light that hangs up and down (vertical), where is the red light?",
+      "o": [
+        "At the bottom",
+        "In the middle",
+        "It can be anywhere",
+        "At the top"
+      ],
+      "h1": "The order is the same on every vertical signal.",
+      "h2": "On a vertical traffic light, red is always at the top, yellow is in the middle and green is at the bottom.",
+      "p": "Right. Red is always on top."
+    },
+    "es": {
+      "q": "En un semáforo que cuelga de arriba hacia abajo (vertical), ¿dónde está la luz roja?",
+      "o": [
+        "Abajo",
+        "En el medio",
+        "Puede estar en cualquier lugar",
+        "Arriba"
+      ],
+      "h1": "El orden es igual en todos los semáforos verticales.",
+      "h2": "En un semáforo vertical, el rojo siempre está arriba, el amarillo en el medio y el verde abajo.",
+      "p": "Correcto. El rojo siempre está arriba."
+    }
+  },
+  {
+    "id": "signals-040",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4E.05, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "On a traffic light that hangs sideways (horizontal), where is the red light?",
+      "o": [
+        "On the left",
+        "On the right",
+        "In the middle",
+        "It can be anywhere"
+      ],
+      "h1": "The position helps people who cannot tell colors apart.",
+      "h2": "On a horizontal traffic light, red is always on the left, so you can tell which light is on even if colors are hard to see.",
+      "p": "Right. Red is always on the left."
+    },
+    "es": {
+      "q": "En un semáforo que cuelga de lado (horizontal), ¿dónde está la luz roja?",
+      "o": [
+        "A la izquierda",
+        "A la derecha",
+        "En el medio",
+        "Puede estar en cualquier lugar"
+      ],
+      "h1": "La posición ayuda a quienes no distinguen bien los colores.",
+      "h2": "En un semáforo horizontal, el rojo siempre está a la izquierda, así que puede saber qué luz está encendida aunque le cueste ver los colores.",
+      "p": "Correcto. El rojo siempre está a la izquierda."
+    }
+  },
+  {
+    "id": "signals-041",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4S.03, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "A yellow light flashes above a warning sign. What does it mean?",
+      "o": [
+        "Stop before the sign",
+        "Pay extra attention to what the warning sign says",
+        "The sign does not apply right now",
+        "The road is closed"
+      ],
+      "h1": "A flashing yellow beacon calls attention.",
+      "h2": "A flashing yellow light on a warning sign means you should pay extra attention to the warning, because it applies right now.",
+      "p": "Right. Pay extra attention to the warning."
+    },
+    "es": {
+      "q": "Una luz amarilla parpadea encima de una señal de advertencia. ¿Qué significa?",
+      "o": [
+        "Que se pare antes de la señal",
+        "Que preste más atención a lo que dice la señal",
+        "Que la señal no se aplica ahora",
+        "Que la vía está cerrada"
+      ],
+      "h1": "Una luz amarilla intermitente llama la atención.",
+      "h2": "Una luz amarilla intermitente en una señal de advertencia significa que debe prestar más atención a la advertencia, porque se aplica en este momento.",
+      "p": "Correcto. Preste más atención a la advertencia."
+    }
+  },
+  {
+    "id": "signals-042",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4S.05, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "A red light flashes above a STOP sign. What must you do?",
+      "o": [
+        "Slow down without stopping",
+        "Wait until the light turns green",
+        "Stop fully, as the STOP sign says, then go when it is safe",
+        "Ignore the light; follow only the sign"
+      ],
+      "h1": "The red light adds attention to the STOP sign.",
+      "h2": "A flashing red light above a STOP sign means you must come to a full stop, then go only when it is safe.",
+      "p": "Right. Stop fully, then go when safe."
+    },
+    "es": {
+      "q": "Una luz roja parpadea encima de una señal de PARE. ¿Qué debe hacer?",
+      "o": [
+        "Bajar la velocidad sin pararse",
+        "Esperar a que la luz cambie a verde",
+        "Pararse por completo, como indica la señal, y seguir cuando sea seguro",
+        "Ignorar la luz y seguir solo la señal"
+      ],
+      "h1": "La luz roja refuerza la señal de PARE.",
+      "h2": "Una luz roja intermitente encima de una señal de PARE significa que debe pararse por completo y seguir solo cuando sea seguro.",
+      "p": "Correcto. Párese por completo y siga cuando sea seguro."
+    }
+  },
+  {
+    "id": "signals-043",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4S.02, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "At an intersection, the light facing you flashes yellow. The light facing the cross street flashes red. Who must stop?",
+      "o": [
+        "You must stop; the cross street goes ahead",
+        "Everyone must stop",
+        "No one needs to slow down",
+        "Drivers on the cross street must stop; you go ahead with care"
+      ],
+      "h1": "Flashing red means stop. Flashing yellow means caution.",
+      "h2": "Drivers facing a flashing red light must stop, while you, facing flashing yellow, may go ahead with care, watching for anyone who does not stop.",
+      "p": "Right. The cross street stops; you proceed with care."
+    },
+    "es": {
+      "q": "En una intersección, la luz que usted ve parpadea en amarillo. La luz de la calle transversal parpadea en rojo. ¿Quién debe pararse?",
+      "o": [
+        "Usted debe pararse; la calle transversal sigue",
+        "Todos deben pararse",
+        "Nadie necesita bajar la velocidad",
+        "Los de la calle transversal deben pararse; usted sigue con cuidado"
+      ],
+      "h1": "Rojo intermitente es pare. Amarillo intermitente es precaución.",
+      "h2": "Los conductores con luz roja intermitente deben pararse, mientras usted, con amarillo intermitente, puede seguir con cuidado, atento a quien no se pare.",
+      "p": "Correcto. La transversal se para; usted sigue con cuidado."
+    }
+  },
+  {
+    "id": "signals-044",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4A.04, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "You want to turn right. A red arrow pointing right is flashing. What must you do?",
+      "o": [
+        "Stop fully, then turn when the way is clear",
+        "Turn without stopping",
+        "Wait until the arrow turns green",
+        "Go straight instead"
+      ],
+      "h1": "A flashing red works like a STOP sign.",
+      "h2": "A flashing red arrow means you must stop fully, then you may turn in the direction of the arrow when it is safe.",
+      "p": "Right. Stop, then turn when clear."
+    },
+    "es": {
+      "q": "Usted quiere girar a la derecha. Una flecha roja que apunta a la derecha está parpadeando. ¿Qué debe hacer?",
+      "o": [
+        "Pararse por completo y girar cuando el camino esté libre",
+        "Girar sin pararse",
+        "Esperar a que la flecha se ponga verde",
+        "Seguir derecho en vez de girar"
+      ],
+      "h1": "El rojo intermitente funciona como una señal de PARE.",
+      "h2": "Una flecha roja intermitente significa que debe pararse por completo y luego puede girar hacia donde apunta la flecha cuando sea seguro.",
+      "p": "Correcto. Párese y gire cuando esté libre."
+    }
+  },
+  {
+    "id": "signals-045",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4A.06, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "A pedestrian signal shows a steady (not flashing) raised hand. What does it mean for people on foot?",
+      "o": [
+        "Start crossing now",
+        "Do not enter the street",
+        "Cross quickly",
+        "Cross only in the middle of the block"
+      ],
+      "h1": "A steady hand means wait.",
+      "h2": "A steady raised hand means people on foot must not enter the street in that direction.",
+      "p": "Right. Do not enter the street."
+    },
+    "es": {
+      "q": "Una señal peatonal muestra una mano levantada fija (sin parpadear). ¿Qué significa para los peatones?",
+      "o": [
+        "Empezar a cruzar ahora",
+        "No entrar a la calle",
+        "Cruzar rápido",
+        "Cruzar solo a mitad de cuadra"
+      ],
+      "h1": "Una mano fija significa esperar.",
+      "h2": "Una mano levantada fija significa que los peatones no deben entrar a la calle en esa dirección.",
+      "p": "Correcto. No entrar a la calle."
+    }
+  },
+  {
+    "id": "signals-046",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4K.01, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "At a crosswalk, you hear beeping or a voice saying the walk sign is on. What is it for?",
+      "o": [
+        "To tell drivers to speed up",
+        "To warn of a train",
+        "To help people who are blind or have low vision know when to cross",
+        "To tell drivers the light is broken"
+      ],
+      "h1": "Some people cannot see the walk signal.",
+      "h2": "Accessible pedestrian signals make sounds or speak so that people who are blind or have low vision know when the walk signal is on.",
+      "p": "Right. It helps people who cannot see the signal."
+    },
+    "es": {
+      "q": "En un cruce peatonal, usted oye pitidos o una voz que dice que la señal para cruzar está encendida. ¿Para qué es?",
+      "o": [
+        "Para decirles a los conductores que aceleren",
+        "Para advertir de un tren",
+        "Para que las personas ciegas o con baja visión sepan cuándo cruzar",
+        "Para avisar que el semáforo está dañado"
+      ],
+      "h1": "Algunas personas no pueden ver la señal peatonal.",
+      "h2": "Las señales peatonales accesibles hacen sonidos o hablan para que las personas ciegas o con baja visión sepan cuándo está encendida la señal de cruzar.",
+      "p": "Correcto. Ayuda a quienes no pueden ver la señal."
+    }
+  },
+  {
+    "id": "signals-047",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4J.03, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "At a crosswalk in the middle of a block, a signal above the road is dark (no lights on). What does that mean?",
+      "o": [
+        "You must stop",
+        "The signal is broken, so stop",
+        "Treat it as a flashing yellow",
+        "No one has asked to cross; drive normally but watch for people"
+      ],
+      "h1": "This kind of signal turns on only when a person pushes the button.",
+      "h2": "A pedestrian hybrid beacon stays dark until someone pushes the button, so when it is dark you may drive normally while watching for people.",
+      "p": "Right. Dark means no one is crossing yet."
+    },
+    "es": {
+      "q": "En un cruce peatonal a mitad de cuadra, un semáforo sobre la vía está apagado. ¿Qué significa?",
+      "o": [
+        "Debe pararse",
+        "El semáforo está dañado, así que párese",
+        "Trátelo como un amarillo intermitente",
+        "Nadie ha pedido cruzar; maneje normalmente pero fíjese en los peatones"
+      ],
+      "h1": "Este tipo de semáforo se enciende solo cuando alguien aprieta el botón.",
+      "h2": "Un semáforo híbrido peatonal está apagado hasta que alguien aprieta el botón, así que cuando está apagado puede manejar normalmente, atento a los peatones.",
+      "p": "Correcto. Apagado significa que nadie está cruzando aún."
+    }
+  },
+  {
+    "id": "signals-048",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4J.03, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "At a mid-block crosswalk, a signal with two red lights side by side shows both reds steady. What must you do?",
+      "o": [
+        "Stop and stay stopped while people cross",
+        "Slow down and go if no one is in your lane",
+        "Go ahead; it is only for bicycles",
+        "Honk and go"
+      ],
+      "h1": "Steady red always means stop.",
+      "h2": "When a pedestrian hybrid beacon shows steady red lights, you must stop and stay stopped while people cross.",
+      "p": "Right. Steady red: stop and stay stopped."
+    },
+    "es": {
+      "q": "En un cruce a mitad de cuadra, un semáforo con dos luces rojas una al lado de la otra muestra ambas rojas fijas. ¿Qué debe hacer?",
+      "o": [
+        "Pararse y seguir parado mientras la gente cruza",
+        "Bajar la velocidad y seguir si no hay nadie en su carril",
+        "Seguir; es solo para bicicletas",
+        "Tocar la bocina y seguir"
+      ],
+      "h1": "El rojo fijo siempre significa pare.",
+      "h2": "Cuando un semáforo híbrido peatonal muestra luces rojas fijas, usted debe pararse y seguir parado mientras la gente cruza.",
+      "p": "Correcto. Rojo fijo: párese y siga parado."
+    }
+  },
+  {
+    "id": "signals-049",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4J.03, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "At a mid-block crosswalk, the two red lights above the road flash back and forth (wig-wag). What should you do?",
+      "o": [
+        "Keep going without stopping",
+        "Stop, then go only if the people have finished crossing",
+        "Stay stopped until the lights go dark, even if no one is there",
+        "Speed up before the lights turn steady"
+      ],
+      "h1": "Flashing red works like a STOP sign.",
+      "h2": "Alternating flashing red lights mean stop, then you may go only after people in the crosswalk have finished crossing.",
+      "p": "Right. Stop, then go when the crosswalk is clear."
+    },
+    "es": {
+      "q": "En un cruce a mitad de cuadra, las dos luces rojas sobre la vía parpadean de forma alterna. ¿Qué debe hacer?",
+      "o": [
+        "Seguir sin pararse",
+        "Pararse y seguir solo si las personas terminaron de cruzar",
+        "Quedarse parado hasta que se apaguen, aunque no haya nadie",
+        "Acelerar antes de que se queden fijas"
+      ],
+      "h1": "El rojo intermitente funciona como una señal de PARE.",
+      "h2": "Las luces rojas intermitentes alternas significan pare, y puede seguir solo después de que las personas terminen de cruzar.",
+      "p": "Correcto. Párese y siga cuando el cruce esté libre."
+    }
+  },
+  {
+    "id": "signals-050",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4L.01, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Under a pedestrian crossing sign, bright yellow lights flash very fast. What does it mean?",
+      "o": [
+        "The crosswalk is closed",
+        "Speed up to clear the crosswalk",
+        "Someone wants to cross, so be ready to stop and let them cross",
+        "A train is coming"
+      ],
+      "h1": "A person pushed a button to turn these lights on.",
+      "h2": "Rapid flashing yellow lights at a crosswalk mean a person is crossing or about to cross, so slow down and be ready to stop for them.",
+      "p": "Right. Someone is crossing; be ready to stop."
+    },
+    "es": {
+      "q": "Debajo de una señal de cruce peatonal, unas luces amarillas brillantes parpadean muy rápido. ¿Qué significa?",
+      "o": [
+        "Que el cruce está cerrado",
+        "Que acelere para despejar el cruce",
+        "Que alguien quiere cruzar, así que esté listo para pararse y dejarlo cruzar",
+        "Que viene un tren"
+      ],
+      "h1": "Una persona apretó un botón para encender estas luces.",
+      "h2": "Las luces amarillas de destello rápido en un cruce significan que una persona está cruzando o va a cruzar, así que baje la velocidad y esté listo para pararse.",
+      "p": "Correcto. Alguien cruza; esté listo para pararse."
+    }
+  },
+  {
+    "id": "signals-051",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4A.05, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "At an intersection, one traffic light shows the shape of a bicycle. Who does it control?",
+      "o": [
+        "All vehicles",
+        "Only buses",
+        "Only people walking",
+        "Only people riding bicycles"
+      ],
+      "h1": "Look at the shape inside the light.",
+      "h2": "A traffic light with a bicycle symbol controls only bicycle riders; drivers follow the regular signals.",
+      "p": "Right. It is for bicycles only."
+    },
+    "es": {
+      "q": "En una intersección, un semáforo muestra la figura de una bicicleta. ¿A quién controla?",
+      "o": [
+        "A todos los vehículos",
+        "Solo a los autobuses",
+        "Solo a los peatones",
+        "Solo a los ciclistas"
+      ],
+      "h1": "Fíjese en la figura dentro de la luz.",
+      "h2": "Un semáforo con el símbolo de bicicleta controla solo a los ciclistas; los conductores siguen los semáforos normales.",
+      "p": "Correcto. Es solo para bicicletas."
+    }
+  },
+  {
+    "id": "signals-052",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4M.03, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Near a fire station, a traffic light on a quiet road turns red. You see no fire truck yet. What should you do?",
+      "o": [
+        "Stop and wait; an emergency vehicle may be coming out",
+        "Go ahead, since no truck is there",
+        "Slow down and go through",
+        "Honk to see if a truck is coming"
+      ],
+      "h1": "These signals turn red so fire trucks can leave safely.",
+      "h2": "An emergency-vehicle signal turns red to let fire trucks or ambulances out, so you must stop and wait even if you do not see one yet.",
+      "p": "Right. Stop; a fire truck may be coming."
+    },
+    "es": {
+      "q": "Cerca de una estación de bomberos, un semáforo en una vía tranquila cambia a rojo. Aún no ve ningún camión de bomberos. ¿Qué debe hacer?",
+      "o": [
+        "Pararse y esperar; puede estar saliendo un vehículo de emergencia",
+        "Seguir, porque no hay ningún camión",
+        "Bajar la velocidad y pasar",
+        "Tocar la bocina para ver si viene un camión"
+      ],
+      "h1": "Estos semáforos se ponen en rojo para que salgan los bomberos con seguridad.",
+      "h2": "Un semáforo de vehículos de emergencia se pone en rojo para que salgan bomberos o ambulancias, así que debe pararse y esperar aunque aún no vea ninguno.",
+      "p": "Correcto. Párese; puede salir un camión de bomberos."
+    }
+  },
+  {
+    "id": "signals-053",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4O.03, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In a work zone where traffic shares one lane, a temporary traffic light is red. What should you do?",
+      "o": [
+        "Go if you see no cars coming",
+        "Stop at the light and wait for green",
+        "Drive slowly through",
+        "Use the shoulder to get by"
+      ],
+      "h1": "Cars from the other direction are using the lane.",
+      "h2": "A temporary traffic light in a one-lane work zone lets each direction take turns, so stop at red and wait for green.",
+      "p": "Right. Wait for green."
+    },
+    "es": {
+      "q": "En una zona de obras donde el tráfico comparte un carril, un semáforo temporal está en rojo. ¿Qué debe hacer?",
+      "o": [
+        "Seguir si no ve carros",
+        "Pararse en el semáforo y esperar el verde",
+        "Pasar despacio",
+        "Usar el acotamiento para pasar"
+      ],
+      "h1": "Los carros del otro sentido están usando el carril.",
+      "h2": "Un semáforo temporal en una zona de obras de un carril hace que cada sentido se turne, así que párese en rojo y espere el verde.",
+      "p": "Correcto. Espere el verde."
+    }
+  },
+  {
+    "id": "signals-054",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 6L.03, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In a work zone, a machine with a STOP/SLOW sign and a moving arm controls traffic instead of a person. How should you treat it?",
+      "o": [
+        "Ignore it if no worker is next to it",
+        "Drive around the arm",
+        "Obey it just like a flagger",
+        "Honk until it opens"
+      ],
+      "h1": "Workers control these devices from a distance.",
+      "h2": "An automated flagger device is run by a worker, so you must obey its STOP and SLOW signs just as you would a flagger.",
+      "p": "Right. Obey it like a flagger."
+    },
+    "es": {
+      "q": "En una zona de obras, una máquina con una señal de STOP/SLOW y un brazo que se mueve controla el tráfico en vez de una persona. ¿Cómo debe tratarla?",
+      "o": [
+        "Ignorarla si no hay un trabajador al lado",
+        "Rodear el brazo",
+        "Obedecerla igual que a un abanderado",
+        "Tocar la bocina hasta que se abra"
+      ],
+      "h1": "Los trabajadores controlan estos aparatos a distancia.",
+      "h2": "Un abanderado automático lo maneja un trabajador, así que debe obedecer sus señales de STOP y SLOW igual que a un abanderado.",
+      "p": "Correcto. Obedézcala como a un abanderado."
+    }
+  },
+  {
+    "id": "signals-055",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 4T.02, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Over the center lane of a street, a signal shows a white arrow pointing left with another curving left the other way. What may you use this lane for?",
+      "o": [
+        "Passing slow cars",
+        "Driving straight through",
+        "Parking",
+        "Left turns from either direction, not driving straight"
+      ],
+      "h1": "Two left arrows facing opposite ways.",
+      "h2": "A white two-way left-turn arrow over a lane means the lane is open only for left turns from either direction, not for through travel.",
+      "p": "Right. Left turns only, from both directions."
+    },
+    "es": {
+      "q": "Sobre el carril central de una calle, un semáforo muestra una flecha blanca a la izquierda y otra que gira a la izquierda en sentido contrario. ¿Para qué puede usar este carril?",
+      "o": [
+        "Para rebasar carros lentos",
+        "Para seguir derecho",
+        "Para estacionarse",
+        "Para girar a la izquierda desde cualquier sentido, no para seguir derecho"
+      ],
+      "h1": "Dos flechas a la izquierda en sentidos opuestos.",
+      "h2": "Una flecha blanca de giro a la izquierda en doble sentido sobre un carril significa que el carril está abierto solo para girar a la izquierda desde cualquier sentido, no para seguir derecho.",
+      "p": "Correcto. Solo giros a la izquierda, de ambos sentidos."
+    }
+  },
+  {
+    "id": "signals-056",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2H.04, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "A sign says SIGNALS SET FOR 30 MPH. What does it mean?",
+      "o": [
+        "If you drive about 30 mph, you will meet more green lights",
+        "You must drive exactly 30 mph",
+        "The lights turn red if you go faster than 30",
+        "The speed limit starts in 30 miles"
+      ],
+      "h1": "The lights are timed in a sequence.",
+      "h2": "SIGNALS SET FOR 30 MPH means the traffic lights are timed so that driving at about that speed lets you meet more green lights.",
+      "p": "Right. That speed helps you get green lights."
+    },
+    "es": {
+      "q": "Una señal dice SIGNALS SET FOR 30 MPH. ¿Qué significa?",
+      "o": [
+        "Que si maneja a unas 30 mph, encontrará más luces verdes",
+        "Que debe manejar exactamente a 30 mph",
+        "Que los semáforos se ponen rojos si va a más de 30",
+        "Que el límite empieza en 30 millas"
+      ],
+      "h1": "Los semáforos están coordinados en secuencia.",
+      "h2": "SIGNALS SET FOR 30 MPH significa que los semáforos están coordinados para que, manejando a esa velocidad, encuentre más luces verdes.",
+      "p": "Correcto. Esa velocidad le ayuda a encontrar verdes."
+    }
+  },
+  {
+    "id": "signals-057",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3A.04, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "On road markings, what does a double line usually tell you?",
+      "o": [
+        "You may cross it when you like",
+        "There are strong limits; do not cross it",
+        "The road is about to end",
+        "You are near a school"
+      ],
+      "h1": "Two lines are stronger than one.",
+      "h2": "A double line on the road shows the strongest limits, such as no passing or no lane changes, so you should not cross it.",
+      "p": "Right. A double line means do not cross."
+    },
+    "es": {
+      "q": "En las marcas de la vía, ¿qué suele indicar una línea doble?",
+      "o": [
+        "Que puede cruzarla cuando quiera",
+        "Restricciones fuertes; no la cruce",
+        "Que la vía va a terminar",
+        "Que está cerca de una escuela"
+      ],
+      "h1": "Dos líneas son más fuertes que una.",
+      "h2": "Una línea doble en la vía indica las restricciones más fuertes, como no rebasar o no cambiar de carril, así que no debe cruzarla.",
+      "p": "Correcto. Una línea doble significa no cruzar."
+    }
+  },
+  {
+    "id": "signals-058",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3B.06, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Two solid white lines run between two lanes going the same way. What do they mean?",
+      "o": [
+        "You may change lanes freely",
+        "One lane is for buses",
+        "Do not change lanes across them",
+        "Pass on either side"
+      ],
+      "h1": "A double white line is stronger than a single one.",
+      "h2": "A double solid white line between lanes means you must not cross it to change lanes.",
+      "p": "Right. Do not cross a double white line."
+    },
+    "es": {
+      "q": "Dos líneas blancas continuas separan dos carriles que van en el mismo sentido. ¿Qué significan?",
+      "o": [
+        "Que puede cambiar de carril libremente",
+        "Que un carril es para autobuses",
+        "Que no cambie de carril cruzándolas",
+        "Que puede rebasar por cualquier lado"
+      ],
+      "h1": "Una línea blanca doble es más fuerte que una sencilla.",
+      "h2": "Una línea blanca doble continua entre carriles significa que no debe cruzarla para cambiar de carril.",
+      "p": "Correcto. No cruce una línea blanca doble."
+    }
+  },
+  {
+    "id": "signals-059",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3B.07, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Between two lanes, the white line changes to short dashes that are close together. What does that warn you about?",
+      "o": [
+        "You are entering a school zone",
+        "The road will become gravel",
+        "A police check is ahead",
+        "The lane ahead will end or turn off, so get in the right lane"
+      ],
+      "h1": "Short, close dashes mean a change is coming.",
+      "h2": "A dotted white lane line warns that the lane ahead will change, for example by ending or becoming an exit or turn lane.",
+      "p": "Right. The lane is about to change."
+    },
+    "es": {
+      "q": "Entre dos carriles, la línea blanca cambia a rayas cortas y muy juntas. ¿De qué le advierte?",
+      "o": [
+        "De que entra a una zona escolar",
+        "De que la vía será de grava",
+        "De que hay un control de policía",
+        "De que el carril adelante terminará o saldrá, así que póngase en el carril correcto"
+      ],
+      "h1": "Rayas cortas y juntas indican que viene un cambio.",
+      "h2": "Una línea blanca punteada entre carriles advierte que el carril adelante va a cambiar, por ejemplo terminando o convirtiéndose en salida o carril de giro.",
+      "p": "Correcto. El carril está por cambiar."
+    }
+  },
+  {
+    "id": "signals-060",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3A.03, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "What does a solid white line along the right edge of the road show?",
+      "o": [
+        "The right edge of the road",
+        "A bike lane",
+        "A no-passing zone",
+        "A place to park"
+      ],
+      "h1": "Edge lines help you see where the road ends.",
+      "h2": "A solid white line on the right side marks the right edge of the road, which helps you stay on the road at night and in bad weather.",
+      "p": "Right. It marks the right edge of the road."
+    },
+    "es": {
+      "q": "¿Qué indica una línea blanca continua a lo largo de la orilla derecha de la vía?",
+      "o": [
+        "La orilla derecha de la vía",
+        "Un carril para bicicletas",
+        "Una zona de no rebasar",
+        "Un lugar para estacionarse"
+      ],
+      "h1": "Las líneas de orilla le ayudan a ver dónde termina la vía.",
+      "h2": "Una línea blanca continua del lado derecho marca la orilla derecha de la vía, lo que le ayuda a mantenerse en ella de noche y con mal tiempo.",
+      "p": "Correcto. Marca la orilla derecha de la vía."
+    }
+  },
+  {
+    "id": "signals-061",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3B.04, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "A lane is marked on both sides by two broken (dashed) yellow lines side by side. What kind of lane is it?",
+      "o": [
+        "A bike lane",
+        "A reversible lane, whose direction changes at certain times",
+        "A parking lane",
+        "A lane for passing only"
+      ],
+      "h1": "Signs or signals tell you which way it is open.",
+      "h2": "Double broken yellow lines mark a reversible lane, which carries traffic in different directions at different times of day.",
+      "p": "Right. It is a reversible lane."
+    },
+    "es": {
+      "q": "Un carril está marcado a ambos lados por dos líneas amarillas discontinuas, una junto a otra. ¿Qué tipo de carril es?",
+      "o": [
+        "Un carril para bicicletas",
+        "Un carril reversible, que cambia de sentido en ciertos horarios",
+        "Un carril de estacionamiento",
+        "Un carril solo para rebasar"
+      ],
+      "h1": "Señales o semáforos indican hacia dónde está abierto.",
+      "h2": "Las líneas amarillas dobles discontinuas marcan un carril reversible, que lleva tráfico en distintos sentidos según la hora del día.",
+      "p": "Correcto. Es un carril reversible."
+    }
+  },
+  {
+    "id": "signals-062",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3B.25, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Where a freeway exit splits off, an area between the lanes is painted with white diagonal stripes. What should you do?",
+      "o": [
+        "Use it to change your mind at the last second",
+        "Park there in an emergency",
+        "Do not drive on the striped area",
+        "Drive over it to pass"
+      ],
+      "h1": "The stripes fill space that is not a lane.",
+      "h2": "White diagonal or chevron stripes mark an area that is not for driving, so you must not drive across it.",
+      "p": "Right. Stay off the striped area."
+    },
+    "es": {
+      "q": "Donde se separa una salida de autopista, un área entre los carriles está pintada con rayas blancas diagonales. ¿Qué debe hacer?",
+      "o": [
+        "Usarla para cambiar de idea en el último segundo",
+        "Estacionarse allí en una emergencia",
+        "No manejar sobre el área rayada",
+        "Pasar por encima para rebasar"
+      ],
+      "h1": "Las rayas llenan un espacio que no es carril.",
+      "h2": "Las rayas blancas diagonales o en forma de V marcan un área que no es para manejar, así que no debe cruzarla.",
+      "p": "Correcto. No pase por el área rayada."
+    }
+  },
+  {
+    "id": "signals-063",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3A.03, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "At night you see red reflectors (red raised markers) on the road in front of you. What do they mean?",
+      "o": [
+        "You are near a fire hydrant",
+        "A school zone starts",
+        "The road is wet",
+        "You are facing the wrong way; do not go on"
+      ],
+      "h1": "Red reflectors face drivers going the wrong direction.",
+      "h2": "Red raised markers are seen only by drivers going the wrong way on a road or ramp, so if you see them, stop and turn around safely.",
+      "p": "Right. Red markers mean wrong way."
+    },
+    "es": {
+      "q": "De noche, usted ve reflectores rojos (marcadores elevados rojos) en la vía frente a usted. ¿Qué significan?",
+      "o": [
+        "Que está cerca de un hidrante",
+        "Que empieza una zona escolar",
+        "Que la vía está mojada",
+        "Que va en sentido contrario; no siga"
+      ],
+      "h1": "Los reflectores rojos miran hacia quien va en sentido contrario.",
+      "h2": "Los marcadores rojos elevados solo los ven los conductores que van en sentido contrario por una vía o rampa, así que si los ve, párese y dé la vuelta con seguridad.",
+      "p": "Correcto. Los marcadores rojos indican sentido contrario."
+    }
+  },
+  {
+    "id": "signals-064",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3B.24, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "On a ramp, you see a large white arrow painted on the road pointing toward you. What does it mean?",
+      "o": [
+        "You are going the wrong way",
+        "Turn around at the end of the ramp",
+        "Two-way traffic ahead",
+        "You may drive in either direction"
+      ],
+      "h1": "Arrows point the way traffic should go.",
+      "h2": "A painted arrow that points toward you means traffic should be coming the other way, so you are going the wrong way and must stop and turn around safely.",
+      "p": "Right. You are going the wrong way."
+    },
+    "es": {
+      "q": "En una rampa, usted ve una gran flecha blanca pintada en la vía que apunta hacia usted. ¿Qué significa?",
+      "o": [
+        "Que va en sentido contrario",
+        "Que dé la vuelta al final de la rampa",
+        "Que viene tráfico en doble sentido",
+        "Que puede manejar en cualquier sentido"
+      ],
+      "h1": "Las flechas apuntan hacia donde debe ir el tráfico.",
+      "h2": "Una flecha pintada que apunta hacia usted significa que el tráfico debe venir en sentido opuesto, así que va en sentido contrario y debe pararse y dar la vuelta con seguridad.",
+      "p": "Correcto. Va en sentido contrario."
+    }
+  },
+  {
+    "id": "signals-065",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3B.26, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "An intersection has white crisscross lines and the words DO NOT BLOCK. Traffic ahead is stopped. What should you do?",
+      "o": [
+        "Pull into the marked area and wait",
+        "Wait before the marked area until there is room past it",
+        "Honk to make cars move",
+        "Turn around"
+      ],
+      "h1": "The area must stay open for cross traffic.",
+      "h2": "DO NOT BLOCK markings mean you must not stop inside the marked area, so wait before it until there is room for your car on the other side.",
+      "p": "Right. Do not stop in the marked area."
+    },
+    "es": {
+      "q": "Una intersección tiene líneas blancas cruzadas y las palabras DO NOT BLOCK. El tráfico adelante está parado. ¿Qué debe hacer?",
+      "o": [
+        "Entrar al área marcada y esperar",
+        "Esperar antes del área marcada hasta que haya espacio después",
+        "Tocar la bocina para que avancen",
+        "Dar la vuelta"
+      ],
+      "h1": "El área debe quedar libre para el tráfico que cruza.",
+      "h2": "Las marcas DO NOT BLOCK significan que no debe pararse dentro del área marcada, así que espere antes de ella hasta que haya espacio para su carro del otro lado.",
+      "p": "Correcto. No se pare en el área marcada."
+    }
+  },
+  {
+    "id": "signals-066",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3A.03, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "A parking space is outlined in blue, with a white wheelchair symbol. Who may park there?",
+      "o": [
+        "Any driver for a few minutes",
+        "Electric cars only",
+        "A driver with a disability parking permit or plate",
+        "Delivery trucks only"
+      ],
+      "h1": "Blue markings go with the wheelchair symbol.",
+      "h2": "Blue markings and the wheelchair symbol show a space reserved for vehicles with a valid disability parking permit or plate.",
+      "p": "Right. It is for drivers with a disability permit."
+    },
+    "es": {
+      "q": "Un espacio de estacionamiento está marcado en azul, con un símbolo blanco de silla de ruedas. ¿Quién puede estacionarse allí?",
+      "o": [
+        "Cualquier conductor por unos minutos",
+        "Solo carros eléctricos",
+        "Un conductor con permiso o placa de discapacidad",
+        "Solo camiones de reparto"
+      ],
+      "h1": "Las marcas azules van con el símbolo de silla de ruedas.",
+      "h2": "Las marcas azules y el símbolo de silla de ruedas indican un espacio reservado para vehículos con permiso o placa de discapacidad válidos.",
+      "p": "Correcto. Es para conductores con permiso de discapacidad."
+    }
+  },
+  {
+    "id": "signals-067",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 9E.01, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "A lane next to the curb is marked with a solid white line and a bicycle symbol. What is it?",
+      "o": [
+        "A lane you may use to pass",
+        "A parking lane",
+        "A shared lane for cars and bikes side by side",
+        "A bike lane; do not drive in it"
+      ],
+      "h1": "Look at the symbol painted in the lane.",
+      "h2": "A lane marked with a solid white line and a bicycle symbol is a bike lane, so do not drive in it except to cross it carefully where allowed.",
+      "p": "Right. It is a bike lane."
+    },
+    "es": {
+      "q": "Un carril junto a la acera está marcado con una línea blanca continua y el símbolo de una bicicleta. ¿Qué es?",
+      "o": [
+        "Un carril que puede usar para rebasar",
+        "Un carril de estacionamiento",
+        "Un carril compartido para carros y bicicletas lado a lado",
+        "Un carril para bicicletas; no maneje en él"
+      ],
+      "h1": "Fíjese en el símbolo pintado en el carril.",
+      "h2": "Un carril marcado con una línea blanca continua y el símbolo de bicicleta es un carril para bicicletas, así que no maneje en él salvo para cruzarlo con cuidado donde se permita.",
+      "p": "Correcto. Es un carril para bicicletas."
+    }
+  },
+  {
+    "id": "signals-068",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3H.06, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Part of the road is painted bright green. What does green pavement usually show?",
+      "o": [
+        "A bike lane or a place where bikes cross",
+        "A parking area",
+        "A bus stop",
+        "A place to make U-turns"
+      ],
+      "h1": "Green paint is used for bicycle areas.",
+      "h2": "Green-colored pavement marks a bike lane or an area where bicycles cross, so watch for bicycle riders there.",
+      "p": "Right. Green pavement is for bicycles."
+    },
+    "es": {
+      "q": "Una parte de la vía está pintada de verde brillante. ¿Qué suele indicar el pavimento verde?",
+      "o": [
+        "Un carril para bicicletas o un lugar donde cruzan bicicletas",
+        "Un área de estacionamiento",
+        "Una parada de autobús",
+        "Un lugar para dar vuelta en U"
+      ],
+      "h1": "La pintura verde se usa para zonas de bicicletas.",
+      "h2": "El pavimento verde marca un carril para bicicletas o un área donde cruzan bicicletas, así que fíjese en los ciclistas allí.",
+      "p": "Correcto. El pavimento verde es para bicicletas."
+    }
+  },
+  {
+    "id": "signals-069",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 9E.12, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "At a red light, there is a green box with a bicycle symbol between the stop line and the crosswalk. Where should you stop your car?",
+      "o": [
+        "Inside the green box",
+        "Behind the box, at the first stop line",
+        "In the crosswalk",
+        "Next to the box"
+      ],
+      "h1": "The box is a waiting space for bicycles.",
+      "h2": "A bike box gives bicycles a place to wait in front of cars, so drivers must stop behind it at the first stop line.",
+      "p": "Right. Stop behind the bike box."
+    },
+    "es": {
+      "q": "Con el semáforo en rojo, hay un recuadro verde con el símbolo de bicicleta entre la línea de pare y el cruce peatonal. ¿Dónde debe parar su carro?",
+      "o": [
+        "Dentro del recuadro verde",
+        "Detrás del recuadro, en la primera línea de pare",
+        "En el cruce peatonal",
+        "Al lado del recuadro"
+      ],
+      "h1": "El recuadro es un espacio de espera para bicicletas.",
+      "h2": "Un recuadro para bicicletas da a los ciclistas un lugar para esperar delante de los carros, así que los conductores deben pararse detrás, en la primera línea de pare.",
+      "p": "Correcto. Párese detrás del recuadro."
+    }
+  },
+  {
+    "id": "signals-070",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3H.07, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "A lane is painted red and has the words BUS ONLY. Who may drive in it?",
+      "o": [
+        "Any car during rush hour",
+        "Bicycles only",
+        "Only buses, or vehicles the signs allow",
+        "Taxis waiting to park"
+      ],
+      "h1": "Read the words in the lane.",
+      "h2": "A red lane marked BUS ONLY is reserved for public transit buses, so other drivers must stay out unless signs allow it.",
+      "p": "Right. Only buses may use it."
+    },
+    "es": {
+      "q": "Un carril está pintado de rojo y tiene las palabras BUS ONLY. ¿Quién puede manejar en él?",
+      "o": [
+        "Cualquier carro en horas pico",
+        "Solo bicicletas",
+        "Solo autobuses, o los vehículos que permitan las señales",
+        "Taxis que esperan para estacionarse"
+      ],
+      "h1": "Lea las palabras en el carril.",
+      "h2": "Un carril rojo marcado BUS ONLY está reservado para los autobuses de transporte público, así que los demás deben quedarse fuera a menos que las señales lo permitan.",
+      "p": "Correcto. Solo los autobuses pueden usarlo."
+    }
+  },
+  {
+    "id": "signals-071",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 8C.02, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Painted on the road ahead you see a large X with the letters R R. What does it mean?",
+      "o": [
+        "A road repair is ahead",
+        "A rest room is ahead",
+        "Right lane only",
+        "A railroad crossing is ahead"
+      ],
+      "h1": "It matches the round yellow warning sign.",
+      "h2": "A large X with RR painted on the road warns that a railroad crossing is ahead, so slow down and look and listen for trains.",
+      "p": "Right. A railroad crossing is ahead."
+    },
+    "es": {
+      "q": "Pintada en la vía adelante, usted ve una gran X con las letras R R. ¿Qué significa?",
+      "o": [
+        "Que hay una reparación de la vía",
+        "Que hay baños adelante",
+        "Que es solo carril derecho",
+        "Que hay un cruce de tren adelante"
+      ],
+      "h1": "Es igual a la señal amarilla redonda de advertencia.",
+      "h2": "Una gran X con RR pintada en la vía advierte que hay un cruce de tren adelante, así que baje la velocidad y mire y escuche si viene un tren.",
+      "p": "Correcto. Hay un cruce de tren adelante."
+    }
+  },
+  {
+    "id": "signals-072",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3B.28, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "White lines are painted across your lane, and they get closer together as you go. Why?",
+      "o": [
+        "To warn you to slow down",
+        "To mark a parking area",
+        "To show a bike crossing",
+        "To tell you to speed up"
+      ],
+      "h1": "Lines that come faster make you feel you are going faster.",
+      "h2": "Speed reduction markings get closer together to make you feel your speed and warn you to slow down, often before a curve or stop.",
+      "p": "Right. They warn you to slow down."
+    },
+    "es": {
+      "q": "Hay líneas blancas pintadas a lo ancho de su carril, y están cada vez más juntas. ¿Por qué?",
+      "o": [
+        "Para advertirle que baje la velocidad",
+        "Para marcar un área de estacionamiento",
+        "Para indicar un cruce de bicicletas",
+        "Para indicarle que acelere"
+      ],
+      "h1": "Si las líneas pasan más rápido, usted siente que va más rápido.",
+      "h2": "Las marcas de reducción de velocidad se juntan cada vez más para que sienta su velocidad y le advierten que baje la velocidad, muchas veces antes de una curva o una parada.",
+      "p": "Correcto. Le advierten que baje la velocidad."
+    }
+  },
+  {
+    "id": "signals-073",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3B.29, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "A raised part of the road is painted with white stripes or arrow shapes. What is it?",
+      "o": [
+        "A crosswalk for bikes",
+        "A speed hump; slow down before it",
+        "A place to stop for trains",
+        "A loading zone"
+      ],
+      "h1": "It is a bump built on purpose.",
+      "h2": "White markings on a raised part of the road show a speed hump, so slow down before you drive over it.",
+      "p": "Right. It is a speed hump."
+    },
+    "es": {
+      "q": "Una parte elevada de la vía está pintada con rayas blancas o figuras de flecha. ¿Qué es?",
+      "o": [
+        "Un cruce para bicicletas",
+        "Un reductor de velocidad; baje la velocidad antes",
+        "Un lugar para pararse por trenes",
+        "Una zona de carga"
+      ],
+      "h1": "Es un tope hecho a propósito.",
+      "h2": "Las marcas blancas en una parte elevada de la vía indican un reductor de velocidad (tope), así que baje la velocidad antes de pasarlo.",
+      "p": "Correcto. Es un tope."
+    }
+  },
+  {
+    "id": "signals-074",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3C.05, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Wide white bars are painted across the street, side by side like a ladder. What do they mark?",
+      "o": [
+        "A parking area",
+        "A lane for buses",
+        "A crosswalk where people on foot cross",
+        "A place to stop for trains"
+      ],
+      "h1": "These bars are easy for drivers to see.",
+      "h2": "Wide white bars across the street mark a high-visibility crosswalk, so watch for people crossing and be ready to yield.",
+      "p": "Right. It is a crosswalk."
+    },
+    "es": {
+      "q": "Hay barras blancas anchas pintadas a lo ancho de la calle, una al lado de otra como una escalera. ¿Qué marcan?",
+      "o": [
+        "Un área de estacionamiento",
+        "Un carril de autobuses",
+        "Un cruce donde cruzan los peatones",
+        "Un lugar para pararse por trenes"
+      ],
+      "h1": "Estas barras son fáciles de ver para los conductores.",
+      "h2": "Las barras blancas anchas a lo ancho de la calle marcan un cruce peatonal de alta visibilidad, así que fíjese en las personas que cruzan y esté listo para cederles el paso.",
+      "p": "Correcto. Es un cruce peatonal."
+    }
+  },
+  {
+    "id": "signals-075",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3B.21, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "The words STOP AHEAD are painted on the road in your lane. What should you do?",
+      "o": [
+        "Stop right on the words",
+        "Speed up before the stop",
+        "Change lanes",
+        "Get ready to stop soon"
+      ],
+      "h1": "Word markings repeat what signs say.",
+      "h2": "STOP AHEAD painted in your lane warns that a stop is coming, so slow down and be ready to stop.",
+      "p": "Right. A stop is coming."
+    },
+    "es": {
+      "q": "Las palabras STOP AHEAD están pintadas en la vía, en su carril. ¿Qué debe hacer?",
+      "o": [
+        "Pararse justo encima de las palabras",
+        "Acelerar antes de la parada",
+        "Cambiar de carril",
+        "Prepararse para pararse pronto"
+      ],
+      "h1": "Las palabras pintadas repiten lo que dicen las señales.",
+      "h2": "STOP AHEAD pintado en su carril advierte que viene una parada, así que baje la velocidad y esté listo para pararse.",
+      "p": "Correcto. Viene una parada."
+    }
+  },
+  {
+    "id": "signals-076",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3B.14, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "Small raised markers (road reflectors) are placed along the lane lines. Why?",
+      "o": [
+        "To help you see the lanes at night and in rain",
+        "To slow cars down",
+        "To mark parking spaces",
+        "To show where to pass"
+      ],
+      "h1": "They shine when your headlights hit them.",
+      "h2": "Raised pavement markers reflect your headlights so you can see the lane lines better at night and when the road is wet.",
+      "p": "Right. They help you see the lanes."
+    },
+    "es": {
+      "q": "Hay pequeños marcadores elevados (reflectores) a lo largo de las líneas de los carriles. ¿Para qué?",
+      "o": [
+        "Para ayudarle a ver los carriles de noche y con lluvia",
+        "Para que los carros vayan más lento",
+        "Para marcar espacios de estacionamiento",
+        "Para indicar dónde rebasar"
+      ],
+      "h1": "Brillan cuando les llega la luz de sus faros.",
+      "h2": "Los marcadores elevados reflejan la luz de sus faros para que vea mejor las líneas de los carriles de noche y cuando la vía está mojada.",
+      "p": "Correcto. Le ayudan a ver los carriles."
+    }
+  },
+  {
+    "id": "signals-077",
+    "scope": "US",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 3B.01, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "On a two-lane road, which side of the yellow center line should you drive on?",
+      "o": [
+        "To the left of it",
+        "To the right of it",
+        "Right on top of it",
+        "Either side"
+      ],
+      "h1": "In the U.S., traffic keeps to the right.",
+      "h2": "On a two-way road you drive to the right of the yellow center line; traffic going the other way is on the left side of it.",
+      "p": "Right. Keep to the right of the center line."
+    },
+    "es": {
+      "q": "En una vía de dos carriles, ¿de qué lado de la línea central amarilla debe manejar?",
+      "o": [
+        "A la izquierda de ella",
+        "A la derecha de ella",
+        "Justo encima",
+        "De cualquier lado"
+      ],
+      "h1": "En EE. UU. el tráfico va por la derecha.",
+      "h2": "En una vía de doble sentido usted maneja a la derecha de la línea central amarilla; el tráfico del otro sentido va a la izquierda de ella.",
+      "p": "Correcto. Manténgase a la derecha de la línea central."
+    }
   }
 ]
