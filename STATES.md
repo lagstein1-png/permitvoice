@@ -15,7 +15,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | AL | Alabama | 131 | 131 | not found | [link](https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf) | — | yes |
 | AR | Arkansas | 131 | 130 | 25 q, pass 20 (80%) | [link](https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf) | [link](https://media.ark.org/dps/Spanish_version_Arkansas_January2-18_final_version.pdf) | yes |
 | AZ | Arizona | 133 | 132 | 30 q, pass 24 (80%) | [link](https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf) | — | yes |
-| CA | California | 91 | 91 | not found | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/) | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf) | yes |
+| CA | California | 131 | 131 | not found | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/) | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf) | yes |
 | CO | Colorado | 131 | 131 | 25 q, pass 20 (80%) | [link](https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf) | — | yes |
 | CT | Connecticut | 131 | 128 | 25 q, pass 20 (80%) | [link](https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf) | [link](https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-spanish.pdf) | yes |
 | DC | District of Columbia | 91 | 91 | not found | [link](https://issuu.com/dcdmv/docs/dc_dmv_driver_manual_english_revised_final) | [link](https://issuu.com/dcdmv/docs/dc_dmv_driver_manual_final-spa) | yes |
@@ -43,7 +43,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | NE | Nebraska | 196 | 196 | 25 q, pass 20 (80%) | [link](https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf) | [link](https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/SpanishDriversManual.pdf) | yes |
 | NH | New Hampshire | 102 | 99 | 40 q, pass 32 (80%) | [link](https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/nhdm.pdf) | — | yes |
 | NJ | New Jersey | 150 | 150 | 50 q, pass 40 (80%) | [link](https://www.nj.gov/mvc/pdf/license/drivermanual.pdf) | [link](https://www.nj.gov/mvc/pdf/license/drivermanuals.pdf) | yes |
-| NM | New Mexico | 144 | 144 | ? q, pass ? (70%) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/dlms11.19.19.pdf) | yes |
+| NM | New Mexico | 197 | 197 | ? q, pass ? (70%) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/dlms11.19.19.pdf) | yes |
 | NV | Nevada | 148 | 147 | 25 q, pass 20 (80%) | [link](https://dmv.nv.gov/pdfforms/dlbook.pdf) | — | yes |
 | NY | New York | 146 | 146 | 20 q, pass 14 (70%) | [link](https://dmv.ny.gov/brochure/mv21.pdf) | [link](https://dmv.ny.gov/brochure/mv21s.pdf) | yes |
 | OH | Ohio | 149 | 148 | 40 q, pass 30 (75%) | [link](https://publicsafety.ohio.gov/who-we-are/resources/digest-of-motor-vehicle-laws) | — | yes |
