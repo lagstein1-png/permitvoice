@@ -24,7 +24,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | GA | Georgia | 92 | 92 | 40 q, pass 30 (75%) | [link](https://dds.georgia.gov/document/document/ga-drivers-manual-2023-2024/download) | — | yes |
 | HI | Hawaii | 91 | 90 | 30 q, pass ? | [link](https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf) | [link](https://hidot.hawaii.gov/highways/files/2019/04/mvso-Hawaii-Drivers-Manual_July-2017_HC_ES-US.pdf) | yes |
 | IA | Iowa | 200 | 200 | ? q, pass ? (80%) | [link](https://iowadot.gov/media/7308/download?inline) | [link](https://iowadot.gov/media/7173/download) | yes |
-| ID | Idaho | 91 | 91 | 40 q, pass 34 (85%) | [link](https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf) | [link](https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf) | yes |
+| ID | Idaho | 131 | 131 | 40 q, pass 34 (85%) | [link](https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf) | [link](https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf) | yes |
 | IL | Illinois | 52 | 50 | 35 q, pass 28 (80%) | [link](https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf) | [link](https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a113.pdf) | yes |
 | IN | Indiana | 200 | 200 | ? q, pass ? (80%) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual-spanish.pdf) | yes |
 | KS | Kansas | 200 | 200 | 25 q, pass 20 (80%) | [link](https://www.ksrevenue.gov/pdf/dlhb.pdf) | [link](https://www.ksrevenue.gov/pdf/dlhb-sp.pdf) | yes |
@@ -47,8 +47,8 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | NV | Nevada | 101 | 100 | 25 q, pass 20 (80%) | [link](https://dmv.nv.gov/pdfforms/dlbook.pdf) | — | yes |
 | NY | New York | 100 | 100 | 20 q, pass 14 (70%) | [link](https://dmv.ny.gov/brochure/mv21.pdf) | [link](https://dmv.ny.gov/brochure/mv21s.pdf) | yes |
 | OH | Ohio | 149 | 148 | 40 q, pass 30 (75%) | [link](https://publicsafety.ohio.gov/who-we-are/resources/digest-of-motor-vehicle-laws) | — | yes |
-| OK | Oklahoma | 100 | 100 | 20 q, pass ? | [link](https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf) | — | yes |
-| OR | Oregon | 100 | 100 | 35 q, pass 28 (80%) | [link](https://www.oregon.gov/odot/Forms/DMV/37.pdf) | [link](https://www.oregon.gov/odot/Forms/DMV/37s.pdf) | yes |
+| OK | Oklahoma | 144 | 144 | 20 q, pass ? | [link](https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf) | — | yes |
+| OR | Oregon | 148 | 148 | 35 q, pass 28 (80%) | [link](https://www.oregon.gov/odot/Forms/DMV/37.pdf) | [link](https://www.oregon.gov/odot/Forms/DMV/37s.pdf) | yes |
 | PA | Pennsylvania | 148 | 148 | 18 q, pass 15 (83%) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/spanish/pub%2095s.pdf) | yes |
 | RI | Rhode Island | 51 | 50 | not found | [link](https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf) | [link](https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual_SP.pdf) | yes |
 | SC | South Carolina | 50 | 50 | 30 q, pass 24 (80%) | [link](https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf) | — | yes |
