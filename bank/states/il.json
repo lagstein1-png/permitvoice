@@ -7707,7 +7707,7 @@
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In Illinois, what must a school bus driver do at every railroad crossing?",
+      "q": "In Illinois, what must a school bus driver do before crossing railroad tracks?",
       "o": [
         "Slow down only if lights are flashing",
         "Stop, turn off fans and radio, and open the door and window to listen",
@@ -7715,11 +7715,11 @@
         "Change gears while crossing"
       ],
       "h1": "The driver needs to hear a train coming.",
-      "h2": "In Illinois, a school bus must stop at every railroad crossing, and the driver must turn off noisy items like fans and the radio and open the service door and the driver's window.",
+      "h2": "In Illinois, a school bus must stop before crossing railroad tracks, unless an officer or flagger is directing traffic or the crossing is marked exempt, and the driver must turn off noisy items like fans and the radio and open the service door and the driver's window.",
       "p": "Right. The bus stops, gets quiet and opens up to listen."
     },
     "es": {
-      "q": "En Illinois, ¿qué debe hacer el conductor de un autobús escolar en cada cruce de tren?",
+      "q": "En Illinois, ¿qué debe hacer el conductor de un autobús escolar antes de cruzar las vías del tren?",
       "o": [
         "Bajar la velocidad solo si hay luces encendidas",
         "Parar, apagar ventiladores y radio, y abrir la puerta y la ventana para escuchar",
@@ -7727,7 +7727,7 @@
         "Cambiar de marcha al cruzar"
       ],
       "h1": "El conductor necesita oír si viene un tren.",
-      "h2": "En Illinois, un autobús escolar debe parar en cada cruce de tren, y el conductor debe apagar aparatos ruidosos como ventiladores y radio y abrir la puerta de servicio y su ventana.",
+      "h2": "En Illinois, un autobús escolar debe parar antes de cruzar las vías del tren, salvo que un policía o un abanderado dirija el tráfico o el cruce esté marcado como exento, y el conductor debe apagar aparatos ruidosos como ventiladores y radio y abrir la puerta de servicio y su ventana.",
       "p": "Correcto. El autobús para, hace silencio y abre para escuchar."
     }
   },
@@ -7748,8 +7748,8 @@
         "Stop, look and listen, then cross without shifting gears",
         "Stop only if the gates are down"
       ],
-      "h1": "Trucks with dangerous cargo always stop at the tracks.",
-      "h2": "In Illinois, a vehicle placarded for hazardous materials must stop at every railroad crossing, look and listen, and then cross without shifting gears.",
+      "h1": "Trucks with dangerous cargo stop at the tracks even when no train is coming.",
+      "h2": "In Illinois, a vehicle placarded for hazardous materials must stop at a railroad crossing, look and listen, and then cross without shifting gears, unless an officer, a flagger or a green traffic signal controls the crossing or it is marked exempt.",
       "p": "Right. It must stop and cross without changing gears."
     },
     "es": {
@@ -7760,8 +7760,8 @@
         "Parar, mirar y escuchar, y luego cruzar sin cambiar de marcha",
         "Parar solo si las barreras están bajas"
       ],
-      "h1": "Los camiones con carga peligrosa siempre paran en las vías.",
-      "h2": "En Illinois, un vehículo con placas de materiales peligrosos debe parar en cada cruce de tren, mirar y escuchar, y luego cruzar sin cambiar de marcha.",
+      "h1": "Los camiones con carga peligrosa paran en las vías aunque no venga ningún tren.",
+      "h2": "En Illinois, un vehículo con placas de materiales peligrosos debe parar en un cruce de tren, mirar y escuchar, y luego cruzar sin cambiar de marcha, salvo que un policía, un abanderado o un semáforo en verde controle el cruce o este esté marcado como exento.",
       "p": "Correcto. Debe parar y cruzar sin cambiar de marcha."
     }
   },
@@ -8324,11 +8324,11 @@
         "Keep your speed and lane",
         "Honk to warn the workers",
         "Drive on the shoulder",
-        "Move to a lane away from the workers if safe, or slow down"
+        "Slow down, and move to a lane away from the workers if it is safe"
       ],
       "h1": "It works like the rule for stopped emergency vehicles.",
-      "h2": "In Illinois, when workers are present in a work zone, you must change to a lane not next to them if you safely can, or slow down if you cannot, and the fine can be $100 to $25,000.",
-      "p": "Right. Move away from the workers or slow down."
+      "h2": "In Illinois, when workers are present in a work zone, you must slow down and, if you safely can, change to a lane not next to them; the fine can be $100 to $25,000.",
+      "p": "Right. Slow down and move away from the workers if you can."
     },
     "es": {
       "q": "En Illinois, entras a una zona de obras en una carretera de cuatro carriles y hay trabajadores. ¿Qué debes hacer?",
@@ -8336,11 +8336,11 @@
         "Mantener tu velocidad y carril",
         "Tocar el claxon para avisar a los trabajadores",
         "Conducir por el acotamiento",
-        "Cambiarte a un carril lejos de los trabajadores si es seguro, o bajar la velocidad"
+        "Bajar la velocidad y cambiarte a un carril lejos de los trabajadores si es seguro"
       ],
       "h1": "Funciona como la regla para vehículos de emergencia detenidos.",
-      "h2": "En Illinois, cuando hay trabajadores en una zona de obras, debes cambiarte a un carril que no esté junto a ellos si puedes hacerlo con seguridad, o bajar la velocidad si no puedes, y la multa puede ser de $100 a $25,000.",
-      "p": "Correcto. Aléjate de los trabajadores o baja la velocidad."
+      "h2": "En Illinois, cuando hay trabajadores en una zona de obras, debes bajar la velocidad y, si puedes hacerlo con seguridad, cambiarte a un carril que no esté junto a ellos; la multa puede ser de $100 a $25,000.",
+      "p": "Correcto. Baja la velocidad y aléjate de los trabajadores si puedes."
     }
   },
   {
@@ -9237,28 +9237,28 @@
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In Illinois, a driver of any age is within 500 feet of an emergency scene with flashing lights. What phone use is allowed?",
+      "q": "In Illinois, a driver aged 19 or older is within 500 feet of an emergency scene with flashing lights. What phone use is allowed?",
       "o": [
         "Any use while moving slowly",
         "Texting only",
-        "Only hands-free or voice-operated use, or a call about an emergency",
+        "Only voice-operated or one-touch use, or a call about an emergency",
         "Watching a video"
       ],
       "h1": "This rule also covers school zones and construction zones.",
-      "h2": "In Illinois, no driver may use a phone in a school zone, a construction zone or within 500 feet of an emergency scene, except in hands-free or voice-operated mode or to report an emergency.",
-      "p": "Right. Only hands-free use or an emergency call there."
+      "h2": "In Illinois, no driver may use a phone in a school speed zone, a construction speed zone or within 500 feet of an emergency scene, except in voice-operated mode, with one touch to start or end a call, or to report an emergency. Drivers under 19 with a permit or graduated license may not use a phone at all, except for an emergency.",
+      "p": "Right. Only voice-operated or one-touch use, or an emergency call, there."
     },
     "es": {
-      "q": "En Illinois, un conductor de cualquier edad está a menos de 500 pies de una emergencia con luces encendidas. ¿Qué uso del teléfono se permite?",
+      "q": "En Illinois, un conductor de 19 años o más está a menos de 500 pies de una emergencia con luces encendidas. ¿Qué uso del teléfono se permite?",
       "o": [
         "Cualquier uso si va despacio",
         "Solo enviar mensajes",
-        "Solo el uso de manos libres o por voz, o una llamada de emergencia",
+        "Solo el uso por voz o con un solo toque, o una llamada de emergencia",
         "Ver un video"
       ],
       "h1": "Esta regla también cubre zonas escolares y de construcción.",
-      "h2": "En Illinois, ningún conductor puede usar el teléfono en una zona escolar, una zona de construcción o a menos de 500 pies de una emergencia, salvo en modo manos libres o por voz o para reportar una emergencia.",
-      "p": "Correcto. Allí solo se permite manos libres o una llamada de emergencia."
+      "h2": "En Illinois, ningún conductor puede usar el teléfono en una zona escolar de velocidad, una zona de construcción o a menos de 500 pies de una emergencia, salvo en modo de voz, con un solo toque para iniciar o terminar una llamada, o para reportar una emergencia. Los conductores menores de 19 años con permiso o licencia gradual no pueden usar el teléfono en absoluto, salvo en una emergencia.",
+      "p": "Correcto. Allí solo se permite el uso por voz o con un toque, o una llamada de emergencia."
     }
   },
   {
