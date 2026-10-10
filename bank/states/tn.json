@@ -6415,7 +6415,7 @@
     "id": "tn-119",
     "scope": "TN",
     "cat": "speed-lanes",
-    "conf": "high",
+    "conf": "medium",
     "page": 47,
     "src": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf",
     "sign": null,
@@ -7028,33 +7028,33 @@
     "scope": "TN",
     "cat": "right-of-way",
     "conf": "high",
-    "page": 54,
-    "src": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf",
+    "page": null,
+    "src": "https://codes.findlaw.com/tn/title-55-motor-and-other-vehicles/tn-code-sect-55-8-168/",
     "sign": null,
     "c": 0,
     "en": {
-      "q": "In Tennessee, a fire truck with its siren on races to a fire. May you follow it?",
+      "q": "In Tennessee, a fire truck is on its way to a fire alarm ahead of you. How close may you follow it?",
       "o": [
-        "No, following it is against the law",
-        "Yes, if you stay 100 feet back",
-        "Yes, if you are curious",
-        "Yes, on the interstate only"
+        "No closer than 500 feet",
+        "No closer than 100 feet",
+        "One car length behind",
+        "As close as you like if your flashers are on"
       ],
-      "h1": "Stay away from the emergency scene.",
-      "h2": "Tennessee law forbids following a fire truck or other emergency vehicle answering an alarm, and driving into the block where it has stopped.",
-      "p": "Right. Following it is illegal."
+      "h1": "Keep a long gap, about the length of a city block or more.",
+      "h2": "Tennessee law says you may not follow a fire truck answering a fire alarm closer than 500 feet, or park in the block where it has stopped.",
+      "p": "Right. Stay at least 500 feet back."
     },
     "es": {
-      "q": "En Tennessee, un camión de bomberos con la sirena encendida va a un incendio. ¿Puede seguirlo?",
+      "q": "En Tennessee, un camión de bomberos va hacia una alarma de incendio delante de usted. ¿A qué distancia mínima puede seguirlo?",
       "o": [
-        "No, seguirlo es contra la ley",
-        "Sí, si se queda a 100 pies",
-        "Sí, si tiene curiosidad",
-        "Sí, solo en la interestatal"
+        "No más cerca de 500 pies",
+        "No más cerca de 100 pies",
+        "A un auto de distancia",
+        "Tan cerca como quiera si tiene las luces intermitentes encendidas"
       ],
-      "h1": "Manténgase lejos del lugar de la emergencia.",
-      "h2": "La ley de Tennessee prohíbe seguir a un camión de bomberos u otro vehículo de emergencia que atiende una alarma, y entrar en la cuadra donde se detuvo.",
-      "p": "Correcto. Seguirlo es ilegal."
+      "h1": "Deje un espacio grande, del largo de una cuadra o más.",
+      "h2": "La ley de Tennessee dice que no puede seguir a un camión de bomberos que atiende una alarma de incendio a menos de 500 pies, ni estacionarse en la cuadra donde se detuvo.",
+      "p": "Correcto. Quédese al menos a 500 pies de distancia."
     }
   },
   {
@@ -8082,40 +8082,40 @@
     "scope": "TN",
     "cat": "speed-lanes",
     "conf": "high",
-    "page": 66,
-    "src": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf",
+    "page": null,
+    "src": "https://codes.findlaw.com/tn/title-55-motor-and-other-vehicles/tn-code-sect-55-21-108/",
     "sign": null,
     "c": 0,
     "en": {
       "q": "In Tennessee, what is the fine for parking in a space reserved for people with disabilities without a placard or plate?",
       "o": [
-        "$100, and your car may be towed",
+        "$200, and your car may be towed",
         "$10",
         "$25 with no towing",
         "A warning only"
       ],
-      "h1": "It is a misdemeanor.",
-      "h2": "In Tennessee, parking in a disability space without the right placard or plate is a misdemeanor with a $100 fine, and the car may be towed.",
-      "p": "Right. $100, and possible towing."
+      "h1": "It is a misdemeanor, and the fine cannot be waived.",
+      "h2": "In Tennessee, parking in a disability space without the right placard or plate is a misdemeanor with a $200 fine, and the car may be towed.",
+      "p": "Right. $200, and possible towing."
     },
     "es": {
       "q": "En Tennessee, ¿cuál es la multa por estacionarse en un lugar reservado para personas con discapacidad sin placa o permiso?",
       "o": [
-        "$100, y le pueden llevar el carro con grúa",
+        "$200, y le pueden llevar el carro con grúa",
         "$10",
         "$25 sin grúa",
         "Solo una advertencia"
       ],
-      "h1": "Es un delito menor.",
-      "h2": "En Tennessee, estacionarse en un lugar para personas con discapacidad sin el permiso o placa correctos es un delito menor con multa de $100, y el carro puede ser remolcado.",
-      "p": "Correcto. $100 y posible grúa."
+      "h1": "Es un delito menor, y la multa no se puede perdonar.",
+      "h2": "En Tennessee, estacionarse en un lugar para personas con discapacidad sin el permiso o placa correctos es un delito menor con multa de $200, y el carro puede ser remolcado.",
+      "p": "Correcto. $200 y posible grúa."
     }
   },
   {
     "id": "tn-169",
     "scope": "TN",
     "cat": "speed-lanes",
-    "conf": "high",
+    "conf": "medium",
     "page": 68,
     "src": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf",
     "sign": null,
@@ -8320,12 +8320,12 @@
     "scope": "TN",
     "cat": "licensing",
     "conf": "high",
-    "page": 82,
-    "src": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf",
+    "page": null,
+    "src": "https://codes.findlaw.com/tn/title-55-motor-and-other-vehicles/tn-code-sect-55-10-402/",
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In Tennessee, a first DUI conviction usually brings at least 48 hours in jail. What is the minimum if the blood alcohol was 0.20 or more?",
+      "q": "In Tennessee, a first DUI conviction usually brings at least 48 hours in jail. What is the minimum if the blood alcohol was 0.15 or more?",
       "o": [
         "24 hours",
         "72 hours",
@@ -8333,11 +8333,11 @@
         "30 days"
       ],
       "h1": "It is one week.",
-      "h2": "For a first DUI in Tennessee, the minimum jail time rises from 48 hours to 7 days when the blood alcohol level was 0.20 or more.",
+      "h2": "For a first DUI in Tennessee, the minimum jail time rises from 48 hours to 7 days when the blood alcohol level was 0.15 or more.",
       "p": "Right. At least 7 days."
     },
     "es": {
-      "q": "En Tennessee, una primera condena por DUI por lo general trae por lo menos 48 horas de cárcel. ¿Cuál es el mínimo si el alcohol en la sangre era 0.20 o más?",
+      "q": "En Tennessee, una primera condena por DUI por lo general trae por lo menos 48 horas de cárcel. ¿Cuál es el mínimo si el alcohol en la sangre era 0.15 o más?",
       "o": [
         "24 horas",
         "72 horas",
@@ -8345,7 +8345,7 @@
         "30 días"
       ],
       "h1": "Es una semana.",
-      "h2": "En un primer DUI en Tennessee, la cárcel mínima sube de 48 horas a 7 días cuando el nivel de alcohol era 0.20 o más.",
+      "h2": "En un primer DUI en Tennessee, la cárcel mínima sube de 48 horas a 7 días cuando el nivel de alcohol era 0.15 o más.",
       "p": "Correcto. Por lo menos 7 días."
     }
   },

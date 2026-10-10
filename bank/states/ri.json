@@ -6710,7 +6710,7 @@
       "q": "In Rhode Island, when may you pass another vehicle on the right?",
       "o": [
         "By driving on the shoulder",
-        "On any two-lane road",
+        "On a narrow street lined with parked cars",
         "When the vehicle ahead is turning left and there is room",
         "Whenever the driver ahead is slow"
       ],
@@ -6722,7 +6722,7 @@
       "q": "En Rhode Island, ¿cuándo puede rebasar a otro vehículo por la derecha?",
       "o": [
         "Manejando por el acotamiento",
-        "En cualquier calle de dos carriles",
+        "En una calle angosta con carros estacionados",
         "Cuando el vehículo de adelante va a dar vuelta a la izquierda y hay espacio",
         "Siempre que el de adelante vaya lento"
       ],
@@ -7355,9 +7355,9 @@
     "en": {
       "q": "In Rhode Island, besides before a turn, when does the law require you to signal?",
       "o": [
-        "When you slow down for a school zone",
+        "When you drive past a school",
         "When you drive out of a parking space",
-        "When you stop at a red light",
+        "When you stay in your lane on a straight road",
         "When you go straight through a green light"
       ],
       "h1": "Think of pulling away from the curb.",
@@ -7367,9 +7367,9 @@
     "es": {
       "q": "En Rhode Island, además de antes de una vuelta, ¿cuándo exige la ley que haga una señal?",
       "o": [
-        "Al bajar la velocidad en una zona escolar",
+        "Al pasar frente a una escuela",
         "Al salir de un espacio de estacionamiento",
-        "Al parar en un semáforo en rojo",
+        "Al seguir en su carril en una calle recta",
         "Al seguir derecho con luz verde"
       ],
       "h1": "Piense en cuando se aleja de la orilla de la acera.",
@@ -8538,7 +8538,7 @@
     "scope": "RI",
     "cat": "right-of-way",
     "conf": "high",
-    "page": null,
+    "page": 53,
     "src": "https://webserver.rilegislature.gov/Statutes/TITLE31/31-21/31-21-14.htm",
     "sign": null,
     "c": 0,
@@ -8606,33 +8606,33 @@
     "scope": "RI",
     "cat": "licensing",
     "conf": "high",
-    "page": 55,
-    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf",
+    "page": null,
+    "src": "https://webserver.rilegislature.gov/Statutes/TITLE31/31-47/31-47-12.htm",
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In Rhode Island, what is the fine for not having proof of insurance in your car?",
+      "q": "In Rhode Island, you are stopped and cannot prove you had car insurance in effect. What can a first offense bring?",
       "o": [
-        "$50",
-        "$5,000",
-        "$500",
-        "$5"
+        "A fine of $5",
+        "Loss of your license for life",
+        "A fine of $100 to $250 and a suspension of up to 30 days",
+        "A fine of $5,000"
       ],
-      "h1": "It is half of a thousand.",
-      "h2": "The Rhode Island driver's manual says you must carry proof of insurance with your registration at all times, and the fine for failing to comply is $500.",
-      "p": "Right. The fine is $500."
+      "h1": "It is a fine of a few hundred dollars and possibly a short suspension.",
+      "h2": "Rhode Island law says a first offense of driving without proof of insurance in effect can bring a fine of $100 to $250 and a license suspension of up to 30 days, but the ticket is withdrawn if you show within one business day that you were insured.",
+      "p": "Right. $100 to $250 and up to 30 days' suspension."
     },
     "es": {
-      "q": "En Rhode Island, ¿cuál es la multa por no llevar prueba de seguro en su carro?",
+      "q": "En Rhode Island, lo detienen y no puede demostrar que tenía seguro de carro vigente. ¿Qué puede traer una primera infracción?",
       "o": [
-        "$50",
-        "$5,000",
-        "$500",
-        "$5"
+        "Una multa de $5",
+        "Perder la licencia de por vida",
+        "Una multa de $100 a $250 y suspensión de hasta 30 días",
+        "Una multa de $5,000"
       ],
-      "h1": "Es la mitad de mil.",
-      "h2": "El manual de manejo de Rhode Island dice que debe llevar siempre prueba de seguro junto con el registro, y la multa por no cumplir es de $500.",
-      "p": "Correcto. La multa es de $500."
+      "h1": "Es una multa de unos cientos de dólares y posiblemente una suspensión corta.",
+      "h2": "La ley de Rhode Island dice que la primera infracción por manejar sin prueba de seguro vigente puede traer una multa de $100 a $250 y suspensión de la licencia de hasta 30 días, pero la multa se retira si usted demuestra en un día hábil que tenía seguro.",
+      "p": "Correcto. De $100 a $250 y hasta 30 días de suspensión."
     }
   },
   {
@@ -8844,7 +8844,7 @@
     "scope": "RI",
     "cat": "safe-driving",
     "conf": "high",
-    "page": null,
+    "page": 60,
     "src": "https://webserver.rilegislature.gov/Statutes/TITLE31/31-27/31-27-2.htm",
     "sign": null,
     "c": 1,
@@ -8946,7 +8946,7 @@
     "scope": "RI",
     "cat": "safe-driving",
     "conf": "high",
-    "page": null,
+    "page": 61,
     "src": "https://webserver.rilegislature.gov/Statutes/TITLE3/3-8/3-8-10.htm",
     "sign": null,
     "c": 0,
