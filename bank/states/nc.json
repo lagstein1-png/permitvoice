@@ -1638,5 +1638,243 @@
       "h2": "في North Carolina لا يجوز أن يكون في جسم السائق الذي عمره أقل من 21 سنة أي كحول أثناء القيادة؛ وحدّ 0.08 هو فقط للسائقين الذين أعمارهم 21 سنة فأكثر.",
       "p": "صحيح. أقل من 21 سنة، لا كحول على الإطلاق."
     }
+  },
+  {
+    "id": "nc-021",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 34,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Carolina, how many driver license points within three years can lead to a license suspension?",
+      "o": [
+        "4 points",
+        "7 points",
+        "12 points",
+        "20 points"
+      ],
+      "h1": "It is more than the number that sends you to a driver improvement clinic.",
+      "h2": "In North Carolina, your license may be suspended if you collect 12 points within three years.",
+      "p": "Right. 12 points in three years can mean a suspension."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿cuántos puntos en la licencia dentro de tres años pueden llevar a una suspensión?",
+      "o": [
+        "4 puntos",
+        "7 puntos",
+        "12 puntos",
+        "20 puntos"
+      ],
+      "h1": "Es más que el número que lo manda a una clínica para mejorar como conductor.",
+      "h2": "En Carolina del Norte, su licencia puede ser suspendida si acumula 12 puntos dentro de tres años.",
+      "p": "Correcto. 12 puntos en tres años pueden causar una suspensión."
+    }
+  },
+  {
+    "id": "nc-022",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 34,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Carolina, how many license points do you get for passing a stopped school bus?",
+      "o": [
+        "5 points",
+        "1 point",
+        "2 points",
+        "3 points"
+      ],
+      "h1": "It is one of the highest point values on the list for regular drivers.",
+      "h2": "In North Carolina, passing a stopped school bus puts 5 points on your license.",
+      "p": "Right. Passing a stopped school bus costs 5 points."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿cuántos puntos en la licencia recibe por rebasar un autobús escolar detenido?",
+      "o": [
+        "5 puntos",
+        "1 punto",
+        "2 puntos",
+        "3 puntos"
+      ],
+      "h1": "Es uno de los valores más altos de la lista para conductores comunes.",
+      "h2": "En Carolina del Norte, rebasar un autobús escolar detenido pone 5 puntos en su licencia.",
+      "p": "Correcto. Rebasar un autobús escolar detenido cuesta 5 puntos."
+    }
+  },
+  {
+    "id": "nc-023",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 31,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Carolina, a driver charged with impaired driving refuses a breath or blood test. What happens to the license?",
+      "o": [
+        "Nothing, if the driver was not drunk",
+        "A warning letter from the DMV",
+        "A fine, but no loss of license",
+        "At least 30 days right away, plus at least 12 months from the DMV"
+      ],
+      "h1": "Refusing the test is treated very seriously.",
+      "h2": "In North Carolina, refusing the test means the license is taken right away for at least 30 days, and the DMV adds at least 12 more months.",
+      "p": "Right. Refusing the test costs your license for a long time."
+    },
+    "es": {
+      "q": "En Carolina del Norte, a un conductor acusado de manejar bajo los efectos se le pide una prueba de aliento o de sangre y se niega. ¿Qué pasa con su licencia?",
+      "o": [
+        "Nada, si el conductor no estaba ebrio",
+        "Una carta de advertencia del DMV",
+        "Una multa, pero no pierde la licencia",
+        "Al menos 30 días de inmediato, más al menos 12 meses por parte del DMV"
+      ],
+      "h1": "Negarse a la prueba se toma muy en serio.",
+      "h2": "En Carolina del Norte, negarse a la prueba significa que le quitan la licencia de inmediato por al menos 30 días, y el DMV agrega al menos 12 meses más.",
+      "p": "Correcto. Negarse a la prueba le cuesta la licencia por mucho tiempo."
+    }
+  },
+  {
+    "id": "nc-024",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 44,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Carolina, which child must ride in a child safety seat or booster made for their weight?",
+      "o": [
+        "Only a child under 2",
+        "A child under 8 who weighs less than 80 pounds",
+        "Any child under 16",
+        "Only a child riding in the front seat"
+      ],
+      "h1": "Think of both an age and a weight.",
+      "h2": "In North Carolina, a child under 8 who weighs less than 80 pounds must ride in a child restraint that fits their weight.",
+      "p": "Right. Under 8 and under 80 pounds means a child restraint."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿qué niño debe viajar en un asiento de seguridad o elevador adecuado para su peso?",
+      "o": [
+        "Solo un niño menor de 2 años",
+        "Un niño menor de 8 años que pese menos de 80 libras",
+        "Cualquier niño menor de 16 años",
+        "Solo un niño que viaja en el asiento delantero"
+      ],
+      "h1": "Piense en una edad y también en un peso.",
+      "h2": "En Carolina del Norte, un niño menor de 8 años que pese menos de 80 libras debe viajar en un sistema de retención infantil adecuado para su peso.",
+      "p": "Correcto. Menor de 8 años y de menos de 80 libras significa asiento infantil."
+    }
+  },
+  {
+    "id": "nc-025",
+    "scope": "NC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 53,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Carolina, what is the speed limit in cities and towns when no sign shows a different limit?",
+      "o": [
+        "25 mph",
+        "30 mph",
+        "35 mph",
+        "45 mph"
+      ],
+      "h1": "It is 20 mph lower than the limit outside cities and towns.",
+      "h2": "In North Carolina, the speed limit in cities and towns is 35 mph unless a sign says otherwise.",
+      "p": "Right. In cities and towns it is 35 mph unless posted."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿cuál es el límite de velocidad en ciudades y pueblos cuando ninguna señal indica otro límite?",
+      "o": [
+        "25 mph",
+        "30 mph",
+        "35 mph",
+        "45 mph"
+      ],
+      "h1": "Es 20 mph menos que el límite fuera de las ciudades y pueblos.",
+      "h2": "En Carolina del Norte, el límite de velocidad en ciudades y pueblos es de 35 mph, a menos que una señal indique otra cosa.",
+      "p": "Correcto. En ciudades y pueblos es de 35 mph si no hay señal."
+    }
+  },
+  {
+    "id": "nc-026",
+    "scope": "NC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 73,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Carolina, you turn on your windshield wipers because it is raining. What else must you turn on?",
+      "o": [
+        "Your headlights",
+        "Your hazard lights",
+        "Your fog lights only",
+        "Your interior light"
+      ],
+      "h1": "These lights help other drivers see you in bad weather.",
+      "h2": "In North Carolina, you must turn on your headlights whenever you use your wipers because of bad weather.",
+      "p": "Right. Wipers on for weather means headlights on."
+    },
+    "es": {
+      "q": "En Carolina del Norte, usted enciende los limpiaparabrisas porque está lloviendo. ¿Qué más debe encender?",
+      "o": [
+        "Las luces delanteras",
+        "Las luces de emergencia",
+        "Solo las luces antiniebla",
+        "La luz interior"
+      ],
+      "h1": "Estas luces ayudan a que otros conductores lo vean con mal tiempo.",
+      "h2": "En Carolina del Norte, usted debe encender las luces delanteras siempre que use los limpiaparabrisas por mal tiempo.",
+      "p": "Correcto. Limpiaparabrisas por mal tiempo significa luces encendidas."
+    }
+  },
+  {
+    "id": "nc-027",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 78,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Carolina, no one is hurt in a crash. When must you report it to the police right away?",
+      "o": [
+        "Only if a car must be towed",
+        "When the damage looks like $1,000 or more",
+        "Only if the other driver asks you to",
+        "When the damage looks like $5,000 or more"
+      ],
+      "h1": "It depends on how much the damage seems to cost.",
+      "h2": "In North Carolina, you must report a crash to the police right away if anyone is hurt or killed, or if the damage looks like $1,000 or more.",
+      "p": "Right. Damage of about $1,000 or more must be reported."
+    },
+    "es": {
+      "q": "En Carolina del Norte, nadie resulta herido en un choque. ¿Cuándo debe reportarlo a la policía de inmediato?",
+      "o": [
+        "Solo si hay que remolcar un auto",
+        "Cuando el daño parece ser de $1,000 o más",
+        "Solo si el otro conductor se lo pide",
+        "Cuando el daño parece ser de $5,000 o más"
+      ],
+      "h1": "Depende de cuánto parece costar el daño.",
+      "h2": "En Carolina del Norte, debe reportar un choque a la policía de inmediato si alguien resulta herido o muerto, o si el daño parece ser de $1,000 o más.",
+      "p": "Correcto. Un daño de unos $1,000 o más se debe reportar."
+    }
   }
 ]
