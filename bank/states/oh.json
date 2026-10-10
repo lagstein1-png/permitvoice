@@ -9198,5 +9198,39 @@
       "h2": "En Ohio, quien maneja una motocicleta con permiso temporal de instrucción debe usar un casco aprobado y no puede manejar cuando se requieren luces, llevar pasajeros, ni usar una carretera de acceso limitado o un camino muy congestionado.",
       "p": "Correcto. De día, sin pasajeros, en caminos tranquilos y con casco."
     }
+  },
+  {
+    "id": "oh-201",
+    "scope": "OH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://codes.ohio.gov/ohio-revised-code/section-4511.69",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Ohio, a driver with no placard or accessible plates parks in a space reserved for people with disabilities. What fine can they get?",
+      "o": [
+        "$250 to $500",
+        "$10 to $25",
+        "$50 to $100",
+        "$1,000 to $2,500"
+      ],
+      "h1": "It is a few hundred dollars.",
+      "h2": "In Ohio, parking in a space reserved for people with disabilities without a valid placard or accessible plates brings a fine of $250 to $500.",
+      "p": "Right. The fine is $250 to $500."
+    },
+    "es": {
+      "q": "En Ohio, un conductor sin permiso ni placas para personas con discapacidad se estaciona en un espacio reservado para ellas. ¿Qué multa puede recibir?",
+      "o": [
+        "De $250 a $500",
+        "De $10 a $25",
+        "De $50 a $100",
+        "De $1,000 a $2,500"
+      ],
+      "h1": "Son unos cientos de dólares.",
+      "h2": "En Ohio, estacionarse en un espacio reservado para personas con discapacidad sin un permiso o placas válidos trae una multa de $250 a $500.",
+      "p": "Correcto. La multa es de $250 a $500."
+    }
   }
 ]
