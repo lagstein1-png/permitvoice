@@ -1720,5 +1720,209 @@
       "h2": "أعلى حد للسرعة على الطرق السريعة بين الولايات في South Carolina هو 70 mph، حيث تُظهره اللافتات.",
       "p": "صحيح. 70 mph على الطرق السريعة بين الولايات."
     }
+  },
+  {
+    "id": "sc-022",
+    "scope": "SC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-19",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In South Carolina, how many points on a driver's record lead to a license suspension for a driver 17 or older?",
+      "o": [
+        "4 points",
+        "6 points",
+        "12 points",
+        "20 points"
+      ],
+      "h1": "At 6 points you only get a warning letter.",
+      "h2": "In South Carolina, a driver 17 or older gets a warning letter at 6 points, and the license is suspended when the total reaches 12 points or more.",
+      "p": "Right. 12 points means a suspension."
+    },
+    "es": {
+      "q": "En Carolina del Sur, ¿cuántos puntos en el historial llevan a la suspensión de la licencia de un conductor de 17 años o más?",
+      "o": [
+        "4 puntos",
+        "6 puntos",
+        "12 puntos",
+        "20 puntos"
+      ],
+      "h1": "Con 6 puntos solo recibe una carta de advertencia.",
+      "h2": "En Carolina del Sur, un conductor de 17 años o más recibe una carta de advertencia con 6 puntos, y la licencia se suspende cuando el total llega a 12 puntos o más.",
+      "p": "Correcto. Con 12 puntos se suspende la licencia."
+    }
+  },
+  {
+    "id": "sc-023",
+    "scope": "SC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-19",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In South Carolina, how many points will get a beginner's permit or conditional license suspended?",
+      "o": [
+        "6 points or more",
+        "2 points or more",
+        "10 points or more",
+        "15 points or more"
+      ],
+      "h1": "New drivers have a lower limit than adult drivers.",
+      "h2": "In South Carolina, a holder of a beginner's permit, conditional license or special restricted license who gets 6 or more points has the driving privilege suspended.",
+      "p": "Right. 6 points is the limit for new drivers."
+    },
+    "es": {
+      "q": "En Carolina del Sur, ¿cuántos puntos hacen que se suspenda un permiso de principiante o una licencia condicional?",
+      "o": [
+        "6 puntos o más",
+        "2 puntos o más",
+        "10 puntos o más",
+        "15 puntos o más"
+      ],
+      "h1": "Los conductores nuevos tienen un límite más bajo que los adultos.",
+      "h2": "En Carolina del Sur, quien tiene un permiso de principiante, una licencia condicional o una licencia restringida especial y acumula 6 puntos o más pierde el privilegio de manejar por suspensión.",
+      "p": "Correcto. 6 puntos es el límite para conductores nuevos."
+    }
+  },
+  {
+    "id": "sc-024",
+    "scope": "SC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-18",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In South Carolina, what happens to the points from a traffic ticket one year after the violation?",
+      "o": [
+        "They double",
+        "They stay the same for ten years",
+        "They are moved to your insurance company",
+        "They are cut in half"
+      ],
+      "h1": "Points get smaller over time.",
+      "h2": "In South Carolina, the points from a traffic violation are reduced by half one year after the violation date, so 4 points become 2.",
+      "p": "Right. After one year the points are cut in half."
+    },
+    "es": {
+      "q": "En Carolina del Sur, ¿qué pasa con los puntos de una multa de tránsito un año después de la infracción?",
+      "o": [
+        "Se duplican",
+        "Se quedan igual por diez años",
+        "Pasan a su compañía de seguros",
+        "Se reducen a la mitad"
+      ],
+      "h1": "Los puntos bajan con el tiempo.",
+      "h2": "En Carolina del Sur, los puntos de una infracción de tránsito se reducen a la mitad un año después de la fecha de la infracción, así que 4 puntos pasan a ser 2.",
+      "p": "Correcto. Después de un año los puntos se reducen a la mitad."
+    }
+  },
+  {
+    "id": "sc-025",
+    "scope": "SC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "3-7",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In South Carolina, what happens if a driver under 21 refuses a test for alcohol?",
+      "o": [
+        "A fine, but no loss of driving",
+        "Loss of driving privileges for at least six months",
+        "A warning letter from the DMV",
+        "Loss of driving privileges for one day"
+      ],
+      "h1": "Refusing is treated more harshly than a 0.02 result.",
+      "h2": "In South Carolina, a driver under 21 who refuses a test for alcohol or drugs loses the privilege to drive right away, for at least six months.",
+      "p": "Right. At least six months without driving."
+    },
+    "es": {
+      "q": "En Carolina del Sur, ¿qué pasa si un conductor menor de 21 años se niega a una prueba de alcohol?",
+      "o": [
+        "Una multa, pero sigue manejando",
+        "Pierde el privilegio de manejar por lo menos seis meses",
+        "Una carta de advertencia del DMV",
+        "Pierde el privilegio de manejar por un día"
+      ],
+      "h1": "Negarse se castiga más que un resultado de 0.02.",
+      "h2": "En Carolina del Sur, un conductor menor de 21 años que se niega a una prueba de alcohol o drogas pierde de inmediato el privilegio de manejar, por lo menos por seis meses.",
+      "p": "Correcto. Por lo menos seis meses sin manejar."
+    }
+  },
+  {
+    "id": "sc-026",
+    "scope": "SC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "4-6",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In South Carolina, can an officer stop a driver only because someone in the car is not wearing a seat belt?",
+      "o": [
+        "No, only after a crash",
+        "Only if the person is a child",
+        "Yes, it is a primary law",
+        "Only on interstate highways"
+      ],
+      "h1": "South Carolina has primary seat belt enforcement.",
+      "h2": "In South Carolina, the seat belt law is a primary law, so an officer who clearly sees a driver or passenger without a seat belt or child seat may stop the car.",
+      "p": "Right. It is a primary law."
+    },
+    "es": {
+      "q": "En Carolina del Sur, ¿puede un policía detener a un conductor solo porque alguien en el carro no lleva el cinturón de seguridad?",
+      "o": [
+        "No, solo después de un choque",
+        "Solo si la persona es un niño",
+        "Sí, es una ley primaria",
+        "Solo en las autopistas interestatales"
+      ],
+      "h1": "Carolina del Sur aplica el cinturón como ley primaria.",
+      "h2": "En Carolina del Sur, la ley del cinturón de seguridad es una ley primaria, así que un policía que ve claramente a un conductor o pasajero sin cinturón o sin asiento infantil puede detener el carro.",
+      "p": "Correcto. Es una ley primaria."
+    }
+  },
+  {
+    "id": "sc-027",
+    "scope": "SC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "4-7",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In South Carolina, where must a child age seven or younger ride?",
+      "o": [
+        "In a car seat in the back seat",
+        "In the front seat with a seat belt",
+        "On an adult's lap in the back seat",
+        "Anywhere with an adult seat belt"
+      ],
+      "h1": "Air bags in the front can hurt small children.",
+      "h2": "In South Carolina, children age seven and younger must ride in a car seat in the back seat of the vehicle, away from the front air bag.",
+      "p": "Right. A car seat, in the back seat."
+    },
+    "es": {
+      "q": "En Carolina del Sur, ¿dónde debe viajar un niño de siete años o menos?",
+      "o": [
+        "En un asiento de seguridad en el asiento trasero",
+        "En el asiento delantero con cinturón",
+        "En las piernas de un adulto en el asiento trasero",
+        "En cualquier lugar con un cinturón de adulto"
+      ],
+      "h1": "Las bolsas de aire de adelante pueden lastimar a los niños pequeños.",
+      "h2": "En Carolina del Sur, los niños de siete años o menos deben viajar en un asiento de seguridad en el asiento trasero del vehículo, lejos de la bolsa de aire delantera.",
+      "p": "Correcto. En un asiento de seguridad, en el asiento trasero."
+    }
   }
 ]
