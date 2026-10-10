@@ -1403,7 +1403,7 @@
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Kentucky, how long is an instruction permit valid since the 2025 law?",
+      "q": "In Kentucky, how long is an instruction permit for a car valid since the 2025 law?",
       "o": [
         "One year",
         "Two years",
@@ -1411,11 +1411,11 @@
         "Four years"
       ],
       "h1": "The 2025 law added one year to the old three years.",
-      "h2": "Since the 2025 law, a Kentucky instruction permit is valid for four years instead of three.",
+      "h2": "Since the 2025 law, a Kentucky instruction permit for a car is valid for four years instead of three.",
       "p": "Right. The permit is now valid for four years."
     },
     "es": {
-      "q": "En Kentucky, ¿por cuánto tiempo es válido el permiso de instrucción desde la ley de 2025?",
+      "q": "En Kentucky, ¿por cuánto tiempo es válido el permiso de instrucción para auto desde la ley de 2025?",
       "o": [
         "Un año",
         "Dos años",
@@ -1423,56 +1423,8 @@
         "Cuatro años"
       ],
       "h1": "La ley de 2025 sumó un año a los tres años de antes.",
-      "h2": "Desde la ley de 2025, el permiso de instrucción de Kentucky es válido por cuatro años en lugar de tres.",
+      "h2": "Desde la ley de 2025, el permiso de instrucción para auto en Kentucky es válido por cuatro años en lugar de tres.",
       "p": "Correcto. Ahora el permiso es válido por cuatro años."
-    },
-    "zh": {
-      "q": "在 Kentucky，按照 2025 年的法律，学习驾照有效期是多久？",
-      "o": [
-        "一年",
-        "两年",
-        "三年",
-        "四年"
-      ],
-      "h1": "2025 年的法律在原来的三年上加了一年。",
-      "h2": "按照 2025 年的法律，Kentucky 的学习驾照有效期是四年，不再是三年。",
-      "p": "对。学习驾照现在有效四年。"
-    },
-    "vi": {
-      "q": "Ở Kentucky, theo luật năm 2025, giấy phép tập lái có giá trị bao lâu?",
-      "o": [
-        "Một năm",
-        "Hai năm",
-        "Ba năm",
-        "Bốn năm"
-      ],
-      "h1": "Luật năm 2025 đã thêm một năm vào ba năm cũ.",
-      "h2": "Theo luật năm 2025, giấy phép tập lái ở Kentucky có giá trị bốn năm thay vì ba năm.",
-      "p": "Đúng. Giấy phép tập lái bây giờ có giá trị bốn năm."
-    },
-    "tl": {
-      "q": "Sa Kentucky, gaano katagal may bisa ang instruction permit mula sa batas noong 2025?",
-      "o": [
-        "Isang taon",
-        "Dalawang taon",
-        "Tatlong taon",
-        "Apat na taon"
-      ],
-      "h1": "Nagdagdag ang batas noong 2025 ng isang taon sa dating tatlong taon.",
-      "h2": "Mula sa batas noong 2025, may bisa ang Kentucky instruction permit nang apat na taon sa halip na tatlo.",
-      "p": "Tama. May bisa na ngayon ang permit nang apat na taon."
-    },
-    "ar": {
-      "q": "في Kentucky، كم مدة صلاحية تصريح تعلّم القيادة منذ قانون 2025؟",
-      "o": [
-        "سنة واحدة",
-        "سنتان",
-        "ثلاث سنوات",
-        "أربع سنوات"
-      ],
-      "h1": "قانون 2025 أضاف سنة واحدة إلى السنوات الثلاث القديمة.",
-      "h2": "منذ قانون 2025، أصبح تصريح تعلّم القيادة في Kentucky صالحًا لمدة أربع سنوات بدلًا من ثلاث.",
-      "p": "صحيح. التصريح الآن صالح لمدة أربع سنوات."
     }
   },
   {
@@ -6551,28 +6503,28 @@
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Kentucky, a first alcohol DUI conviction within 10 years brings how much jail time?",
+      "q": "In Kentucky, if the court orders county jail for a first alcohol DUI within 10 years (no aggravating factors), what is the range?",
       "o": [
-        "None at all",
+        "90 days to 6 months",
         "1 to 5 years",
         "6 to 12 months",
         "48 hours to 30 days"
       ],
       "h1": "The minimum is two days.",
-      "h2": "In Kentucky, a first alcohol DUI conviction within 10 years brings 48 hours to 30 days in the county jail, plus a fine.",
-      "p": "Right. 48 hours to 30 days."
+      "h2": "In Kentucky, a first alcohol DUI within 10 years can bring 48 hours to 30 days in the county jail, a fine of $200 to $500, or both.",
+      "p": "Right. 48 hours to 30 days, if the court orders jail."
     },
     "es": {
-      "q": "En Kentucky, una primera condena por DUI con alcohol en 10 años trae cuánta cárcel?",
+      "q": "En Kentucky, si el tribunal ordena cárcel del condado por un primer DUI con alcohol en 10 años (sin factores agravantes), ¿cuál es el rango?",
       "o": [
-        "Nada",
+        "90 días a 6 meses",
         "1 a 5 años",
         "6 a 12 meses",
         "48 horas a 30 días"
       ],
       "h1": "El mínimo son dos días.",
-      "h2": "En Kentucky, una primera condena por DUI con alcohol en 10 años trae de 48 horas a 30 días en la cárcel del condado, además de una multa.",
-      "p": "Correcto. 48 horas a 30 días."
+      "h2": "En Kentucky, un primer DUI con alcohol en 10 años puede traer de 48 horas a 30 días en la cárcel del condado, una multa de $200 a $500, o ambas cosas.",
+      "p": "Correcto. 48 horas a 30 días, si el tribunal ordena cárcel."
     }
   },
   {
