@@ -9198,5 +9198,39 @@
       "h2": "En New Jersey, quien tiene permiso de motocicleta no puede manejar desde media hora después de la puesta del sol hasta media hora antes del amanecer, llevar pasajeros, ni usar carreteras estatales de peaje o de acceso limitado.",
       "p": "Correcto. De día y por calles locales, puede practicar con el permiso."
     }
+  },
+  {
+    "id": "nj-201",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 152,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, a person with a mobility-related disability rides a motorized scooter on public streets. What is the fastest the scooter may be able to go?",
+      "o": [
+        "15 mph",
+        "10 mph",
+        "25 mph",
+        "35 mph"
+      ],
+      "h1": "It is slower than the 25 mph streets the scooter may use.",
+      "h2": "In New Jersey, a person with a mobility-related disability may ride a motorized scooter that can go no faster than 15 mph on public streets posted at 25 mph or less.",
+      "p": "Right. The scooter's top speed may be no more than 15 mph."
+    },
+    "es": {
+      "q": "En New Jersey, una persona con una discapacidad de movilidad usa un scooter motorizado en calles públicas. ¿Cuál es la velocidad máxima que puede alcanzar el scooter?",
+      "o": [
+        "15 mph",
+        "10 mph",
+        "25 mph",
+        "35 mph"
+      ],
+      "h1": "Es menos que las calles de 25 mph por donde puede ir el scooter.",
+      "h2": "En New Jersey, una persona con una discapacidad de movilidad puede usar un scooter motorizado que no pase de 15 mph en calles públicas con límite de 25 mph o menos.",
+      "p": "Correcto. La velocidad máxima del scooter no puede pasar de 15 mph."
+    }
   }
 ]
