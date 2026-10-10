@@ -1720,5 +1720,243 @@
       "h2": "يمكن لولاية Nevada أن تضع حدًّا للسرعة يصل إلى 80 mph على طرق الولاية السريعة، وفقط حيث توجد لافتة تُظهر ذلك.",
       "p": "صحيح. أعلى حدّ مكتوب هو 80 mph."
     }
+  },
+  {
+    "id": "nv-022",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 77,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, how many demerit points in 12 months will get your license suspended?",
+      "o": [
+        "4 or more",
+        "8 or more",
+        "12 or more",
+        "20 or more"
+      ],
+      "h1": "It is the number of months in a year.",
+      "h2": "In Nevada, your license is suspended if you get 12 or more demerit points in any 12-month period.",
+      "p": "Right. 12 points in 12 months means a suspension."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuántos puntos de demérito en 12 meses causan la suspensión de su licencia?",
+      "o": [
+        "4 o más",
+        "8 o más",
+        "12 o más",
+        "20 o más"
+      ],
+      "h1": "Es el número de meses que tiene un año.",
+      "h2": "En Nevada, su licencia se suspende si acumula 12 o más puntos de demérito en cualquier período de 12 meses.",
+      "p": "Correcto. 12 puntos en 12 meses significan una suspensión."
+    }
+  },
+  {
+    "id": "nv-023",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 77,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, how many demerit points can a DMV-approved traffic safety course remove?",
+      "o": [
+        "Up to 3 points",
+        "Up to 6 points",
+        "Up to 12 points",
+        "None at all"
+      ],
+      "h1": "It is a small number, and you can do it once in 12 months.",
+      "h2": "In Nevada, a DMV-approved traffic safety course can remove up to 3 demerit points, once in a 12-month period.",
+      "p": "Right. Traffic school removes up to 3 points."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuántos puntos de demérito puede quitar un curso de seguridad vial aprobado por el DMV?",
+      "o": [
+        "Hasta 3 puntos",
+        "Hasta 6 puntos",
+        "Hasta 12 puntos",
+        "Ninguno"
+      ],
+      "h1": "Es un número pequeño, y solo se puede hacer una vez cada 12 meses.",
+      "h2": "En Nevada, un curso de seguridad vial aprobado por el DMV puede quitar hasta 3 puntos de demérito, una vez en un período de 12 meses.",
+      "p": "Correcto. La escuela de tránsito quita hasta 3 puntos."
+    }
+  },
+  {
+    "id": "nv-024",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 75,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, police do not investigate a crash that causes $750 or more in damage. What must you do?",
+      "o": [
+        "Nothing, if no one was hurt",
+        "Tell your insurance company only",
+        "Call the DMV within 30 days",
+        "Send a crash report form (SR-1) to the DMV within 10 days"
+      ],
+      "h1": "There is a form, and you have less than two weeks.",
+      "h2": "In Nevada, if police do not investigate a crash with $750 or more in damage or an injury, you must send an SR-1 crash report to the DMV within 10 days.",
+      "p": "Right. You send the SR-1 form to the DMV within 10 days."
+    },
+    "es": {
+      "q": "En Nevada, la policía no investiga un choque que causa $750 o más en daños. ¿Qué debe hacer usted?",
+      "o": [
+        "Nada, si nadie resultó herido",
+        "Avisar solo a su compañía de seguros",
+        "Llamar al DMV dentro de 30 días",
+        "Enviar un formulario de informe de choque (SR-1) al DMV dentro de 10 días"
+      ],
+      "h1": "Hay un formulario, y tiene menos de dos semanas.",
+      "h2": "En Nevada, si la policía no investiga un choque con $750 o más en daños o con heridos, usted debe enviar un informe de choque SR-1 al DMV dentro de 10 días.",
+      "p": "Correcto. Usted envía el formulario SR-1 al DMV dentro de 10 días."
+    }
+  },
+  {
+    "id": "nv-025",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 75,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, what is the minimum liability insurance for injury to one person in a crash?",
+      "o": [
+        "$10,000",
+        "$25,000",
+        "$50,000",
+        "$100,000"
+      ],
+      "h1": "It is half of the amount required for two or more people.",
+      "h2": "In Nevada, the minimum liability insurance is $25,000 for injury or death of one person in a crash.",
+      "p": "Right. The minimum for one person is $25,000."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuál es el seguro de responsabilidad civil mínimo por lesiones a una persona en un choque?",
+      "o": [
+        "$10,000",
+        "$25,000",
+        "$50,000",
+        "$100,000"
+      ],
+      "h1": "Es la mitad de lo que se exige para dos o más personas.",
+      "h2": "En Nevada, el seguro de responsabilidad civil mínimo es de $25,000 por lesiones o muerte de una persona en un choque.",
+      "p": "Correcto. El mínimo para una persona es de $25,000."
+    }
+  },
+  {
+    "id": "nv-026",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 25,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, which children must ride in an approved child restraint system?",
+      "o": [
+        "Only babies under 1 year",
+        "Children under 12, at any height",
+        "Children under 6 who are shorter than 57 inches",
+        "Only children riding in the front seat"
+      ],
+      "h1": "Think of age six and a height of 4 feet 9 inches.",
+      "h2": "In Nevada, children under 6 who are shorter than 57 inches must ride in an approved child restraint system.",
+      "p": "Right. Under 6 and under 57 inches means a child restraint."
+    },
+    "es": {
+      "q": "En Nevada, ¿qué niños deben viajar en un sistema de retención infantil aprobado?",
+      "o": [
+        "Solo los bebés menores de 1 año",
+        "Los menores de 12 años, de cualquier estatura",
+        "Los menores de 6 años que miden menos de 57 pulgadas",
+        "Solo los niños que viajan en el asiento delantero"
+      ],
+      "h1": "Piense en la edad de seis años y una estatura de 4 pies 9 pulgadas.",
+      "h2": "En Nevada, los niños menores de 6 años que miden menos de 57 pulgadas deben viajar en un sistema de retención infantil aprobado.",
+      "p": "Correcto. Menor de 6 años y de menos de 57 pulgadas: va en un asiento de seguridad."
+    }
+  },
+  {
+    "id": "nv-027",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 56,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, you must use headlights when you cannot clearly see people or vehicles at what distance?",
+      "o": [
+        "1,000 feet",
+        "300 feet",
+        "100 feet",
+        "2 miles"
+      ],
+      "h1": "It is a little more than three football fields.",
+      "h2": "In Nevada, headlights are required whenever you cannot clearly see people or vehicles 1,000 feet away.",
+      "p": "Right. Headlights go on when you cannot see clearly at 1,000 feet."
+    },
+    "es": {
+      "q": "En Nevada, ¿debe usar las luces delanteras cuando no puede ver con claridad a personas o vehículos a qué distancia?",
+      "o": [
+        "1,000 pies",
+        "300 pies",
+        "100 pies",
+        "2 millas"
+      ],
+      "h1": "Es un poco más que tres campos de fútbol americano.",
+      "h2": "En Nevada, las luces delanteras son obligatorias siempre que no pueda ver con claridad a personas o vehículos a 1,000 pies.",
+      "p": "Correcto. Las luces se encienden cuando no se ve bien a 1,000 pies."
+    }
+  },
+  {
+    "id": "nv-028",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 33,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, when is a school zone speed limit in effect, unless signs say otherwise?",
+      "o": [
+        "Every day of the year, at all hours",
+        "School days, from 7 a.m. to 3 p.m. only",
+        "Only when a crossing guard is in the street",
+        "School days, from 30 minutes before to 30 minutes after classes"
+      ],
+      "h1": "It covers the school day plus a short time on each side.",
+      "h2": "In Nevada, unless signs say otherwise, the school zone limit applies on school days from half an hour before school starts until half an hour after it ends.",
+      "p": "Right. It runs from half an hour before to half an hour after school."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuándo rige el límite de velocidad de una zona escolar, si las señales no dicen otra cosa?",
+      "o": [
+        "Todos los días del año, a toda hora",
+        "En días de clase, solo de 7 a.m. a 3 p.m.",
+        "Solo cuando hay un guardia de cruce en la calle",
+        "En días de clase, de 30 minutos antes a 30 minutos después de las clases"
+      ],
+      "h1": "Cubre el horario escolar más un rato antes y después.",
+      "h2": "En Nevada, si las señales no dicen otra cosa, el límite de la zona escolar rige en días de clase desde media hora antes de que empiecen las clases hasta media hora después de que terminen.",
+      "p": "Correcto. Rige desde media hora antes hasta media hora después de las clases."
+    }
   }
 ]
