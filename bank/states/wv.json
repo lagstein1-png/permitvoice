@@ -1731,7 +1731,7 @@
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In West Virginia, how many questions must you answer correctly to pass the 25-question knowledge test?",
+      "q": "In West Virginia, how many correct answers out of 25 do you need to pass the knowledge test?",
       "o": [
         "15",
         "19",
@@ -1739,11 +1739,11 @@
         "25"
       ],
       "h1": "You can miss up to six questions.",
-      "h2": "In West Virginia, you must answer 19 of the 25 knowledge test questions correctly to pass, and the test has a time limit.",
+      "h2": "In West Virginia, you need 19 correct answers out of 25 to pass the knowledge test, and the test is timed.",
       "p": "Right. 19 out of 25."
     },
     "es": {
-      "q": "En West Virginia, ¿cuántas preguntas debe contestar bien para aprobar el examen de conocimientos de 25 preguntas?",
+      "q": "En Virginia Occidental, ¿cuántas respuestas correctas de 25 necesita para aprobar el examen de conocimientos?",
       "o": [
         "15",
         "19",
@@ -1751,56 +1751,8 @@
         "25"
       ],
       "h1": "Puede fallar hasta seis preguntas.",
-      "h2": "En West Virginia, debe contestar bien 19 de las 25 preguntas del examen de conocimientos para aprobar, y el examen tiene un límite de tiempo.",
+      "h2": "En Virginia Occidental, necesita 19 respuestas correctas de 25 para aprobar el examen de conocimientos, y el examen tiene un límite de tiempo.",
       "p": "Correcto. 19 de 25."
-    },
-    "zh": {
-      "q": "在 West Virginia，25 题的知识考试要答对几题才能通过？",
-      "o": [
-        "15",
-        "19",
-        "22",
-        "25"
-      ],
-      "h1": "你最多可以答错六题。",
-      "h2": "在 West Virginia，知识考试的 25 题中你必须答对 19 题才能通过，而且考试有时间限制。",
-      "p": "对。25 题中答对 19 题。"
-    },
-    "vi": {
-      "q": "Ở West Virginia, bạn phải trả lời đúng bao nhiêu câu để đậu bài thi kiến thức 25 câu?",
-      "o": [
-        "15",
-        "19",
-        "22",
-        "25"
-      ],
-      "h1": "Bạn có thể sai tối đa sáu câu.",
-      "h2": "Ở West Virginia, bạn phải trả lời đúng 19 trong 25 câu của bài thi kiến thức để đậu, và bài thi có giới hạn thời gian.",
-      "p": "Đúng. 19 trên 25 câu."
-    },
-    "tl": {
-      "q": "Sa West Virginia, ilang tanong ang kailangan mong masagot nang tama para pumasa sa 25-tanong na knowledge test?",
-      "o": [
-        "15",
-        "19",
-        "22",
-        "25"
-      ],
-      "h1": "Puwede kang magkamali nang hanggang anim na tanong.",
-      "h2": "Sa West Virginia, kailangan mong masagot nang tama ang 19 sa 25 tanong ng knowledge test para pumasa, at may takdang oras ang test.",
-      "p": "Tama. 19 sa 25."
-    },
-    "ar": {
-      "q": "في West Virginia، كم سؤالًا يجب أن تجيب عنه إجابة صحيحة لتنجح في اختبار المعرفة المكوّن من 25 سؤالًا؟",
-      "o": [
-        "15",
-        "19",
-        "22",
-        "25"
-      ],
-      "h1": "يمكنك أن تخطئ في ستة أسئلة على الأكثر.",
-      "h2": "في West Virginia، يجب أن تجيب إجابة صحيحة عن 19 سؤالًا من أسئلة اختبار المعرفة الـ 25 لتنجح، وللاختبار وقت محدد.",
-      "p": "صحيح. 19 من 25."
     }
   },
   {
@@ -1825,7 +1777,7 @@
       "p": "Right. $25,000 for one person."
     },
     "es": {
-      "q": "En West Virginia, ¿cuál es el seguro de responsabilidad mínimo por la muerte o lesión de una persona?",
+      "q": "En Virginia Occidental, ¿cuál es el seguro de responsabilidad mínimo por la muerte o lesión de una persona?",
       "o": [
         "$5,000",
         "$10,000",
@@ -1833,7 +1785,7 @@
         "$25,000"
       ],
       "h1": "Es la misma cantidad que el mínimo por daños a la propiedad.",
-      "h2": "En West Virginia, el seguro de responsabilidad mínimo es de $25,000 por una muerte o lesión, $50,000 por dos o más, y $25,000 por daños a la propiedad.",
+      "h2": "En Virginia Occidental, el seguro de responsabilidad mínimo es de $25,000 por una muerte o lesión, $50,000 por dos o más, y $25,000 por daños a la propiedad.",
       "p": "Correcto. $25,000 por una persona."
     },
     "zh": {
@@ -1907,7 +1859,7 @@
       "p": "Right. 12 points can mean a suspension."
     },
     "es": {
-      "q": "En West Virginia, ¿cuántos puntos en su historial pueden llevar a la suspensión de la licencia?",
+      "q": "En Virginia Occidental, ¿cuántos puntos en su historial pueden llevar a la suspensión de la licencia?",
       "o": [
         "3 puntos",
         "6 puntos",
@@ -1915,7 +1867,7 @@
         "25 puntos"
       ],
       "h1": "Con la mitad de este número, el DMV envía una carta de advertencia.",
-      "h2": "En West Virginia, el DMV envía una carta de advertencia con 6 puntos, y a un conductor con 12 puntos se le puede suspender la licencia.",
+      "h2": "En Virginia Occidental, el DMV envía una carta de advertencia con 6 puntos, y a un conductor con 12 puntos se le puede suspender la licencia.",
       "p": "Correcto. 12 puntos pueden llevar a una suspensión."
     },
     "zh": {
@@ -1989,15 +1941,15 @@
       "p": "Right. Revoked for at least one year."
     },
     "es": {
-      "q": "En West Virginia, ¿qué pasa si lo arrestan por manejar bajo los efectos del alcohol (DUI) y se niega a la prueba de aliento?",
+      "q": "En Virginia Occidental, ¿qué pasa si lo arrestan por manejar bajo los efectos del alcohol (DUI) y se niega a la prueba de aliento?",
       "o": [
         "Le revocan la licencia por lo menos un año",
         "Paga una multa pequeña y sigue manejando",
         "Recibe una advertencia la primera vez",
         "Le suspenden la licencia por una semana"
       ],
-      "h1": "La ley de consentimiento implícito de West Virginia trata la negativa con mucha seriedad.",
-      "h2": "En West Virginia, a un conductor arrestado por DUI que se niega a la prueba de aliento le revocan el privilegio de manejar por lo menos un año, y hasta de por vida.",
+      "h1": "La ley de consentimiento implícito de Virginia Occidental trata la negativa con mucha seriedad.",
+      "h2": "En Virginia Occidental, a un conductor arrestado por DUI que se niega a la prueba de aliento le revocan el privilegio de manejar por lo menos un año, y hasta de por vida.",
       "p": "Correcto. Revocada por lo menos un año."
     },
     "zh": {
@@ -2071,7 +2023,7 @@
       "p": "Right. 15 mph in a school zone."
     },
     "es": {
-      "q": "En West Virginia, ¿cuál es el límite de velocidad en una zona escolar cuando hay niños presentes, si no hay otro señalado?",
+      "q": "En Virginia Occidental, ¿cuál es el límite de velocidad en una zona escolar cuando hay niños presentes, si no hay otro señalado?",
       "o": [
         "10 mph",
         "15 mph",
@@ -2079,7 +2031,7 @@
         "35 mph"
       ],
       "h1": "Es más bajo que el límite de 25 mph de las zonas residenciales.",
-      "h2": "En West Virginia, el límite de velocidad en una zona escolar es de 15 mph cuando hay niños presentes a lo largo de la calle.",
+      "h2": "En Virginia Occidental, el límite de velocidad en una zona escolar es de 15 mph cuando hay niños presentes a lo largo de la calle.",
       "p": "Correcto. 15 mph en una zona escolar."
     },
     "zh": {
@@ -2153,7 +2105,7 @@
       "p": "Right. The class removes 3 points."
     },
     "es": {
-      "q": "En West Virginia, ¿cuántos puntos puede quitar de su historial una clase aprobada de manejo defensivo de 8 horas?",
+      "q": "En Virginia Occidental, ¿cuántos puntos puede quitar de su historial una clase aprobada de manejo defensivo de 8 horas?",
       "o": [
         "1 punto",
         "Todos sus puntos",
@@ -2161,7 +2113,7 @@
         "6 puntos"
       ],
       "h1": "Solo puede hacerlo una vez cada 12 meses.",
-      "h2": "En West Virginia, terminar una clase aprobada de manejo defensivo de 8 horas le quita 3 puntos de su historial, no más de una vez cada 12 meses.",
+      "h2": "En Virginia Occidental, terminar una clase aprobada de manejo defensivo de 8 horas le quita 3 puntos de su historial, no más de una vez cada 12 meses.",
       "p": "Correcto. La clase quita 3 puntos."
     },
     "zh": {
