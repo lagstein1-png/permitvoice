@@ -1638,5 +1638,311 @@
       "h2": "في North Dakota، لا يجب على السائقين القادمين من الاتجاه المعاكس التوقف للحافلة المدرسية إلا عندما يكون للطريق السريع طريقان منفصلان تقسمهما جزيرة وسطية أو حاجز، وتكون الحافلة على الطريق الآخر.",
       "p": "صحيح. الجزيرة الوسطية أو الحاجز هو ما يصنع الفرق."
     }
+  },
+  {
+    "id": "nd-021",
+    "scope": "ND",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, what is the top speed limit on rural interstate highways, unless a sign says otherwise?",
+      "o": [
+        "65 mph",
+        "70 mph",
+        "80 mph",
+        "75 mph"
+      ],
+      "h1": "It is higher than the limit on divided highways that are not interstates.",
+      "h2": "In North Dakota the speed limit on rural interstate highways is 80 mph unless a sign shows a different limit.",
+      "p": "Right. Rural interstates in North Dakota allow up to 80 mph."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuál es el límite de velocidad máximo en las autopistas interestatales rurales, si no hay una señal que diga otra cosa?",
+      "o": [
+        "65 mph",
+        "70 mph",
+        "80 mph",
+        "75 mph"
+      ],
+      "h1": "Es más alto que el límite en las carreteras divididas que no son interestatales.",
+      "h2": "En Dakota del Norte el límite de velocidad en las autopistas interestatales rurales es de 80 mph, a menos que una señal indique otro límite.",
+      "p": "Correcto. En las interestatales rurales de Dakota del Norte se permite hasta 80 mph."
+    }
+  },
+  {
+    "id": "nd-022",
+    "scope": "ND",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, what is the speed limit on a gravel or dirt road when no limit is posted?",
+      "o": [
+        "45 mph",
+        "55 mph",
+        "65 mph",
+        "35 mph"
+      ],
+      "h1": "It is the same as on a paved county road with no posted limit.",
+      "h2": "In North Dakota the speed limit on gravel, dirt or other loose-surface roads is 55 mph when no other limit is posted.",
+      "p": "Right. Gravel and dirt roads have a 55 mph limit unless posted."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuál es el límite de velocidad en un camino de grava o de tierra cuando no hay un límite señalado?",
+      "o": [
+        "45 mph",
+        "55 mph",
+        "65 mph",
+        "35 mph"
+      ],
+      "h1": "Es igual que en una carretera pavimentada del condado sin límite señalado.",
+      "h2": "En Dakota del Norte el límite de velocidad en caminos de grava, de tierra u otra superficie suelta es de 55 mph cuando no hay otro límite señalado.",
+      "p": "Correcto. Los caminos de grava y de tierra tienen un límite de 55 mph si no hay señal."
+    }
+  },
+  {
+    "id": "nd-023",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 27,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, what is the fine for a first offense of driving without liability insurance?",
+      "o": [
+        "$50",
+        "$100",
+        "$500",
+        "$150"
+      ],
+      "h1": "A second offense within three years costs twice as much.",
+      "h2": "In North Dakota the fine for a first offense of driving without liability insurance is $150, and your license may also be suspended.",
+      "p": "Right. A first no-insurance offense is a $150 fine."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuál es la multa por una primera infracción de manejar sin seguro de responsabilidad civil?",
+      "o": [
+        "$50",
+        "$100",
+        "$500",
+        "$150"
+      ],
+      "h1": "Una segunda infracción en tres años cuesta el doble.",
+      "h2": "En Dakota del Norte la multa por una primera infracción de manejar sin seguro de responsabilidad civil es de $150, y además le pueden suspender la licencia.",
+      "p": "Correcto. La primera infracción por no tener seguro es una multa de $150."
+    }
+  },
+  {
+    "id": "nd-024",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 27,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, a crash with no injuries must be reported to police right away when the total damage reaches what amount?",
+      "o": [
+        "$4,000 or more",
+        "$1,000 or more",
+        "$500 or more",
+        "$10,000 or more"
+      ],
+      "h1": "The amount is a few thousand dollars, added up for all vehicles and property.",
+      "h2": "In North Dakota you must report a crash to police right away when the combined damage is $4,000 or more, or when anyone is hurt or killed.",
+      "p": "Right. Combined damage of $4,000 or more must be reported."
+    },
+    "es": {
+      "q": "En Dakota del Norte, un choque sin heridos se debe reportar a la policía de inmediato cuando el daño total llega a ¿qué cantidad?",
+      "o": [
+        "$4,000 o más",
+        "$1,000 o más",
+        "$500 o más",
+        "$10,000 o más"
+      ],
+      "h1": "La cantidad es de unos miles de dólares, sumando todos los vehículos y la propiedad.",
+      "h2": "En Dakota del Norte usted debe reportar un choque a la policía de inmediato cuando el daño combinado es de $4,000 o más, o cuando alguien resulta herido o muere.",
+      "p": "Correcto. Un daño combinado de $4,000 o más se debe reportar."
+    }
+  },
+  {
+    "id": "nd-025",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 34,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, children under what age must ride in a car seat or booster seat (unless they are at least 57 inches tall)?",
+      "o": [
+        "Under 5",
+        "Under 8",
+        "Under 10",
+        "Under 12"
+      ],
+      "h1": "Older children, up to age 17, may use a seat belt instead.",
+      "h2": "In North Dakota children under 8 must ride in a car seat or booster seat, unless they are at least 57 inches tall and can use a seat belt.",
+      "p": "Right. Children under 8 need a car seat or booster seat."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿los niños menores de qué edad deben viajar en un asiento de seguridad o elevador (a menos que midan al menos 57 pulgadas)?",
+      "o": [
+        "Menores de 5",
+        "Menores de 8",
+        "Menores de 10",
+        "Menores de 12"
+      ],
+      "h1": "Los niños mayores, hasta los 17 años, pueden usar el cinturón de seguridad.",
+      "h2": "En Dakota del Norte los niños menores de 8 años deben viajar en un asiento de seguridad o elevador, a menos que midan al menos 57 pulgadas y puedan usar el cinturón.",
+      "p": "Correcto. Los niños menores de 8 años necesitan un asiento de seguridad o elevador."
+    }
+  },
+  {
+    "id": "nd-026",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, what happens if you refuse a chemical test for alcohol or drugs when an officer asks?",
+      "o": [
+        "You get a warning only",
+        "You pay a $100 fine",
+        "You must take a driving class",
+        "Your license is revoked for 180 days to 3 years"
+      ],
+      "h1": "By getting a license, you already agreed to be tested.",
+      "h2": "In North Dakota, if you refuse a chemical test, your license is revoked for 180 days to three years.",
+      "p": "Right. Refusing the test brings a revocation of 180 days to 3 years."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿qué pasa si usted se niega a hacerse una prueba química de alcohol o drogas cuando un oficial se lo pide?",
+      "o": [
+        "Solo recibe una advertencia",
+        "Paga una multa de $100",
+        "Debe tomar una clase de manejo",
+        "Le revocan la licencia de 180 días a 3 años"
+      ],
+      "h1": "Al obtener la licencia, usted ya aceptó hacerse la prueba.",
+      "h2": "En Dakota del Norte, si usted se niega a una prueba química, le revocan la licencia por un período de 180 días a tres años.",
+      "p": "Correcto. Negarse a la prueba trae una revocación de 180 días a 3 años."
+    }
+  },
+  {
+    "id": "nd-027",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 40,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, how many points on your driving record lead to a license suspension?",
+      "o": [
+        "12 or more",
+        "6 or more",
+        "8 or more",
+        "20 or more"
+      ],
+      "h1": "It is a dozen.",
+      "h2": "In North Dakota your license is suspended when your driving record reaches 12 or more points.",
+      "p": "Right. Twelve or more points means a suspension."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuántos puntos en su historial de manejo llevan a la suspensión de la licencia?",
+      "o": [
+        "12 o más",
+        "6 o más",
+        "8 o más",
+        "20 o más"
+      ],
+      "h1": "Es una docena.",
+      "h2": "En Dakota del Norte le suspenden la licencia cuando su historial de manejo llega a 12 puntos o más.",
+      "p": "Correcto. Doce puntos o más significan una suspensión."
+    }
+  },
+  {
+    "id": "nd-028",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 40,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, how can you have one point taken off your driving record without taking a class?",
+      "o": [
+        "Pay a fee to the state",
+        "Ask a judge after one month",
+        "Go three months with no new points",
+        "Wait until your next birthday"
+      ],
+      "h1": "It happens on its own if you keep a clean record.",
+      "h2": "In North Dakota one point comes off your record for every three months in which you get no new points.",
+      "p": "Right. Each three months with no new points removes one point."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cómo se le puede quitar un punto de su historial de manejo sin tomar una clase?",
+      "o": [
+        "Pagar una tarifa al estado",
+        "Pedírselo a un juez después de un mes",
+        "Pasar tres meses sin puntos nuevos",
+        "Esperar hasta su próximo cumpleaños"
+      ],
+      "h1": "Pasa solo si usted mantiene un historial limpio.",
+      "h2": "En Dakota del Norte se le quita un punto de su historial por cada tres meses en los que no recibe puntos nuevos.",
+      "p": "Correcto. Cada tres meses sin puntos nuevos le quita un punto."
+    }
+  },
+  {
+    "id": "nd-029",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, what is the penalty on your driving record for breaking the rules of your instruction permit?",
+      "o": [
+        "One point",
+        "Two points",
+        "Four points",
+        "Six points"
+      ],
+      "h1": "It is a small number of points, more than one.",
+      "h2": "In North Dakota, driving against the conditions of your instruction permit puts two points on your driving record.",
+      "p": "Right. Breaking permit rules adds two points."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuál es la sanción en su historial de manejo por no cumplir las reglas de su permiso de instrucción?",
+      "o": [
+        "Un punto",
+        "Dos puntos",
+        "Cuatro puntos",
+        "Seis puntos"
+      ],
+      "h1": "Es un número pequeño de puntos, más de uno.",
+      "h2": "En Dakota del Norte, manejar sin cumplir las condiciones de su permiso de instrucción agrega dos puntos a su historial de manejo.",
+      "p": "Correcto. No cumplir las reglas del permiso agrega dos puntos."
+    }
   }
 ]
