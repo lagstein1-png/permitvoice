@@ -2245,6 +2245,54 @@
       "h1": "Los bomberos necesitan espacio para conectarse al hidrante.",
       "h2": "En Kansas, usted no puede estacionarse a menos de 15 pies de un hidrante.",
       "p": "Correcto. Quédese al menos a 15 pies de un hidrante."
+    },
+    "zh": {
+      "q": "在 Kansas，停车时离消防栓最近可以多近？",
+      "o": [
+        "不能近于 5 英尺",
+        "不能近于 10 英尺",
+        "不能近于 15 英尺",
+        "不能近于 50 英尺"
+      ],
+      "h1": "消防车需要空间连接消防栓。",
+      "h2": "在 Kansas，你不能在离消防栓 15 英尺以内的地方停车。",
+      "p": "对。离消防栓至少 15 英尺。"
+    },
+    "vi": {
+      "q": "Ở Kansas, bạn được đỗ xe gần trụ nước cứu hỏa đến mức nào?",
+      "o": [
+        "Không gần hơn 5 feet",
+        "Không gần hơn 10 feet",
+        "Không gần hơn 15 feet",
+        "Không gần hơn 50 feet"
+      ],
+      "h1": "Xe cứu hỏa cần chỗ để nối vào trụ nước.",
+      "h2": "Ở Kansas, bạn không được đỗ xe trong vòng 15 feet tính từ trụ nước cứu hỏa.",
+      "p": "Đúng. Hãy cách trụ nước ít nhất 15 feet."
+    },
+    "tl": {
+      "q": "Sa Kansas, gaano kalapit sa fire hydrant ka puwedeng pumarada?",
+      "o": [
+        "Hindi lalapit sa 5 talampakan",
+        "Hindi lalapit sa 10 talampakan",
+        "Hindi lalapit sa 15 talampakan",
+        "Hindi lalapit sa 50 talampakan"
+      ],
+      "h1": "Kailangan ng mga fire truck ng puwang para makakabit sa hydrant.",
+      "h2": "Sa Kansas, hindi ka puwedeng pumarada sa loob ng 15 talampakan mula sa fire hydrant.",
+      "p": "Tama. Lumayo nang hindi bababa sa 15 talampakan mula sa hydrant."
+    },
+    "ar": {
+      "q": "في Kansas، ما أقرب مسافة يمكنك أن تركن فيها سيارتك من صنبور إطفاء الحريق؟",
+      "o": [
+        "ليس أقرب من 5 أقدام",
+        "ليس أقرب من 10 أقدام",
+        "ليس أقرب من 15 قدمًا",
+        "ليس أقرب من 50 قدمًا"
+      ],
+      "h1": "تحتاج سيارات الإطفاء إلى مساحة لتوصيل الخراطيم بالصنبور.",
+      "h2": "في Kansas لا يجوز لك أن تركن سيارتك على بُعد أقل من 15 قدمًا من صنبور إطفاء الحريق.",
+      "p": "صحيح. ابقَ على بُعد 15 قدمًا على الأقل من الصنبور."
     }
   },
   {
@@ -2279,6 +2327,54 @@
       "h1": "Es el doble del tiempo que se usa con buenas condiciones.",
       "h2": "En Kansas, el manual recomienda dos segundos de distancia con buenas condiciones y cuatro segundos con malas condiciones.",
       "p": "Correcto. Use cuatro segundos cuando las condiciones son malas."
+    },
+    "zh": {
+      "q": "在 Kansas，驾驶手册建议在坏天气或其他不良条件下保持多大的跟车距离？",
+      "o": [
+        "四秒",
+        "一秒",
+        "两秒",
+        "三个车身长度"
+      ],
+      "h1": "这是良好条件下所用时间的两倍。",
+      "h2": "在 Kansas，驾驶手册建议在良好条件下保持两秒的跟车距离，在不良条件下保持四秒。",
+      "p": "对。条件不好时，保持四秒。"
+    },
+    "vi": {
+      "q": "Ở Kansas, sổ tay lái xe khuyên giữ khoảng cách bao xa với xe phía trước khi thời tiết xấu hoặc điều kiện kém?",
+      "o": [
+        "Bốn giây",
+        "Một giây",
+        "Hai giây",
+        "Ba thân xe"
+      ],
+      "h1": "Đó là gấp đôi thời gian dùng khi điều kiện tốt.",
+      "h2": "Ở Kansas, sổ tay khuyên giữ khoảng cách hai giây khi điều kiện tốt và bốn giây khi điều kiện kém.",
+      "p": "Đúng. Hãy giữ bốn giây khi điều kiện kém."
+    },
+    "tl": {
+      "q": "Sa Kansas, anong layo sa sinusundang sasakyan ang ipinapayo ng handbook kapag masama ang panahon o iba pang mahirap na kondisyon?",
+      "o": [
+        "Apat na segundo",
+        "Isang segundo",
+        "Dalawang segundo",
+        "Tatlong haba ng kotse"
+      ],
+      "h1": "Doble ito ng oras na ginagamit kapag maganda ang kondisyon.",
+      "h2": "Sa Kansas, ipinapayo ng handbook ang dalawang segundong layo kapag maganda ang kondisyon at apat na segundo kapag mahirap ang kondisyon.",
+      "p": "Tama. Gumamit ng apat na segundo kapag mahirap ang kondisyon."
+    },
+    "ar": {
+      "q": "في Kansas، ما مسافة المتابعة التي ينصح بها دليل القيادة في الطقس السيئ أو الظروف الصعبة الأخرى؟",
+      "o": [
+        "أربع ثوانٍ",
+        "ثانية واحدة",
+        "ثانيتان",
+        "طول ثلاث سيارات"
+      ],
+      "h1": "إنها ضعف الوقت المستخدم في الظروف الجيدة.",
+      "h2": "في Kansas ينصح دليل القيادة بمسافة متابعة ثانيتين في الظروف الجيدة وأربع ثوانٍ في الظروف الصعبة.",
+      "p": "صحيح. استخدم أربع ثوانٍ عندما تكون الظروف صعبة."
     }
   },
   {
@@ -2313,6 +2409,54 @@
       "h1": "Solo un ojo necesita cumplir el requisito, con o sin lentes.",
       "h2": "En Kansas, usted necesita una vista de al menos 20/40 en un ojo, con o sin lentes o lentes de contacto.",
       "p": "Correcto. Necesita al menos 20/40 en un ojo."
+    },
+    "zh": {
+      "q": "在 Kansas，要通过驾照的视力检查，你需要什么样的视力？",
+      "o": [
+        "双眼 20/20",
+        "双眼 20/40",
+        "一只眼 20/70",
+        "至少一只眼 20/40"
+      ],
+      "h1": "只需要一只眼睛达到标准，戴不戴眼镜都可以。",
+      "h2": "在 Kansas，你至少一只眼睛的视力需要达到 20/40，戴不戴眼镜或隐形眼镜都可以。",
+      "p": "对。你至少一只眼睛需要达到 20/40。"
+    },
+    "vi": {
+      "q": "Ở Kansas, bạn cần thị lực như thế nào để qua bài kiểm tra mắt khi lấy bằng lái?",
+      "o": [
+        "20/20 ở cả hai mắt",
+        "20/40 ở cả hai mắt",
+        "20/70 ở một mắt",
+        "20/40 ở ít nhất một mắt"
+      ],
+      "h1": "Chỉ cần một mắt đạt tiêu chuẩn, có hoặc không có kính.",
+      "h2": "Ở Kansas, bạn cần thị lực ít nhất 20/40 ở một mắt, có hoặc không có kính đeo hay kính áp tròng.",
+      "p": "Đúng. Bạn cần ít nhất 20/40 ở một mắt."
+    },
+    "tl": {
+      "q": "Sa Kansas, anong paningin ang kailangan mo para pumasa sa vision screening para sa lisensya?",
+      "o": [
+        "20/20 sa dalawang mata",
+        "20/40 sa dalawang mata",
+        "20/70 sa isang mata",
+        "20/40 sa kahit isang mata"
+      ],
+      "h1": "Isang mata lang ang kailangang umabot sa pamantayan, may salamin man o wala.",
+      "h2": "Sa Kansas, kailangan mo ng paningin na hindi bababa sa 20/40 sa isang mata, may salamin o contact lens man o wala.",
+      "p": "Tama. Kailangan mo ng hindi bababa sa 20/40 sa isang mata."
+    },
+    "ar": {
+      "q": "في Kansas، ما قوة النظر التي تحتاجها لتنجح في فحص النظر للحصول على رخصة؟",
+      "o": [
+        "20/20 في العينين",
+        "20/40 في العينين",
+        "20/70 في عين واحدة",
+        "20/40 في عين واحدة على الأقل"
+      ],
+      "h1": "يكفي أن تبلغ عين واحدة المعيار، بالنظارة أو بدونها.",
+      "h2": "في Kansas تحتاج إلى نظر لا يقل عن 20/40 في عين واحدة، بالنظارة أو العدسات اللاصقة أو بدونها.",
+      "p": "صحيح. تحتاج إلى 20/40 على الأقل في عين واحدة."
     }
   },
   {
@@ -2347,6 +2491,54 @@
       "h1": "Después de mucho tiempo, debe demostrar todo otra vez, como un conductor nuevo.",
       "h2": "En Kansas, si su licencia lleva más de un año vencida, usted debe aprobar todas las pruebas: la de la vista, la escrita y la de manejo.",
       "p": "Correcto. Después de más de un año, toma las tres pruebas."
+    },
+    "zh": {
+      "q": "在 Kansas，你的驾照已经过期超过一年。要恢复驾照，你必须做什么？",
+      "o": [
+        "只交 $1 的逾期罚款",
+        "通过视力、笔试和路考",
+        "只通过视力检查",
+        "参加驾驶教育课程"
+      ],
+      "h1": "过了很长时间后，你必须像新司机一样重新证明一切。",
+      "h2": "在 Kansas，如果你的驾照过期超过一年，你必须通过全部考试：视力、笔试和路考。",
+      "p": "对。过期超过一年，三项考试都要考。"
+    },
+    "vi": {
+      "q": "Ở Kansas, bằng lái của bạn đã hết hạn hơn một năm. Bạn phải làm gì để lấy lại?",
+      "o": [
+        "Chỉ trả tiền phạt trễ hạn $1",
+        "Đậu bài kiểm tra mắt, thi viết và thi lái",
+        "Chỉ đậu bài kiểm tra mắt",
+        "Học một khóa giáo dục lái xe"
+      ],
+      "h1": "Sau một thời gian dài, bạn phải chứng minh lại mọi thứ như một tài xế mới.",
+      "h2": "Ở Kansas, nếu bằng lái của bạn đã hết hạn hơn một năm, bạn phải thi đầy đủ: kiểm tra mắt, thi viết và thi lái.",
+      "p": "Đúng. Sau hơn một năm, bạn phải thi cả ba bài."
+    },
+    "tl": {
+      "q": "Sa Kansas, mahigit isang taon nang expired ang lisensya mo. Ano ang dapat mong gawin para makuha itong muli?",
+      "o": [
+        "Bayaran lang ang $1 na multa sa pagkahuli",
+        "Pumasa sa vision, written, at driving test",
+        "Pumasa lang sa vision test",
+        "Kumuha ng driver education course"
+      ],
+      "h1": "Pagkatapos ng mahabang panahon, kailangan mong ipakita muli ang lahat, gaya ng bagong driver.",
+      "h2": "Sa Kansas, kung mahigit isang taon nang expired ang lisensya mo, kailangan mong pumasa sa buong pagsusulit: ang vision, written, at driving test.",
+      "p": "Tama. Pagkalipas ng mahigit isang taon, kukunin mo ang tatlong test."
+    },
+    "ar": {
+      "q": "في Kansas، انتهت صلاحية رخصة قيادتك منذ أكثر من سنة. ماذا يجب أن تفعل لاستعادتها؟",
+      "o": [
+        "دفع غرامة التأخير $1 فقط",
+        "النجاح في فحص النظر والاختبار الكتابي واختبار القيادة",
+        "النجاح في فحص النظر فقط",
+        "حضور دورة تعليم القيادة"
+      ],
+      "h1": "بعد مدة طويلة، يجب أن تُثبت كل شيء من جديد، كما يفعل السائق الجديد.",
+      "h2": "في Kansas، إذا انتهت صلاحية رخصتك منذ أكثر من سنة، يجب أن تنجح في الاختبارات كاملة: فحص النظر والاختبار الكتابي واختبار القيادة.",
+      "p": "صحيح. بعد أكثر من سنة، تخضع للاختبارات الثلاثة."
     }
   }
 ]

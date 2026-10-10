@@ -2409,6 +2409,54 @@
       "h1": "Es más lejos que la distancia para un hidrante.",
       "h2": "En Alabama usted no puede estacionarse a menos de 50 pies del riel más cercano de un cruce de ferrocarril.",
       "p": "Correcto. Quédese por lo menos a 50 pies de las vías al estacionarse."
+    },
+    "zh": {
+      "q": "在 Alabama，停车时离铁路道口最近的铁轨至少要多远？",
+      "o": [
+        "10 英尺",
+        "25 英尺",
+        "50 英尺",
+        "100 英尺"
+      ],
+      "h1": "这个距离比离消防栓的距离更远。",
+      "h2": "在 Alabama，你不可以在离铁路道口最近的铁轨 50 英尺以内停车。",
+      "p": "对。停车时要离铁轨至少 50 英尺。"
+    },
+    "vi": {
+      "q": "Ở Alabama, bạn được đỗ xe cách đường ray gần nhất của chỗ giao với đường sắt bao xa?",
+      "o": [
+        "10 feet",
+        "25 feet",
+        "50 feet",
+        "100 feet"
+      ],
+      "h1": "Khoảng cách này xa hơn khoảng cách với trụ nước cứu hỏa.",
+      "h2": "Ở Alabama, bạn không được đỗ xe trong vòng 50 feet tính từ đường ray gần nhất của chỗ giao với đường sắt.",
+      "p": "Đúng. Khi đỗ xe, hãy cách đường ray ít nhất 50 feet."
+    },
+    "tl": {
+      "q": "Sa Alabama, gaano kalapit sa pinakamalapit na riles ng tawiran ng tren ka puwedeng pumarada?",
+      "o": [
+        "10 talampakan",
+        "25 talampakan",
+        "50 talampakan",
+        "100 talampakan"
+      ],
+      "h1": "Mas malayo ito kaysa sa layo para sa fire hydrant.",
+      "h2": "Sa Alabama, hindi ka puwedeng pumarada sa loob ng 50 talampakan mula sa pinakamalapit na riles ng tawiran ng tren.",
+      "p": "Tama. Pumarada nang hindi bababa sa 50 talampakan mula sa riles."
+    },
+    "ar": {
+      "q": "في Alabama، على أي مسافة من أقرب سكة في معبر السكة الحديدية يمكنك أن تركن سيارتك؟",
+      "o": [
+        "10 أقدام",
+        "25 قدمًا",
+        "50 قدمًا",
+        "100 قدم"
+      ],
+      "h1": "هذه المسافة أبعد من المسافة المطلوبة عن حنفية الإطفاء.",
+      "h2": "في Alabama لا يجوز لك أن تركن سيارتك على مسافة أقل من 50 قدمًا من أقرب سكة في معبر السكة الحديدية.",
+      "p": "صحيح. ابقَ على بعد 50 قدمًا على الأقل من السكة عندما تركن."
     }
   },
   {
@@ -2443,6 +2491,54 @@
       "h1": "La distancia es menor que para un carro que viene de frente.",
       "h2": "En Alabama usted debe bajar las luces cuando está a 200 pies o menos de un vehículo que va delante.",
       "p": "Correcto. Use las luces bajas a 200 pies del carro de adelante."
+    },
+    "zh": {
+      "q": "在 Alabama，你晚上开车跟在另一辆车后面。在多远的距离内你必须把远光灯调暗？",
+      "o": [
+        "200 英尺",
+        "50 英尺",
+        "1,000 英尺",
+        "1 英里"
+      ],
+      "h1": "这个距离比迎面来车的距离短。",
+      "h2": "在 Alabama，当你离前面跟着的车辆 200 英尺以内时，你必须把车灯调暗。",
+      "p": "对。离前车 200 英尺以内要用近光灯。"
+    },
+    "vi": {
+      "q": "Ở Alabama, bạn đang lái xe ban đêm phía sau một xe khác. Trong khoảng cách nào bạn phải giảm đèn pha xuống đèn cốt?",
+      "o": [
+        "200 feet",
+        "50 feet",
+        "1,000 feet",
+        "1 dặm"
+      ],
+      "h1": "Khoảng cách này ngắn hơn so với khi có xe chạy ngược chiều về phía bạn.",
+      "h2": "Ở Alabama, bạn phải giảm đèn pha khi bạn ở trong vòng 200 feet phía sau một xe bạn đang đi theo.",
+      "p": "Đúng. Dùng đèn cốt khi cách xe phía trước trong vòng 200 feet."
+    },
+    "tl": {
+      "q": "Sa Alabama, nagmamaneho ka sa gabi sa likod ng ibang kotse. Sa loob ng anong layo mo kailangang ibaba ang high beams mo?",
+      "o": [
+        "200 talampakan",
+        "50 talampakan",
+        "1,000 talampakan",
+        "1 milya"
+      ],
+      "h1": "Mas maikli ang layo kaysa sa kotseng papalapit sa iyo.",
+      "h2": "Sa Alabama, kailangan mong ibaba ang ilaw mo kapag nasa loob ka ng 200 talampakan mula sa sasakyang sinusundan mo.",
+      "p": "Tama. Gumamit ng low beams sa loob ng 200 talampakan mula sa kotse sa unahan."
+    },
+    "ar": {
+      "q": "في Alabama، أنت تقود ليلًا خلف سيارة أخرى. ضمن أي مسافة يجب أن تخفّض الأضواء العالية؟",
+      "o": [
+        "200 قدم",
+        "50 قدمًا",
+        "1,000 قدم",
+        "1 ميل"
+      ],
+      "h1": "هذه المسافة أقصر من المسافة عندما تأتي سيارة نحوك.",
+      "h2": "في Alabama يجب أن تخفّض أضواء سيارتك عندما تكون على مسافة 200 قدم أو أقل من مركبة تسير خلفها.",
+      "p": "صحيح. استعمل الأضواء المنخفضة ضمن 200 قدم من السيارة التي أمامك."
     }
   }
 ]

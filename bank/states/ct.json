@@ -2245,6 +2245,54 @@
       "h1": "Piense en un paso largo hacia un lado.",
       "h2": "En Connecticut, debe dejar al menos tres pies de espacio al rebasar una bicicleta.",
       "p": "Correcto. Deje al menos tres pies al rebasar una bicicleta."
+    },
+    "zh": {
+      "q": "在 Connecticut，超过自行车时，你的车和自行车之间必须留出多少空间？",
+      "o": [
+        "至少 1 英尺",
+        "至少 2 英尺",
+        "至少 3 英尺",
+        "至少 10 英尺"
+      ],
+      "h1": "想一想大约向旁边跨出一大步的距离。",
+      "h2": "在 Connecticut，超过自行车时，你必须留出至少 3 英尺的空间。",
+      "p": "对。超过自行车时，要留出至少 3 英尺。"
+    },
+    "vi": {
+      "q": "Ở Connecticut, khi vượt xe đạp, bạn phải chừa khoảng cách bao nhiêu giữa xe của bạn và xe đạp?",
+      "o": [
+        "Ít nhất 1 foot",
+        "Ít nhất 2 feet",
+        "Ít nhất 3 feet",
+        "Ít nhất 10 feet"
+      ],
+      "h1": "Hãy nghĩ đến khoảng một bước dài sang một bên.",
+      "h2": "Ở Connecticut, khi vượt xe đạp, bạn phải chừa khoảng cách ít nhất 3 feet.",
+      "p": "Đúng. Khi vượt xe đạp, hãy chừa ít nhất 3 feet."
+    },
+    "tl": {
+      "q": "Sa Connecticut, gaano kalaking espasyo ang dapat mong iwan sa pagitan ng kotse mo at ng bisikleta kapag nilalampasan mo ito?",
+      "o": [
+        "Hindi bababa sa 1 foot",
+        "Hindi bababa sa 2 feet",
+        "Hindi bababa sa 3 feet",
+        "Hindi bababa sa 10 feet"
+      ],
+      "h1": "Isipin ang mga isang mahabang hakbang patagilid.",
+      "h2": "Sa Connecticut, dapat kang mag-iwan ng hindi bababa sa 3 feet na espasyo kapag nilalampasan mo ang bisikleta.",
+      "p": "Tama. Bigyan ang bisikleta ng hindi bababa sa 3 feet kapag nilalampasan mo ito."
+    },
+    "ar": {
+      "q": "في Connecticut، ما المسافة التي يجب أن تتركها بين سيارتك والدراجة عندما تتجاوزها؟",
+      "o": [
+        "1 قدم على الأقل",
+        "2 قدم على الأقل",
+        "3 أقدام على الأقل",
+        "10 أقدام على الأقل"
+      ],
+      "h1": "فكّر في خطوة طويلة واحدة تقريبًا إلى الجانب.",
+      "h2": "في Connecticut، يجب أن تترك مسافة 3 أقدام على الأقل عندما تتجاوز دراجة.",
+      "p": "صحيح. اترك للدراجة 3 أقدام على الأقل عندما تتجاوزها."
     }
   },
   {
@@ -2279,6 +2327,54 @@
       "h1": "Los bomberos necesitan espacio para llegar al hidrante. La distancia es corta.",
       "h2": "En Connecticut, no puede estacionarse a menos de 10 pies de un hidrante.",
       "p": "Correcto. Quédese al menos a 10 pies de un hidrante al estacionarse."
+    },
+    "zh": {
+      "q": "在 Connecticut，离消防栓多近的地方不可以停车？",
+      "o": [
+        "10 英尺以内",
+        "5 英尺以内",
+        "25 英尺以内",
+        "50 英尺以内"
+      ],
+      "h1": "消防员需要空间接近消防栓。这个距离不长。",
+      "h2": "在 Connecticut，你不可以在离消防栓 10 英尺以内的地方停车。",
+      "p": "对。停车时要离消防栓至少 10 英尺。"
+    },
+    "vi": {
+      "q": "Ở Connecticut, bạn không được đậu xe gần trụ nước cứu hỏa trong khoảng cách bao nhiêu?",
+      "o": [
+        "Trong vòng 10 feet",
+        "Trong vòng 5 feet",
+        "Trong vòng 25 feet",
+        "Trong vòng 50 feet"
+      ],
+      "h1": "Lính cứu hỏa cần chỗ để đến được trụ nước. Khoảng cách này ngắn.",
+      "h2": "Ở Connecticut, bạn không được đậu xe trong vòng 10 feet tính từ trụ nước cứu hỏa.",
+      "p": "Đúng. Khi đậu xe, hãy cách trụ nước cứu hỏa ít nhất 10 feet."
+    },
+    "tl": {
+      "q": "Sa Connecticut, gaano kalapit sa fire hydrant ang bawal kang pumarada?",
+      "o": [
+        "Sa loob ng 10 feet",
+        "Sa loob ng 5 feet",
+        "Sa loob ng 25 feet",
+        "Sa loob ng 50 feet"
+      ],
+      "h1": "Kailangan ng mga bumbero ng espasyo para maabot ang hydrant. Maikli ang layo.",
+      "h2": "Sa Connecticut, bawal kang pumarada sa loob ng 10 feet mula sa fire hydrant.",
+      "p": "Tama. Lumayo nang hindi bababa sa 10 feet sa fire hydrant kapag pumaparada ka."
+    },
+    "ar": {
+      "q": "في Connecticut، على أي مسافة من صنبور إطفاء الحريق يُمنع عليك الوقوف بسيارتك؟",
+      "o": [
+        "ضمن 10 أقدام",
+        "ضمن 5 أقدام",
+        "ضمن 25 قدمًا",
+        "ضمن 50 قدمًا"
+      ],
+      "h1": "يحتاج رجال الإطفاء إلى مساحة للوصول إلى الصنبور. المسافة قصيرة.",
+      "h2": "في Connecticut، لا يجوز لك أن توقف سيارتك ضمن 10 أقدام من صنبور إطفاء الحريق.",
+      "p": "صحيح. ابتعد 10 أقدام على الأقل عن صنبور إطفاء الحريق عندما توقف سيارتك."
     }
   },
   {
@@ -2313,6 +2409,54 @@
       "h1": "Es igual para todas las clases de licencia, y se pueden usar lentes o lentes de contacto.",
       "h2": "En Connecticut, necesita una visión de al menos 20/40, con o sin lentes o lentes de contacto.",
       "p": "Correcto. El mínimo es 20/40, y se permiten lentes o lentes de contacto."
+    },
+    "zh": {
+      "q": "在 Connecticut，戴或不戴眼镜，申请驾照所需的最低视力是多少？",
+      "o": [
+        "20/20",
+        "20/40",
+        "20/70",
+        "20/100"
+      ],
+      "h1": "所有驾照类别的要求都一样，可以戴眼镜或隐形眼镜。",
+      "h2": "在 Connecticut，你的视力至少要达到 20/40，戴不戴眼镜或隐形眼镜都可以。",
+      "p": "对。最低视力是 20/40，可以戴眼镜或隐形眼镜。"
+    },
+    "vi": {
+      "q": "Ở Connecticut, thị lực tối thiểu để có bằng lái là bao nhiêu, có hoặc không đeo kính?",
+      "o": [
+        "20/20",
+        "20/40",
+        "20/70",
+        "20/100"
+      ],
+      "h1": "Yêu cầu giống nhau cho mọi hạng bằng lái, và được phép đeo kính hoặc kính áp tròng.",
+      "h2": "Ở Connecticut, bạn cần thị lực ít nhất 20/40, có hoặc không đeo kính hay kính áp tròng.",
+      "p": "Đúng. Mức tối thiểu là 20/40, và được phép đeo kính hoặc kính áp tròng."
+    },
+    "tl": {
+      "q": "Sa Connecticut, ano ang pinakamababang paningin na kailangan para sa driver's license, may salamin man o wala?",
+      "o": [
+        "20/20",
+        "20/40",
+        "20/70",
+        "20/100"
+      ],
+      "h1": "Pareho ito para sa lahat ng klase ng lisensya, at puwedeng gumamit ng salamin o contact lens.",
+      "h2": "Sa Connecticut, kailangan mo ng paningin na hindi bababa sa 20/40, may salamin o contact lens man o wala.",
+      "p": "Tama. Ang pinakamababa ay 20/40, at puwede ang salamin o contact lens."
+    },
+    "ar": {
+      "q": "في Connecticut، ما الحد الأدنى للنظر المطلوب لرخصة القيادة، بالنظارة أو بدونها؟",
+      "o": [
+        "20/20",
+        "20/40",
+        "20/70",
+        "20/100"
+      ],
+      "h1": "الشرط نفسه لكل فئات الرخص، ويُسمح باستخدام النظارة أو العدسات اللاصقة.",
+      "h2": "في Connecticut، تحتاج إلى نظر 20/40 على الأقل، بالنظارة أو العدسات اللاصقة أو بدونها.",
+      "p": "صحيح. الحد الأدنى هو 20/40، ويُسمح بالنظارة أو العدسات اللاصقة."
     }
   },
   {
@@ -2347,6 +2491,54 @@
       "h1": "Los demás conductores necesitan verlo mejor bajo la lluvia.",
       "h2": "En Connecticut, la ley dice que si los limpiaparabrisas están encendidos, los faros delanteros también deben estarlo.",
       "p": "Correcto. Con limpiaparabrisas encendidos, faros encendidos."
+    },
+    "zh": {
+      "q": "在 Connecticut，你因为下雨打开了雨刷。法律规定你还必须打开什么？",
+      "o": [
+        "危险警示灯",
+        "只开停车灯",
+        "远光灯",
+        "前大灯"
+      ],
+      "h1": "下雨时，其他司机需要更清楚地看到你。",
+      "h2": "在 Connecticut，法律规定，当你打开雨刷时，也必须打开前大灯。",
+      "p": "对。开雨刷，就要开前大灯。"
+    },
+    "vi": {
+      "q": "Ở Connecticut, bạn bật cần gạt nước vì trời mưa. Luật nói bạn cũng phải bật gì?",
+      "o": [
+        "Đèn cảnh báo nguy hiểm",
+        "Chỉ đèn đậu xe",
+        "Đèn pha chiếu xa",
+        "Đèn pha"
+      ],
+      "h1": "Những tài xế khác cần nhìn thấy bạn rõ hơn khi trời mưa.",
+      "h2": "Ở Connecticut, luật nói rằng khi cần gạt nước đang bật, bạn cũng phải bật đèn pha.",
+      "p": "Đúng. Bật cần gạt nước thì phải bật đèn pha."
+    },
+    "tl": {
+      "q": "Sa Connecticut, binuksan mo ang windshield wipers mo dahil umuulan. Ano ang sinasabi ng batas na dapat mo ring buksan?",
+      "o": [
+        "Ang hazard lights mo",
+        "Ang parking lights mo lang",
+        "Ang high beams mo",
+        "Ang headlights mo"
+      ],
+      "h1": "Kailangan kang makita nang mas mabuti ng ibang driver kapag umuulan.",
+      "h2": "Sa Connecticut, sinasabi ng batas na kapag nakabukas ang wipers mo, dapat nakabukas din ang headlights mo.",
+      "p": "Tama. Kapag bukas ang wipers, bukas din ang headlights."
+    },
+    "ar": {
+      "q": "في Connecticut، شغّلت مسّاحات الزجاج الأمامي بسبب المطر. ماذا يقول القانون إنه يجب عليك أن تشغّل أيضًا؟",
+      "o": [
+        "أضواء التحذير",
+        "أضواء الوقوف فقط",
+        "الأضواء العالية",
+        "المصابيح الأمامية"
+      ],
+      "h1": "يحتاج السائقون الآخرون إلى رؤيتك بشكل أفضل في المطر.",
+      "h2": "في Connecticut، يقول القانون إنه عندما تكون المسّاحات مشغّلة، يجب أن تكون المصابيح الأمامية مشغّلة أيضًا.",
+      "p": "صحيح. المسّاحات تعمل يعني أن المصابيح الأمامية تعمل."
     }
   }
 ]
