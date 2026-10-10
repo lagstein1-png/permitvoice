@@ -9198,5 +9198,175 @@
       "h2": "En Wyoming, no cumplir una restricción de cadenas o tracción puede traer una multa de hasta $250, o hasta $750 si causa el cierre total del camino.",
       "p": "Correcto. Hasta $250."
     }
+  },
+  {
+    "id": "wy-201",
+    "scope": "WY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 69,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Wyoming, how many motorcycles may ride side by side in the same lane?",
+      "o": [
+        "Only one",
+        "Two, if both riders agree",
+        "Three",
+        "As many as fit"
+      ],
+      "h1": "It takes the consent of both riders.",
+      "h2": "In Wyoming, no more than two motorcycles may ride side by side in one lane, and only if both riders agree.",
+      "p": "Right. Two, with both riders' consent."
+    },
+    "es": {
+      "q": "En Wyoming, ¿cuántas motocicletas pueden ir lado a lado en el mismo carril?",
+      "o": [
+        "Solo una",
+        "Dos, si ambos conductores están de acuerdo",
+        "Tres",
+        "Todas las que quepan"
+      ],
+      "h1": "Se necesita el permiso de ambos conductores.",
+      "h2": "En Wyoming, no más de dos motocicletas pueden ir lado a lado en un carril, y solo si ambos conductores están de acuerdo.",
+      "p": "Correcto. Dos, con el acuerdo de ambos conductores."
+    }
+  },
+  {
+    "id": "wy-202",
+    "scope": "WY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 70,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Wyoming, what equipment must a bicycle have when it is ridden after dark?",
+      "o": [
+        "A horn and a mirror",
+        "A flag on a pole",
+        "Only a bell",
+        "A front light and rear reflectors"
+      ],
+      "h1": "One item lights the way ahead; the other shines back at cars behind.",
+      "h2": "In Wyoming, a bicycle used after dark must have a front light and rear reflectors.",
+      "p": "Right. A front light and rear reflectors."
+    },
+    "es": {
+      "q": "En Wyoming, ¿qué equipo debe tener una bicicleta cuando se usa de noche?",
+      "o": [
+        "Una bocina y un espejo",
+        "Una bandera en un poste",
+        "Solo un timbre",
+        "Una luz delantera y reflectores traseros"
+      ],
+      "h1": "Una cosa ilumina hacia adelante; la otra refleja la luz de los carros de atrás.",
+      "h2": "En Wyoming, una bicicleta que se usa de noche debe tener una luz delantera y reflectores traseros.",
+      "p": "Correcto. Luz delantera y reflectores traseros."
+    }
+  },
+  {
+    "id": "wy-203",
+    "scope": "WY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 77,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Wyoming, it is getting dark and headlights are required. May you drive with only your parking lights on?",
+      "o": [
+        "No, driving with only parking lights is illegal then",
+        "Yes, in town",
+        "Yes, if you drive slowly",
+        "Yes, until full darkness"
+      ],
+      "h1": "Parking lights are hard to see until your car is already close.",
+      "h2": "In Wyoming, it is not legal to drive with only parking lights when headlights are required.",
+      "p": "Right. Parking lights alone are not allowed."
+    },
+    "es": {
+      "q": "En Wyoming, está oscureciendo y se requieren las luces delanteras. ¿Puede manejar solo con las luces de estacionamiento?",
+      "o": [
+        "No, manejar solo con luces de estacionamiento es ilegal en ese caso",
+        "Sí, en la ciudad",
+        "Sí, si maneja despacio",
+        "Sí, hasta que esté totalmente oscuro"
+      ],
+      "h1": "Las luces de estacionamiento casi no se ven hasta que su carro ya está cerca.",
+      "h2": "En Wyoming, no es legal manejar solo con las luces de estacionamiento cuando se requieren las luces delanteras.",
+      "p": "Correcto. No se permite usar solo las luces de estacionamiento."
+    }
+  },
+  {
+    "id": "wy-204",
+    "scope": "WY",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 93,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Wyoming, a registered multipurpose vehicle (such as an ATV with plates) may be driven on streets. Where may it not be driven?",
+      "o": [
+        "On city streets",
+        "On county roads",
+        "On interstate highways",
+        "On gravel roads"
+      ],
+      "h1": "It must follow slow-moving vehicle rules, so fast roads are off limits.",
+      "h2": "In Wyoming, a registered multipurpose vehicle may not be operated on interstate highways.",
+      "p": "Right. Not on interstates."
+    },
+    "es": {
+      "q": "En Wyoming, un vehículo multipropósito registrado (como una cuatrimoto con placas) puede circular por las calles. ¿Por dónde no puede circular?",
+      "o": [
+        "Por calles de la ciudad",
+        "Por caminos del condado",
+        "Por autopistas interestatales",
+        "Por caminos de grava"
+      ],
+      "h1": "Debe seguir las reglas de vehículos lentos, así que los caminos rápidos están prohibidos.",
+      "h2": "En Wyoming, un vehículo multipropósito registrado no puede circular por autopistas interestatales.",
+      "p": "Correcto. No por autopistas interestatales."
+    }
+  },
+  {
+    "id": "wy-205",
+    "scope": "WY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://wyoleg.gov/statutes/compress/title31.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Wyoming, what is the minimum legal tread depth for car tires?",
+      "o": [
+        "1/32 inch",
+        "2/32 inch",
+        "6/32 inch",
+        "1/2 inch"
+      ],
+      "h1": "Front tires on buses and trucks need 4/32; cars need half that.",
+      "h2": "In Wyoming, you may not drive a car on tires with less than 2/32 inch of tread.",
+      "p": "Right. At least 2/32 inch of tread."
+    },
+    "es": {
+      "q": "En Wyoming, ¿cuál es la profundidad mínima legal del dibujo (banda de rodamiento) de las llantas de un carro?",
+      "o": [
+        "1/32 de pulgada",
+        "2/32 de pulgada",
+        "6/32 de pulgada",
+        "1/2 pulgada"
+      ],
+      "h1": "Las llantas delanteras de autobuses y camiones necesitan 4/32; los carros, la mitad.",
+      "h2": "En Wyoming, no puede manejar un carro con llantas que tengan menos de 2/32 de pulgada de dibujo.",
+      "p": "Correcto. Por lo menos 2/32 de pulgada de dibujo."
+    }
   }
 ]
