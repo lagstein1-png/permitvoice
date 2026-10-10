@@ -9130,5 +9130,73 @@
       "h2": "En New Jersey, el conductor de una motocicleta debe usar gafas protectoras o un protector facial aprobados, a menos que la motocicleta tenga parabrisas.",
       "p": "Correcto. Use gafas protectoras o un protector facial aprobados."
     }
+  },
+  {
+    "id": "nj-199",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 129,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, a police officer stops you at night and asks you to turn on the light inside your car. If you refuse, what fine can you get?",
+      "o": [
+        "$10",
+        "$250",
+        "$50",
+        "$1,000"
+      ],
+      "h1": "It is a small fine, much less than most traffic fines.",
+      "h2": "In New Jersey, a driver who does not light up the inside of the car when a police officer asks during a stop faces a $50 fine.",
+      "p": "Right. Not lighting the inside of your car when asked brings a $50 fine."
+    },
+    "es": {
+      "q": "En New Jersey, un policía lo detiene de noche y le pide que encienda la luz interior de su auto. Si usted se niega, ¿qué multa puede recibir?",
+      "o": [
+        "$10",
+        "$250",
+        "$50",
+        "$1,000"
+      ],
+      "h1": "Es una multa pequeña, mucho menor que la mayoría de las multas de tránsito.",
+      "h2": "En New Jersey, el conductor que no ilumina el interior del auto cuando un policía se lo pide durante una parada recibe una multa de $50.",
+      "p": "Correcto. No iluminar el interior del auto cuando se lo piden trae una multa de $50."
+    }
+  },
+  {
+    "id": "nj-200",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 169,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, a rider has a motorcycle examination permit. Which of these may the rider do?",
+      "o": [
+        "Ride on a state toll road",
+        "Ride on a limited-access highway",
+        "Ride one hour after sunset",
+        "Ride on a local street in the afternoon"
+      ],
+      "h1": "Permit riders must stay off big, fast highways and are not allowed out after dark.",
+      "h2": "In New Jersey, a motorcycle permit holder may not ride from half an hour after sunset to half an hour before sunrise, carry passengers, or ride on any state toll road or limited-access highway.",
+      "p": "Right. In daylight, on local streets, a permit rider may practice."
+    },
+    "es": {
+      "q": "En New Jersey, una persona tiene un permiso de examen de motocicleta. ¿Cuál de estas cosas puede hacer?",
+      "o": [
+        "Manejar por una carretera estatal de peaje",
+        "Manejar por una carretera de acceso limitado",
+        "Manejar una hora después de la puesta del sol",
+        "Manejar por una calle local en la tarde"
+      ],
+      "h1": "Quien tiene permiso no puede usar carreteras grandes y rápidas ni manejar cuando ya está oscuro.",
+      "h2": "En New Jersey, quien tiene permiso de motocicleta no puede manejar desde media hora después de la puesta del sol hasta media hora antes del amanecer, llevar pasajeros, ni usar carreteras estatales de peaje o de acceso limitado.",
+      "p": "Correcto. De día y por calles locales, puede practicar con el permiso."
+    }
   }
 ]
