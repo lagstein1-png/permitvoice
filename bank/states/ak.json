@@ -8260,5 +8260,991 @@
       "h2": "En Alaska, todo vehículo necesita un mofle que funcione y esté en uso constante, y nadie puede usar un corte, desvío o aparato parecido en el mofle en la carretera.",
       "p": "Correcto. No se permiten cortes ni desvíos del mofle."
     }
+  },
+  {
+    "id": "ak-172",
+    "scope": "AK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.35.029&secEnd=28.35.029",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alaska, you are carrying an opened bottle of wine home in your car. Where may it legally ride?",
+      "o": [
+        "In the glove compartment",
+        "Under the driver's seat",
+        "In the trunk",
+        "In a cup holder, if closed again"
+      ],
+      "h1": "Think of a place no one in the car can reach while driving.",
+      "h2": "In Alaska, an open container of alcohol may not be in the passenger area, which includes the glove compartment, but it may be carried in the trunk.",
+      "p": "Right. An open container must go in the trunk, not the passenger area."
+    },
+    "es": {
+      "q": "En Alaska, usted lleva a casa una botella de vino abierta en su carro. ¿Dónde puede ir legalmente?",
+      "o": [
+        "En la guantera",
+        "Debajo del asiento del conductor",
+        "En la cajuela (maletero)",
+        "En un portavasos, si la vuelve a cerrar"
+      ],
+      "h1": "Piense en un lugar que nadie en el carro pueda alcanzar mientras maneja.",
+      "h2": "En Alaska, un envase de alcohol abierto no puede ir en el área de pasajeros, que incluye la guantera, pero sí puede ir en la cajuela.",
+      "p": "Correcto. Un envase abierto debe ir en la cajuela, no en el área de pasajeros."
+    }
+  },
+  {
+    "id": "ak-173",
+    "scope": "AK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.35.155&secEnd=28.35.155",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alaska, you live in Fairbanks, north of 60 degrees latitude. When may you NOT drive on paved roads with studded tires?",
+      "o": [
+        "May 1 through September 15",
+        "March 1 through October 31",
+        "Only in July and August",
+        "Studded tires are never allowed"
+      ],
+      "h1": "The ban covers the warm months, when roads are free of ice.",
+      "h2": "In Alaska, north of 60 degrees latitude, studded tires and chains may not be used on paved roads from May 1 through September 15.",
+      "p": "Right. Up north, no studs on paved roads from May 1 to September 15."
+    },
+    "es": {
+      "q": "En Alaska, usted vive en Fairbanks, al norte de los 60 grados de latitud. ¿Cuándo NO puede manejar en caminos pavimentados con llantas con clavos?",
+      "o": [
+        "Del 1 de mayo al 15 de septiembre",
+        "Del 1 de marzo al 31 de octubre",
+        "Solo en julio y agosto",
+        "Las llantas con clavos nunca se permiten"
+      ],
+      "h1": "La prohibición cubre los meses cálidos, cuando no hay hielo en los caminos.",
+      "h2": "En Alaska, al norte de los 60 grados de latitud, no se pueden usar llantas con clavos ni cadenas en caminos pavimentados del 1 de mayo al 15 de septiembre.",
+      "p": "Correcto. En el norte, nada de clavos en caminos pavimentados del 1 de mayo al 15 de septiembre."
+    }
+  },
+  {
+    "id": "ak-174",
+    "scope": "AK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.35.140&secEnd=28.35.140",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alaska, a slow driver on a two-lane rural road does not pull over for the five cars lined up behind. What is the smallest fine?",
+      "o": [
+        "$10",
+        "$25",
+        "$50",
+        "$100"
+      ],
+      "h1": "The law treats holding up a line of traffic as more than a small matter.",
+      "h2": "In Alaska, a driver who does not pull over for five or more vehicles following on a two-lane road outside a city must pay a fine of at least $100.",
+      "p": "Right. The fine is at least $100."
+    },
+    "es": {
+      "q": "En Alaska, un conductor lento en un camino rural de dos carriles no se orilla para los cinco carros que van detrás. ¿Cuál es la multa mínima?",
+      "o": [
+        "$10",
+        "$25",
+        "$50",
+        "$100"
+      ],
+      "h1": "La ley trata el retrasar una fila de carros como algo más que un asunto menor.",
+      "h2": "En Alaska, el conductor que no se orilla cuando lo siguen cinco o más vehículos en un camino de dos carriles fuera de la ciudad debe pagar una multa de al menos $100.",
+      "p": "Correcto. La multa es de al menos $100."
+    }
+  },
+  {
+    "id": "ak-175",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.35.110&secEnd=28.35.110",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alaska, you had a crash that had to be reported to the DMV, and no officer investigated it. You never sent the report. What happens to your license?",
+      "o": [
+        "Nothing, if no one was hurt",
+        "It is suspended until you file the report",
+        "You get two points only",
+        "It is canceled for five years"
+      ],
+      "h1": "The DMV wants the report and uses your license to get it.",
+      "h2": "In Alaska, if you do not make a required crash report, the DMV suspends your license until the report is filed.",
+      "p": "Right. The license stays suspended until the report is filed."
+    },
+    "es": {
+      "q": "En Alaska, usted tuvo un choque que debía reportar al DMV y ningún policía lo investigó. Nunca envió el reporte. ¿Qué pasa con su licencia?",
+      "o": [
+        "Nada, si nadie se lastimó",
+        "Se suspende hasta que entregue el reporte",
+        "Solo recibe dos puntos",
+        "Se cancela por cinco años"
+      ],
+      "h1": "El DMV quiere el reporte y usa su licencia para conseguirlo.",
+      "h2": "En Alaska, si usted no hace un reporte de choque obligatorio, el DMV suspende su licencia hasta que entregue el reporte.",
+      "p": "Correcto. La licencia queda suspendida hasta que entregue el reporte."
+    }
+  },
+  {
+    "id": "ak-176",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.35.060&secEnd=28.35.060",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alaska, a driver in a crash fails to give reasonable help to a person who was injured. What is the most prison time the driver can get?",
+      "o": [
+        "30 days",
+        "One year",
+        "10 years",
+        "Life in prison"
+      ],
+      "h1": "The law treats leaving an injured person without help very seriously.",
+      "h2": "In Alaska, a driver who fails to help a person injured in the crash can be sentenced to up to 10 years in prison, a fine of up to $10,000, or both.",
+      "p": "Right. Up to 10 years in prison and a $10,000 fine."
+    },
+    "es": {
+      "q": "En Alaska, un conductor en un choque no da una ayuda razonable a una persona herida. ¿Cuál es el máximo de cárcel que puede recibir?",
+      "o": [
+        "30 días",
+        "Un año",
+        "10 años",
+        "Cadena perpetua"
+      ],
+      "h1": "La ley trata muy en serio dejar sin ayuda a una persona herida.",
+      "h2": "En Alaska, el conductor que no ayuda a una persona herida en el choque puede recibir hasta 10 años de cárcel, una multa de hasta $10,000, o ambas.",
+      "p": "Correcto. Hasta 10 años de cárcel y una multa de $10,000."
+    }
+  },
+  {
+    "id": "ak-177",
+    "scope": "AK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.35.191&secEnd=28.35.191",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alaska, it is a bright summer afternoon and you enter a Traffic Safety Corridor. What must you do with your headlights?",
+      "o": [
+        "Nothing; they are needed only at night",
+        "Turn them on",
+        "Flash them at oncoming traffic",
+        "Use high beams only"
+      ],
+      "h1": "These corridors have a special lighting rule at all hours.",
+      "h2": "In Alaska, you must use your headlights on any road designated as a Traffic Safety Corridor, even in daylight.",
+      "p": "Right. Headlights stay on in a Traffic Safety Corridor."
+    },
+    "es": {
+      "q": "En Alaska, es una tarde soleada de verano y usted entra a un Corredor de Seguridad Vial (Traffic Safety Corridor). ¿Qué debe hacer con sus luces delanteras?",
+      "o": [
+        "Nada; solo se usan de noche",
+        "Encenderlas",
+        "Hacer cambios de luces a los que vienen",
+        "Usar solo las luces altas"
+      ],
+      "h1": "Estos corredores tienen una regla especial de luces a toda hora.",
+      "h2": "En Alaska, usted debe usar las luces delanteras en cualquier camino designado como Corredor de Seguridad Vial, aun de día.",
+      "p": "Correcto. Las luces van encendidas en un Corredor de Seguridad Vial."
+    }
+  },
+  {
+    "id": "ak-178",
+    "scope": "AK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.35.235&secEnd=28.35.235",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alaska, a driver with no permit parks in a space reserved for people with disabilities. For a first conviction, what is the smallest fine?",
+      "o": [
+        "$125",
+        "$25",
+        "$50",
+        "$75"
+      ],
+      "h1": "It is more than a regular parking ticket.",
+      "h2": "In Alaska, parking in a space reserved for people with disabilities without the right permit or plate brings a fine of at least $125 for a first conviction.",
+      "p": "Right. The fine is at least $125 the first time."
+    },
+    "es": {
+      "q": "En Alaska, un conductor sin permiso se estaciona en un espacio reservado para personas con discapacidad. En una primera condena, ¿cuál es la multa mínima?",
+      "o": [
+        "$125",
+        "$25",
+        "$50",
+        "$75"
+      ],
+      "h1": "Es más que una multa común de estacionamiento.",
+      "h2": "En Alaska, estacionarse en un espacio reservado para personas con discapacidad sin el permiso o la placa correctos trae una multa de al menos $125 en una primera condena.",
+      "p": "Correcto. La multa es de al menos $125 la primera vez."
+    }
+  },
+  {
+    "id": "ak-179",
+    "scope": "AK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.35.251&secEnd=28.35.251",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alaska, you haul gravel in an open truck bed without a cover. How much empty space must you leave between the gravel and the top edge all around?",
+      "o": [
+        "One inch",
+        "Two inches",
+        "Three inches",
+        "Six inches"
+      ],
+      "h1": "The space keeps stones from bouncing out on the road.",
+      "h2": "In Alaska, a load of sand, gravel, dirt or rock must either be covered and tied down, or have at least six inches of free space below the top edge all around.",
+      "p": "Right. Leave six inches of space, or cover the load."
+    },
+    "es": {
+      "q": "En Alaska, usted lleva grava en la caja abierta de una camioneta, sin cubrirla. ¿Cuánto espacio vacío debe dejar entre la grava y el borde de arriba, por todos lados?",
+      "o": [
+        "Una pulgada",
+        "Dos pulgadas",
+        "Tres pulgadas",
+        "Seis pulgadas"
+      ],
+      "h1": "El espacio evita que las piedras salten al camino.",
+      "h2": "En Alaska, una carga de arena, grava, tierra o piedra debe ir cubierta y bien sujeta, o tener al menos seis pulgadas de espacio libre debajo del borde de arriba por todos lados.",
+      "p": "Correcto. Deje seis pulgadas de espacio o cubra la carga."
+    }
+  },
+  {
+    "id": "ak-180",
+    "scope": "AK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.35.261&secEnd=28.35.261",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alaska, as a general rule, a low-speed vehicle may not be driven on a highway with a speed limit above what?",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "Think of a city street, not a highway.",
+      "h2": "In Alaska, a low-speed vehicle generally may not be driven on a highway with a speed limit over 35 mph, though it may cross such a highway at an intersection.",
+      "p": "Right. In general, 35 mph roads or slower only."
+    },
+    "es": {
+      "q": "En Alaska, como regla general, ¿en una carretera con un límite de velocidad mayor de cuánto no se puede manejar un vehículo de baja velocidad?",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "Piense en una calle de ciudad, no en una carretera.",
+      "h2": "En Alaska, un vehículo de baja velocidad por lo general no se puede manejar en una carretera con un límite de más de 35 mph, aunque sí puede cruzarla en una intersección.",
+      "p": "Correcto. En general, solo caminos de 35 mph o menos."
+    }
+  },
+  {
+    "id": "ak-181",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.35.290&secEnd=28.35.290",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alaska, an 18-year-old is cited for driving after drinking alcohol. For how long after the citation is it illegal for them to drive at all?",
+      "o": [
+        "4 hours",
+        "12 hours",
+        "24 hours",
+        "72 hours"
+      ],
+      "h1": "It is one full day.",
+      "h2": "In Alaska, a person under 21 cited for driving after drinking, or for refusing the breath test, may not drive for 24 hours after the citation.",
+      "p": "Right. No driving for 24 hours after the citation."
+    },
+    "es": {
+      "q": "En Alaska, a una persona de 18 años le dan una citación por manejar después de tomar alcohol. ¿Por cuánto tiempo después de la citación no puede manejar?",
+      "o": [
+        "4 horas",
+        "12 horas",
+        "24 horas",
+        "72 horas"
+      ],
+      "h1": "Es un día completo.",
+      "h2": "En Alaska, una persona menor de 21 años citada por manejar después de tomar, o por negarse a la prueba de aliento, no puede manejar durante las 24 horas después de la citación.",
+      "p": "Correcto. No puede manejar durante 24 horas después de la citación."
+    }
+  },
+  {
+    "id": "ak-182",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.35.030&secEnd=28.35.030",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alaska, a person is convicted of DUI for the first time. What is the least amount of jail time the court must order?",
+      "o": [
+        "None, for a first offense",
+        "12 hours",
+        "24 hours",
+        "72 hours in a row"
+      ],
+      "h1": "It is three days.",
+      "h2": "In Alaska, a first DUI conviction carries a minimum sentence of 72 consecutive hours of imprisonment.",
+      "p": "Right. At least 72 hours in a row."
+    },
+    "es": {
+      "q": "En Alaska, una persona es condenada por manejar bajo la influencia (DUI) por primera vez. ¿Cuál es el mínimo de cárcel que el tribunal debe ordenar?",
+      "o": [
+        "Nada, por ser la primera vez",
+        "12 horas",
+        "24 horas",
+        "72 horas seguidas"
+      ],
+      "h1": "Son tres días.",
+      "h2": "En Alaska, una primera condena por DUI trae una pena mínima de 72 horas seguidas de encarcelamiento.",
+      "p": "Correcto. Al menos 72 horas seguidas."
+    }
+  },
+  {
+    "id": "ak-183",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.35.030&secEnd=28.35.030",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alaska, what is the smallest fine a court must order for a first DUI conviction?",
+      "o": [
+        "$1,500",
+        "$250",
+        "$500",
+        "$750"
+      ],
+      "h1": "It is more than a thousand dollars.",
+      "h2": "In Alaska, a first DUI conviction carries a fine of at least $1,500.",
+      "p": "Right. The minimum fine is $1,500."
+    },
+    "es": {
+      "q": "En Alaska, ¿cuál es la multa mínima que un tribunal debe ordenar por una primera condena por DUI?",
+      "o": [
+        "$1,500",
+        "$250",
+        "$500",
+        "$750"
+      ],
+      "h1": "Es más de mil dólares.",
+      "h2": "En Alaska, una primera condena por DUI trae una multa de al menos $1,500.",
+      "p": "Correcto. La multa mínima es de $1,500."
+    }
+  },
+  {
+    "id": "ak-184",
+    "scope": "AK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/aac.asp?media=print&secStart=13.02.325&secEnd=13.02.325",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alaska, what is the top speed allowed for a vehicle towing a mobile home?",
+      "o": [
+        "35 mph",
+        "40 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "It is 10 mph under the usual rural limit.",
+      "h2": "In Alaska, a vehicle towing a mobile home may not go faster than 45 mph.",
+      "p": "Right. No more than 45 mph when towing a mobile home."
+    },
+    "es": {
+      "q": "En Alaska, ¿cuál es la velocidad máxima para un vehículo que remolca una casa móvil?",
+      "o": [
+        "35 mph",
+        "40 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "Es 10 mph menos que el límite rural normal.",
+      "h2": "En Alaska, un vehículo que remolca una casa móvil no puede ir a más de 45 mph.",
+      "p": "Correcto. No más de 45 mph al remolcar una casa móvil."
+    }
+  },
+  {
+    "id": "ak-185",
+    "scope": "AK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/aac.asp?media=print&secStart=13.02.325&secEnd=13.02.325",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alaska, the 20 mph limit at a posted school or playground crosswalk covers how far on each side of the crosswalk?",
+      "o": [
+        "100 feet",
+        "300 feet",
+        "500 feet",
+        "1,000 feet"
+      ],
+      "h1": "It is about the length of a football field.",
+      "h2": "In Alaska, the 20 mph speed zone at a posted school or playground crosswalk extends 300 feet in each direction from the crosswalk.",
+      "p": "Right. The zone runs 300 feet each way."
+    },
+    "es": {
+      "q": "En Alaska, el límite de 20 mph en un cruce peatonal escolar o de parque con letrero, ¿qué distancia cubre a cada lado del cruce?",
+      "o": [
+        "100 pies",
+        "300 pies",
+        "500 pies",
+        "1,000 pies"
+      ],
+      "h1": "Es más o menos el largo de una cancha de fútbol americano.",
+      "h2": "En Alaska, la zona de 20 mph en un cruce escolar o de parque con letrero se extiende 300 pies en cada dirección desde el cruce.",
+      "p": "Correcto. La zona se extiende 300 pies a cada lado."
+    }
+  },
+  {
+    "id": "ak-186",
+    "scope": "AK",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/aac.asp?media=print&secStart=13.02.325&secEnd=13.02.325",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alaska, a school bus ahead has its yellow lights flashing, not red. How fast may you go as you pass it?",
+      "o": [
+        "No faster than 20 mph",
+        "No faster than 30 mph",
+        "The posted speed limit",
+        "You may not pass at all"
+      ],
+      "h1": "Yellow means the bus is about to stop. Slow way down.",
+      "h2": "In Alaska, you may not drive faster than 20 mph when passing a school bus that is showing flashing yellow lights.",
+      "p": "Right. Pass a bus with flashing yellow lights at 20 mph or less."
+    },
+    "es": {
+      "q": "En Alaska, un autobús escolar adelante tiene encendidas las luces amarillas intermitentes, no las rojas. ¿A qué velocidad puede pasarlo?",
+      "o": [
+        "A no más de 20 mph",
+        "A no más de 30 mph",
+        "Al límite indicado",
+        "No puede pasarlo"
+      ],
+      "h1": "Amarillo quiere decir que el autobús va a parar. Baje mucho la velocidad.",
+      "h2": "En Alaska, usted no puede ir a más de 20 mph al pasar un autobús escolar que tiene luces amarillas intermitentes.",
+      "p": "Correcto. Pase un autobús con luces amarillas intermitentes a 20 mph o menos."
+    }
+  },
+  {
+    "id": "ak-187",
+    "scope": "AK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/aac.asp?media=print&secStart=13.02.340&secEnd=13.02.340",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alaska, an emergency forces you to stop on a divided highway. What warning does the regulation require?",
+      "o": [
+        "A white cloth tied to the antenna",
+        "One flare set 10 feet behind the car",
+        "Your horn sounded every few minutes",
+        "Flashers, three flares or three triangles"
+      ],
+      "h1": "Look for the answer that warns traffic in a clear, standard way.",
+      "h2": "In Alaska, a vehicle stopped in an emergency on a controlled or divided highway must have its four-way flashers on, three flares burning, or three reflective triangles set out.",
+      "p": "Right. Use flashers, three flares or three triangles."
+    },
+    "es": {
+      "q": "En Alaska, una emergencia lo obliga a parar en una carretera dividida. ¿Qué aviso exige el reglamento?",
+      "o": [
+        "Un trapo blanco atado a la antena",
+        "Una bengala a 10 pies detrás del carro",
+        "Tocar la bocina cada pocos minutos",
+        "Intermitentes, tres bengalas o tres triángulos"
+      ],
+      "h1": "Busque la respuesta que avise al tráfico de una forma clara y normal.",
+      "h2": "En Alaska, un vehículo detenido por emergencia en una carretera de acceso controlado o dividida debe tener encendidas las luces intermitentes, tres bengalas encendidas o tres triángulos reflectores colocados.",
+      "p": "Correcto. Use intermitentes, tres bengalas o tres triángulos."
+    }
+  },
+  {
+    "id": "ak-188",
+    "scope": "AK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/aac.asp?media=print&secStart=13.02.367&secEnd=13.02.367",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alaska, you stop in a marked loading zone to let a passenger out. What is the longest a passenger stop may last?",
+      "o": [
+        "One minute",
+        "Three minutes",
+        "Ten minutes",
+        "Thirty minutes"
+      ],
+      "h1": "Passenger stops must be quick. Longer stops are for loading goods.",
+      "h2": "In Alaska, a stop in a loading zone to load or unload passengers may not last more than three minutes; loading property may take up to 30 minutes.",
+      "p": "Right. Passenger stops are limited to three minutes."
+    },
+    "es": {
+      "q": "En Alaska, usted se detiene en una zona de carga marcada para que baje un pasajero. ¿Cuánto puede durar como máximo una parada de pasajeros?",
+      "o": [
+        "Un minuto",
+        "Tres minutos",
+        "Diez minutos",
+        "Treinta minutos"
+      ],
+      "h1": "Las paradas de pasajeros deben ser rápidas. Las más largas son para cargar mercancía.",
+      "h2": "En Alaska, una parada en zona de carga para subir o bajar pasajeros no puede durar más de tres minutos; cargar mercancía puede tomar hasta 30 minutos.",
+      "p": "Correcto. Las paradas de pasajeros se limitan a tres minutos."
+    }
+  },
+  {
+    "id": "ak-189",
+    "scope": "AK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/aac.asp?media=print&secStart=13.02.427&secEnd=13.02.427",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alaska, traffic is stopped in two lanes. May a motorcyclist ride between the two lines of cars to get ahead?",
+      "o": [
+        "Yes, if going under 15 mph",
+        "Yes, on any road with two lanes",
+        "Yes, but only in a city",
+        "No, riding between lanes is not allowed"
+      ],
+      "h1": "A motorcycle uses a lane like any other vehicle.",
+      "h2": "In Alaska, a motorcyclist may not ride between lanes or between rows of vehicles, and may not pass a vehicle in the same lane.",
+      "p": "Right. Riding between lanes of traffic is not allowed."
+    },
+    "es": {
+      "q": "En Alaska, el tráfico está detenido en dos carriles. ¿Puede un motociclista pasar entre las dos filas de carros para adelantarse?",
+      "o": [
+        "Sí, si va a menos de 15 mph",
+        "Sí, en cualquier camino de dos carriles",
+        "Sí, pero solo en la ciudad",
+        "No, no se permite ir entre carriles"
+      ],
+      "h1": "Una motocicleta usa un carril como cualquier otro vehículo.",
+      "h2": "En Alaska, un motociclista no puede ir entre carriles ni entre filas de vehículos, ni rebasar a un vehículo dentro del mismo carril.",
+      "p": "Correcto. No se permite ir entre carriles de tráfico."
+    }
+  },
+  {
+    "id": "ak-190",
+    "scope": "AK",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/aac.asp?media=print&secStart=13.02.455&secEnd=13.02.455",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alaska, you need to cross a highway on your snowmobile. What must you do?",
+      "o": [
+        "Stop fully, yield, then cross straight over",
+        "Slow down, then cross at a long angle",
+        "Ride the shoulder to the next road crossing",
+        "Cross fast while sounding your horn"
+      ],
+      "h1": "Think of how you would cross a busy road safely on foot.",
+      "h2": "In Alaska, a snowmobile or other off-highway vehicle must come to a complete stop before crossing a highway, yield to all traffic, and cross at about a right angle.",
+      "p": "Right. Stop, yield, and cross straight across."
+    },
+    "es": {
+      "q": "En Alaska, usted necesita cruzar una carretera en su moto de nieve. ¿Qué debe hacer?",
+      "o": [
+        "Parar, ceder el paso y cruzar en línea recta",
+        "Bajar la velocidad y cruzar en diagonal",
+        "Ir por el acotamiento hasta otro cruce",
+        "Cruzar rápido tocando la bocina"
+      ],
+      "h1": "Piense en cómo cruzaría a pie una calle con mucho tráfico.",
+      "h2": "En Alaska, una moto de nieve u otro vehículo todo terreno debe parar por completo antes de cruzar una carretera, ceder el paso a todo el tráfico y cruzar más o menos en ángulo recto.",
+      "p": "Correcto. Pare, ceda el paso y cruce en línea recta."
+    }
+  },
+  {
+    "id": "ak-191",
+    "scope": "AK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/aac.asp?media=print&secStart=13.02.480&secEnd=13.02.480",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alaska, the rule for leaving a car unattended says to stop the engine and take the key. When may you leave the parking brake off?",
+      "o": [
+        "When parked on a hill",
+        "When you will be gone under five minutes",
+        "When the brake might freeze",
+        "Never, the brake must always be set"
+      ],
+      "h1": "Think about Alaska winters and what cold does to a brake.",
+      "h2": "In Alaska, the regulation says to set the parking brake on an unattended car unless there is a reasonable chance it could freeze.",
+      "p": "Right. You set the brake unless it might freeze."
+    },
+    "es": {
+      "q": "En Alaska, la regla para dejar un carro solo dice que debe apagar el motor y llevarse la llave. ¿Cuándo puede dejar sin poner el freno de mano?",
+      "o": [
+        "Cuando se estaciona en una cuesta",
+        "Cuando se va por menos de cinco minutos",
+        "Cuando el freno podría congelarse",
+        "Nunca, siempre debe poner el freno"
+      ],
+      "h1": "Piense en los inviernos de Alaska y en lo que el frío le hace a un freno.",
+      "h2": "En Alaska, el reglamento dice que debe poner el freno de mano en un carro que deja solo, a menos que haya una posibilidad razonable de que se congele.",
+      "p": "Correcto. Ponga el freno, a menos que pueda congelarse."
+    }
+  },
+  {
+    "id": "ak-192",
+    "scope": "AK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/aac.asp?media=print&secStart=13.02.530&secEnd=13.02.530",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alaska, you are plowing your driveway. May you push the snow out onto the highway?",
+      "o": [
+        "Yes, the highway plows will clear it",
+        "No, not if it can be a hazard to traffic or plows",
+        "Yes, but only at night",
+        "Yes, if you leave one lane open"
+      ],
+      "h1": "Piles of snow on the road can cause crashes.",
+      "h2": "In Alaska, no one may push snow or ice onto a highway in a way or amount that could be a hazard to snow removal equipment or other traffic.",
+      "p": "Right. Keep your driveway snow off the highway."
+    },
+    "es": {
+      "q": "En Alaska, usted está quitando la nieve de la entrada de su casa. ¿Puede empujar la nieve a la carretera?",
+      "o": [
+        "Sí, las máquinas de la carretera la limpiarán",
+        "No, si puede ser un peligro para el tráfico o las máquinas",
+        "Sí, pero solo de noche",
+        "Sí, si deja un carril libre"
+      ],
+      "h1": "Los montones de nieve en el camino pueden causar choques.",
+      "h2": "En Alaska, nadie puede empujar nieve o hielo a una carretera de una forma o en una cantidad que pueda ser un peligro para las máquinas quitanieves o el resto del tráfico.",
+      "p": "Correcto. No ponga la nieve de su entrada en la carretera."
+    }
+  },
+  {
+    "id": "ak-193",
+    "scope": "AK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/aac.asp?media=print&secStart=13.04.223&secEnd=13.04.223",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alaska, how much light must aftermarket tint on the driver and front passenger windows let through?",
+      "o": [
+        "At least 20 percent",
+        "At least 35 percent",
+        "At least 50 percent",
+        "At least 70 percent"
+      ],
+      "h1": "Front side windows must stay quite clear.",
+      "h2": "In Alaska, aftermarket tint on the driver and front passenger side windows must let at least 70 percent of the light through.",
+      "p": "Right. Front side windows need at least 70 percent light."
+    },
+    "es": {
+      "q": "En Alaska, ¿cuánta luz debe dejar pasar el polarizado que se agrega a las ventanas del conductor y del pasajero de adelante?",
+      "o": [
+        "Al menos 20 por ciento",
+        "Al menos 35 por ciento",
+        "Al menos 50 por ciento",
+        "Al menos 70 por ciento"
+      ],
+      "h1": "Las ventanas laterales de adelante deben quedar bastante claras.",
+      "h2": "En Alaska, el polarizado agregado a las ventanas laterales del conductor y del pasajero de adelante debe dejar pasar al menos el 70 por ciento de la luz.",
+      "p": "Correcto. Las ventanas de adelante necesitan al menos 70 por ciento de luz."
+    }
+  },
+  {
+    "id": "ak-194",
+    "scope": "AK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/aac.asp?media=print&secStart=13.04.350&secEnd=13.04.350",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alaska, what must a motorcycle driver wear on the road if the motorcycle has no windscreen or windshield?",
+      "o": [
+        "Approved eye protection",
+        "A reflective vest",
+        "Leather boots",
+        "Ear plugs"
+      ],
+      "h1": "Wind, bugs and gravel can hit the rider's face.",
+      "h2": "In Alaska, a motorcycle driver must wear an approved eye-protective device unless the motorcycle has a windscreen or windshield.",
+      "p": "Right. Wear eye protection when there is no windscreen."
+    },
+    "es": {
+      "q": "En Alaska, ¿qué debe usar en el camino quien maneja una motocicleta sin parabrisas?",
+      "o": [
+        "Protección aprobada para los ojos",
+        "Un chaleco reflectante",
+        "Botas de cuero",
+        "Tapones para los oídos"
+      ],
+      "h1": "El viento, los insectos y la grava pueden golpear la cara.",
+      "h2": "En Alaska, quien maneja una motocicleta debe usar protección aprobada para los ojos, a menos que la motocicleta tenga parabrisas.",
+      "p": "Correcto. Use protección para los ojos si no hay parabrisas."
+    }
+  },
+  {
+    "id": "ak-195",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.15.101&secEnd=28.15.101",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alaska, you are 30 and get a new driver's license. When does it expire?",
+      "o": [
+        "On your birthday four years later",
+        "On your birthday five years later",
+        "On your birthday in the eighth year",
+        "It never expires"
+      ],
+      "h1": "Alaska licenses for adults last a long time.",
+      "h2": "In Alaska, a new driver's license for an adult expires on the holder's birthday in the eighth year after it is issued.",
+      "p": "Right. It expires on your birthday in the eighth year."
+    },
+    "es": {
+      "q": "En Alaska, usted tiene 30 años y recibe una nueva licencia de manejo. ¿Cuándo vence?",
+      "o": [
+        "En su cumpleaños cuatro años después",
+        "En su cumpleaños cinco años después",
+        "En su cumpleaños del octavo año",
+        "Nunca vence"
+      ],
+      "h1": "En Alaska, las licencias de los adultos duran mucho tiempo.",
+      "h2": "En Alaska, una licencia de manejo nueva para un adulto vence en el cumpleaños de su titular en el octavo año después de emitida.",
+      "p": "Correcto. Vence en su cumpleaños del octavo año."
+    }
+  },
+  {
+    "id": "ak-196",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.15.101&secEnd=28.15.101",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alaska, your license expires the month you turn 70. May you renew it online or by mail?",
+      "o": [
+        "Yes, always",
+        "No, you must renew in person",
+        "Yes, with a doctor's note",
+        "Only if a family member signs"
+      ],
+      "h1": "There is an age limit for renewing without a visit.",
+      "h2": "In Alaska, a driver who is 69 or older on the date the license expires may not renew it by mail or online.",
+      "p": "Right. At 69 or older, you renew in person."
+    },
+    "es": {
+      "q": "En Alaska, su licencia vence el mes en que usted cumple 70 años. ¿Puede renovarla por internet o por correo?",
+      "o": [
+        "Sí, siempre",
+        "No, debe renovarla en persona",
+        "Sí, con una nota del médico",
+        "Solo si firma un familiar"
+      ],
+      "h1": "Hay un límite de edad para renovar sin ir a la oficina.",
+      "h2": "En Alaska, un conductor que tiene 69 años o más en la fecha en que vence la licencia no puede renovarla por correo ni por internet.",
+      "p": "Correcto. Con 69 años o más, la renovación es en persona."
+    }
+  },
+  {
+    "id": "ak-197",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.15.101&secEnd=28.15.101",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alaska, you are 40 and renewed your license online last time. How may you renew it this time?",
+      "o": [
+        "Online again",
+        "By mail only",
+        "By phone",
+        "In person at the DMV"
+      ],
+      "h1": "You cannot skip the office visit two times in a row.",
+      "h2": "In Alaska, a license may not be renewed by mail or online if the last renewal was done by mail or online, so this renewal must be in person.",
+      "p": "Right. After a remote renewal, the next one is in person."
+    },
+    "es": {
+      "q": "En Alaska, usted tiene 40 años y la última vez renovó su licencia por internet. ¿Cómo puede renovarla esta vez?",
+      "o": [
+        "Otra vez por internet",
+        "Solo por correo",
+        "Por teléfono",
+        "En persona en el DMV"
+      ],
+      "h1": "No puede evitar la visita a la oficina dos veces seguidas.",
+      "h2": "En Alaska, no se puede renovar la licencia por correo ni por internet si la última renovación fue por correo o por internet, así que esta vez debe ser en persona.",
+      "p": "Correcto. Después de una renovación a distancia, la siguiente es en persona."
+    }
+  },
+  {
+    "id": "ak-198",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.15.231&secEnd=28.15.231",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alaska, in one traffic stop you are convicted of speeding (4 points) and making an illegal U-turn (2 points). How many points go on your record?",
+      "o": [
+        "4 points",
+        "6 points",
+        "2 points",
+        "8 points"
+      ],
+      "h1": "Violations from the same occasion are not added together.",
+      "h2": "In Alaska, when you are convicted of two or more violations from one occasion, you get points for only one of them, the one worth the most.",
+      "p": "Right. Only the highest-value violation counts."
+    },
+    "es": {
+      "q": "En Alaska, en una sola parada de tránsito usted es condenado por exceso de velocidad (4 puntos) y por una vuelta en U ilegal (2 puntos). ¿Cuántos puntos van a su historial?",
+      "o": [
+        "4 puntos",
+        "6 puntos",
+        "2 puntos",
+        "8 puntos"
+      ],
+      "h1": "Las infracciones de una misma ocasión no se suman.",
+      "h2": "En Alaska, cuando lo condenan por dos o más infracciones de una sola ocasión, recibe puntos por solo una de ellas, la que vale más.",
+      "p": "Correcto. Solo cuenta la infracción de más puntos."
+    }
+  },
+  {
+    "id": "ak-199",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.15.241&secEnd=28.15.241",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alaska, how many points are taken off your record if you go 12 months after your last violation without a new one?",
+      "o": [
+        "None",
+        "One point",
+        "Two points",
+        "All of them"
+      ],
+      "h1": "It is the same number as the smallest point value in the table.",
+      "h2": "In Alaska, two points are taken off your total if you are not convicted of any traffic violation committed in the 12 months after your last one.",
+      "p": "Right. A clean 12 months removes two points."
+    },
+    "es": {
+      "q": "En Alaska, ¿cuántos puntos le quitan de su historial si pasa 12 meses después de su última infracción sin cometer otra?",
+      "o": [
+        "Ninguno",
+        "Un punto",
+        "Dos puntos",
+        "Todos"
+      ],
+      "h1": "Es el mismo número que el valor más bajo de la tabla de puntos.",
+      "h2": "En Alaska, le quitan dos puntos si no lo condenan por ninguna infracción cometida en los 12 meses después de la última.",
+      "p": "Correcto. Doce meses sin infracciones quitan dos puntos."
+    }
+  },
+  {
+    "id": "ak-200",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.10.271&secEnd=28.10.271",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alaska, you sell your car to a neighbor. How soon must you tell the DMV about the sale?",
+      "o": [
+        "Within 48 hours",
+        "Within 10 days",
+        "Within 60 days",
+        "Only when the plates expire"
+      ],
+      "h1": "It is a little more than a week.",
+      "h2": "In Alaska, the owner who sells or transfers a vehicle must notify the DMV within 10 days.",
+      "p": "Right. Notify the DMV within 10 days of the sale."
+    },
+    "es": {
+      "q": "En Alaska, usted le vende su carro a un vecino. ¿En cuánto tiempo debe avisar al DMV de la venta?",
+      "o": [
+        "Dentro de 48 horas",
+        "Dentro de 10 días",
+        "Dentro de 60 días",
+        "Solo cuando venzan las placas"
+      ],
+      "h1": "Es un poco más de una semana.",
+      "h2": "En Alaska, el dueño que vende o traspasa un vehículo debe avisar al DMV dentro de 10 días.",
+      "p": "Correcto. Avise al DMV dentro de 10 días de la venta."
+    }
   }
 ]
