@@ -2540,5 +2540,651 @@
       "h2": "في Oklahoma، على طريق مقسّم إلى أربعة مسارات أو أكثر، لا يجوز أن تعيق حركة المرور العادية بالقيادة في المسار الأيسر.",
       "p": "صحيح. لا تعطّل حركة المرور في المسار الأيسر."
     }
+  },
+  {
+    "id": "ok-032",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oklahoma, a rider has a motorcycle-only license before age 16. What is the largest engine size allowed?",
+      "o": [
+        "50 cc",
+        "150 cc",
+        "300 cc",
+        "500 cc"
+      ],
+      "h1": "It is a small bike, but not the smallest size on the list.",
+      "h2": "In Oklahoma, a rider under 16 with a motorcycle-only license may ride a motorcycle or scooter of no more than 300 cc.",
+      "p": "Right. Young riders are limited to 300 cc or less."
+    },
+    "es": {
+      "q": "En Oklahoma, una persona menor de 16 años tiene una licencia solo para motocicleta. ¿Cuál es el motor más grande permitido?",
+      "o": [
+        "50 cc",
+        "150 cc",
+        "300 cc",
+        "500 cc"
+      ],
+      "h1": "Es una moto pequeña, pero no el tamaño más pequeño de la lista.",
+      "h2": "En Oklahoma, una persona menor de 16 años con licencia solo para motocicleta puede manejar una motocicleta o scooter de no más de 300 cc.",
+      "p": "Correcto. Los motociclistas jóvenes están limitados a 300 cc o menos."
+    }
+  },
+  {
+    "id": "ok-033",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oklahoma, who must wear a helmet when riding a motorcycle?",
+      "o": [
+        "Every rider, at any age",
+        "Riders under 18",
+        "Riders under 21",
+        "Only riders with a learner permit"
+      ],
+      "h1": "The law is about young riders only.",
+      "h2": "In Oklahoma, a motorcycle helmet is required for anyone under 18 years old.",
+      "p": "Right. Riders under 18 must wear a helmet in Oklahoma."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿quién debe usar casco al manejar una motocicleta?",
+      "o": [
+        "Todos, a cualquier edad",
+        "Los menores de 18 años",
+        "Los menores de 21 años",
+        "Solo quienes tienen permiso de aprendiz"
+      ],
+      "h1": "La ley es solo para los motociclistas jóvenes.",
+      "h2": "En Oklahoma, el casco de motocicleta es obligatorio para toda persona menor de 18 años.",
+      "p": "Correcto. En Oklahoma, los menores de 18 años deben usar casco."
+    }
+  },
+  {
+    "id": "ok-034",
+    "scope": "OK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 53,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oklahoma, a motorcycle has no windshield. What must the rider wear?",
+      "o": [
+        "Approved goggles or a face shield",
+        "A bright reflective vest",
+        "Any pair of sunglasses",
+        "Nothing extra is needed"
+      ],
+      "h1": "It protects the eyes and face from things flying through the air.",
+      "h2": "In Oklahoma, a motorcycle rider without a windshield must wear approved goggles or a face shield.",
+      "p": "Right. No windshield means approved goggles or a face shield."
+    },
+    "es": {
+      "q": "En Oklahoma, una motocicleta no tiene parabrisas. ¿Qué debe usar quien la maneja?",
+      "o": [
+        "Gafas protectoras aprobadas o una careta",
+        "Un chaleco reflectante de color vivo",
+        "Cualquier par de lentes de sol",
+        "No necesita nada más"
+      ],
+      "h1": "Protege los ojos y la cara de objetos que vuelan por el aire.",
+      "h2": "En Oklahoma, quien maneja una motocicleta sin parabrisas debe usar gafas protectoras aprobadas o una careta.",
+      "p": "Correcto. Sin parabrisas, se usan gafas protectoras aprobadas o una careta."
+    }
+  },
+  {
+    "id": "ok-035",
+    "scope": "OK",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 30,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oklahoma, you are convicted of not stopping for a school bus with its red loading lights flashing. What happens to your license?",
+      "o": [
+        "Nothing, if it is your first time",
+        "It is suspended for 30 days",
+        "You get a warning letter",
+        "It is revoked for one year"
+      ],
+      "h1": "The law treats this very seriously, with a long loss of your license.",
+      "h2": "In Oklahoma, not stopping for a school bus with its red loading lights flashing leads to a mandatory one-year revocation of your license.",
+      "p": "Right. Passing a loading school bus costs your license for one year."
+    },
+    "es": {
+      "q": "En Oklahoma, lo declaran culpable de no detenerse ante un autobús escolar con sus luces rojas de carga encendidas. ¿Qué pasa con su licencia?",
+      "o": [
+        "Nada, si es la primera vez",
+        "Se suspende por 30 días",
+        "Recibe una carta de advertencia",
+        "Se revoca por un año"
+      ],
+      "h1": "La ley trata esto como algo muy grave, con una pérdida larga de la licencia.",
+      "h2": "En Oklahoma, no detenerse ante un autobús escolar con sus luces rojas de carga encendidas causa la revocación obligatoria de su licencia por un año.",
+      "p": "Correcto. No detenerse ante un autobús escolar le cuesta la licencia por un año."
+    }
+  },
+  {
+    "id": "ok-036",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 65,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oklahoma, a driver is convicted of a second DUI within 10 years. What kind of crime is it?",
+      "o": [
+        "A warning only",
+        "A traffic ticket only",
+        "A felony",
+        "A misdemeanor, the same as the first"
+      ],
+      "h1": "The second time is much more serious than the first.",
+      "h2": "In Oklahoma, a second DUI offense within 10 years is a felony.",
+      "p": "Right. A second DUI within 10 years is a felony in Oklahoma."
+    },
+    "es": {
+      "q": "En Oklahoma, una persona es declarada culpable de un segundo DUI en 10 años. ¿Qué tipo de delito es?",
+      "o": [
+        "Solo una advertencia",
+        "Solo una multa de tránsito",
+        "Un delito grave (felony)",
+        "Un delito menor, igual que el primero"
+      ],
+      "h1": "La segunda vez es mucho más grave que la primera.",
+      "h2": "En Oklahoma, un segundo DUI en 10 años es un delito grave (felony).",
+      "p": "Correcto. Un segundo DUI en 10 años es un delito grave en Oklahoma."
+    }
+  },
+  {
+    "id": "ok-037",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 65,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oklahoma, your blood alcohol level is over 0.05 but under 0.08. Can you be charged?",
+      "o": [
+        "No, the limit is 0.08",
+        "Yes, with impaired driving",
+        "Only if you were in a crash",
+        "Only if you drive a truck"
+      ],
+      "h1": "Oklahoma has a lower charge for drivers who are affected but below 0.08.",
+      "h2": "In Oklahoma, a driver with a blood alcohol level over 0.05 but under 0.08 can be convicted of impaired driving.",
+      "p": "Right. Over 0.05 can mean an impaired driving charge in Oklahoma."
+    },
+    "es": {
+      "q": "En Oklahoma, su nivel de alcohol en la sangre es mayor de 0.05 pero menor de 0.08. ¿Pueden acusarlo?",
+      "o": [
+        "No, el límite es 0.08",
+        "Sí, de manejar con facultades disminuidas",
+        "Solo si tuvo un choque",
+        "Solo si maneja un camión"
+      ],
+      "h1": "Oklahoma tiene un cargo menor para conductores afectados aunque estén por debajo de 0.08.",
+      "h2": "En Oklahoma, un conductor con un nivel de alcohol en la sangre mayor de 0.05 pero menor de 0.08 puede ser declarado culpable de manejar con facultades disminuidas.",
+      "p": "Correcto. Más de 0.05 puede significar un cargo por manejar con facultades disminuidas en Oklahoma."
+    }
+  },
+  {
+    "id": "ok-038",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 67,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oklahoma, a driver under 21 has a first offense under the Zero Tolerance law. How long is the license revoked?",
+      "o": [
+        "6 months",
+        "30 days",
+        "2 years",
+        "5 years"
+      ],
+      "h1": "It is half a year.",
+      "h2": "In Oklahoma, a first Zero Tolerance offense for a driver under 21 leads to a license revocation of six months.",
+      "p": "Right. A first Zero Tolerance offense means six months without a license."
+    },
+    "es": {
+      "q": "En Oklahoma, un conductor menor de 21 años comete una primera falta bajo la ley de Tolerancia Cero. ¿Por cuánto tiempo se revoca la licencia?",
+      "o": [
+        "6 meses",
+        "30 días",
+        "2 años",
+        "5 años"
+      ],
+      "h1": "Es medio año.",
+      "h2": "En Oklahoma, una primera falta de Tolerancia Cero de un conductor menor de 21 años causa la revocación de la licencia por seis meses.",
+      "p": "Correcto. Una primera falta de Tolerancia Cero significa seis meses sin licencia."
+    }
+  },
+  {
+    "id": "ok-039",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 66,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oklahoma, cannabis is legal for some medical uses. Is it legal to drive with cannabis in your system?",
+      "o": [
+        "Yes, if you have a medical card",
+        "Yes, if you feel fine",
+        "Yes, below a set legal limit",
+        "No, any detectable amount is illegal"
+      ],
+      "h1": "Unlike alcohol for adults, there is no amount that is allowed.",
+      "h2": "In Oklahoma, it is illegal for anyone to drive with any detectable level of cannabis in their system.",
+      "p": "Right. Any detectable cannabis makes driving illegal in Oklahoma."
+    },
+    "es": {
+      "q": "En Oklahoma, el cannabis es legal para algunos usos médicos. ¿Es legal manejar con cannabis en el cuerpo?",
+      "o": [
+        "Sí, si tiene una tarjeta médica",
+        "Sí, si se siente bien",
+        "Sí, por debajo de un límite legal",
+        "No, cualquier cantidad detectable es ilegal"
+      ],
+      "h1": "A diferencia del alcohol para los adultos, no hay ninguna cantidad permitida.",
+      "h2": "En Oklahoma, es ilegal que cualquier persona maneje con cualquier nivel detectable de cannabis en el cuerpo.",
+      "p": "Correcto. Cualquier cantidad detectable de cannabis hace ilegal manejar en Oklahoma."
+    }
+  },
+  {
+    "id": "ok-040",
+    "scope": "OK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 40,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oklahoma, what is the highest fine for a speeding conviction, outside school and work zones?",
+      "o": [
+        "$100",
+        "$250",
+        "$654",
+        "$5,000"
+      ],
+      "h1": "It is more than $500 but far less than $1,000.",
+      "h2": "In Oklahoma, a speeding conviction can bring a fine of up to $654 and up to 30 days in jail.",
+      "p": "Right. Speeding can cost up to $654 in Oklahoma."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿cuál es la multa más alta por exceso de velocidad, fuera de zonas escolares y de obras?",
+      "o": [
+        "$100",
+        "$250",
+        "$654",
+        "$5,000"
+      ],
+      "h1": "Es más de $500 pero mucho menos de $1,000.",
+      "h2": "En Oklahoma, una condena por exceso de velocidad puede traer una multa de hasta $654 y hasta 30 días de cárcel.",
+      "p": "Correcto. El exceso de velocidad puede costar hasta $654 en Oklahoma."
+    }
+  },
+  {
+    "id": "ok-041",
+    "scope": "OK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oklahoma, what is the speed limit on a highway inside a state park or wildlife refuge when no other limit is posted?",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "Parks have people and animals near the road, so the limit is low.",
+      "h2": "In Oklahoma, the speed limit on highways inside state parks or wildlife refuges is 35 mph unless another limit is posted.",
+      "p": "Right. 35 mph in state parks and wildlife refuges."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿cuál es el límite de velocidad en una carretera dentro de un parque estatal o refugio de vida silvestre si no hay otro límite señalado?",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "En los parques hay personas y animales cerca del camino, así que el límite es bajo.",
+      "h2": "En Oklahoma, el límite de velocidad en las carreteras dentro de parques estatales o refugios de vida silvestre es 35 mph, a menos que haya otro límite señalado.",
+      "p": "Correcto. 35 mph en parques estatales y refugios de vida silvestre."
+    }
+  },
+  {
+    "id": "ok-042",
+    "scope": "OK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oklahoma, what is the speed limit in a marked school zone on a highway outside a city or town, when no other limit is posted?",
+      "o": [
+        "25 mph",
+        "15 mph",
+        "35 mph",
+        "45 mph"
+      ],
+      "h1": "It is the same number as a common neighborhood limit.",
+      "h2": "In Oklahoma, the speed limit in a properly marked school zone on a highway outside a city or town is 25 mph unless another limit is posted.",
+      "p": "Right. 25 mph in a marked school zone outside town."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿cuál es el límite de velocidad en una zona escolar señalada en una carretera fuera de una ciudad o pueblo, si no hay otro límite señalado?",
+      "o": [
+        "25 mph",
+        "15 mph",
+        "35 mph",
+        "45 mph"
+      ],
+      "h1": "Es el mismo número que un límite común en los vecindarios.",
+      "h2": "En Oklahoma, el límite de velocidad en una zona escolar bien señalada en una carretera fuera de una ciudad o pueblo es 25 mph, a menos que haya otro límite señalado.",
+      "p": "Correcto. 25 mph en una zona escolar señalada fuera del pueblo."
+    }
+  },
+  {
+    "id": "ok-043",
+    "scope": "OK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 24,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oklahoma, what fine can you get for not obeying the signs, signals or markings in a work zone?",
+      "o": [
+        "$5 to $25",
+        "$10 to $50",
+        "$25 to $75",
+        "$100 to $1,000"
+      ],
+      "h1": "It can reach four digits, and there may also be jail time.",
+      "h2": "In Oklahoma, not obeying work zone signs, signals or markings can bring a fine from $100 to $1,000 and up to 30 days in jail.",
+      "p": "Right. $100 to $1,000 for ignoring work zone signs."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿qué multa puede recibir por no obedecer las señales, semáforos o marcas en una zona de obras?",
+      "o": [
+        "De $5 a $25",
+        "De $10 a $50",
+        "De $25 a $75",
+        "De $100 a $1,000"
+      ],
+      "h1": "Puede llegar a cuatro cifras, y también puede haber cárcel.",
+      "h2": "En Oklahoma, no obedecer las señales, semáforos o marcas de una zona de obras puede traer una multa de $100 a $1,000 y hasta 30 días de cárcel.",
+      "p": "Correcto. De $100 a $1,000 por no obedecer las señales de una zona de obras."
+    }
+  },
+  {
+    "id": "ok-044",
+    "scope": "OK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 44,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oklahoma, you drive in a caravan outside a business or residential area. How much space should you leave between vehicles?",
+      "o": [
+        "At least 20 feet",
+        "At least 50 feet",
+        "At least 200 feet",
+        "At least 1,000 feet"
+      ],
+      "h1": "Other cars and trucks must be able to pull into the line safely.",
+      "h2": "In Oklahoma, cars in a caravan outside a business or residential area should keep at least 200 feet between each vehicle.",
+      "p": "Right. Leave at least 200 feet between vehicles in a caravan."
+    },
+    "es": {
+      "q": "En Oklahoma, usted maneja en una caravana fuera de una zona comercial o residencial. ¿Cuánto espacio debe dejar entre los vehículos?",
+      "o": [
+        "Por lo menos 20 pies",
+        "Por lo menos 50 pies",
+        "Por lo menos 200 pies",
+        "Por lo menos 1,000 pies"
+      ],
+      "h1": "Otros carros y camiones deben poder entrar en la fila sin peligro.",
+      "h2": "En Oklahoma, los vehículos en una caravana fuera de una zona comercial o residencial deben dejar por lo menos 200 pies entre cada uno.",
+      "p": "Correcto. Deje por lo menos 200 pies entre los vehículos de una caravana."
+    }
+  },
+  {
+    "id": "ok-045",
+    "scope": "OK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 47,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oklahoma, you park next to a curb on a hill. How close to the curb should your car stop?",
+      "o": [
+        "Within 2 feet",
+        "Within 6 inches",
+        "Within 3 feet",
+        "Touching the sidewalk"
+      ],
+      "h1": "On a hill, you need to be closer to the curb than in normal parallel parking.",
+      "h2": "In Oklahoma, when you park on a hill, you should stop within six inches of the curb.",
+      "p": "Right. On a hill, stop within six inches of the curb."
+    },
+    "es": {
+      "q": "En Oklahoma, usted se estaciona junto a la acera en una cuesta. ¿Qué tan cerca de la acera debe quedar su carro?",
+      "o": [
+        "A menos de 2 pies",
+        "A menos de 6 pulgadas",
+        "A menos de 3 pies",
+        "Tocando la banqueta"
+      ],
+      "h1": "En una cuesta debe quedar más cerca de la acera que al estacionarse en paralelo normalmente.",
+      "h2": "En Oklahoma, cuando se estaciona en una cuesta, debe quedar a menos de seis pulgadas de la acera.",
+      "p": "Correcto. En una cuesta, quede a menos de seis pulgadas de la acera."
+    }
+  },
+  {
+    "id": "ok-046",
+    "scope": "OK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 49,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oklahoma, how close to the driveway entrance of a fire station may you park on the same side of the street?",
+      "o": [
+        "As close as you like",
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 20 feet"
+      ],
+      "h1": "Fire trucks need room to get out fast.",
+      "h2": "In Oklahoma, you may not park within 20 feet of the driveway entrance to a fire station.",
+      "p": "Right. Stay at least 20 feet from a fire station entrance."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿qué tan cerca de la entrada de un cuartel de bomberos puede estacionarse del mismo lado de la calle?",
+      "o": [
+        "Tan cerca como quiera",
+        "A no menos de 5 pies",
+        "A no menos de 10 pies",
+        "A no menos de 20 pies"
+      ],
+      "h1": "Los camiones de bomberos necesitan espacio para salir rápido.",
+      "h2": "En Oklahoma, no puede estacionarse a menos de 20 pies de la entrada de un cuartel de bomberos.",
+      "p": "Correcto. Quédese por lo menos a 20 pies de la entrada de un cuartel de bomberos."
+    }
+  },
+  {
+    "id": "ok-047",
+    "scope": "OK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oklahoma, a bicyclist comes to a stop sign, and there is no danger. What does the law allow the bicyclist to do?",
+      "o": [
+        "Slow down, yield, and go on without a full stop",
+        "Nothing: the bicyclist must always stop fully",
+        "Get off and walk the bike across",
+        "Wait for a car to wave them on"
+      ],
+      "h1": "Oklahoma has a special stop sign rule for bicycles.",
+      "h2": "In Oklahoma, a bicyclist must slow down at a stop sign and yield, but may go on without stopping when there is no danger.",
+      "p": "Right. With no danger, a bicyclist may slow, yield and roll through a stop sign."
+    },
+    "es": {
+      "q": "En Oklahoma, un ciclista llega a una señal de alto y no hay peligro. ¿Qué le permite hacer la ley?",
+      "o": [
+        "Reducir la velocidad, ceder el paso y seguir sin detenerse por completo",
+        "Nada: el ciclista siempre debe detenerse por completo",
+        "Bajarse y cruzar caminando con la bicicleta",
+        "Esperar a que un carro le haga señas para pasar"
+      ],
+      "h1": "Oklahoma tiene una regla especial de la señal de alto para las bicicletas.",
+      "h2": "En Oklahoma, un ciclista debe reducir la velocidad ante una señal de alto y ceder el paso, pero puede seguir sin detenerse cuando no hay peligro.",
+      "p": "Correcto. Sin peligro, el ciclista puede reducir la velocidad, ceder el paso y seguir."
+    }
+  },
+  {
+    "id": "ok-048",
+    "scope": "OK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oklahoma, a bicyclist has stopped at a red light, and no traffic is a danger. What may the bicyclist do?",
+      "o": [
+        "Wait for green, no matter what",
+        "Ride onto the sidewalk to cross",
+        "Go on through the red light with care",
+        "Wait two full minutes, then go"
+      ],
+      "h1": "For bicycles, Oklahoma treats a red light much like a stop sign.",
+      "h2": "In Oklahoma, a bicyclist must stop at a red light, but may then go on through it when it is safe and no traffic is a danger.",
+      "p": "Right. After stopping, a bicyclist may go through a red light when it is safe."
+    },
+    "es": {
+      "q": "En Oklahoma, un ciclista se detuvo en un semáforo en rojo y ningún vehículo es un peligro. ¿Qué puede hacer el ciclista?",
+      "o": [
+        "Esperar la luz verde, pase lo que pase",
+        "Subirse a la banqueta para cruzar",
+        "Seguir a través de la luz roja con cuidado",
+        "Esperar dos minutos completos y luego seguir"
+      ],
+      "h1": "Para las bicicletas, Oklahoma trata la luz roja casi como una señal de alto.",
+      "h2": "En Oklahoma, un ciclista debe detenerse ante una luz roja, pero luego puede seguir cuando es seguro y ningún vehículo es un peligro.",
+      "p": "Correcto. Después de detenerse, el ciclista puede pasar la luz roja cuando es seguro."
+    }
+  },
+  {
+    "id": "ok-049",
+    "scope": "OK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 59,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oklahoma, may you coast down a hill with your car in neutral?",
+      "o": [
+        "Yes, it saves fuel",
+        "No, it is against the law",
+        "Yes, on steep hills only",
+        "Yes, if no one is behind you"
+      ],
+      "h1": "On a downhill, you need the engine to help control your speed.",
+      "h2": "In Oklahoma, coasting downhill with the car in neutral is against the law.",
+      "p": "Right. Coasting downhill in neutral is illegal in Oklahoma."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿puede bajar una cuesta en neutro, dejando rodar el carro?",
+      "o": [
+        "Sí, ahorra gasolina",
+        "No, es contra la ley",
+        "Sí, solo en cuestas empinadas",
+        "Sí, si nadie viene detrás"
+      ],
+      "h1": "Al bajar una cuesta, necesita el motor para ayudar a controlar la velocidad.",
+      "h2": "En Oklahoma, bajar una cuesta con el carro en neutro es contra la ley.",
+      "p": "Correcto. Bajar una cuesta en neutro es ilegal en Oklahoma."
+    }
+  },
+  {
+    "id": "ok-050",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 16,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oklahoma, a driver with no insurance is in a crash. When will Service Oklahoma suspend that driver's license?",
+      "o": [
+        "Only if someone is killed",
+        "Only after a third crash",
+        "Only if the police ask for it",
+        "If anyone is hurt or the damage is $500 or more"
+      ],
+      "h1": "The damage amount is quite low.",
+      "h2": "In Oklahoma, an uninsured driver in a crash with any injury or with property damage of $500 or more will have the license suspended.",
+      "p": "Right. Any injury or $500 in damage means suspension for an uninsured driver."
+    },
+    "es": {
+      "q": "En Oklahoma, un conductor sin seguro tiene un choque. ¿Cuándo le suspende Service Oklahoma la licencia?",
+      "o": [
+        "Solo si alguien muere",
+        "Solo después de un tercer choque",
+        "Solo si la policía lo pide",
+        "Si alguien sale herido o los daños son de $500 o más"
+      ],
+      "h1": "La cantidad de daños es bastante baja.",
+      "h2": "En Oklahoma, a un conductor sin seguro que tiene un choque con cualquier herido o con daños de $500 o más se le suspende la licencia.",
+      "p": "Correcto. Cualquier herido o $500 en daños significa suspensión para un conductor sin seguro."
+    }
   }
 ]
