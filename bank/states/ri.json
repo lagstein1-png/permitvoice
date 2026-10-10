@@ -1802,5 +1802,175 @@
       "h2": "يقدّم DMV في Rhode Island اختبار المعرفة على الكمبيوتر بالإنجليزية والإسبانية والبرتغالية، ويمكن طلب اختبار مطبوع بلغات أخرى مسبقاً.",
       "p": "صحيح. الإنجليزية والإسبانية والبرتغالية."
     }
+  },
+  {
+    "id": "ri-023",
+    "scope": "RI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Rhode Island, how long is a limited instruction permit good for?",
+      "o": [
+        "Six months, then it must be renewed",
+        "Three years from the date it is issued",
+        "One year, or until age 18 if that comes first",
+        "Until the teen finishes high school"
+      ],
+      "h1": "It is longer than the time you must hold it before the road test.",
+      "h2": "A Rhode Island limited instruction permit is valid for one year, or until the holder turns 18 if that comes first.",
+      "p": "Right. One year, or until age 18."
+    },
+    "es": {
+      "q": "En Rhode Island, ¿por cuánto tiempo es válido un permiso de instrucción limitado?",
+      "o": [
+        "Seis meses, y luego se debe renovar",
+        "Tres años desde la fecha en que se emite",
+        "Un año, o hasta los 18 años si eso ocurre antes",
+        "Hasta que el joven termine la secundaria"
+      ],
+      "h1": "Es más largo que el tiempo que debe tenerlo antes del examen de manejo.",
+      "h2": "En Rhode Island, el permiso de instrucción limitado es válido por un año, o hasta que el titular cumpla 18 años si eso ocurre antes.",
+      "p": "Correcto. Un año, o hasta los 18 años."
+    }
+  },
+  {
+    "id": "ri-024",
+    "scope": "RI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 25,
+    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Rhode Island, can police stop a car just because someone inside is not wearing a seat belt?",
+      "o": [
+        "Yes, for a person of any age",
+        "Only if the person is under 8",
+        "Only if the driver is under 18",
+        "No, only together with another offense"
+      ],
+      "h1": "Rhode Island calls its seat belt law a primary law.",
+      "h2": "Rhode Island's seat belt law is a primary law for all ages, so police may pull a car over when anyone inside is not buckled up.",
+      "p": "Right. Police can stop you for an unbuckled person of any age."
+    },
+    "es": {
+      "q": "En Rhode Island, ¿puede la policía detener un carro solo porque alguien adentro no lleva el cinturón de seguridad?",
+      "o": [
+        "Sí, por una persona de cualquier edad",
+        "Solo si la persona tiene menos de 8 años",
+        "Solo si el conductor tiene menos de 18 años",
+        "No, solo junto con otra infracción"
+      ],
+      "h1": "Rhode Island llama a su ley del cinturón una ley primaria.",
+      "h2": "La ley del cinturón de seguridad de Rhode Island es una ley primaria para todas las edades, así que la policía puede detener un carro cuando alguien adentro no lleva el cinturón puesto.",
+      "p": "Correcto. La policía puede detenerlo por una persona sin cinturón de cualquier edad."
+    }
+  },
+  {
+    "id": "ri-025",
+    "scope": "RI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 25,
+    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Rhode Island, where must a child under 8 who is shorter than 57 inches and under 80 pounds ride?",
+      "o": [
+        "In the front seat with a seat belt",
+        "Anywhere, as long as an adult holds the child",
+        "In the front seat in a booster seat",
+        "In a rear seat, in an approved child safety seat"
+      ],
+      "h1": "Think about the safest part of the car for a small child.",
+      "h2": "In Rhode Island, a child under 8 who is less than 57 inches tall and less than 80 pounds must ride in a rear seat in an approved child restraint.",
+      "p": "Right. A rear seat, in an approved child safety seat."
+    },
+    "es": {
+      "q": "En Rhode Island, ¿dónde debe viajar un niño menor de 8 años que mide menos de 57 pulgadas y pesa menos de 80 libras?",
+      "o": [
+        "En el asiento delantero con cinturón",
+        "En cualquier lugar, si un adulto lo sostiene",
+        "En el asiento delantero en un asiento elevado",
+        "En un asiento trasero, en un asiento de seguridad aprobado"
+      ],
+      "h1": "Piense en la parte más segura del carro para un niño pequeño.",
+      "h2": "En Rhode Island, un niño menor de 8 años que mide menos de 57 pulgadas y pesa menos de 80 libras debe viajar en un asiento trasero, en un sistema de retención infantil aprobado.",
+      "p": "Correcto. En un asiento trasero, en un asiento de seguridad aprobado."
+    }
+  },
+  {
+    "id": "ri-026",
+    "scope": "RI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 58,
+    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Rhode Island, what happens to your license if you refuse a chemical test for alcohol?",
+      "o": [
+        "Nothing, the test is your choice",
+        "It is suspended for at least six months",
+        "You get a written warning only",
+        "It is suspended for one week"
+      ],
+      "h1": "Driving in Rhode Island means you have already agreed to be tested.",
+      "h2": "In Rhode Island, refusing a chemical test for alcohol or drugs leads to a license suspension of at least six months, plus a fine and other penalties.",
+      "p": "Right. A suspension of at least six months."
+    },
+    "es": {
+      "q": "En Rhode Island, ¿qué pasa con su licencia si se niega a hacerse una prueba química de alcohol?",
+      "o": [
+        "Nada, la prueba es opcional",
+        "Se suspende por al menos seis meses",
+        "Solo recibe una advertencia por escrito",
+        "Se suspende por una semana"
+      ],
+      "h1": "Manejar en Rhode Island significa que usted ya aceptó hacerse la prueba.",
+      "h2": "En Rhode Island, negarse a una prueba química de alcohol o drogas lleva a una suspensión de la licencia de al menos seis meses, además de una multa y otras sanciones.",
+      "p": "Correcto. Una suspensión de al menos seis meses."
+    }
+  },
+  {
+    "id": "ri-027",
+    "scope": "RI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 49,
+    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Rhode Island, when must your headlights be on during the day?",
+      "o": [
+        "Only when driving inside a tunnel",
+        "Only when driving on an interstate highway",
+        "Whenever your windshield wipers are on because of the weather",
+        "Only when a police officer tells you"
+      ],
+      "h1": "Think about rain, sleet or snow.",
+      "h2": "In Rhode Island, you must turn on your headlights any time your windshield wipers are in use because of rain, sleet or snow, as well as from sunset to sunrise.",
+      "p": "Right. Wipers on means headlights on."
+    },
+    "es": {
+      "q": "En Rhode Island, ¿cuándo debe tener las luces delanteras encendidas durante el día?",
+      "o": [
+        "Solo cuando maneja dentro de un túnel",
+        "Solo cuando maneja en una autopista interestatal",
+        "Siempre que use los limpiaparabrisas por el mal tiempo",
+        "Solo cuando un policía se lo indique"
+      ],
+      "h1": "Piense en la lluvia, el aguanieve o la nieve.",
+      "h2": "En Rhode Island, debe encender las luces delanteras siempre que use los limpiaparabrisas por lluvia, aguanieve o nieve, además de desde la puesta hasta la salida del sol.",
+      "p": "Correcto. Si usa los limpiaparabrisas, encienda las luces."
+    }
   }
 ]
