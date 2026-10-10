@@ -6627,10 +6627,7 @@
     "conf": "high",
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 2E.28, https://mutcd.fhwa.dot.gov/",
-    "sign": {
-      "shape": "rect-green",
-      "text": "EXIT ONLY"
-    },
+    "sign": null,
     "c": 3,
     "en": {
       "q": "On a green freeway sign, a yellow panel that says EXIT ONLY is above your lane. What does it mean?",
@@ -6664,10 +6661,7 @@
     "conf": "high",
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 2E.25, https://mutcd.fhwa.dot.gov/",
-    "sign": {
-      "shape": "rect-green",
-      "text": "LEFT EXIT"
-    },
+    "sign": null,
     "c": 0,
     "en": {
       "q": "A green freeway sign has a yellow panel that says LEFT. What does it tell you?",
@@ -7173,10 +7167,7 @@
     "conf": "high",
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 8B.21, https://mutcd.fhwa.dot.gov/",
-    "sign": {
-      "shape": "diamond-yellow",
-      "text": "STORAGE SPACE 50 FT"
-    },
+    "sign": null,
     "c": 2,
     "en": {
       "q": "Just past a railroad crossing there is a stop sign at a highway. A sign says the storage space between them is short. Why does that matter?",
@@ -7248,12 +7239,12 @@
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 7B.04, https://mutcd.fhwa.dot.gov/",
     "sign": {
-      "shape": "school",
+      "shape": "diamond-yellow",
       "text": "SCHOOL BUS STOP AHEAD"
     },
     "c": 0,
     "en": {
-      "q": "A sign says SCHOOL BUS STOP AHEAD. What should you do?",
+      "q": "A yellow-green diamond sign shows a school bus with an arrow above it. It warns of a school bus stop ahead. What should you do?",
       "o": [
         "Slow down and be ready for a stopped school bus and children",
         "Speed up to pass any bus ahead",
@@ -7261,11 +7252,11 @@
         "Pull over and wait for the bus"
       ],
       "h1": "A bus may be stopped where you cannot see it yet.",
-      "h2": "SCHOOL BUS STOP AHEAD warns that a school bus may be stopped ahead to load children, so slow down and be ready to stop.",
+      "h2": "The School Bus Stop Ahead sign warns that a school bus may be stopped ahead to load children, so slow down and be ready to stop.",
       "p": "Right. Be ready for a stopped bus."
     },
     "es": {
-      "q": "Una señal dice SCHOOL BUS STOP AHEAD. ¿Qué debe hacer?",
+      "q": "Una señal en forma de rombo, amarillo verdosa, muestra un autobús escolar con una flecha encima. Advierte que hay una parada de autobús escolar adelante. ¿Qué debe hacer?",
       "o": [
         "Bajar la velocidad y estar listo para un autobús escolar parado y niños",
         "Acelerar para pasar cualquier autobús",
@@ -7273,7 +7264,7 @@
         "Orillarse y esperar el autobús"
       ],
       "h1": "Puede haber un autobús parado donde aún no lo ve.",
-      "h2": "SCHOOL BUS STOP AHEAD advierte que puede haber un autobús escolar parado adelante recogiendo niños, así que baje la velocidad y esté listo para pararse.",
+      "h2": "La señal de parada de autobús escolar adelante advierte que puede haber un autobús escolar parado adelante recogiendo niños, así que baje la velocidad y esté listo para pararse.",
       "p": "Correcto. Esté listo para un autobús parado."
     }
   },
@@ -7360,7 +7351,7 @@
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 6H.15, https://mutcd.fhwa.dot.gov/",
     "sign": {
       "shape": "diamond-orange",
-      "text": "BE PREPARED TO STOP FLAGGER"
+      "text": "FLAGGER"
     },
     "c": 3,
     "en": {
@@ -7580,10 +7571,7 @@
     "conf": "high",
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 6H.36, https://mutcd.fhwa.dot.gov/",
-    "sign": {
-      "shape": "rect-white",
-      "text": "END ROAD WORK"
-    },
+    "sign": null,
     "c": 1,
     "en": {
       "q": "You see a sign that says END ROAD WORK. What does it tell you?",
@@ -7617,10 +7605,7 @@
     "conf": "high",
     "page": null,
     "src": "MUTCD 11th Edition (FHWA, 2023), Section 6H.37, https://mutcd.fhwa.dot.gov/",
-    "sign": {
-      "shape": "diamond-orange",
-      "text": "PILOT CAR FOLLOW ME"
-    },
+    "sign": null,
     "c": 2,
     "en": {
       "q": "In a work zone, a truck has a sign that says PILOT CAR FOLLOW ME. What should you do?",
@@ -7693,7 +7678,7 @@
     "en": {
       "q": "A lighted board in a work zone flashes only a bar or four corner lights, not an arrow. What does it mean?",
       "o": [
-        "Drive with caution; work is near the road, but you do not need to change lanes",
+        "Drive with caution; work is near the road, and the board is not telling you to merge",
         "Your lane is closed, so merge right",
         "The road is closed ahead",
         "You may speed up"
@@ -7705,7 +7690,7 @@
     "es": {
       "q": "Un tablero luminoso en una zona de obras muestra solo una barra o cuatro luces en las esquinas, sin flecha. ¿Qué significa?",
       "o": [
-        "Maneje con precaución; hay obras cerca de la vía, pero no necesita cambiar de carril",
+        "Maneje con precaución; hay obras cerca de la vía, y el tablero no le indica que cambie de carril",
         "Su carril está cerrado, cámbiese a la derecha",
         "La vía está cerrada adelante",
         "Puede acelerar"
@@ -7931,7 +7916,7 @@
     "cat": "signs",
     "conf": "high",
     "page": null,
-    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2C.55, https://mutcd.fhwa.dot.gov/",
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2C.54, https://mutcd.fhwa.dot.gov/",
     "sign": {
       "shape": "diamond-yellow",
       "text": "BICYCLE"
