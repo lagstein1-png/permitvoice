@@ -2540,5 +2540,651 @@
       "h2": "في West Virginia، يمكن أن يؤدي رمي النفايات إلى غرامة لا تقل عن $50 وتصل إلى $1,000، أو بدلًا من ذلك السجن أو جمع النفايات على جانب الطريق.",
       "p": "صحيح. غرامة رمي النفايات $50 على الأقل، وقد تحصل أيضًا على نقاط."
     }
+  },
+  {
+    "id": "wv-032",
+    "scope": "WV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In West Virginia, you move to a new address. How soon must you tell the DMV in writing?",
+      "o": [
+        "Within 60 days",
+        "Within 90 days",
+        "Within 20 days",
+        "At your next renewal"
+      ],
+      "h1": "It is less than a month.",
+      "h2": "In West Virginia you must tell the DMV about your new address in writing within 20 days.",
+      "p": "Right. Tell the DMV within 20 days."
+    },
+    "es": {
+      "q": "En Virginia Occidental, usted se muda a una nueva dirección. ¿En cuánto tiempo debe avisar por escrito al DMV?",
+      "o": [
+        "En 60 días",
+        "En 90 días",
+        "En 20 días",
+        "En su próxima renovación"
+      ],
+      "h1": "Es menos de un mes.",
+      "h2": "En Virginia Occidental usted debe avisar por escrito al DMV de su nueva dirección en un plazo de 20 días.",
+      "p": "Correcto. Avise al DMV en 20 días."
+    }
+  },
+  {
+    "id": "wv-033",
+    "scope": "WV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In West Virginia, what color is the driver's license or permit of a driver aged 15 to 17?",
+      "o": [
+        "Red",
+        "Blue",
+        "Green",
+        "Gold"
+      ],
+      "h1": "It is the color of a stop sign.",
+      "h2": "In West Virginia drivers aged 15 to 17 get a vertical license or permit that is color-coded red.",
+      "p": "Correct. Ages 15 to 17 get a red card."
+    },
+    "es": {
+      "q": "En Virginia Occidental, ¿de qué color es la licencia o el permiso de un conductor de 15 a 17 años?",
+      "o": [
+        "Rojo",
+        "Azul",
+        "Verde",
+        "Dorado"
+      ],
+      "h1": "Es el color de una señal de alto.",
+      "h2": "En Virginia Occidental los conductores de 15 a 17 años reciben una licencia o un permiso vertical de color rojo.",
+      "p": "Correcto. De 15 a 17 años, la tarjeta es roja."
+    }
+  },
+  {
+    "id": "wv-034",
+    "scope": "WV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 24,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In West Virginia, what vision do you need to pass the vision screening, with or without glasses?",
+      "o": [
+        "20/100 or better",
+        "20/70 or better",
+        "20/60 or better",
+        "20/40 or better"
+      ],
+      "h1": "It is the best of these four numbers.",
+      "h2": "In West Virginia you need vision of 20/40 or better, with or without glasses or contact lenses, to pass the screening.",
+      "p": "Right. You need 20/40 or better."
+    },
+    "es": {
+      "q": "En Virginia Occidental, ¿qué visión necesita para aprobar el examen de la vista, con o sin lentes?",
+      "o": [
+        "20/100 o mejor",
+        "20/70 o mejor",
+        "20/60 o mejor",
+        "20/40 o mejor"
+      ],
+      "h1": "Es el mejor de estos cuatro números.",
+      "h2": "En Virginia Occidental usted necesita una visión de 20/40 o mejor, con o sin anteojos o lentes de contacto, para aprobar el examen.",
+      "p": "Correcto. Necesita 20/40 o mejor."
+    }
+  },
+  {
+    "id": "wv-035",
+    "scope": "WV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In West Virginia, a Level 1 permit holder is convicted of two traffic offenses. What happens?",
+      "o": [
+        "Nothing, if the fines are paid",
+        "The permit is revoked for 90 days",
+        "The permit is suspended for 7 days",
+        "The holder must add 10 more practice hours"
+      ],
+      "h1": "The permit is taken away for about three months.",
+      "h2": "In West Virginia two convictions on a Level 1 permit mean the permit is revoked for 90 days, and then you must apply and test again.",
+      "p": "Correct. Two convictions cost the permit for 90 days."
+    },
+    "es": {
+      "q": "En Virginia Occidental, el titular de un permiso de Nivel 1 es condenado por dos infracciones de tránsito. ¿Qué pasa?",
+      "o": [
+        "Nada, si paga las multas",
+        "El permiso se revoca por 90 días",
+        "El permiso se suspende por 7 días",
+        "Debe sumar 10 horas más de práctica"
+      ],
+      "h1": "Le quitan el permiso por unos tres meses.",
+      "h2": "En Virginia Occidental dos condenas con un permiso de Nivel 1 hacen que el permiso se revoque por 90 días, y luego debe solicitarlo y examinarse de nuevo.",
+      "p": "Correcto. Dos condenas le quitan el permiso por 90 días."
+    }
+  },
+  {
+    "id": "wv-036",
+    "scope": "WV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In West Virginia, what must a Level 2 driver do after a first traffic conviction?",
+      "o": [
+        "Pay a $1,000 fine",
+        "Give up the license for one year",
+        "Enroll in a driver improvement program",
+        "Take the vision test again"
+      ],
+      "h1": "It is a program to help you drive better.",
+      "h2": "In West Virginia a Level 2 driver must enroll in a driver improvement program after the first conviction.",
+      "p": "Right. A first conviction means a driver improvement program."
+    },
+    "es": {
+      "q": "En Virginia Occidental, ¿qué debe hacer un conductor de Nivel 2 después de su primera condena de tránsito?",
+      "o": [
+        "Pagar una multa de $1,000",
+        "Entregar la licencia por un año",
+        "Inscribirse en un programa de mejora para conductores",
+        "Repetir el examen de la vista"
+      ],
+      "h1": "Es un programa para ayudarle a manejar mejor.",
+      "h2": "En Virginia Occidental un conductor de Nivel 2 debe inscribirse en un programa de mejora para conductores después de la primera condena.",
+      "p": "Correcto. La primera condena exige un programa de mejora."
+    }
+  },
+  {
+    "id": "wv-037",
+    "scope": "WV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 12,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In West Virginia, under the \"Drive for Five\" program, when does your driver's license expire?",
+      "o": [
+        "In a year when your age can be divided by five",
+        "Every year on January 1",
+        "Every ten years",
+        "On your 21st birthday only"
+      ],
+      "h1": "Think of ages like 25, 30 and 35.",
+      "h2": "In West Virginia, under Drive for Five, your license expires in a year when your age can be divided by five, such as 25, 30 or 35.",
+      "p": "Correct. It expires at an age divisible by five."
+    },
+    "es": {
+      "q": "En Virginia Occidental, con el programa \"Drive for Five\", ¿cuándo vence su licencia de conducir?",
+      "o": [
+        "En un año en que su edad se puede dividir entre cinco",
+        "Cada año el 1 de enero",
+        "Cada diez años",
+        "Solo al cumplir 21 años"
+      ],
+      "h1": "Piense en edades como 25, 30 y 35.",
+      "h2": "En Virginia Occidental, con Drive for Five, su licencia vence en un año en que su edad se puede dividir entre cinco, como 25, 30 o 35.",
+      "p": "Correcto. Vence a una edad divisible entre cinco."
+    }
+  },
+  {
+    "id": "wv-038",
+    "scope": "WV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 16,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In West Virginia, a crash injures a person. Within how many days must it be reported to the police?",
+      "o": [
+        "30 days",
+        "15 days",
+        "10 days",
+        "5 days"
+      ],
+      "h1": "It is less than one week.",
+      "h2": "In West Virginia a crash with an injury, a death or more than $1,000 in damage must be reported to the police by the quickest means within 5 days.",
+      "p": "Right. Report it within 5 days."
+    },
+    "es": {
+      "q": "En Virginia Occidental, un choque hiere a una persona. ¿En cuántos días se debe reportar a la policía?",
+      "o": [
+        "30 días",
+        "15 días",
+        "10 días",
+        "5 días"
+      ],
+      "h1": "Es menos de una semana.",
+      "h2": "En Virginia Occidental un choque con heridos, muertos o más de $1,000 en daños se debe reportar a la policía por el medio más rápido en un plazo de 5 días.",
+      "p": "Correcto. Repórtelo en 5 días."
+    }
+  },
+  {
+    "id": "wv-039",
+    "scope": "WV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 17,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In West Virginia, what is the fine for a first offense of using a phone that is not hands-free while driving?",
+      "o": [
+        "$25",
+        "$100",
+        "$500",
+        "$1,000"
+      ],
+      "h1": "The second offense is $200.",
+      "h2": "In West Virginia a first offense for using a phone that is not hands-free while driving is a $100 fine with no points.",
+      "p": "Correct. The first offense is $100."
+    },
+    "es": {
+      "q": "En Virginia Occidental, ¿cuál es la multa por la primera vez que usa un teléfono que no es de manos libres mientras maneja?",
+      "o": [
+        "$25",
+        "$100",
+        "$500",
+        "$1,000"
+      ],
+      "h1": "La segunda vez son $200.",
+      "h2": "En Virginia Occidental la primera infracción por usar un teléfono que no es de manos libres mientras maneja es una multa de $100 sin puntos.",
+      "p": "Correcto. La primera infracción es de $100."
+    }
+  },
+  {
+    "id": "wv-040",
+    "scope": "WV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In West Virginia, how long do points stay on your driving record?",
+      "o": [
+        "Six months",
+        "One year",
+        "Two years",
+        "Ten years"
+      ],
+      "h1": "It is more than one year.",
+      "h2": "In West Virginia points stay on your driving record for two years from the date of the conviction.",
+      "p": "Right. Points stay for two years."
+    },
+    "es": {
+      "q": "En Virginia Occidental, ¿cuánto tiempo permanecen los puntos en su historial de manejo?",
+      "o": [
+        "Seis meses",
+        "Un año",
+        "Dos años",
+        "Diez años"
+      ],
+      "h1": "Es más de un año.",
+      "h2": "En Virginia Occidental los puntos permanecen en su historial de manejo por dos años desde la fecha de la condena.",
+      "p": "Correcto. Los puntos duran dos años."
+    }
+  },
+  {
+    "id": "wv-041",
+    "scope": "WV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In West Virginia, what does the DMV do when you have 6 or more points on your record?",
+      "o": [
+        "It sends you a letter of caution",
+        "It takes your license for one year",
+        "It makes you retake the road test",
+        "Nothing, until you reach 20 points"
+      ],
+      "h1": "It is a warning, not a penalty yet.",
+      "h2": "In West Virginia, when you have 6 or more points, the DMV sends you a letter of caution asking you to drive carefully.",
+      "p": "Correct. At 6 points you get a letter of caution."
+    },
+    "es": {
+      "q": "En Virginia Occidental, ¿qué hace el DMV cuando usted tiene 6 puntos o más en su historial?",
+      "o": [
+        "Le envía una carta de advertencia",
+        "Le quita la licencia por un año",
+        "Le hace repetir el examen de manejo",
+        "Nada, hasta que llegue a 20 puntos"
+      ],
+      "h1": "Es un aviso, todavía no un castigo.",
+      "h2": "En Virginia Occidental, cuando usted tiene 6 puntos o más, el DMV le envía una carta de advertencia pidiéndole que maneje con cuidado.",
+      "p": "Correcto. Con 6 puntos recibe una carta de advertencia."
+    }
+  },
+  {
+    "id": "wv-042",
+    "scope": "WV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 20,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In West Virginia, how many points are added to your record for speeding in a school zone?",
+      "o": [
+        "2 points",
+        "3 points",
+        "4 points",
+        "6 points"
+      ],
+      "h1": "It is one of the highest point values, the same as reckless driving.",
+      "h2": "In West Virginia speeding in a school zone adds 6 points to your driving record.",
+      "p": "Right. Speeding in a school zone is 6 points."
+    },
+    "es": {
+      "q": "En Virginia Occidental, ¿cuántos puntos se suman a su historial por exceso de velocidad en una zona escolar?",
+      "o": [
+        "2 puntos",
+        "3 puntos",
+        "4 puntos",
+        "6 puntos"
+      ],
+      "h1": "Es uno de los valores más altos, igual que manejar de forma imprudente.",
+      "h2": "En Virginia Occidental el exceso de velocidad en una zona escolar suma 6 puntos a su historial de manejo.",
+      "p": "Correcto. Son 6 puntos."
+    }
+  },
+  {
+    "id": "wv-043",
+    "scope": "WV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 22,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In West Virginia, a driver under 21 is caught driving with any measurable alcohol for the first time. What is the minimum license revocation?",
+      "o": [
+        "7 days",
+        "30 days",
+        "6 months",
+        "2 years"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In West Virginia a first zero-tolerance offense by a driver under 21 brings a license revocation of at least 30 days.",
+      "p": "Correct. The minimum is 30 days."
+    },
+    "es": {
+      "q": "En Virginia Occidental, un conductor menor de 21 años maneja con cualquier cantidad medible de alcohol por primera vez. ¿Cuál es la revocación mínima de la licencia?",
+      "o": [
+        "7 días",
+        "30 días",
+        "6 meses",
+        "2 años"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Virginia Occidental la primera infracción de tolerancia cero de un conductor menor de 21 años trae una revocación de la licencia de al menos 30 días.",
+      "p": "Correcto. El mínimo es de 30 días."
+    }
+  },
+  {
+    "id": "wv-044",
+    "scope": "WV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 23,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In West Virginia, when must a driver take part in the Interlock Program?",
+      "o": [
+        "After any speeding ticket",
+        "After one parking ticket",
+        "After two or more DUI revocations within ten years",
+        "Only if the driver is under 18"
+      ],
+      "h1": "It is for repeat drunk driving within a set number of years.",
+      "h2": "In West Virginia the Interlock Program is required for a driver revoked for two or more DUIs or related offenses within ten years.",
+      "p": "Right. Two or more DUIs in ten years make it required."
+    },
+    "es": {
+      "q": "En Virginia Occidental, ¿cuándo debe un conductor participar en el programa de Interlock?",
+      "o": [
+        "Después de cualquier multa por velocidad",
+        "Después de una multa de estacionamiento",
+        "Después de dos o más revocaciones por DUI en diez años",
+        "Solo si el conductor es menor de 18 años"
+      ],
+      "h1": "Es para quien repite manejar ebrio en cierto número de años.",
+      "h2": "En Virginia Occidental el programa de Interlock es obligatorio para un conductor revocado por dos o más DUI u ofensas relacionadas en diez años.",
+      "p": "Correcto. Dos o más DUI en diez años lo hacen obligatorio."
+    }
+  },
+  {
+    "id": "wv-045",
+    "scope": "WV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 67,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In West Virginia, who may legally ride in a passenger vehicle without a seat belt?",
+      "o": [
+        "A person 18 or older in the back seat",
+        "Any passenger in the front seat",
+        "A child under 8 in the back seat",
+        "Anyone on a short trip"
+      ],
+      "h1": "It is an adult, and not in the front.",
+      "h2": "In West Virginia everyone must wear a seat belt, except a person 18 or older riding in the back seat.",
+      "p": "Correct. Only adults 18 or older in the back seat are exempt."
+    },
+    "es": {
+      "q": "En Virginia Occidental, ¿quién puede viajar legalmente sin cinturón de seguridad en un vehículo de pasajeros?",
+      "o": [
+        "Una persona de 18 años o más en el asiento trasero",
+        "Cualquier pasajero en el asiento delantero",
+        "Un niño menor de 8 años en el asiento trasero",
+        "Cualquiera en un viaje corto"
+      ],
+      "h1": "Es un adulto, y no va adelante.",
+      "h2": "En Virginia Occidental todos deben usar el cinturón de seguridad, menos una persona de 18 años o más que viaja en el asiento trasero.",
+      "p": "Correcto. Solo los adultos de 18 años o más en el asiento trasero están exentos."
+    }
+  },
+  {
+    "id": "wv-046",
+    "scope": "WV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 25,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In West Virginia, window tint is illegal if it lets through less than what amount of light?",
+      "o": [
+        "5 percent",
+        "10 percent",
+        "20 percent",
+        "35 percent"
+      ],
+      "h1": "It is about one third.",
+      "h2": "In West Virginia windows tinted to let through less than 35 percent of light are illegal equipment.",
+      "p": "Right. Less than 35 percent is illegal."
+    },
+    "es": {
+      "q": "En Virginia Occidental, el polarizado de las ventanas es ilegal si deja pasar menos de ¿qué cantidad de luz?",
+      "o": [
+        "5 por ciento",
+        "10 por ciento",
+        "20 por ciento",
+        "35 por ciento"
+      ],
+      "h1": "Es más o menos un tercio.",
+      "h2": "En Virginia Occidental las ventanas polarizadas que dejan pasar menos del 35 por ciento de la luz son equipo ilegal.",
+      "p": "Correcto. Menos del 35 por ciento es ilegal."
+    }
+  },
+  {
+    "id": "wv-047",
+    "scope": "WV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 42,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In West Virginia, what is the highest speed allowed on an interstate unless another limit is posted?",
+      "o": [
+        "65 mph",
+        "70 mph",
+        "75 mph",
+        "80 mph"
+      ],
+      "h1": "It is 15 mph more than on an open country highway.",
+      "h2": "In West Virginia the speed limit on an interstate is 70 mph unless a different limit is posted.",
+      "p": "Correct. The interstate limit is 70 mph."
+    },
+    "es": {
+      "q": "En Virginia Occidental, ¿cuál es la velocidad máxima en una autopista interestatal si no hay otro límite señalado?",
+      "o": [
+        "65 mph",
+        "70 mph",
+        "75 mph",
+        "80 mph"
+      ],
+      "h1": "Son 15 mph más que en una carretera abierta del condado.",
+      "h2": "En Virginia Occidental el límite de velocidad en una autopista interestatal es de 70 mph, a menos que se señale otro límite.",
+      "p": "Correcto. El límite en la interestatal es de 70 mph."
+    }
+  },
+  {
+    "id": "wv-048",
+    "scope": "WV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 42,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In West Virginia, a school zone includes the street next to the school grounds for how far?",
+      "o": [
+        "25 feet",
+        "50 feet",
+        "125 feet",
+        "500 feet"
+      ],
+      "h1": "It is more than 100 feet.",
+      "h2": "In West Virginia a school zone includes any street next to the school grounds for 125 feet from the grounds.",
+      "p": "Right. The zone reaches 125 feet."
+    },
+    "es": {
+      "q": "En Virginia Occidental, ¿hasta qué distancia de la escuela incluye la zona escolar la calle junto al terreno escolar?",
+      "o": [
+        "25 pies",
+        "50 pies",
+        "125 pies",
+        "500 pies"
+      ],
+      "h1": "Es más de 100 pies.",
+      "h2": "En Virginia Occidental una zona escolar incluye cualquier calle junto al terreno de la escuela hasta 125 pies desde el terreno.",
+      "p": "Correcto. La zona llega a 125 pies."
+    }
+  },
+  {
+    "id": "wv-049",
+    "scope": "WV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 46,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In West Virginia, you may not park within how many feet of a mailbox served by a mail carrier in a vehicle?",
+      "o": [
+        "20 feet",
+        "5 feet",
+        "50 feet",
+        "100 feet"
+      ],
+      "h1": "The carrier needs room to pull up to the box.",
+      "h2": "In West Virginia you may not park within 20 feet of a mailbox that a carrier serves from a motor vehicle.",
+      "p": "Correct. Stay 20 feet from the mailbox."
+    },
+    "es": {
+      "q": "En Virginia Occidental, ¿a menos de cuántos pies de un buzón que el cartero atiende desde un vehículo no se puede estacionar?",
+      "o": [
+        "20 pies",
+        "5 pies",
+        "50 pies",
+        "100 pies"
+      ],
+      "h1": "El cartero necesita espacio para acercarse al buzón.",
+      "h2": "En Virginia Occidental usted no puede estacionarse a menos de 20 pies de un buzón que un cartero atiende desde un vehículo motorizado.",
+      "p": "Correcto. Quédese a 20 pies del buzón."
+    }
+  },
+  {
+    "id": "wv-050",
+    "scope": "WV",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 50,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In West Virginia, what is the minimum license penalty for a first offense of passing a stopped school bus?",
+      "o": [
+        "A warning letter only",
+        "2 points",
+        "A 7-day suspension",
+        "A 60-day suspension"
+      ],
+      "h1": "It is about two months.",
+      "h2": "In West Virginia passing a stopped school bus is punished, for a first offense, by a license suspension of at least 60 days.",
+      "p": "Right. At least 60 days of suspension."
+    },
+    "es": {
+      "q": "En Virginia Occidental, ¿cuál es la sanción mínima a la licencia por rebasar un autobús escolar detenido por primera vez?",
+      "o": [
+        "Solo una carta de advertencia",
+        "2 puntos",
+        "Una suspensión de 7 días",
+        "Una suspensión de 60 días"
+      ],
+      "h1": "Son unos dos meses.",
+      "h2": "En Virginia Occidental rebasar un autobús escolar detenido se castiga, la primera vez, con una suspensión de la licencia de al menos 60 días.",
+      "p": "Correcto. Al menos 60 días de suspensión."
+    }
   }
 ]
