@@ -6900,5 +6900,1365 @@
       "h2": "En el Distrito de Columbia, el parabrisas y las ventanas laterales delanteras de un auto regular deben dejar pasar al menos el 70 por ciento de la luz.",
       "p": "Correcto. Las ventanas laterales delanteras deben dejar pasar al menos el 70% de la luz."
     }
+  },
+  {
+    "id": "dc-132",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-303",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, how many points do you get for going 16 to 20 mph over the speed limit?",
+      "o": [
+        "1 point",
+        "8 points",
+        "4 points",
+        "12 points"
+      ],
+      "h1": "It is one step above the points for 11 to 15 mph over.",
+      "h2": "In the District of Columbia, going 16 to 20 mph over the speed limit adds 4 points to your driving record.",
+      "p": "Right. 16 to 20 mph over the limit means 4 points."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuántos puntos recibe por ir de 16 a 20 mph por encima del límite de velocidad?",
+      "o": [
+        "1 punto",
+        "8 puntos",
+        "4 puntos",
+        "12 puntos"
+      ],
+      "h1": "Es un paso más que los puntos por ir de 11 a 15 mph por encima.",
+      "h2": "En el Distrito de Columbia, ir de 16 a 20 mph por encima del límite de velocidad suma 4 puntos a su historial de manejo.",
+      "p": "Correcto. De 16 a 20 mph sobre el límite son 4 puntos."
+    }
+  },
+  {
+    "id": "dc-133",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-303",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, how many points do you get for going 21 mph or more over the speed limit?",
+      "o": [
+        "5 points",
+        "2 points",
+        "3 points",
+        "10 points"
+      ],
+      "h1": "It is the highest step on the speeding part of the point list.",
+      "h2": "In the District of Columbia, going 21 mph or more over the speed limit adds 5 points to your driving record.",
+      "p": "Right. 21 mph or more over the limit means 5 points."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuántos puntos recibe por ir 21 mph o más por encima del límite de velocidad?",
+      "o": [
+        "5 puntos",
+        "2 puntos",
+        "3 puntos",
+        "10 puntos"
+      ],
+      "h1": "Es el escalón más alto de exceso de velocidad en la lista de puntos.",
+      "h2": "En el Distrito de Columbia, ir 21 mph o más por encima del límite de velocidad suma 5 puntos a su historial de manejo.",
+      "p": "Correcto. 21 mph o más sobre el límite son 5 puntos."
+    }
+  },
+  {
+    "id": "dc-134",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-303",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, you hit a car, cause only property damage, and drive away. How many points are added to your record?",
+      "o": [
+        "2 points",
+        "4 points",
+        "No points, only a fine",
+        "8 points"
+      ],
+      "h1": "Leaving the scene is treated much more seriously than a simple crash.",
+      "h2": "In the District of Columbia, leaving after a collision that caused property damage adds 8 points to your record.",
+      "p": "Right. Leaving after a crash with property damage costs 8 points."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted choca con un auto, solo causa daños materiales y se va del lugar. ¿Cuántos puntos se suman a su historial?",
+      "o": [
+        "2 puntos",
+        "4 puntos",
+        "Ningún punto, solo una multa",
+        "8 puntos"
+      ],
+      "h1": "Irse del lugar se trata como algo mucho más grave que un choque simple.",
+      "h2": "En el Distrito de Columbia, irse después de un choque que causó daños materiales suma 8 puntos a su historial.",
+      "p": "Correcto. Irse después de un choque con daños materiales cuesta 8 puntos."
+    }
+  },
+  {
+    "id": "dc-135",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-303",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, a driver leaves the scene of a crash in which someone was hurt. How many points are added?",
+      "o": [
+        "3 points",
+        "12 points",
+        "5 points",
+        "6 points"
+      ],
+      "h1": "It is the highest value on the point list.",
+      "h2": "In the District of Columbia, leaving after a collision with personal injury adds 12 points, which is enough for revocation.",
+      "p": "Right. Leaving after a crash where someone was hurt costs 12 points."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, un conductor se va del lugar de un choque en el que alguien resultó herido. ¿Cuántos puntos se suman?",
+      "o": [
+        "3 puntos",
+        "12 puntos",
+        "5 puntos",
+        "6 puntos"
+      ],
+      "h1": "Es el valor más alto de la lista de puntos.",
+      "h2": "En el Distrito de Columbia, irse después de un choque con personas heridas suma 12 puntos, lo que basta para la revocación.",
+      "p": "Correcto. Irse después de un choque con heridos cuesta 12 puntos."
+    }
+  },
+  {
+    "id": "dc-136",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-303",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, how many points do you get for following another vehicle too closely?",
+      "o": [
+        "6 points",
+        "2 points",
+        "8 points",
+        "12 points"
+      ],
+      "h1": "It is one of the lower point values on the list.",
+      "h2": "In the District of Columbia, following another vehicle too closely adds 2 points to your record.",
+      "p": "Right. Following too closely costs 2 points."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuántos puntos recibe por seguir demasiado cerca a otro vehículo?",
+      "o": [
+        "6 puntos",
+        "2 puntos",
+        "8 puntos",
+        "12 puntos"
+      ],
+      "h1": "Es uno de los valores más bajos de la lista de puntos.",
+      "h2": "En el Distrito de Columbia, seguir demasiado cerca a otro vehículo suma 2 puntos a su historial.",
+      "p": "Correcto. Seguir demasiado cerca cuesta 2 puntos."
+    }
+  },
+  {
+    "id": "dc-137",
+    "scope": "DC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-303",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, how many points do you get for not stopping for a school bus that has its warning lights on or its stop arm out?",
+      "o": [
+        "1 point",
+        "2 points",
+        "12 points",
+        "4 points"
+      ],
+      "h1": "Besides the $500 fine, the points are the same as for 16 to 20 mph over the limit.",
+      "h2": "In the District of Columbia, failing to stop for a school bus with its warning lights on or its stop arm out adds 4 points to your record.",
+      "p": "Right. Not stopping for a school bus costs 4 points."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuántos puntos recibe por no detenerse ante un autobús escolar con las luces de advertencia encendidas o el brazo de alto extendido?",
+      "o": [
+        "1 punto",
+        "2 puntos",
+        "12 puntos",
+        "4 puntos"
+      ],
+      "h1": "Además de la multa de $500, los puntos son los mismos que por ir de 16 a 20 mph sobre el límite.",
+      "h2": "En el Distrito de Columbia, no detenerse ante un autobús escolar con las luces de advertencia encendidas o el brazo de alto extendido suma 4 puntos a su historial.",
+      "p": "Correcto. No detenerse ante un autobús escolar cuesta 4 puntos."
+    }
+  },
+  {
+    "id": "dc-138",
+    "scope": "DC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-303",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, how many points do you get for not yielding the right-of-way to a person riding a bicycle?",
+      "o": [
+        "3 points",
+        "1 point",
+        "8 points",
+        "12 points"
+      ],
+      "h1": "It is the same as for not stopping for a pedestrian.",
+      "h2": "In the District of Columbia, failing to yield the right-of-way to a person riding a bicycle adds 3 points to your record.",
+      "p": "Right. Not yielding to a bicyclist costs 3 points."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuántos puntos recibe por no ceder el paso a una persona que va en bicicleta?",
+      "o": [
+        "3 puntos",
+        "1 punto",
+        "8 puntos",
+        "12 puntos"
+      ],
+      "h1": "Es lo mismo que por no detenerse ante un peatón.",
+      "h2": "En el Distrito de Columbia, no ceder el paso a una persona que va en bicicleta suma 3 puntos a su historial.",
+      "p": "Correcto. No ceder el paso a un ciclista cuesta 3 puntos."
+    }
+  },
+  {
+    "id": "dc-139",
+    "scope": "DC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-303",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, an emergency vehicle is stopped at the side of the road. How many points do you get for not moving over or slowing down with care?",
+      "o": [
+        "1 point",
+        "2 points",
+        "6 points",
+        "No points, only a warning"
+      ],
+      "h1": "It counts the same as not yielding to a moving emergency vehicle.",
+      "h2": "In the District of Columbia, failing to move over or go by with due caution when an emergency vehicle is stopped at the side of the road adds 6 points.",
+      "p": "Right. Not moving over for a stopped emergency vehicle costs 6 points."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, un vehículo de emergencia está detenido al lado de la vía. ¿Cuántos puntos recibe por no cambiarse de carril o no pasar con precaución?",
+      "o": [
+        "1 punto",
+        "2 puntos",
+        "6 puntos",
+        "Ningún punto, solo una advertencia"
+      ],
+      "h1": "Cuenta igual que no ceder el paso a un vehículo de emergencia en movimiento.",
+      "h2": "En el Distrito de Columbia, no cambiarse de carril o no pasar con la debida precaución cuando un vehículo de emergencia está detenido al lado de la vía suma 6 puntos.",
+      "p": "Correcto. No cambiarse de carril ante un vehículo de emergencia detenido cuesta 6 puntos."
+    }
+  },
+  {
+    "id": "dc-140",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-303",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, what is the largest number of safe driving points (Good Points) a driver can build up?",
+      "o": [
+        "1",
+        "12",
+        "5",
+        "There is no limit"
+      ],
+      "h1": "You can earn only one per year, and the total has a cap.",
+      "h2": "In the District of Columbia, a driver can build up at most 5 safe driving points.",
+      "p": "Right. Safe driving points stop at 5."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuál es la cantidad máxima de puntos de manejo seguro (Good Points) que un conductor puede acumular?",
+      "o": [
+        "1",
+        "12",
+        "5",
+        "No hay límite"
+      ],
+      "h1": "Solo puede ganar uno por año, y el total tiene un tope.",
+      "h2": "En el Distrito de Columbia, un conductor puede acumular como máximo 5 puntos de manejo seguro.",
+      "p": "Correcto. Los puntos de manejo seguro llegan como máximo a 5."
+    }
+  },
+  {
+    "id": "dc-141",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-2600",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, what is the fine for going up to 10 mph over the speed limit?",
+      "o": [
+        "$50",
+        "$5",
+        "$150",
+        "$500"
+      ],
+      "h1": "It is the smallest speeding fine on the list.",
+      "h2": "In the District of Columbia, the fine for going up to 10 mph over the speed limit is $50.",
+      "p": "Right. Up to 10 mph over the limit costs $50."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuál es la multa por ir hasta 10 mph por encima del límite de velocidad?",
+      "o": [
+        "$50",
+        "$5",
+        "$150",
+        "$500"
+      ],
+      "h1": "Es la multa por velocidad más baja de la lista.",
+      "h2": "En el Distrito de Columbia, la multa por ir hasta 10 mph por encima del límite de velocidad es de $50.",
+      "p": "Correcto. Hasta 10 mph sobre el límite cuesta $50."
+    }
+  },
+  {
+    "id": "dc-142",
+    "scope": "DC",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-2600",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, what is the fine for driving through a steady red light?",
+      "o": [
+        "$15",
+        "$50",
+        "$1,000",
+        "$150"
+      ],
+      "h1": "It is three times the fine for going through a steady yellow light.",
+      "h2": "In the District of Columbia, the fine for passing a steady red light is $150.",
+      "p": "Right. Running a red light costs $150."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuál es la multa por pasar un semáforo en rojo fijo?",
+      "o": [
+        "$15",
+        "$50",
+        "$1,000",
+        "$150"
+      ],
+      "h1": "Es el triple de la multa por pasar una luz amarilla fija.",
+      "h2": "En el Distrito de Columbia, la multa por pasar un semáforo en rojo fijo es de $150.",
+      "p": "Correcto. Pasarse un semáforo en rojo cuesta $150."
+    }
+  },
+  {
+    "id": "dc-143",
+    "scope": "DC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-2600",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, you drive out of a driveway across a sidewalk and do not yield to a person walking there. What is the fine?",
+      "o": [
+        "$10",
+        "$250",
+        "$25",
+        "$50"
+      ],
+      "h1": "People on the sidewalk always come first, and the fine is high.",
+      "h2": "In the District of Columbia, the fine for not yielding to a pedestrian on the sidewalk is $250.",
+      "p": "Right. Not yielding to a pedestrian on the sidewalk costs $250."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted sale de una entrada de autos cruzando la acera y no le cede el paso a una persona que camina por ahí. ¿Cuál es la multa?",
+      "o": [
+        "$10",
+        "$250",
+        "$25",
+        "$50"
+      ],
+      "h1": "Las personas en la acera siempre van primero, y la multa es alta.",
+      "h2": "En el Distrito de Columbia, la multa por no ceder el paso a un peatón en la acera es de $250.",
+      "p": "Correcto. No ceder el paso a un peatón en la acera cuesta $250."
+    }
+  },
+  {
+    "id": "dc-144",
+    "scope": "DC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-2600",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, a driver fails to yield and hits a person riding a bicycle. What is the fine for this violation?",
+      "o": [
+        "$25",
+        "$500",
+        "$50",
+        "$75"
+      ],
+      "h1": "It is much higher than the fine for only failing to yield to a bicyclist.",
+      "h2": "In the District of Columbia, the fine for colliding with a person riding a bicycle is $500.",
+      "p": "Right. Hitting a bicyclist costs a $500 fine."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, un conductor no cede el paso y choca con una persona que va en bicicleta. ¿Cuál es la multa por esta infracción?",
+      "o": [
+        "$25",
+        "$500",
+        "$50",
+        "$75"
+      ],
+      "h1": "Es mucho más alta que la multa por solo no ceder el paso a un ciclista.",
+      "h2": "En el Distrito de Columbia, la multa por chocar con una persona que va en bicicleta es de $500.",
+      "p": "Correcto. Chocar con un ciclista cuesta una multa de $500."
+    }
+  },
+  {
+    "id": "dc-145",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-2600",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, you open your car door into the path of a bicyclist when it is not safe. What is the fine?",
+      "o": [
+        "$5",
+        "$500",
+        "$1,000",
+        "$50"
+      ],
+      "h1": "It is a smaller fine, but the danger to a bicyclist is real.",
+      "h2": "In the District of Columbia, the fine for opening a door in a way that puts a pedestrian, bicyclist, or vehicle in danger is $50.",
+      "p": "Right. Opening a door unsafely costs $50."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted abre la puerta de su auto en el camino de un ciclista cuando no es seguro. ¿Cuál es la multa?",
+      "o": [
+        "$5",
+        "$500",
+        "$1,000",
+        "$50"
+      ],
+      "h1": "Es una multa pequeña, pero el peligro para un ciclista es real.",
+      "h2": "En el Distrito de Columbia, la multa por abrir una puerta de forma que ponga en peligro a un peatón, a un ciclista o a un vehículo es de $50.",
+      "p": "Correcto. Abrir una puerta sin cuidado cuesta $50."
+    }
+  },
+  {
+    "id": "dc-146",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-2600",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, what is the fine for breaking the snow emergency rules?",
+      "o": [
+        "$250",
+        "$15",
+        "$25",
+        "$2,500"
+      ],
+      "h1": "It is more than twice the fine for driving without effective snow tires or chains.",
+      "h2": "In the District of Columbia, the fine for violating the snow emergency regulations is $250.",
+      "p": "Right. Breaking snow emergency rules costs $250."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuál es la multa por no cumplir las reglas de emergencia por nieve?",
+      "o": [
+        "$250",
+        "$15",
+        "$25",
+        "$2,500"
+      ],
+      "h1": "Es más del doble de la multa por manejar sin llantas para nieve o cadenas en buen estado.",
+      "h2": "En el Distrito de Columbia, la multa por no cumplir las reglas de emergencia por nieve es de $250.",
+      "p": "Correcto. No cumplir las reglas de emergencia por nieve cuesta $250."
+    }
+  },
+  {
+    "id": "dc-147",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-2600",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, what is the fine for throwing trash out of a vehicle?",
+      "o": [
+        "$5",
+        "$10",
+        "$100",
+        "$1,000"
+      ],
+      "h1": "It is the same as the fine for using a hand-held phone while driving.",
+      "h2": "In the District of Columbia, the fine for littering from a vehicle is $100.",
+      "p": "Right. Littering from a vehicle costs $100."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuál es la multa por tirar basura desde un vehículo?",
+      "o": [
+        "$5",
+        "$10",
+        "$100",
+        "$1,000"
+      ],
+      "h1": "Es la misma multa que por usar un teléfono en la mano mientras maneja.",
+      "h2": "En el Distrito de Columbia, la multa por tirar basura desde un vehículo es de $100.",
+      "p": "Correcto. Tirar basura desde un vehículo cuesta $100."
+    }
+  },
+  {
+    "id": "dc-148",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-2600",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, what is the fine for driving through a street that is closed or blocked with barricades?",
+      "o": [
+        "$10",
+        "$25",
+        "$500",
+        "$50"
+      ],
+      "h1": "It is one of the highest fines on the moving violation list.",
+      "h2": "In the District of Columbia, the fine for driving through a barricaded or closed street is $500.",
+      "p": "Right. Driving through a closed street costs $500."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuál es la multa por manejar por una calle cerrada o bloqueada con barricadas?",
+      "o": [
+        "$10",
+        "$25",
+        "$500",
+        "$50"
+      ],
+      "h1": "Es una de las multas más altas de la lista de infracciones de tránsito.",
+      "h2": "En el Distrito de Columbia, la multa por manejar por una calle cerrada o con barricadas es de $500.",
+      "p": "Correcto. Manejar por una calle cerrada cuesta $500."
+    }
+  },
+  {
+    "id": "dc-149",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-2600",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, a regular car drives along a bus lane without being allowed to. What is the fine?",
+      "o": [
+        "$100",
+        "$10",
+        "$1,000",
+        "No fine, only a warning"
+      ],
+      "h1": "It is the same as the fine for littering from a vehicle.",
+      "h2": "In the District of Columbia, the fine for driving an unauthorized vehicle in a bus lane is $100.",
+      "p": "Right. Driving in a bus lane without permission costs $100."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, un auto regular circula por un carril de autobús sin tener permiso. ¿Cuál es la multa?",
+      "o": [
+        "$100",
+        "$10",
+        "$1,000",
+        "Ninguna multa, solo una advertencia"
+      ],
+      "h1": "Es la misma multa que por tirar basura desde un vehículo.",
+      "h2": "En el Distrito de Columbia, la multa por circular con un vehículo no autorizado en un carril de autobús es de $100.",
+      "p": "Correcto. Circular por un carril de autobús sin permiso cuesta $100."
+    }
+  },
+  {
+    "id": "dc-150",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://code.dccouncil.gov/us/dc/council/code/sections/50-2201.04",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, how fast over the speed limit counts as aggravated reckless driving, even with no crash?",
+      "o": [
+        "5 mph or more",
+        "10 mph or more",
+        "15 mph or more",
+        "30 mph or more"
+      ],
+      "h1": "It is 10 mph more than the speed that counts as plain reckless driving.",
+      "h2": "In the District of Columbia, driving 30 mph or more over the speed limit is aggravated reckless driving.",
+      "p": "Right. 30 mph or more over the limit is aggravated reckless driving."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿a qué velocidad por encima del límite se considera manejo temerario agravado, aunque no haya choque?",
+      "o": [
+        "5 mph o más",
+        "10 mph o más",
+        "15 mph o más",
+        "30 mph o más"
+      ],
+      "h1": "Son 10 mph más que la velocidad que cuenta como manejo temerario simple.",
+      "h2": "En el Distrito de Columbia, manejar 30 mph o más por encima del límite de velocidad es manejo temerario agravado.",
+      "p": "Correcto. 30 mph o más sobre el límite es manejo temerario agravado."
+    }
+  },
+  {
+    "id": "dc-151",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://code.dccouncil.gov/us/dc/council/code/sections/50-2206.18",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, a driver is convicted of impaired driving while a child was in the car. What extra fine does the law add?",
+      "o": [
+        "A flat $25 for the whole car",
+        "At least $500 for each minor",
+        "No extra fine, only a warning",
+        "$10 for each minor"
+      ],
+      "h1": "The extra fine is counted per child, and it is large.",
+      "h2": "In the District of Columbia, impaired driving with a minor in the vehicle adds a fine of at least $500 for each minor, plus mandatory jail time.",
+      "p": "Right. It adds at least $500 per minor, on top of other penalties."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, un conductor es condenado por manejar bajo los efectos con un niño en el auto. ¿Qué multa adicional agrega la ley?",
+      "o": [
+        "Un pago fijo de $25 por todo el auto",
+        "Al menos $500 por cada menor",
+        "Ninguna multa adicional, solo una advertencia",
+        "$10 por cada menor"
+      ],
+      "h1": "La multa adicional se cuenta por cada niño, y es alta.",
+      "h2": "En el Distrito de Columbia, manejar bajo los efectos con un menor en el vehículo agrega una multa de al menos $500 por cada menor, además de cárcel obligatoria.",
+      "p": "Correcto. Agrega al menos $500 por cada menor, además de las otras penas."
+    }
+  },
+  {
+    "id": "dc-152",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://code.dccouncil.gov/us/dc/council/code/sections/50-1401.01",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, a teen's learner permit is suspended for 30 days for breaking a GRAD rule. What happens to the time they must hold the permit?",
+      "o": [
+        "It is cut in half",
+        "The 30 days are added to it",
+        "It starts over from zero",
+        "It does not change"
+      ],
+      "h1": "The suspension does not count toward the waiting time.",
+      "h2": "In the District of Columbia, when a GRAD permit is suspended, the suspension time is added to the period the teen must hold the permit.",
+      "p": "Right. The suspension time is added to the holding period."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, el permiso de aprendizaje de un adolescente se suspende por 30 días por no cumplir una regla de GRAD. ¿Qué pasa con el tiempo que debe tener el permiso?",
+      "o": [
+        "Se reduce a la mitad",
+        "Se le suman los 30 días",
+        "Empieza otra vez desde cero",
+        "No cambia"
+      ],
+      "h1": "La suspensión no cuenta para el tiempo de espera.",
+      "h2": "En el Distrito de Columbia, cuando se suspende un permiso de GRAD, el tiempo de la suspensión se suma al período que el adolescente debe tener el permiso.",
+      "p": "Correcto. El tiempo de suspensión se suma al período del permiso."
+    }
+  },
+  {
+    "id": "dc-153",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://code.dccouncil.gov/us/dc/council/code/sections/50-1401.01",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, a 15-year-old in an approved school driver education course has no permit. When may they drive?",
+      "o": [
+        "Alone, during daylight hours only",
+        "With any adult, at any time of day",
+        "Never, until they are 16 and get a permit",
+        "In a dual-control car with the instructor, 6 a.m. to 11 p.m."
+      ],
+      "h1": "The car has two sets of controls, and the instructor is in it.",
+      "h2": "In the District of Columbia, a pupil 15 or older in an approved school driver education course may drive a dual-control car with the instructor between 6 a.m. and 11 p.m., without a permit.",
+      "p": "Right. Only with the instructor, in a dual-control car, from 6 a.m. to 11 p.m."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, un joven de 15 años inscrito en un curso escolar aprobado de educación vial no tiene permiso. ¿Cuándo puede manejar?",
+      "o": [
+        "Solo, únicamente con luz del día",
+        "Con cualquier adulto, a cualquier hora",
+        "Nunca, hasta tener 16 años y un permiso",
+        "En un auto de doble control con el instructor, de 6 a.m. a 11 p.m."
+      ],
+      "h1": "El auto tiene dos juegos de controles, y el instructor va adentro.",
+      "h2": "En el Distrito de Columbia, un estudiante de 15 años o más en un curso escolar aprobado de educación vial puede manejar un auto de doble control con el instructor entre las 6 a.m. y las 11 p.m., sin permiso.",
+      "p": "Correcto. Solo con el instructor, en un auto de doble control, de 6 a.m. a 11 p.m."
+    }
+  },
+  {
+    "id": "dc-154",
+    "scope": "DC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://code.dccouncil.gov/us/dc/council/code/sections/50-2201.04d",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, a bicyclist comes to a stop sign and sees no traffic or people. What does the law allow?",
+      "o": [
+        "Go on without a full stop, yielding to others",
+        "Nothing; a full stop for 5 seconds is required",
+        "Ride on the sidewalk to get around the sign",
+        "Walk the bicycle across in the crosswalk only"
+      ],
+      "h1": "The law treats the stop sign almost like a yield sign for bicyclists.",
+      "h2": "In the District of Columbia, a bicyclist at a stop sign may go through or turn without stopping if they ride at a safe speed, see no hazard, and yield to pedestrians and traffic.",
+      "p": "Right. A bicyclist may treat a stop sign like a yield sign."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, un ciclista llega a una señal de alto y no ve tráfico ni personas. ¿Qué permite la ley?",
+      "o": [
+        "Seguir sin hacer un alto total, cediendo el paso a los demás",
+        "Nada; debe hacer un alto total de 5 segundos",
+        "Ir por la acera para rodear la señal",
+        "Cruzar caminando con la bicicleta solo por el cruce peatonal"
+      ],
+      "h1": "La ley trata la señal de alto casi como una señal de ceda el paso para los ciclistas.",
+      "h2": "En el Distrito de Columbia, un ciclista en una señal de alto puede seguir o girar sin detenerse si va a una velocidad segura, no ve peligro y cede el paso a los peatones y al tráfico.",
+      "p": "Correcto. Un ciclista puede tratar la señal de alto como un ceda el paso."
+    }
+  },
+  {
+    "id": "dc-155",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-2217",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, a sign marks a street as a local access street. Who may drive on it, besides emergency vehicles?",
+      "o": [
+        "Only people who live on that block",
+        "Anyone, as long as they drive 25 mph or less",
+        "Drivers going to or from a place within 2 blocks",
+        "Only buses and taxis"
+      ],
+      "h1": "It is for local trips, not for cutting through.",
+      "h2": "In the District of Columbia, on a signed local access street you may drive only if your trip starts or ends on that street or within 2 blocks of it, unless you drive an emergency vehicle.",
+      "p": "Right. Only drivers going to or from a place within 2 blocks."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, una señal indica que una calle es de acceso local. ¿Quién puede manejar por ella, además de los vehículos de emergencia?",
+      "o": [
+        "Solo las personas que viven en esa cuadra",
+        "Cualquiera, si maneja a 25 mph o menos",
+        "Quienes van o vienen de un lugar a menos de 2 cuadras",
+        "Solo autobuses y taxis"
+      ],
+      "h1": "Es para viajes locales, no para usarla como atajo.",
+      "h2": "En el Distrito de Columbia, en una calle señalizada de acceso local solo puede manejar si su viaje empieza o termina en esa calle o a menos de 2 cuadras de ella, salvo que maneje un vehículo de emergencia.",
+      "p": "Correcto. Solo quienes van o vienen de un lugar a menos de 2 cuadras."
+    }
+  },
+  {
+    "id": "dc-156",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-2217",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, you are allowed to drive on a play street or a street closed to through traffic. What is the top speed?",
+      "o": [
+        "5 mph",
+        "25 mph",
+        "15 mph",
+        "30 mph"
+      ],
+      "h1": "It is the same top speed as in an alley.",
+      "h2": "In the District of Columbia, when you are allowed to drive on a play street, closed street, or local access street, the top speed is 15 mph.",
+      "p": "Right. The limit there is 15 mph."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted tiene permiso para manejar por una calle de juegos o una calle cerrada al tráfico de paso. ¿Cuál es la velocidad máxima?",
+      "o": [
+        "5 mph",
+        "25 mph",
+        "15 mph",
+        "30 mph"
+      ],
+      "h1": "Es la misma velocidad máxima que en un callejón.",
+      "h2": "En el Distrito de Columbia, cuando tiene permiso para manejar por una calle de juegos, una calle cerrada o una calle de acceso local, la velocidad máxima es de 15 mph.",
+      "p": "Correcto. Allí el límite es de 15 mph."
+    }
+  },
+  {
+    "id": "dc-157",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-2219",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, your car stalls on a snow emergency route while parking there is banned. You must walk to get help. What must you do first?",
+      "o": [
+        "Leave a note on the windshield with the time and where you went",
+        "Turn off all lights and lock the car for the night",
+        "Call a friend to pick up the car next week",
+        "Nothing; you may leave the car there until spring"
+      ],
+      "h1": "Others need to know the car is not abandoned.",
+      "h2": "In the District of Columbia, before leaving a stalled car on a snow emergency route to get help, put a note on the windshield with the time you left and where you went, then come back without delay.",
+      "p": "Right. Leave a note on the windshield, then return quickly."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, su auto se queda varado en una ruta de emergencia por nieve mientras está prohibido estacionarse allí. Debe ir caminando a buscar ayuda. ¿Qué debe hacer primero?",
+      "o": [
+        "Dejar una nota en el parabrisas con la hora y adónde fue",
+        "Apagar todas las luces y cerrar el auto por la noche",
+        "Llamar a un amigo para recoger el auto la próxima semana",
+        "Nada; puede dejar el auto allí hasta la primavera"
+      ],
+      "h1": "Los demás deben saber que el auto no está abandonado.",
+      "h2": "En el Distrito de Columbia, antes de dejar un auto varado en una ruta de emergencia por nieve para buscar ayuda, ponga una nota en el parabrisas con la hora en que salió y adónde fue, y regrese sin demora.",
+      "p": "Correcto. Deje una nota en el parabrisas y regrese pronto."
+    }
+  },
+  {
+    "id": "dc-158",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-1204",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, a bicycle is ridden at night. How far away must its white front light and red rear light be seen?",
+      "o": [
+        "At least 10 feet",
+        "At least 50 feet",
+        "No lights are required",
+        "At least 500 feet"
+      ],
+      "h1": "Think of a distance longer than a city block.",
+      "h2": "In the District of Columbia, a bicycle used at night needs a white front light and a red rear light, each visible from at least 500 feet.",
+      "p": "Right. Bicycle lights must be seen from at least 500 feet."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, una bicicleta se usa de noche. ¿Desde qué distancia deben verse su luz blanca delantera y su luz roja trasera?",
+      "o": [
+        "Al menos 10 pies",
+        "Al menos 50 pies",
+        "No se requieren luces",
+        "Al menos 500 pies"
+      ],
+      "h1": "Piense en una distancia más larga que una cuadra de la ciudad.",
+      "h2": "En el Distrito de Columbia, una bicicleta que se usa de noche necesita una luz blanca adelante y una luz roja atrás, cada una visible desde al menos 500 pies.",
+      "p": "Correcto. Las luces de la bicicleta deben verse desde al menos 500 pies."
+    }
+  },
+  {
+    "id": "dc-159",
+    "scope": "DC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-1204",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, a bicyclist must be able to make a warning sound. How far away must it be heard?",
+      "o": [
+        "At least 1 foot",
+        "At least 100 feet",
+        "At least 1 mile",
+        "No warning sound is required"
+      ],
+      "h1": "A bell, a horn-like device, or even the rider's voice can do it.",
+      "h2": "In the District of Columbia, a bicyclist must be able to make a warning sound, with a bell, a device, or their voice, that can be heard from at least 100 feet.",
+      "p": "Right. The warning sound must carry at least 100 feet."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, un ciclista debe poder hacer un sonido de advertencia. ¿Desde qué distancia debe oírse?",
+      "o": [
+        "Al menos 1 pie",
+        "Al menos 100 pies",
+        "Al menos 1 milla",
+        "No se requiere ningún sonido de advertencia"
+      ],
+      "h1": "Puede ser un timbre, un aparato o incluso la voz del ciclista.",
+      "h2": "En el Distrito de Columbia, un ciclista debe poder hacer un sonido de advertencia, con un timbre, un aparato o su voz, que se oiga desde al menos 100 pies.",
+      "p": "Correcto. El sonido de advertencia debe oírse al menos a 100 pies."
+    }
+  },
+  {
+    "id": "dc-160",
+    "scope": "DC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-1201",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, on a regular roadway (not a bike path), how many bicyclists may ride side by side?",
+      "o": [
+        "Only one; never side by side",
+        "No more than two",
+        "Up to four",
+        "Any number, if they keep up with traffic"
+      ],
+      "h1": "Riders may pair up, but not more than that.",
+      "h2": "In the District of Columbia, bicyclists on a roadway may ride no more than two abreast, and they must not block the normal flow of traffic.",
+      "p": "Right. No more than two side by side."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, en una vía regular (no una ciclovía), ¿cuántos ciclistas pueden ir uno al lado del otro?",
+      "o": [
+        "Solo uno; nunca uno al lado del otro",
+        "No más de dos",
+        "Hasta cuatro",
+        "Cualquier cantidad, si siguen el ritmo del tráfico"
+      ],
+      "h1": "Los ciclistas pueden ir en pareja, pero no más.",
+      "h2": "En el Distrito de Columbia, los ciclistas en una vía pueden ir como máximo dos uno al lado del otro, y no deben bloquear el flujo normal del tráfico.",
+      "p": "Correcto. No más de dos uno al lado del otro."
+    }
+  },
+  {
+    "id": "dc-161",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-422",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, where must a regular DC-registered car show its license plates?",
+      "o": [
+        "Only one, on the rear",
+        "Only one, on the front",
+        "Inside the rear window",
+        "One on the front and one on the rear"
+      ],
+      "h1": "Think about what a police officer can see from in front and from behind.",
+      "h2": "In the District of Columbia, a regular registered car must show two current plates, one on the front and one on the rear.",
+      "p": "Right. A car needs plates on both the front and the rear."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿dónde debe mostrar sus placas un auto regular registrado en DC?",
+      "o": [
+        "Solo una, atrás",
+        "Solo una, adelante",
+        "Dentro de la ventana trasera",
+        "Una adelante y una atrás"
+      ],
+      "h1": "Piense en lo que un policía puede ver desde adelante y desde atrás.",
+      "h2": "En el Distrito de Columbia, un auto regular registrado debe mostrar dos placas vigentes, una adelante y una atrás.",
+      "p": "Correcto. Un auto necesita placas adelante y atrás."
+    }
+  },
+  {
+    "id": "dc-162",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-422",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, on most cars, where do you put the sticker that shows when the registration expires?",
+      "o": [
+        "Inside the windshield, on the driver's side",
+        "On the rear bumper",
+        "On the front license plate",
+        "Inside the rear window, on the right side"
+      ],
+      "h1": "It goes on the glass, not on the plate.",
+      "h2": "In the District of Columbia, on most cars, the registration expiration sticker goes on the inside of the windshield, on the driver's side.",
+      "p": "Right. Inside the windshield, on the driver's side."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, en la mayoría de los autos, ¿dónde va la calcomanía que muestra cuándo vence el registro?",
+      "o": [
+        "Dentro del parabrisas, del lado del conductor",
+        "En el parachoques trasero",
+        "En la placa delantera",
+        "Dentro de la ventana trasera, del lado derecho"
+      ],
+      "h1": "Va en el vidrio, no en la placa.",
+      "h2": "En el Distrito de Columbia, en la mayoría de los autos, la calcomanía de vencimiento del registro va por dentro del parabrisas, del lado del conductor.",
+      "p": "Correcto. Por dentro del parabrisas, del lado del conductor."
+    }
+  },
+  {
+    "id": "dc-163",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dmv.dc.gov/service/knowledge-tests",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, how much time do you get for the GRAD (learner permit) knowledge test?",
+      "o": [
+        "15 minutes",
+        "30 minutes",
+        "75 minutes",
+        "There is no time limit"
+      ],
+      "h1": "It is a bit more than an hour, and going over means you fail.",
+      "h2": "In the District of Columbia, the GRAD or learner permit knowledge test has a 75-minute time limit, and going over it means you fail.",
+      "p": "Right. You get 75 minutes."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuánto tiempo tiene para el examen de conocimientos de GRAD (permiso de aprendizaje)?",
+      "o": [
+        "15 minutos",
+        "30 minutos",
+        "75 minutos",
+        "No hay límite de tiempo"
+      ],
+      "h1": "Es un poco más de una hora, y si se pasa del tiempo reprueba.",
+      "h2": "En el Distrito de Columbia, el examen de conocimientos de GRAD o de permiso de aprendizaje tiene un límite de 75 minutos, y si se pasa de ese tiempo reprueba.",
+      "p": "Correcto. Tiene 75 minutos."
+    }
+  },
+  {
+    "id": "dc-164",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dmv.dc.gov/service/knowledge-tests",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, when do you pay the fee for the knowledge test?",
+      "o": [
+        "Only if you pass",
+        "Only if you fail",
+        "You pay it whether you pass or fail",
+        "Never; the test is always free"
+      ],
+      "h1": "The fee is for taking the test, not for the result.",
+      "h2": "In the District of Columbia, you must pay the knowledge test fee whether you pass or fail.",
+      "p": "Right. The fee is paid either way."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿cuándo paga la tarifa del examen de conocimientos?",
+      "o": [
+        "Solo si aprueba",
+        "Solo si reprueba",
+        "La paga apruebe o repruebe",
+        "Nunca; el examen siempre es gratis"
+      ],
+      "h1": "La tarifa es por tomar el examen, no por el resultado.",
+      "h2": "En el Distrito de Columbia, usted debe pagar la tarifa del examen de conocimientos apruebe o repruebe.",
+      "p": "Correcto. La tarifa se paga de todos modos."
+    }
+  },
+  {
+    "id": "dc-165",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dmv.dc.gov/inspections",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, where must your vehicle inspection sticker be shown?",
+      "o": [
+        "Lower corner of the windshield, passenger side",
+        "Upper corner of the windshield, driver side",
+        "On the rear license plate",
+        "Inside the rear window, center"
+      ],
+      "h1": "It is on the windshield, but on the side away from the driver.",
+      "h2": "In the District of Columbia, the inspection sticker goes on the lower corner of the windshield, on the front passenger side.",
+      "p": "Right. Lower corner of the windshield, passenger side."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿dónde debe mostrarse la calcomanía de inspección de su vehículo?",
+      "o": [
+        "En la esquina inferior del parabrisas, lado del pasajero",
+        "En la esquina superior del parabrisas, lado del conductor",
+        "En la placa trasera",
+        "Dentro de la ventana trasera, en el centro"
+      ],
+      "h1": "Va en el parabrisas, pero del lado contrario al conductor.",
+      "h2": "En el Distrito de Columbia, la calcomanía de inspección va en la esquina inferior del parabrisas, del lado del pasajero delantero.",
+      "p": "Correcto. Esquina inferior del parabrisas, lado del pasajero."
+    }
+  },
+  {
+    "id": "dc-166",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dmv.dc.gov/inspections",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, you register a brand-new passenger car. What happens with the inspection?",
+      "o": [
+        "It must be inspected within 10 days",
+        "It must be inspected every year",
+        "It can never be registered without an emissions test",
+        "It gets a 4-year sticker without going to inspection"
+      ],
+      "h1": "A new car does not need to be driven to the inspection station.",
+      "h2": "In the District of Columbia, a brand-new passenger car automatically gets a 4-year new car inspection sticker when it is registered, so it does not go through inspection.",
+      "p": "Right. A new car gets a 4-year sticker at registration."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted registra un auto de pasajeros nuevo. ¿Qué pasa con la inspección?",
+      "o": [
+        "Debe inspeccionarse en 10 días",
+        "Debe inspeccionarse cada año",
+        "Nunca puede registrarse sin una prueba de emisiones",
+        "Recibe una calcomanía de 4 años sin ir a inspección"
+      ],
+      "h1": "Un auto nuevo no necesita ir a la estación de inspección.",
+      "h2": "En el Distrito de Columbia, un auto de pasajeros nuevo recibe automáticamente una calcomanía de inspección de 4 años al registrarse, así que no pasa por inspección.",
+      "p": "Correcto. Un auto nuevo recibe una calcomanía de 4 años al registrarse."
+    }
+  },
+  {
+    "id": "dc-167",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dmv.dc.gov/inspections",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, what kind of inspection sticker does a fully electric passenger car get?",
+      "o": [
+        "A sticker that lasts 6 months",
+        "A sticker that never expires",
+        "A sticker that must be renewed yearly",
+        "None; electric cars cannot be registered"
+      ],
+      "h1": "An electric car has no tailpipe to test.",
+      "h2": "In the District of Columbia, a fully electric passenger car gets an inspection sticker that does not expire.",
+      "p": "Right. Fully electric cars get a non-expiring sticker."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿qué tipo de calcomanía de inspección recibe un auto de pasajeros totalmente eléctrico?",
+      "o": [
+        "Una calcomanía que dura 6 meses",
+        "Una calcomanía que nunca vence",
+        "Una calcomanía que se renueva cada año",
+        "Ninguna; los autos eléctricos no se pueden registrar"
+      ],
+      "h1": "Un auto eléctrico no tiene escape que revisar.",
+      "h2": "En el Distrito de Columbia, un auto de pasajeros totalmente eléctrico recibe una calcomanía de inspección que no vence.",
+      "p": "Correcto. Los autos totalmente eléctricos reciben una calcomanía que no vence."
+    }
+  },
+  {
+    "id": "dc-168",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dmv.dc.gov/service/real-id-driver-license-and-non-driver-ids",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In the District of Columbia, you finish all the steps for a new license. How long is the temporary paper license good for?",
+      "o": [
+        "5 days",
+        "45 days",
+        "1 year",
+        "4 years"
+      ],
+      "h1": "It covers you until the real card comes in the mail.",
+      "h2": "In the District of Columbia, the temporary paper license you get at the DMV is valid for 45 days, while the real card is mailed to you.",
+      "p": "Right. The paper license is good for 45 days."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted completa todos los pasos para una licencia nueva. ¿Por cuánto tiempo sirve la licencia temporal de papel?",
+      "o": [
+        "5 días",
+        "45 días",
+        "1 año",
+        "4 años"
+      ],
+      "h1": "Le sirve hasta que la tarjeta real llegue por correo.",
+      "h2": "En el Distrito de Columbia, la licencia temporal de papel que recibe en el DMV es válida por 45 días, mientras le envían la tarjeta real por correo.",
+      "p": "Correcto. La licencia de papel sirve por 45 días."
+    }
+  },
+  {
+    "id": "dc-169",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dmv.dc.gov/service/vehicle-registrations",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In the District of Columbia, you owe unpaid tickets to the District. What must happen before you can title and register a vehicle?",
+      "o": [
+        "Nothing; tickets do not matter",
+        "You must take the road test again",
+        "You must wait 1 year",
+        "You must pay the tickets first"
+      ],
+      "h1": "The DMV checks for money you owe the District.",
+      "h2": "In the District of Columbia, you must pay all outstanding tickets and other debts to the District before you can title and register a vehicle.",
+      "p": "Right. Unpaid tickets must be paid first."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, usted debe multas sin pagar al Distrito. ¿Qué debe pasar antes de poder titular y registrar un vehículo?",
+      "o": [
+        "Nada; las multas no importan",
+        "Debe tomar otra vez el examen de manejo",
+        "Debe esperar 1 año",
+        "Debe pagar las multas primero"
+      ],
+      "h1": "El DMV revisa si usted le debe dinero al Distrito.",
+      "h2": "En el Distrito de Columbia, usted debe pagar todas las multas pendientes y otras deudas con el Distrito antes de poder titular y registrar un vehículo.",
+      "p": "Correcto. Las multas sin pagar deben pagarse primero."
+    }
+  },
+  {
+    "id": "dc-170",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dmv.dc.gov/service/how-register-your-vehicle",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In the District of Columbia, where must you keep your vehicle registration card?",
+      "o": [
+        "In the vehicle at all times",
+        "At home in a safe place",
+        "Only at the DMV",
+        "Taped to the rear window"
+      ],
+      "h1": "You may need to show it when you drive.",
+      "h2": "In the District of Columbia, the registration card must be carried in the vehicle at all times.",
+      "p": "Right. Keep the registration card in the vehicle."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿dónde debe guardar la tarjeta de registro de su vehículo?",
+      "o": [
+        "En el vehículo en todo momento",
+        "En casa, en un lugar seguro",
+        "Solo en el DMV",
+        "Pegada a la ventana trasera"
+      ],
+      "h1": "Puede que tenga que mostrarla cuando maneja.",
+      "h2": "En el Distrito de Columbia, la tarjeta de registro debe llevarse en el vehículo en todo momento.",
+      "p": "Correcto. Lleve la tarjeta de registro en el vehículo."
+    }
+  },
+  {
+    "id": "dc-171",
+    "scope": "DC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dmv.dc.gov/service/real-id-driver-license-and-non-driver-ids",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In the District of Columbia, can one document, such as a passport, count as more than one of the proofs the DMV asks for?",
+      "o": [
+        "Yes, it can count for every proof",
+        "Yes, but only if it is notarized",
+        "No, each document counts as only one proof",
+        "Yes, if it has expired"
+      ],
+      "h1": "Bring a separate document for each thing you must prove.",
+      "h2": "In the District of Columbia, you may not use one single document as more than one proof when you apply for a license.",
+      "p": "Right. One document, one proof."
+    },
+    "es": {
+      "q": "En el Distrito de Columbia, ¿puede un solo documento, como un pasaporte, contar como más de una de las pruebas que pide el DMV?",
+      "o": [
+        "Sí, puede contar para todas las pruebas",
+        "Sí, pero solo si está notariado",
+        "No, cada documento cuenta como una sola prueba",
+        "Sí, si está vencido"
+      ],
+      "h1": "Traiga un documento distinto para cada cosa que debe probar.",
+      "h2": "En el Distrito de Columbia, no puede usar un solo documento como más de una prueba cuando solicita una licencia.",
+      "p": "Correcto. Un documento, una prueba."
+    }
   }
 ]
