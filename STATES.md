@@ -37,7 +37,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | MN | Minnesota | 31 | 31 | ? q, pass ? (80%) | [link](https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-english.pdf) | [link](https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-spanish.pdf) | yes |
 | MO | Missouri | 31 | 31 | 25 q, pass 20 (80%) | [link](https://dor.mo.gov/forms/Driver%20Guide.pdf) | — | yes |
 | MS | Mississippi | 36 | 31 | 30 q, pass 24 (80%) | [link](https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf) | — | yes |
-| MT | Montana | 26 | 26 | 33 q, pass 27 | [link](https://opi.mt.gov/Portals/182/Page%20Files/Driver%20Education/Curriculum/Resources%20and%20Extras/Montana-Driver-Manual.pdf) | — | yes |
+| MT | Montana | 31 | 31 | 33 q, pass 27 | [link](https://opi.mt.gov/Portals/182/Page%20Files/Driver%20Education/Curriculum/Resources%20and%20Extras/Montana-Driver-Manual.pdf) | — | yes |
 | NC | North Carolina | 31 | 31 | not found | [link](https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf) | [link](https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/driver-handbook-spanish.pdf) | yes |
 | ND | North Dakota | 33 | 31 | 25 q, pass 20 (80%) | [link](https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf) | [link](https://dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/2023-text-231023_SPA%20DL%20Manual.pdf) | yes |
 | NE | Nebraska | 31 | 31 | 25 q, pass 20 (80%) | [link](https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf) | [link](https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/SpanishDriversManual.pdf) | yes |
@@ -45,7 +45,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | NJ | New Jersey | 31 | 31 | 50 q, pass 40 (80%) | [link](https://www.nj.gov/mvc/pdf/license/drivermanual.pdf) | [link](https://www.nj.gov/mvc/pdf/license/drivermanuals.pdf) | yes |
 | NM | New Mexico | 31 | 31 | ? q, pass ? (70%) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/dlms11.19.19.pdf) | yes |
 | NV | Nevada | 32 | 31 | 25 q, pass 20 (80%) | [link](https://dmv.nv.gov/pdfforms/dlbook.pdf) | — | yes |
-| NY | New York | 27 | 27 | 20 q, pass 14 (70%) | [link](https://dmv.ny.gov/brochure/mv21.pdf) | [link](https://dmv.ny.gov/brochure/mv21s.pdf) | yes |
+| NY | New York | 31 | 31 | 20 q, pass 14 (70%) | [link](https://dmv.ny.gov/brochure/mv21.pdf) | [link](https://dmv.ny.gov/brochure/mv21s.pdf) | yes |
 | OH | Ohio | 31 | 31 | 40 q, pass 30 (75%) | [link](https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws) | — | yes |
 | OK | Oklahoma | 31 | 31 | 20 q, pass ? | [link](https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf) | — | yes |
 | OR | Oregon | 31 | 31 | 35 q, pass 28 (80%) | [link](https://www.oregon.gov/odot/Forms/DMV/37.pdf) | [link](https://www.oregon.gov/odot/Forms/DMV/37s.pdf) | yes |
