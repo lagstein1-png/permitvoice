@@ -2540,5 +2540,651 @@
       "h2": "في New Mexico يجب أن تستعمل الأضواء المنخفضة عندما تكون على بعد أقل من 200 قدم (feet) من السيارة التي تسير خلفها.",
       "p": "صحيح. انتقل إلى الأضواء المنخفضة عندما تكون على بعد أقل من 200 قدم (feet) من السيارة التي أمامك."
     }
+  },
+  {
+    "id": "nm-032",
+    "scope": "NM",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 2,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Mexico, how long is a driver license valid?",
+      "o": [
+        "1 or 2 years",
+        "2 or 3 years",
+        "4 or 8 years",
+        "10 or 12 years"
+      ],
+      "h1": "There are two choices, and one is twice as long as the other.",
+      "h2": "In New Mexico a driver license is valid for either 4 years or 8 years.",
+      "p": "Right. A New Mexico license lasts 4 or 8 years."
+    },
+    "es": {
+      "q": "En Nuevo México, ¿por cuánto tiempo es válida una licencia de conducir?",
+      "o": [
+        "1 o 2 años",
+        "2 o 3 años",
+        "4 u 8 años",
+        "10 o 12 años"
+      ],
+      "h1": "Hay dos opciones, y una dura el doble que la otra.",
+      "h2": "En Nuevo México una licencia de conducir es válida por 4 años o por 8 años.",
+      "p": "Correcto. Una licencia de Nuevo México dura 4 u 8 años."
+    }
+  },
+  {
+    "id": "nm-033",
+    "scope": "NM",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 2,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Mexico, which of these can stop a provisional driver from getting a full (unrestricted) license?",
+      "o": [
+        "An alcohol or drug offense during the provisional period",
+        "Driving with a parent in the car",
+        "Carrying a brother or sister as a passenger",
+        "Taking a driver education course"
+      ],
+      "h1": "Think about what the law treats as a serious offense for young drivers.",
+      "h2": "In New Mexico you cannot get an unrestricted license if you were found guilty of, or have a pending case for, an alcohol or drug offense during the provisional period.",
+      "p": "Right. An alcohol or drug offense while on a provisional license blocks the full license."
+    },
+    "es": {
+      "q": "En Nuevo México, ¿cuál de estas cosas puede impedir que un conductor con licencia provisional obtenga una licencia completa (sin restricciones)?",
+      "o": [
+        "Un delito de alcohol o drogas durante el período provisional",
+        "Manejar con un padre en el auto",
+        "Llevar a un hermano o hermana como pasajero",
+        "Tomar un curso de educación vial"
+      ],
+      "h1": "Piense en lo que la ley considera una falta grave para los conductores jóvenes.",
+      "h2": "En Nuevo México usted no puede obtener una licencia sin restricciones si fue declarado culpable, o tiene un caso pendiente, de un delito de alcohol o drogas durante el período provisional.",
+      "p": "Correcto. Un delito de alcohol o drogas con licencia provisional impide la licencia completa."
+    }
+  },
+  {
+    "id": "nm-034",
+    "scope": "NM",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Mexico, how close to a stop sign, yield sign or traffic signal may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 15 feet",
+        "No closer than 30 feet"
+      ],
+      "h1": "It is about the length of two cars.",
+      "h2": "In New Mexico you may not park within 30 feet of a stop sign, yield sign or traffic signal.",
+      "p": "Right. Stay at least 30 feet away from a stop sign, yield sign or traffic signal."
+    },
+    "es": {
+      "q": "En Nuevo México, ¿qué tan cerca de una señal de alto, una señal de ceda el paso o un semáforo puede estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 10 pies",
+        "No más cerca de 15 pies",
+        "No más cerca de 30 pies"
+      ],
+      "h1": "Es más o menos el largo de dos autos.",
+      "h2": "En Nuevo México usted no puede estacionarse a menos de 30 pies de una señal de alto, una señal de ceda el paso o un semáforo.",
+      "p": "Correcto. Manténgase al menos a 30 pies de una señal de alto, de ceda el paso o de un semáforo."
+    }
+  },
+  {
+    "id": "nm-035",
+    "scope": "NM",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Mexico, how close to a crosswalk at an intersection may you park?",
+      "o": [
+        "No closer than 10 feet",
+        "No closer than 25 feet",
+        "No closer than 50 feet",
+        "No closer than 100 feet"
+      ],
+      "h1": "It is a quarter of 100 feet.",
+      "h2": "In New Mexico you may not park within 25 feet of a crosswalk at an intersection.",
+      "p": "Right. Park at least 25 feet from a crosswalk at an intersection."
+    },
+    "es": {
+      "q": "En Nuevo México, ¿qué tan cerca de un cruce peatonal en una intersección puede estacionarse?",
+      "o": [
+        "No más cerca de 10 pies",
+        "No más cerca de 25 pies",
+        "No más cerca de 50 pies",
+        "No más cerca de 100 pies"
+      ],
+      "h1": "Es la cuarta parte de 100 pies.",
+      "h2": "En Nuevo México usted no puede estacionarse a menos de 25 pies de un cruce peatonal en una intersección.",
+      "p": "Correcto. Estaciónese al menos a 25 pies de un cruce peatonal en una intersección."
+    }
+  },
+  {
+    "id": "nm-036",
+    "scope": "NM",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Mexico, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 8 feet",
+        "No closer than 15 feet",
+        "No closer than 40 feet"
+      ],
+      "h1": "Firefighters need room to reach the hydrant. The answer is between 10 and 20 feet.",
+      "h2": "In New Mexico you may not park within 15 feet of a fire hydrant.",
+      "p": "Right. Keep at least 15 feet from a fire hydrant."
+    },
+    "es": {
+      "q": "En Nuevo México, ¿qué tan cerca de un hidrante puede estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 8 pies",
+        "No más cerca de 15 pies",
+        "No más cerca de 40 pies"
+      ],
+      "h1": "Los bomberos necesitan espacio para llegar al hidrante. La respuesta está entre 10 y 20 pies.",
+      "h2": "En Nuevo México usted no puede estacionarse a menos de 15 pies de un hidrante.",
+      "p": "Correcto. Manténgase al menos a 15 pies de un hidrante."
+    }
+  },
+  {
+    "id": "nm-037",
+    "scope": "NM",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Mexico, you park next to a curb. How far from the curb may your car be?",
+      "o": [
+        "No more than 18 inches",
+        "No more than 3 feet",
+        "No more than 4 feet",
+        "Any distance, if your lights are on"
+      ],
+      "h1": "It is less than two feet.",
+      "h2": "In New Mexico you may not park more than 18 inches from the curb.",
+      "p": "Right. Park no more than 18 inches from the curb."
+    },
+    "es": {
+      "q": "En Nuevo México, usted se estaciona junto a la acera. ¿A qué distancia de la acera puede quedar su auto?",
+      "o": [
+        "A no más de 18 pulgadas",
+        "A no más de 3 pies",
+        "A no más de 4 pies",
+        "A cualquier distancia, si tiene las luces encendidas"
+      ],
+      "h1": "Es menos de dos pies.",
+      "h2": "En Nuevo México usted no puede estacionarse a más de 18 pulgadas de la acera.",
+      "p": "Correcto. Estaciónese a no más de 18 pulgadas de la acera."
+    }
+  },
+  {
+    "id": "nm-038",
+    "scope": "NM",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Mexico, you want to park on the same side of the street as a fire station driveway. How close to that driveway may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 75 feet",
+        "No closer than 20 feet"
+      ],
+      "h1": "On the same side of the street the distance is shorter than on the other side.",
+      "h2": "In New Mexico you may not park within 20 feet of a fire station driveway on the same side of the street.",
+      "p": "Right. On the same side, stay at least 20 feet from a fire station driveway."
+    },
+    "es": {
+      "q": "En Nuevo México, usted quiere estacionarse en el mismo lado de la calle que la entrada de una estación de bomberos. ¿Qué tan cerca de esa entrada puede estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 10 pies",
+        "No más cerca de 75 pies",
+        "No más cerca de 20 pies"
+      ],
+      "h1": "En el mismo lado de la calle la distancia es más corta que en el otro lado.",
+      "h2": "En Nuevo México usted no puede estacionarse a menos de 20 pies de la entrada de una estación de bomberos en el mismo lado de la calle.",
+      "p": "Correcto. En el mismo lado, manténgase al menos a 20 pies de la entrada de una estación de bomberos."
+    }
+  },
+  {
+    "id": "nm-039",
+    "scope": "NM",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 14,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Mexico, what does a curb painted red mean?",
+      "o": [
+        "Short stops only",
+        "A fire zone: no parking or standing",
+        "Parking for people with disabilities only",
+        "A loading zone"
+      ],
+      "h1": "Red is the color for fire and danger.",
+      "h2": "In New Mexico a red curb marks a fire zone where you may not park or stand.",
+      "p": "Right. A red curb means a fire zone with no parking or standing."
+    },
+    "es": {
+      "q": "En Nuevo México, ¿qué significa una acera pintada de rojo?",
+      "o": [
+        "Solo paradas cortas",
+        "Una zona de incendios: no se puede estacionar ni detenerse",
+        "Estacionamiento solo para personas con discapacidad",
+        "Una zona de carga"
+      ],
+      "h1": "El rojo es el color del fuego y del peligro.",
+      "h2": "En Nuevo México una acera roja marca una zona de incendios donde no se puede estacionar ni detenerse.",
+      "p": "Correcto. Una acera roja indica una zona de incendios donde no se puede estacionar ni detenerse."
+    }
+  },
+  {
+    "id": "nm-040",
+    "scope": "NM",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 12,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Mexico, what is the speed limit in a business or residential area when no sign says otherwise?",
+      "o": [
+        "15 mph",
+        "25 mph",
+        "30 mph",
+        "40 mph"
+      ],
+      "h1": "It is twice the school zone limit.",
+      "h2": "In New Mexico the speed limit in business and residential areas is 30 mph unless a sign shows a different limit.",
+      "p": "Right. Business and residential areas are 30 mph unless posted otherwise."
+    },
+    "es": {
+      "q": "En Nuevo México, ¿cuál es el límite de velocidad en una zona comercial o residencial cuando ninguna señal indica otro?",
+      "o": [
+        "15 mph",
+        "25 mph",
+        "30 mph",
+        "40 mph"
+      ],
+      "h1": "Es el doble del límite en una zona escolar.",
+      "h2": "En Nuevo México el límite de velocidad en zonas comerciales y residenciales es de 30 mph, a menos que una señal indique otro límite.",
+      "p": "Correcto. Las zonas comerciales y residenciales son de 30 mph si no hay otra señal."
+    }
+  },
+  {
+    "id": "nm-041",
+    "scope": "NM",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 12,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Mexico, what is the speed limit on a public highway that is not a rural interstate, when no sign says otherwise?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "75 mph"
+      ],
+      "h1": "It is 20 mph less than the rural interstate limit.",
+      "h2": "In New Mexico the speed limit on public highways is 55 mph unless a sign shows a different limit.",
+      "p": "Right. Public highways are 55 mph unless posted otherwise."
+    },
+    "es": {
+      "q": "En Nuevo México, ¿cuál es el límite de velocidad en una carretera pública que no es una interestatal rural, cuando ninguna señal indica otro?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "75 mph"
+      ],
+      "h1": "Es 20 mph menos que el límite en las interestatales rurales.",
+      "h2": "En Nuevo México el límite de velocidad en las carreteras públicas es de 55 mph, a menos que una señal indique otro límite.",
+      "p": "Correcto. Las carreteras públicas son de 55 mph si no hay otra señal."
+    }
+  },
+  {
+    "id": "nm-042",
+    "scope": "NM",
+    "cat": "signals",
+    "conf": "high",
+    "page": 19,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Mexico, how far before a turn should you turn on your turn signal?",
+      "o": [
+        "At least 10 feet",
+        "Only when you start to turn",
+        "At least 1 mile",
+        "At least 100 feet"
+      ],
+      "h1": "It is about the length of a few cars in a row, more than 50 feet.",
+      "h2": "In New Mexico you should signal at least 100 feet before you turn.",
+      "p": "Right. Signal at least 100 feet before the turn."
+    },
+    "es": {
+      "q": "En Nuevo México, ¿con cuánta anticipación antes de girar debe encender la direccional?",
+      "o": [
+        "Al menos 10 pies antes",
+        "Solo cuando empieza a girar",
+        "Al menos 1 milla antes",
+        "Al menos 100 pies antes"
+      ],
+      "h1": "Es como el largo de varios autos en fila, más de 50 pies.",
+      "h2": "En Nuevo México usted debe señalar al menos 100 pies antes de girar.",
+      "p": "Correcto. Señale al menos 100 pies antes del giro."
+    }
+  },
+  {
+    "id": "nm-043",
+    "scope": "NM",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Mexico, you are using high beams at night. When should you dim them for a car coming toward you?",
+      "o": [
+        "When it is about half a mile away",
+        "When it is within about one block",
+        "Only when it is right next to you",
+        "Never; high beams are always allowed"
+      ],
+      "h1": "Think of the length of one city block.",
+      "h2": "In New Mexico you should dim your high beams when an oncoming vehicle is within about one block.",
+      "p": "Right. Dim your high beams within about one block of an oncoming car."
+    },
+    "es": {
+      "q": "En Nuevo México, usted usa las luces altas de noche. ¿Cuándo debe bajarlas por un auto que viene de frente?",
+      "o": [
+        "Cuando está a media milla",
+        "Cuando está a una cuadra o menos",
+        "Solo cuando está justo a su lado",
+        "Nunca; las luces altas siempre están permitidas"
+      ],
+      "h1": "Piense en el largo de una cuadra de la ciudad.",
+      "h2": "En Nuevo México usted debe bajar las luces altas cuando un vehículo que viene de frente está a una cuadra o menos.",
+      "p": "Correcto. Baje las luces altas cuando un auto de frente esté a una cuadra o menos."
+    }
+  },
+  {
+    "id": "nm-044",
+    "scope": "NM",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Mexico, the road is covered with packed snow. How much should you slow down?",
+      "o": [
+        "About 5 mph",
+        "About 10 mph",
+        "Cut your speed about in half",
+        "Not at all, if you have good tires"
+      ],
+      "h1": "Packed snow is much more slippery than a wet road.",
+      "h2": "In New Mexico the driver manual says to cut your speed about in half on packed snow.",
+      "p": "Right. On packed snow, cut your speed about in half."
+    },
+    "es": {
+      "q": "En Nuevo México, la carretera está cubierta de nieve compacta. ¿Cuánto debe reducir la velocidad?",
+      "o": [
+        "Unas 5 mph",
+        "Unas 10 mph",
+        "Reducir la velocidad más o menos a la mitad",
+        "Nada, si tiene buenas llantas"
+      ],
+      "h1": "La nieve compacta es mucho más resbalosa que una carretera mojada.",
+      "h2": "En Nuevo México el manual del conductor dice que debe reducir la velocidad más o menos a la mitad sobre nieve compacta.",
+      "p": "Correcto. Sobre nieve compacta, reduzca la velocidad más o menos a la mitad."
+    }
+  },
+  {
+    "id": "nm-045",
+    "scope": "NM",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 37,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Mexico, who must wear a helmet on a motorcycle?",
+      "o": [
+        "All riders and passengers under 18",
+        "Only the rider, not the passenger",
+        "Only riders on interstate highways",
+        "No one; helmets are never required"
+      ],
+      "h1": "The law covers young people. Helmets are recommended for everyone.",
+      "h2": "In New Mexico the law requires motorcycle riders and passengers under 18 to wear a helmet.",
+      "p": "Right. Riders and passengers under 18 must wear a helmet."
+    },
+    "es": {
+      "q": "En Nuevo México, ¿quién debe usar casco en una motocicleta?",
+      "o": [
+        "Todos los conductores y pasajeros menores de 18 años",
+        "Solo el conductor, no el pasajero",
+        "Solo los conductores en carreteras interestatales",
+        "Nadie; el casco nunca es obligatorio"
+      ],
+      "h1": "La ley protege a los jóvenes. Se recomienda el casco para todos.",
+      "h2": "En Nuevo México la ley exige que los conductores y pasajeros de motocicleta menores de 18 años usen casco.",
+      "p": "Correcto. Los conductores y pasajeros menores de 18 años deben usar casco."
+    }
+  },
+  {
+    "id": "nm-046",
+    "scope": "NM",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 25,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Mexico, you are passing a person on a bicycle. How much space should you try to give?",
+      "o": [
+        "At least 1 foot",
+        "At least 2 feet",
+        "No space is needed",
+        "At least 5 feet"
+      ],
+      "h1": "It is more than the width of your arms held out.",
+      "h2": "In New Mexico you should try to leave at least five feet when you pass a bicyclist.",
+      "p": "Right. Try to give a bicyclist at least five feet."
+    },
+    "es": {
+      "q": "En Nuevo México, usted va a rebasar a una persona en bicicleta. ¿Cuánto espacio debe tratar de dejarle?",
+      "o": [
+        "Al menos 1 pie",
+        "Al menos 2 pies",
+        "No hace falta espacio",
+        "Al menos 5 pies"
+      ],
+      "h1": "Es más que el ancho de sus brazos abiertos.",
+      "h2": "En Nuevo México usted debe tratar de dejar al menos cinco pies al rebasar a un ciclista.",
+      "p": "Correcto. Trate de dejarle al menos cinco pies al ciclista."
+    }
+  },
+  {
+    "id": "nm-047",
+    "scope": "NM",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 6,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Mexico, a school bus or a truck carrying gasoline comes to a railroad crossing. What must it do?",
+      "o": [
+        "Cross quickly without stopping",
+        "Stop at least 15 feet from the crossing before going on",
+        "Stop only if a train can be seen",
+        "Stop right on the tracks to look both ways"
+      ],
+      "h1": "These vehicles must always stop, and not too close to the tracks.",
+      "h2": "In New Mexico school buses, vehicles for hire that carry passengers, and trucks carrying dangerous loads such as gasoline must stop at least 15 feet from a railroad crossing before going on.",
+      "p": "Right. They must stop at least 15 feet from the crossing."
+    },
+    "es": {
+      "q": "En Nuevo México, un autobús escolar o un camión que lleva gasolina llega a un cruce de ferrocarril. ¿Qué debe hacer?",
+      "o": [
+        "Cruzar rápido sin detenerse",
+        "Detenerse al menos a 15 pies del cruce antes de seguir",
+        "Detenerse solo si se ve un tren",
+        "Detenerse sobre las vías para mirar a ambos lados"
+      ],
+      "h1": "Estos vehículos siempre deben detenerse, y no demasiado cerca de las vías.",
+      "h2": "En Nuevo México los autobuses escolares, los vehículos de alquiler que llevan pasajeros y los camiones con cargas peligrosas como gasolina deben detenerse al menos a 15 pies de un cruce de ferrocarril antes de seguir.",
+      "p": "Correcto. Deben detenerse al menos a 15 pies del cruce."
+    }
+  },
+  {
+    "id": "nm-048",
+    "scope": "NM",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 35,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Mexico, what is the minimum insurance for injury to or death of one person in one crash?",
+      "o": [
+        "$5,000",
+        "$10,000",
+        "$25,000",
+        "$100,000"
+      ],
+      "h1": "It is more than the minimum for property damage, but less than $50,000.",
+      "h2": "In New Mexico the minimum liability insurance for injury to or death of one person in one crash is $25,000.",
+      "p": "Right. The minimum for one person is $25,000."
+    },
+    "es": {
+      "q": "En Nuevo México, ¿cuál es el seguro mínimo por lesiones o muerte de una persona en un choque?",
+      "o": [
+        "$5,000",
+        "$10,000",
+        "$25,000",
+        "$100,000"
+      ],
+      "h1": "Es más que el mínimo por daños a la propiedad, pero menos de $50,000.",
+      "h2": "En Nuevo México el seguro de responsabilidad mínimo por lesiones o muerte de una persona en un choque es de $25,000.",
+      "p": "Correcto. El mínimo por una persona es de $25,000."
+    }
+  },
+  {
+    "id": "nm-049",
+    "scope": "NM",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 35,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Mexico, what can happen if you do not have car insurance?",
+      "o": [
+        "Your vehicle registration can be suspended and you may have to turn in your plates",
+        "Nothing, if you drive carefully",
+        "You only get a warning the first time",
+        "You must take the road test again"
+      ],
+      "h1": "The state can take away your right to keep the car on the road.",
+      "h2": "In New Mexico driving without insurance can lead to a suspended registration, turning in your license plates, and possible criminal penalties.",
+      "p": "Right. No insurance can cost you your registration and your plates."
+    },
+    "es": {
+      "q": "En Nuevo México, ¿qué puede pasar si no tiene seguro de auto?",
+      "o": [
+        "Le pueden suspender el registro del vehículo y puede tener que entregar las placas",
+        "Nada, si maneja con cuidado",
+        "Solo recibe una advertencia la primera vez",
+        "Debe tomar otra vez el examen de manejo"
+      ],
+      "h1": "El estado puede quitarle el derecho de tener el auto en la carretera.",
+      "h2": "En Nuevo México manejar sin seguro puede llevar a la suspensión del registro, a entregar las placas y a posibles sanciones penales.",
+      "p": "Correcto. No tener seguro le puede costar el registro y las placas."
+    }
+  },
+  {
+    "id": "nm-050",
+    "scope": "NM",
+    "cat": "signals",
+    "conf": "high",
+    "page": 7,
+    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Mexico, you see an orange triangle on the back of a vehicle. What does it tell you?",
+      "o": [
+        "The vehicle carries a dangerous load",
+        "The driver is a student",
+        "The vehicle is an emergency vehicle",
+        "The vehicle goes less than 25 mph"
+      ],
+      "h1": "You often see it on farm tractors and horse-drawn wagons.",
+      "h2": "In New Mexico an orange triangle on the back of a vehicle means it is a slow-moving vehicle that travels under 25 mph.",
+      "p": "Right. The orange triangle marks a slow vehicle going under 25 mph."
+    },
+    "es": {
+      "q": "En Nuevo México, usted ve un triángulo anaranjado en la parte de atrás de un vehículo. ¿Qué le indica?",
+      "o": [
+        "El vehículo lleva una carga peligrosa",
+        "El conductor es un estudiante",
+        "Es un vehículo de emergencia",
+        "El vehículo va a menos de 25 mph"
+      ],
+      "h1": "Se ve a menudo en tractores agrícolas y carretas tiradas por caballos.",
+      "h2": "En Nuevo México un triángulo anaranjado en la parte de atrás de un vehículo indica que es un vehículo lento que va a menos de 25 mph.",
+      "p": "Correcto. El triángulo anaranjado marca un vehículo lento que va a menos de 25 mph."
+    }
   }
 ]
