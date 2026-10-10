@@ -2376,5 +2376,141 @@
       "h2": "في North Dakota، القيادة بما يخالف شروط تصريح التعلم تضيف نقطتين إلى سجل قيادتك.",
       "p": "صحيح. مخالفة قواعد التصريح تضيف نقطتين."
     }
+  },
+  {
+    "id": "nd-030",
+    "scope": "ND",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 26,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, how close to a fire hydrant may you park?",
+      "o": [
+        "5 feet",
+        "10 feet",
+        "25 feet",
+        "50 feet"
+      ],
+      "h1": "It is closer than in many other states.",
+      "h2": "In North Dakota you may not park within 10 feet of a fire hydrant.",
+      "p": "Right. Stay at least 10 feet from a fire hydrant."
+    },
+    "es": {
+      "q": "En North Dakota, ¿qué tan cerca de un hidrante puede estacionarse?",
+      "o": [
+        "5 pies",
+        "10 pies",
+        "25 pies",
+        "50 pies"
+      ],
+      "h1": "Es más cerca que en muchos otros estados.",
+      "h2": "En North Dakota usted no puede estacionarse a menos de 10 pies de un hidrante.",
+      "p": "Correcto. Quédese por lo menos a 10 pies de un hidrante."
+    }
+  },
+  {
+    "id": "nd-031",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 33,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, how much space must you leave when passing a bicycle?",
+      "o": [
+        "6 inches",
+        "1 foot",
+        "2 feet",
+        "At least 3 feet"
+      ],
+      "h1": "Give the rider room to wobble.",
+      "h2": "In North Dakota a driver must leave at least three feet of space when passing a bicycle.",
+      "p": "Right. Leave at least 3 feet when you pass a bicycle."
+    },
+    "es": {
+      "q": "En North Dakota, ¿cuánto espacio debe dejar al rebasar una bicicleta?",
+      "o": [
+        "6 pulgadas",
+        "1 pie",
+        "2 pies",
+        "Por lo menos 3 pies"
+      ],
+      "h1": "Dele espacio al ciclista por si se tambalea.",
+      "h2": "En North Dakota el conductor debe dejar por lo menos tres pies de espacio al rebasar una bicicleta.",
+      "p": "Correcto. Deje por lo menos 3 pies al rebasar una bicicleta."
+    }
+  },
+  {
+    "id": "nd-032",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 37,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, where must an open container of alcohol be kept in a car?",
+      "o": [
+        "In the trunk",
+        "Under the driver's seat",
+        "In the glove box",
+        "In a passenger's hand"
+      ],
+      "h1": "It must be out of reach of everyone in the car.",
+      "h2": "In North Dakota you may not have an open container of alcohol in the car, so any open container must be put in the trunk.",
+      "p": "Right. Open containers go in the trunk."
+    },
+    "es": {
+      "q": "En North Dakota, ¿dónde se debe guardar un envase abierto de alcohol en el carro?",
+      "o": [
+        "En la cajuela",
+        "Debajo del asiento del conductor",
+        "En la guantera",
+        "En la mano de un pasajero"
+      ],
+      "h1": "Debe estar fuera del alcance de todos en el carro.",
+      "h2": "En North Dakota no puede llevar un envase abierto de alcohol en el carro, así que cualquier envase abierto debe ir en la cajuela.",
+      "p": "Correcto. Los envases abiertos van en la cajuela."
+    }
+  },
+  {
+    "id": "nd-033",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, how early can you renew your license without losing time left on the old one?",
+      "o": [
+        "1 month before it expires",
+        "3 months before it expires",
+        "10 months before it expires",
+        "2 years before it expires"
+      ],
+      "h1": "It is almost a full year.",
+      "h2": "In North Dakota you may renew your license up to 10 months before it expires without losing the time left on your old license.",
+      "p": "Right. You can renew up to 10 months early."
+    },
+    "es": {
+      "q": "En North Dakota, ¿con cuánta anticipación puede renovar su licencia sin perder el tiempo que le queda a la anterior?",
+      "o": [
+        "1 mes antes del vencimiento",
+        "3 meses antes del vencimiento",
+        "10 meses antes del vencimiento",
+        "2 años antes del vencimiento"
+      ],
+      "h1": "Es casi un año completo.",
+      "h2": "En North Dakota usted puede renovar su licencia hasta 10 meses antes del vencimiento sin perder el tiempo que le queda a la licencia anterior.",
+      "p": "Correcto. Puede renovar hasta 10 meses antes."
+    }
   }
 ]
