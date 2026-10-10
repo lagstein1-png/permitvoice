@@ -1638,5 +1638,243 @@
       "h2": "في New Jersey لا تسامح أبدًا مع السائقين الذين أعمارهم أقل من 21 سنة، لذلك فإن نسبة كحول في الدم قدرها 0.01 فقط قد تؤدي إلى توجيه تهمة.",
       "p": "صحيح. تحت 21 سنة، نسبة 0.01 كثيرة جدًا بالفعل."
     }
+  },
+  {
+    "id": "nj-021",
+    "scope": "NJ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 62,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, what is the speed limit on a rural road with no posted limit?",
+      "o": [
+        "35 mph",
+        "45 mph",
+        "50 mph",
+        "65 mph"
+      ],
+      "h1": "It is lower than the limit on most interstates.",
+      "h2": "In New Jersey, the speed limit on a rural road with no speed limit sign is 50 mph.",
+      "p": "Right. Unposted rural roads have a 50 mph limit."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuál es el límite de velocidad en una carretera rural sin límite señalizado?",
+      "o": [
+        "35 mph",
+        "45 mph",
+        "50 mph",
+        "65 mph"
+      ],
+      "h1": "Es más bajo que el límite de la mayoría de las autopistas interestatales.",
+      "h2": "En New Jersey, el límite de velocidad en una carretera rural sin señal de límite es de 50 mph.",
+      "p": "Correcto. Las carreteras rurales sin señal tienen un límite de 50 mph."
+    }
+  },
+  {
+    "id": "nj-022",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 83,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, you must turn on your headlights when you can see only how far ahead?",
+      "o": [
+        "500 feet or less",
+        "1,000 feet or less",
+        "200 feet or less",
+        "1 mile or less"
+      ],
+      "h1": "It is about the length of one and a half football fields.",
+      "h2": "In New Jersey, you must use your headlights when you can see 500 feet or less ahead.",
+      "p": "Right. Headlights go on when you can see 500 feet or less."
+    },
+    "es": {
+      "q": "En New Jersey, ¿debe encender las luces delanteras cuando solo puede ver hasta qué distancia?",
+      "o": [
+        "500 pies o menos",
+        "1,000 pies o menos",
+        "200 pies o menos",
+        "1 milla o menos"
+      ],
+      "h1": "Es como un campo de fútbol americano y medio.",
+      "h2": "En New Jersey, usted debe usar las luces delanteras cuando puede ver 500 pies o menos hacia adelante.",
+      "p": "Correcto. Las luces se encienden cuando se ve a 500 pies o menos."
+    }
+  },
+  {
+    "id": "nj-023",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 42,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, a child is 6 years old and 50 inches tall. Where and how must the child ride?",
+      "o": [
+        "In the front seat with a seat belt",
+        "In any seat with only a lap belt",
+        "On an adult's lap in the back seat",
+        "In a rear seat, in a booster seat or harness car seat"
+      ],
+      "h1": "Think of children under 8 who are shorter than 57 inches.",
+      "h2": "In New Jersey, a child under 8 who is shorter than 57 inches must ride in a rear seat in a booster seat or a car seat with a harness.",
+      "p": "Right. Under 8 and under 57 inches means a booster or harness seat in the back."
+    },
+    "es": {
+      "q": "En New Jersey, un niño tiene 6 años y mide 50 pulgadas. ¿Dónde y cómo debe viajar?",
+      "o": [
+        "En el asiento delantero con cinturón",
+        "En cualquier asiento con solo el cinturón de cadera",
+        "En las piernas de un adulto en el asiento trasero",
+        "En un asiento trasero, en un asiento elevado o una silla con arnés"
+      ],
+      "h1": "Piense en los niños menores de 8 años que miden menos de 57 pulgadas.",
+      "h2": "En New Jersey, un niño menor de 8 años que mide menos de 57 pulgadas debe viajar en un asiento trasero, en un asiento elevado o en una silla con arnés.",
+      "p": "Correcto. Menor de 8 años y de menos de 57 pulgadas: asiento elevado o silla con arnés atrás."
+    }
+  },
+  {
+    "id": "nj-024",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 43,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, what is the fine for breaking the child passenger safety law?",
+      "o": [
+        "$10 to $25",
+        "$50 to $75",
+        "$200 to $400",
+        "$500 to $1,000"
+      ],
+      "h1": "It is less than one hundred dollars, plus court costs.",
+      "h2": "In New Jersey, breaking the child car seat law can bring a fine of $50 to $75, plus fees and court costs.",
+      "p": "Right. The fine is $50 to $75, plus costs."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuál es la multa por no cumplir la ley de seguridad de pasajeros infantiles?",
+      "o": [
+        "De $10 a $25",
+        "De $50 a $75",
+        "De $200 a $400",
+        "De $500 a $1,000"
+      ],
+      "h1": "Es menos de cien dólares, más los costos del tribunal.",
+      "h2": "En New Jersey, no cumplir la ley de asientos de seguridad para niños puede costar una multa de $50 a $75, más cargos y costos del tribunal.",
+      "p": "Correcto. La multa es de $50 a $75, más los costos."
+    }
+  },
+  {
+    "id": "nj-025",
+    "scope": "NJ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 40,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, who is responsible when a passenger under 18 does not wear a seat belt?",
+      "o": [
+        "The driver",
+        "The passenger",
+        "The car's owner",
+        "The passenger's parent, even if not in the car"
+      ],
+      "h1": "Think of the person behind the wheel.",
+      "h2": "In New Jersey, the driver is responsible for making sure every passenger under 18 wears a seat belt.",
+      "p": "Right. The driver answers for passengers under 18."
+    },
+    "es": {
+      "q": "En New Jersey, ¿quién es responsable cuando un pasajero menor de 18 años no usa el cinturón de seguridad?",
+      "o": [
+        "El conductor",
+        "El pasajero",
+        "El dueño del auto",
+        "El padre o la madre del pasajero, aunque no esté en el auto"
+      ],
+      "h1": "Piense en la persona que va al volante.",
+      "h2": "En New Jersey, el conductor es responsable de que cada pasajero menor de 18 años use el cinturón de seguridad.",
+      "p": "Correcto. El conductor responde por los pasajeros menores de 18 años."
+    }
+  },
+  {
+    "id": "nj-026",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 111,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, a crash causes more than $500 in damage and the police file no report. What must you do?",
+      "o": [
+        "Nothing, if no one was hurt",
+        "Call the MVC within 24 hours",
+        "Send a written report to the MVC within 10 days",
+        "Report it at your next license renewal"
+      ],
+      "h1": "You put it in writing, and you have less than two weeks.",
+      "h2": "In New Jersey, if damage is over $500 or someone is hurt and the police file no report, you must send a written report to the MVC within 10 days.",
+      "p": "Right. Without a police report, you send a written report to the MVC within 10 days."
+    },
+    "es": {
+      "q": "En New Jersey, un choque causa más de $500 en daños y la policía no hace un informe. ¿Qué debe hacer usted?",
+      "o": [
+        "Nada, si nadie resultó herido",
+        "Llamar a la MVC dentro de 24 horas",
+        "Enviar un informe escrito a la MVC dentro de 10 días",
+        "Informarlo cuando renueve su licencia"
+      ],
+      "h1": "Se hace por escrito, y tiene menos de dos semanas.",
+      "h2": "En New Jersey, si los daños pasan de $500 o hay alguien herido y la policía no hace un informe, usted debe enviar un informe escrito a la MVC dentro de 10 días.",
+      "p": "Correcto. Sin informe policial, usted envía un informe escrito a la MVC dentro de 10 días."
+    }
+  },
+  {
+    "id": "nj-027",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 137,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, how many points can come off your record for each year you drive with no violation or suspension?",
+      "o": [
+        "One point",
+        "Up to three points",
+        "Up to six points",
+        "All of your points"
+      ],
+      "h1": "It is a small number, and your total never goes below zero.",
+      "h2": "In New Jersey, up to three points are taken off your record for each year with no violation or suspension.",
+      "p": "Right. A clean year can remove up to three points."
+    },
+    "es": {
+      "q": "En New Jersey, ¿cuántos puntos se pueden quitar de su historial por cada año que maneja sin infracciones ni suspensiones?",
+      "o": [
+        "Un punto",
+        "Hasta tres puntos",
+        "Hasta seis puntos",
+        "Todos sus puntos"
+      ],
+      "h1": "Es un número pequeño, y su total nunca baja de cero.",
+      "h2": "En New Jersey, se quitan hasta tres puntos de su historial por cada año sin infracciones ni suspensiones.",
+      "p": "Correcto. Un año limpio puede quitar hasta tres puntos."
+    }
   }
 ]
