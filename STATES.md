@@ -48,7 +48,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | NY | New York | 27 | 27 | 20 q, pass 14 (70%) | [link](https://dmv.ny.gov/brochure/mv21.pdf) | [link](https://dmv.ny.gov/brochure/mv21s.pdf) | yes |
 | OH | Ohio | 31 | 31 | 40 q, pass 30 (75%) | [link](https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws) | — | yes |
 | OK | Oklahoma | 31 | 31 | 20 q, pass ? | [link](https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf) | — | yes |
-| OR | Oregon | 26 | 26 | 35 q, pass 28 (80%) | [link](https://www.oregon.gov/odot/Forms/DMV/37.pdf) | [link](https://www.oregon.gov/odot/Forms/DMV/37s.pdf) | yes |
+| OR | Oregon | 31 | 31 | 35 q, pass 28 (80%) | [link](https://www.oregon.gov/odot/Forms/DMV/37.pdf) | [link](https://www.oregon.gov/odot/Forms/DMV/37s.pdf) | yes |
 | PA | Pennsylvania | 31 | 31 | 18 q, pass 15 (83%) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf) | [link](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/spanish/pub%2095s.pdf) | yes |
 | RI | Rhode Island | 27 | 26 | not found | [link](https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual.pdf) | [link](https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/manuals/Driver_Manual_SP.pdf) | yes |
 | SC | South Carolina | 31 | 31 | 30 q, pass 24 (80%) | [link](https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf) | — | yes |
@@ -56,9 +56,9 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | TN | Tennessee | 27 | 27 | 30 q, pass 24 (80%) | [link](https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf) | — | yes |
 | TX | Texas | 27 | 27 | ? q, pass ? (70%) | [link](https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf) | — | yes |
 | UT | Utah | 31 | 31 | 50 q, pass 40 (80%) | [link](https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2026.pdf) | — | yes |
-| VA | Virginia | 27 | 27 | 40 q, pass 34 (80%) | [link](https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf) | [link](https://dmv.virginia.gov/licenses-ids/exams/manual-es) | yes |
+| VA | Virginia | 31 | 31 | 40 q, pass 34 (80%) | [link](https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf) | [link](https://dmv.virginia.gov/licenses-ids/exams/manual-es) | yes |
 | VT | Vermont | 31 | 31 | 20 q, pass 16 (80%) | [link](https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf) | [link](https://dmv.vermont.gov/sites/dmv/files/documents/VN-007spa-Drivers_Manual_foreign_Spanish.pdf) | yes |
 | WA | Washington | 31 | 31 | 40 q, pass 32 (80%) | [link](https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=) | [link](https://dol.wa.gov/media/pdf/4748/driver-guide-espdf/download?inline=) | yes |
 | WI | Wisconsin | 31 | 31 | 50 q, pass 40 (80%) | [link](https://wisconsindot.gov/Documents/dmv/shared/bds126-motorists-handbook.pdf) | [link](https://wisconsindot.gov/Documents/dmv/shared/s-handbook.pdf) | yes |
 | WV | West Virginia | 31 | 31 | 25 q, pass 19 (76%) | [link](https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf) | — | yes |
-| WY | Wyoming | 27 | 27 | not found | [link](https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf) | — | yes |
+| WY | Wyoming | 31 | 31 | not found | [link](https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf) | — | yes |
