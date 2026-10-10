@@ -3946,6 +3946,66 @@
       "h1": "Va a estar en el carril del tráfico que viene de frente.",
       "h2": "Antes de rebasar en una vía de dos carriles, asegúrese de que la vía adelante está libre el tiempo suficiente para rebasar y volver a su carril con seguridad.",
       "p": "Correcto. Necesita vía libre para rebasar y volver."
+    },
+    "zh": {
+      "q": "你想在双车道的路上超车。你首先必须确定什么？",
+      "o": [
+        "前面的车开得比限速慢",
+        "你的车头灯开着",
+        "你后面有一辆车",
+        "前面有足够长的空路，可以超车并回到你的车道"
+      ],
+      "h1": "你会开到对面来车的车道上。",
+      "h2": "在双车道的路上超车之前，要确定前面的路空着的距离足够长，可以超车并安全回到你的车道。",
+      "p": "对。你需要足够的空路来超车和回到车道。"
+    },
+    "vi": {
+      "q": "Bạn muốn vượt một xe trên đường hai làn. Trước tiên bạn phải chắc chắn điều gì?",
+      "o": [
+        "Xe phía trước đang chạy chậm hơn giới hạn tốc độ",
+        "Đèn pha của bạn đang bật",
+        "Có một xe phía sau bạn",
+        "Đường phía trước đủ trống để vượt và trở về làn của bạn"
+      ],
+      "h1": "Bạn sẽ ở trong làn của xe đi ngược chiều.",
+      "h2": "Trước khi vượt trên đường hai làn, hãy chắc chắn đường phía trước trống đủ lâu để vượt và trở về làn của bạn an toàn.",
+      "p": "Đúng. Bạn cần đủ đường trống để vượt và trở về."
+    },
+    "tl": {
+      "q": "Gusto mong lampasan ang isang kotse sa kalsadang may dalawang lane. Ano ang dapat mong siguraduhin muna?",
+      "o": [
+        "Mas mabagal sa speed limit ang kotse sa unahan",
+        "Nakabukas ang iyong headlights",
+        "May kotse sa likod mo",
+        "May sapat na bakanteng daan sa unahan para lumampas at bumalik sa iyong lane"
+      ],
+      "h1": "Mapupunta ka sa lane ng mga sasakyang paparating.",
+      "h2": "Bago lumampas sa kalsadang may dalawang lane, siguraduhing bakante ang daan sa unahan nang sapat na haba para makalampas at ligtas na makabalik sa iyong lane.",
+      "p": "Tama. Kailangan mo ng sapat na bakanteng daan para lumampas at bumalik."
+    },
+    "ar": {
+      "q": "تريد أن تتجاوز سيارة على طريق ذي مسارين. ما الذي يجب أن تتأكد منه أولًا؟",
+      "o": [
+        "أن السيارة التي أمامك تسير أبطأ من حد السرعة",
+        "أن مصابيحك الأمامية مضاءة",
+        "أن هناك سيارة خلفك",
+        "أن الطريق أمامك خالٍ بما يكفي لتتجاوز وتعود إلى مسارك"
+      ],
+      "h1": "ستكون في مسار السيارات القادمة نحوك.",
+      "h2": "قبل التجاوز على طريق ذي مسارين، تأكد أن الطريق أمامك خالٍ لمسافة تكفي لتتجاوز وتعود إلى مسارك بأمان.",
+      "p": "صحيح. تحتاج إلى طريق خالٍ يكفي للتجاوز والعودة."
+    },
+    "ht": {
+      "q": "Ou vle pase yon machin sou yon wout ki gen de liy. Kisa ou dwe asire w anvan?",
+      "o": [
+        "Machin devan an ap mache pi dousman pase limit vitès la",
+        "Limyè devan machin ou limen",
+        "Gen yon machin dèyè w",
+        "Gen ase wout lib devan pou w pase epi retounen nan liy ou"
+      ],
+      "h1": "W ap nan liy machin ki ap vini sou ou.",
+      "h2": "Anvan ou pase sou yon wout ki gen de liy, asire w wout devan an lib sou ase distans pou w pase epi retounen nan liy ou san danje.",
+      "p": "Wi, se sa. Ou bezwen ase wout lib pou w pase epi retounen."
     }
   },
   {
@@ -3980,6 +4040,66 @@
       "h1": "Las lomas y curvas ocultan lo que viene.",
       "h2": "Cerca de la cima de una loma o en una curva no puede ver el tráfico de frente, así que podría encontrarse de frente con un carro mientras rebasa.",
       "p": "Correcto. No puede ver los carros de frente."
+    },
+    "zh": {
+      "q": "为什么在接近坡顶或在弯道上超车很危险？",
+      "o": [
+        "你看不到对面开过来的车",
+        "你的发动机可能熄火",
+        "那里的路总是很滑",
+        "其他车在那里开得更快"
+      ],
+      "h1": "山坡和弯道会挡住前面的情况。",
+      "h2": "在接近坡顶或在弯道上，你看不到对面来车，所以超车时可能会和车迎面相撞。",
+      "p": "对。你看不到对面来车。"
+    },
+    "vi": {
+      "q": "Tại sao vượt xe gần đỉnh dốc hoặc trong khúc cua là nguy hiểm?",
+      "o": [
+        "Bạn không thấy được xe đang chạy về phía bạn",
+        "Máy xe của bạn có thể bị chết",
+        "Đường ở đó lúc nào cũng trơn",
+        "Các xe khác chạy nhanh hơn ở đó"
+      ],
+      "h1": "Đồi và khúc cua che khuất những gì phía trước.",
+      "h2": "Gần đỉnh dốc hoặc trong khúc cua, bạn không thấy xe đi ngược chiều, nên khi vượt bạn có thể đâm trực diện vào một xe.",
+      "p": "Đúng. Bạn không thấy xe đi ngược chiều."
+    },
+    "tl": {
+      "q": "Bakit mapanganib lumampas malapit sa tuktok ng burol o sa kurbada?",
+      "o": [
+        "Hindi mo makita ang mga kotseng paparating sa iyo",
+        "Baka mamatay ang makina mo",
+        "Laging madulas ang daan doon",
+        "Mas mabilis ang ibang kotse doon"
+      ],
+      "h1": "Itinatago ng burol at kurbada ang nasa unahan.",
+      "h2": "Malapit sa tuktok ng burol o sa kurbada, hindi mo makita ang mga sasakyang paparating, kaya baka makasalubong mo nang harapan ang isang kotse habang lumalampas.",
+      "p": "Tama. Hindi mo makita ang mga paparating na kotse."
+    },
+    "ar": {
+      "q": "لماذا يكون التجاوز خطيرًا قرب قمة تلّ أو في منعطف؟",
+      "o": [
+        "لأنك لا ترى السيارات القادمة نحوك",
+        "لأن محرك سيارتك قد يتوقف",
+        "لأن الطريق هناك زلق دائمًا",
+        "لأن السيارات الأخرى تسير هناك أسرع"
+      ],
+      "h1": "التلال والمنعطفات تُخفي ما أمامك.",
+      "h2": "قرب قمة التل أو في المنعطف لا ترى السيارات القادمة نحوك، فقد تصطدم بسيارة وجهًا لوجه وأنت تتجاوز.",
+      "p": "صحيح. لا ترى السيارات القادمة."
+    },
+    "ht": {
+      "q": "Poukisa li danjere pou w pase yon machin toupre tèt yon mòn oswa nan yon koub?",
+      "o": [
+        "Ou pa ka wè machin k ap vini sou ou",
+        "Motè machin ou ka mouri",
+        "Wout la toujou glise la",
+        "Lòt machin yo mache pi vit la"
+      ],
+      "h1": "Mòn ak koub kache sa ki devan.",
+      "h2": "Toupre tèt yon mòn oswa nan yon koub, ou pa ka wè machin k ap vini an fas, kidonk ou ka frape yon machin fas a fas pandan w ap pase.",
+      "p": "Wi, se sa. Ou pa ka wè machin k ap vini yo."
     }
   },
   {
@@ -4014,6 +4134,66 @@
       "h1": "Volver con seguridad es mejor que apurarse.",
       "h2": "Si no puede terminar de rebasar con seguridad, baje la velocidad y vuelva a su carril detrás del carro que estaba rebasando.",
       "p": "Correcto. Vuelva a su carril detrás."
+    },
+    "zh": {
+      "q": "你在双车道的路上开始超车，前面出现一辆对面开来的车，空间不够。你应该怎么做？",
+      "o": [
+        "加速，希望能来得及",
+        "减速，回到你正在超的那辆车后面",
+        "开到左边的路肩上",
+        "留在那辆车旁边并按喇叭"
+      ],
+      "h1": "安全回去比抢着冲过去好。",
+      "h2": "如果你不能安全完成超车，就减速，回到你正在超的那辆车后面，回到你的车道。",
+      "p": "对。退回到你的车道。"
+    },
+    "vi": {
+      "q": "Bạn bắt đầu vượt trên đường hai làn, và một xe xuất hiện phía trước đang chạy về phía bạn. Không đủ chỗ. Bạn nên làm gì?",
+      "o": [
+        "Tăng tốc và hy vọng kịp",
+        "Giảm tốc và trở về phía sau xe bạn đang vượt",
+        "Chạy lên lề đường bên trái",
+        "Ở bên cạnh xe kia và bấm còi"
+      ],
+      "h1": "Trở về an toàn tốt hơn là đua.",
+      "h2": "Nếu bạn không thể vượt xong một cách an toàn, hãy giảm tốc và trở về làn của bạn phía sau xe bạn đang vượt.",
+      "p": "Đúng. Lùi lại vào làn của bạn."
+    },
+    "tl": {
+      "q": "Nagsimula kang lumampas sa kalsadang may dalawang lane, at may lumitaw na kotse sa unahan na papalapit sa iyo. Kulang ang espasyo. Ano ang dapat mong gawin?",
+      "o": [
+        "Bumilis at umasang aabot ka",
+        "Bumagal at bumalik sa likod ng kotseng nilalampasan mo",
+        "Pumunta sa kaliwang gilid ng daan",
+        "Manatili sa tabi ng kotse at bumusina"
+      ],
+      "h1": "Mas mabuti ang ligtas na pagbalik kaysa makipagkarera.",
+      "h2": "Kung hindi mo ligtas na matatapos ang paglampas, bumagal at bumalik sa iyong lane sa likod ng kotseng nilalampasan mo.",
+      "p": "Tama. Bumalik sa iyong lane."
+    },
+    "ar": {
+      "q": "بدأت التجاوز على طريق ذي مسارين، وظهرت أمامك سيارة قادمة نحوك. لا توجد مساحة كافية. ماذا تفعل؟",
+      "o": [
+        "تُسرع وتأمل أن تنجح",
+        "تُبطئ وتعود خلف السيارة التي كنت تتجاوزها",
+        "تقود على الكتف الأيسر للطريق",
+        "تبقى بجانب السيارة وتستعمل البوق"
+      ],
+      "h1": "العودة بأمان أفضل من السباق.",
+      "h2": "إذا لم تستطع إكمال التجاوز بأمان، أبطئ وعُد إلى مسارك خلف السيارة التي كنت تتجاوزها.",
+      "p": "صحيح. عُد إلى مسارك."
+    },
+    "ht": {
+      "q": "Ou kòmanse pase sou yon wout ki gen de liy, epi yon machin parèt devan, l ap vini sou ou. Pa gen ase plas. Kisa ou ta dwe fè?",
+      "o": [
+        "Akselere epi espere w ap rive",
+        "Ralanti epi retounen dèyè machin ou t ap pase a",
+        "Kondui sou bò wout la a goch",
+        "Rete bò kote machin nan epi klaksonnen"
+      ],
+      "h1": "Retounen san danje pi bon pase fè kous.",
+      "h2": "Si ou pa ka fin pase san danje, ralanti epi retounen nan liy ou dèyè machin ou t ap pase a.",
+      "p": "Wi, se sa. Retounen nan liy ou."
     }
   },
   {
@@ -4048,6 +4228,66 @@
       "h1": "Frenar fuerte en una curva puede hacerlo patinar.",
       "h2": "Baje la velocidad antes de entrar a una curva y mantenga una velocidad constante en ella; frenar en la curva puede hacer que las llantas pierdan agarre.",
       "p": "Correcto. Baje la velocidad antes de la curva."
+    },
+    "zh": {
+      "q": "什么时候为弯道减速最好？",
+      "o": [
+        "在弯道中间",
+        "在弯道结束时",
+        "在进入弯道之前",
+        "你不需要减速"
+      ],
+      "h1": "在弯道里猛踩刹车可能会让车打滑。",
+      "h2": "要在进入弯道之前减速，然后用平稳的速度开过弯道；在弯道里刹车会让轮胎失去抓地力。",
+      "p": "对。在弯道之前减速。"
+    },
+    "vi": {
+      "q": "Khi nào là lúc tốt nhất để giảm tốc cho khúc cua?",
+      "o": [
+        "Ở giữa khúc cua",
+        "Ở cuối khúc cua",
+        "Trước khi vào khúc cua",
+        "Bạn không cần giảm tốc"
+      ],
+      "h1": "Phanh gấp trong khúc cua có thể làm xe bị trượt.",
+      "h2": "Hãy giảm tốc trước khi vào khúc cua, rồi giữ tốc độ đều khi đi qua; phanh trong khúc cua có thể làm bánh xe mất độ bám.",
+      "p": "Đúng. Giảm tốc trước khúc cua."
+    },
+    "tl": {
+      "q": "Kailan ang pinakamainam na oras para bumagal para sa kurbada?",
+      "o": [
+        "Sa gitna ng kurbada",
+        "Sa dulo ng kurbada",
+        "Bago ka pumasok sa kurbada",
+        "Hindi mo kailangang bumagal"
+      ],
+      "h1": "Ang malakas na pagpreno sa kurbada ay puwedeng magpadulas sa iyo.",
+      "h2": "Bumagal bago ka pumasok sa kurbada, saka panatilihing pantay ang bilis habang dumadaan dito; ang pagpreno sa kurbada ay puwedeng magpawala ng kapit ng gulong.",
+      "p": "Tama. Bumagal bago ang kurbada."
+    },
+    "ar": {
+      "q": "ما أفضل وقت لتخفيف السرعة عند منعطف؟",
+      "o": [
+        "في منتصف المنعطف",
+        "في نهاية المنعطف",
+        "قبل أن تدخل المنعطف",
+        "ليس عليك أن تُبطئ"
+      ],
+      "h1": "الضغط بقوة على الفرامل في المنعطف قد يجعل السيارة تنزلق.",
+      "h2": "أبطئ قبل أن تدخل المنعطف، ثم حافظ على سرعة ثابتة وأنت تمرّ فيه؛ فالفرملة داخل المنعطف قد تُفقد الإطارات تماسكها.",
+      "p": "صحيح. أبطئ قبل المنعطف."
+    },
+    "ht": {
+      "q": "Ki pi bon moman pou w ralanti pou yon koub?",
+      "o": [
+        "Nan mitan koub la",
+        "Nan fen koub la",
+        "Anvan ou antre nan koub la",
+        "Ou pa bezwen ralanti"
+      ],
+      "h1": "Si w frennen fò nan yon koub, machin nan ka glise.",
+      "h2": "Ralanti anvan ou antre nan yon koub, epi kenbe yon vitès ki pa chanje pandan w ap pase ladan l; si w frennen nan koub la, kawotchou yo ka pèdi gripe.",
+      "p": "Wi, se sa. Ralanti anvan koub la."
     }
   },
   {
@@ -4082,6 +4322,66 @@
       "h1": "El espacio es su ruta de escape.",
       "h2": "Mantener espacio libre a los lados le da lugar para esquivar un peligro si no alcanza a pararse a tiempo.",
       "p": "Correcto. Le da una salida."
+    },
+    "zh": {
+      "q": "为什么你应该尽量在车旁边也留出空间，而不只是在前面？",
+      "o": [
+        "让其他车可以停车",
+        "让你的车保持凉快",
+        "让你可以同时开在两条车道上",
+        "这样前面出事时你有地方转向躲开"
+      ],
+      "h1": "空间就是你的逃生路线。",
+      "h2": "在车旁边留出空间，当你来不及停车时，就有地方转向躲开危险。",
+      "p": "对。这给你一条出路。"
+    },
+    "vi": {
+      "q": "Tại sao bạn nên cố giữ khoảng trống bên cạnh xe, không chỉ phía trước?",
+      "o": [
+        "Để xe khác có thể đậu",
+        "Để xe của bạn mát hơn",
+        "Để bạn có thể chạy trên hai làn",
+        "Để bạn có chỗ lái tránh nếu có chuyện xảy ra phía trước"
+      ],
+      "h1": "Khoảng trống là đường thoát của bạn.",
+      "h2": "Giữ khoảng trống bên cạnh xe cho bạn chỗ để lái tránh mối nguy nếu bạn không thể dừng kịp.",
+      "p": "Đúng. Nó cho bạn một đường thoát."
+    },
+    "tl": {
+      "q": "Bakit dapat mong subukang magkaroon ng bakanteng espasyo sa tabi ng iyong kotse, hindi lang sa harap?",
+      "o": [
+        "Para makaparada ang ibang kotse",
+        "Para manatiling malamig ang kotse mo",
+        "Para makapagmaneho ka sa dalawang lane",
+        "Para may mapupuntahan ka kung may mangyari sa unahan"
+      ],
+      "h1": "Ang espasyo ay ang iyong daan palabas.",
+      "h2": "Ang bakanteng espasyo sa tabi ng iyong kotse ay nagbibigay sa iyo ng lugar para umiwas sa panganib kung hindi ka makahinto sa oras.",
+      "p": "Tama. Nagbibigay ito sa iyo ng daan palabas."
+    },
+    "ar": {
+      "q": "لماذا يجب أن تحاول ترك مساحة فارغة بجانب سيارتك، لا أمامها فقط؟",
+      "o": [
+        "حتى تتمكن السيارات الأخرى من الوقوف",
+        "حتى تبقى سيارتك أبرد",
+        "حتى تستطيع القيادة على مسارين",
+        "حتى يكون لديك مكان توجّه إليه سيارتك إذا حدث شيء أمامك"
+      ],
+      "h1": "المساحة هي طريق نجاتك.",
+      "h2": "ترك مساحة فارغة بجانب سيارتك يعطيك مكانًا تبتعد إليه عن الخطر إذا لم تستطع التوقف في الوقت المناسب.",
+      "p": "صحيح. هي تعطيك طريقًا للخروج."
+    },
+    "ht": {
+      "q": "Poukisa ou ta dwe eseye kenbe espas lib bò kote machin ou, pa sèlman devan?",
+      "o": [
+        "Pou lòt machin ka pake",
+        "Pou machin ou rete pi fre",
+        "Pou ou ka kondui sou de liy",
+        "Pou ou gen kote pou w vire si yon bagay rive devan"
+      ],
+      "h1": "Espas se chemen pou w chape.",
+      "h2": "Lè ou kenbe espas lib bò kote machin ou, ou gen plas pou w vire evite yon danje si ou pa ka kanpe a tan.",
+      "p": "Wi, se sa. Li ba w yon fason pou w soti."
     }
   },
   {
@@ -4116,6 +4416,66 @@
       "h1": "Necesita espacio para rodearlo.",
       "h2": "Al pararse, deje suficiente espacio para ver las llantas traseras del carro de adelante tocando la vía, para poder rodearlo si se queda parado.",
       "p": "Correcto. Vea sus llantas traseras en la vía."
+    },
+    "zh": {
+      "q": "你在红绿灯前停在另一辆车后面。你应该留多少空间？",
+      "o": [
+        "足够看到它的后轮接触路面",
+        "只留几英寸",
+        "至少五个车身长",
+        "不留空间，直接贴上去"
+      ],
+      "h1": "你需要有空间可以绕过它。",
+      "h2": "停车时，要留出足够的空间，能看到前车后轮接触路面，这样如果它熄火，你可以转向绕过去。",
+      "p": "对。要看到它的后轮在路面上。"
+    },
+    "vi": {
+      "q": "Bạn dừng sau một xe khác ở đèn giao thông. Bạn nên chừa khoảng cách bao nhiêu?",
+      "o": [
+        "Đủ để thấy bánh sau của xe đó chạm mặt đường",
+        "Chỉ vài inch",
+        "Ít nhất năm chiều dài xe",
+        "Không chừa chỗ; chạy sát vào"
+      ],
+      "h1": "Bạn cần chỗ để đi vòng qua xe đó.",
+      "h2": "Khi dừng, hãy chừa đủ khoảng cách để thấy bánh sau của xe phía trước chạm mặt đường, để bạn có thể lái vòng qua nếu xe đó bị chết máy.",
+      "p": "Đúng. Thấy bánh sau của xe đó trên mặt đường."
+    },
+    "tl": {
+      "q": "Huminto ka sa likod ng isang kotse sa ilaw-trapiko. Gaano kalaking espasyo ang dapat mong iwan?",
+      "o": [
+        "Sapat para makita ang mga gulong nito sa likod na nakadikit sa daan",
+        "Ilang pulgada lang",
+        "Hindi bababa sa limang haba ng kotse",
+        "Walang espasyo; idikit mo na"
+      ],
+      "h1": "Kailangan mo ng espasyo para makaikot dito.",
+      "h2": "Kapag nakahinto, mag-iwan ng sapat na espasyo para makita ang mga gulong sa likod ng kotse sa unahan na nakadikit sa daan, para maikot mo ito kung mamatayan ito ng makina.",
+      "p": "Tama. Makita ang mga gulong nito sa likod sa daan."
+    },
+    "ar": {
+      "q": "توقفت خلف سيارة أخرى عند إشارة ضوئية. كم مسافة يجب أن تترك؟",
+      "o": [
+        "ما يكفي لترى إطاراتها الخلفية تلمس الطريق",
+        "بضع بوصات فقط",
+        "طول خمس سيارات على الأقل",
+        "بدون مسافة؛ اقترب منها تمامًا"
+      ],
+      "h1": "تحتاج إلى مكان لتلتفّ حولها.",
+      "h2": "عندما تتوقف، اترك مسافة تكفي لترى الإطارات الخلفية للسيارة التي أمامك تلمس الطريق، حتى تستطيع أن تلتفّ حولها إذا توقف محركها.",
+      "p": "صحيح. انظر إلى إطاراتها الخلفية على الطريق."
+    },
+    "ht": {
+      "q": "Ou kanpe dèyè yon lòt machin nan yon limyè. Konbyen espas ou ta dwe kite?",
+      "o": [
+        "Ase pou w wè kawotchou dèyè li yo touche wout la",
+        "Kèk pous sèlman",
+        "Omwen longè senk machin",
+        "Okenn espas; kole sou li"
+      ],
+      "h1": "Ou bezwen plas pou w fè wonn li.",
+      "h2": "Lè ou kanpe, kite ase espas pou w wè kawotchou dèyè machin devan an touche wout la, konsa ou ka vire fè wonn li si motè l mouri.",
+      "p": "Wi, se sa. Wè kawotchou dèyè li sou wout la."
     }
   },
   {
@@ -4150,6 +4510,66 @@
       "h1": "Los espejos no muestran todo.",
       "h2": "Un punto ciego es un área al lado o detrás de su carro que los espejos no muestran, así que debe girar la cabeza para revisarla.",
       "p": "Correcto. Los espejos no lo muestran."
+    },
+    "zh": {
+      "q": "什么是盲点？",
+      "o": [
+        "夜里路上黑暗的地方",
+        "你车子周围在后视镜里看不到的区域",
+        "挡风玻璃上的一个点",
+        "不准停车的地方"
+      ],
+      "h1": "后视镜不能显示所有东西。",
+      "h2": "盲点是你车旁边或后面后视镜照不到的区域，所以你必须转头去查看。",
+      "p": "对。你的后视镜看不到那里。"
+    },
+    "vi": {
+      "q": "Điểm mù là gì?",
+      "o": [
+        "Một đoạn đường tối vào ban đêm",
+        "Một vùng quanh xe mà bạn không thấy được trong gương",
+        "Một vết trên kính chắn gió",
+        "Một nơi không được đậu xe"
+      ],
+      "h1": "Gương không cho thấy mọi thứ.",
+      "h2": "Điểm mù là vùng bên cạnh hoặc phía sau xe mà gương không cho thấy, nên bạn phải quay đầu để kiểm tra.",
+      "p": "Đúng. Gương của bạn không cho thấy vùng đó."
+    },
+    "tl": {
+      "q": "Ano ang blind spot?",
+      "o": [
+        "Madilim na bahagi ng daan sa gabi",
+        "Isang lugar sa paligid ng kotse mo na hindi mo makita sa mga salamin",
+        "Isang mantsa sa windshield mo",
+        "Isang lugar kung saan bawal pumarada"
+      ],
+      "h1": "Hindi ipinapakita ng mga salamin ang lahat.",
+      "h2": "Ang blind spot ay isang lugar sa tabi o sa likod ng kotse mo na hindi ipinapakita ng mga salamin, kaya kailangan mong lumingon para tingnan ito.",
+      "p": "Tama. Hindi ito maipakita ng mga salamin mo."
+    },
+    "ar": {
+      "q": "ما هي النقطة العمياء؟",
+      "o": [
+        "جزء مظلم من الطريق في الليل",
+        "منطقة حول سيارتك لا تراها في مراياك",
+        "بقعة على الزجاج الأمامي",
+        "مكان يُمنع فيه الوقوف"
+      ],
+      "h1": "المرايا لا تُظهر كل شيء.",
+      "h2": "النقطة العمياء منطقة بجانب سيارتك أو خلفها لا تُظهرها المرايا، لذلك يجب أن تُدير رأسك لتتحقق منها.",
+      "p": "صحيح. مراياك لا تُظهرها."
+    },
+    "ht": {
+      "q": "Kisa yon zòn avèg ye?",
+      "o": [
+        "Yon pati wout la ki fè nwa lannuit",
+        "Yon zòn bò machin ou ke ou pa ka wè nan miwa ou yo",
+        "Yon tach sou vit devan machin ou",
+        "Yon kote ou pa gen dwa pake"
+      ],
+      "h1": "Miwa yo pa montre tout bagay.",
+      "h2": "Yon zòn avèg se yon zòn bò kote oswa dèyè machin ou ke miwa ou yo pa montre, kidonk ou dwe vire tèt ou pou w gade l.",
+      "p": "Wi, se sa. Miwa ou yo pa ka montre l."
     }
   },
   {
@@ -4184,6 +4604,66 @@
       "h1": "No se quede donde el otro conductor no lo ve.",
       "h2": "No maneje en el punto ciego de otro conductor; acelere o quédese atrás para que el conductor pueda verlo en un espejo.",
       "p": "Correcto. Salga de su punto ciego."
+    },
+    "zh": {
+      "q": "你正开在另一辆车的侧后方，那位司机可能看不到你。你应该怎么做？",
+      "o": [
+        "留在那里，那是最安全的位置",
+        "每隔几秒按一次喇叭",
+        "加速或放慢，让自己不在那位司机的盲点里",
+        "打开你的危险警告灯"
+      ],
+      "h1": "不要停留在别的司机看不到你的地方。",
+      "h2": "不要一直开在别的司机的盲点里；要加速或放慢，让那位司机能在后视镜里看到你。",
+      "p": "对。离开他们的盲点。"
+    },
+    "vi": {
+      "q": "Bạn đang chạy ngay phía sau và bên cạnh một xe khác, nơi tài xế có thể không thấy bạn. Bạn nên làm gì?",
+      "o": [
+        "Ở yên đó; đó là chỗ an toàn nhất",
+        "Bấm còi mỗi vài giây",
+        "Tăng tốc hoặc lùi lại để không ở trong điểm mù của tài xế",
+        "Bật đèn khẩn cấp"
+      ],
+      "h1": "Đừng ở chỗ mà tài xế kia không thấy bạn.",
+      "h2": "Đừng chạy trong điểm mù của tài xế khác; hãy tăng tốc hoặc lùi lại để tài xế đó thấy bạn trong gương.",
+      "p": "Đúng. Ra khỏi điểm mù của họ."
+    },
+    "tl": {
+      "q": "Nagmamaneho ka sa likod at sa gilid ng isang kotse, kung saan baka hindi ka makita ng drayber. Ano ang dapat mong gawin?",
+      "o": [
+        "Manatili roon; iyon ang pinakaligtas na lugar",
+        "Bumusina bawat ilang segundo",
+        "Bumilis o umatras para wala ka sa blind spot ng drayber",
+        "Buksan ang iyong hazard lights"
+      ],
+      "h1": "Huwag manatili kung saan hindi ka makita ng ibang drayber.",
+      "h2": "Huwag magmaneho sa blind spot ng ibang drayber; bumilis o umatras para makita ka ng drayber sa salamin.",
+      "p": "Tama. Umalis sa kanilang blind spot."
+    },
+    "ar": {
+      "q": "أنت تقود خلف سيارة أخرى وإلى جانبها مباشرة، حيث قد لا يراك سائقها. ماذا تفعل؟",
+      "o": [
+        "تبقى هناك؛ فهو أكثر مكان آمن",
+        "تستعمل البوق كل بضع ثوانٍ",
+        "تُسرع أو تتأخر حتى لا تكون في النقطة العمياء للسائق",
+        "تُشغّل أضواء الطوارئ"
+      ],
+      "h1": "يجب ألّا تبقى حيث لا يستطيع السائق الآخر أن يراك.",
+      "h2": "يجب ألّا تسير في النقطة العمياء لسائق آخر؛ أسرع أو تأخّر حتى يراك السائق في المرآة.",
+      "p": "صحيح. اخرج من نقطته العمياء."
+    },
+    "ht": {
+      "q": "W ap kondui jis dèyè ak sou kote yon lòt machin, kote chofè a ka pa wè w. Kisa ou ta dwe fè?",
+      "o": [
+        "Rete la; se kote ki pi san danje a",
+        "Klaksonnen chak kèk segonn",
+        "Akselere oswa ralanti pou w pa nan zòn avèg chofè a",
+        "Limen limyè ijans ou yo"
+      ],
+      "h1": "Pa rete kote lòt chofè a pa ka wè w.",
+      "h2": "Pa kondui nan zòn avèg yon lòt chofè; akselere oswa ralanti pou chofè a ka wè w nan yon miwa.",
+      "p": "Wi, se sa. Soti nan zòn avèg li."
     }
   },
   {
@@ -4218,6 +4698,66 @@
       "h1": "Ver mucho de su propio carro desperdicia espacio del espejo.",
       "h2": "Ajuste cada espejo lateral de modo que apenas vea el costado de su carro; así ve más de los carriles a su lado y los puntos ciegos son más pequeños.",
       "p": "Correcto. Apenas vea su propio carro."
+    },
+    "zh": {
+      "q": "侧后视镜应该怎么调，才能看到最多的范围？",
+      "o": [
+        "让你主要看到自己的车",
+        "对着地面",
+        "对着天空",
+        "让你刚好能看到一点自己车的侧面"
+      ],
+      "h1": "看到很多自己的车会浪费镜子的空间。",
+      "h2": "把每个侧后视镜调到刚好能看到一点自己车的侧面；这样能看到更多旁边的车道，盲点也会变小。",
+      "p": "对。刚好看到一点自己的车。"
+    },
+    "vi": {
+      "q": "Bạn nên chỉnh gương chiếu hậu hai bên như thế nào để thấy được nhiều nhất?",
+      "o": [
+        "Để bạn thấy chủ yếu là xe của mình",
+        "Chĩa xuống đất",
+        "Chĩa lên trời",
+        "Để bạn vừa đủ thấy một chút hông xe của mình"
+      ],
+      "h1": "Thấy nhiều xe của mình là phí chỗ trong gương.",
+      "h2": "Chỉnh mỗi gương bên để bạn vừa đủ thấy một chút hông xe của mình; như vậy gương cho thấy nhiều hơn các làn bên cạnh và điểm mù nhỏ hơn.",
+      "p": "Đúng. Vừa đủ thấy xe của mình."
+    },
+    "tl": {
+      "q": "Paano mo dapat ayusin ang mga side mirror para makita ang pinakamarami?",
+      "o": [
+        "Para karamihan ng makikita mo ay ang sarili mong kotse",
+        "Nakaturo sa lupa",
+        "Nakaturo sa langit",
+        "Para halos hindi mo na makita ang gilid ng sarili mong kotse"
+      ],
+      "h1": "Nasasayang ang espasyo ng salamin kung maraming bahagi ng sarili mong kotse ang nakikita.",
+      "h2": "Ayusin ang bawat side mirror para halos hindi mo na makita ang gilid ng kotse mo; mas marami nitong naipapakita ang mga lane sa tabi mo at lumiliit ang mga blind spot.",
+      "p": "Tama. Halos hindi na makita ang sarili mong kotse."
+    },
+    "ar": {
+      "q": "كيف تضبط المرايا الجانبية لترى أكبر مساحة ممكنة؟",
+      "o": [
+        "بحيث ترى سيارتك في معظمها",
+        "موجّهة نحو الأرض",
+        "موجّهة نحو السماء",
+        "بحيث ترى جانب سيارتك بالكاد"
+      ],
+      "h1": "رؤية جزء كبير من سيارتك تُضيّع مساحة المرآة.",
+      "h2": "اضبط كل مرآة جانبية بحيث ترى جانب سيارتك بالكاد؛ فهذا يُظهر جزءًا أكبر من المسارات بجانبك ويجعل النقاط العمياء أصغر.",
+      "p": "صحيح. ترى سيارتك بالكاد."
+    },
+    "ht": {
+      "q": "Kijan ou ta dwe ranje miwa kote yo pou w wè plis bagay posib?",
+      "o": [
+        "Pou w wè sitou pwòp machin ou",
+        "Vire anba atè",
+        "Vire anlè nan syèl la",
+        "Pou w jis apèn wè bò pwòp machin ou"
+      ],
+      "h1": "Si w wè anpil nan machin ou, ou gaspiye plas nan miwa a.",
+      "h2": "Ranje chak miwa kote pou w jis apèn wè bò machin ou; konsa li montre plis nan liy ki bò kote w yo epi zòn avèg yo vin pi piti.",
+      "p": "Wi, se sa. Jis apèn wè pwòp machin ou."
     }
   },
   {
@@ -4252,6 +4792,66 @@
       "h1": "Una direccional encendida da un mensaje equivocado.",
       "h2": "Después de cambiar de carril, asegúrese de que la direccional esté apagada, o los demás pueden pensar que va a girar o cambiar de carril otra vez.",
       "p": "Correcto. Asegúrese de que esté apagada."
+    },
+    "zh": {
+      "q": "你刚刚换了车道。你应该检查什么？",
+      "o": [
+        "你的转向灯已经关掉",
+        "你的危险警告灯开着",
+        "你的远光灯开着",
+        "你的收音机关着"
+      ],
+      "h1": "转向灯一直开着会传递错误的信息。",
+      "h2": "换车道后，要确定你的转向灯已经关掉，不然其他司机可能以为你又要转弯或换车道。",
+      "p": "对。要确定转向灯关了。"
+    },
+    "vi": {
+      "q": "Bạn vừa chuyển làn. Bạn nên kiểm tra điều gì?",
+      "o": [
+        "Đèn xi nhan của bạn đã tắt",
+        "Đèn khẩn cấp của bạn đang bật",
+        "Đèn pha chiếu xa của bạn đang bật",
+        "Radio của bạn đã tắt"
+      ],
+      "h1": "Đèn xi nhan để quên sẽ báo sai cho người khác.",
+      "h2": "Sau khi chuyển làn, hãy chắc chắn đèn xi nhan đã tắt, nếu không các tài xế khác có thể nghĩ bạn sắp rẽ hoặc chuyển làn nữa.",
+      "p": "Đúng. Chắc chắn xi nhan đã tắt."
+    },
+    "tl": {
+      "q": "Kalilipat mo lang ng lane. Ano ang dapat mong tingnan?",
+      "o": [
+        "Na namatay na ang iyong turn signal",
+        "Na nakabukas ang iyong hazard lights",
+        "Na nakabukas ang iyong high beams",
+        "Na nakapatay ang iyong radyo"
+      ],
+      "h1": "Ang signal na naiwang nakabukas ay nagbibigay ng maling mensahe.",
+      "h2": "Pagkatapos lumipat ng lane, siguraduhing nakapatay ang iyong turn signal, dahil baka isipin ng ibang drayber na liliko ka o lilipat ulit ng lane.",
+      "p": "Tama. Siguraduhing nakapatay ang signal."
+    },
+    "ar": {
+      "q": "غيّرت مسارك للتو. ما الذي يجب أن تتحقق منه؟",
+      "o": [
+        "أن إشارة الانعطاف انطفأت",
+        "أن أضواء الطوارئ مضاءة",
+        "أن الأضواء العالية مضاءة",
+        "أن الراديو مُطفأ"
+      ],
+      "h1": "الإشارة التي تبقى مضاءة تعطي رسالة خاطئة.",
+      "h2": "بعد تغيير المسار، تأكد أن إشارة الانعطاف مُطفأة، وإلا قد يظن السائقون الآخرون أنك ستنعطف أو ستغيّر المسار مرة أخرى.",
+      "p": "صحيح. تأكد أن الإشارة مُطفأة."
+    },
+    "ht": {
+      "q": "Ou fèk chanje liy. Kisa ou ta dwe tcheke?",
+      "o": [
+        "Siyal pou vire a etenn",
+        "Limyè ijans ou yo limen",
+        "Gwo limyè ou yo limen",
+        "Radyo ou etenn"
+      ],
+      "h1": "Yon siyal ki rete limen bay move mesaj.",
+      "h2": "Apre ou chanje liy, asire w siyal pou vire a etenn, sinon lòt chofè ka panse ou pral vire oswa chanje liy ankò.",
+      "p": "Wi, se sa. Asire w siyal la etenn."
     }
   },
   {
@@ -4286,6 +4886,66 @@
       "h1": "Ver antes le da tiempo.",
       "h2": "Mirar lejos hacia adelante le permite ver los peligros temprano, así tiene más tiempo para bajar la velocidad, cambiar de carril o pararse con suavidad.",
       "p": "Correcto. Ve los problemas antes."
+    },
+    "zh": {
+      "q": "为什么你应该往前方远处看，而不只是看你前面那辆车？",
+      "o": [
+        "为了好玩去看标志",
+        "为了早点发现问题，有时间反应",
+        "为了让眼睛休息",
+        "因为前面的车不重要"
+      ],
+      "h1": "提早发现能给你时间。",
+      "h2": "往前方远处看能让你早点发现危险，这样你有更多时间平稳地减速、换车道或停车。",
+      "p": "对。你能更早看到麻烦。"
+    },
+    "vi": {
+      "q": "Tại sao bạn nên nhìn xa về phía trước, không chỉ nhìn xe ngay trước mặt?",
+      "o": [
+        "Để đọc biển báo cho vui",
+        "Để thấy vấn đề sớm và có thời gian phản ứng",
+        "Để mắt được nghỉ",
+        "Vì xe phía trước không quan trọng"
+      ],
+      "h1": "Biết trước sớm cho bạn thêm thời gian.",
+      "h2": "Nhìn xa phía trước giúp bạn phát hiện mối nguy sớm, nên bạn có nhiều thời gian hơn để giảm tốc, chuyển làn hoặc dừng lại êm.",
+      "p": "Đúng. Bạn thấy rắc rối sớm hơn."
+    },
+    "tl": {
+      "q": "Bakit dapat kang tumingin nang malayo sa daan sa unahan, hindi lang sa kotseng nasa harap mo?",
+      "o": [
+        "Para magbasa ng mga karatula bilang libangan",
+        "Para makita nang maaga ang mga problema at may oras kang kumilos",
+        "Para ipahinga ang iyong mga mata",
+        "Dahil hindi mahalaga ang kotse sa unahan"
+      ],
+      "h1": "Ang maagang babala ay nagbibigay sa iyo ng oras.",
+      "h2": "Ang pagtingin nang malayo sa unahan ay tumutulong sa iyo na makita nang maaga ang mga panganib, kaya mas marami kang oras para bumagal, lumipat ng lane o huminto nang maayos.",
+      "p": "Tama. Mas maaga mong nakikita ang problema."
+    },
+    "ar": {
+      "q": "لماذا يجب أن تنظر بعيدًا إلى الطريق أمامك، لا إلى السيارة التي أمامك فقط؟",
+      "o": [
+        "لتقرأ العلامات للتسلية",
+        "لترى المشكلات مبكرًا ويكون لديك وقت لتتصرف",
+        "لتريح عينيك",
+        "لأن السيارة التي أمامك لا تهم"
+      ],
+      "h1": "التنبّه المبكر يعطيك وقتًا.",
+      "h2": "النظر بعيدًا إلى الأمام يجعلك تلاحظ الأخطار مبكرًا، فيكون لديك وقت أطول لتُبطئ أو تغيّر المسار أو تتوقف بهدوء.",
+      "p": "صحيح. ترى المشكلة أبكر."
+    },
+    "ht": {
+      "q": "Poukisa ou ta dwe gade lwen devan sou wout la, pa sèlman machin ki devan w lan?",
+      "o": [
+        "Pou li siy pou plezi",
+        "Pou w wè pwoblèm bonè epi gen tan pou w reyaji",
+        "Pou repoze je ou",
+        "Paske machin devan an pa enpòtan"
+      ],
+      "h1": "Lè w avèti bonè, ou gen tan.",
+      "h2": "Lè ou gade lwen devan, ou wè danje yo bonè, konsa ou gen plis tan pou w ralanti, chanje liy oswa kanpe dousman.",
+      "p": "Wi, se sa. Ou wè pwoblèm pi bonè."
     }
   },
   {
@@ -4320,6 +4980,66 @@
       "h1": "El tráfico a su alrededor cambia todo el tiempo.",
       "h2": "Mire los espejos cada pocos segundos y siempre antes de bajar la velocidad, pararse, girar o cambiar de carril.",
       "p": "Correcto. Cada pocos segundos y antes de cualquier cambio."
+    },
+    "zh": {
+      "q": "开车时你应该多久看一次后视镜？",
+      "o": [
+        "只在倒车时",
+        "只在红灯时",
+        "每隔几秒看一次，并且在减速、停车或换车道之前看",
+        "出发时看一次"
+      ],
+      "h1": "你周围的交通一直在变化。",
+      "h2": "每隔几秒看一次后视镜，并且在减速、停车、转弯或换车道之前一定要看。",
+      "p": "对。每隔几秒，以及在任何变化之前。"
+    },
+    "vi": {
+      "q": "Khi lái xe, bạn nên nhìn gương bao lâu một lần?",
+      "o": [
+        "Chỉ khi lùi xe",
+        "Chỉ khi gặp đèn đỏ",
+        "Mỗi vài giây, và trước khi giảm tốc, dừng lại hoặc chuyển làn",
+        "Một lần khi bắt đầu chuyến đi"
+      ],
+      "h1": "Xe cộ quanh bạn thay đổi liên tục.",
+      "h2": "Hãy nhìn gương mỗi vài giây và luôn nhìn trước khi giảm tốc, dừng lại, rẽ hoặc chuyển làn.",
+      "p": "Đúng. Mỗi vài giây và trước mọi thay đổi."
+    },
+    "tl": {
+      "q": "Gaano kadalas mo dapat tingnan ang mga salamin habang nagmamaneho?",
+      "o": [
+        "Kapag umaatras ka lang",
+        "Sa pulang ilaw lang",
+        "Bawat ilang segundo, at bago bumagal, huminto o lumipat ng lane",
+        "Isang beses sa simula ng biyahe"
+      ],
+      "h1": "Palaging nagbabago ang trapiko sa paligid mo.",
+      "h2": "Tingnan ang iyong mga salamin bawat ilang segundo at palagi bago ka bumagal, huminto, lumiko o lumipat ng lane.",
+      "p": "Tama. Bawat ilang segundo at bago ang anumang pagbabago."
+    },
+    "ar": {
+      "q": "كم مرة يجب أن تنظر في مراياك وأنت تقود؟",
+      "o": [
+        "فقط عندما ترجع إلى الخلف",
+        "فقط عند الإشارات الحمراء",
+        "كل بضع ثوانٍ، وقبل أن تُبطئ أو تتوقف أو تغيّر المسار",
+        "مرة واحدة في بداية الرحلة"
+      ],
+      "h1": "حركة السير حولك تتغير طوال الوقت.",
+      "h2": "انظر في مراياك كل بضع ثوانٍ، ودائمًا قبل أن تُبطئ أو تتوقف أو تنعطف أو تغيّر المسار.",
+      "p": "صحيح. كل بضع ثوانٍ وقبل أي تغيير."
+    },
+    "ht": {
+      "q": "Konbyen fwa ou ta dwe gade miwa ou yo pandan w ap kondui?",
+      "o": [
+        "Sèlman lè w ap fè bak",
+        "Sèlman nan limyè wouj",
+        "Chak kèk segonn, epi anvan ou ralanti, kanpe oswa chanje liy",
+        "Yon fwa nan kòmansman vwayaj la"
+      ],
+      "h1": "Machin ki bò kote w yo ap chanje tout tan.",
+      "h2": "Gade miwa ou yo chak kèk segonn epi toujou anvan ou ralanti, kanpe, vire oswa chanje liy.",
+      "p": "Wi, se sa. Chak kèk segonn epi anvan nenpòt chanjman."
     }
   },
   {
@@ -4354,6 +5074,66 @@
       "h1": "El tráfico de la autopista va rápido.",
       "h2": "Use la rampa para tomar velocidad; pararse al final significa incorporarse a un tráfico rápido desde cero, lo cual es peligroso.",
       "p": "Correcto. Incorporarse desde cero es muy difícil."
+    },
+    "zh": {
+      "q": "如果车流允许，为什么要避免在快速路入口匝道的尽头停下？",
+      "o": [
+        "在那里停车永远是犯罪",
+        "你后面的车会从路肩超过你",
+        "匝道会关闭",
+        "从停住的状态并入快速车流非常困难"
+      ],
+      "h1": "快速路上的车开得很快。",
+      "h2": "你要利用匝道加速；在匝道尽头停下，就得从完全停住的状态并入快速车流，这很危险。",
+      "p": "对。从停住的状态并道非常困难。"
+    },
+    "vi": {
+      "q": "Nếu dòng xe cho phép, tại sao bạn nên tránh dừng lại ở cuối đường dẫn vào đường cao tốc?",
+      "o": [
+        "Dừng ở đó luôn là phạm tội",
+        "Xe phía sau sẽ vượt bạn trên lề đường",
+        "Đường dẫn sẽ bị đóng",
+        "Rất khó nhập vào dòng xe chạy nhanh khi đang đứng yên"
+      ],
+      "h1": "Xe trên đường cao tốc chạy rất nhanh.",
+      "h2": "Hãy dùng đường dẫn để tăng tốc; dừng lại ở cuối đường dẫn nghĩa là phải nhập vào dòng xe chạy nhanh từ chỗ đứng yên, điều này rất nguy hiểm.",
+      "p": "Đúng. Nhập làn từ chỗ đứng yên rất khó."
+    },
+    "tl": {
+      "q": "Bakit dapat mong iwasang huminto sa dulo ng on-ramp ng expressway, kung pinapayagan ng trapiko?",
+      "o": [
+        "Laging krimen ang paghinto roon",
+        "Lalampasan ka ng mga kotse sa likod mo sa gilid ng daan (shoulder)",
+        "Isasara ang ramp",
+        "Napakahirap pumasok sa mabilis na trapiko mula sa pagkakahinto"
+      ],
+      "h1": "Mabilis ang takbo ng trapiko sa expressway.",
+      "h2": "Gamitin ang ramp para bumilis; kapag huminto ka sa dulo, kailangan mong pumasok sa mabilis na trapiko mula sa pagkakahinto, at mapanganib iyon.",
+      "p": "Tama. Napakahirap pumasok mula sa pagkakahinto."
+    },
+    "ar": {
+      "q": "لماذا يجب أن تتجنب التوقف عند نهاية منحدر الدخول إلى الطريق السريع، إذا سمحت حركة السير؟",
+      "o": [
+        "التوقف هناك جريمة دائمًا",
+        "السيارات خلفك ستتجاوزك على كتف الطريق",
+        "المنحدر سيُغلق",
+        "من الصعب جدًا أن تندمج في سير سريع وأنت متوقف"
+      ],
+      "h1": "السيارات على الطريق السريع تسير بسرعة.",
+      "h2": "استعمل المنحدر لتزيد سرعتك؛ فالتوقف عند نهايته يعني أن تحاول الاندماج في سير سريع من الوقوف التام، وهذا خطير.",
+      "p": "صحيح. الاندماج من الوقوف صعب جدًا."
+    },
+    "ht": {
+      "q": "Poukisa ou ta dwe evite kanpe nan bout ranp pou antre sou otowout la, si sikilasyon an pèmèt?",
+      "o": [
+        "Kanpe la a toujou yon krim",
+        "Machin dèyè ou yo ap pase ou sou bò wout la",
+        "Ranp lan ap fèmen",
+        "Li difisil anpil pou antre nan machin k ap kouri vit lè ou kanpe"
+      ],
+      "h1": "Machin sou otowout la ap kouri vit.",
+      "h2": "Sèvi ak ranp lan pou ou pran vitès; si ou kanpe nan bout li, ou oblije antre nan machin k ap kouri vit pandan ou kanpe nèt, e sa danjere.",
+      "p": "Wi, se sa. Antre lè ou kanpe difisil anpil."
     }
   },
   {
@@ -4388,6 +5168,66 @@
       "h1": "Incorporarse es más fácil cuando los demás dejan espacio.",
       "h2": "Para ayudar a un carro a incorporarse, cámbiese a la izquierda si es seguro, o ajuste su velocidad para dejarle un espacio.",
       "p": "Correcto. Dele espacio si puede hacerlo con seguridad."
+    },
+    "zh": {
+      "q": "你在快速路的右侧车道上。一辆车正从入口匝道下来准备并道。你可以怎样帮忙？",
+      "o": [
+        "如果安全，向左换一条车道，或调整车速留出空隙",
+        "加速让它无法并道",
+        "在你的车道里停下",
+        "按喇叭警告它"
+      ],
+      "h1": "别人让出空间时，并道会更容易。",
+      "h2": "为了帮助一辆车并道，如果安全，你可以向左换车道，或调整车速，给它留出一个空隙。",
+      "p": "对。如果能安全做到，就让出空间。"
+    },
+    "vi": {
+      "q": "Bạn đang ở làn bên phải trên đường cao tốc. Một xe đang đi xuống đường dẫn để nhập vào. Bạn có thể giúp bằng cách nào?",
+      "o": [
+        "Chuyển sang một làn bên trái nếu an toàn, hoặc điều chỉnh tốc độ để chừa khoảng trống",
+        "Tăng tốc để nó không nhập vào được",
+        "Dừng lại trong làn của bạn",
+        "Bấm còi để cảnh báo nó"
+      ],
+      "h1": "Nhập làn dễ hơn khi người khác nhường chỗ.",
+      "h2": "Để giúp một xe nhập làn, hãy chuyển sang làn bên trái nếu an toàn, hoặc điều chỉnh tốc độ để có khoảng trống cho xe đó.",
+      "p": "Đúng. Hãy nhường chỗ nếu bạn có thể làm an toàn."
+    },
+    "tl": {
+      "q": "Nasa kanang lane ka ng expressway. May kotseng bumababa sa on-ramp para pumasok. Paano ka makakatulong?",
+      "o": [
+        "Lumipat nang isang lane pakaliwa kung ligtas, o ayusin ang bilis mo para mag-iwan ng puwang",
+        "Bumilis para hindi ito makapasok",
+        "Huminto sa lane mo",
+        "Bumusina para balaan ito"
+      ],
+      "h1": "Mas madaling pumasok kapag nagbibigay ng puwang ang iba.",
+      "h2": "Para matulungan ang kotseng pumasok, lumipat pakaliwa kung ligtas, o ayusin ang bilis mo para may puwang para rito.",
+      "p": "Tama. Magbigay ng puwang kung ligtas mong magagawa."
+    },
+    "ar": {
+      "q": "أنت على الطريق السريع في المسار الأيمن. سيارة تنزل على منحدر الدخول لتندمج. كيف تساعدها؟",
+      "o": [
+        "انتقل مسارًا واحدًا إلى اليسار إذا كان ذلك آمنًا، أو عدّل سرعتك لتترك فراغًا",
+        "زِد سرعتك حتى لا تستطيع الاندماج",
+        "توقف في مسارك",
+        "استعمل البوق لتحذيرها"
+      ],
+      "h1": "الاندماج أسهل عندما يفسح الآخرون المجال.",
+      "h2": "لتساعد سيارة على الاندماج، انتقل إلى المسار الأيسر إذا كان ذلك آمنًا، أو عدّل سرعتك حتى يكون هناك فراغ لها.",
+      "p": "صحيح. أفسح المجال إذا استطعت ذلك بأمان."
+    },
+    "ht": {
+      "q": "Ou sou otowout la nan liy adwat la. Yon machin ap desann yon ranp pou antre. Kijan ou ka ede l?",
+      "o": [
+        "Pase yon liy sou bò goch si sa an sekirite, oswa chanje vitès ou pou kite yon espas",
+        "Akselere pou li pa ka antre",
+        "Kanpe nan liy ou",
+        "Klaksonnen pou avèti l"
+      ],
+      "h1": "Li pi fasil pou antre lè lòt moun fè plas.",
+      "h2": "Pou ede yon machin antre, pase sou liy agoch la si sa an sekirite, oswa chanje vitès ou pou gen yon espas pou li.",
+      "p": "Wi, se sa. Fè plas si ou ka fè l an sekirite."
     }
   },
   {
@@ -4422,6 +5262,66 @@
       "h1": "Los espejos tienen puntos ciegos.",
       "h2": "Para incorporarse, mire los espejos y eche una mirada rápida por encima del hombro para encontrar un espacio seguro; luego señale y entre con suavidad.",
       "p": "Correcto. Espejos y una mirada por encima del hombro."
+    },
+    "zh": {
+      "q": "当你并入快速路时，怎样检查车流中的空隙？",
+      "o": [
+        "只看车内后视镜",
+        "看后视镜，并快速转头从肩膀上方看一眼",
+        "只看正前方",
+        "等其他司机挥手让你进去"
+      ],
+      "h1": "后视镜有盲区。",
+      "h2": "并道时，要看后视镜，再快速转头从肩膀上方看一眼，找到安全的空隙，然后打转向灯，平稳并入。",
+      "p": "对。看后视镜，再转头从肩膀上方看一眼。"
+    },
+    "vi": {
+      "q": "Khi nhập vào đường cao tốc, bạn kiểm tra khoảng trống trong dòng xe bằng cách nào?",
+      "o": [
+        "Chỉ dùng gương chiếu hậu trong xe",
+        "Dùng các gương và nhìn nhanh qua vai",
+        "Chỉ nhìn thẳng phía trước",
+        "Chờ người lái khác vẫy tay cho bạn vào"
+      ],
+      "h1": "Gương của bạn có điểm mù.",
+      "h2": "Để nhập làn, hãy nhìn các gương và nhìn nhanh qua vai để tìm khoảng trống an toàn, rồi bật xi nhan và nhập vào một cách êm.",
+      "p": "Đúng. Nhìn gương và nhìn qua vai."
+    },
+    "tl": {
+      "q": "Habang pumapasok ka sa expressway, paano mo sinusuri kung may puwang sa trapiko?",
+      "o": [
+        "Gamitin lang ang rearview mirror",
+        "Gamitin ang mga salamin mo at mabilis na lumingon sa likod ng balikat mo",
+        "Tumingin lang nang diretso sa unahan",
+        "Hintaying kawayan ka ng ibang drayber para pumasok"
+      ],
+      "h1": "May blind spot ang mga salamin mo.",
+      "h2": "Para pumasok, tingnan ang mga salamin mo at mabilis na lumingon sa likod ng balikat mo para makahanap ng ligtas na puwang, saka mag-signal at pumasok nang maayos.",
+      "p": "Tama. Mga salamin at isang lingon sa likod ng balikat."
+    },
+    "ar": {
+      "q": "وأنت تندمج في الطريق السريع، كيف تتأكد من وجود فراغ في السير؟",
+      "o": [
+        "استعمل مرآة الرؤية الخلفية فقط",
+        "استعمل المرايا وانظر نظرة سريعة من فوق كتفك",
+        "انظر إلى الأمام فقط",
+        "انتظر حتى يشير لك سائقون آخرون بالدخول"
+      ],
+      "h1": "المرايا فيها نقاط عمياء.",
+      "h2": "لكي تندمج، انظر في المرايا ثم انظر نظرة سريعة من فوق كتفك لتجد فراغًا آمنًا، ثم شغّل الإشارة واندمج بهدوء.",
+      "p": "صحيح. المرايا ونظرة من فوق الكتف."
+    },
+    "ht": {
+      "q": "Lè w ap antre sou otowout la, kijan ou tcheke si gen yon espas nan sikilasyon an?",
+      "o": [
+        "Sèvi sèlman ak retwovizè anndan an",
+        "Sèvi ak retwovizè ou yo epi gade vit pa dèyè zepòl ou",
+        "Gade sèlman tou dwat devan ou",
+        "Tann lòt chofè fè ou siy pou antre"
+      ],
+      "h1": "Retwovizè ou yo gen kwen ou pa wè.",
+      "h2": "Pou antre, tcheke retwovizè ou yo epi gade vit pa dèyè zepòl ou pou jwenn yon espas ki an sekirite, apre sa mete siyal epi antre dousman.",
+      "p": "Wi, se sa. Retwovizè yo plis yon gade pa dèyè zepòl ou."
     }
   },
   {
@@ -4456,6 +5356,66 @@
       "h1": "Planee con tiempo para no hacer movimientos bruscos.",
       "h2": "Antes de una salida, pásese temprano al carril junto a la salida, señale, y espere a estar en el carril de salida para bajar la velocidad.",
       "p": "Correcto. Cámbiese temprano y señale."
+    },
+    "zh": {
+      "q": "再过一英里就是你要走的快速路出口。你应该怎么做？",
+      "o": [
+        "留在最左侧车道，到最后再横穿过去",
+        "在主车道上猛地减速",
+        "提前换到靠近出口的车道，并在出口前打转向灯",
+        "在出口附近的路肩上停车"
+      ],
+      "h1": "提前计划，就不需要突然的动作。",
+      "h2": "在快速路出口前，要提前换到靠近出口的车道，打转向灯，等进入出口车道后再减速。",
+      "p": "对。提前换道并打转向灯。"
+    },
+    "vi": {
+      "q": "Còn một dặm nữa là đến lối ra đường cao tốc của bạn. Bạn nên làm gì?",
+      "o": [
+        "Ở lại làn bên trái và cắt ngang ở phút cuối",
+        "Giảm tốc mạnh trong các làn chính",
+        "Sớm chuyển vào làn sát lối ra và bật xi nhan trước lối ra",
+        "Dừng trên lề đường gần lối ra"
+      ],
+      "h1": "Hãy tính trước để không phải đổi hướng đột ngột.",
+      "h2": "Trước lối ra đường cao tốc, hãy sớm chuyển vào làn sát lối ra, bật xi nhan, và chờ đến khi vào làn ra mới giảm tốc.",
+      "p": "Đúng. Chuyển làn sớm và bật xi nhan."
+    },
+    "tl": {
+      "q": "Isang milya na lang ang labasan mo sa expressway. Ano ang dapat mong gawin?",
+      "o": [
+        "Manatili sa kaliwang lane at tumawid sa dulo",
+        "Biglang magpabagal sa mga pangunahing lane",
+        "Lumipat nang maaga sa lane na katabi ng labasan at mag-signal bago ang labasan",
+        "Huminto sa gilid ng daan (shoulder) malapit sa labasan"
+      ],
+      "h1": "Magplano nang maaga para hindi mo kailanganin ang biglang galaw.",
+      "h2": "Bago ang labasan ng expressway, lumipat nang maaga sa lane na katabi ng labasan, mag-signal, at maghintay na makapasok sa exit lane bago magpabagal.",
+      "p": "Tama. Lumipat nang maaga at mag-signal."
+    },
+    "ar": {
+      "q": "مخرجك من الطريق السريع بعد ميل واحد. ماذا يجب أن تفعل؟",
+      "o": [
+        "ابقَ في المسار الأيسر واقطع المسارات في آخر لحظة",
+        "خفّف سرعتك فجأة في المسارات الرئيسية",
+        "انتقل مبكرًا إلى المسار المجاور للمخرج وشغّل الإشارة قبل المخرج",
+        "توقف على كتف الطريق قرب المخرج"
+      ],
+      "h1": "خطّط مسبقًا حتى لا تحتاج إلى حركات مفاجئة.",
+      "h2": "قبل مخرج الطريق السريع، انتقل مبكرًا إلى المسار المجاور للمخرج، وشغّل الإشارة، ولا تخفّف سرعتك حتى تدخل مسار الخروج.",
+      "p": "صحيح. انتقل مبكرًا وشغّل الإشارة."
+    },
+    "ht": {
+      "q": "Sòti otowout ou a rive nan yon mil. Kisa ou ta dwe fè?",
+      "o": [
+        "Rete nan liy agoch la epi travèse nan dènye moman",
+        "Ralanti sèk nan liy prensipal yo",
+        "Pase bonè nan liy ki akote sòti a epi mete siyal anvan sòti a",
+        "Kanpe sou bò wout la toupre sòti a"
+      ],
+      "h1": "Planifye davans pou ou pa bezwen fè mouvman sanzatann.",
+      "h2": "Anvan yon sòti otowout, pase bonè nan liy ki akote sòti a, mete siyal, epi tann ou antre nan liy sòti a pou ou ralanti.",
+      "p": "Wi, se sa. Pase bonè epi mete siyal."
     }
   },
   {
@@ -4490,6 +5450,66 @@
       "h1": "Si el carro rueda, debe salirse de la vía.",
       "h2": "En una loma sin acera, gire las ruedas delanteras hacia la orilla de la vía, así si el carro rueda se aleja del tráfico.",
       "p": "Correcto. Hacia la orilla de la vía."
+    },
+    "zh": {
+      "q": "你在没有路缘石的坡道上停车。前轮应该朝哪个方向转？",
+      "o": [
+        "朝向道路中间",
+        "朝正前方",
+        "无所谓",
+        "朝向路边，远离车流"
+      ],
+      "h1": "如果车滑动，应该让它滑离道路。",
+      "h2": "在没有路缘石的坡道上，要把前轮转向路边，这样如果车滑动，它会远离车流。",
+      "p": "对。朝向路边。"
+    },
+    "vi": {
+      "q": "Bạn đỗ xe trên dốc ở chỗ không có lề đá (curb). Bạn nên quay bánh trước về hướng nào?",
+      "o": [
+        "Về phía giữa đường",
+        "Thẳng phía trước",
+        "Không quan trọng",
+        "Về phía mép đường, xa dòng xe"
+      ],
+      "h1": "Nếu xe bị trôi, nó nên trôi ra khỏi đường.",
+      "h2": "Trên dốc không có lề đá, hãy quay bánh trước về phía mép đường, để nếu xe bị trôi thì nó đi xa khỏi dòng xe.",
+      "p": "Đúng. Về phía mép đường."
+    },
+    "tl": {
+      "q": "Pumarada ka sa paakyat o pababang daan na walang curb. Saang direksiyon mo dapat iliko ang mga gulong sa unahan?",
+      "o": [
+        "Papunta sa gitna ng daan",
+        "Diretso sa unahan",
+        "Hindi mahalaga",
+        "Papunta sa gilid ng daan, palayo sa trapiko"
+      ],
+      "h1": "Kung gumulong ang kotse, dapat itong gumulong palabas ng daan.",
+      "h2": "Sa paakyat o pababang daan na walang curb, iliko ang mga gulong sa unahan papunta sa gilid ng daan, para kung gumulong ang kotse, palayo ito sa trapiko.",
+      "p": "Tama. Papunta sa gilid ng daan."
+    },
+    "ar": {
+      "q": "توقف سيارتك على منحدر لا يوجد فيه رصيف. إلى أي اتجاه يجب أن تدير العجلات الأمامية؟",
+      "o": [
+        "نحو وسط الطريق",
+        "إلى الأمام مباشرة",
+        "لا يهم",
+        "نحو حافة الطريق، بعيدًا عن السير"
+      ],
+      "h1": "إذا تحركت السيارة، يجب أن تتحرك خارج الطريق.",
+      "h2": "على منحدر لا رصيف فيه، أدر العجلات الأمامية نحو حافة الطريق، حتى إذا تحركت السيارة تذهب بعيدًا عن السير.",
+      "p": "صحيح. نحو حافة الطريق."
+    },
+    "ht": {
+      "q": "Ou pake sou yon mòn kote pa gen bòdi twotwa. Ki bò ou ta dwe vire wou devan yo?",
+      "o": [
+        "Nan mitan wout la",
+        "Tou dwat devan",
+        "Sa pa gen enpòtans",
+        "Sou bò wout la, lwen sikilasyon an"
+      ],
+      "h1": "Si machin nan woule, li ta dwe woule soti sou wout la.",
+      "h2": "Sou yon mòn ki pa gen bòdi twotwa, vire wou devan yo sou bò wout la, konsa si machin nan woule li ale lwen sikilasyon an.",
+      "p": "Wi, se sa. Sou bò wout la."
     }
   },
   {
@@ -4524,6 +5544,66 @@
       "h1": "Algo debe mantener el carro quieto.",
       "h2": "Al estacionarse en una loma, siempre ponga el freno de mano y deje el carro en \"park\" (o en cambio si es manual), además de girar las ruedas.",
       "p": "Correcto. Ponga el freno de mano."
+    },
+    "zh": {
+      "q": "你在任何坡道上停车。除了转动车轮，你还应该做什么？",
+      "o": [
+        "拉上驻车制动（手刹）",
+        "让发动机继续运转",
+        "打开危险警告灯（双闪）",
+        "把车挂在空挡"
+      ],
+      "h1": "必须有东西让车保持不动。",
+      "h2": "在坡道上停车时，除了转动车轮，一定要拉上驻车制动，并把车挂在 P 挡（手动挡车挂在一个挡位上）。",
+      "p": "对。拉上驻车制动。"
+    },
+    "vi": {
+      "q": "Bạn đỗ xe trên bất kỳ con dốc nào. Ngoài việc quay bánh xe, bạn còn nên làm gì?",
+      "o": [
+        "Kéo phanh tay",
+        "Để máy xe tiếp tục chạy",
+        "Bật đèn khẩn cấp",
+        "Để xe ở số mo (N)"
+      ],
+      "h1": "Phải có thứ gì đó giữ xe đứng yên.",
+      "h2": "Khi đỗ xe trên dốc, ngoài việc quay bánh xe, hãy luôn kéo phanh tay và để xe ở số P (hoặc vào một số nếu là xe số tay).",
+      "p": "Đúng. Kéo phanh tay."
+    },
+    "tl": {
+      "q": "Pumarada ka sa kahit anong paakyat o pababang daan. Ano pa ang dapat mong gawin bukod sa pagliko ng mga gulong?",
+      "o": [
+        "Itaas ang parking brake",
+        "Iwanang tumatakbo ang makina",
+        "Buksan ang hazard lights",
+        "Iwanan ang kotse sa neutral"
+      ],
+      "h1": "Kailangang may pumipigil sa kotse para hindi ito gumalaw.",
+      "h2": "Kapag pumarada ka sa paakyat o pababang daan, laging itaas ang parking brake at ilagay ang kotse sa park (o sa isang gear kung manual), bukod sa pagliko ng mga gulong.",
+      "p": "Tama. Itaas ang parking brake."
+    },
+    "ar": {
+      "q": "توقف سيارتك على أي منحدر. ماذا يجب أن تفعل أيضًا إلى جانب إدارة العجلات؟",
+      "o": [
+        "شدّ فرامل الوقوف (فرامل اليد)",
+        "اترك المحرك يعمل",
+        "شغّل أضواء التحذير",
+        "اترك السيارة على وضع الحياد"
+      ],
+      "h1": "يجب أن يثبّت شيء ما السيارة في مكانها.",
+      "h2": "عندما توقف سيارتك على منحدر، شدّ دائمًا فرامل الوقوف وضع السيارة على وضع الوقوف P (أو على غيار معيّن في السيارة اليدوية)، إلى جانب إدارة العجلات.",
+      "p": "صحيح. شدّ فرامل الوقوف."
+    },
+    "ht": {
+      "q": "Ou pake sou nenpòt mòn. Kisa ankò ou ta dwe fè anplis vire wou yo?",
+      "o": [
+        "Mete fren pakin nan (fren a men)",
+        "Kite motè a ap mache",
+        "Limen limyè danje yo",
+        "Kite machin nan nan neutral"
+      ],
+      "h1": "Fòk gen yon bagay ki kenbe machin nan an plas.",
+      "h2": "Lè ou pake sou yon mòn, toujou mete fren pakin nan epi mete machin nan nan park (oswa nan yon vitès si se yon machin manyèl), anplis vire wou yo.",
+      "p": "Wi, se sa. Mete fren pakin nan."
     }
   },
   {
@@ -4558,6 +5638,66 @@
       "h1": "Los carros en el carril tienen el derecho de paso.",
       "h2": "Antes de salir de un espacio de estacionamiento, señale, mire el espejo y el punto ciego, y espere un espacio seguro, porque el tráfico del carril va primero.",
       "p": "Correcto. Señale, mire y espere un espacio."
+    },
+    "zh": {
+      "q": "你要从路边的平行停车位开出来。你首先应该做什么？",
+      "o": [
+        "趁车还没来赶快开出去",
+        "打转向灯，看后视镜并转头从肩膀上方看，等有安全空隙时再走",
+        "按喇叭然后开出去",
+        "倒车进入车流"
+      ],
+      "h1": "车道上的车有先行权。",
+      "h2": "离开停车位之前，要打转向灯，检查后视镜和盲区，并等待安全的空隙，因为车道上的车先走。",
+      "p": "对。打转向灯、观察，并等待空隙。"
+    },
+    "vi": {
+      "q": "Bạn đang lái ra khỏi chỗ đỗ xe song song. Bạn nên làm gì trước tiên?",
+      "o": [
+        "Lái ra thật nhanh trước khi có xe tới",
+        "Bật xi nhan, nhìn gương và nhìn qua vai, rồi đi khi có khoảng trống an toàn",
+        "Bấm còi rồi lái ra",
+        "Lùi vào dòng xe"
+      ],
+      "h1": "Xe đang chạy trong làn được quyền ưu tiên.",
+      "h2": "Trước khi rời chỗ đỗ, hãy bật xi nhan, kiểm tra gương và điểm mù, và chờ khoảng trống an toàn, vì xe trong làn được đi trước.",
+      "p": "Đúng. Bật xi nhan, quan sát và chờ khoảng trống."
+    },
+    "tl": {
+      "q": "Lalabas ka mula sa parallel parking. Ano ang dapat mong gawin muna?",
+      "o": [
+        "Lumabas nang mabilis bago dumating ang mga kotse",
+        "Mag-signal, tingnan ang salamin mo at lumingon sa likod ng balikat mo, saka umalis kapag may ligtas na puwang",
+        "Bumusina at lumabas",
+        "Umatras papasok sa trapiko"
+      ],
+      "h1": "May karapatan sa daan ang mga kotseng nasa lane.",
+      "h2": "Bago umalis sa paradahan, mag-signal, tingnan ang salamin mo at ang blind spot, at maghintay ng ligtas na puwang, dahil nauuna ang trapiko sa lane.",
+      "p": "Tama. Mag-signal, tumingin, at maghintay ng puwang."
+    },
+    "ar": {
+      "q": "أنت تخرج من موقف اصطفاف موازٍ. ماذا يجب أن تفعل أولًا؟",
+      "o": [
+        "اخرج بسرعة قبل أن تأتي السيارات",
+        "شغّل الإشارة، وانظر في المرآة ومن فوق كتفك، ثم انطلق عندما يكون هناك فراغ آمن",
+        "استعمل البوق واخرج",
+        "ارجع إلى الخلف داخل السير"
+      ],
+      "h1": "السيارات التي في المسار لها حق المرور.",
+      "h2": "قبل أن تغادر موقف السيارة، شغّل الإشارة، وانظر في المرآة وافحص النقطة العمياء، وانتظر فراغًا آمنًا، لأن السيارات التي في المسار تمرّ أولًا.",
+      "p": "صحيح. شغّل الإشارة، وانظر، وانتظر فراغًا."
+    },
+    "ht": {
+      "q": "W ap soti nan yon plas pakin paralèl. Kisa ou ta dwe fè anvan?",
+      "o": [
+        "Soti vit anvan machin yo vini",
+        "Mete siyal, tcheke retwovizè ou epi gade pa dèyè zepòl ou, apre sa ale lè gen yon espas ki an sekirite",
+        "Klaksonnen epi soti",
+        "Fè bak antre nan sikilasyon an"
+      ],
+      "h1": "Machin ki nan liy lan gen dwa pase.",
+      "h2": "Anvan ou kite yon plas pakin, mete siyal, tcheke retwovizè ou ak kwen ou pa wè a, epi tann yon espas ki an sekirite, paske machin ki nan liy lan pase anvan.",
+      "p": "Wi, se sa. Mete siyal, gade, epi tann yon espas."
     }
   },
   {
@@ -4592,6 +5732,66 @@
       "h1": "Las grandes diferencias de velocidad causan conflictos.",
       "h2": "Manejar mucho más despacio que los demás hace que los de atrás frenen de golpe o lo rebasen, lo que aumenta el riesgo de choque.",
       "p": "Correcto. Obliga a los demás a frenar o rebasar."
+    },
+    "zh": {
+      "q": "为什么开得比周围车流慢很多可能会很危险？",
+      "o": [
+        "你的发动机会过热",
+        "慢车更费油",
+        "其他司机必须猛踩刹车或超车，这可能造成撞车",
+        "这从来都不危险"
+      ],
+      "h1": "车速相差很大会引起冲突。",
+      "h2": "开得比其他车慢很多，会让后面的司机突然刹车或超车，这会增加撞车的可能。",
+      "p": "对。这会逼别人刹车或超车。"
+    },
+    "vi": {
+      "q": "Tại sao lái chậm hơn nhiều so với dòng xe xung quanh có thể nguy hiểm?",
+      "o": [
+        "Máy xe của bạn sẽ bị quá nóng",
+        "Xe chạy chậm tốn xăng hơn",
+        "Người lái khác phải phanh gấp hoặc vượt bạn, điều này có thể gây tai nạn",
+        "Điều đó không bao giờ nguy hiểm"
+      ],
+      "h1": "Chênh lệch tốc độ lớn gây ra xung đột.",
+      "h2": "Lái chậm hơn nhiều so với các xe khác khiến người lái phía sau phải phanh đột ngột hoặc vượt, làm tăng nguy cơ tai nạn.",
+      "p": "Đúng. Nó buộc người khác phải phanh hoặc vượt."
+    },
+    "tl": {
+      "q": "Bakit maaaring mapanganib ang pagmamaneho nang mas mabagal nang husto kaysa sa trapiko sa paligid mo?",
+      "o": [
+        "Mag-o-overheat ang makina mo",
+        "Mas malakas sa gasolina ang mabagal na kotse",
+        "Kailangang magpreno nang malakas o lumampas sa iyo ang ibang drayber, at maaari itong magdulot ng banggaan",
+        "Hindi ito kailanman mapanganib"
+      ],
+      "h1": "Nagdudulot ng gulo ang malaking pagkakaiba ng bilis.",
+      "h2": "Kapag mas mabagal ka nang husto kaysa sa ibang trapiko, napipilitang biglang magpreno o lumampas ang mga drayber sa likod mo, at tumataas ang posibilidad ng banggaan.",
+      "p": "Tama. Napipilitan ang iba na magpreno o lumampas."
+    },
+    "ar": {
+      "q": "لماذا قد تكون القيادة بسرعة أبطأ بكثير من السير حولك خطيرة؟",
+      "o": [
+        "محركك سترتفع حرارته",
+        "السيارات البطيئة تستهلك وقودًا أكثر",
+        "السائقون الآخرون يضطرون إلى الفرملة بقوة أو تجاوزك، وهذا قد يسبب حوادث",
+        "هي ليست خطيرة أبدًا"
+      ],
+      "h1": "الفروق الكبيرة في السرعة تسبب مواقف خطرة.",
+      "h2": "القيادة بسرعة أبطأ بكثير من بقية السيارات تجعل السائقين خلفك يفرملون فجأة أو يتجاوزونك، وهذا يزيد احتمال وقوع حادث.",
+      "p": "صحيح. فهي تجبر الآخرين على الفرملة أو التجاوز."
+    },
+    "ht": {
+      "q": "Poukisa kondui pi dousman anpil pase machin ki bò kote ou ka danjere?",
+      "o": [
+        "Motè ou ap chofe twòp",
+        "Machin ki mache dousman boule plis gaz",
+        "Lòt chofè oblije frennen fò oswa double ou, sa ka lakòz aksidan",
+        "Li pa janm danjere"
+      ],
+      "h1": "Gwo diferans nan vitès lakòz konfli.",
+      "h2": "Lè ou kondui pi dousman anpil pase lòt machin yo, chofè dèyè ou yo oblije frennen sanzatann oswa double ou, e sa ogmante chans pou gen yon aksidan.",
+      "p": "Wi, se sa. Li fòse lòt moun frennen oswa double."
     }
   },
   {
@@ -4626,6 +5826,66 @@
       "h1": "Más velocidad significa más fuerza.",
       "h2": "A mayor velocidad, hay más fuerza en un choque, así que las lesiones son mucho más graves, además de necesitar más distancia para frenar.",
       "p": "Correcto. Los choques son mucho más graves."
+    },
+    "zh": {
+      "q": "开得更快时，除了刹车距离更长，还会发生什么？",
+      "o": [
+        "你的车抓地更好",
+        "你能看到更多的路",
+        "你的安全带效果更好",
+        "撞车时冲击力大得多，所以受伤更重"
+      ],
+      "h1": "速度越快，力量越大。",
+      "h2": "速度越快，撞车时的力量就越大，所以受伤会严重得多，而且你也需要更长的距离才能停下。",
+      "p": "对。撞车会严重得多。"
+    },
+    "vi": {
+      "q": "Ngoài quãng đường dừng xe dài hơn, còn điều gì xảy ra khi bạn lái nhanh hơn?",
+      "o": [
+        "Xe bám đường tốt hơn",
+        "Bạn nhìn thấy nhiều đoạn đường hơn",
+        "Dây an toàn hoạt động tốt hơn",
+        "Va chạm mạnh hơn nhiều, nên thương tích nặng hơn"
+      ],
+      "h1": "Tốc độ càng cao thì lực càng lớn.",
+      "h2": "Tốc độ cao hơn nghĩa là lực trong va chạm lớn hơn, nên thương tích nghiêm trọng hơn nhiều, ngoài việc cần quãng đường dài hơn để dừng.",
+      "p": "Đúng. Tai nạn nghiêm trọng hơn nhiều."
+    },
+    "tl": {
+      "q": "Bukod sa mas mahabang distansiya para huminto, ano pa ang nangyayari kapag mas mabilis kang magmaneho?",
+      "o": [
+        "Mas kumakapit sa daan ang kotse mo",
+        "Mas marami kang nakikita sa daan",
+        "Mas gumagana ang seat belt mo",
+        "Mas malakas ang tama ng banggaan, kaya mas malala ang pinsala sa katawan"
+      ],
+      "h1": "Mas mabilis, mas malakas ang puwersa.",
+      "h2": "Mas mataas na bilis ay mas malakas na puwersa sa banggaan, kaya mas malala ang mga pinsala, bukod pa sa kailangan mo ng mas mahabang distansiya para huminto.",
+      "p": "Tama. Mas malala ang mga banggaan."
+    },
+    "ar": {
+      "q": "إلى جانب مسافة التوقف الأطول، ماذا يحدث أيضًا عندما تقود بسرعة أكبر؟",
+      "o": [
+        "تتمسك سيارتك بالطريق بشكل أفضل",
+        "ترى جزءًا أكبر من الطريق",
+        "يعمل حزام الأمان بشكل أفضل",
+        "يكون الاصطدام أقوى بكثير، فتكون الإصابات أشد"
+      ],
+      "h1": "سرعة أكبر تعني قوة أكبر.",
+      "h2": "السرعة الأعلى تعني قوة أكبر في الاصطدام، فتكون الإصابات أخطر بكثير، إلى جانب أنك تحتاج إلى مسافة أطول لتتوقف.",
+      "p": "صحيح. الحوادث تكون أشد بكثير."
+    },
+    "ht": {
+      "q": "Anplis yon distans pi long pou kanpe, kisa ankò ki rive lè ou kondui pi vit?",
+      "o": [
+        "Machin ou kenbe wout la pi byen",
+        "Ou wè plis nan wout la",
+        "Senti sekirite ou travay pi byen",
+        "Yon aksidan frape pi fò anpil, kidonk blesi yo pi grav"
+      ],
+      "h1": "Plis vitès vle di plis fòs.",
+      "h2": "Plis vitès vle di plis fòs nan yon aksidan, kidonk blesi yo pi grav anpil, anplis ou bezwen plis distans pou kanpe.",
+      "p": "Wi, se sa. Aksidan yo pi grav anpil."
     }
   },
   {
@@ -4660,6 +5920,66 @@
       "h1": "Las luces altas pueden encandilar y rebotan en la niebla.",
       "h2": "Las luces altas ayudan en vías oscuras y abiertas cuando no hay vehículos cerca adelante ni de frente; use las bajas con otros carros y con niebla o nieve.",
       "p": "Correcto. En vías oscuras sin carros cerca."
+    },
+    "zh": {
+      "q": "什么时候远光灯能帮你看得更清楚？",
+      "o": [
+        "在黑暗的路上，前方近处和对面都没有车时",
+        "在浓雾中",
+        "在大雪中",
+        "在城市车流中"
+      ],
+      "h1": "远光灯会晃到其他司机，也会被雾反射回来。",
+      "h2": "在黑暗、空旷的路上，前方近处和对面都没有车时，远光灯有帮助；有其他车时以及在雾或雪中，要换成近光灯。",
+      "p": "对。在附近没有车的黑暗道路上。"
+    },
+    "vi": {
+      "q": "Khi nào đèn chiếu xa giúp bạn nhìn rõ hơn?",
+      "o": [
+        "Trên đường tối, không có xe nào ở gần phía trước hoặc đang chạy ngược về phía bạn",
+        "Trong sương mù dày",
+        "Trong tuyết rơi dày",
+        "Trong dòng xe ở thành phố"
+      ],
+      "h1": "Đèn chiếu xa có thể làm chói mắt người lái khác và dội lại từ sương mù.",
+      "h2": "Đèn chiếu xa có ích trên đường tối, trống trải khi không có xe nào ở gần phía trước hoặc đang chạy ngược về phía bạn; hãy chuyển sang đèn cốt khi có xe khác và khi có sương mù hoặc tuyết.",
+      "p": "Đúng. Trên đường tối, không có xe ở gần."
+    },
+    "tl": {
+      "q": "Kailan makakatulong ang high beams para mas makakita ka?",
+      "o": [
+        "Sa madilim na daan na walang ibang kotse na malapit sa unahan o paparating sa iyo",
+        "Sa makapal na fog",
+        "Sa malakas na snow",
+        "Sa trapiko sa lungsod"
+      ],
+      "h1": "Puwedeng masilaw ng high beams ang ibang drayber at tumatalbog ito sa fog.",
+      "h2": "Nakakatulong ang high beams sa madilim at bukas na daan kapag walang sasakyang malapit sa unahan o paparating sa iyo; lumipat sa low beams kapag may ibang trapiko at sa fog o snow.",
+      "p": "Tama. Sa madilim na daan na walang kotseng malapit."
+    },
+    "ar": {
+      "q": "متى يمكن أن تساعدك الأضواء العالية على الرؤية بشكل أفضل؟",
+      "o": [
+        "على الطرق المظلمة عندما لا توجد سيارات قريبة أمامك أو قادمة نحوك",
+        "في الضباب الكثيف",
+        "في الثلج الكثيف",
+        "في زحام المدينة"
+      ],
+      "h1": "الأضواء العالية قد تُعمي السائقين الآخرين وترتد عن الضباب.",
+      "h2": "الأضواء العالية تساعد على الطرق المظلمة المفتوحة عندما لا توجد مركبة قريبة أمامك أو قادمة نحوك؛ انتقل إلى الأضواء المنخفضة عند وجود سيارات أخرى وفي الضباب أو الثلج.",
+      "p": "صحيح. على الطرق المظلمة دون سيارات قريبة."
+    },
+    "ht": {
+      "q": "Kilè gwo limyè yo ka ede ou wè pi byen?",
+      "o": [
+        "Sou wout ki fè nwa, lè pa gen lòt machin toupre devan ou oswa k ap vin sou ou",
+        "Nan yon bwouya epè",
+        "Nan anpil nèj",
+        "Nan sikilasyon lavil"
+      ],
+      "h1": "Gwo limyè yo ka avegle lòt chofè epi yo frape bwouya a.",
+      "h2": "Gwo limyè yo ede sou wout ki fè nwa e ki louvri, lè pa gen okenn machin toupre devan ou oswa k ap vin sou ou; pase sou ti limyè yo lè gen lòt machin, epi nan bwouya oswa nèj.",
+      "p": "Wi, se sa. Sou wout ki fè nwa san machin toupre."
     }
   },
   {
@@ -4694,6 +6014,66 @@
       "h1": "Las cámaras y los espejos tienen puntos ciegos.",
       "h2": "Para retroceder con seguridad, gire la cabeza para mirar por el vidrio trasero, revise todo alrededor y retroceda despacio.",
       "p": "Correcto. Mire hacia atrás y vaya despacio."
+    },
+    "zh": {
+      "q": "怎样安全地倒车？",
+      "o": [
+        "只用倒车影像，用正常速度倒车",
+        "转身从后窗往后看，并慢慢倒车",
+        "只看两侧后视镜，并快速倒车",
+        "按喇叭，不看就倒车"
+      ],
+      "h1": "摄像头和后视镜都有盲区。",
+      "h2": "要安全地倒车，就转头从后窗往后看，检查四周，然后慢慢倒车。",
+      "p": "对。往后看，慢慢倒。"
+    },
+    "vi": {
+      "q": "Bạn nên lùi xe thế nào cho an toàn?",
+      "o": [
+        "Chỉ dùng camera lùi và đi với tốc độ bình thường",
+        "Quay người nhìn ra sau qua kính sau, và đi chậm",
+        "Chỉ nhìn gương hai bên và đi nhanh",
+        "Bấm còi và lùi mà không nhìn"
+      ],
+      "h1": "Camera và gương đều có điểm mù.",
+      "h2": "Để lùi xe an toàn, hãy quay đầu nhìn qua kính sau, kiểm tra xung quanh, và lùi thật chậm.",
+      "p": "Đúng. Nhìn ra sau và đi chậm."
+    },
+    "tl": {
+      "q": "Paano ka dapat umatras nang ligtas?",
+      "o": [
+        "Gamitin lang ang backup camera sa karaniwang bilis",
+        "Lumingon at tumingin sa likurang bintana, at umatras nang dahan-dahan",
+        "Tumingin lang sa mga side mirror at umatras nang mabilis",
+        "Bumusina at umatras nang hindi tumitingin"
+      ],
+      "h1": "May blind spot ang mga camera at salamin.",
+      "h2": "Para umatras nang ligtas, ilingon ang ulo mo para tumingin sa likurang bintana, tingnan ang buong paligid, at umatras nang dahan-dahan.",
+      "p": "Tama. Tumingin sa likod at magdahan-dahan."
+    },
+    "ar": {
+      "q": "كيف ترجع بالسيارة إلى الخلف بأمان؟",
+      "o": [
+        "استعمل كاميرا الرجوع فقط وبسرعة عادية",
+        "استدر وانظر إلى الخلف من النافذة الخلفية، وتحرك ببطء",
+        "انظر في المرايا الجانبية فقط وتحرك بسرعة",
+        "استعمل البوق وارجع دون أن تنظر"
+      ],
+      "h1": "الكاميرات والمرايا فيها نقاط عمياء.",
+      "h2": "لكي ترجع بأمان، أدر رأسك وانظر من النافذة الخلفية، وافحص كل ما حولك، وارجع ببطء.",
+      "p": "صحيح. انظر إلى الخلف وتحرك ببطء."
+    },
+    "ht": {
+      "q": "Kijan ou ta dwe fè bak ak yon machin an sekirite?",
+      "o": [
+        "Sèvi sèlman ak kamera bak la nan vitès nòmal",
+        "Vire gade dèyè nan fenèt dèyè a, epi ale dousman",
+        "Gade sèlman nan retwovizè akote yo epi ale vit",
+        "Klaksonnen epi fè bak san gade"
+      ],
+      "h1": "Kamera ak retwovizè gen kwen yo pa wè.",
+      "h2": "Pou fè bak an sekirite, vire tèt ou pou gade nan fenèt dèyè a, tcheke tout otou ou, epi fè bak dousman.",
+      "p": "Wi, se sa. Gade dèyè epi ale dousman."
     }
   },
   {
@@ -4728,6 +6108,66 @@
       "h1": "En una intersección pasan muchas cosas a la vez.",
       "h2": "Cambiar de carril dentro de una intersección sorprende a otros conductores y a los peatones, así que escoja su carril antes de la intersección.",
       "p": "Correcto. Los demás no lo esperan."
+    },
+    "zh": {
+      "q": "为什么你应该避免在路口中间换车道？",
+      "o": [
+        "你的转向灯在那里不起作用",
+        "路口没有车道",
+        "其他司机想不到你会这样做，这可能造成撞车",
+        "这会让红绿灯变色"
+      ],
+      "h1": "路口里同时发生很多事情。",
+      "h2": "在路口里换车道会让其他司机和过马路的人措手不及，所以要在进入路口之前选好车道。",
+      "p": "对。别人想不到你会这样做。"
+    },
+    "vi": {
+      "q": "Tại sao bạn nên tránh chuyển làn khi đang ở giữa giao lộ?",
+      "o": [
+        "Xi nhan của bạn sẽ không hoạt động ở đó",
+        "Giao lộ không có làn",
+        "Người lái khác không ngờ tới, và điều đó có thể gây tai nạn",
+        "Nó làm đèn giao thông đổi màu"
+      ],
+      "h1": "Nhiều việc xảy ra cùng lúc trong giao lộ.",
+      "h2": "Chuyển làn trong giao lộ làm người lái khác và người đi bộ qua đường bất ngờ, vì vậy hãy chọn làn trước khi vào giao lộ.",
+      "p": "Đúng. Người khác không ngờ tới."
+    },
+    "tl": {
+      "q": "Bakit dapat mong iwasang lumipat ng lane habang nasa gitna ka ng interseksiyon?",
+      "o": [
+        "Hindi gagana roon ang signal mo",
+        "Walang mga lane sa interseksiyon",
+        "Hindi ito inaasahan ng ibang drayber, at maaari itong magdulot ng banggaan",
+        "Pinapalitan nito ang ilaw ng trapiko"
+      ],
+      "h1": "Maraming nangyayari nang sabay-sabay sa interseksiyon.",
+      "h2": "Ang paglipat ng lane sa loob ng interseksiyon ay nakakagulat sa ibang drayber at sa mga taong tumatawid, kaya pumili ng lane bago ang interseksiyon.",
+      "p": "Tama. Hindi ito inaasahan ng iba."
+    },
+    "ar": {
+      "q": "لماذا يجب أن تتجنب تغيير المسار وأنت في وسط التقاطع؟",
+      "o": [
+        "إشارتك لن تعمل هناك",
+        "التقاطعات ليس فيها مسارات",
+        "السائقون الآخرون لا يتوقعون ذلك، وقد يسبب حادثًا",
+        "هذا يجعل الإشارة الضوئية تتغير"
+      ],
+      "h1": "أشياء كثيرة تحدث في وقت واحد داخل التقاطع.",
+      "h2": "تغيير المسار داخل التقاطع يفاجئ السائقين الآخرين والناس الذين يعبرون، لذلك اختر مسارك قبل التقاطع.",
+      "p": "صحيح. الآخرون لا يتوقعون ذلك."
+    },
+    "ht": {
+      "q": "Poukisa ou ta dwe evite chanje liy pandan ou nan mitan yon entèseksyon?",
+      "o": [
+        "Siyal ou p ap mache la a",
+        "Entèseksyon pa gen liy",
+        "Lòt chofè pa atann sa, e sa ka lakòz yon aksidan",
+        "Sa fè limyè a chanje"
+      ],
+      "h1": "Anpil bagay ap pase an menm tan nan yon entèseksyon.",
+      "h2": "Chanje liy anndan yon entèseksyon sezi lòt chofè ak moun k ap travèse, kidonk chwazi liy ou anvan entèseksyon an.",
+      "p": "Wi, se sa. Lòt moun pa atann sa."
     }
   },
   {
@@ -4762,6 +6202,66 @@
       "h1": "Piense en el espacio como una zona de seguridad.",
       "h2": "El colchón de espacio es el espacio libre que mantiene adelante, atrás y a los lados de su carro, que le da tiempo y lugar para evitar problemas.",
       "p": "Correcto. Espacio libre alrededor de su carro."
+    },
+    "zh": {
+      "q": "你车子周围的“安全空间”（space cushion）是什么？",
+      "o": [
+        "给司机用的枕头",
+        "轮胎里的空气",
+        "后备箱里的空间",
+        "车子四周留出的空地，让你有时间和空间做出反应"
+      ],
+      "h1": "把空间想成一个安全区。",
+      "h2": "安全空间是你在车前、车后和车两边留出的空地，让你有时间和空间避开危险。",
+      "p": "对。车子四周都要留出空地。"
+    },
+    "vi": {
+      "q": "\"Khoảng đệm an toàn\" (space cushion) quanh xe của bạn là gì?",
+      "o": [
+        "Cái gối cho người lái",
+        "Không khí trong lốp xe",
+        "Chỗ trống trong cốp xe",
+        "Khoảng trống ở mọi phía, cho bạn thời gian và chỗ để phản ứng"
+      ],
+      "h1": "Hãy nghĩ khoảng trống là một vùng an toàn.",
+      "h2": "Khoảng đệm an toàn là khoảng trống bạn giữ phía trước, phía sau và hai bên xe, để bạn có thời gian và chỗ tránh nguy hiểm.",
+      "p": "Đúng. Có khoảng trống ở mọi phía quanh xe."
+    },
+    "tl": {
+      "q": "Ano ang \"space cushion\" sa paligid ng iyong sasakyan?",
+      "o": [
+        "Unan para sa drayber",
+        "Ang hangin sa iyong mga gulong",
+        "Ang espasyo sa iyong trunk",
+        "Bakanteng espasyo sa lahat ng panig na nagbibigay sa iyo ng oras at lugar para kumilos"
+      ],
+      "h1": "Isipin ang espasyo bilang isang ligtas na lugar.",
+      "h2": "Ang space cushion ay ang bakanteng espasyo na iniiwan mo sa harap, likod at gilid ng iyong sasakyan, para may oras at lugar kang makaiwas sa panganib.",
+      "p": "Tama. Bakanteng espasyo sa buong paligid ng iyong sasakyan."
+    },
+    "ar": {
+      "q": "ما هي \"المسافة الآمنة\" (space cushion) حول سيارتك؟",
+      "o": [
+        "وسادة للسائق",
+        "الهواء في إطارات السيارة",
+        "المساحة في صندوق السيارة",
+        "مساحة فارغة من كل الجهات تعطيك وقتًا ومكانًا لتتصرّف"
+      ],
+      "h1": "فكّر في المساحة كمنطقة أمان.",
+      "h2": "المسافة الآمنة هي المساحة الفارغة التي تتركها أمام سيارتك وخلفها وعلى جانبيها، لتعطيك وقتًا ومكانًا لتتجنّب الخطر.",
+      "p": "صحيح. مساحة فارغة من كل الجهات حول سيارتك."
+    },
+    "ht": {
+      "q": "Kisa \"espas sekirite\" (space cushion) ki bò machin ou an ye?",
+      "o": [
+        "Yon zòrye pou chofè a",
+        "Lè ki nan kawoutchou yo",
+        "Espas ki nan kòf machin nan",
+        "Espas vid sou tout kote ki ba ou tan ak plas pou reyaji"
+      ],
+      "h1": "Panse ak espas la tankou yon zòn sekirite.",
+      "h2": "Espas sekirite a se espas vid ou kite devan, dèyè ak sou kote machin ou, pou ou gen tan ak plas pou evite danje.",
+      "p": "Wi, se sa. Espas vid tout otou machin ou."
     }
   },
   {
@@ -4796,6 +6296,66 @@
       "h1": "Un apartadero o un acotamiento ancho puede ayudar.",
       "h2": "Si varios carros van atrapados detrás de usted, oríllese en un lugar seguro, como un apartadero, y déjelos pasar.",
       "p": "Correcto. Oríllese con seguridad y déjelos pasar."
+    },
+    "zh": {
+      "q": "你在双车道道路上开车，因为你开得慢，后面堵了一排车。礼貌又安全的做法是什么？",
+      "o": [
+        "在安全的地方靠边停，让他们先过",
+        "加速到超过安全的速度",
+        "踩刹车让他们退后",
+        "压着中线开"
+      ],
+      "h1": "让车点（turnout）或宽的路肩可以帮上忙。",
+      "h2": "如果后面堵了好几辆车，就在安全的地方（比如让车点）靠边停，让他们先过。",
+      "p": "对。安全地靠边停，让他们先过。"
+    },
+    "vi": {
+      "q": "Bạn đang lái trên đường hai làn và có một hàng xe bị kẹt phía sau vì bạn chạy chậm. Việc lịch sự và an toàn nên làm là gì?",
+      "o": [
+        "Tấp vào chỗ an toàn và để họ vượt qua",
+        "Tăng tốc quá mức an toàn",
+        "Đạp phanh để họ lùi lại",
+        "Chạy trên vạch giữa đường"
+      ],
+      "h1": "Chỗ tránh xe (turnout) hoặc lề đường rộng có thể giúp ích.",
+      "h2": "Nếu có nhiều xe bị kẹt phía sau bạn, hãy tấp vào một chỗ an toàn, như chỗ tránh xe, và để họ vượt qua.",
+      "p": "Đúng. Tấp vào an toàn và để họ vượt qua."
+    },
+    "tl": {
+      "q": "Nagmamaneho ka sa kalsadang may dalawang lane at may hanay ng mga sasakyang naipit sa likod mo dahil mabagal ka. Ano ang magalang at ligtas na gawin?",
+      "o": [
+        "Tumabi sa ligtas na lugar at paunahin sila",
+        "Bumilis nang lampas sa ligtas",
+        "Magpreno para umatras sila",
+        "Magmaneho sa gitnang guhit"
+      ],
+      "h1": "Makatutulong ang turnout o malapad na gilid ng kalsada.",
+      "h2": "Kung maraming sasakyan ang naipit sa likod mo, tumabi sa ligtas na lugar, tulad ng turnout, at paunahin sila.",
+      "p": "Tama. Tumabi nang ligtas at paunahin sila."
+    },
+    "ar": {
+      "q": "أنت تقود على طريق من مسارين، وهناك صف من السيارات عالق خلفك لأنك بطيء. ما التصرّف المهذّب والآمن؟",
+      "o": [
+        "توقّف على جانب الطريق في مكان آمن ودعهم يتجاوزونك",
+        "زِد سرعتك أكثر مما هو آمن",
+        "اضغط على الفرامل ليبتعدوا عنك",
+        "قُد على الخط الأوسط"
+      ],
+      "h1": "مكان جانبي للتوقّف (turnout) أو كتف طريق عريض يمكن أن يساعد.",
+      "h2": "إذا كانت عدة سيارات عالقة خلفك، فتوقّف على جانب الطريق في مكان آمن، مثل مكان جانبي للتوقّف، ودعها تتجاوزك.",
+      "p": "صحيح. توقّف جانبًا بأمان ودعهم يتجاوزونك."
+    },
+    "ht": {
+      "q": "W ap kondui sou yon wout ki gen de liy, epi yon ran machin bloke dèyè ou paske w ap mache dousman. Kisa ki yon bagay janti e san danje pou fè?",
+      "o": [
+        "Rale sou kote kote li an sekirite epi kite yo pase",
+        "Akselere plis pase sa ki an sekirite",
+        "Frennen pou fè yo rale dèyè",
+        "Kondui sou liy nan mitan an"
+      ],
+      "h1": "Yon kote pou rale (turnout) oswa yon bò wout ki laj ka ede.",
+      "h2": "Si plizyè machin bloke dèyè ou, rale sou kote nan yon plas ki an sekirite, tankou yon kote pou rale, epi kite yo pase.",
+      "p": "Wi, se sa. Rale sou kote san danje epi kite yo pase."
     }
   },
   {
@@ -4830,6 +6390,66 @@
       "h1": "Solo puede reaccionar a lo que ve.",
       "h2": "Escoja una velocidad que le permita pararse dentro de la distancia que ve con claridad, lo que muchas veces es menos que el límite de noche o en una vía desconocida.",
       "p": "Correcto. Párese dentro de la distancia que ve."
+    },
+    "zh": {
+      "q": "天快黑了，而且这条路你不熟。你应该怎样选择车速？",
+      "o": [
+        "永远按限速开",
+        "慢到能在你看得见的距离内停下来",
+        "开快一点，赶在天黑前到",
+        "不管怎样，都跟前面的车一样快"
+      ],
+      "h1": "你只能对看得见的东西做出反应。",
+      "h2": "选择一个能让你在看得清的距离内停下来的速度；在晚上或不熟的路上，这常常比限速还慢。",
+      "p": "对。要能在看得见的距离内停下来。"
+    },
+    "vi": {
+      "q": "Trời đang tối dần và con đường lạ với bạn. Bạn nên chọn tốc độ như thế nào?",
+      "o": [
+        "Luôn chạy đúng tốc độ giới hạn",
+        "Đủ chậm để dừng lại trong khoảng cách bạn nhìn thấy",
+        "Nhanh hơn, để đến nơi trước khi trời tối",
+        "Bằng xe phía trước, dù thế nào đi nữa"
+      ],
+      "h1": "Bạn chỉ có thể phản ứng với những gì bạn nhìn thấy.",
+      "h2": "Hãy chọn tốc độ cho phép bạn dừng lại trong khoảng cách bạn nhìn thấy rõ, thường là chậm hơn giới hạn vào ban đêm hoặc trên đường lạ.",
+      "p": "Đúng. Dừng lại được trong khoảng cách bạn nhìn thấy."
+    },
+    "tl": {
+      "q": "Dumidilim na at hindi mo kabisado ang kalsada. Paano mo dapat piliin ang iyong bilis?",
+      "o": [
+        "Laging nasa speed limit",
+        "Sapat na mabagal para makahinto sa layong nakikita mo",
+        "Mas mabilis, para makarating bago dumilim",
+        "Kapareho ng sasakyan sa harap, anuman ang mangyari"
+      ],
+      "h1": "Makakakilos ka lang sa nakikita mo.",
+      "h2": "Pumili ng bilis na nagpapahintulot sa iyong huminto sa layong malinaw mong nakikita, na kadalasan ay mas mabagal sa limit sa gabi o sa hindi kabisadong kalsada.",
+      "p": "Tama. Huminto sa layong nakikita mo."
+    },
+    "ar": {
+      "q": "بدأ الظلام، والطريق غير مألوف لك. كيف تختار سرعتك؟",
+      "o": [
+        "دائمًا بحد السرعة",
+        "بطيئة بما يكفي لتتوقّف ضمن المسافة التي تراها",
+        "أسرع، لتصل قبل الظلام",
+        "مثل السيارة التي أمامك، مهما حدث"
+      ],
+      "h1": "لا يمكنك أن تتصرّف إلا تجاه ما تراه.",
+      "h2": "اختر سرعة تسمح لك بالتوقّف ضمن المسافة التي تراها بوضوح، وهي غالبًا أبطأ من حد السرعة في الليل أو على طريق غير مألوف.",
+      "p": "صحيح. توقّف ضمن المسافة التي تراها."
+    },
+    "ht": {
+      "q": "Li kòmanse fè nwa epi ou pa konnen wout la. Kijan ou dwe chwazi vitès ou?",
+      "o": [
+        "Toujou nan limit vitès la",
+        "Ase dousman pou kanpe nan distans ou ka wè a",
+        "Pi vit, pou rive anvan nwa",
+        "Menm jan ak machin devan an, kèlkeswa sa ki rive"
+      ],
+      "h1": "Ou ka reyaji sèlman ak sa ou wè.",
+      "h2": "Chwazi yon vitès ki pèmèt ou kanpe nan distans ou wè byen klè a, e souvan li pi dousman pase limit la lannwit oswa sou yon wout ou pa konnen.",
+      "p": "Wi, se sa. Kanpe nan distans ou ka wè a."
     }
   }
 ]
