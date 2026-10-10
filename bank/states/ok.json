@@ -2130,5 +2130,175 @@
       "h2": "في Oklahoma، إذا صدمت سيارة متوقّفة ولم تجد صاحبها، يجب أن تترك على السيارة المتضرّرة اسم السائق وعنوانه واسم صاحب السيارة وعنوانه ومعلومات تأمينك.",
       "p": "صحيح. في Oklahoma تترك اسمك وعنوانك وتفاصيل تأمينك في مكان سيراها فيه صاحب السيارة."
     }
+  },
+  {
+    "id": "ok-027",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 9,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oklahoma, you fail the written test. How long must you wait before you take it again?",
+      "o": [
+        "At least one week",
+        "At least one day",
+        "At least 30 days",
+        "At least 6 months"
+      ],
+      "h1": "It is a short wait.",
+      "h2": "In Oklahoma, if you fail the written test, the law says you must wait at least one day before you take it again.",
+      "p": "Right. You must wait at least one day."
+    },
+    "es": {
+      "q": "En Oklahoma, usted no aprueba el examen escrito. ¿Cuánto tiempo debe esperar para tomarlo otra vez?",
+      "o": [
+        "Por lo menos una semana",
+        "Por lo menos un día",
+        "Por lo menos 30 días",
+        "Por lo menos 6 meses"
+      ],
+      "h1": "Es una espera corta.",
+      "h2": "En Oklahoma, si no aprueba el examen escrito, la ley dice que debe esperar por lo menos un día antes de tomarlo otra vez.",
+      "p": "Correcto. Debe esperar por lo menos un día."
+    }
+  },
+  {
+    "id": "ok-028",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oklahoma, for how long can a driver license be issued?",
+      "o": [
+        "1 or 2 years",
+        "10 years only",
+        "For life",
+        "4 or 8 years"
+      ],
+      "h1": "There are two choices, and one is twice the other.",
+      "h2": "In Oklahoma, a driver license can be issued for either 4 or 8 years, and it expires on the last day of the month.",
+      "p": "Right. It can be issued for 4 or 8 years."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿por cuánto tiempo se puede emitir una licencia de conducir?",
+      "o": [
+        "1 o 2 años",
+        "Solo 10 años",
+        "De por vida",
+        "4 u 8 años"
+      ],
+      "h1": "Hay dos opciones, y una es el doble de la otra.",
+      "h2": "En Oklahoma, una licencia de conducir se puede emitir por 4 u 8 años, y vence el último día del mes.",
+      "p": "Correcto. Se puede emitir por 4 u 8 años."
+    }
+  },
+  {
+    "id": "ok-029",
+    "scope": "OK",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 28,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oklahoma, a blind person with a white cane is in the road ahead. How far from the person must your vehicle stop?",
+      "o": [
+        "15 feet",
+        "2 feet",
+        "5 feet",
+        "100 feet"
+      ],
+      "h1": "It is more than 10 feet but less than 20.",
+      "h2": "In Oklahoma, a vehicle must stop 15 feet from a blind person in the roadway or at an intersection, outside the crosswalk.",
+      "p": "Right. Stop 15 feet away."
+    },
+    "es": {
+      "q": "En Oklahoma, una persona ciega con bastón blanco está en la calle adelante. ¿A qué distancia de la persona debe detenerse su vehículo?",
+      "o": [
+        "15 pies",
+        "2 pies",
+        "5 pies",
+        "100 pies"
+      ],
+      "h1": "Es más de 10 pies pero menos de 20.",
+      "h2": "En Oklahoma, un vehículo debe detenerse a 15 pies de una persona ciega que está en la calle o en una intersección, fuera del cruce peatonal.",
+      "p": "Correcto. Deténgase a 15 pies."
+    }
+  },
+  {
+    "id": "ok-030",
+    "scope": "OK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 49,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oklahoma, how close to the nearest rail of a railroad crossing may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 15 feet",
+        "No closer than 50 feet",
+        "No closer than 500 feet"
+      ],
+      "h1": "It is a longer distance than for a fire hydrant.",
+      "h2": "In Oklahoma, you may not park within 50 feet of the nearest rail of a railroad crossing.",
+      "p": "Right. Stay at least 50 feet from the nearest rail."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿qué tan cerca del riel más cercano de un cruce de ferrocarril puede estacionarse?",
+      "o": [
+        "A no menos de 5 pies",
+        "A no menos de 15 pies",
+        "A no menos de 50 pies",
+        "A no menos de 500 pies"
+      ],
+      "h1": "Es una distancia mayor que la de un hidrante.",
+      "h2": "En Oklahoma, no puede estacionarse a menos de 50 pies del riel más cercano de un cruce de ferrocarril.",
+      "p": "Correcto. Quédese por lo menos a 50 pies del riel más cercano."
+    }
+  },
+  {
+    "id": "ok-031",
+    "scope": "OK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 35,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oklahoma, you are on a road with four or more lanes. What is the rule about the left lane?",
+      "o": [
+        "Only trucks may use it",
+        "You may not drive there in a way that blocks the normal flow of traffic",
+        "You may drive there at any speed you like",
+        "You may use it only at night"
+      ],
+      "h1": "Think about faster cars that want to pass.",
+      "h2": "In Oklahoma, on a road divided into four or more lanes, you may not block the normal flow of traffic by driving in the left lane.",
+      "p": "Right. Do not hold up traffic in the left lane."
+    },
+    "es": {
+      "q": "En Oklahoma, usted va por una carretera de cuatro carriles o más. ¿Cuál es la regla sobre el carril izquierdo?",
+      "o": [
+        "Solo los camiones pueden usarlo",
+        "No puede manejar ahí de una forma que bloquee el flujo normal del tráfico",
+        "Puede manejar ahí a la velocidad que quiera",
+        "Solo puede usarlo de noche"
+      ],
+      "h1": "Piense en los carros más rápidos que quieren pasar.",
+      "h2": "En Oklahoma, en una carretera dividida en cuatro carriles o más, usted no puede bloquear el flujo normal del tráfico manejando en el carril izquierdo.",
+      "p": "Correcto. No detenga el tráfico en el carril izquierdo."
+    }
   }
 ]

@@ -2212,5 +2212,141 @@
       "h2": "في Wisconsin، يجلس الأطفال عادةً في مقعد أمان للأطفال حتى عمر أربع سنوات، ثم في مقعد رافع حتى عمر ثماني سنوات.",
       "p": "صحيح. مقعد رافع حتى عمر ثماني سنوات."
     }
+  },
+  {
+    "id": "wi-028",
+    "scope": "WI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://wisconsindot.gov/Documents/dmv/shared/bds126-motorists-handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Wisconsin, how often must you renew a regular driver license?",
+      "o": [
+        "Every 4 years",
+        "Every 8 years",
+        "Every 10 years",
+        "Every 2 years"
+      ],
+      "h1": "It is a long time, but less than ten years.",
+      "h2": "In Wisconsin, a regular driver license must be renewed every eight years.",
+      "p": "Right. A regular license is renewed every eight years."
+    },
+    "es": {
+      "q": "En Wisconsin, ¿cada cuánto debe renovar una licencia de conducir regular?",
+      "o": [
+        "Cada 4 años",
+        "Cada 8 años",
+        "Cada 10 años",
+        "Cada 2 años"
+      ],
+      "h1": "Es mucho tiempo, pero menos de diez años.",
+      "h2": "En Wisconsin, una licencia de conducir regular se debe renovar cada ocho años.",
+      "p": "Correcto. La licencia regular se renueva cada ocho años."
+    }
+  },
+  {
+    "id": "wi-029",
+    "scope": "WI",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 9,
+    "src": "https://wisconsindot.gov/Documents/dmv/shared/bds126-motorists-handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Wisconsin, a person with a guide dog or a white cane is crossing the road. How far away must you stop?",
+      "o": [
+        "At least 3 feet",
+        "At least 5 feet",
+        "At least 10 feet",
+        "At least 50 feet"
+      ],
+      "h1": "Give the person a lot of room, more than one car door's width.",
+      "h2": "In Wisconsin, you must stop at least 10 feet away until a person with a guide dog or white cane is off the road.",
+      "p": "Right. Stop at least 10 feet away and wait until the person is off the road."
+    },
+    "es": {
+      "q": "En Wisconsin, una persona con un perro guía o un bastón blanco está cruzando la calle. ¿A qué distancia debe detenerse usted?",
+      "o": [
+        "Por lo menos a 3 pies",
+        "Por lo menos a 5 pies",
+        "Por lo menos a 10 pies",
+        "Por lo menos a 50 pies"
+      ],
+      "h1": "Dele mucho espacio a la persona, más que el ancho de una puerta de carro.",
+      "h2": "En Wisconsin, usted debe detenerse por lo menos a 10 pies hasta que la persona con perro guía o bastón blanco salga de la calle.",
+      "p": "Correcto. Deténgase por lo menos a 10 pies y espere a que la persona salga de la calle."
+    }
+  },
+  {
+    "id": "wi-030",
+    "scope": "WI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://wisconsindot.gov/Documents/dmv/shared/bds126-motorists-handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Wisconsin, how much room must you give a bicyclist when you pass?",
+      "o": [
+        "At least 3 feet",
+        "At least 1 foot",
+        "At least 2 feet",
+        "At least 10 feet"
+      ],
+      "h1": "It is about the length of a yardstick.",
+      "h2": "In Wisconsin, you must give a bicyclist at least three feet of room when you pass.",
+      "p": "Right. Give bicyclists at least three feet when you pass."
+    },
+    "es": {
+      "q": "En Wisconsin, ¿cuánto espacio debe dar a un ciclista cuando lo rebasa?",
+      "o": [
+        "Por lo menos 3 pies",
+        "Por lo menos 1 pie",
+        "Por lo menos 2 pies",
+        "Por lo menos 10 pies"
+      ],
+      "h1": "Es más o menos un metro.",
+      "h2": "En Wisconsin, usted debe dar a un ciclista por lo menos tres pies de espacio cuando lo rebasa.",
+      "p": "Correcto. Dé por lo menos tres pies a los ciclistas al rebasarlos."
+    }
+  },
+  {
+    "id": "wi-031",
+    "scope": "WI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 43,
+    "src": "https://wisconsindot.gov/Documents/dmv/shared/bds126-motorists-handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Wisconsin, what must the vehicles in a funeral procession have turned on?",
+      "o": [
+        "Hazard lights only",
+        "Turn signals",
+        "Interior lights",
+        "Headlights"
+      ],
+      "h1": "These lights help other drivers see that the cars are traveling together.",
+      "h2": "In Wisconsin, vehicles in a funeral procession must have their headlights on, and you must not cut into the line.",
+      "p": "Right. Cars in a funeral procession drive with headlights on."
+    },
+    "es": {
+      "q": "En Wisconsin, ¿qué deben tener encendido los vehículos de un cortejo fúnebre?",
+      "o": [
+        "Solo las luces intermitentes",
+        "Las direccionales",
+        "Las luces interiores",
+        "Los faros delanteros"
+      ],
+      "h1": "Estas luces ayudan a otros conductores a ver que los carros van juntos.",
+      "h2": "En Wisconsin, los vehículos de un cortejo fúnebre deben llevar los faros delanteros encendidos, y usted no debe meterse en la fila.",
+      "p": "Correcto. Los carros de un cortejo fúnebre van con los faros delanteros encendidos."
+    }
   }
 ]

@@ -2212,5 +2212,141 @@
       "h2": "قانون Iowa يُلزمك بتشغيل المصباحين الأماميين من غروب الشمس إلى شروقها، وكلما كانت رؤيتك 500 قدم أو أقل، مثل وقت الضباب أو المطر الغزير أو الثلج.",
       "p": "صحيح. شغّل المصابيح الأمامية عندما تكون الرؤية 500 قدم أو أقل."
     }
+  },
+  {
+    "id": "ia-028",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 21,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Iowa, how close to a fire hydrant may you not park?",
+      "o": [
+        "Closer than 15 feet",
+        "Closer than 5 feet",
+        "Closer than 20 feet",
+        "Closer than 50 feet"
+      ],
+      "h1": "In Iowa this distance is shorter than in many other states.",
+      "h2": "In Iowa, you may not park closer than five feet from a fire hydrant, or in a marked hydrant red zone.",
+      "p": "Right. In Iowa, stay at least five feet from a fire hydrant."
+    },
+    "es": {
+      "q": "En Iowa, ¿a qué distancia de un hidrante no puede estacionarse?",
+      "o": [
+        "A menos de 15 pies",
+        "A menos de 5 pies",
+        "A menos de 20 pies",
+        "A menos de 50 pies"
+      ],
+      "h1": "En Iowa esta distancia es más corta que en muchos otros estados.",
+      "h2": "En Iowa, no puede estacionarse a menos de cinco pies de un hidrante, ni en una zona roja marcada para hidrantes.",
+      "p": "Correcto. En Iowa, quédese al menos a cinco pies de un hidrante."
+    }
+  },
+  {
+    "id": "ia-029",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 21,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Iowa, you must park on a street with a curb. How close to the curb should your car be?",
+      "o": [
+        "Within 3 feet",
+        "Within 24 inches",
+        "Within 30 inches",
+        "Within 18 inches"
+      ],
+      "h1": "It is less than half a yard.",
+      "h2": "In Iowa, when you park on a street with a curb, your car should be within 18 inches of the curb.",
+      "p": "Right. Park within 18 inches of the curb."
+    },
+    "es": {
+      "q": "En Iowa, debe estacionarse en una calle con bordillo. ¿Qué tan cerca del bordillo debe quedar su auto?",
+      "o": [
+        "A no más de 3 pies",
+        "A no más de 24 pulgadas",
+        "A no más de 30 pulgadas",
+        "A no más de 18 pulgadas"
+      ],
+      "h1": "Es menos de media yarda.",
+      "h2": "En Iowa, al estacionarse en una calle con bordillo, su auto debe quedar a no más de 18 pulgadas del bordillo.",
+      "p": "Correcto. Estaciónese a no más de 18 pulgadas del bordillo."
+    }
+  },
+  {
+    "id": "ia-030",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 37,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Iowa, a passenger has an open can of beer in the car. What can happen?",
+      "o": [
+        "The driver and each passenger can be fined up to $200",
+        "Only the driver can be fined, up to $50",
+        "Nothing, if the driver is not drinking",
+        "The car is towed, but there is no fine"
+      ],
+      "h1": "The open container law applies to everyone in the car, not only the driver.",
+      "h2": "In Iowa, an open container of alcohol in a car is a simple misdemeanor, with a fine of up to $200 for the driver and for each passenger.",
+      "p": "Right. The driver and every passenger can each be fined up to $200."
+    },
+    "es": {
+      "q": "En Iowa, un pasajero tiene una lata de cerveza abierta en el auto. ¿Qué puede pasar?",
+      "o": [
+        "El conductor y cada pasajero pueden recibir una multa de hasta $200",
+        "Solo el conductor puede recibir una multa, de hasta $50",
+        "Nada, si el conductor no está bebiendo",
+        "Se remolca el auto, pero no hay multa"
+      ],
+      "h1": "La ley de envases abiertos se aplica a todos en el auto, no solo al conductor.",
+      "h2": "En Iowa, llevar un envase abierto de alcohol en un auto es un delito menor, con una multa de hasta $200 para el conductor y para cada pasajero.",
+      "p": "Correcto. El conductor y cada pasajero pueden recibir una multa de hasta $200."
+    }
+  },
+  {
+    "id": "ia-031",
+    "scope": "IA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 46,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Iowa, you may not pass another vehicle within how many feet of an intersection or a railroad crossing?",
+      "o": [
+        "25 feet",
+        "50 feet",
+        "100 feet",
+        "500 feet"
+      ],
+      "h1": "It is about the length of six or seven cars.",
+      "h2": "In Iowa, you may not pass another vehicle within 100 feet of an intersection or a railroad crossing.",
+      "p": "Right. No passing within 100 feet of an intersection or railroad crossing."
+    },
+    "es": {
+      "q": "En Iowa, ¿a cuántos pies de una intersección o de un cruce de ferrocarril no puede rebasar a otro vehículo?",
+      "o": [
+        "25 pies",
+        "50 pies",
+        "100 pies",
+        "500 pies"
+      ],
+      "h1": "Es más o menos el largo de seis o siete autos.",
+      "h2": "En Iowa, no puede rebasar a otro vehículo a menos de 100 pies de una intersección o de un cruce de ferrocarril.",
+      "p": "Correcto. No se rebasa a menos de 100 pies de una intersección o cruce de ferrocarril."
+    }
   }
 ]
