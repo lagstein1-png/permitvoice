@@ -2961,76 +2961,28 @@
     "sign": null,
     "c": 0,
     "en": {
-      "q": "In Hawaii, your license has expired. How long after the expiration date can you still renew it instead of applying as a new driver?",
+      "q": "In Hawaii, your license has expired. How long after the expiration date can you still get it back without applying as a new driver?",
       "o": [
         "Up to one year",
         "Up to 10 days",
         "Up to 30 days",
         "Up to five years"
       ],
-      "h1": "It is twelve months.",
-      "h2": "In Hawaii you may renew an expired license within one year after the expiration date; after that you must apply as for an original license.",
-      "p": "Right. You have one year after it expires to renew it."
+      "h1": "It is twelve months; after the first 90 days a late fee is added.",
+      "h2": "In Hawaii you can renew or reactivate an expired license up to one year after the expiration date (with a late fee after the first 90 days); after one year it is invalid and you must apply as a new driver.",
+      "p": "Right. You have up to one year after it expires; after 90 days you pay a late fee."
     },
     "es": {
-      "q": "En Hawái, su licencia venció. ¿Cuánto tiempo después de la fecha de vencimiento todavía puede renovarla en lugar de solicitarla como conductor nuevo?",
+      "q": "En Hawái, su licencia venció. ¿Cuánto tiempo después de la fecha de vencimiento todavía puede recuperarla sin solicitarla como conductor nuevo?",
       "o": [
         "Hasta un año",
         "Hasta 10 días",
         "Hasta 30 días",
         "Hasta cinco años"
       ],
-      "h1": "Son doce meses.",
-      "h2": "En Hawái usted puede renovar una licencia vencida dentro de un año después de la fecha de vencimiento; después de eso debe solicitarla como una licencia nueva.",
-      "p": "Correcto. Tiene un año después del vencimiento para renovarla."
-    },
-    "zh": {
-      "q": "在 Hawaii，你的驾照过期了。过期后多久以内还可以更新，而不用当作新司机重新申请？",
-      "o": [
-        "一年以内",
-        "10 天以内",
-        "30 天以内",
-        "五年以内"
-      ],
-      "h1": "它是十二个月。",
-      "h2": "在 Hawaii，驾照过期后一年以内可以更新；超过一年，你就必须像第一次申请驾照那样重新申请。",
-      "p": "对。驾照过期后你有一年时间可以更新。"
-    },
-    "vi": {
-      "q": "Ở Hawaii, bằng lái của bạn đã hết hạn. Sau ngày hết hạn bao lâu bạn vẫn có thể gia hạn thay vì phải xin như tài xế mới?",
-      "o": [
-        "Tối đa một năm",
-        "Tối đa 10 ngày",
-        "Tối đa 30 ngày",
-        "Tối đa năm năm"
-      ],
-      "h1": "Đó là mười hai tháng.",
-      "h2": "Ở Hawaii, bạn có thể gia hạn bằng lái đã hết hạn trong vòng một năm sau ngày hết hạn; sau đó bạn phải xin như bằng lái lần đầu.",
-      "p": "Đúng. Bạn có một năm sau khi hết hạn để gia hạn."
-    },
-    "tl": {
-      "q": "Sa Hawaii, expired na ang lisensya mo. Gaano katagal pagkatapos ng expiration date mo pa ito puwedeng i-renew sa halip na mag-apply bilang bagong driver?",
-      "o": [
-        "Hanggang isang taon",
-        "Hanggang 10 araw",
-        "Hanggang 30 araw",
-        "Hanggang limang taon"
-      ],
-      "h1": "Labindalawang buwan ito.",
-      "h2": "Sa Hawaii, puwede mong i-renew ang expired na lisensya sa loob ng isang taon pagkatapos ng expiration date; pagkatapos nito, dapat kang mag-apply na parang unang lisensya.",
-      "p": "Tama. May isang taon ka pagkatapos itong ma-expire para i-renew."
-    },
-    "ar": {
-      "q": "في Hawaii، انتهت صلاحية رخصتك. إلى متى بعد تاريخ الانتهاء يمكنك تجديدها بدل التقدّم كسائق جديد؟",
-      "o": [
-        "حتى سنة واحدة",
-        "حتى 10 أيام",
-        "حتى 30 يومًا",
-        "حتى خمس سنوات"
-      ],
-      "h1": "هي اثنا عشر شهرًا.",
-      "h2": "في Hawaii يمكنك تجديد الرخصة المنتهية خلال سنة واحدة بعد تاريخ الانتهاء؛ وبعد ذلك يجب أن تتقدّم كما لو كانت رخصة أولى.",
-      "p": "صحيح. لديك سنة واحدة بعد انتهاء الرخصة لتجديدها."
+      "h1": "Son doce meses; después de los primeros 90 días se cobra un recargo.",
+      "h2": "En Hawái usted puede renovar o reactivar una licencia vencida hasta un año después de la fecha de vencimiento (con un recargo después de los primeros 90 días); después de un año ya no es válida y debe solicitarla como conductor nuevo.",
+      "p": "Correcto. Tiene hasta un año después del vencimiento; después de 90 días paga un recargo."
     }
   },
   {
@@ -4511,7 +4463,7 @@
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In Hawaii, a driver with no alcohol or drug offense in the past 10 years tests at 0.08 or more. How long is the license revoked by the state?",
+      "q": "In Hawaii, a driver with no alcohol or drug offense in the past 10 years tests at 0.08 or more, but below 0.15. How long is the license revoked by the state?",
       "o": [
         "30 days",
         "One year",
@@ -4519,11 +4471,11 @@
         "Five years"
       ],
       "h1": "It is longer than six months but shorter than two years.",
-      "h2": "In Hawaii, a driver with no prior alcohol or drug enforcement contact in 10 years who tests at 0.08 or more has the license revoked for one year.",
+      "h2": "In Hawaii, a driver with no prior alcohol or drug enforcement contact in 10 years who tests at 0.08 or more, but below the 0.15 'highly intoxicated' level, has the license revoked for one year.",
       "p": "Right. A first administrative revocation lasts one year."
     },
     "es": {
-      "q": "En Hawái, un conductor sin infracciones de alcohol o drogas en los últimos 10 años da 0.08 o más en la prueba. ¿Por cuánto tiempo le revoca el estado la licencia?",
+      "q": "En Hawái, un conductor sin infracciones de alcohol o drogas en los últimos 10 años da 0.08 o más, pero menos de 0.15, en la prueba. ¿Por cuánto tiempo le revoca el estado la licencia?",
       "o": [
         "30 días",
         "Un año",
@@ -4531,7 +4483,7 @@
         "Cinco años"
       ],
       "h1": "Es más de seis meses pero menos de dos años.",
-      "h2": "En Hawái, a un conductor sin antecedentes de alcohol o drogas en 10 años que da 0.08 o más se le revoca la licencia por un año.",
+      "h2": "En Hawái, a un conductor sin antecedentes de alcohol o drogas en 10 años que da 0.08 o más, pero menos del nivel de 0.15 de 'altamente intoxicado', se le revoca la licencia por un año.",
       "p": "Correcto. La primera revocación administrativa dura un año."
     }
   },
