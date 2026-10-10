@@ -5540,5 +5540,1365 @@
       "h2": "En California, el Programa de Mejoramiento para Conductores Mayores es un curso de ocho horas para conductores de 55 años o más.",
       "p": "Correcto. Es para conductores de 55 años o más."
     }
+  },
+  {
+    "id": "ca-092",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 1,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, can a resident get a driver's license without proof of legal immigration status?",
+      "o": [
+        "No, only U.S. citizens can",
+        "Only with a work visa",
+        "Yes, all residents can",
+        "Only after five years"
+      ],
+      "h1": "The handbook says the license is open to every resident.",
+      "h2": "In California, all residents can get a driver's license, whatever their immigration status.",
+      "p": "Right. All residents can get a license, whatever their immigration status."
+    },
+    "es": {
+      "q": "En California, ¿puede un residente obtener una licencia de manejo sin prueba de estatus migratorio legal?",
+      "o": [
+        "No, solo los ciudadanos de EE. UU.",
+        "Solo con una visa de trabajo",
+        "Sí, todos los residentes pueden",
+        "Solo después de cinco años"
+      ],
+      "h1": "El manual dice que la licencia está abierta a todos los residentes.",
+      "h2": "En California, todos los residentes pueden obtener una licencia de manejo, sin importar su estatus migratorio.",
+      "p": "Correcto. Todos los residentes pueden obtener licencia, sin importar su estatus migratorio."
+    }
+  },
+  {
+    "id": "ca-093",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 2,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, how many proofs of residency must you bring to apply for an instruction permit?",
+      "o": [
+        "One",
+        "Two",
+        "Three",
+        "None"
+      ],
+      "h1": "It is more than one document.",
+      "h2": "In California, you must provide two proofs of residency when you apply for an instruction permit or driver's license.",
+      "p": "Right. You bring two proofs of residency."
+    },
+    "es": {
+      "q": "En California, ¿cuántas pruebas de residencia debe llevar para solicitar un permiso de instrucción?",
+      "o": [
+        "Una",
+        "Dos",
+        "Tres",
+        "Ninguna"
+      ],
+      "h1": "Es más de un documento.",
+      "h2": "En California, usted debe presentar dos pruebas de residencia cuando solicita un permiso de instrucción o una licencia de manejo.",
+      "p": "Correcto. Debe llevar dos pruebas de residencia."
+    }
+  },
+  {
+    "id": "ca-094",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, a parent signed for a teen's provisional license. Later the parent wants to stop the teen from driving. What can the parent do?",
+      "o": [
+        "Nothing until the teen turns 18",
+        "Only ask a judge to suspend it",
+        "Only take away the car keys",
+        "Ask the DMV to cancel the license"
+      ],
+      "h1": "The parent who signed can undo that approval with a DMV form.",
+      "h2": "In California, a parent or guardian may cancel a teen's license by filling out a DMV request to cancel or surrender it.",
+      "p": "Right. The parent can ask the DMV to cancel the license."
+    },
+    "es": {
+      "q": "En California, un padre firmó para la licencia provisional de su hijo adolescente. Más tarde quiere que el joven deje de manejar. ¿Qué puede hacer?",
+      "o": [
+        "Nada hasta que cumpla 18 años",
+        "Solo pedir a un juez que la suspenda",
+        "Solo quitarle las llaves del carro",
+        "Pedir al DMV que cancele la licencia"
+      ],
+      "h1": "El padre que firmó puede retirar ese permiso con un formulario del DMV.",
+      "h2": "En California, un padre o tutor puede cancelar la licencia de su hijo adolescente llenando una solicitud del DMV para cancelarla o entregarla.",
+      "p": "Correcto. El padre puede pedir al DMV que cancele la licencia."
+    }
+  },
+  {
+    "id": "ca-095",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, your car can park itself and has adaptive cruise control. May you use these features during the drive test?",
+      "o": [
+        "No, they are not allowed",
+        "Yes, any feature is allowed",
+        "Only adaptive cruise control",
+        "Only if the examiner is busy"
+      ],
+      "h1": "The test checks your skill, not the car's technology.",
+      "h2": "In California, driver assistance features such as automatic parallel parking, lane departure and adaptive cruise control are not allowed during the drive test.",
+      "p": "Right. Those driver assistance features are not allowed on the test."
+    },
+    "es": {
+      "q": "En California, su carro puede estacionarse solo y tiene control de crucero adaptativo. ¿Puede usar estas funciones durante el examen de manejo?",
+      "o": [
+        "No, no están permitidas",
+        "Sí, se permite cualquier función",
+        "Solo el control de crucero adaptativo",
+        "Solo si el examinador está ocupado"
+      ],
+      "h1": "El examen revisa su habilidad, no la tecnología del carro.",
+      "h2": "En California, las funciones de asistencia al conductor, como el estacionamiento automático en paralelo, el aviso de salida de carril y el control de crucero adaptativo, no se permiten durante el examen de manejo.",
+      "p": "Correcto. Esas funciones de asistencia no se permiten en el examen."
+    }
+  },
+  {
+    "id": "ca-096",
+    "scope": "CA",
+    "cat": "signals",
+    "conf": "high",
+    "page": 11,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, it is a sunny day and you drive into a tunnel. What should you do with your headlights?",
+      "o": [
+        "Leave them off in daylight",
+        "Turn them on",
+        "Use only parking lights",
+        "Flash your high beams"
+      ],
+      "h1": "The handbook lists tunnels and mountain roads even on sunny days.",
+      "h2": "In California, you should use your headlights in tunnels and on mountain roads, even on sunny days.",
+      "p": "Right. Headlights go on in tunnels, even on sunny days."
+    },
+    "es": {
+      "q": "En California, es un día soleado y usted entra a un túnel. ¿Qué debe hacer con sus faros?",
+      "o": [
+        "Dejarlos apagados de día",
+        "Encenderlos",
+        "Usar solo las luces de estacionamiento",
+        "Hacer cambio de luces altas"
+      ],
+      "h1": "El manual menciona los túneles y las carreteras de montaña aun en días soleados.",
+      "h2": "En California, usted debe usar los faros en los túneles y en las carreteras de montaña, aun en días soleados.",
+      "p": "Correcto. Los faros se encienden en los túneles, aun en días soleados."
+    }
+  },
+  {
+    "id": "ca-097",
+    "scope": "CA",
+    "cat": "signals",
+    "conf": "high",
+    "page": 11,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, you plan to change lanes on a freeway. How soon before the change should you signal?",
+      "o": [
+        "One second before",
+        "Only after you start moving",
+        "At least five seconds before",
+        "Signals are not needed on freeways"
+      ],
+      "h1": "Freeway speeds call for a long warning.",
+      "h2": "In California, you should signal at least five seconds before you change lanes on a freeway.",
+      "p": "Right. Signal at least five seconds before a freeway lane change."
+    },
+    "es": {
+      "q": "En California, usted piensa cambiar de carril en una autopista. ¿Con cuánto tiempo de anticipación debe poner la señal?",
+      "o": [
+        "Un segundo antes",
+        "Solo después de empezar a moverse",
+        "Por lo menos cinco segundos antes",
+        "En la autopista no hace falta señalar"
+      ],
+      "h1": "A las velocidades de la autopista se necesita un aviso largo.",
+      "h2": "En California, usted debe poner la señal por lo menos cinco segundos antes de cambiar de carril en una autopista.",
+      "p": "Correcto. Señale por lo menos cinco segundos antes de cambiar de carril en la autopista."
+    }
+  },
+  {
+    "id": "ca-098",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, you see two sets of double solid yellow lines, two or more feet apart. What do they mean?",
+      "o": [
+        "A barrier you must not drive over or turn across",
+        "A lane where you may pass with care",
+        "A center lane for left turns",
+        "A lane for buses only"
+      ],
+      "h1": "Treat them like a wall in the road, except at openings.",
+      "h2": "In California, two sets of double solid yellow lines spaced two or more feet apart are a barrier, so you may not drive over them or turn across them except at marked openings.",
+      "p": "Right. They are a barrier; cross only at marked openings."
+    },
+    "es": {
+      "q": "En California, usted ve dos pares de líneas amarillas dobles continuas, separadas por dos pies o más. ¿Qué significan?",
+      "o": [
+        "Una barrera que no debe cruzar ni para dar vuelta",
+        "Un carril donde puede rebasar con cuidado",
+        "Un carril central para dar vuelta a la izquierda",
+        "Un carril solo para autobuses"
+      ],
+      "h1": "Trátelas como una pared en la calle, salvo en las aberturas.",
+      "h2": "En California, dos pares de líneas amarillas dobles continuas separadas por dos pies o más son una barrera, así que no puede pasar sobre ellas ni cruzarlas para dar vuelta, salvo en las aberturas marcadas.",
+      "p": "Correcto. Son una barrera; crúcelas solo en las aberturas marcadas."
+    }
+  },
+  {
+    "id": "ca-099",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 16,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, you ride a motorcycle alone. May you use a carpool (HOV) lane?",
+      "o": [
+        "No, you need at least one passenger",
+        "Only on weekends",
+        "Only with a special decal",
+        "Yes, unless a sign says otherwise"
+      ],
+      "h1": "Motorcycles are named in the HOV lane rules.",
+      "h2": "In California, a motorcycle may use a carpool (HOV) lane unless a sign says otherwise.",
+      "p": "Right. Motorcycles may use HOV lanes unless signs say otherwise."
+    },
+    "es": {
+      "q": "En California, usted maneja una motocicleta sin pasajero. ¿Puede usar un carril de vehículos compartidos (HOV)?",
+      "o": [
+        "No, necesita por lo menos un pasajero",
+        "Solo los fines de semana",
+        "Solo con una calcomanía especial",
+        "Sí, a menos que un letrero diga otra cosa"
+      ],
+      "h1": "Las motocicletas aparecen en las reglas del carril HOV.",
+      "h2": "En California, una motocicleta puede usar un carril de vehículos compartidos (HOV) a menos que un letrero diga otra cosa.",
+      "p": "Correcto. Las motocicletas pueden usar el carril HOV, salvo que los letreros digan otra cosa."
+    }
+  },
+  {
+    "id": "ca-100",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, a lane on the right is marked for buses only. You need to turn right at the next corner. What may you do?",
+      "o": [
+        "Never enter or cross the bus lane",
+        "Drive in the bus lane for a full block",
+        "Cross the bus lane to make the turn",
+        "Stop in the bus lane to wait"
+      ],
+      "h1": "You may not drive or park there, but turning is a special case.",
+      "h2": "In California, you may not drive, stop or park in a bus-only lane, but you may cross it to make a right turn.",
+      "p": "Right. You may cross a bus lane to turn right."
+    },
+    "es": {
+      "q": "En California, un carril a la derecha está marcado solo para autobuses. Usted necesita dar vuelta a la derecha en la próxima esquina. ¿Qué puede hacer?",
+      "o": [
+        "Nunca entrar ni cruzar el carril de autobuses",
+        "Manejar en el carril de autobuses toda una cuadra",
+        "Cruzar el carril de autobuses para dar la vuelta",
+        "Detenerse en el carril de autobuses a esperar"
+      ],
+      "h1": "No puede manejar ni estacionarse ahí, pero dar vuelta es un caso especial.",
+      "h2": "En California, usted no puede manejar, detenerse ni estacionarse en un carril solo para autobuses, pero sí puede cruzarlo para dar vuelta a la derecha.",
+      "p": "Correcto. Puede cruzar el carril de autobuses para dar vuelta a la derecha."
+    }
+  },
+  {
+    "id": "ca-101",
+    "scope": "CA",
+    "cat": "signals",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, you are stopped at a red arrow pointing right. May you turn right after stopping?",
+      "o": [
+        "No, wait for a green light or arrow",
+        "Yes, after a full stop",
+        "Yes, if no one is crossing",
+        "Yes, but only at night"
+      ],
+      "h1": "A red arrow is stricter than a plain red light.",
+      "h2": "In California, you may not turn right at a red arrow; you must wait until the light changes to green.",
+      "p": "Right. No turn on a red arrow; wait for green."
+    },
+    "es": {
+      "q": "En California, usted está detenido ante una flecha roja que apunta a la derecha. ¿Puede dar vuelta a la derecha después de detenerse?",
+      "o": [
+        "No, espere la luz o flecha verde",
+        "Sí, después de detenerse por completo",
+        "Sí, si nadie está cruzando",
+        "Sí, pero solo de noche"
+      ],
+      "h1": "Una flecha roja es más estricta que una luz roja normal.",
+      "h2": "En California, no puede dar vuelta a la derecha con una flecha roja; debe esperar a que la luz cambie a verde.",
+      "p": "Correcto. No se da vuelta con flecha roja; espere la verde."
+    }
+  },
+  {
+    "id": "ca-102",
+    "scope": "CA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, where must you never make a U-turn?",
+      "o": [
+        "Across a double yellow line",
+        "In front of a fire station",
+        "At a green light with no sign",
+        "Through an opening in a divider"
+      ],
+      "h1": "Think of a place where fire trucks must get out fast.",
+      "h2": "In California, you must never make a U-turn in front of a fire station, and you must never use a fire station driveway to turn around.",
+      "p": "Right. Never make a U-turn in front of a fire station."
+    },
+    "es": {
+      "q": "En California, ¿dónde no debe hacer nunca una vuelta en U?",
+      "o": [
+        "Cruzando una línea amarilla doble",
+        "Frente a una estación de bomberos",
+        "Con luz verde y sin letrero",
+        "Por una abertura en el divisor"
+      ],
+      "h1": "Piense en un lugar de donde los camiones de bomberos deben salir rápido.",
+      "h2": "En California, nunca debe hacer una vuelta en U frente a una estación de bomberos, ni usar la entrada de una estación de bomberos para dar la vuelta.",
+      "p": "Correcto. Nunca haga una vuelta en U frente a una estación de bomberos."
+    }
+  },
+  {
+    "id": "ca-103",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 24,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, you want to pass on a two-lane road. How far ahead should a hill or curve be?",
+      "o": [
+        "At least 100 feet",
+        "At least two car lengths",
+        "At least 500 feet",
+        "At least one-third of a mile"
+      ],
+      "h1": "It is a fraction of a mile.",
+      "h2": "In California, to pass safely, a hill or curve ahead should be at least one-third of a mile away.",
+      "p": "Right. The hill or curve should be at least one-third of a mile ahead."
+    },
+    "es": {
+      "q": "En California, usted quiere rebasar en una carretera de dos carriles. ¿A qué distancia debe estar una colina o una curva?",
+      "o": [
+        "Por lo menos 100 pies",
+        "Por lo menos dos largos de carro",
+        "Por lo menos 500 pies",
+        "Por lo menos un tercio de milla"
+      ],
+      "h1": "Es una fracción de milla.",
+      "h2": "En California, para rebasar con seguridad, la colina o curva que viene debe estar por lo menos a un tercio de milla.",
+      "p": "Correcto. La colina o curva debe estar por lo menos a un tercio de milla."
+    }
+  },
+  {
+    "id": "ca-104",
+    "scope": "CA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, you drive a gasoline car. May you park in a space marked for charging zero-emission vehicles?",
+      "o": [
+        "Yes, if you stay under one hour",
+        "No, not unless you drive a zero-emission vehicle",
+        "Yes, at night only",
+        "Yes, if no other spaces are open"
+      ],
+      "h1": "The space is kept for a certain kind of car.",
+      "h2": "In California, you may not park in a space set aside for parking or fueling zero-emission vehicles unless you are driving a zero-emission vehicle.",
+      "p": "Right. Those spaces are only for zero-emission vehicles."
+    },
+    "es": {
+      "q": "En California, usted maneja un carro de gasolina. ¿Puede estacionarse en un espacio marcado para cargar vehículos de cero emisiones?",
+      "o": [
+        "Sí, si se queda menos de una hora",
+        "No, a menos que maneje un vehículo de cero emisiones",
+        "Sí, solo de noche",
+        "Sí, si no hay otros espacios libres"
+      ],
+      "h1": "El espacio está reservado para cierto tipo de carro.",
+      "h2": "En California, no puede estacionarse en un espacio reservado para estacionar o cargar vehículos de cero emisiones, a menos que maneje un vehículo de cero emisiones.",
+      "p": "Correcto. Esos espacios son solo para vehículos de cero emisiones."
+    }
+  },
+  {
+    "id": "ca-105",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 29,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, a police officer pulls you over. When must the officer tell you the reason for the stop?",
+      "o": [
+        "Only if you ask in writing",
+        "Only after giving you a ticket",
+        "Before asking questions about a crime or violation",
+        "Only in court"
+      ],
+      "h1": "It comes at the start, before the questions.",
+      "h2": "In California, an officer must state the reason for a traffic stop before asking any questions about a crime or traffic violation, except when a life or property is in immediate danger.",
+      "p": "Right. The officer must give the reason before asking questions."
+    },
+    "es": {
+      "q": "En California, un policía le indica que se detenga. ¿Cuándo debe el policía decirle el motivo de la parada?",
+      "o": [
+        "Solo si usted lo pide por escrito",
+        "Solo después de darle una multa",
+        "Antes de hacer preguntas sobre un delito o infracción",
+        "Solo en la corte"
+      ],
+      "h1": "Se hace al comienzo, antes de las preguntas.",
+      "h2": "En California, un policía debe decir el motivo de una parada de tráfico antes de hacer preguntas sobre un delito o una infracción de tránsito, salvo cuando una vida o propiedad está en peligro inmediato.",
+      "p": "Correcto. El policía debe dar el motivo antes de hacer preguntas."
+    }
+  },
+  {
+    "id": "ca-106",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 30,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, a city police officer stops you for a traffic ticket and asks about your immigration status. What does the handbook say?",
+      "o": [
+        "Local officers may not ask; you may refuse",
+        "You must answer or you will be arrested",
+        "You must show your passport to the officer",
+        "Only your passengers must answer it"
+      ],
+      "h1": "Only one level of law enforcement may ask about this.",
+      "h2": "In California, only federal officers may ask about your immigration status; state and local officers may not ask, and you can decline to answer.",
+      "p": "Right. State and local officers may not ask, and you can decline to answer."
+    },
+    "es": {
+      "q": "En California, un policía de la ciudad lo detiene por una multa de tránsito y le pregunta por su estatus migratorio. ¿Qué dice el manual?",
+      "o": [
+        "La policía local no puede preguntar; usted puede no contestar",
+        "Debe contestar o lo van a arrestar",
+        "Debe mostrarle su pasaporte al policía",
+        "Solo sus pasajeros deben contestar"
+      ],
+      "h1": "Solo un nivel de las fuerzas del orden puede preguntar esto.",
+      "h2": "En California, solo los agentes federales pueden preguntar por su estatus migratorio; los policías estatales y locales no pueden preguntar, y usted puede negarse a contestar.",
+      "p": "Correcto. Los policías estatales y locales no pueden preguntar, y usted puede no contestar."
+    }
+  },
+  {
+    "id": "ca-107",
+    "scope": "CA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 42,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, two cars meet on a steep, narrow mountain road and neither can pass. Which one has the right-of-way?",
+      "o": [
+        "The car facing downhill",
+        "The larger car",
+        "The car that honks first",
+        "The car facing uphill"
+      ],
+      "h1": "The car going down has more control when backing up the hill.",
+      "h2": "In California, when two vehicles meet on a steep narrow road, the vehicle facing uphill has the right-of-way, and the downhill vehicle backs up.",
+      "p": "Right. The car facing uphill has the right-of-way."
+    },
+    "es": {
+      "q": "En California, dos carros se encuentran en un camino de montaña empinado y angosto, y ninguno puede pasar. ¿Cuál tiene el derecho de paso?",
+      "o": [
+        "El carro que va cuesta abajo",
+        "El carro más grande",
+        "El carro que toca la bocina primero",
+        "El carro que va cuesta arriba"
+      ],
+      "h1": "El carro que baja tiene más control al retroceder cuesta arriba.",
+      "h2": "En California, cuando dos vehículos se encuentran en un camino empinado y angosto, el que va cuesta arriba tiene el derecho de paso, y el que va cuesta abajo retrocede.",
+      "p": "Correcto. El carro que va cuesta arriba tiene el derecho de paso."
+    }
+  },
+  {
+    "id": "ca-108",
+    "scope": "CA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 44,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, a streetcar is stopped ahead of you on a two-way street. The tracks leave room to pass on the right. On which side may you pass?",
+      "o": [
+        "On the left",
+        "On the right",
+        "On either side",
+        "You may not pass a streetcar"
+      ],
+      "h1": "Passing on the left is allowed only in a few special cases.",
+      "h2": "In California, you may not pass a light rail vehicle or streetcar on the left unless the tracks leave no room on the right, you are on a one-way street, or an officer directs you.",
+      "p": "Right. Pass a streetcar on the right unless a special case applies."
+    },
+    "es": {
+      "q": "En California, un tranvía está detenido delante de usted en una calle de doble sentido. Las vías dejan espacio para pasar por la derecha. ¿Por qué lado puede pasar?",
+      "o": [
+        "Por la izquierda",
+        "Por la derecha",
+        "Por cualquier lado",
+        "No puede pasar un tranvía"
+      ],
+      "h1": "Pasar por la izquierda se permite solo en algunos casos especiales.",
+      "h2": "En California, no puede pasar por la izquierda un tren ligero o tranvía, a menos que las vías no dejen espacio a la derecha, esté en una calle de un solo sentido o un agente se lo indique.",
+      "p": "Correcto. Pase el tranvía por la derecha, salvo en un caso especial."
+    }
+  },
+  {
+    "id": "ca-109",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 45,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, you hear about a big fire nearby and drive there to watch. What can happen?",
+      "o": [
+        "Nothing, if you stay in your car",
+        "You get a warning only",
+        "You can be arrested",
+        "You must pay a parking fee"
+      ],
+      "h1": "You would be in the way of rescue crews.",
+      "h2": "In California, you can be arrested if you drive to the scene of a fire, collision or other disaster, because you get in the way of rescue workers.",
+      "p": "Right. Driving to a fire or crash scene to watch can get you arrested."
+    },
+    "es": {
+      "q": "En California, usted oye de un incendio grande cerca y maneja hasta allí para mirar. ¿Qué puede pasar?",
+      "o": [
+        "Nada, si se queda en su carro",
+        "Solo le dan una advertencia",
+        "Lo pueden arrestar",
+        "Debe pagar estacionamiento"
+      ],
+      "h1": "Usted estorbaría a los equipos de rescate.",
+      "h2": "En California, lo pueden arrestar si maneja al lugar de un incendio, choque u otro desastre, porque estorba a los equipos de rescate.",
+      "p": "Correcto. Ir a mirar un incendio o un choque puede causar su arresto."
+    }
+  },
+  {
+    "id": "ca-110",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 47,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, you ride a bicycle after dark. What front light must it have?",
+      "o": [
+        "A white lamp seen from 300 feet",
+        "A red lamp seen from 100 feet",
+        "A yellow flashing light seen from 50 feet",
+        "No front light, only reflectors"
+      ],
+      "h1": "The front light is white.",
+      "h2": "In California, a bicycle ridden at night must have a front lamp with a white light that can be seen from 300 feet.",
+      "p": "Right. A white front lamp seen from 300 feet."
+    },
+    "es": {
+      "q": "En California, usted anda en bicicleta de noche. ¿Qué luz delantera debe tener?",
+      "o": [
+        "Una luz blanca visible desde 300 pies",
+        "Una luz roja visible desde 100 pies",
+        "Una luz amarilla intermitente visible desde 50 pies",
+        "Ninguna luz delantera, solo reflectores"
+      ],
+      "h1": "La luz delantera es blanca.",
+      "h2": "En California, una bicicleta que se usa de noche debe tener una luz delantera blanca que se vea desde 300 pies.",
+      "p": "Correcto. Una luz blanca delantera visible desde 300 pies."
+    }
+  },
+  {
+    "id": "ca-111",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 49,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, what is the penalty for assaulting a highway worker?",
+      "o": [
+        "A $100 fine only",
+        "A warning letter",
+        "Two points and traffic school",
+        "A fine up to $2,000 and up to one year in jail"
+      ],
+      "h1": "It is much more than a traffic ticket.",
+      "h2": "In California, a person convicted of assaulting a highway worker faces a fine of up to $2,000 and up to one year in jail.",
+      "p": "Right. Up to $2,000 and up to one year."
+    },
+    "es": {
+      "q": "En California, ¿cuál es la pena por agredir a un trabajador de carreteras?",
+      "o": [
+        "Solo una multa de $100",
+        "Una carta de advertencia",
+        "Dos puntos y escuela de tránsito",
+        "Una multa de hasta $2,000 y hasta un año de cárcel"
+      ],
+      "h1": "Es mucho más que una multa de tránsito.",
+      "h2": "En California, una persona condenada por agredir a un trabajador de carreteras enfrenta una multa de hasta $2,000 y hasta un año de cárcel.",
+      "p": "Correcto. Hasta $2,000 y hasta un año."
+    }
+  },
+  {
+    "id": "ca-112",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 50,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, a truck ahead of you has a diamond-shaped placard for a hazardous load. What must it do at a railroad crossing?",
+      "o": [
+        "Speed up to cross quickly",
+        "Stop before crossing the tracks",
+        "Cross only with flashers on",
+        "Wait for a flagger every time"
+      ],
+      "h1": "Expect it to stop even when no train is coming.",
+      "h2": "In California, vehicles with a hazardous-load placard must stop before crossing railroad tracks.",
+      "p": "Right. It must stop before crossing the tracks."
+    },
+    "es": {
+      "q": "En California, un camión delante de usted lleva un letrero en forma de diamante de carga peligrosa. ¿Qué debe hacer en un cruce de tren?",
+      "o": [
+        "Acelerar para cruzar rápido",
+        "Detenerse antes de cruzar las vías",
+        "Cruzar solo con las luces intermitentes",
+        "Esperar siempre a un abanderado"
+      ],
+      "h1": "Espere que se detenga aunque no venga un tren.",
+      "h2": "En California, los vehículos con letrero de carga peligrosa deben detenerse antes de cruzar las vías del tren.",
+      "p": "Correcto. Debe detenerse antes de cruzar las vías."
+    }
+  },
+  {
+    "id": "ca-113",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, what is the penalty for dumping or abandoning an animal on a highway?",
+      "o": [
+        "A $50 fine",
+        "A warning only",
+        "Up to $1,000, six months in jail, or both",
+        "One point on your record"
+      ],
+      "h1": "It is a crime, not just a ticket.",
+      "h2": "In California, dumping or abandoning an animal on a highway can bring a fine of up to $1,000, six months in jail, or both.",
+      "p": "Right. Up to $1,000, six months in jail, or both."
+    },
+    "es": {
+      "q": "En California, ¿cuál es la pena por tirar o abandonar un animal en una carretera?",
+      "o": [
+        "Una multa de $50",
+        "Solo una advertencia",
+        "Hasta $1,000, seis meses de cárcel, o ambos",
+        "Un punto en su historial"
+      ],
+      "h1": "Es un delito, no solo una multa.",
+      "h2": "En California, tirar o abandonar un animal en una carretera puede costar una multa de hasta $1,000, seis meses de cárcel, o ambos.",
+      "p": "Correcto. Hasta $1,000, seis meses de cárcel, o ambos."
+    }
+  },
+  {
+    "id": "ca-114",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, may a friend ride in the open bed of your pickup truck?",
+      "o": [
+        "Only if the bed has secure seats and seat belts",
+        "Yes, on any road",
+        "Yes, if you drive under 25 mph",
+        "Yes, if the friend is over 18"
+      ],
+      "h1": "Think about what keeps a rider safe in a crash.",
+      "h2": "In California, you may not let a person ride in the back of a pickup or other truck unless it has secure seats and seat belts.",
+      "p": "Right. Only with secure seats and seat belts."
+    },
+    "es": {
+      "q": "En California, ¿puede un amigo ir en la caja abierta de su camioneta pickup?",
+      "o": [
+        "Solo si la caja tiene asientos seguros y cinturones",
+        "Sí, en cualquier camino",
+        "Sí, si maneja a menos de 25 mph",
+        "Sí, si el amigo tiene más de 18 años"
+      ],
+      "h1": "Piense en qué protege a una persona en un choque.",
+      "h2": "En California, no puede dejar que una persona vaya en la parte de atrás de una pickup u otro camión, a menos que tenga asientos seguros y cinturones de seguridad.",
+      "p": "Correcto. Solo con asientos seguros y cinturones."
+    }
+  },
+  {
+    "id": "ca-115",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 53,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, where may you stick a 7-inch square sticker on your windshield?",
+      "o": [
+        "In the center, at eye level",
+        "Anywhere on the driver's side",
+        "Hanging from the rearview mirror",
+        "In the lower corner on the passenger's side"
+      ],
+      "h1": "It must stay out of the driver's main view.",
+      "h2": "In California, a 7-inch square item may go on the lower corner of the windshield on the passenger's side, or the lower corner of the rear window.",
+      "p": "Right. The lower corner on the passenger's side."
+    },
+    "es": {
+      "q": "En California, ¿dónde puede pegar una calcomanía cuadrada de 7 pulgadas en el parabrisas?",
+      "o": [
+        "En el centro, a la altura de los ojos",
+        "En cualquier parte del lado del conductor",
+        "Colgada del espejo retrovisor",
+        "En la esquina de abajo del lado del pasajero"
+      ],
+      "h1": "Debe quedar fuera de la vista principal del conductor.",
+      "h2": "En California, un objeto cuadrado de 7 pulgadas puede ir en la esquina de abajo del parabrisas del lado del pasajero, o en la esquina de abajo de la ventana trasera.",
+      "p": "Correcto. En la esquina de abajo del lado del pasajero."
+    }
+  },
+  {
+    "id": "ca-116",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 54,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, how long do most traffic convictions and collisions stay on your driving record?",
+      "o": [
+        "6 months",
+        "36 months or longer",
+        "12 months only",
+        "Forever, for every ticket"
+      ],
+      "h1": "It is counted in months, and it is at least three years.",
+      "h2": "In California, traffic convictions and collisions stay on your driving record for 36 months or longer, depending on the type.",
+      "p": "Right. 36 months or longer."
+    },
+    "es": {
+      "q": "En California, ¿cuánto tiempo quedan en su historial de manejo la mayoría de las condenas de tránsito y los choques?",
+      "o": [
+        "6 meses",
+        "36 meses o más",
+        "Solo 12 meses",
+        "Para siempre, cada multa"
+      ],
+      "h1": "Se cuenta en meses, y son por lo menos tres años.",
+      "h2": "En California, las condenas de tránsito y los choques quedan en su historial de manejo por 36 meses o más, según el tipo.",
+      "p": "Correcto. 36 meses o más."
+    }
+  },
+  {
+    "id": "ca-117",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 54,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, an adult driver gets 6 points. Within how many months can that lead to a suspension?",
+      "o": [
+        "6 months",
+        "12 months",
+        "24 months",
+        "60 months"
+      ],
+      "h1": "The handbook list goes 4 points, 6 points, 8 points, with a longer time for each.",
+      "h2": "In California, an adult's license may be suspended for 6 points in 24 months.",
+      "p": "Right. 6 points in 24 months."
+    },
+    "es": {
+      "q": "En California, un conductor adulto acumula 6 puntos. ¿En cuántos meses eso puede causar una suspensión?",
+      "o": [
+        "6 meses",
+        "12 meses",
+        "24 meses",
+        "60 meses"
+      ],
+      "h1": "La lista del manual va de 4 puntos a 6 y a 8, con más tiempo para cada uno.",
+      "h2": "En California, la licencia de un adulto puede ser suspendida por 6 puntos en 24 meses.",
+      "p": "Correcto. 6 puntos en 24 meses."
+    }
+  },
+  {
+    "id": "ca-118",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 54,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, you finish traffic violator school for a one-point ticket. What happens to the ticket?",
+      "o": [
+        "Your insurance company is not told, but it stays on your record",
+        "It is erased from your record for good",
+        "Your fine is paid back to you in full",
+        "Your insurance company gets a copy of it"
+      ],
+      "h1": "The insurance part changes, the record part does not.",
+      "h2": "In California, traffic violator school keeps a one-point ticket from being reported to your insurance company, but the ticket stays on your driving record.",
+      "p": "Right. Not reported to insurance, but still on your record."
+    },
+    "es": {
+      "q": "En California, usted termina la escuela para infractores de tránsito por una multa de un punto. ¿Qué pasa con la multa?",
+      "o": [
+        "No se informa a su aseguradora, pero queda en su historial",
+        "Se borra de su historial para siempre",
+        "Le devuelven todo el dinero de la multa",
+        "Su aseguradora recibe una copia de ella"
+      ],
+      "h1": "Cambia la parte del seguro, no la del historial.",
+      "h2": "En California, la escuela para infractores de tránsito evita que una multa de un punto se informe a su compañía de seguros, pero la multa queda en su historial de manejo.",
+      "p": "Correcto. No se informa al seguro, pero queda en su historial."
+    }
+  },
+  {
+    "id": "ca-119",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, what can be a reason for the DMV to reexamine a driver?",
+      "o": [
+        "Turning 65",
+        "Buying a new car",
+        "Moving to a new county",
+        "A physical or mental condition"
+      ],
+      "h1": "It is about ability, not age.",
+      "h2": "In California, a physical or mental condition or a poor driving record can be a reason for a DMV reexamination, but a driver's age is not.",
+      "p": "Right. A condition or a poor record, not age."
+    },
+    "es": {
+      "q": "En California, ¿qué puede ser motivo para que el DMV vuelva a examinar a un conductor?",
+      "o": [
+        "Cumplir 65 años",
+        "Comprar un carro nuevo",
+        "Mudarse a otro condado",
+        "Una condición física o mental"
+      ],
+      "h1": "Se trata de la capacidad, no de la edad.",
+      "h2": "En California, una condición física o mental o un mal historial de manejo puede ser motivo para un nuevo examen del DMV, pero la edad del conductor no lo es.",
+      "p": "Correcto. Una condición o un mal historial, no la edad."
+    }
+  },
+  {
+    "id": "ca-120",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 81,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, an officer gives you a Notice of Priority Reexamination with the top box checked. How long do you have to contact the DMV?",
+      "o": [
+        "24 hours",
+        "Five working days",
+        "30 days",
+        "Six months"
+      ],
+      "h1": "It is about one work week.",
+      "h2": "In California, after a Notice of Priority Reexamination with the top box checked, you have five working days to contact the DMV, or your driving privilege is automatically suspended.",
+      "p": "Right. Five working days."
+    },
+    "es": {
+      "q": "En California, un agente le da un Aviso de Reexaminación Prioritaria con la casilla de arriba marcada. ¿Cuánto tiempo tiene para comunicarse con el DMV?",
+      "o": [
+        "24 horas",
+        "Cinco días hábiles",
+        "30 días",
+        "Seis meses"
+      ],
+      "h1": "Es más o menos una semana de trabajo.",
+      "h2": "En California, después de un Aviso de Reexaminación Prioritaria con la casilla de arriba marcada, tiene cinco días hábiles para comunicarse con el DMV, o su privilegio de manejar se suspende automáticamente.",
+      "p": "Correcto. Cinco días hábiles."
+    }
+  },
+  {
+    "id": "ca-121",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 61,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, the road is wet from rain. By how much should you slow down?",
+      "o": [
+        "5 to 10 mph",
+        "1 to 2 mph",
+        "To half your speed",
+        "To 5 mph"
+      ],
+      "h1": "Wet roads call for a small cut; ice and snow call for more.",
+      "h2": "In California, on a wet road you should reduce your speed by 5 to 10 mph.",
+      "p": "Right. Slow down by 5 to 10 mph."
+    },
+    "es": {
+      "q": "En California, la calle está mojada por la lluvia. ¿Cuánto debe bajar la velocidad?",
+      "o": [
+        "De 5 a 10 mph",
+        "De 1 a 2 mph",
+        "A la mitad de su velocidad",
+        "A 5 mph"
+      ],
+      "h1": "En calles mojadas se reduce un poco; con hielo o nieve, mucho más.",
+      "h2": "En California, en una calle mojada debe reducir la velocidad de 5 a 10 mph.",
+      "p": "Correcto. Reduzca de 5 a 10 mph."
+    }
+  },
+  {
+    "id": "ca-122",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 61,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, the road is covered with ice. What is the fastest you should drive?",
+      "o": [
+        "25 mph",
+        "15 mph",
+        "5 mph",
+        "Half the speed limit"
+      ],
+      "h1": "It is the slowest number in the handbook's list.",
+      "h2": "In California, on ice you should reduce your speed to no more than 5 mph.",
+      "p": "Right. No more than 5 mph on ice."
+    },
+    "es": {
+      "q": "En California, la calle está cubierta de hielo. ¿Cuál es la velocidad más alta a la que debe manejar?",
+      "o": [
+        "25 mph",
+        "15 mph",
+        "5 mph",
+        "La mitad del límite de velocidad"
+      ],
+      "h1": "Es el número más bajo de la lista del manual.",
+      "h2": "En California, sobre hielo debe reducir la velocidad a no más de 5 mph.",
+      "p": "Correcto. No más de 5 mph sobre hielo."
+    }
+  },
+  {
+    "id": "ca-123",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 64,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, a highway patrol car ahead weaves slowly across all lanes with its lights on, to slow traffic. What should you do?",
+      "o": [
+        "Pass it on the shoulder",
+        "Brake hard and stop in your lane",
+        "Speed up to get ahead of it",
+        "Slow to its speed and do not pass it"
+      ],
+      "h1": "This is called a traffic break.",
+      "h2": "In California, during a traffic break you should turn on your flashers, slow down gradually to the officer's speed, and not drive past the patrol car.",
+      "p": "Right. Match the officer's speed and stay behind."
+    },
+    "es": {
+      "q": "En California, una patrulla de carretera adelante zigzaguea despacio por todos los carriles con las luces encendidas para frenar el tráfico. ¿Qué debe hacer?",
+      "o": [
+        "Pasarla por el acotamiento",
+        "Frenar fuerte y detenerse en su carril",
+        "Acelerar para ponerse delante",
+        "Bajar a su velocidad y no pasarla"
+      ],
+      "h1": "Esto se llama una pausa de tráfico.",
+      "h2": "En California, durante una pausa de tráfico debe encender las luces intermitentes, bajar poco a poco a la velocidad del agente y no pasar la patrulla.",
+      "p": "Correcto. Iguale la velocidad del agente y quédese detrás."
+    }
+  },
+  {
+    "id": "ca-124",
+    "scope": "CA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 71,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, an adult driver uses a phone mounted on the dashboard for directions. How may the driver touch it while driving?",
+      "o": [
+        "With a long series of taps",
+        "With a single swipe or touch",
+        "Only while holding it",
+        "Only to type a text"
+      ],
+      "h1": "Keep the contact as short as possible.",
+      "h2": "In California, a phone must be mounted on the windshield, dashboard or center console, and the driver may use only a single swipe or touch on it.",
+      "p": "Right. A single swipe or touch only."
+    },
+    "es": {
+      "q": "En California, un conductor adulto usa un teléfono montado en el tablero para ver direcciones. ¿Cómo puede tocarlo mientras maneja?",
+      "o": [
+        "Con muchos toques seguidos",
+        "Con un solo deslizamiento o toque",
+        "Solo mientras lo sostiene en la mano",
+        "Solo para escribir un mensaje"
+      ],
+      "h1": "El contacto debe ser lo más corto posible.",
+      "h2": "En California, el teléfono debe ir montado en el parabrisas, el tablero o la consola central, y el conductor solo puede deslizarlo o tocarlo una vez.",
+      "p": "Correcto. Un solo deslizamiento o toque."
+    }
+  },
+  {
+    "id": "ca-125",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 73,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, you are 35 years old and on DUI probation. At what blood alcohol level is it illegal for you to drive?",
+      "o": [
+        "0.01 percent or more",
+        "0.08 percent or more",
+        "0.05 percent or more",
+        "0.10 percent or more"
+      ],
+      "h1": "On DUI probation, the limit is the same as for drivers under 21.",
+      "h2": "In California, a driver of any age who is on DUI probation may not drive with a blood alcohol level of 0.01 percent or more.",
+      "p": "Right. 0.01 percent or more for anyone on DUI probation."
+    },
+    "es": {
+      "q": "En California, usted tiene 35 años y está en libertad condicional por DUI. ¿Con qué nivel de alcohol en la sangre es ilegal que maneje?",
+      "o": [
+        "0.01 por ciento o más",
+        "0.08 por ciento o más",
+        "0.05 por ciento o más",
+        "0.10 por ciento o más"
+      ],
+      "h1": "En libertad condicional por DUI, el límite es el mismo que para menores de 21 años.",
+      "h2": "En California, un conductor de cualquier edad que está en libertad condicional por DUI no puede manejar con un nivel de alcohol en la sangre de 0.01 por ciento o más.",
+      "p": "Correcto. 0.01 por ciento o más para quien está en libertad condicional por DUI."
+    }
+  },
+  {
+    "id": "ca-126",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 74,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, besides losing the license, what jail time can a court give for a DUI conviction?",
+      "o": [
+        "None, jail is never used",
+        "Exactly one weekend",
+        "Up to six months",
+        "At least five years"
+      ],
+      "h1": "It is counted in months.",
+      "h2": "In California, a person convicted of DUI may be sentenced to up to six months in jail.",
+      "p": "Right. Up to six months in jail."
+    },
+    "es": {
+      "q": "En California, además de perder la licencia, ¿cuánta cárcel puede dar un juez por una condena de DUI?",
+      "o": [
+        "Ninguna, nunca se usa la cárcel",
+        "Exactamente un fin de semana",
+        "Hasta seis meses",
+        "Por lo menos cinco años"
+      ],
+      "h1": "Se cuenta en meses.",
+      "h2": "En California, una persona condenada por DUI puede recibir hasta seis meses de cárcel.",
+      "p": "Correcto. Hasta seis meses de cárcel."
+    }
+  },
+  {
+    "id": "ca-127",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 75,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, a 19-year-old driver is caught with alcohol in the car. For how long can police impound the car?",
+      "o": [
+        "24 hours",
+        "Never; only the alcohol is taken",
+        "Up to 6 months",
+        "Up to 30 days"
+      ],
+      "h1": "It is counted in days.",
+      "h2": "In California, if a driver under 21 is caught with alcohol in the vehicle, police can impound the vehicle for up to 30 days.",
+      "p": "Right. Up to 30 days."
+    },
+    "es": {
+      "q": "En California, encuentran alcohol en el carro de un conductor de 19 años. ¿Por cuánto tiempo puede la policía incautar el carro?",
+      "o": [
+        "24 horas",
+        "Nunca; solo se llevan el alcohol",
+        "Hasta 6 meses",
+        "Hasta 30 días"
+      ],
+      "h1": "Se cuenta en días.",
+      "h2": "En California, si un conductor menor de 21 años tiene alcohol en el vehículo, la policía puede incautar el vehículo hasta por 30 días.",
+      "p": "Correcto. Hasta 30 días."
+    }
+  },
+  {
+    "id": "ca-128",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 76,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In California, a 17-year-old driver causes a crash. Who takes on the financial responsibility for the damages?",
+      "o": [
+        "Only the teen",
+        "The teen's parents or guardians",
+        "The driving school",
+        "The state of California"
+      ],
+      "h1": "Think about who signed the permit application.",
+      "h2": "In California, parents or guardians take on financial responsibility for drivers under 18 and pay for damages if the teen is in a collision.",
+      "p": "Right. The parents or guardians."
+    },
+    "es": {
+      "q": "En California, un conductor de 17 años causa un choque. ¿Quién asume la responsabilidad económica por los daños?",
+      "o": [
+        "Solo el joven",
+        "Los padres o tutores del joven",
+        "La escuela de manejo",
+        "El estado de California"
+      ],
+      "h1": "Piense en quién firmó la solicitud del permiso.",
+      "h2": "En California, los padres o tutores asumen la responsabilidad económica por los conductores menores de 18 años y pagan los daños si el joven tiene un choque.",
+      "p": "Correcto. Los padres o tutores."
+    }
+  },
+  {
+    "id": "ca-129",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 78,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In California, you have a crash in a store parking lot that causes $2,000 in damage. Must you report it to the DMV?",
+      "o": [
+        "Yes, with an SR 1 within 10 days",
+        "No, private property does not count",
+        "No, the police report is enough",
+        "Only if you caused it"
+      ],
+      "h1": "The handbook says where the crash happens does not matter.",
+      "h2": "In California, a crash with more than $1,000 in damage must be reported to the DMV on an SR 1 within 10 days, even if it happened on private property.",
+      "p": "Right. Report it on an SR 1, even on private property."
+    },
+    "es": {
+      "q": "En California, usted tiene un choque en el estacionamiento de una tienda que causa $2,000 en daños. ¿Debe informarlo al DMV?",
+      "o": [
+        "Sí, con un SR 1 dentro de 10 días",
+        "No, la propiedad privada no cuenta",
+        "No, basta con el informe de la policía",
+        "Solo si usted lo causó"
+      ],
+      "h1": "El manual dice que no importa dónde ocurre el choque.",
+      "h2": "En California, un choque con más de $1,000 en daños se debe informar al DMV con un SR 1 dentro de 10 días, aunque haya ocurrido en propiedad privada.",
+      "p": "Correcto. Infórmelo con un SR 1, aun en propiedad privada."
+    }
+  },
+  {
+    "id": "ca-130",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 82,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In California, about how long before your license expires does the DMV mail a renewal notice?",
+      "o": [
+        "About 10 days",
+        "About one year",
+        "About 90 days",
+        "The DMV does not send notices"
+      ],
+      "h1": "It is about three months.",
+      "h2": "In California, the DMV sends a renewal notice to your address of record about 90 days before your license expires.",
+      "p": "Right. About 90 days before."
+    },
+    "es": {
+      "q": "En California, ¿con cuánto tiempo de anticipación envía el DMV el aviso de renovación antes de que venza su licencia?",
+      "o": [
+        "Unos 10 días",
+        "Un año más o menos",
+        "Unos 90 días",
+        "El DMV no envía avisos"
+      ],
+      "h1": "Son unos tres meses.",
+      "h2": "En California, el DMV envía un aviso de renovación a su dirección registrada unos 90 días antes de que venza su licencia.",
+      "p": "Correcto. Unos 90 días antes."
+    }
+  },
+  {
+    "id": "ca-131",
+    "scope": "CA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 83,
+    "src": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In California, at what age can you get a Senior ID card with no fee?",
+      "o": [
+        "50",
+        "55",
+        "70",
+        "62"
+      ],
+      "h1": "It is a few years after the Mature Driver course age of 55.",
+      "h2": "In California, people 62 years old or older can get a Senior ID card with no fee.",
+      "p": "Right. At 62 or older."
+    },
+    "es": {
+      "q": "En California, ¿a qué edad puede obtener una tarjeta de identificación para personas mayores sin costo?",
+      "o": [
+        "50",
+        "55",
+        "70",
+        "62"
+      ],
+      "h1": "Es unos años después de los 55 del curso para conductores mayores.",
+      "h2": "En California, las personas de 62 años o más pueden obtener una tarjeta de identificación para personas mayores sin costo.",
+      "p": "Correcto. A los 62 años o más."
+    }
   }
 ]
