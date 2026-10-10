@@ -8260,5 +8260,1025 @@
       "h2": "En Hawái, un permiso de aprendizaje se puede renovar no más de 30 días antes de que venza, o hasta 90 días después.",
       "p": "Correcto. Hasta 30 días antes de que venza."
     }
+  },
+  {
+    "id": "hi-172",
+    "scope": "HI",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 73,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, a street has no markings that allow angle parking. How must you park along the curb?",
+      "o": [
+        "At an angle, with the front end toward the curb",
+        "Parallel to the curb, facing either direction",
+        "Parallel to the curb, facing the way traffic moves",
+        "At an angle, with the back end toward the curb"
+      ],
+      "h1": "Unless angle parking is clearly marked, line your car up with the curb and with traffic.",
+      "h2": "In Hawaii, where angle parking is not clearly marked, you must park parallel to the curb, facing the direction traffic moves.",
+      "p": "Right. Park parallel to the curb and face the way traffic flows."
+    },
+    "es": {
+      "q": "En Hawái, una calle no tiene marcas que permitan estacionar en ángulo. ¿Cómo debe estacionarse junto a la acera?",
+      "o": [
+        "En ángulo, con la parte delantera hacia la acera",
+        "Paralelo a la acera, mirando hacia cualquier lado",
+        "Paralelo a la acera, mirando hacia donde va el tránsito",
+        "En ángulo, con la parte trasera hacia la acera"
+      ],
+      "h1": "Si no hay marcas claras para estacionar en ángulo, alinee su auto con la acera y con el tránsito.",
+      "h2": "En Hawái, donde no está marcado claramente el estacionamiento en ángulo, debe estacionarse paralelo a la acera, mirando en la dirección en que va el tránsito.",
+      "p": "Correcto. Estaciónese paralelo a la acera y mirando hacia donde va el tránsito."
+    }
+  },
+  {
+    "id": "hi-173",
+    "scope": "HI",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 29,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, a funeral procession is passing. What should you NOT do?",
+      "o": [
+        "Drive your car between the cars in the procession",
+        "Wait for the whole procession to pass before you go",
+        "Let the procession go first at an intersection",
+        "Watch for the cars in it that have headlights on"
+      ],
+      "h1": "The cars in a procession travel together as one group.",
+      "h2": "In Hawaii, you should not drive your vehicle between the vehicles in a funeral procession.",
+      "p": "Right. Never cut into a funeral procession."
+    },
+    "es": {
+      "q": "En Hawái, está pasando un cortejo fúnebre. ¿Qué NO debe hacer?",
+      "o": [
+        "Meter su auto entre los autos del cortejo",
+        "Esperar a que pase todo el cortejo antes de seguir",
+        "Dejar pasar primero al cortejo en un cruce",
+        "Fijarse en los autos del cortejo con luces encendidas"
+      ],
+      "h1": "Los autos de un cortejo avanzan juntos como un solo grupo.",
+      "h2": "En Hawái, usted no debe meter su vehículo entre los vehículos de un cortejo fúnebre.",
+      "p": "Correcto. Nunca se meta en un cortejo fúnebre."
+    }
+  },
+  {
+    "id": "hi-174",
+    "scope": "HI",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 29,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, your car sticks out past the lines of a marked parking space. When is this allowed?",
+      "o": [
+        "Whenever it sticks out by less than 2 feet",
+        "Only at night, when the lot is nearly empty",
+        "Whenever you park there for under one hour",
+        "Only when your vehicle is larger than the space"
+      ],
+      "h1": "The only exception depends on the size of your vehicle.",
+      "h2": "In Hawaii, you may not park so that your vehicle extends outside a marked parking space, unless your vehicle is larger than the space.",
+      "p": "Right. Stay inside the lines unless your vehicle is too big for the space."
+    },
+    "es": {
+      "q": "En Hawái, su auto sobresale de las líneas de un espacio de estacionamiento marcado. ¿Cuándo se permite esto?",
+      "o": [
+        "Siempre que sobresalga menos de 2 pies",
+        "Solo de noche, cuando el lote está casi vacío",
+        "Siempre que se estacione menos de una hora",
+        "Solo cuando su vehículo es más grande que el espacio"
+      ],
+      "h1": "La única excepción depende del tamaño de su vehículo.",
+      "h2": "En Hawái, no puede estacionarse de modo que su vehículo sobresalga de un espacio de estacionamiento marcado, a menos que su vehículo sea más grande que el espacio.",
+      "p": "Correcto. Quédese dentro de las líneas, salvo que su vehículo sea demasiado grande para el espacio."
+    }
+  },
+  {
+    "id": "hi-175",
+    "scope": "HI",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 29,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, may you park in the striped access aisle next to an accessible parking space?",
+      "o": [
+        "Yes, if you show a disability placard",
+        "No, it must stay clear for wheelchair ramps",
+        "Yes, but only for up to 15 minutes",
+        "Yes, if the accessible spaces are empty"
+      ],
+      "h1": "Think about what a van with a wheelchair lift needs beside it.",
+      "h2": "In Hawaii, you may not park in the access aisle next to an accessible parking space, because it must stay clear for wheelchair lifts, ramps and other mobility devices.",
+      "p": "Right. The access aisle must always stay clear."
+    },
+    "es": {
+      "q": "En Hawái, ¿puede estacionarse en el pasillo de acceso con rayas junto a un espacio de estacionamiento accesible?",
+      "o": [
+        "Sí, si muestra un permiso de discapacidad",
+        "No, debe quedar libre para rampas de silla de ruedas",
+        "Sí, pero solo hasta 15 minutos",
+        "Sí, si los espacios accesibles están vacíos"
+      ],
+      "h1": "Piense en lo que necesita a su lado una camioneta con elevador para silla de ruedas.",
+      "h2": "En Hawái, no puede estacionarse en el pasillo de acceso junto a un espacio accesible, porque debe quedar libre para elevadores, rampas de silla de ruedas y otros aparatos de movilidad.",
+      "p": "Correcto. El pasillo de acceso siempre debe quedar libre."
+    }
+  },
+  {
+    "id": "hi-176",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 21,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, how long does a car's registration last before it must be renewed?",
+      "o": [
+        "Two years, ending on the owner's birthday",
+        "One year, ending at the end of the 12th month",
+        "Six months, ending at the end of the 6th month",
+        "Five years, ending when the car is sold"
+      ],
+      "h1": "Hawaii registers vehicles more often than every two years.",
+      "h2": "In Hawaii, vehicle registrations expire every year, at the end of the 12th month.",
+      "p": "Right. Registration is renewed every year."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuánto dura el registro de un auto antes de que haya que renovarlo?",
+      "o": [
+        "Dos años, y vence en el cumpleaños del dueño",
+        "Un año, y vence al final del mes 12",
+        "Seis meses, y vence al final del mes 6",
+        "Cinco años, y vence cuando se vende el auto"
+      ],
+      "h1": "Hawái registra los vehículos con más frecuencia que cada dos años.",
+      "h2": "En Hawái, el registro de un vehículo vence cada año, al final del mes 12.",
+      "p": "Correcto. El registro se renueva cada año."
+    }
+  },
+  {
+    "id": "hi-177",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 22,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, a member of the U.S. Armed Forces on duty here is a legal resident of another state. Where may they register their car?",
+      "o": [
+        "Only in the city of Honolulu",
+        "Only in Hawaii, like every resident",
+        "Only in the state where the car was built",
+        "In their home state"
+      ],
+      "h1": "Their legal home is not Hawaii.",
+      "h2": "In Hawaii, a U.S. Armed Forces member on duty at a Hawaii military installation who is a legal resident of another state may register the vehicle in that home state.",
+      "p": "Right. They may keep the car registered in their home state."
+    },
+    "es": {
+      "q": "En Hawái, un miembro de las Fuerzas Armadas de EE. UU. en servicio aquí es residente legal de otro estado. ¿Dónde puede registrar su auto?",
+      "o": [
+        "Solo en la ciudad de Honolulu",
+        "Solo en Hawái, como todo residente",
+        "Solo en el estado donde se fabricó el auto",
+        "En su estado de origen"
+      ],
+      "h1": "Su hogar legal no es Hawái.",
+      "h2": "En Hawái, un miembro de las Fuerzas Armadas de EE. UU. en servicio en una instalación militar de Hawái que es residente legal de otro estado puede registrar el vehículo en ese estado de origen.",
+      "p": "Correcto. Puede mantener el auto registrado en su estado de origen."
+    }
+  },
+  {
+    "id": "hi-178",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, when must you have your driver's license with you?",
+      "o": [
+        "Every time you drive a car or a moped",
+        "Only when you drive outside your county",
+        "Only during your first year of driving",
+        "Only when you drive after dark"
+      ],
+      "h1": "A police officer may ask to see it any time you are driving.",
+      "h2": "In Hawaii, you must have a valid driver's license with you at all times while driving a motor vehicle or moped, and show it to a police officer who asks.",
+      "p": "Right. Carry your license every time you drive."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuándo debe llevar consigo su licencia de manejo?",
+      "o": [
+        "Cada vez que maneja un auto o un ciclomotor",
+        "Solo cuando maneja fuera de su condado",
+        "Solo durante su primer año manejando",
+        "Solo cuando maneja de noche"
+      ],
+      "h1": "Un policía puede pedir verla en cualquier momento en que usted esté manejando.",
+      "h2": "En Hawái, debe llevar una licencia de manejo válida en todo momento mientras maneja un vehículo motorizado o un ciclomotor, y mostrarla al policía que se la pida.",
+      "p": "Correcto. Lleve su licencia cada vez que maneje."
+    }
+  },
+  {
+    "id": "hi-179",
+    "scope": "HI",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 96,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, a person stands in the street offering to watch over cars for people who park there. Is this allowed?",
+      "o": [
+        "Yes, if they wear a bright vest",
+        "Yes, but only in daylight hours",
+        "No, this is against the law",
+        "Yes, if a nearby store allows it"
+      ],
+      "h1": "Think about the safety of people who stand in traffic.",
+      "h2": "In Hawaii, no one may stand in or near the street to offer to watch or guard vehicles that are parked or about to be parked.",
+      "p": "Right. Guarding parked cars from the street is not allowed."
+    },
+    "es": {
+      "q": "En Hawái, una persona se para en la calle y ofrece cuidar los autos de quienes se estacionan allí. ¿Se permite esto?",
+      "o": [
+        "Sí, si lleva un chaleco llamativo",
+        "Sí, pero solo durante el día",
+        "No, va contra la ley",
+        "Sí, si una tienda cercana lo permite"
+      ],
+      "h1": "Piense en la seguridad de las personas que se paran en el tránsito.",
+      "h2": "En Hawái, nadie puede pararse en la calle o cerca de ella para ofrecer vigilar o cuidar vehículos estacionados o que se van a estacionar.",
+      "p": "Correcto. No se permite cuidar autos estacionados desde la calle."
+    }
+  },
+  {
+    "id": "hi-180",
+    "scope": "HI",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 95,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, a safety zone is an area in the road set apart for people on foot. When may you drive through it?",
+      "o": [
+        "When no one is standing in it",
+        "When you are turning right",
+        "When traffic ahead has stopped",
+        "Never, at any time"
+      ],
+      "h1": "It is protected space for pedestrians.",
+      "h2": "In Hawaii, you may never drive through or within a pedestrian safety zone.",
+      "p": "Right. Never drive through a safety zone."
+    },
+    "es": {
+      "q": "En Hawái, una zona de seguridad es un área en la calle reservada para peatones. ¿Cuándo puede pasar por ella con su auto?",
+      "o": [
+        "Cuando no hay nadie parado en ella",
+        "Cuando va a girar a la derecha",
+        "Cuando el tránsito de adelante se detuvo",
+        "Nunca, en ningún momento"
+      ],
+      "h1": "Es un espacio protegido para los peatones.",
+      "h2": "En Hawái, nunca puede manejar a través ni dentro de una zona de seguridad para peatones.",
+      "p": "Correcto. Nunca maneje por una zona de seguridad."
+    }
+  },
+  {
+    "id": "hi-181",
+    "scope": "HI",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 64,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, you are driving out of a driveway across a sidewalk. No one is walking by. What must you do?",
+      "o": [
+        "Slow down, but you do not need to stop",
+        "Tap the horn and drive into the street",
+        "Stop before you cross the sidewalk area",
+        "Stop only once you reach the street"
+      ],
+      "h1": "The law asks for the same action whether or not you see someone.",
+      "h2": "In Hawaii, when you leave a driveway you must always stop before crossing the sidewalk area, even if no one is there.",
+      "p": "Right. Always stop before the sidewalk."
+    },
+    "es": {
+      "q": "En Hawái, usted sale de una entrada de garaje cruzando una acera. No pasa nadie caminando. ¿Qué debe hacer?",
+      "o": [
+        "Bajar la velocidad, sin necesidad de detenerse",
+        "Tocar la bocina y salir a la calle",
+        "Detenerse antes de cruzar el área de la acera",
+        "Detenerse solo al llegar a la calle"
+      ],
+      "h1": "La ley pide lo mismo, vea o no vea a alguien.",
+      "h2": "En Hawái, al salir de una entrada de garaje siempre debe detenerse antes de cruzar el área de la acera, aunque no haya nadie.",
+      "p": "Correcto. Siempre deténgase antes de la acera."
+    }
+  },
+  {
+    "id": "hi-182",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0286/HRS_0286-0136.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, a person is convicted for the first time of driving without a driver's license. What is the most they can be fined?",
+      "o": [
+        "$50",
+        "$1,000",
+        "$150",
+        "$10,000"
+      ],
+      "h1": "It is a large fine, and jail is possible too.",
+      "h2": "In Hawaii, a first conviction for driving without a license can bring a fine of up to $1,000, up to 30 days in jail, or both.",
+      "p": "Right. The fine can be as high as $1,000."
+    },
+    "es": {
+      "q": "En Hawái, una persona es condenada por primera vez por manejar sin licencia de manejo. ¿Cuál es la multa más alta que puede recibir?",
+      "o": [
+        "$50",
+        "$1,000",
+        "$150",
+        "$10,000"
+      ],
+      "h1": "Es una multa grande, y también es posible ir a la cárcel.",
+      "h2": "En Hawái, una primera condena por manejar sin licencia puede traer una multa de hasta $1,000, hasta 30 días de cárcel, o ambas cosas.",
+      "p": "Correcto. La multa puede llegar a $1,000."
+    }
+  },
+  {
+    "id": "hi-183",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0286/HRS_0286-0136.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, a 16-year-old in family court is found guilty of driving without a license. What can happen?",
+      "o": [
+        "They lose the right to drive until 18, or pay $500",
+        "They get a warning letter, and nothing else",
+        "They must wait until age 25 to get a license",
+        "They pay $5,000 and spend a year in jail"
+      ],
+      "h1": "The law gives the court two choices for a minor.",
+      "h2": "In Hawaii, a minor under 18 in family court for this kind of licensing violation either loses the right to drive until age 18 or pays a $500 fine.",
+      "p": "Right. A minor can lose driving until 18 or be fined $500."
+    },
+    "es": {
+      "q": "En Hawái, un joven de 16 años en el tribunal de familia es declarado culpable de manejar sin licencia. ¿Qué puede pasar?",
+      "o": [
+        "Pierde el derecho a manejar hasta los 18, o paga $500",
+        "Recibe una carta de advertencia y nada más",
+        "Debe esperar hasta los 25 años para tener licencia",
+        "Paga $5,000 y pasa un año en la cárcel"
+      ],
+      "h1": "La ley le da al tribunal dos opciones para un menor.",
+      "h2": "En Hawái, un menor de 18 años en el tribunal de familia por este tipo de falta de licencia pierde el derecho a manejar hasta los 18 años o paga una multa de $500.",
+      "p": "Correcto. Un menor puede perder el derecho a manejar hasta los 18 o pagar $500."
+    }
+  },
+  {
+    "id": "hi-184",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0286/HRS_0286-0117.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, a police officer tells you your driver's license is too worn to read. How long do you have to turn it in and apply for a duplicate?",
+      "o": [
+        "10 days",
+        "90 days",
+        "Six months",
+        "One year"
+      ],
+      "h1": "It is less than two weeks.",
+      "h2": "In Hawaii, if a police officer tells you your license is illegible, you must turn it in and apply for a duplicate within 10 days.",
+      "p": "Right. You have 10 days."
+    },
+    "es": {
+      "q": "En Hawái, un policía le dice que su licencia de manejo está tan gastada que no se puede leer. ¿Cuánto tiempo tiene para entregarla y pedir un duplicado?",
+      "o": [
+        "10 días",
+        "90 días",
+        "Seis meses",
+        "Un año"
+      ],
+      "h1": "Es menos de dos semanas.",
+      "h2": "En Hawái, si un policía le dice que su licencia no se puede leer, debe entregarla y pedir un duplicado dentro de 10 días.",
+      "p": "Correcto. Tiene 10 días."
+    }
+  },
+  {
+    "id": "hi-185",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291/HRS_0291-0012.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, a driver who is not paying attention causes a crash that damages another car. What penalty is possible for inattention to driving?",
+      "o": [
+        "Only a $25 fine, with no jail possible",
+        "Up to $500, up to 30 days in jail, or both",
+        "Up to $10,000 and five years in prison",
+        "A warning only, since no one was hurt"
+      ],
+      "h1": "It is a crime, but not a felony.",
+      "h2": "In Hawaii, driving carelessly so that you cause a crash, injury or damage is inattention to driving, with a fine of up to $500, up to 30 days in jail, or both.",
+      "p": "Right. Up to $500, up to 30 days in jail, or both."
+    },
+    "es": {
+      "q": "En Hawái, un conductor que no presta atención causa un choque que daña otro auto. ¿Qué castigo es posible por falta de atención al manejar?",
+      "o": [
+        "Solo una multa de $25, sin cárcel posible",
+        "Hasta $500, hasta 30 días de cárcel, o ambos",
+        "Hasta $10,000 y cinco años de prisión",
+        "Solo una advertencia, porque nadie se lastimó"
+      ],
+      "h1": "Es un delito, pero no un delito grave (felony).",
+      "h2": "En Hawái, manejar sin cuidado y causar un choque, lesiones o daños es falta de atención al manejar, con una multa de hasta $500, hasta 30 días de cárcel, o ambas cosas.",
+      "p": "Correcto. Hasta $500, hasta 30 días de cárcel, o ambos."
+    }
+  },
+  {
+    "id": "hi-186",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0121_0005.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, you leave your 5-year-old in the car with a 10-year-old sibling while you shop for 15 minutes. What does the law say?",
+      "o": [
+        "It is allowed, because the child is not alone",
+        "It is allowed if the windows are left open",
+        "It is not allowed; the child counts as unattended",
+        "It is allowed if the car's engine is running"
+      ],
+      "h1": "Leaving a child with another young child does not count as an adult watching.",
+      "h2": "In Hawaii, a child under 9 left in a car with only a child under 12 counts as unattended, so leaving them for five minutes or longer is against the law.",
+      "p": "Right. A child under 12 cannot be the one watching."
+    },
+    "es": {
+      "q": "En Hawái, usted deja a su hijo de 5 años en el auto con su hermano de 10 años mientras compra durante 15 minutos. ¿Qué dice la ley?",
+      "o": [
+        "Se permite, porque el niño no está solo",
+        "Se permite si deja las ventanas abiertas",
+        "No se permite; el niño cuenta como desatendido",
+        "Se permite si el motor del auto está encendido"
+      ],
+      "h1": "Dejar a un niño con otro niño pequeño no cuenta como que un adulto lo cuide.",
+      "h2": "En Hawái, un niño menor de 9 años que queda en un auto solo con un menor de 12 años cuenta como desatendido, así que dejarlos cinco minutos o más va contra la ley.",
+      "p": "Correcto. Un menor de 12 años no puede ser quien lo cuide."
+    }
+  },
+  {
+    "id": "hi-187",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0161.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, a driver hits a car with a person in it, causing only damage, and drives off without stopping. For a first conviction, what penalty is possible?",
+      "o": [
+        "A fine up to $25, with no jail possible",
+        "A fine up to $50,000 or ten years in prison",
+        "Only points on the license, with no fine",
+        "A fine up to $250 or up to 10 days in jail"
+      ],
+      "h1": "No one was hurt, so the penalty is lower than for a crash with injuries.",
+      "h2": "In Hawaii, leaving the scene of a crash that only damaged an attended vehicle or property can bring, for a first conviction, a fine of up to $250 or up to 10 days in jail.",
+      "p": "Right. Up to $250 or up to 10 days in jail."
+    },
+    "es": {
+      "q": "En Hawái, un conductor choca un auto con una persona adentro, solo causa daños y se va sin detenerse. En una primera condena, ¿qué castigo es posible?",
+      "o": [
+        "Multa de hasta $25, sin cárcel posible",
+        "Multa de hasta $50,000 o diez años de prisión",
+        "Solo puntos en la licencia, sin multa",
+        "Multa de hasta $250 o hasta 10 días de cárcel"
+      ],
+      "h1": "Nadie se lastimó, así que el castigo es menor que en un choque con heridos.",
+      "h2": "En Hawái, irse del lugar de un choque que solo dañó un vehículo ocupado o una propiedad puede traer, en una primera condena, una multa de hasta $250 o hasta 10 días de cárcel.",
+      "p": "Correcto. Hasta $250 o hasta 10 días de cárcel."
+    }
+  },
+  {
+    "id": "hi-188",
+    "scope": "HI",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 96,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, you are walking along a road that has no sidewalk. Where should you walk?",
+      "o": [
+        "On the right side, with your back to traffic",
+        "In the middle of the lane, so drivers see you",
+        "On the left side, facing oncoming traffic",
+        "On whichever side has the most shade"
+      ],
+      "h1": "You want to see the cars coming toward you.",
+      "h2": "In Hawaii, where there is no sidewalk, a pedestrian should walk on the left side of the road or its shoulder, facing oncoming traffic.",
+      "p": "Right. Walk on the left, facing traffic."
+    },
+    "es": {
+      "q": "En Hawái, usted camina por una calle que no tiene acera. ¿Por dónde debe caminar?",
+      "o": [
+        "Por el lado derecho, de espaldas al tránsito",
+        "Por el centro del carril, para que lo vean",
+        "Por el lado izquierdo, de frente al tránsito",
+        "Por el lado que tenga más sombra"
+      ],
+      "h1": "Usted quiere ver los autos que vienen hacia usted.",
+      "h2": "En Hawái, donde no hay acera, un peatón debe caminar por el lado izquierdo de la calle o de su orilla, de frente al tránsito que viene.",
+      "p": "Correcto. Camine por la izquierda, de frente al tránsito."
+    }
+  },
+  {
+    "id": "hi-189",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0133.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, trash falls from your truck onto the road, and picking it up would be dangerous. What must you do?",
+      "o": [
+        "Leave it, since road crews clean up trash",
+        "Wait until the next day to pick it up",
+        "Tell only your insurance company",
+        "Report it to the county police without delay"
+      ],
+      "h1": "Someone must be told so the road can be made safe.",
+      "h2": "In Hawaii, a driver must remove waste that falls from the vehicle onto the road, or, if that cannot be done or would be dangerous, report it to the county police without unnecessary delay.",
+      "p": "Right. If you cannot safely pick it up, report it to the police."
+    },
+    "es": {
+      "q": "En Hawái, se cae basura de su camioneta a la calle, y recogerla sería peligroso. ¿Qué debe hacer?",
+      "o": [
+        "Dejarla, porque los equipos de la calle la recogen",
+        "Esperar al día siguiente para recogerla",
+        "Avisar solo a su compañía de seguros",
+        "Avisar a la policía del condado sin demora"
+      ],
+      "h1": "Alguien debe saberlo para que la calle quede segura.",
+      "h2": "En Hawái, el conductor debe quitar los desechos que caen de su vehículo a la calle o, si no puede hacerlo o sería peligroso, avisar a la policía del condado sin demora innecesaria.",
+      "p": "Correcto. Si no puede recogerla con seguridad, avise a la policía."
+    }
+  },
+  {
+    "id": "hi-190",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0125.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, how long may you leave a car door open on the side next to moving traffic?",
+      "o": [
+        "As long as your hazard lights are flashing",
+        "Only as long as needed to load or unload people",
+        "Up to 10 minutes, if you stand beside the car",
+        "As long as you like, if you parked legally"
+      ],
+      "h1": "An open door on the traffic side is a danger to others.",
+      "h2": "In Hawaii, you may open a door on the side next to moving traffic only when it is safe, and may not leave it open longer than needed to load or unload passengers.",
+      "p": "Right. Close the door as soon as people are in or out."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuánto tiempo puede dejar abierta la puerta de un auto del lado del tránsito en movimiento?",
+      "o": [
+        "Mientras tenga encendidas las luces de emergencia",
+        "Solo lo necesario para que suban o bajen personas",
+        "Hasta 10 minutos, si se queda junto al auto",
+        "Lo que quiera, si se estacionó legalmente"
+      ],
+      "h1": "Una puerta abierta del lado del tránsito es un peligro para otros.",
+      "h2": "En Hawái, solo puede abrir una puerta del lado del tránsito en movimiento cuando sea seguro, y no puede dejarla abierta más de lo necesario para que suban o bajen pasajeros.",
+      "p": "Correcto. Cierre la puerta en cuanto las personas suban o bajen."
+    }
+  },
+  {
+    "id": "hi-191",
+    "scope": "HI",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0198.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, what is the fastest anyone may drive a moped?",
+      "o": [
+        "35 mph",
+        "25 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "It is lower than most highway speed limits.",
+      "h2": "In Hawaii, no one may drive a moped faster than 35 mph.",
+      "p": "Right. Mopeds may go no faster than 35 mph."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuál es la velocidad más alta a la que se puede manejar un ciclomotor (moped)?",
+      "o": [
+        "35 mph",
+        "25 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "Es menor que la mayoría de los límites de las autopistas.",
+      "h2": "En Hawái, nadie puede manejar un ciclomotor a más de 35 mph.",
+      "p": "Correcto. Los ciclomotores no pueden ir a más de 35 mph."
+    }
+  },
+  {
+    "id": "hi-192",
+    "scope": "HI",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0197.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, a two-wheeled moped is on a road that has a bicycle lane. Where must it ride?",
+      "o": [
+        "In the center of a traffic lane",
+        "In the bicycle lane",
+        "On the sidewalk beside the road",
+        "On the left shoulder, facing traffic"
+      ],
+      "h1": "Mopeds share space with bicycles where that space is provided.",
+      "h2": "In Hawaii, wherever a road has bicycle lanes, drivers of two-wheeled mopeds must use the bicycle lane.",
+      "p": "Right. Mopeds use the bike lane where there is one."
+    },
+    "es": {
+      "q": "En Hawái, un ciclomotor de dos ruedas va por una calle que tiene carril para bicicletas. ¿Por dónde debe ir?",
+      "o": [
+        "Por el centro de un carril de tránsito",
+        "Por el carril para bicicletas",
+        "Por la acera junto a la calle",
+        "Por la orilla izquierda, de frente al tránsito"
+      ],
+      "h1": "Los ciclomotores comparten espacio con las bicicletas donde hay ese espacio.",
+      "h2": "En Hawái, donde una calle tiene carriles para bicicletas, los conductores de ciclomotores de dos ruedas deben usar el carril para bicicletas.",
+      "p": "Correcto. Los ciclomotores usan el carril para bicicletas donde lo hay."
+    }
+  },
+  {
+    "id": "hi-193",
+    "scope": "HI",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0196.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, may you ride a moped on a sidewalk?",
+      "o": [
+        "No, not at any speed",
+        "Yes, at 10 mph or less",
+        "Yes, outside business districts",
+        "Yes, if you yield to people walking"
+      ],
+      "h1": "Mopeds are not treated like bicycles on this point.",
+      "h2": "In Hawaii, no one may drive a moped on a sidewalk or on any path meant only for pedestrians.",
+      "p": "Right. Mopeds stay off sidewalks."
+    },
+    "es": {
+      "q": "En Hawái, ¿puede andar en ciclomotor (moped) por una acera?",
+      "o": [
+        "No, a ninguna velocidad",
+        "Sí, a 10 mph o menos",
+        "Sí, fuera de las zonas comerciales",
+        "Sí, si cede el paso a los peatones"
+      ],
+      "h1": "En esto, los ciclomotores no se tratan como bicicletas.",
+      "h2": "En Hawái, nadie puede manejar un ciclomotor por una acera ni por un camino hecho solo para peatones.",
+      "p": "Correcto. Los ciclomotores no van por las aceras."
+    }
+  },
+  {
+    "id": "hi-194",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0146.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, what must a person riding a bicycle always do with their hands?",
+      "o": [
+        "Keep both hands on the handlebars at all times",
+        "Give hand signals only with the right hand",
+        "Wear gloves on both hands after dark",
+        "Keep at least one hand on the handlebars"
+      ],
+      "h1": "Riders still need to be able to make hand signals.",
+      "h2": "In Hawaii, a bicycle rider must keep at least one hand on the handlebars at all times and may not carry anything that keeps both hands from controlling the bike.",
+      "p": "Right. At least one hand stays on the handlebars."
+    },
+    "es": {
+      "q": "En Hawái, ¿qué debe hacer siempre con las manos una persona que anda en bicicleta?",
+      "o": [
+        "Tener las dos manos en el manubrio siempre",
+        "Hacer señales solo con la mano derecha",
+        "Usar guantes en ambas manos de noche",
+        "Tener al menos una mano en el manubrio"
+      ],
+      "h1": "Los ciclistas aún necesitan poder hacer señales con la mano.",
+      "h2": "En Hawái, un ciclista debe tener al menos una mano en el manubrio en todo momento y no puede llevar nada que le impida usar ambas manos para controlar la bicicleta.",
+      "p": "Correcto. Al menos una mano va en el manubrio."
+    }
+  },
+  {
+    "id": "hi-195",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291E/HRS_0291E-0061.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, a driver is convicted of drunk driving for the second time within 10 years. How long is the license revoked?",
+      "o": [
+        "30 to 60 days",
+        "Six months",
+        "Two to three years",
+        "Ten to twenty years"
+      ],
+      "h1": "It is longer than for a first offense.",
+      "h2": "In Hawaii, a second conviction for operating a vehicle under the influence within 10 years brings a license revocation of at least two years and no more than three years.",
+      "p": "Right. The revocation is two to three years."
+    },
+    "es": {
+      "q": "En Hawái, un conductor es condenado por manejar ebrio por segunda vez en 10 años. ¿Por cuánto tiempo se le revoca la licencia?",
+      "o": [
+        "De 30 a 60 días",
+        "Seis meses",
+        "De dos a tres años",
+        "De diez a veinte años"
+      ],
+      "h1": "Es más tiempo que en una primera falta.",
+      "h2": "En Hawái, una segunda condena por manejar bajo la influencia en 10 años trae una revocación de la licencia de al menos dos años y no más de tres años.",
+      "p": "Correcto. La revocación es de dos a tres años."
+    }
+  },
+  {
+    "id": "hi-196",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291E/HRS_0291E-0041.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, a driver tests at 0.08 or more, but below 0.15. The driver had one earlier alcohol or drug enforcement contact in the past 10 years. How long is the license revoked by the state?",
+      "o": [
+        "90 days",
+        "Six months",
+        "Ten years",
+        "Two years"
+      ],
+      "h1": "It is twice as long as for a driver with no earlier contact.",
+      "h2": "In Hawaii, a driver with one prior alcohol or drug enforcement contact in the past 10 years faces a two-year administrative license revocation.",
+      "p": "Right. With one prior contact, it is two years."
+    },
+    "es": {
+      "q": "En Hawái, un conductor da 0.08 o más, pero menos de 0.15. Tuvo una falta anterior por alcohol o drogas en los últimos 10 años. ¿Por cuánto tiempo revoca el estado la licencia?",
+      "o": [
+        "90 días",
+        "Seis meses",
+        "Diez años",
+        "Dos años"
+      ],
+      "h1": "Es el doble del tiempo para un conductor sin faltas anteriores.",
+      "h2": "En Hawái, un conductor con una falta anterior por alcohol o drogas en los últimos 10 años recibe una revocación administrativa de la licencia por dos años.",
+      "p": "Correcto. Con una falta anterior, son dos años."
+    }
+  },
+  {
+    "id": "hi-197",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291E/HRS_0291E-0062.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, a person drives while their license is revoked for drunk driving. For a first conviction, what must the sentence include?",
+      "o": [
+        "A written warning and a driving class",
+        "At least 3 days in jail, plus a year more revoked",
+        "A $50 fine, with no jail possible",
+        "Community service, with no jail possible"
+      ],
+      "h1": "Probation is not an option for this offense.",
+      "h2": "In Hawaii, a first conviction for driving while the license is revoked for impaired driving brings 3 to 30 days in jail, a fine of $250 to $1,000, and one more year of revocation.",
+      "p": "Right. Jail time and an extra year of revocation are required."
+    },
+    "es": {
+      "q": "En Hawái, una persona maneja mientras su licencia está revocada por manejar ebria. En una primera condena, ¿qué debe incluir la sentencia?",
+      "o": [
+        "Una advertencia escrita y una clase de manejo",
+        "Al menos 3 días de cárcel, más un año extra de revocación",
+        "Una multa de $50, sin cárcel posible",
+        "Servicio comunitario, sin cárcel posible"
+      ],
+      "h1": "La libertad condicional no es una opción para esta falta.",
+      "h2": "En Hawái, una primera condena por manejar con la licencia revocada por manejar bajo la influencia trae de 3 a 30 días de cárcel, una multa de $250 a $1,000 y un año más de revocación.",
+      "p": "Correcto. Se exige cárcel y un año más de revocación."
+    }
+  },
+  {
+    "id": "hi-198",
+    "scope": "HI",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0049.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, a road has three lanes with traffic going both ways, and no signs for the center lane. When may you drive in the center lane?",
+      "o": [
+        "To pass when clear, or to prepare a left turn",
+        "Any time you want to drive faster than others",
+        "Only when you are driving a large truck",
+        "Only at night, when there is little traffic"
+      ],
+      "h1": "Drivers from both directions may need this lane.",
+      "h2": "In Hawaii, on a three-lane road with two-way traffic, you may use the center lane only to pass when it is clear far enough ahead, or to prepare for a left turn, unless signs assign it to your direction.",
+      "p": "Right. The center lane is for passing when clear or for left turns."
+    },
+    "es": {
+      "q": "En Hawái, una calle tiene tres carriles con tránsito en ambos sentidos y no hay señales para el carril del centro. ¿Cuándo puede manejar en el carril del centro?",
+      "o": [
+        "Para rebasar si está libre, o para girar a la izquierda",
+        "Cuando quiera ir más rápido que los demás",
+        "Solo cuando maneja un camión grande",
+        "Solo de noche, cuando hay poco tránsito"
+      ],
+      "h1": "Los conductores de ambos sentidos pueden necesitar este carril.",
+      "h2": "En Hawái, en una calle de tres carriles con tránsito en ambos sentidos, solo puede usar el carril del centro para rebasar cuando está libre a una distancia segura, o para prepararse a girar a la izquierda, salvo que las señales lo asignen a su sentido.",
+      "p": "Correcto. El carril del centro es para rebasar cuando está libre o para girar a la izquierda."
+    }
+  },
+  {
+    "id": "hi-199",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0286/HRS_0286-0102.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, you are getting a Hawaii driver's license. What must you do with the other valid driver's licenses and ID cards you have?",
+      "o": [
+        "Keep them to use in other states",
+        "Mail them back to the places that issued them",
+        "Give them all to the examiner of drivers",
+        "Keep one in your car as a spare"
+      ],
+      "h1": "A driver should hold only one valid license.",
+      "h2": "In Hawaii, you must surrender all your valid driver's licenses and identification cards to the examiner of drivers to receive a driver's license.",
+      "p": "Right. You hand over your other licenses and ID cards."
+    },
+    "es": {
+      "q": "En Hawái, usted va a recibir una licencia de manejo de Hawái. ¿Qué debe hacer con las otras licencias de manejo y tarjetas de identificación válidas que tiene?",
+      "o": [
+        "Guardarlas para usarlas en otros estados",
+        "Enviarlas por correo a quienes las emitieron",
+        "Entregarlas todas al examinador de conductores",
+        "Guardar una en su auto como repuesto"
+      ],
+      "h1": "Un conductor debe tener solo una licencia válida.",
+      "h2": "En Hawái, debe entregar todas sus licencias de manejo y tarjetas de identificación válidas al examinador de conductores para recibir una licencia de manejo.",
+      "p": "Correcto. Usted entrega sus otras licencias y tarjetas de identificación."
+    }
+  },
+  {
+    "id": "hi-200",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291E/HRS_0291E-0064.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, a driver under 21 is caught driving with a measurable amount of alcohol for the second time within five years. How long is the license suspended?",
+      "o": [
+        "One year",
+        "Ten days",
+        "30 days",
+        "Five years"
+      ],
+      "h1": "It is longer than for a first violation.",
+      "h2": "In Hawaii, a driver under 21 caught driving with a measurable amount of alcohol within five years of an earlier alcohol enforcement contact has the license suspended for one year.",
+      "p": "Right. A second time brings a one-year suspension."
+    },
+    "es": {
+      "q": "En Hawái, a un conductor menor de 21 años lo encuentran manejando con una cantidad medible de alcohol por segunda vez en cinco años. ¿Por cuánto tiempo se suspende la licencia?",
+      "o": [
+        "Un año",
+        "Diez días",
+        "30 días",
+        "Cinco años"
+      ],
+      "h1": "Es más tiempo que en una primera falta.",
+      "h2": "En Hawái, a un conductor menor de 21 años que maneja con una cantidad medible de alcohol dentro de los cinco años de una falta anterior por alcohol se le suspende la licencia por un año.",
+      "p": "Correcto. Una segunda vez trae una suspensión de un año."
+    }
+  },
+  {
+    "id": "hi-201",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, a person with no driver's license moves a farm tractor a short way along a highway. What is the youngest age allowed?",
+      "o": [
+        "10",
+        "16",
+        "13",
+        "18"
+      ],
+      "h1": "It is younger than the age for an instruction permit.",
+      "h2": "In Hawaii, a person 13 or older may move a road machine, farm tractor or farm implement for a short time on the highway without a driver's license.",
+      "p": "Right. The youngest age is 13."
+    },
+    "es": {
+      "q": "En Hawái, una persona sin licencia de manejo mueve un tractor agrícola un tramo corto por una carretera. ¿Cuál es la edad mínima permitida?",
+      "o": [
+        "10",
+        "16",
+        "13",
+        "18"
+      ],
+      "h1": "Es menor que la edad para un permiso de aprendizaje.",
+      "h2": "En Hawái, una persona de 13 años o más puede mover una máquina de caminos, un tractor agrícola o un implemento agrícola por poco tiempo en la carretera sin licencia de manejo.",
+      "p": "Correcto. La edad mínima es 13 años."
+    }
   }
 ]
