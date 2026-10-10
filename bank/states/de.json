@@ -1064,5 +1064,447 @@
       "h2": "في Delaware، السائق الذي عمره أقل من 21 سنة ونسبة الكحول في دمه 0.02 في المئة أو أكثر يفقد رخصته حسب قانون عدم التسامح (zero tolerance).",
       "p": "صحيح. الحد لمن هم أقل من 21 سنة هو 0.02 في المئة."
     }
+  },
+  {
+    "id": "de-014",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 41,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, how soon after passing the knowledge test can you take the car road test?",
+      "o": [
+        "The same day",
+        "30 days later",
+        "6 months later",
+        "1 year later"
+      ],
+      "h1": "You need some time to practice first, about one month.",
+      "h2": "In Delaware you can take the Class D road test 30 days after you pass the knowledge test.",
+      "p": "Right. Delaware makes you wait 30 days before the road test."
+    },
+    "es": {
+      "q": "En Delaware, ¿cuánto tiempo después de aprobar el examen teórico puede tomar el examen de manejo en carro?",
+      "o": [
+        "El mismo día",
+        "30 días después",
+        "6 meses después",
+        "1 año después"
+      ],
+      "h1": "Usted necesita tiempo para practicar primero, más o menos un mes.",
+      "h2": "En Delaware usted puede tomar el examen de manejo de Clase D 30 días después de aprobar el examen teórico.",
+      "p": "Correcto. En Delaware hay que esperar 30 días antes del examen de manejo."
+    }
+  },
+  {
+    "id": "de-015",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 47,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, what does the DMV do when a driver reaches 8 points within two years?",
+      "o": [
+        "Takes away the license for a year",
+        "Sends the driver to jail",
+        "Takes away the car",
+        "Sends the driver a warning letter"
+      ],
+      "h1": "At 8 points the first step is gentle.",
+      "h2": "In Delaware, when a driver reaches 8 points within two years, the DMV sends the driver an advisory letter as a warning.",
+      "p": "Right. At 8 points Delaware sends a warning letter first."
+    },
+    "es": {
+      "q": "En Delaware, ¿qué hace el DMV cuando un conductor llega a 8 puntos en dos años?",
+      "o": [
+        "Le quita la licencia por un año",
+        "Manda al conductor a la cárcel",
+        "Le quita el carro",
+        "Le envía al conductor una carta de advertencia"
+      ],
+      "h1": "Con 8 puntos, el primer paso es suave.",
+      "h2": "En Delaware, cuando un conductor llega a 8 puntos en dos años, el DMV le envía una carta de advertencia.",
+      "p": "Correcto. Con 8 puntos, Delaware primero envía una carta de advertencia."
+    }
+  },
+  {
+    "id": "de-016",
+    "scope": "DE",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 89,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, a school bus is stopped with red lights flashing on the other side of a road with four or more lanes. What do you do?",
+      "o": [
+        "Stop and wait until the lights go off",
+        "Speed up to pass quickly",
+        "You do not have to stop, but go slowly",
+        "Honk and keep driving at the same speed"
+      ],
+      "h1": "On a wide road, the rule is different for traffic going the other way.",
+      "h2": "In Delaware, if you are on the opposite side of a road with four or more lanes, you do not have to stop for the school bus, but you must go slowly.",
+      "p": "Right. On a road with four or more lanes, oncoming traffic may pass slowly."
+    },
+    "es": {
+      "q": "En Delaware, un autobús escolar está detenido con luces rojas intermitentes al otro lado de una carretera de cuatro carriles o más. ¿Qué hace usted?",
+      "o": [
+        "Se detiene y espera a que se apaguen las luces",
+        "Acelera para pasar rápido",
+        "No tiene que detenerse, pero pasa despacio",
+        "Toca la bocina y sigue a la misma velocidad"
+      ],
+      "h1": "En una carretera ancha, la regla es diferente para el tráfico que va en sentido contrario.",
+      "h2": "En Delaware, si usted está del lado opuesto de una carretera de cuatro carriles o más, no tiene que detenerse por el autobús escolar, pero debe pasar despacio.",
+      "p": "Correcto. En una carretera de cuatro carriles o más, el tráfico en sentido contrario puede pasar despacio."
+    }
+  },
+  {
+    "id": "de-017",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 90,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, for how long is your license suspended the first time you are convicted of passing a stopped school bus?",
+      "o": [
+        "1 month",
+        "1 week",
+        "3 years",
+        "It is never suspended"
+      ],
+      "h1": "It is a short time, but you cannot drive at all during it.",
+      "h2": "In Delaware, the first conviction for passing a stopped school bus brings a one-month license suspension, along with a fine.",
+      "p": "Right. A first offense means one month without a license."
+    },
+    "es": {
+      "q": "En Delaware, ¿por cuánto tiempo se suspende su licencia la primera vez que lo condenan por pasar un autobús escolar detenido?",
+      "o": [
+        "1 mes",
+        "1 semana",
+        "3 años",
+        "Nunca se suspende"
+      ],
+      "h1": "Es poco tiempo, pero usted no puede manejar nada durante ese tiempo.",
+      "h2": "En Delaware, la primera condena por pasar un autobús escolar detenido trae una suspensión de la licencia de un mes, además de una multa.",
+      "p": "Correcto. La primera vez, usted pierde la licencia por un mes."
+    }
+  },
+  {
+    "id": "de-018",
+    "scope": "DE",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 62,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, when must your headlights be on during the day?",
+      "o": [
+        "Only when you drive on a highway",
+        "Only when you drive over 55 mph",
+        "Any time your windshield wipers are on",
+        "Only when the radio says it is cloudy"
+      ],
+      "h1": "Think about rain.",
+      "h2": "In Delaware, your headlights must be on any time you use your windshield wipers, even during the day.",
+      "p": "Right. Wipers on means headlights on in Delaware."
+    },
+    "es": {
+      "q": "En Delaware, ¿cuándo debe tener las luces delanteras encendidas durante el día?",
+      "o": [
+        "Solo cuando maneja en la autopista",
+        "Solo cuando maneja a más de 55 mph",
+        "Cada vez que usa los limpiaparabrisas",
+        "Solo cuando la radio dice que está nublado"
+      ],
+      "h1": "Piense en la lluvia.",
+      "h2": "En Delaware, sus luces delanteras deben estar encendidas cada vez que usa los limpiaparabrisas, aunque sea de día.",
+      "p": "Correcto. En Delaware, si usa los limpiaparabrisas, enciende las luces."
+    }
+  },
+  {
+    "id": "de-019",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 63,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, what is the least Personal Injury Protection (PIP) insurance a car must have for one person?",
+      "o": [
+        "$5,000",
+        "$15,000",
+        "$50,000",
+        "$100,000"
+      ],
+      "h1": "It is less than $25,000.",
+      "h2": "In Delaware, car insurance must include at least $15,000 of Personal Injury Protection (PIP) for one person, and $30,000 for everyone hurt in one crash.",
+      "p": "Right. Delaware requires at least $15,000 of PIP for each person."
+    },
+    "es": {
+      "q": "En Delaware, ¿cuál es el mínimo de seguro de Protección contra Lesiones Personales (PIP) que debe tener un carro por cada persona?",
+      "o": [
+        "$5,000",
+        "$15,000",
+        "$50,000",
+        "$100,000"
+      ],
+      "h1": "Es menos de $25,000.",
+      "h2": "En Delaware, el seguro del carro debe incluir por lo menos $15,000 de Protección contra Lesiones Personales (PIP) por persona, y $30,000 para todos los heridos en un choque.",
+      "p": "Correcto. Delaware exige por lo menos $15,000 de PIP por persona."
+    }
+  },
+  {
+    "id": "de-020",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 63,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, what is the smallest fine for driving a car with no insurance the first time?",
+      "o": [
+        "$50",
+        "$100",
+        "$500",
+        "$1,500"
+      ],
+      "h1": "The fine is very high, more than $1,000.",
+      "h2": "In Delaware, the fine for driving an uninsured car is at least $1,500 for a first offense, and up to $2,000.",
+      "p": "Right. Driving without insurance costs at least $1,500 in Delaware."
+    },
+    "es": {
+      "q": "En Delaware, ¿cuál es la multa más baja por manejar un carro sin seguro la primera vez?",
+      "o": [
+        "$50",
+        "$100",
+        "$500",
+        "$1,500"
+      ],
+      "h1": "La multa es muy alta, más de $1,000.",
+      "h2": "En Delaware, la multa por manejar un carro sin seguro es de por lo menos $1,500 la primera vez, y puede llegar a $2,000.",
+      "p": "Correcto. Manejar sin seguro cuesta por lo menos $1,500 en Delaware."
+    }
+  },
+  {
+    "id": "de-021",
+    "scope": "DE",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 93,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, if no other limit is posted, what is the speed limit on a two-lane road?",
+      "o": [
+        "50 mph",
+        "35 mph",
+        "60 mph",
+        "70 mph"
+      ],
+      "h1": "It is lower than the limit on divided roads, which is 55 mph.",
+      "h2": "In Delaware, the speed limit on a two-lane road is 50 mph unless a sign shows a different limit.",
+      "p": "Right. Two-lane roads in Delaware have a 50 mph limit."
+    },
+    "es": {
+      "q": "En Delaware, si no hay otro límite señalado, ¿cuál es el límite de velocidad en una carretera de dos carriles?",
+      "o": [
+        "50 mph",
+        "35 mph",
+        "60 mph",
+        "70 mph"
+      ],
+      "h1": "Es menor que el límite en carreteras divididas, que es de 55 mph.",
+      "h2": "En Delaware, el límite de velocidad en una carretera de dos carriles es de 50 mph, a menos que una señal indique otro límite.",
+      "p": "Correcto. En Delaware las carreteras de dos carriles tienen un límite de 50 mph."
+    }
+  },
+  {
+    "id": "de-022",
+    "scope": "DE",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 93,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, what is the speed limit in a school zone when children are present?",
+      "o": [
+        "10 mph",
+        "15 mph",
+        "20 mph",
+        "30 mph"
+      ],
+      "h1": "It is a little lower than the 25 mph limit in neighborhoods.",
+      "h2": "In Delaware, the speed limit in a school zone when children are present is 20 mph.",
+      "p": "Right. Slow to 20 mph in a Delaware school zone."
+    },
+    "es": {
+      "q": "En Delaware, ¿cuál es el límite de velocidad en una zona escolar cuando hay niños presentes?",
+      "o": [
+        "10 mph",
+        "15 mph",
+        "20 mph",
+        "30 mph"
+      ],
+      "h1": "Es un poco menos que el límite de 25 mph en los vecindarios.",
+      "h2": "En Delaware, el límite de velocidad en una zona escolar cuando hay niños presentes es de 20 mph.",
+      "p": "Correcto. En una zona escolar de Delaware, baje a 20 mph."
+    }
+  },
+  {
+    "id": "de-023",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 54,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, a driver under 21 is caught driving after drinking alcohol. For a first offense, how long is the license revoked?",
+      "o": [
+        "1 week",
+        "2 months",
+        "5 years",
+        "It is not revoked"
+      ],
+      "h1": "It is more than a few weeks but less than half a year.",
+      "h2": "Under Delaware's zero tolerance law, a driver under 21 who drives after drinking loses the license for two months for a first offense.",
+      "p": "Right. A first zero tolerance offense means two months without a license."
+    },
+    "es": {
+      "q": "En Delaware, descubren a un conductor menor de 21 años manejando después de tomar alcohol. Si es la primera vez, ¿por cuánto tiempo le revocan la licencia?",
+      "o": [
+        "1 semana",
+        "2 meses",
+        "5 años",
+        "No se la revocan"
+      ],
+      "h1": "Es más de unas semanas, pero menos de medio año.",
+      "h2": "Según la ley de tolerancia cero de Delaware, un conductor menor de 21 años que maneja después de tomar alcohol pierde la licencia por dos meses la primera vez.",
+      "p": "Correcto. La primera vez, la tolerancia cero significa dos meses sin licencia."
+    }
+  },
+  {
+    "id": "de-024",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 141,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, a crash on a public road causes property damage but no injuries. At what amount of damage must you report it to the police?",
+      "o": [
+        "$50 or more",
+        "$100 or more",
+        "$5,000 or more",
+        "$500 or more"
+      ],
+      "h1": "It is a few hundred dollars.",
+      "h2": "In Delaware, you must report a crash on a public road to the police when the property damage looks like $500 or more.",
+      "p": "Right. Report crashes with $500 or more in damage in Delaware."
+    },
+    "es": {
+      "q": "En Delaware, un choque en una vía pública causa daños materiales pero no hay heridos. ¿A partir de qué cantidad de daños debe reportarlo a la policía?",
+      "o": [
+        "$50 o más",
+        "$100 o más",
+        "$5,000 o más",
+        "$500 o más"
+      ],
+      "h1": "Son unos cientos de dólares.",
+      "h2": "En Delaware, usted debe reportar a la policía un choque en una vía pública cuando los daños parecen ser de $500 o más.",
+      "p": "Correcto. En Delaware se reportan los choques con daños de $500 o más."
+    }
+  },
+  {
+    "id": "de-025",
+    "scope": "DE",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 82,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, you are on a two-lane road and see a stopped police car with flashing lights. You cannot change lanes. What must you do?",
+      "o": [
+        "Slow down below the speed limit until you pass",
+        "Keep your speed and pass quickly",
+        "Stop behind the police car and wait",
+        "Drive on the shoulder to go around"
+      ],
+      "h1": "If you cannot move away from it, change how fast you go.",
+      "h2": "In Delaware, on a two-lane road where you cannot move over, you must slow down below the posted speed limit until you have passed the stopped emergency vehicle.",
+      "p": "Right. If you cannot move over, slow down below the limit."
+    },
+    "es": {
+      "q": "En Delaware, usted va por una carretera de dos carriles y ve un carro de policía detenido con luces intermitentes. No puede cambiar de carril. ¿Qué debe hacer?",
+      "o": [
+        "Bajar la velocidad por debajo del límite hasta pasarlo",
+        "Mantener su velocidad y pasar rápido",
+        "Detenerse detrás del carro de policía y esperar",
+        "Manejar por el acotamiento para rodearlo"
+      ],
+      "h1": "Si no puede alejarse, cambie qué tan rápido va.",
+      "h2": "En Delaware, en una carretera de dos carriles donde no puede cambiar de carril, usted debe bajar la velocidad por debajo del límite señalado hasta pasar el vehículo de emergencia detenido.",
+      "p": "Correcto. Si no puede cambiar de carril, baje la velocidad por debajo del límite."
+    }
+  },
+  {
+    "id": "de-026",
+    "scope": "DE",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 109,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, which child should not ride in the front passenger seat?",
+      "o": [
+        "A child who is 14 and 5 feet 8 inches tall",
+        "Any child who is wearing a seat belt",
+        "A child under 12 or shorter than 5 feet 5 inches",
+        "Only a baby in a car seat"
+      ],
+      "h1": "The rule uses both an age and a height.",
+      "h2": "In Delaware, a child who is under 12 years old or shorter than 5 feet 5 inches should not ride in the front passenger seat.",
+      "p": "Right. Children under 12 or under 5 feet 5 inches ride in the back."
+    },
+    "es": {
+      "q": "En Delaware, ¿qué niño no debe ir en el asiento delantero del pasajero?",
+      "o": [
+        "Un niño de 14 años que mide 5 pies 8 pulgadas",
+        "Cualquier niño que lleve el cinturón puesto",
+        "Un niño menor de 12 años o que mide menos de 5 pies 5 pulgadas",
+        "Solo un bebé en asiento de seguridad"
+      ],
+      "h1": "La regla usa una edad y una estatura.",
+      "h2": "En Delaware, un niño menor de 12 años o que mide menos de 5 pies 5 pulgadas no debe ir en el asiento delantero del pasajero.",
+      "p": "Correcto. Los niños menores de 12 años o de menos de 5 pies 5 pulgadas van atrás."
+    }
   }
 ]
