@@ -6900,5 +6900,1365 @@
       "h2": "En Connecticut, desde octubre de 2025 no se puede estacionar a menos de 30 pies de una intersección o de la llegada a un cruce peatonal marcado, a menos que haya un espacio de estacionamiento marcado.",
       "p": "Correcto. No se estacione a menos de 30 pies de una intersección."
     }
+  },
+  {
+    "id": "ct-132",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_246.htm#sec_14-100a",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, what is the fine for a driver aged 18 or older who does not wear a seat belt?",
+      "o": [
+        "$25",
+        "$50",
+        "$100",
+        "$150"
+      ],
+      "h1": "It is less than the fine when the driver is a teen.",
+      "h2": "In Connecticut, a driver aged 18 or older who does not wear a seat belt is fined $50.",
+      "p": "Right. The fine is $50 for an adult driver."
+    },
+    "es": {
+      "q": "En Connecticut, ¿cuál es la multa para un conductor de 18 años o más que no usa el cinturón de seguridad?",
+      "o": [
+        "$25",
+        "$50",
+        "$100",
+        "$150"
+      ],
+      "h1": "Es menor que la multa cuando el conductor es adolescente.",
+      "h2": "En Connecticut, un conductor de 18 años o más que no usa el cinturón de seguridad recibe una multa de $50.",
+      "p": "Correcto. La multa es de $50 para un conductor adulto."
+    }
+  },
+  {
+    "id": "ct-133",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_246.htm#sec_14-100a",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Connecticut, a 17-year-old is driving, and a passenger in the car is not wearing a seat belt. What is that passenger's fine?",
+      "o": [
+        "$25",
+        "$50",
+        "$75",
+        "$200"
+      ],
+      "h1": "When the driver is under 18, the fine is higher than the adult fine of $50.",
+      "h2": "In Connecticut, when the driver is under 18, the driver and any passenger who does not wear a seat belt are each fined $75.",
+      "p": "Right. With a driver under 18, the fine is $75."
+    },
+    "es": {
+      "q": "En Connecticut, una persona de 17 años maneja y un pasajero no usa el cinturón de seguridad. ¿Cuál es la multa para ese pasajero?",
+      "o": [
+        "$25",
+        "$50",
+        "$75",
+        "$200"
+      ],
+      "h1": "Cuando el conductor es menor de 18 años, la multa es mayor que la de $50 para adultos.",
+      "h2": "En Connecticut, cuando el conductor es menor de 18 años, el conductor y cualquier pasajero que no use el cinturón reciben cada uno una multa de $75.",
+      "p": "Correcto. Con un conductor menor de 18 años, la multa es de $75."
+    }
+  },
+  {
+    "id": "ct-134",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_246.htm#sec_14-100a",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, how many points go on your license for a seat belt ticket?",
+      "o": [
+        "None",
+        "1 point",
+        "2 points",
+        "3 points"
+      ],
+      "h1": "The law treats this ticket differently from most moving violations.",
+      "h2": "In Connecticut, no points may be put on your license for a seat belt violation; you pay the fine only.",
+      "p": "Right. A seat belt ticket adds no points."
+    },
+    "es": {
+      "q": "En Connecticut, ¿cuántos puntos se ponen en su licencia por una multa de cinturón de seguridad?",
+      "o": [
+        "Ninguno",
+        "1 punto",
+        "2 puntos",
+        "3 puntos"
+      ],
+      "h1": "La ley trata esta multa de forma distinta a la mayoría de las infracciones de tránsito.",
+      "h2": "En Connecticut, no se pueden poner puntos en su licencia por no usar el cinturón de seguridad; solo se paga la multa.",
+      "p": "Correcto. Una multa de cinturón no suma puntos."
+    }
+  },
+  {
+    "id": "ct-135",
+    "scope": "CT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_248.htm#sec_14-251",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Connecticut, how close to a stop sign or a yield sign may you not park?",
+      "o": [
+        "Within 10 feet",
+        "Within 20 feet",
+        "Within 30 feet",
+        "Within 50 feet"
+      ],
+      "h1": "The distance was raised in 2025 and now matches the rule for intersections.",
+      "h2": "In Connecticut, since October 2025 you may not park within 30 feet of a stop sign or a yield sign.",
+      "p": "Right. Keep at least 30 feet from a stop or yield sign."
+    },
+    "es": {
+      "q": "En Connecticut, ¿a qué distancia de una señal de alto o de ceda el paso no se puede estacionar?",
+      "o": [
+        "A menos de 10 pies",
+        "A menos de 20 pies",
+        "A menos de 30 pies",
+        "A menos de 50 pies"
+      ],
+      "h1": "La distancia aumentó en 2025 y ahora es igual a la regla para las intersecciones.",
+      "h2": "En Connecticut, desde octubre de 2025 no se puede estacionar a menos de 30 pies de una señal de alto o de ceda el paso.",
+      "p": "Correcto. Manténgase al menos a 30 pies de una señal de alto o de ceda el paso."
+    }
+  },
+  {
+    "id": "ct-136",
+    "scope": "CT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_248.htm#sec_14-251",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, a driver parks within 10 feet of a fire hydrant for the second time. How high can the fine be?",
+      "o": [
+        "Up to $50",
+        "Up to $75",
+        "Up to $100",
+        "Up to $200"
+      ],
+      "h1": "A 2025 law set a higher fine for repeat offenders.",
+      "h2": "In Connecticut, a second or later ticket for parking within 10 feet of a fire hydrant can bring a fine of up to $200.",
+      "p": "Right. A repeat hydrant offense can cost up to $200."
+    },
+    "es": {
+      "q": "En Connecticut, un conductor se estaciona a menos de 10 pies de un hidrante por segunda vez. ¿De cuánto puede ser la multa?",
+      "o": [
+        "Hasta $50",
+        "Hasta $75",
+        "Hasta $100",
+        "Hasta $200"
+      ],
+      "h1": "Una ley de 2025 fijó una multa mayor para quienes lo repiten.",
+      "h2": "En Connecticut, una segunda multa o una posterior por estacionarse a menos de 10 pies de un hidrante puede llegar a $200.",
+      "p": "Correcto. Repetir la falta del hidrante puede costar hasta $200."
+    }
+  },
+  {
+    "id": "ct-137",
+    "scope": "CT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_248.htm#sec_14-251",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, you may not stop on the road at a curve or the top of a hill if other drivers cannot see your car from at least how far away?",
+      "o": [
+        "50 feet",
+        "150 feet",
+        "300 feet",
+        "1,000 feet"
+      ],
+      "h1": "It is about half the length of a football field.",
+      "h2": "In Connecticut, you may not stop on the traveled road at a curve or hilltop where your car cannot be clearly seen from at least 150 feet in each direction.",
+      "p": "Right. Other drivers must be able to see you from 150 feet."
+    },
+    "es": {
+      "q": "En Connecticut, en una curva o en la cima de una colina, ¿desde qué distancia mínima deben poder ver su carro los demás conductores para que usted pueda detenerse en la vía?",
+      "o": [
+        "50 pies",
+        "150 pies",
+        "300 pies",
+        "1,000 pies"
+      ],
+      "h1": "Es más o menos la mitad de un campo de fútbol americano.",
+      "h2": "En Connecticut, no se puede detener en la vía en una curva o en la cima de una colina si el carro no se ve con claridad desde al menos 150 pies en cada dirección.",
+      "p": "Correcto. Los demás deben poder verlo desde 150 pies."
+    }
+  },
+  {
+    "id": "ct-138",
+    "scope": "CT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_248.htm#sec_14-251",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, a car is already stopped on the other side of the road. How close to the point across from it may you not stop on the road?",
+      "o": [
+        "Within 5 feet",
+        "Within 10 feet",
+        "Within 20 feet",
+        "Within 50 feet"
+      ],
+      "h1": "Two stopped cars facing each other would squeeze the road too much.",
+      "h2": "In Connecticut, you may not stop on the road within 50 feet of a spot where another car is already stopped on the opposite side.",
+      "p": "Right. Stay at least 50 feet away from that spot."
+    },
+    "es": {
+      "q": "En Connecticut, ya hay un carro detenido al otro lado de la vía. ¿A qué distancia del punto frente a él no puede detenerse en la vía?",
+      "o": [
+        "A menos de 5 pies",
+        "A menos de 10 pies",
+        "A menos de 20 pies",
+        "A menos de 50 pies"
+      ],
+      "h1": "Dos carros detenidos uno frente al otro dejarían la vía muy estrecha.",
+      "h2": "En Connecticut, no se puede detener en la vía a menos de 50 pies del lugar donde otro carro ya está detenido en el lado opuesto.",
+      "p": "Correcto. Manténgase al menos a 50 pies de ese lugar."
+    }
+  },
+  {
+    "id": "ct-139",
+    "scope": "CT",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_248.htm#sec_14-296b",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Connecticut, a fire hose is lying across the street during a fire. May you drive over it?",
+      "o": [
+        "Yes, if you drive over it slowly",
+        "Yes, if no water is flowing in it",
+        "Only if the fire official in charge allows it",
+        "Yes, but only during daylight hours"
+      ],
+      "h1": "Someone at the scene decides.",
+      "h2": "In Connecticut, you may not drive over an unprotected fire hose unless the fire department official in command allows it.",
+      "p": "Right. You need the fire official's permission."
+    },
+    "es": {
+      "q": "En Connecticut, hay una manguera de bomberos atravesada en la calle durante un incendio. ¿Puede pasar por encima de ella?",
+      "o": [
+        "Sí, si pasa por encima despacio",
+        "Sí, si no corre agua por ella",
+        "Solo si lo permite el oficial de bomberos a cargo",
+        "Sí, pero solo durante el día"
+      ],
+      "h1": "Alguien en el lugar lo decide.",
+      "h2": "En Connecticut, no se puede pasar por encima de una manguera de bomberos sin protección a menos que lo permita el oficial de bomberos a cargo.",
+      "p": "Correcto. Necesita el permiso del oficial de bomberos."
+    }
+  },
+  {
+    "id": "ct-140",
+    "scope": "CT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_248.htm#sec_14-272b",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, may a dog ride in the open back of a pickup truck on a public road?",
+      "o": [
+        "Yes, if a person rides in the back with it",
+        "Only if caged or secured so it cannot fall out",
+        "Yes, as long as the tailgate is closed",
+        "No, a dog may never ride in any pickup"
+      ],
+      "h1": "The law is about keeping the dog from being thrown out.",
+      "h2": "In Connecticut, a dog may ride in the open back of a pickup only in a cage or container, or secured so it cannot be thrown, fall or jump out.",
+      "p": "Right. The dog must be caged or secured."
+    },
+    "es": {
+      "q": "En Connecticut, ¿puede un perro ir en la parte de atrás abierta de una camioneta pickup en una vía pública?",
+      "o": [
+        "Sí, si una persona va atrás con el perro",
+        "Solo en una jaula o asegurado para que no se caiga",
+        "Sí, mientras la puerta trasera esté cerrada",
+        "No, un perro nunca puede ir en una pickup"
+      ],
+      "h1": "La ley busca que el perro no salga despedido.",
+      "h2": "En Connecticut, un perro puede ir en la parte de atrás abierta de una pickup solo en una jaula o caja, o asegurado para que no salga despedido, se caiga ni salte.",
+      "p": "Correcto. El perro debe ir en jaula o asegurado."
+    }
+  },
+  {
+    "id": "ct-141",
+    "scope": "CT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_248.htm#sec_14-260",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Connecticut, is it legal to put gas in your car while the engine is running?",
+      "o": [
+        "Yes, if it is cold outside",
+        "Yes, at self-service pumps",
+        "No, it is a traffic infraction",
+        "Yes, if no one is inside"
+      ],
+      "h1": "Think about fuel and a hot, running engine.",
+      "h2": "In Connecticut, putting fuel in a vehicle while its engine is running is an infraction, so turn the engine off first.",
+      "p": "Right. Turn the engine off before you fill up."
+    },
+    "es": {
+      "q": "En Connecticut, ¿es legal echarle gasolina al carro con el motor encendido?",
+      "o": [
+        "Sí, si hace frío",
+        "Sí, en bombas de autoservicio",
+        "No, es una infracción de tránsito",
+        "Sí, si no hay nadie adentro"
+      ],
+      "h1": "Piense en el combustible y en un motor caliente y encendido.",
+      "h2": "En Connecticut, echar combustible a un vehículo con el motor encendido es una infracción, así que apague el motor primero.",
+      "p": "Correcto. Apague el motor antes de cargar gasolina."
+    }
+  },
+  {
+    "id": "ct-142",
+    "scope": "CT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_248.htm#sec_14-252a",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, ice flies off your car's roof and damages another car. What fine can you face?",
+      "o": [
+        "$200 to $1,000",
+        "$75",
+        "$100 to $150",
+        "$2,000 to $5,000"
+      ],
+      "h1": "It is much more than the basic $75 snow fine.",
+      "h2": "In Connecticut, if snow or ice you did not clear falls off your car and causes injury or damage, the fine is $200 to $1,000.",
+      "p": "Right. The fine is $200 to $1,000."
+    },
+    "es": {
+      "q": "En Connecticut, se desprende hielo del techo de su carro y daña otro carro. ¿Qué multa puede recibir?",
+      "o": [
+        "De $200 a $1,000",
+        "$75",
+        "De $100 a $150",
+        "De $2,000 a $5,000"
+      ],
+      "h1": "Es mucho más que la multa básica de $75 por la nieve.",
+      "h2": "En Connecticut, si la nieve o el hielo que usted no quitó cae de su carro y causa lesiones o daños, la multa es de $200 a $1,000.",
+      "p": "Correcto. La multa es de $200 a $1,000."
+    }
+  },
+  {
+    "id": "ct-143",
+    "scope": "CT",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_248.htm#sec_14-286b",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, how many bicyclists may ride side by side on a regular road?",
+      "o": [
+        "Only one, in single file",
+        "No more than two",
+        "Up to three",
+        "Any number in one lane"
+      ],
+      "h1": "The law allows riding in pairs.",
+      "h2": "In Connecticut, bicyclists may ride no more than two side by side, must stay in one lane, and must not block normal traffic.",
+      "p": "Right. No more than two may ride side by side."
+    },
+    "es": {
+      "q": "En Connecticut, ¿cuántos ciclistas pueden ir uno al lado del otro en una vía normal?",
+      "o": [
+        "Solo uno, en fila",
+        "No más de dos",
+        "Hasta tres",
+        "Cualquier número en un carril"
+      ],
+      "h1": "La ley permite ir en parejas.",
+      "h2": "En Connecticut, los ciclistas pueden ir como máximo dos uno al lado del otro, deben quedarse en un carril y no deben bloquear el tránsito normal.",
+      "p": "Correcto. No más de dos pueden ir lado a lado."
+    }
+  },
+  {
+    "id": "ct-144",
+    "scope": "CT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_248.htm#sec_14-289d",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, what must a motorcycle rider wear if the motorcycle has no approved windshield?",
+      "o": [
+        "A reflective safety vest",
+        "Thick leather riding gloves",
+        "Boots that cover the ankle",
+        "Goggles, glasses or a face shield"
+      ],
+      "h1": "It protects the rider's eyes.",
+      "h2": "In Connecticut, a motorcycle rider must wear approved goggles, glasses or a face shield unless the motorcycle has an approved windshield or wind screen.",
+      "p": "Right. Without a windshield, eye protection is required."
+    },
+    "es": {
+      "q": "En Connecticut, ¿qué debe usar quien maneja una motocicleta si esta no tiene un parabrisas aprobado?",
+      "o": [
+        "Un chaleco de seguridad reflectante",
+        "Guantes gruesos de cuero",
+        "Botas que cubran el tobillo",
+        "Gafas protectoras, anteojos o una careta"
+      ],
+      "h1": "Protege los ojos del motociclista.",
+      "h2": "En Connecticut, quien maneja una motocicleta debe usar gafas protectoras, anteojos o una careta aprobados, a menos que la motocicleta tenga un parabrisas aprobado.",
+      "p": "Correcto. Sin parabrisas, se requiere protección para los ojos."
+    }
+  },
+  {
+    "id": "ct-145",
+    "scope": "CT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_248.htm#sec_14-289c",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, may you carry a passenger on a motorcycle that is not built for passengers?",
+      "o": [
+        "No, it is an infraction",
+        "Yes, if the passenger wears a helmet",
+        "Yes, on short trips",
+        "Yes, if the passenger sits sidesaddle"
+      ],
+      "h1": "The motorcycle itself must be designed for two.",
+      "h2": "In Connecticut, carrying a passenger on a motorcycle not designed for passengers is an infraction, and so is riding sidesaddle.",
+      "p": "Right. Only a motorcycle built for passengers may carry one."
+    },
+    "es": {
+      "q": "En Connecticut, ¿puede llevar a un pasajero en una motocicleta que no está hecha para pasajeros?",
+      "o": [
+        "No, es una infracción",
+        "Sí, si el pasajero usa casco",
+        "Sí, en viajes cortos",
+        "Sí, si el pasajero va sentado de lado"
+      ],
+      "h1": "La motocicleta debe estar diseñada para dos personas.",
+      "h2": "En Connecticut, llevar a un pasajero en una motocicleta no diseñada para pasajeros es una infracción, y también lo es ir sentado de lado.",
+      "p": "Correcto. Solo una motocicleta hecha para pasajeros puede llevar uno."
+    }
+  },
+  {
+    "id": "ct-146",
+    "scope": "CT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_248.htm#sec_14-226",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, you hit a dog with your car and cannot find its owner. What must you do?",
+      "o": [
+        "Leave a note on the nearest door",
+        "Report it right away to the police",
+        "Call animal control within a week",
+        "Nothing, if the dog ran into the road"
+      ],
+      "h1": "Someone with official authority must be told at once.",
+      "h2": "In Connecticut, if you injure or kill a dog and cannot find the owner, you must report it right away to a police officer and tell where it happened and what the dog looked like.",
+      "p": "Right. Report it to the police right away."
+    },
+    "es": {
+      "q": "En Connecticut, atropella a un perro con su carro y no encuentra al dueño. ¿Qué debe hacer?",
+      "o": [
+        "Dejar una nota en la puerta más cercana",
+        "Reportarlo de inmediato a la policía",
+        "Llamar a control de animales en una semana",
+        "Nada, si el perro se metió en la vía"
+      ],
+      "h1": "Hay que avisar de inmediato a una autoridad.",
+      "h2": "En Connecticut, si lastima o mata a un perro y no encuentra al dueño, debe reportarlo de inmediato a un policía y decir dónde ocurrió y cómo era el perro.",
+      "p": "Correcto. Repórtelo a la policía de inmediato."
+    }
+  },
+  {
+    "id": "ct-147",
+    "scope": "CT",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_248.htm#sec_14-283b",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, on a highway with two lanes your way, a regular car with a flat tire is stopped on the shoulder. You are in the lane next to it. What does the law say?",
+      "o": [
+        "Move over one lane if it is safe",
+        "Nothing, the rule is only for police",
+        "Stop behind the car",
+        "Honk to warn the driver"
+      ],
+      "h1": "The move-over law covers more than emergency vehicles.",
+      "h2": "In Connecticut, on a highway with two or more lanes your way, you must move over one lane, if it is safe, when passing any vehicle stopped on the shoulder.",
+      "p": "Right. Move over one lane when it is safe."
+    },
+    "es": {
+      "q": "En Connecticut, en una autopista con dos carriles en su dirección, un carro común con una llanta ponchada está detenido en el acotamiento. Usted va en el carril de al lado. ¿Qué dice la ley?",
+      "o": [
+        "Cámbiese un carril si es seguro",
+        "Nada, la regla es solo para la policía",
+        "Deténgase detrás del carro",
+        "Toque la bocina para avisar"
+      ],
+      "h1": "La ley de cambiarse de carril cubre más que los vehículos de emergencia.",
+      "h2": "En Connecticut, en una autopista con dos o más carriles en su dirección, debe cambiarse un carril, si es seguro, al pasar cualquier vehículo detenido en el acotamiento.",
+      "p": "Correcto. Cámbiese un carril cuando sea seguro."
+    }
+  },
+  {
+    "id": "ct-148",
+    "scope": "CT",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_248.htm#sec_14-283b",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, a driver who fails to slow down and move over hits and injures a person in a stopped emergency vehicle. How high can the fine be?",
+      "o": [
+        "Up to $500",
+        "Up to $1,000",
+        "Up to $2,500",
+        "Up to $5,000"
+      ],
+      "h1": "If someone is killed, the fine can reach $20,000.",
+      "h2": "In Connecticut, breaking the move-over law and injuring someone in an emergency vehicle can bring a fine of up to $5,000.",
+      "p": "Right. The fine can be up to $5,000."
+    },
+    "es": {
+      "q": "En Connecticut, un conductor que no reduce la velocidad ni se cambia de carril choca y lesiona a una persona en un vehículo de emergencia detenido. ¿De cuánto puede ser la multa?",
+      "o": [
+        "Hasta $500",
+        "Hasta $1,000",
+        "Hasta $2,500",
+        "Hasta $5,000"
+      ],
+      "h1": "Si alguien muere, la multa puede llegar a $20,000.",
+      "h2": "En Connecticut, no cumplir la ley de cambiarse de carril y lesionar a alguien en un vehículo de emergencia puede costar una multa de hasta $5,000.",
+      "p": "Correcto. La multa puede ser de hasta $5,000."
+    }
+  },
+  {
+    "id": "ct-149",
+    "scope": "CT",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_248.htm#sec_14-232",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, besides bicycles, which of these must you pass with at least 3 feet of space?",
+      "o": [
+        "A U.S. mail delivery vehicle",
+        "A small two-door sports car",
+        "A large motor home",
+        "A taxi carrying passengers"
+      ],
+      "h1": "The list includes vehicles that often stop at the roadside, like garbage trucks.",
+      "h2": "In Connecticut, you must leave at least 3 feet when passing a mail vehicle, a garbage or recycling truck, a tank vehicle, a delivery carrier's vehicle or a farm tractor, as well as a bicycle.",
+      "p": "Right. Give a mail vehicle at least 3 feet."
+    },
+    "es": {
+      "q": "En Connecticut, además de las bicicletas, ¿a cuál de estos debe rebasar dejando al menos 3 pies de espacio?",
+      "o": [
+        "Un vehículo de reparto del correo de EE. UU.",
+        "Un carro deportivo pequeño de dos puertas",
+        "Una casa rodante grande",
+        "Un taxi con pasajeros"
+      ],
+      "h1": "La lista incluye vehículos que se detienen seguido a la orilla, como los camiones de basura.",
+      "h2": "En Connecticut, debe dejar al menos 3 pies al rebasar un vehículo del correo, un camión de basura o reciclaje, un camión cisterna, un vehículo de paquetería o un tractor agrícola, además de una bicicleta.",
+      "p": "Correcto. Deje al menos 3 pies a un vehículo del correo."
+    }
+  },
+  {
+    "id": "ct-150",
+    "scope": "CT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_248.htm#sec_14-235",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, on a two-way road, you may not drive on the left side when you are within how many feet of an intersection or railroad crossing?",
+      "o": [
+        "50 feet",
+        "100 feet",
+        "200 feet",
+        "500 feet"
+      ],
+      "h1": "It is the same distance as the minimum for signaling a turn.",
+      "h2": "In Connecticut, you may not drive on the left side of a two-way road within 100 feet of an intersection or a railroad crossing.",
+      "p": "Right. No left-side driving within 100 feet."
+    },
+    "es": {
+      "q": "En Connecticut, en una vía de doble sentido, ¿a menos de cuántos pies de una intersección o de un cruce de tren no puede manejar por el lado izquierdo?",
+      "o": [
+        "50 pies",
+        "100 pies",
+        "200 pies",
+        "500 pies"
+      ],
+      "h1": "Es la misma distancia mínima para señalar una vuelta.",
+      "h2": "En Connecticut, no se puede manejar por el lado izquierdo de una vía de doble sentido a menos de 100 pies de una intersección o de un cruce de tren.",
+      "p": "Correcto. No maneje por la izquierda a menos de 100 pies."
+    }
+  },
+  {
+    "id": "ct-151",
+    "scope": "CT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_248.htm#sec_14-242",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, you may not make a U-turn on a curve or near a hilltop if drivers from either direction cannot see you within how many feet?",
+      "o": [
+        "100 feet",
+        "200 feet",
+        "300 feet",
+        "500 feet"
+      ],
+      "h1": "It is about one-tenth of a mile.",
+      "h2": "In Connecticut, you may not make a U-turn on a curve or near the top of a hill where other drivers cannot see your car within 500 feet.",
+      "p": "Right. You must be visible from 500 feet."
+    },
+    "es": {
+      "q": "En Connecticut, en una curva o cerca de la cima de una colina, ¿desde cuántos pies deben poder verlo los conductores de ambas direcciones para que usted pueda dar una vuelta en U?",
+      "o": [
+        "100 pies",
+        "200 pies",
+        "300 pies",
+        "500 pies"
+      ],
+      "h1": "Es como una décima parte de una milla.",
+      "h2": "En Connecticut, no se puede dar una vuelta en U en una curva o cerca de la cima de una colina donde otros conductores no puedan ver su carro a menos de 500 pies.",
+      "p": "Correcto. Deben poder verlo desde 500 pies."
+    }
+  },
+  {
+    "id": "ct-152",
+    "scope": "CT",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_248.htm#sec_14-242",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Connecticut, you just passed a bicyclist and want to turn right at the next corner. What does the law say?",
+      "o": [
+        "Turn quickly before the bicyclist gets there",
+        "Honk so the bicyclist knows to stop",
+        "Turn only if it is safe and won't block the rider",
+        "You may never turn right after passing"
+      ],
+      "h1": "The bicyclist going straight should not have to stop for you.",
+      "h2": "In Connecticut, after passing a bicyclist, you may turn right only if the turn is safe and will not block the bicyclist's path.",
+      "p": "Right. Do not cut off the bicyclist."
+    },
+    "es": {
+      "q": "En Connecticut, acaba de rebasar a un ciclista y quiere dar vuelta a la derecha en la próxima esquina. ¿Qué dice la ley?",
+      "o": [
+        "Dé la vuelta rápido antes de que llegue el ciclista",
+        "Toque la bocina para que el ciclista se detenga",
+        "Dé la vuelta solo si es seguro y no bloquea al ciclista",
+        "Nunca puede dar vuelta a la derecha después de rebasar"
+      ],
+      "h1": "El ciclista que sigue derecho no debería tener que detenerse por usted.",
+      "h2": "En Connecticut, después de rebasar a un ciclista, solo puede dar vuelta a la derecha si es seguro y no bloquea el camino del ciclista.",
+      "p": "Correcto. No le cierre el paso al ciclista."
+    }
+  },
+  {
+    "id": "ct-153",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_248.htm#sec_14-227h",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Connecticut, a driver whose license is already suspended is arrested for DUI. What happens to the car?",
+      "o": [
+        "It is towed to the driver's home",
+        "Nothing; the driver may keep it",
+        "It is impounded for 48 hours",
+        "It is sold at a public auction"
+      ],
+      "h1": "The owner pays towing and storage to get it back.",
+      "h2": "In Connecticut, when a driver with a suspended license is arrested for DUI, the car is impounded for 48 hours, and the owner pays towing and storage costs.",
+      "p": "Right. The car is impounded for 48 hours."
+    },
+    "es": {
+      "q": "En Connecticut, arrestan por manejar bajo los efectos del alcohol a un conductor cuya licencia ya está suspendida. ¿Qué pasa con el carro?",
+      "o": [
+        "Lo remolcan a la casa del conductor",
+        "Nada; el conductor puede quedárselo",
+        "Lo incautan por 48 horas",
+        "Lo venden en una subasta pública"
+      ],
+      "h1": "El dueño paga la grúa y el almacenaje para recuperarlo.",
+      "h2": "En Connecticut, cuando arrestan por manejar bajo los efectos del alcohol a un conductor con licencia suspendida, el carro queda incautado por 48 horas y el dueño paga la grúa y el almacenaje.",
+      "p": "Correcto. El carro queda incautado por 48 horas."
+    }
+  },
+  {
+    "id": "ct-154",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_248.htm#sec_14-227m",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, a driver is convicted for the first time of DUI with a passenger under 18 in the car. What is the fine?",
+      "o": [
+        "$100 to $300",
+        "$500 to $2,000",
+        "$50 to $200",
+        "$10,000 to $20,000"
+      ],
+      "h1": "It is higher than the fine for a first DUI with no child on board.",
+      "h2": "In Connecticut, a first conviction for DUI with a child under 18 in the car brings a fine of $500 to $2,000, plus 100 hours of community service.",
+      "p": "Right. The fine is $500 to $2,000."
+    },
+    "es": {
+      "q": "En Connecticut, condenan por primera vez a un conductor por manejar bajo los efectos del alcohol con un pasajero menor de 18 años en el carro. ¿Cuál es la multa?",
+      "o": [
+        "De $100 a $300",
+        "De $500 a $2,000",
+        "De $50 a $200",
+        "De $10,000 a $20,000"
+      ],
+      "h1": "Es mayor que la multa por una primera condena sin un niño a bordo.",
+      "h2": "En Connecticut, una primera condena por manejar bajo los efectos del alcohol con un menor de 18 años en el carro trae una multa de $500 a $2,000, más 100 horas de servicio comunitario.",
+      "p": "Correcto. La multa es de $500 a $2,000."
+    }
+  },
+  {
+    "id": "ct-155",
+    "scope": "CT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_248.htm#sec_14-219",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, on a road that is not a multi-lane, limited-access highway, what is the highest speed state law allows?",
+      "o": [
+        "55 mph",
+        "60 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "It is 10 mph lower than the top limit on big highways.",
+      "h2": "In Connecticut, driving faster than 55 mph is speeding on any road except a multi-lane, limited-access highway where a higher limit has been set.",
+      "p": "Right. The top speed there is 55 mph."
+    },
+    "es": {
+      "q": "En Connecticut, en una vía que no es una autopista de acceso limitado con varios carriles, ¿cuál es la velocidad más alta que permite la ley estatal?",
+      "o": [
+        "55 mph",
+        "60 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "Son 10 mph menos que el límite máximo en las grandes autopistas.",
+      "h2": "En Connecticut, manejar a más de 55 mph es exceso de velocidad en cualquier vía, salvo en una autopista de acceso limitado con varios carriles donde se fijó un límite mayor.",
+      "p": "Correcto. Allí la velocidad máxima es 55 mph."
+    }
+  },
+  {
+    "id": "ct-156",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_246.htm#sec_14-41",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, what is the longest period a renewed driver's license can be valid?",
+      "o": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "8 years"
+      ],
+      "h1": "The DMV is phasing in a longer license with a $96 fee.",
+      "h2": "In Connecticut, a renewed driver's license can be valid for up to eight years; the eight-year renewal costs $96.",
+      "p": "Right. A renewal can last up to eight years."
+    },
+    "es": {
+      "q": "En Connecticut, ¿cuál es el periodo más largo que puede durar una licencia de manejar renovada?",
+      "o": [
+        "4 años",
+        "5 años",
+        "6 años",
+        "8 años"
+      ],
+      "h1": "El DMV está introduciendo una licencia más larga que cuesta $96.",
+      "h2": "En Connecticut, una licencia renovada puede durar hasta ocho años; la renovación por ocho años cuesta $96.",
+      "p": "Correcto. Una renovación puede durar hasta ocho años."
+    }
+  },
+  {
+    "id": "ct-157",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_246.htm#sec_14-100a",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, how high can the fine be for a second violation of the child car seat law?",
+      "o": [
+        "Up to $50",
+        "Up to $199",
+        "Up to $500",
+        "Up to $1,000"
+      ],
+      "h1": "A third violation is a misdemeanor.",
+      "h2": "In Connecticut, a second violation of the child car seat law can bring a fine of up to $199; a third is a class A misdemeanor.",
+      "p": "Right. The fine can be up to $199."
+    },
+    "es": {
+      "q": "En Connecticut, ¿de cuánto puede ser la multa por una segunda falta a la ley de asientos de seguridad para niños?",
+      "o": [
+        "Hasta $50",
+        "Hasta $199",
+        "Hasta $500",
+        "Hasta $1,000"
+      ],
+      "h1": "Una tercera falta es un delito menor.",
+      "h2": "En Connecticut, una segunda falta a la ley de asientos de seguridad para niños puede traer una multa de hasta $199; una tercera es un delito menor de clase A.",
+      "p": "Correcto. La multa puede ser de hasta $199."
+    }
+  },
+  {
+    "id": "ct-158",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_246.htm#sec_14-137a",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, at least how many points are put on your license for breaking the child car seat law?",
+      "o": [
+        "None",
+        "Half a point",
+        "1 point",
+        "2 points"
+      ],
+      "h1": "Unlike a seat belt ticket, this one does add points.",
+      "h2": "In Connecticut, a conviction for breaking the child car seat law adds at least two points to your license.",
+      "p": "Right. It adds at least two points."
+    },
+    "es": {
+      "q": "En Connecticut, ¿al menos cuántos puntos se ponen en su licencia por no cumplir la ley de asientos de seguridad para niños?",
+      "o": [
+        "Ninguno",
+        "Medio punto",
+        "1 punto",
+        "2 puntos"
+      ],
+      "h1": "A diferencia de la multa de cinturón, esta sí suma puntos.",
+      "h2": "En Connecticut, una condena por no cumplir la ley de asientos de seguridad para niños suma al menos dos puntos a su licencia.",
+      "p": "Correcto. Suma al menos dos puntos."
+    }
+  },
+  {
+    "id": "ct-159",
+    "scope": "CT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_246.htm#sec_14-100a",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, a back seat has only a lap belt with no shoulder belt. May a child use a booster seat there?",
+      "o": [
+        "No, a booster needs a shoulder belt too",
+        "Yes, if the child weighs over 40 pounds",
+        "Yes, but only on short trips in town",
+        "Yes, if the lap belt is pulled tight"
+      ],
+      "h1": "A booster seat works by placing the shoulder strap correctly.",
+      "h2": "In Connecticut, a child may not ride in a booster seat unless the seat has a safety belt that includes a shoulder belt.",
+      "p": "Right. A booster seat needs a shoulder belt."
+    },
+    "es": {
+      "q": "En Connecticut, un asiento trasero solo tiene cinturón de cadera, sin banda para el hombro. ¿Puede un niño usar allí un asiento elevado (booster)?",
+      "o": [
+        "No, el booster también necesita banda para el hombro",
+        "Sí, si el niño pesa más de 40 libras",
+        "Sí, pero solo en viajes cortos en el pueblo",
+        "Sí, si el cinturón de cadera está bien apretado"
+      ],
+      "h1": "El asiento elevado funciona colocando bien la banda del hombro.",
+      "h2": "En Connecticut, un niño no puede ir en un asiento elevado a menos que el asiento tenga un cinturón con banda para el hombro.",
+      "p": "Correcto. El asiento elevado necesita banda para el hombro."
+    }
+  },
+  {
+    "id": "ct-160",
+    "scope": "CT",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_249.htm#sec_14-300f",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, you drive past a school crossing guard who told you to stop. The guard writes down your plate number. What can happen?",
+      "o": [
+        "Nothing, since no police officer saw it",
+        "Police may send the owner a warning or ticket",
+        "The guard may take away your license",
+        "Only your school or employer is told"
+      ],
+      "h1": "A written report from the guard counts.",
+      "h2": "In Connecticut, a school crossing guard can report your plate number, and the police may then send the car's owner a written warning or a ticket.",
+      "p": "Right. The guard's report can lead to a warning or ticket."
+    },
+    "es": {
+      "q": "En Connecticut, usted pasa a un guardia escolar de cruce que le indicó detenerse. El guardia anota su número de placa. ¿Qué puede pasar?",
+      "o": [
+        "Nada, porque ningún policía lo vio",
+        "La policía puede enviar al dueño una advertencia o multa",
+        "El guardia puede quitarle la licencia",
+        "Solo le avisan a su escuela o a su trabajo"
+      ],
+      "h1": "Un reporte escrito del guardia cuenta.",
+      "h2": "En Connecticut, un guardia escolar de cruce puede reportar su número de placa, y la policía puede enviar al dueño del carro una advertencia escrita o una multa.",
+      "p": "Correcto. El reporte del guardia puede traer una advertencia o una multa."
+    }
+  },
+  {
+    "id": "ct-161",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_246.htm#sec_14-11j",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, what can the DMV give a driver with autism spectrum disorder, on request?",
+      "o": [
+        "A special license plate for the car",
+        "A free driving lesson with an examiner",
+        "A parking placard for the dashboard",
+        "A blue envelope for the license and car papers"
+      ],
+      "h1": "It is meant to help during a traffic stop.",
+      "h2": "In Connecticut, the DMV gives people with autism spectrum disorder a blue envelope that holds the license, registration and insurance card and has tips for talking with police.",
+      "p": "Right. The blue envelope helps communication with police."
+    },
+    "es": {
+      "q": "En Connecticut, ¿qué puede darle el DMV, si lo pide, a un conductor con trastorno del espectro autista?",
+      "o": [
+        "Una placa especial para el carro",
+        "Una clase de manejo gratis con un examinador",
+        "Un permiso de estacionamiento para el tablero",
+        "Un sobre azul para la licencia y los papeles del carro"
+      ],
+      "h1": "Sirve de ayuda cuando la policía lo detiene.",
+      "h2": "En Connecticut, el DMV da a las personas con trastorno del espectro autista un sobre azul para guardar la licencia, el registro y la tarjeta del seguro, con consejos para hablar con la policía.",
+      "p": "Correcto. El sobre azul ayuda a comunicarse con la policía."
+    }
+  },
+  {
+    "id": "ct-162",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_246.htm#sec_14-41",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, you were out of state when your license was due for renewal. What may the DMV give you once you show proof?",
+      "o": [
+        "A one-time, six-month extension",
+        "A free two-year license",
+        "A permit to drive for one year",
+        "A refund of last year's fee"
+      ],
+      "h1": "It can be granted only once.",
+      "h2": "In Connecticut, if you show you were out of state during the renewal period, the DMV may extend your license once for six months.",
+      "p": "Right. You may get one six-month extension."
+    },
+    "es": {
+      "q": "En Connecticut, usted estaba fuera del estado cuando le tocaba renovar la licencia. ¿Qué puede darle el DMV al mostrar prueba?",
+      "o": [
+        "Una sola extensión de seis meses",
+        "Una licencia gratis por dos años",
+        "Un permiso para manejar por un año",
+        "El reembolso de la tarifa del año pasado"
+      ],
+      "h1": "Solo se puede dar una vez.",
+      "h2": "En Connecticut, si demuestra que estaba fuera del estado durante el periodo de renovación, el DMV puede extender su licencia una sola vez por seis meses.",
+      "p": "Correcto. Puede recibir una extensión de seis meses."
+    }
+  },
+  {
+    "id": "ct-163",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_246.htm#sec_14-137a",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, you pay a hand-held phone ticket by mail. Do points go on your license?",
+      "o": [
+        "No, paying by mail means no points",
+        "Yes, at least one point",
+        "Only if you were in a work zone",
+        "Only if you are under 21"
+      ],
+      "h1": "Most infractions paid by mail add no points, but this one is an exception.",
+      "h2": "In Connecticut, a hand-held phone violation adds at least one point to your license, even when you pay the ticket by mail.",
+      "p": "Right. A phone ticket adds at least one point."
+    },
+    "es": {
+      "q": "En Connecticut, usted paga por correo una multa por usar el teléfono en la mano. ¿Se ponen puntos en su licencia?",
+      "o": [
+        "No, pagar por correo significa cero puntos",
+        "Sí, al menos un punto",
+        "Solo si estaba en una zona de obras",
+        "Solo si es menor de 21 años"
+      ],
+      "h1": "La mayoría de las infracciones pagadas por correo no suman puntos, pero esta es una excepción.",
+      "h2": "En Connecticut, una infracción por usar el teléfono en la mano suma al menos un punto a su licencia, aunque pague la multa por correo.",
+      "p": "Correcto. Una multa de teléfono suma al menos un punto."
+    }
+  },
+  {
+    "id": "ct-164",
+    "scope": "CT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_248.htm#sec_14-224",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Connecticut, you have a crash on a limited-access highway that damages only the cars. If they can be moved safely, what must you do?",
+      "o": [
+        "Leave them in place until police arrive",
+        "Leave the scene and call later",
+        "Move them off the travel lanes right away",
+        "Wait for a tow truck in your lane"
+      ],
+      "h1": "Clearing the lanes helps prevent a second crash.",
+      "h2": "In Connecticut, after a property-damage-only crash on a limited-access highway, you must move the car off the travel lanes right away if you can do so safely.",
+      "p": "Right. Move the car out of the travel lanes."
+    },
+    "es": {
+      "q": "En Connecticut, tiene un choque en una autopista de acceso limitado que solo daña los carros. Si se pueden mover sin peligro, ¿qué debe hacer?",
+      "o": [
+        "Dejarlos donde están hasta que llegue la policía",
+        "Irse del lugar y llamar después",
+        "Sacarlos de los carriles de inmediato",
+        "Esperar la grúa en su carril"
+      ],
+      "h1": "Despejar los carriles ayuda a evitar otro choque.",
+      "h2": "En Connecticut, después de un choque solo con daños materiales en una autopista de acceso limitado, debe sacar el carro de los carriles de inmediato si puede hacerlo sin peligro.",
+      "p": "Correcto. Saque el carro de los carriles."
+    }
+  },
+  {
+    "id": "ct-165",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_248.htm#sec_14-215",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, what is the penalty for a first offense of driving with a suspended license (not for DUI)?",
+      "o": [
+        "A $150 to $200 fine or up to 3 months in jail",
+        "A written warning and no fine at all",
+        "A $25 fine with no chance of jail",
+        "A $5,000 fine and 5 years in prison"
+      ],
+      "h1": "It can include jail time.",
+      "h2": "In Connecticut, a first offense of driving while your license is suspended brings a fine of $150 to $200, up to three months in jail, or both.",
+      "p": "Right. Fine, jail, or both."
+    },
+    "es": {
+      "q": "En Connecticut, ¿cuál es la pena por una primera vez manejando con la licencia suspendida (no por alcohol)?",
+      "o": [
+        "Una multa de $150 a $200 o hasta 3 meses de cárcel",
+        "Una advertencia escrita y ninguna multa",
+        "Una multa de $25 sin posibilidad de cárcel",
+        "Una multa de $5,000 y 5 años de prisión"
+      ],
+      "h1": "Puede incluir cárcel.",
+      "h2": "En Connecticut, la primera vez que maneja con la licencia suspendida recibe una multa de $150 a $200, hasta tres meses de cárcel, o ambas.",
+      "p": "Correcto. Multa, cárcel o ambas."
+    }
+  },
+  {
+    "id": "ct-166",
+    "scope": "CT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_248.htm#sec_14-222",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, what fine can a driver face for a first reckless driving conviction?",
+      "o": [
+        "$25 to $50",
+        "$50 to $75",
+        "$1,000 to $5,000",
+        "$100 to $300"
+      ],
+      "h1": "Up to 30 days in jail is also possible.",
+      "h2": "In Connecticut, a first reckless driving conviction brings a fine of $100 to $300, up to 30 days in jail, or both.",
+      "p": "Right. The fine is $100 to $300."
+    },
+    "es": {
+      "q": "En Connecticut, ¿qué multa puede recibir un conductor por una primera condena por manejo imprudente?",
+      "o": [
+        "De $25 a $50",
+        "De $50 a $75",
+        "De $1,000 a $5,000",
+        "De $100 a $300"
+      ],
+      "h1": "También es posible hasta 30 días de cárcel.",
+      "h2": "En Connecticut, una primera condena por manejo imprudente trae una multa de $100 a $300, hasta 30 días de cárcel, o ambas.",
+      "p": "Correcto. La multa es de $100 a $300."
+    }
+  },
+  {
+    "id": "ct-167",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_248.htm#sec_14-213b",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, a car owner is convicted for the first time of driving without the required insurance. How long are the registration and license suspended?",
+      "o": [
+        "One week",
+        "One month",
+        "One year",
+        "Three years"
+      ],
+      "h1": "A second conviction brings six months.",
+      "h2": "In Connecticut, a first conviction for driving without the required insurance suspends the owner's registration and license for one month, plus a fine of $100 to $1,000.",
+      "p": "Right. The suspension is one month."
+    },
+    "es": {
+      "q": "En Connecticut, condenan por primera vez al dueño de un carro por manejar sin el seguro obligatorio. ¿Por cuánto tiempo se suspenden el registro y la licencia?",
+      "o": [
+        "Una semana",
+        "Un mes",
+        "Un año",
+        "Tres años"
+      ],
+      "h1": "Una segunda condena trae seis meses.",
+      "h2": "En Connecticut, una primera condena por manejar sin el seguro obligatorio suspende el registro y la licencia del dueño por un mes, además de una multa de $100 a $1,000.",
+      "p": "Correcto. La suspensión es de un mes."
+    }
+  },
+  {
+    "id": "ct-168",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/2026/sup/chap_246.htm#sec_14-18",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Connecticut, one of your license plates is lost. How soon must you tell the DMV and apply for a new one?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 48 hours",
+        "At your next renewal"
+      ],
+      "h1": "Meanwhile, you must put up a temporary plate with the same number.",
+      "h2": "In Connecticut, if a plate is lost or can no longer be read, you must put up a temporary plate and tell the DMV and apply for a new plate within 48 hours.",
+      "p": "Right. You have 48 hours."
+    },
+    "es": {
+      "q": "En Connecticut, se le pierde una de las placas del carro. ¿En cuánto tiempo debe avisar al DMV y pedir una nueva?",
+      "o": [
+        "En 10 días",
+        "En 30 días",
+        "En 48 horas",
+        "En su próxima renovación"
+      ],
+      "h1": "Mientras tanto, debe poner una placa temporal con el mismo número.",
+      "h2": "En Connecticut, si una placa se pierde o ya no se puede leer, debe poner una placa temporal y avisar al DMV y pedir una placa nueva en un plazo de 48 horas.",
+      "p": "Correcto. Tiene 48 horas."
+    }
+  },
+  {
+    "id": "ct-169",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.cga.ct.gov/current/pub/chap_700.htm#sec_38a-336",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, what must every car liability insurance policy include?",
+      "o": [
+        "Uninsured and underinsured motorist coverage",
+        "Coverage for a rental car during repairs",
+        "Roadside towing and lockout service",
+        "Collision coverage for your own car"
+      ],
+      "h1": "It protects you when the other driver has little or no insurance.",
+      "h2": "In Connecticut, every car liability insurance policy must include uninsured and underinsured motorist coverage, at least at the state minimum limits.",
+      "p": "Right. Uninsured and underinsured motorist coverage is required."
+    },
+    "es": {
+      "q": "En Connecticut, ¿qué debe incluir toda póliza de seguro de responsabilidad para carros?",
+      "o": [
+        "Cobertura de conductor sin seguro o con seguro insuficiente",
+        "Cobertura de carro de alquiler durante reparaciones",
+        "Servicio de grúa y de apertura de puertas",
+        "Cobertura de choque para su propio carro"
+      ],
+      "h1": "Lo protege cuando el otro conductor tiene poco seguro o ninguno.",
+      "h2": "En Connecticut, toda póliza de seguro de responsabilidad para carros debe incluir cobertura de conductor sin seguro o con seguro insuficiente, al menos con los límites mínimos del estado.",
+      "p": "Correcto. Esa cobertura es obligatoria."
+    }
+  },
+  {
+    "id": "ct-170",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://portal.ct.gov/dmv/resources/insurance-discounts",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Connecticut, a driver aged 60 or older completes a DMV-approved accident prevention course. What minimum insurance discount does state law require?",
+      "o": [
+        "1 percent",
+        "2 percent",
+        "5 percent",
+        "25 percent"
+      ],
+      "h1": "The discount lasts for at least 24 months.",
+      "h2": "In Connecticut, a principal driver aged 60 or older who completes a DMV-approved accident prevention course gets an insurance discount of at least 5 percent for at least 24 months.",
+      "p": "Right. The discount is at least 5 percent."
+    },
+    "es": {
+      "q": "En Connecticut, un conductor de 60 años o más termina un curso de prevención de accidentes aprobado por el DMV. ¿Qué descuento mínimo en el seguro exige la ley estatal?",
+      "o": [
+        "1 por ciento",
+        "2 por ciento",
+        "5 por ciento",
+        "25 por ciento"
+      ],
+      "h1": "El descuento dura al menos 24 meses.",
+      "h2": "En Connecticut, un conductor principal de 60 años o más que termina un curso de prevención de accidentes aprobado por el DMV recibe un descuento de al menos 5 por ciento en el seguro durante al menos 24 meses.",
+      "p": "Correcto. El descuento es de al menos 5 por ciento."
+    }
+  },
+  {
+    "id": "ct-171",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://portal.ct.gov/dmv/resources/insurance-discounts",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, what insurance discount does state law give for completing a motorcycle rider education course?",
+      "o": [
+        "2 percent",
+        "4 percent",
+        "25 percent",
+        "10 percent"
+      ],
+      "h1": "It applies to liability insurance and is a round number.",
+      "h2": "In Connecticut, finishing a motorcycle rider education course qualifies you for a 10 percent discount on liability insurance.",
+      "p": "Right. The discount is 10 percent."
+    },
+    "es": {
+      "q": "En Connecticut, ¿qué descuento en el seguro da la ley estatal por terminar un curso de educación para motociclistas?",
+      "o": [
+        "2 por ciento",
+        "4 por ciento",
+        "25 por ciento",
+        "10 por ciento"
+      ],
+      "h1": "Se aplica al seguro de responsabilidad y es un número redondo.",
+      "h2": "En Connecticut, terminar un curso de educación para motociclistas le da derecho a un descuento de 10 por ciento en el seguro de responsabilidad.",
+      "p": "Correcto. El descuento es de 10 por ciento."
+    }
   }
 ]
