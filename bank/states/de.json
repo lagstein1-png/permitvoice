@@ -8124,5 +8124,1127 @@
       "h2": "En Delaware, cuando hay letreros, no puede estacionarse del otro lado de la calle a menos de 75 pies de la entrada de una estación de bomberos.",
       "p": "Correcto. No más cerca de 75 pies."
     }
+  },
+  {
+    "id": "de-168",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 35,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, what is the blue medical indicator that may appear on a driver license?",
+      "o": [
+        "A mark showing the driver failed the eye test",
+        "An optional mark that tells rescuers about a health condition",
+        "A required mark for every driver over age 65",
+        "A mark showing the driver must wear glasses"
+      ],
+      "h1": "It is your choice, and it can help in an emergency.",
+      "h2": "In Delaware, the blue medical indicator is an optional mark that lets you share a medical condition with people giving emergency care; the condition is printed on the back of the card.",
+      "p": "Right. It is optional and helps emergency responders."
+    },
+    "es": {
+      "q": "En Delaware, ¿qué es el indicador médico azul que puede aparecer en una licencia de conducir?",
+      "o": [
+        "Una marca que muestra que el conductor no pasó el examen de la vista",
+        "Una marca opcional que informa a los rescatistas sobre una condición de salud",
+        "Una marca obligatoria para todo conductor mayor de 65 años",
+        "Una marca que muestra que el conductor debe usar anteojos"
+      ],
+      "h1": "Es su decisión, y puede ayudar en una emergencia.",
+      "h2": "En Delaware, el indicador médico azul es una marca opcional que le permite informar una condición médica a quienes le den atención de emergencia; la condición aparece en el reverso de la tarjeta.",
+      "p": "Correcto. Es opcional y ayuda al personal de emergencia."
+    }
+  },
+  {
+    "id": "de-169",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 43,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, who may ask the DMV to re-examine whether a person can still drive safely?",
+      "o": [
+        "Only the driver's insurance company or agent",
+        "Only a judge, after the driver has a crash",
+        "Only the driver, and no one else",
+        "Close family, police, or a licensed practitioner"
+      ],
+      "h1": "The law lets people close to the driver, and some professionals, raise the concern.",
+      "h2": "In Delaware, a driver's immediate family, law enforcement, or a licensed practitioner may ask the DMV to re-examine the driver.",
+      "p": "Right. Family, police, or a practitioner may ask."
+    },
+    "es": {
+      "q": "En Delaware, ¿quién puede pedirle al DMV que vuelva a examinar si una persona todavía puede manejar con seguridad?",
+      "o": [
+        "Solo la compañía de seguros o el agente del conductor",
+        "Solo un juez, después de que el conductor tenga un choque",
+        "Solo el propio conductor, nadie más",
+        "La familia cercana, la policía o un profesional de la salud con licencia"
+      ],
+      "h1": "La ley permite que personas cercanas al conductor, y algunos profesionales, planteen la preocupación.",
+      "h2": "En Delaware, la familia inmediata del conductor, la policía o un profesional de la salud con licencia pueden pedirle al DMV que vuelva a examinar al conductor.",
+      "p": "Correcto. La familia, la policía o un profesional de la salud pueden pedirlo."
+    }
+  },
+  {
+    "id": "de-170",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 45,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, a driver arrested for an offense that brings mandatory revocation posts bond and then does not show up in court. What happens to the license?",
+      "o": [
+        "It is revoked as if the driver were convicted",
+        "Nothing happens until a trial is held",
+        "The driver only gets a warning letter",
+        "The bond is returned and the case closes"
+      ],
+      "h1": "Skipping court does not help the driver.",
+      "h2": "In Delaware, if you post bond after an arrest for an offense that requires revocation and you do not appear in court, your license is revoked just as if you had been convicted.",
+      "p": "Right. Missing court counts the same as a conviction."
+    },
+    "es": {
+      "q": "En Delaware, un conductor arrestado por un delito que causa revocación obligatoria paga la fianza y luego no se presenta en el tribunal. ¿Qué pasa con la licencia?",
+      "o": [
+        "Se revoca como si el conductor hubiera sido condenado",
+        "No pasa nada hasta que haya un juicio",
+        "El conductor solo recibe una carta de advertencia",
+        "Se devuelve la fianza y el caso se cierra"
+      ],
+      "h1": "Faltar al tribunal no ayuda al conductor.",
+      "h2": "En Delaware, si usted paga la fianza después de un arresto por un delito que exige revocación y no se presenta en el tribunal, su licencia se revoca igual que si lo hubieran condenado.",
+      "p": "Correcto. Faltar al tribunal cuenta igual que una condena."
+    }
+  },
+  {
+    "id": "de-171",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 45,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, a driver is declared a habitual offender. For how long may the license be revoked?",
+      "o": [
+        "Up to 30 days",
+        "Up to 6 months",
+        "Up to 5 years",
+        "Up to 50 years"
+      ],
+      "h1": "It is measured in years, but only a few.",
+      "h2": "In Delaware, a habitual offender's license may be revoked for up to five years.",
+      "p": "Right. Up to five years."
+    },
+    "es": {
+      "q": "En Delaware, un conductor es declarado infractor habitual. ¿Por cuánto tiempo se le puede revocar la licencia?",
+      "o": [
+        "Hasta 30 días",
+        "Hasta 6 meses",
+        "Hasta 5 años",
+        "Hasta 50 años"
+      ],
+      "h1": "Se mide en años, pero solo unos pocos.",
+      "h2": "En Delaware, la licencia de un infractor habitual se puede revocar por hasta cinco años.",
+      "p": "Correcto. Hasta cinco años."
+    }
+  },
+  {
+    "id": "de-172",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 46,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, you let a friend use your driver license. What can happen to you?",
+      "o": [
+        "Nothing, if your friend drives safely",
+        "Your license can be suspended",
+        "You only pay a $10 fee",
+        "You must retake the vision test"
+      ],
+      "h1": "A license is only for the person named on it.",
+      "h2": "In Delaware, loaning your driver license to another person is a reason for the DMV to suspend your license.",
+      "p": "Right. Lending your license can get it suspended."
+    },
+    "es": {
+      "q": "En Delaware, usted deja que un amigo use su licencia de conducir. ¿Qué le puede pasar a usted?",
+      "o": [
+        "Nada, si su amigo maneja con cuidado",
+        "Le pueden suspender la licencia",
+        "Solo paga un cargo de $10",
+        "Debe repetir el examen de la vista"
+      ],
+      "h1": "Una licencia es solo para la persona cuyo nombre aparece en ella.",
+      "h2": "En Delaware, prestarle su licencia de conducir a otra persona es un motivo para que el DMV le suspenda la licencia.",
+      "p": "Correcto. Prestar su licencia puede causar la suspensión."
+    }
+  },
+  {
+    "id": "de-173",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 48,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, your license is suspended under the point program and your calculated points are 15 or more. When can you get an occupational (work) license?",
+      "o": [
+        "Right away, if you have a job",
+        "As soon as you pay a $50 fee",
+        "After one week of the suspension",
+        "Not until your points drop below 15"
+      ],
+      "h1": "The point level itself has to come down first.",
+      "h2": "In Delaware, if your calculated points reach 15 or more in 24 months, no occupational license is issued until your points are below 15.",
+      "p": "Right. Your points must fall below 15 first."
+    },
+    "es": {
+      "q": "En Delaware, su licencia está suspendida por el programa de puntos y sus puntos calculados son 15 o más. ¿Cuándo puede obtener una licencia ocupacional (para trabajar)?",
+      "o": [
+        "De inmediato, si tiene trabajo",
+        "En cuanto pague un cargo de $50",
+        "Después de una semana de suspensión",
+        "No hasta que sus puntos bajen de 15"
+      ],
+      "h1": "Primero tiene que bajar el nivel de puntos.",
+      "h2": "En Delaware, si sus puntos calculados llegan a 15 o más en 24 meses, no se emite una licencia ocupacional hasta que sus puntos estén por debajo de 15.",
+      "p": "Correcto. Sus puntos deben bajar de 15 primero."
+    }
+  },
+  {
+    "id": "de-174",
+    "scope": "DE",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 48,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, a driver is convicted of going 35 mph over the speed limit. How long is the license suspended?",
+      "o": [
+        "1 week",
+        "2 weeks",
+        "3 months",
+        "2 years"
+      ],
+      "h1": "It starts at one month at 25 mph over and grows by one month for each extra 5 mph.",
+      "h2": "In Delaware, going 35 mph over the limit brings a three-month suspension, because one month is added for every 5 mph beyond 25 mph over.",
+      "p": "Right. Three months."
+    },
+    "es": {
+      "q": "En Delaware, un conductor es condenado por ir 35 mph por encima del límite de velocidad. ¿Por cuánto tiempo se suspende la licencia?",
+      "o": [
+        "1 semana",
+        "2 semanas",
+        "3 meses",
+        "2 años"
+      ],
+      "h1": "Empieza en un mes a 25 mph por encima y aumenta un mes por cada 5 mph adicionales.",
+      "h2": "En Delaware, ir 35 mph por encima del límite causa una suspensión de tres meses, porque se agrega un mes por cada 5 mph más allá de 25 mph por encima.",
+      "p": "Correcto. Tres meses."
+    }
+  },
+  {
+    "id": "de-175",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 47,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, how many points do you get for driving 15 to 19 mph over the speed limit?",
+      "o": [
+        "3 points",
+        "5 points",
+        "8 points",
+        "10 points"
+      ],
+      "h1": "It is one more than for 10 to 14 mph over.",
+      "h2": "In Delaware, speeding 15 to 19 mph over the limit adds 5 points to your record.",
+      "p": "Right. 5 points."
+    },
+    "es": {
+      "q": "En Delaware, ¿cuántos puntos recibe por manejar de 15 a 19 mph por encima del límite de velocidad?",
+      "o": [
+        "3 puntos",
+        "5 puntos",
+        "8 puntos",
+        "10 puntos"
+      ],
+      "h1": "Es uno más que por ir de 10 a 14 mph por encima.",
+      "h2": "En Delaware, exceder el límite por 15 a 19 mph agrega 5 puntos a su historial.",
+      "p": "Correcto. 5 puntos."
+    }
+  },
+  {
+    "id": "de-176",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 47,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, a driver with 12 points does not finish the required behavior modification course. What happens?",
+      "o": [
+        "A mandatory 2-month suspension",
+        "A one-year revocation",
+        "A $25 late fee only",
+        "Nothing; the course is optional"
+      ],
+      "h1": "The penalty is a suspension measured in months.",
+      "h2": "In Delaware, a driver at 12 points who does not finish the behavior modification course, or chooses not to take it, gets a mandatory two-month suspension.",
+      "p": "Right. A 2-month suspension."
+    },
+    "es": {
+      "q": "En Delaware, un conductor con 12 puntos no termina el curso obligatorio de modificación de conducta. ¿Qué pasa?",
+      "o": [
+        "Una suspensión obligatoria de 2 meses",
+        "Una revocación de un año",
+        "Solo un cargo por atraso de $25",
+        "Nada; el curso es opcional"
+      ],
+      "h1": "La sanción es una suspensión que se mide en meses.",
+      "h2": "En Delaware, un conductor con 12 puntos que no termina el curso de modificación de conducta, o decide no tomarlo, recibe una suspensión obligatoria de dos meses.",
+      "p": "Correcto. Una suspensión de 2 meses."
+    }
+  },
+  {
+    "id": "de-177",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 49,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, how is the 3-point credit from a defensive driving course used?",
+      "o": [
+        "It erases 3 points already on your record",
+        "It lowers your insurance points by 3",
+        "It removes your oldest traffic ticket",
+        "It counts only against future violations"
+      ],
+      "h1": "It does not change what is already on your record.",
+      "h2": "In Delaware, the defensive driving credit is used only against future violations for DMV action; it does not remove or reduce points you already have.",
+      "p": "Right. It counts only toward future violations."
+    },
+    "es": {
+      "q": "En Delaware, ¿cómo se usa el crédito de 3 puntos de un curso de manejo defensivo?",
+      "o": [
+        "Borra 3 puntos que ya tiene en su historial",
+        "Baja en 3 sus puntos ante el seguro",
+        "Elimina su multa de tránsito más antigua",
+        "Solo cuenta para infracciones futuras"
+      ],
+      "h1": "No cambia lo que ya está en su historial.",
+      "h2": "En Delaware, el crédito de manejo defensivo solo se usa para infracciones futuras en las acciones del DMV; no quita ni reduce los puntos que usted ya tiene.",
+      "p": "Correcto. Solo cuenta para infracciones futuras."
+    }
+  },
+  {
+    "id": "de-178",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 54,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, a 19-year-old is caught with alcohol for the first time. What kind of offense is it?",
+      "o": [
+        "A felony with a prison term",
+        "A crime on the criminal record",
+        "A civil offense, kept off the criminal record",
+        "A moving violation worth 6 points"
+      ],
+      "h1": "The first two violations are handled as a civil matter.",
+      "h2": "In Delaware, a first or second underage alcohol possession or drinking violation is a civil offense and may not appear on the person's certified criminal record.",
+      "p": "Right. It is a civil offense."
+    },
+    "es": {
+      "q": "En Delaware, a una persona de 19 años la encuentran con alcohol por primera vez. ¿Qué tipo de infracción es?",
+      "o": [
+        "Un delito grave con cárcel",
+        "Un delito en los antecedentes penales",
+        "Una infracción civil, fuera de los antecedentes penales",
+        "Una infracción de tránsito de 6 puntos"
+      ],
+      "h1": "Las dos primeras infracciones se tratan como un asunto civil.",
+      "h2": "En Delaware, la primera o segunda infracción por posesión o consumo de alcohol de un menor de 21 años es una infracción civil y no puede aparecer en sus antecedentes penales certificados.",
+      "p": "Correcto. Es una infracción civil."
+    }
+  },
+  {
+    "id": "de-179",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 55,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, when does the underage alcohol possession law NOT apply to a person under 21?",
+      "o": [
+        "At a religious service, or with family at home",
+        "At a party when an adult is present",
+        "In a parked car with the engine off",
+        "At a restaurant, if the person is 20"
+      ],
+      "h1": "Think about faith and family settings.",
+      "h2": "In Delaware, the underage possession law does not apply to alcohol at a religious service or among members of the same family in their private home.",
+      "p": "Right. Religious services and family at home are exceptions."
+    },
+    "es": {
+      "q": "En Delaware, ¿cuándo NO se aplica a una persona menor de 21 años la ley sobre posesión de alcohol?",
+      "o": [
+        "En un servicio religioso, o con la familia en casa",
+        "En una fiesta donde hay un adulto presente",
+        "En un carro estacionado con el motor apagado",
+        "En un restaurante, si la persona tiene 20 años"
+      ],
+      "h1": "Piense en la fe y en la familia.",
+      "h2": "En Delaware, la ley sobre posesión de alcohol por menores no se aplica al alcohol en un servicio religioso ni entre miembros de la misma familia en su casa privada.",
+      "p": "Correcto. Los servicios religiosos y la familia en casa son excepciones."
+    }
+  },
+  {
+    "id": "de-180",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 56,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, a driver is convicted of a first DUI with a blood alcohol level of 0.20 or higher. How long does the DMV take away the license?",
+      "o": [
+        "3 months",
+        "6 months",
+        "9 months",
+        "24 months"
+      ],
+      "h1": "A very high level brings the longest loss for a first offense.",
+      "h2": "In Delaware, a first DUI with a blood alcohol level of 0.20 or more costs the driver the license for 24 months.",
+      "p": "Right. 24 months."
+    },
+    "es": {
+      "q": "En Delaware, un conductor es condenado por un primer DUI con un nivel de alcohol en la sangre de 0.20 o más. ¿Por cuánto tiempo le quita el DMV la licencia?",
+      "o": [
+        "3 meses",
+        "6 meses",
+        "9 meses",
+        "24 meses"
+      ],
+      "h1": "Un nivel muy alto trae la pérdida más larga para una primera infracción.",
+      "h2": "En Delaware, un primer DUI con un nivel de alcohol en la sangre de 0.20 o más le cuesta al conductor la licencia por 24 meses.",
+      "p": "Correcto. 24 meses."
+    }
+  },
+  {
+    "id": "de-181",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 56,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, what is the longest jail sentence a court can give for a first DUI offense?",
+      "o": [
+        "Up to 30 days",
+        "Up to 12 months",
+        "Up to 5 years",
+        "Up to 10 years"
+      ],
+      "h1": "It is no more than one year.",
+      "h2": "In Delaware, a court can sentence a first DUI offender to up to 12 months in jail, along with a fine.",
+      "p": "Right. Up to 12 months."
+    },
+    "es": {
+      "q": "En Delaware, ¿cuál es la pena de cárcel más larga que un tribunal puede dar por un primer DUI?",
+      "o": [
+        "Hasta 30 días",
+        "Hasta 12 meses",
+        "Hasta 5 años",
+        "Hasta 10 años"
+      ],
+      "h1": "No es más de un año.",
+      "h2": "En Delaware, un tribunal puede condenar a quien comete un primer DUI a hasta 12 meses de cárcel, además de una multa.",
+      "p": "Correcto. Hasta 12 meses."
+    }
+  },
+  {
+    "id": "de-182",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 57,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, what prison term does the law set for a third DUI offense?",
+      "o": [
+        "10 to 30 days",
+        "3 to 6 months",
+        "1 to 2 years",
+        "10 to 15 years"
+      ],
+      "h1": "It is a felony, at the lowest felony level for DUI.",
+      "h2": "In Delaware, a third DUI offense is a felony with a prison term of at least one year and no more than two years.",
+      "p": "Right. 1 to 2 years."
+    },
+    "es": {
+      "q": "En Delaware, ¿qué pena de prisión fija la ley para un tercer DUI?",
+      "o": [
+        "De 10 a 30 días",
+        "De 3 a 6 meses",
+        "De 1 a 2 años",
+        "De 10 a 15 años"
+      ],
+      "h1": "Es un delito grave, en el nivel más bajo de delito grave para el DUI.",
+      "h2": "En Delaware, un tercer DUI es un delito grave con una pena de prisión de al menos un año y no más de dos años.",
+      "p": "Correcto. De 1 a 2 años."
+    }
+  },
+  {
+    "id": "de-183",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 58,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, a DUI offender gets an ignition interlock (IID) license. May it be used to drive a commercial (CDL) vehicle?",
+      "o": [
+        "No, it is not valid for CDL vehicles",
+        "Yes, if the truck has an interlock",
+        "Yes, but only during the day",
+        "Yes, after 30 days in the program"
+      ],
+      "h1": "The IID license is limited to regular vehicles.",
+      "h2": "In Delaware, an ignition interlock license is not available for CDL-class vehicles and is not valid for any endorsements.",
+      "p": "Right. It does not cover CDL vehicles."
+    },
+    "es": {
+      "q": "En Delaware, una persona condenada por DUI obtiene una licencia con dispositivo de bloqueo de encendido (IID). ¿Puede usarla para manejar un vehículo comercial (CDL)?",
+      "o": [
+        "No, no es válida para vehículos CDL",
+        "Sí, si el camión tiene el dispositivo",
+        "Sí, pero solo de día",
+        "Sí, después de 30 días en el programa"
+      ],
+      "h1": "La licencia IID se limita a vehículos comunes.",
+      "h2": "En Delaware, la licencia con dispositivo de bloqueo de encendido no está disponible para vehículos de clase CDL y no es válida para ningún endoso.",
+      "p": "Correcto. No cubre vehículos CDL."
+    }
+  },
+  {
+    "id": "de-184",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 59,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, a driver with an ignition interlock (IID) license sometimes drives a family member's car. What does the law require?",
+      "o": [
+        "Nothing, because it is not the driver's car",
+        "A signed letter from the car's owner",
+        "A device only on cars the driver owns",
+        "An interlock device on that car as well"
+      ],
+      "h1": "The rule follows the driver, not who owns the car.",
+      "h2": "In Delaware, an IID must be installed on every vehicle the person drives during the program, even vehicles the person does not own.",
+      "p": "Right. Every car the driver uses needs the device."
+    },
+    "es": {
+      "q": "En Delaware, un conductor con licencia IID (dispositivo de bloqueo de encendido) a veces maneja el carro de un familiar. ¿Qué exige la ley?",
+      "o": [
+        "Nada, porque no es el carro del conductor",
+        "Una carta firmada por el dueño del carro",
+        "El dispositivo solo en los carros del conductor",
+        "Un dispositivo de bloqueo también en ese carro"
+      ],
+      "h1": "La regla sigue al conductor, no al dueño del carro.",
+      "h2": "En Delaware, el IID debe instalarse en todo vehículo que la persona maneje durante el programa, aunque no sea suyo.",
+      "p": "Correcto. Todo carro que use el conductor necesita el dispositivo."
+    }
+  },
+  {
+    "id": "de-185",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 60,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, you just moved here with your car. How soon must you title and register it in Delaware?",
+      "o": [
+        "Within 10 days",
+        "Within 60 days",
+        "Within 6 months",
+        "Within 1 year"
+      ],
+      "h1": "It is the same time you have to get a Delaware license.",
+      "h2": "In Delaware, new residents must title and register their vehicles within 60 days after becoming residents.",
+      "p": "Right. Within 60 days."
+    },
+    "es": {
+      "q": "En Delaware, usted acaba de mudarse aquí con su carro. ¿En cuánto tiempo debe titularlo y registrarlo en Delaware?",
+      "o": [
+        "Dentro de 10 días",
+        "Dentro de 60 días",
+        "Dentro de 6 meses",
+        "Dentro de 1 año"
+      ],
+      "h1": "Es el mismo plazo que tiene para sacar la licencia de Delaware.",
+      "h2": "En Delaware, los nuevos residentes deben titular y registrar sus vehículos dentro de los 60 días después de hacerse residentes.",
+      "p": "Correcto. Dentro de 60 días."
+    }
+  },
+  {
+    "id": "de-186",
+    "scope": "DE",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 60,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, from how far away must the light over your rear license plate let someone read the plate number?",
+      "o": [
+        "10 feet",
+        "25 feet",
+        "50 feet",
+        "500 feet"
+      ],
+      "h1": "It is about the length of three cars.",
+      "h2": "In Delaware, the white license plate light must be bright enough for the plate number to be seen from 50 feet away.",
+      "p": "Right. 50 feet."
+    },
+    "es": {
+      "q": "En Delaware, ¿desde qué distancia debe la luz de la placa trasera permitir que alguien lea el número de la placa?",
+      "o": [
+        "10 pies",
+        "25 pies",
+        "50 pies",
+        "500 pies"
+      ],
+      "h1": "Es más o menos el largo de tres carros.",
+      "h2": "En Delaware, la luz blanca de la placa debe ser lo bastante fuerte para que el número se vea desde 50 pies de distancia.",
+      "p": "Correcto. 50 pies."
+    }
+  },
+  {
+    "id": "de-187",
+    "scope": "DE",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 60,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, from how far away must your car's red taillights be visible?",
+      "o": [
+        "50 feet",
+        "100 feet",
+        "200 feet",
+        "500 feet"
+      ],
+      "h1": "It is the same distance as for parking lights and reflectors.",
+      "h2": "In Delaware, every car needs at least two red taillights that can be seen from 500 feet.",
+      "p": "Right. 500 feet."
+    },
+    "es": {
+      "q": "En Delaware, ¿desde qué distancia deben verse las luces traseras rojas de su carro?",
+      "o": [
+        "50 pies",
+        "100 pies",
+        "200 pies",
+        "500 pies"
+      ],
+      "h1": "Es la misma distancia que para las luces de estacionamiento y los reflectores.",
+      "h2": "En Delaware, todo carro necesita al menos dos luces traseras rojas que se vean desde 500 pies.",
+      "p": "Correcto. 500 pies."
+    }
+  },
+  {
+    "id": "de-188",
+    "scope": "DE",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 62,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, which vehicles may show green revolving or flashing lights?",
+      "o": [
+        "Snow removal equipment",
+        "Pizza delivery cars",
+        "Any car towing a trailer",
+        "Cars driven by new drivers"
+      ],
+      "h1": "Think about winter road work.",
+      "h2": "In Delaware, snow removal equipment may use green revolving or flashing lights; ordinary cars may not show flashing lights except turn signals and hazard flashers.",
+      "p": "Right. Snow removal equipment."
+    },
+    "es": {
+      "q": "En Delaware, ¿qué vehículos pueden mostrar luces verdes giratorias o intermitentes?",
+      "o": [
+        "Los equipos para quitar nieve",
+        "Los carros de entrega de pizza",
+        "Cualquier carro que remolque un tráiler",
+        "Los carros de conductores nuevos"
+      ],
+      "h1": "Piense en el trabajo en las carreteras durante el invierno.",
+      "h2": "En Delaware, los equipos para quitar nieve pueden usar luces verdes giratorias o intermitentes; los carros comunes no pueden usar luces intermitentes, salvo las direccionales y las luces de emergencia.",
+      "p": "Correcto. Los equipos para quitar nieve."
+    }
+  },
+  {
+    "id": "de-189",
+    "scope": "DE",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 62,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, how many vehicles may a regular car tow at one time?",
+      "o": [
+        "None at all",
+        "One",
+        "Two",
+        "Three, if they are small"
+      ],
+      "h1": "A tractor and semi-trailer are a special case; a car is not.",
+      "h2": "In Delaware, a motor vehicle may tow only a single vehicle at a time.",
+      "p": "Right. Only one."
+    },
+    "es": {
+      "q": "En Delaware, ¿cuántos vehículos puede remolcar un carro común a la vez?",
+      "o": [
+        "Ninguno",
+        "Uno",
+        "Dos",
+        "Tres, si son pequeños"
+      ],
+      "h1": "Un tractor con semirremolque es un caso especial; un carro no lo es.",
+      "h2": "En Delaware, un vehículo de motor solo puede remolcar un vehículo a la vez.",
+      "p": "Correcto. Solo uno."
+    }
+  },
+  {
+    "id": "de-190",
+    "scope": "DE",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 62,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, where on the front windshield is window tint allowed?",
+      "o": [
+        "Anywhere, if it is light",
+        "On the lower half only",
+        "Only on the top five inches",
+        "Only on the passenger side"
+      ],
+      "h1": "It is a narrow strip, marked AS-1 on many windshields.",
+      "h2": "In Delaware, tint on the front windshield is not allowed below the top five inches (the AS-1 line).",
+      "p": "Right. Only the top five inches."
+    },
+    "es": {
+      "q": "En Delaware, ¿en qué parte del parabrisas delantero se permite el polarizado?",
+      "o": [
+        "En cualquier parte, si es claro",
+        "Solo en la mitad de abajo",
+        "Solo en las cinco pulgadas de arriba",
+        "Solo del lado del pasajero"
+      ],
+      "h1": "Es una franja angosta, marcada AS-1 en muchos parabrisas.",
+      "h2": "En Delaware, el polarizado en el parabrisas delantero no se permite por debajo de las cinco pulgadas de arriba (la línea AS-1).",
+      "p": "Correcto. Solo las cinco pulgadas de arriba."
+    }
+  },
+  {
+    "id": "de-191",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 101,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, you are 17 and want a motorcycle endorsement. What must you pass?",
+      "o": [
+        "A first aid and CPR class",
+        "A parallel parking test in a car",
+        "A course run by a motorcycle dealer",
+        "The state Motorcycle Rider Education Program"
+      ],
+      "h1": "It is a state program for new riders.",
+      "h2": "In Delaware, anyone under 18 must take and pass the Delaware Motorcycle Rider Education Program to get a motorcycle endorsement.",
+      "p": "Right. The Motorcycle Rider Education Program."
+    },
+    "es": {
+      "q": "En Delaware, usted tiene 17 años y quiere un endoso de motocicleta. ¿Qué debe aprobar?",
+      "o": [
+        "Una clase de primeros auxilios y RCP",
+        "Un examen de estacionamiento en paralelo en carro",
+        "Un curso de un vendedor de motocicletas",
+        "El Programa estatal de Educación para Motociclistas"
+      ],
+      "h1": "Es un programa del estado para motociclistas nuevos.",
+      "h2": "En Delaware, toda persona menor de 18 años debe tomar y aprobar el Programa de Educación para Motociclistas de Delaware para obtener un endoso de motocicleta.",
+      "p": "Correcto. El Programa de Educación para Motociclistas."
+    }
+  },
+  {
+    "id": "de-192",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 63,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, what is the least liability insurance a car must have for injury or death of two or more people in one crash?",
+      "o": [
+        "$50,000",
+        "$20,000",
+        "$100,000",
+        "$300,000"
+      ],
+      "h1": "It is twice the amount for one person.",
+      "h2": "In Delaware, liability insurance must cover at least $50,000 for bodily injury or death of two or more people in one crash.",
+      "p": "Right. $50,000."
+    },
+    "es": {
+      "q": "En Delaware, ¿cuál es el seguro de responsabilidad mínimo que debe tener un carro por lesiones o muerte de dos o más personas en un choque?",
+      "o": [
+        "$50,000",
+        "$20,000",
+        "$100,000",
+        "$300,000"
+      ],
+      "h1": "Es el doble de la cantidad para una persona.",
+      "h2": "En Delaware, el seguro de responsabilidad debe cubrir al menos $50,000 por lesiones o muerte de dos o más personas en un choque.",
+      "p": "Correcto. $50,000."
+    }
+  },
+  {
+    "id": "de-193",
+    "scope": "DE",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 96,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, on which roads may people ride bicycles?",
+      "o": [
+        "Only on roads with bike lanes",
+        "On all roads except limited-access highways",
+        "Only on roads posted 25 mph or less",
+        "Only on sidewalks and bike paths"
+      ],
+      "h1": "Cyclists keep their right to use the road almost everywhere.",
+      "h2": "In Delaware, bicyclists may use all roads except limited-access highways.",
+      "p": "Right. All roads except limited-access highways."
+    },
+    "es": {
+      "q": "En Delaware, ¿por qué calles y carreteras se puede andar en bicicleta?",
+      "o": [
+        "Solo en calles con carril para bicicletas",
+        "En todas, excepto las autopistas de acceso limitado",
+        "Solo en calles con límite de 25 mph o menos",
+        "Solo en aceras y senderos para bicicletas"
+      ],
+      "h1": "Los ciclistas conservan su derecho a usar la vía casi en todas partes.",
+      "h2": "En Delaware, los ciclistas pueden usar todas las calles y carreteras, excepto las autopistas de acceso limitado.",
+      "p": "Correcto. Todas, excepto las autopistas de acceso limitado."
+    }
+  },
+  {
+    "id": "de-194",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 67,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, a 17-year-old buys a car. Who must sign the title application to give consent?",
+      "o": [
+        "No one but the 17-year-old buyer",
+        "The car dealer who sold the car",
+        "A parent, guardian, or legal custodian",
+        "A DMV road test examiner"
+      ],
+      "h1": "Someone with legal responsibility for the minor must agree.",
+      "h2": "In Delaware, if you are under 18, your title application must be signed by your father, mother, guardian, or court-appointed custodian to give consent.",
+      "p": "Right. A parent or guardian must sign."
+    },
+    "es": {
+      "q": "En Delaware, una persona de 17 años compra un carro. ¿Quién debe firmar la solicitud de título para dar su consentimiento?",
+      "o": [
+        "Nadie más que el comprador de 17 años",
+        "El vendedor de autos que vendió el carro",
+        "El padre, la madre, el tutor o el custodio legal",
+        "Un examinador de manejo del DMV"
+      ],
+      "h1": "Alguien con responsabilidad legal sobre el menor debe estar de acuerdo.",
+      "h2": "En Delaware, si usted tiene menos de 18 años, su solicitud de título debe estar firmada por su padre, su madre, su tutor o un custodio nombrado por el tribunal para dar su consentimiento.",
+      "p": "Correcto. Debe firmar el padre, la madre o el tutor."
+    }
+  },
+  {
+    "id": "de-195",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 67,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, you changed your name and need a new vehicle title and registration. What must you do first?",
+      "o": [
+        "Change your name on your driver license",
+        "Get a new license plate for the car",
+        "Have the car inspected again",
+        "Cancel and restart your car insurance"
+      ],
+      "h1": "One DMV record has to be updated before the vehicle papers.",
+      "h2": "In Delaware, the name change must be made on your driver license before it can be made on the title and registration.",
+      "p": "Right. Update your license first."
+    },
+    "es": {
+      "q": "En Delaware, usted se cambió el nombre y necesita un título y un registro nuevos para su vehículo. ¿Qué debe hacer primero?",
+      "o": [
+        "Cambiar su nombre en la licencia de conducir",
+        "Sacar una placa nueva para el carro",
+        "Volver a inspeccionar el carro",
+        "Cancelar y volver a contratar el seguro"
+      ],
+      "h1": "Un registro del DMV debe actualizarse antes que los papeles del vehículo.",
+      "h2": "En Delaware, el cambio de nombre debe hacerse en su licencia de conducir antes de hacerlo en el título y el registro.",
+      "p": "Correcto. Primero actualice su licencia."
+    }
+  },
+  {
+    "id": "de-196",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 68,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, where on the rear license plate does the expiration sticker go?",
+      "o": [
+        "The upper left corner",
+        "The center of the plate",
+        "The upper right corner",
+        "The lower right corner"
+      ],
+      "h1": "It goes at the bottom of the plate.",
+      "h2": "In Delaware, the sticker showing the month and year of expiration goes on the lower right corner of the rear plate.",
+      "p": "Right. The lower right corner."
+    },
+    "es": {
+      "q": "En Delaware, ¿en qué parte de la placa trasera va la calcomanía de vencimiento?",
+      "o": [
+        "En la esquina superior izquierda",
+        "En el centro de la placa",
+        "En la esquina superior derecha",
+        "En la esquina inferior derecha"
+      ],
+      "h1": "Va en la parte de abajo de la placa.",
+      "h2": "En Delaware, la calcomanía que muestra el mes y el año de vencimiento va en la esquina inferior derecha de la placa trasera.",
+      "p": "Correcto. La esquina inferior derecha."
+    }
+  },
+  {
+    "id": "de-197",
+    "scope": "DE",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 81,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Delaware, a teen with a Graduated Driver License (GDL) wants to talk to a friend on the phone while driving. What does the law allow?",
+      "o": [
+        "A call with a hands-free device",
+        "No phone use, not even hands-free",
+        "A short call while stopped at a red light",
+        "Texting, but not calling"
+      ],
+      "h1": "The rule for GDL drivers is stricter than for adults.",
+      "h2": "In Delaware, drivers with a Graduated Driver License may not use a cell phone or other electronic device at all while driving, even hands-free.",
+      "p": "Right. No phone use, even hands-free."
+    },
+    "es": {
+      "q": "En Delaware, un adolescente con Licencia de Conducir Gradual (GDL) quiere hablar por teléfono con un amigo mientras maneja. ¿Qué permite la ley?",
+      "o": [
+        "Una llamada con un dispositivo de manos libres",
+        "Nada de teléfono, ni siquiera con manos libres",
+        "Una llamada corta mientras espera en un semáforo en rojo",
+        "Enviar mensajes de texto, pero no llamar"
+      ],
+      "h1": "La regla para conductores con GDL es más estricta que para los adultos.",
+      "h2": "En Delaware, los conductores con Licencia de Conducir Gradual no pueden usar un teléfono celular ni otro aparato electrónico mientras manejan, ni siquiera con manos libres.",
+      "p": "Correcto. Nada de teléfono, ni con manos libres."
+    }
+  },
+  {
+    "id": "de-198",
+    "scope": "DE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 90,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Delaware, a license is suspended for 6 months for a second offense of passing a stopped school bus. When can the driver first get a conditional license?",
+      "o": [
+        "Right away",
+        "After 2 weeks",
+        "After 3 months with no driving",
+        "Only after the full 6 months"
+      ],
+      "h1": "The driver must serve part of the suspension first.",
+      "h2": "In Delaware, after a second school bus passing offense, a conditional license may be issued only after at least three months of suspension with no driving.",
+      "p": "Right. After 3 months without driving."
+    },
+    "es": {
+      "q": "En Delaware, se suspende una licencia por 6 meses por una segunda infracción de pasar un autobús escolar detenido. ¿Cuándo puede el conductor obtener por primera vez una licencia condicional?",
+      "o": [
+        "De inmediato",
+        "Después de 2 semanas",
+        "Después de 3 meses sin manejar",
+        "Solo después de los 6 meses completos"
+      ],
+      "h1": "El conductor debe cumplir primero parte de la suspensión.",
+      "h2": "En Delaware, después de una segunda infracción por pasar un autobús escolar, se puede dar una licencia condicional solo después de al menos tres meses de suspensión sin manejar.",
+      "p": "Correcto. Después de 3 meses sin manejar."
+    }
+  },
+  {
+    "id": "de-199",
+    "scope": "DE",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 94,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Delaware, you drive faster than a yellow advisory speed sign shows and then have a crash. What can happen?",
+      "o": [
+        "You can be charged with driving at an unsafe speed",
+        "Nothing, since advisory speeds are not laws",
+        "Only your insurance company is told",
+        "You only get a warning for a suggestion"
+      ],
+      "h1": "The general rule is never to drive faster than is safe for conditions.",
+      "h2": "In Delaware, an advisory speed is not a speed limit, but if you go faster than it and crash, you may be found to have broken the general speed rule and could be arrested.",
+      "p": "Right. You can be charged with unsafe speed."
+    },
+    "es": {
+      "q": "En Delaware, usted maneja más rápido de lo que indica un letrero amarillo de velocidad recomendada y luego tiene un choque. ¿Qué puede pasar?",
+      "o": [
+        "Lo pueden acusar de manejar a una velocidad insegura",
+        "Nada, porque esas velocidades no son leyes",
+        "Solo se le avisa a su compañía de seguros",
+        "Solo recibe una advertencia por una sugerencia"
+      ],
+      "h1": "La regla general es nunca manejar más rápido de lo que es seguro para las condiciones.",
+      "h2": "En Delaware, una velocidad recomendada no es un límite, pero si usted va más rápido y choca, se puede concluir que violó la regla general de velocidad y lo podrían arrestar.",
+      "p": "Correcto. Lo pueden acusar de velocidad insegura."
+    }
+  },
+  {
+    "id": "de-200",
+    "scope": "DE",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 99,
+    "src": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Delaware, a bicyclist comes to a stop sign where the cross road has three or more travel lanes. What must the cyclist do?",
+      "o": [
+        "Slow down and roll through",
+        "Ride on if no cars are close",
+        "Get off and walk the bike across",
+        "Come to a full stop"
+      ],
+      "h1": "The yield-instead-of-stop rule is only for minor roads.",
+      "h2": "In Delaware, a bicyclist must make a full stop at a stop sign where it meets a major road with three or more travel lanes.",
+      "p": "Right. A full stop."
+    },
+    "es": {
+      "q": "En Delaware, un ciclista llega a una señal de alto donde la calle que cruza tiene tres o más carriles. ¿Qué debe hacer el ciclista?",
+      "o": [
+        "Bajar la velocidad y seguir sin parar",
+        "Seguir si no hay carros cerca",
+        "Bajarse y cruzar caminando con la bicicleta",
+        "Hacer un alto completo"
+      ],
+      "h1": "La regla de ceder el paso en vez de parar es solo para calles menores.",
+      "h2": "En Delaware, un ciclista debe hacer un alto completo en una señal de alto donde se cruza con una vía principal de tres o más carriles.",
+      "p": "Correcto. Un alto completo."
+    }
   }
 ]
