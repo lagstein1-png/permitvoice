@@ -2540,5 +2540,651 @@
       "h2": "في Wyoming يجب أن تخفض أضواءك الأمامية عندما تكون على بعد 300 قدم أو أقل من مؤخرة السيارة التي تقترب منها.",
       "p": "صحيح. اخفض أضواءك عندما تكون على بعد 300 قدم من السيارة التي أمامك."
     }
+  },
+  {
+    "id": "wy-032",
+    "scope": "WY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Wyoming, a 14-year-old gets a restricted license because of a family hardship. During which hours is it valid?",
+      "o": [
+        "6 a.m. to 6 p.m.",
+        "5 a.m. to 8 p.m.",
+        "5 a.m. to 11 p.m.",
+        "At any hour"
+      ],
+      "h1": "It ends earlier in the evening than the intermediate permit's limit.",
+      "h2": "In Wyoming, a restricted hardship license for ages 14 and 15 is valid only from 5 a.m. to 8 p.m.",
+      "p": "Right. The restricted license is valid from 5 a.m. to 8 p.m."
+    },
+    "es": {
+      "q": "En Wyoming, un joven de 14 años obtiene una licencia restringida por una dificultad familiar. ¿En qué horario es válida?",
+      "o": [
+        "De 6 a.m. a 6 p.m.",
+        "De 5 a.m. a 8 p.m.",
+        "De 5 a.m. a 11 p.m.",
+        "A cualquier hora"
+      ],
+      "h1": "Termina más temprano en la noche que el límite del permiso intermedio.",
+      "h2": "En Wyoming, la licencia restringida por dificultad para jóvenes de 14 y 15 años solo es válida de 5 a.m. a 8 p.m.",
+      "p": "Correcto. La licencia restringida es válida de 5 a.m. a 8 p.m."
+    }
+  },
+  {
+    "id": "wy-033",
+    "scope": "WY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Wyoming, how far from home may a driver with a restricted hardship license (ages 14 to 15) drive?",
+      "o": [
+        "Up to 10 miles",
+        "Up to 25 miles",
+        "Up to 50 miles",
+        "Anywhere in the state"
+      ],
+      "h1": "It is a round number, more than 25.",
+      "h2": "In Wyoming, a restricted hardship license is valid only within 50 miles of the driver's home.",
+      "p": "Right. The limit is 50 miles from home."
+    },
+    "es": {
+      "q": "En Wyoming, ¿qué tan lejos de su casa puede manejar un conductor con licencia restringida por dificultad (14 a 15 años)?",
+      "o": [
+        "Hasta 10 millas",
+        "Hasta 25 millas",
+        "Hasta 50 millas",
+        "A cualquier lugar del estado"
+      ],
+      "h1": "Es un número redondo, mayor que 25.",
+      "h2": "En Wyoming, la licencia restringida por dificultad solo es válida dentro de 50 millas de la casa del conductor.",
+      "p": "Correcto. El límite es 50 millas desde la casa."
+    }
+  },
+  {
+    "id": "wy-034",
+    "scope": "WY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Wyoming, when does an intermediate license end on its own?",
+      "o": [
+        "On the 17th birthday",
+        "One year after it was issued",
+        "On the 18th birthday",
+        "30 days after the 17th birthday"
+      ],
+      "h1": "It lasts a short time past a birthday.",
+      "h2": "In Wyoming, an intermediate license expires 30 days after the holder's 17th birthday.",
+      "p": "Right. It expires 30 days after you turn 17."
+    },
+    "es": {
+      "q": "En Wyoming, ¿cuándo vence por sí sola una licencia intermedia?",
+      "o": [
+        "El día que cumple 17 años",
+        "Un año después de emitirla",
+        "El día que cumple 18 años",
+        "30 días después de cumplir 17 años"
+      ],
+      "h1": "Dura poco tiempo después de un cumpleaños.",
+      "h2": "En Wyoming, la licencia intermedia vence 30 días después de que el titular cumple 17 años.",
+      "p": "Correcto. Vence 30 días después de cumplir 17."
+    }
+  },
+  {
+    "id": "wy-035",
+    "scope": "WY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Wyoming, who must ride with you when you drive with an instruction permit?",
+      "o": [
+        "A licensed driver age 18 or older, in the front passenger seat",
+        "Any passenger age 16 or older, in any seat",
+        "A licensed driver age 25 or older, in the back seat",
+        "No one, if you drive in daylight"
+      ],
+      "h1": "This person must be an adult with a license and must sit where they can help you.",
+      "h2": "In Wyoming, a driver with an instruction permit must have a licensed driver age 18 or older in the front passenger seat.",
+      "p": "Right. A licensed driver 18 or older sits in the front passenger seat."
+    },
+    "es": {
+      "q": "En Wyoming, ¿quién debe ir con usted cuando maneja con un permiso de instrucción?",
+      "o": [
+        "Un conductor con licencia de 18 años o más, en el asiento del pasajero delantero",
+        "Cualquier pasajero de 16 años o más, en cualquier asiento",
+        "Un conductor con licencia de 25 años o más, en el asiento trasero",
+        "Nadie, si maneja de día"
+      ],
+      "h1": "Esta persona debe ser adulta, con licencia, y sentarse donde pueda ayudarle.",
+      "h2": "En Wyoming, un conductor con permiso de instrucción debe ir con un conductor con licencia de 18 años o más en el asiento del pasajero delantero.",
+      "p": "Correcto. Un conductor con licencia de 18 años o más va en el asiento delantero."
+    }
+  },
+  {
+    "id": "wy-036",
+    "scope": "WY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 24,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Wyoming, which moving violation within 12 months leads to a license suspension?",
+      "o": [
+        "The second one",
+        "The third one",
+        "The fourth one",
+        "The sixth one"
+      ],
+      "h1": "You are allowed up to three in 12 months.",
+      "h2": "In Wyoming, a fourth moving violation within 12 months leads to a 90-day license suspension.",
+      "p": "Right. The fourth moving violation in 12 months brings a suspension."
+    },
+    "es": {
+      "q": "En Wyoming, ¿cuál infracción de tránsito en movimiento dentro de 12 meses lleva a la suspensión de la licencia?",
+      "o": [
+        "La segunda",
+        "La tercera",
+        "La cuarta",
+        "La sexta"
+      ],
+      "h1": "Se permiten hasta tres en 12 meses.",
+      "h2": "En Wyoming, una cuarta infracción en movimiento dentro de 12 meses lleva a una suspensión de 90 días.",
+      "p": "Correcto. La cuarta infracción en 12 meses trae una suspensión."
+    }
+  },
+  {
+    "id": "wy-037",
+    "scope": "WY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 9,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Wyoming, you fail the driving skills test. How long must you wait before you try again?",
+      "o": [
+        "You may try again right away",
+        "24 hours",
+        "One week",
+        "30 days"
+      ],
+      "h1": "It is one full day.",
+      "h2": "In Wyoming, if you fail the driving skills test, you must wait 24 hours before you test again.",
+      "p": "Right. You wait 24 hours before the next skills test."
+    },
+    "es": {
+      "q": "En Wyoming, usted no aprueba el examen práctico de manejo. ¿Cuánto debe esperar para intentarlo de nuevo?",
+      "o": [
+        "Puede intentarlo de inmediato",
+        "24 horas",
+        "Una semana",
+        "30 días"
+      ],
+      "h1": "Es un día completo.",
+      "h2": "En Wyoming, si no aprueba el examen práctico de manejo, debe esperar 24 horas para volver a tomarlo.",
+      "p": "Correcto. Debe esperar 24 horas para el siguiente examen práctico."
+    }
+  },
+  {
+    "id": "wy-038",
+    "scope": "WY",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Wyoming, after a violation, you must file an SR-22 proof of insurance. How long must you keep it?",
+      "o": [
+        "30 days",
+        "Six months",
+        "One year",
+        "Three years"
+      ],
+      "h1": "It is longer than one year.",
+      "h2": "In Wyoming, proof of financial responsibility (an SR-22) must be kept for three years from the date it is required.",
+      "p": "Right. You keep the SR-22 for three years."
+    },
+    "es": {
+      "q": "En Wyoming, después de una infracción, usted debe presentar un comprobante de seguro SR-22. ¿Por cuánto tiempo debe mantenerlo?",
+      "o": [
+        "30 días",
+        "Seis meses",
+        "Un año",
+        "Tres años"
+      ],
+      "h1": "Es más de un año.",
+      "h2": "En Wyoming, el comprobante de responsabilidad financiera (SR-22) se debe mantener por tres años desde la fecha en que se exige.",
+      "p": "Correcto. Se mantiene el SR-22 por tres años."
+    }
+  },
+  {
+    "id": "wy-039",
+    "scope": "WY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Wyoming, a driver is convicted of a first DWUI. The blood alcohol level at arrest was .15 percent or more. How long must the driver hold an ignition interlock license?",
+      "o": [
+        "30 days",
+        "6 months",
+        "2 years",
+        "For life"
+      ],
+      "h1": "It is half a year.",
+      "h2": "In Wyoming, a first DWUI with a blood alcohol level of .15 percent or more means holding an ignition interlock license for 6 months.",
+      "p": "Right. Six months with an ignition interlock license."
+    },
+    "es": {
+      "q": "En Wyoming, un conductor es condenado por un primer DWUI. Su nivel de alcohol en la sangre al ser arrestado era de .15 por ciento o más. ¿Por cuánto tiempo debe tener una licencia con dispositivo de bloqueo de encendido (ignition interlock)?",
+      "o": [
+        "30 días",
+        "6 meses",
+        "2 años",
+        "De por vida"
+      ],
+      "h1": "Es medio año.",
+      "h2": "En Wyoming, un primer DWUI con un nivel de alcohol de .15 por ciento o más exige tener una licencia con bloqueo de encendido por 6 meses.",
+      "p": "Correcto. Seis meses con licencia de bloqueo de encendido."
+    }
+  },
+  {
+    "id": "wy-040",
+    "scope": "WY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Wyoming, a driver is convicted of a second DWUI within 10 years. How long is the license suspended?",
+      "o": [
+        "90 days",
+        "Six months",
+        "One year",
+        "Five years"
+      ],
+      "h1": "It is longer than the 90 days for a first offense.",
+      "h2": "In Wyoming, a second DWUI within 10 years brings a one-year license suspension.",
+      "p": "Right. A second DWUI means a one-year suspension."
+    },
+    "es": {
+      "q": "En Wyoming, un conductor es condenado por un segundo DWUI dentro de 10 años. ¿Por cuánto tiempo se suspende la licencia?",
+      "o": [
+        "90 días",
+        "Seis meses",
+        "Un año",
+        "Cinco años"
+      ],
+      "h1": "Es más que los 90 días de la primera vez.",
+      "h2": "En Wyoming, un segundo DWUI dentro de 10 años trae una suspensión de la licencia por un año.",
+      "p": "Correcto. Un segundo DWUI significa un año de suspensión."
+    }
+  },
+  {
+    "id": "wy-041",
+    "scope": "WY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 21,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Wyoming, a driver is convicted of a third DWUI within 10 years. What happens to the license?",
+      "o": [
+        "It is revoked for three years",
+        "It is suspended for 90 days",
+        "It is suspended for six months",
+        "Nothing, if the driver pays a fine"
+      ],
+      "h1": "A third offense is much more serious than the first two.",
+      "h2": "In Wyoming, a third DWUI within 10 years leads to a three-year revocation of the license.",
+      "p": "Right. A third DWUI means a three-year revocation."
+    },
+    "es": {
+      "q": "En Wyoming, un conductor es condenado por un tercer DWUI dentro de 10 años. ¿Qué pasa con la licencia?",
+      "o": [
+        "Se revoca por tres años",
+        "Se suspende por 90 días",
+        "Se suspende por seis meses",
+        "Nada, si el conductor paga una multa"
+      ],
+      "h1": "Una tercera vez es mucho más grave que las dos primeras.",
+      "h2": "En Wyoming, un tercer DWUI dentro de 10 años lleva a la revocación de la licencia por tres años.",
+      "p": "Correcto. Un tercer DWUI significa tres años de revocación."
+    }
+  },
+  {
+    "id": "wy-042",
+    "scope": "WY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 30,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Wyoming, a child under 9 rides in a child safety seat in a car that has a back seat. Where must the child ride?",
+      "o": [
+        "In the front seat, so the driver can watch",
+        "In a back seat",
+        "In any seat that has an airbag",
+        "In the front seat if the child weighs over 40 pounds"
+      ],
+      "h1": "Think about airbags and the safest place for a child.",
+      "h2": "In Wyoming, a child under 9 must ride in a seat other than the front seat, unless the car has only one row or all other belts are used by children.",
+      "p": "Right. The child rides in a back seat."
+    },
+    "es": {
+      "q": "En Wyoming, un niño menor de 9 años viaja en un asiento de seguridad en un auto que tiene asiento trasero. ¿Dónde debe ir el niño?",
+      "o": [
+        "En el asiento delantero, para que el conductor lo vea",
+        "En un asiento trasero",
+        "En cualquier asiento que tenga bolsa de aire",
+        "En el asiento delantero si el niño pesa más de 40 libras"
+      ],
+      "h1": "Piense en las bolsas de aire y en el lugar más seguro para un niño.",
+      "h2": "En Wyoming, un niño menor de 9 años debe ir en un asiento que no sea el delantero, salvo que el auto tenga una sola fila o todos los demás cinturones los usen otros niños.",
+      "p": "Correcto. El niño va en un asiento trasero."
+    }
+  },
+  {
+    "id": "wy-043",
+    "scope": "WY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 71,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Wyoming, a vehicle ahead has a slow-moving vehicle sign on the back. How fast can that vehicle go at most?",
+      "o": [
+        "45 mph",
+        "35 mph",
+        "15 mph",
+        "25 mph"
+      ],
+      "h1": "It is slower than most town speed limits.",
+      "h2": "In Wyoming, the slow-moving vehicle sign means the vehicle cannot go faster than 25 mph.",
+      "p": "Right. That vehicle cannot go faster than 25 mph."
+    },
+    "es": {
+      "q": "En Wyoming, un vehículo adelante tiene en la parte trasera la señal de vehículo lento. ¿Qué tan rápido puede ir ese vehículo como máximo?",
+      "o": [
+        "45 mph",
+        "35 mph",
+        "15 mph",
+        "25 mph"
+      ],
+      "h1": "Es más lento que la mayoría de los límites de velocidad en la ciudad.",
+      "h2": "En Wyoming, la señal de vehículo lento significa que el vehículo no puede ir a más de 25 mph.",
+      "p": "Correcto. Ese vehículo no puede ir a más de 25 mph."
+    }
+  },
+  {
+    "id": "wy-044",
+    "scope": "WY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 80,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Wyoming, you are stranded on the road in a blizzard. What should you do?",
+      "o": [
+        "Stay with your car so you can be found more easily",
+        "Walk to the nearest town for help",
+        "Run the engine all the time with the windows shut",
+        "Let everyone in the car sleep at the same time"
+      ],
+      "h1": "Rescuers look for cars, not people walking in the snow.",
+      "h2": "In Wyoming, if you are stranded in a blizzard, stay with your car so rescuers can find you more easily.",
+      "p": "Right. Stay with your car."
+    },
+    "es": {
+      "q": "En Wyoming, usted queda atrapado en la carretera durante una ventisca. ¿Qué debe hacer?",
+      "o": [
+        "Quedarse con su auto para que lo encuentren más fácilmente",
+        "Caminar al pueblo más cercano para pedir ayuda",
+        "Dejar el motor encendido todo el tiempo con las ventanas cerradas",
+        "Dejar que todos en el auto duerman al mismo tiempo"
+      ],
+      "h1": "Los rescatistas buscan autos, no personas caminando en la nieve.",
+      "h2": "En Wyoming, si queda atrapado en una ventisca, quédese con su auto para que los rescatistas lo encuentren más fácilmente.",
+      "p": "Correcto. Quédese con su auto."
+    }
+  },
+  {
+    "id": "wy-045",
+    "scope": "WY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 77,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Wyoming, when must your headlights be on?",
+      "o": [
+        "Only from sunset to sunrise",
+        "Only when the street lights are on",
+        "From half an hour after sunset to half an hour before sunrise",
+        "From one hour after sunset to one hour before sunrise"
+      ],
+      "h1": "The rule adds a short time around sunset and sunrise.",
+      "h2": "In Wyoming, headlights must be on from half an hour after sunset to half an hour before sunrise, and whenever you cannot see clearly 1,000 feet ahead.",
+      "p": "Right. From half an hour after sunset to half an hour before sunrise."
+    },
+    "es": {
+      "q": "En Wyoming, ¿cuándo deben estar encendidas sus luces delanteras?",
+      "o": [
+        "Solo desde la puesta del sol hasta la salida del sol",
+        "Solo cuando las luces de la calle están encendidas",
+        "Desde media hora después de la puesta del sol hasta media hora antes de la salida del sol",
+        "Desde una hora después de la puesta del sol hasta una hora antes de la salida del sol"
+      ],
+      "h1": "La regla agrega un poco de tiempo alrededor de la puesta y la salida del sol.",
+      "h2": "En Wyoming, las luces delanteras deben estar encendidas desde media hora después de la puesta del sol hasta media hora antes de la salida del sol, y siempre que no pueda ver bien a 1,000 pies.",
+      "p": "Correcto. Desde media hora después de la puesta del sol hasta media hora antes de la salida."
+    }
+  },
+  {
+    "id": "wy-046",
+    "scope": "WY",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 54,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Wyoming, you are passing a vehicle that is going slower than the speed limit. How much over the limit may you go while passing?",
+      "o": [
+        "Not at all",
+        "Up to 5 mph",
+        "Up to 20 mph",
+        "Up to 10 mph"
+      ],
+      "h1": "It is a small amount, and only while you pass.",
+      "h2": "In Wyoming, while passing a vehicle that is going slower than the limit, you may go up to 10 mph over the speed limit.",
+      "p": "Right. Up to 10 mph over the limit while passing."
+    },
+    "es": {
+      "q": "En Wyoming, usted rebasa a un vehículo que va más lento que el límite de velocidad. ¿Cuánto puede pasar del límite mientras rebasa?",
+      "o": [
+        "Nada",
+        "Hasta 5 mph",
+        "Hasta 20 mph",
+        "Hasta 10 mph"
+      ],
+      "h1": "Es poco, y solo mientras rebasa.",
+      "h2": "En Wyoming, al rebasar a un vehículo que va más lento que el límite, usted puede ir hasta 10 mph por encima del límite de velocidad.",
+      "p": "Correcto. Hasta 10 mph sobre el límite mientras rebasa."
+    }
+  },
+  {
+    "id": "wy-047",
+    "scope": "WY",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Wyoming, trees and buildings block your view at an intersection. How fast should you go as you come near it?",
+      "o": [
+        "No more than 10 mph",
+        "No more than 15 mph",
+        "No more than 25 mph",
+        "The posted speed limit"
+      ],
+      "h1": "It is slower than a school zone.",
+      "h2": "In Wyoming, you should come near a blind intersection at no more than 15 mph.",
+      "p": "Right. No more than 15 mph at a blind intersection."
+    },
+    "es": {
+      "q": "En Wyoming, árboles y edificios le tapan la vista en una intersección. ¿A qué velocidad debe acercarse a ella?",
+      "o": [
+        "A no más de 10 mph",
+        "A no más de 15 mph",
+        "A no más de 25 mph",
+        "Al límite de velocidad indicado"
+      ],
+      "h1": "Es más lento que en una zona escolar.",
+      "h2": "En Wyoming, usted debe acercarse a una intersección sin visibilidad a no más de 15 mph.",
+      "p": "Correcto. A no más de 15 mph en una intersección sin visibilidad."
+    }
+  },
+  {
+    "id": "wy-048",
+    "scope": "WY",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Wyoming, the road is covered with packed snow. How much should you slow down?",
+      "o": [
+        "By at least half",
+        "By 5 mph",
+        "By 10 mph",
+        "Not at all if you have four-wheel drive"
+      ],
+      "h1": "It is a big cut, much more than on a wet road.",
+      "h2": "In Wyoming, on packed snow you should cut your speed by at least half.",
+      "p": "Right. Slow down by at least half on packed snow."
+    },
+    "es": {
+      "q": "En Wyoming, la carretera está cubierta de nieve compacta. ¿Cuánto debe reducir la velocidad?",
+      "o": [
+        "Por lo menos a la mitad",
+        "5 mph",
+        "10 mph",
+        "Nada, si tiene tracción en las cuatro ruedas"
+      ],
+      "h1": "Es una reducción grande, mucho más que en una carretera mojada.",
+      "h2": "En Wyoming, sobre nieve compacta usted debe reducir su velocidad por lo menos a la mitad.",
+      "p": "Correcto. Reduzca la velocidad por lo menos a la mitad sobre nieve compacta."
+    }
+  },
+  {
+    "id": "wy-049",
+    "scope": "WY",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 79,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Wyoming, ice covers the road. How many seconds behind the vehicle ahead should a car stay?",
+      "o": [
+        "2 seconds",
+        "4 seconds",
+        "6 seconds",
+        "8 seconds"
+      ],
+      "h1": "Take the normal following time and multiply it by four.",
+      "h2": "In Wyoming, on ice a car should stay about 8 seconds behind the vehicle ahead, four times the normal following time.",
+      "p": "Right. About 8 seconds on ice."
+    },
+    "es": {
+      "q": "En Wyoming, hay hielo en la carretera. ¿Cuántos segundos detrás del vehículo de adelante debe mantenerse un auto?",
+      "o": [
+        "2 segundos",
+        "4 segundos",
+        "6 segundos",
+        "8 segundos"
+      ],
+      "h1": "Tome el tiempo normal de distancia y multiplíquelo por cuatro.",
+      "h2": "En Wyoming, sobre hielo un auto debe mantenerse unos 8 segundos detrás del vehículo de adelante, cuatro veces la distancia normal.",
+      "p": "Correcto. Unos 8 segundos sobre hielo."
+    }
+  },
+  {
+    "id": "wy-050",
+    "scope": "WY",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 42,
+    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Wyoming, at an intersection with no signs or signals, you arrive first. A car is coming from your right. Who must yield?",
+      "o": [
+        "The other car, because you arrived first",
+        "Whoever is going faster",
+        "You must yield to the car on your right",
+        "Neither car; both may go slowly"
+      ],
+      "h1": "At these intersections, arriving first does not decide it.",
+      "h2": "In Wyoming, at an intersection with no signs or signals, you must yield to a driver coming from your right, even if you got there first.",
+      "p": "Right. You yield to the car on your right."
+    },
+    "es": {
+      "q": "En Wyoming, en una intersección sin señales ni semáforos, usted llega primero. Un auto viene por su derecha. ¿Quién debe ceder el paso?",
+      "o": [
+        "El otro auto, porque usted llegó primero",
+        "El que vaya más rápido",
+        "Usted debe ceder el paso al auto de su derecha",
+        "Ninguno; los dos pueden pasar despacio"
+      ],
+      "h1": "En estas intersecciones, llegar primero no es lo que decide.",
+      "h2": "En Wyoming, en una intersección sin señales ni semáforos, usted debe ceder el paso al conductor que viene por su derecha, aunque usted haya llegado primero.",
+      "p": "Correcto. Usted cede el paso al auto de su derecha."
+    }
   }
 ]
