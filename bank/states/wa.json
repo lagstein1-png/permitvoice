@@ -1884,5 +1884,141 @@
       "h2": "في Washington، بعد التوقف وإعطاء الأولوية، يجوز لك الانعطاف يسارًا والإشارة حمراء من شارع باتجاه واحد أو باتجاهين إلى شارع باتجاه واحد يسير نحو اليسار، إلا إذا منعته لافتة.",
       "p": "صحيح. فقط إلى شارع باتجاه واحد."
     }
+  },
+  {
+    "id": "wa-024",
+    "scope": "WA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "§2.3",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Washington, what is the minimum liability insurance you must have?",
+      "o": [
+        "$15,000 / $30,000 / $5,000",
+        "$50,000 / $100,000 / $25,000",
+        "$25,000 / $50,000 / $10,000",
+        "$10,000 / $20,000 / $10,000"
+      ],
+      "h1": "Injury to one person is covered for twenty-five thousand dollars.",
+      "h2": "In Washington, the minimum is $25,000 for one person hurt or killed, $50,000 for two or more people, and $10,000 for damage to property.",
+      "p": "Right. Washington requires at least $25,000, $50,000 and $10,000 of coverage."
+    },
+    "es": {
+      "q": "En Washington, ¿cuál es el seguro de responsabilidad civil mínimo que debe tener?",
+      "o": [
+        "$15,000 / $30,000 / $5,000",
+        "$50,000 / $100,000 / $25,000",
+        "$25,000 / $50,000 / $10,000",
+        "$10,000 / $20,000 / $10,000"
+      ],
+      "h1": "Las lesiones de una persona están cubiertas por veinticinco mil dólares.",
+      "h2": "En Washington, el mínimo es $25,000 por una persona herida o muerta, $50,000 por dos o más personas y $10,000 por daños a la propiedad.",
+      "p": "Correcto. Washington exige al menos $25,000, $50,000 y $10,000 de cobertura."
+    }
+  },
+  {
+    "id": "wa-025",
+    "scope": "WA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "§1.15",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Washington, a driver 21 or older is considered under the influence of cannabis at what level of active THC in the blood?",
+      "o": [
+        "5 nanograms per milliliter or more",
+        "Any amount above zero",
+        "20 nanograms per milliliter or more",
+        "There is no THC limit"
+      ],
+      "h1": "The number is the same as the fingers on one hand.",
+      "h2": "In Washington, a driver 21 or older with 5 nanograms or more of active THC per milliliter of blood is considered to be driving under the influence.",
+      "p": "Right. For adults, the THC limit is 5 nanograms per milliliter."
+    },
+    "es": {
+      "q": "En Washington, ¿con qué nivel de THC activo en la sangre se considera que un conductor de 21 años o más maneja bajo la influencia del cannabis?",
+      "o": [
+        "5 nanogramos por mililitro o más",
+        "Cualquier cantidad mayor que cero",
+        "20 nanogramos por mililitro o más",
+        "No hay límite de THC"
+      ],
+      "h1": "El número es igual a los dedos de una mano.",
+      "h2": "En Washington, un conductor de 21 años o más con 5 nanogramos o más de THC activo por mililitro de sangre se considera que maneja bajo la influencia.",
+      "p": "Correcto. Para los adultos, el límite de THC es de 5 nanogramos por mililitro."
+    }
+  },
+  {
+    "id": "wa-026",
+    "scope": "WA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "§2.6",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Washington, until what age must a child ride in a rear-facing car seat?",
+      "o": [
+        "Until age 1",
+        "Until age 2",
+        "Until age 4",
+        "Until age 6"
+      ],
+      "h1": "It is later than a baby's first birthday.",
+      "h2": "In Washington, children must ride in a rear-facing car seat until they are 2 years old.",
+      "p": "Right. Children ride rear-facing until age 2."
+    },
+    "es": {
+      "q": "En Washington, ¿hasta qué edad debe un niño viajar en un asiento de seguridad orientado hacia atrás?",
+      "o": [
+        "Hasta 1 año",
+        "Hasta 2 años",
+        "Hasta 4 años",
+        "Hasta 6 años"
+      ],
+      "h1": "Es después del primer cumpleaños del bebé.",
+      "h2": "En Washington, los niños deben viajar en un asiento de seguridad orientado hacia atrás hasta que cumplan 2 años.",
+      "p": "Correcto. Los niños viajan mirando hacia atrás hasta los 2 años."
+    }
+  },
+  {
+    "id": "wa-027",
+    "scope": "WA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "§5.9",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Washington, if no police officer files a report after your crash, within how many days must you file a collision report?",
+      "o": [
+        "1 day",
+        "10 days",
+        "30 days",
+        "4 days"
+      ],
+      "h1": "It is less than one week.",
+      "h2": "In Washington, if a police officer does not file a report, you must file a collision report within 4 days of the crash.",
+      "p": "Right. You have 4 days to file the collision report."
+    },
+    "es": {
+      "q": "En Washington, si ningún policía hace un informe después de su choque, ¿en cuántos días debe usted presentar un informe de colisión?",
+      "o": [
+        "1 día",
+        "10 días",
+        "30 días",
+        "4 días"
+      ],
+      "h1": "Es menos de una semana.",
+      "h2": "En Washington, si un policía no hace el informe, usted debe presentar un informe de colisión dentro de los 4 días después del choque.",
+      "p": "Correcto. Tiene 4 días para presentar el informe de colisión."
+    }
   }
 ]
