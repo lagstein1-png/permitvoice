@@ -2130,5 +2130,175 @@
       "h2": "في Maine السائق الذي يُدان بتجاوز حافلة مدرسية متوقفة وأضواؤها الحمراء تومض يمكن أن تُوقف رخصته 30 يومًا.",
       "p": "صحيح. يمكن أن يكون الإيقاف 30 يومًا."
     }
+  },
+  {
+    "id": "me-027",
+    "scope": "ME",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "7-8",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maine, how much space must you leave between your car and a bicycle when you pass it?",
+      "o": [
+        "1 foot",
+        "2 feet",
+        "3 feet",
+        "6 feet"
+      ],
+      "h1": "Think of about one long step.",
+      "h2": "In Maine, you must leave at least 3 feet between the right side of your car and the bicycle when you pass it.",
+      "p": "Right. Leave at least 3 feet."
+    },
+    "es": {
+      "q": "En Maine, ¿cuánto espacio debe dejar entre su carro y una bicicleta al pasarla?",
+      "o": [
+        "1 pie",
+        "2 pies",
+        "3 pies",
+        "6 pies"
+      ],
+      "h1": "Piense en un paso largo.",
+      "h2": "En Maine, usted debe dejar por lo menos 3 pies entre el lado derecho de su carro y la bicicleta al pasarla.",
+      "p": "Correcto. Deje por lo menos 3 pies."
+    }
+  },
+  {
+    "id": "me-028",
+    "scope": "ME",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-6",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Maine, a driver under 65 gets a new picture license. Until when is it valid?",
+      "o": [
+        "Until the sixth birthday after it is issued",
+        "Until the second birthday after it is issued",
+        "Until the tenth birthday after it is issued",
+        "Until the end of the same year"
+      ],
+      "h1": "It lasts several years, but less than ten.",
+      "h2": "In Maine, a picture license for a driver under 65 is valid until the sixth birthday after the date it is issued.",
+      "p": "Right. It lasts until the sixth birthday after it is issued."
+    },
+    "es": {
+      "q": "En Maine, un conductor menor de 65 años recibe una licencia nueva con foto. ¿Hasta cuándo es válida?",
+      "o": [
+        "Hasta el sexto cumpleaños después de emitirla",
+        "Hasta el segundo cumpleaños después de emitirla",
+        "Hasta el décimo cumpleaños después de emitirla",
+        "Hasta el final del mismo año"
+      ],
+      "h1": "Dura varios años, pero menos de diez.",
+      "h2": "En Maine, la licencia con foto de un conductor menor de 65 años es válida hasta el sexto cumpleaños después de la fecha en que se emite.",
+      "p": "Correcto. Dura hasta el sexto cumpleaños después de emitirla."
+    }
+  },
+  {
+    "id": "me-029",
+    "scope": "ME",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": "6-12",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Maine, a person with a white cane or a guide dog is in the road. How far away must you stop?",
+      "o": [
+        "At least 2 feet",
+        "At least 5 feet",
+        "At least 50 feet",
+        "At least 10 feet"
+      ],
+      "h1": "It is about the length of two adult people lying down.",
+      "h2": "In Maine, you must stop at least 10 feet away from a person with a white cane or guide dog and wait until the person is safe.",
+      "p": "Right. Stop at least 10 feet away and wait."
+    },
+    "es": {
+      "q": "En Maine, una persona con bastón blanco o perro guía está en la calle. ¿A qué distancia debe detenerse usted?",
+      "o": [
+        "Por lo menos a 2 pies",
+        "Por lo menos a 5 pies",
+        "Por lo menos a 50 pies",
+        "Por lo menos a 10 pies"
+      ],
+      "h1": "Es como el largo de dos adultos acostados.",
+      "h2": "En Maine, usted debe detenerse por lo menos a 10 pies de una persona con bastón blanco o perro guía y esperar hasta que esté a salvo.",
+      "p": "Correcto. Deténgase por lo menos a 10 pies y espere."
+    }
+  },
+  {
+    "id": "me-030",
+    "scope": "ME",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "3-13",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Maine, a passenger in the front seat opens a can of beer while you drive on a public road. What is true?",
+      "o": [
+        "It is legal because the driver is not drinking",
+        "It breaks the law for the driver",
+        "It is legal if the passenger is 21 or older",
+        "It is only illegal at night"
+      ],
+      "h1": "The open container law covers the whole passenger area.",
+      "h2": "In Maine, the driver breaks the law if the driver or a passenger drinks alcohol or has an open alcohol container in the passenger area.",
+      "p": "Right. An open container in the passenger area breaks the law."
+    },
+    "es": {
+      "q": "En Maine, un pasajero en el asiento delantero abre una lata de cerveza mientras usted maneja en una vía pública. ¿Qué es cierto?",
+      "o": [
+        "Es legal porque el conductor no está tomando",
+        "El conductor está violando la ley",
+        "Es legal si el pasajero tiene 21 años o más",
+        "Solo es ilegal de noche"
+      ],
+      "h1": "La ley de envases abiertos cubre toda el área de pasajeros.",
+      "h2": "En Maine, el conductor viola la ley si él o un pasajero toma alcohol o tiene un envase abierto de alcohol en el área de pasajeros.",
+      "p": "Correcto. Un envase abierto en el área de pasajeros viola la ley."
+    }
+  },
+  {
+    "id": "me-031",
+    "scope": "ME",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "7-10",
+    "src": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Driver%20License%20Manual_2.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maine, what is the lowest fine for parking in the striped access aisle next to a disability parking space?",
+      "o": [
+        "$25",
+        "$50",
+        "$200",
+        "$75"
+      ],
+      "h1": "It is more than $100.",
+      "h2": "In Maine, parking in the access aisle next to a disability parking space is a traffic infraction with a fine of at least $200.",
+      "p": "Right. The fine is at least $200."
+    },
+    "es": {
+      "q": "En Maine, ¿cuál es la multa más baja por estacionarse en el pasillo de acceso con rayas junto a un espacio para personas con discapacidad?",
+      "o": [
+        "$25",
+        "$50",
+        "$200",
+        "$75"
+      ],
+      "h1": "Es más de $100.",
+      "h2": "En Maine, estacionarse en el pasillo de acceso junto a un espacio para personas con discapacidad es una infracción de tránsito con una multa de por lo menos $200.",
+      "p": "Correcto. La multa es de por lo menos $200."
+    }
   }
 ]
