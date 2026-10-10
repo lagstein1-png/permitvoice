@@ -2540,5 +2540,685 @@
       "h2": "في Missouri، على طريق سريع فيه مساران أو أكثر في كل اتجاه، تبقى على اليمين وتستخدم المسار الأيسر لتجاوز السيارات الأبطأ؛ والسببان الآخران الوحيدان لترك المسار الأيمن هما إفساح المجال لسائق يدخل الطريق أو الاستعداد لانعطاف قانوني إلى اليسار.",
       "p": "صحيح. استخدم المسار الأيسر للتجاوز، ثم عُد إلى اليمين."
     }
+  },
+  {
+    "id": "mo-032",
+    "scope": "MO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Missouri, a regular driver license can be valid for up to how many years?",
+      "o": [
+        "2 years",
+        "4 years",
+        "6 years",
+        "10 years"
+      ],
+      "h1": "It is the longest period the guide gives for one license.",
+      "h2": "A Missouri driver license can be valid for up to six years.",
+      "p": "Right. A Missouri license can last up to six years."
+    },
+    "es": {
+      "q": "En Missouri, ¿por cuántos años como máximo puede ser válida una licencia de conducir normal?",
+      "o": [
+        "2 años",
+        "4 años",
+        "6 años",
+        "10 años"
+      ],
+      "h1": "Es el período más largo que da la guía para una licencia.",
+      "h2": "Una licencia de conducir de Missouri puede ser válida hasta por seis años.",
+      "p": "Correcto. Una licencia de Missouri puede durar hasta seis años."
+    }
+  },
+  {
+    "id": "mo-033",
+    "scope": "MO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Missouri, what is the standard minimum vision for a driver license?",
+      "o": [
+        "20/40 with one or both eyes",
+        "20/20 in each eye",
+        "20/100 with both eyes",
+        "20/200 with glasses"
+      ],
+      "h1": "Many drivers pass it with or without glasses.",
+      "h2": "Missouri's standard is at least 20/40 vision with either eye or both eyes.",
+      "p": "Right. The standard is 20/40 with one or both eyes."
+    },
+    "es": {
+      "q": "En Missouri, ¿cuál es la visión mínima normal para obtener una licencia de conducir?",
+      "o": [
+        "20/40 con uno o ambos ojos",
+        "20/20 en cada ojo",
+        "20/100 con ambos ojos",
+        "20/200 con lentes"
+      ],
+      "h1": "Muchos conductores la pasan con o sin lentes.",
+      "h2": "La norma de Missouri es una visión de al menos 20/40 con un ojo o con ambos.",
+      "p": "Correcto. La norma es 20/40 con uno o ambos ojos."
+    }
+  },
+  {
+    "id": "mo-034",
+    "scope": "MO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 21,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Missouri, during the driving test the examiner takes off points for mistakes. You fail if you lose more than how many points?",
+      "o": [
+        "10 points",
+        "20 points",
+        "50 points",
+        "30 points"
+      ],
+      "h1": "It is a round number between 20 and 50.",
+      "h2": "You fail the Missouri driving test if you lose more than 30 points.",
+      "p": "Right. Losing more than 30 points means you fail."
+    },
+    "es": {
+      "q": "En Missouri, durante el examen de manejo el examinador le resta puntos por cada error. Usted reprueba si pierde más de cierta cantidad de puntos. ¿Cuál es esa cantidad?",
+      "o": [
+        "10 puntos",
+        "20 puntos",
+        "50 puntos",
+        "30 puntos"
+      ],
+      "h1": "Es un número redondo entre 20 y 50.",
+      "h2": "Usted reprueba el examen de manejo de Missouri si pierde más de 30 puntos.",
+      "p": "Correcto. Si pierde más de 30 puntos, reprueba."
+    }
+  },
+  {
+    "id": "mo-035",
+    "scope": "MO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 73,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Missouri, what happens if you get 12 or more points on your record within 12 months?",
+      "o": [
+        "You get only a warning letter",
+        "Your license is revoked for one year",
+        "Your license is suspended for 30 days",
+        "Nothing happens until you reach 24 points"
+      ],
+      "h1": "This is more serious than the result for 8 points.",
+      "h2": "Getting 12 or more points within 12 months means your Missouri license is revoked for one year.",
+      "p": "Right. 12 points in 12 months means a one-year revocation."
+    },
+    "es": {
+      "q": "En Missouri, ¿qué pasa si acumula 12 puntos o más en su historial dentro de 12 meses?",
+      "o": [
+        "Solo recibe una carta de aviso",
+        "Le revocan la licencia por un año",
+        "Le suspenden la licencia por 30 días",
+        "No pasa nada hasta llegar a 24 puntos"
+      ],
+      "h1": "Es más grave que lo que pasa con 8 puntos.",
+      "h2": "Si acumula 12 puntos o más dentro de 12 meses, le revocan la licencia de Missouri por un año.",
+      "p": "Correcto. 12 puntos en 12 meses significan una revocación de un año."
+    }
+  },
+  {
+    "id": "mo-036",
+    "scope": "MO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 67,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Missouri, an officer finds your blood alcohol is 0.08% or more, takes your license and gives you a notice. When does the suspension or revocation start?",
+      "o": [
+        "After 15 days",
+        "The next morning",
+        "After 6 months",
+        "Only after a jury trial"
+      ],
+      "h1": "The notice can include a short temporary driving permit.",
+      "h2": "The suspension or revocation starts 15 days after the officer gives you the notice.",
+      "p": "Right. You lose the right to drive after 15 days."
+    },
+    "es": {
+      "q": "En Missouri, un oficial encuentra que su nivel de alcohol en la sangre es de 0.08% o más, le quita la licencia y le da un aviso. ¿Cuándo empieza la suspensión o revocación?",
+      "o": [
+        "Después de 15 días",
+        "A la mañana siguiente",
+        "Después de 6 meses",
+        "Solo después de un juicio con jurado"
+      ],
+      "h1": "El aviso puede incluir un permiso temporal corto para manejar.",
+      "h2": "La suspensión o revocación empieza 15 días después de que el oficial le da el aviso.",
+      "p": "Correcto. Pierde el derecho a manejar después de 15 días."
+    }
+  },
+  {
+    "id": "mo-037",
+    "scope": "MO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 69,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Missouri, under the Abuse and Lose law, a driver under 21 is found guilty of an alcohol-related traffic offense. How long can the license be taken away?",
+      "o": [
+        "10 days",
+        "2 years",
+        "5 years",
+        "90 days"
+      ],
+      "h1": "It is about three months.",
+      "h2": "Under Missouri's Abuse and Lose law, a driver under 21 can lose the license for 90 days.",
+      "p": "Right. Abuse and Lose means 90 days without a license."
+    },
+    "es": {
+      "q": "En Missouri, según la ley Abuse and Lose, un conductor menor de 21 años es declarado culpable de una infracción de tránsito relacionada con alcohol. ¿Por cuánto tiempo le pueden quitar la licencia?",
+      "o": [
+        "10 días",
+        "2 años",
+        "5 años",
+        "90 días"
+      ],
+      "h1": "Son unos tres meses.",
+      "h2": "Según la ley Abuse and Lose de Missouri, un conductor menor de 21 años puede perder la licencia por 90 días.",
+      "p": "Correcto. Abuse and Lose significa 90 días sin licencia."
+    }
+  },
+  {
+    "id": "mo-038",
+    "scope": "MO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 82,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Missouri, you must report a crash to the Driver License Bureau when someone had no insurance and property damage is more than what amount?",
+      "o": [
+        "$250",
+        "$500",
+        "$1,000",
+        "$2,500"
+      ],
+      "h1": "It is less than one thousand dollars.",
+      "h2": "You must report the crash when someone was uninsured and property damage is more than $500, or someone was hurt or killed.",
+      "p": "Right. The line is more than $500 in damage."
+    },
+    "es": {
+      "q": "En Missouri, debe reportar un choque a la Oficina de Licencias de Conducir cuando alguien no tenía seguro y los daños a la propiedad pasan de cierta cantidad. ¿Cuál es esa cantidad?",
+      "o": [
+        "$250",
+        "$500",
+        "$1,000",
+        "$2,500"
+      ],
+      "h1": "Es menos de mil dólares.",
+      "h2": "Debe reportar el choque cuando alguien no tenía seguro y los daños a la propiedad pasan de $500, o cuando alguien resultó herido o muerto.",
+      "p": "Correcto. El límite es más de $500 en daños."
+    }
+  },
+  {
+    "id": "mo-039",
+    "scope": "MO",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 50,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Missouri, what is the lowest speed you may drive on an interstate highway in normal conditions?",
+      "o": [
+        "30 mph",
+        "45 mph",
+        "40 mph",
+        "55 mph"
+      ],
+      "h1": "It is well below the maximum speed limit.",
+      "h2": "In normal conditions you may not drive slower than 40 mph on a Missouri interstate.",
+      "p": "Right. The minimum on interstates is 40 mph."
+    },
+    "es": {
+      "q": "En Missouri, ¿cuál es la velocidad más baja a la que puede manejar en una autopista interestatal en condiciones normales?",
+      "o": [
+        "30 mph",
+        "45 mph",
+        "40 mph",
+        "55 mph"
+      ],
+      "h1": "Está muy por debajo del límite máximo.",
+      "h2": "En condiciones normales no puede manejar a menos de 40 mph en una interestatal de Missouri.",
+      "p": "Correcto. La mínima en las interestatales es 40 mph."
+    }
+  },
+  {
+    "id": "mo-040",
+    "scope": "MO",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 50,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Missouri, what is the speed limit in a city, town or village when no other limit is posted?",
+      "o": [
+        "25 mph",
+        "20 mph",
+        "30 mph",
+        "35 mph"
+      ],
+      "h1": "It is the same number many states use for neighborhoods.",
+      "h2": "The speed limit in any Missouri city, town or village is 25 mph unless a sign shows a different limit.",
+      "p": "Right. Unless posted otherwise, it is 25 mph in town."
+    },
+    "es": {
+      "q": "En Missouri, ¿cuál es el límite de velocidad en una ciudad, pueblo o aldea cuando no hay otro límite señalado?",
+      "o": [
+        "25 mph",
+        "20 mph",
+        "30 mph",
+        "35 mph"
+      ],
+      "h1": "Es el mismo número que muchos estados usan en los vecindarios.",
+      "h2": "El límite de velocidad en cualquier ciudad, pueblo o aldea de Missouri es 25 mph, a menos que un letrero indique otro.",
+      "p": "Correcto. Si no hay otro letrero, es 25 mph en la ciudad."
+    }
+  },
+  {
+    "id": "mo-041",
+    "scope": "MO",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 22,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Missouri, you may not pass on the left when you are within how many feet of an intersection or railroad crossing?",
+      "o": [
+        "50 feet",
+        "300 feet",
+        "500 feet",
+        "100 feet"
+      ],
+      "h1": "The same distance applies near bridges and tunnels when your view is blocked.",
+      "h2": "You may not pass on the left within 100 feet of an intersection or a railroad crossing.",
+      "p": "Right. No passing within 100 feet of an intersection or railroad crossing."
+    },
+    "es": {
+      "q": "En Missouri, ¿a menos de cuántos pies de una intersección o un cruce de ferrocarril no puede rebasar por la izquierda?",
+      "o": [
+        "50 pies",
+        "300 pies",
+        "500 pies",
+        "100 pies"
+      ],
+      "h1": "La misma distancia se aplica cerca de puentes y túneles cuando la vista está bloqueada.",
+      "h2": "No puede rebasar por la izquierda a menos de 100 pies de una intersección o un cruce de ferrocarril.",
+      "p": "Correcto. No se rebasa a menos de 100 pies de una intersección o cruce de ferrocarril."
+    }
+  },
+  {
+    "id": "mo-042",
+    "scope": "MO",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 22,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Missouri, what is the smallest fine for a first offense of speeding or passing in a work zone on state roads?",
+      "o": [
+        "$50",
+        "$250",
+        "$100",
+        "$1,000"
+      ],
+      "h1": "A second offense costs at least $300.",
+      "h2": "A first offense of speeding or passing in a Missouri work zone carries a fine of at least $250.",
+      "p": "Right. The first offense costs at least $250."
+    },
+    "es": {
+      "q": "En Missouri, ¿cuál es la multa mínima por una primera infracción de exceso de velocidad o de rebasar en una zona de trabajo en carreteras estatales?",
+      "o": [
+        "$50",
+        "$250",
+        "$100",
+        "$1,000"
+      ],
+      "h1": "Una segunda infracción cuesta por lo menos $300.",
+      "h2": "Una primera infracción de exceso de velocidad o de rebasar en una zona de trabajo de Missouri tiene una multa de al menos $250.",
+      "p": "Correcto. La primera infracción cuesta al menos $250."
+    }
+  },
+  {
+    "id": "mo-043",
+    "scope": "MO",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 24,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Missouri, how many points are added to your record if you are found guilty of not stopping for a school bus that is loading or unloading students?",
+      "o": [
+        "2 points",
+        "3 points",
+        "5 points",
+        "12 points"
+      ],
+      "h1": "It is more than the points for speeding.",
+      "h2": "Failing to stop for a school bus that is loading or unloading students adds five points to your Missouri record.",
+      "p": "Right. Passing a stopped school bus costs five points."
+    },
+    "es": {
+      "q": "En Missouri, ¿cuántos puntos se agregan a su historial si lo declaran culpable de no detenerse ante un autobús escolar que sube o baja estudiantes?",
+      "o": [
+        "2 puntos",
+        "3 puntos",
+        "5 puntos",
+        "12 puntos"
+      ],
+      "h1": "Son más que los puntos por exceso de velocidad.",
+      "h2": "No detenerse ante un autobús escolar que sube o baja estudiantes agrega cinco puntos a su historial de Missouri.",
+      "p": "Correcto. Pasar un autobús escolar detenido cuesta cinco puntos."
+    }
+  },
+  {
+    "id": "mo-044",
+    "scope": "MO",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 51,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Missouri, the red lights are flashing at a railroad crossing. Where must you stop?",
+      "o": [
+        "Between 15 and 50 feet from the tracks",
+        "Right on top of the first rail",
+        "Within 5 feet of the tracks",
+        "At least 200 feet from the tracks"
+      ],
+      "h1": "Not too close and not too far from the nearest rail.",
+      "h2": "When you must stop at a Missouri railroad crossing, stop between 15 and 50 feet from the tracks.",
+      "p": "Right. Stop 15 to 50 feet before the tracks."
+    },
+    "es": {
+      "q": "En Missouri, las luces rojas parpadean en un cruce de ferrocarril. ¿Dónde debe detenerse?",
+      "o": [
+        "Entre 15 y 50 pies de las vías",
+        "Justo encima del primer riel",
+        "A menos de 5 pies de las vías",
+        "Por lo menos a 200 pies de las vías"
+      ],
+      "h1": "Ni muy cerca ni muy lejos del riel más cercano.",
+      "h2": "Cuando debe detenerse en un cruce de ferrocarril en Missouri, deténgase entre 15 y 50 pies de las vías.",
+      "p": "Correcto. Deténgase de 15 a 50 pies antes de las vías."
+    }
+  },
+  {
+    "id": "mo-045",
+    "scope": "MO",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 33,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Missouri, an organized funeral procession is driving through an intersection against a red light. What should you do?",
+      "o": [
+        "Drive between the cars since your light is green",
+        "Join the end of the line to get through faster",
+        "Pass the cars in the procession on the right",
+        "Wait, because the procession has the right-of-way"
+      ],
+      "h1": "The cars in the procession have their flashing lights on.",
+      "h2": "An organized funeral procession has the right-of-way at intersections, so you must wait and not cut through it.",
+      "p": "Right. Let the funeral procession pass."
+    },
+    "es": {
+      "q": "En Missouri, un cortejo fúnebre organizado cruza una intersección con la luz roja. ¿Qué debe hacer?",
+      "o": [
+        "Pasar entre los autos porque su luz está en verde",
+        "Unirse al final de la fila para pasar más rápido",
+        "Rebasar los autos del cortejo por la derecha",
+        "Esperar, porque el cortejo tiene el derecho de paso"
+      ],
+      "h1": "Los autos del cortejo llevan las luces intermitentes encendidas.",
+      "h2": "Un cortejo fúnebre organizado tiene el derecho de paso en las intersecciones, así que usted debe esperar y no cruzarlo.",
+      "p": "Correcto. Deje pasar el cortejo fúnebre."
+    }
+  },
+  {
+    "id": "mo-046",
+    "scope": "MO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 55,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Missouri, when the driver has a full license, which people in a passenger car does the seat belt law cover?",
+      "o": [
+        "Only the driver",
+        "The driver and front-seat passengers",
+        "Only passengers in the back seat",
+        "No one, it is a personal choice"
+      ],
+      "h1": "Think about who sits in the front row.",
+      "h2": "Missouri's seat belt law requires the driver and front-seat passengers to wear a seat belt.",
+      "p": "Right. The driver and front-seat riders must buckle up."
+    },
+    "es": {
+      "q": "En Missouri, cuando el conductor tiene licencia completa, ¿a qué personas de un auto de pasajeros cubre la ley del cinturón de seguridad?",
+      "o": [
+        "Solo al conductor",
+        "Al conductor y a los pasajeros del asiento delantero",
+        "Solo a los pasajeros del asiento trasero",
+        "A nadie, es una decisión personal"
+      ],
+      "h1": "Piense en quiénes van en la fila de adelante.",
+      "h2": "La ley de Missouri exige que el conductor y los pasajeros del asiento delantero usen el cinturón de seguridad.",
+      "p": "Correcto. El conductor y quienes van adelante deben abrocharse."
+    }
+  },
+  {
+    "id": "mo-047",
+    "scope": "MO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 55,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Missouri, how must a child younger than four years old ride in a car, no matter how much the child weighs?",
+      "o": [
+        "With only the adult seat belt",
+        "Unbuckled if riding in the back seat",
+        "In a child safety seat that fits the child",
+        "On an adult's lap, held tightly"
+      ],
+      "h1": "Very young children need special equipment.",
+      "h2": "A child under four in Missouri must ride in a child safety seat that is right for that child, whatever the child's weight.",
+      "p": "Right. Children under four ride in a child safety seat."
+    },
+    "es": {
+      "q": "En Missouri, ¿cómo debe viajar en un auto un niño menor de cuatro años, sin importar cuánto pese?",
+      "o": [
+        "Solo con el cinturón de adulto",
+        "Sin abrochar si va en el asiento trasero",
+        "En un asiento de seguridad adecuado para el niño",
+        "En las piernas de un adulto, bien sujeto"
+      ],
+      "h1": "Los niños muy pequeños necesitan un equipo especial.",
+      "h2": "En Missouri, un niño menor de cuatro años debe viajar en un asiento de seguridad adecuado para él, pese lo que pese.",
+      "p": "Correcto. Los niños menores de cuatro años van en un asiento de seguridad."
+    }
+  },
+  {
+    "id": "mo-048",
+    "scope": "MO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 62,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Missouri, you are using high beams at night. A car comes toward you. Within how many feet must you switch to low beams?",
+      "o": [
+        "200 feet",
+        "350 feet",
+        "500 feet",
+        "1,000 feet"
+      ],
+      "h1": "The guide says it is about one block.",
+      "h2": "You must switch to low beams when an oncoming vehicle is within 500 feet.",
+      "p": "Right. Dim your lights within 500 feet of an oncoming car."
+    },
+    "es": {
+      "q": "En Missouri, usted maneja de noche con las luces altas. Viene un auto de frente. ¿A cuántos pies debe cambiar a luces bajas?",
+      "o": [
+        "200 pies",
+        "350 pies",
+        "500 pies",
+        "1,000 pies"
+      ],
+      "h1": "La guía dice que es más o menos una cuadra.",
+      "h2": "Debe cambiar a luces bajas cuando un vehículo que viene de frente está a menos de 500 pies.",
+      "p": "Correcto. Baje las luces a 500 pies de un auto que viene de frente."
+    }
+  },
+  {
+    "id": "mo-049",
+    "scope": "MO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 63,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Missouri, how much space should you leave behind the car ahead when driving on snow or ice?",
+      "o": [
+        "About 1 second",
+        "About 2 seconds",
+        "About 3 seconds",
+        "About 8 to 10 seconds"
+      ],
+      "h1": "It is much more than on a dry road.",
+      "h2": "On snow or ice, leave about eight to ten seconds between you and the vehicle ahead.",
+      "p": "Right. On snow or ice, keep about 8 to 10 seconds of space."
+    },
+    "es": {
+      "q": "En Missouri, ¿cuánto espacio debe dejar detrás del auto de adelante cuando maneja sobre nieve o hielo?",
+      "o": [
+        "Más o menos 1 segundo",
+        "Más o menos 2 segundos",
+        "Más o menos 3 segundos",
+        "Más o menos de 8 a 10 segundos"
+      ],
+      "h1": "Es mucho más que en una carretera seca.",
+      "h2": "Sobre nieve o hielo, deje entre ocho y diez segundos entre usted y el vehículo de adelante.",
+      "p": "Correcto. Sobre nieve o hielo, deje de 8 a 10 segundos de espacio."
+    }
+  },
+  {
+    "id": "mo-050",
+    "scope": "MO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 85,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Missouri, when may your car have studded snow tires?",
+      "o": [
+        "From November 1 to April 1",
+        "At any time of the year",
+        "Only in January and February",
+        "From October 1 to June 1"
+      ],
+      "h1": "It covers the cold months, from late fall to early spring.",
+      "h2": "Missouri allows studded snow tires only from November 1 to April 1.",
+      "p": "Right. Studded tires are allowed November 1 to April 1."
+    },
+    "es": {
+      "q": "En Missouri, ¿cuándo puede su auto tener llantas de nieve con clavos?",
+      "o": [
+        "Del 1 de noviembre al 1 de abril",
+        "En cualquier época del año",
+        "Solo en enero y febrero",
+        "Del 1 de octubre al 1 de junio"
+      ],
+      "h1": "Cubre los meses fríos, de finales del otoño a principios de la primavera.",
+      "h2": "Missouri permite llantas de nieve con clavos solo del 1 de noviembre al 1 de abril.",
+      "p": "Correcto. Las llantas con clavos se permiten del 1 de noviembre al 1 de abril."
+    }
+  },
+  {
+    "id": "mo-051",
+    "scope": "MO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 41,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Missouri, which cell phone number does the Driver Guide give for reporting a highway emergency?",
+      "o": [
+        "311",
+        "*55",
+        "*88",
+        "411"
+      ],
+      "h1": "It starts with a star.",
+      "h2": "The Missouri Driver Guide says the cell phone number to call in a highway emergency is *55.",
+      "p": "Right. Dial *55 from a cell phone for a highway emergency."
+    },
+    "es": {
+      "q": "En Missouri, ¿qué número de celular da la Guía del Conductor para reportar una emergencia en la carretera?",
+      "o": [
+        "311",
+        "*55",
+        "*88",
+        "411"
+      ],
+      "h1": "Empieza con un asterisco.",
+      "h2": "La Guía del Conductor de Missouri dice que el número de celular para una emergencia en la carretera es *55.",
+      "p": "Correcto. Marque *55 desde un celular para una emergencia en la carretera."
+    }
   }
 ]
