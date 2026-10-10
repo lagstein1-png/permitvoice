@@ -2212,5 +2212,141 @@
       "h2": "تطلب Texas تأمين مسؤولية لا يقلّ عن $25,000 لأضرار الممتلكات في حادث واحد، وهو الرقم الأخير في الحدّ الأدنى 30/60/25.",
       "p": "صحيح. الحدّ الأدنى لأضرار الممتلكات هو $25,000."
     }
+  },
+  {
+    "id": "tx-028",
+    "scope": "TX",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 1,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Texas, when does a teen's learner license expire?",
+      "o": [
+        "One year after it is issued",
+        "On the teen's 18th birthday",
+        "Six months after it is issued",
+        "On the teen's 21st birthday"
+      ],
+      "h1": "It is tied to a birthday.",
+      "h2": "In Texas a learner license expires on the minor's 18th birthday.",
+      "p": "Right. It expires on the 18th birthday."
+    },
+    "es": {
+      "q": "En Texas, ¿cuándo vence la licencia de aprendiz de un adolescente?",
+      "o": [
+        "Un año después de emitida",
+        "En el cumpleaños número 18 del adolescente",
+        "Seis meses después de emitida",
+        "En el cumpleaños número 21 del adolescente"
+      ],
+      "h1": "Depende de un cumpleaños.",
+      "h2": "En Texas una licencia de aprendiz vence en el cumpleaños número 18 del menor.",
+      "p": "Correcto. Vence en el cumpleaños número 18."
+    }
+  },
+  {
+    "id": "tx-029",
+    "scope": "TX",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Texas, what fine can a driver get for a first conviction of driving without proof of liability insurance?",
+      "o": [
+        "$175 to $350",
+        "$50 to $100",
+        "$500 to $750",
+        "$1,000 to $2,000"
+      ],
+      "h1": "A second conviction costs more, up to $1,000.",
+      "h2": "In Texas a first conviction for driving without proof of liability insurance brings a fine of $175 to $350.",
+      "p": "Right. The first fine is $175 to $350."
+    },
+    "es": {
+      "q": "En Texas, ¿qué multa puede recibir un conductor por una primera condena por manejar sin prueba de seguro de responsabilidad civil?",
+      "o": [
+        "De $175 a $350",
+        "De $50 a $100",
+        "De $500 a $750",
+        "De $1,000 a $2,000"
+      ],
+      "h1": "Una segunda condena cuesta más, hasta $1,000.",
+      "h2": "En Texas una primera condena por manejar sin prueba de seguro de responsabilidad civil trae una multa de $175 a $350.",
+      "p": "Correcto. La primera multa es de $175 a $350."
+    }
+  },
+  {
+    "id": "tx-030",
+    "scope": "TX",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 22,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Texas, how close may you follow a fire truck that is answering an alarm with its red lights flashing?",
+      "o": [
+        "No closer than 50 feet",
+        "No closer than 100 feet",
+        "No closer than 250 feet",
+        "No closer than 500 feet"
+      ],
+      "h1": "It is more than the length of a football field.",
+      "h2": "In Texas you may not follow within 500 feet of a fire truck answering an alarm, or an ambulance, when its flashing red lights are on.",
+      "p": "Right. Stay at least 500 feet behind."
+    },
+    "es": {
+      "q": "En Texas, ¿qué tan cerca puede seguir a un camión de bomberos que atiende una alarma con sus luces rojas intermitentes?",
+      "o": [
+        "No más cerca de 50 pies",
+        "No más cerca de 100 pies",
+        "No más cerca de 250 pies",
+        "No más cerca de 500 pies"
+      ],
+      "h1": "Es más que el largo de un campo de fútbol americano.",
+      "h2": "En Texas usted no puede seguir a menos de 500 pies a un camión de bomberos que atiende una alarma, ni a una ambulancia, cuando tiene encendidas sus luces rojas intermitentes.",
+      "p": "Correcto. Quédese por lo menos a 500 pies detrás."
+    }
+  },
+  {
+    "id": "tx-031",
+    "scope": "TX",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 56,
+    "src": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Texas, what is the highest fine for having an open container of alcohol in the passenger area of a vehicle on a public road?",
+      "o": [
+        "$50",
+        "$100",
+        "$500",
+        "$5,000"
+      ],
+      "h1": "The car does not even have to be moving.",
+      "h2": "In Texas having an open container of alcohol in the passenger area on a public road can bring a fine of up to $500, even if the vehicle is stopped or parked.",
+      "p": "Right. The fine can be up to $500."
+    },
+    "es": {
+      "q": "En Texas, ¿cuál es la multa más alta por tener un envase abierto de alcohol en el área de pasajeros de un vehículo en una vía pública?",
+      "o": [
+        "$50",
+        "$100",
+        "$500",
+        "$5,000"
+      ],
+      "h1": "El carro ni siquiera tiene que estar en movimiento.",
+      "h2": "En Texas tener un envase abierto de alcohol en el área de pasajeros en una vía pública puede traer una multa de hasta $500, aunque el vehículo esté detenido o estacionado.",
+      "p": "Correcto. La multa puede ser de hasta $500."
+    }
   }
 ]
