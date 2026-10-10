@@ -2130,5 +2130,175 @@
       "h2": "تشترط Minnesota تأمين مسؤولية عن الضرر في الممتلكات قدره $10,000 على الأقل لحادث واحد، وهو الرقم الأخير في الحد الأدنى 30/60/10.",
       "p": "صحيح. الحد الأدنى للضرر في الممتلكات هو $10,000."
     }
+  },
+  {
+    "id": "mn-027",
+    "scope": "MN",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 35,
+    "src": "https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-english.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Minnesota, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 15 feet",
+        "No closer than 25 feet"
+      ],
+      "h1": "Minnesota's distance is shorter than in many other states.",
+      "h2": "In Minnesota you may not park within 10 feet of a fire hydrant, so fire crews can reach it.",
+      "p": "Right. Stay at least 10 feet from a hydrant."
+    },
+    "es": {
+      "q": "En Minnesota, ¿qué tan cerca de un hidrante puede estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 10 pies",
+        "No más cerca de 15 pies",
+        "No más cerca de 25 pies"
+      ],
+      "h1": "La distancia de Minnesota es más corta que en muchos otros estados.",
+      "h2": "En Minnesota usted no puede estacionarse a menos de 10 pies de un hidrante, para que los bomberos puedan llegar a él.",
+      "p": "Correcto. Quédese por lo menos a 10 pies de un hidrante."
+    }
+  },
+  {
+    "id": "mn-028",
+    "scope": "MN",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-english.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Minnesota, what vision do you need to pass the vision screening, with glasses or contacts if you use them?",
+      "o": [
+        "At least 20/20",
+        "At least 20/30",
+        "At least 20/40",
+        "At least 20/70"
+      ],
+      "h1": "It is the same number many states use.",
+      "h2": "In Minnesota your vision, with or without correction, must be at least 20/40 to pass the vision screening.",
+      "p": "Right. You need at least 20/40 vision."
+    },
+    "es": {
+      "q": "En Minnesota, ¿qué visión necesita para pasar el examen de la vista, con lentes o lentes de contacto si los usa?",
+      "o": [
+        "Por lo menos 20/20",
+        "Por lo menos 20/30",
+        "Por lo menos 20/40",
+        "Por lo menos 20/70"
+      ],
+      "h1": "Es el mismo número que usan muchos estados.",
+      "h2": "En Minnesota su visión, con o sin corrección, debe ser por lo menos 20/40 para pasar el examen de la vista.",
+      "p": "Correcto. Necesita una visión de por lo menos 20/40."
+    }
+  },
+  {
+    "id": "mn-029",
+    "scope": "MN",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 48,
+    "src": "https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-english.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Minnesota, how much space must you leave between your car and a bicyclist you are passing?",
+      "o": [
+        "At least 3 feet",
+        "At least 1 foot",
+        "At least 18 inches",
+        "At least 2 feet"
+      ],
+      "h1": "Think of about one long step.",
+      "h2": "In Minnesota you must leave at least 3 feet between your car and a bicyclist when you pass, and you may cross the center line to do it when it is safe.",
+      "p": "Right. Give a bicyclist at least 3 feet."
+    },
+    "es": {
+      "q": "En Minnesota, ¿cuánto espacio debe dejar entre su carro y un ciclista al que va a rebasar?",
+      "o": [
+        "Por lo menos 3 pies",
+        "Por lo menos 1 pie",
+        "Por lo menos 18 pulgadas",
+        "Por lo menos 2 pies"
+      ],
+      "h1": "Piense en un paso largo.",
+      "h2": "En Minnesota usted debe dejar por lo menos 3 pies entre su carro y un ciclista al rebasarlo, y puede cruzar la línea central para hacerlo cuando sea seguro.",
+      "p": "Correcto. Deje por lo menos 3 pies a un ciclista."
+    }
+  },
+  {
+    "id": "mn-030",
+    "scope": "MN",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 34,
+    "src": "https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-english.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Minnesota, how close to an intersection or railroad crossing may you pass another vehicle?",
+      "o": [
+        "No closer than 25 feet",
+        "No closer than 50 feet",
+        "No closer than 300 feet",
+        "No closer than 100 feet"
+      ],
+      "h1": "It is about the length of six or seven cars.",
+      "h2": "In Minnesota you may not pass another vehicle within 100 feet of an intersection, underpass, tunnel or railroad crossing.",
+      "p": "Right. Do not pass within 100 feet of those places."
+    },
+    "es": {
+      "q": "En Minnesota, ¿qué tan cerca de una intersección o de un cruce de ferrocarril puede rebasar a otro vehículo?",
+      "o": [
+        "No más cerca de 25 pies",
+        "No más cerca de 50 pies",
+        "No más cerca de 300 pies",
+        "No más cerca de 100 pies"
+      ],
+      "h1": "Es como el largo de seis o siete carros.",
+      "h2": "En Minnesota usted no puede rebasar a otro vehículo a menos de 100 pies de una intersección, un paso a desnivel, un túnel o un cruce de ferrocarril.",
+      "p": "Correcto. No rebase a menos de 100 pies de esos lugares."
+    }
+  },
+  {
+    "id": "mn-031",
+    "scope": "MN",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 16,
+    "src": "https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-english.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Minnesota, when does a driver's license marked \"Under 21\" expire?",
+      "o": [
+        "On your 18th birthday",
+        "One year after it is issued",
+        "On your 21st birthday",
+        "On your 25th birthday"
+      ],
+      "h1": "Look at the words printed on the license.",
+      "h2": "In Minnesota a license marked \"Under 21\" expires on your 21st birthday, and after that it expires every four years on your birthday.",
+      "p": "Right. It expires on your 21st birthday."
+    },
+    "es": {
+      "q": "En Minnesota, ¿cuándo vence una licencia de manejo marcada \"Under 21\" (menor de 21)?",
+      "o": [
+        "En su cumpleaños número 18",
+        "Un año después de emitida",
+        "En su cumpleaños número 21",
+        "En su cumpleaños número 25"
+      ],
+      "h1": "Fíjese en las palabras impresas en la licencia.",
+      "h2": "En Minnesota una licencia marcada \"Under 21\" vence en su cumpleaños número 21, y después vence cada cuatro años en su cumpleaños.",
+      "p": "Correcto. Vence en su cumpleaños número 21."
+    }
   }
 ]
