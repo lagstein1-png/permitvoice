@@ -2540,5 +2540,651 @@
       "h2": "في Vermont، يفرض القانون أن تكون مصابيحك الأمامية مضاءة كلما لم تستطع أن ترى بوضوح الناس أو المركبات على بُعد 500 قدم أمامك.",
       "p": "صحيح. 500 قدم."
     }
+  },
+  {
+    "id": "vt-032",
+    "scope": "VT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Vermont, after getting a junior operator's license, how long must a teen wait before driving as part of a job, such as delivering pizza?",
+      "o": [
+        "No wait; it is allowed right away",
+        "Three months",
+        "One year, or until age 18 if that comes first",
+        "Six months"
+      ],
+      "h1": "The wait is longer than the passenger limits.",
+      "h2": "In Vermont, a junior operator may not drive for work until holding the license for one year or turning 18, whichever comes first.",
+      "p": "Right. One year, or age 18 if sooner."
+    },
+    "es": {
+      "q": "En Vermont, después de obtener la licencia de operador menor, ¿cuánto tiempo debe esperar un adolescente antes de manejar como parte de un trabajo, por ejemplo repartiendo pizza?",
+      "o": [
+        "No hay espera; se permite enseguida",
+        "Tres meses",
+        "Un año, o hasta cumplir 18 si eso pasa antes",
+        "Seis meses"
+      ],
+      "h1": "La espera es más larga que los límites de pasajeros.",
+      "h2": "En Vermont, un operador menor no puede manejar por trabajo hasta tener la licencia un año o cumplir 18 años, lo que ocurra primero.",
+      "p": "Correcto. Un año, o los 18 años si llegan antes."
+    }
+  },
+  {
+    "id": "vt-033",
+    "scope": "VT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 21,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Vermont, a junior operator's license is recalled for 90 days after how many points in total?",
+      "o": [
+        "4 points",
+        "6 points",
+        "10 points",
+        "12 points"
+      ],
+      "h1": "It is fewer than the 10 points that start a regular suspension.",
+      "h2": "In Vermont, a junior operator who reaches 6 points in total, or gets a single 3-point speeding ticket, has the license recalled for 90 days.",
+      "p": "Right. Six points means a 90-day recall."
+    },
+    "es": {
+      "q": "En Vermont, ¿con cuántos puntos en total le retiran la licencia de operador menor por 90 días?",
+      "o": [
+        "4 puntos",
+        "6 puntos",
+        "10 puntos",
+        "12 puntos"
+      ],
+      "h1": "Son menos que los 10 puntos que inician una suspensión normal.",
+      "h2": "En Vermont, a un operador menor que llega a 6 puntos en total, o que recibe una sola multa de velocidad de 3 puntos, le retiran la licencia por 90 días.",
+      "p": "Correcto. Seis puntos significan retirar la licencia por 90 días."
+    }
+  },
+  {
+    "id": "vt-034",
+    "scope": "VT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 21,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Vermont, how long is a junior operator's license recalled for texting while driving?",
+      "o": [
+        "30 days",
+        "7 days",
+        "90 days",
+        "One year"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In Vermont, a junior operator caught texting while driving has the license recalled for 30 days, and also gets a fine and points.",
+      "p": "Right. Texting means a 30-day recall."
+    },
+    "es": {
+      "q": "En Vermont, ¿por cuánto tiempo le retiran la licencia a un operador menor por enviar mensajes de texto mientras maneja?",
+      "o": [
+        "30 días",
+        "7 días",
+        "90 días",
+        "Un año"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Vermont, a un operador menor que envía mensajes de texto mientras maneja le retiran la licencia por 30 días, y además recibe una multa y puntos.",
+      "p": "Correcto. Los mensajes de texto significan retirar la licencia por 30 días."
+    }
+  },
+  {
+    "id": "vt-035",
+    "scope": "VT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 12,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Vermont, you move here with a valid license from another state. How soon must you get a Vermont license?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 1 year",
+        "Within 60 days"
+      ],
+      "h1": "It is about two months.",
+      "h2": "A new Vermont resident with a valid license from another state must get a Vermont license within 60 days of moving in.",
+      "p": "Right. Within 60 days."
+    },
+    "es": {
+      "q": "En Vermont, usted se muda aquí con una licencia válida de otro estado. ¿En cuánto tiempo debe obtener una licencia de Vermont?",
+      "o": [
+        "En 10 días",
+        "En 30 días",
+        "En 1 año",
+        "En 60 días"
+      ],
+      "h1": "Son unos dos meses.",
+      "h2": "Un nuevo residente de Vermont con una licencia válida de otro estado debe obtener una licencia de Vermont en los 60 días después de mudarse.",
+      "p": "Correcto. En 60 días."
+    }
+  },
+  {
+    "id": "vt-036",
+    "scope": "VT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Vermont, you fail the road test for the first time. How long must you wait before you take it again?",
+      "o": [
+        "One day",
+        "At least one week",
+        "Three months",
+        "Six months"
+      ],
+      "h1": "It is longer than the wait after a failed written test.",
+      "h2": "In Vermont, after you fail the road test you must wait at least one week before you try again.",
+      "p": "Right. Wait at least one week."
+    },
+    "es": {
+      "q": "En Vermont, usted reprueba el examen de manejo por primera vez. ¿Cuánto tiempo debe esperar para tomarlo otra vez?",
+      "o": [
+        "Un día",
+        "Por lo menos una semana",
+        "Tres meses",
+        "Seis meses"
+      ],
+      "h1": "Es más que la espera después de reprobar el examen escrito.",
+      "h2": "En Vermont, después de reprobar el examen de manejo debe esperar por lo menos una semana para intentarlo otra vez.",
+      "p": "Correcto. Espere por lo menos una semana."
+    }
+  },
+  {
+    "id": "vt-037",
+    "scope": "VT",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 40,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Vermont, how many points go on your license for passing a stopped school bus with its red lights flashing?",
+      "o": [
+        "2 points",
+        "4 points",
+        "5 points",
+        "10 points"
+      ],
+      "h1": "It is the same as for not yielding to an ambulance or fire truck.",
+      "h2": "In Vermont, passing a stopped school bus with its red lights on adds 5 points to your license, along with a large fine.",
+      "p": "Right. It costs 5 points."
+    },
+    "es": {
+      "q": "En Vermont, ¿cuántos puntos recibe en su licencia por rebasar un autobús escolar detenido con las luces rojas intermitentes?",
+      "o": [
+        "2 puntos",
+        "4 puntos",
+        "5 puntos",
+        "10 puntos"
+      ],
+      "h1": "Es lo mismo que por no ceder el paso a una ambulancia o un camión de bomberos.",
+      "h2": "En Vermont, rebasar un autobús escolar detenido con las luces rojas encendidas suma 5 puntos a su licencia, además de una multa grande.",
+      "p": "Correcto. Cuesta 5 puntos."
+    }
+  },
+  {
+    "id": "vt-038",
+    "scope": "VT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 67,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Vermont, a police officer stops you and you have no car insurance. Besides a fine, how many points go on your record?",
+      "o": [
+        "2 points",
+        "No points",
+        "6 points",
+        "10 points"
+      ],
+      "h1": "It is the same as for running a stop sign.",
+      "h2": "In Vermont, driving without insurance brings a ticket, a fine and 2 points on your driving record.",
+      "p": "Right. A fine and 2 points."
+    },
+    "es": {
+      "q": "En Vermont, un policía lo detiene y usted no tiene seguro de auto. Además de una multa, ¿cuántos puntos recibe en su historial?",
+      "o": [
+        "2 puntos",
+        "Ningún punto",
+        "6 puntos",
+        "10 puntos"
+      ],
+      "h1": "Es lo mismo que por no parar en una señal de alto.",
+      "h2": "En Vermont, manejar sin seguro trae una multa de tránsito y 2 puntos en su historial de manejo.",
+      "p": "Correcto. Una multa y 2 puntos."
+    }
+  },
+  {
+    "id": "vt-039",
+    "scope": "VT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 67,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Vermont, you have insurance but cannot show the card when a police officer stops you. How long do you have to show it?",
+      "o": [
+        "24 hours",
+        "15 days",
+        "60 days",
+        "90 days"
+      ],
+      "h1": "It is about two weeks.",
+      "h2": "In Vermont, if you are insured but cannot show your card to the officer, you have 15 days to show proof that you were insured on the day you were stopped.",
+      "p": "Right. You have 15 days."
+    },
+    "es": {
+      "q": "En Vermont, usted tiene seguro pero no puede mostrar la tarjeta cuando un policía lo detiene. ¿Cuánto tiempo tiene para mostrarla?",
+      "o": [
+        "24 horas",
+        "15 días",
+        "60 días",
+        "90 días"
+      ],
+      "h1": "Son unas dos semanas.",
+      "h2": "En Vermont, si tiene seguro pero no puede mostrar su tarjeta al policía, tiene 15 días para mostrar prueba de que tenía seguro el día que lo detuvieron.",
+      "p": "Correcto. Tiene 15 días."
+    }
+  },
+  {
+    "id": "vt-040",
+    "scope": "VT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Vermont, what vision level must you meet at the DMV eye screening, or be sent to an eye doctor?",
+      "o": [
+        "20/20",
+        "20/70",
+        "20/100",
+        "20/40"
+      ],
+      "h1": "It is the same standard used in many states.",
+      "h2": "In Vermont, if your vision does not meet the 20/40 standard at the screening, you are sent to an eye doctor for more testing.",
+      "p": "Right. The standard is 20/40."
+    },
+    "es": {
+      "q": "En Vermont, ¿qué nivel de visión debe tener en la prueba de la vista del DMV para que no lo envíen a un oculista?",
+      "o": [
+        "20/20",
+        "20/70",
+        "20/100",
+        "20/40"
+      ],
+      "h1": "Es el mismo estándar que usan muchos estados.",
+      "h2": "En Vermont, si su visión no llega al estándar de 20/40 en la prueba, lo envían a un oculista para más exámenes.",
+      "p": "Correcto. El estándar es 20/40."
+    }
+  },
+  {
+    "id": "vt-041",
+    "scope": "VT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 27,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Vermont, in good conditions, what is the smallest safe following distance behind the vehicle ahead?",
+      "o": [
+        "1 second",
+        "2 seconds",
+        "3 seconds",
+        "4 seconds"
+      ],
+      "h1": "Vermont asks for more than many other states do.",
+      "h2": "Vermont teaches a following distance of at least four seconds behind the vehicle ahead, and more in bad weather or at high speed.",
+      "p": "Right. Keep at least four seconds."
+    },
+    "es": {
+      "q": "En Vermont, con buenas condiciones, ¿cuál es la distancia mínima segura detrás del vehículo de adelante?",
+      "o": [
+        "1 segundo",
+        "2 segundos",
+        "3 segundos",
+        "4 segundos"
+      ],
+      "h1": "Vermont pide más que muchos otros estados.",
+      "h2": "Vermont enseña una distancia de por lo menos cuatro segundos detrás del vehículo de adelante, y más con mal tiempo o a alta velocidad.",
+      "p": "Correcto. Deje por lo menos cuatro segundos."
+    }
+  },
+  {
+    "id": "vt-042",
+    "scope": "VT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 51,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Vermont, you pass a stopped emergency vehicle with flashing lights but cannot change lanes. How much must you slow down?",
+      "o": [
+        "5 mph below the limit",
+        "10 mph below the limit",
+        "20 mph below the limit",
+        "To 5 mph"
+      ],
+      "h1": "It is a big drop in speed.",
+      "h2": "In Vermont, if you cannot move away from a stopped emergency vehicle, you must slow to 20 mph below the speed limit as you pass.",
+      "p": "Right. Slow to 20 mph below the limit."
+    },
+    "es": {
+      "q": "En Vermont, usted pasa junto a un vehículo de emergencia detenido con luces intermitentes, pero no puede cambiarse de carril. ¿Cuánto debe reducir la velocidad?",
+      "o": [
+        "5 mph por debajo del límite",
+        "10 mph por debajo del límite",
+        "20 mph por debajo del límite",
+        "Hasta 5 mph"
+      ],
+      "h1": "Es una gran reducción de velocidad.",
+      "h2": "En Vermont, si no puede alejarse de un vehículo de emergencia detenido, debe bajar a 20 mph por debajo del límite de velocidad al pasar.",
+      "p": "Correcto. Baje a 20 mph por debajo del límite."
+    }
+  },
+  {
+    "id": "vt-043",
+    "scope": "VT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 25,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Vermont, you are driving slowly and traffic is backing up behind you. What does the law require?",
+      "o": [
+        "Pull over when it is safe and let the vehicles pass",
+        "Speed up past the speed limit",
+        "Turn on your hazard lights and keep going",
+        "Stop in your lane so they can go around"
+      ],
+      "h1": "Make room for the drivers behind you.",
+      "h2": "In Vermont, when traffic backs up behind your slow vehicle, the law says to pull over when it is safe and let the other vehicles go by.",
+      "p": "Right. Pull over safely and let them pass."
+    },
+    "es": {
+      "q": "En Vermont, usted maneja despacio y se forma una fila de vehículos detrás de usted. ¿Qué exige la ley?",
+      "o": [
+        "Orillarse cuando sea seguro y dejar pasar a los vehículos",
+        "Acelerar por encima del límite de velocidad",
+        "Encender las luces de emergencia y seguir",
+        "Detenerse en su carril para que le den la vuelta"
+      ],
+      "h1": "Deje espacio a los conductores de atrás.",
+      "h2": "En Vermont, cuando se forma una fila detrás de su vehículo lento, la ley dice que debe orillarse cuando sea seguro y dejar pasar a los demás.",
+      "p": "Correcto. Oríllese con seguridad y déjelos pasar."
+    }
+  },
+  {
+    "id": "vt-044",
+    "scope": "VT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 29,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Vermont, if you must stop on a rural highway, from how far away in each direction should other drivers be able to see your vehicle?",
+      "o": [
+        "50 feet",
+        "100 feet",
+        "150 feet",
+        "25 feet"
+      ],
+      "h1": "So avoid hills and curves.",
+      "h2": "In Vermont, do not stop on a rural highway where your vehicle cannot be seen from at least 150 feet in each direction, and get all wheels off the road.",
+      "p": "Right. At least 150 feet each way."
+    },
+    "es": {
+      "q": "En Vermont, si tiene que detenerse en una carretera rural, ¿desde qué distancia en cada dirección deben poder ver su vehículo los otros conductores?",
+      "o": [
+        "50 pies",
+        "100 pies",
+        "150 pies",
+        "25 pies"
+      ],
+      "h1": "Por eso evite colinas y curvas.",
+      "h2": "En Vermont, no se detenga en una carretera rural donde su vehículo no se vea desde por lo menos 150 pies en cada dirección, y saque todas las ruedas del camino.",
+      "p": "Correcto. Por lo menos 150 pies en cada dirección."
+    }
+  },
+  {
+    "id": "vt-045",
+    "scope": "VT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 55,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Vermont, what is the fine for a first offense of using a hand-held phone while driving?",
+      "o": [
+        "$25 to $50",
+        "$100 to $200",
+        "$1,000",
+        "$500 to $1,000"
+      ],
+      "h1": "It starts at a hundred dollars.",
+      "h2": "In Vermont, a first offense for using a portable electronic device while driving brings a fine of $100 to $200, and more for later offenses.",
+      "p": "Right. $100 to $200 the first time."
+    },
+    "es": {
+      "q": "En Vermont, ¿cuál es la multa por la primera vez que usa un teléfono en la mano mientras maneja?",
+      "o": [
+        "De $25 a $50",
+        "De $100 a $200",
+        "$1,000",
+        "De $500 a $1,000"
+      ],
+      "h1": "Empieza en cien dólares.",
+      "h2": "En Vermont, la primera vez que usa un aparato electrónico portátil mientras maneja la multa es de $100 a $200, y más en las siguientes veces.",
+      "p": "Correcto. De $100 a $200 la primera vez."
+    }
+  },
+  {
+    "id": "vt-046",
+    "scope": "VT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 63,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Vermont, a child is not in a car seat with a harness. Until what age must the child ride in a booster seat?",
+      "o": [
+        "Until age 5",
+        "Until age 8",
+        "Until age 13",
+        "Until age 18"
+      ],
+      "h1": "Most children are in second or third grade at this age.",
+      "h2": "In Vermont, a child under 8 who is not in a harnessed car seat must ride in a booster seat.",
+      "p": "Right. A booster seat until age 8."
+    },
+    "es": {
+      "q": "En Vermont, un niño no va en un asiento de auto con arnés. ¿Hasta qué edad debe ir en un asiento elevador (booster)?",
+      "o": [
+        "Hasta los 5 años",
+        "Hasta los 8 años",
+        "Hasta los 13 años",
+        "Hasta los 18 años"
+      ],
+      "h1": "A esa edad, la mayoría de los niños están en segundo o tercer grado.",
+      "h2": "En Vermont, un niño menor de 8 años que no va en un asiento con arnés debe ir en un asiento elevador (booster).",
+      "p": "Correcto. Asiento elevador hasta los 8 años."
+    }
+  },
+  {
+    "id": "vt-047",
+    "scope": "VT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 60,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Vermont, what is the least tread depth a tire may have and still be legal?",
+      "o": [
+        "2/32 of an inch",
+        "1/32 of an inch",
+        "1/2 of an inch",
+        "No set amount"
+      ],
+      "h1": "Try the penny test with Lincoln's head.",
+      "h2": "In Vermont, tires must have at least 2/32 of an inch of tread; below that they are not safe or legal.",
+      "p": "Right. At least 2/32 of an inch."
+    },
+    "es": {
+      "q": "En Vermont, ¿cuál es la profundidad mínima de la banda de rodadura que puede tener una llanta para ser legal?",
+      "o": [
+        "2/32 de pulgada",
+        "1/32 de pulgada",
+        "1/2 pulgada",
+        "No hay una medida fija"
+      ],
+      "h1": "Haga la prueba del centavo con la cabeza de Lincoln.",
+      "h2": "En Vermont, las llantas deben tener por lo menos 2/32 de pulgada de banda de rodadura; con menos no son seguras ni legales.",
+      "p": "Correcto. Por lo menos 2/32 de pulgada."
+    }
+  },
+  {
+    "id": "vt-048",
+    "scope": "VT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 49,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Vermont, during what hours does the law require your headlights to be on?",
+      "o": [
+        "From 9 p.m. to 6 a.m.",
+        "From one hour after sunset to one hour before sunrise",
+        "Only when there are no streetlights",
+        "From a half hour after sunset to a half hour before sunrise"
+      ],
+      "h1": "Think of the time just after the sun goes down.",
+      "h2": "In Vermont, the law requires headlights from a half hour after sunset to a half hour before sunrise.",
+      "p": "Right. A half hour after sunset to a half hour before sunrise."
+    },
+    "es": {
+      "q": "En Vermont, ¿en qué horas exige la ley tener las luces delanteras encendidas?",
+      "o": [
+        "De 9 p.m. a 6 a.m.",
+        "Desde una hora después de la puesta del sol hasta una hora antes del amanecer",
+        "Solo cuando no hay alumbrado público",
+        "Desde media hora después de la puesta del sol hasta media hora antes del amanecer"
+      ],
+      "h1": "Piense en el tiempo justo después de que se pone el sol.",
+      "h2": "En Vermont, la ley exige las luces delanteras desde media hora después de la puesta del sol hasta media hora antes del amanecer.",
+      "p": "Correcto. Desde media hora después de la puesta del sol hasta media hora antes del amanecer."
+    }
+  },
+  {
+    "id": "vt-049",
+    "scope": "VT",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 37,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Vermont, you must stop for a train at a railroad crossing. What is the closest you may stop to the nearest rail?",
+      "o": [
+        "3 feet",
+        "5 feet",
+        "10 feet",
+        "15 feet"
+      ],
+      "h1": "It is about the length of a car.",
+      "h2": "In Vermont, when you must stop at a railroad crossing, you stop no closer than 15 feet from the nearest rail.",
+      "p": "Right. No closer than 15 feet."
+    },
+    "es": {
+      "q": "En Vermont, usted debe detenerse por un tren en un cruce de ferrocarril. ¿A qué distancia mínima del riel más cercano debe detenerse?",
+      "o": [
+        "3 pies",
+        "5 pies",
+        "10 pies",
+        "15 pies"
+      ],
+      "h1": "Es más o menos el largo de un auto.",
+      "h2": "En Vermont, cuando debe detenerse en un cruce de ferrocarril, se detiene a no menos de 15 pies del riel más cercano.",
+      "p": "Correcto. A no menos de 15 pies."
+    }
+  },
+  {
+    "id": "vt-050",
+    "scope": "VT",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 31,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Vermont, you come up to a town snowplow working on the road with its lights flashing. What must you do?",
+      "o": [
+        "Go ahead with caution and yield the right of way to it",
+        "Honk so the driver moves over",
+        "Pass it quickly before it slows you down",
+        "Follow close behind it on the cleared road"
+      ],
+      "h1": "Treat road crews with the same care as other working vehicles.",
+      "h2": "In Vermont, the law says you must slow down, use caution and yield the right of way to a state, city or town maintenance vehicle, such as a snowplow, working on the road.",
+      "p": "Right. Use caution and yield to it."
+    },
+    "es": {
+      "q": "En Vermont, usted se acerca a un quitanieves del pueblo que trabaja en el camino con las luces intermitentes. ¿Qué debe hacer?",
+      "o": [
+        "Seguir con precaución y cederle el paso",
+        "Tocar la bocina para que el conductor se aparte",
+        "Rebasarlo rápido antes de que lo retrase",
+        "Seguirlo de cerca por el camino limpio"
+      ],
+      "h1": "Trate a las cuadrillas de carreteras con el mismo cuidado que a otros vehículos de trabajo.",
+      "h2": "En Vermont, la ley dice que debe reducir la velocidad, tener precaución y ceder el paso a un vehículo de mantenimiento del estado, la ciudad o el pueblo, como un quitanieves, que trabaja en el camino.",
+      "p": "Correcto. Tenga precaución y cédale el paso."
+    }
   }
 ]
