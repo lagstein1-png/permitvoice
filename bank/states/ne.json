@@ -1638,5 +1638,243 @@
       "h2": "قانون Nebraska يُلزم السائق وكل راكب في المقعد الأمامي بوضع حزام الأمان، ويجب أن يركب كل طفل تحت 18 سنة بحزام أمان أو في مقعد أمان للأطفال.",
       "p": "صحيح. المقعد الأمامي، وكل طفل تحت 18 سنة."
     }
+  },
+  {
+    "id": "ne-021",
+    "scope": "NE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nebraska, what happens if a driver collects 12 points within two years?",
+      "o": [
+        "A warning letter only",
+        "The license is revoked for six months",
+        "A one-day safety class",
+        "Higher fines, but the license is kept"
+      ],
+      "h1": "Under the point system, this is automatic.",
+      "h2": "In Nebraska, collecting 12 points within two years means the license is automatically revoked for six months.",
+      "p": "Right. 12 points in two years means a six-month revocation."
+    },
+    "es": {
+      "q": "En Nebraska, ¿qué pasa si un conductor acumula 12 puntos dentro de dos años?",
+      "o": [
+        "Solo recibe una carta de advertencia",
+        "La licencia se revoca por seis meses",
+        "Una clase de seguridad de un día",
+        "Multas más altas, pero conserva la licencia"
+      ],
+      "h1": "Con el sistema de puntos, esto es automático.",
+      "h2": "En Nebraska, acumular 12 puntos dentro de dos años significa que la licencia se revoca automáticamente por seis meses.",
+      "p": "Correcto. 12 puntos en dos años significan una revocación de seis meses."
+    }
+  },
+  {
+    "id": "ne-022",
+    "scope": "NE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 1,
+    "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nebraska, a driver under 21 gets 6 or more points within one year. What must the driver do?",
+      "o": [
+        "Retake the driving skills test",
+        "Pay a $1,000 fine",
+        "Wait until age 21 to drive again",
+        "Take a driver improvement course within three months"
+      ],
+      "h1": "It is a course meant to help the driver do better.",
+      "h2": "In Nebraska, a driver under 21 with 6 or more points in one year must take a driver improvement course within three months.",
+      "p": "Right. A driver improvement course within three months is required."
+    },
+    "es": {
+      "q": "En Nebraska, un conductor menor de 21 años acumula 6 puntos o más dentro de un año. ¿Qué debe hacer?",
+      "o": [
+        "Repetir el examen práctico de manejo",
+        "Pagar una multa de $1,000",
+        "Esperar hasta los 21 años para volver a manejar",
+        "Tomar un curso para mejorar como conductor dentro de tres meses"
+      ],
+      "h1": "Es un curso que busca ayudar al conductor a mejorar.",
+      "h2": "En Nebraska, un conductor menor de 21 años con 6 puntos o más en un año debe tomar un curso para mejorar como conductor dentro de tres meses.",
+      "p": "Correcto. Se exige un curso para mejorar como conductor dentro de tres meses."
+    }
+  },
+  {
+    "id": "ne-023",
+    "scope": "NE",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 24,
+    "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nebraska, a driver refuses a chemical test for alcohol or drugs when a police officer asks. What is the administrative penalty?",
+      "o": [
+        "One year of license revocation",
+        "A 30-day warning period",
+        "A $50 fine only",
+        "No penalty if the driver passes a later test"
+      ],
+      "h1": "Every driver in Nebraska has already agreed to be tested.",
+      "h2": "In Nebraska, refusing a chemical test leads to a one-year license revocation, and the refusal is also a separate crime.",
+      "p": "Right. Refusing the test means one year without a license."
+    },
+    "es": {
+      "q": "En Nebraska, un conductor se niega a hacer una prueba química de alcohol o drogas cuando un policía se la pide. ¿Cuál es la sanción administrativa?",
+      "o": [
+        "Un año de revocación de la licencia",
+        "Un período de advertencia de 30 días",
+        "Solo una multa de $50",
+        "Ninguna sanción si pasa una prueba después"
+      ],
+      "h1": "Todo conductor en Nebraska ya aceptó hacerse la prueba.",
+      "h2": "En Nebraska, negarse a una prueba química lleva a una revocación de la licencia por un año, y negarse también es un delito aparte.",
+      "p": "Correcto. Negarse a la prueba significa un año sin licencia."
+    }
+  },
+  {
+    "id": "ne-024",
+    "scope": "NE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 28,
+    "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nebraska, what is the minimum liability insurance for injury to one person in one crash?",
+      "o": [
+        "$5,000",
+        "$10,000",
+        "$25,000",
+        "$100,000"
+      ],
+      "h1": "It is the same amount as the minimum for property damage.",
+      "h2": "In Nebraska, a vehicle must carry at least $25,000 of coverage for injury to one person in a crash.",
+      "p": "Right. The minimum is $25,000 for one injured person."
+    },
+    "es": {
+      "q": "En Nebraska, ¿cuál es el seguro de responsabilidad mínimo por lesiones a una persona en un choque?",
+      "o": [
+        "$5,000",
+        "$10,000",
+        "$25,000",
+        "$100,000"
+      ],
+      "h1": "Es la misma cantidad que el mínimo por daños a la propiedad.",
+      "h2": "En Nebraska, un vehículo debe tener al menos $25,000 de cobertura por lesiones a una persona en un choque.",
+      "p": "Correcto. El mínimo es de $25,000 por una persona lesionada."
+    }
+  },
+  {
+    "id": "ne-025",
+    "scope": "NE",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 53,
+    "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nebraska, what happens to a speeding fine in a school zone, or in a work zone when workers are present?",
+      "o": [
+        "It stays the same",
+        "It is doubled",
+        "It is cut in half",
+        "It is replaced by a warning"
+      ],
+      "h1": "These zones protect children and workers, so the penalty is higher.",
+      "h2": "In Nebraska, speeding fines are doubled in school zones and in work zones when workers are present.",
+      "p": "Right. Fines are doubled in those zones."
+    },
+    "es": {
+      "q": "En Nebraska, ¿qué pasa con la multa por exceso de velocidad en una zona escolar, o en una zona de obras cuando hay trabajadores?",
+      "o": [
+        "Se queda igual",
+        "Se duplica",
+        "Se reduce a la mitad",
+        "Se cambia por una advertencia"
+      ],
+      "h1": "Estas zonas protegen a niños y trabajadores, así que la sanción es mayor.",
+      "h2": "En Nebraska, las multas por exceso de velocidad se duplican en zonas escolares y en zonas de obras cuando hay trabajadores.",
+      "p": "Correcto. Las multas se duplican en esas zonas."
+    }
+  },
+  {
+    "id": "ne-026",
+    "scope": "NE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 1,
+    "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nebraska, a new resident has a valid license from another state. How soon must they get a Nebraska license?",
+      "o": [
+        "Within 10 days",
+        "Within 6 months",
+        "Within 30 days",
+        "Within one year"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In Nebraska, a new resident with a valid out-of-state license must get a Nebraska license within 30 days.",
+      "p": "Right. New residents have 30 days."
+    },
+    "es": {
+      "q": "En Nebraska, un nuevo residente tiene una licencia válida de otro estado. ¿En cuánto tiempo debe obtener una licencia de Nebraska?",
+      "o": [
+        "Dentro de 10 días",
+        "Dentro de 6 meses",
+        "Dentro de 30 días",
+        "Dentro de un año"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Nebraska, un nuevo residente con una licencia válida de otro estado debe obtener una licencia de Nebraska dentro de 30 días.",
+      "p": "Correcto. Los nuevos residentes tienen 30 días."
+    }
+  },
+  {
+    "id": "ne-027",
+    "scope": "NE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 73,
+    "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nebraska, you are in a crash that no police officer looked into, and someone was hurt. When must you send a crash report to the Department of Transportation?",
+      "o": [
+        "Within 24 hours",
+        "Within 30 days",
+        "Only if your insurance company asks",
+        "Within 10 days"
+      ],
+      "h1": "You have a little more than one week.",
+      "h2": "In Nebraska, if no officer investigated and someone was hurt or the damage was $1,500 or more, you must send a crash report within 10 days.",
+      "p": "Right. The report is due within 10 days."
+    },
+    "es": {
+      "q": "En Nebraska, usted tiene un choque que ningún policía investigó, y alguien resultó herido. ¿Cuándo debe enviar un reporte del choque al Departamento de Transporte?",
+      "o": [
+        "Dentro de 24 horas",
+        "Dentro de 30 días",
+        "Solo si su compañía de seguros lo pide",
+        "Dentro de 10 días"
+      ],
+      "h1": "Tiene un poco más de una semana.",
+      "h2": "En Nebraska, si ningún policía investigó y alguien resultó herido o el daño fue de $1,500 o más, debe enviar un reporte del choque dentro de 10 días.",
+      "p": "Correcto. El reporte se debe enviar dentro de 10 días."
+    }
   }
 ]
