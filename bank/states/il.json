@@ -2687,28 +2687,28 @@
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Illinois, how long is an instruction permit valid?",
+      "q": "In Illinois, how long is an instruction permit valid for a driver under 18?",
       "o": [
         "6 months",
         "12 months",
         "18 months",
         "24 months"
       ],
-      "h1": "It lasts longer than the nine months a teen must hold it.",
-      "h2": "In Illinois, an instruction permit is valid for 24 months.",
-      "p": "Right. The permit is good for 24 months."
+      "h1": "It lasts longer than the nine months a teen must hold it. A permit for an adult 18 or older is shorter.",
+      "h2": "In Illinois, an instruction permit issued to a driver under 18 is valid for 24 months.",
+      "p": "Right. A teen's permit is good for 24 months."
     },
     "es": {
-      "q": "En Illinois, ¿por cuánto tiempo es válido el permiso de aprendizaje?",
+      "q": "En Illinois, ¿por cuánto tiempo es válido el permiso de aprendizaje de un conductor menor de 18 años?",
       "o": [
         "6 meses",
         "12 meses",
         "18 meses",
         "24 meses"
       ],
-      "h1": "Dura más que los nueve meses que un adolescente debe tenerlo.",
-      "h2": "En Illinois, el permiso de aprendizaje es válido por 24 meses.",
-      "p": "Correcto. El permiso es válido por 24 meses."
+      "h1": "Dura más que los nueve meses que un adolescente debe tenerlo. El permiso de un adulto de 18 años o más dura menos.",
+      "h2": "En Illinois, el permiso de aprendizaje de un conductor menor de 18 años es válido por 24 meses.",
+      "p": "Correcto. El permiso de un adolescente es válido por 24 meses."
     }
   },
   {
@@ -2885,7 +2885,7 @@
     "id": "il-042",
     "scope": "IL",
     "cat": "speed-lanes",
-    "conf": "high",
+    "conf": "medium",
     "page": 29,
     "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
     "sign": null,
@@ -3068,7 +3068,7 @@
         "They are suspended for 1 week",
         "They are revoked for 10 years"
       ],
-      "h1": "You lose your license for a few months, and no driving permit is offered.",
+      "h1": "It is more than a fine: you lose your license for a few months.",
       "h2": "In Illinois, a conviction for driving without the required insurance means losing your driving privileges for at least three months.",
       "p": "Right. At least a 3-month suspension."
     },
@@ -3080,7 +3080,7 @@
         "Se lo suspenden por 1 semana",
         "Se lo revocan por 10 años"
       ],
-      "h1": "Pierde la licencia por unos meses y no le dan un permiso para manejar.",
+      "h1": "Es más que una multa: pierde la licencia por unos meses.",
       "h2": "En Illinois, una condena por manejar sin el seguro obligatorio significa perder el privilegio de manejar por al menos tres meses.",
       "p": "Correcto. Una suspensión de al menos 3 meses."
     }
@@ -3236,11 +3236,11 @@
         "In an open bag on the back seat",
         "In a closed paper bag in the glove box",
         "Anywhere, as long as no one uses it",
-        "In a sealed, odor-proof, child-resistant container"
+        "In a sealed or resealable, odor-proof, child-resistant container that no one can reach"
       ],
-      "h1": "The container must keep in the smell and keep out small children.",
-      "h2": "In Illinois, cannabis may be carried in a vehicle only in a sealed, odor-proof, child-resistant container.",
-      "p": "Right. Sealed, odor-proof and child-resistant."
+      "h1": "The container must keep in the smell, keep out small children, and be out of reach.",
+      "h2": "In Illinois, cannabis may be carried in a vehicle only in a secured, sealed or resealable, odor-proof, child-resistant container that no one in the vehicle can reach.",
+      "p": "Right. Sealed, odor-proof, child-resistant and out of reach."
     },
     "es": {
       "q": "En Illinois, ¿cómo se debe llevar el cannabis en un vehículo?",
@@ -3248,11 +3248,11 @@
         "En una bolsa abierta en el asiento de atrás",
         "En una bolsa de papel cerrada en la guantera",
         "En cualquier lugar, si nadie lo usa",
-        "En un envase sellado, a prueba de olores y a prueba de niños"
+        "En un envase sellado o que se vuelve a cerrar, a prueba de olores y de niños, fuera del alcance de todos"
       ],
-      "h1": "El envase debe guardar el olor y no dejar que los niños pequeños lo abran.",
-      "h2": "En Illinois, el cannabis solo se puede llevar en un vehículo en un envase sellado, a prueba de olores y a prueba de niños.",
-      "p": "Correcto. Sellado, a prueba de olores y a prueba de niños."
+      "h1": "El envase debe guardar el olor, no dejar que los niños pequeños lo abran y estar fuera del alcance.",
+      "h2": "En Illinois, el cannabis solo se puede llevar en un vehículo en un envase asegurado, sellado o que se vuelve a cerrar, a prueba de olores y a prueba de niños, que nadie en el vehículo pueda alcanzar.",
+      "p": "Correcto. Sellado, a prueba de olores y de niños, y fuera del alcance."
     }
   }
 ]
