@@ -1392,5 +1392,311 @@
       "h2": "في Oregon لا يجوز للسائق الذي عمره أقل من 21 سنة أن يقود وفي جسمه أي كمية من الكحول.",
       "p": "صحيح. تحت 21 سنة، لا كحول أبدًا."
     }
+  },
+  {
+    "id": "or-018",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 2,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, the knowledge test for a regular license has 35 questions. How many must you answer correctly to pass?",
+      "o": [
+        "21",
+        "25",
+        "28",
+        "32"
+      ],
+      "h1": "You need about 80 percent right.",
+      "h2": "In Oregon you must answer 28 of the 35 questions correctly to pass the knowledge test.",
+      "p": "Right. You need 28 correct answers out of 35."
+    },
+    "es": {
+      "q": "En Oregon, el examen de conocimientos para una licencia normal tiene 35 preguntas. ¿Cuántas debe contestar bien para aprobar?",
+      "o": [
+        "21",
+        "25",
+        "28",
+        "32"
+      ],
+      "h1": "Necesita cerca del 80 por ciento correcto.",
+      "h2": "En Oregon usted debe contestar bien 28 de las 35 preguntas para aprobar el examen de conocimientos.",
+      "p": "Correcto. Necesita 28 respuestas correctas de 35."
+    }
+  },
+  {
+    "id": "or-019",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 94,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, you were in a crash that must be reported to the DMV. How soon must you file the report?",
+      "o": [
+        "Within 72 hours",
+        "Within 10 days",
+        "Within 30 days",
+        "Only if the police ask"
+      ],
+      "h1": "It is counted in hours, not days.",
+      "h2": "In Oregon you must file a crash report with the DMV within 72 hours when the crash must be reported.",
+      "p": "Right. The DMV report is due within 72 hours."
+    },
+    "es": {
+      "q": "En Oregon, usted tuvo un choque que debe reportarse al DMV. ¿En cuánto tiempo debe presentar el reporte?",
+      "o": [
+        "Dentro de 72 horas",
+        "Dentro de 10 días",
+        "Dentro de 30 días",
+        "Solo si la policía lo pide"
+      ],
+      "h1": "Se cuenta en horas, no en días.",
+      "h2": "En Oregon usted debe presentar el reporte de choque al DMV dentro de 72 horas cuando el choque debe reportarse.",
+      "p": "Correcto. El reporte al DMV se entrega dentro de 72 horas."
+    }
+  },
+  {
+    "id": "or-020",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 94,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, you must report a crash to the DMV if the damage to the car you were driving is more than what amount?",
+      "o": [
+        "$500",
+        "$1,000",
+        "$1,500",
+        "$2,500"
+      ],
+      "h1": "It is the highest amount listed.",
+      "h2": "In Oregon you must report a crash to the DMV when the damage to the car you were driving is over $2,500.",
+      "p": "Right. Damage over $2,500 means you must file a report."
+    },
+    "es": {
+      "q": "En Oregon, usted debe reportar un choque al DMV si el daño al carro que manejaba es mayor de ¿qué cantidad?",
+      "o": [
+        "$500",
+        "$1,000",
+        "$1,500",
+        "$2,500"
+      ],
+      "h1": "Es la cantidad más alta de la lista.",
+      "h2": "En Oregon usted debe reportar un choque al DMV cuando el daño al carro que manejaba es mayor de $2,500.",
+      "p": "Correcto. Un daño de más de $2,500 significa que debe presentar un reporte."
+    }
+  },
+  {
+    "id": "or-021",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 94,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, does a police report about your crash take the place of your own report to the DMV?",
+      "o": [
+        "Yes, the police send it for you",
+        "No, you must still file your own DMV report",
+        "Yes, if no one was hurt",
+        "Only if the other driver agrees"
+      ],
+      "h1": "The duty to report is yours.",
+      "h2": "In Oregon a police report does not replace your own crash report, so you must still file one with the DMV.",
+      "p": "Right. You still file your own report with the DMV."
+    },
+    "es": {
+      "q": "En Oregon, ¿un reporte de la policía sobre su choque reemplaza su propio reporte al DMV?",
+      "o": [
+        "Sí, la policía lo envía por usted",
+        "No, usted debe presentar su propio reporte al DMV",
+        "Sí, si nadie salió herido",
+        "Solo si el otro conductor está de acuerdo"
+      ],
+      "h1": "La obligación de reportar es suya.",
+      "h2": "En Oregon un reporte de la policía no reemplaza su propio reporte de choque, así que usted debe presentar uno al DMV.",
+      "p": "Correcto. Usted presenta su propio reporte al DMV de todos modos."
+    }
+  },
+  {
+    "id": "or-022",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 93,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, what is the minimum insurance a car owner must carry for injury to one person in a crash?",
+      "o": [
+        "$25,000",
+        "$10,000",
+        "$15,000",
+        "$50,000"
+      ],
+      "h1": "It is half of the minimum for two or more people.",
+      "h2": "In Oregon a car owner must carry at least $25,000 of coverage for injury to one person in a crash.",
+      "p": "Right. The minimum is $25,000 for one person."
+    },
+    "es": {
+      "q": "En Oregon, ¿cuál es el seguro mínimo que debe tener el dueño de un carro por lesiones a una persona en un choque?",
+      "o": [
+        "$25,000",
+        "$10,000",
+        "$15,000",
+        "$50,000"
+      ],
+      "h1": "Es la mitad del mínimo para dos o más personas.",
+      "h2": "En Oregon el dueño de un carro debe tener por lo menos $25,000 de cobertura por lesiones a una persona en un choque.",
+      "p": "Correcto. El mínimo es $25,000 por persona."
+    }
+  },
+  {
+    "id": "or-023",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 74,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, until when must a child ride in an approved child safety seat?",
+      "o": [
+        "Until age 4 or 40 pounds",
+        "Until age 6 or 4 feet tall",
+        "Until age 8 or 4 feet 9 inches tall, when the adult belt fits",
+        "Until age 12, no matter the height"
+      ],
+      "h1": "It depends on both the age and the height of the child.",
+      "h2": "In Oregon a child must ride in an approved child safety seat until age 8 or 4 feet 9 inches tall, when the adult lap and shoulder belt fits correctly.",
+      "p": "Right. A child seat is needed until age 8 or 4 feet 9 inches, when the adult belt fits."
+    },
+    "es": {
+      "q": "En Oregon, ¿hasta cuándo debe viajar un niño en un asiento de seguridad aprobado?",
+      "o": [
+        "Hasta los 4 años o 40 libras",
+        "Hasta los 6 años o 4 pies de altura",
+        "Hasta los 8 años o 4 pies 9 pulgadas, cuando el cinturón de adulto le queda bien",
+        "Hasta los 12 años, sin importar la altura"
+      ],
+      "h1": "Depende de la edad y también de la estatura del niño.",
+      "h2": "En Oregon un niño debe viajar en un asiento de seguridad aprobado hasta los 8 años o hasta medir 4 pies 9 pulgadas, cuando el cinturón de regazo y hombro de adulto le queda bien.",
+      "p": "Correcto. Se necesita el asiento hasta los 8 años o 4 pies 9 pulgadas, cuando el cinturón de adulto le queda bien."
+    }
+  },
+  {
+    "id": "or-024",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 79,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, during which months are studded tires generally allowed?",
+      "o": [
+        "October 1 through April 30",
+        "November 1 through March 31",
+        "December 1 through February 28",
+        "All year in the mountains"
+      ],
+      "h1": "It starts in late fall and ends as spring begins.",
+      "h2": "In Oregon studded tires are generally allowed only from November 1 through March 31.",
+      "p": "Right. Studded tires are generally allowed from November 1 through March 31."
+    },
+    "es": {
+      "q": "En Oregon, ¿en qué meses se permiten en general las llantas con clavos (studded tires)?",
+      "o": [
+        "Del 1 de octubre al 30 de abril",
+        "Del 1 de noviembre al 31 de marzo",
+        "Del 1 de diciembre al 28 de febrero",
+        "Todo el año en las montañas"
+      ],
+      "h1": "Empieza a fines del otoño y termina al comenzar la primavera.",
+      "h2": "En Oregon las llantas con clavos se permiten en general solo del 1 de noviembre al 31 de marzo.",
+      "p": "Correcto. Las llantas con clavos se permiten en general del 1 de noviembre al 31 de marzo."
+    }
+  },
+  {
+    "id": "or-025",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 47,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, you are turning at an intersection with a traffic light. A person is crossing the street you are turning into. When may you start your turn?",
+      "o": [
+        "As soon as the person reaches the center line",
+        "When the person is 2 feet from your car",
+        "When your light turns green, no matter where the person is",
+        "When the person is at least 6 feet from the lane you are turning into"
+      ],
+      "h1": "The person needs a safe space away from your lane.",
+      "h2": "In Oregon, at an intersection with a traffic light, you may start your turn only when the person is at least 6 feet from the lane you are turning into.",
+      "p": "Right. Wait until the person is 6 feet or more from your lane."
+    },
+    "es": {
+      "q": "En Oregon, usted va a dar vuelta en una intersección con semáforo. Una persona está cruzando la calle a la que usted va a entrar. ¿Cuándo puede empezar la vuelta?",
+      "o": [
+        "En cuanto la persona llegue a la línea central",
+        "Cuando la persona esté a 2 pies de su carro",
+        "Cuando su luz cambie a verde, sin importar dónde esté la persona",
+        "Cuando la persona esté por lo menos a 6 pies del carril al que usted va a entrar"
+      ],
+      "h1": "La persona necesita un espacio seguro lejos de su carril.",
+      "h2": "En Oregon, en una intersección con semáforo, usted puede empezar la vuelta solo cuando la persona está por lo menos a 6 pies del carril al que va a entrar.",
+      "p": "Correcto. Espere hasta que la persona esté a 6 pies o más de su carril."
+    }
+  },
+  {
+    "id": "or-026",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 70,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 10 feet",
+        "No closer than 5 feet",
+        "No closer than 20 feet",
+        "No closer than 30 feet"
+      ],
+      "h1": "It is a little less than the length of one car.",
+      "h2": "In Oregon you may not park within 10 feet of a fire hydrant.",
+      "p": "Right. Stay at least 10 feet away from a fire hydrant."
+    },
+    "es": {
+      "q": "En Oregon, ¿qué tan cerca de un hidrante de incendios puede estacionarse?",
+      "o": [
+        "No más cerca de 10 pies",
+        "No más cerca de 5 pies",
+        "No más cerca de 20 pies",
+        "No más cerca de 30 pies"
+      ],
+      "h1": "Es un poco menos que el largo de un carro.",
+      "h2": "En Oregon usted no puede estacionarse a menos de 10 pies de un hidrante de incendios.",
+      "p": "Correcto. Manténgase por lo menos a 10 pies de un hidrante."
+    }
   }
 ]
