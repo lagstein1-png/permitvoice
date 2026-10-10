@@ -2704,5 +2704,651 @@
       "h2": "في North Dakota يمكنك تجديد رخصتك قبل انتهائها بمدة تصل إلى 10 أشهر دون أن تخسر المدة المتبقية في رخصتك القديمة.",
       "p": "صحيح. يمكنك التجديد مبكرًا بمدة تصل إلى 10 أشهر."
     }
+  },
+  {
+    "id": "nd-034",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 2,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, you just moved here and have a valid license from another state. How long may you drive a car with it?",
+      "o": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "1 year"
+      ],
+      "h1": "It is about two months.",
+      "h2": "In North Dakota a new resident may drive with a valid license from another state for 60 days, then must get a North Dakota license.",
+      "p": "Right. You have 60 days to get a North Dakota license."
+    },
+    "es": {
+      "q": "En Dakota del Norte, usted acaba de mudarse y tiene una licencia válida de otro estado. ¿Por cuánto tiempo puede manejar un carro con ella?",
+      "o": [
+        "30 días",
+        "60 días",
+        "90 días",
+        "1 año"
+      ],
+      "h1": "Son unos dos meses.",
+      "h2": "En Dakota del Norte un nuevo residente puede manejar con una licencia válida de otro estado por 60 días, y después debe sacar una licencia de Dakota del Norte.",
+      "p": "Correcto. Usted tiene 60 días para sacar una licencia de Dakota del Norte."
+    }
+  },
+  {
+    "id": "nd-035",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 8,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, you change your name or address. How soon must you tell the Driver License Division?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 60 days",
+        "At your next renewal"
+      ],
+      "h1": "It is less than two weeks.",
+      "h2": "In North Dakota you must tell the Driver License Division about a new name or address within 10 days.",
+      "p": "Right. Report a new name or address within 10 days."
+    },
+    "es": {
+      "q": "En Dakota del Norte, usted cambia de nombre o de dirección. ¿En cuánto tiempo debe avisar a la División de Licencias de Conducir?",
+      "o": [
+        "Dentro de 10 días",
+        "Dentro de 30 días",
+        "Dentro de 60 días",
+        "En su próxima renovación"
+      ],
+      "h1": "Es menos de dos semanas.",
+      "h2": "En Dakota del Norte usted debe avisar a la División de Licencias de Conducir de un nuevo nombre o dirección dentro de 10 días.",
+      "p": "Correcto. Avise de un nuevo nombre o dirección dentro de 10 días."
+    }
+  },
+  {
+    "id": "nd-036",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, you are driving with an instruction permit. Who may sit in the front seat with you?",
+      "o": [
+        "Any passenger who wears a seat belt",
+        "Any passenger 16 or older",
+        "Only the supervising driver, unless the vehicle has only a front seat",
+        "Anyone, if the back seat is full"
+      ],
+      "h1": "The front seat is kept for the person who is teaching you.",
+      "h2": "In North Dakota only the supervising driver may sit in the front seat with a permit holder, unless the vehicle has only a front seat.",
+      "p": "Right. Only the supervising driver sits up front with you."
+    },
+    "es": {
+      "q": "En Dakota del Norte, usted maneja con un permiso de aprendizaje. ¿Quién puede ir en el asiento delantero con usted?",
+      "o": [
+        "Cualquier pasajero que use el cinturón",
+        "Cualquier pasajero de 16 años o más",
+        "Solo el conductor que lo supervisa, a menos que el vehículo tenga solo asiento delantero",
+        "Cualquier persona, si el asiento de atrás está lleno"
+      ],
+      "h1": "El asiento delantero es para la persona que le enseña.",
+      "h2": "En Dakota del Norte solo el conductor que supervisa puede ir en el asiento delantero con quien tiene un permiso, a menos que el vehículo tenga solo asiento delantero.",
+      "p": "Correcto. Solo el conductor que lo supervisa va adelante con usted."
+    }
+  },
+  {
+    "id": "nd-037",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, how can you have the Class D road test waived?",
+      "o": [
+        "Pass the knowledge test with a perfect score",
+        "Hold your permit for two years",
+        "Log 100 hours of driving with a parent",
+        "Show a certificate from an approved course with 30 hours of classroom and 6 hours behind the wheel"
+      ],
+      "h1": "Think of a driver training course with both class time and driving time.",
+      "h2": "In North Dakota the road test can be waived with a certificate from an approved course of at least 30 hours of classroom and 6 hours of behind-the-wheel training.",
+      "p": "Right. An approved 30-hour classroom and 6-hour driving course can waive the road test."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cómo puede usted quedar exento del examen de manejo de la Clase D?",
+      "o": [
+        "Aprobar el examen escrito con una nota perfecta",
+        "Tener el permiso por dos años",
+        "Anotar 100 horas de manejo con un padre",
+        "Mostrar un certificado de un curso aprobado con 30 horas de clase y 6 horas al volante"
+      ],
+      "h1": "Piense en un curso de manejo con horas de clase y horas manejando.",
+      "h2": "En Dakota del Norte se puede omitir el examen de manejo con un certificado de un curso aprobado de al menos 30 horas de clase y 6 horas de práctica al volante.",
+      "p": "Correcto. Un curso aprobado de 30 horas de clase y 6 horas al volante puede reemplazar el examen de manejo."
+    }
+  },
+  {
+    "id": "nd-038",
+    "scope": "ND",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 40,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, how many points can an approved driver improvement course, such as a defensive driving course, take off your record?",
+      "o": [
+        "1 point",
+        "3 points",
+        "6 points",
+        "All of your points"
+      ],
+      "h1": "It is more than the one point you get back after three months with no new points.",
+      "h2": "In North Dakota finishing an approved driver improvement course takes 3 points off your driving record.",
+      "p": "Right. The course takes off 3 points."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuántos puntos puede quitar de su récord un curso aprobado de mejoramiento del conductor, como un curso de manejo defensivo?",
+      "o": [
+        "1 punto",
+        "3 puntos",
+        "6 puntos",
+        "Todos sus puntos"
+      ],
+      "h1": "Es más que el punto que se quita después de tres meses sin puntos nuevos.",
+      "h2": "En Dakota del Norte terminar un curso aprobado de mejoramiento del conductor quita 3 puntos de su récord de manejo.",
+      "p": "Correcto. El curso quita 3 puntos."
+    }
+  },
+  {
+    "id": "nd-039",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 27,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, what is the fine for throwing litter on a public highway?",
+      "o": [
+        "$50",
+        "$100",
+        "$500",
+        "$1,000"
+      ],
+      "h1": "It is several hundred dollars.",
+      "h2": "In North Dakota throwing litter on a public highway can bring a $500 fine.",
+      "p": "Right. Littering on a highway can cost $500."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuál es la multa por tirar basura en una carretera pública?",
+      "o": [
+        "$50",
+        "$100",
+        "$500",
+        "$1,000"
+      ],
+      "h1": "Son varios cientos de dólares.",
+      "h2": "En Dakota del Norte tirar basura en una carretera pública puede costar una multa de $500.",
+      "p": "Correcto. Tirar basura en la carretera puede costar $500."
+    }
+  },
+  {
+    "id": "nd-040",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 27,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, what is the fine for driving onto a road that is officially closed because of dangerous conditions?",
+      "o": [
+        "$250",
+        "$50",
+        "$100",
+        "$1,000"
+      ],
+      "h1": "It is more than $200.",
+      "h2": "In North Dakota driving onto a road that is officially closed for dangerous conditions brings a $250 fine.",
+      "p": "Right. Entering a closed road costs $250."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuál es la multa por entrar a una carretera cerrada oficialmente por condiciones peligrosas?",
+      "o": [
+        "$250",
+        "$50",
+        "$100",
+        "$1,000"
+      ],
+      "h1": "Es más de $200.",
+      "h2": "En Dakota del Norte entrar a una carretera cerrada oficialmente por condiciones peligrosas trae una multa de $250.",
+      "p": "Correcto. Entrar a una carretera cerrada cuesta $250."
+    }
+  },
+  {
+    "id": "nd-041",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, when may you use studded snow tires?",
+      "o": [
+        "All year",
+        "From November 1 to March 1",
+        "Only when snow is on the road",
+        "From October 15 to April 15"
+      ],
+      "h1": "The season starts in the middle of October.",
+      "h2": "In North Dakota studded snow tires may be used from October 15 to April 15.",
+      "p": "Right. Studded tires are allowed from October 15 to April 15."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuándo puede usar llantas de nieve con clavos?",
+      "o": [
+        "Todo el año",
+        "Del 1 de noviembre al 1 de marzo",
+        "Solo cuando hay nieve en la carretera",
+        "Del 15 de octubre al 15 de abril"
+      ],
+      "h1": "La temporada empieza a mediados de octubre.",
+      "h2": "En Dakota del Norte las llantas de nieve con clavos se pueden usar del 15 de octubre al 15 de abril.",
+      "p": "Correcto. Las llantas con clavos se permiten del 15 de octubre al 15 de abril."
+    }
+  },
+  {
+    "id": "nd-042",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, your car gets stuck in a snowstorm. What should you do?",
+      "o": [
+        "Walk to the nearest house for help",
+        "Stay with the car and run the engine and heater only for short times, with a window open a little",
+        "Run the engine the whole time with all windows closed",
+        "Leave the car and follow the road on foot"
+      ],
+      "h1": "Most deaths happen when people leave their cars and get lost.",
+      "h2": "In North Dakota, if you are stuck in a snowstorm, you should stay with your car and run the engine and heater only for short times, with a window slightly open.",
+      "p": "Right. Stay with the car and run the heater only now and then, with a window open a little."
+    },
+    "es": {
+      "q": "En Dakota del Norte, su carro se queda atascado en una tormenta de nieve. ¿Qué debe hacer?",
+      "o": [
+        "Caminar a la casa más cercana para pedir ayuda",
+        "Quedarse con el carro y prender el motor y la calefacción solo por ratos cortos, con una ventana un poco abierta",
+        "Dejar el motor prendido todo el tiempo con las ventanas cerradas",
+        "Dejar el carro y seguir la carretera a pie"
+      ],
+      "h1": "La mayoría de las muertes ocurren cuando la gente deja el carro y se pierde.",
+      "h2": "En Dakota del Norte, si usted queda atascado en una tormenta de nieve, debe quedarse con el carro y prender el motor y la calefacción solo por ratos cortos, con una ventana un poco abierta.",
+      "p": "Correcto. Quédese con el carro y use la calefacción solo por ratos, con una ventana un poco abierta."
+    }
+  },
+  {
+    "id": "nd-043",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, a driver has a first offense in seven years with an alcohol level of 0.08 percent (below 0.18). How long is the license suspended?",
+      "o": [
+        "30 days",
+        "1 year",
+        "91 days",
+        "2 years"
+      ],
+      "h1": "It is about three months.",
+      "h2": "In North Dakota a first offense in seven years at 0.08 percent or more, but below 0.18, brings a 91-day license suspension.",
+      "p": "Right. A first offense brings a 91-day suspension."
+    },
+    "es": {
+      "q": "En Dakota del Norte, un conductor tiene una primera infracción en siete años con un nivel de alcohol de 0.08 por ciento (menos de 0.18). ¿Por cuánto tiempo se suspende la licencia?",
+      "o": [
+        "30 días",
+        "1 año",
+        "91 días",
+        "2 años"
+      ],
+      "h1": "Son unos tres meses.",
+      "h2": "En Dakota del Norte una primera infracción en siete años con 0.08 por ciento o más, pero menos de 0.18, trae una suspensión de la licencia de 91 días.",
+      "p": "Correcto. Una primera infracción trae una suspensión de 91 días."
+    }
+  },
+  {
+    "id": "nd-044",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 34,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, what is the penalty for the driver when a child is not buckled in as the child passenger law requires?",
+      "o": [
+        "A $25 fine and one point on the license",
+        "A warning only",
+        "A $500 fine and a license suspension",
+        "Two points and no fine"
+      ],
+      "h1": "The fine is small, but it also goes on your record.",
+      "h2": "In North Dakota breaking the child passenger safety law costs the driver a $25 fine and one point on the license.",
+      "p": "Right. It is a $25 fine and one point."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuál es la sanción para el conductor cuando un niño no va asegurado como exige la ley de pasajeros infantiles?",
+      "o": [
+        "Una multa de $25 y un punto en la licencia",
+        "Solo una advertencia",
+        "Una multa de $500 y la suspensión de la licencia",
+        "Dos puntos y ninguna multa"
+      ],
+      "h1": "La multa es pequeña, pero también va a su récord.",
+      "h2": "En Dakota del Norte violar la ley de seguridad de pasajeros infantiles le cuesta al conductor una multa de $25 y un punto en la licencia.",
+      "p": "Correcto. Es una multa de $25 y un punto."
+    }
+  },
+  {
+    "id": "nd-045",
+    "scope": "ND",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 24,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, in rain, snow or fog, you should turn on your headlights when you cannot see clearly for how far?",
+      "o": [
+        "200 feet",
+        "500 feet",
+        "2,000 feet",
+        "1,000 feet"
+      ],
+      "h1": "It is a little less than a fifth of a mile.",
+      "h2": "In North Dakota you should use your headlights in bad weather when you cannot see clearly for 1,000 feet.",
+      "p": "Right. Lights on when you cannot see 1,000 feet ahead."
+    },
+    "es": {
+      "q": "En Dakota del Norte, con lluvia, nieve o niebla, ¿debe prender las luces delanteras cuando no puede ver con claridad a qué distancia?",
+      "o": [
+        "200 pies",
+        "500 pies",
+        "2,000 pies",
+        "1,000 pies"
+      ],
+      "h1": "Es un poco menos de un quinto de milla.",
+      "h2": "En Dakota del Norte usted debe usar las luces delanteras con mal tiempo cuando no puede ver con claridad a 1,000 pies.",
+      "p": "Correcto. Prenda las luces cuando no pueda ver a 1,000 pies."
+    }
+  },
+  {
+    "id": "nd-046",
+    "scope": "ND",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, what is the speed limit in a business or residential district when no sign says otherwise?",
+      "o": [
+        "20 mph",
+        "25 mph",
+        "30 mph",
+        "35 mph"
+      ],
+      "h1": "It is a quarter of 100.",
+      "h2": "In North Dakota the speed limit in a business or residential district is 25 mph unless a sign says otherwise.",
+      "p": "Right. It is 25 mph in town unless posted."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuál es el límite de velocidad en una zona comercial o residencial cuando no hay un letrero que diga otra cosa?",
+      "o": [
+        "20 mph",
+        "25 mph",
+        "30 mph",
+        "35 mph"
+      ],
+      "h1": "Es la cuarta parte de 100.",
+      "h2": "En Dakota del Norte el límite de velocidad en una zona comercial o residencial es de 25 mph, a menos que un letrero diga otra cosa.",
+      "p": "Correcto. Son 25 mph en la ciudad si no hay otro letrero."
+    }
+  },
+  {
+    "id": "nd-047",
+    "scope": "ND",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, you are coming up to a railroad crossing and your view of the track is blocked. What is the speed limit, unless a sign says otherwise?",
+      "o": [
+        "10 mph",
+        "30 mph",
+        "20 mph",
+        "35 mph"
+      ],
+      "h1": "It is the same as the limit near a school at recess.",
+      "h2": "In North Dakota the speed limit is 20 mph when you approach a railroad crossing and cannot see the track clearly, unless a sign says otherwise.",
+      "p": "Right. Slow to 20 mph when you cannot see the track."
+    },
+    "es": {
+      "q": "En Dakota del Norte, usted se acerca a un cruce de ferrocarril y no puede ver bien la vía. ¿Cuál es el límite de velocidad, a menos que un letrero diga otra cosa?",
+      "o": [
+        "10 mph",
+        "30 mph",
+        "20 mph",
+        "35 mph"
+      ],
+      "h1": "Es igual al límite cerca de una escuela durante el recreo.",
+      "h2": "En Dakota del Norte el límite de velocidad es de 20 mph al acercarse a un cruce de ferrocarril cuando no puede ver bien la vía, a menos que un letrero diga otra cosa.",
+      "p": "Correcto. Baje a 20 mph cuando no pueda ver la vía."
+    }
+  },
+  {
+    "id": "nd-048",
+    "scope": "ND",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, what is the speed limit on a paved, divided highway with more than one lane each way (not an interstate), unless a sign says otherwise?",
+      "o": [
+        "55 mph",
+        "65 mph",
+        "80 mph",
+        "70 mph"
+      ],
+      "h1": "It is 10 mph less than on rural interstates.",
+      "h2": "In North Dakota the speed limit on a paved, divided multi-lane highway is 70 mph unless a sign says otherwise.",
+      "p": "Right. It is 70 mph on divided multi-lane highways."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿cuál es el límite de velocidad en una carretera pavimentada y dividida con más de un carril en cada sentido (que no es interestatal), a menos que un letrero diga otra cosa?",
+      "o": [
+        "55 mph",
+        "65 mph",
+        "80 mph",
+        "70 mph"
+      ],
+      "h1": "Es 10 mph menos que en las interestatales rurales.",
+      "h2": "En Dakota del Norte el límite de velocidad en una carretera pavimentada y dividida de varios carriles es de 70 mph, a menos que un letrero diga otra cosa.",
+      "p": "Correcto. Son 70 mph en carreteras divididas de varios carriles."
+    }
+  },
+  {
+    "id": "nd-049",
+    "scope": "ND",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 26,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Dakota, how close to a stop sign or a traffic signal at the side of the road may you park?",
+      "o": [
+        "No closer than 15 feet",
+        "No closer than 5 feet",
+        "No closer than 30 feet",
+        "No closer than 50 feet"
+      ],
+      "h1": "It is more than the distance for a fire hydrant.",
+      "h2": "In North Dakota you may not park within 15 feet of a stop sign, a flashing beacon or a traffic signal at the side of the road.",
+      "p": "Right. Stay at least 15 feet from a stop sign or signal."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿qué tan cerca de un letrero de alto o de un semáforo al lado de la calle puede estacionarse?",
+      "o": [
+        "A no menos de 15 pies",
+        "A no menos de 5 pies",
+        "A no menos de 30 pies",
+        "A no menos de 50 pies"
+      ],
+      "h1": "Es más que la distancia para un hidrante.",
+      "h2": "En Dakota del Norte usted no puede estacionarse a menos de 15 pies de un letrero de alto, una luz intermitente o un semáforo al lado de la calle.",
+      "p": "Correcto. Quédese por lo menos a 15 pies de un letrero de alto o un semáforo."
+    }
+  },
+  {
+    "id": "nd-050",
+    "scope": "ND",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 21,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Dakota, you are passing on a two-lane road. How far ahead of an oncoming vehicle should you be back in your own lane?",
+      "o": [
+        "At least 50 feet",
+        "At least 100 feet",
+        "At least 200 feet",
+        "At least 1,000 feet"
+      ],
+      "h1": "It is about the length of ten cars.",
+      "h2": "In North Dakota you should finish passing and be back in your lane at least 200 feet before you meet an oncoming vehicle.",
+      "p": "Right. Be back in your lane at least 200 feet before oncoming traffic."
+    },
+    "es": {
+      "q": "En Dakota del Norte, usted está rebasando en una carretera de dos carriles. ¿A qué distancia de un vehículo que viene de frente debe estar ya de vuelta en su carril?",
+      "o": [
+        "Por lo menos 50 pies",
+        "Por lo menos 100 pies",
+        "Por lo menos 200 pies",
+        "Por lo menos 1,000 pies"
+      ],
+      "h1": "Es más o menos el largo de diez carros.",
+      "h2": "En Dakota del Norte usted debe terminar de rebasar y estar de vuelta en su carril por lo menos 200 pies antes de encontrarse con un vehículo que viene de frente.",
+      "p": "Correcto. Vuelva a su carril por lo menos 200 pies antes del tráfico que viene de frente."
+    }
+  },
+  {
+    "id": "nd-051",
+    "scope": "ND",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Dakota, on a two-lane road, a police car is parked at a crash with its emergency lights flashing. No officer is directing traffic. What must you do?",
+      "o": [
+        "Keep going at the same speed",
+        "Drive to the right side of the road and stop, then pass with care when the road is clear",
+        "Honk and pass quickly",
+        "Stop in your lane until the police car leaves"
+      ],
+      "h1": "First you stop at the edge of the road; then you may go on carefully.",
+      "h2": "In North Dakota you must drive to the right side of the road and stop for an emergency vehicle parked at a crash with its lights flashing, then you may pass with care when the road is clear.",
+      "p": "Right. Pull right and stop, then pass with care when it is clear."
+    },
+    "es": {
+      "q": "En Dakota del Norte, en una carretera de dos carriles, un carro de policía está estacionado en un choque con sus luces de emergencia encendidas. Ningún oficial dirige el tráfico. ¿Qué debe hacer?",
+      "o": [
+        "Seguir a la misma velocidad",
+        "Ir al lado derecho de la carretera y detenerse, y luego pasar con cuidado cuando el camino esté libre",
+        "Tocar la bocina y pasar rápido",
+        "Detenerse en su carril hasta que el carro de policía se vaya"
+      ],
+      "h1": "Primero se detiene a la orilla del camino; después puede seguir con cuidado.",
+      "h2": "En Dakota del Norte usted debe ir al lado derecho de la carretera y detenerse ante un vehículo de emergencia estacionado en un choque con las luces encendidas, y luego puede pasar con cuidado cuando el camino esté libre.",
+      "p": "Correcto. Oríllese a la derecha y deténgase, y luego pase con cuidado cuando esté libre."
+    }
+  },
+  {
+    "id": "nd-052",
+    "scope": "ND",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Dakota, which vehicles must always stop at a railroad crossing, so you should not pass them there?",
+      "o": [
+        "Only vehicles pulling a trailer",
+        "Only motorcycles",
+        "All pickup trucks",
+        "School buses, buses with passengers, and trucks carrying fuel or explosives"
+      ],
+      "h1": "Think of vehicles that carry children, many people, or dangerous loads.",
+      "h2": "In North Dakota school buses, buses carrying passengers, and vehicles carrying explosives or flammable liquids must stop between 15 and 50 feet from the tracks, so you should not pass them there.",
+      "p": "Right. School buses, passenger buses, and fuel or explosive trucks always stop at the tracks."
+    },
+    "es": {
+      "q": "En Dakota del Norte, ¿qué vehículos deben detenerse siempre en un cruce de ferrocarril, por lo que usted no debe rebasarlos allí?",
+      "o": [
+        "Solo los vehículos que jalan un remolque",
+        "Solo las motocicletas",
+        "Todas las camionetas pickup",
+        "Los autobuses escolares, los autobuses con pasajeros y los camiones con combustible o explosivos"
+      ],
+      "h1": "Piense en vehículos que llevan niños, mucha gente o cargas peligrosas.",
+      "h2": "En Dakota del Norte los autobuses escolares, los autobuses con pasajeros y los vehículos con explosivos o líquidos inflamables deben detenerse a entre 15 y 50 pies de la vía, por lo que usted no debe rebasarlos allí.",
+      "p": "Correcto. Los autobuses escolares, los de pasajeros y los camiones con combustible o explosivos siempre se detienen en la vía."
+    }
   }
 ]
