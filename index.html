@@ -363,6 +363,11 @@ function signSVG(sg){
     'do-not-enter': `<rect x="2" y="2" width="96" height="96" fill="#fff"/><circle cx="50" cy="50" r="44" fill="#C1272D"/><rect x="18" y="43" width="64" height="14" fill="#fff"/>`,
     'wrong-way': `<rect x="4" y="22" width="92" height="56" fill="#C1272D" stroke="#fff" stroke-width="3"/>${lines('#fff', 55, 14)}`,
     'no-passing': `<polygon points="4,18 96,50 4,82" fill="#F7C600" stroke="#13202C" stroke-width="3"/><text x="34" y="46" font-size="11" font-family="Arial" font-weight="700" fill="#13202C" text-anchor="middle">NO</text><text x="34" y="60" font-size="11" font-family="Arial" font-weight="700" fill="#13202C" text-anchor="middle">PASSING</text>`,
+    'diamond-ygreen': `<polygon points="50,3 97,50 50,97 3,50" fill="#C6E636" stroke="#13202C" stroke-width="3"/>${lines('#13202C', 56, 12)}`,
+    'rect-orange': `<rect x="4" y="18" width="92" height="64" rx="6" fill="#F28C28" stroke="#13202C" stroke-width="3"/>${lines('#13202C', 55, 12)}`,
+    'rect-yellow': `<rect x="4" y="18" width="92" height="64" rx="6" fill="#F7C600" stroke="#13202C" stroke-width="3"/>${lines('#13202C', 55, 12)}`,
+    'rect-black': `<rect x="4" y="18" width="92" height="64" rx="6" fill="#13202C" stroke="#fff" stroke-width="3"/>${lines('#fff', 55, 12)}`,
+    'one-way': `<rect x="2" y="30" width="96" height="40" fill="#13202C" stroke="#fff" stroke-width="2"/><polygon points="8,40 68,40 68,33 94,50 68,67 68,60 8,60" fill="#fff"/><text x="38" y="54" font-size="11" fill="#13202C" text-anchor="middle" font-family="Arial" font-weight="700">${tx || 'ONE WAY'}</text>`,
     'interstate': `<path d="M10 22 Q50 8 90 22 Q92 70 50 96 Q8 70 10 22Z" fill="#1F4E9C" stroke="#fff" stroke-width="3"/><path d="M10 22 Q50 8 90 22 L90 34 L10 34Z" fill="#C1272D"/><text x="50" y="72" font-size="26" fill="#fff" text-anchor="middle" font-family="Arial" font-weight="700">${tx}</text>`
   };
   const body = S2[sg.shape];
