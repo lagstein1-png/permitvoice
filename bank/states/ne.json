@@ -9062,5 +9062,141 @@
       "h2": "En Nebraska, un nuevo residente de 18 años o más que no puede entregar su licencia de otro estado, o cuya licencia está vencida, debe hacer el examen escrito.",
       "p": "Correcto. Se requiere el examen escrito."
     }
+  },
+  {
+    "id": "ne-197",
+    "scope": "NE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nebraska, what is the youngest age to get a Class M (motorcycle) license?",
+      "o": [
+        "15",
+        "17",
+        "16",
+        "21"
+      ],
+      "h1": "It is older than the youngest age for a provisional operator's permit (POP) for a car.",
+      "h2": "In Nebraska, the youngest age for a Class M motorcycle license is 17, and a rider under 18 must first have held a POP for at least 12 months.",
+      "p": "Right. The youngest age is 17."
+    },
+    "es": {
+      "q": "En Nebraska, ¿cuál es la edad mínima para obtener una licencia Clase M (de motocicleta)?",
+      "o": [
+        "15",
+        "17",
+        "16",
+        "21"
+      ],
+      "h1": "Es mayor que la edad mínima para el permiso provisional de operador (POP) para carro.",
+      "h2": "En Nebraska, la edad mínima para la licencia de motocicleta Clase M es 17 años, y un menor de 18 debe haber tenido antes un POP por al menos 12 meses.",
+      "p": "Correcto. La edad mínima es 17 años."
+    }
+  },
+  {
+    "id": "ne-198",
+    "scope": "NE",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 53,
+    "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nebraska, you are caught driving more than 35 mph over the limit on a normal road (not a school or work zone). What is the fine, before court costs?",
+      "o": [
+        "$150",
+        "$200",
+        "$600",
+        "$300"
+      ],
+      "h1": "In a school or work zone, this fine would be doubled.",
+      "h2": "In Nebraska, driving more than 35 mph over the limit on a normal road brings a $300 fine, plus court costs; in a school zone or a work zone with workers it is $600.",
+      "p": "Right. The fine is $300."
+    },
+    "es": {
+      "q": "En Nebraska, lo sorprenden manejando a más de 35 mph sobre el límite en un camino normal (no en zona escolar ni de obras). ¿Cuál es la multa, sin contar los costos del tribunal?",
+      "o": [
+        "$150",
+        "$200",
+        "$600",
+        "$300"
+      ],
+      "h1": "En una zona escolar o de obras, esta multa sería el doble.",
+      "h2": "En Nebraska, manejar a más de 35 mph sobre el límite en un camino normal trae una multa de $300, más los costos del tribunal; en una zona escolar o de obras con trabajadores es de $600.",
+      "p": "Correcto. La multa es de $300."
+    }
+  },
+  {
+    "id": "ne-199",
+    "scope": "NE",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nebraska, you have a valid license but left it at home. You get a ticket for not having it with you. How many points go on your record?",
+      "o": [
+        "No points",
+        "1 point",
+        "2 points",
+        "3 points"
+      ],
+      "h1": "The manual lists this with parking tickets in the points rules.",
+      "h2": "In Nebraska, no points are added for not having your valid operator's license with you, just as there are no points for parking tickets.",
+      "p": "Right. No points."
+    },
+    "es": {
+      "q": "En Nebraska, usted tiene una licencia válida pero la dejó en casa. Le ponen una multa por no llevarla. ¿Cuántos puntos se agregan a su historial?",
+      "o": [
+        "Ningún punto",
+        "1 punto",
+        "2 puntos",
+        "3 puntos"
+      ],
+      "h1": "El manual pone esto junto a las multas de estacionamiento en las reglas de puntos.",
+      "h2": "En Nebraska, no se agregan puntos por no llevar consigo su licencia de operador válida, igual que no hay puntos por las multas de estacionamiento.",
+      "p": "Correcto. Ningún punto."
+    }
+  },
+  {
+    "id": "ne-200",
+    "scope": "NE",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nebraska, you are ticketed for driving 13 mph over the limit on a highway outside city limits. How many points are added?",
+      "o": [
+        "No points",
+        "1 point",
+        "2 points",
+        "4 points"
+      ],
+      "h1": "Outside city limits, the step from more than 10 through 15 mph over has its own point value.",
+      "h2": "In Nebraska, speeding more than 10 and up to 15 mph over the limit outside city limits adds 2 points to your record.",
+      "p": "Right. 2 points."
+    },
+    "es": {
+      "q": "En Nebraska, le ponen una multa por manejar 13 mph sobre el límite en una carretera fuera de los límites de la ciudad. ¿Cuántos puntos se agregan?",
+      "o": [
+        "Ningún punto",
+        "1 punto",
+        "2 puntos",
+        "4 puntos"
+      ],
+      "h1": "Fuera de los límites de la ciudad, el tramo de más de 10 hasta 15 mph sobre el límite tiene su propio valor en puntos.",
+      "h2": "En Nebraska, exceder el límite por más de 10 y hasta 15 mph fuera de los límites de la ciudad agrega 2 puntos a su historial.",
+      "p": "Correcto. 2 puntos."
+    }
   }
 ]
