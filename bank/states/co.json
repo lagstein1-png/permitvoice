@@ -7049,7 +7049,7 @@
     "en": {
       "q": "In Colorado, how many points does a conviction for failing to yield to a pedestrian add?",
       "o": [
-        "2 points",
+        "1 point",
         "4 points",
         "8 points",
         "12 points"
@@ -7061,7 +7061,7 @@
     "es": {
       "q": "En Colorado, ¿cuántos puntos agrega una condena por no ceder el paso a un peatón?",
       "o": [
-        "2 puntos",
+        "1 punto",
         "4 puntos",
         "8 puntos",
         "12 puntos"
@@ -7084,7 +7084,7 @@
       "q": "In Colorado, you fail to use due care when passing a stopped emergency vehicle, and no one is hurt. How many points can this add?",
       "o": [
         "No points",
-        "1 point",
+        "8 points",
         "3 points",
         "12 points"
       ],
@@ -7096,7 +7096,7 @@
       "q": "En Colorado, usted no tiene el debido cuidado al pasar un vehículo de emergencia detenido, y nadie sale herido. ¿Cuántos puntos puede agregar esto?",
       "o": [
         "Ningún punto",
-        "1 punto",
+        "8 puntos",
         "3 puntos",
         "12 puntos"
       ],
@@ -7361,7 +7361,7 @@
         "$100"
       ],
       "h1": "It is twice the minimum fine for a first conviction.",
-      "h2": "In Colorado, a second conviction for driving without insurance within 5 years carries a mandatory minimum fine of $1,000, which the court may not suspend.",
+      "h2": "In Colorado, a second conviction for driving without insurance within 5 years carries a mandatory minimum fine of $1,000.",
       "p": "Right. The minimum fine is $1,000."
     },
     "es": {
@@ -7373,7 +7373,7 @@
         "$100"
       ],
       "h1": "Es el doble de la multa mínima por la primera condena.",
-      "h2": "En Colorado, una segunda condena por manejar sin seguro dentro de 5 años tiene una multa mínima obligatoria de $1,000, que la corte no puede suspender.",
+      "h2": "En Colorado, una segunda condena por manejar sin seguro dentro de 5 años tiene una multa mínima obligatoria de $1,000.",
       "p": "Correcto. La multa mínima es de $1,000."
     }
   },
@@ -7523,7 +7523,7 @@
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Colorado, for a driver 21 or older, how long is the license revoked after a third DWAI or DUI conviction?",
+      "q": "In Colorado, for a driver 21 or older, at least how long is the license revoked after a third DWAI or DUI conviction?",
       "o": [
         "9 months",
         "6 months",
@@ -7531,11 +7531,11 @@
         "2 years"
       ],
       "h1": "It is longer than for a second conviction.",
-      "h2": "In Colorado, a third or later DWAI or DUI conviction brings a license revocation of 2 years.",
-      "p": "Right. A third conviction brings a 2-year revocation."
+      "h2": "In Colorado, after a third or later DWAI or DUI conviction, the license is revoked with no set end date, and it cannot be given back for at least 2 years.",
+      "p": "Right. A third conviction brings a revocation of at least 2 years."
     },
     "es": {
-      "q": "En Colorado, para un conductor de 21 años o más, ¿por cuánto tiempo revocan la licencia después de una tercera condena por DWAI o DUI?",
+      "q": "En Colorado, para un conductor de 21 años o más, ¿por cuánto tiempo como mínimo revocan la licencia después de una tercera condena por DWAI o DUI?",
       "o": [
         "9 meses",
         "6 meses",
@@ -7543,8 +7543,8 @@
         "2 años"
       ],
       "h1": "Es más tiempo que por una segunda condena.",
-      "h2": "En Colorado, una tercera condena o más por DWAI o DUI trae una revocación de la licencia de 2 años.",
-      "p": "Correcto. Una tercera condena trae una revocación de 2 años."
+      "h2": "En Colorado, después de una tercera condena o más por DWAI o DUI, la licencia se revoca sin fecha fija de fin, y no se puede devolver antes de 2 años como mínimo.",
+      "p": "Correcto. Una tercera condena trae una revocación de 2 años como mínimo."
     }
   },
   {
@@ -7625,7 +7625,7 @@
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In Colorado, you break a traffic law inside a marked wildlife crossing zone during its posted hours. What happens to the fine?",
+      "q": "In Colorado, you commit a moving violation, such as speeding, inside a marked wildlife crossing zone during its posted hours. What happens to the fine?",
       "o": [
         "It is cut in half",
         "It is doubled",
@@ -7637,7 +7637,7 @@
       "p": "Right. Fines are doubled in a wildlife crossing zone."
     },
     "es": {
-      "q": "En Colorado, usted comete una infracción de tránsito dentro de una zona señalizada de cruce de animales silvestres durante su horario. ¿Qué pasa con la multa?",
+      "q": "En Colorado, usted comete una infracción de tránsito en movimiento, como exceso de velocidad, dentro de una zona señalizada de cruce de animales silvestres durante su horario. ¿Qué pasa con la multa?",
       "o": [
         "Se reduce a la mitad",
         "Se duplica",
@@ -7645,7 +7645,7 @@
         "Es igual que en cualquier otro lugar"
       ],
       "h1": "Estas zonas protegen a los conductores y a animales como venados y alces.",
-      "h2": "En Colorado, la multa y el recargo por una infracción de tránsito en una zona señalizada de cruce de animales silvestres, durante su horario, se duplican.",
+      "h2": "En Colorado, la multa y el recargo por una infracción de tránsito en movimiento en una zona señalizada de cruce de animales silvestres, durante su horario, se duplican.",
       "p": "Correcto. Las multas se duplican en una zona de cruce de animales silvestres."
     }
   },
