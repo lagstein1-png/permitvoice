@@ -8260,5 +8260,991 @@
       "h2": "En Idaho, huir de la policía es un delito menor, y se vuelve delito grave si el conductor va a más de 30 mph sobre el límite, causa daños o lesiones, pone en peligro a otros o sale del estado.",
       "p": "Correcto. Es un delito grave."
     }
+  },
+  {
+    "id": "id-172",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch3/sect49-307/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Idaho, what is the youngest age at which a teen may get a Class D driver's license?",
+      "o": [
+        "14 and a half",
+        "15",
+        "16",
+        "17"
+      ],
+      "h1": "Driver training can start at 14 and a half, and the license comes later.",
+      "h2": "In Idaho, a teen may not get a Class D driver's license before age 15, and not sooner than six months after finishing driver training.",
+      "p": "Right. The youngest age is 15."
+    },
+    "es": {
+      "q": "En Idaho, ¿cuál es la edad mínima para que un adolescente obtenga una licencia de conducir Clase D?",
+      "o": [
+        "14 años y medio",
+        "15 años",
+        "16 años",
+        "17 años"
+      ],
+      "h1": "La capacitación de manejo puede empezar a los 14 años y medio, y la licencia llega después.",
+      "h2": "En Idaho, un adolescente no puede obtener una licencia Clase D antes de los 15 años, ni antes de seis meses después de terminar la capacitación de manejo.",
+      "p": "Correcto. La edad mínima es 15 años."
+    }
+  },
+  {
+    "id": "id-173",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 20,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Idaho, you move in with an out-of-state license that has a motorcycle endorsement. It expired 10 months ago. Which motorcycle test must you take?",
+      "o": [
+        "No motorcycle test at all",
+        "The motorcycle skills test only",
+        "The motorcycle knowledge test",
+        "A full rider training course"
+      ],
+      "h1": "The rule changes once a license has been expired for more than 25 months.",
+      "h2": "In Idaho, if you surrender an out-of-state license with a motorcycle endorsement that has been expired fewer than 25 months, you must pass the motorcycle knowledge test.",
+      "p": "Right. The motorcycle knowledge test is needed."
+    },
+    "es": {
+      "q": "En Idaho, usted se muda con una licencia de otro estado que tiene endoso de motocicleta. Venció hace 10 meses. ¿Qué prueba de motocicleta debe tomar?",
+      "o": [
+        "Ninguna prueba de motocicleta",
+        "Solo la prueba práctica de motocicleta",
+        "La prueba de conocimientos de motocicleta",
+        "Un curso completo de conducción"
+      ],
+      "h1": "La regla cambia cuando la licencia lleva más de 25 meses vencida.",
+      "h2": "En Idaho, si entrega una licencia de otro estado con endoso de motocicleta que lleva menos de 25 meses vencida, debe aprobar la prueba de conocimientos de motocicleta.",
+      "p": "Correcto. Se necesita la prueba de conocimientos de motocicleta."
+    }
+  },
+  {
+    "id": "id-174",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch3/sect49-307/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Idaho, a teen does parent-student on-road driver training, with a parent teaching the driving part. How does the teen take the 30 hours of classroom instruction?",
+      "o": [
+        "The parent teaches it at home",
+        "It is not required in this program",
+        "Only at the county sheriff's office",
+        "Through an approved online course"
+      ],
+      "h1": "The parent handles the time in the car, not the class.",
+      "h2": "In Idaho, a teen in parent-student on-road driver training must complete the 30 hours of classroom instruction through an online course approved by the state department of education.",
+      "p": "Right. The classroom part is an approved online course."
+    },
+    "es": {
+      "q": "En Idaho, un adolescente hace la capacitación de manejo en carretera con su padre o madre, que enseña la parte práctica. ¿Cómo toma las 30 horas de clase?",
+      "o": [
+        "El padre o la madre las enseña en casa",
+        "No son necesarias en este programa",
+        "Solo en la oficina del sheriff del condado",
+        "Con un curso en línea aprobado"
+      ],
+      "h1": "El padre o la madre se encarga del tiempo en el carro, no de la clase.",
+      "h2": "En Idaho, un adolescente en la capacitación de manejo con su padre o madre debe completar las 30 horas de clase con un curso en línea aprobado por el departamento estatal de educación.",
+      "p": "Correcto. La parte de clase es un curso en línea aprobado."
+    }
+  },
+  {
+    "id": "id-175",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch3/sect49-307/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Idaho, a parent wants to teach the driving part of their teen's driver training. What must the parent have?",
+      "o": [
+        "A valid Idaho license and no suspension in the past 2 years",
+        "A driver training instructor license",
+        "A commercial driver's license",
+        "At least 20 years of driving experience"
+      ],
+      "h1": "The parent does not need a special teaching license.",
+      "h2": "In Idaho, a parent may teach the on-road part of driver training if they hold a valid Idaho license for driving alone and have had no suspension, revocation, cancellation or disqualification in the past two years.",
+      "p": "Right. A valid Idaho license and a clean two years."
+    },
+    "es": {
+      "q": "En Idaho, un padre quiere enseñar la parte práctica de la capacitación de manejo de su hijo adolescente. ¿Qué debe tener el padre?",
+      "o": [
+        "Una licencia válida de Idaho y ninguna suspensión en los últimos 2 años",
+        "Una licencia de instructor de manejo",
+        "Una licencia de conducir comercial",
+        "Al menos 20 años de experiencia manejando"
+      ],
+      "h1": "El padre no necesita una licencia especial de instructor.",
+      "h2": "En Idaho, un padre puede enseñar la parte práctica de la capacitación si tiene una licencia válida de Idaho para manejar solo y no ha tenido suspensión, revocación, cancelación ni descalificación en los últimos dos años.",
+      "p": "Correcto. Una licencia válida de Idaho y dos años sin problemas."
+    }
+  },
+  {
+    "id": "id-176",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 14,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Idaho, where are driver's licenses, ID cards and instruction permits issued?",
+      "o": [
+        "At city police stations",
+        "At county sheriff's driver's license offices",
+        "At post offices",
+        "Only at ITD headquarters in Boise"
+      ],
+      "h1": "Each county runs these offices.",
+      "h2": "In Idaho, driver's licenses, ID cards and instruction permits are issued through the county sheriff's driver's license offices.",
+      "p": "Right. Go to your county sheriff's driver's license office."
+    },
+    "es": {
+      "q": "En Idaho, ¿dónde se emiten las licencias de conducir, las tarjetas de identificación y los permisos de aprendizaje?",
+      "o": [
+        "En las estaciones de policía de la ciudad",
+        "En las oficinas de licencias del sheriff del condado",
+        "En las oficinas de correo",
+        "Solo en la sede del ITD en Boise"
+      ],
+      "h1": "Cada condado administra estas oficinas.",
+      "h2": "En Idaho, las licencias de conducir, las tarjetas de identificación y los permisos de aprendizaje se emiten en las oficinas de licencias del sheriff del condado.",
+      "p": "Correcto. Vaya a la oficina de licencias del sheriff de su condado."
+    }
+  },
+  {
+    "id": "id-177",
+    "scope": "ID",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 39,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Idaho, a car's brake lights must be visible in normal sunlight from at least how far behind?",
+      "o": [
+        "25 feet",
+        "500 feet",
+        "100 feet",
+        "1,000 feet"
+      ],
+      "h1": "Taillights must be seen from farther away than brake lights.",
+      "h2": "In Idaho, every motor vehicle must have working red or amber brake lights that can be seen from at least 100 feet behind in normal sunlight.",
+      "p": "Right. At least 100 feet."
+    },
+    "es": {
+      "q": "En Idaho, ¿desde qué distancia detrás del carro, como mínimo, deben verse las luces de freno a plena luz del día?",
+      "o": [
+        "25 pies",
+        "500 pies",
+        "100 pies",
+        "1,000 pies"
+      ],
+      "h1": "Las luces traseras deben verse desde más lejos que las luces de freno.",
+      "h2": "En Idaho, todo vehículo debe tener luces de freno rojas o ámbar que funcionen y se vean desde al menos 100 pies detrás a plena luz del día.",
+      "p": "Correcto. Al menos 100 pies."
+    }
+  },
+  {
+    "id": "id-178",
+    "scope": "ID",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 42,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Idaho, may you put red or blue emergency lights on your own car?",
+      "o": [
+        "Yes, if they face backward",
+        "Yes, but only at night",
+        "Yes, if they are small",
+        "No, they are for emergency vehicles only"
+      ],
+      "h1": "Think about who other drivers pull over for.",
+      "h2": "In Idaho, red or blue emergency lights are not allowed on ordinary vehicles; they are only for emergency vehicles.",
+      "p": "Right. Only emergency vehicles may have them."
+    },
+    "es": {
+      "q": "En Idaho, ¿puede poner luces de emergencia rojas o azules en su propio carro?",
+      "o": [
+        "Sí, si apuntan hacia atrás",
+        "Sí, pero solo de noche",
+        "Sí, si son pequeñas",
+        "No, son solo para vehículos de emergencia"
+      ],
+      "h1": "Piense para quién se orillan los demás conductores.",
+      "h2": "En Idaho, las luces de emergencia rojas o azules no están permitidas en vehículos comunes; son solo para vehículos de emergencia.",
+      "p": "Correcto. Solo los vehículos de emergencia pueden tenerlas."
+    }
+  },
+  {
+    "id": "id-179",
+    "scope": "ID",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 79,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Idaho, what must every slow-moving vehicle, such as a farm tractor, display on the road?",
+      "o": [
+        "The slow-moving vehicle emblem",
+        "A red flag on a tall pole",
+        "An OVERSIZE LOAD sign",
+        "Flashing blue lights"
+      ],
+      "h1": "It is an orange triangle you often see on farm equipment.",
+      "h2": "In Idaho, all slow-moving vehicles must have a foot brake and turn signals and must display the approved slow-moving vehicle emblem.",
+      "p": "Right. They must show the slow-moving vehicle emblem."
+    },
+    "es": {
+      "q": "En Idaho, ¿qué debe mostrar en la carretera todo vehículo lento, como un tractor agrícola?",
+      "o": [
+        "El emblema de vehículo lento",
+        "Una bandera roja en un poste alto",
+        "Un letrero de CARGA SOBREDIMENSIONADA",
+        "Luces azules intermitentes"
+      ],
+      "h1": "Es un triángulo anaranjado que se ve a menudo en la maquinaria agrícola.",
+      "h2": "En Idaho, todo vehículo lento debe tener freno de pie y direccionales, y debe mostrar el emblema aprobado de vehículo lento.",
+      "p": "Correcto. Deben mostrar el emblema de vehículo lento."
+    }
+  },
+  {
+    "id": "id-180",
+    "scope": "ID",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 42,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Idaho, what is the most fog lights a car may have on the front?",
+      "o": [
+        "Two",
+        "Four",
+        "Six",
+        "There is no limit"
+      ],
+      "h1": "Idaho sets the same limit for spotlights and front auxiliary lights.",
+      "h2": "In Idaho, a vehicle may not have more than two fog lights on the front.",
+      "p": "Right. No more than two."
+    },
+    "es": {
+      "q": "En Idaho, ¿cuántos faros antiniebla puede tener un carro en la parte delantera, como máximo?",
+      "o": [
+        "Dos",
+        "Cuatro",
+        "Seis",
+        "No hay límite"
+      ],
+      "h1": "Idaho pone el mismo límite a los faros buscadores y a las luces auxiliares delanteras.",
+      "h2": "En Idaho, un vehículo no puede tener más de dos faros antiniebla en la parte delantera.",
+      "p": "Correcto. No más de dos."
+    }
+  },
+  {
+    "id": "id-181",
+    "scope": "ID",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 94,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Idaho, who is the Alive at 25 defensive driving course for?",
+      "o": [
+        "Drivers 25 and older",
+        "Young people ages 15 through 24",
+        "Only drivers with a DUI",
+        "Only new residents of Idaho"
+      ],
+      "h1": "The name hints at the goal: getting young drivers safely to age 25.",
+      "h2": "In Idaho, Alive at 25 is a defensive driving course for young people ages 15 through 24, taught by law enforcement.",
+      "p": "Right. It is for ages 15 through 24."
+    },
+    "es": {
+      "q": "En Idaho, ¿para quién es el curso de manejo defensivo Alive at 25?",
+      "o": [
+        "Para conductores de 25 años o más",
+        "Para jóvenes de 15 a 24 años",
+        "Solo para conductores con un DUI",
+        "Solo para nuevos residentes de Idaho"
+      ],
+      "h1": "El nombre da una pista: que los jóvenes lleguen con vida a los 25 años.",
+      "h2": "En Idaho, Alive at 25 es un curso de manejo defensivo para jóvenes de 15 a 24 años, dado por agentes de la ley.",
+      "p": "Correcto. Es para jóvenes de 15 a 24 años."
+    }
+  },
+  {
+    "id": "id-182",
+    "scope": "ID",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 100,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Idaho, may a bicyclist ride on the sidewalk?",
+      "o": [
+        "No, never",
+        "Yes, and they must use it when there is one",
+        "Yes, in most communities, but it is not required",
+        "Only children under 10"
+      ],
+      "h1": "It is allowed in most places, but nobody is forced to.",
+      "h2": "In Idaho, bicyclists may legally ride on sidewalks in most communities, but they do not have to, so watch for them when you use a driveway.",
+      "p": "Right. Allowed in most communities, but not required."
+    },
+    "es": {
+      "q": "En Idaho, ¿puede un ciclista andar por la acera?",
+      "o": [
+        "No, nunca",
+        "Sí, y debe usarla cuando la haya",
+        "Sí, en la mayoría de las comunidades, pero no es obligatorio",
+        "Solo los niños menores de 10 años"
+      ],
+      "h1": "Está permitido en la mayoría de los lugares, pero nadie está obligado.",
+      "h2": "En Idaho, los ciclistas pueden andar legalmente por la acera en la mayoría de las comunidades, pero no están obligados, así que esté atento a ellos al usar una entrada de garaje.",
+      "p": "Correcto. Permitido en la mayoría de las comunidades, pero no obligatorio."
+    }
+  },
+  {
+    "id": "id-183",
+    "scope": "ID",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 107,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Idaho, you are driving on a narrow mountain road and come to a curve you cannot see around. What should you do?",
+      "o": [
+        "Move to the center of the road",
+        "Speed up to get through quickly",
+        "Turn on your hazard lights",
+        "Sound your horn as you approach"
+      ],
+      "h1": "Warn drivers you cannot see that you are coming.",
+      "h2": "In Idaho, when you drive in the mountains, sound your horn as you approach any curve on a narrow road where the view is blocked.",
+      "p": "Right. Use your horn to warn others."
+    },
+    "es": {
+      "q": "En Idaho, usted maneja por un camino de montaña angosto y llega a una curva sin visibilidad. ¿Qué debe hacer?",
+      "o": [
+        "Moverse al centro del camino",
+        "Acelerar para pasar rápido",
+        "Encender las luces intermitentes de emergencia",
+        "Tocar la bocina al acercarse"
+      ],
+      "h1": "Avise a los conductores que no puede ver que usted se acerca.",
+      "h2": "En Idaho, cuando maneje en las montañas, toque la bocina al acercarse a cualquier curva de un camino angosto donde la vista esté bloqueada.",
+      "p": "Correcto. Use la bocina para avisar a los demás."
+    }
+  },
+  {
+    "id": "id-184",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 121,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Idaho, you are in a crash and give the other driver a false name and address. What can this be?",
+      "o": [
+        "Only a warning from the officer",
+        "A misdemeanor",
+        "Nothing, if no one was hurt",
+        "A parking ticket"
+      ],
+      "h1": "Exchanging true information after a crash is required by law.",
+      "h2": "In Idaho, giving false information to the other people involved in a crash can make you guilty of a misdemeanor.",
+      "p": "Right. It can be a misdemeanor."
+    },
+    "es": {
+      "q": "En Idaho, usted tiene un choque y le da al otro conductor un nombre y una dirección falsos. ¿Qué puede ser esto?",
+      "o": [
+        "Solo una advertencia del agente",
+        "Un delito menor",
+        "Nada, si nadie salió herido",
+        "Una multa de estacionamiento"
+      ],
+      "h1": "La ley exige intercambiar información verdadera después de un choque.",
+      "h2": "En Idaho, dar información falsa a las otras personas involucradas en un choque puede hacerlo culpable de un delito menor.",
+      "p": "Correcto. Puede ser un delito menor."
+    }
+  },
+  {
+    "id": "id-185",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 126,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Idaho, you got an administrative license suspension (ALS) after failing a breath test. Must you still go to court for the DUI charge?",
+      "o": [
+        "No, the ALS replaces the court case",
+        "Only if you had a crash",
+        "Yes, the ALS is separate from the court case",
+        "Only if you ask for a hearing"
+      ],
+      "h1": "The ALS is a civil penalty from ITD; the DUI charge is a criminal case.",
+      "h2": "In Idaho, the administrative license suspension is a civil penalty separate from any criminal penalty, so you must follow the ALS and also appear in court on the DUI charge.",
+      "p": "Right. You must do both."
+    },
+    "es": {
+      "q": "En Idaho, usted recibió una suspensión administrativa de licencia (ALS) por fallar la prueba de aliento. ¿Debe ir de todos modos a la corte por el cargo de DUI?",
+      "o": [
+        "No, la ALS reemplaza el caso en la corte",
+        "Solo si hubo un choque",
+        "Sí, la ALS es aparte del caso en la corte",
+        "Solo si pide una audiencia"
+      ],
+      "h1": "La ALS es una sanción civil del ITD; el cargo de DUI es un caso penal.",
+      "h2": "En Idaho, la suspensión administrativa es una sanción civil aparte de cualquier pena penal, así que debe cumplir la ALS y también presentarse en la corte por el cargo de DUI.",
+      "p": "Correcto. Debe cumplir con ambas cosas."
+    }
+  },
+  {
+    "id": "id-186",
+    "scope": "ID",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 128,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Idaho, how much more likely is a driver with an alcohol level of 0.10 to cause a crash than a sober driver?",
+      "o": [
+        "About twice as likely",
+        "About 25 times as likely",
+        "No more likely",
+        "About six times as likely"
+      ],
+      "h1": "The risk doubles just above 0.05 and keeps climbing fast.",
+      "h2": "In Idaho's handbook, the risk of causing a crash doubles just above 0.05, is six times as great at 0.10, and is 25 times as great at 0.15.",
+      "p": "Right. About six times as likely."
+    },
+    "es": {
+      "q": "En Idaho, un conductor con un nivel de alcohol de 0.10, ¿cuántas veces más probable es que cause un choque que un conductor sobrio?",
+      "o": [
+        "Unas dos veces más",
+        "Unas 25 veces más",
+        "No es más probable",
+        "Unas seis veces más"
+      ],
+      "h1": "El riesgo se duplica justo por encima de 0.05 y sigue subiendo rápido.",
+      "h2": "Según el manual de Idaho, el riesgo de causar un choque se duplica justo por encima de 0.05, es seis veces mayor con 0.10 y 25 veces mayor con 0.15.",
+      "p": "Correcto. Unas seis veces más."
+    }
+  },
+  {
+    "id": "id-187",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 131,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Idaho, at what blood alcohol level is a driver 21 or older considered to be driving under the influence?",
+      "o": [
+        "0.08 or more",
+        "0.02 or more",
+        "0.10 or more",
+        "0.20 or more"
+      ],
+      "h1": "The lower levels are for drivers under 21 and commercial drivers.",
+      "h2": "In Idaho, a driver 21 or older is driving under the influence with an alcohol level of 0.08 or more; the limit is 0.02 for drivers under 21 and 0.04 in a commercial vehicle.",
+      "p": "Right. 0.08 or more for drivers 21 and older."
+    },
+    "es": {
+      "q": "En Idaho, ¿con qué nivel de alcohol en la sangre se considera que un conductor de 21 años o más maneja bajo la influencia?",
+      "o": [
+        "0.08 o más",
+        "0.02 o más",
+        "0.10 o más",
+        "0.20 o más"
+      ],
+      "h1": "Los niveles más bajos son para menores de 21 años y conductores comerciales.",
+      "h2": "En Idaho, un conductor de 21 años o más maneja bajo la influencia con un nivel de alcohol de 0.08 o más; el límite es 0.02 para menores de 21 años y 0.04 en un vehículo comercial.",
+      "p": "Correcto. 0.08 o más para conductores de 21 años o más."
+    }
+  },
+  {
+    "id": "id-188",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://legislature.idaho.gov/statutesrules/idstat/title18/t18ch80/sect18-8004C/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Idaho, a driver is convicted of a first DUI with an alcohol level of 0.20 or more. What jail time must the court give?",
+      "o": [
+        "None, since it is a first offense",
+        "At least 10 days",
+        "At most one day",
+        "Community service instead of jail"
+      ],
+      "h1": "A very high alcohol level brings a mandatory minimum, even the first time.",
+      "h2": "In Idaho, a first DUI with an alcohol level of 0.20 or more brings at least 10 days in jail, up to one year, and a one-year suspension with no driving after release.",
+      "p": "Right. At least 10 days in jail."
+    },
+    "es": {
+      "q": "En Idaho, un conductor es condenado por su primer DUI con un nivel de alcohol de 0.20 o más. ¿Qué cárcel debe darle la corte?",
+      "o": [
+        "Ninguna, porque es la primera vez",
+        "Al menos 10 días",
+        "Como máximo un día",
+        "Servicio comunitario en lugar de cárcel"
+      ],
+      "h1": "Un nivel de alcohol muy alto trae un mínimo obligatorio, incluso la primera vez.",
+      "h2": "En Idaho, un primer DUI con un nivel de alcohol de 0.20 o más trae al menos 10 días de cárcel, hasta un año, y una suspensión de un año sin manejar después de salir.",
+      "p": "Correcto. Al menos 10 días de cárcel."
+    }
+  },
+  {
+    "id": "id-189",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://legislature.idaho.gov/statutesrules/idstat/title18/t18ch80/sect18-8006/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Idaho, an impaired driver causes a crash that leaves another person with great bodily harm. What is the longest prison sentence?",
+      "o": [
+        "6 months",
+        "1 year",
+        "15 years",
+        "30 days"
+      ],
+      "h1": "This is aggravated DUI, a felony.",
+      "h2": "In Idaho, aggravated DUI, causing great bodily harm, permanent disability or disfigurement to another person, is a felony with up to 15 years in prison.",
+      "p": "Right. Up to 15 years."
+    },
+    "es": {
+      "q": "En Idaho, un conductor bajo la influencia causa un choque que deja a otra persona con lesiones corporales graves. ¿Cuál es la pena de prisión más larga?",
+      "o": [
+        "6 meses",
+        "1 año",
+        "15 años",
+        "30 días"
+      ],
+      "h1": "Esto es DUI agravado, un delito grave.",
+      "h2": "En Idaho, el DUI agravado, que causa lesiones graves, discapacidad o desfiguración permanente a otra persona, es un delito grave con hasta 15 años de prisión.",
+      "p": "Correcto. Hasta 15 años."
+    }
+  },
+  {
+    "id": "id-190",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://legislature.idaho.gov/statutesrules/idstat/title18/t18ch80/sect18-8007/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Idaho, a driver leaves the scene of a crash knowing someone was hurt. What kind of crime is it?",
+      "o": [
+        "An infraction",
+        "A minor traffic ticket",
+        "Not a crime if they call later",
+        "A felony"
+      ],
+      "h1": "Leaving an injured person is treated very seriously.",
+      "h2": "In Idaho, leaving the scene of a crash with injury or death is a felony, with up to 5 years in prison, a fine up to $5,000, and a one-year license revocation.",
+      "p": "Right. It is a felony."
+    },
+    "es": {
+      "q": "En Idaho, un conductor se va del lugar de un choque sabiendo que alguien salió herido. ¿Qué tipo de delito es?",
+      "o": [
+        "Una infracción",
+        "Una multa de tránsito menor",
+        "No es delito si llama después",
+        "Un delito grave"
+      ],
+      "h1": "Abandonar a una persona herida se trata con mucha seriedad.",
+      "h2": "En Idaho, irse del lugar de un choque con heridos o muertos es un delito grave, con hasta 5 años de prisión, una multa de hasta $5,000 y la revocación de la licencia por un año.",
+      "p": "Correcto. Es un delito grave."
+    }
+  },
+  {
+    "id": "id-191",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch13/sect49-1301/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Idaho, you hit a car with a driver in it, causing only damage, and drive away without stopping. If convicted, what happens to your license?",
+      "o": [
+        "It is revoked for one year",
+        "It is suspended for 30 days",
+        "Nothing; you only pay a fine",
+        "You get a warning letter"
+      ],
+      "h1": "The penalty is longer than the 30-day point suspension.",
+      "h2": "In Idaho, failing to stop after a crash that damages a vehicle with a driver or person attending it is a misdemeanor, and ITD revokes the license for one year.",
+      "p": "Right. A one-year revocation."
+    },
+    "es": {
+      "q": "En Idaho, usted choca un carro que tiene un conductor adentro, solo con daños, y se va sin detenerse. Si lo condenan, ¿qué pasa con su licencia?",
+      "o": [
+        "Se revoca por un año",
+        "Se suspende por 30 días",
+        "Nada; solo paga una multa",
+        "Recibe una carta de advertencia"
+      ],
+      "h1": "La pena es más larga que la suspensión de 30 días por puntos.",
+      "h2": "En Idaho, no detenerse después de un choque que daña un vehículo con conductor o con alguien a cargo es un delito menor, y el ITD revoca la licencia por un año.",
+      "p": "Correcto. Una revocación de un año."
+    }
+  },
+  {
+    "id": "id-192",
+    "scope": "ID",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch14/sect49-1401/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Idaho, you pass another car where a solid no-passing line is on your side of the center line. What can you be charged with?",
+      "o": [
+        "Only a parking violation",
+        "Reckless driving",
+        "Nothing, if no car was coming",
+        "Following too closely"
+      ],
+      "h1": "Idaho's law names this as one way to drive recklessly.",
+      "h2": "In Idaho, passing when there is a no-passing line in your lane is reckless driving under state law.",
+      "p": "Right. It is reckless driving."
+    },
+    "es": {
+      "q": "En Idaho, usted rebasa a otro carro donde hay una línea continua de no rebasar de su lado de la línea central. ¿De qué lo pueden acusar?",
+      "o": [
+        "Solo de una falta de estacionamiento",
+        "De manejo imprudente",
+        "De nada, si no venía ningún carro",
+        "De seguir demasiado cerca"
+      ],
+      "h1": "La ley de Idaho nombra esto como una forma de manejo imprudente.",
+      "h2": "En Idaho, rebasar cuando hay una línea de no rebasar en su carril es manejo imprudente según la ley estatal.",
+      "p": "Correcto. Es manejo imprudente."
+    }
+  },
+  {
+    "id": "id-193",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch14/sect49-1401/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Idaho, what is the most jail time for a first reckless driving conviction?",
+      "o": [
+        "30 days",
+        "5 years",
+        "6 months",
+        "None; only a fine"
+      ],
+      "h1": "A second conviction within 5 years doubles the jail time to one year.",
+      "h2": "In Idaho, a first reckless driving conviction is a misdemeanor with up to 6 months in jail, a fine up to $1,000, or both.",
+      "p": "Right. Up to 6 months."
+    },
+    "es": {
+      "q": "En Idaho, ¿cuál es el tiempo máximo de cárcel por una primera condena de manejo imprudente?",
+      "o": [
+        "30 días",
+        "5 años",
+        "6 meses",
+        "Ninguno; solo una multa"
+      ],
+      "h1": "Una segunda condena en 5 años duplica la cárcel a un año.",
+      "h2": "En Idaho, una primera condena de manejo imprudente es un delito menor con hasta 6 meses de cárcel, una multa de hasta $1,000, o ambas.",
+      "p": "Correcto. Hasta 6 meses."
+    }
+  },
+  {
+    "id": "id-194",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch14/sect49-1401/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Idaho, what is the largest fine for inattentive driving?",
+      "o": [
+        "$25",
+        "$1,000",
+        "$5,000",
+        "$300"
+      ],
+      "h1": "Inattentive driving is a lesser offense than reckless driving.",
+      "h2": "In Idaho, inattentive driving is a misdemeanor, less serious than reckless driving, with up to 90 days in jail, a fine up to $300, or both.",
+      "p": "Right. Up to $300."
+    },
+    "es": {
+      "q": "En Idaho, ¿cuál es la multa más alta por manejo distraído (inattentive driving)?",
+      "o": [
+        "$25",
+        "$1,000",
+        "$5,000",
+        "$300"
+      ],
+      "h1": "El manejo distraído es un delito menos grave que el manejo imprudente.",
+      "h2": "En Idaho, el manejo distraído es un delito menor, menos grave que el manejo imprudente, con hasta 90 días de cárcel, una multa de hasta $300, o ambas.",
+      "p": "Correcto. Hasta $300."
+    }
+  },
+  {
+    "id": "id-195",
+    "scope": "ID",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch14/sect49-1401/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Idaho, you drive 25 mph over the limit in an active school zone while children are present and visible. What can you be charged with?",
+      "o": [
+        "Reckless driving",
+        "Only a basic speeding ticket",
+        "Nothing, if no one was hurt",
+        "A parking violation"
+      ],
+      "h1": "Since July 2026, more than 20 mph over in an active school or work zone is treated more seriously.",
+      "h2": "In Idaho, driving more than 20 mph over the limit in an active school zone with children present and visible, or an active work zone with workers present and visible, is reckless driving.",
+      "p": "Right. It is reckless driving."
+    },
+    "es": {
+      "q": "En Idaho, usted maneja a 25 mph sobre el límite en una zona escolar activa mientras hay niños presentes y visibles. ¿De qué lo pueden acusar?",
+      "o": [
+        "De manejo imprudente",
+        "Solo de una multa común por velocidad",
+        "De nada, si nadie salió herido",
+        "De una falta de estacionamiento"
+      ],
+      "h1": "Desde julio de 2026, ir a más de 20 mph sobre el límite en una zona escolar o de obras activa es más grave.",
+      "h2": "En Idaho, manejar a más de 20 mph sobre el límite en una zona escolar activa con niños presentes y visibles, o en una zona de obras activa con trabajadores presentes y visibles, es manejo imprudente.",
+      "p": "Correcto. Es manejo imprudente."
+    }
+  },
+  {
+    "id": "id-196",
+    "scope": "ID",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch14/sect49-1422/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Idaho, a driver is convicted for the first time of passing a stopped school bus with its signals on. What is the fine?",
+      "o": [
+        "$75",
+        "$300",
+        "$1,000",
+        "$50"
+      ],
+      "h1": "A second offense within 5 years becomes a misdemeanor with a bigger fine.",
+      "h2": "In Idaho, a first conviction for passing a stopped school bus with its signals on is an infraction with a $300 fine; a second within 5 years is a misdemeanor.",
+      "p": "Right. The fine is $300."
+    },
+    "es": {
+      "q": "En Idaho, un conductor es condenado por primera vez por pasar un autobús escolar detenido con sus señales encendidas. ¿Cuál es la multa?",
+      "o": [
+        "$75",
+        "$300",
+        "$1,000",
+        "$50"
+      ],
+      "h1": "Una segunda falta en 5 años se vuelve delito menor con una multa mayor.",
+      "h2": "En Idaho, una primera condena por pasar un autobús escolar detenido con sus señales encendidas es una infracción con multa de $300; una segunda en 5 años es delito menor.",
+      "p": "Correcto. La multa es de $300."
+    }
+  },
+  {
+    "id": "id-197",
+    "scope": "ID",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch9/sect49-944/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Idaho, window tint on the front side windows next to the driver must let at least how much light pass through?",
+      "o": [
+        "5%",
+        "20%",
+        "35%",
+        "10%"
+      ],
+      "h1": "The rear side windows may be darker than the front ones.",
+      "h2": "In Idaho, tint on the front side windows must let at least 35% of the light through, while the side windows behind the driver may go down to 20%.",
+      "p": "Right. At least 35%."
+    },
+    "es": {
+      "q": "En Idaho, ¿qué porcentaje de luz, como mínimo, debe dejar pasar el polarizado de las ventanas laterales delanteras, junto al conductor?",
+      "o": [
+        "5%",
+        "20%",
+        "35%",
+        "10%"
+      ],
+      "h1": "Las ventanas laterales traseras pueden ser más oscuras que las delanteras.",
+      "h2": "En Idaho, el polarizado de las ventanas laterales delanteras debe dejar pasar al menos el 35% de la luz, mientras que las ventanas laterales detrás del conductor pueden bajar hasta el 20%.",
+      "p": "Correcto. Al menos el 35%."
+    }
+  },
+  {
+    "id": "id-198",
+    "scope": "ID",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch6/sect49-672/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Idaho, you are driving a 4-year-old, but every seat belt in the car is already in use. Where must the child ride?",
+      "o": [
+        "In the front passenger seat",
+        "On the driver's lap",
+        "Anywhere, since the belts are full",
+        "In the rear seat"
+      ],
+      "h1": "Without a restraint, the child should be in the safest part of the car.",
+      "h2": "In Idaho, if all seat belts are in use, a child who would need a car seat but has none must ride in the rear seat, if the vehicle has one.",
+      "p": "Right. In the rear seat."
+    },
+    "es": {
+      "q": "En Idaho, usted lleva a un niño de 4 años, pero todos los cinturones del carro ya están en uso. ¿Dónde debe ir el niño?",
+      "o": [
+        "En el asiento delantero del pasajero",
+        "En las piernas del conductor",
+        "En cualquier lugar, porque no hay cinturones libres",
+        "En el asiento trasero"
+      ],
+      "h1": "Sin sujeción, el niño debe ir en la parte más segura del carro.",
+      "h2": "En Idaho, si todos los cinturones están en uso, un niño que necesitaría un asiento de seguridad y no lo tiene debe ir en el asiento trasero, si el vehículo lo tiene.",
+      "p": "Correcto. En el asiento trasero."
+    }
+  },
+  {
+    "id": "id-199",
+    "scope": "ID",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 69,
+    "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Idaho, you are on a rural road that is not an interstate or state highway, with no speed limit posted. What is the limit?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "35 mph"
+      ],
+      "h1": "State highways are 65 mph and city districts are 35 mph.",
+      "h2": "In Idaho, the speed limit in locations other than interstates, state highways and residential, business or urban districts is 55 mph unless posted otherwise.",
+      "p": "Right. 55 mph."
+    },
+    "es": {
+      "q": "En Idaho, usted va por un camino rural que no es interestatal ni carretera estatal, y no hay límite de velocidad señalado. ¿Cuál es el límite?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "35 mph"
+      ],
+      "h1": "Las carreteras estatales son de 65 mph y las zonas urbanas de 35 mph.",
+      "h2": "En Idaho, el límite de velocidad en lugares que no son interestatales, carreteras estatales ni zonas residenciales, comerciales o urbanas es de 55 mph, salvo que se indique otro.",
+      "p": "Correcto. 55 mph."
+    }
+  },
+  {
+    "id": "id-200",
+    "scope": "ID",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://legislature.idaho.gov/statutesrules/idstat/title18/t18ch80/sect18-8001/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Idaho, a driver knows their license is suspended for DUI but drives anyway. What kind of offense is this?",
+      "o": [
+        "Only a warning letter",
+        "A misdemeanor",
+        "No offense if they drive carefully",
+        "A parking-type ticket"
+      ],
+      "h1": "Driving without privileges is a crime in Idaho.",
+      "h2": "In Idaho, driving while knowing your license is suspended or revoked, such as for DUI, is a misdemeanor.",
+      "p": "Right. It is a misdemeanor."
+    },
+    "es": {
+      "q": "En Idaho, un conductor sabe que su licencia está suspendida por DUI, pero maneja de todos modos. ¿Qué tipo de falta es?",
+      "o": [
+        "Solo una carta de advertencia",
+        "Un delito menor",
+        "No es falta si maneja con cuidado",
+        "Una multa como de estacionamiento"
+      ],
+      "h1": "Manejar sin privilegios es un delito en Idaho.",
+      "h2": "En Idaho, manejar sabiendo que su licencia está suspendida o revocada, por ejemplo por DUI, es un delito menor.",
+      "p": "Correcto. Es un delito menor."
+    }
   }
 ]
