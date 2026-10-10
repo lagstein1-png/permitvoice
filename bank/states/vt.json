@@ -1966,5 +1966,107 @@
       "h2": "لكي تنجح في اختبار تصريح التعلّم في Vermont، يجب أن تجيب إجابة صحيحة عن 16 سؤالًا على الأقل من 20، أي 80 بالمئة.",
       "p": "صحيح. تحتاج إلى 16 إجابة صحيحة من 20."
     }
+  },
+  {
+    "id": "vt-025",
+    "scope": "VT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 58,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Vermont, after a crash with an injury or more than $3,000 in damage, how soon must you send a written report to the DMV?",
+      "o": [
+        "Within 24 hours",
+        "Within 72 hours",
+        "Within 10 days",
+        "Within 30 days"
+      ],
+      "h1": "It is three days.",
+      "h2": "In Vermont, if anyone is hurt or the damage is over $3,000, you must make a written crash report to the Department of Motor Vehicles within 72 hours.",
+      "p": "Right. Report it to the DMV within 72 hours."
+    },
+    "es": {
+      "q": "En Vermont, después de un choque con un herido o con más de $3,000 en daños, ¿en cuánto tiempo debe enviar un reporte escrito al DMV?",
+      "o": [
+        "En 24 horas",
+        "En 72 horas",
+        "En 10 días",
+        "En 30 días"
+      ],
+      "h1": "Son tres días.",
+      "h2": "En Vermont, si alguien está herido o el daño pasa de $3,000, usted debe hacer un reporte escrito del choque al Departamento de Vehículos Motorizados en 72 horas.",
+      "p": "Correcto. Repórtelo al DMV en 72 horas."
+    }
+  },
+  {
+    "id": "vt-026",
+    "scope": "VT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 53,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Vermont, what happens if a driver refuses a police officer's request for an alcohol or drug test?",
+      "o": [
+        "Nothing, the test is optional",
+        "A warning letter from the DMV",
+        "A 10-day suspension",
+        "Loss of the license for at least six months"
+      ],
+      "h1": "Vermont has an Implied Consent law, so refusing has a real cost.",
+      "h2": "Under Vermont's Implied Consent law, a driver who refuses the alcohol or drug test loses the driver's license for at least six months.",
+      "p": "Right. Refusing the test means losing your license for at least six months."
+    },
+    "es": {
+      "q": "En Vermont, ¿qué pasa si un conductor se niega cuando un policía le pide una prueba de alcohol o drogas?",
+      "o": [
+        "Nada, la prueba es opcional",
+        "Una carta de advertencia del DMV",
+        "Una suspensión de 10 días",
+        "Pierde la licencia por al menos seis meses"
+      ],
+      "h1": "Vermont tiene una ley de Consentimiento Implícito, así que negarse tiene un costo real.",
+      "h2": "Bajo la ley de Consentimiento Implícito de Vermont, el conductor que se niega a la prueba de alcohol o drogas pierde su licencia por al menos seis meses.",
+      "p": "Correcto. Negarse a la prueba significa perder la licencia por al menos seis meses."
+    }
+  },
+  {
+    "id": "vt-027",
+    "scope": "VT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 62,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Vermont, how must a child under 2 years old ride in a car?",
+      "o": [
+        "In a rear-facing car seat with a harness",
+        "In a booster seat with a lap belt",
+        "In a forward-facing seat in the front",
+        "On an adult's lap with a seat belt"
+      ],
+      "h1": "The youngest children face the back of the car.",
+      "h2": "In Vermont, a child under two years old must ride in an approved rear-facing car seat with a harness, never in front of an active airbag.",
+      "p": "Right. Under 2, the child rides rear-facing in a harnessed car seat."
+    },
+    "es": {
+      "q": "En Vermont, ¿cómo debe viajar en el carro un niño menor de 2 años?",
+      "o": [
+        "En un asiento de seguridad mirando hacia atrás, con arnés",
+        "En un asiento elevador con cinturón de cadera",
+        "En un asiento mirando hacia adelante, en el frente",
+        "En las piernas de un adulto con cinturón"
+      ],
+      "h1": "Los niños más pequeños miran hacia la parte de atrás del carro.",
+      "h2": "En Vermont, un niño menor de dos años debe viajar en un asiento de seguridad aprobado, mirando hacia atrás y con arnés, nunca delante de una bolsa de aire activa.",
+      "p": "Correcto. Antes de los 2 años, el niño va mirando hacia atrás en un asiento con arnés."
+    }
   }
 ]
