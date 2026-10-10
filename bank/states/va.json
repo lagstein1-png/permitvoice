@@ -2540,5 +2540,651 @@
       "h2": "في Virginia، يجب أن تستخدم المصابيح الأمامية كلما استخدمت مسّاحات الزجاج الأمامي بسبب سوء الطقس، وعندما يقلّل المطر أو الضباب أو الثلج مدى الرؤية إلى 500 قدم.",
       "p": "صحيح. إذا شغّلت المسّاحات بسبب سوء الطقس فشغّل المصابيح الأمامية."
     }
+  },
+  {
+    "id": "va-032",
+    "scope": "VA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 15,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Virginia, if no sign says otherwise, what is the speed limit in a residential area?",
+      "o": [
+        "20 mph",
+        "25 mph",
+        "30 mph",
+        "35 mph"
+      ],
+      "h1": "It is the same limit as in school and business areas.",
+      "h2": "In Virginia, when no sign shows a different limit, the speed limit in residential, business and school areas is 25 mph.",
+      "p": "Right. With no sign, a Virginia neighborhood street is 25 mph."
+    },
+    "es": {
+      "q": "En Virginia, si ninguna señal indica otra cosa, ¿cuál es el límite de velocidad en una zona residencial?",
+      "o": [
+        "20 mph",
+        "25 mph",
+        "30 mph",
+        "35 mph"
+      ],
+      "h1": "Es el mismo límite que en las zonas escolares y comerciales.",
+      "h2": "En Virginia, cuando ninguna señal muestra otro límite, el límite de velocidad en zonas residenciales, comerciales y escolares es de 25 mph.",
+      "p": "Correcto. Sin señal, una calle de barrio en Virginia es de 25 mph."
+    }
+  },
+  {
+    "id": "va-033",
+    "scope": "VA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 15,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Virginia, if no sign says otherwise, what is the speed limit on an unpaved road?",
+      "o": [
+        "25 mph",
+        "45 mph",
+        "55 mph",
+        "35 mph"
+      ],
+      "h1": "It is 10 mph more than the limit in a neighborhood.",
+      "h2": "In Virginia, when no sign shows a different limit, the speed limit on an unpaved road is 35 mph.",
+      "p": "Right. With no sign, a Virginia dirt or gravel road is 35 mph."
+    },
+    "es": {
+      "q": "En Virginia, si ninguna señal indica otra cosa, ¿cuál es el límite de velocidad en un camino sin pavimentar?",
+      "o": [
+        "25 mph",
+        "45 mph",
+        "55 mph",
+        "35 mph"
+      ],
+      "h1": "Es 10 mph más que el límite en un barrio.",
+      "h2": "En Virginia, cuando ninguna señal muestra otro límite, el límite de velocidad en un camino sin pavimentar es de 35 mph.",
+      "p": "Correcto. Sin señal, un camino de tierra o grava en Virginia es de 35 mph."
+    }
+  },
+  {
+    "id": "va-034",
+    "scope": "VA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 14,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Virginia, a driver is convicted of going 83 mph where the limit is 65 mph. What extra penalty does the law add?",
+      "o": [
+        "An extra $100 fine",
+        "An extra $25 fine",
+        "No extra penalty",
+        "An extra 30 days in jail"
+      ],
+      "h1": "It is an added fine for driving between 81 and 85 mph in a 65 mph zone.",
+      "h2": "In Virginia, a driver convicted of going between 81 and 85 mph in a 65 mph zone pays an extra $100 fine.",
+      "p": "Right. Driving 81 to 85 mph in a 65 zone adds a $100 fine in Virginia."
+    },
+    "es": {
+      "q": "En Virginia, un conductor es condenado por ir a 83 mph donde el límite es de 65 mph. ¿Qué castigo adicional agrega la ley?",
+      "o": [
+        "Una multa adicional de $100",
+        "Una multa adicional de $25",
+        "Ningún castigo adicional",
+        "30 días adicionales de cárcel"
+      ],
+      "h1": "Es una multa añadida por manejar entre 81 y 85 mph en una zona de 65 mph.",
+      "h2": "En Virginia, un conductor condenado por ir entre 81 y 85 mph en una zona de 65 mph paga una multa adicional de $100.",
+      "p": "Correcto. Manejar de 81 a 85 mph en una zona de 65 agrega una multa de $100 en Virginia."
+    }
+  },
+  {
+    "id": "va-035",
+    "scope": "VA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 10,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Virginia, what is the highest fine for speeding in a highway work zone?",
+      "o": [
+        "Up to $100",
+        "Up to $250",
+        "Up to $500",
+        "Up to $2,500"
+      ],
+      "h1": "It is twice the fine for holding a phone in a work zone.",
+      "h2": "In Virginia, a driver convicted of speeding in a highway work zone can be fined up to $500.",
+      "p": "Right. Speeding in a Virginia work zone can cost up to $500."
+    },
+    "es": {
+      "q": "En Virginia, ¿cuál es la multa más alta por exceso de velocidad en una zona de obras en la carretera?",
+      "o": [
+        "Hasta $100",
+        "Hasta $250",
+        "Hasta $500",
+        "Hasta $2,500"
+      ],
+      "h1": "Es el doble de la multa por sostener un teléfono en una zona de obras.",
+      "h2": "En Virginia, a un conductor condenado por exceso de velocidad en una zona de obras en la carretera se le puede multar con hasta $500.",
+      "p": "Correcto. Ir con exceso de velocidad en una zona de obras en Virginia puede costar hasta $500."
+    }
+  },
+  {
+    "id": "va-036",
+    "scope": "VA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 12,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Virginia, you use a shared center lane to make a left turn. How far may you drive in that lane?",
+      "o": [
+        "Up to 50 feet",
+        "No more than 150 feet",
+        "Up to 500 feet",
+        "As far as you need"
+      ],
+      "h1": "It is about half the length of a football field.",
+      "h2": "In Virginia, you may use a shared center left-turn lane for no more than 150 feet.",
+      "p": "Right. Stay in a Virginia center turn lane for 150 feet at most."
+    },
+    "es": {
+      "q": "En Virginia, usted usa un carril central compartido para girar a la izquierda. ¿Qué distancia puede recorrer en ese carril?",
+      "o": [
+        "Hasta 50 pies",
+        "No más de 150 pies",
+        "Hasta 500 pies",
+        "Toda la que necesite"
+      ],
+      "h1": "Es más o menos la mitad del largo de un campo de fútbol americano.",
+      "h2": "En Virginia, puede usar un carril central compartido para girar a la izquierda por no más de 150 pies.",
+      "p": "Correcto. En Virginia, quédese en un carril central de giro 150 pies como máximo."
+    }
+  },
+  {
+    "id": "va-037",
+    "scope": "VA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 22,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Virginia, how close to a fire hydrant may you park?",
+      "o": [
+        "5 feet",
+        "10 feet",
+        "25 feet",
+        "No closer than 15 feet"
+      ],
+      "h1": "It is a little more than the length of a small car.",
+      "h2": "In Virginia, you may not park within 15 feet of a fire hydrant.",
+      "p": "Right. In Virginia, park at least 15 feet from a fire hydrant."
+    },
+    "es": {
+      "q": "En Virginia, ¿a qué distancia de un hidrante de incendios puede estacionarse?",
+      "o": [
+        "5 pies",
+        "10 pies",
+        "25 pies",
+        "No más cerca de 15 pies"
+      ],
+      "h1": "Es un poco más que el largo de un carro pequeño.",
+      "h2": "En Virginia, no puede estacionarse a menos de 15 pies de un hidrante de incendios.",
+      "p": "Correcto. En Virginia, estaciónese por lo menos a 15 pies de un hidrante."
+    }
+  },
+  {
+    "id": "va-038",
+    "scope": "VA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 11,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Virginia, the road has double solid yellow center lines. When may you cross them to pass?",
+      "o": [
+        "Never, for any reason",
+        "To pass a slow car when no one is coming",
+        "To pass a bicyclist when the other lane is clear and it is safe",
+        "Only at night"
+      ],
+      "h1": "The exception is for people who are not in cars.",
+      "h2": "In Virginia, you may cross double solid yellow lines to pass a bicyclist, a pedestrian, or a scooter or skateboard rider when the other lane is clear and it is safe.",
+      "p": "Right. In Virginia, you may cross the double yellow only to pass someone like a bicyclist, when it is clear and safe."
+    },
+    "es": {
+      "q": "En Virginia, la carretera tiene doble línea amarilla continua en el centro. ¿Cuándo puede cruzarla para rebasar?",
+      "o": [
+        "Nunca, por ningún motivo",
+        "Para rebasar un carro lento cuando no viene nadie",
+        "Para rebasar a un ciclista cuando el otro carril está libre y es seguro",
+        "Solo de noche"
+      ],
+      "h1": "La excepción es para personas que no van en carros.",
+      "h2": "En Virginia, puede cruzar la doble línea amarilla continua para rebasar a un ciclista, a un peatón o a alguien en patineta o scooter cuando el otro carril está libre y es seguro.",
+      "p": "Correcto. En Virginia, solo puede cruzar la doble línea amarilla para rebasar a alguien como un ciclista, cuando está libre y es seguro."
+    }
+  },
+  {
+    "id": "va-039",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 14,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Virginia, what is the law about radar detectors in cars?",
+      "o": [
+        "They are illegal",
+        "They are allowed for everyone",
+        "They are allowed only on interstates",
+        "They are allowed only for drivers over 21"
+      ],
+      "h1": "Virginia does not let drivers use devices that warn of police radar.",
+      "h2": "In Virginia, it is illegal to use a radar detector.",
+      "p": "Right. Radar detectors are against the law in Virginia."
+    },
+    "es": {
+      "q": "En Virginia, ¿qué dice la ley sobre los detectores de radar en los carros?",
+      "o": [
+        "Son ilegales",
+        "Están permitidos para todos",
+        "Están permitidos solo en las autopistas interestatales",
+        "Están permitidos solo para conductores mayores de 21 años"
+      ],
+      "h1": "Virginia no deja que los conductores usen aparatos que avisan del radar de la policía.",
+      "h2": "En Virginia, es ilegal usar un detector de radar.",
+      "p": "Correcto. Los detectores de radar están prohibidos en Virginia."
+    }
+  },
+  {
+    "id": "va-040",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 23,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Virginia, you are following another car at night. Within what distance must you use low beams?",
+      "o": [
+        "50 feet",
+        "200 feet",
+        "1,000 feet",
+        "1 mile"
+      ],
+      "h1": "It is less than half the distance used for oncoming cars.",
+      "h2": "In Virginia, you must switch to low beams when you are within 200 feet of the vehicle ahead of you.",
+      "p": "Right. Use low beams within 200 feet of a car you are following in Virginia."
+    },
+    "es": {
+      "q": "En Virginia, usted va detrás de otro carro de noche. ¿A qué distancia debe usar las luces bajas?",
+      "o": [
+        "50 pies",
+        "200 pies",
+        "1,000 pies",
+        "1 milla"
+      ],
+      "h1": "Es menos de la mitad de la distancia que se usa para los carros que vienen de frente.",
+      "h2": "En Virginia, debe cambiar a luces bajas cuando está a menos de 200 pies del vehículo que va delante de usted.",
+      "p": "Correcto. En Virginia, use las luces bajas a menos de 200 pies del carro que sigue."
+    }
+  },
+  {
+    "id": "va-041",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 23,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Virginia, a driver is convicted of aggressive driving. How long can the license be suspended?",
+      "o": [
+        "It cannot be suspended",
+        "Exactly one day",
+        "Five years",
+        "From 10 days up to six months"
+      ],
+      "h1": "The shortest time is a little over a week.",
+      "h2": "In Virginia, a driver convicted of aggressive driving can lose the license for 10 days or for as long as six months.",
+      "p": "Right. Aggressive driving in Virginia can mean a suspension from 10 days to six months."
+    },
+    "es": {
+      "q": "En Virginia, un conductor es condenado por manejo agresivo. ¿Por cuánto tiempo pueden suspenderle la licencia?",
+      "o": [
+        "No se la pueden suspender",
+        "Exactamente un día",
+        "Cinco años",
+        "De 10 días hasta seis meses"
+      ],
+      "h1": "El tiempo más corto es un poco más de una semana.",
+      "h2": "En Virginia, a un conductor condenado por manejo agresivo le pueden suspender la licencia por 10 días o hasta por seis meses.",
+      "p": "Correcto. El manejo agresivo en Virginia puede significar una suspensión de 10 días a seis meses."
+    }
+  },
+  {
+    "id": "va-042",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 30,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Virginia, a driver refuses a breath test and is charged with DUI for the first time. How long is the license suspended right away?",
+      "o": [
+        "One day",
+        "30 days",
+        "Seven days",
+        "One year"
+      ],
+      "h1": "It is about one week.",
+      "h2": "In Virginia, on a first DUI charge, refusing a breath test or having a BAC of 0.08 or more means an automatic seven-day license suspension.",
+      "p": "Right. A first offense brings an automatic seven-day suspension in Virginia."
+    },
+    "es": {
+      "q": "En Virginia, un conductor se niega a una prueba de aliento y lo acusan de DUI por primera vez. ¿Por cuánto tiempo le suspenden la licencia de inmediato?",
+      "o": [
+        "Un día",
+        "30 días",
+        "Siete días",
+        "Un año"
+      ],
+      "h1": "Es más o menos una semana.",
+      "h2": "En Virginia, en una primera acusación de DUI, negarse a la prueba de aliento o tener un nivel de alcohol de 0.08 o más significa una suspensión automática de la licencia por siete días.",
+      "p": "Correcto. Una primera infracción trae una suspensión automática de siete días en Virginia."
+    }
+  },
+  {
+    "id": "va-043",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 30,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Virginia, a driver is convicted of DUI with a child age 17 or younger in the car. What is added to the other penalties?",
+      "o": [
+        "Five more days in jail that cannot be skipped",
+        "Only a warning letter",
+        "A $10 fine",
+        "Nothing extra"
+      ],
+      "h1": "The extra penalty is time in jail, and it is required.",
+      "h2": "In Virginia, a DUI conviction with a passenger age 17 or younger adds a mandatory five days in jail to all other penalties.",
+      "p": "Right. A child in the car adds five mandatory days in jail for a Virginia DUI."
+    },
+    "es": {
+      "q": "En Virginia, un conductor es condenado por DUI con un menor de 17 años o menos en el carro. ¿Qué se agrega a los otros castigos?",
+      "o": [
+        "Cinco días más de cárcel que no se pueden evitar",
+        "Solo una carta de advertencia",
+        "Una multa de $10",
+        "Nada adicional"
+      ],
+      "h1": "El castigo adicional es tiempo en la cárcel, y es obligatorio.",
+      "h2": "En Virginia, una condena por DUI con un pasajero de 17 años o menos agrega cinco días obligatorios de cárcel a todos los demás castigos.",
+      "p": "Correcto. Un menor en el carro agrega cinco días obligatorios de cárcel a un DUI en Virginia."
+    }
+  },
+  {
+    "id": "va-044",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 27,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Virginia, children under what age must ride in a child safety seat or booster seat?",
+      "o": [
+        "Under 4",
+        "Under 8",
+        "Under 12",
+        "Under 16"
+      ],
+      "h1": "Think of a child in second or third grade.",
+      "h2": "In Virginia, all children under age 8 must be secured in a child safety seat or a booster seat.",
+      "p": "Right. Virginia children under 8 need a car seat or booster."
+    },
+    "es": {
+      "q": "En Virginia, ¿los niños menores de qué edad deben ir en un asiento de seguridad o un asiento elevado (booster)?",
+      "o": [
+        "Menores de 4",
+        "Menores de 8",
+        "Menores de 12",
+        "Menores de 16"
+      ],
+      "h1": "Piense en un niño de segundo o tercer grado.",
+      "h2": "En Virginia, todos los niños menores de 8 años deben ir asegurados en un asiento de seguridad o un asiento elevado (booster).",
+      "p": "Correcto. En Virginia, los niños menores de 8 años necesitan asiento de seguridad o booster."
+    }
+  },
+  {
+    "id": "va-045",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 27,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Virginia, who may not ride in the open bed of a pickup truck?",
+      "o": [
+        "Only children under 5",
+        "No one, unless the truck is parked",
+        "Only people over 65",
+        "Children under 16, even with a camper shell"
+      ],
+      "h1": "The rule covers most children and teens.",
+      "h2": "In Virginia, it is illegal to carry children under age 16 in the bed of a pickup truck, even if it has a camper shell.",
+      "p": "Right. In Virginia, no child under 16 may ride in a pickup truck bed."
+    },
+    "es": {
+      "q": "En Virginia, ¿quién no puede ir en la caja abierta de una camioneta pickup?",
+      "o": [
+        "Solo los niños menores de 5 años",
+        "Nadie, a menos que la camioneta esté estacionada",
+        "Solo las personas mayores de 65 años",
+        "Los menores de 16 años, aunque tenga una cubierta (camper)"
+      ],
+      "h1": "La regla cubre a la mayoría de los niños y adolescentes.",
+      "h2": "En Virginia, es ilegal llevar a menores de 16 años en la caja de una camioneta pickup, aunque tenga una cubierta (camper).",
+      "p": "Correcto. En Virginia, ningún menor de 16 años puede ir en la caja de una pickup."
+    }
+  },
+  {
+    "id": "va-046",
+    "scope": "VA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 25,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Virginia, you damage a parked car and cannot find the owner. You leave a note. What else must you do?",
+      "o": [
+        "Nothing else",
+        "Call your insurance company within a week",
+        "Report the crash to the police within 24 hours",
+        "Wait at the car until the owner comes back"
+      ],
+      "h1": "The police must hear about it within one day.",
+      "h2": "In Virginia, if you damage an unattended car, you must leave a note with your contact details and report the crash to the police within 24 hours.",
+      "p": "Right. Leave a note and tell the police within 24 hours in Virginia."
+    },
+    "es": {
+      "q": "En Virginia, usted daña un carro estacionado y no encuentra al dueño. Deja una nota. ¿Qué más debe hacer?",
+      "o": [
+        "Nada más",
+        "Llamar a su compañía de seguros dentro de una semana",
+        "Reportar el choque a la policía dentro de 24 horas",
+        "Esperar junto al carro hasta que vuelva el dueño"
+      ],
+      "h1": "La policía debe saberlo dentro de un día.",
+      "h2": "En Virginia, si daña un carro sin nadie adentro, debe dejar una nota con sus datos y reportar el choque a la policía dentro de 24 horas.",
+      "p": "Correcto. En Virginia, deje una nota y avise a la policía dentro de 24 horas."
+    }
+  },
+  {
+    "id": "va-047",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 29,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Virginia, a driver age 18 or older gets 12 demerit points in 12 months. What does DMV require?",
+      "o": [
+        "A driver improvement clinic",
+        "Nothing until 24 points",
+        "A new road skills test",
+        "A one-year revocation"
+      ],
+      "h1": "It is a class to help the driver improve.",
+      "h2": "In Virginia, a driver age 18 or older with 12 demerit points in 12 months, or 18 points in 24 months, must complete a driver improvement clinic.",
+      "p": "Right. Twelve points in a year sends a Virginia adult driver to a driver improvement clinic."
+    },
+    "es": {
+      "q": "En Virginia, un conductor de 18 años o más acumula 12 puntos de demérito en 12 meses. ¿Qué exige el DMV?",
+      "o": [
+        "Una clínica de mejoramiento para conductores",
+        "Nada hasta llegar a 24 puntos",
+        "Un nuevo examen de manejo en la calle",
+        "Una revocación de un año"
+      ],
+      "h1": "Es una clase para ayudar al conductor a mejorar.",
+      "h2": "En Virginia, un conductor de 18 años o más con 12 puntos de demérito en 12 meses, o 18 puntos en 24 meses, debe completar una clínica de mejoramiento para conductores.",
+      "p": "Correcto. Doce puntos en un año llevan a un conductor adulto de Virginia a una clínica de mejoramiento."
+    }
+  },
+  {
+    "id": "va-048",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 33,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Virginia, you move to a new address. How soon must you tell DMV?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 6 months",
+        "Only when you renew your license"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In Virginia, you must tell DMV about your new address within 30 days of moving.",
+      "p": "Right. Tell Virginia DMV about a move within 30 days."
+    },
+    "es": {
+      "q": "En Virginia, usted se muda a una nueva dirección. ¿En cuánto tiempo debe avisar al DMV?",
+      "o": [
+        "Dentro de 10 días",
+        "Dentro de 30 días",
+        "Dentro de 6 meses",
+        "Solo cuando renueve su licencia"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Virginia, debe avisar al DMV de su nueva dirección dentro de 30 días después de mudarse.",
+      "p": "Correcto. Avise al DMV de Virginia de una mudanza dentro de 30 días."
+    }
+  },
+  {
+    "id": "va-049",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 33,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Virginia, a new resident who drives must get a Virginia driver's license within how many days of moving there?",
+      "o": [
+        "10 days",
+        "30 days",
+        "1 year",
+        "60 days"
+      ],
+      "h1": "It is about two months.",
+      "h2": "In Virginia, a new resident who drives must get a Virginia driver's license within 60 days of moving to the state.",
+      "p": "Right. New Virginia residents have 60 days to get a Virginia license."
+    },
+    "es": {
+      "q": "En Virginia, ¿dentro de cuántos días después de mudarse debe un nuevo residente que maneja obtener una licencia de Virginia?",
+      "o": [
+        "10 días",
+        "30 días",
+        "1 año",
+        "60 días"
+      ],
+      "h1": "Son más o menos dos meses.",
+      "h2": "En Virginia, un nuevo residente que maneja debe obtener una licencia de conducir de Virginia dentro de 60 días después de mudarse al estado.",
+      "p": "Correcto. Los nuevos residentes de Virginia tienen 60 días para obtener la licencia de Virginia."
+    }
+  },
+  {
+    "id": "va-050",
+    "scope": "VA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Virginia, a learner under 18 fails the knowledge exam. How long must they wait to take it again?",
+      "o": [
+        "They can retake it the same day",
+        "One full week",
+        "A full 15 days",
+        "Six months"
+      ],
+      "h1": "It is about half a month.",
+      "h2": "In Virginia, an applicant under 18 who fails the knowledge exam must wait a full 15 days before taking it again.",
+      "p": "Right. Under 18 in Virginia, you wait a full 15 days to retake the exam."
+    },
+    "es": {
+      "q": "En Virginia, un aprendiz menor de 18 años no aprueba el examen de conocimientos. ¿Cuánto tiempo debe esperar para tomarlo otra vez?",
+      "o": [
+        "Puede repetirlo el mismo día",
+        "Una semana completa",
+        "15 días completos",
+        "Seis meses"
+      ],
+      "h1": "Es más o menos medio mes.",
+      "h2": "En Virginia, un solicitante menor de 18 años que no aprueba el examen de conocimientos debe esperar 15 días completos antes de tomarlo otra vez.",
+      "p": "Correcto. Si es menor de 18 años en Virginia, espera 15 días completos para repetir el examen."
+    }
   }
 ]
