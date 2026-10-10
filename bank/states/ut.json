@@ -2130,5 +2130,175 @@
       "h2": "تطلب Utah أن تجيب إجابة صحيحة عن 80 بالمئة على الأقل من أسئلة الاختبار النظري، أي 40 من 50.",
       "p": "صحيح. تحتاج 80 بالمئة للنجاح."
     }
+  },
+  {
+    "id": "ut-027",
+    "scope": "UT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 32,
+    "src": "https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2026.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Utah, how close to a fire hydrant may you park?",
+      "o": [
+        "Up to 5 feet away",
+        "Up to 10 feet away",
+        "No closer than 15 feet",
+        "No closer than 30 feet"
+      ],
+      "h1": "Firefighters need room to reach the hydrant.",
+      "h2": "In Utah, you may not park within 15 feet of a fire hydrant.",
+      "p": "Right. Stay at least 15 feet from a fire hydrant."
+    },
+    "es": {
+      "q": "En Utah, ¿a qué distancia de un hidrante puede estacionarse?",
+      "o": [
+        "Hasta 5 pies de distancia",
+        "Hasta 10 pies de distancia",
+        "No más cerca de 15 pies",
+        "No más cerca de 30 pies"
+      ],
+      "h1": "Los bomberos necesitan espacio para llegar al hidrante.",
+      "h2": "En Utah, usted no puede estacionarse a menos de 15 pies de un hidrante.",
+      "p": "Correcto. Quédese por lo menos a 15 pies de un hidrante."
+    }
+  },
+  {
+    "id": "ut-028",
+    "scope": "UT",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 75,
+    "src": "https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2026.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Utah, how much space must you leave when you pass a bicyclist?",
+      "o": [
+        "At least 3 feet",
+        "At least 1 foot",
+        "At least 10 feet",
+        "Any space is fine if you honk"
+      ],
+      "h1": "Utah law sets a minimum distance for passing people on bikes.",
+      "h2": "In Utah, the law requires you to leave at least three feet between your vehicle and a bicyclist you are passing.",
+      "p": "Right. Give a bicyclist at least 3 feet."
+    },
+    "es": {
+      "q": "En Utah, ¿cuánto espacio debe dejar al rebasar a un ciclista?",
+      "o": [
+        "Por lo menos 3 pies",
+        "Por lo menos 1 pie",
+        "Por lo menos 10 pies",
+        "Cualquier espacio si toca la bocina"
+      ],
+      "h1": "La ley de Utah fija una distancia mínima para rebasar a personas en bicicleta.",
+      "h2": "En Utah, la ley exige que deje por lo menos tres pies entre su vehículo y el ciclista que rebasa.",
+      "p": "Correcto. Deje por lo menos 3 pies al ciclista."
+    }
+  },
+  {
+    "id": "ut-029",
+    "scope": "UT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 82,
+    "src": "https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2026.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Utah, when may a motorcycle rider pass between cars in the same lane (lane filtering)?",
+      "o": [
+        "At any speed on the freeway",
+        "Only on an on-ramp",
+        "Whenever traffic is moving slowly",
+        "When the cars are stopped and the speed limit is 45 mph or less"
+      ],
+      "h1": "The cars being passed must not be moving.",
+      "h2": "In Utah, lane filtering is allowed only when the vehicles being passed are stopped, the speed limit is 45 mph or less, and the motorcycle goes 15 mph or less.",
+      "p": "Right. Only past stopped cars, on roads of 45 mph or less."
+    },
+    "es": {
+      "q": "En Utah, ¿cuándo puede un motociclista pasar entre autos en el mismo carril (lane filtering)?",
+      "o": [
+        "A cualquier velocidad en la autopista",
+        "Solo en una rampa de entrada",
+        "Siempre que el tráfico avance despacio",
+        "Cuando los autos están detenidos y el límite es de 45 mph o menos"
+      ],
+      "h1": "Los autos que rebasa no deben estar en movimiento.",
+      "h2": "En Utah, el lane filtering solo se permite cuando los vehículos que se rebasan están detenidos, el límite de velocidad es de 45 mph o menos y la motocicleta va a 15 mph o menos.",
+      "p": "Correcto. Solo junto a autos detenidos, en vías de 45 mph o menos."
+    }
+  },
+  {
+    "id": "ut-030",
+    "scope": "UT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 28,
+    "src": "https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2026.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Utah, which children must ride in an approved child safety seat?",
+      "o": [
+        "Only babies under 1 year",
+        "Children 8 and under, unless they are 57 inches tall",
+        "Children under 4 only",
+        "Children under 12 riding in front"
+      ],
+      "h1": "The rule uses an age and a height.",
+      "h2": "In Utah, all children aged eight and under must be secured in an approved child safety seat unless they are 57 inches tall.",
+      "p": "Right. Age 8 and under, unless 57 inches tall."
+    },
+    "es": {
+      "q": "En Utah, ¿qué niños deben ir en un asiento de seguridad aprobado?",
+      "o": [
+        "Solo los bebés menores de 1 año",
+        "Los niños de 8 años o menos, salvo que midan 57 pulgadas",
+        "Solo los menores de 4 años",
+        "Los menores de 12 años que van adelante"
+      ],
+      "h1": "La regla usa una edad y una estatura.",
+      "h2": "En Utah, todos los niños de ocho años o menos deben ir sujetos en un asiento de seguridad aprobado, salvo que midan 57 pulgadas.",
+      "p": "Correcto. Ocho años o menos, salvo que midan 57 pulgadas."
+    }
+  },
+  {
+    "id": "ut-031",
+    "scope": "UT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2026.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Utah, when you renew a regular driver license, for how long is the new license good?",
+      "o": [
+        "Two years",
+        "Four years",
+        "Eight years",
+        "For life"
+      ],
+      "h1": "It is longer than in many states.",
+      "h2": "In Utah, a renewed regular driver license expires on your birthday eight years after it is issued.",
+      "p": "Right. A renewed license lasts eight years."
+    },
+    "es": {
+      "q": "En Utah, cuando renueva una licencia de conducir regular, ¿por cuánto tiempo es válida la nueva licencia?",
+      "o": [
+        "Dos años",
+        "Cuatro años",
+        "Ocho años",
+        "De por vida"
+      ],
+      "h1": "Es más tiempo que en muchos estados.",
+      "h2": "En Utah, una licencia regular renovada vence en su cumpleaños ocho años después de emitida.",
+      "p": "Correcto. Una licencia renovada dura ocho años."
+    }
   }
 ]
