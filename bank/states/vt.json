@@ -2212,5 +2212,141 @@
       "h2": "في Vermont، يجب أن يركب الطفل الذي عمره أقل من سنتين في مقعد سيارة معتمد مواجه للخلف مع أحزمة، وأبدًا أمام وسادة هوائية تعمل.",
       "p": "صحيح. تحت عمر 2، يركب الطفل في مقعد سيارة مواجه للخلف مع أحزمة."
     }
+  },
+  {
+    "id": "vt-028",
+    "scope": "VT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 29,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Vermont, you may not park within how many feet of a fire hydrant?",
+      "o": [
+        "15 feet",
+        "6 feet",
+        "20 feet",
+        "10 feet"
+      ],
+      "h1": "Vermont's distance is shorter than in many other states.",
+      "h2": "In Vermont, you may not park within 6 feet of a fire hydrant.",
+      "p": "Right. Stay at least 6 feet away."
+    },
+    "es": {
+      "q": "En Vermont, ¿a menos de cuántos pies de un hidrante no puede estacionarse?",
+      "o": [
+        "15 pies",
+        "6 pies",
+        "20 pies",
+        "10 pies"
+      ],
+      "h1": "La distancia de Vermont es más corta que en muchos otros estados.",
+      "h2": "En Vermont, no puede estacionarse a menos de 6 pies de un hidrante.",
+      "p": "Correcto. Quédese al menos a 6 pies."
+    }
+  },
+  {
+    "id": "vt-029",
+    "scope": "VT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 24,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Vermont, your driver's license has expired. After how many days is it no longer valid for driving?",
+      "o": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "14 days"
+      ],
+      "h1": "It is about two weeks.",
+      "h2": "In Vermont, a license that has been expired for more than 14 days is not valid, and you may not drive with it.",
+      "p": "Right. After 14 days."
+    },
+    "es": {
+      "q": "En Vermont, su licencia de conducir está vencida. ¿Después de cuántos días ya no es válida para manejar?",
+      "o": [
+        "30 días",
+        "60 días",
+        "90 días",
+        "14 días"
+      ],
+      "h1": "Son unas dos semanas.",
+      "h2": "En Vermont, una licencia que lleva más de 14 días vencida no es válida y no puede manejar con ella.",
+      "p": "Correcto. Después de 14 días."
+    }
+  },
+  {
+    "id": "vt-030",
+    "scope": "VT",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 52,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Vermont, how much space should you leave when you pass a bicycle?",
+      "o": [
+        "At least 4 feet",
+        "At least 2 feet",
+        "At least 1 foot",
+        "At least 10 feet"
+      ],
+      "h1": "Give more room than an arm's length.",
+      "h2": "In Vermont, you should leave at least four feet of space between your vehicle and a bicycle or vehicle you are passing.",
+      "p": "Right. At least four feet."
+    },
+    "es": {
+      "q": "En Vermont, ¿cuánto espacio debe dejar al rebasar a una bicicleta?",
+      "o": [
+        "Al menos 4 pies",
+        "Al menos 2 pies",
+        "Al menos 1 pie",
+        "Al menos 10 pies"
+      ],
+      "h1": "Deje más espacio que el largo de un brazo.",
+      "h2": "En Vermont, debe dejar al menos cuatro pies de espacio entre su vehículo y la bicicleta o el vehículo que rebasa.",
+      "p": "Correcto. Al menos cuatro pies."
+    }
+  },
+  {
+    "id": "vt-031",
+    "scope": "VT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 46,
+    "src": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Vermont, the law says your headlights must be on when you cannot clearly see people or vehicles how far ahead?",
+      "o": [
+        "100 feet",
+        "250 feet",
+        "500 feet",
+        "1,000 feet"
+      ],
+      "h1": "Think of fog, heavy rain or heavy snow.",
+      "h2": "In Vermont, the law requires your headlights to be on whenever you cannot clearly see people or vehicles 500 feet ahead.",
+      "p": "Right. 500 feet."
+    },
+    "es": {
+      "q": "En Vermont, la ley exige encender las luces cuando no puede ver con claridad a personas o vehículos a cierta distancia adelante. ¿Cuál es esa distancia?",
+      "o": [
+        "100 pies",
+        "250 pies",
+        "500 pies",
+        "1,000 pies"
+      ],
+      "h1": "Piense en niebla, lluvia fuerte o nieve fuerte.",
+      "h2": "En Vermont, la ley exige tener las luces encendidas siempre que no pueda ver con claridad a personas o vehículos a 500 pies adelante.",
+      "p": "Correcto. 500 pies."
+    }
   }
 ]

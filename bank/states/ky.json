@@ -2212,5 +2212,141 @@
       "h2": "في Kentucky، بعد الرسوب في اختبار مهارات القيادة على الطريق يجب أن تنتظر أسبوعًا واحدًا على الأقل قبل أن تحاول مرة أخرى.",
       "p": "صحيح. انتظر أسبوعًا وتدرّب."
     }
+  },
+  {
+    "id": "ky-028",
+    "scope": "KY",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 47,
+    "src": "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Kentucky, when you pass another vehicle, how far from an oncoming vehicle must the pass be finished?",
+      "o": [
+        "At least 50 feet",
+        "At least 200 feet",
+        "At least 100 feet",
+        "At least 1,000 feet"
+      ],
+      "h1": "The distance is more than half a football field.",
+      "h2": "In Kentucky, you must finish a pass before you come within 200 feet of an oncoming vehicle.",
+      "p": "Right. Finish the pass at least 200 feet before an oncoming vehicle."
+    },
+    "es": {
+      "q": "En Kentucky, al rebasar a otro vehículo, ¿a qué distancia de un vehículo que viene de frente debe terminar de rebasar?",
+      "o": [
+        "Al menos 50 pies",
+        "Al menos 200 pies",
+        "Al menos 100 pies",
+        "Al menos 1,000 pies"
+      ],
+      "h1": "La distancia es más de la mitad de un campo de fútbol americano.",
+      "h2": "En Kentucky, usted debe terminar de rebasar antes de quedar a menos de 200 pies de un vehículo que viene de frente.",
+      "p": "Correcto. Termine de rebasar al menos 200 pies antes del vehículo que viene."
+    }
+  },
+  {
+    "id": "ky-029",
+    "scope": "KY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 48,
+    "src": "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Kentucky, on a road with one lane each way, how much space must you leave when you pass a bicycle?",
+      "o": [
+        "At least 1 foot",
+        "At least 2 feet",
+        "At least 6 feet",
+        "At least 3 feet"
+      ],
+      "h1": "It is about the length of a yardstick.",
+      "h2": "In Kentucky, when there is only one lane in your direction, you must pass a bicycle on the left and keep at least 3 feet away.",
+      "p": "Right. Give a bicycle at least 3 feet."
+    },
+    "es": {
+      "q": "En Kentucky, en un camino con un carril en cada sentido, ¿cuánto espacio debe dejar al pasar a una bicicleta?",
+      "o": [
+        "Al menos 1 pie",
+        "Al menos 2 pies",
+        "Al menos 6 pies",
+        "Al menos 3 pies"
+      ],
+      "h1": "Es más o menos el largo de una regla de una yarda.",
+      "h2": "En Kentucky, cuando hay un solo carril en su sentido, usted debe pasar a la bicicleta por la izquierda y dejar al menos 3 pies.",
+      "p": "Correcto. Deje al menos 3 pies a la bicicleta."
+    }
+  },
+  {
+    "id": "ky-030",
+    "scope": "KY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 51,
+    "src": "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Kentucky, what is the smallest following distance the manual tells you to keep behind the vehicle ahead?",
+      "o": [
+        "One second",
+        "Two seconds",
+        "Four seconds",
+        "Ten seconds"
+      ],
+      "h1": "It is longer than the two seconds many people use.",
+      "h2": "In Kentucky, the manual says to keep a following distance of at least 4 seconds behind the vehicle ahead.",
+      "p": "Right. Keep at least 4 seconds behind."
+    },
+    "es": {
+      "q": "En Kentucky, ¿cuál es la distancia de seguimiento mínima que el manual le dice mantener detrás del vehículo de adelante?",
+      "o": [
+        "Un segundo",
+        "Dos segundos",
+        "Cuatro segundos",
+        "Diez segundos"
+      ],
+      "h1": "Es más que los dos segundos que mucha gente usa.",
+      "h2": "En Kentucky, el manual dice que debe mantener una distancia de seguimiento de al menos 4 segundos detrás del vehículo de adelante.",
+      "p": "Correcto. Mantenga al menos 4 segundos de distancia."
+    }
+  },
+  {
+    "id": "ky-031",
+    "scope": "KY",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 69,
+    "src": "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Kentucky, when can traffic fines be doubled in a highway work zone?",
+      "o": [
+        "When signs say fines are doubled and at least one worker is present",
+        "Only at night, even when no signs are posted",
+        "Any time, even after all the work is finished",
+        "Only when a police car is parked in the work zone"
+      ],
+      "h1": "Two things must be true: the signs and the people.",
+      "h2": "In Kentucky, fines may be doubled in a highway work zone when signs say so and at least one worker is present.",
+      "p": "Right. Signs posted and a worker present means double fines."
+    },
+    "es": {
+      "q": "En Kentucky, ¿cuándo se pueden duplicar las multas en una zona de trabajo en la carretera?",
+      "o": [
+        "Cuando hay letreros de multas dobles y al menos un trabajador presente",
+        "Solo de noche, aunque no haya ningún letrero",
+        "En cualquier momento, aunque el trabajo ya haya terminado",
+        "Solo cuando hay un carro de policía estacionado en la zona de trabajo"
+      ],
+      "h1": "Dos cosas deben cumplirse: los letreros y las personas.",
+      "h2": "En Kentucky, las multas se pueden duplicar en una zona de trabajo en la carretera cuando hay letreros que lo indican y al menos un trabajador presente.",
+      "p": "Correcto. Con letreros y un trabajador presente, las multas son dobles."
+    }
   }
 ]
