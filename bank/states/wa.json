@@ -2710,81 +2710,33 @@
     "scope": "WA",
     "cat": "safe-driving",
     "conf": "high",
-    "page": "§1.15",
-    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "page": null,
+    "src": "https://app.leg.wa.gov/rcw/default.aspx?cite=46.20.3101",
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In Washington, an officer thinks you are driving under the influence, and you refuse to be tested. How long could you lose your driving privilege?",
+      "q": "In Washington, an officer arrests you for DUI and you refuse the breath or blood test. It is your first refusal, with no earlier DUI incident in 7 years. How long is your driving privilege revoked?",
       "o": [
-        "7 to 30 days",
-        "30 to 60 days",
-        "90 to 730 days, or until age 21 if that is longer",
-        "5 to 10 years"
+        "30 days",
+        "90 days",
+        "1 year",
+        "5 years"
       ],
-      "h1": "It starts at about three months and can reach two years.",
-      "h2": "In Washington, refusing the test can cost you your driving privilege for 90 to 730 days, or until you turn 21 if that is longer.",
-      "p": "Right. A refusal can mean 90 to 730 days without your privilege, or until age 21 if that is longer."
+      "h1": "It is a full year.",
+      "h2": "In Washington, a first refusal of the breath or blood test, with no earlier incident in 7 years, brings a one-year revocation of your driving privilege.",
+      "p": "Right. A first refusal means one year without your driving privilege."
     },
     "es": {
-      "q": "En Washington, un oficial cree que usted maneja bajo la influencia y usted se niega a hacerse la prueba. ¿Por cuánto tiempo podría perder su privilegio de manejar?",
+      "q": "En Washington, un oficial lo arresta por manejar bajo la influencia y usted se niega a la prueba de aliento o de sangre. Es su primera negativa, sin otro incidente de este tipo en 7 años. ¿Por cuánto tiempo le revocan el privilegio de manejar?",
       "o": [
-        "De 7 a 30 días",
-        "De 30 a 60 días",
-        "De 90 a 730 días, o hasta los 21 años si eso es más tiempo",
-        "De 5 a 10 años"
+        "30 días",
+        "90 días",
+        "1 año",
+        "5 años"
       ],
-      "h1": "Empieza en unos tres meses y puede llegar a dos años.",
-      "h2": "En Washington, negarse a la prueba puede costarle su privilegio de manejar por 90 a 730 días, o hasta cumplir 21 años si eso es más tiempo.",
-      "p": "Correcto. Negarse puede significar de 90 a 730 días sin su privilegio, o hasta los 21 años si eso es más tiempo."
-    },
-    "zh": {
-      "q": "在 Washington，警察认为你酒后或吸毒后驾驶，而你拒绝接受检测。你可能会失去驾驶权多久？",
-      "o": [
-        "7 到 30 天",
-        "30 到 60 天",
-        "90 到 730 天，或者到 21 岁（如果那更久）",
-        "5 到 10 年"
-      ],
-      "h1": "从大约三个月开始，最长可到两年。",
-      "h2": "在 Washington，拒绝检测可能让你失去驾驶权 90 到 730 天，或者到你满 21 岁（如果那更久）。",
-      "p": "对。拒绝检测可能让你 90 到 730 天没有驾驶权，或者到 21 岁（如果那更久）。"
-    },
-    "vi": {
-      "q": "Ở Washington, cảnh sát nghĩ bạn đang lái xe khi say rượu hoặc dùng chất kích thích, và bạn từ chối xét nghiệm. Bạn có thể mất quyền lái xe bao lâu?",
-      "o": [
-        "Từ 7 đến 30 ngày",
-        "Từ 30 đến 60 ngày",
-        "Từ 90 đến 730 ngày, hoặc đến 21 tuổi nếu thời gian đó lâu hơn",
-        "Từ 5 đến 10 năm"
-      ],
-      "h1": "Bắt đầu khoảng ba tháng và có thể lên đến hai năm.",
-      "h2": "Ở Washington, từ chối xét nghiệm có thể làm bạn mất quyền lái xe từ 90 đến 730 ngày, hoặc đến khi bạn 21 tuổi nếu thời gian đó lâu hơn.",
-      "p": "Đúng. Từ chối có thể làm bạn mất quyền lái xe từ 90 đến 730 ngày, hoặc đến 21 tuổi nếu thời gian đó lâu hơn."
-    },
-    "tl": {
-      "q": "Sa Washington, iniisip ng pulis na nagmamaneho ka nang lasing o lango, at tumanggi kang magpa-test. Gaano katagal mo puwedeng mawala ang karapatan mong magmaneho?",
-      "o": [
-        "7 hanggang 30 araw",
-        "30 hanggang 60 araw",
-        "90 hanggang 730 araw, o hanggang edad 21 kung mas matagal iyon",
-        "5 hanggang 10 taon"
-      ],
-      "h1": "Nagsisimula ito sa mga tatlong buwan at puwedeng umabot sa dalawang taon.",
-      "h2": "Sa Washington, kapag tumanggi ka sa test, puwede mong mawala ang karapatan mong magmaneho nang 90 hanggang 730 araw, o hanggang mag-21 ka kung mas matagal iyon.",
-      "p": "Tama. Ang pagtanggi ay puwedeng mangahulugan ng 90 hanggang 730 araw na walang karapatang magmaneho, o hanggang edad 21 kung mas matagal iyon."
-    },
-    "ar": {
-      "q": "في Washington، يظن الشرطي أنك تقود تحت تأثير الكحول أو المخدرات، وأنت ترفض الفحص. كم من الوقت قد تفقد حقك في القيادة؟",
-      "o": [
-        "من 7 إلى 30 يومًا",
-        "من 30 إلى 60 يومًا",
-        "من 90 إلى 730 يومًا، أو حتى سن 21 إذا كان ذلك أطول",
-        "من 5 إلى 10 سنوات"
-      ],
-      "h1": "تبدأ من نحو ثلاثة أشهر وقد تصل إلى سنتين.",
-      "h2": "في Washington، رفض الفحص قد يُفقدك حقك في القيادة من 90 إلى 730 يومًا، أو حتى تبلغ 21 سنة إذا كان ذلك أطول.",
-      "p": "صحيح. الرفض قد يعني من 90 إلى 730 يومًا بلا حق في القيادة، أو حتى سن 21 إذا كان ذلك أطول."
+      "h1": "Es un año completo.",
+      "h2": "En Washington, la primera negativa a la prueba de aliento o de sangre, sin otro incidente en 7 años, trae la revocación de su privilegio de manejar por un año.",
+      "p": "Correcto. La primera negativa significa un año sin su privilegio de manejar."
     }
   },
   {
@@ -5979,28 +5931,28 @@
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In Washington, recreational cannabis is legal for adults 21 and older. When is it legal to drive after using it?",
+      "q": "In Washington, recreational cannabis is legal for adults 21 and older. When is it safe to drive after using it?",
       "o": [
         "After one hour",
         "Whenever you feel fine",
-        "Driving after using any cannabis is illegal for all ages",
-        "Only if you are over 21"
+        "There is no safe amount; do not drive after using it",
+        "Any time, if you are over 21"
       ],
       "h1": "The handbook says there is no safe amount.",
-      "h2": "In Washington, driving after consuming any cannabis is illegal for all ages, and there is no safe amount for driving.",
-      "p": "Right. It is illegal at any age."
+      "h2": "The Washington handbook says there is no safe amount of cannabis for driving, so do not drive after using it; by law, adults 21 and older are under the influence at 5 nanograms of active THC or more, and drivers under 21 at any amount.",
+      "p": "Right. There is no safe amount."
     },
     "es": {
-      "q": "En Washington, el cannabis recreativo es legal para adultos de 21 años o más. ¿Cuándo es legal manejar después de usarlo?",
+      "q": "En Washington, el cannabis recreativo es legal para adultos de 21 años o más. ¿Cuándo es seguro manejar después de usarlo?",
       "o": [
         "Después de una hora",
         "Cuando usted se sienta bien",
-        "Manejar después de consumir cualquier cannabis es ilegal a cualquier edad",
-        "Solo si tiene más de 21 años"
+        "No hay una cantidad segura; no maneje después de usarlo",
+        "En cualquier momento, si tiene más de 21 años"
       ],
       "h1": "El manual dice que no hay una cantidad segura.",
-      "h2": "En Washington, manejar después de consumir cualquier cannabis es ilegal a cualquier edad, y no hay una cantidad segura para manejar.",
-      "p": "Correcto. Es ilegal a cualquier edad."
+      "h2": "El manual de Washington dice que no hay una cantidad segura de cannabis para manejar, así que no maneje después de usarlo; por ley, los adultos de 21 años o más están bajo la influencia con 5 nanogramos o más de THC activo, y los conductores menores de 21 con cualquier cantidad.",
+      "p": "Correcto. No hay una cantidad segura."
     }
   },
   {
@@ -6041,7 +5993,7 @@
     "id": "wa-108",
     "scope": "WA",
     "cat": "safe-driving",
-    "conf": "high",
+    "conf": "medium",
     "page": "§3.1",
     "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
     "sign": null,

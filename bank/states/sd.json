@@ -2382,81 +2382,33 @@
     "scope": "SD",
     "cat": "safe-driving",
     "conf": "high",
-    "page": 43,
-    "src": "https://www.sd.gov/sys_attachment.do?sys_id=d8e0b08e47bd0390a497127ba26d4348",
+    "page": null,
+    "src": "https://sdlegislature.gov/api/Statutes/32-30-2.html?all=true",
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In South Dakota, you park on a rural highway. How much road width must you leave for other traffic to pass?",
+      "q": "In South Dakota, you park on a highway. How much clear road width must you leave for other traffic to pass?",
       "o": [
-        "At least 5 feet",
         "At least 10 feet",
         "At least 15 feet",
+        "At least 20 feet",
         "At least 30 feet"
       ],
       "h1": "Other cars must still fit past you safely.",
-      "h2": "In South Dakota, when you park on a rural highway you must leave at least 15 feet of road width for other traffic to pass.",
-      "p": "Right. At least 15 feet."
+      "h2": "In South Dakota, when you park on a highway you must leave at least 20 feet of clear road width for other traffic to pass.",
+      "p": "Right. At least 20 feet."
     },
     "es": {
-      "q": "En Dakota del Sur, usted se estaciona en una carretera rural. ¿Cuánto ancho de camino debe dejar para que pase el resto del tráfico?",
+      "q": "En Dakota del Sur, usted se estaciona en una carretera. ¿Cuánto ancho de camino libre debe dejar para que pase el resto del tráfico?",
       "o": [
-        "Al menos 5 pies",
         "Al menos 10 pies",
         "Al menos 15 pies",
+        "Al menos 20 pies",
         "Al menos 30 pies"
       ],
       "h1": "Los otros autos todavía deben poder pasar con seguridad.",
-      "h2": "En Dakota del Sur, cuando se estaciona en una carretera rural debe dejar al menos 15 pies de ancho de camino para que pase el resto del tráfico.",
-      "p": "Correcto. Al menos 15 pies."
-    },
-    "zh": {
-      "q": "在 South Dakota，你把车停在乡村公路上。你必须留出多宽的路面让其他车辆通过？",
-      "o": [
-        "至少 5 英尺",
-        "至少 10 英尺",
-        "至少 15 英尺",
-        "至少 30 英尺"
-      ],
-      "h1": "其他车辆仍然必须能安全地从你旁边开过去。",
-      "h2": "在 South Dakota，当你把车停在乡村公路上时，必须留出至少 15 英尺宽的路面让其他车辆通过。",
-      "p": "对。至少 15 英尺。"
-    },
-    "vi": {
-      "q": "Ở South Dakota, bạn đậu xe trên đường cao tốc ở vùng nông thôn. Bạn phải chừa lại bao nhiêu bề rộng mặt đường để xe khác đi qua?",
-      "o": [
-        "Ít nhất 5 feet",
-        "Ít nhất 10 feet",
-        "Ít nhất 15 feet",
-        "Ít nhất 30 feet"
-      ],
-      "h1": "Các xe khác vẫn phải đi qua bạn một cách an toàn.",
-      "h2": "Ở South Dakota, khi đậu xe trên đường cao tốc ở vùng nông thôn, bạn phải chừa lại ít nhất 15 feet bề rộng mặt đường để xe khác đi qua.",
-      "p": "Đúng. Ít nhất 15 feet."
-    },
-    "tl": {
-      "q": "Sa South Dakota, pumarada ka sa isang rural highway. Gaano kalapad na daan ang dapat mong iwan para makadaan ang ibang sasakyan?",
-      "o": [
-        "Hindi bababa sa 5 talampakan",
-        "Hindi bababa sa 10 talampakan",
-        "Hindi bababa sa 15 talampakan",
-        "Hindi bababa sa 30 talampakan"
-      ],
-      "h1": "Dapat ay ligtas pa ring makadaan sa tabi mo ang ibang sasakyan.",
-      "h2": "Sa South Dakota, kapag pumarada ka sa rural highway, dapat kang mag-iwan ng hindi bababa sa 15 talampakan na lapad ng daan para makadaan ang ibang sasakyan.",
-      "p": "Tama. Hindi bababa sa 15 talampakan."
-    },
-    "ar": {
-      "q": "في South Dakota، توقف سيارتك على طريق سريع ريفي. ما عرض الطريق الذي يجب أن تتركه لتمرّ السيارات الأخرى؟",
-      "o": [
-        "5 أقدام على الأقل",
-        "10 أقدام على الأقل",
-        "15 قدمًا على الأقل",
-        "30 قدمًا على الأقل"
-      ],
-      "h1": "يجب أن تتمكن السيارات الأخرى من المرور بجانبك بأمان.",
-      "h2": "في South Dakota، عندما توقف سيارتك على طريق سريع ريفي يجب أن تترك 15 قدمًا على الأقل من عرض الطريق لتمرّ السيارات الأخرى.",
-      "p": "صحيح. 15 قدمًا على الأقل."
+      "h2": "En Dakota del Sur, cuando se estaciona en una carretera debe dejar al menos 20 pies de ancho de camino libre para que pase el resto del tráfico.",
+      "p": "Correcto. Al menos 20 pies."
     }
   },
   {

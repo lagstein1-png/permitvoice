@@ -6551,7 +6551,7 @@
     "id": "wi-123",
     "scope": "WI",
     "cat": "safe-driving",
-    "conf": "high",
+    "conf": "medium",
     "page": 51,
     "src": "https://wisconsindot.gov/Documents/dmv/shared/bds126-motorists-handbook.pdf",
     "sign": null,
@@ -7203,7 +7203,7 @@
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Wisconsin, which of these vehicles must always stop before crossing railroad tracks?",
+      "q": "In Wisconsin, which of these vehicles is required by law to stop before crossing railroad tracks?",
       "o": [
         "A pickup truck",
         "A motorcycle",
@@ -7211,11 +7211,11 @@
         "A bus carrying passengers"
       ],
       "h1": "Think of vehicles full of people or dangerous loads.",
-      "h2": "A bus carrying passengers must stop 15 to 50 feet from the nearest rail before crossing, as must certain hazardous-cargo vehicles.",
-      "p": "Right. Buses with passengers must always stop."
+      "h2": "A bus carrying passengers must stop 15 to 50 feet from the nearest rail before crossing, as must certain hazardous-cargo vehicles, unless a signal, an officer or an EXEMPT sign lets traffic go.",
+      "p": "Right. Buses with passengers must stop."
     },
     "es": {
-      "q": "En Wisconsin, ¿cuál de estos vehículos siempre debe detenerse antes de cruzar las vías del tren?",
+      "q": "En Wisconsin, ¿cuál de estos vehículos debe detenerse por ley antes de cruzar las vías del tren?",
       "o": [
         "Una camioneta pickup",
         "Una motocicleta",
@@ -7223,8 +7223,8 @@
         "Un autobús con pasajeros"
       ],
       "h1": "Piense en vehículos llenos de gente o con cargas peligrosas.",
-      "h2": "Un autobús con pasajeros debe detenerse de 15 a 50 pies del riel más cercano antes de cruzar, igual que ciertos vehículos con carga peligrosa.",
-      "p": "Correcto. Los autobuses con pasajeros siempre deben parar."
+      "h2": "Un autobús con pasajeros debe detenerse de 15 a 50 pies del riel más cercano antes de cruzar, igual que ciertos vehículos con carga peligrosa, salvo que un semáforo, un agente o un letrero EXEMPT permita pasar.",
+      "p": "Correcto. Los autobuses con pasajeros deben parar."
     }
   },
   {
