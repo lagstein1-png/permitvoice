@@ -5580,33 +5580,33 @@
     "scope": "CO",
     "cat": "licensing",
     "conf": "high",
-    "page": 5,
-    "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
+    "page": null,
+    "src": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-42.pdf",
     "sign": null,
     "c": 0,
     "en": {
-      "q": "In Colorado, may a driver charged with an alcohol or drug driving offense plea bargain it down to a lesser charge?",
+      "q": "In Colorado, a driver is charged with DUI. May the court accept a guilty plea to a traffic offense that has nothing to do with alcohol or drugs, such as careless driving, instead?",
       "o": [
-        "No, the law does not allow it",
+        "Only if the prosecutor says the DUI could not be proven",
         "Yes, on a first offense only",
         "Yes, if no one was hurt",
         "Yes, if the driver is under 21"
       ],
-      "h1": "Colorado treats these offenses very strictly.",
-      "h2": "In Colorado, the law does not allow a person to plea bargain out of an alcohol or drug related driving offense.",
-      "p": "Right. No plea bargain out of an alcohol or drug driving offense."
+      "h1": "Colorado limits plea deals that take alcohol out of the charge.",
+      "h2": "In Colorado, a court may not accept a guilty plea to a traffic offense unrelated to alcohol or drugs from a driver charged with DUI, unless the prosecutor states that the DUI charge could not be proven at trial.",
+      "p": "Right. A DUI cannot be pleaded down to a non-alcohol offense unless the prosecutor could not prove it."
     },
     "es": {
-      "q": "En Colorado, ¿puede un conductor acusado de un delito de manejo con alcohol o drogas negociar un cargo menor?",
+      "q": "En Colorado, un conductor está acusado de DUI. ¿Puede el tribunal aceptar, en su lugar, que se declare culpable de una infracción de tránsito sin relación con alcohol ni drogas, como manejo descuidado?",
       "o": [
-        "No, la ley no lo permite",
+        "Solo si el fiscal dice que no se podría probar el DUI",
         "Sí, solo en la primera vez",
         "Sí, si nadie resultó herido",
         "Sí, si el conductor es menor de 21 años"
       ],
-      "h1": "Colorado trata estos delitos de manera muy estricta.",
-      "h2": "En Colorado, la ley no permite que una persona negocie para salir de un delito de manejo relacionado con alcohol o drogas.",
-      "p": "Correcto. No se puede negociar para salir de un delito de manejo con alcohol o drogas."
+      "h1": "Colorado limita los acuerdos que quitan el alcohol del cargo.",
+      "h2": "En Colorado, un tribunal no puede aceptar que un conductor acusado de DUI se declare culpable de una infracción de tránsito sin relación con alcohol ni drogas, a menos que el fiscal declare que no podría probar el cargo de DUI en un juicio.",
+      "p": "Correcto. Un DUI no se puede reducir a una infracción sin alcohol a menos que el fiscal no pueda probarlo."
     }
   },
   {
@@ -5687,7 +5687,7 @@
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In Colorado, for a driver 21 or older, how long is the license revoked after a second DWAI or DUI conviction?",
+      "q": "In Colorado, for a driver 21 or older, how long is the license revoked after a second DWAI or DUI conviction within five years?",
       "o": [
         "30 days",
         "6 months",
@@ -5695,11 +5695,11 @@
         "10 years"
       ],
       "h1": "It is longer than the revocation for a first DUI.",
-      "h2": "In Colorado, a second DWAI or DUI conviction for a driver 21 or older leads to a license revocation of one year.",
-      "p": "Right. A second DWAI or DUI means a one-year revocation."
+      "h2": "In Colorado, a driver 21 or older convicted of a second DWAI or DUI for acts within five years has the license revoked for at least one year.",
+      "p": "Right. A second DWAI or DUI within five years means a revocation of at least one year."
     },
     "es": {
-      "q": "En Colorado, para un conductor de 21 años o más, ¿por cuánto tiempo se revoca la licencia después de una segunda condena por DWAI o DUI?",
+      "q": "En Colorado, para un conductor de 21 años o más, ¿por cuánto tiempo se revoca la licencia después de una segunda condena por DWAI o DUI en un plazo de cinco años?",
       "o": [
         "30 días",
         "6 meses",
@@ -5707,8 +5707,8 @@
         "10 años"
       ],
       "h1": "Es más largo que la revocación por un primer DUI.",
-      "h2": "En Colorado, una segunda condena por DWAI o DUI para un conductor de 21 años o más lleva a una revocación de la licencia por un año.",
-      "p": "Correcto. Un segundo DWAI o DUI significa una revocación de un año."
+      "h2": "En Colorado, a un conductor de 21 años o más condenado por un segundo DWAI o DUI por hechos ocurridos en un plazo de cinco años se le revoca la licencia por al menos un año.",
+      "p": "Correcto. Un segundo DWAI o DUI en cinco años significa una revocación de al menos un año."
     }
   },
   {
@@ -5750,7 +5750,7 @@
     "scope": "CO",
     "cat": "signals",
     "conf": "high",
-    "page": 8,
+    "page": 9,
     "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
     "sign": null,
     "c": 3,
@@ -5891,28 +5891,28 @@
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Colorado, an officer gives you a traffic ticket. What can happen if you refuse to sign it?",
+      "q": "In Colorado, an officer gives you a traffic ticket. Does signing it mean you admit you are guilty?",
       "o": [
-        "The ticket is canceled",
-        "The fine is cut in half",
-        "Nothing at all happens",
-        "You may be arrested"
+        "Yes, it means you plead guilty",
+        "Yes, and you give up your court date",
+        "Yes, unless you write a note on it",
+        "No, it is not an admission of guilt"
       ],
-      "h1": "Signing is not the same as saying you are guilty.",
-      "h2": "In Colorado, signing a traffic ticket is not an admission of guilt, but refusing to sign it may result in your arrest.",
-      "p": "Right. Refusing to sign a ticket can lead to arrest."
+      "h1": "You can still contest the ticket in court.",
+      "h2": "In Colorado, accepting or signing a traffic ticket is not an admission of guilt, and you may still contest the ticket in court.",
+      "p": "Right. Signing a ticket does not mean you admit guilt."
     },
     "es": {
-      "q": "En Colorado, un oficial le da una multa de tránsito. ¿Qué puede pasar si usted se niega a firmarla?",
+      "q": "En Colorado, un oficial le da una multa de tránsito. ¿Firmarla significa que admite que es culpable?",
       "o": [
-        "Se cancela la multa",
-        "La multa se reduce a la mitad",
-        "No pasa nada",
-        "Lo pueden arrestar"
+        "Sí, significa que se declara culpable",
+        "Sí, y renuncia a su fecha en el tribunal",
+        "Sí, a menos que escriba una nota en ella",
+        "No, no es admitir la culpa"
       ],
-      "h1": "Firmar no es lo mismo que decir que es culpable.",
-      "h2": "En Colorado, firmar una multa de tránsito no es admitir la culpa, pero negarse a firmarla puede resultar en su arresto.",
-      "p": "Correcto. Negarse a firmar una multa puede llevar a un arresto."
+      "h1": "Todavía puede impugnar la multa en el tribunal.",
+      "h2": "En Colorado, aceptar o firmar una multa de tránsito no es admitir la culpa, y todavía puede impugnar la multa en el tribunal.",
+      "p": "Correcto. Firmar una multa no significa que admite la culpa."
     }
   },
   {
@@ -5953,7 +5953,7 @@
     "id": "co-104",
     "scope": "CO",
     "cat": "right-of-way",
-    "conf": "high",
+    "conf": "medium",
     "page": 20,
     "src": "https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf",
     "sign": null,
@@ -6409,7 +6409,7 @@
         "90 percent"
       ],
       "h1": "It is a little more than one quarter.",
-      "h2": "In Colorado, windows other than the windshield, including the front side windows, must allow at least 27 percent of light to pass through.",
+      "h2": "In Colorado, the front side windows must let at least 27 percent of light pass through, and the windshield must let at least 70 percent through.",
       "p": "Right. Front side windows must let through at least 27 percent of light."
     },
     "es": {
@@ -6421,7 +6421,7 @@
         "90 por ciento"
       ],
       "h1": "Es un poco más de la cuarta parte.",
-      "h2": "En Colorado, las ventanas que no son el parabrisas, incluidas las ventanas laterales delanteras, deben dejar pasar al menos el 27 por ciento de la luz.",
+      "h2": "En Colorado, las ventanas laterales delanteras deben dejar pasar al menos el 27 por ciento de la luz, y el parabrisas al menos el 70 por ciento.",
       "p": "Correcto. Las ventanas laterales delanteras deben dejar pasar al menos el 27 por ciento de la luz."
     }
   },
@@ -6469,7 +6469,7 @@
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In Colorado, on a cold morning, may you leave your unlocked car running and unattended to warm it up?",
+      "q": "In Colorado, on a cold morning, may you leave your unlocked car running and unattended on a public street to warm it up?",
       "o": [
         "Yes, at any time",
         "Only with a remote starter or similar",
@@ -6477,11 +6477,11 @@
         "No, never in any situation"
       ],
       "h1": "The law cares that no one can simply drive the car away.",
-      "h2": "In Colorado, you may not leave an unlocked car running and unattended, but using a remote starter or adequate security measures, such as keeping a keyless fob away from the car, meets the law.",
+      "h2": "In Colorado, you may not leave an unlocked car running and unattended on the street, but using a remote starter or adequate security measures, such as keeping a keyless fob away from the car, meets the law.",
       "p": "Right. A remote starter or other security measure makes it legal."
     },
     "es": {
-      "q": "En Colorado, en una mañana fría, ¿puede dejar su carro sin llave encendido y solo para calentarlo?",
+      "q": "En Colorado, en una mañana fría, ¿puede dejar su carro sin seguro, encendido y solo en una calle pública para calentarlo?",
       "o": [
         "Sí, en cualquier momento",
         "Solo con arranque remoto o algo similar",
@@ -6489,7 +6489,7 @@
         "No, nunca en ninguna situación"
       ],
       "h1": "A la ley le importa que nadie pueda llevarse el carro fácilmente.",
-      "h2": "En Colorado, no puede dejar un carro sin llave encendido y solo, pero usar un arranque remoto o medidas de seguridad adecuadas, como mantener la llave electrónica lejos del carro, cumple con la ley.",
+      "h2": "En Colorado, no puede dejar un carro sin seguro encendido y solo en la calle, pero usar un arranque remoto o medidas de seguridad adecuadas, como mantener la llave electrónica lejos del carro, cumple con la ley.",
       "p": "Correcto. Un arranque remoto u otra medida de seguridad lo hace legal."
     }
   },

@@ -6721,7 +6721,7 @@
     "sign": null,
     "c": 0,
     "en": {
-      "q": "In Illinois, a 19-year-old driver suspected of drinking refuses the chemical test for the first time. How long is the suspension?",
+      "q": "In Illinois, a 19-year-old driver is stopped under the zero tolerance law (suspected of any drinking, not arrested for DUI) and refuses the alcohol test for the first time. How long is the suspension?",
       "o": [
         "6 months",
         "3 months",
@@ -6729,11 +6729,11 @@
         "2 years"
       ],
       "h1": "Refusing costs twice as long as testing over 0.00 for a first time.",
-      "h2": "In Illinois, a driver under 21 who refuses the alcohol test for the first time loses driving privileges for 6 months.",
+      "h2": "In Illinois, a driver under 21 who refuses the zero tolerance alcohol test for the first time loses driving privileges for 6 months.",
       "p": "Right. A first refusal under 21 means 6 months."
     },
     "es": {
-      "q": "En Illinois, un conductor de 19 años sospechoso de haber bebido se niega por primera vez a la prueba química. ¿Cuánto dura la suspensión?",
+      "q": "En Illinois, un conductor de 19 años es detenido bajo la ley de tolerancia cero (sospechoso de haber bebido algo, sin arresto por DUI) y se niega por primera vez a la prueba de alcohol. ¿Cuánto dura la suspensión?",
       "o": [
         "6 meses",
         "3 meses",
@@ -6741,7 +6741,7 @@
         "2 años"
       ],
       "h1": "Negarse cuesta el doble de tiempo que dar más de 0.00 por primera vez.",
-      "h2": "En Illinois, un conductor menor de 21 años que se niega por primera vez a la prueba de alcohol pierde el privilegio de conducir por 6 meses.",
+      "h2": "En Illinois, un conductor menor de 21 años que se niega por primera vez a la prueba de alcohol de tolerancia cero pierde el privilegio de conducir por 6 meses.",
       "p": "Correcto. La primera negativa de un menor de 21 significa 6 meses."
     }
   },
@@ -6755,7 +6755,7 @@
     "sign": null,
     "c": 1,
     "en": {
-      "q": "In Illinois, a driver under 21 was suspended before under zero tolerance. Now they test above 0.00 again. How long is the new suspension?",
+      "q": "In Illinois, a driver under 21 was suspended before under zero tolerance. Now they test above 0.00 but below 0.08 again. How long is the new suspension?",
       "o": [
         "3 months",
         "1 year",
@@ -6763,11 +6763,11 @@
         "5 years"
       ],
       "h1": "A second time costs four times as long as a first time.",
-      "h2": "In Illinois, a driver under 21 with a prior zero tolerance suspension who tests above 0.00 again is suspended for 1 year, or 2 years for refusing the test.",
+      "h2": "In Illinois, a driver under 21 with a prior zero tolerance suspension who again tests above 0.00 but below 0.08 is suspended for 1 year, or 2 years for refusing the test.",
       "p": "Right. A second time over 0.00 means a 1-year suspension."
     },
     "es": {
-      "q": "En Illinois, un conductor menor de 21 años ya fue suspendido antes por tolerancia cero. Ahora vuelve a dar más de 0.00. ¿Cuánto dura la nueva suspensión?",
+      "q": "En Illinois, un conductor menor de 21 años ya fue suspendido antes por tolerancia cero. Ahora vuelve a dar más de 0.00 pero menos de 0.08. ¿Cuánto dura la nueva suspensión?",
       "o": [
         "3 meses",
         "1 año",
@@ -6775,7 +6775,7 @@
         "5 años"
       ],
       "h1": "Una segunda vez cuesta cuatro veces más que la primera.",
-      "h2": "En Illinois, un conductor menor de 21 años con una suspensión previa por tolerancia cero que vuelve a dar más de 0.00 queda suspendido 1 año, o 2 años si se niega a la prueba.",
+      "h2": "En Illinois, un conductor menor de 21 años con una suspensión previa por tolerancia cero que vuelve a dar más de 0.00 pero menos de 0.08 queda suspendido 1 año, o 2 años si se niega a la prueba.",
       "p": "Correcto. Una segunda vez con más de 0.00 significa 1 año de suspensión."
     }
   },
