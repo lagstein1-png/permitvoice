@@ -9096,5 +9096,107 @@
       "h2": "En Ohio, cuando una carga sobresale 4 pies o más por detrás de un vehículo, de día debe poner en su extremo una bandera roja de al menos 16 pulgadas por lado, y de noche una luz roja.",
       "p": "Correcto. Una bandera roja de al menos 16 pulgadas por lado."
     }
+  },
+  {
+    "id": "oh-198",
+    "scope": "OH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://codes.ohio.gov/ohio-revised-code/section-4511.37",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Ohio, you want to make a U-turn on a curve or near the top of a hill. When does the law forbid it?",
+      "o": [
+        "Only when a NO U-TURN sign is posted",
+        "When other drivers coming from either way cannot see your car within 500 feet",
+        "Only at night",
+        "When other drivers cannot see your car within 100 feet"
+      ],
+      "h1": "Think about how far away oncoming drivers must be able to see you, in either direction.",
+      "h2": "In Ohio, you may not turn around on a curve or near the crest of a hill if drivers coming from either direction cannot see your vehicle within 500 feet.",
+      "p": "Right. No U-turn there unless others can see you from 500 feet away."
+    },
+    "es": {
+      "q": "En Ohio, usted quiere dar una vuelta en U en una curva o cerca de la cima de una colina. ¿Cuándo lo prohíbe la ley?",
+      "o": [
+        "Solo cuando hay una señal de NO VUELTA EN U",
+        "Cuando los conductores que vienen de cualquier dirección no pueden ver su auto a 500 pies",
+        "Solo de noche",
+        "Cuando los conductores no pueden ver su auto a 100 pies"
+      ],
+      "h1": "Piense en a qué distancia deben poder verlo los conductores que vienen, en cualquier dirección.",
+      "h2": "En Ohio, no puede dar la vuelta en una curva o cerca de la cima de una colina si los conductores que vienen de cualquier dirección no pueden ver su vehículo a 500 pies.",
+      "p": "Correcto. No dé vuelta en U allí a menos que lo puedan ver desde 500 pies."
+    }
+  },
+  {
+    "id": "oh-199",
+    "scope": "OH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://codes.ohio.gov/ohio-revised-code/section-4511.56",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Ohio, a person rides a bicycle at night. From how far ahead must its white front lamp be visible?",
+      "o": [
+        "At least 100 feet",
+        "At least 200 feet",
+        "At least 500 feet",
+        "At least 1,000 feet"
+      ],
+      "h1": "It is the same distance the law asks for the bicycle's red rear lamp.",
+      "h2": "In Ohio, a bicycle ridden at night must have a front lamp with a white light visible from at least 500 feet ahead, and a red rear lamp visible from 500 feet behind.",
+      "p": "Right. The front lamp must be seen from at least 500 feet."
+    },
+    "es": {
+      "q": "En Ohio, una persona anda en bicicleta de noche. ¿Desde qué distancia adelante debe verse su luz blanca delantera?",
+      "o": [
+        "Al menos 100 pies",
+        "Al menos 200 pies",
+        "Al menos 500 pies",
+        "Al menos 1,000 pies"
+      ],
+      "h1": "Es la misma distancia que la ley pide para la luz roja trasera de la bicicleta.",
+      "h2": "En Ohio, una bicicleta que se usa de noche debe tener una luz delantera blanca visible desde al menos 500 pies adelante, y una luz roja trasera visible desde 500 pies atrás.",
+      "p": "Correcto. La luz delantera debe verse desde al menos 500 pies."
+    }
+  },
+  {
+    "id": "oh-200",
+    "scope": "OH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://codes.ohio.gov/ohio-revised-code/section-4511.53",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Ohio, a person rides a motorcycle with a temporary instruction permit. Which of these is allowed?",
+      "o": [
+        "Riding at night with the headlight on",
+        "Carrying a passenger who wears a helmet",
+        "Riding on a limited-access highway, such as a freeway",
+        "Riding in daylight on a quiet road while wearing an approved helmet"
+      ],
+      "h1": "A permit rider must wear a helmet and is kept away from darkness, passengers and fast, busy roads.",
+      "h2": "In Ohio, a rider with a motorcycle temporary instruction permit must wear an approved helmet and may not ride when headlights are required, carry a passenger, or ride on a limited-access highway or heavily congested road.",
+      "p": "Right. Daylight, no passenger, quiet roads, and a helmet."
+    },
+    "es": {
+      "q": "En Ohio, una persona maneja una motocicleta con un permiso temporal de instrucción. ¿Cuál de estas cosas está permitida?",
+      "o": [
+        "Manejar de noche con el faro encendido",
+        "Llevar a un pasajero que use casco",
+        "Manejar en una carretera de acceso limitado, como una autopista",
+        "Manejar de día en un camino tranquilo con un casco aprobado"
+      ],
+      "h1": "Quien tiene permiso debe usar casco y no puede manejar de noche, con pasajeros ni en caminos rápidos y congestionados.",
+      "h2": "En Ohio, quien maneja una motocicleta con permiso temporal de instrucción debe usar un casco aprobado y no puede manejar cuando se requieren luces, llevar pasajeros, ni usar una carretera de acceso limitado o un camino muy congestionado.",
+      "p": "Correcto. De día, sin pasajeros, en caminos tranquilos y con casco."
+    }
   }
 ]
