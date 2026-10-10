@@ -6483,5 +6483,1563 @@
       "h2": "Una señal PLAYGROUND advierte que puede haber niños jugando cerca que podrían salir a la vía, así que baje la velocidad y mire con cuidado.",
       "p": "Correcto. Baje la velocidad y fíjese en los niños."
     }
+  },
+  {
+    "id": "signs-099",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2D.11, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "What kind of road does a white shield-shaped sign with a black number mark?",
+      "o": [
+        "An Interstate highway",
+        "A private road",
+        "A bike route",
+        "A U.S. route"
+      ],
+      "h1": "Interstate shields are red and blue.",
+      "h2": "A white shield with a black number marks a U.S. route, which is different from the red and blue Interstate shield.",
+      "p": "Right. A white shield marks a U.S. route."
+    },
+    "es": {
+      "q": "¿Qué tipo de vía marca una señal blanca en forma de escudo con un número negro?",
+      "o": [
+        "Una autopista interestatal",
+        "Una vía privada",
+        "Una ruta para bicicletas",
+        "Una ruta federal de EE. UU. (U.S. route)"
+      ],
+      "h1": "Los escudos interestatales son rojos y azules.",
+      "h2": "Un escudo blanco con un número negro marca una ruta federal de EE. UU. (U.S. route), distinta del escudo rojo y azul de las interestatales.",
+      "p": "Correcto. El escudo blanco marca una U.S. route."
+    }
+  },
+  {
+    "id": "signs-100",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2D.15, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "interstate",
+      "text": "75"
+    },
+    "c": 0,
+    "en": {
+      "q": "Above a route sign, a small plaque says NORTH. What does it tell you?",
+      "o": [
+        "The route goes north from here",
+        "You are at the north end of the state",
+        "Turn north at the next light",
+        "North is closed"
+      ],
+      "h1": "The plaque goes with the route sign below it.",
+      "h2": "A direction plaque above a route sign tells you which way that route goes, so NORTH means this road takes you north.",
+      "p": "Right. This route heads north."
+    },
+    "es": {
+      "q": "Encima de una señal de ruta, una placa pequeña dice NORTH. ¿Qué le indica?",
+      "o": [
+        "Que la ruta va hacia el norte desde aquí",
+        "Que está en el extremo norte del estado",
+        "Que gire al norte en el próximo semáforo",
+        "Que el norte está cerrado"
+      ],
+      "h1": "La placa va con la señal de ruta de abajo.",
+      "h2": "Una placa de dirección encima de una señal de ruta indica hacia dónde va esa ruta, así que NORTH quiere decir que esta vía lo lleva al norte.",
+      "p": "Correcto. Esta ruta va al norte."
+    }
+  },
+  {
+    "id": "signs-101",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2D.13, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "A small plaque that says JCT is above a route sign. What does it mean?",
+      "o": [
+        "The route ends here",
+        "You are coming to a junction where that route meets your road",
+        "The route is closed",
+        "You are on a toll road"
+      ],
+      "h1": "JCT is short for junction.",
+      "h2": "JCT means junction, so the sign tells you that the route shown meets your road just ahead.",
+      "p": "Right. A junction with that route is ahead."
+    },
+    "es": {
+      "q": "Una placa pequeña que dice JCT está encima de una señal de ruta. ¿Qué significa?",
+      "o": [
+        "Que la ruta termina aquí",
+        "Que se acerca un cruce donde esa ruta se une a su vía",
+        "Que la ruta está cerrada",
+        "Que está en una vía de peaje"
+      ],
+      "h1": "JCT es la abreviatura de junction, que quiere decir cruce o empalme.",
+      "h2": "JCT significa junction (empalme), así que la señal le indica que la ruta mostrada se une a su vía un poco más adelante.",
+      "p": "Correcto. Viene un empalme con esa ruta."
+    }
+  },
+  {
+    "id": "signs-102",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2H.11, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "rect-green",
+      "text": "MILE 12"
+    },
+    "c": 2,
+    "en": {
+      "q": "On a highway, the small green mile marker numbers usually get bigger as you drive in which directions?",
+      "o": [
+        "South and west",
+        "Toward the nearest city",
+        "North and east",
+        "Toward the ocean"
+      ],
+      "h1": "Counting starts at the south and west state lines.",
+      "h2": "Mile markers usually start at zero at the south or west state line, so the numbers get bigger as you drive north or east.",
+      "p": "Right. The numbers grow going north or east."
+    },
+    "es": {
+      "q": "En una carretera, ¿en qué dirección suelen aumentar los números de los pequeños postes verdes de millas?",
+      "o": [
+        "Hacia el sur y el oeste",
+        "Hacia la ciudad más cercana",
+        "Hacia el norte y el este",
+        "Hacia el mar"
+      ],
+      "h1": "La cuenta empieza en las fronteras sur y oeste del estado.",
+      "h2": "Los postes de millas suelen empezar en cero en la frontera sur u oeste del estado, así que los números aumentan al manejar hacia el norte o el este.",
+      "p": "Correcto. Los números aumentan hacia el norte o el este."
+    }
+  },
+  {
+    "id": "signs-103",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2E.28, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "rect-green",
+      "text": "EXIT ONLY"
+    },
+    "c": 3,
+    "en": {
+      "q": "On a green freeway sign, a yellow panel that says EXIT ONLY is above your lane. What does it mean?",
+      "o": [
+        "Your lane is closed",
+        "This exit is only for trucks",
+        "You may exit only on weekends",
+        "Your lane will leave the freeway at this exit"
+      ],
+      "h1": "Think about where your lane goes.",
+      "h2": "A yellow EXIT ONLY panel over your lane means that lane leaves the freeway at the exit; move over early if you want to stay on.",
+      "p": "Right. Your lane exits here."
+    },
+    "es": {
+      "q": "En una señal verde de autopista, un panel amarillo que dice EXIT ONLY está encima de su carril. ¿Qué significa?",
+      "o": [
+        "Su carril está cerrado",
+        "Esta salida es solo para camiones",
+        "Solo se puede salir los fines de semana",
+        "Su carril sale de la autopista en esta salida"
+      ],
+      "h1": "Piense adónde va su carril.",
+      "h2": "Un panel amarillo EXIT ONLY encima de su carril significa que ese carril sale de la autopista; cámbiese temprano si quiere seguir en ella.",
+      "p": "Correcto. Su carril sale aquí."
+    }
+  },
+  {
+    "id": "signs-104",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2E.25, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "rect-green",
+      "text": "LEFT EXIT"
+    },
+    "c": 0,
+    "en": {
+      "q": "A green freeway sign has a yellow panel that says LEFT. What does it tell you?",
+      "o": [
+        "The exit is on the left side of the freeway",
+        "The left lane is closed",
+        "You must keep left to stay on the freeway",
+        "Left turns are allowed at the end of the ramp"
+      ],
+      "h1": "Most exits are on the right.",
+      "h2": "A LEFT panel on an exit sign tells you the exit leaves from the left side of the freeway, so you need to be in the left lane.",
+      "p": "Right. The exit is on the left."
+    },
+    "es": {
+      "q": "Una señal verde de autopista tiene un panel amarillo que dice LEFT. ¿Qué le indica?",
+      "o": [
+        "Que la salida está al lado izquierdo de la autopista",
+        "Que el carril izquierdo está cerrado",
+        "Que debe ir a la izquierda para seguir en la autopista",
+        "Que al final de la rampa se puede girar a la izquierda"
+      ],
+      "h1": "La mayoría de las salidas están a la derecha.",
+      "h2": "Un panel LEFT en una señal de salida indica que la salida está al lado izquierdo de la autopista, así que debe ir en el carril izquierdo.",
+      "p": "Correcto. La salida está a la izquierda."
+    }
+  },
+  {
+    "id": "signs-105",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2E.23, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "rect-green",
+      "text": "EXIT 1/2 MILE"
+    },
+    "c": 1,
+    "en": {
+      "q": "A green freeway sign says EXIT 1/2 MILE. What does it tell you?",
+      "o": [
+        "You must exit within half a minute",
+        "The exit is half a mile ahead, so get ready to move over",
+        "The freeway ends in half a mile",
+        "The speed limit drops in half a mile"
+      ],
+      "h1": "This is an advance sign.",
+      "h2": "EXIT 1/2 MILE means the exit is half a mile ahead, giving you time to signal and move into the correct lane.",
+      "p": "Right. The exit is half a mile ahead."
+    },
+    "es": {
+      "q": "Una señal verde de autopista dice EXIT 1/2 MILE. ¿Qué le indica?",
+      "o": [
+        "Que debe salir en medio minuto",
+        "Que la salida está a media milla, así que prepárese para cambiarse de carril",
+        "Que la autopista termina en media milla",
+        "Que el límite baja en media milla"
+      ],
+      "h1": "Es una señal de aviso anticipado.",
+      "h2": "EXIT 1/2 MILE significa que la salida está a media milla, lo que le da tiempo para señalar y pasarse al carril correcto.",
+      "p": "Correcto. La salida está a media milla."
+    }
+  },
+  {
+    "id": "signs-106",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2E.27, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "Over a freeway, a green sign shows white arrows pointing down at some lanes, with the name of a city. What do the arrows show?",
+      "o": [
+        "Which lanes are closed",
+        "Where to stop for a toll",
+        "Which lanes continue toward that city",
+        "Where the road goes downhill"
+      ],
+      "h1": "Each arrow points to a lane.",
+      "h2": "Downward arrows on an overhead guide sign point to the lanes that go toward the place named on the sign.",
+      "p": "Right. They show which lanes go that way."
+    },
+    "es": {
+      "q": "Sobre una autopista, una señal verde muestra flechas blancas que apuntan hacia abajo a algunos carriles, con el nombre de una ciudad. ¿Qué indican las flechas?",
+      "o": [
+        "Qué carriles están cerrados",
+        "Dónde pararse a pagar peaje",
+        "Qué carriles siguen hacia esa ciudad",
+        "Dónde la vía va de bajada"
+      ],
+      "h1": "Cada flecha apunta a un carril.",
+      "h2": "Las flechas hacia abajo en una señal elevada apuntan a los carriles que van hacia el lugar nombrado en la señal.",
+      "p": "Correcto. Indican qué carriles van en esa dirección."
+    }
+  },
+  {
+    "id": "signs-107",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2I.05, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "rect-blue",
+      "text": "REST AREA"
+    },
+    "c": 3,
+    "en": {
+      "q": "A blue sign says REST AREA. What will you find there?",
+      "o": [
+        "A police station",
+        "A hotel",
+        "A truck repair shop only",
+        "A place off the road to stop, rest and use restrooms"
+      ],
+      "h1": "Blue signs show services for drivers.",
+      "h2": "A REST AREA sign points to a place off the road where you can safely stop, rest and use restrooms, which helps when you feel tired.",
+      "p": "Right. A safe place to stop and rest."
+    },
+    "es": {
+      "q": "Una señal azul dice REST AREA. ¿Qué va a encontrar allí?",
+      "o": [
+        "Una estación de policía",
+        "Un hotel",
+        "Solo un taller de camiones",
+        "Un lugar fuera de la vía para parar, descansar y usar baños"
+      ],
+      "h1": "Las señales azules muestran servicios para conductores.",
+      "h2": "Una señal REST AREA indica un lugar fuera de la vía donde puede parar con seguridad, descansar y usar baños, lo que ayuda cuando se siente cansado.",
+      "p": "Correcto. Un lugar seguro para parar y descansar."
+    }
+  },
+  {
+    "id": "signs-108",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2I.12, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "rect-blue",
+      "text": "TRAVEL INFO CALL 511"
+    },
+    "c": 0,
+    "en": {
+      "q": "A blue sign says TRAVEL INFO CALL 511. What can you get by calling 511?",
+      "o": [
+        "Road, traffic and weather information",
+        "Emergency help from police",
+        "A free tow truck",
+        "Directions to a hospital only"
+      ],
+      "h1": "For emergencies you call 911, not 511.",
+      "h2": "The 511 sign tells you that calling 511 gives road, traffic and weather information; for an emergency you call 911.",
+      "p": "Right. 511 gives travel information."
+    },
+    "es": {
+      "q": "Una señal azul dice TRAVEL INFO CALL 511. ¿Qué puede obtener llamando al 511?",
+      "o": [
+        "Información de vías, tráfico y clima",
+        "Ayuda de emergencia de la policía",
+        "Una grúa gratis",
+        "Solo direcciones a un hospital"
+      ],
+      "h1": "Para emergencias se llama al 911, no al 511.",
+      "h2": "La señal 511 indica que al llamar al 511 recibe información de vías, tráfico y clima; para una emergencia se llama al 911.",
+      "p": "Correcto. El 511 da información de viaje."
+    }
+  },
+  {
+    "id": "signs-109",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2N.03, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "rect-blue",
+      "text": "EVACUATION ROUTE"
+    },
+    "c": 1,
+    "en": {
+      "q": "A blue and white sign says EVACUATION ROUTE. What is it for?",
+      "o": [
+        "To show the way to a gas station",
+        "To guide people out of an area during an emergency, such as a hurricane",
+        "To mark a road closed to cars",
+        "To show a scenic drive"
+      ],
+      "h1": "Evacuate means leave a dangerous place.",
+      "h2": "An EVACUATION ROUTE sign shows the road to follow to leave an area safely during an emergency like a hurricane or flood.",
+      "p": "Right. It shows the way out in an emergency."
+    },
+    "es": {
+      "q": "Una señal azul y blanca dice EVACUATION ROUTE. ¿Para qué sirve?",
+      "o": [
+        "Para indicar el camino a una gasolinera",
+        "Para guiar a la gente fuera de una zona en una emergencia, como un huracán",
+        "Para marcar una vía cerrada a los carros",
+        "Para indicar una ruta panorámica"
+      ],
+      "h1": "Evacuar es salir de un lugar peligroso.",
+      "h2": "Una señal EVACUATION ROUTE muestra la vía que debe seguir para salir con seguridad de una zona durante una emergencia, como un huracán o una inundación.",
+      "p": "Correcto. Muestra la salida en una emergencia."
+    }
+  },
+  {
+    "id": "signs-110",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 1D.05, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "You see a fluorescent pink sign on the highway. What does pink usually mean?",
+      "o": [
+        "A school zone is ahead",
+        "A park is nearby",
+        "A traffic incident, such as a crash, is ahead",
+        "Gas and food are at the next exit"
+      ],
+      "h1": "Pink is used for sudden, unplanned events.",
+      "h2": "Fluorescent pink signs are used for traffic incidents, such as a crash, so slow down and expect changes ahead.",
+      "p": "Right. Pink means an incident ahead."
+    },
+    "es": {
+      "q": "Usted ve una señal rosa fluorescente en la carretera. ¿Qué suele significar el rosa?",
+      "o": [
+        "Que hay una zona escolar adelante",
+        "Que hay un parque cerca",
+        "Que hay un incidente de tránsito adelante, como un choque",
+        "Que hay gasolina y comida en la próxima salida"
+      ],
+      "h1": "El rosa se usa para sucesos repentinos, no planeados.",
+      "h2": "Las señales rosa fluorescente se usan para incidentes de tránsito, como un choque, así que baje la velocidad y espere cambios adelante.",
+      "p": "Correcto. El rosa indica un incidente adelante."
+    }
+  },
+  {
+    "id": "signs-111",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 1D.05, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "Near a toll plaza, some signs and lanes are purple. Who may use those lanes?",
+      "o": [
+        "Only buses",
+        "Only drivers paying with cash",
+        "Only motorcycles",
+        "Only vehicles with an electronic toll account, such as a toll tag"
+      ],
+      "h1": "Purple is used only for electronic tolls.",
+      "h2": "Purple signs and lanes are only for vehicles with a registered electronic toll account, such as a toll tag on the windshield.",
+      "p": "Right. Purple lanes are for electronic toll accounts."
+    },
+    "es": {
+      "q": "Cerca de una caseta de peaje, algunas señales y carriles son morados. ¿Quién puede usar esos carriles?",
+      "o": [
+        "Solo autobuses",
+        "Solo quienes pagan en efectivo",
+        "Solo motocicletas",
+        "Solo vehículos con una cuenta de peaje electrónico, como una etiqueta de peaje"
+      ],
+      "h1": "El morado se usa solo para peaje electrónico.",
+      "h2": "Las señales y carriles morados son solo para vehículos con una cuenta registrada de peaje electrónico, como una etiqueta en el parabrisas.",
+      "p": "Correcto. Los carriles morados son para peaje electrónico."
+    }
+  },
+  {
+    "id": "signs-112",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 8B.07, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "rect-white",
+      "text": "DO NOT STOP ON TRACKS"
+    },
+    "c": 0,
+    "en": {
+      "q": "At a railroad crossing, a sign says DO NOT STOP ON TRACKS. Traffic ahead is slow. What should you do?",
+      "o": [
+        "Wait before the tracks until there is room for your whole car on the other side",
+        "Follow the car ahead onto the tracks",
+        "Stop on the tracks and wait",
+        "Drive around the cars ahead"
+      ],
+      "h1": "Your car must never wait on the tracks.",
+      "h2": "DO NOT STOP ON TRACKS means you must never stop with any part of your vehicle on the tracks, so wait until there is room past them.",
+      "p": "Right. Never wait on the tracks."
+    },
+    "es": {
+      "q": "En un cruce de tren, una señal dice DO NOT STOP ON TRACKS. El tráfico adelante va lento. ¿Qué debe hacer?",
+      "o": [
+        "Esperar antes de las vías hasta que haya espacio para todo su carro del otro lado",
+        "Seguir al carro de adelante hasta las vías",
+        "Pararse sobre las vías y esperar",
+        "Rodear a los carros de adelante"
+      ],
+      "h1": "Su carro nunca debe esperar sobre las vías.",
+      "h2": "DO NOT STOP ON TRACKS significa que nunca debe pararse con ninguna parte de su vehículo sobre las vías, así que espere hasta que haya espacio después de ellas.",
+      "p": "Correcto. Nunca espere sobre las vías."
+    }
+  },
+  {
+    "id": "signs-113",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 9B.23, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "rect-white",
+      "text": "LOOK"
+    },
+    "c": 1,
+    "en": {
+      "q": "At a railroad crossing, a sign below the crossbuck says LOOK. What does it remind you to do?",
+      "o": [
+        "Look for a place to park",
+        "Look both ways for trains before you cross",
+        "Look at the price of the toll",
+        "Look up for low wires"
+      ],
+      "h1": "Trains can come from either side.",
+      "h2": "The LOOK sign at a railroad crossing reminds you to look both ways for trains before crossing the tracks.",
+      "p": "Right. Look both ways for trains."
+    },
+    "es": {
+      "q": "En un cruce de tren, una señal debajo de la cruz dice LOOK. ¿Qué le recuerda hacer?",
+      "o": [
+        "Buscar dónde estacionarse",
+        "Mirar a ambos lados por si viene un tren antes de cruzar",
+        "Mirar el precio del peaje",
+        "Mirar hacia arriba por cables bajos"
+      ],
+      "h1": "Los trenes pueden venir de cualquier lado.",
+      "h2": "La señal LOOK en un cruce de tren le recuerda mirar a ambos lados por si viene un tren antes de cruzar las vías.",
+      "p": "Correcto. Mire a ambos lados."
+    }
+  },
+  {
+    "id": "signs-114",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 8B.04, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "crossbuck",
+      "text": "RAILROAD CROSSING"
+    },
+    "c": 2,
+    "en": {
+      "q": "At a railroad crossing with no lights or gates, a STOP sign is mounted with the crossbuck. What must you do?",
+      "o": [
+        "Slow down and cross without stopping",
+        "Stop only if you hear a horn",
+        "Stop fully, then cross only when no train is coming",
+        "Stop only if you are driving a truck"
+      ],
+      "h1": "The STOP sign applies even with no train in view.",
+      "h2": "A STOP sign at a railroad crossing means you must always come to a full stop, look both ways, and cross only when no train is coming.",
+      "p": "Right. Stop every time, then cross when clear."
+    },
+    "es": {
+      "q": "En un cruce de tren sin luces ni barreras, hay una señal de PARE junto con la cruz. ¿Qué debe hacer?",
+      "o": [
+        "Bajar la velocidad y cruzar sin pararse",
+        "Pararse solo si oye una bocina",
+        "Pararse por completo y cruzar solo cuando no venga ningún tren",
+        "Pararse solo si maneja un camión"
+      ],
+      "h1": "La señal de PARE se aplica aunque no vea un tren.",
+      "h2": "Una señal de PARE en un cruce de tren significa que siempre debe pararse por completo, mirar a ambos lados y cruzar solo cuando no venga ningún tren.",
+      "p": "Correcto. Párese siempre y cruce cuando esté libre."
+    }
+  },
+  {
+    "id": "signs-115",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 8B.08, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "rect-white",
+      "text": "TRACKS OUT OF SERVICE"
+    },
+    "c": 3,
+    "en": {
+      "q": "A sign at a railroad crossing says TRACKS OUT OF SERVICE. What does it mean?",
+      "o": [
+        "A train is stopped on the tracks",
+        "The road is closed at the tracks",
+        "You must stop and wait for a train",
+        "Trains no longer use these tracks"
+      ],
+      "h1": "Out of service means not being used.",
+      "h2": "TRACKS OUT OF SERVICE means trains no longer use that crossing, though you should still cross with normal care.",
+      "p": "Right. Trains no longer use these tracks."
+    },
+    "es": {
+      "q": "Una señal en un cruce de tren dice TRACKS OUT OF SERVICE. ¿Qué significa?",
+      "o": [
+        "Que hay un tren parado en las vías",
+        "Que la vía está cerrada en el cruce",
+        "Que debe pararse a esperar un tren",
+        "Que los trenes ya no usan estas vías"
+      ],
+      "h1": "Out of service quiere decir fuera de servicio.",
+      "h2": "TRACKS OUT OF SERVICE significa que los trenes ya no usan ese cruce, aunque debe cruzar con el cuidado normal.",
+      "p": "Correcto. Los trenes ya no usan estas vías."
+    }
+  },
+  {
+    "id": "signs-116",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 8B.16, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "LOW GROUND CLEARANCE"
+    },
+    "c": 0,
+    "en": {
+      "q": "Before a railroad crossing, a yellow sign shows a vehicle stuck on raised tracks. What does it warn about?",
+      "o": [
+        "A vehicle that sits low to the ground could get stuck on the crossing",
+        "The tracks are under water",
+        "A train is stuck ahead",
+        "The crossing has no lights"
+      ],
+      "h1": "The road rises sharply at the tracks.",
+      "h2": "The low ground clearance sign warns that the crossing is raised, so a vehicle that sits low, like a long trailer, could get stuck on the tracks.",
+      "p": "Right. Low vehicles could get stuck."
+    },
+    "es": {
+      "q": "Antes de un cruce de tren, una señal amarilla muestra un vehículo atascado sobre vías elevadas. ¿De qué advierte?",
+      "o": [
+        "De que un vehículo muy bajo podría atascarse en el cruce",
+        "De que las vías están bajo el agua",
+        "De que hay un tren atascado adelante",
+        "De que el cruce no tiene luces"
+      ],
+      "h1": "La vía sube de golpe en las vías del tren.",
+      "h2": "La señal de poca altura libre advierte que el cruce está elevado, así que un vehículo muy bajo, como un remolque largo, podría atascarse sobre las vías.",
+      "p": "Correcto. Los vehículos bajos podrían atascarse."
+    }
+  },
+  {
+    "id": "signs-117",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 8B.20, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "NO TRAIN HORN"
+    },
+    "c": 1,
+    "en": {
+      "q": "A sign at a railroad crossing says NO TRAIN HORN. What does that mean for you?",
+      "o": [
+        "Trains do not use this crossing",
+        "Trains will not sound a horn here, so look carefully",
+        "You may not honk your horn here",
+        "The crossing lights do not work"
+      ],
+      "h1": "You cannot count on hearing a train here.",
+      "h2": "NO TRAIN HORN means trains usually do not blow their horns at this crossing, so you must look carefully both ways yourself.",
+      "p": "Right. No horn, so look carefully."
+    },
+    "es": {
+      "q": "Una señal en un cruce de tren dice NO TRAIN HORN. ¿Qué significa para usted?",
+      "o": [
+        "Que los trenes no usan este cruce",
+        "Que los trenes no tocan la bocina aquí, así que mire con cuidado",
+        "Que usted no puede tocar la bocina aquí",
+        "Que las luces del cruce no funcionan"
+      ],
+      "h1": "Aquí no puede contar con oír al tren.",
+      "h2": "NO TRAIN HORN significa que los trenes normalmente no tocan la bocina en este cruce, así que usted mismo debe mirar con cuidado a ambos lados.",
+      "p": "Correcto. Sin bocina, mire con cuidado."
+    }
+  },
+  {
+    "id": "signs-118",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 8B.21, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "STORAGE SPACE 50 FT"
+    },
+    "c": 2,
+    "en": {
+      "q": "Just past a railroad crossing there is a stop sign at a highway. A sign says the storage space between them is short. Why does that matter?",
+      "o": [
+        "You may park between the tracks and the highway",
+        "Trains stop there to load",
+        "Do not cross the tracks unless there is room for your whole car before the highway",
+        "You may stop on the tracks while you wait"
+      ],
+      "h1": "Your car must fit fully past the tracks.",
+      "h2": "A storage space sign warns that there is little room between the tracks and the next road, so cross only if your whole vehicle will fit there.",
+      "p": "Right. Make sure you fit before crossing."
+    },
+    "es": {
+      "q": "Justo después de un cruce de tren hay una señal de PARE en una carretera. Una señal indica que el espacio entre ambos es corto. ¿Por qué importa?",
+      "o": [
+        "Puede estacionarse entre las vías y la carretera",
+        "Los trenes se paran allí a cargar",
+        "No cruce las vías a menos que todo su carro quepa antes de la carretera",
+        "Puede pararse sobre las vías mientras espera"
+      ],
+      "h1": "Su carro debe caber completo después de las vías.",
+      "h2": "Una señal de espacio de espera advierte que hay poco lugar entre las vías y la siguiente vía, así que cruce solo si todo su vehículo cabe allí.",
+      "p": "Correcto. Asegúrese de caber antes de cruzar."
+    }
+  },
+  {
+    "id": "signs-119",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 8B.22, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "SKEWED CROSSING"
+    },
+    "c": 3,
+    "en": {
+      "q": "A yellow sign shows railroad tracks crossing the road at a slant. What does it warn about?",
+      "o": [
+        "The road curves after the tracks",
+        "There are two railroad crossings",
+        "The tracks are being repaired",
+        "The tracks cross the road at a sharp angle, so look well to each side"
+      ],
+      "h1": "A train may come from a direction that is hard to see.",
+      "h2": "The skewed crossing sign warns that the tracks cross at an angle, so you may need to turn your head farther to look for trains.",
+      "p": "Right. The tracks cross at an angle."
+    },
+    "es": {
+      "q": "Una señal amarilla muestra vías de tren que cruzan la vía en diagonal. ¿De qué advierte?",
+      "o": [
+        "De que la vía se curva después del cruce",
+        "De que hay dos cruces de tren",
+        "De que están reparando las vías",
+        "De que las vías cruzan en un ángulo marcado, así que mire bien a cada lado"
+      ],
+      "h1": "Un tren puede venir de una dirección difícil de ver.",
+      "h2": "La señal de cruce en diagonal advierte que las vías cruzan en ángulo, así que quizás deba girar más la cabeza para ver si viene un tren.",
+      "p": "Correcto. Las vías cruzan en ángulo."
+    }
+  },
+  {
+    "id": "signs-120",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 7B.04, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "school",
+      "text": "SCHOOL BUS STOP AHEAD"
+    },
+    "c": 0,
+    "en": {
+      "q": "A sign says SCHOOL BUS STOP AHEAD. What should you do?",
+      "o": [
+        "Slow down and be ready for a stopped school bus and children",
+        "Speed up to pass any bus ahead",
+        "Honk to warn the children",
+        "Pull over and wait for the bus"
+      ],
+      "h1": "A bus may be stopped where you cannot see it yet.",
+      "h2": "SCHOOL BUS STOP AHEAD warns that a school bus may be stopped ahead to load children, so slow down and be ready to stop.",
+      "p": "Right. Be ready for a stopped bus."
+    },
+    "es": {
+      "q": "Una señal dice SCHOOL BUS STOP AHEAD. ¿Qué debe hacer?",
+      "o": [
+        "Bajar la velocidad y estar listo para un autobús escolar parado y niños",
+        "Acelerar para pasar cualquier autobús",
+        "Tocar la bocina para avisar a los niños",
+        "Orillarse y esperar el autobús"
+      ],
+      "h1": "Puede haber un autobús parado donde aún no lo ve.",
+      "h2": "SCHOOL BUS STOP AHEAD advierte que puede haber un autobús escolar parado adelante recogiendo niños, así que baje la velocidad y esté listo para pararse.",
+      "p": "Correcto. Esté listo para un autobús parado."
+    }
+  },
+  {
+    "id": "signs-121",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 7B.05, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "rect-white",
+      "text": "END SCHOOL ZONE"
+    },
+    "c": 1,
+    "en": {
+      "q": "You drove through a school zone. A sign now says END SCHOOL ZONE. What does it mean?",
+      "o": [
+        "Another school zone starts",
+        "The lower school speed limit no longer applies",
+        "You must stop for children",
+        "The road is closed to buses"
+      ],
+      "h1": "End means finished.",
+      "h2": "END SCHOOL ZONE means the school zone and its lower speed limit end here, and the regular posted limit applies again.",
+      "p": "Right. The school zone is over."
+    },
+    "es": {
+      "q": "Usted pasó por una zona escolar. Ahora una señal dice END SCHOOL ZONE. ¿Qué significa?",
+      "o": [
+        "Que empieza otra zona escolar",
+        "Que el límite escolar más bajo ya no se aplica",
+        "Que debe pararse por niños",
+        "Que la vía está cerrada a autobuses"
+      ],
+      "h1": "End quiere decir fin.",
+      "h2": "END SCHOOL ZONE significa que la zona escolar y su límite más bajo terminan aquí, y vuelve a regir el límite normal indicado.",
+      "p": "Correcto. Terminó la zona escolar."
+    }
+  },
+  {
+    "id": "signs-122",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 7D.02, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "stop",
+      "text": "STOP"
+    },
+    "c": 2,
+    "en": {
+      "q": "A school crossing guard steps into the street holding a STOP paddle. What must you do?",
+      "o": [
+        "Slow down and drive around them",
+        "Stop only if the light is red",
+        "Stop and wait until the guard and children are out of the street",
+        "Honk so they cross faster"
+      ],
+      "h1": "The crossing guard controls traffic at the crossing.",
+      "h2": "When a crossing guard holds up a STOP paddle, you must stop and stay stopped until the guard and the children have left the street.",
+      "p": "Right. Stop and wait for the guard."
+    },
+    "es": {
+      "q": "Un guardia de cruce escolar entra a la calle con una paleta de PARE. ¿Qué debe hacer?",
+      "o": [
+        "Bajar la velocidad y rodearlos",
+        "Pararse solo si el semáforo está en rojo",
+        "Pararse y esperar hasta que el guardia y los niños salgan de la calle",
+        "Tocar la bocina para que crucen rápido"
+      ],
+      "h1": "El guardia de cruce controla el tráfico en el cruce.",
+      "h2": "Cuando un guardia de cruce levanta una paleta de PARE, usted debe pararse y seguir parado hasta que el guardia y los niños salgan de la calle.",
+      "p": "Correcto. Párese y espere al guardia."
+    }
+  },
+  {
+    "id": "signs-123",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 6H.15, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "diamond-orange",
+      "text": "BE PREPARED TO STOP FLAGGER"
+    },
+    "c": 3,
+    "en": {
+      "q": "An orange sign shows a person holding a flag. What does it warn about?",
+      "o": [
+        "A parade is ahead",
+        "A place to buy flags",
+        "A golf course is nearby",
+        "A flagger is ahead to control traffic, so be ready to stop"
+      ],
+      "h1": "A flagger is a worker who directs traffic.",
+      "h2": "The orange Flagger sign warns that a worker is ahead directing traffic, so slow down and be ready to stop.",
+      "p": "Right. A flagger is ahead."
+    },
+    "es": {
+      "q": "Una señal anaranjada muestra a una persona con una bandera. ¿De qué advierte?",
+      "o": [
+        "De que hay un desfile adelante",
+        "De un lugar donde venden banderas",
+        "De que hay un campo de golf cerca",
+        "De que hay un abanderado adelante que controla el tráfico, así que esté listo para pararse"
+      ],
+      "h1": "Un abanderado es un trabajador que dirige el tráfico.",
+      "h2": "La señal anaranjada del abanderado advierte que hay un trabajador adelante dirigiendo el tráfico, así que baje la velocidad y esté listo para pararse.",
+      "p": "Correcto. Hay un abanderado adelante."
+    }
+  },
+  {
+    "id": "signs-124",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 6H.06, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "diamond-orange",
+      "text": "ONE LANE ROAD AHEAD"
+    },
+    "c": 0,
+    "en": {
+      "q": "An orange sign says ONE LANE ROAD AHEAD. What should you expect?",
+      "o": [
+        "Traffic from both directions will take turns using one lane",
+        "The road becomes one-way for good",
+        "A lane is added ahead",
+        "Only trucks may use the road"
+      ],
+      "h1": "Cars going both ways will have to share.",
+      "h2": "ONE LANE ROAD AHEAD means traffic from both directions will share one lane, so expect a flagger or signal and be ready to stop.",
+      "p": "Right. Both directions share one lane."
+    },
+    "es": {
+      "q": "Una señal anaranjada dice ONE LANE ROAD AHEAD. ¿Qué debe esperar?",
+      "o": [
+        "Que el tráfico de ambos sentidos se turnará para usar un solo carril",
+        "Que la vía será de un solo sentido para siempre",
+        "Que se agrega un carril",
+        "Que solo los camiones pueden usar la vía"
+      ],
+      "h1": "Los carros de ambos sentidos tendrán que compartir.",
+      "h2": "ONE LANE ROAD AHEAD significa que el tráfico de ambos sentidos compartirá un carril, así que espere un abanderado o un semáforo y esté listo para pararse.",
+      "p": "Correcto. Ambos sentidos comparten un carril."
+    }
+  },
+  {
+    "id": "signs-125",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 6H.07, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "diamond-orange",
+      "text": "LEFT LANE CLOSED AHEAD"
+    },
+    "c": 1,
+    "en": {
+      "q": "An orange sign says LEFT LANE CLOSED AHEAD. You are in the left lane. What should you do?",
+      "o": [
+        "Stay in your lane until it ends",
+        "Move to the right lane early, when it is safe",
+        "Stop and wait for workers to wave you on",
+        "Speed up to pass cars on the right"
+      ],
+      "h1": "Your lane will be blocked.",
+      "h2": "LEFT LANE CLOSED AHEAD means the left lane will be blocked, so signal and move right early when there is a safe gap.",
+      "p": "Right. Move over early."
+    },
+    "es": {
+      "q": "Una señal anaranjada dice LEFT LANE CLOSED AHEAD. Usted va en el carril izquierdo. ¿Qué debe hacer?",
+      "o": [
+        "Quedarse en su carril hasta que termine",
+        "Pasarse temprano al carril derecho, cuando sea seguro",
+        "Pararse y esperar que los trabajadores le hagan señas",
+        "Acelerar para rebasar por la derecha"
+      ],
+      "h1": "Su carril va a estar bloqueado.",
+      "h2": "LEFT LANE CLOSED AHEAD significa que el carril izquierdo estará bloqueado, así que señale y pásese a la derecha temprano cuando haya un espacio seguro.",
+      "p": "Correcto. Cámbiese temprano."
+    }
+  },
+  {
+    "id": "signs-126",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 6H.18, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "diamond-orange",
+      "text": "WORKERS"
+    },
+    "c": 2,
+    "en": {
+      "q": "An orange sign shows a person with a shovel. What should you do?",
+      "o": [
+        "Stop and offer help",
+        "Honk so the workers move",
+        "Slow down and watch for workers on or near the road",
+        "Keep your speed; workers stay off the road"
+      ],
+      "h1": "The person on the sign is a road worker.",
+      "h2": "The Workers sign warns that people are working on or near the road, so slow down and be ready to stop for them.",
+      "p": "Right. Workers are near the road."
+    },
+    "es": {
+      "q": "Una señal anaranjada muestra a una persona con una pala. ¿Qué debe hacer?",
+      "o": [
+        "Pararse y ofrecer ayuda",
+        "Tocar la bocina para que se aparten",
+        "Bajar la velocidad y estar atento a trabajadores en la vía o cerca",
+        "Mantener la velocidad; los trabajadores no salen a la vía"
+      ],
+      "h1": "La persona de la señal es un trabajador de la vía.",
+      "h2": "La señal de trabajadores advierte que hay personas trabajando en la vía o cerca, así que baje la velocidad y esté listo para pararse.",
+      "p": "Correcto. Hay trabajadores cerca de la vía."
+    }
+  },
+  {
+    "id": "signs-127",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 6H.19, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "diamond-orange",
+      "text": "FRESH OIL"
+    },
+    "c": 3,
+    "en": {
+      "q": "An orange sign says FRESH OIL. What should you do?",
+      "o": [
+        "Stop and buy oil",
+        "Speed up to get through quickly",
+        "Turn on your wipers",
+        "Slow down; the new road surface can be slippery and splash your car"
+      ],
+      "h1": "New oil or tar was just put on the road.",
+      "h2": "FRESH OIL warns that new oil or tar is on the road, which can be slippery and splash, so slow down.",
+      "p": "Right. Slow down on the fresh oil."
+    },
+    "es": {
+      "q": "Una señal anaranjada dice FRESH OIL. ¿Qué debe hacer?",
+      "o": [
+        "Pararse a comprar aceite",
+        "Acelerar para pasar rápido",
+        "Encender los limpiaparabrisas",
+        "Bajar la velocidad; la superficie nueva puede estar resbalosa y salpicar su carro"
+      ],
+      "h1": "Acaban de poner aceite o asfalto nuevo en la vía.",
+      "h2": "FRESH OIL advierte que hay aceite o asfalto nuevo en la vía, que puede estar resbaloso y salpicar, así que baje la velocidad.",
+      "p": "Correcto. Baje la velocidad en el asfalto nuevo."
+    }
+  },
+  {
+    "id": "signs-128",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 6H.27, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "diamond-orange",
+      "text": "UNEVEN LANES"
+    },
+    "c": 0,
+    "en": {
+      "q": "In a work zone, an orange sign says UNEVEN LANES. What does it mean?",
+      "o": [
+        "One lane is higher than the lane next to it, so change lanes with care",
+        "The lanes have different speed limits",
+        "One lane is only for trucks",
+        "The lanes are different colors"
+      ],
+      "h1": "Uneven means not at the same height.",
+      "h2": "UNEVEN LANES warns that the road surface of one lane is higher than the next, so take care when you change lanes.",
+      "p": "Right. The lanes are at different heights."
+    },
+    "es": {
+      "q": "En una zona de obras, una señal anaranjada dice UNEVEN LANES. ¿Qué significa?",
+      "o": [
+        "Que un carril está más alto que el de al lado, así que cambie de carril con cuidado",
+        "Que los carriles tienen distintos límites de velocidad",
+        "Que un carril es solo para camiones",
+        "Que los carriles son de distintos colores"
+      ],
+      "h1": "Uneven quiere decir que no están a la misma altura.",
+      "h2": "UNEVEN LANES advierte que la superficie de un carril está más alta que la del otro, así que tenga cuidado al cambiar de carril.",
+      "p": "Correcto. Los carriles tienen distinta altura."
+    }
+  },
+  {
+    "id": "signs-129",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 6H.36, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "rect-white",
+      "text": "END ROAD WORK"
+    },
+    "c": 1,
+    "en": {
+      "q": "You see a sign that says END ROAD WORK. What does it tell you?",
+      "o": [
+        "Road work starts here",
+        "You have reached the end of the work zone",
+        "Workers are on a break",
+        "The road ends here"
+      ],
+      "h1": "End means finished.",
+      "h2": "END ROAD WORK marks the end of the work zone, so you can return to normal driving while obeying the posted signs.",
+      "p": "Right. The work zone ends here."
+    },
+    "es": {
+      "q": "Usted ve una señal que dice END ROAD WORK. ¿Qué le indica?",
+      "o": [
+        "Que aquí empiezan las obras",
+        "Que llegó al final de la zona de obras",
+        "Que los trabajadores están descansando",
+        "Que la vía termina aquí"
+      ],
+      "h1": "End quiere decir fin.",
+      "h2": "END ROAD WORK marca el final de la zona de obras, así que puede volver a manejar normalmente, obedeciendo las señales indicadas.",
+      "p": "Correcto. Aquí termina la zona de obras."
+    }
+  },
+  {
+    "id": "signs-130",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 6H.37, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "diamond-orange",
+      "text": "PILOT CAR FOLLOW ME"
+    },
+    "c": 2,
+    "en": {
+      "q": "In a work zone, a truck has a sign that says PILOT CAR FOLLOW ME. What should you do?",
+      "o": [
+        "Pass the pilot car as soon as you can",
+        "Wait until the pilot car leaves the road",
+        "Follow the pilot car through the work zone",
+        "Take a different road"
+      ],
+      "h1": "A pilot car leads traffic through a one-lane area.",
+      "h2": "A pilot car leads traffic through a work zone, so follow it and do not pass it.",
+      "p": "Right. Follow the pilot car."
+    },
+    "es": {
+      "q": "En una zona de obras, una camioneta tiene una señal que dice PILOT CAR FOLLOW ME. ¿Qué debe hacer?",
+      "o": [
+        "Rebasar al vehículo guía lo antes posible",
+        "Esperar a que el vehículo guía salga de la vía",
+        "Seguir al vehículo guía a través de la zona de obras",
+        "Tomar otra vía"
+      ],
+      "h1": "Un vehículo guía lleva al tráfico por una zona de un solo carril.",
+      "h2": "Un vehículo guía (pilot car) conduce al tráfico por una zona de obras, así que sígalo y no lo rebase.",
+      "p": "Correcto. Siga al vehículo guía."
+    }
+  },
+  {
+    "id": "signs-131",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 6L.06, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In a work zone, a lighted arrow board shows a big flashing arrow pointing to the left. What should you do?",
+      "o": [
+        "Turn left at the next street",
+        "Stop and wait",
+        "Stay in your lane; it is only a reminder",
+        "Move to the left; the lane ahead is closed"
+      ],
+      "h1": "The arrow points where you need to go.",
+      "h2": "A flashing arrow on an arrow board means the lane ahead is closed, so merge in the direction of the arrow when it is safe.",
+      "p": "Right. Merge the way the arrow points."
+    },
+    "es": {
+      "q": "En una zona de obras, un tablero luminoso muestra una gran flecha intermitente que apunta a la izquierda. ¿Qué debe hacer?",
+      "o": [
+        "Girar a la izquierda en la próxima calle",
+        "Pararse y esperar",
+        "Seguir en su carril; es solo un recordatorio",
+        "Pasarse a la izquierda; el carril de adelante está cerrado"
+      ],
+      "h1": "La flecha apunta hacia donde usted debe ir.",
+      "h2": "Una flecha intermitente en un tablero luminoso significa que el carril de adelante está cerrado, así que incorpórese hacia donde apunta la flecha cuando sea seguro.",
+      "p": "Correcto. Cámbiese hacia donde apunta la flecha."
+    }
+  },
+  {
+    "id": "signs-132",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 6L.06, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "A lighted board in a work zone flashes only a bar or four corner lights, not an arrow. What does it mean?",
+      "o": [
+        "Drive with caution; work is near the road, but you do not need to change lanes",
+        "Your lane is closed, so merge right",
+        "The road is closed ahead",
+        "You may speed up"
+      ],
+      "h1": "An arrow would tell you to change lanes.",
+      "h2": "When an arrow board shows a bar or corner lights instead of an arrow, it is in caution mode: work is near the road, so slow down and take care.",
+      "p": "Right. It means caution, not a lane change."
+    },
+    "es": {
+      "q": "Un tablero luminoso en una zona de obras muestra solo una barra o cuatro luces en las esquinas, sin flecha. ¿Qué significa?",
+      "o": [
+        "Maneje con precaución; hay obras cerca de la vía, pero no necesita cambiar de carril",
+        "Su carril está cerrado, cámbiese a la derecha",
+        "La vía está cerrada adelante",
+        "Puede acelerar"
+      ],
+      "h1": "Una flecha le diría que cambie de carril.",
+      "h2": "Cuando el tablero muestra una barra o luces en las esquinas en vez de una flecha, está en modo de precaución: hay obras cerca de la vía, así que baje la velocidad y tenga cuidado.",
+      "p": "Correcto. Significa precaución, no cambio de carril."
+    }
+  },
+  {
+    "id": "signs-133",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 6K.06, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In a work zone, orange and white striped drums stand in a line that slants across your lane. What are they telling you?",
+      "o": [
+        "Drive between them",
+        "Follow them into the open lane",
+        "Stop at the first drum",
+        "Ignore them if no workers are present"
+      ],
+      "h1": "Drums and cones guide traffic.",
+      "h2": "Orange and white drums placed across a lane guide you out of the closed lane, so follow their line into the open lane.",
+      "p": "Right. Follow the drums into the open lane."
+    },
+    "es": {
+      "q": "En una zona de obras, barriles con rayas anaranjadas y blancas forman una línea en diagonal sobre su carril. ¿Qué le indican?",
+      "o": [
+        "Que maneje entre ellos",
+        "Que los siga hacia el carril abierto",
+        "Que se pare en el primer barril",
+        "Que los ignore si no hay trabajadores"
+      ],
+      "h1": "Los barriles y conos guían el tráfico.",
+      "h2": "Los barriles anaranjados y blancos colocados sobre un carril lo guían fuera del carril cerrado, así que siga su línea hacia el carril abierto.",
+      "p": "Correcto. Siga los barriles hacia el carril abierto."
+    }
+  },
+  {
+    "id": "signs-134",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 6G.11, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "diamond-orange",
+      "text": "BLASTING ZONE"
+    },
+    "c": 2,
+    "en": {
+      "q": "Near a work zone, a sign says BLASTING ZONE, TURN OFF 2-WAY RADIO AND CELL PHONE. Why?",
+      "o": [
+        "Phones distract the workers",
+        "The noise will break your phone",
+        "Radio signals could set off the explosives",
+        "Phones do not work in work zones"
+      ],
+      "h1": "Blasting uses explosives.",
+      "h2": "In a blasting zone you must turn off two-way radios and phones because their radio signals could set off the explosives.",
+      "p": "Right. Radio signals could set off a blast."
+    },
+    "es": {
+      "q": "Cerca de una zona de obras, una señal dice BLASTING ZONE, TURN OFF 2-WAY RADIO AND CELL PHONE. ¿Por qué?",
+      "o": [
+        "Porque los teléfonos distraen a los trabajadores",
+        "Porque el ruido romperá su teléfono",
+        "Porque las señales de radio podrían activar los explosivos",
+        "Porque los teléfonos no funcionan en zonas de obras"
+      ],
+      "h1": "En las voladuras (blasting) se usan explosivos.",
+      "h2": "En una zona de voladuras debe apagar los radios de dos vías y los teléfonos, porque sus señales de radio podrían activar los explosivos.",
+      "p": "Correcto. Las señales de radio podrían causar una explosión."
+    }
+  },
+  {
+    "id": "signs-135",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 6D.05, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "A flagger in a work zone holds a red flag straight out across your lane. What does it mean?",
+      "o": [
+        "Speed up",
+        "Turn left",
+        "Drive around the flagger",
+        "Stop"
+      ],
+      "h1": "The flag blocks your lane.",
+      "h2": "When a flagger holds a red flag straight out across your lane, it means stop and wait until the flagger signals you to go.",
+      "p": "Right. A flag held across your lane means stop."
+    },
+    "es": {
+      "q": "Un abanderado en una zona de obras sostiene una bandera roja extendida sobre su carril. ¿Qué significa?",
+      "o": [
+        "Acelere",
+        "Gire a la izquierda",
+        "Rodee al abanderado",
+        "Pare"
+      ],
+      "h1": "La bandera bloquea su carril.",
+      "h2": "Cuando un abanderado sostiene una bandera roja extendida sobre su carril, significa que debe pararse y esperar hasta que le indique seguir.",
+      "p": "Correcto. La bandera sobre su carril significa pare."
+    }
+  },
+  {
+    "id": "signs-136",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 6D.05, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "A flagger slowly waves a red flag up and down from the shoulder. What does it mean?",
+      "o": [
+        "Slow down and be careful",
+        "Stop and turn off your engine",
+        "Turn around",
+        "Pass the cars ahead"
+      ],
+      "h1": "A waving flag is a warning, not a stop.",
+      "h2": "A flagger who slowly waves a flag down toward the road is telling you to slow down and drive with care.",
+      "p": "Right. A slowly waving flag means slow down."
+    },
+    "es": {
+      "q": "Un abanderado mueve despacio una bandera roja de arriba hacia abajo desde el acotamiento. ¿Qué significa?",
+      "o": [
+        "Baje la velocidad y tenga cuidado",
+        "Párese y apague el motor",
+        "Dé la vuelta",
+        "Rebase a los carros de adelante"
+      ],
+      "h1": "Una bandera que se mueve es una advertencia, no una orden de pararse.",
+      "h2": "Un abanderado que mueve despacio una bandera hacia abajo le está diciendo que baje la velocidad y maneje con cuidado.",
+      "p": "Correcto. La bandera que se mueve despacio significa bajar la velocidad."
+    }
+  },
+  {
+    "id": "signs-137",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2C.73, https://mutcd.fhwa.dot.gov/",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "At the end of a road, you see a sign made of red reflectors. What does it mean?",
+      "o": [
+        "A fire station is ahead",
+        "The road ends here",
+        "A stop light is broken",
+        "Parking is allowed"
+      ],
+      "h1": "Red often means stop.",
+      "h2": "An end-of-road marker with red reflectors means the road ends at that point, so you must stop before it.",
+      "p": "Right. The road ends here."
+    },
+    "es": {
+      "q": "Al final de una vía, usted ve una señal hecha de reflectores rojos. ¿Qué significa?",
+      "o": [
+        "Que hay una estación de bomberos adelante",
+        "Que la vía termina aquí",
+        "Que un semáforo está dañado",
+        "Que se permite estacionar"
+      ],
+      "h1": "El rojo suele significar pare.",
+      "h2": "Un marcador de fin de vía con reflectores rojos significa que la vía termina en ese punto, así que debe pararse antes.",
+      "p": "Correcto. La vía termina aquí."
+    }
+  },
+  {
+    "id": "signs-138",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2B.49, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "rect-white",
+      "text": "ONE WAY"
+    },
+    "c": 2,
+    "en": {
+      "q": "You are about to turn onto a street. A ONE WAY sign at the corner has an arrow pointing to the right. Which way may you turn?",
+      "o": [
+        "Only to the left",
+        "Either way",
+        "Only to the right",
+        "You may not turn"
+      ],
+      "h1": "Traffic on that street moves only in the arrow's direction.",
+      "h2": "A ONE WAY sign with an arrow to the right means traffic on that street moves only to the right, so you may only turn right onto it.",
+      "p": "Right. Turn the way the arrow points."
+    },
+    "es": {
+      "q": "Usted va a girar hacia una calle. Una señal ONE WAY en la esquina tiene una flecha que apunta a la derecha. ¿Hacia dónde puede girar?",
+      "o": [
+        "Solo a la izquierda",
+        "A cualquier lado",
+        "Solo a la derecha",
+        "No puede girar"
+      ],
+      "h1": "El tráfico de esa calle va solo en la dirección de la flecha.",
+      "h2": "Una señal ONE WAY con flecha a la derecha significa que el tráfico de esa calle va solo hacia la derecha, así que solo puede girar a la derecha.",
+      "p": "Correcto. Gire hacia donde apunta la flecha."
+    }
+  },
+  {
+    "id": "signs-139",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2C.55, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "BICYCLE"
+    },
+    "c": 3,
+    "en": {
+      "q": "A yellow or yellow-green warning sign shows a bicycle. What does it mean?",
+      "o": [
+        "Bicycles are not allowed",
+        "A bike shop is ahead",
+        "Only bicycles may use the road",
+        "Bicycle riders may be on or crossing the road"
+      ],
+      "h1": "This is a warning sign, not a rule.",
+      "h2": "A bicycle warning sign means people on bicycles may be riding on or crossing the road ahead, so watch for them and give them room.",
+      "p": "Right. Watch for bicycle riders."
+    },
+    "es": {
+      "q": "Una señal de advertencia amarilla o amarillo verdosa muestra una bicicleta. ¿Qué significa?",
+      "o": [
+        "Que no se permiten bicicletas",
+        "Que hay una tienda de bicicletas",
+        "Que solo las bicicletas pueden usar la vía",
+        "Que puede haber ciclistas en la vía o cruzándola"
+      ],
+      "h1": "Es una señal de advertencia, no una regla.",
+      "h2": "Una señal de advertencia con una bicicleta significa que puede haber ciclistas circulando o cruzando la vía adelante, así que fíjese en ellos y deles espacio.",
+      "p": "Correcto. Fíjese en los ciclistas."
+    }
+  },
+  {
+    "id": "signs-140",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2C.55, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "CATTLE"
+    },
+    "c": 0,
+    "en": {
+      "q": "A yellow sign shows a cow. What should you do?",
+      "o": [
+        "Watch for farm animals on or crossing the road",
+        "Look for a farm market",
+        "Honk to move animals off the road",
+        "Speed up through the area"
+      ],
+      "h1": "Animals may be loose or herded across.",
+      "h2": "A cattle crossing sign warns that farm animals may be on or crossing the road, so slow down and be ready to stop.",
+      "p": "Right. Watch for animals on the road."
+    },
+    "es": {
+      "q": "Una señal amarilla muestra una vaca. ¿Qué debe hacer?",
+      "o": [
+        "Estar atento a animales de granja en la vía o cruzándola",
+        "Buscar un mercado de granja",
+        "Tocar la bocina para sacar a los animales",
+        "Acelerar por la zona"
+      ],
+      "h1": "Los animales pueden estar sueltos o cruzar en grupo.",
+      "h2": "Una señal de cruce de ganado advierte que puede haber animales de granja en la vía o cruzándola, así que baje la velocidad y esté listo para pararse.",
+      "p": "Correcto. Cuidado con los animales en la vía."
+    }
+  },
+  {
+    "id": "signs-141",
+    "scope": "US",
+    "cat": "signs",
+    "conf": "high",
+    "page": null,
+    "src": "MUTCD 11th Edition (FHWA, 2023), Section 2C.29, https://mutcd.fhwa.dot.gov/",
+    "sign": {
+      "shape": "diamond-yellow",
+      "text": "SHOULDER DROP OFF"
+    },
+    "c": 1,
+    "en": {
+      "q": "A yellow sign says SHOULDER DROP OFF. What does it warn about?",
+      "o": [
+        "The shoulder is a good place to stop",
+        "The edge of the road drops sharply lower than the pavement",
+        "Rocks may fall from above",
+        "The road becomes gravel"
+      ],
+      "h1": "Drop off means a sudden step down.",
+      "h2": "SHOULDER DROP OFF warns that the ground at the edge is much lower than the pavement, so a wheel that drops off could make you lose control.",
+      "p": "Right. The edge drops lower than the road."
+    },
+    "es": {
+      "q": "Una señal amarilla dice SHOULDER DROP OFF. ¿De qué advierte?",
+      "o": [
+        "De que el acotamiento es buen lugar para parar",
+        "De que la orilla de la vía está mucho más baja que el pavimento",
+        "De que pueden caer rocas",
+        "De que la vía se vuelve de grava"
+      ],
+      "h1": "Drop off es un escalón repentino hacia abajo.",
+      "h2": "SHOULDER DROP OFF advierte que la orilla está mucho más baja que el pavimento, así que si una llanta se sale podría perder el control.",
+      "p": "Correcto. La orilla está más baja que la vía."
+    }
   }
 ]
