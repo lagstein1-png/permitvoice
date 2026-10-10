@@ -4344,5 +4344,1671 @@
       "h2": "في New Hampshire، يجب ألّا تتجاوز سيارة توقفت عند ممر المشاة لتترك شخصًا يعبر.",
       "p": "صحيح. لا تتجاوز أبدًا سيارة متوقفة لشخص يعبر."
     }
+  },
+  {
+    "id": "nh-054",
+    "scope": "NH",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-45.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, you plan to turn right at the next corner. For how long must your turn signal be on before the turn?",
+      "o": [
+        "Only for the last 25 feet",
+        "At least the last 50 feet",
+        "At least the last 100 feet",
+        "Only once you start turning"
+      ],
+      "h1": "It is about six car lengths.",
+      "h2": "In New Hampshire, you must signal without a break for at least the last 100 feet before you turn.",
+      "p": "Right. Signal for at least the last 100 feet."
+    },
+    "es": {
+      "q": "En New Hampshire, usted piensa girar a la derecha en la próxima esquina. ¿Durante cuánto tiempo debe estar encendida su direccional antes del giro?",
+      "o": [
+        "Solo durante los últimos 25 pies",
+        "Al menos los últimos 50 pies",
+        "Al menos los últimos 100 pies",
+        "Solo cuando ya empieza a girar"
+      ],
+      "h1": "Son unos seis largos de carro.",
+      "h2": "En New Hampshire, debe señalizar sin interrupción durante al menos los últimos 100 pies antes de girar.",
+      "p": "Correcto. Señalice durante al menos los últimos 100 pies."
+    }
+  },
+  {
+    "id": "nh-055",
+    "scope": "NH",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-45.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, a driver behind you wants to pass. May you flash your left turn signal to tell the driver it is safe to pass?",
+      "o": [
+        "Yes, it is a polite way to help",
+        "Yes, but only on a highway",
+        "Yes, if you also wave your hand",
+        "No, turn signals may not be used as a \"pass me\" signal"
+      ],
+      "h1": "Turn signals are only for turning, changing lanes, or pulling out from a parked spot.",
+      "h2": "In New Hampshire, you may not use your turn signals as a courtesy or \"go ahead and pass\" signal to drivers behind you.",
+      "p": "Right. Turn signals are not a \"pass me\" signal."
+    },
+    "es": {
+      "q": "En New Hampshire, un conductor detrás de usted quiere rebasar. ¿Puede usted encender la direccional izquierda para decirle que es seguro rebasar?",
+      "o": [
+        "Sí, es una manera amable de ayudar",
+        "Sí, pero solo en una autopista",
+        "Sí, si además hace una seña con la mano",
+        "No, las direccionales no se pueden usar como señal de \"rebáseme\""
+      ],
+      "h1": "Las direccionales son solo para girar, cambiar de carril o salir de un estacionamiento.",
+      "h2": "En New Hampshire, no puede usar las direccionales como cortesía ni como señal de \"adelante, rebase\" para los conductores que vienen detrás.",
+      "p": "Correcto. Las direccionales no son una señal de \"rebáseme\"."
+    }
+  },
+  {
+    "id": "nh-056",
+    "scope": "NH",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-49.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, a railroad crossing has a STOP sign. Where must you stop?",
+      "o": [
+        "Right on the first rail",
+        "Within 50 feet of the nearest rail, but not closer than 15 feet",
+        "At least 100 feet before the tracks",
+        "Anywhere, as long as you can see the tracks"
+      ],
+      "h1": "Not too close to the rail, and not too far away either.",
+      "h2": "In New Hampshire, at a railroad crossing with a STOP sign, you must stop within 50 feet of the nearest rail but not closer than 15 feet.",
+      "p": "Right. Between 15 and 50 feet from the nearest rail."
+    },
+    "es": {
+      "q": "En New Hampshire, un cruce de ferrocarril tiene una señal de ALTO. ¿Dónde debe detenerse?",
+      "o": [
+        "Justo encima del primer riel",
+        "A menos de 50 pies del riel más cercano, pero no a menos de 15 pies",
+        "Al menos 100 pies antes de las vías",
+        "En cualquier lugar, siempre que pueda ver las vías"
+      ],
+      "h1": "Ni demasiado cerca del riel ni demasiado lejos.",
+      "h2": "En New Hampshire, en un cruce de ferrocarril con señal de ALTO, debe detenerse a menos de 50 pies del riel más cercano, pero no a menos de 15 pies.",
+      "p": "Correcto. Entre 15 y 50 pies del riel más cercano."
+    }
+  },
+  {
+    "id": "nh-057",
+    "scope": "NH",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-50.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, which vehicle must stop at every railroad crossing, even with no STOP sign, unless a police officer or traffic signal tells it to go?",
+      "o": [
+        "Any pickup truck",
+        "Any car pulling a small trailer",
+        "A school bus carrying school children",
+        "A motorcycle with a passenger"
+      ],
+      "h1": "Think of a vehicle full of young passengers.",
+      "h2": "In New Hampshire, a school bus carrying school children must stop at every railroad crossing, as must vehicles carrying passengers for hire or explosives.",
+      "p": "Right. A school bus with children must always stop."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿qué vehículo debe detenerse en todo cruce de ferrocarril, aunque no haya señal de ALTO, a menos que un policía o un semáforo le indique seguir?",
+      "o": [
+        "Cualquier camioneta pickup",
+        "Cualquier carro que jala un remolque pequeño",
+        "Un autobús escolar que lleva niños",
+        "Una motocicleta con pasajero"
+      ],
+      "h1": "Piense en un vehículo lleno de pasajeros jóvenes.",
+      "h2": "En New Hampshire, un autobús escolar que lleva niños debe detenerse en todo cruce de ferrocarril, igual que los vehículos que llevan pasajeros por pago o explosivos.",
+      "p": "Correcto. Un autobús escolar con niños siempre debe detenerse."
+    }
+  },
+  {
+    "id": "nh-058",
+    "scope": "NH",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-101.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, firefighters have laid a hose across the street to fight a fire. When may you drive over the hose?",
+      "o": [
+        "When you drive slowly",
+        "When the hose looks empty",
+        "When no firefighter is near it",
+        "Only when the fire official in charge says you may"
+      ],
+      "h1": "The hose belongs to the fire department.",
+      "h2": "In New Hampshire, you may not drive over a fire hose laid across the street unless the fire department official in charge allows it.",
+      "p": "Right. Only with the fire official's permission."
+    },
+    "es": {
+      "q": "En New Hampshire, los bomberos pusieron una manguera a través de la calle para apagar un incendio. ¿Cuándo puede pasar con el carro por encima de la manguera?",
+      "o": [
+        "Cuando maneja despacio",
+        "Cuando la manguera parece vacía",
+        "Cuando no hay bomberos cerca",
+        "Solo cuando el jefe de bomberos a cargo se lo permite"
+      ],
+      "h1": "La manguera es del departamento de bomberos.",
+      "h2": "En New Hampshire, no puede pasar por encima de una manguera de bomberos tendida en la calle a menos que el jefe de bomberos a cargo lo permita.",
+      "p": "Correcto. Solo con permiso del jefe de bomberos."
+    }
+  },
+  {
+    "id": "nh-059",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-94.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, you missed your exit on a controlled-access highway, such as an interstate. May you back up on the shoulder to reach it?",
+      "o": [
+        "No, backing on the shoulder or road of such a highway is not allowed",
+        "Yes, if your hazard lights are on",
+        "Yes, if no cars are coming",
+        "Yes, but only for a short distance"
+      ],
+      "h1": "Go on to the next exit instead.",
+      "h2": "In New Hampshire, you may not back up on the shoulder or roadway of a controlled-access highway; go on to the next exit.",
+      "p": "Right. Never back up on that highway; take the next exit."
+    },
+    "es": {
+      "q": "En New Hampshire, usted se pasó de su salida en una autopista de acceso controlado, como una interestatal. ¿Puede retroceder por el acotamiento para llegar a ella?",
+      "o": [
+        "No, no se permite retroceder en el acotamiento ni en la vía de esa autopista",
+        "Sí, si tiene las luces intermitentes encendidas",
+        "Sí, si no vienen carros",
+        "Sí, pero solo una distancia corta"
+      ],
+      "h1": "Mejor siga hasta la próxima salida.",
+      "h2": "En New Hampshire, no puede retroceder en el acotamiento ni en la vía de una autopista de acceso controlado; siga hasta la próxima salida.",
+      "p": "Correcto. Nunca retroceda en esa autopista; tome la próxima salida."
+    }
+  },
+  {
+    "id": "nh-060",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-96.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, you are parked on a street and want to open your door on the traffic side. What does the law say?",
+      "o": [
+        "You may open it any time; drivers must go around you",
+        "Open it only when it is safe and does not get in the way of traffic, and close it as soon as you can",
+        "Open it only if your hazard lights are on",
+        "You may never open a door on the traffic side"
+      ],
+      "h1": "The door must not swing into moving traffic, and must not stay open long.",
+      "h2": "In New Hampshire, you may open a door on the traffic side only when it is safe and does not get in the way of traffic, and you may not leave it open longer than needed.",
+      "p": "Right. Open it only when safe, and close it quickly."
+    },
+    "es": {
+      "q": "En New Hampshire, usted está estacionado en una calle y quiere abrir la puerta del lado del tráfico. ¿Qué dice la ley?",
+      "o": [
+        "Puede abrirla cuando quiera; los conductores deben rodearlo",
+        "Ábrala solo cuando sea seguro y no estorbe al tráfico, y ciérrela lo antes posible",
+        "Ábrala solo si tiene las luces intermitentes encendidas",
+        "Nunca puede abrir una puerta del lado del tráfico"
+      ],
+      "h1": "La puerta no debe abrirse hacia el tráfico en movimiento ni quedarse abierta mucho tiempo.",
+      "h2": "En New Hampshire, puede abrir una puerta del lado del tráfico solo cuando sea seguro y no estorbe al tráfico, y no puede dejarla abierta más de lo necesario.",
+      "p": "Correcto. Ábrala solo cuando sea seguro y ciérrela pronto."
+    }
+  },
+  {
+    "id": "nh-061",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-25.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, what is the fine for following another vehicle too closely?",
+      "o": [
+        "$25",
+        "$50",
+        "$100",
+        "$1,000"
+      ],
+      "h1": "It is a three-digit number.",
+      "h2": "In New Hampshire, the fine for following another vehicle too closely is $100.",
+      "p": "Right. The fine is $100."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿cuál es la multa por seguir demasiado cerca a otro vehículo?",
+      "o": [
+        "$25",
+        "$50",
+        "$100",
+        "$1,000"
+      ],
+      "h1": "Es un número de tres cifras.",
+      "h2": "En New Hampshire, la multa por seguir demasiado cerca a otro vehículo es de $100.",
+      "p": "Correcto. La multa es de $100."
+    }
+  },
+  {
+    "id": "nh-062",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-79-b.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, what is the fine for a first offense of negligent driving, driving in a way that puts people or property in danger?",
+      "o": [
+        "$25 to $50",
+        "$50 to $100",
+        "$1,000 to $2,000",
+        "$250 to $500"
+      ],
+      "h1": "The smallest fine is a few hundred dollars.",
+      "h2": "In New Hampshire, a first offense of negligent driving brings a fine of $250 to $500.",
+      "p": "Right. $250 to $500."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿cuál es la multa por una primera infracción de manejo negligente, es decir, manejar de una forma que pone en peligro a personas o bienes?",
+      "o": [
+        "De $25 a $50",
+        "De $50 a $100",
+        "De $1,000 a $2,000",
+        "De $250 a $500"
+      ],
+      "h1": "La multa más baja es de unos cientos de dólares.",
+      "h2": "En New Hampshire, una primera infracción de manejo negligente tiene una multa de $250 a $500.",
+      "p": "Correcto. De $250 a $500."
+    }
+  },
+  {
+    "id": "nh-063",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-79.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, a driver is convicted of reckless driving for the first time. For how long is the license revoked?",
+      "o": [
+        "60 days",
+        "7 days",
+        "1 year",
+        "It is not revoked"
+      ],
+      "h1": "It is about two months.",
+      "h2": "In New Hampshire, a first conviction for reckless driving means the license is revoked for 60 days.",
+      "p": "Right. 60 days."
+    },
+    "es": {
+      "q": "En New Hampshire, un conductor es condenado por primera vez por manejo temerario. ¿Por cuánto tiempo le revocan la licencia?",
+      "o": [
+        "60 días",
+        "7 días",
+        "1 año",
+        "No se la revocan"
+      ],
+      "h1": "Son unos dos meses.",
+      "h2": "En New Hampshire, una primera condena por manejo temerario significa que la licencia se revoca por 60 días.",
+      "p": "Correcto. 60 días."
+    }
+  },
+  {
+    "id": "nh-064",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-79.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, a driver is caught going 100 mph or faster for the first time. For how long is the license revoked?",
+      "o": [
+        "30 days",
+        "90 days",
+        "5 years",
+        "It is not revoked; there is only a fine"
+      ],
+      "h1": "It is about three months.",
+      "h2": "In New Hampshire, a first conviction for driving 100 mph or faster means the license is revoked for 90 days.",
+      "p": "Right. 90 days."
+    },
+    "es": {
+      "q": "En New Hampshire, a un conductor lo detienen por primera vez a 100 mph o más. ¿Por cuánto tiempo le revocan la licencia?",
+      "o": [
+        "30 días",
+        "90 días",
+        "5 años",
+        "No se la revocan; solo hay multa"
+      ],
+      "h1": "Son unos tres meses.",
+      "h2": "En New Hampshire, una primera condena por manejar a 100 mph o más significa que la licencia se revoca por 90 días.",
+      "p": "Correcto. 90 días."
+    }
+  },
+  {
+    "id": "nh-065",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-112.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, at night you leave your car parked partly on a road with no street lights. Which lights must be on?",
+      "o": [
+        "No lights",
+        "High beams",
+        "Parking lights",
+        "Only the inside dome light"
+      ],
+      "h1": "These are small lights that show where a parked car is.",
+      "h2": "In New Hampshire, a car parked on a road at night must show its parking lights, unless street lights or other lights make it plainly visible.",
+      "p": "Right. Parking lights."
+    },
+    "es": {
+      "q": "En New Hampshire, de noche usted deja su carro estacionado en parte sobre una calle sin alumbrado público. ¿Qué luces deben estar encendidas?",
+      "o": [
+        "Ninguna luz",
+        "Las luces altas",
+        "Las luces de estacionamiento",
+        "Solo la luz interior del techo"
+      ],
+      "h1": "Son luces pequeñas que muestran dónde está un carro estacionado.",
+      "h2": "En New Hampshire, un carro estacionado en una calle de noche debe tener encendidas las luces de estacionamiento, a menos que el alumbrado u otras luces lo hagan claramente visible.",
+      "p": "Correcto. Las luces de estacionamiento."
+    }
+  },
+  {
+    "id": "nh-066",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-98.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, you are driving on a mountain road. A curve ahead blocks your view within 200 feet. What must you do?",
+      "o": [
+        "Flash your high beams",
+        "Drive in the middle of the road",
+        "Speed up to get through the curve",
+        "Keep right and sound your horn"
+      ],
+      "h1": "Warn drivers you cannot see yet.",
+      "h2": "In New Hampshire, on a mountain road you must keep as far right as you reasonably can and sound your horn before a curve where your view is blocked within 200 feet.",
+      "p": "Right. Keep right and sound your horn."
+    },
+    "es": {
+      "q": "En New Hampshire, usted maneja por un camino de montaña. Una curva adelante le tapa la vista a menos de 200 pies. ¿Qué debe hacer?",
+      "o": [
+        "Hacer cambio de luces altas",
+        "Manejar por el centro del camino",
+        "Acelerar para pasar rápido la curva",
+        "Mantenerse a la derecha y tocar la bocina"
+      ],
+      "h1": "Avise a los conductores que todavía no puede ver.",
+      "h2": "En New Hampshire, en un camino de montaña debe mantenerse lo más a la derecha posible y tocar la bocina antes de una curva donde la vista está tapada a menos de 200 pies.",
+      "p": "Correcto. Manténgase a la derecha y toque la bocina."
+    }
+  },
+  {
+    "id": "nh-067",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-20.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, you are passing in the lane for oncoming traffic. A car is coming toward you. You must be back in your lane before you come within what distance of it?",
+      "o": [
+        "200 feet",
+        "20 feet",
+        "50 feet",
+        "10 feet"
+      ],
+      "h1": "It is about a dozen car lengths.",
+      "h2": "In New Hampshire, when you pass in the oncoming lane, you must return to your own lane before you come within 200 feet of an oncoming vehicle.",
+      "p": "Right. Before you are within 200 feet."
+    },
+    "es": {
+      "q": "En New Hampshire, usted está rebasando por el carril del tráfico contrario. Viene un carro de frente. ¿Antes de qué distancia de ese carro debe volver a su carril?",
+      "o": [
+        "200 pies",
+        "20 pies",
+        "50 pies",
+        "10 pies"
+      ],
+      "h1": "Son unos doce largos de carro.",
+      "h2": "En New Hampshire, cuando rebasa por el carril contrario, debe volver a su carril antes de llegar a 200 pies de un vehículo que viene de frente.",
+      "p": "Correcto. Antes de llegar a 200 pies."
+    }
+  },
+  {
+    "id": "nh-068",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-21.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, on a two-way road, how close to an intersection or a railroad crossing may you drive on the left side of the road to pass, unless markings allow it?",
+      "o": [
+        "Up to 10 feet",
+        "Not within 100 feet",
+        "Not within 1,000 feet",
+        "Any distance, if no train or car is in sight"
+      ],
+      "h1": "Stay out of the left side for the last stretch of about six car lengths.",
+      "h2": "In New Hampshire, you may not drive on the left side of the road within 100 feet of an intersection or a railroad crossing, unless signs or markings allow it.",
+      "p": "Right. Not within 100 feet."
+    },
+    "es": {
+      "q": "En New Hampshire, en un camino de doble sentido, ¿a qué distancia de una intersección o de un cruce de ferrocarril puede manejar por el lado izquierdo para rebasar, a menos que las marcas lo permitan?",
+      "o": [
+        "Hasta 10 pies",
+        "No a menos de 100 pies",
+        "No a menos de 1,000 pies",
+        "A cualquier distancia, si no se ve un tren ni un carro"
+      ],
+      "h1": "No use el lado izquierdo en el último tramo de unos seis largos de carro.",
+      "h2": "En New Hampshire, no puede manejar por el lado izquierdo del camino a menos de 100 pies de una intersección o de un cruce de ferrocarril, a menos que las señales o marcas lo permitan.",
+      "p": "Correcto. No a menos de 100 pies."
+    }
+  },
+  {
+    "id": "nh-069",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-18.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, a driver behind you sounds the horn and starts to pass you on the left. What must you do?",
+      "o": [
+        "Speed up so the driver passes faster",
+        "Move to the left to block the pass",
+        "Give way to the right and do not speed up until you are passed",
+        "Stop in your lane right away"
+      ],
+      "h1": "Make the pass easier, not harder.",
+      "h2": "In New Hampshire, when another vehicle passes you, you must give way to the right and not speed up until it has completely passed.",
+      "p": "Right. Give way to the right and do not speed up."
+    },
+    "es": {
+      "q": "En New Hampshire, un conductor detrás de usted toca la bocina y empieza a rebasarlo por la izquierda. ¿Qué debe hacer?",
+      "o": [
+        "Acelerar para que lo rebase más rápido",
+        "Moverse a la izquierda para impedirlo",
+        "Hacerse a la derecha y no acelerar hasta que lo hayan rebasado",
+        "Detenerse en su carril de inmediato"
+      ],
+      "h1": "Facilite el rebase, no lo complique.",
+      "h2": "En New Hampshire, cuando otro vehículo lo rebasa, usted debe hacerse a la derecha y no acelerar hasta que lo haya rebasado por completo.",
+      "p": "Correcto. Hágase a la derecha y no acelere."
+    }
+  },
+  {
+    "id": "nh-070",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-19.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, the car ahead is waiting to turn left. You want to pass it on the right. Which is NOT allowed?",
+      "o": [
+        "Passing on the right when the car is turning left",
+        "Passing on the right when it is safe",
+        "Passing on the right on a road with room for two lines of cars",
+        "Passing on the right by driving onto the shoulder or off the road"
+      ],
+      "h1": "Passing on the right must stay on the pavement.",
+      "h2": "In New Hampshire, you may pass on the right only when it is safe, and never by driving off the roadway, such as onto the shoulder.",
+      "p": "Right. Never pass on the right by driving off the road."
+    },
+    "es": {
+      "q": "En New Hampshire, el carro de adelante espera para girar a la izquierda. Usted quiere rebasarlo por la derecha. ¿Qué NO está permitido?",
+      "o": [
+        "Rebasar por la derecha cuando el carro gira a la izquierda",
+        "Rebasar por la derecha cuando es seguro",
+        "Rebasar por la derecha en una vía con espacio para dos filas de carros",
+        "Rebasar por la derecha saliéndose al acotamiento o fuera del camino"
+      ],
+      "h1": "El rebase por la derecha debe hacerse sobre el pavimento.",
+      "h2": "En New Hampshire, puede rebasar por la derecha solo cuando es seguro, y nunca saliéndose de la vía, por ejemplo al acotamiento.",
+      "p": "Correcto. Nunca rebase por la derecha saliéndose del camino."
+    }
+  },
+  {
+    "id": "nh-071",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-43.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, may you make a U-turn on a curve or near the top of a hill?",
+      "o": [
+        "Not if drivers coming from either direction cannot see you within 500 feet",
+        "Yes, any time you signal first",
+        "Yes, if you go fast",
+        "Only at night"
+      ],
+      "h1": "Other drivers must be able to see you from far away.",
+      "h2": "In New Hampshire, you may not turn around on a curve or near the top of a hill where drivers coming from either direction cannot see you within 500 feet.",
+      "p": "Right. Not where you cannot be seen within 500 feet."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿puede dar una vuelta en U en una curva o cerca de la cima de una loma?",
+      "o": [
+        "No, si los conductores que vienen de cualquier dirección no pueden verlo a 500 pies",
+        "Sí, siempre que señalice antes",
+        "Sí, si lo hace rápido",
+        "Solo de noche"
+      ],
+      "h1": "Los otros conductores deben poder verlo desde lejos.",
+      "h2": "En New Hampshire, no puede dar la vuelta en una curva ni cerca de la cima de una loma donde los conductores que vienen de cualquier dirección no puedan verlo a 500 pies.",
+      "p": "Correcto. No donde no lo vean a 500 pies."
+    }
+  },
+  {
+    "id": "nh-072",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/264/264-25-a.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, you have a small crash in a travel lane. Your car can still be moved safely and no one is hurt. What should you do?",
+      "o": [
+        "Leave the car where it is until the police arrive",
+        "Move the car off the travel lanes to a safe spot",
+        "Drive home and report it later",
+        "Leave the car and walk to the nearest phone"
+      ],
+      "h1": "Clear the road if you can do it without more harm.",
+      "h2": "In New Hampshire, if your car is in a crash on the travel lanes and it can be moved without more damage or injury, you must move it off the travel lanes.",
+      "p": "Right. Move it off the travel lanes."
+    },
+    "es": {
+      "q": "En New Hampshire, usted tiene un choque leve en un carril de circulación. Su carro todavía se puede mover sin peligro y nadie está herido. ¿Qué debe hacer?",
+      "o": [
+        "Dejar el carro donde está hasta que llegue la policía",
+        "Sacar el carro de los carriles de circulación a un lugar seguro",
+        "Irse a casa y reportarlo más tarde",
+        "Dejar el carro y caminar al teléfono más cercano"
+      ],
+      "h1": "Despeje la vía si puede hacerlo sin causar más daño.",
+      "h2": "En New Hampshire, si su carro choca en los carriles de circulación y se puede mover sin más daño ni lesiones, debe sacarlo de esos carriles.",
+      "p": "Correcto. Sáquelo de los carriles de circulación."
+    }
+  },
+  {
+    "id": "nh-073",
+    "scope": "NH",
+    "cat": "signals",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-11-a.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, the light ahead is red. May you cut through a gas station lot on the corner to avoid it?",
+      "o": [
+        "Yes, if you drive slowly",
+        "Yes, if the lot is empty",
+        "No, that is against the law",
+        "Yes, if you are turning right"
+      ],
+      "h1": "The law protects traffic signals from shortcuts.",
+      "h2": "In New Hampshire, it is against the law to cut across property that is not a road, such as a parking lot, to avoid a traffic signal or sign.",
+      "p": "Right. Cutting through to avoid a signal is not allowed."
+    },
+    "es": {
+      "q": "En New Hampshire, el semáforo de adelante está en rojo. ¿Puede atravesar el terreno de una gasolinera en la esquina para evitarlo?",
+      "o": [
+        "Sí, si maneja despacio",
+        "Sí, si el terreno está vacío",
+        "No, eso va contra la ley",
+        "Sí, si va a girar a la derecha"
+      ],
+      "h1": "La ley protege los semáforos de los atajos.",
+      "h2": "En New Hampshire, es ilegal atravesar un terreno que no es calle, como un estacionamiento, para evitar un semáforo o una señal.",
+      "p": "Correcto. No se permite atravesar para evitar un semáforo."
+    }
+  },
+  {
+    "id": "nh-074",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-121.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, may a motorcycle ride between two lanes of slow or stopped cars?",
+      "o": [
+        "Yes, at any speed",
+        "Yes, if traffic is stopped",
+        "Yes, if the rider signals",
+        "No, riding between lanes or rows of cars is not allowed"
+      ],
+      "h1": "Motorcycles get a full lane, like cars.",
+      "h2": "In New Hampshire, a motorcycle may not ride between lanes of traffic or between rows of cars.",
+      "p": "Right. No riding between lanes."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿puede una motocicleta circular entre dos carriles de carros lentos o detenidos?",
+      "o": [
+        "Sí, a cualquier velocidad",
+        "Sí, si el tráfico está detenido",
+        "Sí, si el motociclista señaliza",
+        "No, no se permite circular entre carriles ni entre filas de carros"
+      ],
+      "h1": "Las motocicletas tienen derecho a un carril completo, como los carros.",
+      "h2": "En New Hampshire, una motocicleta no puede circular entre carriles de tráfico ni entre filas de carros.",
+      "p": "Correcto. No se circula entre carriles."
+    }
+  },
+  {
+    "id": "nh-075",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-121.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, what is the largest number of motorcycles that may ride side by side in one lane?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "Only 1"
+      ],
+      "h1": "Think of a pair.",
+      "h2": "In New Hampshire, no more than 2 motorcycles may ride side by side in a single lane.",
+      "p": "Right. No more than 2."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿cuál es el mayor número de motocicletas que pueden ir lado a lado en un carril?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "Solo 1"
+      ],
+      "h1": "Piense en una pareja.",
+      "h2": "En New Hampshire, no pueden ir más de 2 motocicletas lado a lado en un mismo carril.",
+      "p": "Correcto. No más de 2."
+    }
+  },
+  {
+    "id": "nh-076",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-123.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, a motorcycle has no windshield to protect the rider's eyes and face. What must the rider wear while riding?",
+      "o": [
+        "Nothing extra",
+        "Eyeglasses, goggles or a face shield",
+        "Only a reflective vest",
+        "Only gloves"
+      ],
+      "h1": "It protects the eyes from wind and bugs.",
+      "h2": "In New Hampshire, if a motorcycle has no windshield or screen protecting the rider's eyes and face, the rider must wear eyeglasses, goggles or a face shield.",
+      "p": "Right. Eyeglasses, goggles or a face shield."
+    },
+    "es": {
+      "q": "En New Hampshire, una motocicleta no tiene parabrisas que proteja los ojos y la cara del motociclista. ¿Qué debe llevar puesto el motociclista mientras maneja?",
+      "o": [
+        "Nada más",
+        "Anteojos, gafas protectoras o una careta",
+        "Solo un chaleco reflectante",
+        "Solo guantes"
+      ],
+      "h1": "Protege los ojos del viento y de los insectos.",
+      "h2": "En New Hampshire, si una motocicleta no tiene parabrisas o pantalla que proteja los ojos y la cara, el motociclista debe usar anteojos, gafas protectoras o una careta.",
+      "p": "Correcto. Anteojos, gafas protectoras o una careta."
+    }
+  },
+  {
+    "id": "nh-077",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-120.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, may a motorcycle rider carry a package that keeps one hand off the handlebars?",
+      "o": [
+        "Yes, if it is small",
+        "Yes, on short trips",
+        "No, the rider must be able to keep both hands on the handlebars",
+        "Yes, if the package is tied to the rider's arm"
+      ],
+      "h1": "Think about full control of the motorcycle.",
+      "h2": "In New Hampshire, a motorcycle rider may not carry any package or item that keeps the rider from keeping both hands on the handlebars.",
+      "p": "Right. Both hands must stay on the handlebars."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿puede un motociclista llevar un paquete que le impida tener una mano en el manubrio?",
+      "o": [
+        "Sí, si es pequeño",
+        "Sí, en viajes cortos",
+        "No, el motociclista debe poder tener las dos manos en el manubrio",
+        "Sí, si el paquete está amarrado al brazo"
+      ],
+      "h1": "Piense en el control total de la motocicleta.",
+      "h2": "En New Hampshire, un motociclista no puede llevar ningún paquete u objeto que le impida tener las dos manos en el manubrio.",
+      "p": "Correcto. Las dos manos deben estar en el manubrio."
+    }
+  },
+  {
+    "id": "nh-078",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-144.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, who must wear a helmet when riding a bicycle on a public road?",
+      "o": [
+        "Every rider",
+        "Riders under 21",
+        "Only riders at night",
+        "Riders under 16"
+      ],
+      "h1": "It applies to children and young teens.",
+      "h2": "In New Hampshire, a bicycle rider under 16 must wear an approved helmet on a public road.",
+      "p": "Right. Riders under 16."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿quién debe usar casco al andar en bicicleta por una vía pública?",
+      "o": [
+        "Todos los ciclistas",
+        "Los ciclistas menores de 21 años",
+        "Solo los ciclistas de noche",
+        "Los ciclistas menores de 16 años"
+      ],
+      "h1": "Se aplica a niños y adolescentes jóvenes.",
+      "h2": "En New Hampshire, un ciclista menor de 16 años debe usar un casco aprobado en una vía pública.",
+      "p": "Correcto. Los menores de 16 años."
+    }
+  },
+  {
+    "id": "nh-079",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-144.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, what must a bicycle rider wear between half an hour after sunset and half an hour before sunrise?",
+      "o": [
+        "At least one piece of reflective clothing",
+        "A helmet light",
+        "Only dark clothing",
+        "Nothing special"
+      ],
+      "h1": "It helps drivers see the rider in headlights.",
+      "h2": "In New Hampshire, at night a bicycle rider must wear at least one item of reflective outer clothing.",
+      "p": "Right. At least one reflective item."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿qué debe llevar puesto un ciclista entre media hora después de la puesta del sol y media hora antes de la salida del sol?",
+      "o": [
+        "Al menos una prenda reflectante",
+        "Una luz en el casco",
+        "Solo ropa oscura",
+        "Nada especial"
+      ],
+      "h1": "Ayuda a que los conductores vean al ciclista con los faros.",
+      "h2": "En New Hampshire, de noche un ciclista debe llevar al menos una prenda exterior reflectante.",
+      "p": "Correcto. Al menos una prenda reflectante."
+    }
+  },
+  {
+    "id": "nh-080",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/266/266-86.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, a bicycle is ridden in the dark. From how far in front must its white lamp be visible?",
+      "o": [
+        "50 feet",
+        "300 feet",
+        "30 feet",
+        "1 mile"
+      ],
+      "h1": "It is about the length of a football field.",
+      "h2": "In New Hampshire, a bicycle ridden in the dark needs a white front lamp visible from 300 feet, and a red rear reflector.",
+      "p": "Right. 300 feet."
+    },
+    "es": {
+      "q": "En New Hampshire, una bicicleta circula en la oscuridad. ¿Desde qué distancia al frente debe verse su luz blanca?",
+      "o": [
+        "50 pies",
+        "300 pies",
+        "30 pies",
+        "1 milla"
+      ],
+      "h1": "Es más o menos el largo de un campo de fútbol americano.",
+      "h2": "En New Hampshire, una bicicleta que circula en la oscuridad necesita una luz blanca delantera visible a 300 pies y un reflector rojo atrás.",
+      "p": "Correcto. 300 pies."
+    }
+  },
+  {
+    "id": "nh-081",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/XXI/265-A/265-A-45.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, a 19-year-old driver is carrying alcohol in the car, with no parent or other allowed adult along. What can happen to the license?",
+      "o": [
+        "Nothing, if the bottles are closed",
+        "A warning only",
+        "It can be suspended for 60 days",
+        "It is taken away for 10 years"
+      ],
+      "h1": "It is about two months.",
+      "h2": "In New Hampshire, a driver under 21 who carries alcohol in a vehicle, without an allowed family member along, can have the license suspended for 60 days.",
+      "p": "Right. 60 days."
+    },
+    "es": {
+      "q": "En New Hampshire, un conductor de 19 años lleva alcohol en el carro, sin un padre ni otro adulto permitido. ¿Qué le puede pasar a la licencia?",
+      "o": [
+        "Nada, si las botellas están cerradas",
+        "Solo una advertencia",
+        "Se la pueden suspender por 60 días",
+        "Se la quitan por 10 años"
+      ],
+      "h1": "Son unos dos meses.",
+      "h2": "En New Hampshire, un conductor menor de 21 años que lleva alcohol en un vehículo, sin un familiar permitido, puede perder la licencia por 60 días.",
+      "p": "Correcto. 60 días."
+    }
+  },
+  {
+    "id": "nh-082",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/XXI/265-A/265-A-4.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, by driving on a public road, which tests have you agreed to take if you are arrested for impaired driving?",
+      "o": [
+        "Only a breath test",
+        "No test unless a judge orders it",
+        "Only a blood test at a hospital",
+        "Breath, blood or urine tests"
+      ],
+      "h1": "The law lists three kinds of samples.",
+      "h2": "In New Hampshire, by driving you agree to breath, blood or urine tests if you are arrested for driving while impaired.",
+      "p": "Right. Breath, blood or urine tests."
+    },
+    "es": {
+      "q": "En New Hampshire, al manejar en una vía pública, ¿qué pruebas ha aceptado hacerse si lo arrestan por manejar bajo los efectos del alcohol o drogas?",
+      "o": [
+        "Solo una prueba de aliento",
+        "Ninguna prueba, a menos que la ordene un juez",
+        "Solo una prueba de sangre en un hospital",
+        "Pruebas de aliento, sangre u orina"
+      ],
+      "h1": "La ley menciona tres tipos de muestras.",
+      "h2": "En New Hampshire, al manejar usted acepta pruebas de aliento, sangre u orina si lo arrestan por manejar bajo los efectos del alcohol o drogas.",
+      "p": "Correcto. Pruebas de aliento, sangre u orina."
+    }
+  },
+  {
+    "id": "nh-083",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/XXI/265-A/265-A-30.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, an adult driver is arrested and a test shows 0.08 or more. It is the first time. How long is the administrative license suspension by the state, separate from the court case?",
+      "o": [
+        "6 months",
+        "10 days",
+        "5 years",
+        "There is no suspension outside court"
+      ],
+      "h1": "It is half a year.",
+      "h2": "In New Hampshire, a first-time driver whose test shows 0.08 or more gets an administrative license suspension of 6 months.",
+      "p": "Right. 6 months."
+    },
+    "es": {
+      "q": "En New Hampshire, arrestan a un conductor adulto y una prueba muestra 0.08 o más. Es la primera vez. ¿Por cuánto tiempo dura la suspensión administrativa de la licencia por parte del estado, aparte del juicio?",
+      "o": [
+        "6 meses",
+        "10 días",
+        "5 años",
+        "No hay suspensión fuera del juicio"
+      ],
+      "h1": "Es medio año.",
+      "h2": "En New Hampshire, a un conductor que por primera vez da 0.08 o más en la prueba le suspenden la licencia por vía administrativa durante 6 meses.",
+      "p": "Correcto. 6 meses."
+    }
+  },
+  {
+    "id": "nh-084",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/XXI/265-A/265-A-18.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, an adult is convicted of a first DWI. What is the shortest time the license is revoked?",
+      "o": [
+        "30 days",
+        "9 months",
+        "5 years",
+        "It is not revoked"
+      ],
+      "h1": "It is less than a year.",
+      "h2": "In New Hampshire, a first DWI conviction means the license is revoked for at least 9 months, and the court can make it up to 2 years.",
+      "p": "Right. At least 9 months."
+    },
+    "es": {
+      "q": "En New Hampshire, un adulto es condenado por un primer DWI (manejar en estado de ebriedad). ¿Cuál es el tiempo mínimo de revocación de la licencia?",
+      "o": [
+        "30 días",
+        "9 meses",
+        "5 años",
+        "No se revoca"
+      ],
+      "h1": "Es menos de un año.",
+      "h2": "En New Hampshire, una primera condena por DWI significa que la licencia se revoca por al menos 9 meses, y el tribunal puede extenderlo hasta 2 años.",
+      "p": "Correcto. Al menos 9 meses."
+    }
+  },
+  {
+    "id": "nh-085",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/XXI/265-A/265-A-18.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, a driver who was under 21 at the time is convicted of DWI. What is the shortest time the license is revoked?",
+      "o": [
+        "30 days",
+        "3 months",
+        "One year",
+        "Until age 25"
+      ],
+      "h1": "It is longer than the minimum for adults.",
+      "h2": "In New Hampshire, if a driver was under 21 when the DWI happened, the license is revoked for at least one year.",
+      "p": "Right. At least one year."
+    },
+    "es": {
+      "q": "En New Hampshire, un conductor que era menor de 21 años en ese momento es condenado por DWI. ¿Cuál es el tiempo mínimo de revocación de la licencia?",
+      "o": [
+        "30 días",
+        "3 meses",
+        "Un año",
+        "Hasta los 25 años"
+      ],
+      "h1": "Es más largo que el mínimo para adultos.",
+      "h2": "En New Hampshire, si el conductor era menor de 21 años cuando ocurrió el DWI, la licencia se revoca por al menos un año.",
+      "p": "Correcto. Al menos un año."
+    }
+  },
+  {
+    "id": "nh-086",
+    "scope": "NH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/263/263-2.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, where must your driver's license be while you drive?",
+      "o": [
+        "At home in a safe place",
+        "Anywhere, as long as you can bring it to the police within a month",
+        "Only a photo of it on your phone",
+        "On you, or somewhere easy to reach in the vehicle"
+      ],
+      "h1": "An officer may ask you to hand it over.",
+      "h2": "In New Hampshire, you must carry your driver's license on you or keep it in an easy-to-reach place in the vehicle, and hand it to an officer who asks for it.",
+      "p": "Right. On you or easy to reach in the car."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿dónde debe estar su licencia de conducir mientras maneja?",
+      "o": [
+        "En casa, en un lugar seguro",
+        "En cualquier parte, si puede llevarla a la policía en un mes",
+        "Solo una foto en su teléfono",
+        "Con usted, o en un lugar fácil de alcanzar dentro del vehículo"
+      ],
+      "h1": "Un policía puede pedirle que se la entregue.",
+      "h2": "En New Hampshire, debe llevar su licencia de conducir con usted o en un lugar fácil de alcanzar dentro del vehículo, y entregarla al policía que se la pida.",
+      "p": "Correcto. Con usted o fácil de alcanzar en el carro."
+    }
+  },
+  {
+    "id": "nh-087",
+    "scope": "NH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/263/263-14.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, a driver with a Youth Operator License is 19. What about the 1 a.m. to 4 a.m. and passenger limits?",
+      "o": [
+        "They no longer apply",
+        "They stay until age 21",
+        "They become stricter",
+        "They stay until age 25"
+      ],
+      "h1": "The license itself lasts until 21, but these limits do not.",
+      "h2": "In New Hampshire, the night-hour and passenger limits on a Youth Operator License do not apply to drivers over 18.",
+      "p": "Right. They no longer apply after 18."
+    },
+    "es": {
+      "q": "En New Hampshire, un conductor con licencia juvenil (Youth Operator License) tiene 19 años. ¿Qué pasa con los límites de 1 a.m. a 4 a.m. y de pasajeros?",
+      "o": [
+        "Ya no se aplican",
+        "Siguen hasta los 21 años",
+        "Se vuelven más estrictos",
+        "Siguen hasta los 25 años"
+      ],
+      "h1": "La licencia dura hasta los 21, pero estos límites no.",
+      "h2": "En New Hampshire, los límites de horario nocturno y de pasajeros de la licencia juvenil no se aplican a los conductores mayores de 18 años.",
+      "p": "Correcto. Ya no se aplican después de los 18."
+    }
+  },
+  {
+    "id": "nh-088",
+    "scope": "NH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/263/263-14.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, a 16-year-old youth operator drives at 2 a.m. for the first time and is caught. What is the most that can happen?",
+      "o": [
+        "Only a warning",
+        "A fine of up to $100 and a license suspension of up to 30 days",
+        "A $1,000 fine and loss of license for one year",
+        "Jail time"
+      ],
+      "h1": "The penalty is a small fine and a short suspension.",
+      "h2": "In New Hampshire, a first violation of the youth night-hour or passenger limits brings a fine of up to $100 and a license suspension of up to 30 days.",
+      "p": "Right. Up to $100 and up to 30 days."
+    },
+    "es": {
+      "q": "En New Hampshire, un conductor juvenil de 16 años maneja a las 2 a.m. por primera vez y lo detienen. ¿Qué es lo máximo que le puede pasar?",
+      "o": [
+        "Solo una advertencia",
+        "Una multa de hasta $100 y una suspensión de la licencia de hasta 30 días",
+        "Una multa de $1,000 y pérdida de la licencia por un año",
+        "Cárcel"
+      ],
+      "h1": "La sanción es una multa pequeña y una suspensión corta.",
+      "h2": "En New Hampshire, una primera infracción de los límites de horario nocturno o de pasajeros para jóvenes tiene una multa de hasta $100 y una suspensión de la licencia de hasta 30 días.",
+      "p": "Correcto. Hasta $100 y hasta 30 días."
+    }
+  },
+  {
+    "id": "nh-089",
+    "scope": "NH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/263/263-14.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, a driver under 20 with a first license is convicted of a first traffic offense, such as speeding. For how long can the DMV suspend the license?",
+      "o": [
+        "1 to 5 days",
+        "1 to 2 years",
+        "20 to 40 days",
+        "There is no suspension for a first offense"
+      ],
+      "h1": "It is more than two weeks but less than two months.",
+      "h2": "In New Hampshire, a driver under 20 with an original license can have it suspended for 20 to 40 days after a first conviction.",
+      "p": "Right. 20 to 40 days."
+    },
+    "es": {
+      "q": "En New Hampshire, un conductor menor de 20 años con su primera licencia es condenado por una primera infracción de tránsito, como exceso de velocidad. ¿Por cuánto tiempo puede el DMV suspenderle la licencia?",
+      "o": [
+        "De 1 a 5 días",
+        "De 1 a 2 años",
+        "De 20 a 40 días",
+        "No hay suspensión por una primera infracción"
+      ],
+      "h1": "Es más de dos semanas pero menos de dos meses.",
+      "h2": "En New Hampshire, a un conductor menor de 20 años con licencia original se le puede suspender la licencia de 20 a 40 días después de una primera condena.",
+      "p": "Correcto. De 20 a 40 días."
+    }
+  },
+  {
+    "id": "nh-090",
+    "scope": "NH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/263/263-14.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, a youth operator is convicted of driving more than 30 mph over the speed limit. What must happen before the license is given back?",
+      "o": [
+        "Nothing; the license is kept",
+        "Only a new photo",
+        "Only paying the fine online",
+        "At least 90 days must pass, and the driver must finish a driver attitude program in person"
+      ],
+      "h1": "There is a waiting time and a class.",
+      "h2": "In New Hampshire, a youth operator convicted of going more than 30 mph over the limit cannot get the license back for at least 90 days and must finish an in-person driver attitude program.",
+      "p": "Right. At least 90 days and a driver attitude program."
+    },
+    "es": {
+      "q": "En New Hampshire, un conductor juvenil es condenado por manejar a más de 30 mph por encima del límite. ¿Qué debe pasar antes de que le devuelvan la licencia?",
+      "o": [
+        "Nada; conserva la licencia",
+        "Solo una foto nueva",
+        "Solo pagar la multa por internet",
+        "Deben pasar al menos 90 días y debe completar en persona un programa de actitud al volante"
+      ],
+      "h1": "Hay un tiempo de espera y una clase.",
+      "h2": "En New Hampshire, un conductor juvenil condenado por ir a más de 30 mph por encima del límite no puede recuperar la licencia antes de 90 días y debe completar en persona un programa de actitud al volante.",
+      "p": "Correcto. Al menos 90 días y un programa de actitud al volante."
+    }
+  },
+  {
+    "id": "nh-091",
+    "scope": "NH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/263/263-19.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, how many hours of classroom instruction must a driver education course have for a license applicant under 18?",
+      "o": [
+        "At least 30 hours",
+        "At least 5 hours",
+        "At least 100 hours",
+        "No classroom hours"
+      ],
+      "h1": "It is the biggest part of driver education.",
+      "h2": "In New Hampshire, driver education for applicants under 18 includes at least 30 hours of classroom instruction.",
+      "p": "Right. At least 30 hours."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿cuántas horas de clase teórica debe tener el curso de educación vial para un solicitante menor de 18 años?",
+      "o": [
+        "Al menos 30 horas",
+        "Al menos 5 horas",
+        "Al menos 100 horas",
+        "Ninguna hora de clase"
+      ],
+      "h1": "Es la parte más grande de la educación vial.",
+      "h2": "En New Hampshire, la educación vial para solicitantes menores de 18 años incluye al menos 30 horas de clase teórica.",
+      "p": "Correcto. Al menos 30 horas."
+    }
+  },
+  {
+    "id": "nh-092",
+    "scope": "NH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/263/263-19.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, how many hours of behind-the-wheel training must a driver education course give a student under 18?",
+      "o": [
+        "At least 2 hours",
+        "At least 10 hours",
+        "At least 40 hours",
+        "At least 60 hours"
+      ],
+      "h1": "It is fewer than the 40 hours of practice with a parent.",
+      "h2": "In New Hampshire, driver education for applicants under 18 includes at least 10 hours of behind-the-wheel training.",
+      "p": "Right. At least 10 hours."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿cuántas horas de práctica al volante debe dar el curso de educación vial a un estudiante menor de 18 años?",
+      "o": [
+        "Al menos 2 horas",
+        "Al menos 10 horas",
+        "Al menos 40 horas",
+        "Al menos 60 horas"
+      ],
+      "h1": "Son menos que las 40 horas de práctica con un padre.",
+      "h2": "En New Hampshire, la educación vial para solicitantes menores de 18 años incluye al menos 10 horas de práctica al volante.",
+      "p": "Correcto. Al menos 10 horas."
+    }
+  },
+  {
+    "id": "nh-093",
+    "scope": "NH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/263/263-17.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, a 16-year-old applies for a driver's license. Besides the tests, what is needed?",
+      "o": [
+        "Nothing else",
+        "A letter from a teacher",
+        "Written permission from a parent or guardian, and proof of insurance",
+        "A job"
+      ],
+      "h1": "An adult must agree, and the car must be covered.",
+      "h2": "In New Hampshire, a driver's license is not issued to someone under 18 without written permission from a parent or guardian and proof of insurance, unless the person is married.",
+      "p": "Right. A parent's written permission and proof of insurance."
+    },
+    "es": {
+      "q": "En New Hampshire, un joven de 16 años solicita una licencia de conducir. Además de los exámenes, ¿qué necesita?",
+      "o": [
+        "Nada más",
+        "Una carta de un maestro",
+        "Permiso por escrito de un padre o tutor, y prueba de seguro",
+        "Un trabajo"
+      ],
+      "h1": "Un adulto debe estar de acuerdo, y debe haber seguro.",
+      "h2": "En New Hampshire, no se da licencia de conducir a un menor de 18 años sin el permiso por escrito de un padre o tutor y prueba de seguro, salvo que esté casado.",
+      "p": "Correcto. Permiso por escrito de un padre y prueba de seguro."
+    }
+  },
+  {
+    "id": "nh-094",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/266/266-58-a.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, how much light must the front side windows next to the driver let through?",
+      "o": [
+        "At least 5 percent",
+        "At least 20 percent",
+        "At least 35 percent",
+        "At least 70 percent"
+      ],
+      "h1": "Most of the light must get through.",
+      "h2": "In New Hampshire, the front side windows to the left and right of the driver must let through at least 70 percent of light.",
+      "p": "Right. At least 70 percent."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿cuánta luz deben dejar pasar las ventanas laterales delanteras junto al conductor?",
+      "o": [
+        "Al menos el 5 por ciento",
+        "Al menos el 20 por ciento",
+        "Al menos el 35 por ciento",
+        "Al menos el 70 por ciento"
+      ],
+      "h1": "Debe pasar la mayor parte de la luz.",
+      "h2": "En New Hampshire, las ventanas laterales delanteras a la izquierda y a la derecha del conductor deben dejar pasar al menos el 70 por ciento de la luz.",
+      "p": "Correcto. Al menos el 70 por ciento."
+    }
+  },
+  {
+    "id": "nh-095",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/266/266-58-a.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, may you add tint to your car's windshield?",
+      "o": [
+        "Only a strip at the very top, no wider than 6 inches",
+        "Yes, any amount",
+        "Yes, if it lets through half the light",
+        "Only on the passenger half"
+      ],
+      "h1": "Only a narrow band is allowed.",
+      "h2": "In New Hampshire, after-market tint on the windshield is allowed only in a strip at the very top, no wider than 6 inches.",
+      "p": "Right. Only a top strip up to 6 inches wide."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿puede poner polarizado en el parabrisas de su carro?",
+      "o": [
+        "Solo una franja en la parte de arriba, de no más de 6 pulgadas",
+        "Sí, todo lo que quiera",
+        "Sí, si deja pasar la mitad de la luz",
+        "Solo en la mitad del pasajero"
+      ],
+      "h1": "Solo se permite una banda angosta.",
+      "h2": "En New Hampshire, el polarizado agregado al parabrisas solo se permite en una franja en la parte de arriba, de no más de 6 pulgadas.",
+      "p": "Correcto. Solo una franja arriba de hasta 6 pulgadas."
+    }
+  },
+  {
+    "id": "nh-096",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/266/266-46.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, during the day, your load sticks out 4 feet or more past the back of your truck bed. What must you put on its end?",
+      "o": [
+        "Nothing",
+        "A red flag or cloth at least 12 inches square",
+        "A white light",
+        "A sign saying WIDE LOAD"
+      ],
+      "h1": "At night a red light is needed; in the day, something red to see.",
+      "h2": "In New Hampshire, a load that sticks out 4 feet or more behind the vehicle must have a red flag or cloth at least 12 inches square at its end in daylight, and a red light at night.",
+      "p": "Right. A red flag at least 12 inches square."
+    },
+    "es": {
+      "q": "En New Hampshire, de día, su carga sobresale 4 pies o más de la parte de atrás de la caja de su camioneta. ¿Qué debe poner en su extremo?",
+      "o": [
+        "Nada",
+        "Una bandera o tela roja de al menos 12 pulgadas por lado",
+        "Una luz blanca",
+        "Un letrero que diga WIDE LOAD"
+      ],
+      "h1": "De noche hace falta una luz roja; de día, algo rojo que se vea.",
+      "h2": "En New Hampshire, una carga que sobresale 4 pies o más detrás del vehículo debe llevar en su extremo una bandera o tela roja de al menos 12 pulgadas por lado de día, y una luz roja de noche.",
+      "p": "Correcto. Una bandera roja de al menos 12 pulgadas por lado."
+    }
+  },
+  {
+    "id": "nh-097",
+    "scope": "NH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/264/264-25.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, you are in a crash with another car. Besides stopping, what must you give the other driver?",
+      "o": [
+        "Only your phone number",
+        "Nothing; the police handle it",
+        "Your name and address, license number and vehicle registration number",
+        "Only your insurance company's name"
+      ],
+      "h1": "The other driver needs to know who you are and which car was involved.",
+      "h2": "In New Hampshire, after a crash you must stop and give your name and address, driver's license number and vehicle registration number to the other driver, or to the police if the driver cannot receive them.",
+      "p": "Right. Name, address, license and registration numbers."
+    },
+    "es": {
+      "q": "En New Hampshire, usted tiene un choque con otro carro. Además de detenerse, ¿qué debe darle al otro conductor?",
+      "o": [
+        "Solo su número de teléfono",
+        "Nada; la policía se encarga",
+        "Su nombre y dirección, número de licencia y número de registro del vehículo",
+        "Solo el nombre de su compañía de seguros"
+      ],
+      "h1": "El otro conductor necesita saber quién es usted y qué carro estuvo involucrado.",
+      "h2": "En New Hampshire, después de un choque debe detenerse y dar su nombre y dirección, número de licencia y número de registro del vehículo al otro conductor, o a la policía si el conductor no puede recibirlos.",
+      "p": "Correcto. Nombre, dirección, números de licencia y de registro."
+    }
+  },
+  {
+    "id": "nh-098",
+    "scope": "NH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/264/264-20.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, a driver must show proof of financial responsibility, such as insurance. How much bodily injury coverage is needed for one person in one crash?",
+      "o": [
+        "$5,000",
+        "$10,000",
+        "$100,000",
+        "$25,000"
+      ],
+      "h1": "It is half of the amount for two or more people.",
+      "h2": "In New Hampshire, proof of financial responsibility means $25,000 for injury to one person, $50,000 for two or more people, and $25,000 for property damage.",
+      "p": "Right. $25,000 for one person."
+    },
+    "es": {
+      "q": "En New Hampshire, un conductor debe presentar prueba de responsabilidad financiera, como un seguro. ¿Cuánta cobertura por lesiones se necesita para una persona en un choque?",
+      "o": [
+        "$5,000",
+        "$10,000",
+        "$100,000",
+        "$25,000"
+      ],
+      "h1": "Es la mitad del monto para dos o más personas.",
+      "h2": "En New Hampshire, la prueba de responsabilidad financiera es de $25,000 por lesiones a una persona, $50,000 para dos o más personas y $25,000 por daños a la propiedad.",
+      "p": "Correcto. $25,000 por persona."
+    }
+  },
+  {
+    "id": "nh-099",
+    "scope": "NH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-95.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Hampshire, how many people may sit in the front seat if it blocks the driver's view or control?",
+      "o": [
+        "No more than 3",
+        "No more than 5",
+        "No more than 4",
+        "There is no limit"
+      ],
+      "h1": "Think of the driver and two others.",
+      "h2": "In New Hampshire, you may not drive with more than 3 people in the front seat if that blocks your view or gets in the way of your control of the car.",
+      "p": "Right. No more than 3."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿cuántas personas pueden ir en el asiento delantero si eso tapa la vista o el control del conductor?",
+      "o": [
+        "No más de 3",
+        "No más de 5",
+        "No más de 4",
+        "No hay límite"
+      ],
+      "h1": "Piense en el conductor y dos personas más.",
+      "h2": "En New Hampshire, no puede manejar con más de 3 personas en el asiento delantero si eso le tapa la vista o le quita control del carro.",
+      "p": "Correcto. No más de 3."
+    }
+  },
+  {
+    "id": "nh-100",
+    "scope": "NH",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-41.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Hampshire, a person with a white cane held up, or led by a guide dog, is crossing the street. What must you do?",
+      "o": [
+        "Honk so the person knows you are there",
+        "Come to a full stop and take care not to hurt the person",
+        "Drive around the person slowly",
+        "Keep going if you have a green light"
+      ],
+      "h1": "Never assume the person can see you.",
+      "h2": "In New Hampshire, you must come to a full stop for a blind person crossing with a raised white cane or a guide dog, and take care not to hurt the person before going on.",
+      "p": "Right. Stop fully and take care."
+    },
+    "es": {
+      "q": "En New Hampshire, una persona con un bastón blanco levantado, o guiada por un perro guía, está cruzando la calle. ¿Qué debe hacer?",
+      "o": [
+        "Tocar la bocina para que sepa que usted está ahí",
+        "Detenerse por completo y tener cuidado de no lastimarla",
+        "Rodearla despacio",
+        "Seguir si tiene luz verde"
+      ],
+      "h1": "Nunca suponga que la persona puede verlo.",
+      "h2": "En New Hampshire, debe detenerse por completo ante una persona ciega que cruza con un bastón blanco levantado o un perro guía, y tener cuidado de no lastimarla antes de seguir.",
+      "p": "Correcto. Deténgase por completo y tenga cuidado."
+    }
+  },
+  {
+    "id": "nh-101",
+    "scope": "NH",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-3-a.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Hampshire, a school crossing guard signals you to stop. How far from the guard must you stop?",
+      "o": [
+        "At least 5 feet",
+        "At least 10 feet",
+        "At least 25 feet",
+        "At least 100 feet"
+      ],
+      "h1": "It is the same distance as for a stopped school bus.",
+      "h2": "In New Hampshire, when a school crossing guard signals you to stop, you must stop at least 25 feet before the guard.",
+      "p": "Right. At least 25 feet."
+    },
+    "es": {
+      "q": "En New Hampshire, un guardia de cruce escolar le indica que se detenga. ¿A qué distancia del guardia debe detenerse?",
+      "o": [
+        "Al menos a 5 pies",
+        "Al menos a 10 pies",
+        "Al menos a 25 pies",
+        "Al menos a 100 pies"
+      ],
+      "h1": "Es la misma distancia que para un autobús escolar detenido.",
+      "h2": "En New Hampshire, cuando un guardia de cruce escolar le indica que se detenga, debe detenerse al menos 25 pies antes del guardia.",
+      "p": "Correcto. Al menos 25 pies."
+    }
+  },
+  {
+    "id": "nh-102",
+    "scope": "NH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://gc.nh.gov/rsa/html/xxi/265/265-64.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Hampshire, what is the minimum speed limit on interstate highways?",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "55 mph",
+        "45 mph"
+      ],
+      "h1": "It is 10 mph below 55 mph.",
+      "h2": "In New Hampshire, the minimum speed limit on the interstate highways is 45 mph.",
+      "p": "Right. 45 mph."
+    },
+    "es": {
+      "q": "En New Hampshire, ¿cuál es el límite de velocidad mínima en las autopistas interestatales?",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "55 mph",
+        "45 mph"
+      ],
+      "h1": "Es 10 mph menos que 55 mph.",
+      "h2": "En New Hampshire, el límite de velocidad mínima en las autopistas interestatales es de 45 mph.",
+      "p": "Correcto. 45 mph."
+    }
   }
 ]
