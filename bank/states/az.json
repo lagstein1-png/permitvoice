@@ -2294,5 +2294,141 @@
       "h2": "في Arizona أقل عقوبة على المخالفة الأولى لتجاوز حافلة مدرسية متوقفة هي $250.",
       "p": "صحيح. في Arizona تكلّف المخالفة الأولى لتجاوز الحافلة المدرسية $250 على الأقل."
     }
+  },
+  {
+    "id": "az-029",
+    "scope": "AZ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00873.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 15 feet",
+        "No closer than 30 feet"
+      ],
+      "h1": "It is more than 10 feet.",
+      "h2": "In Arizona you may not park within 15 feet of a fire hydrant.",
+      "p": "Right. Stay at least 15 feet away from a fire hydrant."
+    },
+    "es": {
+      "q": "En Arizona, ¿qué tan cerca de un hidrante de incendios puede estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 10 pies",
+        "No más cerca de 15 pies",
+        "No más cerca de 30 pies"
+      ],
+      "h1": "Es más de 10 pies.",
+      "h2": "En Arizona usted no puede estacionarse a menos de 15 pies de un hidrante de incendios.",
+      "p": "Correcto. Manténgase por lo menos a 15 pies de un hidrante."
+    }
+  },
+  {
+    "id": "az-030",
+    "scope": "AZ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00775.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, a police car is using its siren and red or blue lights for an emergency. How far behind it must you stay?",
+      "o": [
+        "At least 300 feet",
+        "At least 50 feet",
+        "At least 100 feet",
+        "At least 1,000 feet"
+      ],
+      "h1": "Leave a long gap, because the police car may stop or turn suddenly.",
+      "h2": "In Arizona you must stay at least 300 feet behind a police car that is using its siren and lights for an emergency.",
+      "p": "Right. Stay at least 300 feet behind a police car in an emergency."
+    },
+    "es": {
+      "q": "En Arizona, una patrulla de policía usa la sirena y luces rojas o azules por una emergencia. ¿A qué distancia detrás de ella debe quedarse?",
+      "o": [
+        "Por lo menos a 300 pies",
+        "Por lo menos a 50 pies",
+        "Por lo menos a 100 pies",
+        "Por lo menos a 1,000 pies"
+      ],
+      "h1": "Deje un espacio largo, porque la patrulla puede detenerse o dar vuelta de repente.",
+      "h2": "En Arizona usted debe quedarse por lo menos a 300 pies detrás de una patrulla que usa la sirena y las luces por una emergencia.",
+      "p": "Correcto. Quédese por lo menos a 300 pies detrás de una patrulla en una emergencia."
+    }
+  },
+  {
+    "id": "az-031",
+    "scope": "AZ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00775.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, a fire truck is going to a fire alarm. How close may you follow it?",
+      "o": [
+        "No closer than 50 feet",
+        "No closer than 100 feet",
+        "No closer than 300 feet",
+        "No closer than 500 feet"
+      ],
+      "h1": "Give it plenty of room, because it may stop or turn suddenly.",
+      "h2": "In Arizona you may not follow a fire truck going to an alarm any closer than 500 feet.",
+      "p": "Right. Stay at least 500 feet behind a fire truck on its way to an alarm."
+    },
+    "es": {
+      "q": "En Arizona, un camión de bomberos va hacia una alarma de incendio. ¿Qué tan cerca puede seguirlo?",
+      "o": [
+        "No más cerca de 50 pies",
+        "No más cerca de 100 pies",
+        "No más cerca de 300 pies",
+        "No más cerca de 500 pies"
+      ],
+      "h1": "Dele mucho espacio, porque puede detenerse o dar vuelta de repente.",
+      "h2": "En Arizona usted no puede seguir a un camión de bomberos que va hacia una alarma a menos de 500 pies.",
+      "p": "Correcto. Quédese por lo menos a 500 pies detrás de un camión de bomberos que va a una alarma."
+    }
+  },
+  {
+    "id": "az-032",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00942.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, you are using high beams at night. A car is coming toward you. When must you switch to low beams?",
+      "o": [
+        "When it is within 100 feet",
+        "When it is within 500 feet",
+        "When it is within 1,500 feet",
+        "Only if the other driver flashes their lights"
+      ],
+      "h1": "Switch early, so the other driver is not blinded.",
+      "h2": "In Arizona you must switch to low beams when an oncoming vehicle is within 500 feet.",
+      "p": "Right. Use low beams when an oncoming car is within 500 feet."
+    },
+    "es": {
+      "q": "En Arizona, usted lleva las luces altas de noche. Un carro viene hacia usted. ¿Cuándo debe cambiar a luces bajas?",
+      "o": [
+        "Cuando esté a menos de 100 pies",
+        "Cuando esté a menos de 500 pies",
+        "Cuando esté a menos de 1,500 pies",
+        "Solo si el otro conductor le hace cambio de luces"
+      ],
+      "h1": "Cambie temprano, para no deslumbrar al otro conductor.",
+      "h2": "En Arizona usted debe cambiar a luces bajas cuando un vehículo que viene de frente está a menos de 500 pies.",
+      "p": "Correcto. Use las luces bajas cuando un carro de frente esté a menos de 500 pies."
+    }
   }
 ]
