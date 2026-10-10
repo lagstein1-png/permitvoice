@@ -2540,5 +2540,685 @@
       "h2": "في Iowa لا يجوز لك تجاوز مركبة أخرى ضمن 100 قدم من تقاطع أو معبر سكة حديدية.",
       "p": "صحيح. لا تجاوز ضمن 100 قدم من تقاطع أو معبر سكة حديدية."
     }
+  },
+  {
+    "id": "ia-032",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 43,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Iowa, the speed limit is 55 mph. At least how far before a turn must you start signaling?",
+      "o": [
+        "50 feet",
+        "100 feet",
+        "300 feet",
+        "1,000 feet"
+      ],
+      "h1": "On faster roads, Iowa asks for a longer warning than on slow streets.",
+      "h2": "In Iowa you must signal at least 300 feet before a turn when the speed limit is over 45 mph, and at least 100 feet when it is 45 mph or less.",
+      "p": "Right. Over 45 mph, signal at least 300 feet ahead."
+    },
+    "es": {
+      "q": "En Iowa, el límite de velocidad es de 55 mph. ¿Con cuánta anticipación como mínimo debe empezar a señalizar antes de girar?",
+      "o": [
+        "50 pies",
+        "100 pies",
+        "300 pies",
+        "1,000 pies"
+      ],
+      "h1": "En caminos más rápidos, Iowa pide un aviso más largo que en calles lentas.",
+      "h2": "En Iowa usted debe señalizar por lo menos 300 pies antes de girar cuando el límite es de más de 45 mph, y por lo menos 100 pies cuando es de 45 mph o menos.",
+      "p": "Correcto. Con más de 45 mph, señalice por lo menos 300 pies antes."
+    }
+  },
+  {
+    "id": "ia-033",
+    "scope": "IA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 19,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Iowa, how far behind an emergency vehicle using its lights and siren must you stay?",
+      "o": [
+        "At least 500 feet",
+        "At least 50 feet",
+        "At least 100 feet",
+        "At least one car length"
+      ],
+      "h1": "The distance is much longer than a city block is wide.",
+      "h2": "In Iowa you must stay at least 500 feet behind any emergency vehicle that is using its lights and siren.",
+      "p": "Right. Stay at least 500 feet back."
+    },
+    "es": {
+      "q": "En Iowa, ¿a qué distancia detrás de un vehículo de emergencia con luces y sirena encendidas debe mantenerse?",
+      "o": [
+        "Por lo menos 500 pies",
+        "Por lo menos 50 pies",
+        "Por lo menos 100 pies",
+        "Por lo menos el largo de un auto"
+      ],
+      "h1": "La distancia es mucho mayor que el ancho de una cuadra.",
+      "h2": "En Iowa usted debe mantenerse por lo menos a 500 pies detrás de cualquier vehículo de emergencia que use sus luces y sirena.",
+      "p": "Correcto. Manténgase por lo menos a 500 pies."
+    }
+  },
+  {
+    "id": "ia-034",
+    "scope": "IA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 21,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Iowa, how close to a railroad crossing may you not park?",
+      "o": [
+        "Closer than 5 feet",
+        "Closer than 10 feet",
+        "Closer than 20 feet",
+        "Closer than 50 feet"
+      ],
+      "h1": "It is the longest of Iowa's no-parking distances.",
+      "h2": "In Iowa you may not park closer than 50 feet to a railroad crossing.",
+      "p": "Right. Park at least 50 feet from a railroad crossing."
+    },
+    "es": {
+      "q": "En Iowa, ¿a qué distancia de un cruce de ferrocarril no se puede estacionar?",
+      "o": [
+        "A menos de 5 pies",
+        "A menos de 10 pies",
+        "A menos de 20 pies",
+        "A menos de 50 pies"
+      ],
+      "h1": "Es la más larga de las distancias para no estacionar en Iowa.",
+      "h2": "En Iowa no se puede estacionar a menos de 50 pies de un cruce de ferrocarril.",
+      "p": "Correcto. Estacione por lo menos a 50 pies de un cruce de ferrocarril."
+    }
+  },
+  {
+    "id": "ia-035",
+    "scope": "IA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 21,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Iowa, how close to the entrance of a fire station may you not park?",
+      "o": [
+        "Closer than 5 feet",
+        "Closer than 20 feet",
+        "Closer than 100 feet",
+        "Closer than 500 feet"
+      ],
+      "h1": "Fire trucks need room to get out fast.",
+      "h2": "In Iowa you may not park closer than 20 feet to the entrance of a fire station.",
+      "p": "Right. Keep 20 feet away from a fire station entrance."
+    },
+    "es": {
+      "q": "En Iowa, ¿a qué distancia de la entrada de una estación de bomberos no se puede estacionar?",
+      "o": [
+        "A menos de 5 pies",
+        "A menos de 20 pies",
+        "A menos de 100 pies",
+        "A menos de 500 pies"
+      ],
+      "h1": "Los camiones de bomberos necesitan espacio para salir rápido.",
+      "h2": "En Iowa no se puede estacionar a menos de 20 pies de la entrada de una estación de bomberos.",
+      "p": "Correcto. Manténgase a 20 pies de la entrada de una estación de bomberos."
+    }
+  },
+  {
+    "id": "ia-036",
+    "scope": "IA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 21,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Iowa, how close to a stop sign may you not park?",
+      "o": [
+        "Closer than 10 feet",
+        "Closer than 30 feet",
+        "Closer than 50 feet",
+        "Closer than 100 feet"
+      ],
+      "h1": "It is a short distance, but drivers still need to see the sign.",
+      "h2": "In Iowa you may not park closer than 10 feet to a stop sign.",
+      "p": "Right. Park at least 10 feet from a stop sign."
+    },
+    "es": {
+      "q": "En Iowa, ¿a qué distancia de una señal de alto (stop) no se puede estacionar?",
+      "o": [
+        "A menos de 10 pies",
+        "A menos de 30 pies",
+        "A menos de 50 pies",
+        "A menos de 100 pies"
+      ],
+      "h1": "Es una distancia corta, pero los conductores necesitan ver la señal.",
+      "h2": "En Iowa no se puede estacionar a menos de 10 pies de una señal de alto.",
+      "p": "Correcto. Estacione por lo menos a 10 pies de una señal de alto."
+    }
+  },
+  {
+    "id": "ia-037",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 22,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Iowa, you have a small crash. No one is hurt and your car still runs safely. What does the law say to do with your car?",
+      "o": [
+        "Leave it exactly where it stopped",
+        "Leave it until the insurance company sees it",
+        "Move it out of the traffic lanes",
+        "Drive it home before you call anyone"
+      ],
+      "h1": "Iowa calls this law \"Steer It, Clear It.\"",
+      "h2": "In Iowa, after a crash with no injuries, you must move your car out of the traffic lanes if it can be driven and moved safely.",
+      "p": "Right. Steer it and clear it out of the traffic lanes."
+    },
+    "es": {
+      "q": "En Iowa, usted tiene un choque pequeño. Nadie está herido y su auto todavía funciona bien. ¿Qué dice la ley que haga con su auto?",
+      "o": [
+        "Dejarlo exactamente donde quedó",
+        "Dejarlo hasta que lo vea la compañía de seguros",
+        "Sacarlo de los carriles de tráfico",
+        "Manejarlo a su casa antes de llamar a alguien"
+      ],
+      "h1": "Iowa llama a esta ley \"Steer It, Clear It\" (muévalo, despeje el camino).",
+      "h2": "En Iowa, después de un choque sin heridos, usted debe sacar su auto de los carriles de tráfico si se puede manejar y mover con seguridad.",
+      "p": "Correcto. Saque el auto de los carriles de tráfico."
+    }
+  },
+  {
+    "id": "ia-038",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 24,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Iowa, how much light must the windshield and the windows next to the driver let through?",
+      "o": [
+        "At least 20 percent",
+        "At least 35 percent",
+        "At least 50 percent",
+        "At least 70 percent"
+      ],
+      "h1": "Iowa allows only light tint on these windows.",
+      "h2": "In Iowa the windshield and the windows to the driver's right and left must let at least 70 percent of the light through.",
+      "p": "Right. They must let at least 70 percent of the light through."
+    },
+    "es": {
+      "q": "En Iowa, ¿cuánta luz deben dejar pasar el parabrisas y las ventanas al lado del conductor?",
+      "o": [
+        "Por lo menos el 20 por ciento",
+        "Por lo menos el 35 por ciento",
+        "Por lo menos el 50 por ciento",
+        "Por lo menos el 70 por ciento"
+      ],
+      "h1": "Iowa solo permite un polarizado claro en estas ventanas.",
+      "h2": "En Iowa el parabrisas y las ventanas a la derecha y a la izquierda del conductor deben dejar pasar por lo menos el 70 por ciento de la luz.",
+      "p": "Correcto. Deben dejar pasar por lo menos el 70 por ciento de la luz."
+    }
+  },
+  {
+    "id": "ia-039",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 25,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Iowa, at least how far behind you must you be able to see in your rearview mirror?",
+      "o": [
+        "50 feet",
+        "200 feet",
+        "1,000 feet",
+        "One mile"
+      ],
+      "h1": "If a load blocks this view, you need an outside mirror.",
+      "h2": "In Iowa you must be able to see at least 200 feet behind you in your rearview mirror, or have an outside mirror if a load blocks the view.",
+      "p": "Right. You must see at least 200 feet behind you."
+    },
+    "es": {
+      "q": "En Iowa, ¿por lo menos a qué distancia detrás de usted debe poder ver por el espejo retrovisor?",
+      "o": [
+        "50 pies",
+        "200 pies",
+        "1,000 pies",
+        "Una milla"
+      ],
+      "h1": "Si una carga tapa esta vista, usted necesita un espejo exterior.",
+      "h2": "En Iowa usted debe poder ver por lo menos 200 pies detrás de usted por el espejo retrovisor, o tener un espejo exterior si una carga tapa la vista.",
+      "p": "Correcto. Debe ver por lo menos 200 pies hacia atrás."
+    }
+  },
+  {
+    "id": "ia-040",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 34,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Iowa, which back-seat passengers must wear a seat belt or ride in a child seat?",
+      "o": [
+        "Everyone under 18",
+        "Only children under 6",
+        "Only adults over 65",
+        "No one in the back seat"
+      ],
+      "h1": "Front-seat riders always buckle up. In the back, the rule depends on age.",
+      "h2": "In Iowa every passenger under 18 must be buckled up or in a child restraint, in the back seat as well as the front.",
+      "p": "Right. Everyone under 18 must be buckled up, front and back."
+    },
+    "es": {
+      "q": "En Iowa, ¿qué pasajeros del asiento trasero deben usar cinturón de seguridad o ir en un asiento para niños?",
+      "o": [
+        "Todos los menores de 18 años",
+        "Solo los niños menores de 6 años",
+        "Solo los adultos mayores de 65 años",
+        "Nadie en el asiento trasero"
+      ],
+      "h1": "Los que van adelante siempre usan cinturón. Atrás, la regla depende de la edad.",
+      "h2": "En Iowa todo pasajero menor de 18 años debe llevar el cinturón puesto o ir en un sistema de seguridad para niños, tanto atrás como adelante.",
+      "p": "Correcto. Todos los menores de 18 deben ir abrochados, adelante y atrás."
+    }
+  },
+  {
+    "id": "ia-041",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 34,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Iowa, a passenger under 18 is not wearing a seat belt. What is the fine for that passenger?",
+      "o": [
+        "A warning only",
+        "Up to $10",
+        "Up to $25",
+        "Up to $100"
+      ],
+      "h1": "The fine for an unbuckled teen is twice the fine for an unbuckled adult.",
+      "h2": "In Iowa the seat belt fine is up to $50 for each passenger, and up to $100 for each passenger under 18.",
+      "p": "Right. Up to $100 for each unbuckled passenger under 18."
+    },
+    "es": {
+      "q": "En Iowa, un pasajero menor de 18 años no lleva puesto el cinturón de seguridad. ¿Cuál es la multa por ese pasajero?",
+      "o": [
+        "Solo una advertencia",
+        "Hasta $10",
+        "Hasta $25",
+        "Hasta $100"
+      ],
+      "h1": "La multa por un menor sin cinturón es el doble que la de un adulto sin cinturón.",
+      "h2": "En Iowa la multa por no usar el cinturón es de hasta $50 por cada pasajero, y de hasta $100 por cada pasajero menor de 18 años.",
+      "p": "Correcto. Hasta $100 por cada pasajero menor de 18 sin cinturón."
+    }
+  },
+  {
+    "id": "ia-042",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 35,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Iowa, a baby is under one year old and weighs less than 20 pounds. How must the baby ride?",
+      "o": [
+        "On an adult's lap with a seat belt",
+        "In a booster seat",
+        "In a rear-facing child seat",
+        "In a forward-facing seat belt"
+      ],
+      "h1": "The baby's seat faces the back of the car.",
+      "h2": "In Iowa a child under one year old who weighs less than 20 pounds must ride in a rear-facing child restraint.",
+      "p": "Right. The baby must ride in a rear-facing seat."
+    },
+    "es": {
+      "q": "En Iowa, un bebé tiene menos de un año y pesa menos de 20 libras. ¿Cómo debe viajar el bebé?",
+      "o": [
+        "En las piernas de un adulto con cinturón",
+        "En un asiento elevado (booster)",
+        "En un asiento para niños mirando hacia atrás",
+        "Con el cinturón del auto mirando hacia adelante"
+      ],
+      "h1": "El asiento del bebé mira hacia la parte de atrás del auto.",
+      "h2": "En Iowa un niño menor de un año que pesa menos de 20 libras debe viajar en un asiento de seguridad mirando hacia atrás.",
+      "p": "Correcto. El bebé debe viajar en un asiento que mira hacia atrás."
+    }
+  },
+  {
+    "id": "ia-043",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 37,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Iowa, a driver under 21 is caught with a blood alcohol level of 0.02 or more. At least how long is the license revoked?",
+      "o": [
+        "7 days",
+        "60 days",
+        "2 years",
+        "5 years"
+      ],
+      "h1": "It is about two months. It becomes 180 days at 0.08 or more.",
+      "h2": "In Iowa a driver under 21 with a blood alcohol level of 0.02 or more loses the license for at least 60 days, and for at least 180 days at 0.08 or more.",
+      "p": "Right. At least 60 days."
+    },
+    "es": {
+      "q": "En Iowa, un conductor menor de 21 años tiene un nivel de alcohol en la sangre de 0.02 o más. ¿Por lo menos cuánto tiempo le revocan la licencia?",
+      "o": [
+        "7 días",
+        "60 días",
+        "2 años",
+        "5 años"
+      ],
+      "h1": "Son unos dos meses. Sube a 180 días con 0.08 o más.",
+      "h2": "En Iowa un conductor menor de 21 años con un nivel de alcohol en la sangre de 0.02 o más pierde la licencia por lo menos 60 días, y por lo menos 180 días con 0.08 o más.",
+      "p": "Correcto. Por lo menos 60 días."
+    }
+  },
+  {
+    "id": "ia-044",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 37,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Iowa, an adult drives while intoxicated but is not found guilty in criminal court. What happens to the license?",
+      "o": [
+        "Nothing, because there was no conviction",
+        "It is suspended for 7 days",
+        "The driver only gets a warning letter",
+        "It is still revoked for at least 180 days"
+      ],
+      "h1": "The license penalty does not wait for the court case.",
+      "h2": "In Iowa, even without a criminal conviction, driving while intoxicated leads to a license revocation of at least 180 days.",
+      "p": "Right. The license is still revoked for at least 180 days."
+    },
+    "es": {
+      "q": "En Iowa, un adulto maneja intoxicado pero no lo declaran culpable en la corte penal. ¿Qué pasa con la licencia?",
+      "o": [
+        "Nada, porque no hubo condena",
+        "La suspenden por 7 días",
+        "Solo recibe una carta de advertencia",
+        "Igual se la revocan por lo menos 180 días"
+      ],
+      "h1": "La sanción a la licencia no espera el caso en la corte.",
+      "h2": "En Iowa, aun sin una condena penal, manejar intoxicado lleva a la revocación de la licencia por lo menos 180 días.",
+      "p": "Correcto. Igual le revocan la licencia por lo menos 180 días."
+    }
+  },
+  {
+    "id": "ia-045",
+    "scope": "IA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 37,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Iowa, a driver under 18 loses the license for drunk driving (OWI). May the teen get a temporary restricted license?",
+      "o": [
+        "No, drivers under 18 cannot get one",
+        "Yes, after 7 days",
+        "Yes, to drive to school only",
+        "Yes, if a parent signs a form"
+      ],
+      "h1": "Iowa is stricter with the youngest drivers here.",
+      "h2": "In Iowa a driver under 18 whose license is revoked for OWI cannot get a temporary restricted license.",
+      "p": "Right. Under 18, there is no temporary restricted license after an OWI."
+    },
+    "es": {
+      "q": "En Iowa, a un conductor menor de 18 años le quitan la licencia por manejar ebrio (OWI). ¿Puede recibir una licencia temporal restringida?",
+      "o": [
+        "No, los menores de 18 no pueden recibirla",
+        "Sí, después de 7 días",
+        "Sí, solo para ir a la escuela",
+        "Sí, si un padre firma un formulario"
+      ],
+      "h1": "Aquí Iowa es más estricto con los conductores más jóvenes.",
+      "h2": "En Iowa un conductor menor de 18 años a quien le revocan la licencia por OWI no puede recibir una licencia temporal restringida.",
+      "p": "Correcto. Los menores de 18 no reciben licencia temporal restringida después de un OWI."
+    }
+  },
+  {
+    "id": "ia-046",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 11,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Iowa, you see an orange reflective triangle on the back of a vehicle. How fast does that vehicle usually go?",
+      "o": [
+        "At least 55 mph",
+        "Exactly 45 mph",
+        "35 mph or less",
+        "Only 5 mph"
+      ],
+      "h1": "You often see this sign on farm vehicles and horse-drawn wagons.",
+      "h2": "In Iowa an orange reflective triangle on the back of a vehicle means it travels at 35 mph or less.",
+      "p": "Right. It moves at 35 mph or less."
+    },
+    "es": {
+      "q": "En Iowa, usted ve un triángulo anaranjado reflectante en la parte de atrás de un vehículo. ¿A qué velocidad suele ir ese vehículo?",
+      "o": [
+        "Por lo menos 55 mph",
+        "Exactamente 45 mph",
+        "35 mph o menos",
+        "Solo 5 mph"
+      ],
+      "h1": "Esta señal se ve a menudo en vehículos agrícolas y carretas tiradas por caballos.",
+      "h2": "En Iowa un triángulo anaranjado reflectante en la parte de atrás de un vehículo significa que va a 35 millas por hora o menos.",
+      "p": "Correcto. Va a 35 mph o menos."
+    }
+  },
+  {
+    "id": "ia-047",
+    "scope": "IA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 58,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Iowa, how should you pass a person riding a bicycle?",
+      "o": [
+        "Stay in your lane and pass close by",
+        "Change lanes completely, as you would for a car",
+        "Honk and pass on the right",
+        "Drive on the shoulder to go around"
+      ],
+      "h1": "Give the bicyclist the whole lane.",
+      "h2": "In Iowa, when you pass a bicyclist, you must change lanes completely and give the rider the whole lane, as you would for any other vehicle.",
+      "p": "Right. Change lanes completely to pass a bicycle."
+    },
+    "es": {
+      "q": "En Iowa, ¿cómo debe rebasar a una persona que va en bicicleta?",
+      "o": [
+        "Quedarse en su carril y pasar muy cerca",
+        "Cambiar de carril por completo, como lo haría con un auto",
+        "Tocar la bocina y rebasar por la derecha",
+        "Manejar por el acotamiento para pasar"
+      ],
+      "h1": "Déle al ciclista todo el carril.",
+      "h2": "En Iowa, cuando rebasa a un ciclista, usted debe cambiar de carril por completo y darle todo el carril, igual que con cualquier otro vehículo.",
+      "p": "Correcto. Cambie de carril por completo para rebasar una bicicleta."
+    }
+  },
+  {
+    "id": "ia-048",
+    "scope": "IA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 61,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Iowa, how fast do snowplows usually go while they work?",
+      "o": [
+        "25 to 35 mph",
+        "5 to 10 mph",
+        "45 to 55 mph",
+        "60 to 70 mph"
+      ],
+      "h1": "Many drivers hit plows from behind because plows are slower than they expect.",
+      "h2": "In Iowa snowplows usually work at 25 to 35 mph, so approach them with care.",
+      "p": "Right. Snowplows usually go 25 to 35 mph."
+    },
+    "es": {
+      "q": "En Iowa, ¿a qué velocidad suelen ir las máquinas quitanieves mientras trabajan?",
+      "o": [
+        "De 25 a 35 mph",
+        "De 5 a 10 mph",
+        "De 45 a 55 mph",
+        "De 60 a 70 mph"
+      ],
+      "h1": "Muchos conductores chocan por detrás con las quitanieves porque van más lento de lo que esperan.",
+      "h2": "En Iowa las máquinas quitanieves suelen trabajar a 25 a 35 millas por hora, así que acérquese con cuidado.",
+      "p": "Correcto. Las quitanieves suelen ir de 25 a 35 mph."
+    }
+  },
+  {
+    "id": "ia-049",
+    "scope": "IA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Iowa, one way to count as a resident for a driver's license is to live in the state without a break. For how long?",
+      "o": [
+        "1 year",
+        "6 months",
+        "90 days",
+        "30 days"
+      ],
+      "h1": "It is about one month.",
+      "h2": "For an Iowa driver's license, living in Iowa for 30 days in a row is one of the ways to count as a resident.",
+      "p": "Right. 30 days in a row makes you a resident."
+    },
+    "es": {
+      "q": "En Iowa, una forma de contar como residente para la licencia de manejar es vivir en el estado sin interrupción. ¿Por cuánto tiempo?",
+      "o": [
+        "1 año",
+        "6 meses",
+        "90 días",
+        "30 días"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "Para la licencia de manejar de Iowa, vivir en Iowa 30 días seguidos es una de las formas de contar como residente.",
+      "p": "Correcto. Con 30 días seguidos usted es residente."
+    }
+  },
+  {
+    "id": "ia-050",
+    "scope": "IA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 42,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Iowa, you are pulling a trailer and no speed limit is posted. What is the general speed limit for a vehicle pulling another vehicle?",
+      "o": [
+        "35 mph",
+        "45 mph",
+        "60 mph",
+        "70 mph"
+      ],
+      "h1": "It matches the limit for a suburban district.",
+      "h2": "In Iowa, when no limit is posted, a vehicle pulling another vehicle may go no faster than 45 mph.",
+      "p": "Right. The general limit when towing is 45 mph."
+    },
+    "es": {
+      "q": "En Iowa, usted jala un remolque y no hay un límite de velocidad señalizado. ¿Cuál es el límite general para un vehículo que jala otro vehículo?",
+      "o": [
+        "35 mph",
+        "45 mph",
+        "60 mph",
+        "70 mph"
+      ],
+      "h1": "Es el mismo límite que en una zona suburbana.",
+      "h2": "En Iowa, cuando no hay un límite señalizado, un vehículo que jala otro vehículo no puede ir a más de 45 millas por hora.",
+      "p": "Correcto. El límite general al remolcar es de 45 mph."
+    }
+  },
+  {
+    "id": "ia-051",
+    "scope": "IA",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 12,
+    "src": "https://iowadot.gov/media/7308/download?inline",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Iowa, a rideshare driver (such as Uber or Lyft) is carrying a passenger toward railroad tracks. What must the driver do?",
+      "o": [
+        "Speed up to cross quickly",
+        "Stop only if a train is in sight",
+        "Stop 15 to 50 feet from the tracks before crossing",
+        "Stop right on the tracks to look"
+      ],
+      "h1": "Iowa treats paid drivers like school buses here.",
+      "h2": "In Iowa drivers carrying passengers for hire, like school buses, must stop 15 to 50 feet from the railroad tracks before crossing, unless an officer or an EXEMPT sign says otherwise.",
+      "p": "Right. Stop 15 to 50 feet from the tracks, then cross."
+    },
+    "es": {
+      "q": "En Iowa, un conductor de viajes compartidos (como Uber o Lyft) lleva a un pasajero y se acerca a unas vías del tren. ¿Qué debe hacer el conductor?",
+      "o": [
+        "Acelerar para cruzar rápido",
+        "Parar solo si se ve un tren",
+        "Parar a entre 15 y 50 pies de las vías antes de cruzar",
+        "Parar sobre las vías para mirar"
+      ],
+      "h1": "Aquí Iowa trata a los conductores que cobran igual que a los autobuses escolares.",
+      "h2": "En Iowa los conductores que llevan pasajeros por pago, igual que los autobuses escolares, deben parar a entre 15 y 50 pies de las vías antes de cruzar, salvo que un policía o una señal EXEMPT indique otra cosa.",
+      "p": "Correcto. Pare a entre 15 y 50 pies de las vías y luego cruce."
+    }
   }
 ]
