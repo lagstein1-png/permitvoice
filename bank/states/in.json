@@ -2212,5 +2212,141 @@
       "h2": "في Indiana، القيادة بسرعة تزيد على حد السرعة بمقدار 26 mph أو أكثر تضع 6 نقاط في سجل قيادتك.",
       "p": "صحيح. الزيادة 26 mph أو أكثر فوق الحد تساوي 6 نقاط."
     }
+  },
+  {
+    "id": "in-028",
+    "scope": "IN",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 38,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Indiana, when you pass another vehicle, how far from an oncoming vehicle must you be back on the right side of the road?",
+      "o": [
+        "At least 25 feet",
+        "At least 50 feet",
+        "At least 100 feet",
+        "At least 1,000 feet"
+      ],
+      "h1": "The distance is about one third of a football field.",
+      "h2": "In Indiana, you must return to the right side of the road at least 100 feet before any oncoming vehicle.",
+      "p": "Right. Be back on the right at least 100 feet before an oncoming vehicle."
+    },
+    "es": {
+      "q": "En Indiana, al rebasar a otro vehículo, ¿a qué distancia de un vehículo que viene de frente debe estar ya en el lado derecho del camino?",
+      "o": [
+        "Al menos 25 pies",
+        "Al menos 50 pies",
+        "Al menos 100 pies",
+        "Al menos 1,000 pies"
+      ],
+      "h1": "La distancia es como un tercio de un campo de fútbol americano.",
+      "h2": "En Indiana, usted debe volver al lado derecho del camino al menos 100 pies antes de cualquier vehículo que viene de frente.",
+      "p": "Correcto. Vuelva a la derecha al menos 100 pies antes del vehículo que viene."
+    }
+  },
+  {
+    "id": "in-029",
+    "scope": "IN",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Indiana, how does the speed limit in a highway work site compare with the usual limit for that area?",
+      "o": [
+        "It is at least 10 mph lower",
+        "It is exactly 5 mph lower",
+        "It is the same as the usual limit",
+        "It is always 25 mph"
+      ],
+      "h1": "Work site limits are always lower by a set minimum amount.",
+      "h2": "In Indiana, a work site speed limit is always at least 10 mph below the usual maximum limit for that area.",
+      "p": "Right. Work site limits are at least 10 mph lower."
+    },
+    "es": {
+      "q": "En Indiana, ¿cómo es el límite de velocidad en una zona de trabajo en la carretera comparado con el límite normal de esa área?",
+      "o": [
+        "Es al menos 10 mph más bajo",
+        "Es exactamente 5 mph más bajo",
+        "Es igual al límite normal",
+        "Siempre es de 25 mph"
+      ],
+      "h1": "El límite en zonas de trabajo siempre es más bajo por una cantidad mínima fija.",
+      "h2": "En Indiana, el límite de velocidad en una zona de trabajo siempre es al menos 10 mph más bajo que el límite máximo normal de esa área.",
+      "p": "Correcto. En zonas de trabajo el límite es al menos 10 mph más bajo."
+    }
+  },
+  {
+    "id": "in-030",
+    "scope": "IN",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 54,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Indiana, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 30 feet",
+        "No closer than 50 feet",
+        "No closer than 15 feet"
+      ],
+      "h1": "Fire trucks need room to reach the hydrant.",
+      "h2": "In Indiana, you may not park within 15 feet of a fire hydrant.",
+      "p": "Right. Stay at least 15 feet from a hydrant."
+    },
+    "es": {
+      "q": "En Indiana, ¿qué tan cerca de un hidrante puede estacionarse?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 30 pies",
+        "No más cerca de 50 pies",
+        "No más cerca de 15 pies"
+      ],
+      "h1": "Los bomberos necesitan espacio para llegar al hidrante.",
+      "h2": "En Indiana, usted no puede estacionarse a menos de 15 pies de un hidrante.",
+      "p": "Correcto. Quédese al menos a 15 pies de un hidrante."
+    }
+  },
+  {
+    "id": "in-031",
+    "scope": "IN",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Indiana, your license has been expired for 200 days. What must you do to renew it?",
+      "o": [
+        "Pay only the usual renewal fee online",
+        "Pay a penalty, pass a knowledge exam and a vision test",
+        "Pay a penalty and pass only a driving skills test",
+        "Wait one year, then retake driver education"
+      ],
+      "h1": "After about six months, the BMV wants to check what you know and how you see.",
+      "h2": "In Indiana, if your license has been expired for at least 180 days but less than five years, you must pay a penalty and pass a knowledge exam and a vision screening.",
+      "p": "Right. Pay the penalty and pass the knowledge exam and vision screening."
+    },
+    "es": {
+      "q": "En Indiana, su licencia lleva 200 días vencida. ¿Qué debe hacer para renovarla?",
+      "o": [
+        "Pagar solo la tarifa normal de renovación en línea",
+        "Pagar una multa, aprobar un examen de conocimientos y una prueba de la vista",
+        "Pagar una multa y aprobar solo un examen práctico de manejo",
+        "Esperar un año y tomar otra vez el curso de manejo"
+      ],
+      "h1": "Después de unos seis meses, el BMV quiere revisar lo que usted sabe y cómo ve.",
+      "h2": "En Indiana, si su licencia lleva vencida al menos 180 días pero menos de cinco años, usted debe pagar una multa y aprobar un examen de conocimientos y una prueba de la vista.",
+      "p": "Correcto. Pague la multa y apruebe el examen de conocimientos y la prueba de la vista."
+    }
   }
 ]
