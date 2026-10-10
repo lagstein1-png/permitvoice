@@ -1392,5 +1392,311 @@
       "h2": "في Maryland لا يجوز للسائق البالغ أن يمسك الهاتف المحمول بيده ليتكلم أثناء القيادة، ويجب أن يستعمل جهازًا بدون استعمال اليدين، إلا للاتصال بـ911.",
       "p": "صحيح. البالغون في Maryland يجب أن يتكلموا بدون استعمال اليدين."
     }
+  },
+  {
+    "id": "md-018",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maryland, how long must you hold a provisional license before you can get a full driver's license?",
+      "o": [
+        "6 months",
+        "12 months",
+        "18 months",
+        "24 months"
+      ],
+      "h1": "It is longer than one year.",
+      "h2": "In Maryland, you must hold a provisional license for at least 18 months before you can get a full driver's license.",
+      "p": "Right. The provisional stage lasts at least 18 months."
+    },
+    "es": {
+      "q": "En Maryland, ¿cuánto tiempo debe tener una licencia provisional antes de obtener una licencia de conducir completa?",
+      "o": [
+        "6 meses",
+        "12 meses",
+        "18 meses",
+        "24 meses"
+      ],
+      "h1": "Es más de un año.",
+      "h2": "En Maryland, debe tener una licencia provisional por lo menos 18 meses antes de obtener una licencia de conducir completa.",
+      "p": "Correcto. La etapa provisional dura por lo menos 18 meses."
+    }
+  },
+  {
+    "id": "md-019",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 9,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Maryland, how long is a Type 1 learner's permit valid?",
+      "o": [
+        "Up to 2 years",
+        "Up to 6 months",
+        "Up to 1 year",
+        "Up to 5 years"
+      ],
+      "h1": "It gives you plenty of time to practice.",
+      "h2": "In Maryland, a Type 1 learner's permit is valid for up to 2 years.",
+      "p": "Right. The learner's permit lasts up to 2 years."
+    },
+    "es": {
+      "q": "En Maryland, ¿por cuánto tiempo es válido un permiso de aprendizaje Tipo 1?",
+      "o": [
+        "Hasta 2 años",
+        "Hasta 6 meses",
+        "Hasta 1 año",
+        "Hasta 5 años"
+      ],
+      "h1": "Le da bastante tiempo para practicar.",
+      "h2": "En Maryland, un permiso de aprendizaje Tipo 1 es válido por hasta 2 años.",
+      "p": "Correcto. El permiso de aprendizaje dura hasta 2 años."
+    }
+  },
+  {
+    "id": "md-020",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Maryland, how much time do you have to finish the 25-question knowledge test?",
+      "o": [
+        "10 minutes",
+        "45 minutes",
+        "1 hour",
+        "20 minutes"
+      ],
+      "h1": "It is less than half an hour.",
+      "h2": "In Maryland, you have 20 minutes to finish the 25-question knowledge test.",
+      "p": "Right. You get 20 minutes for the test."
+    },
+    "es": {
+      "q": "En Maryland, ¿cuánto tiempo tiene para terminar el examen de conocimientos de 25 preguntas?",
+      "o": [
+        "10 minutos",
+        "45 minutos",
+        "1 hora",
+        "20 minutos"
+      ],
+      "h1": "Es menos de media hora.",
+      "h2": "En Maryland, tiene 20 minutos para terminar el examen de conocimientos de 25 preguntas.",
+      "p": "Correcto. Tiene 20 minutos para el examen."
+    }
+  },
+  {
+    "id": "md-021",
+    "scope": "MD",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 27,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Maryland, it is raining and you turn on your windshield wipers. What must you also turn on?",
+      "o": [
+        "Your hazard lights",
+        "Your headlights",
+        "Your high beams",
+        "Your interior lights"
+      ],
+      "h1": "Other drivers need to see you in bad weather.",
+      "h2": "In Maryland, the law says you must turn on your headlights when you use your windshield wipers in bad weather.",
+      "p": "Right. Wipers on means headlights on."
+    },
+    "es": {
+      "q": "En Maryland, está lloviendo y usted enciende los limpiaparabrisas. ¿Qué más debe encender?",
+      "o": [
+        "Las luces de emergencia",
+        "Los faros delanteros",
+        "Las luces altas",
+        "Las luces interiores"
+      ],
+      "h1": "Los demás conductores necesitan verlo con mal tiempo.",
+      "h2": "En Maryland, la ley dice que debe encender los faros delanteros cuando usa los limpiaparabrisas con mal tiempo.",
+      "p": "Correcto. Si usa los limpiaparabrisas, encienda los faros."
+    }
+  },
+  {
+    "id": "md-022",
+    "scope": "MD",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 27,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maryland, you must turn on your headlights when you cannot clearly see how far ahead?",
+      "o": [
+        "200 feet",
+        "500 feet",
+        "1,000 feet",
+        "2,000 feet"
+      ],
+      "h1": "It is a long distance, about three football fields.",
+      "h2": "In Maryland, you must turn on your headlights whenever there is not enough light to see clearly at least 1,000 feet ahead.",
+      "p": "Right. If you cannot see 1,000 feet ahead, use your headlights."
+    },
+    "es": {
+      "q": "En Maryland, debe encender los faros si no puede ver claramente hasta cierta distancia hacia adelante. ¿Cuál es esa distancia?",
+      "o": [
+        "200 pies",
+        "500 pies",
+        "1,000 pies",
+        "2,000 pies"
+      ],
+      "h1": "Es una distancia larga, como tres campos de fútbol americano.",
+      "h2": "En Maryland, debe encender los faros siempre que no haya luz suficiente para ver claramente por lo menos 1,000 pies hacia adelante.",
+      "p": "Correcto. Si no puede ver 1,000 pies hacia adelante, use los faros."
+    }
+  },
+  {
+    "id": "md-023",
+    "scope": "MD",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 45,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Maryland, what is the penalty for breaking the Move Over law when no crash happens?",
+      "o": [
+        "A $110 fine and 1 point",
+        "A $50 fine and no points",
+        "A $500 fine and 5 points",
+        "A warning only"
+      ],
+      "h1": "Points are added to your driving record.",
+      "h2": "In Maryland, breaking the Move Over law without causing a crash brings a $110 fine and 1 point on your license.",
+      "p": "Right. It is a $110 fine and 1 point."
+    },
+    "es": {
+      "q": "En Maryland, ¿cuál es la multa por no cumplir la ley Move Over (moverse de carril) si no hay choque?",
+      "o": [
+        "Una multa de $110 y 1 punto",
+        "Una multa de $50 y ningún punto",
+        "Una multa de $500 y 5 puntos",
+        "Solo una advertencia"
+      ],
+      "h1": "Se agregan puntos a su historial de manejo.",
+      "h2": "En Maryland, no cumplir la ley Move Over sin causar un choque trae una multa de $110 y 1 punto en su licencia.",
+      "p": "Correcto. Es una multa de $110 y 1 punto."
+    }
+  },
+  {
+    "id": "md-024",
+    "scope": "MD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 49,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Maryland, a provisional driver under 18 is convicted of a second moving violation. What happens?",
+      "o": [
+        "Only a warning letter is sent",
+        "A 30-day suspension, then 90 days of driving only for work or school",
+        "The license is revoked for 5 years",
+        "A $25 fine and nothing else"
+      ],
+      "h1": "The penalty grows with each offense.",
+      "h2": "In Maryland, a second moving violation for a provisional driver under 18 brings a 30-day suspension, followed by 90 days of driving only for work or school.",
+      "p": "Right. A second offense means a 30-day suspension and a 90-day work-or-school limit."
+    },
+    "es": {
+      "q": "En Maryland, un conductor provisional menor de 18 años recibe una condena por una segunda infracción de tránsito. ¿Qué pasa?",
+      "o": [
+        "Solo se envía una carta de advertencia",
+        "Una suspensión de 30 días, luego 90 días de manejar solo para trabajo o escuela",
+        "La licencia se revoca por 5 años",
+        "Una multa de $25 y nada más"
+      ],
+      "h1": "La pena aumenta con cada infracción.",
+      "h2": "En Maryland, una segunda infracción de tránsito de un conductor provisional menor de 18 años trae una suspensión de 30 días, seguida de 90 días de manejar solo para trabajo o escuela.",
+      "p": "Correcto. Una segunda infracción significa 30 días de suspensión y 90 días con límite de trabajo o escuela."
+    }
+  },
+  {
+    "id": "md-025",
+    "scope": "MD",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 52,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Maryland, which children must ride in a child safety seat?",
+      "o": [
+        "Only children under 2",
+        "Only children under 4",
+        "Children under 12 who weigh under 100 pounds",
+        "Children under 8, unless they are 4 feet 9 inches or taller"
+      ],
+      "h1": "Think of both age and height.",
+      "h2": "In Maryland, children under 8 must ride in a child safety seat, unless they are 4 feet 9 inches or taller.",
+      "p": "Right. Under 8 means a safety seat, unless the child is 4 feet 9 inches or taller."
+    },
+    "es": {
+      "q": "En Maryland, ¿qué niños deben viajar en un asiento de seguridad para niños?",
+      "o": [
+        "Solo los menores de 2 años",
+        "Solo los menores de 4 años",
+        "Los menores de 12 años que pesan menos de 100 libras",
+        "Los menores de 8 años, a menos que midan 4 pies 9 pulgadas o más"
+      ],
+      "h1": "Piense en la edad y en la estatura.",
+      "h2": "En Maryland, los niños menores de 8 años deben viajar en un asiento de seguridad, a menos que midan 4 pies 9 pulgadas o más.",
+      "p": "Correcto. Los menores de 8 años usan asiento de seguridad, a menos que midan 4 pies 9 pulgadas o más."
+    }
+  },
+  {
+    "id": "md-026",
+    "scope": "MD",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 53,
+    "src": "https://mva.maryland.gov/Documents/DL-002.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Maryland, what is the rule about earphones while driving?",
+      "o": [
+        "You may wear them in both ears at low volume",
+        "They are allowed only on highways",
+        "You may not wear them in both ears",
+        "They are allowed only for drivers over 21"
+      ],
+      "h1": "You need to hear sirens and horns around you.",
+      "h2": "In Maryland, you may not drive with earphones, headsets or earplugs in both ears, although hearing aids are allowed.",
+      "p": "Right. Never cover both ears while driving."
+    },
+    "es": {
+      "q": "En Maryland, ¿cuál es la regla sobre los audífonos al manejar?",
+      "o": [
+        "Puede usarlos en ambos oídos a bajo volumen",
+        "Solo se permiten en las autopistas",
+        "No puede usarlos en ambos oídos",
+        "Solo se permiten a conductores mayores de 21 años"
+      ],
+      "h1": "Necesita oír las sirenas y bocinas a su alrededor.",
+      "h2": "En Maryland, no puede manejar con audífonos, auriculares o tapones en ambos oídos, aunque los aparatos auditivos sí se permiten.",
+      "p": "Correcto. Nunca se tape ambos oídos al manejar."
+    }
   }
 ]
