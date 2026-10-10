@@ -1966,5 +1966,141 @@
       "h2": "Arizona تطلب على الأقل $25,000 من تأمين الإصابات الجسدية لشخص واحد في حادث، وهو الرقم الأول في الحدّ الأدنى 25/50/15.",
       "p": "صحيح. الحدّ الأدنى لشخص واحد مصاب هو $25,000."
     }
+  },
+  {
+    "id": "az-025",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00907.htm",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Arizona, a child must ride in a child restraint (car seat) until what age?",
+      "o": [
+        "Until age 2",
+        "Until age 4",
+        "Until age 5",
+        "Until age 10"
+      ],
+      "h1": "It is about the age when many children start kindergarten.",
+      "h2": "In Arizona a child under five years old must ride in a child restraint.",
+      "p": "Right. In Arizona, children under 5 must be in a child restraint."
+    },
+    "es": {
+      "q": "En Arizona, ¿hasta qué edad debe ir un niño en un sistema de retención infantil (asiento de seguridad)?",
+      "o": [
+        "Hasta los 2 años",
+        "Hasta los 4 años",
+        "Hasta los 5 años",
+        "Hasta los 10 años"
+      ],
+      "h1": "Es más o menos la edad en que muchos niños empiezan el kínder.",
+      "h2": "En Arizona un niño menor de cinco años debe ir en un sistema de retención infantil.",
+      "p": "Correcto. En Arizona, los niños menores de 5 años deben ir en un asiento de seguridad."
+    }
+  },
+  {
+    "id": "az-026",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00907.htm",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Arizona, a 6-year-old is 4 feet 5 inches tall. How must the child ride?",
+      "o": [
+        "In a child restraint, such as a booster seat",
+        "With only an adult seat belt",
+        "On an adult's lap",
+        "In the front seat with an air bag"
+      ],
+      "h1": "Children aged 5 to 7 who are 4 feet 9 inches or shorter still need extra help to fit the belt.",
+      "h2": "In Arizona a child aged 5 to 7 who is 4 feet 9 inches or shorter must ride in a child restraint, such as a booster seat.",
+      "p": "Right. This child still needs a booster seat or other child restraint in Arizona."
+    },
+    "es": {
+      "q": "En Arizona, un niño de 6 años mide 4 pies 5 pulgadas. ¿Cómo debe viajar?",
+      "o": [
+        "En un sistema de retención infantil, como un asiento elevado (booster)",
+        "Solo con el cinturón de seguridad de adulto",
+        "Sentado en las piernas de un adulto",
+        "En el asiento delantero con bolsa de aire"
+      ],
+      "h1": "Los niños de 5 a 7 años que miden 4 pies 9 pulgadas o menos todavía necesitan ayuda para que el cinturón les quede bien.",
+      "h2": "En Arizona un niño de 5 a 7 años que mide 4 pies 9 pulgadas o menos debe viajar en un sistema de retención infantil, como un asiento elevado.",
+      "p": "Correcto. En Arizona, este niño todavía necesita un asiento elevado u otro asiento infantil."
+    }
+  },
+  {
+    "id": "az-027",
+    "scope": "AZ",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/01321.htm",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Arizona, you are arrested for DUI and refuse the alcohol test for the first time. How long will your license be suspended?",
+      "o": [
+        "30 days",
+        "90 days",
+        "6 months",
+        "12 months"
+      ],
+      "h1": "It is a full year.",
+      "h2": "In Arizona a first refusal to take the alcohol test means your license is suspended for 12 months.",
+      "p": "Right. A first test refusal in Arizona brings a 12-month suspension."
+    },
+    "es": {
+      "q": "En Arizona, usted es arrestado por manejar bajo los efectos del alcohol (DUI) y se niega a la prueba de alcohol por primera vez. ¿Por cuánto tiempo le suspenderán la licencia?",
+      "o": [
+        "30 días",
+        "90 días",
+        "6 meses",
+        "12 meses"
+      ],
+      "h1": "Es un año completo.",
+      "h2": "En Arizona, negarse por primera vez a la prueba de alcohol significa que su licencia se suspende por 12 meses.",
+      "p": "Correcto. En Arizona, la primera negativa a la prueba trae una suspensión de 12 meses."
+    }
+  },
+  {
+    "id": "az-028",
+    "scope": "AZ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": null,
+    "src": "https://www.azleg.gov/ars/28/00857.htm",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Arizona, what is the lowest fine for a first offense of passing a stopped school bus with its stop sign out?",
+      "o": [
+        "$100",
+        "$250",
+        "$500",
+        "$1,000"
+      ],
+      "h1": "It is a quarter of a thousand dollars.",
+      "h2": "In Arizona the minimum penalty for a first offense of passing a stopped school bus is $250.",
+      "p": "Right. In Arizona, a first school bus passing offense costs at least $250."
+    },
+    "es": {
+      "q": "En Arizona, ¿cuál es la multa mínima por una primera infracción de rebasar un autobús escolar detenido con su señal de alto extendida?",
+      "o": [
+        "$100",
+        "$250",
+        "$500",
+        "$1,000"
+      ],
+      "h1": "Es la cuarta parte de mil dólares.",
+      "h2": "En Arizona la multa mínima por una primera infracción de rebasar un autobús escolar detenido es de $250.",
+      "p": "Correcto. En Arizona, la primera infracción por rebasar un autobús escolar cuesta por lo menos $250."
+    }
   }
 ]
