@@ -1720,5 +1720,209 @@
       "h2": "في West Virginia يحتاج اختبار المعرفة عبر الإنترنت إلى حاسوب مع فأرة وكاميرا ويب؛ الهواتف والشاشات التي تعمل باللمس لا تعمل.",
       "p": "صحيح. تحتاج إلى حاسوب مع كاميرا."
     }
+  },
+  {
+    "id": "wv-022",
+    "scope": "WV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 24,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In West Virginia, how many questions must you answer correctly to pass the 25-question knowledge test?",
+      "o": [
+        "15",
+        "19",
+        "22",
+        "25"
+      ],
+      "h1": "You can miss up to six questions.",
+      "h2": "In West Virginia, you must answer 19 of the 25 knowledge test questions correctly to pass, and the test has a time limit.",
+      "p": "Right. 19 out of 25."
+    },
+    "es": {
+      "q": "En West Virginia, ¿cuántas preguntas debe contestar bien para aprobar el examen de conocimientos de 25 preguntas?",
+      "o": [
+        "15",
+        "19",
+        "22",
+        "25"
+      ],
+      "h1": "Puede fallar hasta seis preguntas.",
+      "h2": "En West Virginia, debe contestar bien 19 de las 25 preguntas del examen de conocimientos para aprobar, y el examen tiene un límite de tiempo.",
+      "p": "Correcto. 19 de 25."
+    }
+  },
+  {
+    "id": "wv-023",
+    "scope": "WV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 16,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In West Virginia, what is the minimum liability insurance for the death or injury of one person?",
+      "o": [
+        "$5,000",
+        "$10,000",
+        "$100,000",
+        "$25,000"
+      ],
+      "h1": "It is the same amount as the minimum for property damage.",
+      "h2": "In West Virginia, the minimum liability insurance is $25,000 for one death or injury, $50,000 for two or more, and $25,000 for property damage.",
+      "p": "Right. $25,000 for one person."
+    },
+    "es": {
+      "q": "En West Virginia, ¿cuál es el seguro de responsabilidad mínimo por la muerte o lesión de una persona?",
+      "o": [
+        "$5,000",
+        "$10,000",
+        "$100,000",
+        "$25,000"
+      ],
+      "h1": "Es la misma cantidad que el mínimo por daños a la propiedad.",
+      "h2": "En West Virginia, el seguro de responsabilidad mínimo es de $25,000 por una muerte o lesión, $50,000 por dos o más, y $25,000 por daños a la propiedad.",
+      "p": "Correcto. $25,000 por una persona."
+    }
+  },
+  {
+    "id": "wv-024",
+    "scope": "WV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In West Virginia, how many points on your record can lead to a license suspension?",
+      "o": [
+        "3 points",
+        "6 points",
+        "12 points",
+        "25 points"
+      ],
+      "h1": "At half this number, the DMV sends a letter of caution.",
+      "h2": "In West Virginia, the DMV sends a letter of caution at 6 points, and a driver with 12 points can have the license suspended.",
+      "p": "Right. 12 points can mean a suspension."
+    },
+    "es": {
+      "q": "En West Virginia, ¿cuántos puntos en su historial pueden llevar a la suspensión de la licencia?",
+      "o": [
+        "3 puntos",
+        "6 puntos",
+        "12 puntos",
+        "25 puntos"
+      ],
+      "h1": "Con la mitad de este número, el DMV envía una carta de advertencia.",
+      "h2": "En West Virginia, el DMV envía una carta de advertencia con 6 puntos, y a un conductor con 12 puntos se le puede suspender la licencia.",
+      "p": "Correcto. 12 puntos pueden llevar a una suspensión."
+    }
+  },
+  {
+    "id": "wv-025",
+    "scope": "WV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 22,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In West Virginia, what happens if you are arrested for DUI and refuse the breath test?",
+      "o": [
+        "Your license is revoked for at least one year",
+        "You pay a small fine and keep driving",
+        "You get a warning the first time",
+        "Your license is suspended for one week"
+      ],
+      "h1": "West Virginia's implied consent law treats refusal very seriously.",
+      "h2": "In West Virginia, a driver arrested for DUI who refuses the breath test has the driving privilege revoked for at least one year, and up to life.",
+      "p": "Right. Revoked for at least one year."
+    },
+    "es": {
+      "q": "En West Virginia, ¿qué pasa si lo arrestan por manejar bajo los efectos del alcohol (DUI) y se niega a la prueba de aliento?",
+      "o": [
+        "Le revocan la licencia por lo menos un año",
+        "Paga una multa pequeña y sigue manejando",
+        "Recibe una advertencia la primera vez",
+        "Le suspenden la licencia por una semana"
+      ],
+      "h1": "La ley de consentimiento implícito de West Virginia trata la negativa con mucha seriedad.",
+      "h2": "En West Virginia, a un conductor arrestado por DUI que se niega a la prueba de aliento le revocan el privilegio de manejar por lo menos un año, y hasta de por vida.",
+      "p": "Correcto. Revocada por lo menos un año."
+    }
+  },
+  {
+    "id": "wv-026",
+    "scope": "WV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 42,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In West Virginia, what is the speed limit in a school zone while children are present, unless posted otherwise?",
+      "o": [
+        "10 mph",
+        "15 mph",
+        "25 mph",
+        "35 mph"
+      ],
+      "h1": "It is lower than the 25 mph limit for residential areas.",
+      "h2": "In West Virginia, the speed limit in a school zone is 15 mph while children are present along the road.",
+      "p": "Right. 15 mph in a school zone."
+    },
+    "es": {
+      "q": "En West Virginia, ¿cuál es el límite de velocidad en una zona escolar cuando hay niños presentes, si no hay otro señalado?",
+      "o": [
+        "10 mph",
+        "15 mph",
+        "25 mph",
+        "35 mph"
+      ],
+      "h1": "Es más bajo que el límite de 25 mph de las zonas residenciales.",
+      "h2": "En West Virginia, el límite de velocidad en una zona escolar es de 15 mph cuando hay niños presentes a lo largo de la calle.",
+      "p": "Correcto. 15 mph en una zona escolar."
+    }
+  },
+  {
+    "id": "wv-027",
+    "scope": "WV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In West Virginia, how many points can an approved 8-hour defensive driving class remove from your record?",
+      "o": [
+        "1 point",
+        "All of your points",
+        "3 points",
+        "6 points"
+      ],
+      "h1": "You can only do this once every 12 months.",
+      "h2": "In West Virginia, finishing an approved 8-hour defensive driving class removes 3 points from your record, no more than once every 12 months.",
+      "p": "Right. The class removes 3 points."
+    },
+    "es": {
+      "q": "En West Virginia, ¿cuántos puntos puede quitar de su historial una clase aprobada de manejo defensivo de 8 horas?",
+      "o": [
+        "1 punto",
+        "Todos sus puntos",
+        "3 puntos",
+        "6 puntos"
+      ],
+      "h1": "Solo puede hacerlo una vez cada 12 meses.",
+      "h2": "En West Virginia, terminar una clase aprobada de manejo defensivo de 8 horas le quita 3 puntos de su historial, no más de una vez cada 12 meses.",
+      "p": "Correcto. La clase quita 3 puntos."
+    }
   }
 ]
