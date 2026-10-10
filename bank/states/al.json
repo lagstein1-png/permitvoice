@@ -4213,6 +4213,54 @@
       "h1": "Es más o menos un mes.",
       "h2": "Un nuevo residente de Alabama con una licencia válida del estado anterior puede manejar con ella durante 30 días después de hacerse residente.",
       "p": "Correcto. Los nuevos residentes pueden usar la licencia anterior por 30 días."
+    },
+    "zh": {
+      "q": "在 Alabama，你刚从原来的州搬来，持有原来州的有效驾照。你可以用它开车多久？",
+      "o": [
+        "10 天",
+        "30 天",
+        "6 个月",
+        "直到它过期"
+      ],
+      "h1": "大约一个月。",
+      "h2": "持有原来州有效驾照的 Alabama 新居民，在成为居民后可以用它开车 30 天。",
+      "p": "对。新居民可以用旧驾照开车 30 天。"
+    },
+    "vi": {
+      "q": "Ở Alabama, bạn vừa chuyển đến với bằng lái còn hiệu lực từ tiểu bang cũ. Bạn được lái xe bằng bằng lái đó trong bao lâu?",
+      "o": [
+        "10 ngày",
+        "30 ngày",
+        "6 tháng",
+        "Cho đến khi hết hạn"
+      ],
+      "h1": "Khoảng một tháng.",
+      "h2": "Người mới cư trú ở Alabama có bằng lái còn hiệu lực từ tiểu bang trước được lái xe bằng bằng lái đó trong 30 ngày sau khi trở thành cư dân.",
+      "p": "Đúng. Người mới cư trú được dùng bằng lái cũ trong 30 ngày."
+    },
+    "tl": {
+      "q": "Sa Alabama, kalilipat mo lang dito na may valid na lisensya mula sa dati mong estado. Gaano katagal ka puwedeng magmaneho gamit ito?",
+      "o": [
+        "10 araw",
+        "30 araw",
+        "6 na buwan",
+        "Hanggang sa mag-expire ito"
+      ],
+      "h1": "Mga isang buwan ito.",
+      "h2": "Ang bagong residente ng Alabama na may valid na lisensya mula sa dating estado ay puwedeng magmaneho gamit ito nang 30 araw matapos maging residente.",
+      "p": "Tama. Puwedeng gamitin ng mga bagong residente ang lumang lisensya nang 30 araw."
+    },
+    "ar": {
+      "q": "في Alabama، انتقلت للتو إلى هنا ومعك رخصة سارية من ولايتك السابقة. كم من الوقت يمكنك القيادة بها؟",
+      "o": [
+        "10 أيام",
+        "30 يومًا",
+        "6 أشهر",
+        "حتى تنتهي صلاحيتها"
+      ],
+      "h1": "إنها شهر واحد تقريبًا.",
+      "h2": "يمكن للمقيم الجديد في Alabama الذي يحمل رخصة سارية من ولايته السابقة أن يقود بها مدة 30 يومًا بعد أن يصبح مقيمًا.",
+      "p": "صحيح. يمكن للمقيمين الجدد استخدام الرخصة القديمة مدة 30 يومًا."
     }
   },
   {
@@ -4247,6 +4295,54 @@
       "h1": "Son doce meses.",
       "h2": "En Alabama una persona con una licencia de otro estado que no lleva vencida más de un año no tiene que aprobar el examen de manejo.",
       "p": "Correcto. Con hasta un año de vencida, no necesita examen."
+    },
+    "zh": {
+      "q": "在 Alabama，用外州驾照换领本州驾照时，如果外州驾照过期不超过多久，就可以不用参加驾驶考试？",
+      "o": [
+        "30 天",
+        "6 个月",
+        "一年",
+        "五年"
+      ],
+      "h1": "是十二个月。",
+      "h2": "在 Alabama，持有过期不超过一年的外州驾照的人，不必通过驾驶考试。",
+      "p": "对。过期不超过一年，就不需要考试。"
+    },
+    "vi": {
+      "q": "Ở Alabama, khi đổi bằng lái của tiểu bang khác, bạn có thể không phải thi lái xe nếu bằng lái đó hết hạn không quá bao lâu?",
+      "o": [
+        "30 ngày",
+        "6 tháng",
+        "Một năm",
+        "Năm năm"
+      ],
+      "h1": "Là mười hai tháng.",
+      "h2": "Ở Alabama, người có bằng lái của tiểu bang khác hết hạn không quá một năm thì không phải thi lái xe.",
+      "p": "Đúng. Hết hạn tối đa một năm thì không cần thi."
+    },
+    "tl": {
+      "q": "Sa Alabama, puwede kang hindi na kumuha ng driver exam kapag ipinapalit mo ang lisensya mula sa ibang estado kung hindi pa ito expired nang higit sa gaano katagal?",
+      "o": [
+        "30 araw",
+        "6 na buwan",
+        "Isang taon",
+        "Limang taon"
+      ],
+      "h1": "Labindalawang buwan ito.",
+      "h2": "Sa Alabama, ang taong may lisensya mula sa ibang estado na hindi pa expired nang higit sa isang taon ay hindi na kailangang pumasa sa driver exam.",
+      "p": "Tama. Kung hanggang isang taon pa lang itong expired, hindi na kailangan ng exam."
+    },
+    "ar": {
+      "q": "في Alabama، يمكنك أن تُعفى من امتحان القيادة عند استبدال رخصة من ولاية أخرى إذا لم تكن منتهية الصلاحية منذ أكثر من كم؟",
+      "o": [
+        "30 يومًا",
+        "6 أشهر",
+        "سنة واحدة",
+        "خمس سنوات"
+      ],
+      "h1": "إنها اثنا عشر شهرًا.",
+      "h2": "في Alabama، الشخص الذي يحمل رخصة من ولاية أخرى لم تنتهِ صلاحيتها منذ أكثر من سنة واحدة ليس عليه أن يجتاز امتحان القيادة.",
+      "p": "صحيح. إذا انتهت صلاحيتها منذ سنة واحدة أو أقل، فلا حاجة إلى امتحان."
     }
   },
   {
@@ -4281,6 +4377,54 @@
       "h1": "Es un año después de la edad mínima del aprendiz.",
       "h2": "La edad mínima para manejar en Alabama es 16 años; un joven de 15 años solo puede manejar con licencia de aprendiz y un adulto calificado a su lado.",
       "p": "Correcto. La edad mínima para manejar es 16 años."
+    },
+    "zh": {
+      "q": "在 Alabama，不需要监护驾驶人坐在旁边就可以开车的最低年龄是多少？",
+      "o": [
+        "16 岁",
+        "15 岁",
+        "17 岁",
+        "18 岁"
+      ],
+      "h1": "它比学习驾照的最低年龄大一岁。",
+      "h2": "Alabama 的最低驾驶年龄是 16 岁；15 岁的人只能持学习驾照，并且旁边要有合格的成年人陪同才可以开车。",
+      "p": "对。最低驾驶年龄是 16 岁。"
+    },
+    "vi": {
+      "q": "Ở Alabama, tuổi tối thiểu để lái xe mà không cần người lái xe giám sát ngồi bên cạnh là bao nhiêu?",
+      "o": [
+        "16 tuổi",
+        "15 tuổi",
+        "17 tuổi",
+        "18 tuổi"
+      ],
+      "h1": "Đó là một năm sau tuổi nhỏ nhất được tập lái.",
+      "h2": "Tuổi lái xe tối thiểu ở Alabama là 16; người 15 tuổi chỉ được lái xe khi có giấy phép tập lái và có một người lớn đủ điều kiện ngồi bên cạnh.",
+      "p": "Đúng. Tuổi lái xe tối thiểu là 16."
+    },
+    "tl": {
+      "q": "Sa Alabama, ano ang pinakamababang edad para makapagmaneho nang walang nagbabantay na driver sa tabi mo?",
+      "o": [
+        "16 taong gulang",
+        "15 taong gulang",
+        "17 taong gulang",
+        "18 taong gulang"
+      ],
+      "h1": "Isang taon ito pagkatapos ng pinakabatang edad para sa learner.",
+      "h2": "Ang pinakamababang edad sa pagmamaneho sa Alabama ay 16; ang 15 taong gulang ay puwede lang magmaneho kung may learner license at may kuwalipikadong adult sa tabi niya.",
+      "p": "Tama. Ang pinakamababang edad sa pagmamaneho ay 16."
+    },
+    "ar": {
+      "q": "في Alabama، ما الحد الأدنى للسن الذي يمكنك فيه القيادة دون سائق مشرف بجانبك؟",
+      "o": [
+        "16 سنة",
+        "15 سنة",
+        "17 سنة",
+        "18 سنة"
+      ],
+      "h1": "إنها بعد سنة واحدة من أصغر سن للمتعلّم.",
+      "h2": "الحد الأدنى لسن القيادة في Alabama هو 16؛ ومن عمره 15 سنة لا يمكنه القيادة إلا برخصة تعلّم ومع شخص بالغ مؤهَّل بجانبه.",
+      "p": "صحيح. الحد الأدنى لسن القيادة هو 16."
     }
   },
   {
@@ -4315,6 +4459,54 @@
       "h1": "Incluye a la mayoría de los estudiantes de secundaria, y un poco más.",
       "h2": "En Alabama todo solicitante de licencia menor de 19 años debe presentar un formulario vigente de inscripción o exclusión escolar, DL-1-93, firmado por la escuela.",
       "p": "Correcto. Los menores de 19 necesitan el formulario escolar."
+    },
+    "zh": {
+      "q": "在 Alabama，几岁以下的申请人必须带上有效的学生在学/除名表（Student Enrollment/Exclusion Form，DL-1-93）？",
+      "o": [
+        "16 岁以下",
+        "17 岁以下",
+        "21 岁以下",
+        "19 岁以下"
+      ],
+      "h1": "它包括大多数高中生，还要再大一点。",
+      "h2": "在 Alabama，所有 19 岁以下的驾照申请人都必须出示由学校签字的有效学生在学/除名表 DL-1-93。",
+      "p": "对。19 岁以下的申请人需要学校的表格。"
+    },
+    "vi": {
+      "q": "Ở Alabama, người nộp đơn dưới bao nhiêu tuổi phải mang theo Mẫu Ghi danh/Loại trừ Học sinh (Student Enrollment/Exclusion Form, DL-1-93) còn hiệu lực?",
+      "o": [
+        "Dưới 16",
+        "Dưới 17",
+        "Dưới 21",
+        "Dưới 19"
+      ],
+      "h1": "Nó bao gồm hầu hết học sinh trung học, và lớn hơn một chút.",
+      "h2": "Ở Alabama, mọi người xin bằng lái dưới 19 tuổi phải xuất trình Mẫu Ghi danh/Loại trừ Học sinh DL-1-93 còn hiệu lực, có chữ ký của nhà trường.",
+      "p": "Đúng. Người nộp đơn dưới 19 tuổi cần mẫu đơn của trường."
+    },
+    "tl": {
+      "q": "Sa Alabama, ang mga aplikanteng wala pang anong edad ang kailangang magdala ng kasalukuyang Student Enrollment/Exclusion Form (DL-1-93)?",
+      "o": [
+        "Wala pang 16",
+        "Wala pang 17",
+        "Wala pang 21",
+        "Wala pang 19"
+      ],
+      "h1": "Saklaw nito ang karamihan ng mga estudyante sa high school, at medyo mas matanda pa.",
+      "h2": "Sa Alabama, bawat aplikante ng lisensya na wala pang 19 taong gulang ay kailangang magpakita ng kasalukuyang Student Enrollment/Exclusion Form, DL-1-93, na pinirmahan ng paaralan.",
+      "p": "Tama. Kailangan ng mga aplikanteng wala pang 19 ang form mula sa paaralan."
+    },
+    "ar": {
+      "q": "في Alabama، المتقدّمون الذين تقلّ أعمارهم عن أي سن يجب أن يُحضروا نموذج تسجيل/استبعاد الطالب (Student Enrollment/Exclusion Form, DL-1-93) ساري المفعول؟",
+      "o": [
+        "أقل من 16",
+        "أقل من 17",
+        "أقل من 21",
+        "أقل من 19"
+      ],
+      "h1": "تشمل معظم طلاب المدارس الثانوية، وأكبر قليلًا.",
+      "h2": "في Alabama يجب على كل متقدّم للحصول على رخصة يقلّ عمره عن 19 سنة أن يقدّم نموذج تسجيل/استبعاد الطالب DL-1-93 ساري المفعول وموقّعًا من المدرسة.",
+      "p": "صحيح. المتقدّمون الذين تقلّ أعمارهم عن 19 يحتاجون إلى نموذج المدرسة."
     }
   },
   {
@@ -4349,6 +4541,54 @@
       "h1": "Está cerca del final del alfabeto.",
       "h2": "Una licencia de aprendiz de Alabama es una licencia Clase D con la restricción \"Y\", que significa que solo puede manejar con un conductor con licencia calificado a su lado.",
       "p": "Correcto. La licencia de aprendiz lleva la restricción Y."
+    },
+    "zh": {
+      "q": "在 Alabama，学习驾照上印的是哪个限制字母？",
+      "o": [
+        "B",
+        "Y",
+        "M",
+        "D"
+      ],
+      "h1": "它在字母表的末尾附近。",
+      "h2": "Alabama 的学习驾照是带有“Y”限制的 Class D 驾照，意思是你只能在旁边有合格持证驾驶人的情况下开车。",
+      "p": "对。学习驾照带有 Y 限制。"
+    },
+    "vi": {
+      "q": "Ở Alabama, chữ cái hạn chế nào được in trên giấy phép tập lái?",
+      "o": [
+        "B",
+        "Y",
+        "M",
+        "D"
+      ],
+      "h1": "Nó ở gần cuối bảng chữ cái.",
+      "h2": "Giấy phép tập lái ở Alabama là bằng lái Hạng D (Class D) có hạn chế \"Y\", nghĩa là bạn chỉ được lái xe khi có một người lái xe có bằng và đủ điều kiện ngồi bên cạnh.",
+      "p": "Đúng. Giấy phép tập lái có hạn chế Y."
+    },
+    "tl": {
+      "q": "Sa Alabama, anong restriction letter ang nakalimbag sa learner license?",
+      "o": [
+        "B",
+        "Y",
+        "M",
+        "D"
+      ],
+      "h1": "Malapit ito sa dulo ng alpabeto.",
+      "h2": "Ang learner license sa Alabama ay isang Class D license na may \"Y\" restriction, ibig sabihin ay puwede ka lang magmaneho kung may kuwalipikadong lisensyadong driver sa tabi mo.",
+      "p": "Tama. May Y restriction ang learner license."
+    },
+    "ar": {
+      "q": "في Alabama، ما حرف القيد المطبوع على رخصة التعلّم؟",
+      "o": [
+        "B",
+        "Y",
+        "M",
+        "D"
+      ],
+      "h1": "إنه قرب نهاية الأبجدية الإنجليزية.",
+      "h2": "رخصة التعلّم في Alabama هي رخصة من الفئة D (Class D) عليها قيد \"Y\"، ومعناه أنك لا تستطيع القيادة إلا ومعك سائق مرخَّص ومؤهَّل بجانبك.",
+      "p": "صحيح. رخصة التعلّم عليها قيد Y."
     }
   },
   {
@@ -4383,6 +4623,54 @@
       "h1": "La regla de los 21 años ya no se aplica después de cumplir 16.",
       "h2": "En Alabama, cuando el titular de una licencia de aprendiz cumple 16 años, cualquier conductor con licencia puede ir en el asiento de al lado mientras maneja.",
       "p": "Correcto. Después de los 16, cualquier conductor con licencia puede supervisar."
+    },
+    "zh": {
+      "q": "在 Alabama，一名学习驾驶的人刚满 16 岁。现在谁可以在他开车时坐在旁边？",
+      "o": [
+        "只有父母",
+        "只有驾驶教练",
+        "任何持证驾驶人",
+        "任何 14 岁或以上的乘客"
+      ],
+      "h1": "满 16 岁以后，21 岁的规定就不再适用。",
+      "h2": "在 Alabama，学习驾照持有人满 16 岁后，任何持证驾驶人都可以在他开车时坐在旁边的座位上。",
+      "p": "对。满 16 岁后，任何持证驾驶人都可以监护。"
+    },
+    "vi": {
+      "q": "Ở Alabama, một người tập lái vừa tròn 16 tuổi. Bây giờ ai được ngồi bên cạnh khi người đó lái xe?",
+      "o": [
+        "Chỉ cha hoặc mẹ",
+        "Chỉ giáo viên dạy lái xe",
+        "Bất kỳ người lái xe nào có bằng",
+        "Bất kỳ hành khách nào từ 14 tuổi trở lên"
+      ],
+      "h1": "Quy định về tuổi 21 không còn áp dụng sau sinh nhật 16 tuổi.",
+      "h2": "Ở Alabama, khi người có giấy phép tập lái tròn 16 tuổi, bất kỳ người lái xe nào có bằng đều được ngồi ở ghế bên cạnh khi người đó lái xe.",
+      "p": "Đúng. Sau 16 tuổi, bất kỳ người lái xe nào có bằng đều được giám sát."
+    },
+    "tl": {
+      "q": "Sa Alabama, kaka-16 lang ng isang learner. Sino na ngayon ang puwedeng umupo sa tabi niya habang nagmamaneho siya?",
+      "o": [
+        "Magulang lang",
+        "Driving instructor lang",
+        "Kahit sinong lisensyadong driver",
+        "Kahit sinong pasaherong edad 14 pataas"
+      ],
+      "h1": "Hindi na umiiral ang patakaran tungkol sa edad na 21 pagkatapos ng ika-16 na kaarawan.",
+      "h2": "Sa Alabama, kapag nag-16 na ang may hawak ng learner license, kahit sinong lisensyadong driver ay puwedeng umupo sa upuan sa tabi niya habang nagmamaneho siya.",
+      "p": "Tama. Pagkatapos ng 16, kahit sinong lisensyadong driver ay puwedeng magbantay."
+    },
+    "ar": {
+      "q": "في Alabama، أتمّ متعلّم القيادة للتو 16 سنة. من يمكنه الآن الجلوس بجانبه أثناء القيادة؟",
+      "o": [
+        "أحد الوالدين فقط",
+        "مدرّب القيادة فقط",
+        "أي سائق مرخَّص",
+        "أي راكب عمره 14 سنة أو أكثر"
+      ],
+      "h1": "قاعدة سن 21 لم تعد تنطبق بعد عيد الميلاد السادس عشر.",
+      "h2": "في Alabama، عندما يبلغ حامل رخصة التعلّم 16 سنة، يمكن لأي سائق مرخَّص أن يجلس في المقعد المجاور له أثناء القيادة.",
+      "p": "صحيح. بعد سن 16، يمكن لأي سائق مرخَّص أن يشرف عليه."
     }
   },
   {
@@ -4417,6 +4705,54 @@
       "h1": "Es un año menos que la edad de la licencia de aprendiz.",
       "h2": "En Alabama una persona de 14 o 15 años puede obtener una licencia Clase M restringida para manejar un ciclomotor de no más de 150cc.",
       "p": "Correcto. La licencia de ciclomotor empieza a los 14 años."
+    },
+    "zh": {
+      "q": "在 Alabama，最小几岁可以拿到小型机动脚踏车（motor-driven cycle）的限制驾照？",
+      "o": [
+        "12 岁",
+        "13 岁",
+        "16 岁",
+        "14 岁"
+      ],
+      "h1": "它比学习驾照的年龄小一岁。",
+      "h2": "在 Alabama，14 或 15 岁的人可以拿到限制性 Class M 驾照，骑不超过 150cc 的小型机动脚踏车。",
+      "p": "对。小型机动脚踏车驾照从 14 岁开始。"
+    },
+    "vi": {
+      "q": "Ở Alabama, tuổi nhỏ nhất để được cấp bằng lái hạn chế cho xe máy nhỏ (motor-driven cycle) là bao nhiêu?",
+      "o": [
+        "12 tuổi",
+        "13 tuổi",
+        "16 tuổi",
+        "14 tuổi"
+      ],
+      "h1": "Nhỏ hơn tuổi được cấp giấy phép tập lái một năm.",
+      "h2": "Ở Alabama, người 14 hoặc 15 tuổi có thể được cấp bằng lái Hạng M (Class M) hạn chế để chạy xe máy nhỏ không quá 150cc.",
+      "p": "Đúng. Bằng lái xe máy nhỏ bắt đầu từ 14 tuổi."
+    },
+    "tl": {
+      "q": "Sa Alabama, ano ang pinakabatang edad para makakuha ng restricted license para sa maliit na motor-driven cycle?",
+      "o": [
+        "12 taong gulang",
+        "13 taong gulang",
+        "16 taong gulang",
+        "14 taong gulang"
+      ],
+      "h1": "Isang taon itong mas bata kaysa sa edad para sa learner license.",
+      "h2": "Sa Alabama, ang taong 14 o 15 taong gulang ay puwedeng kumuha ng restricted Class M license para magmaneho ng motor-driven cycle na hindi hihigit sa 150cc.",
+      "p": "Tama. Nagsisimula sa 14 ang lisensya para sa motor-driven cycle."
+    },
+    "ar": {
+      "q": "في Alabama، ما أصغر سن للحصول على رخصة مقيَّدة لدراجة آلية صغيرة (motor-driven cycle)؟",
+      "o": [
+        "12 سنة",
+        "13 سنة",
+        "16 سنة",
+        "14 سنة"
+      ],
+      "h1": "إنها أصغر بسنة واحدة من سن رخصة التعلّم.",
+      "h2": "في Alabama يمكن لمن عمره 14 أو 15 سنة الحصول على رخصة مقيَّدة من الفئة M (Class M) لقيادة دراجة آلية لا تزيد سعة محرّكها على 150cc.",
+      "p": "صحيح. رخصة الدراجة الآلية تبدأ من سن 14."
     }
   },
   {
@@ -4451,6 +4787,54 @@
       "h1": "Es la mitad del cargo básico de restablecimiento.",
       "h2": "En Alabama, si no entrega una licencia suspendida, revocada o cancelada en el plazo indicado, se agrega un cargo adicional de $50 al cargo de restablecimiento.",
       "p": "Correcto. No entregar la licencia cuesta $50 más."
+    },
+    "zh": {
+      "q": "在 Alabama，你的驾照被暂停，而你没有按时交回。恢复驾照时会加收多少额外费用？",
+      "o": [
+        "$50",
+        "$5",
+        "$25",
+        "$500"
+      ],
+      "h1": "它是基本恢复费的一半。",
+      "h2": "在 Alabama，如果你没有在规定时间内交回被暂停、吊销或取消的驾照，恢复费之外会再加收 $50。",
+      "p": "对。不交回驾照要多付 $50。"
+    },
+    "vi": {
+      "q": "Ở Alabama, bằng lái của bạn bị đình chỉ và bạn không nộp lại đúng hạn. Khi phục hồi bằng lái, bạn phải trả thêm khoản phí nào?",
+      "o": [
+        "$50",
+        "$5",
+        "$25",
+        "$500"
+      ],
+      "h1": "Bằng một nửa phí phục hồi cơ bản.",
+      "h2": "Ở Alabama, nếu bạn không nộp lại bằng lái bị đình chỉ, thu hồi hoặc hủy bỏ trong thời gian cho phép, sẽ có thêm khoản phí $50 cộng vào phí phục hồi.",
+      "p": "Đúng. Không nộp lại bằng lái sẽ tốn thêm $50."
+    },
+    "tl": {
+      "q": "Sa Alabama, suspendido ang lisensya mo at hindi mo ito isinauli sa tamang oras. Anong dagdag na bayad ang idaragdag kapag ibinalik ito sa iyo (reinstatement)?",
+      "o": [
+        "$50",
+        "$5",
+        "$25",
+        "$500"
+      ],
+      "h1": "Kalahati ito ng pangunahing reinstatement fee.",
+      "h2": "Sa Alabama, kung hindi mo isinuko ang suspendido, revoked, o kinanselang lisensya sa takdang oras, may dagdag na $50 sa reinstatement fee.",
+      "p": "Tama. Dagdag na $50 ang hindi pagsauli ng lisensya."
+    },
+    "ar": {
+      "q": "في Alabama، رخصتك موقوفة ولم تسلّمها في الوقت المحدد. ما الرسم الإضافي الذي يُضاف عند استعادتها؟",
+      "o": [
+        "$50",
+        "$5",
+        "$25",
+        "$500"
+      ],
+      "h1": "إنه نصف رسم الاستعادة الأساسي.",
+      "h2": "في Alabama، إذا لم تسلّم رخصة موقوفة أو مسحوبة أو ملغاة في المدة المسموح بها، يُضاف رسم إضافي قدره $50 إلى رسم الاستعادة.",
+      "p": "صحيح. عدم تسليم الرخصة يكلّفك $50 إضافية."
     }
   },
   {
@@ -4485,6 +4869,54 @@
       "h1": "Una licencia revocada no se vuelve a activar así nada más.",
       "h2": "En Alabama, cuando termina un período de revocación, el conductor debe solicitar una licencia nueva y tomar y aprobar otra vez todos los exámenes.",
       "p": "Correcto. Después de una revocación debe aprobar todos los exámenes otra vez."
+    },
+    "zh": {
+      "q": "在 Alabama，驾照吊销期结束后，驾驶人必须做什么才能拿到新驾照？",
+      "o": [
+        "只要付一小笔费用",
+        "通过全部驾驶考试",
+        "再等一年",
+        "只做视力检查"
+      ],
+      "h1": "被吊销的驾照不会简单地恢复使用。",
+      "h2": "在 Alabama，吊销期结束后，驾驶人必须申请新驾照，并重新参加并通过全部考试。",
+      "p": "对。驾照被吊销后，你必须重新通过所有考试。"
+    },
+    "vi": {
+      "q": "Ở Alabama, sau khi hết thời gian bị thu hồi bằng lái, người lái xe phải làm gì để được cấp bằng lái mới?",
+      "o": [
+        "Chỉ cần trả một khoản phí nhỏ",
+        "Thi đậu toàn bộ các bài thi lái xe",
+        "Chờ thêm một năm",
+        "Chỉ kiểm tra thị lực"
+      ],
+      "h1": "Bằng lái bị thu hồi không chỉ đơn giản được mở lại.",
+      "h2": "Ở Alabama, khi hết thời gian thu hồi, người lái xe phải nộp đơn xin bằng lái mới và thi lại, đậu toàn bộ các bài thi.",
+      "p": "Đúng. Sau khi bị thu hồi, bạn phải thi đậu lại tất cả các bài thi."
+    },
+    "tl": {
+      "q": "Sa Alabama, pagkatapos ng panahon ng revocation ng lisensya, ano ang kailangang gawin ng driver para makakuha ng bagong lisensya?",
+      "o": [
+        "Magbayad lang ng maliit na bayad",
+        "Pumasa sa kumpletong driver exams",
+        "Maghintay pa ng isang taon",
+        "Kumuha lang ng vision test"
+      ],
+      "h1": "Hindi basta ibinabalik ang na-revoke na lisensya.",
+      "h2": "Sa Alabama, kapag tapos na ang panahon ng revocation, kailangang mag-apply ang driver para sa bagong lisensya at kumuha at pumasa ulit sa kumpletong mga exam.",
+      "p": "Tama. Pagkatapos ng revocation, kailangan mong pumasa ulit sa lahat ng exam."
+    },
+    "ar": {
+      "q": "في Alabama، بعد انتهاء مدة سحب الرخصة، ماذا يجب على السائق أن يفعل للحصول على رخصة جديدة؟",
+      "o": [
+        "أن يدفع رسمًا صغيرًا فقط",
+        "أن يجتاز امتحانات القيادة كاملة",
+        "أن ينتظر سنة أخرى",
+        "أن يجري فحص النظر فقط"
+      ],
+      "h1": "الرخصة المسحوبة لا يُعاد تفعيلها ببساطة.",
+      "h2": "في Alabama، عندما تنتهي مدة السحب، يجب على السائق أن يتقدّم بطلب رخصة جديدة وأن يخضع للامتحانات كاملة مرة أخرى وينجح فيها.",
+      "p": "صحيح. بعد سحب الرخصة يجب أن تجتاز كل الامتحانات مرة أخرى."
     }
   },
   {
@@ -4519,6 +4951,54 @@
       "h1": "Son más de dos.",
       "h2": "En Alabama la licencia debe revocarse cuando un conductor es condenado por manejo imprudente tres veces en 12 meses.",
       "p": "Correcto. Tres condenas por manejo imprudente en 12 meses significan revocación."
+    },
+    "zh": {
+      "q": "在 Alabama，12 个月内有几次鲁莽驾驶定罪，驾照就必须被吊销？",
+      "o": [
+        "一次",
+        "两次",
+        "三次",
+        "五次"
+      ],
+      "h1": "多于两次。",
+      "h2": "在 Alabama，驾驶人在 12 个月内三次被判鲁莽驾驶，驾照就必须被吊销。",
+      "p": "对。12 个月内三次鲁莽驾驶定罪就会被吊销驾照。"
+    },
+    "vi": {
+      "q": "Ở Alabama, bao nhiêu lần bị kết tội lái xe liều lĩnh trong vòng 12 tháng thì bằng lái bắt buộc bị thu hồi?",
+      "o": [
+        "Một",
+        "Hai",
+        "Ba",
+        "Năm"
+      ],
+      "h1": "Nhiều hơn hai.",
+      "h2": "Ở Alabama, bằng lái phải bị thu hồi khi người lái xe bị kết tội lái xe liều lĩnh ba lần trong vòng 12 tháng.",
+      "p": "Đúng. Ba lần bị kết tội lái xe liều lĩnh trong 12 tháng thì bị thu hồi bằng lái."
+    },
+    "tl": {
+      "q": "Sa Alabama, ilang conviction para sa reckless driving sa loob ng 12 buwan ang dahilan para ma-revoke ang lisensya?",
+      "o": [
+        "Isa",
+        "Dalawa",
+        "Tatlo",
+        "Lima"
+      ],
+      "h1": "Higit ito sa dalawa.",
+      "h2": "Sa Alabama, kailangang i-revoke ang lisensya kapag tatlong beses na-convict ang driver sa reckless driving sa loob ng 12 buwan.",
+      "p": "Tama. Ang tatlong conviction sa reckless driving sa loob ng 12 buwan ay nangangahulugang revocation."
+    },
+    "ar": {
+      "q": "في Alabama، كم إدانة بالقيادة المتهوّرة خلال 12 شهرًا توجب سحب الرخصة؟",
+      "o": [
+        "واحدة",
+        "اثنتان",
+        "ثلاث",
+        "خمس"
+      ],
+      "h1": "أكثر من اثنتين.",
+      "h2": "في Alabama يجب سحب الرخصة عندما يُدان السائق بالقيادة المتهوّرة ثلاث مرات خلال 12 شهرًا.",
+      "p": "صحيح. ثلاث إدانات بالقيادة المتهوّرة خلال 12 شهرًا تعني سحب الرخصة."
     }
   },
   {
@@ -4553,6 +5033,54 @@
       "h1": "Para un conductor nuevo bastan muy pocas multas.",
       "h2": "En Alabama a un conductor con licencia graduada se le puede suspender después de 2 o más infracciones de tránsito en movimiento.",
       "p": "Correcto. Dos infracciones en movimiento pueden suspender una licencia GDL."
+    },
+    "zh": {
+      "q": "在 Alabama，持分级驾照（GDL）的青少年在几次行驶中交通违规后可能被暂停驾照？",
+      "o": [
+        "五次",
+        "四次",
+        "三次",
+        "两次"
+      ],
+      "h1": "新驾驶人只要很少几张罚单就会这样。",
+      "h2": "在 Alabama，持分级驾照的驾驶人有 2 次或以上行驶中交通违规后，驾照可能被暂停。",
+      "p": "对。两次行驶中违规就可能让 GDL 驾照被暂停。"
+    },
+    "vi": {
+      "q": "Ở Alabama, một thiếu niên có bằng lái theo từng cấp (GDL) có thể bị đình chỉ bằng lái sau bao nhiêu lần vi phạm giao thông khi đang chạy xe?",
+      "o": [
+        "Năm",
+        "Bốn",
+        "Ba",
+        "Hai"
+      ],
+      "h1": "Với người mới lái, chỉ cần rất ít vé phạt.",
+      "h2": "Ở Alabama, người lái xe có bằng lái theo từng cấp có thể bị đình chỉ bằng lái sau 2 lần vi phạm giao thông khi đang chạy xe trở lên.",
+      "p": "Đúng. Hai lần vi phạm khi đang chạy xe có thể khiến bằng GDL bị đình chỉ."
+    },
+    "tl": {
+      "q": "Sa Alabama, ang kabataang may graduated (GDL) license ay puwedeng ma-suspend ang lisensya pagkatapos ng ilang moving traffic violation?",
+      "o": [
+        "Lima",
+        "Apat",
+        "Tatlo",
+        "Dalawa"
+      ],
+      "h1": "Kaunting tiket lang ang kailangan para sa bagong driver.",
+      "h2": "Sa Alabama, ang driver na may graduated driver license ay puwedeng ma-suspend pagkatapos ng 2 o higit pang moving traffic violation.",
+      "p": "Tama. Ang dalawang moving violation ay puwedeng magpa-suspend ng GDL license."
+    },
+    "ar": {
+      "q": "في Alabama، المراهق الذي يحمل رخصة متدرّجة (GDL) يمكن إيقاف رخصته بعد كم مخالفة مرورية أثناء القيادة؟",
+      "o": [
+        "خمس",
+        "أربع",
+        "ثلاث",
+        "اثنتان"
+      ],
+      "h1": "يكفي عدد قليل جدًا من المخالفات للسائق الجديد.",
+      "h2": "في Alabama يمكن إيقاف رخصة السائق الذي يحمل رخصة قيادة متدرّجة بعد 2 أو أكثر من المخالفات المرورية أثناء القيادة.",
+      "p": "صحيح. مخالفتان أثناء القيادة يمكن أن تؤديا إلى إيقاف رخصة GDL."
     }
   },
   {
@@ -4587,6 +5115,54 @@
       "h1": "Es el valor más alto de la lista de puntos de Alabama.",
       "h2": "En Alabama una condena por tomar alcohol y manejar que no exige revocación obligatoria agrega 6 puntos al historial de manejo.",
       "p": "Correcto. Agrega 6 puntos."
+    },
+    "zh": {
+      "q": "在 Alabama，酒后驾驶定罪如果不导致强制吊销驾照，会加几分？",
+      "o": [
+        "6 分",
+        "2 分",
+        "3 分",
+        "4 分"
+      ],
+      "h1": "它是 Alabama 记分表上最高的分值。",
+      "h2": "在 Alabama，酒后驾驶的定罪如果不需要强制吊销驾照，会在驾驶记录上加 6 分。",
+      "p": "对。会加 6 分。"
+    },
+    "vi": {
+      "q": "Ở Alabama, một lần bị kết tội uống rượu khi lái xe mà không dẫn đến thu hồi bằng lái bắt buộc thì bị cộng bao nhiêu điểm?",
+      "o": [
+        "6 điểm",
+        "2 điểm",
+        "3 điểm",
+        "4 điểm"
+      ],
+      "h1": "Đó là mức cao nhất trong bảng điểm của Alabama.",
+      "h2": "Ở Alabama, một lần bị kết tội uống rượu và lái xe mà không bắt buộc thu hồi bằng lái sẽ cộng 6 điểm vào hồ sơ lái xe.",
+      "p": "Đúng. Bị cộng 6 điểm."
+    },
+    "tl": {
+      "q": "Sa Alabama, ilang puntos ang idinadagdag ng conviction sa pag-inom at pagmamaneho kapag hindi ito nagdudulot ng mandatory revocation?",
+      "o": [
+        "6 puntos",
+        "2 puntos",
+        "3 puntos",
+        "4 puntos"
+      ],
+      "h1": "Ito ang pinakamataas na halaga sa listahan ng puntos ng Alabama.",
+      "h2": "Sa Alabama, ang conviction sa pag-inom ng alak at pagmamaneho na hindi nangangailangan ng mandatory revocation ay nagdadagdag ng 6 na puntos sa driving record.",
+      "p": "Tama. Nagdadagdag ito ng 6 na puntos."
+    },
+    "ar": {
+      "q": "في Alabama، كم نقطة تُضاف بسبب إدانة بالشرب والقيادة إذا لم تؤدِّ إلى سحب إلزامي للرخصة؟",
+      "o": [
+        "6 نقاط",
+        "2 نقطة",
+        "3 نقاط",
+        "4 نقاط"
+      ],
+      "h1": "إنها أعلى قيمة في قائمة النقاط في Alabama.",
+      "h2": "في Alabama، الإدانة بشرب الكحول والقيادة التي لا تتطلّب سحبًا إلزاميًا للرخصة تضيف 6 نقاط إلى سجل القيادة.",
+      "p": "صحيح. تُضاف 6 نقاط."
     }
   },
   {
@@ -4621,6 +5197,54 @@
       "h1": "Es lo mismo que por pasar a un autobús escolar detenido.",
       "h2": "En Alabama una condena por no ceder el paso agrega 5 puntos a su historial de manejo.",
       "p": "Correcto. No ceder el paso son 5 puntos."
+    },
+    "zh": {
+      "q": "在 Alabama，未让行（不给对方先行权）会加几分？",
+      "o": [
+        "2 分",
+        "5 分",
+        "1 分",
+        "8 分"
+      ],
+      "h1": "它和超越停下的校车一样。",
+      "h2": "在 Alabama，因未让行被定罪会在你的驾驶记录上加 5 分。",
+      "p": "对。未让行是 5 分。"
+    },
+    "vi": {
+      "q": "Ở Alabama, không nhường quyền ưu tiên đi trước bị cộng bao nhiêu điểm?",
+      "o": [
+        "2 điểm",
+        "5 điểm",
+        "1 điểm",
+        "8 điểm"
+      ],
+      "h1": "Bằng với việc vượt xe buýt trường học đang dừng.",
+      "h2": "Ở Alabama, bị kết tội không nhường quyền ưu tiên đi trước sẽ cộng 5 điểm vào hồ sơ lái xe của bạn.",
+      "p": "Đúng. Không nhường quyền ưu tiên là 5 điểm."
+    },
+    "tl": {
+      "q": "Sa Alabama, ilang puntos ang idinadagdag kapag hindi ka nagbigay ng right of way?",
+      "o": [
+        "2 puntos",
+        "5 puntos",
+        "1 punto",
+        "8 puntos"
+      ],
+      "h1": "Pareho ito ng paglampas sa nakahintong school bus.",
+      "h2": "Sa Alabama, ang conviction sa hindi pagbibigay ng right of way ay nagdadagdag ng 5 puntos sa driving record mo.",
+      "p": "Tama. 5 puntos ang hindi pagbibigay ng right of way."
+    },
+    "ar": {
+      "q": "في Alabama، كم نقطة تُضاف بسبب عدم إعطاء حق الأولوية في المرور؟",
+      "o": [
+        "2 نقطة",
+        "5 نقاط",
+        "1 نقطة",
+        "8 نقاط"
+      ],
+      "h1": "إنها مثل تجاوز حافلة مدرسية متوقفة.",
+      "h2": "في Alabama، الإدانة بعدم إعطاء حق الأولوية في المرور تضيف 5 نقاط إلى سجل قيادتك.",
+      "p": "صحيح. عدم إعطاء حق الأولوية يساوي 5 نقاط."
     }
   },
   {
@@ -4655,6 +5279,54 @@
       "h1": "Es más que una multa por exceso de velocidad de 1 a 25 mph.",
       "h2": "En Alabama una condena por seguir demasiado cerca agrega 3 puntos a su historial de manejo.",
       "p": "Correcto. Seguir demasiado cerca son 3 puntos."
+    },
+    "zh": {
+      "q": "在 Alabama，跟车太近会加几分？",
+      "o": [
+        "1 分",
+        "6 分",
+        "3 分",
+        "5 分"
+      ],
+      "h1": "它比超速每小时 1 到 25 英里（mph）的罚单分数多。",
+      "h2": "在 Alabama，因跟车太近被定罪会在你的驾驶记录上加 3 分。",
+      "p": "对。跟车太近是 3 分。"
+    },
+    "vi": {
+      "q": "Ở Alabama, chạy xe bám quá sát xe khác bị cộng bao nhiêu điểm?",
+      "o": [
+        "1 điểm",
+        "6 điểm",
+        "3 điểm",
+        "5 điểm"
+      ],
+      "h1": "Nhiều hơn vé phạt chạy quá tốc độ 1 đến 25 dặm/giờ (mph).",
+      "h2": "Ở Alabama, bị kết tội chạy bám quá sát xe khác sẽ cộng 3 điểm vào hồ sơ lái xe của bạn.",
+      "p": "Đúng. Chạy bám quá sát là 3 điểm."
+    },
+    "tl": {
+      "q": "Sa Alabama, ilang puntos ang idinadagdag sa pagsunod nang masyadong malapit sa ibang sasakyan?",
+      "o": [
+        "1 punto",
+        "6 puntos",
+        "3 puntos",
+        "5 puntos"
+      ],
+      "h1": "Mas mataas ito kaysa sa tiket sa pag-speeding nang 1 hanggang 25 milya bawat oras (mph) na lampas sa limit.",
+      "h2": "Sa Alabama, ang conviction sa pagsunod nang masyadong malapit ay nagdadagdag ng 3 puntos sa driving record mo.",
+      "p": "Tama. 3 puntos ang pagsunod nang masyadong malapit."
+    },
+    "ar": {
+      "q": "في Alabama، كم نقطة تُضاف بسبب السير خلف مركبة أخرى على مسافة قريبة جدًا؟",
+      "o": [
+        "1 نقطة",
+        "6 نقاط",
+        "3 نقاط",
+        "5 نقاط"
+      ],
+      "h1": "إنها أكثر من مخالفة السرعة بزيادة 1 إلى 25 ميلًا في الساعة (mph).",
+      "h2": "في Alabama، الإدانة بالسير على مسافة قريبة جدًا من المركبة الأمامية تضيف 3 نقاط إلى سجل قيادتك.",
+      "p": "صحيح. السير على مسافة قريبة جدًا يساوي 3 نقاط."
     }
   },
   {
@@ -4689,6 +5361,54 @@
       "h1": "Es la cantidad más pequeña de la lista; sube con cada infracción.",
       "h2": "En Alabama una primera infracción por enviar mensajes de texto mientras maneja trae una multa de $25, luego $50 por la segunda y $75 por la tercera o siguientes.",
       "p": "Correcto. La primera multa por textear es de $25."
+    },
+    "zh": {
+      "q": "在 Alabama，开车时发短信第一次违规的罚款是多少？",
+      "o": [
+        "$100",
+        "$250",
+        "$500",
+        "$25"
+      ],
+      "h1": "它是选项中最小的金额；每多违规一次，罚款就会增加。",
+      "h2": "在 Alabama，第一次开车发短信违规罚款 $25，第二次 $50，第三次或以后 $75。",
+      "p": "对。第一次发短信罚款是 $25。"
+    },
+    "vi": {
+      "q": "Ở Alabama, tiền phạt cho lần đầu nhắn tin khi lái xe là bao nhiêu?",
+      "o": [
+        "$100",
+        "$250",
+        "$500",
+        "$25"
+      ],
+      "h1": "Đó là số tiền nhỏ nhất trong danh sách; số tiền tăng lên sau mỗi lần vi phạm.",
+      "h2": "Ở Alabama, lần đầu vi phạm nhắn tin khi lái xe bị phạt $25, lần thứ hai $50, và lần thứ ba trở đi $75.",
+      "p": "Đúng. Tiền phạt nhắn tin lần đầu là $25."
+    },
+    "tl": {
+      "q": "Sa Alabama, magkano ang multa sa unang paglabag sa pagte-text habang nagmamaneho?",
+      "o": [
+        "$100",
+        "$250",
+        "$500",
+        "$25"
+      ],
+      "h1": "Ito ang pinakamaliit na halaga sa listahan; tumataas ito sa bawat paglabag.",
+      "h2": "Sa Alabama, ang unang paglabag sa pagte-text habang nagmamaneho ay may multang $25, pagkatapos ay $50 sa pangalawa at $75 sa pangatlo o mga susunod pa.",
+      "p": "Tama. $25 ang multa sa unang pagte-text."
+    },
+    "ar": {
+      "q": "في Alabama، ما غرامة المخالفة الأولى لإرسال الرسائل النصية أثناء القيادة؟",
+      "o": [
+        "$100",
+        "$250",
+        "$500",
+        "$25"
+      ],
+      "h1": "إنها أصغر مبلغ في القائمة؛ وتزداد مع كل مخالفة.",
+      "h2": "في Alabama، المخالفة الأولى لإرسال الرسائل النصية أثناء القيادة غرامتها $25، ثم $50 للمخالفة الثانية، و$75 للمخالفة الثالثة أو ما بعدها.",
+      "p": "صحيح. غرامة المخالفة الأولى للرسائل النصية هي $25."
     }
   },
   {
@@ -4723,6 +5443,54 @@
       "h1": "Es más o menos un mes.",
       "h2": "En Alabama, cuando el conductor culpable no tenía seguro y el choque causó lesiones, una muerte o $500 o más en daños, el formulario escrito SR-31 debe enviarse dentro de 30 días.",
       "p": "Correcto. El formulario SR-31 se envía dentro de 30 días."
+    },
+    "zh": {
+      "q": "在 Alabama，车祸后必须提交 SR-31 表格时，你有几天时间寄出？",
+      "o": [
+        "30 天",
+        "5 天",
+        "10 天",
+        "1 年"
+      ],
+      "h1": "大约是一个月。",
+      "h2": "在 Alabama，如果有过错的司机没有保险，而且车祸造成受伤、死亡或 $500 或以上的损失，就必须在 30 天内寄出书面的 SR-31 表格。",
+      "p": "对。SR-31 表格要在 30 天内交。"
+    },
+    "vi": {
+      "q": "Ở Alabama, khi phải nộp mẫu đơn SR-31 sau một vụ tai nạn, bạn có bao nhiêu ngày để gửi đi?",
+      "o": [
+        "30 ngày",
+        "5 ngày",
+        "10 ngày",
+        "1 năm"
+      ],
+      "h1": "Khoảng một tháng.",
+      "h2": "Ở Alabama, khi người lái có lỗi không có bảo hiểm và vụ tai nạn gây thương tích, tử vong, hoặc thiệt hại từ $500 trở lên, mẫu đơn SR-31 bằng văn bản phải được gửi trong vòng 30 ngày.",
+      "p": "Đúng. Mẫu đơn SR-31 phải nộp trong vòng 30 ngày."
+    },
+    "tl": {
+      "q": "Sa Alabama, kapag kailangang mag-file ng Form SR-31 pagkatapos ng banggaan, ilang araw ang mayroon ka para ipadala ito?",
+      "o": [
+        "30 araw",
+        "5 araw",
+        "10 araw",
+        "1 taon"
+      ],
+      "h1": "Mga isang buwan ito.",
+      "h2": "Sa Alabama, kapag walang insurance ang drayber na may kasalanan at nagdulot ang banggaan ng pinsala sa tao, kamatayan, o $500 o higit pang sira, kailangang ipadala ang nakasulat na SR-31 form sa loob ng 30 araw.",
+      "p": "Tama. Kailangang ipadala ang SR-31 form sa loob ng 30 araw."
+    },
+    "ar": {
+      "q": "في Alabama، عندما يجب تقديم النموذج SR-31 بعد حادث، كم يومًا لديك لإرساله؟",
+      "o": [
+        "30 يومًا",
+        "5 أيام",
+        "10 أيام",
+        "سنة واحدة"
+      ],
+      "h1": "المدة نحو شهر واحد.",
+      "h2": "في Alabama، إذا لم يكن السائق المخطئ مؤمَّنًا وسبّب الحادث إصابة أو وفاة أو أضرارًا بقيمة $500 أو أكثر، يجب إرسال النموذج المكتوب SR-31 خلال 30 يومًا.",
+      "p": "صحيح. يجب تقديم النموذج SR-31 خلال 30 يومًا."
     }
   },
   {
@@ -4757,6 +5525,54 @@
       "h1": "Es medio año.",
       "h2": "En Alabama una condena por no tener el seguro de responsabilidad obligatorio puede traer una multa y/o una suspensión de la licencia de seis meses.",
       "p": "Correcto. Puede significar una suspensión de seis meses."
+    },
+    "zh": {
+      "q": "在 Alabama，违反责任保险规定，除了罚款，还可能受到什么驾照处罚？",
+      "o": [
+        "暂停驾照 30 天",
+        "暂停驾照六个月",
+        "吊销驾照五年",
+        "没有驾照处罚"
+      ],
+      "h1": "是半年。",
+      "h2": "在 Alabama，因为没有规定的责任保险而被定罪，可能被罚款和/或暂停驾照六个月。",
+      "p": "对。可能会暂停驾照六个月。"
+    },
+    "vi": {
+      "q": "Ở Alabama, ngoài tiền phạt, vi phạm luật bảo hiểm trách nhiệm có thể bị phạt gì đối với bằng lái?",
+      "o": [
+        "Bị đình chỉ 30 ngày",
+        "Bị đình chỉ sáu tháng",
+        "Bị thu hồi năm năm",
+        "Không bị phạt gì về bằng lái"
+      ],
+      "h1": "Đó là nửa năm.",
+      "h2": "Ở Alabama, bị kết tội vì không có bảo hiểm trách nhiệm bắt buộc có thể bị phạt tiền và/hoặc bị đình chỉ bằng lái sáu tháng.",
+      "p": "Đúng. Có thể bị đình chỉ bằng lái sáu tháng."
+    },
+    "tl": {
+      "q": "Sa Alabama, bukod sa multa, anong parusa sa lisensya ang puwedeng ibigay sa paglabag sa liability insurance?",
+      "o": [
+        "30 araw na suspensyon",
+        "Anim na buwang suspensyon",
+        "Limang taong pagbawi ng lisensya",
+        "Walang parusa sa lisensya"
+      ],
+      "h1": "Kalahating taon ito.",
+      "h2": "Sa Alabama, ang paghatol dahil walang kinakailangang liability insurance ay puwedeng magdulot ng multa at/o anim na buwang suspensyon ng driver license.",
+      "p": "Tama. Puwede itong magdulot ng anim na buwang suspensyon."
+    },
+    "ar": {
+      "q": "في Alabama، إلى جانب الغرامة، ما عقوبة الرخصة التي قد تنتج عن مخالفة تأمين المسؤولية؟",
+      "o": [
+        "إيقاف لمدة 30 يومًا",
+        "إيقاف لمدة ستة أشهر",
+        "سحب الرخصة لمدة خمس سنوات",
+        "لا عقوبة على الرخصة"
+      ],
+      "h1": "المدة نصف سنة.",
+      "h2": "في Alabama قد تؤدي الإدانة بعدم وجود تأمين المسؤولية المطلوب إلى غرامة و/أو إيقاف رخصة القيادة لمدة ستة أشهر.",
+      "p": "صحيح. قد يعني ذلك إيقاف الرخصة لمدة ستة أشهر."
     }
   },
   {
@@ -4791,6 +5607,54 @@
       "h1": "Es el mismo límite bajo que se usa para los conductores menores de 21 años.",
       "h2": "En Alabama un conductor de autobús escolar o de guardería viola la ley de DUI con un nivel de alcohol en la sangre de 0.02 por ciento o más.",
       "p": "Correcto. Para conductores de autobús escolar y guardería el límite es 0.02."
+    },
+    "zh": {
+      "q": "在 Alabama，校车或日托车司机的血液酒精浓度达到多少，在法律上就算受酒精影响？",
+      "o": [
+        "0.08% 或以上",
+        "0.10% 或以上",
+        "0.02% 或以上",
+        "0.05% 或以上"
+      ],
+      "h1": "这和 21 岁以下司机用的低标准一样。",
+      "h2": "在 Alabama，校车或日托车司机血液酒精浓度达到 0.02% 或以上，就违反了 DUI 法律。",
+      "p": "对。校车和日托车司机的限制是 0.02。"
+    },
+    "vi": {
+      "q": "Ở Alabama, người lái xe buýt trường học hoặc xe nhà trẻ bị coi là say xỉn theo luật ở nồng độ cồn trong máu bao nhiêu?",
+      "o": [
+        "0.08 phần trăm trở lên",
+        "0.10 phần trăm trở lên",
+        "0.02 phần trăm trở lên",
+        "0.05 phần trăm trở lên"
+      ],
+      "h1": "Đó là cùng mức giới hạn thấp áp dụng cho người lái dưới 21 tuổi.",
+      "h2": "Ở Alabama, người lái xe buýt trường học hoặc xe nhà trẻ vi phạm luật DUI khi nồng độ cồn trong máu từ 0.02 phần trăm trở lên.",
+      "p": "Đúng. Với người lái xe buýt trường học và xe nhà trẻ, giới hạn là 0.02."
+    },
+    "tl": {
+      "q": "Sa Alabama, sa anong blood alcohol level itinuturing na lasing ayon sa batas ang drayber ng school bus o daycare?",
+      "o": [
+        "0.08 porsiyento o higit pa",
+        "0.10 porsiyento o higit pa",
+        "0.02 porsiyento o higit pa",
+        "0.05 porsiyento o higit pa"
+      ],
+      "h1": "Ito rin ang mababang limit para sa mga drayber na wala pang 21.",
+      "h2": "Sa Alabama, lumalabag sa batas ng DUI ang drayber ng school bus o daycare kapag ang blood alcohol level niya ay 0.02 porsiyento o higit pa.",
+      "p": "Tama. Para sa mga drayber ng school bus at daycare, 0.02 ang limit."
+    },
+    "ar": {
+      "q": "في Alabama، عند أي نسبة كحول في الدم يُعدّ سائق الحافلة المدرسية أو حافلة الحضانة قانونيًا تحت التأثير؟",
+      "o": [
+        "0.08 بالمئة أو أكثر",
+        "0.10 بالمئة أو أكثر",
+        "0.02 بالمئة أو أكثر",
+        "0.05 بالمئة أو أكثر"
+      ],
+      "h1": "إنه الحدّ المنخفض نفسه المطبَّق على السائقين الذين أعمارهم أقل من 21 سنة.",
+      "h2": "في Alabama يخالف سائق الحافلة المدرسية أو حافلة الحضانة قانون القيادة تحت التأثير (DUI) إذا كانت نسبة الكحول في دمه 0.02 بالمئة أو أكثر.",
+      "p": "صحيح. الحدّ لسائقي الحافلات المدرسية وحافلات الحضانة هو 0.02."
     }
   },
   {
@@ -4825,6 +5689,54 @@
       "h1": "Empieza en varios cientos de dólares y puede pasar de dos mil.",
       "h2": "En Alabama una primera condena por DUI trae una multa de $600 a $2,100, hasta un año de cárcel, o ambas.",
       "p": "Correcto. La multa por un primer DUI es de $600 a $2,100."
+    },
+    "zh": {
+      "q": "在 Alabama，第一次 DUI 定罪的罚款范围是多少？",
+      "o": [
+        "$50 到 $100",
+        "$100 到 $500",
+        "$5,000 到 $10,000",
+        "$600 到 $2,100"
+      ],
+      "h1": "从几百美元开始，最多可以超过两千美元。",
+      "h2": "在 Alabama，第一次 DUI 定罪会被罚款 $600 到 $2,100，或最多坐牢一年，或两者都有。",
+      "p": "对。第一次 DUI 的罚款是 $600 到 $2,100。"
+    },
+    "vi": {
+      "q": "Ở Alabama, mức phạt tiền cho lần đầu bị kết tội DUI là bao nhiêu?",
+      "o": [
+        "$50 đến $100",
+        "$100 đến $500",
+        "$5,000 đến $10,000",
+        "$600 đến $2,100"
+      ],
+      "h1": "Bắt đầu từ vài trăm đô la và có thể hơn hai nghìn đô la.",
+      "h2": "Ở Alabama, lần đầu bị kết tội DUI bị phạt tiền từ $600 đến $2,100, ngồi tù đến một năm, hoặc cả hai.",
+      "p": "Đúng. Tiền phạt DUI lần đầu là $600 đến $2,100."
+    },
+    "tl": {
+      "q": "Sa Alabama, magkano ang saklaw ng multa para sa unang paghatol sa DUI?",
+      "o": [
+        "$50 hanggang $100",
+        "$100 hanggang $500",
+        "$5,000 hanggang $10,000",
+        "$600 hanggang $2,100"
+      ],
+      "h1": "Nagsisimula ito sa ilang daang dolyar at puwedeng lumampas sa dalawang libo.",
+      "h2": "Sa Alabama, ang unang paghatol sa DUI ay may multang $600 hanggang $2,100, hanggang isang taon sa kulungan, o pareho.",
+      "p": "Tama. $600 hanggang $2,100 ang multa sa unang DUI."
+    },
+    "ar": {
+      "q": "في Alabama، ما نطاق الغرامة عند الإدانة الأولى بالقيادة تحت التأثير (DUI)؟",
+      "o": [
+        "من $50 إلى $100",
+        "من $100 إلى $500",
+        "من $5,000 إلى $10,000",
+        "من $600 إلى $2,100"
+      ],
+      "h1": "تبدأ من عدة مئات من الدولارات وقد تتجاوز ألفي دولار.",
+      "h2": "في Alabama تكون عقوبة الإدانة الأولى بالقيادة تحت التأثير (DUI) غرامة من $600 إلى $2,100، أو السجن حتى سنة واحدة، أو الاثنين معًا.",
+      "p": "صحيح. غرامة الإدانة الأولى بالقيادة تحت التأثير من $600 إلى $2,100."
     }
   },
   {
@@ -4859,6 +5771,54 @@
       "h1": "Es más largo que la suspensión por un primer DUI.",
       "h2": "En Alabama una segunda condena por DUI en 10 años trae una revocación de la licencia por un año, además de una multa y por lo menos 48 horas de cárcel o 20 días de servicio comunitario.",
       "p": "Correcto. Un segundo DUI significa una revocación de un año."
+    },
+    "zh": {
+      "q": "在 Alabama，10 年内第二次 DUI 定罪后，驾照会被吊销多久？",
+      "o": [
+        "一年",
+        "90 天",
+        "30 天",
+        "十年"
+      ],
+      "h1": "比第一次 DUI 的暂停时间更长。",
+      "h2": "在 Alabama，10 年内第二次 DUI 定罪会被吊销驾照一年，还要罚款，并且至少坐牢 48 小时或做 20 天社区服务。",
+      "p": "对。第二次 DUI 会被吊销驾照一年。"
+    },
+    "vi": {
+      "q": "Ở Alabama, sau khi bị kết tội DUI lần thứ hai trong vòng 10 năm, bằng lái bị thu hồi bao lâu?",
+      "o": [
+        "Một năm",
+        "90 ngày",
+        "30 ngày",
+        "Mười năm"
+      ],
+      "h1": "Lâu hơn thời gian đình chỉ cho DUI lần đầu.",
+      "h2": "Ở Alabama, bị kết tội DUI lần thứ hai trong vòng 10 năm sẽ bị thu hồi bằng lái một năm, cộng với tiền phạt và ít nhất 48 giờ ngồi tù hoặc 20 ngày lao động công ích.",
+      "p": "Đúng. DUI lần thứ hai nghĩa là bị thu hồi bằng lái một năm."
+    },
+    "tl": {
+      "q": "Sa Alabama, pagkatapos ng ikalawang paghatol sa DUI sa loob ng 10 taon, gaano katagal babawiin ang driver license?",
+      "o": [
+        "Isang taon",
+        "90 araw",
+        "30 araw",
+        "Sampung taon"
+      ],
+      "h1": "Mas matagal ito kaysa sa suspensyon para sa unang DUI.",
+      "h2": "Sa Alabama, ang ikalawang paghatol sa DUI sa loob ng 10 taon ay nagdudulot ng isang taong pagbawi ng lisensya, kasama ang multa at hindi bababa sa 48 oras sa kulungan o 20 araw ng community service.",
+      "p": "Tama. Ang ikalawang DUI ay nangangahulugan ng isang taong pagbawi ng lisensya."
+    },
+    "ar": {
+      "q": "في Alabama، بعد الإدانة الثانية بالقيادة تحت التأثير (DUI) خلال 10 سنوات، كم مدة سحب رخصة القيادة؟",
+      "o": [
+        "سنة واحدة",
+        "90 يومًا",
+        "30 يومًا",
+        "عشر سنوات"
+      ],
+      "h1": "المدة أطول من إيقاف الرخصة في الإدانة الأولى.",
+      "h2": "في Alabama تؤدي الإدانة الثانية بالقيادة تحت التأثير (DUI) خلال 10 سنوات إلى سحب الرخصة لمدة سنة واحدة، مع غرامة والسجن 48 ساعة على الأقل أو 20 يومًا من الخدمة المجتمعية.",
+      "p": "صحيح. الإدانة الثانية تعني سحب الرخصة لمدة سنة واحدة."
     }
   },
   {
@@ -4893,6 +5853,54 @@
       "h1": "Manejar en las calles de Alabama significa que usted ya aceptó hacerse la prueba.",
       "h2": "Según la ley de consentimiento implícito de Alabama, a un conductor arrestado por DUI que se niega a la prueba química de aliento se le suspende la licencia de manejar.",
       "p": "Correcto. Negarse a la prueba lleva a una suspensión de la licencia."
+    },
+    "zh": {
+      "q": "在 Alabama，一名因 DUI 被逮捕的司机拒绝警察要求的呼气测试。会怎样？",
+      "o": [
+        "没事，测试是可选的",
+        "驾照会被暂停",
+        "司机只会收到警告",
+        "司机必须重考路考"
+      ],
+      "h1": "在 Alabama 的道路上开车，就表示你已经同意接受测试。",
+      "h2": "根据 Alabama 的默示同意法（implied consent law），因 DUI 被逮捕的司机如果拒绝化学呼气测试，驾照会被暂停。",
+      "p": "对。拒绝测试会导致驾照被暂停。"
+    },
+    "vi": {
+      "q": "Ở Alabama, một người lái bị bắt vì DUI từ chối thử hơi thở theo yêu cầu của cảnh sát. Điều gì sẽ xảy ra?",
+      "o": [
+        "Không sao, việc thử là tự nguyện",
+        "Bằng lái bị đình chỉ",
+        "Người lái chỉ bị cảnh cáo",
+        "Người lái phải thi lại phần lái xe trên đường"
+      ],
+      "h1": "Lái xe trên đường ở Alabama nghĩa là bạn đã đồng ý cho thử.",
+      "h2": "Theo luật mặc nhiên đồng ý (implied consent law) của Alabama, người lái bị bắt vì DUI mà từ chối thử hơi thở bằng hóa chất sẽ bị đình chỉ bằng lái.",
+      "p": "Đúng. Từ chối thử sẽ khiến bằng lái bị đình chỉ."
+    },
+    "tl": {
+      "q": "Sa Alabama, tumanggi ang drayber na inaresto dahil sa DUI sa breath test na hinihingi ng pulis. Ano ang mangyayari?",
+      "o": [
+        "Wala, opsyonal ang test",
+        "Masususpinde ang driver license",
+        "Babala lang ang ibibigay sa drayber",
+        "Kailangang ulitin ng drayber ang road test"
+      ],
+      "h1": "Ang pagmamaneho sa mga kalsada ng Alabama ay nangangahulugang pumayag ka nang ma-test.",
+      "h2": "Ayon sa implied consent law ng Alabama, masususpinde ang driver license ng drayber na inaresto dahil sa DUI kapag tumanggi siya sa chemical breath test.",
+      "p": "Tama. Ang pagtanggi sa test ay nagdudulot ng suspensyon ng lisensya."
+    },
+    "ar": {
+      "q": "في Alabama، رفض سائق قُبض عليه بتهمة القيادة تحت التأثير (DUI) اختبار التنفّس الذي طلبه الشرطي. ماذا يحدث؟",
+      "o": [
+        "لا شيء، الاختبار اختياري",
+        "تُوقَف رخصة القيادة",
+        "يحصل السائق على تحذير فقط",
+        "يجب أن يعيد السائق اختبار القيادة على الطريق"
+      ],
+      "h1": "القيادة على طرق Alabama تعني أنك وافقت مسبقًا على الخضوع للاختبار.",
+      "h2": "بموجب قانون الموافقة الضمنية (implied consent law) في Alabama، تُوقَف رخصة السائق الذي قُبض عليه بتهمة القيادة تحت التأثير إذا رفض اختبار التنفّس الكيميائي.",
+      "p": "صحيح. رفض الاختبار يؤدي إلى إيقاف الرخصة."
     }
   },
   {
@@ -4927,6 +5935,54 @@
       "h1": "El dueño debe poder encontrarlo a usted.",
       "h2": "En Alabama, si choca contra un vehículo sin nadie adentro, debe avisar a la policía, tratar de encontrar al dueño o dejar una nota escrita a la vista con su nombre y dirección.",
       "p": "Correcto. Puede dejar una nota a la vista con su nombre y dirección."
+    },
+    "zh": {
+      "q": "在 Alabama，你撞到一辆停着的车，车主不在。法律允许你做的一件事是什么？",
+      "o": [
+        "如果损坏很小，就开走",
+        "等一个小时，然后离开",
+        "留下一张写有你姓名和地址的纸条",
+        "只有被问到时才报告"
+      ],
+      "h1": "车主必须能找到你。",
+      "h2": "在 Alabama，如果你撞到无人看管的车辆，你必须通知警察、设法找到车主，或在明显的地方留下一张写有你姓名和地址的纸条。",
+      "p": "对。你可以在明显的地方留下写有你姓名和地址的纸条。"
+    },
+    "vi": {
+      "q": "Ở Alabama, bạn đụng vào một xe đang đậu và chủ xe không có ở đó. Luật cho phép bạn làm một việc nào?",
+      "o": [
+        "Lái đi nếu hư hại nhỏ",
+        "Đợi một giờ rồi đi",
+        "Để lại tờ giấy ghi tên và địa chỉ của bạn",
+        "Chỉ báo cáo nếu có người hỏi"
+      ],
+      "h1": "Chủ xe phải tìm được bạn.",
+      "h2": "Ở Alabama, nếu bạn đụng vào một xe không có người trông, bạn phải báo cảnh sát, cố tìm chủ xe, hoặc để lại tờ giấy viết tên và địa chỉ của bạn ở chỗ dễ thấy.",
+      "p": "Đúng. Bạn có thể để lại tờ giấy ghi tên và địa chỉ ở chỗ dễ thấy."
+    },
+    "tl": {
+      "q": "Sa Alabama, nabangga mo ang isang nakaparadang kotse at wala ang may-ari. Alin ang isang bagay na pinapayagan ng batas na gawin mo?",
+      "o": [
+        "Umalis kung maliit ang sira",
+        "Maghintay ng isang oras, saka umalis",
+        "Mag-iwan ng sulat na may pangalan at address mo",
+        "Mag-report lang kung tatanungin"
+      ],
+      "h1": "Kailangang mahanap ka ng may-ari.",
+      "h2": "Sa Alabama, kapag nabangga mo ang sasakyang walang tao, kailangan mong abisuhan ang pulis, subukang hanapin ang may-ari, o mag-iwan ng nakasulat na sulat na madaling makita na may pangalan at address mo.",
+      "p": "Tama. Puwede kang mag-iwan ng sulat na may pangalan at address mo sa lugar na madaling makita."
+    },
+    "ar": {
+      "q": "في Alabama، صدمت سيارة مركونة وصاحبها غير موجود. ما الشيء الذي يسمح لك القانون بفعله؟",
+      "o": [
+        "أن تبتعد بالسيارة إذا كان الضرر صغيرًا",
+        "أن تنتظر ساعة واحدة ثم تغادر",
+        "أن تترك ورقة عليها اسمك وعنوانك",
+        "أن تبلّغ فقط إذا سُئلت"
+      ],
+      "h1": "يجب أن يستطيع صاحب السيارة أن يجدك.",
+      "h2": "في Alabama، إذا صدمت مركبة لا أحد فيها، يجب أن تبلّغ الشرطة، أو تحاول العثور على صاحبها، أو تترك ورقة مكتوبة في مكان ظاهر عليها اسمك وعنوانك.",
+      "p": "صحيح. يمكنك أن تترك ورقة عليها اسمك وعنوانك في مكان ظاهر."
     }
   },
   {
@@ -4961,6 +6017,54 @@
       "h1": "Piense en el primer cumpleaños del bebé.",
       "h2": "La ley de Alabama exige un asiento para bebé o convertible mirando hacia atrás hasta que el bebé tenga por lo menos 1 año o 20 libras.",
       "p": "Correcto. Mirando hacia atrás hasta por lo menos 1 año o 20 libras."
+    },
+    "zh": {
+      "q": "在 Alabama，婴儿必须坐后向安全座椅到什么时候？",
+      "o": [
+        "到 3 个月大或 10 磅",
+        "到婴儿能自己坐起来",
+        "到 6 个月大或 15 磅",
+        "至少到 1 岁或 20 磅"
+      ],
+      "h1": "想想婴儿的第一个生日。",
+      "h2": "Alabama 法律规定，婴儿必须坐面向后方的婴儿座椅或可转换座椅，直到至少 1 岁或 20 磅。",
+      "p": "对。后向乘坐，至少到 1 岁或 20 磅。"
+    },
+    "vi": {
+      "q": "Ở Alabama, em bé phải ngồi ghế an toàn quay mặt về phía sau cho đến khi nào?",
+      "o": [
+        "Đến 3 tháng tuổi hoặc 10 pound",
+        "Đến khi em bé tự ngồi được",
+        "Đến 6 tháng tuổi hoặc 15 pound",
+        "Đến ít nhất 1 tuổi hoặc 20 pound"
+      ],
+      "h1": "Hãy nghĩ đến sinh nhật đầu tiên của em bé.",
+      "h2": "Luật Alabama bắt buộc dùng ghế cho trẻ sơ sinh hoặc ghế chuyển đổi quay mặt về phía sau cho đến khi em bé ít nhất 1 tuổi hoặc 20 pound.",
+      "p": "Đúng. Quay mặt về phía sau cho đến ít nhất 1 tuổi hoặc 20 pound."
+    },
+    "tl": {
+      "q": "Sa Alabama, hanggang kailan dapat nakaupo ang sanggol sa car seat na nakaharap sa likod?",
+      "o": [
+        "Hanggang 3 buwang gulang o 10 libra",
+        "Hanggang kaya nang umupo ng sanggol nang mag-isa",
+        "Hanggang 6 na buwang gulang o 15 libra",
+        "Hanggang hindi bababa sa 1 taon o 20 libra"
+      ],
+      "h1": "Isipin ang unang kaarawan ng sanggol.",
+      "h2": "Ayon sa batas ng Alabama, kailangan ng infant seat o convertible seat na nakaharap sa likod hanggang ang sanggol ay hindi bababa sa 1 taong gulang o 20 libra.",
+      "p": "Tama. Nakaharap sa likod hanggang hindi bababa sa 1 taon o 20 libra."
+    },
+    "ar": {
+      "q": "في Alabama، حتى متى يجب أن يجلس الرضيع في مقعد سيارة مواجه للخلف؟",
+      "o": [
+        "حتى عمر 3 أشهر أو 10 أرطال",
+        "حتى يستطيع الرضيع الجلوس وحده",
+        "حتى عمر 6 أشهر أو 15 رطلًا",
+        "حتى عمر سنة واحدة على الأقل أو 20 رطلًا"
+      ],
+      "h1": "فكّر في عيد الميلاد الأول للرضيع.",
+      "h2": "يُلزم قانون Alabama باستخدام مقعد رضيع أو مقعد قابل للتحويل مواجه للخلف حتى يبلغ الرضيع سنة واحدة على الأقل أو 20 رطلًا.",
+      "p": "صحيح. مواجه للخلف حتى سنة واحدة على الأقل أو 20 رطلًا."
     }
   },
   {
@@ -4995,6 +6099,54 @@
       "h1": "Es más larga que la distancia para un carro que va delante de usted.",
       "h2": "En Alabama usted debe bajar las luces cuando está a 500 pies o menos de un vehículo que viene de frente.",
       "p": "Correcto. Baje las luces a 500 pies del tráfico que viene de frente."
+    },
+    "zh": {
+      "q": "在 Alabama，晚上有一辆车迎面开来。你必须在多远以内把远光灯调暗？",
+      "o": [
+        "500 英尺",
+        "100 英尺",
+        "200 英尺",
+        "2,000 英尺"
+      ],
+      "h1": "它比跟在别的车后面时的距离更长。",
+      "h2": "在 Alabama，当你离迎面来的车辆 500 英尺以内时，你必须把车灯调暗。",
+      "p": "对。迎面来车在 500 英尺以内时要调暗车灯。"
+    },
+    "vi": {
+      "q": "Ở Alabama, ban đêm có một xe chạy ngược chiều về phía bạn. Bạn phải giảm đèn pha trong khoảng cách bao xa?",
+      "o": [
+        "500 feet",
+        "100 feet",
+        "200 feet",
+        "2,000 feet"
+      ],
+      "h1": "Khoảng cách này dài hơn khoảng cách khi bạn đi sau một xe khác.",
+      "h2": "Ở Alabama, bạn phải giảm đèn pha khi bạn ở trong vòng 500 feet của một xe chạy ngược chiều.",
+      "p": "Đúng. Giảm đèn trong vòng 500 feet khi có xe ngược chiều."
+    },
+    "tl": {
+      "q": "Sa Alabama, may kotseng papalapit sa iyo sa gabi. Sa loob ng anong layo mo dapat ibaba ang high beams mo?",
+      "o": [
+        "500 talampakan",
+        "100 talampakan",
+        "200 talampakan",
+        "2,000 talampakan"
+      ],
+      "h1": "Mas mahaba ito kaysa sa layo para sa kotseng sinusundan mo.",
+      "h2": "Sa Alabama, kailangan mong ibaba ang ilaw mo kapag nasa loob ka ng 500 talampakan mula sa paparating na sasakyan.",
+      "p": "Tama. Ibaba ang ilaw mo sa loob ng 500 talampakan mula sa paparating na sasakyan."
+    },
+    "ar": {
+      "q": "في Alabama، سيارة قادمة نحوك في الليل. على أي مسافة يجب أن تخفّض الأضواء العالية؟",
+      "o": [
+        "500 قدم",
+        "100 قدم",
+        "200 قدم",
+        "2,000 قدم"
+      ],
+      "h1": "المسافة أطول من مسافة السيارة التي تسير خلفها.",
+      "h2": "في Alabama يجب أن تخفّض أضواء سيارتك عندما تكون على مسافة 500 قدم أو أقل من مركبة قادمة نحوك.",
+      "p": "صحيح. خفّض أضواءك على مسافة 500 قدم من السيارات القادمة."
     }
   },
   {
@@ -5029,6 +6181,54 @@
       "h1": "Los otros conductores necesitan aviso mucho antes de llegar a usted.",
       "h2": "El manual de Alabama indica poner bengalas o reflectores de 100 a 500 pies detrás de su vehículo, en el borde derecho de la carretera, para avisar al tráfico.",
       "p": "Correcto. Póngalos de 100 a 500 pies detrás de su carro."
+    },
+    "zh": {
+      "q": "在 Alabama，你的车在晚上抛锚了。你应该把照明弹或反光标志放在哪里？",
+      "o": [
+        "就在你的车旁边",
+        "在你的车后面 100 到 500 英尺",
+        "只放在你的车前面",
+        "放在对面车道的中间"
+      ],
+      "h1": "其他司机需要在离你很远时就得到警告。",
+      "h2": "Alabama 驾驶手册说，要把照明弹或反光标志放在你车辆后面 100 到 500 英尺、公路的右边，来警告来往的车辆。",
+      "p": "对。把它们放在你的车后面 100 到 500 英尺。"
+    },
+    "vi": {
+      "q": "Ở Alabama, xe bạn bị hư vào ban đêm. Bạn nên đặt pháo sáng hoặc tấm phản quang ở đâu?",
+      "o": [
+        "Ngay cạnh xe của bạn",
+        "Phía sau xe bạn từ 100 đến 500 feet",
+        "Chỉ phía trước xe của bạn",
+        "Ở giữa làn xe ngược chiều"
+      ],
+      "h1": "Những người lái khác cần được cảnh báo từ xa trước khi đến chỗ bạn.",
+      "h2": "Sổ tay lái xe của Alabama nói phải đặt pháo sáng hoặc tấm phản quang phía sau xe bạn từ 100 đến 500 feet, ở mép phải của xa lộ, để cảnh báo các xe khác.",
+      "p": "Đúng. Đặt chúng phía sau xe bạn từ 100 đến 500 feet."
+    },
+    "tl": {
+      "q": "Sa Alabama, nasira ang kotse mo sa gabi. Saan mo dapat ilagay ang flares o reflectors?",
+      "o": [
+        "Mismong katabi ng kotse mo",
+        "100 hanggang 500 talampakan sa likod ng kotse mo",
+        "Sa harap lang ng kotse mo",
+        "Sa gitna ng kabilang lane"
+      ],
+      "h1": "Kailangang mababalaan ang ibang drayber bago pa sila makarating sa iyo.",
+      "h2": "Sinasabi ng manwal ng Alabama na ilagay ang flares o reflectors 100 hanggang 500 talampakan sa likod ng sasakyan mo, sa kanang gilid ng highway, para balaan ang trapiko.",
+      "p": "Tama. Ilagay ang mga ito 100 hanggang 500 talampakan sa likod ng kotse mo."
+    },
+    "ar": {
+      "q": "في Alabama، تعطّلت سيارتك في الليل. أين يجب أن تضع مشاعل التحذير أو العاكسات؟",
+      "o": [
+        "بجانب سيارتك مباشرة",
+        "خلف سيارتك على بُعد 100 إلى 500 قدم",
+        "أمام سيارتك فقط",
+        "في منتصف المسار المقابل"
+      ],
+      "h1": "يحتاج السائقون الآخرون إلى تحذير قبل أن يصلوا إليك بوقت كافٍ.",
+      "h2": "يقول دليل القيادة في Alabama أن تضع مشاعل التحذير أو العاكسات خلف مركبتك على بُعد 100 إلى 500 قدم، على الحافة اليمنى من الطريق السريع، لتحذير حركة المرور.",
+      "p": "صحيح. ضعها خلف سيارتك على بُعد 100 إلى 500 قدم."
     }
   },
   {
@@ -5063,6 +6263,54 @@
       "h1": "Es más o menos la distancia del borde de una moneda de un centavo a la parte de arriba de la cabeza de Lincoln.",
       "h2": "En Alabama una llanta es ilegal si el dibujo tiene menos de 1/16 de pulgada de profundidad.",
       "p": "Correcto. Un dibujo de menos de 1/16 de pulgada es ilegal."
+    },
+    "zh": {
+      "q": "在 Alabama，轮胎花纹深度少于多少就是违法的？",
+      "o": [
+        "1/2 英寸",
+        "1/4 英寸",
+        "1/16 英寸",
+        "1/64 英寸"
+      ],
+      "h1": "大约是从一分硬币的边缘到 Lincoln 头顶的距离。",
+      "h2": "在 Alabama，轮胎花纹深度少于 1/16 英寸就是违法的。",
+      "p": "对。花纹深度少于 1/16 英寸是违法的。"
+    },
+    "vi": {
+      "q": "Ở Alabama, lốp xe là bất hợp pháp khi gai lốp sâu dưới bao nhiêu?",
+      "o": [
+        "1/2 inch",
+        "1/4 inch",
+        "1/16 inch",
+        "1/64 inch"
+      ],
+      "h1": "Khoảng bằng khoảng cách từ mép đồng một xu (penny) đến đỉnh đầu Lincoln.",
+      "h2": "Ở Alabama, lốp xe là bất hợp pháp nếu gai lốp sâu dưới 1/16 inch.",
+      "p": "Đúng. Gai lốp dưới 1/16 inch là bất hợp pháp."
+    },
+    "tl": {
+      "q": "Sa Alabama, ilegal ang gulong kapag ang tread nito ay mas mababaw sa gaano?",
+      "o": [
+        "1/2 pulgada",
+        "1/4 pulgada",
+        "1/16 pulgada",
+        "1/64 pulgada"
+      ],
+      "h1": "Halos kasinlalim ito ng layo mula sa gilid ng isang penny hanggang sa tuktok ng ulo ni Lincoln.",
+      "h2": "Sa Alabama, ilegal ang gulong kung ang tread nito ay mas mababaw sa 1/16 pulgada.",
+      "p": "Tama. Ilegal ang tread na mas mababaw sa 1/16 pulgada."
+    },
+    "ar": {
+      "q": "في Alabama، يكون الإطار مخالفًا للقانون عندما يكون عمق نقشته أقل من كم؟",
+      "o": [
+        "1/2 بوصة",
+        "1/4 بوصة",
+        "1/16 بوصة",
+        "1/64 بوصة"
+      ],
+      "h1": "إنه تقريبًا المسافة من حافة قطعة السنت (penny) إلى أعلى رأس Lincoln.",
+      "h2": "في Alabama يكون الإطار مخالفًا للقانون إذا كان عمق نقشته أقل من 1/16 بوصة.",
+      "p": "صحيح. النقشة التي يقل عمقها عن 1/16 بوصة مخالفة للقانون."
     }
   },
   {
@@ -5097,6 +6345,54 @@
       "h1": "Usted necesita el motor para ayudar a controlar la velocidad.",
       "h2": "La ley de Alabama prohíbe bajar una cuesta con la transmisión en neutro, y hacerlo agrega 2 puntos a su historial.",
       "p": "Correcto. Bajar en neutro va contra la ley."
+    },
+    "zh": {
+      "q": "在 Alabama，关于挂空挡下坡滑行，法律是怎么说的？",
+      "o": [
+        "为了省油是允许的",
+        "只在山坡上允许",
+        "在陡坡上必须这样做",
+        "这是违法的"
+      ],
+      "h1": "你需要发动机帮你控制车速。",
+      "h2": "Alabama 法律禁止挂空挡下坡滑行，滑行还会在你的记录上加 2 分。",
+      "p": "对。挂空挡滑行是违法的。"
+    },
+    "vi": {
+      "q": "Ở Alabama, luật nói gì về việc thả trôi xe xuống dốc ở số mo (số N)?",
+      "o": [
+        "Được phép để tiết kiệm xăng",
+        "Chỉ được phép khi xuống dốc",
+        "Bắt buộc khi xuống dốc cao",
+        "Là vi phạm luật"
+      ],
+      "h1": "Bạn cần động cơ giúp kiểm soát tốc độ.",
+      "h2": "Luật Alabama cấm thả trôi xe xuống dốc ở số mo, và việc thả trôi bị cộng 2 điểm vào hồ sơ lái xe của bạn.",
+      "p": "Đúng. Thả trôi xe ở số mo là vi phạm luật."
+    },
+    "tl": {
+      "q": "Sa Alabama, ano ang sinasabi ng batas tungkol sa pagpapadausdos pababa ng burol habang naka-neutral ang transmission?",
+      "o": [
+        "Pinapayagan ito para makatipid ng gasolina",
+        "Pinapayagan lang ito sa mga burol",
+        "Kailangan ito sa matatarik na burol",
+        "Labag ito sa batas"
+      ],
+      "h1": "Kailangan mo ang makina para tumulong sa pagkontrol ng bilis mo.",
+      "h2": "Ipinagbabawal ng batas ng Alabama ang pagpapadausdos pababa ng burol habang naka-neutral ang transmission, at nagdadagdag ito ng 2 puntos sa record mo.",
+      "p": "Tama. Labag sa batas ang pagpapadausdos nang naka-neutral."
+    },
+    "ar": {
+      "q": "في Alabama، ماذا يقول القانون عن النزول على المنحدر بناقل الحركة في وضع الحياد (N)؟",
+      "o": [
+        "مسموح لتوفير الوقود",
+        "مسموح على التلال فقط",
+        "مطلوب على المنحدرات الشديدة",
+        "مخالف للقانون"
+      ],
+      "h1": "تحتاج إلى المحرّك ليساعدك على التحكم في سرعتك.",
+      "h2": "يمنع قانون Alabama النزول على المنحدر بناقل الحركة في وضع الحياد، ويضيف ذلك نقطتين (2) إلى سجلّك.",
+      "p": "صحيح. النزول في وضع الحياد مخالف للقانون."
     }
   },
   {
@@ -5131,6 +6427,54 @@
       "h1": "Es un poco menos de un tercio.",
       "h2": "En Alabama las ventanas laterales y trasera de un carro de pasajeros pueden polarizarse solo si siguen dejando pasar por lo menos el 32 por ciento de la luz.",
       "p": "Correcto. El polarizado debe dejar pasar por lo menos 32 por ciento de luz."
+    },
+    "zh": {
+      "q": "在 Alabama，轿车的侧窗和后窗至少必须让百分之多少的光线透过？",
+      "o": [
+        "32%",
+        "10%",
+        "20%",
+        "70%"
+      ],
+      "h1": "比三分之一少一点。",
+      "h2": "在 Alabama，客车的侧窗和后窗只有在仍然让至少 32% 的光线透过时，才可以贴膜。",
+      "p": "对。车窗贴膜必须让至少 32% 的光线透过。"
+    },
+    "vi": {
+      "q": "Ở Alabama, cửa kính bên hông và cửa kính sau của xe sedan phải cho ít nhất bao nhiêu phần trăm ánh sáng đi qua?",
+      "o": [
+        "32 phần trăm",
+        "10 phần trăm",
+        "20 phần trăm",
+        "70 phần trăm"
+      ],
+      "h1": "Ít hơn một phần ba một chút.",
+      "h2": "Ở Alabama, cửa kính bên hông và cửa kính sau của xe chở khách chỉ được dán phim tối màu nếu vẫn cho ít nhất 32 phần trăm ánh sáng đi qua.",
+      "p": "Đúng. Phim dán kính phải cho ít nhất 32 phần trăm ánh sáng đi qua."
+    },
+    "tl": {
+      "q": "Sa Alabama, ilang porsiyento ng liwanag man lang ang dapat makalusot sa mga bintana sa gilid at likod ng sedan?",
+      "o": [
+        "32 porsiyento",
+        "10 porsiyento",
+        "20 porsiyento",
+        "70 porsiyento"
+      ],
+      "h1": "Medyo kulang ito sa ikatlong bahagi.",
+      "h2": "Sa Alabama, puwede lang lagyan ng tint ang mga bintana sa gilid at likod ng pampasaherong kotse kung nakakalusot pa rin ang hindi bababa sa 32 porsiyento ng liwanag.",
+      "p": "Tama. Kailangang makalusot ang hindi bababa sa 32 porsiyento ng liwanag sa tint ng bintana."
+    },
+    "ar": {
+      "q": "في Alabama، ما أقل نسبة من الضوء يجب أن تسمح بمرورها النوافذ الجانبية والخلفية لسيارة السيدان؟",
+      "o": [
+        "32 بالمئة",
+        "10 بالمئة",
+        "20 بالمئة",
+        "70 بالمئة"
+      ],
+      "h1": "إنها أقل قليلًا من الثلث.",
+      "h2": "في Alabama يجوز تظليل النوافذ الجانبية والخلفية لسيارة الركاب فقط إذا بقيت تسمح بمرور 32 بالمئة على الأقل من الضوء.",
+      "p": "صحيح. يجب أن يسمح تظليل النوافذ بمرور 32 بالمئة على الأقل من الضوء."
     }
   },
   {
@@ -5165,6 +6509,54 @@
       "h1": "Es roja y mide por lo menos un pie por cada lado.",
       "h2": "En Alabama una carga que sobresale 4 pies o más por detrás necesita una bandera roja de por lo menos 12 pulgadas por lado en el extremo durante el día, y una luz roja de noche.",
       "p": "Correcto. Ponga una bandera roja de por lo menos 12 pulgadas por lado."
+    },
+    "zh": {
+      "q": "在 Alabama，白天你车上的货物从车尾伸出 4 英尺或更多。你必须在末端挂上什么？",
+      "o": [
+        "一块白布",
+        "一面 12 英寸见方的红旗",
+        "一块黄色的 WIDE LOAD 牌子",
+        "什么都不用，只要开慢一点"
+      ],
+      "h1": "它是红色的，每边至少一英尺。",
+      "h2": "在 Alabama，货物伸出车尾 4 英尺或更多时，白天必须在末端挂一面至少 12 英寸见方的红旗，晚上要挂一盏红灯。",
+      "p": "对。挂一面至少 12 英寸见方的红旗。"
+    },
+    "vi": {
+      "q": "Ở Alabama, ban ngày hàng chở nhô ra phía sau xe bạn từ 4 feet trở lên. Bạn phải gắn gì ở đầu hàng?",
+      "o": [
+        "Một tấm vải trắng",
+        "Một lá cờ đỏ, vuông 12 inch",
+        "Một biển vàng WIDE LOAD",
+        "Không gì cả, nếu bạn lái chậm"
+      ],
+      "h1": "Nó màu đỏ và mỗi cạnh ít nhất một foot.",
+      "h2": "Ở Alabama, hàng chở nhô ra phía sau từ 4 feet trở lên phải có một lá cờ đỏ vuông ít nhất 12 inch ở đầu hàng vào ban ngày, và một đèn đỏ vào ban đêm.",
+      "p": "Đúng. Gắn một lá cờ đỏ vuông ít nhất 12 inch."
+    },
+    "tl": {
+      "q": "Sa Alabama, sa araw, may kargang nakausli nang 4 na talampakan o higit pa sa likod ng sasakyan mo. Ano ang dapat mong ikabit sa dulo nito?",
+      "o": [
+        "Isang puting tela",
+        "Isang pulang bandila, 12 pulgada kuwadrado",
+        "Isang dilaw na karatulang WIDE LOAD",
+        "Wala, kung mabagal kang magmaneho"
+      ],
+      "h1": "Pula ito at hindi bababa sa isang talampakan sa bawat gilid.",
+      "h2": "Sa Alabama, ang kargang nakausli nang 4 na talampakan o higit pa sa likod ay kailangang may pulang bandila na hindi bababa sa 12 pulgada kuwadrado sa dulo nito sa araw, at pulang ilaw sa gabi.",
+      "p": "Tama. Magkabit ng pulang bandila na hindi bababa sa 12 pulgada kuwadrado."
+    },
+    "ar": {
+      "q": "في Alabama، في النهار، تبرز حمولة من خلف مركبتك 4 أقدام أو أكثر. ماذا يجب أن تعلّق في طرفها؟",
+      "o": [
+        "قطعة قماش بيضاء",
+        "علمًا أحمر مربعًا طول ضلعه 12 بوصة",
+        "لافتة صفراء مكتوب عليها WIDE LOAD",
+        "لا شيء، إذا قدت ببطء"
+      ],
+      "h1": "إنه أحمر وطول كل ضلع منه قدم واحد على الأقل.",
+      "h2": "في Alabama تحتاج الحمولة التي تبرز 4 أقدام أو أكثر من الخلف إلى علم أحمر مربع طول ضلعه 12 بوصة على الأقل في طرفها في النهار، وإلى ضوء أحمر في الليل.",
+      "p": "صحيح. علّق علمًا أحمر مربعًا طول ضلعه 12 بوصة على الأقل."
     }
   },
   {
@@ -5199,6 +6591,54 @@
       "h1": "Piense en vehículos que llevan muchos pasajeros o carga peligrosa.",
       "h2": "En Alabama los autobuses escolares, los autobuses de iglesia, otros autobuses de pasajeros y los camiones que llevan materiales inflamables, explosivos o peligrosos deben parar antes de cada cruce de tren.",
       "p": "Correcto. Los camiones con explosivos u otra carga peligrosa deben parar en cada cruce de tren."
+    },
+    "zh": {
+      "q": "在 Alabama，哪种车辆在通过任何铁路道口前都必须停车？",
+      "o": [
+        "皮卡车",
+        "摩托车",
+        "运送爆炸物的卡车",
+        "拖着小拖车的轿车"
+      ],
+      "h1": "想想载很多乘客或危险货物的车辆。",
+      "h2": "在 Alabama，校车、教会巴士、其他载客巴士，以及运送易燃、爆炸或危险物品的卡车，在每个铁路道口前都必须停车。",
+      "p": "对。运送爆炸物或其他危险货物的卡车必须在每个铁路道口停车。"
+    },
+    "vi": {
+      "q": "Ở Alabama, loại xe nào luôn phải dừng lại trước khi băng qua bất kỳ chỗ giao với đường sắt nào?",
+      "o": [
+        "Xe bán tải",
+        "Xe mô tô",
+        "Xe tải chở chất nổ",
+        "Xe hơi kéo một rơ-moóc nhỏ"
+      ],
+      "h1": "Hãy nghĩ đến những xe chở nhiều hành khách hoặc hàng nguy hiểm.",
+      "h2": "Ở Alabama, xe buýt trường học, xe buýt nhà thờ, các xe buýt chở khách khác, và xe tải chở chất dễ cháy, chất nổ hoặc vật liệu nguy hiểm phải dừng lại trước mọi chỗ giao với đường sắt.",
+      "p": "Đúng. Xe tải chở chất nổ hoặc hàng nguy hiểm khác phải dừng lại ở mọi chỗ giao với đường sắt."
+    },
+    "tl": {
+      "q": "Sa Alabama, aling sasakyan ang laging kailangang huminto bago tumawid sa anumang tawiran ng tren?",
+      "o": [
+        "Isang pickup truck",
+        "Isang motorsiklo",
+        "Isang trak na may kargang pampasabog",
+        "Isang kotseng may hilang maliit na trailer"
+      ],
+      "h1": "Isipin ang mga sasakyang nagdadala ng maraming pasahero o mapanganib na karga.",
+      "h2": "Sa Alabama, ang mga school bus, church bus, iba pang pampasaherong bus, at mga trak na may kargang madaling magliyab, pampasabog, o mapanganib na materyales ay kailangang huminto bago ang bawat tawiran ng tren.",
+      "p": "Tama. Kailangang huminto sa bawat tawiran ng tren ang mga trak na may kargang pampasabog o iba pang mapanganib na karga."
+    },
+    "ar": {
+      "q": "في Alabama، أي مركبة يجب أن تتوقف دائمًا قبل عبور أي معبر للسكة الحديدية؟",
+      "o": [
+        "شاحنة بيك أب",
+        "دراجة نارية",
+        "شاحنة تنقل متفجرات",
+        "سيارة تجرّ مقطورة صغيرة"
+      ],
+      "h1": "فكّر في المركبات التي تنقل ركابًا كثيرين أو حمولة خطرة.",
+      "h2": "في Alabama يجب أن تتوقف الحافلات المدرسية وحافلات الكنائس وحافلات الركاب الأخرى، والشاحنات التي تنقل مواد قابلة للاشتعال أو متفجرة أو خطرة، قبل كل معبر للسكة الحديدية.",
+      "p": "صحيح. يجب أن تتوقف الشاحنات التي تنقل متفجرات أو حمولة خطرة أخرى عند كل معبر للسكة الحديدية."
     }
   },
   {
@@ -5233,6 +6673,54 @@
       "h1": "Lleva personas a servicios religiosos.",
       "h2": "En Alabama usted debe parar por un autobús escolar o un autobús de iglesia que esté detenido con el brazo de alto extendido y las luces rojas intermitentes.",
       "p": "Correcto. Por los autobuses de iglesia se para igual que por los escolares."
+    },
+    "zh": {
+      "q": "在 Alabama，除了校车以外，还有哪一种停着、伸出停车臂并闪红灯的巴士，你也必须停车？",
+      "o": [
+        "市内公交车",
+        "旅游巴士",
+        "机场接驳车",
+        "教会巴士"
+      ],
+      "h1": "它载人去参加宗教礼拜。",
+      "h2": "在 Alabama，如果校车或教会巴士停着、伸出停车信号臂并闪红灯，你必须停车。",
+      "p": "对。教会巴士和校车一样，你都要停车。"
+    },
+    "vi": {
+      "q": "Ở Alabama, ngoài xe buýt trường học, bạn phải dừng lại cho loại xe buýt nào khi xe đang dừng, giơ cần báo dừng và nháy đèn đỏ?",
+      "o": [
+        "Xe buýt công cộng trong thành phố",
+        "Xe buýt du lịch",
+        "Xe đưa đón sân bay",
+        "Xe buýt nhà thờ"
+      ],
+      "h1": "Xe này chở người đi dự lễ tôn giáo.",
+      "h2": "Ở Alabama, bạn phải dừng lại cho xe buýt trường học hoặc xe buýt nhà thờ đang dừng, giơ cần báo dừng và nháy đèn đỏ.",
+      "p": "Đúng. Xe buýt nhà thờ được dừng giống như xe buýt trường học."
+    },
+    "tl": {
+      "q": "Sa Alabama, bukod sa school bus, aling nakahintong bus na nakalabas ang stop arm at kumikislap ang pulang ilaw ang kailangan mong hintuan?",
+      "o": [
+        "Bus ng pampublikong sasakyan sa lungsod",
+        "Tour bus",
+        "Shuttle ng airport",
+        "Bus ng simbahan"
+      ],
+      "h1": "Nagdadala ito ng mga tao sa mga serbisyo ng relihiyon.",
+      "h2": "Sa Alabama, kailangan mong huminto para sa school bus o bus ng simbahan na nakahinto, nakalabas ang stop signal arm, at kumikislap ang pulang ilaw.",
+      "p": "Tama. Pareho ang paghinto para sa bus ng simbahan at sa school bus."
+    },
+    "ar": {
+      "q": "في Alabama، إلى جانب الحافلة المدرسية، أيّ حافلة متوقفة وذراع التوقف فيها ممدودة وأضواؤها الحمراء تومض يجب أن تتوقف لها؟",
+      "o": [
+        "حافلة النقل العام في المدينة",
+        "حافلة سياحية",
+        "حافلة نقل المطار",
+        "حافلة الكنيسة"
+      ],
+      "h1": "تنقل الناس إلى الصلوات والشعائر الدينية.",
+      "h2": "في Alabama يجب أن تتوقف للحافلة المدرسية أو لحافلة الكنيسة إذا كانت متوقفة وذراع إشارة التوقف ممدودة وأضواؤها الحمراء تومض.",
+      "p": "صحيح. حافلات الكنيسة لها نفس التوقف مثل الحافلات المدرسية."
     }
   },
   {
@@ -5267,6 +6755,54 @@
       "h1": "Es más o menos el largo de un carro y medio.",
       "h2": "En Alabama usted debe parar por lo menos a 20 pies de un autobús escolar que está subiendo o bajando niños.",
       "p": "Correcto. Pare por lo menos a 20 pies del autobús."
+    },
+    "zh": {
+      "q": "在 Alabama，你为闪着红灯的校车停车时，必须离校车多远停下？",
+      "o": [
+        "至少 20 英尺",
+        "至少 5 英尺",
+        "至少 10 英尺",
+        "至少 100 英尺"
+      ],
+      "h1": "大约是一辆半汽车的长度。",
+      "h2": "在 Alabama，校车让孩子上下车时，你必须在离校车至少 20 英尺的地方停车。",
+      "p": "对。要在离校车至少 20 英尺的地方停车。"
+    },
+    "vi": {
+      "q": "Ở Alabama, khi bạn dừng lại cho xe buýt trường học đang nháy đèn đỏ, bạn phải dừng cách xe buýt bao xa?",
+      "o": [
+        "Ít nhất 20 bộ (feet)",
+        "Ít nhất 5 bộ (feet)",
+        "Ít nhất 10 bộ (feet)",
+        "Ít nhất 100 bộ (feet)"
+      ],
+      "h1": "Khoảng bằng chiều dài của một chiếc xe hơi rưỡi.",
+      "h2": "Ở Alabama, bạn phải dừng cách xe buýt trường học ít nhất 20 bộ (feet) khi xe đang cho trẻ em lên hoặc xuống.",
+      "p": "Đúng. Hãy dừng cách xe buýt ít nhất 20 bộ (feet)."
+    },
+    "tl": {
+      "q": "Sa Alabama, kapag huminto ka para sa school bus na kumikislap ang pulang ilaw, gaano kalayo sa bus ka dapat huminto?",
+      "o": [
+        "Hindi bababa sa 20 talampakan",
+        "Hindi bababa sa 5 talampakan",
+        "Hindi bababa sa 10 talampakan",
+        "Hindi bababa sa 100 talampakan"
+      ],
+      "h1": "Mga kasinghaba ito ng isa't kalahating kotse.",
+      "h2": "Sa Alabama, kailangan mong huminto nang hindi bababa sa 20 talampakan mula sa school bus na nagsasakay o nagbababa ng mga bata.",
+      "p": "Tama. Huminto nang hindi bababa sa 20 talampakan mula sa bus."
+    },
+    "ar": {
+      "q": "في Alabama، عندما تتوقف لحافلة مدرسية أضواؤها الحمراء تومض، على أيّ بُعد من الحافلة يجب أن تتوقف؟",
+      "o": [
+        "20 قدمًا على الأقل",
+        "5 أقدام على الأقل",
+        "10 أقدام على الأقل",
+        "100 قدم على الأقل"
+      ],
+      "h1": "هي تقريبًا طول سيارة ونصف.",
+      "h2": "في Alabama يجب أن تتوقف على بُعد 20 قدمًا على الأقل من الحافلة المدرسية وهي تُركب الأطفال أو تُنزلهم.",
+      "p": "صحيح. توقّف على بُعد 20 قدمًا على الأقل من الحافلة."
     }
   },
   {
@@ -5301,6 +6837,54 @@
       "h1": "La ley protege a una persona ciega en cualquier intersección.",
       "h2": "La ley de Alabama exige que usted pare y dé el paso en cualquier intersección a una persona ciega que lleva un bastón blanco con punta roja o usa un perro guía.",
       "p": "Correcto. Pare y deje cruzar a la persona."
+    },
+    "zh": {
+      "q": "在 Alabama，有人正在过马路，手里拿着一根顶端是红色的白手杖。你必须怎么做？",
+      "o": [
+        "按喇叭让他知道你在那里",
+        "停车，让他先走",
+        "慢慢从他旁边绕过去",
+        "只有在有人行横道时才等"
+      ],
+      "h1": "在任何路口，法律都保护盲人。",
+      "h2": "Alabama 法律规定，在任何路口，如果盲人拿着顶端是红色的白手杖或带着导盲犬，你必须停车并让他先走。",
+      "p": "对。停车，让这个人过马路。"
+    },
+    "vi": {
+      "q": "Ở Alabama, một người đang băng qua đường và cầm một cây gậy trắng có đầu màu đỏ. Bạn phải làm gì?",
+      "o": [
+        "Bấm còi để họ biết bạn ở đó",
+        "Dừng lại và nhường đường cho họ",
+        "Lái chậm vòng qua họ",
+        "Chỉ chờ nếu có lối dành cho người đi bộ"
+      ],
+      "h1": "Luật bảo vệ người khiếm thị ở bất kỳ giao lộ nào.",
+      "h2": "Luật Alabama bắt buộc bạn dừng lại và nhường đường ở bất kỳ giao lộ nào cho người khiếm thị cầm gậy trắng có đầu màu đỏ hoặc đi cùng chó dẫn đường.",
+      "p": "Đúng. Hãy dừng lại và để người đó băng qua."
+    },
+    "tl": {
+      "q": "Sa Alabama, may taong tumatawid na may hawak na puting tungkod na pula ang dulo. Ano ang dapat mong gawin?",
+      "o": [
+        "Bumusina para malaman niyang nandiyan ka",
+        "Huminto at ibigay sa kanya ang right of way",
+        "Dahan-dahang umikot sa kanya",
+        "Maghintay lang kung may tawiran"
+      ],
+      "h1": "Pinoprotektahan ng batas ang taong bulag sa anumang intersection.",
+      "h2": "Ayon sa batas ng Alabama, kailangan mong huminto at ibigay ang right of way sa anumang intersection sa taong bulag na may dalang puting tungkod na pula ang dulo o may kasamang guide dog.",
+      "p": "Tama. Huminto at hayaang tumawid ang tao."
+    },
+    "ar": {
+      "q": "في Alabama، شخص يعبر الطريق ويمدّ عصا بيضاء طرفها أحمر. ماذا يجب أن تفعل؟",
+      "o": [
+        "استخدم البوق ليعرف أنك هناك",
+        "توقّف وأعطِه حق المرور",
+        "قُد ببطء حوله",
+        "انتظر فقط إذا كان هناك ممرّ مشاة"
+      ],
+      "h1": "القانون يحمي الشخص الكفيف عند أي تقاطع.",
+      "h2": "قانون Alabama يُلزمك بأن تتوقف وتعطي حق المرور عند أي تقاطع لشخص كفيف يحمل عصا بيضاء طرفها أحمر أو يستعين بكلب مرشد.",
+      "p": "صحيح. توقّف ودَع الشخص يعبر."
     }
   },
   {
@@ -5335,6 +6919,54 @@
       "h1": "Violar la ley de velocidad le cuesta algo aquí.",
       "h2": "En Alabama, si entra a una intersección sin control a una velocidad ilegal, pierde cualquier derecho de paso que de otro modo habría tenido.",
       "p": "Correcto. Entrar con exceso de velocidad significa perder el derecho de paso."
+    },
+    "zh": {
+      "q": "在 Alabama，你以违法的速度开到一个没有标志也没有信号灯的路口。你的先行权会怎样？",
+      "o": [
+        "如果你从右边来，你还有先行权",
+        "如果你先到，你还有先行权",
+        "你失去本来有的任何先行权",
+        "因为你更快，所以你得到先行权"
+      ],
+      "h1": "违反限速法会让你在这里失去一样东西。",
+      "h2": "在 Alabama，如果你以违法的速度开进没有管制的路口，你就失去本来应该有的任何先行权。",
+      "p": "对。超速开进路口，你就失去先行权。"
+    },
+    "vi": {
+      "q": "Ở Alabama, bạn đến một giao lộ không có biển báo hay đèn tín hiệu với tốc độ trái luật. Quyền ưu tiên của bạn sẽ ra sao?",
+      "o": [
+        "Bạn vẫn giữ nếu bạn đến từ bên phải",
+        "Bạn vẫn giữ nếu bạn đến trước",
+        "Bạn mất mọi quyền ưu tiên bạn có",
+        "Bạn được quyền ưu tiên vì bạn nhanh hơn"
+      ],
+      "h1": "Vi phạm luật tốc độ làm bạn mất một thứ ở đây.",
+      "h2": "Ở Alabama, nếu bạn chạy vào giao lộ không có điều khiển với tốc độ trái luật, bạn mất mọi quyền ưu tiên mà lẽ ra bạn có.",
+      "p": "Đúng. Chạy quá tốc độ vào giao lộ thì bạn mất quyền ưu tiên."
+    },
+    "tl": {
+      "q": "Sa Alabama, dumating ka sa intersection na walang karatula o signal nang ilegal ang bilis mo. Ano ang mangyayari sa right of way mo?",
+      "o": [
+        "Nasa iyo pa rin kung galing ka sa kanan",
+        "Nasa iyo pa rin kung nauna kang dumating",
+        "Mawawala ang anumang right of way na mayroon ka",
+        "Makukuha mo ito dahil mas mabilis ka"
+      ],
+      "h1": "May nawawala sa iyo dito kapag lumabag ka sa batas sa bilis.",
+      "h2": "Sa Alabama, kapag pumasok ka sa intersection na walang kontrol nang ilegal ang bilis, mawawala ang anumang right of way na dapat sana ay mayroon ka.",
+      "p": "Tama. Kapag mabilis kang pumasok sa intersection, mawawala ang right of way mo."
+    },
+    "ar": {
+      "q": "في Alabama، وصلتَ إلى تقاطع بلا لافتات ولا إشارات بسرعة مخالفة للقانون. ماذا يحدث لحقّك في المرور؟",
+      "o": [
+        "يبقى لك إذا أتيت من اليمين",
+        "يبقى لك إذا وصلت أولًا",
+        "تفقد أي حق مرور كان لك",
+        "تكسبه لأنك أسرع"
+      ],
+      "h1": "مخالفة قانون السرعة تُفقدك شيئًا هنا.",
+      "h2": "في Alabama، إذا دخلت تقاطعًا بلا تنظيم بسرعة مخالفة للقانون، تفقد أي حق مرور كان سيكون لك في غير ذلك.",
+      "p": "صحيح. الدخول إلى التقاطع بسرعة زائدة يعني أنك تفقد حق المرور."
     }
   },
   {
@@ -5369,6 +7001,54 @@
       "h1": "Es la distancia más larga de la lista.",
       "h2": "En Alabama solo los vehículos en asuntos oficiales necesarios pueden seguir a menos de 500 pies a un vehículo de emergencia que va a una emergencia.",
       "p": "Correcto. Manténgase a más de 500 pies detrás."
+    },
+    "zh": {
+      "q": "在 Alabama，一辆消防车正在执行紧急任务。如果你不是在执行公务，你最近可以跟在它后面多远？",
+      "o": [
+        "不少于 50 英尺",
+        "不少于 100 英尺",
+        "不少于 200 英尺",
+        "不少于 500 英尺"
+      ],
+      "h1": "这是选项里最远的距离。",
+      "h2": "在 Alabama，只有执行必要公务的车辆才可以跟在执行紧急任务的紧急车辆后面 500 英尺以内。",
+      "p": "对。要离它 500 英尺以上。"
+    },
+    "vi": {
+      "q": "Ở Alabama, một xe cứu hỏa đang đi làm nhiệm vụ khẩn cấp. Nếu bạn không đi làm công vụ, bạn được chạy theo sau xe đó gần nhất là bao xa?",
+      "o": [
+        "Không gần hơn 50 bộ (feet)",
+        "Không gần hơn 100 bộ (feet)",
+        "Không gần hơn 200 bộ (feet)",
+        "Không gần hơn 500 bộ (feet)"
+      ],
+      "h1": "Đó là khoảng cách xa nhất trong danh sách.",
+      "h2": "Ở Alabama, chỉ những xe đang làm công vụ cần thiết mới được chạy theo trong vòng 500 bộ (feet) sau xe khẩn cấp đang làm nhiệm vụ khẩn cấp.",
+      "p": "Đúng. Hãy ở xa hơn 500 bộ (feet) phía sau."
+    },
+    "tl": {
+      "q": "Sa Alabama, may trak ng bumbero na nasa emergency. Gaano kalapit ka puwedeng sumunod dito kung wala kang opisyal na tungkulin?",
+      "o": [
+        "Hindi lalapit sa 50 talampakan",
+        "Hindi lalapit sa 100 talampakan",
+        "Hindi lalapit sa 200 talampakan",
+        "Hindi lalapit sa 500 talampakan"
+      ],
+      "h1": "Ito ang pinakamalayong distansya sa listahan.",
+      "h2": "Sa Alabama, mga sasakyan lang na may kinakailangang opisyal na tungkulin ang puwedeng sumunod sa loob ng 500 talampakan sa emergency vehicle na nasa emergency.",
+      "p": "Tama. Manatili nang higit sa 500 talampakan sa likod."
+    },
+    "ar": {
+      "q": "في Alabama، شاحنة إطفاء في مهمة طارئة. إلى أي مدى يمكنك أن تقترب وأنت تسير خلفها إذا لم تكن في مهمة رسمية؟",
+      "o": [
+        "ليس أقرب من 50 قدمًا",
+        "ليس أقرب من 100 قدم",
+        "ليس أقرب من 200 قدم",
+        "ليس أقرب من 500 قدم"
+      ],
+      "h1": "هي أطول مسافة في القائمة.",
+      "h2": "في Alabama، المركبات التي في مهمة رسمية ضرورية هي وحدها التي يمكنها أن تسير على بُعد أقل من 500 قدم خلف مركبة طوارئ في مهمة طارئة.",
+      "p": "صحيح. ابقَ على بُعد أكثر من 500 قدم خلفها."
     }
   },
   {
@@ -5403,6 +7083,54 @@
       "h1": "Las bicicletas van en la calle, no donde camina la gente.",
       "h2": "En Alabama es ilegal que las personas en bicicleta anden por la acera; deben ir con el tráfico y usar el carril para bicicletas cuando lo haya.",
       "p": "Correcto. Andar en bicicleta por la acera es ilegal en Alabama."
+    },
+    "zh": {
+      "q": "在 Alabama，在哪里骑自行车是违法的？",
+      "o": [
+        "在人行道上",
+        "在画好的自行车道上",
+        "两人并排在马路上",
+        "顺着车流方向"
+      ],
+      "h1": "自行车应该在马路上骑，而不是在行人走路的地方。",
+      "h2": "在 Alabama，在人行道上骑自行车是违法的；骑车的人要顺着车流骑，有自行车道时必须用自行车道。",
+      "p": "对。在 Alabama，在人行道上骑自行车是违法的。"
+    },
+    "vi": {
+      "q": "Ở Alabama, đi xe đạp ở đâu là trái luật?",
+      "o": [
+        "Trên vỉa hè",
+        "Trong làn xe đạp có kẻ vạch",
+        "Hai người đi song song trên đường",
+        "Theo chiều xe chạy"
+      ],
+      "h1": "Xe đạp phải đi trên đường, không phải nơi người đi bộ.",
+      "h2": "Ở Alabama, đi xe đạp trên vỉa hè là trái luật; người đi xe đạp phải đi theo chiều xe chạy và phải dùng làn xe đạp nếu có.",
+      "p": "Đúng. Đi xe đạp trên vỉa hè là trái luật ở Alabama."
+    },
+    "tl": {
+      "q": "Sa Alabama, saan ilegal ang pagbibisikleta?",
+      "o": [
+        "Sa bangketa",
+        "Sa may markang bike lane",
+        "Dalawang magkatabi sa kalsada",
+        "Kasabay ng daloy ng trapiko"
+      ],
+      "h1": "Sa kalsada dapat ang bisikleta, hindi sa nilalakaran ng mga tao.",
+      "h2": "Sa Alabama, ilegal ang pagbibisikleta sa bangketa; kasabay ng trapiko dapat ang mga nagbibisikleta at kailangan nilang gamitin ang bike lane kapag mayroon.",
+      "p": "Tama. Ilegal ang pagbibisikleta sa bangketa sa Alabama."
+    },
+    "ar": {
+      "q": "في Alabama، أين يكون ركوب الدراجة الهوائية مخالفًا للقانون؟",
+      "o": [
+        "على الرصيف",
+        "في مسار دراجات مُعلَّم",
+        "اثنان جنبًا إلى جنب على الطريق",
+        "في اتجاه حركة السير"
+      ],
+      "h1": "مكان الدراجات على الطريق، لا حيث يمشي الناس.",
+      "h2": "في Alabama ركوب الدراجة الهوائية على الرصيف مخالف للقانون؛ يسير راكبو الدراجات مع حركة السير ويجب أن يستخدموا مسار الدراجات إذا وُجد.",
+      "p": "صحيح. ركوب الدراجة على الرصيف مخالف للقانون في Alabama."
     }
   },
   {
@@ -5437,6 +7165,54 @@
       "h1": "En este caso es la mitad del límite indicado.",
       "h2": "Según la ley Move Over de Alabama, en un camino de dos carriles con límite de 20 mph o menos, usted debe alejarse lo más posible dentro de su carril y bajar a 10 mph.",
       "p": "Correcto. Baje a 10 mph."
+    },
+    "zh": {
+      "q": "在 Alabama，在限速 20 mph 的双车道路上，你经过一辆停着、闪着灯的紧急车辆。你应该开多快？",
+      "o": [
+        "5 mph",
+        "10 mph",
+        "15 mph",
+        "20 mph"
+      ],
+      "h1": "在这种情况下，是标示限速的一半。",
+      "h2": "按照 Alabama 的 Move Over 法，在限速 20 mph 或更低的双车道路上，你必须在自己的车道里尽量远离，并减速到 10 mph。",
+      "p": "对。减速到 10 mph。"
+    },
+    "vi": {
+      "q": "Ở Alabama, trên đường hai làn có tốc độ tối đa 20 mph, bạn chạy ngang qua một xe khẩn cấp đang dừng và nháy đèn. Bạn nên chạy nhanh bao nhiêu?",
+      "o": [
+        "5 mph",
+        "10 mph",
+        "15 mph",
+        "20 mph"
+      ],
+      "h1": "Trong trường hợp này, đó là một nửa tốc độ tối đa được ghi.",
+      "h2": "Theo luật Move Over của Alabama, trên đường hai làn có tốc độ tối đa 20 mph trở xuống, bạn phải tránh xa hết mức có thể trong làn của mình và giảm tốc độ xuống 10 mph.",
+      "p": "Đúng. Hãy giảm xuống 10 mph."
+    },
+    "tl": {
+      "q": "Sa Alabama, sa kalsadang may dalawang lane at 20 mph ang limit, dadaanan mo ang nakahintong emergency vehicle na kumikislap ang ilaw. Gaano ka kabilis dapat tumakbo?",
+      "o": [
+        "5 mph",
+        "10 mph",
+        "15 mph",
+        "20 mph"
+      ],
+      "h1": "Kalahati ito ng nakapaskil na limit sa kasong ito.",
+      "h2": "Ayon sa Move Over law ng Alabama, sa kalsadang may dalawang lane na 20 mph o mas mababa ang limit, kailangan mong lumayo hangga't kaya mo sa loob ng lane mo at bumagal sa 10 mph.",
+      "p": "Tama. Bumagal sa 10 mph."
+    },
+    "ar": {
+      "q": "في Alabama، على طريق من مسارين حدّ السرعة فيه 20 mph، تمرّ بجانب مركبة طوارئ متوقفة وأضواؤها تومض. ما السرعة التي يجب أن تسير بها؟",
+      "o": [
+        "5 mph",
+        "10 mph",
+        "15 mph",
+        "20 mph"
+      ],
+      "h1": "هي نصف الحدّ المكتوب في هذه الحالة.",
+      "h2": "بحسب قانون Move Over في Alabama، على طريق من مسارين حدّ السرعة فيه 20 mph أو أقل، يجب أن تبتعد قدر ما تستطيع داخل مسارك وتخفّف سرعتك إلى 10 mph.",
+      "p": "صحيح. خفّف سرعتك إلى 10 mph."
     }
   },
   {
@@ -5471,6 +7247,54 @@
       "h1": "Es la misma distancia que la regla de visibilidad de las luces.",
       "h2": "En Alabama no puede cruzar la línea central para rebasar en una curva o cuesta donde no pueda ver una distancia libre de por lo menos 500 pies.",
       "p": "Correcto. Necesita ver por lo menos 500 pies libres."
+    },
+    "zh": {
+      "q": "在 Alabama，在坡上或弯道上，除非你能清楚看到前方至少多远，否则不可以越过中线超车？",
+      "o": [
+        "100 英尺",
+        "200 英尺",
+        "500 英尺",
+        "50 英尺"
+      ],
+      "h1": "它和车头灯可见距离的规定是同一个距离。",
+      "h2": "在 Alabama，在弯道或坡上，如果你看不清前方至少 500 英尺的超车距离，就不可以越过中线超车。",
+      "p": "对。你需要清楚看到至少 500 英尺。"
+    },
+    "vi": {
+      "q": "Ở Alabama, bạn không được lấn qua vạch giữa để vượt xe trên dốc hoặc khúc cua trừ khi bạn nhìn rõ phía trước ít nhất bao xa?",
+      "o": [
+        "100 bộ (feet)",
+        "200 bộ (feet)",
+        "500 bộ (feet)",
+        "50 bộ (feet)"
+      ],
+      "h1": "Đó là cùng khoảng cách với quy định về tầm nhìn của đèn pha.",
+      "h2": "Ở Alabama, bạn không được lấn qua vạch giữa để vượt xe ở khúc cua hoặc trên dốc nếu bạn không nhìn rõ được một khoảng vượt ít nhất 500 bộ (feet).",
+      "p": "Đúng. Bạn cần nhìn rõ ít nhất 500 bộ (feet)."
+    },
+    "tl": {
+      "q": "Sa Alabama, hindi ka puwedeng tumawid sa center line para mag-overtake sa paakyat o kurbada maliban kung malinaw mong nakikita ang daan sa unahan nang hindi bababa sa gaano kalayo?",
+      "o": [
+        "100 talampakan",
+        "200 talampakan",
+        "500 talampakan",
+        "50 talampakan"
+      ],
+      "h1": "Pareho ito ng distansya sa patakaran sa abot ng ilaw ng headlight.",
+      "h2": "Sa Alabama, hindi ka puwedeng tumawid sa center line para mag-overtake sa kurbada o paakyat kung hindi mo malinaw na nakikita ang daan para mag-overtake nang hindi bababa sa 500 talampakan.",
+      "p": "Tama. Kailangan mong malinaw na makita ang hindi bababa sa 500 talampakan."
+    },
+    "ar": {
+      "q": "في Alabama، يجب ألّا تعبر الخط الأوسط لتتجاوز على مرتفع أو منعطف إلا إذا كنت ترى الطريق أمامك بوضوح لمسافة لا تقل عن كم؟",
+      "o": [
+        "100 قدم",
+        "200 قدم",
+        "500 قدم",
+        "50 قدمًا"
+      ],
+      "h1": "هي نفس المسافة في قاعدة مدى رؤية المصابيح الأمامية.",
+      "h2": "في Alabama يجب ألّا تعبر الخط الأوسط لتتجاوز على منعطف أو مرتفع إذا كنت لا ترى مسافة تجاوز واضحة لا تقل عن 500 قدم.",
+      "p": "صحيح. تحتاج إلى رؤية واضحة لمسافة 500 قدم على الأقل."
     }
   },
   {
@@ -5505,6 +7329,54 @@
       "h1": "Solo se exceptúan los vehículos de emergencia en servicio.",
       "h2": "En Alabama está prohibido retroceder en las carreteras de acceso controlado, como las autopistas, excepto los vehículos de emergencia en servicio, así que siga hasta la próxima salida.",
       "p": "Correcto. Nunca retroceda en una autopista; tome la próxima salida."
+    },
+    "zh": {
+      "q": "在 Alabama，你在高速公路上错过了出口。你可以在路肩上倒车回到出口吗？",
+      "o": [
+        "可以，只要打开危险警示灯",
+        "可以，只要车不多",
+        "可以，但只能在晚上",
+        "不可以，高速公路上禁止倒车"
+      ],
+      "h1": "只有正在执勤的紧急车辆例外。",
+      "h2": "在 Alabama，在高速公路这样的封闭式公路上禁止倒车，执勤中的紧急车辆除外，所以要开到下一个出口。",
+      "p": "对。绝对不要在高速公路上倒车；从下一个出口出去。"
+    },
+    "vi": {
+      "q": "Ở Alabama, bạn lỡ lối ra trên xa lộ. Bạn có được lùi xe trên lề đường để quay lại lối ra đó không?",
+      "o": [
+        "Được, nếu bạn bật đèn khẩn cấp",
+        "Được, nếu đường vắng xe",
+        "Được, nhưng chỉ vào ban đêm",
+        "Không, cấm lùi xe trên xa lộ"
+      ],
+      "h1": "Chỉ xe khẩn cấp đang làm nhiệm vụ mới được ngoại lệ.",
+      "h2": "Ở Alabama, cấm lùi xe trên đường cao tốc có kiểm soát lối ra vào như xa lộ, trừ xe khẩn cấp đang làm nhiệm vụ, vì vậy hãy đi tiếp đến lối ra kế tiếp.",
+      "p": "Đúng. Không bao giờ lùi xe trên xa lộ; hãy ra ở lối ra kế tiếp."
+    },
+    "tl": {
+      "q": "Sa Alabama, nalampasan mo ang exit mo sa freeway. Puwede ka bang umatras sa shoulder para maabot ito?",
+      "o": [
+        "Oo, kung gagamitin mo ang hazard lights",
+        "Oo, kung kaunti ang trapiko",
+        "Oo, pero sa gabi lang",
+        "Hindi, bawal umatras sa freeway"
+      ],
+      "h1": "Mga emergency vehicle lang na naka-duty ang hindi sakop.",
+      "h2": "Sa Alabama, bawal umatras sa mga controlled-access highway tulad ng freeway, maliban sa mga emergency vehicle na naka-duty, kaya tumuloy ka sa susunod na exit.",
+      "p": "Tama. Huwag kailanman umatras sa freeway; lumabas sa susunod na exit."
+    },
+    "ar": {
+      "q": "في Alabama، فاتك المخرج على الطريق السريع. هل يمكنك أن ترجع بالسيارة إلى الخلف على كتف الطريق لتصل إليه؟",
+      "o": [
+        "نعم، إذا شغّلت أضواء الخطر",
+        "نعم، إذا كانت حركة السير خفيفة",
+        "نعم، ولكن في الليل فقط",
+        "لا، الرجوع إلى الخلف على الطريق السريع ممنوع"
+      ],
+      "h1": "الاستثناء الوحيد هو مركبات الطوارئ أثناء عملها.",
+      "h2": "في Alabama الرجوع إلى الخلف ممنوع على الطرق السريعة ذات المداخل المحدودة مثل الطرق السريعة الرئيسية، إلا لمركبات الطوارئ أثناء عملها، لذلك تابع إلى المخرج التالي.",
+      "p": "صحيح. لا ترجع إلى الخلف أبدًا على الطريق السريع؛ اخرج من المخرج التالي."
     }
   },
   {
@@ -5539,6 +7411,54 @@
       "h1": "Es el doble de la distancia para un hidrante.",
       "h2": "En Alabama no puede estacionarse a menos de 30 pies de una señal de alto, una luz intermitente o un semáforo al lado del camino.",
       "p": "Correcto. Quédese por lo menos a 30 pies de una señal de alto."
+    },
+    "zh": {
+      "q": "在 Alabama，你最近可以停在离路边停车标志多远的地方？",
+      "o": [
+        "不少于 30 英尺",
+        "不少于 5 英尺",
+        "不少于 10 英尺",
+        "不少于 100 英尺"
+      ],
+      "h1": "它是消防栓距离的两倍。",
+      "h2": "在 Alabama，你不可以在路边停车标志、闪光信号灯或交通信号灯 30 英尺以内停车。",
+      "p": "对。要离停车标志至少 30 英尺。"
+    },
+    "vi": {
+      "q": "Ở Alabama, bạn được đậu xe gần biển báo dừng (stop sign) bên lề đường nhất là bao xa?",
+      "o": [
+        "Không gần hơn 30 bộ (feet)",
+        "Không gần hơn 5 bộ (feet)",
+        "Không gần hơn 10 bộ (feet)",
+        "Không gần hơn 100 bộ (feet)"
+      ],
+      "h1": "Đó là gấp đôi khoảng cách với trụ cứu hỏa.",
+      "h2": "Ở Alabama, bạn không được đậu xe trong vòng 30 bộ (feet) cách biển báo dừng, đèn nháy cảnh báo hoặc đèn giao thông bên lề đường.",
+      "p": "Đúng. Hãy đậu cách biển báo dừng ít nhất 30 bộ (feet)."
+    },
+    "tl": {
+      "q": "Sa Alabama, gaano kalapit ka puwedeng pumarada sa stop sign sa gilid ng kalsada?",
+      "o": [
+        "Hindi lalapit sa 30 talampakan",
+        "Hindi lalapit sa 5 talampakan",
+        "Hindi lalapit sa 10 talampakan",
+        "Hindi lalapit sa 100 talampakan"
+      ],
+      "h1": "Doble ito ng distansya para sa fire hydrant.",
+      "h2": "Sa Alabama, hindi ka puwedeng pumarada sa loob ng 30 talampakan mula sa stop sign, kumikislap na beacon, o traffic signal sa gilid ng kalsada.",
+      "p": "Tama. Lumayo nang hindi bababa sa 30 talampakan mula sa stop sign."
+    },
+    "ar": {
+      "q": "في Alabama، إلى أي مدى يمكنك أن تقترب عند الوقوف من لافتة قِف على جانب الطريق؟",
+      "o": [
+        "ليس أقرب من 30 قدمًا",
+        "ليس أقرب من 5 أقدام",
+        "ليس أقرب من 10 أقدام",
+        "ليس أقرب من 100 قدم"
+      ],
+      "h1": "هي ضعف المسافة المطلوبة عند صنبور الإطفاء.",
+      "h2": "في Alabama يجب ألّا تركن سيارتك على بُعد أقل من 30 قدمًا من لافتة قِف أو ضوء وامض أو إشارة مرور على جانب الطريق.",
+      "p": "صحيح. ابقَ على بُعد 30 قدمًا على الأقل من لافتة قِف."
     }
   },
   {
