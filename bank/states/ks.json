@@ -7543,27 +7543,27 @@
     "sign": null,
     "c": 0,
     "en": {
-      "q": "You missed your turn on a Kansas street. May you back up in the travel lane to reach it?",
+      "q": "You missed your turn on a Kansas street. What does the Kansas handbook say to do?",
       "o": [
-        "No, except to parallel park",
-        "Yes, if you use your hazard lights",
-        "Yes, if no car is right behind you",
-        "Only on one-way streets"
+        "Drive on and turn around where it is safe",
+        "Back up in the lane with your hazard lights on",
+        "Stop in the lane until you can back up",
+        "Back up along the shoulder"
       ],
       "h1": "Drivers behind you do not expect a car to come backward.",
-      "h2": "In Kansas, it is illegal to back up in any travel lane except to parallel park; if you miss a turn, go on to a safe place to turn around.",
+      "h2": "The Kansas handbook says not to back up in a travel lane except to parallel park; if you miss a turn, drive on to a safe place and turn around. Kansas law also allows backing only when it is safe and does not interfere with traffic, and never on a controlled-access highway.",
       "p": "Right. Do not back up; go on and turn around safely."
     },
     "es": {
-      "q": "Usted se pasó de su vuelta en una calle de Kansas. ¿Puede dar reversa en el carril para llegar a ella?",
+      "q": "Usted se pasó de su vuelta en una calle de Kansas. ¿Qué dice el manual de Kansas que debe hacer?",
       "o": [
-        "No, salvo para estacionarse en paralelo",
-        "Sí, si usa las luces intermitentes",
-        "Sí, si no hay un auto justo detrás",
-        "Solo en calles de un solo sentido"
+        "Seguir adelante y dar la vuelta donde sea seguro",
+        "Dar reversa en el carril con las luces intermitentes encendidas",
+        "Detenerse en el carril hasta poder dar reversa",
+        "Dar reversa por el acotamiento"
       ],
       "h1": "Los conductores de atrás no esperan un auto que viene en reversa.",
-      "h2": "En Kansas, es ilegal dar reversa en cualquier carril de circulación, salvo para estacionarse en paralelo; si se pasa de una vuelta, siga hasta un lugar seguro para dar la vuelta.",
+      "h2": "El manual de Kansas dice que no dé reversa en un carril de circulación, salvo para estacionarse en paralelo; si se pasa de una vuelta, siga hasta un lugar seguro y dé la vuelta allí. La ley de Kansas además permite dar reversa solo cuando es seguro y no estorba al tránsito, y nunca en una autopista de acceso controlado.",
       "p": "Correcto. No dé reversa; siga y dé la vuelta con seguridad."
     }
   },
