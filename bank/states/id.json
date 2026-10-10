@@ -6532,33 +6532,33 @@
     "scope": "ID",
     "cat": "speed-lanes",
     "conf": "high",
-    "page": 83,
+    "page": 68,
     "src": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Idaho, what is the top speed on an urban interstate unless a sign says otherwise?",
+      "q": "In Idaho, what is the highest speed limit that may be posted on an interstate?",
       "o": [
-        "55 mph",
+        "65 mph",
         "75 mph",
-        "80 mph",
-        "65 mph"
+        "85 mph",
+        "80 mph"
       ],
-      "h1": "It is lower than the limit on rural interstates.",
-      "h2": "In Idaho, the speed limit on urban interstate highways is up to 65 mph unless otherwise posted, while rural interstates may allow up to 80 mph where posted.",
-      "p": "Right. Urban interstates top out at 65 mph unless posted."
+      "h1": "It is higher than the 75 mph that applies when no sign is posted.",
+      "h2": "In Idaho, interstates are 75 mph unless posted otherwise, and the limit may be raised to 80 mph where signs show it.",
+      "p": "Right. Where it is posted, an interstate may allow up to 80 mph."
     },
     "es": {
-      "q": "En Idaho, ¿cuál es la velocidad máxima en una autopista interestatal urbana si una señal no indica otra cosa?",
+      "q": "En Idaho, ¿cuál es el límite de velocidad más alto que puede señalarse en una autopista interestatal?",
       "o": [
-        "55 mph",
+        "65 mph",
         "75 mph",
-        "80 mph",
-        "65 mph"
+        "85 mph",
+        "80 mph"
       ],
-      "h1": "Es menor que el límite en las interestatales rurales.",
-      "h2": "En Idaho, el límite en las autopistas interestatales urbanas es de hasta 65 mph salvo otra señal, mientras que en las rurales puede ser de hasta 80 mph donde esté señalado.",
-      "p": "Correcto. En interestatales urbanas el máximo es 65 mph salvo otra señal."
+      "h1": "Es mayor que las 75 mph que se aplican cuando no hay señal.",
+      "h2": "En Idaho, las autopistas interestatales tienen un límite de 75 mph salvo otra señal, y el límite puede subir a 80 mph donde las señales lo indiquen.",
+      "p": "Correcto. Donde esté señalado, una interestatal puede permitir hasta 80 mph."
     }
   },
   {
