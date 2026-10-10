@@ -8260,5 +8260,991 @@
       "h2": "En Georgia, el dueño registrado de un vehículo que entra a un carril de peaje sin un Peach Pass activo recibe un aviso de infracción por correo.",
       "p": "Correcto. El dueño recibe un aviso de infracción por correo."
     }
+  },
+  {
+    "id": "ga-172",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/georgia-licenseid/violations-suspensions-revocations/points-and-points-reduction",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Georgia, you are convicted of driving \"too fast for conditions.\" How many points are added to your license?",
+      "o": [
+        "2 points",
+        "3 points",
+        "No points",
+        "4 points"
+      ],
+      "h1": "DDS lists this conviction among the ones that carry no points.",
+      "h2": "In Georgia, a conviction for driving too fast for conditions adds no points to your license.",
+      "p": "Right. \"Too fast for conditions\" adds no points."
+    },
+    "es": {
+      "q": "En Georgia, a usted lo condenan por manejar \"demasiado rápido para las condiciones\". ¿Cuántos puntos se agregan a su licencia?",
+      "o": [
+        "2 puntos",
+        "3 puntos",
+        "Ningún punto",
+        "4 puntos"
+      ],
+      "h1": "El DDS pone esta condena entre las que no llevan puntos.",
+      "h2": "En Georgia, una condena por manejar demasiado rápido para las condiciones no agrega puntos a su licencia.",
+      "p": "Correcto. \"Demasiado rápido para las condiciones\" no agrega puntos."
+    }
+  },
+  {
+    "id": "ga-173",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/georgia-licenseid/violations-suspensions-revocations/points-and-points-reduction",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Georgia, you are convicted of going 12 mph over the speed limit. How many points are added to your license?",
+      "o": [
+        "No points",
+        "1 point",
+        "2 points",
+        "3 points"
+      ],
+      "h1": "Points for speeding start at 15 mph over the limit.",
+      "h2": "In Georgia, a speeding conviction for less than 15 mph over the posted limit adds no points.",
+      "p": "Right. Less than 15 mph over adds no points."
+    },
+    "es": {
+      "q": "En Georgia, a usted lo condenan por ir 12 mph por encima del límite de velocidad. ¿Cuántos puntos se agregan a su licencia?",
+      "o": [
+        "Ningún punto",
+        "1 punto",
+        "2 puntos",
+        "3 puntos"
+      ],
+      "h1": "Los puntos por exceso de velocidad empiezan a las 15 mph por encima del límite.",
+      "h2": "En Georgia, una condena por exceso de velocidad de menos de 15 mph por encima del límite indicado no agrega puntos.",
+      "p": "Correcto. Menos de 15 mph por encima no agrega puntos."
+    }
+  },
+  {
+    "id": "ga-174",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/points-schedule",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Georgia, how many points does a conviction for breaking the Move Over Law add to your record?",
+      "o": [
+        "1 point",
+        "2 points",
+        "6 points",
+        "3 points"
+      ],
+      "h1": "It is the same number as most other moving violations.",
+      "h2": "In Georgia, a conviction for a Move Over Law violation adds 3 points to your driving record.",
+      "p": "Right. A Move Over violation adds 3 points."
+    },
+    "es": {
+      "q": "En Georgia, ¿cuántos puntos agrega a su historial una condena por no cumplir la Ley de Moverse (Move Over Law)?",
+      "o": [
+        "1 punto",
+        "2 puntos",
+        "6 puntos",
+        "3 puntos"
+      ],
+      "h1": "Es el mismo número que la mayoría de las otras infracciones de manejo.",
+      "h2": "En Georgia, una condena por no cumplir la Ley de Moverse agrega 3 puntos a su historial de manejo.",
+      "p": "Correcto. No cumplir la Ley de Moverse agrega 3 puntos."
+    }
+  },
+  {
+    "id": "ga-175",
+    "scope": "GA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/georgia-licenseid/violations-suspensions-revocations/reinstate-license",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Georgia, DDS mails you a notice for the $200 Super Speeder fee. How long do you have to pay it?",
+      "o": [
+        "30 days",
+        "120 days",
+        "1 year",
+        "10 days"
+      ],
+      "h1": "It is about four months from the date of the notice.",
+      "h2": "In Georgia, a driver has 120 days from the date of the Super Speeder notice to pay the $200 fee to DDS.",
+      "p": "Right. You have 120 days to pay."
+    },
+    "es": {
+      "q": "En Georgia, el DDS le envía por correo un aviso del cargo de $200 de Super Speeder. ¿Cuánto tiempo tiene para pagarlo?",
+      "o": [
+        "30 días",
+        "120 días",
+        "1 año",
+        "10 días"
+      ],
+      "h1": "Son unos cuatro meses desde la fecha del aviso.",
+      "h2": "En Georgia, un conductor tiene 120 días desde la fecha del aviso de Super Speeder para pagarle al DDS el cargo de $200.",
+      "p": "Correcto. Tiene 120 días para pagar."
+    }
+  },
+  {
+    "id": "ga-176",
+    "scope": "GA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 21,
+    "src": "https://dds.georgia.gov/document/document/ga-drivers-manual-2023-2024/download",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Georgia, what happens if a Super Speeder does not pay the $200 state fee on time?",
+      "o": [
+        "The fee doubles every month after that",
+        "Two more points go on the record",
+        "License suspended, plus a reinstatement fee",
+        "Nothing, if the local fine was already paid"
+      ],
+      "h1": "The driver loses something more important than money.",
+      "h2": "In Georgia, not paying the Super Speeder fee on time leads to a license suspension and an extra reinstatement fee.",
+      "p": "Right. Not paying means a suspension and a reinstatement fee."
+    },
+    "es": {
+      "q": "En Georgia, ¿qué pasa si un Super Speeder no paga a tiempo el cargo estatal de $200?",
+      "o": [
+        "El cargo se duplica cada mes desde entonces",
+        "Se agregan dos puntos más al historial",
+        "Licencia suspendida, más un cargo de restablecimiento",
+        "Nada, si ya pagó la multa local"
+      ],
+      "h1": "El conductor pierde algo más importante que dinero.",
+      "h2": "En Georgia, no pagar a tiempo el cargo de Super Speeder lleva a la suspensión de la licencia y a un cargo extra de restablecimiento.",
+      "p": "Correcto. No pagar significa una suspensión y un cargo de restablecimiento."
+    }
+  },
+  {
+    "id": "ga-177",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/georgia-licenseid/violations-suspensions-revocations/violations-and-suspensions-faqs/dui-first",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Georgia, a driver age 21 or older is convicted of a first DUI in 5 years. How long is the license suspended?",
+      "o": [
+        "12 months",
+        "30 days",
+        "3 months",
+        "5 years"
+      ],
+      "h1": "It is one full year, though the driver may be able to reinstate early.",
+      "h2": "In Georgia, a first DUI conviction in 5 years for a driver 21 or older brings a 12-month license suspension.",
+      "p": "Right. The suspension is 12 months."
+    },
+    "es": {
+      "q": "En Georgia, a un conductor de 21 años o más lo condenan por su primer DUI en 5 años. ¿Por cuánto tiempo le suspenden la licencia?",
+      "o": [
+        "12 meses",
+        "30 días",
+        "3 meses",
+        "5 años"
+      ],
+      "h1": "Es un año completo, aunque el conductor tal vez pueda restablecerla antes.",
+      "h2": "En Georgia, una primera condena por DUI en 5 años para un conductor de 21 años o más trae una suspensión de la licencia de 12 meses.",
+      "p": "Correcto. La suspensión es de 12 meses."
+    }
+  },
+  {
+    "id": "ga-178",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/georgia-licenseid/violations-suspensions-revocations/violations-and-suspensions-faqs/dui-first",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Georgia, after a first DUI (age 21 or older), what lets the driver apply to reinstate before the 12 months end?",
+      "o": [
+        "Paying the fine twice and waiting 30 days",
+        "Passing the road and signs tests again",
+        "A letter from a doctor after 60 days",
+        "Waiting 120 days and finishing a DUI program"
+      ],
+      "h1": "The driver must wait several months and complete an approved program.",
+      "h2": "In Georgia, after a first DUI, a driver 21 or older may apply to reinstate after 120 days by showing a certificate from a DDS-approved DUI Alcohol or Drug Use Risk Reduction Program.",
+      "p": "Right. Wait 120 days and finish the DUI Risk Reduction Program."
+    },
+    "es": {
+      "q": "En Georgia, después de un primer DUI (21 años o más), ¿qué le permite al conductor pedir el restablecimiento antes de que terminen los 12 meses?",
+      "o": [
+        "Pagar la multa dos veces y esperar 30 días",
+        "Pasar otra vez los exámenes de manejo y de señales",
+        "Una carta de un médico después de 60 días",
+        "Esperar 120 días y terminar un programa de DUI"
+      ],
+      "h1": "El conductor debe esperar varios meses y completar un programa aprobado.",
+      "h2": "En Georgia, después de un primer DUI, un conductor de 21 años o más puede pedir el restablecimiento después de 120 días si muestra un certificado de un Programa de Reducción de Riesgos por DUI, Alcohol o Drogas aprobado por el DDS.",
+      "p": "Correcto. Esperar 120 días y terminar el Programa de Reducción de Riesgos por DUI."
+    }
+  },
+  {
+    "id": "ga-179",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/georgia-licenseid/violations-suspensions-revocations/violations-and-suspensions-faqs/dui-first",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Georgia, a driver refused the state's chemical test and is later convicted of a first DUI. Can the driver get a limited driving permit?",
+      "o": [
+        "Yes, after 30 days",
+        "No, the refusal makes the driver ineligible",
+        "Yes, after a defensive driving course",
+        "Yes, but only to drive to school"
+      ],
+      "h1": "Refusing the test costs more than the one-year suspension.",
+      "h2": "In Georgia, a driver whose license was suspended for refusing the state's chemical test cannot get a limited driving permit if convicted of a first DUI.",
+      "p": "Right. The refusal rules out a limited permit."
+    },
+    "es": {
+      "q": "En Georgia, un conductor se negó a la prueba química del estado y después lo condenan por un primer DUI. ¿Puede obtener un permiso de manejo limitado?",
+      "o": [
+        "Sí, después de 30 días",
+        "No, la negativa le quita ese derecho",
+        "Sí, después de un curso de manejo defensivo",
+        "Sí, pero solo para ir a la escuela"
+      ],
+      "h1": "Negarse a la prueba cuesta más que la suspensión de un año.",
+      "h2": "En Georgia, un conductor al que le suspendieron la licencia por negarse a la prueba química del estado no puede obtener un permiso de manejo limitado si lo condenan por un primer DUI.",
+      "p": "Correcto. La negativa no permite un permiso limitado."
+    }
+  },
+  {
+    "id": "ga-180",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/defensive-driving-program-faqs",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Georgia, you want to lower the points on your license. May you use an online defensive driving course?",
+      "o": [
+        "Yes, any online course counts",
+        "Yes, if it lasts at least 6 hours",
+        "No, DDS does not accept online courses",
+        "Yes, but only for up to 3 points"
+      ],
+      "h1": "The approved course is taught in a classroom at a certified clinic.",
+      "h2": "In Georgia, DDS does not accept certificates from online driver improvement (defensive driving) courses for any license matter, including points reduction.",
+      "p": "Right. Online courses do not count with DDS."
+    },
+    "es": {
+      "q": "En Georgia, usted quiere bajar los puntos de su licencia. ¿Puede usar un curso de manejo defensivo en línea?",
+      "o": [
+        "Sí, cualquier curso en línea cuenta",
+        "Sí, si dura por lo menos 6 horas",
+        "No, el DDS no acepta cursos en línea",
+        "Sí, pero solo para hasta 3 puntos"
+      ],
+      "h1": "El curso aprobado se da en un salón de clases en una clínica certificada.",
+      "h2": "En Georgia, el DDS no acepta certificados de cursos de mejoramiento del conductor (manejo defensivo) en línea para ningún asunto de la licencia, incluida la reducción de puntos.",
+      "p": "Correcto. Los cursos en línea no cuentan para el DDS."
+    }
+  },
+  {
+    "id": "ga-181",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/georgia-licenseid/violations-suspensions-revocations/violations-and-suspensions-faqs/no-proof",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Georgia, your license is suspended for a first conviction of having no proof of insurance. How long must it stay suspended before you can reinstate?",
+      "o": [
+        "60 days",
+        "7 days",
+        "1 year",
+        "3 years"
+      ],
+      "h1": "It is about two months.",
+      "h2": "In Georgia, after a first no-insurance conviction, the license must stay suspended for 60 days before you can reinstate it with proof of insurance.",
+      "p": "Right. 60 days, then show proof of insurance."
+    },
+    "es": {
+      "q": "En Georgia, le suspenden la licencia por una primera condena por no tener prueba de seguro. ¿Cuánto tiempo debe seguir suspendida antes de que pueda restablecerla?",
+      "o": [
+        "60 días",
+        "7 días",
+        "1 año",
+        "3 años"
+      ],
+      "h1": "Son unos dos meses.",
+      "h2": "En Georgia, después de una primera condena por no tener seguro, la licencia debe seguir suspendida 60 días antes de que pueda restablecerla con prueba de seguro.",
+      "p": "Correcto. 60 días, y luego muestra prueba de seguro."
+    }
+  },
+  {
+    "id": "ga-182",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/georgia-licenseid/violations-suspensions-revocations/violations-and-suspensions-faqs/no-proof",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Georgia, police stop you while you drive a friend's car, and there is no proof of insurance. Who is responsible?",
+      "o": [
+        "Only the friend who owns the car",
+        "The insurance company",
+        "No one, since the car is not yours",
+        "You, the driver"
+      ],
+      "h1": "In Georgia, it does not matter who owns the car.",
+      "h2": "In Georgia, the driver is always responsible for showing valid proof of insurance, even in someone else's car, so the driver's license can be suspended.",
+      "p": "Right. The driver is responsible."
+    },
+    "es": {
+      "q": "En Georgia, la policía lo detiene mientras maneja el carro de un amigo, y no hay prueba de seguro. ¿Quién es responsable?",
+      "o": [
+        "Solo el amigo dueño del carro",
+        "La compañía de seguros",
+        "Nadie, porque el carro no es suyo",
+        "Usted, el conductor"
+      ],
+      "h1": "En Georgia, no importa quién es el dueño del carro.",
+      "h2": "En Georgia, el conductor siempre es responsable de mostrar una prueba de seguro válida, aunque maneje el carro de otra persona, así que le pueden suspender la licencia al conductor.",
+      "p": "Correcto. El conductor es responsable."
+    }
+  },
+  {
+    "id": "ga-183",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/georgia-licenseid/violations-suspensions-revocations/violations-and-suspensions-faqs/no-proof-0",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Georgia, a driver is convicted a second time of having no insurance. To reinstate, how long must the driver keep an SR-22A insurance policy?",
+      "o": [
+        "6 months",
+        "3 years",
+        "10 years",
+        "Until age 25"
+      ],
+      "h1": "It is more than two years and less than five.",
+      "h2": "In Georgia, after a second or later no-insurance conviction, the driver must buy and keep an SR-22A insurance policy for 3 years.",
+      "p": "Right. The SR-22A policy must be kept for 3 years."
+    },
+    "es": {
+      "q": "En Georgia, a un conductor lo condenan por segunda vez por no tener seguro. Para restablecer la licencia, ¿por cuánto tiempo debe mantener una póliza de seguro SR-22A?",
+      "o": [
+        "6 meses",
+        "3 años",
+        "10 años",
+        "Hasta los 25 años de edad"
+      ],
+      "h1": "Es más de dos años y menos de cinco.",
+      "h2": "En Georgia, después de una segunda condena o más por no tener seguro, el conductor debe comprar y mantener una póliza de seguro SR-22A por 3 años.",
+      "p": "Correcto. La póliza SR-22A se debe mantener por 3 años."
+    }
+  },
+  {
+    "id": "ga-184",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/georgia-licenseid/violations-suspensions-revocations/violations-and-suspensions-faqs/first-points",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Georgia, a driver age 21 or older has a first license suspension for too many points. When can the driver reinstate?",
+      "o": [
+        "Only after waiting two full years",
+        "Only after waiting six full months",
+        "Once an approved defensive driving class is done",
+        "Only after retaking every driving test"
+      ],
+      "h1": "There is no waiting period; one course is the key.",
+      "h2": "In Georgia, a driver 21 or older with a first points suspension can reinstate as soon as an approved defensive driving course is completed.",
+      "p": "Right. Finish the course and you may reinstate."
+    },
+    "es": {
+      "q": "En Georgia, un conductor de 21 años o más tiene su primera suspensión de licencia por demasiados puntos. ¿Cuándo puede restablecerla?",
+      "o": [
+        "Solo después de esperar dos años completos",
+        "Solo después de esperar seis meses completos",
+        "Cuando termine un curso de manejo defensivo aprobado",
+        "Solo después de tomar otra vez todos los exámenes"
+      ],
+      "h1": "No hay que esperar; un curso es la clave.",
+      "h2": "En Georgia, un conductor de 21 años o más con una primera suspensión por puntos puede restablecer la licencia en cuanto termine un curso de manejo defensivo aprobado.",
+      "p": "Correcto. Termine el curso y puede restablecerla."
+    }
+  },
+  {
+    "id": "ga-185",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/georgia-licenseid/violations-suspensions-revocations/violations-and-suspensions-faqs/third-points",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Georgia, a driver age 21 or older has a third license suspension for too many points. Can the driver get a limited driving permit?",
+      "o": [
+        "No, it is not available",
+        "Yes, right away",
+        "Yes, after 30 days",
+        "Yes, for work trips only"
+      ],
+      "h1": "A limited permit is possible for the first and second points suspensions, but not after that.",
+      "h2": "In Georgia, no limited driving permit is issued for a third points suspension.",
+      "p": "Right. There is no limited permit for a third points suspension."
+    },
+    "es": {
+      "q": "En Georgia, un conductor de 21 años o más tiene su tercera suspensión de licencia por demasiados puntos. ¿Puede obtener un permiso de manejo limitado?",
+      "o": [
+        "No, no está disponible",
+        "Sí, de inmediato",
+        "Sí, después de 30 días",
+        "Sí, solo para ir al trabajo"
+      ],
+      "h1": "Un permiso limitado es posible en la primera y la segunda suspensión por puntos, pero no después.",
+      "h2": "En Georgia, no se da un permiso de manejo limitado en una tercera suspensión por puntos.",
+      "p": "Correcto. No hay permiso limitado en una tercera suspensión por puntos."
+    }
+  },
+  {
+    "id": "ga-186",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/georgia-licenseid/violations-suspensions-revocations/reinstate-license",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Georgia, a parent's license is suspended for not paying child support. How long does the suspension last?",
+      "o": [
+        "For exactly 30 days, then it ends",
+        "For exactly 6 months, then it ends",
+        "For exactly one year, then it ends",
+        "Until the parent meets the support order"
+      ],
+      "h1": "There is no set end date.",
+      "h2": "In Georgia, a child support suspension stays in effect until the parent comes into compliance with the child support order.",
+      "p": "Right. It lasts until the parent meets the support order."
+    },
+    "es": {
+      "q": "En Georgia, a un padre le suspenden la licencia por no pagar la manutención de sus hijos. ¿Cuánto dura la suspensión?",
+      "o": [
+        "Exactamente 30 días, y luego termina",
+        "Exactamente 6 meses, y luego termina",
+        "Exactamente un año, y luego termina",
+        "Hasta que el padre cumpla con la orden de manutención"
+      ],
+      "h1": "No tiene una fecha fija de fin.",
+      "h2": "En Georgia, una suspensión por manutención de hijos sigue vigente hasta que el padre cumpla con la orden de manutención.",
+      "p": "Correcto. Dura hasta que el padre cumpla con la orden de manutención."
+    }
+  },
+  {
+    "id": "ga-187",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/georgia-licenseid/violations-suspensions-revocations/violations-and-suspensions-faqs",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Georgia, a driver's license was revoked. When the revocation period ends, what must the driver do to get a license again?",
+      "o": [
+        "Nothing, the license comes back by itself",
+        "Apply and take the driving tests again",
+        "Only pay a fee by mail",
+        "Only take a vision test"
+      ],
+      "h1": "A revocation ends the privilege; it is not just a pause.",
+      "h2": "In Georgia, after a revocation period ends, the driver must apply for a new license and take the driving tests again.",
+      "p": "Right. A revoked driver must apply and test again."
+    },
+    "es": {
+      "q": "En Georgia, a un conductor le revocaron la licencia. Cuando termina el período de revocación, ¿qué debe hacer para tener licencia otra vez?",
+      "o": [
+        "Nada, la licencia regresa sola",
+        "Solicitarla y tomar otra vez los exámenes de manejo",
+        "Solo pagar un cargo por correo",
+        "Solo tomar un examen de la vista"
+      ],
+      "h1": "Una revocación termina el privilegio; no es solo una pausa.",
+      "h2": "En Georgia, cuando termina un período de revocación, el conductor debe solicitar una licencia nueva y tomar otra vez los exámenes de manejo.",
+      "p": "Correcto. Un conductor con licencia revocada debe solicitarla y examinarse otra vez."
+    }
+  },
+  {
+    "id": "ga-188",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/renewals-faqs",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Georgia, your license is due for renewal, but your driving privilege is suspended. What can you do?",
+      "o": [
+        "Renew it as usual",
+        "Renew it online only",
+        "Not renew it, but get an ID card",
+        "Renew it for one year only"
+      ],
+      "h1": "The privilege must be restored before any renewal.",
+      "h2": "In Georgia, a license cannot be renewed while your driving privilege is suspended, but you may apply for an ID card.",
+      "p": "Right. No renewal while suspended, but an ID card is possible."
+    },
+    "es": {
+      "q": "En Georgia, le toca renovar su licencia, pero su privilegio de manejar está suspendido. ¿Qué puede hacer?",
+      "o": [
+        "Renovarla como siempre",
+        "Renovarla solo en línea",
+        "No renovarla, pero sacar una tarjeta de identificación",
+        "Renovarla por un año solamente"
+      ],
+      "h1": "El privilegio se debe restablecer antes de cualquier renovación.",
+      "h2": "En Georgia, una licencia no se puede renovar mientras su privilegio de manejar está suspendido, pero usted puede solicitar una tarjeta de identificación.",
+      "p": "Correcto. No hay renovación durante la suspensión, pero sí puede sacar una identificación."
+    }
+  },
+  {
+    "id": "ga-189",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/renewals-faqs",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Georgia, how early may you renew your driver's license before it expires?",
+      "o": [
+        "Up to 150 days before",
+        "Only in the last 30 days",
+        "Up to 2 years before",
+        "Only after it expires"
+      ],
+      "h1": "It is about five months ahead.",
+      "h2": "In Georgia, you may renew your driver's license up to 150 days before its expiration date.",
+      "p": "Right. You may renew up to 150 days early."
+    },
+    "es": {
+      "q": "En Georgia, ¿con cuánta anticipación puede renovar su licencia de manejar antes de que venza?",
+      "o": [
+        "Hasta 150 días antes",
+        "Solo en los últimos 30 días",
+        "Hasta 2 años antes",
+        "Solo después de que venza"
+      ],
+      "h1": "Son unos cinco meses antes.",
+      "h2": "En Georgia, usted puede renovar su licencia de manejar hasta 150 días antes de la fecha de vencimiento.",
+      "p": "Correcto. Puede renovarla hasta 150 días antes."
+    }
+  },
+  {
+    "id": "ga-190",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/teen-driving-laws-faqs",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Georgia, you turn 18 but still hold a Class D license. Does the ban on driving from midnight to 5 a.m. still apply to you?",
+      "o": [
+        "No, it ends on your 18th birthday",
+        "No, it ended when you turned 17",
+        "Only on nights before a school day",
+        "Yes, until you get a Class C license"
+      ],
+      "h1": "The limits come with the type of license you hold, not your age.",
+      "h2": "In Georgia, Class D limits, such as the midnight to 5 a.m. ban and the passenger limits, still apply at 18 until the driver gets a Class C license.",
+      "p": "Right. They apply until you get a Class C license."
+    },
+    "es": {
+      "q": "En Georgia, usted cumple 18 años pero todavía tiene una licencia Clase D. ¿Todavía le aplica la prohibición de manejar de medianoche a 5 a. m.?",
+      "o": [
+        "No, termina el día que cumple 18",
+        "No, terminó cuando cumplió 17",
+        "Solo en noches antes de un día de escuela",
+        "Sí, hasta que obtenga una licencia Clase C"
+      ],
+      "h1": "Los límites van con el tipo de licencia que tiene, no con su edad.",
+      "h2": "En Georgia, los límites de la Clase D, como la prohibición de medianoche a 5 a. m. y los límites de pasajeros, siguen aplicando a los 18 años hasta que el conductor obtenga una licencia Clase C.",
+      "p": "Correcto. Aplican hasta que obtenga una licencia Clase C."
+    }
+  },
+  {
+    "id": "ga-191",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/adap-faqs",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Georgia, a teen never completes the Alcohol and Drug Awareness Program (ADAP). When can the teen get a driver's license?",
+      "o": [
+        "At 16, with a parent's note",
+        "Not until age 18",
+        "At 17, after paying a fine",
+        "At 16, after an extra road test"
+      ],
+      "h1": "ADAP is required only of applicants under a certain age.",
+      "h2": "In Georgia, a teen who does not complete ADAP cannot get a driver's license until turning 18, when ADAP is no longer required.",
+      "p": "Right. Without ADAP, the teen must wait until 18."
+    },
+    "es": {
+      "q": "En Georgia, un adolescente nunca termina el Programa de Concientización sobre Alcohol y Drogas (ADAP). ¿Cuándo puede obtener una licencia de manejar?",
+      "o": [
+        "A los 16, con una nota de sus padres",
+        "No hasta los 18 años",
+        "A los 17, después de pagar una multa",
+        "A los 16, después de un examen de manejo extra"
+      ],
+      "h1": "El ADAP solo se exige a solicitantes menores de cierta edad.",
+      "h2": "En Georgia, un adolescente que no termina el ADAP no puede obtener una licencia de manejar hasta cumplir 18 años, cuando el ADAP ya no se exige.",
+      "p": "Correcto. Sin el ADAP, debe esperar hasta los 18."
+    }
+  },
+  {
+    "id": "ga-192",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/responsible-adult",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Georgia, which applicant under 18 does not need a responsible adult to sign the license application?",
+      "o": [
+        "One who lives with a grandparent",
+        "One who has a part-time job",
+        "One who is validly married",
+        "One who has finished driver education"
+      ],
+      "h1": "Think of minors the law already treats as adults in other ways.",
+      "h2": "In Georgia, a responsible adult's signature is not required for a minor who is emancipated, validly married or on active duty in the U.S. armed forces.",
+      "p": "Right. A married minor does not need the signature."
+    },
+    "es": {
+      "q": "En Georgia, ¿qué solicitante menor de 18 años no necesita que un adulto responsable firme la solicitud de licencia?",
+      "o": [
+        "Uno que vive con un abuelo",
+        "Uno que tiene un trabajo de medio tiempo",
+        "Uno que está legalmente casado",
+        "Uno que terminó la educación vial"
+      ],
+      "h1": "Piense en los menores que la ley ya trata como adultos en otras cosas.",
+      "h2": "En Georgia, no se necesita la firma de un adulto responsable para un menor emancipado, legalmente casado o en servicio activo en las fuerzas armadas de EE. UU.",
+      "p": "Correcto. Un menor casado no necesita la firma."
+    }
+  },
+  {
+    "id": "ga-193",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 26,
+    "src": "https://dds.georgia.gov/document/document/ga-drivers-manual-2023-2024/download",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Georgia, how old must the responsible adult be who signs a minor's license or permit application?",
+      "o": [
+        "18 or older",
+        "21 or older",
+        "25 or older",
+        "16 or older"
+      ],
+      "h1": "This is younger than the age required for the adult who supervises practice driving.",
+      "h2": "In Georgia, the responsible adult who signs for an applicant under 18 must be at least 18 years old and know the applicant personally.",
+      "p": "Right. The responsible adult must be at least 18."
+    },
+    "es": {
+      "q": "En Georgia, ¿qué edad debe tener el adulto responsable que firma la solicitud de licencia o permiso de un menor?",
+      "o": [
+        "18 años o más",
+        "21 años o más",
+        "25 años o más",
+        "16 años o más"
+      ],
+      "h1": "Es menos que la edad exigida al adulto que supervisa la práctica de manejo.",
+      "h2": "En Georgia, el adulto responsable que firma por un solicitante menor de 18 años debe tener por lo menos 18 años y conocer personalmente al solicitante.",
+      "p": "Correcto. El adulto responsable debe tener por lo menos 18 años."
+    }
+  },
+  {
+    "id": "ga-194",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/motorcycle-instructional-permit-class-mp",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Georgia, what is the youngest age to get a Class MP motorcycle instructional permit?",
+      "o": [
+        "14",
+        "15",
+        "17",
+        "16"
+      ],
+      "h1": "It is one year older than the age for a car learner's permit.",
+      "h2": "In Georgia, you must be at least 16 to get a Class MP motorcycle instructional permit.",
+      "p": "Right. The motorcycle permit starts at 16."
+    },
+    "es": {
+      "q": "En Georgia, ¿cuál es la edad mínima para obtener un permiso de aprendiz de motocicleta Clase MP?",
+      "o": [
+        "14",
+        "15",
+        "17",
+        "16"
+      ],
+      "h1": "Es un año más que la edad del permiso de aprendiz para carro.",
+      "h2": "En Georgia, usted debe tener por lo menos 16 años para obtener un permiso de aprendiz de motocicleta Clase MP.",
+      "p": "Correcto. El permiso de motocicleta empieza a los 16."
+    }
+  },
+  {
+    "id": "ga-195",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/motorcycle-instructional-permit-class-mp",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Georgia, you hold a Class MP motorcycle instructional permit. Which rule applies to you?",
+      "o": [
+        "You may ride at night if you wear a helmet",
+        "You may ride only in daylight, with no passengers",
+        "You may carry one passenger who is over 21",
+        "You may ride on interstates only"
+      ],
+      "h1": "Permit riders are kept out of the dark and may not carry anyone.",
+      "h2": "In Georgia, a Class MP permit holder may ride only in daylight hours, may not carry passengers and may not use limited-access roads.",
+      "p": "Right. Daylight only, and no passengers."
+    },
+    "es": {
+      "q": "En Georgia, usted tiene un permiso de aprendiz de motocicleta Clase MP. ¿Qué regla le aplica?",
+      "o": [
+        "Puede andar de noche si usa casco",
+        "Solo puede andar de día y sin pasajeros",
+        "Puede llevar un pasajero mayor de 21 años",
+        "Solo puede andar en autopistas interestatales"
+      ],
+      "h1": "Los que tienen permiso no andan de noche y no pueden llevar a nadie.",
+      "h2": "En Georgia, quien tiene un permiso Clase MP solo puede andar de día, no puede llevar pasajeros y no puede usar carreteras de acceso limitado.",
+      "p": "Correcto. Solo de día y sin pasajeros."
+    }
+  },
+  {
+    "id": "ga-196",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/medical-and-vision-information",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Georgia, your license says you need corrective lenses. After eye surgery you no longer need them. How do you get the restriction removed?",
+      "o": [
+        "Mail DDS a copy of the surgery bill",
+        "It is removed by itself at renewal",
+        "Pass the vision exam at a DDS center",
+        "Call DDS and ask them to remove it"
+      ],
+      "h1": "You must show DDS your new vision in person.",
+      "h2": "In Georgia, after vision surgery you must go to a DDS Customer Service Center and pass the vision exam to have the vision restriction removed.",
+      "p": "Right. Pass the vision exam at a DDS center."
+    },
+    "es": {
+      "q": "En Georgia, su licencia dice que usted necesita lentes. Después de una cirugía de los ojos ya no los necesita. ¿Cómo hace para que le quiten la restricción?",
+      "o": [
+        "Enviar al DDS por correo una copia de la factura de la cirugía",
+        "Se quita sola al renovar",
+        "Pasar el examen de la vista en un centro del DDS",
+        "Llamar al DDS y pedir que la quiten"
+      ],
+      "h1": "Debe mostrarle al DDS su nueva vista en persona.",
+      "h2": "En Georgia, después de una cirugía de la vista usted debe ir a un Centro de Servicio al Cliente del DDS y pasar el examen de la vista para que le quiten la restricción.",
+      "p": "Correcto. Pase el examen de la vista en un centro del DDS."
+    }
+  },
+  {
+    "id": "ga-197",
+    "scope": "GA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 20,
+    "src": "https://dds.georgia.gov/document/document/ga-drivers-manual-2023-2024/download",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Georgia, how close to a fire station driveway may you not park?",
+      "o": [
+        "Within 20 feet",
+        "Within 5 feet",
+        "Within 200 feet",
+        "Within 500 feet"
+      ],
+      "h1": "It is more than 15 feet but less than 30 feet.",
+      "h2": "In Georgia, you may not park within 20 feet of a fire station driveway.",
+      "p": "Right. Stay 20 feet away from a fire station driveway."
+    },
+    "es": {
+      "q": "En Georgia, ¿a qué distancia de la entrada de una estación de bomberos no puede estacionarse?",
+      "o": [
+        "A menos de 20 pies",
+        "A menos de 5 pies",
+        "A menos de 200 pies",
+        "A menos de 500 pies"
+      ],
+      "h1": "Es más de 15 pies pero menos de 30 pies.",
+      "h2": "En Georgia, usted no puede estacionarse a menos de 20 pies de la entrada de una estación de bomberos.",
+      "p": "Correcto. Quédese a 20 pies de la entrada de una estación de bomberos."
+    }
+  },
+  {
+    "id": "ga-198",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 12,
+    "src": "https://dds.georgia.gov/document/document/ga-drivers-manual-2023-2024/download",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Georgia, the car for your road test has driver-assist features, such as lane-keeping help. Which is true?",
+      "o": [
+        "The car may not be used for the test at all",
+        "You must keep the features on the whole test",
+        "The examiner will drive part of the test",
+        "You may use it, but must drive without them"
+      ],
+      "h1": "The examiner wants to see your own driving skills.",
+      "h2": "In Georgia, you may take the road test in a car with driver assistance technology, but you must show that you can drive it without that technology.",
+      "p": "Right. You must show you can drive without the features."
+    },
+    "es": {
+      "q": "En Georgia, el carro para su examen de manejo tiene funciones de asistencia al conductor, como ayuda para mantenerse en el carril. ¿Qué es cierto?",
+      "o": [
+        "El carro no se puede usar para el examen",
+        "Debe tener esas funciones puestas todo el examen",
+        "El examinador manejará parte del examen",
+        "Puede usarlo, pero debe manejar sin ellas"
+      ],
+      "h1": "El examinador quiere ver sus propias destrezas de manejo.",
+      "h2": "En Georgia, usted puede tomar el examen de manejo en un carro con tecnología de asistencia al conductor, pero debe mostrar que puede manejarlo sin esa tecnología.",
+      "p": "Correcto. Debe mostrar que puede manejar sin esas funciones."
+    }
+  },
+  {
+    "id": "ga-199",
+    "scope": "GA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 50,
+    "src": "https://dds.georgia.gov/document/document/ga-drivers-manual-2023-2024/download",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Georgia, after a minor crash, you move your car out of the travel lanes as the law asks. Does moving it make you at fault?",
+      "o": [
+        "Yes, moving it admits fault",
+        "No, moving it does not make you at fault",
+        "Yes, unless the police say otherwise",
+        "Only if the other driver objects"
+      ],
+      "h1": "The law wants the road cleared without punishing the drivers who clear it.",
+      "h2": "In Georgia, drivers who move their cars after a minor crash are not considered at fault just because they moved them.",
+      "p": "Right. Moving the car does not make you at fault."
+    },
+    "es": {
+      "q": "En Georgia, después de un choque leve, usted saca su carro de los carriles como pide la ley. ¿Moverlo lo hace culpable?",
+      "o": [
+        "Sí, moverlo es admitir la culpa",
+        "No, moverlo no lo hace culpable",
+        "Sí, a menos que la policía diga otra cosa",
+        "Solo si el otro conductor se opone"
+      ],
+      "h1": "La ley quiere despejar la vía sin castigar a los conductores que la despejan.",
+      "h2": "En Georgia, los conductores que mueven sus carros después de un choque leve no se consideran culpables solo por haberlos movido.",
+      "p": "Correcto. Mover el carro no lo hace culpable."
+    }
+  },
+  {
+    "id": "ga-200",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": null,
+    "src": "https://dds.georgia.gov/dui-faqs",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Georgia, you are moving here, but your license in another state is suspended for a DUI. Can you get a Georgia license?",
+      "o": [
+        "Yes, right away",
+        "Yes, after a Georgia DUI class only",
+        "No, not until that suspension is reinstated",
+        "Yes, a limited Georgia license"
+      ],
+      "h1": "Georgia will not let you skip the other state's requirements.",
+      "h2": "In Georgia, if your driving privilege is suspended in another state because of a DUI, you cannot get a Georgia license until you meet that state's reinstatement requirements.",
+      "p": "Right. Reinstate in the other state first."
+    },
+    "es": {
+      "q": "En Georgia, usted se está mudando aquí, pero su licencia de otro estado está suspendida por un DUI. ¿Puede obtener una licencia de Georgia?",
+      "o": [
+        "Sí, de inmediato",
+        "Sí, solo después de una clase de DUI de Georgia",
+        "No, hasta que esa suspensión se restablezca",
+        "Sí, una licencia limitada de Georgia"
+      ],
+      "h1": "Georgia no le deja saltarse los requisitos del otro estado.",
+      "h2": "En Georgia, si su privilegio de manejar está suspendido en otro estado por un DUI, usted no puede obtener una licencia de Georgia hasta que cumpla los requisitos de restablecimiento de ese estado.",
+      "p": "Correcto. Primero restablezca en el otro estado."
+    }
   }
 ]
