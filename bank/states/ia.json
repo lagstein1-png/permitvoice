@@ -2382,81 +2382,33 @@
     "scope": "IA",
     "cat": "safe-driving",
     "conf": "high",
-    "page": 37,
-    "src": "https://iowadot.gov/media/7308/download?inline",
+    "page": null,
+    "src": "https://www.legis.iowa.gov/docs/code/805.8A.pdf",
     "sign": null,
     "c": 0,
     "en": {
-      "q": "In Iowa, a passenger has an open can of beer in the car. What can happen?",
+      "q": "In Iowa, a passenger has an open can of beer in the passenger area of the car. What can happen?",
       "o": [
-        "The driver and each passenger can be fined up to $200",
+        "The passenger can be ticketed, with a scheduled fine of $260",
         "Only the driver can be fined, up to $50",
         "Nothing, if the driver is not drinking",
         "The car is towed, but there is no fine"
       ],
-      "h1": "The open container law applies to everyone in the car, not only the driver.",
-      "h2": "In Iowa, an open container of alcohol in a car is a simple misdemeanor, with a fine of up to $200 for the driver and for each passenger.",
-      "p": "Right. The driver and every passenger can each be fined up to $200."
+      "h1": "The open container law covers passengers too, not only the driver.",
+      "h2": "In Iowa, a passenger may not have an open container of alcohol in the passenger area of a car; it is a simple misdemeanor with a scheduled fine of $260, the same as for a driver with an open container.",
+      "p": "Right. The passenger can be ticketed, and the scheduled fine is $260."
     },
     "es": {
-      "q": "En Iowa, un pasajero tiene una lata de cerveza abierta en el auto. ¿Qué puede pasar?",
+      "q": "En Iowa, un pasajero tiene una lata de cerveza abierta en la zona de pasajeros del auto. ¿Qué puede pasar?",
       "o": [
-        "El conductor y cada pasajero pueden recibir una multa de hasta $200",
+        "El pasajero puede recibir una multa, con una multa fija de $260",
         "Solo el conductor puede recibir una multa, de hasta $50",
         "Nada, si el conductor no está bebiendo",
         "Se remolca el auto, pero no hay multa"
       ],
-      "h1": "La ley de envases abiertos se aplica a todos en el auto, no solo al conductor.",
-      "h2": "En Iowa, llevar un envase abierto de alcohol en un auto es un delito menor, con una multa de hasta $200 para el conductor y para cada pasajero.",
-      "p": "Correcto. El conductor y cada pasajero pueden recibir una multa de hasta $200."
-    },
-    "zh": {
-      "q": "在 Iowa，车上一名乘客拿着一罐已打开的啤酒。会发生什么？",
-      "o": [
-        "司机和每名乘客都可能被罚款，最多 $200",
-        "只有司机会被罚款，最多 $50",
-        "如果司机没有喝酒，就没事",
-        "车会被拖走，但不会罚款"
-      ],
-      "h1": "开口容器法适用于车上的每个人，不只是司机。",
-      "h2": "在 Iowa，车里有打开的酒类容器属于轻罪，司机和每名乘客都可能被罚款，最多 $200。",
-      "p": "对。司机和每名乘客都可能各被罚款最多 $200。"
-    },
-    "vi": {
-      "q": "Ở Iowa, một hành khách có một lon bia đã mở trong xe. Điều gì có thể xảy ra?",
-      "o": [
-        "Tài xế và mỗi hành khách có thể bị phạt đến $200",
-        "Chỉ tài xế bị phạt, đến $50",
-        "Không sao cả, nếu tài xế không uống",
-        "Xe bị kéo đi, nhưng không bị phạt tiền"
-      ],
-      "h1": "Luật về đồ chứa rượu đã mở áp dụng cho mọi người trong xe, không chỉ tài xế.",
-      "h2": "Ở Iowa, có đồ chứa rượu đã mở trong xe là một tội nhẹ, với tiền phạt đến $200 cho tài xế và cho mỗi hành khách.",
-      "p": "Đúng. Tài xế và mỗi hành khách đều có thể bị phạt đến $200."
-    },
-    "tl": {
-      "q": "Sa Iowa, may bukas na lata ng beer ang isang pasahero sa kotse. Ano ang puwedeng mangyari?",
-      "o": [
-        "Puwedeng pagmultahin ang driver at bawat pasahero nang hanggang $200",
-        "Ang driver lang ang puwedeng pagmultahin, hanggang $50",
-        "Wala, kung hindi umiinom ang driver",
-        "Hihilahin ang kotse, pero walang multa"
-      ],
-      "h1": "Ang batas sa bukas na lalagyan ng alak ay para sa lahat ng nasa kotse, hindi lang sa driver.",
-      "h2": "Sa Iowa, ang bukas na lalagyan ng alak sa kotse ay isang simple misdemeanor, na may multang hanggang $200 para sa driver at para sa bawat pasahero.",
-      "p": "Tama. Puwedeng pagmultahin ang driver at bawat pasahero nang hanggang $200 bawat isa."
-    },
-    "ar": {
-      "q": "في Iowa، مع أحد الركاب علبة بيرة مفتوحة في السيارة. ماذا يمكن أن يحدث؟",
-      "o": [
-        "يمكن تغريم السائق وكل راكب حتى $200",
-        "يمكن تغريم السائق فقط، حتى $50",
-        "لا شيء، إذا كان السائق لا يشرب",
-        "تُسحب السيارة، لكن بلا غرامة"
-      ],
-      "h1": "قانون الحاوية المفتوحة ينطبق على كل من في السيارة، وليس على السائق فقط.",
-      "h2": "في Iowa، وجود حاوية كحول مفتوحة في السيارة مخالفة بسيطة (simple misdemeanor)، وغرامتها تصل إلى $200 للسائق ولكل راكب.",
-      "p": "صحيح. يمكن تغريم السائق وكل راكب حتى $200 لكل واحد."
+      "h1": "La ley de envases abiertos también se aplica a los pasajeros, no solo al conductor.",
+      "h2": "En Iowa, un pasajero no puede llevar un envase abierto de alcohol en la zona de pasajeros de un auto; es un delito menor con una multa fija de $260, igual que para un conductor con un envase abierto.",
+      "p": "Correcto. El pasajero puede recibir una multa, y la multa fija es de $260."
     }
   },
   {
@@ -3284,81 +3236,33 @@
     "scope": "IA",
     "cat": "safe-driving",
     "conf": "high",
-    "page": 34,
-    "src": "https://iowadot.gov/media/7308/download?inline",
+    "page": null,
+    "src": "https://www.legis.iowa.gov/docs/code/805.8A.pdf",
     "sign": null,
     "c": 3,
     "en": {
-      "q": "In Iowa, a passenger under 18 is not wearing a seat belt. What is the fine for that passenger?",
+      "q": "In Iowa, a passenger under 18 is not wearing a seat belt. What is the scheduled fine for this violation?",
       "o": [
         "A warning only",
-        "Up to $10",
-        "Up to $25",
-        "Up to $100"
+        "$10",
+        "$25",
+        "$135"
       ],
-      "h1": "The fine for an unbuckled teen is twice the fine for an unbuckled adult.",
-      "h2": "In Iowa the seat belt fine is up to $50 for each passenger, and up to $100 for each passenger under 18.",
-      "p": "Right. Up to $100 for each unbuckled passenger under 18."
+      "h1": "It is about double the $70 fine for an unbuckled adult in the front seat.",
+      "h2": "In Iowa, the scheduled fine for an unbuckled passenger under 18 is $135; a passenger 14 or older is usually ticketed, and for a younger child the driver is.",
+      "p": "Right. The scheduled fine is $135."
     },
     "es": {
-      "q": "En Iowa, un pasajero menor de 18 años no lleva puesto el cinturón de seguridad. ¿Cuál es la multa por ese pasajero?",
+      "q": "En Iowa, un pasajero menor de 18 años no lleva puesto el cinturón de seguridad. ¿Cuál es la multa fija por esta infracción?",
       "o": [
         "Solo una advertencia",
-        "Hasta $10",
-        "Hasta $25",
-        "Hasta $100"
+        "$10",
+        "$25",
+        "$135"
       ],
-      "h1": "La multa por un menor sin cinturón es el doble que la de un adulto sin cinturón.",
-      "h2": "En Iowa la multa por no usar el cinturón es de hasta $50 por cada pasajero, y de hasta $100 por cada pasajero menor de 18 años.",
-      "p": "Correcto. Hasta $100 por cada pasajero menor de 18 sin cinturón."
-    },
-    "zh": {
-      "q": "在 Iowa，一名未满 18 岁的乘客没有系安全带。这名乘客的罚款是多少？",
-      "o": [
-        "只有警告",
-        "最多 $10",
-        "最多 $25",
-        "最多 $100"
-      ],
-      "h1": "未系安全带的青少年的罚款，是未系安全带的成年人的两倍。",
-      "h2": "在 Iowa，没系安全带的罚款是每位乘客最多 $50，每位未满 18 岁的乘客最多 $100。",
-      "p": "对。每位没系安全带的未满 18 岁乘客最多 $100。"
-    },
-    "vi": {
-      "q": "Ở Iowa, một hành khách dưới 18 tuổi không thắt dây an toàn. Tiền phạt cho hành khách đó là bao nhiêu?",
-      "o": [
-        "Chỉ cảnh cáo",
-        "Tối đa $10",
-        "Tối đa $25",
-        "Tối đa $100"
-      ],
-      "h1": "Tiền phạt cho thiếu niên không thắt dây an toàn gấp đôi tiền phạt cho người lớn không thắt dây.",
-      "h2": "Ở Iowa, tiền phạt không thắt dây an toàn là tối đa $50 cho mỗi hành khách, và tối đa $100 cho mỗi hành khách dưới 18 tuổi.",
-      "p": "Đúng. Tối đa $100 cho mỗi hành khách dưới 18 tuổi không thắt dây an toàn."
-    },
-    "tl": {
-      "q": "Sa Iowa, hindi naka-seat belt ang isang pasaherong wala pang 18. Magkano ang multa para sa pasaherong iyon?",
-      "o": [
-        "Babala lang",
-        "Hanggang $10",
-        "Hanggang $25",
-        "Hanggang $100"
-      ],
-      "h1": "Doble ang multa para sa teen na hindi naka-seat belt kaysa sa multa para sa adult na hindi naka-seat belt.",
-      "h2": "Sa Iowa, ang multa sa hindi pagsusuot ng seat belt ay hanggang $50 para sa bawat pasahero, at hanggang $100 para sa bawat pasaherong wala pang 18.",
-      "p": "Tama. Hanggang $100 para sa bawat pasaherong wala pang 18 na hindi naka-seat belt."
-    },
-    "ar": {
-      "q": "في Iowa، راكب دون 18 لا يربط حزام الأمان. ما الغرامة عن هذا الراكب؟",
-      "o": [
-        "إنذار فقط",
-        "حتى $10",
-        "حتى $25",
-        "حتى $100"
-      ],
-      "h1": "غرامة المراهق غير المربوط بالحزام ضعف غرامة البالغ غير المربوط.",
-      "h2": "في Iowa تصل غرامة عدم ربط حزام الأمان إلى $50 عن كل راكب، وتصل إلى $100 عن كل راكب دون 18.",
-      "p": "صحيح. حتى $100 عن كل راكب دون 18 لا يربط الحزام."
+      "h1": "Es más o menos el doble de la multa de $70 para un adulto sin cinturón en el asiento delantero.",
+      "h2": "En Iowa, la multa fija por un pasajero menor de 18 años sin cinturón es de $135; por lo general se multa al pasajero de 14 años o más, y al conductor si el niño es menor.",
+      "p": "Correcto. La multa fija es de $135."
     }
   },
   {
