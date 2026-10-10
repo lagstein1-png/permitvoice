@@ -1884,5 +1884,141 @@
       "h2": "في Illinois، السائق الذي عمره أقل من 21 سنة ويوجد في دمه أي كحول أثناء القيادة يفقد رخصته ثلاثة أشهر على الأقل.",
       "p": "صحيح. أول مخالفة تعني إيقاف الرخصة ثلاثة أشهر على الأقل."
     }
+  },
+  {
+    "id": "il-024",
+    "scope": "IL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 54,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Illinois, when all cars are insured and no one is hurt, above what amount of property damage must the driver file a crash report?",
+      "o": [
+        "$250",
+        "$500",
+        "$1,500",
+        "$5,000"
+      ],
+      "h1": "It is between one thousand and two thousand dollars.",
+      "h2": "In Illinois, a driver must file a crash report when no one is hurt but the property damage is more than $1,500.",
+      "p": "Right. Damage over $1,500 means you must file a report."
+    },
+    "es": {
+      "q": "En Illinois, cuando todos los autos tienen seguro y nadie está herido, ¿a partir de qué cantidad de daños a la propiedad debe el conductor presentar un informe del choque?",
+      "o": [
+        "$250",
+        "$500",
+        "$1,500",
+        "$5,000"
+      ],
+      "h1": "Está entre mil y dos mil dólares.",
+      "h2": "En Illinois, el conductor debe presentar un informe del choque cuando nadie está herido pero los daños a la propiedad pasan de $1,500.",
+      "p": "Correcto. Con daños de más de $1,500 usted debe presentar un informe."
+    }
+  },
+  {
+    "id": "il-025",
+    "scope": "IL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 98,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Illinois, what is the minimum liability insurance a vehicle must carry?",
+      "o": [
+        "$25,000 / $50,000 / $20,000",
+        "$10,000 / $20,000 / $5,000",
+        "$15,000 / $30,000 / $10,000",
+        "$100,000 / $300,000 / $50,000"
+      ],
+      "h1": "Injury to one person is covered for twenty-five thousand dollars.",
+      "h2": "In Illinois, the minimum is $25,000 for one person hurt or killed, $50,000 for more than one person, and $20,000 for damage to property.",
+      "p": "Right. Illinois requires at least $25,000, $50,000 and $20,000 of coverage."
+    },
+    "es": {
+      "q": "En Illinois, ¿cuál es el seguro de responsabilidad civil mínimo que debe tener un vehículo?",
+      "o": [
+        "$25,000 / $50,000 / $20,000",
+        "$10,000 / $20,000 / $5,000",
+        "$15,000 / $30,000 / $10,000",
+        "$100,000 / $300,000 / $50,000"
+      ],
+      "h1": "Las lesiones de una persona están cubiertas por veinticinco mil dólares.",
+      "h2": "En Illinois, el mínimo es $25,000 por una persona herida o muerta, $50,000 por más de una persona y $20,000 por daños a la propiedad.",
+      "p": "Correcto. Illinois exige al menos $25,000, $50,000 y $20,000 de cobertura."
+    }
+  },
+  {
+    "id": "il-026",
+    "scope": "IL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 23,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Illinois, children under what age must ride in a child safety seat or booster seat?",
+      "o": [
+        "Under 2",
+        "Under 4",
+        "Under 12",
+        "Under 8"
+      ],
+      "h1": "From this age on, the regular seat belt law applies.",
+      "h2": "In Illinois, all children under age 8 must be secured in a child safety seat or booster seat that fits them.",
+      "p": "Right. Children under 8 need a child safety seat or booster seat."
+    },
+    "es": {
+      "q": "En Illinois, ¿los niños menores de qué edad deben ir en un asiento de seguridad infantil o un asiento elevado?",
+      "o": [
+        "Menores de 2",
+        "Menores de 4",
+        "Menores de 12",
+        "Menores de 8"
+      ],
+      "h1": "A partir de esa edad se aplica la ley normal del cinturón de seguridad.",
+      "h2": "En Illinois, todos los niños menores de 8 años deben ir sujetos en un asiento de seguridad infantil o asiento elevado adecuado para ellos.",
+      "p": "Correcto. Los niños menores de 8 años necesitan un asiento de seguridad infantil o asiento elevado."
+    }
+  },
+  {
+    "id": "il-027",
+    "scope": "IL",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Illinois, how many tries do you get to pass each exam after you pay the application fee?",
+      "o": [
+        "Two tries within six months",
+        "Three tries within one year",
+        "Five tries within one year",
+        "As many tries as you want"
+      ],
+      "h1": "The time limit is one year from the day you paid.",
+      "h2": "In Illinois, you get three tries to pass each exam within one year from the date you paid the application fee.",
+      "p": "Right. You have three tries within one year."
+    },
+    "es": {
+      "q": "En Illinois, ¿cuántos intentos tiene para aprobar cada examen después de pagar la tarifa de solicitud?",
+      "o": [
+        "Dos intentos en seis meses",
+        "Tres intentos en un año",
+        "Cinco intentos en un año",
+        "Todos los intentos que quiera"
+      ],
+      "h1": "El plazo es de un año desde el día en que pagó.",
+      "h2": "En Illinois, usted tiene tres intentos para aprobar cada examen dentro de un año desde la fecha en que pagó la tarifa de solicitud.",
+      "p": "Correcto. Tiene tres intentos dentro de un año."
+    }
   }
 ]
