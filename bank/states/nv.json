@@ -9144,5 +9144,141 @@
       "h2": "En Nevada, dele a un peatón ciego o con problemas de la vista unos 3 a 4 segundos para decidir; si la persona da un paso atrás y recoge el bastón, usted puede seguir.",
       "p": "Correcto. Espere de 3 a 4 segundos."
     }
+  },
+  {
+    "id": "nv-198",
+    "scope": "NV",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 78,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, how many demerit points are added to your record for failing to yield to a pedestrian?",
+      "o": [
+        "1 point",
+        "2 points",
+        "4 points",
+        "8 points"
+      ],
+      "h1": "It counts the same as running a stop sign.",
+      "h2": "In Nevada, failing to yield to a pedestrian adds 4 demerit points to your driving record.",
+      "p": "Right. Failing to yield to a pedestrian costs 4 points."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuántos puntos de demérito se agregan a su récord por no ceder el paso a un peatón?",
+      "o": [
+        "1 punto",
+        "2 puntos",
+        "4 puntos",
+        "8 puntos"
+      ],
+      "h1": "Cuenta lo mismo que pasarse una señal de alto.",
+      "h2": "En Nevada, no ceder el paso a un peatón agrega 4 puntos de demérito a su récord de manejo.",
+      "p": "Correcto. No ceder el paso a un peatón cuesta 4 puntos."
+    }
+  },
+  {
+    "id": "nv-199",
+    "scope": "NV",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 29,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, you are crossing an intersection when you hear a siren and see red lights behind you. What should you do?",
+      "o": [
+        "Clear the intersection, then pull to the right edge and stop",
+        "Stop right where you are in the intersection",
+        "Speed up and stay ahead of the emergency vehicle",
+        "Stop in the left lane so it can pass on the right"
+      ],
+      "h1": "Pull over and stop, but not in the middle of the crossing.",
+      "h2": "In Nevada, drive to the right edge of the road and stop for an emergency vehicle until it passes, but never stop in an intersection.",
+      "p": "Right. Get through the intersection first, then pull right and stop."
+    },
+    "es": {
+      "q": "En Nevada, usted está cruzando una intersección cuando oye una sirena y ve luces rojas detrás de usted. ¿Qué debe hacer?",
+      "o": [
+        "Salir de la intersección y luego orillarse a la derecha y detenerse",
+        "Detenerse donde está, dentro de la intersección",
+        "Acelerar y mantenerse delante del vehículo de emergencia",
+        "Detenerse en el carril izquierdo para que pase por la derecha"
+      ],
+      "h1": "Oríllese y deténgase, pero no en medio del cruce.",
+      "h2": "En Nevada, maneje hacia el borde derecho del camino y deténgase hasta que pase el vehículo de emergencia, pero nunca se detenga en una intersección.",
+      "p": "Correcto. Primero salga de la intersección, luego oríllese a la derecha y deténgase."
+    }
+  },
+  {
+    "id": "nv-200",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 58,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, your car is on fire and you cannot put the fire out. How far away from the car should you move?",
+      "o": [
+        "At least 5 feet",
+        "At least 20 feet",
+        "At least 50 feet",
+        "At least 100 feet"
+      ],
+      "h1": "Think of about the length of a basketball court or more.",
+      "h2": "In Nevada, if you cannot stop a car fire or it gets out of control, move well away from the vehicle, at least 100 feet.",
+      "p": "Right. Move at least 100 feet away."
+    },
+    "es": {
+      "q": "En Nevada, su carro se está quemando y usted no puede apagar el fuego. ¿A qué distancia del carro debe alejarse?",
+      "o": [
+        "Al menos 5 pies",
+        "Al menos 20 pies",
+        "Al menos 50 pies",
+        "Al menos 100 pies"
+      ],
+      "h1": "Piense en el largo de una cancha de básquetbol o más.",
+      "h2": "En Nevada, si no puede apagar el fuego de un carro o se sale de control, aléjese bien del vehículo, al menos 100 pies.",
+      "p": "Correcto. Aléjese al menos 100 pies."
+    }
+  },
+  {
+    "id": "nv-201",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 17,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, a vehicle used in commerce needs a commercial driver license (CDL) when its weight rating is at least how much?",
+      "o": [
+        "10,001 pounds",
+        "26,001 pounds",
+        "40,001 pounds",
+        "80,001 pounds"
+      ],
+      "h1": "It is just over 26,000 pounds.",
+      "h2": "In Nevada, a commercial vehicle needs a CDL when its weight rating is 26,001 pounds or more, when it is designed for 16 or more people including the driver, or when it carries hazardous materials.",
+      "p": "Right. 26,001 pounds or more needs a CDL."
+    },
+    "es": {
+      "q": "En Nevada, ¿a partir de qué peso nominal necesita una licencia de conducir comercial (CDL) un vehículo usado en el comercio?",
+      "o": [
+        "10,001 libras",
+        "26,001 libras",
+        "40,001 libras",
+        "80,001 libras"
+      ],
+      "h1": "Es un poco más de 26,000 libras.",
+      "h2": "En Nevada, un vehículo comercial necesita una CDL cuando su peso nominal es de 26,001 libras o más, cuando está diseñado para 16 o más personas incluido el conductor, o cuando lleva materiales peligrosos.",
+      "p": "Correcto. 26,001 libras o más requiere una CDL."
+    }
   }
 ]
