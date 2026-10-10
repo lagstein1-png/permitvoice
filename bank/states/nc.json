@@ -2540,5 +2540,651 @@
       "h2": "في North Carolina، لا يجوز لك أن توقف سيارتك على بُعد أقل من 15 feet من صنبور إطفاء الحريق أو من مدخل محطة الإطفاء.",
       "p": "صحيح. ابقَ على بُعد 15 feet على الأقل من صنبور الإطفاء."
     }
+  },
+  {
+    "id": "nc-032",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 34,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Carolina, how many driver license points can get you sent to a driver improvement clinic?",
+      "o": [
+        "3 points",
+        "7 points",
+        "5 points",
+        "12 points"
+      ],
+      "h1": "It is fewer points than the number that can lead to a suspension.",
+      "h2": "In North Carolina, a driver with 7 points may be sent to a driver improvement clinic, and finishing it takes 3 points off the record.",
+      "p": "Right. At 7 points you may be sent to a driver improvement clinic."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿con cuántos puntos en la licencia lo pueden mandar a una clínica para mejorar como conductor?",
+      "o": [
+        "3 puntos",
+        "7 puntos",
+        "5 puntos",
+        "12 puntos"
+      ],
+      "h1": "Son menos puntos que el número que puede llevar a una suspensión.",
+      "h2": "En Carolina del Norte, a un conductor con 7 puntos lo pueden mandar a una clínica para mejorar como conductor, y terminarla le quita 3 puntos del historial.",
+      "p": "Correcto. Con 7 puntos lo pueden mandar a una clínica para mejorar como conductor."
+    }
+  },
+  {
+    "id": "nc-033",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 34,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Carolina, your license is suspended for points for the first time. How long may it be taken?",
+      "o": [
+        "30 days",
+        "6 months",
+        "12 months",
+        "60 days"
+      ],
+      "h1": "It is longer than one month, and later suspensions are longer still.",
+      "h2": "In North Carolina, a first suspension for points may last 60 days; a second may last 6 months and a third 12 months.",
+      "p": "Right. A first points suspension may last 60 days."
+    },
+    "es": {
+      "q": "En Carolina del Norte, su licencia es suspendida por puntos por primera vez. ¿Por cuánto tiempo se la pueden quitar?",
+      "o": [
+        "30 días",
+        "6 meses",
+        "12 meses",
+        "60 días"
+      ],
+      "h1": "Es más de un mes, y las suspensiones siguientes son aún más largas.",
+      "h2": "En Carolina del Norte, una primera suspensión por puntos puede durar 60 días; la segunda puede durar 6 meses y la tercera 12 meses.",
+      "p": "Correcto. Una primera suspensión por puntos puede durar 60 días."
+    }
+  },
+  {
+    "id": "nc-034",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 39,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Carolina, a driver under 18 is convicted of a second moving violation within 12 months. How long may the license be suspended?",
+      "o": [
+        "30 days",
+        "90 days",
+        "6 months",
+        "1 year"
+      ],
+      "h1": "It is the shortest of the suspensions for young drivers; more violations bring longer ones.",
+      "h2": "In North Carolina, a driver under 18 may lose the license for 30 days after a second moving violation within 12 months; a third brings 90 days and a fourth six months.",
+      "p": "Right. A second moving violation within 12 months can mean a 30-day suspension."
+    },
+    "es": {
+      "q": "En Carolina del Norte, un conductor menor de 18 años es declarado culpable de una segunda infracción en movimiento dentro de 12 meses. ¿Por cuánto tiempo pueden suspender su licencia?",
+      "o": [
+        "30 días",
+        "90 días",
+        "6 meses",
+        "1 año"
+      ],
+      "h1": "Es la más corta de las suspensiones para conductores jóvenes; más infracciones traen suspensiones más largas.",
+      "h2": "En Carolina del Norte, un conductor menor de 18 años puede perder la licencia por 30 días tras una segunda infracción en movimiento dentro de 12 meses; la tercera trae 90 días y la cuarta seis meses.",
+      "p": "Correcto. Una segunda infracción en movimiento dentro de 12 meses puede causar una suspensión de 30 días."
+    }
+  },
+  {
+    "id": "nc-035",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 32,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Carolina, what happens to the license of a driver convicted of DWI for the first time?",
+      "o": [
+        "It is revoked for 30 days",
+        "It is revoked for 6 months",
+        "It is revoked for one year",
+        "It is revoked for four years"
+      ],
+      "h1": "The 30 days is what happens right after the arrest, not after the conviction.",
+      "h2": "In North Carolina, a first DWI conviction brings a mandatory one-year license revocation.",
+      "p": "Right. A first DWI conviction means losing the license for one year."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿qué le pasa a la licencia de un conductor declarado culpable de DWI (manejar bajo los efectos) por primera vez?",
+      "o": [
+        "Se revoca por 30 días",
+        "Se revoca por 6 meses",
+        "Se revoca por un año",
+        "Se revoca por cuatro años"
+      ],
+      "h1": "Los 30 días son lo que pasa justo después del arresto, no después de la condena.",
+      "h2": "En Carolina del Norte, una primera condena por DWI trae la revocación obligatoria de la licencia por un año.",
+      "p": "Correcto. Una primera condena por DWI significa perder la licencia por un año."
+    }
+  },
+  {
+    "id": "nc-036",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 32,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Carolina, a driver is convicted of DWI with a blood alcohol level of 0.15 or more. What must be put in the vehicle?",
+      "o": [
+        "A GPS tracker",
+        "An ignition interlock device",
+        "A dashboard camera",
+        "A speed limiter"
+      ],
+      "h1": "The device checks the driver's breath before the car will start.",
+      "h2": "In North Carolina, a DWI conviction with a blood alcohol level of 0.15 or more requires an ignition interlock device in the vehicle.",
+      "p": "Right. A 0.15 or higher DWI means an ignition interlock device."
+    },
+    "es": {
+      "q": "En Carolina del Norte, un conductor es declarado culpable de DWI con un nivel de alcohol en la sangre de 0.15 o más. ¿Qué se debe instalar en el vehículo?",
+      "o": [
+        "Un rastreador GPS",
+        "Un dispositivo de bloqueo de encendido (ignition interlock)",
+        "Una cámara en el tablero",
+        "Un limitador de velocidad"
+      ],
+      "h1": "El dispositivo revisa el aliento del conductor antes de que el carro arranque.",
+      "h2": "En Carolina del Norte, una condena por DWI con un nivel de alcohol en la sangre de 0.15 o más exige un dispositivo de bloqueo de encendido en el vehículo.",
+      "p": "Correcto. Un DWI con 0.15 o más significa un dispositivo de bloqueo de encendido."
+    }
+  },
+  {
+    "id": "nc-037",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 25,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Carolina, you just moved here and became a resident. How soon must you get a North Carolina license?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 60 days",
+        "Within 90 days"
+      ],
+      "h1": "It is about two months.",
+      "h2": "In North Carolina, a new resident has 60 days after moving here to get a North Carolina license.",
+      "p": "Right. New residents have 60 days."
+    },
+    "es": {
+      "q": "En Carolina del Norte, usted acaba de mudarse y ahora es residente. ¿En cuánto tiempo debe sacar una licencia de Carolina del Norte?",
+      "o": [
+        "Dentro de 10 días",
+        "Dentro de 30 días",
+        "Dentro de 60 días",
+        "Dentro de 90 días"
+      ],
+      "h1": "Son unos dos meses.",
+      "h2": "En Carolina del Norte, un nuevo residente tiene 60 días después de mudarse para sacar una licencia de Carolina del Norte.",
+      "p": "Correcto. Los nuevos residentes tienen 60 días."
+    }
+  },
+  {
+    "id": "nc-038",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 28,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Carolina, you are 30 years old when you get your driver license. How long is it valid?",
+      "o": [
+        "4 years",
+        "5 years",
+        "10 years",
+        "8 years"
+      ],
+      "h1": "Drivers 66 and older get a shorter license than this.",
+      "h2": "In North Carolina, a license issued to a driver aged 18 to 65 is valid for 8 years; from age 66 it is valid for 5 years.",
+      "p": "Right. Between 18 and 65, a license lasts 8 years."
+    },
+    "es": {
+      "q": "En Carolina del Norte, usted tiene 30 años cuando recibe su licencia de manejar. ¿Por cuánto tiempo es válida?",
+      "o": [
+        "4 años",
+        "5 años",
+        "10 años",
+        "8 años"
+      ],
+      "h1": "Los conductores de 66 años o más reciben una licencia más corta que esta.",
+      "h2": "En Carolina del Norte, una licencia dada a un conductor de 18 a 65 años es válida por 8 años; desde los 66 años es válida por 5 años.",
+      "p": "Correcto. Entre los 18 y los 65 años, la licencia dura 8 años."
+    }
+  },
+  {
+    "id": "nc-039",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 99,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Carolina, at least how much liability insurance must a car owner carry for injuries to one person in a crash?",
+      "o": [
+        "$30,000",
+        "$10,000",
+        "$25,000",
+        "$60,000"
+      ],
+      "h1": "It is half the amount required for all injuries in one crash.",
+      "h2": "In North Carolina, liability insurance must cover at least $30,000 for injuries to one person, $60,000 for all injuries and $25,000 for property damage in a crash.",
+      "p": "Right. At least $30,000 for injuries to one person."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿cuánto seguro de responsabilidad debe tener como mínimo el dueño de un carro para las lesiones de una persona en un choque?",
+      "o": [
+        "$30,000",
+        "$10,000",
+        "$25,000",
+        "$60,000"
+      ],
+      "h1": "Es la mitad de lo que se exige para todas las lesiones de un choque.",
+      "h2": "En Carolina del Norte, el seguro de responsabilidad debe cubrir al menos $30,000 por las lesiones de una persona, $60,000 por todas las lesiones y $25,000 por daños a la propiedad en un choque.",
+      "p": "Correcto. Al menos $30,000 por las lesiones de una persona."
+    }
+  },
+  {
+    "id": "nc-040",
+    "scope": "NC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 53,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Carolina, outside cities and towns, what is the speed limit when no sign shows a different one?",
+      "o": [
+        "45 mph",
+        "55 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "It is 20 mph more than the limit in cities and towns.",
+      "h2": "In North Carolina, the speed limit outside cities and towns is 55 mph unless a sign shows a different limit.",
+      "p": "Right. Outside cities and towns, the limit is 55 mph unless posted."
+    },
+    "es": {
+      "q": "En Carolina del Norte, fuera de ciudades y pueblos, ¿cuál es el límite de velocidad cuando ningún letrero indica otro?",
+      "o": [
+        "45 mph",
+        "55 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "Son 20 mph más que el límite en ciudades y pueblos.",
+      "h2": "En Carolina del Norte, el límite de velocidad fuera de ciudades y pueblos es 55 mph, a menos que un letrero indique otro límite.",
+      "p": "Correcto. Fuera de ciudades y pueblos, el límite es 55 mph si no hay letrero."
+    }
+  },
+  {
+    "id": "nc-041",
+    "scope": "NC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 53,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Carolina, what is the highest speed a school bus may drive?",
+      "o": [
+        "35 mph",
+        "55 mph",
+        "45 mph",
+        "65 mph"
+      ],
+      "h1": "School activity buses may go faster than this.",
+      "h2": "In North Carolina, the maximum speed limit for a school bus is 45 mph.",
+      "p": "Right. A school bus may not go over 45 mph."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿cuál es la velocidad más alta a la que puede ir un autobús escolar?",
+      "o": [
+        "35 mph",
+        "55 mph",
+        "45 mph",
+        "65 mph"
+      ],
+      "h1": "Los autobuses para actividades escolares pueden ir más rápido que esto.",
+      "h2": "En Carolina del Norte, el límite de velocidad máximo para un autobús escolar es 45 mph.",
+      "p": "Correcto. Un autobús escolar no puede pasar de 45 mph."
+    }
+  },
+  {
+    "id": "nc-042",
+    "scope": "NC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 56,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Carolina, the street has a curb. How close to the curb line of a crossing street may you park?",
+      "o": [
+        "No closer than 10 feet",
+        "No closer than 15 feet",
+        "No closer than 50 feet",
+        "No closer than 25 feet"
+      ],
+      "h1": "The shorter distance is only for streets with no curb.",
+      "h2": "In North Carolina, you may not park within 25 feet of the curb line of a crossing street, or within 15 feet where there is no curb.",
+      "p": "Right. Stay at least 25 feet from the curb line of a crossing street."
+    },
+    "es": {
+      "q": "En Carolina del Norte, la calle tiene bordillo. ¿Qué tan cerca de la línea del bordillo de una calle que cruza puede estacionarse?",
+      "o": [
+        "No a menos de 10 pies",
+        "No a menos de 15 pies",
+        "No a menos de 50 pies",
+        "No a menos de 25 pies"
+      ],
+      "h1": "La distancia más corta es solo para calles sin bordillo.",
+      "h2": "En Carolina del Norte, no puede estacionarse a menos de 25 pies de la línea del bordillo de una calle que cruza, ni a menos de 15 pies donde no hay bordillo.",
+      "p": "Correcto. Quédese al menos a 25 pies de la línea del bordillo de la calle que cruza."
+    }
+  },
+  {
+    "id": "nc-043",
+    "scope": "NC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 48,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Carolina, an emergency vehicle has stopped at a crash to give help. How close to it may you park?",
+      "o": [
+        "No closer than 100 feet",
+        "No closer than 25 feet",
+        "No closer than 50 feet",
+        "No closer than 500 feet"
+      ],
+      "h1": "Think of about six car lengths.",
+      "h2": "In North Carolina, you may not park within 100 feet of an emergency vehicle that has stopped at a crash or to give help.",
+      "p": "Right. Park no closer than 100 feet."
+    },
+    "es": {
+      "q": "En Carolina del Norte, un vehículo de emergencia se detuvo en un choque para dar ayuda. ¿Qué tan cerca de él puede estacionarse?",
+      "o": [
+        "No a menos de 100 pies",
+        "No a menos de 25 pies",
+        "No a menos de 50 pies",
+        "No a menos de 500 pies"
+      ],
+      "h1": "Piense en unos seis carros en fila.",
+      "h2": "En Carolina del Norte, no puede estacionarse a menos de 100 pies de un vehículo de emergencia que se detuvo en un choque o para dar ayuda.",
+      "p": "Correcto. No se estacione a menos de 100 pies."
+    }
+  },
+  {
+    "id": "nc-044",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 90,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Carolina, who must wear a bicycle helmet?",
+      "o": [
+        "Only riders under 12",
+        "All riders and passengers under 16",
+        "All riders of any age",
+        "Only riders on busy highways"
+      ],
+      "h1": "The rule is about age, and it covers passengers too.",
+      "h2": "In North Carolina, every bicycle rider and passenger under 16 must wear an approved bicycle helmet.",
+      "p": "Right. Riders and passengers under 16 must wear a helmet."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿quién debe usar casco en bicicleta?",
+      "o": [
+        "Solo los ciclistas menores de 12 años",
+        "Todos los ciclistas y pasajeros menores de 16 años",
+        "Todos los ciclistas de cualquier edad",
+        "Solo los ciclistas en carreteras con mucho tráfico"
+      ],
+      "h1": "La regla depende de la edad y también incluye a los pasajeros.",
+      "h2": "En Carolina del Norte, todo ciclista y pasajero de bicicleta menor de 16 años debe usar un casco aprobado.",
+      "p": "Correcto. Los ciclistas y pasajeros menores de 16 años deben usar casco."
+    }
+  },
+  {
+    "id": "nc-045",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 90,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Carolina, a bicycle is ridden at night. How far away must its front light be seen?",
+      "o": [
+        "At least 100 feet",
+        "At least 200 feet",
+        "At least 300 feet",
+        "At least 500 feet"
+      ],
+      "h1": "It is farther than the rear red light or reflector must be seen.",
+      "h2": "In North Carolina, a bicycle ridden at night needs a front light seen from at least 300 feet and a red rear light or reflector seen from at least 200 feet.",
+      "p": "Right. The front light must be seen from at least 300 feet."
+    },
+    "es": {
+      "q": "En Carolina del Norte, alguien anda en bicicleta de noche. ¿Desde qué distancia se debe ver su luz delantera?",
+      "o": [
+        "Al menos 100 pies",
+        "Al menos 200 pies",
+        "Al menos 300 pies",
+        "Al menos 500 pies"
+      ],
+      "h1": "Es más lejos que la distancia desde la que se debe ver la luz o el reflector rojo de atrás.",
+      "h2": "En Carolina del Norte, una bicicleta de noche necesita una luz delantera que se vea desde al menos 300 pies y una luz o reflector rojo atrás que se vea desde al menos 200 pies.",
+      "p": "Correcto. La luz delantera se debe ver desde al menos 300 pies."
+    }
+  },
+  {
+    "id": "nc-046",
+    "scope": "NC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 93,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Carolina, how old must you be to ride a moped on a public road?",
+      "o": [
+        "14 years old",
+        "15 years old",
+        "18 years old",
+        "16 years old"
+      ],
+      "h1": "You also need a North Carolina driver license or ID card.",
+      "h2": "In North Carolina, you must be at least 16 and have a North Carolina driver license or ID card to ride a moped on a public road.",
+      "p": "Right. You must be at least 16 to ride a moped."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿qué edad debe tener para manejar un moped en una vía pública?",
+      "o": [
+        "14 años",
+        "15 años",
+        "18 años",
+        "16 años"
+      ],
+      "h1": "También necesita una licencia de manejar o una tarjeta de identificación de Carolina del Norte.",
+      "h2": "En Carolina del Norte, debe tener al menos 16 años y una licencia de manejar o tarjeta de identificación de Carolina del Norte para manejar un moped en una vía pública.",
+      "p": "Correcto. Debe tener al menos 16 años para manejar un moped."
+    }
+  },
+  {
+    "id": "nc-047",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 45,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Carolina, as a general rule, who may not ride in the open bed of a pickup truck?",
+      "o": [
+        "Children under 16",
+        "Children under 12",
+        "Anyone under 18",
+        "Adults over 65"
+      ],
+      "h1": "The age is the same as the one for bicycle helmets.",
+      "h2": "In North Carolina, children under 16 may not ride in the open bed of a pickup truck, except in a few cases such as when an adult in the bed supervises them.",
+      "p": "Right. Children under 16 may not ride in an open truck bed."
+    },
+    "es": {
+      "q": "En Carolina del Norte, como regla general, ¿quién no puede viajar en la caja abierta de una camioneta pickup?",
+      "o": [
+        "Los niños menores de 16 años",
+        "Los niños menores de 12 años",
+        "Cualquier persona menor de 18 años",
+        "Los adultos mayores de 65 años"
+      ],
+      "h1": "La edad es la misma que para el casco de bicicleta.",
+      "h2": "En Carolina del Norte, los niños menores de 16 años no pueden viajar en la caja abierta de una camioneta pickup, salvo en algunos casos, como cuando un adulto en la caja los supervisa.",
+      "p": "Correcto. Los niños menores de 16 años no pueden viajar en una caja abierta."
+    }
+  },
+  {
+    "id": "nc-048",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 44,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Carolina, your car has a back seat and a front passenger air bag that is turned on. Which child must ride in the back seat?",
+      "o": [
+        "A child under 8 who weighs less than 80 pounds",
+        "A child under 5 who weighs less than 40 pounds",
+        "Any child under 16",
+        "A child under 10 who weighs less than 60 pounds"
+      ],
+      "h1": "It is a younger, lighter child than the one who needs a booster seat.",
+      "h2": "In North Carolina, when the car has an active front passenger air bag and a back seat, a child under 5 who weighs less than 40 pounds must ride in the back seat, unless the child seat is made for use with the air bag.",
+      "p": "Right. A child under 5 and under 40 pounds must ride in the back."
+    },
+    "es": {
+      "q": "En Carolina del Norte, su carro tiene asiento trasero y una bolsa de aire del pasajero delantero que está encendida. ¿Qué niño debe ir en el asiento trasero?",
+      "o": [
+        "Un niño menor de 8 años que pesa menos de 80 libras",
+        "Un niño menor de 5 años que pesa menos de 40 libras",
+        "Cualquier niño menor de 16 años",
+        "Un niño menor de 10 años que pesa menos de 60 libras"
+      ],
+      "h1": "Es un niño más pequeño y liviano que el que necesita un asiento elevado.",
+      "h2": "En Carolina del Norte, cuando el carro tiene una bolsa de aire delantera del pasajero activa y un asiento trasero, un niño menor de 5 años que pesa menos de 40 libras debe ir atrás, salvo que su asiento esté hecho para usarse con la bolsa de aire.",
+      "p": "Correcto. Un niño menor de 5 años y de menos de 40 libras debe ir atrás."
+    }
+  },
+  {
+    "id": "nc-049",
+    "scope": "NC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 52,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Carolina, you are driving the same way as a funeral procession. When may you pass it?",
+      "o": [
+        "Any time, if you honk first",
+        "Whenever it goes slower than 25 mph",
+        "Only when the road has two or more lanes going your way",
+        "Never, on any road"
+      ],
+      "h1": "It depends on how many lanes go in your direction.",
+      "h2": "In North Carolina, you may not pass a funeral procession going your way unless the road is marked for two or more lanes in that direction.",
+      "p": "Right. Pass only when there are two or more lanes going your way."
+    },
+    "es": {
+      "q": "En Carolina del Norte, usted maneja en la misma dirección que un cortejo fúnebre. ¿Cuándo puede rebasarlo?",
+      "o": [
+        "En cualquier momento, si toca la bocina primero",
+        "Cuando vaya a menos de 25 mph",
+        "Solo cuando la vía tiene dos o más carriles en su dirección",
+        "Nunca, en ninguna vía"
+      ],
+      "h1": "Depende de cuántos carriles van en su dirección.",
+      "h2": "En Carolina del Norte, no puede rebasar un cortejo fúnebre que va en su dirección, a menos que la vía tenga marcados dos o más carriles en esa dirección.",
+      "p": "Correcto. Rebase solo cuando hay dos o más carriles en su dirección."
+    }
+  },
+  {
+    "id": "nc-050",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 95,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Carolina, trash is thrown from your car and you are convicted of littering for the first time. What is the lowest fine?",
+      "o": [
+        "$25",
+        "$100",
+        "$500",
+        "$250"
+      ],
+      "h1": "The highest fine for a first offense is $1,000.",
+      "h2": "In North Carolina, a first littering conviction carries a fine of at least $250 and up to $1,000, and the driver is held responsible for litter from the vehicle.",
+      "p": "Right. The fine starts at $250."
+    },
+    "es": {
+      "q": "En Carolina del Norte, alguien tira basura desde su carro y usted es declarado culpable de tirar basura por primera vez. ¿Cuál es la multa más baja?",
+      "o": [
+        "$25",
+        "$100",
+        "$500",
+        "$250"
+      ],
+      "h1": "La multa más alta para una primera vez es $1,000.",
+      "h2": "En Carolina del Norte, una primera condena por tirar basura tiene una multa de al menos $250 y hasta $1,000, y el conductor es responsable de la basura que sale del vehículo.",
+      "p": "Correcto. La multa empieza en $250."
+    }
   }
 ]
