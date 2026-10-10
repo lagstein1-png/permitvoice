@@ -2048,5 +2048,209 @@
       "h2": "قبل عمر 16 سنة، يجب على حامل التصريح في Missouri أن يقود مع أحد الوالدين أو الجدّ أو الجدّة أو الوصي أو مدرّب معتمد، أو شخص بالغ مؤهَّل آخر تسمح به القواعد.",
       "p": "صحيح. يمكن للجدّ أو الجدّة أن يشرف على حامل التصريح الذي عمره أقل من 16 سنة."
     }
+  },
+  {
+    "id": "mo-026",
+    "scope": "MO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 70,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Missouri, what happens if you refuse a chemical test for alcohol when a police officer asks?",
+      "o": [
+        "You get a warning letter",
+        "You pay a small fine only",
+        "Your license is taken away for one year",
+        "You must retake the written test"
+      ],
+      "h1": "Refusing has a serious, long result.",
+      "h2": "In Missouri, if you refuse a chemical test of your blood alcohol, your driver license is taken away for one year.",
+      "p": "Right. Refusing the test costs you your license for one year."
+    },
+    "es": {
+      "q": "En Missouri, ¿qué pasa si usted se niega a hacer una prueba química de alcohol cuando un policía se lo pide?",
+      "o": [
+        "Recibe una carta de advertencia",
+        "Solo paga una multa pequeña",
+        "Le quitan la licencia por un año",
+        "Debe repetir el examen escrito"
+      ],
+      "h1": "Negarse tiene un resultado serio y largo.",
+      "h2": "En Missouri, si usted se niega a una prueba química del alcohol en la sangre, le quitan la licencia de manejar por un año.",
+      "p": "Correcto. Negarse a la prueba le cuesta la licencia por un año."
+    }
+  },
+  {
+    "id": "mo-027",
+    "scope": "MO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 34,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Missouri, what is the highest fine a judge may give for littering?",
+      "o": [
+        "$1,000",
+        "$50",
+        "$100",
+        "$250"
+      ],
+      "h1": "There can also be up to a year in jail.",
+      "h2": "In Missouri a person found guilty of littering may have to pay a fine of up to $1,000, spend up to one year in jail, or both.",
+      "p": "Right. Littering can cost up to $1,000."
+    },
+    "es": {
+      "q": "En Missouri, ¿cuál es la multa más alta que un juez puede dar por tirar basura?",
+      "o": [
+        "$1,000",
+        "$50",
+        "$100",
+        "$250"
+      ],
+      "h1": "También puede haber hasta un año de cárcel.",
+      "h2": "En Missouri una persona declarada culpable de tirar basura puede pagar una multa de hasta $1,000, pasar hasta un año en la cárcel, o las dos cosas.",
+      "p": "Correcto. Tirar basura puede costar hasta $1,000."
+    }
+  },
+  {
+    "id": "mo-028",
+    "scope": "MO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Missouri, your license has expired. After how long must you take the written and driving tests again to renew it?",
+      "o": [
+        "After 30 days",
+        "After 60 days",
+        "After 2 years",
+        "After 6 months (184 days)"
+      ],
+      "h1": "It is the same length of time as the early-renewal window.",
+      "h2": "In Missouri, if you do not renew within six months (184 days) after your license expires, you must take the written and driving tests again, plus the vision and road sign tests.",
+      "p": "Right. Wait more than 184 days and you must retest."
+    },
+    "es": {
+      "q": "En Missouri, su licencia está vencida. ¿Después de cuánto tiempo debe repetir los exámenes escrito y de manejo para renovarla?",
+      "o": [
+        "Después de 30 días",
+        "Después de 60 días",
+        "Después de 2 años",
+        "Después de 6 meses (184 días)"
+      ],
+      "h1": "Es el mismo tiempo que el plazo para renovar antes.",
+      "h2": "En Missouri, si usted no renueva dentro de seis meses (184 días) después del vencimiento, debe repetir los exámenes escrito y de manejo, además de los de vista y señales.",
+      "p": "Correcto. Si pasan más de 184 días, debe volver a examinarse."
+    }
+  },
+  {
+    "id": "mo-029",
+    "scope": "MO",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 81,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Missouri, when you must file an accident report with the Department of Revenue, how long do you have?",
+      "o": [
+        "24 hours",
+        "30 days",
+        "6 months",
+        "1 year"
+      ],
+      "h1": "It is about one month.",
+      "h2": "In Missouri a required accident report must be filed with the Driver License Bureau within 30 days.",
+      "p": "Right. File the accident report within 30 days."
+    },
+    "es": {
+      "q": "En Missouri, cuando debe presentar un informe de accidente al Departamento de Ingresos, ¿cuánto tiempo tiene?",
+      "o": [
+        "24 horas",
+        "30 días",
+        "6 meses",
+        "1 año"
+      ],
+      "h1": "Es más o menos un mes.",
+      "h2": "En Missouri un informe de accidente obligatorio se debe presentar a la Oficina de Licencias de Manejar dentro de 30 días.",
+      "p": "Correcto. Presente el informe dentro de 30 días."
+    }
+  },
+  {
+    "id": "mo-030",
+    "scope": "MO",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 81,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Missouri, you have a minor crash on the highway and no one is hurt. What should you do with your car?",
+      "o": [
+        "Leave it in the lane until police arrive",
+        "Drive away and call later",
+        "Move it onto the shoulder or off the road",
+        "Turn off the engine and wait inside"
+      ],
+      "h1": "Think \"steer it and clear it.\"",
+      "h2": "In Missouri, after a minor crash with no injuries, you should move your car onto the shoulder or another spot off the road so traffic does not back up.",
+      "p": "Right. Steer it and clear it off the road."
+    },
+    "es": {
+      "q": "En Missouri, usted tiene un choque leve en la carretera y nadie está herido. ¿Qué debe hacer con su carro?",
+      "o": [
+        "Dejarlo en el carril hasta que llegue la policía",
+        "Irse y llamar después",
+        "Moverlo al acotamiento o fuera de la carretera",
+        "Apagar el motor y esperar adentro"
+      ],
+      "h1": "Piense en \"muévalo y despeje\".",
+      "h2": "En Missouri, después de un choque leve sin heridos, usted debe mover su carro al acotamiento u otro lugar fuera de la carretera para que el tráfico no se detenga.",
+      "p": "Correcto. Mueva el carro y despeje la carretera."
+    }
+  },
+  {
+    "id": "mo-031",
+    "scope": "MO",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 37,
+    "src": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Missouri, on a highway with two or more lanes in each direction, when should you use the left lane?",
+      "o": [
+        "To pass slower traffic",
+        "Whenever you want to drive fast",
+        "Only when towing a trailer",
+        "For the whole trip"
+      ],
+      "h1": "Keep right most of the time.",
+      "h2": "In Missouri you should keep to the right on a four-lane highway and use the left lane only to pass another vehicle.",
+      "p": "Right. Use the left lane to pass, then move back right."
+    },
+    "es": {
+      "q": "En Missouri, en una carretera con dos o más carriles en cada dirección, ¿cuándo debe usar el carril izquierdo?",
+      "o": [
+        "Para rebasar al tráfico más lento",
+        "Siempre que quiera ir rápido",
+        "Solo cuando jala un remolque",
+        "Durante todo el viaje"
+      ],
+      "h1": "Manténgase a la derecha casi siempre.",
+      "h2": "En Missouri usted debe mantenerse a la derecha en una carretera de cuatro carriles y usar el carril izquierdo solo para rebasar a otro vehículo.",
+      "p": "Correcto. Use el carril izquierdo para rebasar y luego vuelva a la derecha."
+    }
   }
 ]
