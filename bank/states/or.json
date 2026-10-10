@@ -5798,5 +5798,1637 @@
       "h2": "En Oregon, si su vehículo detenido no se puede ver desde 200 pies en cada dirección, debe avisar al tráfico con banderas, bengalas, letreros u otros avisos colocados por lo menos a 200 pies en cada dirección.",
       "p": "Correcto. Coloque avisos por lo menos a 200 pies en cada dirección."
     }
+  },
+  {
+    "id": "or-101",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 1,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, you wear glasses when you take the DMV vision test. What happens?",
+      "o": [
+        "Your license will show that you must wear corrective lenses to drive",
+        "You must take the vision test again without glasses",
+        "You must pay an extra fee for the vision test",
+        "You may drive only in daylight"
+      ],
+      "h1": "Your license records how you passed the test.",
+      "h2": "In Oregon, if you take the vision test wearing glasses or contact lenses, your driving privilege will show that corrective lenses are required.",
+      "p": "Right. Your license will say you must wear corrective lenses."
+    },
+    "es": {
+      "q": "En Oregon, usted usa lentes cuando hace el examen de la vista en el DMV. ¿Qué pasa?",
+      "o": [
+        "Su licencia indicará que debe usar lentes correctivos para manejar",
+        "Debe repetir el examen de la vista sin lentes",
+        "Debe pagar una tarifa extra por el examen de la vista",
+        "Solo podrá manejar de día"
+      ],
+      "h1": "Su licencia registra cómo pasó usted el examen.",
+      "h2": "En Oregon, si hace el examen de la vista con lentes o lentes de contacto, su permiso de manejar indicará que se requieren lentes correctivos.",
+      "p": "Correcto. Su licencia dirá que debe usar lentes correctivos."
+    }
+  },
+  {
+    "id": "or-102",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, how many times may you take the knowledge test online in one 24-hour period?",
+      "o": [
+        "One time",
+        "Two times",
+        "Three times",
+        "As many times as you want"
+      ],
+      "h1": "It is a small number, so study between tries.",
+      "h2": "In Oregon, you may take the knowledge test online two times in a 24-hour period, and four times in total.",
+      "p": "Right. You may test online two times in 24 hours."
+    },
+    "es": {
+      "q": "En Oregon, ¿cuántas veces puede hacer el examen de conocimientos en línea en un período de 24 horas?",
+      "o": [
+        "Una vez",
+        "Dos veces",
+        "Tres veces",
+        "Todas las veces que quiera"
+      ],
+      "h1": "Es un número pequeño, así que estudie entre intentos.",
+      "h2": "En Oregon, usted puede hacer el examen de conocimientos en línea dos veces en un período de 24 horas, y cuatro veces en total.",
+      "p": "Correcto. Puede hacer el examen en línea dos veces en 24 horas."
+    }
+  },
+  {
+    "id": "or-103",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 3,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, DMV may waive your drive test if you finished an ODOT-approved driver education course within what time?",
+      "o": [
+        "The past six months",
+        "The past two years",
+        "The past five years",
+        "Any time in your life"
+      ],
+      "h1": "The course must be fairly recent, but it does not have to be this year.",
+      "h2": "In Oregon, DMV may waive the drive test if it receives proof that you completed an ODOT-approved driver education course within the past two years.",
+      "p": "Right. The course must be within the past two years."
+    },
+    "es": {
+      "q": "En Oregon, ¿dentro de qué plazo debe haber terminado un curso de educación vial aprobado por ODOT para que el DMV pueda eximirlo del examen de manejo?",
+      "o": [
+        "Los últimos seis meses",
+        "Los últimos dos años",
+        "Los últimos cinco años",
+        "En cualquier momento de su vida"
+      ],
+      "h1": "El curso debe ser bastante reciente, pero no tiene que ser de este año.",
+      "h2": "En Oregon, el DMV puede eximirlo del examen de manejo si recibe prueba de que usted terminó un curso de educación vial aprobado por ODOT en los últimos dos años.",
+      "p": "Correcto. El curso debe ser de los últimos dos años."
+    }
+  },
+  {
+    "id": "or-104",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, your mother wants to ride in the back seat during your drive test. Is that allowed?",
+      "o": [
+        "Yes, if she stays quiet",
+        "Yes, if she is a licensed driver",
+        "No, only you and the examiner may be in the vehicle",
+        "No, unless she is there to translate"
+      ],
+      "h1": "Think about who the test is for and who grades it.",
+      "h2": "In Oregon, only you and the examiner may be in the vehicle during a drive test; family, friends, translators and pets are not allowed.",
+      "p": "Right. Only you and the examiner may be in the vehicle."
+    },
+    "es": {
+      "q": "En Oregon, su madre quiere ir en el asiento de atrás durante su examen de manejo. ¿Está permitido?",
+      "o": [
+        "Sí, si se queda callada",
+        "Sí, si tiene licencia de manejar",
+        "No, solo usted y el examinador pueden estar en el vehículo",
+        "No, a menos que vaya para traducir"
+      ],
+      "h1": "Piense en para quién es el examen y quién lo califica.",
+      "h2": "En Oregon, solo usted y el examinador pueden estar en el vehículo durante el examen de manejo; no se permiten familiares, amigos, traductores ni mascotas.",
+      "p": "Correcto. Solo usted y el examinador pueden estar en el vehículo."
+    }
+  },
+  {
+    "id": "or-105",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, you arrive for your drive test but cannot show valid proof of insurance for the car. What happens?",
+      "o": [
+        "You must reschedule the test",
+        "The examiner lets you test anyway",
+        "You take the test in a DMV car",
+        "You pay a fine and then take the test"
+      ],
+      "h1": "The examiner checks this before you start driving.",
+      "h2": "In Oregon, you must show valid proof of insurance for your vehicle before the drive test, or you will have to reschedule the test.",
+      "p": "Right. Without proof of insurance, you must reschedule."
+    },
+    "es": {
+      "q": "En Oregon, usted llega a su examen de manejo pero no puede mostrar prueba válida de seguro del auto. ¿Qué pasa?",
+      "o": [
+        "Debe programar el examen para otro día",
+        "El examinador le deja hacer el examen de todos modos",
+        "Hace el examen en un auto del DMV",
+        "Paga una multa y luego hace el examen"
+      ],
+      "h1": "El examinador revisa esto antes de que usted empiece a manejar.",
+      "h2": "En Oregon, usted debe mostrar prueba válida de seguro de su vehículo antes del examen de manejo, o tendrá que programar el examen para otro día.",
+      "p": "Correcto. Sin prueba de seguro, debe programar otra cita."
+    }
+  },
+  {
+    "id": "or-106",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 90,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, you bring a birth certificate made by the hospital where you were born. Will DMV accept it as proof of identity and date of birth?",
+      "o": [
+        "Yes, any birth certificate is accepted",
+        "Yes, if it has your footprints on it",
+        "No, it must be a birth certificate issued by a U.S. government agency",
+        "Yes, if a parent signs it at DMV"
+      ],
+      "h1": "DMV wants a document from the government office that records births.",
+      "h2": "In Oregon, DMV accepts a U.S. government-issued birth certificate, but hospital-issued birth certificates and baptismal records are not acceptable.",
+      "p": "Right. A hospital birth certificate is not accepted."
+    },
+    "es": {
+      "q": "En Oregon, usted lleva un certificado de nacimiento hecho por el hospital donde nació. ¿Lo aceptará el DMV como prueba de identidad y fecha de nacimiento?",
+      "o": [
+        "Sí, se acepta cualquier certificado de nacimiento",
+        "Sí, si tiene sus huellas de los pies",
+        "No, debe ser un certificado de nacimiento emitido por una agencia del gobierno de EE. UU.",
+        "Sí, si uno de sus padres lo firma en el DMV"
+      ],
+      "h1": "El DMV quiere un documento de la oficina del gobierno que registra los nacimientos.",
+      "h2": "En Oregon, el DMV acepta un certificado de nacimiento emitido por el gobierno de EE. UU., pero no acepta certificados emitidos por hospitales ni fes de bautismo.",
+      "p": "Correcto. No se acepta un certificado de nacimiento del hospital."
+    }
+  },
+  {
+    "id": "or-107",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 91,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, which of these can you use to prove your home address when you apply for a driving privilege?",
+      "o": [
+        "A personal letter from a friend",
+        "Mail forwarded from your old address",
+        "A note you wrote yourself",
+        "A utility bill"
+      ],
+      "h1": "Personal and forwarded mail do not count.",
+      "h2": "In Oregon, a utility bill can prove your home address, but personal mail and forwarded mail are not accepted.",
+      "p": "Right. A utility bill can prove your address."
+    },
+    "es": {
+      "q": "En Oregon, ¿cuál de estos puede usar para probar su domicilio cuando solicita un permiso de manejar?",
+      "o": [
+        "Una carta personal de un amigo",
+        "Correo reenviado desde su domicilio anterior",
+        "Una nota que usted mismo escribió",
+        "Una factura de servicios públicos"
+      ],
+      "h1": "El correo personal y el correo reenviado no cuentan.",
+      "h2": "En Oregon, una factura de servicios públicos puede probar su domicilio, pero no se acepta correo personal ni correo reenviado.",
+      "p": "Correcto. Una factura de servicios públicos puede probar su domicilio."
+    }
+  },
+  {
+    "id": "or-108",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 93,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, what is the minimum coverage a car owner must carry for damage to other people's property in one crash?",
+      "o": [
+        "$20,000",
+        "$10,000",
+        "$25,000",
+        "$50,000"
+      ],
+      "h1": "It is less than the $25,000 for injury to one person.",
+      "h2": "In Oregon, the minimum insurance for damage to other people's property is $20,000 per crash.",
+      "p": "Right. The minimum is $20,000 for property damage."
+    },
+    "es": {
+      "q": "En Oregon, ¿cuál es la cobertura mínima que el dueño de un auto debe tener por daños a la propiedad de otras personas en un choque?",
+      "o": [
+        "$20,000",
+        "$10,000",
+        "$25,000",
+        "$50,000"
+      ],
+      "h1": "Es menos que los $25,000 por lesiones a una persona.",
+      "h2": "En Oregon, el seguro mínimo por daños a la propiedad de otras personas es de $20,000 por choque.",
+      "p": "Correcto. El mínimo es de $20,000 por daños a la propiedad."
+    }
+  },
+  {
+    "id": "or-109",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 93,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, what is the minimum uninsured motorist coverage a car owner must carry for each person?",
+      "o": [
+        "$10,000",
+        "$15,000",
+        "$25,000",
+        "$100,000"
+      ],
+      "h1": "It matches the minimum liability amount for injury to one person.",
+      "h2": "In Oregon, car insurance must include at least $25,000 per person and $50,000 per crash in uninsured motorist coverage.",
+      "p": "Right. The minimum is $25,000 per person."
+    },
+    "es": {
+      "q": "En Oregon, ¿cuál es la cobertura mínima contra conductores sin seguro que el dueño de un auto debe tener por persona?",
+      "o": [
+        "$10,000",
+        "$15,000",
+        "$25,000",
+        "$100,000"
+      ],
+      "h1": "Es igual al mínimo de responsabilidad por lesiones a una persona.",
+      "h2": "En Oregon, el seguro del auto debe incluir por lo menos $25,000 por persona y $50,000 por choque de cobertura contra conductores sin seguro.",
+      "p": "Correcto. El mínimo es de $25,000 por persona."
+    }
+  },
+  {
+    "id": "or-110",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 94,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, you are in a crash. The damage is only $500, but your passenger hurt her arm. Must you file a crash report with DMV?",
+      "o": [
+        "No, the damage is under $2,500",
+        "No, a police report is enough",
+        "Only if she goes to the hospital",
+        "Yes, a crash with any injury must be reported within 72 hours"
+      ],
+      "h1": "The damage amount is not the only reason to file a report.",
+      "h2": "In Oregon, you must file a crash report with DMV within 72 hours when anyone is injured or killed, no matter how small the damage is.",
+      "p": "Right. Any injury means you must file a report."
+    },
+    "es": {
+      "q": "En Oregon, usted tiene un choque. El daño es de solo $500, pero su pasajera se lastimó el brazo. ¿Debe presentar un informe del choque al DMV?",
+      "o": [
+        "No, el daño es menos de $2,500",
+        "No, basta con un informe de la policía",
+        "Solo si ella va al hospital",
+        "Sí, un choque con cualquier lesión se debe informar dentro de 72 horas"
+      ],
+      "h1": "La cantidad del daño no es la única razón para presentar un informe.",
+      "h2": "En Oregon, usted debe presentar un informe del choque al DMV dentro de 72 horas cuando alguien resulta lesionado o muerto, sin importar lo pequeño que sea el daño.",
+      "p": "Correcto. Cualquier lesión significa que debe presentar un informe."
+    }
+  },
+  {
+    "id": "or-111",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 95,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, which of these can make you lose your driving privilege?",
+      "o": [
+        "Paying a traffic ticket on time",
+        "Driving without insurance",
+        "Taking a defensive driving class",
+        "Selling your car"
+      ],
+      "h1": "Oregon requires every vehicle to be insured.",
+      "h2": "In Oregon, you can lose your driving privilege for driving uninsured, as well as for DUII, failing to report a crash, too many traffic convictions, or not paying court fines.",
+      "p": "Right. Driving uninsured can cost you your driving privilege."
+    },
+    "es": {
+      "q": "En Oregon, ¿cuál de estas cosas puede hacer que pierda su permiso de manejar?",
+      "o": [
+        "Pagar una multa de tránsito a tiempo",
+        "Manejar sin seguro",
+        "Tomar una clase de manejo defensivo",
+        "Vender su auto"
+      ],
+      "h1": "Oregon exige que todo vehículo tenga seguro.",
+      "h2": "En Oregon, usted puede perder su permiso de manejar por manejar sin seguro, y también por DUII, por no informar un choque, por demasiadas condenas de tránsito o por no pagar multas del tribunal.",
+      "p": "Correcto. Manejar sin seguro le puede costar su permiso de manejar."
+    }
+  },
+  {
+    "id": "or-112",
+    "scope": "OR",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 89,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, which of these may you drive with a Class C non-commercial license?",
+      "o": [
+        "A large passenger bus",
+        "A motorcycle",
+        "A moped or an autocycle",
+        "A truck that weighs more than 26,000 pounds"
+      ],
+      "h1": "A motorcycle needs a special endorsement.",
+      "h2": "In Oregon, a Class C license lets you drive passenger cars, mopeds, autocycles, vans and pickups up to 26,000 pounds that need no commercial license or motorcycle endorsement.",
+      "p": "Right. A Class C license covers mopeds and autocycles."
+    },
+    "es": {
+      "q": "En Oregon, ¿cuál de estos puede manejar con una licencia Clase C no comercial?",
+      "o": [
+        "Un autobús grande de pasajeros",
+        "Una motocicleta",
+        "Un ciclomotor o un autociclo",
+        "Un camión que pesa más de 26,000 libras"
+      ],
+      "h1": "Una motocicleta necesita un endoso especial.",
+      "h2": "En Oregon, una licencia Clase C le permite manejar autos de pasajeros, ciclomotores, autociclos, camionetas y pickups de hasta 26,000 libras que no requieren licencia comercial ni endoso de motocicleta.",
+      "p": "Correcto. La licencia Clase C incluye ciclomotores y autociclos."
+    }
+  },
+  {
+    "id": "or-113",
+    "scope": "OR",
+    "cat": "signals",
+    "conf": "high",
+    "page": 15,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, you are at a steady red arrow pointing right. No sign or officer says otherwise. What may you do?",
+      "o": [
+        "Turn right after a complete stop, yielding to traffic and people walking",
+        "Wait until the arrow turns green",
+        "Turn right without stopping",
+        "Turn right only if a police officer waves you on"
+      ],
+      "h1": "Oregon treats a red arrow like a steady red light for turns.",
+      "h2": "In Oregon, the turns allowed on a steady red light are also allowed on a red arrow, so you may turn right after a complete stop and yielding, unless a sign or officer says not to.",
+      "p": "Right. You may turn after a complete stop and yielding."
+    },
+    "es": {
+      "q": "En Oregon, usted está ante una flecha roja fija que apunta a la derecha. Ningún letrero ni agente indica otra cosa. ¿Qué puede hacer?",
+      "o": [
+        "Girar a la derecha después de detenerse por completo, cediendo el paso al tráfico y a los peatones",
+        "Esperar a que la flecha cambie a verde",
+        "Girar a la derecha sin detenerse",
+        "Girar a la derecha solo si un policía le hace señas"
+      ],
+      "h1": "Oregon trata una flecha roja como una luz roja fija para los giros.",
+      "h2": "En Oregon, los giros permitidos con una luz roja fija también se permiten con una flecha roja, así que puede girar a la derecha después de detenerse por completo y ceder el paso, a menos que un letrero o un agente lo prohíba.",
+      "p": "Correcto. Puede girar después de detenerse por completo y ceder el paso."
+    }
+  },
+  {
+    "id": "or-114",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, a yellow electronic sign says ADVISORY SPEED 40 because of ice. What is true?",
+      "o": [
+        "It is only a suggestion, and police can never ticket you for it",
+        "It is the new legal speed limit",
+        "It applies only to trucks",
+        "It is not a speed limit, but police may enforce it through the basic rule"
+      ],
+      "h1": "Yellow advisory signs and black-and-white speed limit signs are treated differently.",
+      "h2": "In Oregon, yellow variable advisory speed signs are not speed limits, but police may enforce them through the basic rule law.",
+      "p": "Right. Police may enforce it through the basic rule."
+    },
+    "es": {
+      "q": "En Oregon, un letrero electrónico amarillo dice ADVISORY SPEED 40 (velocidad recomendada 40) por el hielo. ¿Qué es cierto?",
+      "o": [
+        "Es solo una sugerencia, y la policía nunca le puede multar por ello",
+        "Es el nuevo límite de velocidad legal",
+        "Se aplica solo a los camiones",
+        "No es un límite de velocidad, pero la policía puede hacerlo cumplir mediante la regla básica"
+      ],
+      "h1": "Los letreros amarillos de velocidad recomendada y los letreros blancos y negros de límite de velocidad se tratan de forma diferente.",
+      "h2": "En Oregon, los letreros amarillos variables de velocidad recomendada no son límites de velocidad, pero la policía puede hacerlos cumplir mediante la ley de la regla básica.",
+      "p": "Correcto. La policía puede hacerlo cumplir mediante la regla básica."
+    }
+  },
+  {
+    "id": "or-115",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 19,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, what is the speed limit on an ocean shore where vehicles are allowed, when no other limit is posted?",
+      "o": [
+        "15 mph",
+        "25 mph",
+        "35 mph",
+        "45 mph"
+      ],
+      "h1": "It is the same as the limit in a residential district.",
+      "h2": "In Oregon, the speed limit is 25 mph on ocean shores where vehicles are allowed, the same as in residential districts and public parks, unless another speed is posted.",
+      "p": "Right. The limit on an ocean shore is 25 mph."
+    },
+    "es": {
+      "q": "En Oregon, ¿cuál es el límite de velocidad en una playa del océano donde se permiten vehículos, si no hay otro límite indicado?",
+      "o": [
+        "15 mph",
+        "25 mph",
+        "35 mph",
+        "45 mph"
+      ],
+      "h1": "Es igual al límite en una zona residencial.",
+      "h2": "En Oregon, el límite de velocidad es de 25 mph en las playas del océano donde se permiten vehículos, igual que en zonas residenciales y parques públicos, a menos que se indique otra velocidad.",
+      "p": "Correcto. El límite en una playa del océano es de 25 mph."
+    }
+  },
+  {
+    "id": "or-116",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 21,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, the driver manual shows how speed affects people walking. If a person is hit by a vehicle going 42 mph, what is the risk of death?",
+      "o": [
+        "10 percent",
+        "25 percent",
+        "50 percent",
+        "90 percent"
+      ],
+      "h1": "At 23 mph the risk is 10 percent, and at 58 mph it is 90 percent.",
+      "h2": "The Oregon driver manual shows that a person hit by a vehicle going 42 mph has a 50 percent risk of death, compared with 10 percent at 23 mph.",
+      "p": "Right. At 42 mph, the risk of death is 50 percent."
+    },
+    "es": {
+      "q": "En Oregon, el manual del conductor muestra cómo la velocidad afecta a los peatones. Si un vehículo que va a 42 mph atropella a una persona, ¿cuál es el riesgo de muerte?",
+      "o": [
+        "10 por ciento",
+        "25 por ciento",
+        "50 por ciento",
+        "90 por ciento"
+      ],
+      "h1": "A 23 mph el riesgo es de 10 por ciento, y a 58 mph es de 90 por ciento.",
+      "h2": "El manual del conductor de Oregon muestra que una persona atropellada por un vehículo que va a 42 mph tiene un riesgo de muerte de 50 por ciento, comparado con 10 por ciento a 23 mph.",
+      "p": "Correcto. A 42 mph, el riesgo de muerte es de 50 por ciento."
+    }
+  },
+  {
+    "id": "or-117",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 18,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, you are on a two-way road with no center line. A car comes toward you. How much of the road must you give it?",
+      "o": [
+        "At least half of the road",
+        "At least one quarter of the road",
+        "All of it; you must pull off the road",
+        "None; the first driver there may use the middle"
+      ],
+      "h1": "Share the road fairly with the oncoming driver.",
+      "h2": "In Oregon, when a two-way road has no center line, you must give at least half of the road to oncoming traffic.",
+      "p": "Right. Give at least half of the road to oncoming traffic."
+    },
+    "es": {
+      "q": "En Oregon, usted va por una calle de doble sentido sin línea central. Viene un auto hacia usted. ¿Cuánto de la calle le debe dejar?",
+      "o": [
+        "Por lo menos la mitad de la calle",
+        "Por lo menos una cuarta parte de la calle",
+        "Toda; usted debe salirse de la calle",
+        "Nada; el primero que llega puede usar el centro"
+      ],
+      "h1": "Comparta la calle de forma justa con el conductor que viene.",
+      "h2": "En Oregon, cuando una calle de doble sentido no tiene línea central, usted debe dejar por lo menos la mitad de la calle al tráfico que viene en sentido contrario.",
+      "p": "Correcto. Deje por lo menos la mitad de la calle al tráfico que viene."
+    }
+  },
+  {
+    "id": "or-118",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 23,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, a painted median ahead is filled with yellow diagonal stripes. You want to turn left across it into a driveway. What does the law say?",
+      "o": [
+        "You may turn after oncoming traffic clears",
+        "You may wait on the stripes, then turn",
+        "You may cross it only at night",
+        "You may not drive in or turn across the stripes"
+      ],
+      "h1": "The stripes mark an area where vehicles are not allowed.",
+      "h2": "In Oregon, yellow diagonal stripes in a painted median mark fixed objects or areas where vehicles are not allowed, and it is illegal to drive in them or turn across them.",
+      "p": "Right. Do not drive in or turn across yellow diagonal stripes."
+    },
+    "es": {
+      "q": "En Oregon, una mediana pintada más adelante está llena de rayas diagonales amarillas. Usted quiere girar a la izquierda cruzándola para entrar a una entrada de autos. ¿Qué dice la ley?",
+      "o": [
+        "Puede girar cuando pase el tráfico que viene",
+        "Puede esperar sobre las rayas y luego girar",
+        "Puede cruzarla solo de noche",
+        "No puede manejar sobre las rayas ni girar cruzándolas"
+      ],
+      "h1": "Las rayas marcan una zona donde no se permiten vehículos.",
+      "h2": "En Oregon, las rayas diagonales amarillas en una mediana pintada marcan objetos fijos o zonas donde no se permiten vehículos, y es ilegal manejar sobre ellas o girar cruzándolas.",
+      "p": "Correcto. No maneje sobre rayas diagonales amarillas ni gire cruzándolas."
+    }
+  },
+  {
+    "id": "or-119",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 31,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, you are passing a slow car on a two-lane road with a 55 mph limit. You need more speed to finish the pass. What does the law say?",
+      "o": [
+        "You may go up to 10 mph over the limit to finish",
+        "You may not go over the speed limit, even when passing",
+        "You may speed if your signal is on",
+        "You may speed only on a straight road"
+      ],
+      "h1": "Passing does not change the speed limit.",
+      "h2": "In Oregon, you may not exceed the speed limit when passing; it is against the law to exceed speed limits at any time.",
+      "p": "Right. Never go over the speed limit to pass."
+    },
+    "es": {
+      "q": "En Oregon, usted está rebasando a un auto lento en una carretera de dos carriles con límite de 55 mph. Necesita más velocidad para terminar de rebasar. ¿Qué dice la ley?",
+      "o": [
+        "Puede ir hasta 10 mph sobre el límite para terminar",
+        "No puede pasar del límite de velocidad, ni siquiera al rebasar",
+        "Puede exceder el límite si tiene la direccional encendida",
+        "Puede exceder el límite solo en una carretera recta"
+      ],
+      "h1": "Rebasar no cambia el límite de velocidad.",
+      "h2": "En Oregon, usted no puede exceder el límite de velocidad al rebasar; es contra la ley exceder los límites de velocidad en cualquier momento.",
+      "p": "Correcto. Nunca pase del límite de velocidad para rebasar."
+    }
+  },
+  {
+    "id": "or-120",
+    "scope": "OR",
+    "cat": "signals",
+    "conf": "high",
+    "page": 33,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, a car behind you wants to pass, and you can see the road ahead is clear. Should you flash your signals to tell the driver to go?",
+      "o": [
+        "Yes, flash your left turn signal",
+        "Yes, flash your right turn signal",
+        "No, the law forbids flashing your signals to tell drivers when to pass",
+        "Yes, or wave your hand out the window instead"
+      ],
+      "h1": "Your job is to stay right and let the other driver decide.",
+      "h2": "In Oregon, the law prohibits flashing any of your signals to tell other drivers when to pass, and you should not use your hands either; stay to the right instead.",
+      "p": "Right. Do not signal other drivers when to pass."
+    },
+    "es": {
+      "q": "En Oregon, un auto detrás de usted quiere rebasar, y usted ve que el camino adelante está libre. ¿Debe hacer parpadear sus luces de señal para decirle que pase?",
+      "o": [
+        "Sí, encienda la direccional izquierda",
+        "Sí, encienda la direccional derecha",
+        "No, la ley prohíbe usar sus luces de señal para decir a otros cuándo rebasar",
+        "Sí, o haga señas con la mano por la ventana"
+      ],
+      "h1": "Su tarea es mantenerse a la derecha y dejar que el otro conductor decida.",
+      "h2": "En Oregon, la ley prohíbe usar cualquiera de sus luces de señal para decir a otros conductores cuándo rebasar, y tampoco debe usar las manos; manténgase a la derecha.",
+      "p": "Correcto. No le indique a otro conductor cuándo rebasar."
+    }
+  },
+  {
+    "id": "or-121",
+    "scope": "OR",
+    "cat": "signals",
+    "conf": "high",
+    "page": 35,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, you reach a freeway ramp meter, and all of its lights are dark. What should you do?",
+      "o": [
+        "Do not stop; the meter is not in use",
+        "Stop and wait for it to turn green",
+        "Stop, then go one car at a time",
+        "Back up and use another ramp"
+      ],
+      "h1": "Ramp meters work only at certain times of day.",
+      "h2": "In Oregon, a dark ramp meter is not in use, so do not stop at it; speed up and merge with freeway traffic.",
+      "p": "Right. Do not stop at a dark ramp meter."
+    },
+    "es": {
+      "q": "En Oregon, usted llega a un semáforo de rampa de la autopista y todas sus luces están apagadas. ¿Qué debe hacer?",
+      "o": [
+        "No se detenga; el semáforo no está en uso",
+        "Deténgase y espere a que cambie a verde",
+        "Deténgase y luego pase un auto a la vez",
+        "Retroceda y use otra rampa"
+      ],
+      "h1": "Los semáforos de rampa funcionan solo a ciertas horas del día.",
+      "h2": "En Oregon, un semáforo de rampa apagado no está en uso, así que no se detenga; acelere y únase al tráfico de la autopista.",
+      "p": "Correcto. No se detenga ante un semáforo de rampa apagado."
+    }
+  },
+  {
+    "id": "or-122",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, your friends want to ride inside a travel trailer that you tow with a regular ball hitch. Is that allowed?",
+      "o": [
+        "Yes, if they wear seat belts",
+        "Yes, on roads under 45 mph",
+        "Yes, if an adult rides with them",
+        "No; passengers may ride only in certain trailers, such as one towed with a fifth-wheel device"
+      ],
+      "h1": "Oregon allows riders only in a few special kinds of trailers.",
+      "h2": "In Oregon, it is against the law for passengers to ride in a trailer, except a commercial bus trailer, an independently steered trailer, or a trailer towed with a fifth-wheel device.",
+      "p": "Right. Passengers may not ride in a regular towed trailer."
+    },
+    "es": {
+      "q": "En Oregon, sus amigos quieren ir dentro de un remolque de viaje que usted jala con un enganche de bola común. ¿Está permitido?",
+      "o": [
+        "Sí, si usan cinturón de seguridad",
+        "Sí, en caminos de menos de 45 mph",
+        "Sí, si un adulto va con ellos",
+        "No; los pasajeros solo pueden ir en ciertos remolques, como uno jalado con un enganche de quinta rueda"
+      ],
+      "h1": "Oregon permite pasajeros solo en unos pocos tipos especiales de remolque.",
+      "h2": "En Oregon, es contra la ley que los pasajeros vayan en un remolque, excepto en un remolque de autobús comercial, un remolque con dirección propia o un remolque jalado con un enganche de quinta rueda.",
+      "p": "Correcto. Los pasajeros no pueden ir en un remolque común."
+    }
+  },
+  {
+    "id": "or-123",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 36,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, a first offense for towing a second trailer or vehicle behind your car can bring a fine of up to how much?",
+      "o": [
+        "$250",
+        "$1,000",
+        "$2,500",
+        "$5,000"
+      ],
+      "h1": "The fine goes up to $2,000 for a second offense.",
+      "h2": "In Oregon, towing more than one trailer or vehicle can cost up to $1,000 for a first offense, up to $2,000 for a second, and up to $2,500 and six months in jail for a third.",
+      "p": "Right. A first offense can cost up to $1,000."
+    },
+    "es": {
+      "q": "En Oregon, ¿hasta cuánto puede ser la multa por una primera infracción por jalar un segundo remolque o vehículo detrás de su auto?",
+      "o": [
+        "$250",
+        "$1,000",
+        "$2,500",
+        "$5,000"
+      ],
+      "h1": "La multa sube hasta $2,000 en una segunda infracción.",
+      "h2": "En Oregon, jalar más de un remolque o vehículo puede costar hasta $1,000 la primera vez, hasta $2,000 la segunda, y hasta $2,500 y seis meses de cárcel la tercera.",
+      "p": "Correcto. Una primera infracción puede costar hasta $1,000."
+    }
+  },
+  {
+    "id": "or-124",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 39,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, you want to turn right at the next corner, and there is a bike lane on your right. What should you do?",
+      "o": [
+        "Move into the bike lane early and turn from there",
+        "Drive in the bike lane for the last block",
+        "Stay in your lane, yield to people in the bike lane, then turn across it",
+        "Honk so riders leave the bike lane"
+      ],
+      "h1": "You may cross a bike lane, but you may not use it to get ready.",
+      "h2": "In Oregon, you may turn across a bike lane, but you must not move into it to prepare for a turn, and you must yield to people riding in it.",
+      "p": "Right. Stay out of the bike lane until you turn, and yield."
+    },
+    "es": {
+      "q": "En Oregon, usted quiere girar a la derecha en la próxima esquina y hay un carril de bicicletas a su derecha. ¿Qué debe hacer?",
+      "o": [
+        "Entrar al carril de bicicletas antes y girar desde ahí",
+        "Manejar por el carril de bicicletas la última cuadra",
+        "Quedarse en su carril, ceder el paso a quienes van en el carril de bicicletas y luego girar cruzándolo",
+        "Tocar el claxon para que los ciclistas salgan del carril"
+      ],
+      "h1": "Puede cruzar un carril de bicicletas, pero no usarlo para prepararse.",
+      "h2": "En Oregon, usted puede girar cruzando un carril de bicicletas, pero no debe entrar en él para prepararse para el giro, y debe ceder el paso a quienes van en él.",
+      "p": "Correcto. No entre al carril de bicicletas antes de girar, y ceda el paso."
+    }
+  },
+  {
+    "id": "or-125",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 41,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, may you make a U-turn at an intersection controlled by a traffic signal?",
+      "o": [
+        "Only if a sign permits it",
+        "Yes, on any green light",
+        "Yes, on any green arrow",
+        "Yes, if no cars are coming"
+      ],
+      "h1": "Look for a sign at the intersection.",
+      "h2": "In Oregon, U-turns are prohibited at intersections controlled by a traffic signal, unless a sign permits the turn.",
+      "p": "Right. Only when a sign permits it."
+    },
+    "es": {
+      "q": "En Oregon, ¿puede dar una vuelta en U en una intersección controlada por un semáforo?",
+      "o": [
+        "Solo si un letrero lo permite",
+        "Sí, con cualquier luz verde",
+        "Sí, con cualquier flecha verde",
+        "Sí, si no vienen autos"
+      ],
+      "h1": "Busque un letrero en la intersección.",
+      "h2": "En Oregon, las vueltas en U están prohibidas en intersecciones controladas por un semáforo, a menos que un letrero permita la vuelta.",
+      "p": "Correcto. Solo cuando un letrero lo permite."
+    }
+  },
+  {
+    "id": "or-126",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 42,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, you reach an intersection with no signs or signals at the same time as a car coming from your right. Who should go first?",
+      "o": [
+        "You, because you are going straight",
+        "The faster car",
+        "The driver who honks first",
+        "The car on your right"
+      ],
+      "h1": "Look left first, but give way toward the right.",
+      "h2": "In Oregon, at an intersection with no signs or signals, you must yield to any vehicle already in the intersection or coming from your right.",
+      "p": "Right. Yield to the car on your right."
+    },
+    "es": {
+      "q": "En Oregon, usted llega a una intersección sin letreros ni semáforos al mismo tiempo que un auto que viene por su derecha. ¿Quién debe pasar primero?",
+      "o": [
+        "Usted, porque va derecho",
+        "El auto más rápido",
+        "El conductor que toque primero el claxon",
+        "El auto de su derecha"
+      ],
+      "h1": "Mire primero a la izquierda, pero ceda el paso hacia la derecha.",
+      "h2": "En Oregon, en una intersección sin letreros ni semáforos, usted debe ceder el paso a cualquier vehículo que ya esté en la intersección o que venga por su derecha.",
+      "p": "Correcto. Ceda el paso al auto de su derecha."
+    }
+  },
+  {
+    "id": "or-127",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 46,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, a person in a wheelchair rolls off the curb into a crosswalk. When is this person legally crossing the road?",
+      "o": [
+        "Only once the person reaches your lane",
+        "As soon as any part of the person or the wheelchair moves onto the road",
+        "Never; only people walking count",
+        "Only when the walk signal is on"
+      ],
+      "h1": "Oregon counts things like canes, wheelchairs and bicycles as part of the person.",
+      "h2": "In Oregon, a pedestrian is crossing the road as soon as any part or extension of them, such as a cane, wheelchair or bicycle, moves onto the road.",
+      "p": "Right. Crossing starts as soon as any part moves onto the road."
+    },
+    "es": {
+      "q": "En Oregon, una persona en silla de ruedas baja de la acera a un cruce peatonal. ¿Cuándo está esa persona cruzando la calle según la ley?",
+      "o": [
+        "Solo cuando llega a su carril",
+        "En cuanto cualquier parte de la persona o de la silla de ruedas entra a la calle",
+        "Nunca; solo cuentan las personas que caminan",
+        "Solo cuando la señal de cruce está encendida"
+      ],
+      "h1": "Oregon cuenta cosas como bastones, sillas de ruedas y bicicletas como parte de la persona.",
+      "h2": "En Oregon, un peatón está cruzando la calle en cuanto cualquier parte o extensión de él, como un bastón, una silla de ruedas o una bicicleta, entra a la calle.",
+      "p": "Correcto. El cruce empieza en cuanto cualquier parte entra a la calle."
+    }
+  },
+  {
+    "id": "or-128",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 47,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, a person is in a crosswalk on the far side of a safety island from your lane. Must you stop?",
+      "o": [
+        "Yes, always stop for anyone in a crosswalk",
+        "Yes, and wait until the person reaches the curb",
+        "No, you are not required to stop",
+        "Only if the person waves at you"
+      ],
+      "h1": "The island separates the person from your side of the road.",
+      "h2": "In Oregon, you are not required to stop for a pedestrian who is in a crosswalk on the other side of a safety island.",
+      "p": "Right. You do not have to stop for a person beyond a safety island."
+    },
+    "es": {
+      "q": "En Oregon, una persona está en un cruce peatonal del otro lado de una isla de seguridad, lejos de su carril. ¿Debe detenerse?",
+      "o": [
+        "Sí, siempre deténgase por cualquier persona en un cruce",
+        "Sí, y espere hasta que la persona llegue a la acera",
+        "No, no está obligado a detenerse",
+        "Solo si la persona le hace señas"
+      ],
+      "h1": "La isla separa a la persona de su lado de la calle.",
+      "h2": "En Oregon, usted no está obligado a detenerse por un peatón que está en un cruce peatonal del otro lado de una isla de seguridad.",
+      "p": "Correcto. No tiene que detenerse por una persona al otro lado de una isla de seguridad."
+    }
+  },
+  {
+    "id": "or-129",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 47,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, an intersection has no painted crosswalk lines. Is there a crosswalk there?",
+      "o": [
+        "Yes, an unmarked crosswalk at least 6 feet wide",
+        "No, a crosswalk must be painted",
+        "Only if there is a sidewalk",
+        "Only near a school"
+      ],
+      "h1": "Imagine the sidewalk or shoulder at the corner reaching across the road.",
+      "h2": "In Oregon, there is a crosswalk at every intersection, even if it is not painted, and an unmarked crosswalk is at least 6 feet wide even where there is no sidewalk or shoulder.",
+      "p": "Right. Every intersection has a crosswalk, at least 6 feet wide."
+    },
+    "es": {
+      "q": "En Oregon, una intersección no tiene líneas pintadas de cruce peatonal. ¿Hay un cruce peatonal ahí?",
+      "o": [
+        "Sí, un cruce peatonal sin marcar de por lo menos 6 pies de ancho",
+        "No, un cruce peatonal tiene que estar pintado",
+        "Solo si hay acera",
+        "Solo cerca de una escuela"
+      ],
+      "h1": "Imagine que la acera o el acotamiento de la esquina cruza la calle.",
+      "h2": "En Oregon, hay un cruce peatonal en cada intersección, aunque no esté pintado, y un cruce sin marcar mide por lo menos 6 pies de ancho aunque no haya acera ni acotamiento.",
+      "p": "Correcto. Cada intersección tiene un cruce peatonal de por lo menos 6 pies de ancho."
+    }
+  },
+  {
+    "id": "or-130",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 47,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, the car in the lane next to you has stopped at a crosswalk. You do not see anyone crossing. May you pass it?",
+      "o": [
+        "Yes, if you slow down",
+        "Yes, if you honk first",
+        "Yes, if the other driver waves you on",
+        "No, passing a vehicle stopped at a crosswalk is against the law"
+      ],
+      "h1": "The other driver may see someone you cannot see.",
+      "h2": "In Oregon, it is against the law to pass a vehicle stopped at a crosswalk, because the driver may be waiting for a pedestrian to cross.",
+      "p": "Right. Never pass a vehicle stopped at a crosswalk."
+    },
+    "es": {
+      "q": "En Oregon, el auto del carril de al lado se detuvo en un cruce peatonal. Usted no ve a nadie cruzando. ¿Puede pasarlo?",
+      "o": [
+        "Sí, si baja la velocidad",
+        "Sí, si toca el claxon primero",
+        "Sí, si el otro conductor le hace señas",
+        "No, es contra la ley pasar a un vehículo detenido en un cruce peatonal"
+      ],
+      "h1": "El otro conductor puede ver a alguien que usted no ve.",
+      "h2": "En Oregon, es contra la ley pasar a un vehículo detenido en un cruce peatonal, porque el conductor puede estar esperando a que cruce un peatón.",
+      "p": "Correcto. Nunca pase a un vehículo detenido en un cruce peatonal."
+    }
+  },
+  {
+    "id": "or-131",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 51,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, a person on a motorized scooter is using the bike lane next to you. You want to turn right across the bike lane. What must you do?",
+      "o": [
+        "Turn ahead of them; scooters must yield to cars",
+        "Yield to them as you would to a person on a bicycle",
+        "Nothing; scooters may not use bike lanes",
+        "Honk so they stop"
+      ],
+      "h1": "Oregon lets these riders use bike lanes and protects them the same way.",
+      "h2": "In Oregon, people using motorized wheelchairs, scooters and personal assistive mobility devices may use bike lanes and paths, and you must yield to them as you would to a person on a bicycle.",
+      "p": "Right. Yield to them as you would to a bicycle rider."
+    },
+    "es": {
+      "q": "En Oregon, una persona en un scooter motorizado va por el carril de bicicletas junto a usted. Usted quiere girar a la derecha cruzando ese carril. ¿Qué debe hacer?",
+      "o": [
+        "Girar delante de ella; los scooters deben ceder el paso a los autos",
+        "Cederle el paso como lo haría con una persona en bicicleta",
+        "Nada; los scooters no pueden usar los carriles de bicicletas",
+        "Tocar el claxon para que se detenga"
+      ],
+      "h1": "Oregon permite a estas personas usar los carriles de bicicletas y las protege de la misma manera.",
+      "h2": "En Oregon, las personas en sillas de ruedas motorizadas, scooters y aparatos personales de movilidad pueden usar los carriles y caminos de bicicletas, y usted debe cederles el paso como lo haría con una persona en bicicleta.",
+      "p": "Correcto. Cédale el paso como a un ciclista."
+    }
+  },
+  {
+    "id": "or-132",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 53,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, compared with a smaller vehicle at the same speed, about how much distance does a large truck or bus need to stop?",
+      "o": [
+        "About the same distance",
+        "About half the distance",
+        "About three times the distance",
+        "About ten times the distance"
+      ],
+      "h1": "It is much more than a car needs, but not ten times more.",
+      "h2": "In Oregon, the manual says large vehicles take about three times the distance to stop than smaller vehicles at the same speed.",
+      "p": "Right. A large vehicle needs about three times the distance to stop."
+    },
+    "es": {
+      "q": "En Oregon, comparado con un vehículo más pequeño a la misma velocidad, ¿cuánta distancia más o menos necesita un camión grande o un autobús para detenerse?",
+      "o": [
+        "Más o menos la misma distancia",
+        "Más o menos la mitad de la distancia",
+        "Más o menos tres veces la distancia",
+        "Más o menos diez veces la distancia"
+      ],
+      "h1": "Es mucho más de lo que necesita un auto, pero no diez veces más.",
+      "h2": "En Oregon, el manual dice que los vehículos grandes necesitan más o menos tres veces la distancia para detenerse que los vehículos más pequeños a la misma velocidad.",
+      "p": "Correcto. Un vehículo grande necesita unas tres veces la distancia para detenerse."
+    }
+  },
+  {
+    "id": "or-133",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 55,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, you are on a four-lane road with a painted center turn lane. A school bus coming the other way stops with red lights flashing. What must you do?",
+      "o": [
+        "Stop; a painted median or turn lane does not make two separate roads",
+        "Keep going, because you are on the other side",
+        "Slow to 20 mph and pass carefully",
+        "Stop only if children are in your lane"
+      ],
+      "h1": "Only an unpaved median or a barrier makes two separate roads.",
+      "h2": "In Oregon, a painted median strip or center turn lane does not create two separate roads, so traffic in all lanes must stop for a school bus with flashing red lights.",
+      "p": "Right. All lanes must stop."
+    },
+    "es": {
+      "q": "En Oregon, usted va por una calle de cuatro carriles con un carril central de giro pintado. Un autobús escolar que viene en sentido contrario se detiene con las luces rojas intermitentes. ¿Qué debe hacer?",
+      "o": [
+        "Detenerse; una mediana o carril de giro pintado no forma dos calles separadas",
+        "Seguir, porque usted está del otro lado",
+        "Bajar a 20 mph y pasar con cuidado",
+        "Detenerse solo si hay niños en su carril"
+      ],
+      "h1": "Solo una mediana sin pavimentar o una barrera forma dos calles separadas.",
+      "h2": "En Oregon, una mediana pintada o un carril central de giro no forma dos calles separadas, así que el tráfico de todos los carriles debe detenerse ante un autobús escolar con luces rojas intermitentes.",
+      "p": "Correcto. Todos los carriles deben detenerse."
+    }
+  },
+  {
+    "id": "or-134",
+    "scope": "OR",
+    "cat": "signals",
+    "conf": "high",
+    "page": 56,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, farm equipment ahead shows an emblem with a red reflective border and a bright orange center. What does it mean?",
+      "o": [
+        "The driver is about to turn left",
+        "It is carrying hazardous materials",
+        "It is a pilot vehicle for a wide load",
+        "It is a slow moving vehicle, so be ready to slow down"
+      ],
+      "h1": "Farm equipment usually travels much slower than other traffic.",
+      "h2": "In Oregon, slow moving vehicles such as farm equipment must show the SLOW MOVING VEHICLE emblem, with a red reflective border and an orange center, so be ready to slow down or adjust your position.",
+      "p": "Right. It marks a slow moving vehicle."
+    },
+    "es": {
+      "q": "En Oregon, una máquina agrícola adelante muestra un emblema con borde rojo reflectante y centro anaranjado brillante. ¿Qué significa?",
+      "o": [
+        "El conductor está por girar a la izquierda",
+        "Lleva materiales peligrosos",
+        "Es un vehículo guía de una carga ancha",
+        "Es un vehículo lento, así que prepárese para bajar la velocidad"
+      ],
+      "h1": "La maquinaria agrícola suele ir mucho más lento que el resto del tráfico.",
+      "h2": "En Oregon, los vehículos lentos, como la maquinaria agrícola, deben mostrar el emblema de VEHÍCULO LENTO, con borde rojo reflectante y centro anaranjado, así que prepárese para bajar la velocidad o cambiar su posición.",
+      "p": "Correcto. Indica un vehículo lento."
+    }
+  },
+  {
+    "id": "or-135",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 56,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, in daylight, your load sticks out 5 feet past the back of your pickup. What must you put on the end of it?",
+      "o": [
+        "A white cloth of any size",
+        "A red flag at least 12 inches square",
+        "A yellow flashing light",
+        "Nothing; only loads over 6 feet need a flag"
+      ],
+      "h1": "The rule starts at 4 feet past the rear.",
+      "h2": "In Oregon, a load that extends 4 feet or more past the rear of a vehicle must have a red flag at least 12 inches square at the end, and a red light when visibility is limited.",
+      "p": "Right. Use a red flag at least 12 inches square."
+    },
+    "es": {
+      "q": "En Oregon, de día, su carga sobresale 5 pies por detrás de su pickup. ¿Qué debe poner en el extremo?",
+      "o": [
+        "Un trapo blanco de cualquier tamaño",
+        "Una bandera roja de por lo menos 12 pulgadas por lado",
+        "Una luz amarilla intermitente",
+        "Nada; solo las cargas de más de 6 pies necesitan bandera"
+      ],
+      "h1": "La regla empieza a los 4 pies por detrás.",
+      "h2": "En Oregon, una carga que sobresale 4 pies o más por detrás de un vehículo debe llevar en el extremo una bandera roja de por lo menos 12 pulgadas por lado, y una luz roja cuando hay poca visibilidad.",
+      "p": "Correcto. Use una bandera roja de por lo menos 12 pulgadas por lado."
+    }
+  },
+  {
+    "id": "or-136",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 56,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, how far may a load stick out past the right fenders of a passenger vehicle?",
+      "o": [
+        "Not at all",
+        "Up to 2 feet",
+        "No more than 6 inches",
+        "Up to 4 feet"
+      ],
+      "h1": "On the left side, a load may not stick out at all.",
+      "h2": "In Oregon, a load on a passenger vehicle may not extend more than 6 inches past the right fenders, and may not extend past the left fenders at all.",
+      "p": "Right. No more than 6 inches past the right fenders."
+    },
+    "es": {
+      "q": "En Oregon, ¿cuánto puede sobresalir una carga por fuera de las salpicaderas derechas de un vehículo de pasajeros?",
+      "o": [
+        "Nada",
+        "Hasta 2 pies",
+        "No más de 6 pulgadas",
+        "Hasta 4 pies"
+      ],
+      "h1": "Del lado izquierdo, una carga no puede sobresalir nada.",
+      "h2": "En Oregon, una carga en un vehículo de pasajeros no puede sobresalir más de 6 pulgadas por fuera de las salpicaderas derechas, y no puede sobresalir nada por fuera de las izquierdas.",
+      "p": "Correcto. No más de 6 pulgadas por fuera de las salpicaderas derechas."
+    }
+  },
+  {
+    "id": "or-137",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 57,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, a funeral procession is passing, and there is a gap between two of its cars. May you drive into the gap to get through?",
+      "o": [
+        "No, it is against the law to join or drive between vehicles in the procession",
+        "Yes, if the gap is big enough",
+        "Yes, if you turn on your headlights",
+        "Yes, if your light is green"
+      ],
+      "h1": "Other drivers must yield to the whole procession.",
+      "h2": "In Oregon, you must yield to funeral processions, and it is against the law to join one or drive between its vehicles if you are not part of it.",
+      "p": "Right. Never drive between vehicles in a funeral procession."
+    },
+    "es": {
+      "q": "En Oregon, pasa un cortejo fúnebre y hay un espacio entre dos de sus autos. ¿Puede meterse en ese espacio para pasar?",
+      "o": [
+        "No, es contra la ley unirse al cortejo o manejar entre sus vehículos",
+        "Sí, si el espacio es grande",
+        "Sí, si enciende los faros",
+        "Sí, si tiene luz verde"
+      ],
+      "h1": "Los demás conductores deben ceder el paso a todo el cortejo.",
+      "h2": "En Oregon, usted debe ceder el paso a los cortejos fúnebres, y es contra la ley unirse a uno o manejar entre sus vehículos si no forma parte de él.",
+      "p": "Correcto. Nunca maneje entre los vehículos de un cortejo fúnebre."
+    }
+  },
+  {
+    "id": "or-138",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 57,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, you come to a fire scene, and fire hoses are lying across the road. What should you do?",
+      "o": [
+        "Drive over them slowly",
+        "Drive over them quickly so you do not block traffic",
+        "Honk so firefighters move them",
+        "Do not drive over them unless officials at the scene tell you to"
+      ],
+      "h1": "Wait for directions from the people in charge.",
+      "h2": "In Oregon, at an emergency scene you should slow down, be ready to stop, and not drive over fire hoses unless officials at the scene tell you to.",
+      "p": "Right. Do not drive over fire hoses unless told to."
+    },
+    "es": {
+      "q": "En Oregon, usted llega a un incendio y hay mangueras de bomberos atravesadas en la calle. ¿Qué debe hacer?",
+      "o": [
+        "Pasar sobre ellas despacio",
+        "Pasar sobre ellas rápido para no bloquear el tráfico",
+        "Tocar el claxon para que los bomberos las muevan",
+        "No pasar sobre ellas a menos que los encargados en el lugar se lo indiquen"
+      ],
+      "h1": "Espere las indicaciones de las personas a cargo.",
+      "h2": "En Oregon, en una emergencia usted debe bajar la velocidad, estar listo para detenerse y no pasar sobre las mangueras de bomberos a menos que los encargados en el lugar se lo indiquen.",
+      "p": "Correcto. No pase sobre mangueras de bomberos a menos que se lo indiquen."
+    }
+  },
+  {
+    "id": "or-139",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 58,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, a police officer pulls you over after dark. What should you do after you stop, before the officer reaches your car?",
+      "o": [
+        "Get out and walk to the police car",
+        "Turn on the light inside your car",
+        "Search the glove box for your papers",
+        "Turn on your high beams"
+      ],
+      "h1": "Help the officer see you and your hands clearly.",
+      "h2": "In Oregon, if you are stopped by police in the dark, turn on your interior light after stopping and before the officer approaches, and keep your hands on the steering wheel.",
+      "p": "Right. Turn on your interior light."
+    },
+    "es": {
+      "q": "En Oregon, un policía le indica que se detenga cuando ya está oscuro. ¿Qué debe hacer después de detenerse y antes de que el agente llegue a su auto?",
+      "o": [
+        "Bajarse y caminar hacia la patrulla",
+        "Encender la luz dentro de su auto",
+        "Buscar sus papeles en la guantera",
+        "Encender las luces altas"
+      ],
+      "h1": "Ayude al agente a verlo a usted y a sus manos con claridad.",
+      "h2": "En Oregon, si la policía lo detiene cuando está oscuro, encienda la luz interior después de detenerse y antes de que el agente se acerque, y mantenga las manos en el volante.",
+      "p": "Correcto. Encienda la luz interior."
+    }
+  },
+  {
+    "id": "or-140",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 59,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, what happens to traffic fines in a work zone?",
+      "o": [
+        "They stay the same",
+        "They go up by $50",
+        "They are doubled",
+        "They go up only when workers are present"
+      ],
+      "h1": "The rule applies in all work zones.",
+      "h2": "In Oregon, traffic fines are doubled in all work zones.",
+      "p": "Right. Fines are doubled in work zones."
+    },
+    "es": {
+      "q": "En Oregon, ¿qué pasa con las multas de tránsito en una zona de obras?",
+      "o": [
+        "Siguen igual",
+        "Suben $50",
+        "Se duplican",
+        "Suben solo cuando hay trabajadores presentes"
+      ],
+      "h1": "La regla se aplica en todas las zonas de obras.",
+      "h2": "En Oregon, las multas de tránsito se duplican en todas las zonas de obras.",
+      "p": "Correcto. Las multas se duplican en las zonas de obras."
+    }
+  },
+  {
+    "id": "or-141",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 63,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, you are following a school bus toward a railroad crossing. No train is in sight. What should you expect?",
+      "o": [
+        "The bus must stop at the tracks, so be ready to stop too",
+        "The bus will speed up to cross quickly",
+        "The bus will pull onto the shoulder to let you pass",
+        "The bus will cross without slowing down"
+      ],
+      "h1": "Some vehicles must always stop at railroad tracks.",
+      "h2": "In Oregon, all school buses, vehicles carrying hazardous materials and some school activity vehicles must stop at railroad tracks, so be prepared to stop when you follow them.",
+      "p": "Right. The bus must stop, so be ready to stop."
+    },
+    "es": {
+      "q": "En Oregon, usted va detrás de un autobús escolar hacia un cruce de ferrocarril. No se ve ningún tren. ¿Qué debe esperar?",
+      "o": [
+        "El autobús debe detenerse en las vías, así que prepárese para detenerse también",
+        "El autobús acelerará para cruzar rápido",
+        "El autobús se orillará para dejarle pasar",
+        "El autobús cruzará sin bajar la velocidad"
+      ],
+      "h1": "Algunos vehículos siempre deben detenerse en las vías del tren.",
+      "h2": "En Oregon, todos los autobuses escolares, los vehículos con materiales peligrosos y algunos vehículos de actividades escolares deben detenerse en las vías del tren, así que prepárese para detenerse cuando vaya detrás de ellos.",
+      "p": "Correcto. El autobús debe detenerse, así que prepárese para detenerse."
+    }
+  },
+  {
+    "id": "or-142",
+    "scope": "OR",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 66,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, a streetcar going the same way as you is stopped in the lane next to you. You want to turn across its path. What must you do?",
+      "o": [
+        "Turn quickly before it starts moving",
+        "Do not turn in front of it, even while it is stopped",
+        "Honk, then turn",
+        "Turn if no passengers are getting on"
+      ],
+      "h1": "Streetcars cannot stop quickly and may start moving at any time.",
+      "h2": "In Oregon, you must never turn in front of a streetcar or train traveling in the same direction from the lane next to you, even if it is stopped.",
+      "p": "Right. Never turn in front of it, even when it is stopped."
+    },
+    "es": {
+      "q": "En Oregon, un tranvía que va en su misma dirección está detenido en el carril de al lado. Usted quiere girar cruzando por delante de él. ¿Qué debe hacer?",
+      "o": [
+        "Girar rápido antes de que arranque",
+        "No girar delante de él, aunque esté detenido",
+        "Tocar el claxon y luego girar",
+        "Girar si no están subiendo pasajeros"
+      ],
+      "h1": "Los tranvías no pueden detenerse rápido y pueden arrancar en cualquier momento.",
+      "h2": "En Oregon, usted nunca debe girar delante de un tranvía o tren que va en su misma dirección en el carril de al lado, aunque esté detenido.",
+      "p": "Correcto. Nunca gire delante de él, aunque esté detenido."
+    }
+  },
+  {
+    "id": "or-143",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 71,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, how close may you park to the driveway entrance of a fire station on the same side of the street?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 50 feet",
+        "No closer than 15 feet"
+      ],
+      "h1": "The distance across the street is 75 feet; on the same side it is much shorter.",
+      "h2": "In Oregon, you may not park within 15 feet of a fire station driveway on the same side of the street, or within 75 feet on the opposite side.",
+      "p": "Right. Stay at least 15 feet away on the same side."
+    },
+    "es": {
+      "q": "En Oregon, ¿qué tan cerca puede estacionarse de la entrada de vehículos de una estación de bomberos del mismo lado de la calle?",
+      "o": [
+        "No más cerca de 5 pies",
+        "No más cerca de 10 pies",
+        "No más cerca de 50 pies",
+        "No más cerca de 15 pies"
+      ],
+      "h1": "Del otro lado de la calle son 75 pies; del mismo lado es mucho menos.",
+      "h2": "En Oregon, no puede estacionarse a menos de 15 pies de la entrada de una estación de bomberos del mismo lado de la calle, ni a menos de 75 pies del lado opuesto.",
+      "p": "Correcto. Quédese por lo menos a 15 pies del mismo lado."
+    }
+  },
+  {
+    "id": "or-144",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 71,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, you park 30 feet before a stop sign, and your car hides the sign from other drivers. Is this legal?",
+      "o": [
+        "Yes, 30 feet is far enough",
+        "Yes, if you stay in the car",
+        "No, you may not park within 50 feet of a sign or signal if your car hides it",
+        "No, you may never park on a street with a stop sign"
+      ],
+      "h1": "The rule is about blocking the view of the sign.",
+      "h2": "In Oregon, you may not park within 50 feet of a traffic sign or signal if your vehicle hides it from view.",
+      "p": "Right. Do not park within 50 feet if your car hides the sign."
+    },
+    "es": {
+      "q": "En Oregon, usted se estaciona 30 pies antes de un letrero de alto, y su auto tapa el letrero para otros conductores. ¿Es legal?",
+      "o": [
+        "Sí, 30 pies es suficiente distancia",
+        "Sí, si se queda en el auto",
+        "No, no puede estacionarse a menos de 50 pies de un letrero o semáforo si su auto lo tapa",
+        "No, nunca puede estacionarse en una calle con letrero de alto"
+      ],
+      "h1": "La regla trata de no tapar la vista del letrero.",
+      "h2": "En Oregon, no puede estacionarse a menos de 50 pies de un letrero o semáforo si su vehículo lo tapa.",
+      "p": "Correcto. No se estacione a menos de 50 pies si su auto tapa el letrero."
+    }
+  },
+  {
+    "id": "or-145",
+    "scope": "OR",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 69,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oregon, you park facing downhill next to a curb. Which way should you turn your front wheels?",
+      "o": [
+        "Toward the curb",
+        "Toward the travel lane",
+        "Straight ahead",
+        "It does not matter if the parking brake is set"
+      ],
+      "h1": "If the brake fails, the curb should stop the car from rolling.",
+      "h2": "In Oregon, when you park facing downhill against a curb, set the parking brake and turn your front wheels toward the curb.",
+      "p": "Right. Turn your wheels toward the curb."
+    },
+    "es": {
+      "q": "En Oregon, usted se estaciona cuesta abajo junto a una acera. ¿Hacia dónde debe girar las ruedas delanteras?",
+      "o": [
+        "Hacia la acera",
+        "Hacia el carril de circulación",
+        "Derechas hacia adelante",
+        "No importa si el freno de mano está puesto"
+      ],
+      "h1": "Si el freno falla, la acera debe detener el auto.",
+      "h2": "En Oregon, cuando se estaciona cuesta abajo junto a una acera, ponga el freno de mano y gire las ruedas delanteras hacia la acera.",
+      "p": "Correcto. Gire las ruedas hacia la acera."
+    }
+  },
+  {
+    "id": "or-146",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 76,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oregon, it is daytime, but heavy rain makes it hard to see. Your headlights must be on when you cannot see people or vehicles how far ahead?",
+      "o": [
+        "500 feet",
+        "1,000 feet",
+        "200 feet",
+        "1 mile"
+      ],
+      "h1": "It is the same distance you must be able to see before using hand signals.",
+      "h2": "In Oregon, headlights must be on from sunset to sunrise, and any time conditions make it hard to see people or vehicles 1,000 feet ahead.",
+      "p": "Right. Headlights must be on when you cannot see 1,000 feet ahead."
+    },
+    "es": {
+      "q": "En Oregon, es de día, pero la lluvia fuerte hace difícil ver. ¿Sus faros deben estar encendidos cuando no puede ver personas o vehículos a qué distancia?",
+      "o": [
+        "500 pies",
+        "1,000 pies",
+        "200 pies",
+        "1 milla"
+      ],
+      "h1": "Es la misma distancia que debe poder ver antes de usar señales con la mano.",
+      "h2": "En Oregon, los faros deben estar encendidos desde la puesta hasta la salida del sol, y en cualquier momento en que sea difícil ver personas o vehículos a 1,000 pies adelante.",
+      "p": "Correcto. Los faros deben estar encendidos si no puede ver a 1,000 pies."
+    }
+  },
+  {
+    "id": "or-147",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 76,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oregon, it is getting dark. May you drive with only your parking lights on?",
+      "o": [
+        "Yes, until it is fully dark",
+        "Yes, in a city with streetlights",
+        "Yes, if you drive slowly",
+        "No, it is illegal to drive at night or in bad weather with only parking lights on"
+      ],
+      "h1": "Parking lights are for a vehicle that is stopped or parked.",
+      "h2": "In Oregon, it is illegal to drive at night or in bad weather with only your parking lights on.",
+      "p": "Right. Never drive with only parking lights on."
+    },
+    "es": {
+      "q": "En Oregon, está oscureciendo. ¿Puede manejar solo con las luces de estacionamiento encendidas?",
+      "o": [
+        "Sí, hasta que esté completamente oscuro",
+        "Sí, en una ciudad con alumbrado público",
+        "Sí, si maneja despacio",
+        "No, es ilegal manejar de noche o con mal tiempo solo con las luces de estacionamiento"
+      ],
+      "h1": "Las luces de estacionamiento son para un vehículo detenido o estacionado.",
+      "h2": "En Oregon, es ilegal manejar de noche o con mal tiempo solo con las luces de estacionamiento encendidas.",
+      "p": "Correcto. Nunca maneje solo con las luces de estacionamiento."
+    }
+  },
+  {
+    "id": "or-148",
+    "scope": "OR",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 75,
+    "src": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oregon, you hit and injure a dog with your car, and you cannot find its owner. What must you do?",
+      "o": [
+        "Drive on, because it was an accident",
+        "Take the dog home with you",
+        "Report it to local law enforcement",
+        "Wait 24 hours, then call DMV"
+      ],
+      "h1": "Someone in authority needs to know when the owner cannot be found.",
+      "h2": "In Oregon, if you hit and injure a domestic animal, stop and check on it, report the injury to the owner right away, and if you cannot find the owner, report it to local law enforcement.",
+      "p": "Right. Report it to local law enforcement."
+    },
+    "es": {
+      "q": "En Oregon, usted atropella y lastima a un perro con su auto y no puede encontrar al dueño. ¿Qué debe hacer?",
+      "o": [
+        "Seguir manejando, porque fue un accidente",
+        "Llevarse el perro a su casa",
+        "Informar a la policía local",
+        "Esperar 24 horas y luego llamar al DMV"
+      ],
+      "h1": "Alguna autoridad debe saberlo cuando no se encuentra al dueño.",
+      "h2": "En Oregon, si atropella y lastima a un animal doméstico, deténgase y revíselo, informe de inmediato al dueño, y si no puede encontrarlo, informe a la policía local.",
+      "p": "Correcto. Informe a la policía local."
+    }
   }
 ]
