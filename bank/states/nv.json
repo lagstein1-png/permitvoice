@@ -7478,5 +7478,1671 @@
       "h2": "En Nevada, usted debe registrar su vehículo dentro de 30 días de hacerse residente o al obtener su licencia de manejo de Nevada, lo que ocurra primero.",
       "p": "Correcto. Regístrelo dentro de 30 días, o antes si obtiene primero la licencia."
     }
+  },
+  {
+    "id": "nv-149",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 77,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, you have 5 demerit points. Can a DMV-approved traffic safety course remove some of them?",
+      "o": [
+        "Yes, drivers with 3 to 11 points may take the course to remove points",
+        "No, only drivers with 12 or more points may take it",
+        "No, the course never removes points",
+        "Yes, but only drivers with fewer than 3 points may take it"
+      ],
+      "h1": "The course is for drivers who have some points but have not reached a suspension.",
+      "h2": "In Nevada, a driver with between 3 and 11 demerit points may have points removed by finishing a DMV-approved traffic safety course.",
+      "p": "Right. Drivers with 3 to 11 points may use the course."
+    },
+    "es": {
+      "q": "En Nevada, usted tiene 5 puntos de demérito. ¿Puede un curso de seguridad vial aprobado por el DMV quitarle algunos?",
+      "o": [
+        "Sí, los conductores con 3 a 11 puntos pueden tomar el curso para quitar puntos",
+        "No, solo pueden tomarlo los conductores con 12 puntos o más",
+        "No, el curso nunca quita puntos",
+        "Sí, pero solo pueden tomarlo los conductores con menos de 3 puntos"
+      ],
+      "h1": "El curso es para conductores que tienen algunos puntos pero no han llegado a una suspensión.",
+      "h2": "En Nevada, un conductor con entre 3 y 11 puntos de demérito puede quitarse puntos si termina un curso de seguridad vial aprobado por el DMV.",
+      "p": "Correcto. Los conductores con 3 a 11 puntos pueden usar el curso."
+    }
+  },
+  {
+    "id": "nv-150",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 78,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, how many demerit points are added for failing to give your information or help at the scene of a crash?",
+      "o": [
+        "2 points",
+        "6 points",
+        "4 points",
+        "1 point"
+      ],
+      "h1": "It is a serious offense, but reckless driving adds more.",
+      "h2": "In Nevada, failing to give information or help at the scene of a crash adds 6 demerit points to your record.",
+      "p": "Right. It adds 6 points."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuántos puntos de demérito se agregan por no dar su información o no ayudar en el lugar de un choque?",
+      "o": [
+        "2 puntos",
+        "6 puntos",
+        "4 puntos",
+        "1 punto"
+      ],
+      "h1": "Es una falta grave, pero el manejo imprudente agrega más.",
+      "h2": "En Nevada, no dar información o no ayudar en el lugar de un choque agrega 6 puntos de demérito a su historial.",
+      "p": "Correcto. Agrega 6 puntos."
+    }
+  },
+  {
+    "id": "nv-151",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 78,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, how many demerit points are added for disobeying a traffic signal or a stop sign?",
+      "o": [
+        "1 point",
+        "2 points",
+        "8 points",
+        "4 points"
+      ],
+      "h1": "It is the same number of points as following too closely.",
+      "h2": "In Nevada, disobeying a traffic signal or a stop sign adds 4 demerit points to your record.",
+      "p": "Right. Running a signal or stop sign is 4 points."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuántos puntos de demérito se agregan por no obedecer un semáforo o una señal de alto (STOP)?",
+      "o": [
+        "1 punto",
+        "2 puntos",
+        "8 puntos",
+        "4 puntos"
+      ],
+      "h1": "Es la misma cantidad de puntos que por seguir a otro vehículo muy de cerca.",
+      "h2": "En Nevada, no obedecer un semáforo o una señal de alto agrega 4 puntos de demérito a su historial.",
+      "p": "Correcto. No respetar un semáforo o un alto son 4 puntos."
+    }
+  },
+  {
+    "id": "nv-152",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 78,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, how many demerit points are added for failing to dim your headlights?",
+      "o": [
+        "2 points",
+        "5 points",
+        "6 points",
+        "8 points"
+      ],
+      "h1": "It is one of the smaller numbers on the list.",
+      "h2": "In Nevada, failing to dim your headlights adds 2 demerit points to your record.",
+      "p": "Right. Not dimming your headlights is 2 points."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuántos puntos de demérito se agregan por no bajar las luces altas?",
+      "o": [
+        "2 puntos",
+        "5 puntos",
+        "6 puntos",
+        "8 puntos"
+      ],
+      "h1": "Es uno de los números más bajos de la lista.",
+      "h2": "En Nevada, no bajar las luces altas agrega 2 puntos de demérito a su historial.",
+      "p": "Correcto. No bajar las luces son 2 puntos."
+    }
+  },
+  {
+    "id": "nv-153",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 78,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, how many demerit points are added for driving 1 to 10 mph over the posted speed limit?",
+      "o": [
+        "3 points",
+        "No points",
+        "1 point",
+        "4 points"
+      ],
+      "h1": "It is the lowest number of points for speeding, but it is not zero.",
+      "h2": "In Nevada, driving 1 to 10 mph over the posted limit adds 1 demerit point to your record.",
+      "p": "Right. 1 to 10 mph over is 1 point."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuántos puntos de demérito se agregan por manejar de 1 a 10 mph por encima del límite de velocidad?",
+      "o": [
+        "3 puntos",
+        "Ningún punto",
+        "1 punto",
+        "4 puntos"
+      ],
+      "h1": "Es la menor cantidad de puntos por exceso de velocidad, pero no es cero.",
+      "h2": "En Nevada, manejar de 1 a 10 mph por encima del límite agrega 1 punto de demérito a su historial.",
+      "p": "Correcto. De 1 a 10 mph de más es 1 punto."
+    }
+  },
+  {
+    "id": "nv-154",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 78,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, how many demerit points are added for driving 41 mph or more over the posted speed limit?",
+      "o": [
+        "4 points",
+        "5 points",
+        "8 points",
+        "12 points"
+      ],
+      "h1": "It is the most points for any speeding offense, but less than careless driving.",
+      "h2": "In Nevada, driving 41 mph or more over the posted limit adds 5 demerit points to your record.",
+      "p": "Right. 41 mph or more over is 5 points."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuántos puntos de demérito se agregan por manejar 41 mph o más por encima del límite de velocidad?",
+      "o": [
+        "4 puntos",
+        "5 puntos",
+        "8 puntos",
+        "12 puntos"
+      ],
+      "h1": "Es la mayor cantidad de puntos por exceso de velocidad, pero menos que por manejo descuidado.",
+      "h2": "En Nevada, manejar 41 mph o más por encima del límite agrega 5 puntos de demérito a su historial.",
+      "p": "Correcto. 41 mph o más de exceso son 5 puntos."
+    }
+  },
+  {
+    "id": "nv-155",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 78,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, a friend asks to borrow your driver license. What does the law say?",
+      "o": [
+        "You may lend it for one day",
+        "You may lend it to a family member",
+        "You may lend it if your friend is over 21",
+        "It is illegal to lend your license to anyone"
+      ],
+      "h1": "Your license is only for you.",
+      "h2": "In Nevada, it is illegal to lend your license to someone else, to change it in any way, or to use another person's license.",
+      "p": "Right. Never lend your license to anyone."
+    },
+    "es": {
+      "q": "En Nevada, un amigo le pide prestada su licencia de manejar. ¿Qué dice la ley?",
+      "o": [
+        "Puede prestarla por un día",
+        "Puede prestarla a un familiar",
+        "Puede prestarla si su amigo tiene más de 21 años",
+        "Es ilegal prestar su licencia a cualquier persona"
+      ],
+      "h1": "Su licencia es solo para usted.",
+      "h2": "En Nevada, es ilegal prestar su licencia a otra persona, cambiarla de cualquier forma o usar la licencia de otra persona.",
+      "p": "Correcto. Nunca preste su licencia a nadie."
+    }
+  },
+  {
+    "id": "nv-156",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 79,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, your license was revoked for refusing a blood, breath or urine test within the past seven years. You refuse a test again. How long can you not get a license?",
+      "o": [
+        "Three years",
+        "One year",
+        "185 days",
+        "Six months"
+      ],
+      "h1": "A repeat refusal costs much more than the first one-year revocation.",
+      "h2": "In Nevada, if you refuse the test again within seven years of an earlier refusal revocation, you cannot get a license for three years.",
+      "p": "Right. A repeat refusal means three years without a license."
+    },
+    "es": {
+      "q": "En Nevada, le revocaron la licencia por negarse a una prueba de sangre, aliento u orina en los últimos siete años. Usted se niega otra vez. ¿Por cuánto tiempo no puede obtener una licencia?",
+      "o": [
+        "Tres años",
+        "Un año",
+        "185 días",
+        "Seis meses"
+      ],
+      "h1": "Negarse otra vez cuesta mucho más que la primera revocación de un año.",
+      "h2": "En Nevada, si usted se niega otra vez a la prueba dentro de siete años de una revocación anterior por negarse, no puede obtener una licencia por tres años.",
+      "p": "Correcto. Negarse otra vez significa tres años sin licencia."
+    }
+  },
+  {
+    "id": "nv-157",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 79,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, a chemical test finds a controlled substance (drug) in a driver's blood. What happens under the Illegal Per Se Law?",
+      "o": [
+        "Nothing, unless the driver was also drinking",
+        "The driving privilege is revoked",
+        "The driver gets only a warning",
+        "The driver pays a fine but keeps the license"
+      ],
+      "h1": "The law treats drugs much like an alcohol level of .08 or more.",
+      "h2": "In Nevada, under the Illegal Per Se Law, your driving privilege is revoked if a test shows an alcohol level of .08 or more or any detectable amount of a controlled substance.",
+      "p": "Right. A detectable controlled substance means revocation."
+    },
+    "es": {
+      "q": "En Nevada, una prueba química encuentra una sustancia controlada (droga) en la sangre de un conductor. ¿Qué pasa bajo la Ley Illegal Per Se?",
+      "o": [
+        "Nada, a menos que el conductor también haya tomado alcohol",
+        "Se le revoca el privilegio de manejar",
+        "El conductor recibe solo una advertencia",
+        "El conductor paga una multa pero conserva la licencia"
+      ],
+      "h1": "La ley trata las drogas casi igual que un nivel de alcohol de .08 o más.",
+      "h2": "En Nevada, bajo la Ley Illegal Per Se, se le revoca el privilegio de manejar si una prueba muestra un nivel de alcohol de .08 o más o cualquier cantidad detectable de una sustancia controlada.",
+      "p": "Correcto. Una sustancia controlada detectable significa revocación."
+    }
+  },
+  {
+    "id": "nv-158",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 79,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, can you be arrested and convicted of DUI with an alcohol level below .08?",
+      "o": [
+        "No, never",
+        "Only if you are under 18",
+        "Only if you caused a crash",
+        "Yes, .08 is a guide, and you can be convicted with a lower level"
+      ],
+      "h1": "The .08 level is not a safe line.",
+      "h2": "In Nevada, .08 is used as a guide, but you can be arrested and convicted of DUI with a lower alcohol level.",
+      "p": "Right. You can be convicted below .08."
+    },
+    "es": {
+      "q": "En Nevada, ¿lo pueden arrestar y condenar por DUI con un nivel de alcohol menor de .08?",
+      "o": [
+        "No, nunca",
+        "Solo si tiene menos de 18 años",
+        "Solo si causó un choque",
+        "Sí, .08 es una guía, y lo pueden condenar con un nivel más bajo"
+      ],
+      "h1": "El nivel de .08 no es una línea segura.",
+      "h2": "En Nevada, .08 se usa como guía, pero lo pueden arrestar y condenar por DUI con un nivel de alcohol más bajo.",
+      "p": "Correcto. Lo pueden condenar por debajo de .08."
+    }
+  },
+  {
+    "id": "nv-159",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, a test shows an adult driver at .08 or more. Under the DMV's administrative action, how long is the license revoked?",
+      "o": [
+        "30 days",
+        "90 days",
+        "185 days",
+        "Three years"
+      ],
+      "h1": "It is a little more than six months.",
+      "h2": "In Nevada, the DMV's administrative action for a test of .08 or more is a license revocation of 185 days.",
+      "p": "Right. The administrative revocation is 185 days."
+    },
+    "es": {
+      "q": "En Nevada, una prueba muestra que un conductor adulto tiene .08 o más. Con la acción administrativa del DMV, ¿por cuánto tiempo se revoca la licencia?",
+      "o": [
+        "30 días",
+        "90 días",
+        "185 días",
+        "Tres años"
+      ],
+      "h1": "Es un poco más de seis meses.",
+      "h2": "En Nevada, la acción administrativa del DMV por una prueba de .08 o más es una revocación de la licencia por 185 días.",
+      "p": "Correcto. La revocación administrativa es de 185 días."
+    }
+  },
+  {
+    "id": "nv-160",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, the per se alcohol level is lower for a person who holds a commercial driver license (CDL). What is it?",
+      "o": [
+        ".04",
+        ".02",
+        ".06",
+        ".10"
+      ],
+      "h1": "It is half of the regular adult limit.",
+      "h2": "In Nevada, a person who holds a commercial driver license loses the license for 185 days with an alcohol level of .04 or more.",
+      "p": "Right. For CDL holders the level is .04."
+    },
+    "es": {
+      "q": "En Nevada, el nivel de alcohol per se es más bajo para quien tiene una licencia de manejo comercial (CDL). ¿Cuál es?",
+      "o": [
+        ".04",
+        ".02",
+        ".06",
+        ".10"
+      ],
+      "h1": "Es la mitad del límite normal para adultos.",
+      "h2": "En Nevada, una persona con licencia de manejo comercial pierde la licencia por 185 días con un nivel de alcohol de .04 o más.",
+      "p": "Correcto. Para quienes tienen CDL, el nivel es .04."
+    }
+  },
+  {
+    "id": "nv-161",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, what jail sentence can a first DUI offense bring?",
+      "o": [
+        "None; a first offense brings only a fine",
+        "Two days to six months in jail, or 48 to 96 hours of community service",
+        "One to six years in prison",
+        "At least one year in jail"
+      ],
+      "h1": "Even a first offense can mean some time in jail.",
+      "h2": "In Nevada, a first DUI offense can bring two days to six months in jail, or 48 to 96 hours of community service.",
+      "p": "Right. Two days to six months, or 48 to 96 hours of community service."
+    },
+    "es": {
+      "q": "En Nevada, ¿qué tiempo en la cárcel puede traer una primera condena por DUI?",
+      "o": [
+        "Ninguno; la primera vez solo hay multa",
+        "De dos días a seis meses de cárcel, o de 48 a 96 horas de servicio comunitario",
+        "De uno a seis años de prisión",
+        "Por lo menos un año de cárcel"
+      ],
+      "h1": "Incluso la primera vez puede significar algo de tiempo en la cárcel.",
+      "h2": "En Nevada, una primera condena por DUI puede traer de dos días a seis meses de cárcel, o de 48 a 96 horas de servicio comunitario.",
+      "p": "Correcto. De dos días a seis meses, o de 48 a 96 horas de servicio comunitario."
+    }
+  },
+  {
+    "id": "nv-162",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, how many hours of community service come with a second DUI offense within 7 years?",
+      "o": [
+        "No community service",
+        "10 to 20 hours",
+        "48 to 96 hours",
+        "100 to 200 hours"
+      ],
+      "h1": "It is much more than for a first offense.",
+      "h2": "In Nevada, a second DUI offense within 7 years brings 100 to 200 hours of community service, along with jail and other penalties.",
+      "p": "Right. A second DUI means 100 to 200 hours of community service."
+    },
+    "es": {
+      "q": "En Nevada, ¿cuántas horas de servicio comunitario trae una segunda condena por DUI dentro de 7 años?",
+      "o": [
+        "Ningún servicio comunitario",
+        "De 10 a 20 horas",
+        "De 48 a 96 horas",
+        "De 100 a 200 horas"
+      ],
+      "h1": "Es mucho más que para una primera condena.",
+      "h2": "En Nevada, una segunda condena por DUI dentro de 7 años trae de 100 a 200 horas de servicio comunitario, además de cárcel y otras penas.",
+      "p": "Correcto. Un segundo DUI significa de 100 a 200 horas de servicio comunitario."
+    }
+  },
+  {
+    "id": "nv-163",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, for how long is the license revoked for a third or later DUI offense within 7 years?",
+      "o": [
+        "185 days",
+        "One year",
+        "Three years",
+        "Six months"
+      ],
+      "h1": "It is longer than for a second offense.",
+      "h2": "In Nevada, a third or later DUI offense within 7 years brings a three-year license revocation, along with prison and fines.",
+      "p": "Right. A third DUI means a three-year revocation."
+    },
+    "es": {
+      "q": "En Nevada, ¿por cuánto tiempo se revoca la licencia por una tercera condena por DUI (o más) dentro de 7 años?",
+      "o": [
+        "185 días",
+        "Un año",
+        "Tres años",
+        "Seis meses"
+      ],
+      "h1": "Es más tiempo que para una segunda condena.",
+      "h2": "En Nevada, una tercera condena por DUI (o más) dentro de 7 años trae una revocación de la licencia por tres años, además de prisión y multas.",
+      "p": "Correcto. Un tercer DUI significa una revocación de tres años."
+    }
+  },
+  {
+    "id": "nv-164",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, what prison sentence can a DUI that causes death or serious injury bring?",
+      "o": [
+        "2 to 20 years",
+        "1 to 6 years",
+        "6 months to 1 year",
+        "10 days to 6 months"
+      ],
+      "h1": "It is the longest sentence on the DUI list.",
+      "h2": "In Nevada, a DUI that causes death or serious injury can bring 2 to 20 years in prison, a fine of $2,000 to $5,000 and a three-year revocation.",
+      "p": "Right. It can bring 2 to 20 years in prison."
+    },
+    "es": {
+      "q": "En Nevada, ¿qué condena de prisión puede traer un DUI que causa la muerte o lesiones graves?",
+      "o": [
+        "De 2 a 20 años",
+        "De 1 a 6 años",
+        "De 6 meses a 1 año",
+        "De 10 días a 6 meses"
+      ],
+      "h1": "Es la condena más larga de la lista de DUI.",
+      "h2": "En Nevada, un DUI que causa la muerte o lesiones graves puede traer de 2 a 20 años de prisión, una multa de $2,000 a $5,000 y una revocación de tres años.",
+      "p": "Correcto. Puede traer de 2 a 20 años de prisión."
+    }
+  },
+  {
+    "id": "nv-165",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 80,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, how can a DUI offender get driving privileges back right away?",
+      "o": [
+        "By paying an extra fine",
+        "By getting a license with an ignition interlock restriction and installing the device in every vehicle they drive",
+        "By taking the knowledge test again",
+        "By bringing a letter from an employer"
+      ],
+      "h1": "A device can check the driver's breath before the car starts.",
+      "h2": "In Nevada, a DUI offender's driving privileges can be reinstated right away with a license that has an ignition interlock restriction, once the device is installed, at the driver's own cost, in any vehicle they drive.",
+      "p": "Right. An ignition interlock can bring the privilege back right away."
+    },
+    "es": {
+      "q": "En Nevada, ¿cómo puede una persona condenada por DUI recuperar de inmediato el privilegio de manejar?",
+      "o": [
+        "Pagando una multa extra",
+        "Obteniendo una licencia con restricción de bloqueo de encendido (ignition interlock) e instalando el aparato en todo vehículo que maneje",
+        "Tomando otra vez el examen de conocimientos",
+        "Trayendo una carta de su empleador"
+      ],
+      "h1": "Un aparato puede revisar el aliento del conductor antes de que arranque el carro.",
+      "h2": "En Nevada, el privilegio de manejar de una persona condenada por DUI se puede restablecer de inmediato con una licencia con restricción de bloqueo de encendido, cuando el aparato se instala, a costo del conductor, en todo vehículo que maneje.",
+      "p": "Correcto. Un bloqueo de encendido puede devolver el privilegio de inmediato."
+    }
+  },
+  {
+    "id": "nv-166",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 81,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, a juvenile court finds that a licensed driver under 18 was driving under the influence. How long does the driver lose the license?",
+      "o": [
+        "30 days",
+        "90 days",
+        "One year",
+        "185 days"
+      ],
+      "h1": "It is the same period adults face for a first DUI.",
+      "h2": "In Nevada, a licensed driver under 18 whom a juvenile court finds was driving under the influence loses the license for 185 days.",
+      "p": "Right. The driver loses the license for 185 days."
+    },
+    "es": {
+      "q": "En Nevada, un tribunal de menores decide que un conductor con licencia menor de 18 años manejaba bajo la influencia. ¿Por cuánto tiempo pierde la licencia?",
+      "o": [
+        "30 días",
+        "90 días",
+        "Un año",
+        "185 días"
+      ],
+      "h1": "Es el mismo período que enfrentan los adultos por un primer DUI.",
+      "h2": "En Nevada, un conductor con licencia menor de 18 años que, según un tribunal de menores, manejaba bajo la influencia pierde la licencia por 185 días.",
+      "p": "Correcto. El conductor pierde la licencia por 185 días."
+    }
+  },
+  {
+    "id": "nv-167",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 81,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, a driver under 21 is convicted of DUI. What will the court require?",
+      "o": [
+        "A new vision test",
+        "A drive test every year",
+        "An evaluation for alcohol or drug abuse",
+        "Nothing more than an adult would face"
+      ],
+      "h1": "The court wants to know if the young driver needs help.",
+      "h2": "In Nevada, a driver under 21 convicted of DUI must have an evaluation for alcohol or drug abuse, and the judge may then order treatment.",
+      "p": "Right. The court requires an alcohol or drug evaluation."
+    },
+    "es": {
+      "q": "En Nevada, un conductor menor de 21 años es condenado por DUI. ¿Qué le exigirá el tribunal?",
+      "o": [
+        "Un nuevo examen de la vista",
+        "Un examen de manejo cada año",
+        "Una evaluación por abuso de alcohol o drogas",
+        "Nada más que lo que enfrentaría un adulto"
+      ],
+      "h1": "El tribunal quiere saber si el joven necesita ayuda.",
+      "h2": "En Nevada, un conductor menor de 21 años condenado por DUI debe tener una evaluación por abuso de alcohol o drogas, y después el juez puede ordenar tratamiento.",
+      "p": "Correcto. El tribunal exige una evaluación de alcohol o drogas."
+    }
+  },
+  {
+    "id": "nv-168",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 81,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, a driver is found guilty of DUI and had a passenger under age 15 in the car. How does the court treat this?",
+      "o": [
+        "It does not matter",
+        "As an aggravating factor when it decides the sentence",
+        "As a reason to lower the fine",
+        "As a reason to drop the case"
+      ],
+      "h1": "Putting a child at risk makes the case worse, not better.",
+      "h2": "In Nevada, having a passenger under 15 in the vehicle during a DUI is an aggravating factor the court considers when it decides the sentence.",
+      "p": "Right. A passenger under 15 is an aggravating factor."
+    },
+    "es": {
+      "q": "En Nevada, un conductor es declarado culpable de DUI y llevaba en el carro a un pasajero menor de 15 años. ¿Cómo lo toma en cuenta el tribunal?",
+      "o": [
+        "No importa",
+        "Como un factor agravante al decidir la condena",
+        "Como una razón para bajar la multa",
+        "Como una razón para cerrar el caso"
+      ],
+      "h1": "Poner en riesgo a un niño empeora el caso, no lo mejora.",
+      "h2": "En Nevada, llevar a un pasajero menor de 15 años en el vehículo durante un DUI es un factor agravante que el tribunal considera al decidir la condena.",
+      "p": "Correcto. Un pasajero menor de 15 años es un factor agravante."
+    }
+  },
+  {
+    "id": "nv-169",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 82,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, your license suspension has ended. Is your license valid again on its own?",
+      "o": [
+        "Yes, it is valid again the next day",
+        "Yes, once your tickets are paid",
+        "No, you must reapply at a DMV office, show your documents, meet the other requirements and pay the fees",
+        "No, you must wait one more year"
+      ],
+      "h1": "Nevada does not reinstate licenses automatically.",
+      "h2": "In Nevada, a license is not reinstated automatically after a suspension or revocation; you must reapply at a DMV office, show your documents, meet the requirements and pay the reinstatement fees.",
+      "p": "Right. You must reapply; it is not automatic."
+    },
+    "es": {
+      "q": "En Nevada, terminó la suspensión de su licencia. ¿Vuelve a ser válida por sí sola?",
+      "o": [
+        "Sí, vuelve a ser válida al día siguiente",
+        "Sí, cuando pague sus multas",
+        "No, debe volver a solicitarla en una oficina del DMV, mostrar sus documentos, cumplir los otros requisitos y pagar las cuotas",
+        "No, debe esperar un año más"
+      ],
+      "h1": "Nevada no restablece las licencias de forma automática.",
+      "h2": "En Nevada, la licencia no se restablece de forma automática después de una suspensión o revocación; debe volver a solicitarla en una oficina del DMV, mostrar sus documentos, cumplir los requisitos y pagar las cuotas de restablecimiento.",
+      "p": "Correcto. Debe volver a solicitarla; no es automático."
+    }
+  },
+  {
+    "id": "nv-170",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 82,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, you get a traffic ticket but do not appear in court as required. What can happen?",
+      "o": [
+        "Nothing, if you pay later",
+        "Your license can be suspended",
+        "Your car is taken away for good",
+        "You get only a warning letter"
+      ],
+      "h1": "Ignoring the ticket puts your driving privilege at risk.",
+      "h2": "In Nevada, if you get a traffic ticket and fail to appear as required, your license can be suspended.",
+      "p": "Right. Failing to appear can lead to a suspension."
+    },
+    "es": {
+      "q": "En Nevada, usted recibe una multa de tránsito pero no se presenta ante el tribunal como se le exige. ¿Qué puede pasar?",
+      "o": [
+        "Nada, si paga después",
+        "Le pueden suspender la licencia",
+        "Le quitan el carro para siempre",
+        "Solo recibe una carta de advertencia"
+      ],
+      "h1": "Ignorar la multa pone en riesgo su privilegio de manejar.",
+      "h2": "En Nevada, si usted recibe una multa de tránsito y no se presenta como se le exige, le pueden suspender la licencia.",
+      "p": "Correcto. No presentarse puede llevar a una suspensión."
+    }
+  },
+  {
+    "id": "nv-171",
+    "scope": "NV",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 65,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, a driver causes even a minor collision with a person riding a bicycle. What may the driver be charged with?",
+      "o": [
+        "Reckless driving",
+        "Only a parking violation",
+        "Nothing, if no one is badly hurt",
+        "Only an improper lane change"
+      ],
+      "h1": "It is one of the most serious driving charges, and it can cost you your license.",
+      "h2": "In Nevada, a driver who causes even a minor collision with a bicyclist or a pedestrian may be charged with reckless driving, and the license can be suspended.",
+      "p": "Right. It can be charged as reckless driving."
+    },
+    "es": {
+      "q": "En Nevada, un conductor causa un choque, aunque sea leve, con una persona en bicicleta. ¿De qué lo pueden acusar?",
+      "o": [
+        "De manejo imprudente (reckless driving)",
+        "Solo de una falta de estacionamiento",
+        "De nada, si nadie está gravemente herido",
+        "Solo de un cambio de carril indebido"
+      ],
+      "h1": "Es una de las acusaciones de manejo más graves, y le puede costar la licencia.",
+      "h2": "En Nevada, a un conductor que causa un choque, aunque sea leve, con un ciclista o un peatón lo pueden acusar de manejo imprudente, y le pueden suspender la licencia.",
+      "p": "Correcto. Lo pueden acusar de manejo imprudente."
+    }
+  },
+  {
+    "id": "nv-172",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 83,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, where do most gasoline vehicles need a passing smog check (emissions inspection) to be registered?",
+      "o": [
+        "In every county",
+        "Only in Carson City",
+        "Only in rural counties",
+        "In Clark and Washoe counties"
+      ],
+      "h1": "These are the counties with the two largest cities, Las Vegas and Reno.",
+      "h2": "In Nevada, most gasoline vehicles of model year 1968 and newer need a passing smog check in Clark and Washoe counties.",
+      "p": "Right. Smog checks are required in Clark and Washoe counties."
+    },
+    "es": {
+      "q": "En Nevada, ¿dónde necesita la mayoría de los vehículos de gasolina aprobar una inspección de emisiones (smog check) para registrarse?",
+      "o": [
+        "En todos los condados",
+        "Solo en Carson City",
+        "Solo en los condados rurales",
+        "En los condados de Clark y Washoe"
+      ],
+      "h1": "Son los condados de las dos ciudades más grandes, Las Vegas y Reno.",
+      "h2": "En Nevada, la mayoría de los vehículos de gasolina del año 1968 o más nuevos necesitan aprobar la inspección de emisiones en los condados de Clark y Washoe.",
+      "p": "Correcto. La inspección de emisiones se exige en los condados de Clark y Washoe."
+    }
+  },
+  {
+    "id": "nv-173",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 83,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, you are registering a brand-new car for the first time in Clark County. Does it need a smog check?",
+      "o": [
+        "Yes, every car needs one each year",
+        "No, new vehicles are exempt on their first, second and third registrations",
+        "Only if it runs on diesel",
+        "Only if it is a hybrid"
+      ],
+      "h1": "New cars get a break for their first few registrations.",
+      "h2": "In Nevada, new vehicles do not need a smog check on their first, second or third registration.",
+      "p": "Right. New vehicles are exempt for the first three registrations."
+    },
+    "es": {
+      "q": "En Nevada, usted registra por primera vez un carro nuevo en el condado de Clark. ¿Necesita inspección de emisiones?",
+      "o": [
+        "Sí, todo carro la necesita cada año",
+        "No, los vehículos nuevos están exentos en su primer, segundo y tercer registro",
+        "Solo si usa diésel",
+        "Solo si es híbrido"
+      ],
+      "h1": "Los carros nuevos tienen una excepción en sus primeros registros.",
+      "h2": "En Nevada, los vehículos nuevos no necesitan inspección de emisiones en su primer, segundo o tercer registro.",
+      "p": "Correcto. Los vehículos nuevos están exentos en los tres primeros registros."
+    }
+  },
+  {
+    "id": "nv-174",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 83,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, you just moved here from another state. Can you keep using your out-of-state car insurance?",
+      "o": [
+        "Yes, for one year",
+        "Yes, until the policy expires",
+        "No, you must tell your insurance company you moved or buy a new Nevada policy",
+        "Yes, if the coverage limits are high enough"
+      ],
+      "h1": "Nevada wants insurance from a company allowed to do business in Nevada.",
+      "h2": "In Nevada, out-of-state insurance is not accepted, so you must tell your insurance company you moved or buy a new policy in Nevada.",
+      "p": "Right. Out-of-state insurance is not accepted."
+    },
+    "es": {
+      "q": "En Nevada, usted acaba de mudarse de otro estado. ¿Puede seguir usando el seguro de su carro de otro estado?",
+      "o": [
+        "Sí, por un año",
+        "Sí, hasta que venza la póliza",
+        "No, debe avisar a su compañía de seguros que se mudó o comprar una nueva póliza de Nevada",
+        "Sí, si los límites de cobertura son bastante altos"
+      ],
+      "h1": "Nevada quiere un seguro de una compañía autorizada para trabajar en Nevada.",
+      "h2": "En Nevada, no se acepta el seguro de otro estado, así que debe avisar a su compañía de seguros que se mudó o comprar una nueva póliza en Nevada.",
+      "p": "Correcto. No se acepta el seguro de otro estado."
+    }
+  },
+  {
+    "id": "nv-175",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 75,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, how may you carry your Evidence of Insurance card?",
+      "o": [
+        "On paper in the vehicle, or in electronic form shown on a phone or other mobile device",
+        "Only on a paper card mailed by the DMV",
+        "Only at home, to show the officer later",
+        "You do not need to carry it"
+      ],
+      "h1": "Your phone can help.",
+      "h2": "In Nevada, your Evidence of Insurance card must be carried in the vehicle or be available in electronic form on a mobile device such as a phone.",
+      "p": "Right. Paper in the car or electronic on your phone is fine."
+    },
+    "es": {
+      "q": "En Nevada, ¿cómo puede llevar su tarjeta de Comprobante de Seguro (Evidence of Insurance)?",
+      "o": [
+        "En papel dentro del vehículo, o en forma electrónica en un teléfono u otro aparato móvil",
+        "Solo en una tarjeta de papel enviada por el DMV",
+        "Solo en casa, para mostrarla al oficial después",
+        "No necesita llevarla"
+      ],
+      "h1": "Su teléfono le puede ayudar.",
+      "h2": "En Nevada, su tarjeta de Comprobante de Seguro debe estar en el vehículo o disponible en forma electrónica en un aparato móvil, como un teléfono.",
+      "p": "Correcto. En papel en el carro o en forma electrónica en su teléfono está bien."
+    }
+  },
+  {
+    "id": "nv-176",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 75,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, your registration is suspended for a lapse in insurance, and you had no coverage for that time. What fines apply for each vehicle?",
+      "o": [
+        "No fine, only a warning",
+        "A flat $50",
+        "$25 for each day",
+        "Fines starting at $250 and up to $1,750, plus a reinstatement fee"
+      ],
+      "h1": "The fines are in the hundreds of dollars and can go above one thousand.",
+      "h2": "In Nevada, a registration suspended for an insurance lapse with no coverage for that time brings a reinstatement fee and fines starting at $250 and up to $1,750 for each vehicle.",
+      "p": "Right. Fines start at $250 and can reach $1,750 per vehicle."
+    },
+    "es": {
+      "q": "En Nevada, le suspenden el registro por un período sin seguro, y no tuvo cobertura durante ese tiempo. ¿Qué multas se aplican por cada vehículo?",
+      "o": [
+        "Ninguna multa, solo una advertencia",
+        "Una cantidad fija de $50",
+        "$25 por cada día",
+        "Multas desde $250 y hasta $1,750, más una cuota de restablecimiento"
+      ],
+      "h1": "Las multas son de cientos de dólares y pueden pasar de mil.",
+      "h2": "En Nevada, un registro suspendido por un período sin seguro, sin cobertura durante ese tiempo, trae una cuota de restablecimiento y multas desde $250 y hasta $1,750 por cada vehículo.",
+      "p": "Correcto. Las multas empiezan en $250 y pueden llegar a $1,750 por vehículo."
+    }
+  },
+  {
+    "id": "nv-177",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 76,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, you hit a parked car and the owner is not there. What must you do?",
+      "o": [
+        "Drive away if the damage is small",
+        "Give the owner your name, address, license number, registration and insurance information, in person or in a note",
+        "Wait ten minutes, then leave",
+        "Call only the owner's insurance company"
+      ],
+      "h1": "The owner must be able to find you.",
+      "h2": "In Nevada, if you hit an unattended vehicle or other property, you must give the owner your name, address, license number, registration and insurance information, in person or by leaving a note.",
+      "p": "Right. Give your information in person or in a note."
+    },
+    "es": {
+      "q": "En Nevada, usted choca con un carro estacionado y el dueño no está. ¿Qué debe hacer?",
+      "o": [
+        "Irse si el daño es pequeño",
+        "Darle al dueño su nombre, dirección, número de licencia, registro e información del seguro, en persona o en una nota",
+        "Esperar diez minutos y luego irse",
+        "Llamar solo a la compañía de seguros del dueño"
+      ],
+      "h1": "El dueño debe poder encontrarlo.",
+      "h2": "En Nevada, si usted choca con un vehículo sin nadie o con otra propiedad, debe darle al dueño su nombre, dirección, número de licencia, registro e información del seguro, en persona o dejando una nota.",
+      "p": "Correcto. Dé su información en persona o en una nota."
+    }
+  },
+  {
+    "id": "nv-178",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 76,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, you have a minor crash with only vehicle damage and no injuries. The cars can be moved safely. What should you do?",
+      "o": [
+        "Leave the cars where they stopped until police arrive",
+        "Drive home and report it later",
+        "Move the cars out of traffic, such as to the shoulder, and stay at the scene",
+        "Leave without sharing any information"
+      ],
+      "h1": "Clear the road, but do not leave the crash.",
+      "h2": "In Nevada, after a fender bender with no injuries, if the cars can be moved safely, move them to a place that does not block traffic, such as the shoulder, and stay at the scene.",
+      "p": "Right. Move out of traffic and stay at the scene."
+    },
+    "es": {
+      "q": "En Nevada, usted tiene un choque leve con solo daños a los vehículos y sin heridos. Los carros se pueden mover sin peligro. ¿Qué debe hacer?",
+      "o": [
+        "Dejar los carros donde quedaron hasta que llegue la policía",
+        "Irse a casa y reportarlo después",
+        "Mover los carros fuera del tráfico, por ejemplo al acotamiento, y quedarse en el lugar",
+        "Irse sin compartir ninguna información"
+      ],
+      "h1": "Despeje el camino, pero no se vaya del choque.",
+      "h2": "En Nevada, después de un choque leve sin heridos, si los carros se pueden mover sin peligro, muévalos a un lugar que no bloquee el tráfico, como el acotamiento, y quédese en el lugar.",
+      "p": "Correcto. Salga del tráfico y quédese en el lugar."
+    }
+  },
+  {
+    "id": "nv-179",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, how long is a Driver Authorization Card (DAC) valid?",
+      "o": [
+        "Four years",
+        "One year",
+        "Eight years",
+        "Ten years"
+      ],
+      "h1": "It is half as long as a first driver license for someone under 65.",
+      "h2": "In Nevada, a Driver Authorization Card is valid for four years and expires on your birthday.",
+      "p": "Right. A DAC is valid for four years."
+    },
+    "es": {
+      "q": "En Nevada, ¿por cuánto tiempo es válida una Tarjeta de Autorización para Manejar (DAC)?",
+      "o": [
+        "Cuatro años",
+        "Un año",
+        "Ocho años",
+        "Diez años"
+      ],
+      "h1": "Es la mitad del tiempo de una primera licencia para alguien menor de 65 años.",
+      "h2": "En Nevada, una Tarjeta de Autorización para Manejar es válida por cuatro años y vence en su cumpleaños.",
+      "p": "Correcto. Una DAC es válida por cuatro años."
+    }
+  },
+  {
+    "id": "nv-180",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, how long is an identification (ID) card valid?",
+      "o": [
+        "Two years",
+        "Four years",
+        "Ten years",
+        "Eight years"
+      ],
+      "h1": "It is the longest time any Nevada license or ID card can be valid.",
+      "h2": "In Nevada, an identification card is valid for eight years and expires on your birthday, unless it was issued with limited-term immigration documents.",
+      "p": "Right. An ID card is valid for eight years."
+    },
+    "es": {
+      "q": "En Nevada, ¿por cuánto tiempo es válida una tarjeta de identificación (ID)?",
+      "o": [
+        "Dos años",
+        "Cuatro años",
+        "Diez años",
+        "Ocho años"
+      ],
+      "h1": "Es el tiempo más largo que puede ser válida cualquier licencia o ID de Nevada.",
+      "h2": "En Nevada, una tarjeta de identificación es válida por ocho años y vence en su cumpleaños, a menos que se haya dado con documentos de inmigración de plazo limitado.",
+      "p": "Correcto. Una tarjeta de identificación es válida por ocho años."
+    }
+  },
+  {
+    "id": "nv-181",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 20,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, you have only an ID card, not a driver license, and you get a traffic ticket. What happens to the demerit points?",
+      "o": [
+        "Nothing, because you have no license",
+        "They are applied to your future driving privileges",
+        "They are erased after 30 days",
+        "They go on a parent's record"
+      ],
+      "h1": "The same rules apply to you as to license holders.",
+      "h2": "In Nevada, tickets and demerit points for an ID card holder are applied to future driving privileges, and 12 or more points in 12 months means you must reinstate before you can get a license.",
+      "p": "Right. The points count against your future driving privileges."
+    },
+    "es": {
+      "q": "En Nevada, usted solo tiene una tarjeta de identificación, no licencia de manejar, y recibe una multa de tránsito. ¿Qué pasa con los puntos de demérito?",
+      "o": [
+        "Nada, porque no tiene licencia",
+        "Se aplican a su futuro privilegio de manejar",
+        "Se borran después de 30 días",
+        "Van al historial de uno de sus padres"
+      ],
+      "h1": "A usted se le aplican las mismas reglas que a quienes tienen licencia.",
+      "h2": "En Nevada, las multas y los puntos de demérito de quien tiene tarjeta de identificación se aplican a su futuro privilegio de manejar, y 12 puntos o más en 12 meses significan que debe restablecerlo antes de obtener una licencia.",
+      "p": "Correcto. Los puntos cuentan contra su futuro privilegio de manejar."
+    }
+  },
+  {
+    "id": "nv-182",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, how must you change the name on your driver license?",
+      "o": [
+        "Online at the DMV website",
+        "By mail",
+        "In person at a DMV office, with legal proof of the name change",
+        "By phone"
+      ],
+      "h1": "Unlike an address change, this one cannot be done from home.",
+      "h2": "In Nevada, a name change must be made in person at a DMV office, with an application and legal proof of the new name.",
+      "p": "Right. Name changes are done in person."
+    },
+    "es": {
+      "q": "En Nevada, ¿cómo debe cambiar el nombre en su licencia de manejar?",
+      "o": [
+        "En línea en el sitio web del DMV",
+        "Por correo",
+        "En persona en una oficina del DMV, con prueba legal del cambio de nombre",
+        "Por teléfono"
+      ],
+      "h1": "A diferencia de un cambio de dirección, este no se puede hacer desde casa.",
+      "h2": "En Nevada, el cambio de nombre se debe hacer en persona en una oficina del DMV, con una solicitud y prueba legal del nuevo nombre.",
+      "p": "Correcto. El cambio de nombre se hace en persona."
+    }
+  },
+  {
+    "id": "nv-183",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, you are on active military duty and temporarily out of state when your license is about to expire. What should you know?",
+      "o": [
+        "Your license is extended automatically until you return",
+        "You must come back to Nevada to renew in person",
+        "A military member's license never expires",
+        "Nevada does not extend it automatically, but you may renew by mail"
+      ],
+      "h1": "There is no automatic extension, but you do not have to travel.",
+      "h2": "In Nevada, licenses of military members are not extended automatically, but active-duty members temporarily out of state may renew by mail.",
+      "p": "Right. No automatic extension, but you can renew by mail."
+    },
+    "es": {
+      "q": "En Nevada, usted está en servicio militar activo y fuera del estado por un tiempo cuando su licencia está por vencer. ¿Qué debe saber?",
+      "o": [
+        "Su licencia se extiende automáticamente hasta que regrese",
+        "Debe volver a Nevada para renovarla en persona",
+        "La licencia de un militar nunca vence",
+        "Nevada no la extiende automáticamente, pero puede renovarla por correo"
+      ],
+      "h1": "No hay extensión automática, pero no tiene que viajar.",
+      "h2": "En Nevada, las licencias de los militares no se extienden automáticamente, pero los miembros en servicio activo que están fuera del estado por un tiempo pueden renovarlas por correo.",
+      "p": "Correcto. No hay extensión automática, pero puede renovar por correo."
+    }
+  },
+  {
+    "id": "nv-184",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, a new resident wants the knowledge and drive tests waived. Which of these is one of the rules?",
+      "o": [
+        "No DUI convictions in the past 7 years",
+        "No parking tickets ever",
+        "At least 10 years of driving experience",
+        "A car already registered in Nevada"
+      ],
+      "h1": "The rule is about a serious offense in recent years.",
+      "h2": "In Nevada, to have the knowledge and drive tests waived, a new resident must have had no DUI convictions in the past 7 years, along with the other rules.",
+      "p": "Right. No DUI convictions in the past 7 years."
+    },
+    "es": {
+      "q": "En Nevada, un nuevo residente quiere que no le exijan los exámenes de conocimientos y de manejo. ¿Cuál de estas es una de las reglas?",
+      "o": [
+        "Ninguna condena por DUI en los últimos 7 años",
+        "Ninguna multa de estacionamiento nunca",
+        "Por lo menos 10 años de experiencia manejando",
+        "Un carro ya registrado en Nevada"
+      ],
+      "h1": "La regla trata de una falta grave en los últimos años.",
+      "h2": "En Nevada, para que no le exijan los exámenes de conocimientos y de manejo, un nuevo residente no debe tener condenas por DUI en los últimos 7 años, además de cumplir las otras reglas.",
+      "p": "Correcto. Ninguna condena por DUI en los últimos 7 años."
+    }
+  },
+  {
+    "id": "nv-185",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, a tourist from another state wants to drive while visiting. What do they need?",
+      "o": [
+        "A Nevada license within 10 days",
+        "To be at least 16 and have a valid license from their home state",
+        "A special visitor permit from the DMV",
+        "Nothing; a passport is enough at any age"
+      ],
+      "h1": "Visitors do not need a Nevada license, but they need their own.",
+      "h2": "In Nevada, a non-resident such as a tourist or out-of-state student may drive if at least 16 with a valid home-state license, and must obey Nevada traffic and insurance laws.",
+      "p": "Right. At least 16 with a valid home-state license."
+    },
+    "es": {
+      "q": "En Nevada, un turista de otro estado quiere manejar durante su visita. ¿Qué necesita?",
+      "o": [
+        "Una licencia de Nevada dentro de 10 días",
+        "Tener por lo menos 16 años y una licencia válida de su estado",
+        "Un permiso especial de visitante del DMV",
+        "Nada; un pasaporte basta a cualquier edad"
+      ],
+      "h1": "Los visitantes no necesitan licencia de Nevada, pero sí la suya.",
+      "h2": "En Nevada, una persona no residente, como un turista o un estudiante de otro estado, puede manejar si tiene por lo menos 16 años y una licencia válida de su estado, y debe cumplir las leyes de tránsito y de seguro de Nevada.",
+      "p": "Correcto. Por lo menos 16 años y una licencia válida de su estado."
+    }
+  },
+  {
+    "id": "nv-186",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, a driver under 18 is found guilty of putting graffiti on property. What can happen to the license?",
+      "o": [
+        "Nothing, because it is not a driving offense",
+        "Only a warning letter",
+        "It can be suspended, or its issuance delayed, for up to two years",
+        "It is canceled for life"
+      ],
+      "h1": "Some offenses that are not driving offenses still affect a teen's license.",
+      "h2": "In Nevada, a driver under 18 found guilty of graffiti can have the license suspended, or its issuance delayed, for up to two years.",
+      "p": "Right. Up to two years."
+    },
+    "es": {
+      "q": "En Nevada, un conductor menor de 18 años es declarado culpable de pintar grafiti en una propiedad. ¿Qué le puede pasar a su licencia?",
+      "o": [
+        "Nada, porque no es una falta de manejo",
+        "Solo una carta de advertencia",
+        "Se la pueden suspender, o retrasar su entrega, hasta por dos años",
+        "Se la cancelan para siempre"
+      ],
+      "h1": "Algunas faltas que no son de manejo igual afectan la licencia de un joven.",
+      "h2": "En Nevada, a un conductor menor de 18 años declarado culpable de grafiti le pueden suspender la licencia, o retrasar su entrega, hasta por dos años.",
+      "p": "Correcto. Hasta por dos años."
+    }
+  },
+  {
+    "id": "nv-187",
+    "scope": "NV",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 18,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, what may be used in place of the DMV motorcycle tests?",
+      "o": [
+        "A car drive test",
+        "A letter from a motorcycle dealer",
+        "Riding for one year with a permit",
+        "Passing an approved motorcycle safety course"
+      ],
+      "h1": "Think of a training class.",
+      "h2": "In Nevada, passing an approved motorcycle safety course may be used in place of the DMV motorcycle tests.",
+      "p": "Right. An approved safety course can replace the tests."
+    },
+    "es": {
+      "q": "En Nevada, ¿qué se puede usar en lugar de los exámenes de motocicleta del DMV?",
+      "o": [
+        "Un examen de manejo en carro",
+        "Una carta de un vendedor de motocicletas",
+        "Manejar un año con permiso",
+        "Aprobar un curso de seguridad de motocicleta aprobado"
+      ],
+      "h1": "Piense en una clase de entrenamiento.",
+      "h2": "En Nevada, aprobar un curso de seguridad de motocicleta aprobado se puede usar en lugar de los exámenes de motocicleta del DMV.",
+      "p": "Correcto. Un curso de seguridad aprobado puede reemplazar los exámenes."
+    }
+  },
+  {
+    "id": "nv-188",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 49,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, you park facing downhill next to a curb. Which way should you turn your front wheels?",
+      "o": [
+        "Toward the curb",
+        "Away from the curb",
+        "Straight ahead",
+        "It does not matter if the parking brake is set"
+      ],
+      "h1": "If the car rolls, the curb should stop it.",
+      "h2": "In Nevada, when you park facing downhill, turn your front wheels toward the curb or road shoulder and set the parking brake.",
+      "p": "Right. Downhill, turn the wheels toward the curb."
+    },
+    "es": {
+      "q": "En Nevada, usted se estaciona cuesta abajo junto a la banqueta. ¿Hacia dónde debe girar las ruedas delanteras?",
+      "o": [
+        "Hacia la banqueta",
+        "Lejos de la banqueta",
+        "Derechas hacia adelante",
+        "No importa si pone el freno de mano"
+      ],
+      "h1": "Si el carro rueda, la banqueta lo debe detener.",
+      "h2": "En Nevada, cuando se estaciona cuesta abajo, gire las ruedas delanteras hacia la banqueta o el acotamiento y ponga el freno de mano.",
+      "p": "Correcto. Cuesta abajo, gire las ruedas hacia la banqueta."
+    }
+  },
+  {
+    "id": "nv-189",
+    "scope": "NV",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 50,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, where angle parking is allowed, how close to a fire hydrant may you park?",
+      "o": [
+        "Within 10 feet",
+        "Within 15 feet",
+        "No closer than 20 feet",
+        "No closer than 5 feet"
+      ],
+      "h1": "It is more than the distance for parallel parking.",
+      "h2": "In Nevada, where angle parking is allowed, you may not park within 20 feet of a fire hydrant.",
+      "p": "Right. Stay at least 20 feet away when angle parking."
+    },
+    "es": {
+      "q": "En Nevada, donde se permite estacionarse en ángulo, ¿qué tan cerca de un hidrante puede estacionarse?",
+      "o": [
+        "A menos de 10 pies",
+        "A menos de 15 pies",
+        "No más cerca de 20 pies",
+        "No más cerca de 5 pies"
+      ],
+      "h1": "Es más que la distancia para estacionarse en paralelo.",
+      "h2": "En Nevada, donde se permite estacionarse en ángulo, no puede estacionarse a menos de 20 pies de un hidrante.",
+      "p": "Correcto. Quédese por lo menos a 20 pies cuando se estaciona en ángulo."
+    }
+  },
+  {
+    "id": "nv-190",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 48,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, why should you never turn the ignition to the LOCK position while the car is moving?",
+      "o": [
+        "It turns off the headlights",
+        "The steering will lock when you turn the wheel, and you will lose control",
+        "It sets the parking brake",
+        "It turns off the radio"
+      ],
+      "h1": "Think about the steering wheel.",
+      "h2": "In Nevada, you should never turn the ignition to LOCK while moving, because the steering will lock if you try to turn the wheel and you will lose control.",
+      "p": "Right. The steering can lock and you lose control."
+    },
+    "es": {
+      "q": "En Nevada, ¿por qué nunca debe girar el encendido a la posición LOCK mientras el carro está en movimiento?",
+      "o": [
+        "Apaga las luces delanteras",
+        "El volante se bloquea al girarlo y usted pierde el control",
+        "Pone el freno de mano",
+        "Apaga el radio"
+      ],
+      "h1": "Piense en el volante.",
+      "h2": "En Nevada, nunca debe girar el encendido a LOCK en movimiento, porque el volante se bloquea si intenta girarlo y usted pierde el control.",
+      "p": "Correcto. El volante se puede bloquear y usted pierde el control."
+    }
+  },
+  {
+    "id": "nv-191",
+    "scope": "NV",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 29,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Nevada, you face a YIELD sign at an intersection. A car is making a U-turn from the intersection. What must you do?",
+      "o": [
+        "Go first, because you are going straight",
+        "Honk and go",
+        "Stop only if the other vehicle is a truck",
+        "Yield and let the car making the U-turn go first"
+      ],
+      "h1": "A yield sign means others may go before you.",
+      "h2": "In Nevada, at a yield sign you must yield the right-of-way to vehicles making a U-turn from the intersection.",
+      "p": "Right. Let the U-turning car go first."
+    },
+    "es": {
+      "q": "En Nevada, usted tiene una señal de CEDA EL PASO (YIELD) en una intersección. Un carro está dando vuelta en U desde la intersección. ¿Qué debe hacer?",
+      "o": [
+        "Pasar primero, porque usted va derecho",
+        "Tocar la bocina y pasar",
+        "Detenerse solo si el otro vehículo es un camión",
+        "Ceder el paso y dejar pasar primero al carro que da vuelta en U"
+      ],
+      "h1": "Una señal de ceda el paso significa que otros pueden pasar antes que usted.",
+      "h2": "En Nevada, en una señal de ceda el paso usted debe ceder el paso a los vehículos que dan vuelta en U desde la intersección.",
+      "p": "Correcto. Deje pasar primero al carro que da vuelta en U."
+    }
+  },
+  {
+    "id": "nv-192",
+    "scope": "NV",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 66,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, where is there a crosswalk?",
+      "o": [
+        "Anywhere two streets meet, even at a T intersection and even if no lines are painted",
+        "Only where white lines are painted",
+        "Only at traffic lights",
+        "Only near schools"
+      ],
+      "h1": "A crosswalk does not need paint.",
+      "h2": "In Nevada, a crosswalk exists anywhere two streets meet, even at a T intersection, whether or not it is painted or marked.",
+      "p": "Right. Unmarked crosswalks are still crosswalks."
+    },
+    "es": {
+      "q": "En Nevada, ¿dónde hay un cruce peatonal?",
+      "o": [
+        "Dondequiera que se unen dos calles, incluso en una intersección en T y aunque no haya líneas pintadas",
+        "Solo donde hay líneas blancas pintadas",
+        "Solo en los semáforos",
+        "Solo cerca de las escuelas"
+      ],
+      "h1": "Un cruce peatonal no necesita pintura.",
+      "h2": "En Nevada, existe un cruce peatonal dondequiera que se unen dos calles, incluso en una intersección en T, esté pintado o marcado o no.",
+      "p": "Correcto. Los cruces sin marcar también son cruces peatonales."
+    }
+  },
+  {
+    "id": "nv-193",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 69,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, you hitch a trailer with a ball-and-hitch coupler. How should the safety chains be attached?",
+      "o": [
+        "Left loose, hanging on the ground",
+        "Tied only to the bumper",
+        "Attached and crossed",
+        "Not used if the ball is tight"
+      ],
+      "h1": "The chains should form an X.",
+      "h2": "In Nevada, when you hitch a trailer, the safety chains must be attached and crossed, and they must not drag on the ground.",
+      "p": "Right. Attach the safety chains and cross them."
+    },
+    "es": {
+      "q": "En Nevada, usted engancha un remolque con un enganche de bola. ¿Cómo se deben colocar las cadenas de seguridad?",
+      "o": [
+        "Sueltas, colgando hasta el suelo",
+        "Amarradas solo a la defensa",
+        "Enganchadas y cruzadas",
+        "No se usan si la bola está apretada"
+      ],
+      "h1": "Las cadenas deben formar una X.",
+      "h2": "En Nevada, cuando engancha un remolque, las cadenas de seguridad deben estar enganchadas y cruzadas, y no deben arrastrarse por el suelo.",
+      "p": "Correcto. Enganche las cadenas de seguridad y crúcelas."
+    }
+  },
+  {
+    "id": "nv-194",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 59,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, your car stalls in rising flood water. If you can do it safely, what should you do?",
+      "o": [
+        "Stay inside with the doors locked",
+        "Leave the car right away and go to higher ground",
+        "Keep trying to restart the engine",
+        "Wait in the car until the water goes down"
+      ],
+      "h1": "A car does not protect you from fast, rising water.",
+      "h2": "In Nevada, if your car stalls in rising flood water and you can do it safely, leave the car right away and go to higher ground.",
+      "p": "Right. Get out and go to higher ground."
+    },
+    "es": {
+      "q": "En Nevada, su carro se apaga en agua de inundación que está subiendo. Si puede hacerlo sin peligro, ¿qué debe hacer?",
+      "o": [
+        "Quedarse adentro con las puertas cerradas",
+        "Salir del carro de inmediato e ir a un lugar más alto",
+        "Seguir intentando arrancar el motor",
+        "Esperar en el carro hasta que baje el agua"
+      ],
+      "h1": "Un carro no lo protege del agua rápida que sube.",
+      "h2": "En Nevada, si su carro se apaga en agua de inundación que sube y puede hacerlo sin peligro, salga del carro de inmediato y vaya a un lugar más alto.",
+      "p": "Correcto. Salga y vaya a un lugar más alto."
+    }
+  },
+  {
+    "id": "nv-195",
+    "scope": "NV",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 73,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Nevada, you are towing a combination of two vehicles behind your truck. Where should the heavier one go?",
+      "o": [
+        "First, right behind the towing vehicle",
+        "Last, at the back",
+        "Either place; weight does not matter",
+        "Wherever it is easiest to hook up"
+      ],
+      "h1": "The lighter vehicle should be at the rear.",
+      "h2": "In Nevada, when you tow a combination of vehicles, the heaviest vehicle must always be in the first position behind the towing vehicle.",
+      "p": "Right. The heaviest goes first, behind the towing vehicle."
+    },
+    "es": {
+      "q": "En Nevada, usted remolca una combinación de dos vehículos detrás de su camioneta. ¿Dónde debe ir el más pesado?",
+      "o": [
+        "Primero, justo detrás del vehículo que remolca",
+        "Último, atrás de todo",
+        "En cualquier lugar; el peso no importa",
+        "Donde sea más fácil engancharlo"
+      ],
+      "h1": "El vehículo más liviano debe ir atrás.",
+      "h2": "En Nevada, cuando remolca una combinación de vehículos, el más pesado siempre debe ir en la primera posición detrás del vehículo que remolca.",
+      "p": "Correcto. El más pesado va primero, detrás del vehículo que remolca."
+    }
+  },
+  {
+    "id": "nv-196",
+    "scope": "NV",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 66,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Nevada, you stopped to let a pedestrian cross the street in front of you. When may you go?",
+      "o": [
+        "As soon as the person passes the front of your car",
+        "When the person is one step past your lane",
+        "After the person has crossed into the lanes going the other way",
+        "When the car behind you honks"
+      ],
+      "h1": "Give the person plenty of room before you move.",
+      "h2": "In Nevada, a driver yielding to a pedestrian should wait until the person has crossed into the lanes going the other way before going on.",
+      "p": "Right. Wait until the person is in the lanes going the other way."
+    },
+    "es": {
+      "q": "En Nevada, usted se detuvo para dejar que un peatón cruce la calle frente a usted. ¿Cuándo puede seguir?",
+      "o": [
+        "En cuanto la persona pase el frente de su carro",
+        "Cuando la persona esté un paso fuera de su carril",
+        "Cuando la persona haya llegado a los carriles que van en la otra dirección",
+        "Cuando el carro de atrás toque la bocina"
+      ],
+      "h1": "Dele bastante espacio a la persona antes de moverse.",
+      "h2": "En Nevada, un conductor que cede el paso a un peatón debe esperar a que la persona llegue a los carriles que van en la otra dirección antes de seguir.",
+      "p": "Correcto. Espere a que la persona esté en los carriles de la otra dirección."
+    }
+  },
+  {
+    "id": "nv-197",
+    "scope": "NV",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 67,
+    "src": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Nevada, a blind pedestrian with a white cane is waiting at a corner. How long is a good rule of thumb to wait while the person decides to cross?",
+      "o": [
+        "Less than one second",
+        "3 to 4 seconds",
+        "A full minute",
+        "Until you honk to say you are there"
+      ],
+      "h1": "A few seconds is enough, and never honk.",
+      "h2": "In Nevada, give a blind or visually impaired pedestrian about 3 to 4 seconds to decide; if the person steps back and pulls in the cane, you may go.",
+      "p": "Right. Wait 3 to 4 seconds."
+    },
+    "es": {
+      "q": "En Nevada, un peatón ciego con bastón blanco espera en una esquina. ¿Cuánto tiempo es una buena regla esperar mientras la persona decide si cruza?",
+      "o": [
+        "Menos de un segundo",
+        "De 3 a 4 segundos",
+        "Un minuto completo",
+        "Hasta tocar la bocina para avisar que usted está ahí"
+      ],
+      "h1": "Unos pocos segundos bastan, y nunca toque la bocina.",
+      "h2": "En Nevada, dele a un peatón ciego o con problemas de la vista unos 3 a 4 segundos para decidir; si la persona da un paso atrás y recoge el bastón, usted puede seguir.",
+      "p": "Correcto. Espere de 3 a 4 segundos."
+    }
   }
 ]
