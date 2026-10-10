@@ -8546,25 +8546,25 @@
       "q": "In the District of Columbia, you get a speeding ticket from an automated traffic camera. Are points added to your driving record?",
       "o": [
         "Yes, double the usual points",
-        "No, camera tickets do not add points",
+        "No, camera tickets add no points to your driving record",
         "Yes, the same points as a police ticket",
         "Only if you pay the fine late"
       ],
       "h1": "The point rules leave out tickets from automated enforcement systems.",
-      "h2": "In the District of Columbia, points are not assessed for tickets from automated traffic enforcement cameras.",
-      "p": "Right. Camera tickets do not add points."
+      "h2": "In the District of Columbia, the DMV does not add points to your driving record for tickets from automated traffic enforcement cameras.",
+      "p": "Right. Camera tickets add no points to your driving record."
     },
     "es": {
       "q": "En el Distrito de Columbia, usted recibe una multa por exceso de velocidad de una cámara automática de tránsito. ¿Se suman puntos a su historial?",
       "o": [
         "Sí, el doble de los puntos normales",
-        "No, las multas de cámara no suman puntos",
+        "No, las multas de cámara no suman puntos a su historial de manejo",
         "Sí, los mismos puntos que una multa de un policía",
         "Solo si paga la multa tarde"
       ],
       "h1": "Las reglas de puntos excluyen las multas de los sistemas automáticos.",
-      "h2": "En el Distrito de Columbia, no se asignan puntos por las multas de las cámaras automáticas de tránsito.",
-      "p": "Correcto. Las multas de cámara no suman puntos."
+      "h2": "En el Distrito de Columbia, el DMV no suma puntos a su historial de manejo por las multas de las cámaras automáticas de tránsito.",
+      "p": "Correcto. Las multas de cámara no suman puntos a su historial de manejo."
     }
   },
   {
@@ -8754,9 +8754,9 @@
         "A green light at the next corner",
         "An official sign under the STOP sign that allows it"
       ],
-      "h1": "Only another official traffic sign can change what a STOP sign means.",
-      "h2": "In the District of Columbia, an official sign placed under a STOP sign may allow drivers to turn right without stopping; otherwise you must stop.",
-      "p": "Right. Only an official sign under the STOP sign can allow it."
+      "h1": "Look for an extra official sign mounted just below the STOP sign.",
+      "h2": "In the District of Columbia, an official sign placed under a STOP sign may allow drivers to turn right without stopping; without such a sign, you must stop unless a police officer directs you to go.",
+      "p": "Right. An official sign under the STOP sign can allow it."
     },
     "es": {
       "q": "En el Distrito de Columbia, usted llega a una señal de PARE (STOP). ¿Qué le puede permitir girar a la derecha allí sin detenerse?",
@@ -8766,9 +8766,9 @@
         "Una luz verde en la siguiente esquina",
         "Una señal oficial debajo de la señal de PARE que lo permita"
       ],
-      "h1": "Solo otra señal oficial de tránsito puede cambiar lo que significa una señal de PARE.",
-      "h2": "En el Distrito de Columbia, una señal oficial colocada debajo de una señal de PARE puede permitir girar a la derecha sin detenerse; si no la hay, usted debe detenerse.",
-      "p": "Correcto. Solo una señal oficial debajo del PARE puede permitirlo."
+      "h1": "Busque una señal oficial adicional colocada justo debajo de la señal de PARE.",
+      "h2": "En el Distrito de Columbia, una señal oficial colocada debajo de una señal de PARE puede permitir girar a la derecha sin detenerse; si no la hay, usted debe detenerse, a menos que un policía le indique que siga.",
+      "p": "Correcto. Una señal oficial debajo del PARE puede permitirlo."
     }
   },
   {
@@ -9026,7 +9026,7 @@
         "At least 1 mile",
         "At least 200 feet"
       ],
-      "h1": "It is about the length of a city block.",
+      "h1": "It is about two-thirds the length of a football field.",
       "h2": "In the District of Columbia, every motor vehicle must have a working horn that can be heard from at least 200 feet away under normal conditions.",
       "p": "Right. A horn must be heard from at least 200 feet."
     },
@@ -9038,7 +9038,7 @@
         "Al menos 1 milla",
         "Al menos 200 pies"
       ],
-      "h1": "Es más o menos el largo de una cuadra de la ciudad.",
+      "h1": "Es más o menos dos tercios del largo de un campo de fútbol americano.",
       "h2": "En el Distrito de Columbia, todo vehículo de motor debe tener una bocina que funcione y que se oiga desde al menos 200 pies en condiciones normales.",
       "p": "Correcto. La bocina debe oírse desde al menos 200 pies."
     }
@@ -9155,7 +9155,7 @@
     "sign": null,
     "c": 0,
     "en": {
-      "q": "In the District of Columbia, a driver has autism or a hearing impairment. Can this be shown on their license?",
+      "q": "In the District of Columbia, a driver has autism spectrum disorder. Can this be shown on their license?",
       "o": [
         "Yes, the DMV may note it if the driver asks",
         "Yes, the DMV must always note it",
@@ -9163,11 +9163,11 @@
         "Only on a learner permit"
       ],
       "h1": "It is the driver's choice to ask for it.",
-      "h2": "In the District of Columbia, when a driver asks, the DMV may show on the license that the person has an intellectual disability, autism spectrum disorder, or a hearing or visual impairment.",
+      "h2": "In the District of Columbia, the DMV may show on a license that the driver has autism spectrum disorder, but only when the driver asks for it.",
       "p": "Right. It can be noted if the driver asks."
     },
     "es": {
-      "q": "En el Distrito de Columbia, un conductor tiene autismo o una discapacidad auditiva. ¿Se puede indicar esto en su licencia?",
+      "q": "En el Distrito de Columbia, un conductor tiene un trastorno del espectro autista. ¿Se puede indicar esto en su licencia?",
       "o": [
         "Sí, el DMV puede indicarlo si el conductor lo pide",
         "Sí, el DMV siempre debe indicarlo",
@@ -9175,7 +9175,7 @@
         "Solo en un permiso de aprendizaje"
       ],
       "h1": "Es decisión del conductor pedirlo.",
-      "h2": "En el Distrito de Columbia, cuando un conductor lo pide, el DMV puede indicar en la licencia que la persona tiene una discapacidad intelectual, un trastorno del espectro autista o una discapacidad auditiva o visual.",
+      "h2": "En el Distrito de Columbia, el DMV puede indicar en la licencia que el conductor tiene un trastorno del espectro autista, pero solo cuando el conductor lo pide.",
       "p": "Correcto. Se puede indicar si el conductor lo pide."
     }
   },
