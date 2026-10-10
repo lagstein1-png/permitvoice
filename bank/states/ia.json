@@ -7495,28 +7495,28 @@
     "sign": null,
     "c": 0,
     "en": {
-      "q": "In Iowa, which of these stopped vehicles with flashing lights is covered by the Move Over or Slow Down law?",
+      "q": "In Iowa, you are driving on a highway. Which of these stopped vehicles is covered by the Move Over or Slow Down law?",
       "o": [
-        "A garbage or recycling truck",
-        "A parked ice cream truck with music on",
-        "A car waiting at a drive-through",
+        "A garbage or recycling truck with its flashing lights on",
+        "A parked ice cream truck with no lights flashing",
+        "A car parked on the shoulder with no lights flashing",
         "A bus at a bus stop with no flashing lights"
       ],
-      "h1": "The law covers more than police cars and ambulances.",
-      "h2": "In Iowa, the Move Over or Slow Down law includes stopped solid waste and recycling collection vehicles with flashing lights.",
-      "p": "Correct! Garbage and recycling trucks are covered."
+      "h1": "The law covers more than police cars and ambulances, but the stopped vehicle must be showing flashing lights.",
+      "h2": "In Iowa, the Move Over or Slow Down law covers stopped solid waste and recycling collection vehicles with flashing lights, and also any stopped vehicle with its hazard lights flashing.",
+      "p": "Correct! A stopped garbage or recycling truck with flashing lights is covered."
     },
     "es": {
-      "q": "En Iowa, ¿cuál de estos vehículos detenidos con luces intermitentes está cubierto por la ley de Cambiarse de Carril o Bajar la Velocidad?",
+      "q": "En Iowa, usted maneja por una carretera. ¿Cuál de estos vehículos detenidos está cubierto por la ley de Cambiarse de Carril o Bajar la Velocidad?",
       "o": [
-        "Un camión de basura o de reciclaje",
-        "Un camión de helados estacionado con música",
-        "Un carro esperando en un autoservicio",
+        "Un camión de basura o de reciclaje con sus luces intermitentes encendidas",
+        "Un camión de helados estacionado sin luces intermitentes",
+        "Un carro estacionado en el acotamiento sin luces intermitentes",
         "Un autobús en su parada sin luces intermitentes"
       ],
-      "h1": "La ley cubre más que patrullas y ambulancias.",
-      "h2": "En Iowa, la ley de Cambiarse de Carril o Bajar la Velocidad incluye los camiones de basura y de reciclaje detenidos con luces intermitentes.",
-      "p": "¡Correcto! Los camiones de basura y reciclaje están cubiertos."
+      "h1": "La ley cubre más que patrullas y ambulancias, pero el vehículo detenido debe tener luces intermitentes encendidas.",
+      "h2": "En Iowa, la ley de Cambiarse de Carril o Bajar la Velocidad cubre los camiones de basura y de reciclaje detenidos con luces intermitentes, y también cualquier vehículo detenido con sus luces de emergencia intermitentes encendidas.",
+      "p": "¡Correcto! Un camión de basura o de reciclaje detenido con luces intermitentes está cubierto."
     }
   },
   {
