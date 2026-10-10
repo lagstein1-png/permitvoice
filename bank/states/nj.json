@@ -2212,5 +2212,141 @@
       "h2": "في New Jersey، تُحذف حتى ثلاث نقاط من سجلّك عن كل سنة بلا مخالفة أو إيقاف للرخصة.",
       "p": "صحيح. السنة النظيفة يمكن أن تحذف حتى ثلاث نقاط."
     }
+  },
+  {
+    "id": "nj-028",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 31,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In New Jersey, what eyesight must a basic license applicant have, with or without glasses?",
+      "o": [
+        "20/20",
+        "20/40",
+        "20/50",
+        "20/100"
+      ],
+      "h1": "The rule for commercial drivers is stricter than this one.",
+      "h2": "In New Jersey, a basic license applicant needs 20/50 vision, with or without glasses or contact lenses.",
+      "p": "Right. A basic license needs 20/50 vision."
+    },
+    "es": {
+      "q": "En Nueva Jersey, ¿qué visión debe tener quien solicita una licencia básica, con o sin anteojos?",
+      "o": [
+        "20/20",
+        "20/40",
+        "20/50",
+        "20/100"
+      ],
+      "h1": "La regla para conductores comerciales es más estricta que esta.",
+      "h2": "En Nueva Jersey, quien solicita una licencia básica necesita una visión de 20/50, con o sin anteojos o lentes de contacto.",
+      "p": "Correcto. La licencia básica pide una visión de 20/50."
+    }
+  },
+  {
+    "id": "nj-029",
+    "scope": "NJ",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 9,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In New Jersey, how many points of ID must your documents add up to when you apply for a license?",
+      "o": [
+        "At least three points",
+        "At least four points",
+        "At least five points",
+        "At least six points"
+      ],
+      "h1": "The MVC's ID system is named after this number.",
+      "h2": "In New Jersey, your ID documents must add up to at least six points, with at least one primary and one secondary document, plus proof of address.",
+      "p": "Right. You need at least six points of ID."
+    },
+    "es": {
+      "q": "En Nueva Jersey, ¿cuántos puntos deben sumar sus documentos de identidad al solicitar una licencia?",
+      "o": [
+        "Al menos tres puntos",
+        "Al menos cuatro puntos",
+        "Al menos cinco puntos",
+        "Al menos seis puntos"
+      ],
+      "h1": "El sistema de identificación de la MVC lleva el nombre de este número.",
+      "h2": "En Nueva Jersey, sus documentos de identidad deben sumar al menos seis puntos, con al menos un documento primario y uno secundario, más prueba de domicilio.",
+      "p": "Correcto. Necesita al menos seis puntos de identificación."
+    }
+  },
+  {
+    "id": "nj-030",
+    "scope": "NJ",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 78,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In New Jersey, after an emergency vehicle with its siren or lights on passes you, how far behind it must you stay?",
+      "o": [
+        "At least 300 feet",
+        "At least 50 feet",
+        "At least 100 feet",
+        "At least 1,000 feet"
+      ],
+      "h1": "It is about the length of a football field.",
+      "h2": "In New Jersey, after an emergency vehicle passes, you must stay at least 300 feet behind it while its signals are on.",
+      "p": "Right. Stay at least 300 feet behind."
+    },
+    "es": {
+      "q": "En Nueva Jersey, después de que lo pasa un vehículo de emergencia con la sirena o las luces encendidas, ¿a qué distancia detrás debe mantenerse?",
+      "o": [
+        "Al menos 300 pies",
+        "Al menos 50 pies",
+        "Al menos 100 pies",
+        "Al menos 1,000 pies"
+      ],
+      "h1": "Es más o menos el largo de un campo de fútbol americano.",
+      "h2": "En Nueva Jersey, después de que pasa un vehículo de emergencia, debe mantenerse al menos a 300 pies detrás mientras tenga sus señales encendidas.",
+      "p": "Correcto. Manténgase al menos a 300 pies detrás."
+    }
+  },
+  {
+    "id": "nj-031",
+    "scope": "NJ",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 85,
+    "src": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In New Jersey, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 15 feet",
+        "No closer than 25 feet"
+      ],
+      "h1": "In New Jersey it is less than the 15 feet used in many other states.",
+      "h2": "In New Jersey, you may not park within 10 feet of a fire hydrant.",
+      "p": "Right. Stay at least 10 feet from a hydrant."
+    },
+    "es": {
+      "q": "En Nueva Jersey, ¿qué tan cerca de un hidrante puede estacionarse?",
+      "o": [
+        "No a menos de 5 pies",
+        "No a menos de 10 pies",
+        "No a menos de 15 pies",
+        "No a menos de 25 pies"
+      ],
+      "h1": "En Nueva Jersey es menos que los 15 pies que se usan en muchos otros estados.",
+      "h2": "En Nueva Jersey, no puede estacionarse a menos de 10 pies de un hidrante.",
+      "p": "Correcto. Quédese al menos a 10 pies de un hidrante."
+    }
   }
 ]
