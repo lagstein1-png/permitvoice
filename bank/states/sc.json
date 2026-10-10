@@ -2540,5 +2540,651 @@
       "h2": "في South Carolina، يقول قانون الولاية إنه يجب أن تشغّل الإشارة على الأقل 100 قدم قبل أن تنعطف أو تغيّر المسار أو تندمج في حركة السير.",
       "p": "صحيح. على الأقل 100 قدم قبلها."
     }
+  },
+  {
+    "id": "sc-032",
+    "scope": "SC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-3",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In South Carolina, what must you have with you every time you drive?",
+      "o": [
+        "Only your driver's license",
+        "Your license and your birth certificate",
+        "Your license, the vehicle registration and an insurance card",
+        "Your license and the car's title"
+      ],
+      "h1": "Think of one paper for you, one for the car, and one for the insurance.",
+      "h2": "In South Carolina, you must carry your driver's license, the vehicle registration and a valid insurance card when you drive, or you can be fined.",
+      "p": "Right. License, registration and insurance card."
+    },
+    "es": {
+      "q": "En Carolina del Sur, ¿qué debe llevar consigo cada vez que maneja?",
+      "o": [
+        "Solo su licencia de conducir",
+        "Su licencia y su acta de nacimiento",
+        "Su licencia, el registro del vehículo y una tarjeta de seguro",
+        "Su licencia y el título del carro"
+      ],
+      "h1": "Piense en un papel para usted, uno para el carro y uno para el seguro.",
+      "h2": "En Carolina del Sur, debe llevar su licencia de conducir, el registro del vehículo y una tarjeta de seguro válida cuando maneja, o le pueden poner una multa.",
+      "p": "Correcto. Licencia, registro y tarjeta de seguro."
+    }
+  },
+  {
+    "id": "sc-033",
+    "scope": "SC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-9",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In South Carolina, a 16-year-old has a special restricted license with a waiver for work. Until what time may they drive alone?",
+      "o": [
+        "6 p.m.",
+        "8 p.m.",
+        "10 p.m.",
+        "Midnight"
+      ],
+      "h1": "The waiver gives more time than the usual 6 p.m. or 8 p.m. limit, but never past the end of the day.",
+      "h2": "In South Carolina, a special restricted license with a waiver lets a 16-year-old drive alone until midnight for work or certain after-school activities, but never after midnight.",
+      "p": "Right. Until midnight, never later."
+    },
+    "es": {
+      "q": "En Carolina del Sur, un joven de 16 años tiene una licencia restringida especial con una exención por trabajo. ¿Hasta qué hora puede manejar solo?",
+      "o": [
+        "6 p.m.",
+        "8 p.m.",
+        "10 p.m.",
+        "Medianoche"
+      ],
+      "h1": "La exención da más tiempo que el límite normal de 6 p.m. u 8 p.m., pero nunca después de que termina el día.",
+      "h2": "En Carolina del Sur, una licencia restringida especial con exención permite a un joven de 16 años manejar solo hasta la medianoche por trabajo o ciertas actividades extracurriculares, pero nunca después de la medianoche.",
+      "p": "Correcto. Hasta la medianoche, nunca más tarde."
+    }
+  },
+  {
+    "id": "sc-034",
+    "scope": "SC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-12",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In South Carolina, what happens if you do not wear your seat belt during the driving (skills) test?",
+      "o": [
+        "The examiner gives you a warning",
+        "You fail the test automatically",
+        "You lose a few points but can still pass",
+        "The test is moved to another day"
+      ],
+      "h1": "The manual treats this as a serious mistake, not a small one.",
+      "h2": "In South Carolina, you automatically fail the skills test if you do not use your seat belt.",
+      "p": "Right. No seat belt means you fail."
+    },
+    "es": {
+      "q": "En Carolina del Sur, ¿qué pasa si no usa el cinturón de seguridad durante el examen de manejo?",
+      "o": [
+        "El examinador le da una advertencia",
+        "Reprueba el examen automáticamente",
+        "Pierde algunos puntos pero aún puede aprobar",
+        "El examen se cambia para otro día"
+      ],
+      "h1": "El manual lo trata como un error grave, no pequeño.",
+      "h2": "En Carolina del Sur, usted reprueba automáticamente el examen de manejo si no usa el cinturón de seguridad.",
+      "p": "Correcto. Sin cinturón, reprueba."
+    }
+  },
+  {
+    "id": "sc-035",
+    "scope": "SC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-13",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In South Carolina, you fail the driving (skills) test on your first try. How long must you wait to take it again?",
+      "o": [
+        "2 business days",
+        "The same day",
+        "7 calendar days",
+        "30 calendar days"
+      ],
+      "h1": "The wait gets longer each time you fail. The first wait is the shortest.",
+      "h2": "In South Carolina, after you fail the skills test the first time, you must wait two business days before you take it again.",
+      "p": "Right. Two business days."
+    },
+    "es": {
+      "q": "En Carolina del Sur, reprueba el examen de manejo en su primer intento. ¿Cuánto tiempo debe esperar para tomarlo otra vez?",
+      "o": [
+        "2 días hábiles",
+        "El mismo día",
+        "7 días calendario",
+        "30 días calendario"
+      ],
+      "h1": "La espera es más larga cada vez que reprueba. La primera espera es la más corta.",
+      "h2": "En Carolina del Sur, después de reprobar el examen de manejo la primera vez, debe esperar dos días hábiles antes de tomarlo otra vez.",
+      "p": "Correcto. Dos días hábiles."
+    }
+  },
+  {
+    "id": "sc-036",
+    "scope": "SC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-13",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In South Carolina, you have a valid license from another state and move here to stay. How soon must you apply for a South Carolina license?",
+      "o": [
+        "Within 10 days",
+        "Within 30 days",
+        "Within 45 days",
+        "Within 90 days"
+      ],
+      "h1": "It is more than a month, but less than two months.",
+      "h2": "In South Carolina, a new resident with a license from another state must apply for a South Carolina license within 45 days of moving.",
+      "p": "Right. Within 45 days."
+    },
+    "es": {
+      "q": "En Carolina del Sur, usted tiene una licencia válida de otro estado y se muda aquí para quedarse. ¿En cuánto tiempo debe solicitar una licencia de Carolina del Sur?",
+      "o": [
+        "Dentro de 10 días",
+        "Dentro de 30 días",
+        "Dentro de 45 días",
+        "Dentro de 90 días"
+      ],
+      "h1": "Es más de un mes, pero menos de dos meses.",
+      "h2": "En Carolina del Sur, un nuevo residente con licencia de otro estado debe solicitar una licencia de Carolina del Sur dentro de los 45 días después de mudarse.",
+      "p": "Correcto. Dentro de 45 días."
+    }
+  },
+  {
+    "id": "sc-037",
+    "scope": "SC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-15",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In South Carolina, a US citizen renews a driver's license online. For how many years is the new license issued?",
+      "o": [
+        "4 years",
+        "8 years",
+        "5 years",
+        "10 years"
+      ],
+      "h1": "It is a long license, close to a decade, but not a full ten years.",
+      "h2": "In South Carolina, a US citizen who renews online or by mail gets an eight-year license.",
+      "p": "Right. An eight-year license."
+    },
+    "es": {
+      "q": "En Carolina del Sur, un ciudadano de EE. UU. renueva su licencia de conducir en línea. ¿Por cuántos años se emite la nueva licencia?",
+      "o": [
+        "4 años",
+        "8 años",
+        "5 años",
+        "10 años"
+      ],
+      "h1": "Es una licencia larga, casi una década, pero no diez años completos.",
+      "h2": "En Carolina del Sur, un ciudadano de EE. UU. que renueva en línea o por correo recibe una licencia de ocho años.",
+      "p": "Correcto. Una licencia de ocho años."
+    }
+  },
+  {
+    "id": "sc-038",
+    "scope": "SC",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "1-20",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In South Carolina, how often can a defensive driving course be used to reduce the points on your record?",
+      "o": [
+        "Once a year",
+        "As often as you like",
+        "Once every five years",
+        "Once every three years"
+      ],
+      "h1": "You cannot use it every year. The wait is a few years.",
+      "h2": "In South Carolina, a defensive driving course can reduce your points only one time in a three-year period.",
+      "p": "Right. Once every three years."
+    },
+    "es": {
+      "q": "En Carolina del Sur, ¿con qué frecuencia puede usar un curso de manejo defensivo para reducir los puntos en su historial?",
+      "o": [
+        "Una vez al año",
+        "Todas las veces que quiera",
+        "Una vez cada cinco años",
+        "Una vez cada tres años"
+      ],
+      "h1": "No puede usarlo cada año. La espera es de unos años.",
+      "h2": "En Carolina del Sur, un curso de manejo defensivo puede reducir sus puntos solo una vez en un período de tres años.",
+      "p": "Correcto. Una vez cada tres años."
+    }
+  },
+  {
+    "id": "sc-039",
+    "scope": "SC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "3-5",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In South Carolina, what is the penalty for a second offense under the Hands-Free and Distracted Driving Act?",
+      "o": [
+        "A $200 fine and 2 points on your record",
+        "A $100 fine only",
+        "A $500 fine and 4 points on your record",
+        "A one-year license suspension"
+      ],
+      "h1": "The first offense is a $100 fine. The second costs more and also adds points.",
+      "h2": "In South Carolina, a second or later hands-free offense brings a $200 fine and two points on your driving record.",
+      "p": "Right. $200 and 2 points."
+    },
+    "es": {
+      "q": "En Carolina del Sur, ¿cuál es la sanción por una segunda infracción de la Ley de Manos Libres y Manejo Distraído?",
+      "o": [
+        "Una multa de $200 y 2 puntos en su historial",
+        "Solo una multa de $100",
+        "Una multa de $500 y 4 puntos en su historial",
+        "La suspensión de la licencia por un año"
+      ],
+      "h1": "La primera infracción es una multa de $100. La segunda cuesta más y también suma puntos.",
+      "h2": "En Carolina del Sur, una segunda infracción o una posterior de la ley de manos libres trae una multa de $200 y dos puntos en su historial de manejo.",
+      "p": "Correcto. $200 y 2 puntos."
+    }
+  },
+  {
+    "id": "sc-040",
+    "scope": "SC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "4-7",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In South Carolina, a child may use an adult seat belt (if it fits well) at age 8, or once the child is at least how tall?",
+      "o": [
+        "48 inches",
+        "52 inches",
+        "57 inches",
+        "62 inches"
+      ],
+      "h1": "It is just under 5 feet.",
+      "h2": "In South Carolina, a child who is at least 8 years old or at least 57 inches tall may use an adult seat belt if it fits properly.",
+      "p": "Right. 57 inches tall."
+    },
+    "es": {
+      "q": "En Carolina del Sur, un niño puede usar el cinturón de seguridad de adulto (si le queda bien) a los 8 años, o cuando mide por lo menos ¿cuánto?",
+      "o": [
+        "48 pulgadas",
+        "52 pulgadas",
+        "57 pulgadas",
+        "62 pulgadas"
+      ],
+      "h1": "Es un poco menos de 5 pies.",
+      "h2": "En Carolina del Sur, un niño de por lo menos 8 años o que mide por lo menos 57 pulgadas puede usar el cinturón de seguridad de adulto si le queda bien.",
+      "p": "Correcto. 57 pulgadas de estatura."
+    }
+  },
+  {
+    "id": "sc-041",
+    "scope": "SC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "10-9",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In South Carolina, how far does the driver's manual say a loaded truck going 55 mph needs to stop, at the least, in ideal conditions?",
+      "o": [
+        "100 feet",
+        "158 feet",
+        "200 feet",
+        "335 feet"
+      ],
+      "h1": "It is more than one and a half times what a car needs.",
+      "h2": "South Carolina's manual says a loaded truck at 55 mph needs at least 335 feet to stop, even in ideal conditions, so never cut in front of one.",
+      "p": "Right. At least 335 feet."
+    },
+    "es": {
+      "q": "En Carolina del Sur, según el manual, ¿qué distancia necesita como mínimo un camión cargado que va a 55 mph para detenerse en condiciones ideales?",
+      "o": [
+        "100 pies",
+        "158 pies",
+        "200 pies",
+        "335 pies"
+      ],
+      "h1": "Es más de una vez y media lo que necesita un carro.",
+      "h2": "El manual de Carolina del Sur dice que un camión cargado a 55 mph necesita por lo menos 335 pies para detenerse, aun en condiciones ideales, así que nunca se meta delante de uno.",
+      "p": "Correcto. Por lo menos 335 pies."
+    }
+  },
+  {
+    "id": "sc-042",
+    "scope": "SC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "10-13",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In South Carolina, an officer gives you a traffic ticket. Must you sign it?",
+      "o": [
+        "Yes, or you will be arrested",
+        "No, South Carolina does not require you to sign it",
+        "Yes, and signing means you admit you are guilty",
+        "Only if you want to go to court"
+      ],
+      "h1": "In South Carolina, taking the ticket is not an admission of guilt, and there is no signature rule.",
+      "h2": "In South Carolina, a driver does not have to sign a traffic ticket, and accepting the ticket does not mean you admit guilt.",
+      "p": "Right. No signature is required in South Carolina."
+    },
+    "es": {
+      "q": "En Carolina del Sur, un oficial le da una multa de tránsito. ¿Tiene que firmarla?",
+      "o": [
+        "Sí, o lo arrestarán",
+        "No, Carolina del Sur no exige que la firme",
+        "Sí, y firmar significa que admite que es culpable",
+        "Solo si quiere ir a la corte"
+      ],
+      "h1": "En Carolina del Sur, recibir la multa no es admitir la culpa, y no hay una regla de firma.",
+      "h2": "En Carolina del Sur, el conductor no tiene que firmar una multa de tránsito, y aceptar la multa no significa que admite la culpa.",
+      "p": "Correcto. En Carolina del Sur no se exige la firma."
+    }
+  },
+  {
+    "id": "sc-043",
+    "scope": "SC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "11-10",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In South Carolina, how does the driver's manual say the cargo weight in a trailer should be split?",
+      "o": [
+        "60 percent in the front and 40 percent in the back",
+        "Half in the front and half in the back",
+        "40 percent in the front and 60 percent in the back",
+        "All of it at the very back"
+      ],
+      "h1": "A trailer that is heavier in the back is more likely to sway.",
+      "h2": "South Carolina's manual says to load a trailer heavier in the front: about 60 percent of the weight in the front and 40 percent in the back.",
+      "p": "Right. 60 percent front, 40 percent back."
+    },
+    "es": {
+      "q": "En Carolina del Sur, según el manual, ¿cómo se debe repartir el peso de la carga en un remolque?",
+      "o": [
+        "60 por ciento adelante y 40 por ciento atrás",
+        "La mitad adelante y la mitad atrás",
+        "40 por ciento adelante y 60 por ciento atrás",
+        "Todo bien atrás"
+      ],
+      "h1": "Un remolque más pesado atrás tiene más riesgo de balancearse.",
+      "h2": "El manual de Carolina del Sur dice que el remolque debe ir más pesado adelante: cerca del 60 por ciento del peso adelante y el 40 por ciento atrás.",
+      "p": "Correcto. 60 por ciento adelante, 40 por ciento atrás."
+    }
+  },
+  {
+    "id": "sc-044",
+    "scope": "SC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "2-3",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In South Carolina, a golf cart with a permit may be driven in the daytime on secondary roads with a posted speed limit of at most what?",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "Golf carts are slow, so they stay on slower roads.",
+      "h2": "In South Carolina, a permitted golf cart may be driven in the daytime only on secondary roads with a posted speed limit of 35 mph or less.",
+      "p": "Right. 35 mph or less."
+    },
+    "es": {
+      "q": "En Carolina del Sur, un carrito de golf con permiso puede circular de día en carreteras secundarias con un límite de velocidad de ¿cuánto como máximo?",
+      "o": [
+        "25 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "h1": "Los carritos de golf son lentos, así que van por calles más lentas.",
+      "h2": "En Carolina del Sur, un carrito de golf con permiso puede circular de día solo en carreteras secundarias con un límite de velocidad de 35 mph o menos.",
+      "p": "Correcto. 35 mph o menos."
+    }
+  },
+  {
+    "id": "sc-045",
+    "scope": "SC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "7-11",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In South Carolina, when you park along a road, how far from the curb or edge of the pavement may your car be, at the most?",
+      "o": [
+        "6 inches",
+        "12 inches",
+        "24 inches",
+        "18 inches"
+      ],
+      "h1": "Park as close to the curb as you can. The legal limit is less than two feet.",
+      "h2": "In South Carolina, when you park along the road, your car must be no more than 18 inches from the curb or the edge of the pavement.",
+      "p": "Right. No more than 18 inches."
+    },
+    "es": {
+      "q": "En Carolina del Sur, cuando se estaciona junto a la calle, ¿a qué distancia máxima de la acera o del borde del pavimento puede quedar su carro?",
+      "o": [
+        "6 pulgadas",
+        "12 pulgadas",
+        "24 pulgadas",
+        "18 pulgadas"
+      ],
+      "h1": "Estaciónese lo más cerca posible de la acera. El límite legal es menos de dos pies.",
+      "h2": "En Carolina del Sur, cuando se estaciona junto a la calle, su carro debe quedar a no más de 18 pulgadas de la acera o del borde del pavimento.",
+      "p": "Correcto. No más de 18 pulgadas."
+    }
+  },
+  {
+    "id": "sc-046",
+    "scope": "SC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "11-11",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In South Carolina, what does the driver's manual say is the highest recommended speed for most cars towing a trailer?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "It is lower than most interstate limits.",
+      "h2": "South Carolina's manual says the highest recommended speed for most vehicles towing a trailer is 55 mph, and never more than the posted limit.",
+      "p": "Right. 55 mph."
+    },
+    "es": {
+      "q": "En Carolina del Sur, según el manual, ¿cuál es la velocidad máxima recomendada para la mayoría de los vehículos que llevan un remolque?",
+      "o": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "70 mph"
+      ],
+      "h1": "Es menor que la mayoría de los límites de las autopistas interestatales.",
+      "h2": "El manual de Carolina del Sur dice que la velocidad máxima recomendada para la mayoría de los vehículos con remolque es 55 mph, y nunca más que el límite indicado.",
+      "p": "Correcto. 55 mph."
+    }
+  },
+  {
+    "id": "sc-047",
+    "scope": "SC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": "7-9",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In South Carolina, a school bus is stopped in a loading zone completely off the main road, and people may not cross the road there. Must you stop?",
+      "o": [
+        "Yes, you must always stop for a stopped school bus",
+        "Yes, and wait until the bus drives away",
+        "Yes, but only if its lights are amber",
+        "No, you do not have to stop, but drive with care"
+      ],
+      "h1": "The bus is fully out of the travel lanes and no one crosses in front of you.",
+      "h2": "In South Carolina, you do not have to stop for a school bus that is in a loading zone completely off the main travel lanes when people are not allowed to cross the road.",
+      "p": "Right. You do not have to stop there."
+    },
+    "es": {
+      "q": "En Carolina del Sur, un autobús escolar está detenido en una zona de carga completamente fuera de la vía principal, y allí no se permite cruzar la calle. ¿Debe detenerse?",
+      "o": [
+        "Sí, siempre debe detenerse ante un autobús escolar detenido",
+        "Sí, y esperar hasta que el autobús se vaya",
+        "Sí, pero solo si sus luces son ámbar",
+        "No, no tiene que detenerse, pero maneje con cuidado"
+      ],
+      "h1": "El autobús está totalmente fuera de los carriles y nadie cruza delante de usted.",
+      "h2": "En Carolina del Sur, no tiene que detenerse ante un autobús escolar que está en una zona de carga completamente fuera de los carriles principales cuando no se permite que la gente cruce la calle.",
+      "p": "Correcto. Allí no tiene que detenerse."
+    }
+  },
+  {
+    "id": "sc-048",
+    "scope": "SC",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": "11-5",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In South Carolina, two cars come to a narrow single-lane bridge from opposite ends. Who generally goes first?",
+      "o": [
+        "The larger vehicle",
+        "The driver on the right",
+        "The driver who reaches the bridge first",
+        "The driver going faster"
+      ],
+      "h1": "Drivers take turns, and arrival order decides.",
+      "h2": "In South Carolina, drivers take turns on a single-lane bridge, and generally the driver who reaches the bridge first has the right of way.",
+      "p": "Right. The first one to the bridge goes first."
+    },
+    "es": {
+      "q": "En Carolina del Sur, dos carros llegan a un puente angosto de un solo carril desde lados opuestos. ¿Quién pasa primero, por lo general?",
+      "o": [
+        "El vehículo más grande",
+        "El conductor de la derecha",
+        "El conductor que llega primero al puente",
+        "El conductor que va más rápido"
+      ],
+      "h1": "Los conductores toman turnos, y el orden de llegada decide.",
+      "h2": "En Carolina del Sur, los conductores toman turnos en un puente de un solo carril, y por lo general el conductor que llega primero al puente tiene el derecho de paso.",
+      "p": "Correcto. El primero en llegar al puente pasa primero."
+    }
+  },
+  {
+    "id": "sc-049",
+    "scope": "SC",
+    "cat": "signals",
+    "conf": "high",
+    "page": "6-11",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In South Carolina, on a secondary road marker, what does the first number after the letter S show?",
+      "o": [
+        "The speed limit",
+        "The number of the county the road is in",
+        "The miles to the next town",
+        "The number of lanes"
+      ],
+      "h1": "Each county has its own set of secondary road numbers.",
+      "h2": "In South Carolina, the first number after the letter S on a secondary road marker is the number of the county, and the last number is the road number.",
+      "p": "Right. It shows the county."
+    },
+    "es": {
+      "q": "En Carolina del Sur, en un marcador de carretera secundaria, ¿qué indica el primer número después de la letra S?",
+      "o": [
+        "El límite de velocidad",
+        "El número del condado donde está la carretera",
+        "Las millas hasta el próximo pueblo",
+        "El número de carriles"
+      ],
+      "h1": "Cada condado tiene su propio grupo de números de carreteras secundarias.",
+      "h2": "En Carolina del Sur, el primer número después de la letra S en un marcador de carretera secundaria es el número del condado, y el último número es el número de la carretera.",
+      "p": "Correcto. Indica el condado."
+    }
+  },
+  {
+    "id": "sc-050",
+    "scope": "SC",
+    "cat": "signals",
+    "conf": "high",
+    "page": "10-16",
+    "src": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver's%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In South Carolina, a farm vehicle has an orange and red triangle on its back. What does it tell you about its speed?",
+      "o": [
+        "It goes less than 15 mph",
+        "It goes less than 45 mph",
+        "It goes less than 25 mph",
+        "It is stopped"
+      ],
+      "h1": "It is a slow-moving vehicle sign. The speed is about the limit on many neighborhood streets.",
+      "h2": "In South Carolina, an orange and red triangle on the back of a vehicle means it travels at less than 25 mph, so pass only when it is safe.",
+      "p": "Right. Less than 25 mph."
+    },
+    "es": {
+      "q": "En Carolina del Sur, un vehículo agrícola tiene un triángulo anaranjado y rojo en la parte de atrás. ¿Qué le indica sobre su velocidad?",
+      "o": [
+        "Va a menos de 15 mph",
+        "Va a menos de 45 mph",
+        "Va a menos de 25 mph",
+        "Está detenido"
+      ],
+      "h1": "Es la señal de vehículo lento. La velocidad es parecida al límite de muchas calles de barrio.",
+      "h2": "En Carolina del Sur, un triángulo anaranjado y rojo en la parte de atrás de un vehículo significa que va a menos de 25 mph, así que adelántelo solo cuando sea seguro.",
+      "p": "Correcto. A menos de 25 mph."
+    }
   }
 ]
