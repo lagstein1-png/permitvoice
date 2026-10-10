@@ -2540,5 +2540,685 @@
       "h2": "في Connecticut، يقول القانون إنه عندما تكون المسّاحات مشغّلة، يجب أن تكون المصابيح الأمامية مشغّلة أيضًا.",
       "p": "صحيح. المسّاحات تعمل يعني أن المصابيح الأمامية تعمل."
     }
+  },
+  {
+    "id": "ct-032",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Connecticut, how long must a learner aged 18 or older hold a permit before taking the road test?",
+      "o": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "180 days"
+      ],
+      "h1": "Adults wait less time than teens who train at home.",
+      "h2": "In Connecticut, a learner aged 18 or older must hold the permit for at least 90 days before the road test.",
+      "p": "Right. Adults must hold the permit for at least 90 days."
+    },
+    "es": {
+      "q": "En Connecticut, ¿cuánto tiempo debe tener el permiso un aprendiz de 18 años o más antes del examen de manejo?",
+      "o": [
+        "30 días",
+        "60 días",
+        "90 días",
+        "180 días"
+      ],
+      "h1": "Los adultos esperan menos que los adolescentes que practican en casa.",
+      "h2": "En Connecticut, un aprendiz de 18 años o más debe tener el permiso al menos 90 días antes del examen de manejo.",
+      "p": "Correcto. Los adultos deben tener el permiso al menos 90 días."
+    }
+  },
+  {
+    "id": "ct-033",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, what is the regular (non-commercial) driver's license for passenger cars called?",
+      "o": [
+        "Class D",
+        "Class A",
+        "Class B",
+        "Class C"
+      ],
+      "h1": "It is the class for everyday drivers, not trucks or buses.",
+      "h2": "In Connecticut, the regular non-commercial driver's license is called a Class D license.",
+      "p": "Right. The regular license is Class D."
+    },
+    "es": {
+      "q": "En Connecticut, ¿cómo se llama la licencia de conducir común (no comercial) para autos de pasajeros?",
+      "o": [
+        "Clase D",
+        "Clase A",
+        "Clase B",
+        "Clase C"
+      ],
+      "h1": "Es la clase para los conductores de todos los días, no para camiones ni autobuses.",
+      "h2": "En Connecticut, la licencia de conducir común no comercial se llama licencia Clase D.",
+      "p": "Correcto. La licencia común es Clase D."
+    }
+  },
+  {
+    "id": "ct-034",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 8,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, what is the most passengers a permit holder or a 16- or 17-year-old driver may ever carry?",
+      "o": [
+        "Two people",
+        "The number of doors on the car",
+        "Four people",
+        "The number of seat belts in the car"
+      ],
+      "h1": "Think about what every passenger needs in order to buckle up.",
+      "h2": "In Connecticut, permit holders and 16- and 17-year-old drivers may not carry more passengers than the car has seat belts.",
+      "p": "Right. Never more passengers than seat belts."
+    },
+    "es": {
+      "q": "En Connecticut, ¿cuál es el número máximo de pasajeros que puede llevar un conductor con permiso o un conductor de 16 o 17 años?",
+      "o": [
+        "Dos personas",
+        "El número de puertas del auto",
+        "Cuatro personas",
+        "El número de cinturones de seguridad del auto"
+      ],
+      "h1": "Piense en lo que necesita cada pasajero para abrocharse.",
+      "h2": "En Connecticut, los conductores con permiso y los de 16 y 17 años no pueden llevar más pasajeros que cinturones de seguridad tenga el auto.",
+      "p": "Correcto. Nunca más pasajeros que cinturones."
+    }
+  },
+  {
+    "id": "ct-035",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 8,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, a 17-year-old just got a motorcycle endorsement. How long must they wait before carrying a passenger on the motorcycle?",
+      "o": [
+        "30 days",
+        "Six months",
+        "One year",
+        "Until age 21"
+      ],
+      "h1": "It is the same length as the first stage of the teen passenger limits for cars.",
+      "h2": "In Connecticut, a 16- or 17-year-old may not carry a passenger on a motorcycle for six months after getting a motorcycle endorsement.",
+      "p": "Right. No motorcycle passengers for the first six months."
+    },
+    "es": {
+      "q": "En Connecticut, un joven de 17 años acaba de obtener el endoso de motocicleta. ¿Cuánto tiempo debe esperar antes de llevar a un pasajero en la motocicleta?",
+      "o": [
+        "30 días",
+        "Seis meses",
+        "Un año",
+        "Hasta los 21 años"
+      ],
+      "h1": "Es el mismo tiempo que la primera etapa de los límites de pasajeros para adolescentes en auto.",
+      "h2": "En Connecticut, un joven de 16 o 17 años no puede llevar pasajeros en motocicleta durante seis meses después de obtener el endoso de motocicleta.",
+      "p": "Correcto. Nada de pasajeros en motocicleta los primeros seis meses."
+    }
+  },
+  {
+    "id": "ct-036",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 34,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, a 17-year-old driver is convicted for the first time of breaking the curfew or passenger rules. What happens to the license?",
+      "o": [
+        "It is suspended for 30 days",
+        "Only a written warning is given",
+        "It is suspended for one year",
+        "It is taken away until age 21"
+      ],
+      "h1": "The first time, the suspension is counted in days.",
+      "h2": "In Connecticut, a first conviction for breaking a teen driving rule, such as the curfew or passenger limits, brings a 30-day license suspension.",
+      "p": "Right. A first teen-rule violation means a 30-day suspension."
+    },
+    "es": {
+      "q": "En Connecticut, un conductor de 17 años es declarado culpable por primera vez de no respetar el horario nocturno o las reglas de pasajeros. ¿Qué pasa con su licencia?",
+      "o": [
+        "Se suspende por 30 días",
+        "Solo recibe una advertencia por escrito",
+        "Se suspende por un año",
+        "Se le quita hasta los 21 años"
+      ],
+      "h1": "La primera vez, la suspensión se cuenta en días.",
+      "h2": "En Connecticut, la primera condena por no cumplir una regla para conductores adolescentes, como el horario nocturno o los límites de pasajeros, trae una suspensión de licencia de 30 días.",
+      "p": "Correcto. La primera falta a las reglas para adolescentes significa 30 días de suspensión."
+    }
+  },
+  {
+    "id": "ct-037",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 34,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Connecticut, a 16-year-old is convicted for the first time of driving 20 mph or more over the speed limit. How long is the license suspended?",
+      "o": [
+        "7 days",
+        "30 days",
+        "60 days",
+        "Two years"
+      ],
+      "h1": "It is longer than the suspension for a first curfew violation.",
+      "h2": "In Connecticut, a 16- or 17-year-old convicted for the first time of speeding 20 mph or more over the limit loses the license for 60 days.",
+      "p": "Right. A first offense means a 60-day suspension."
+    },
+    "es": {
+      "q": "En Connecticut, un joven de 16 años es declarado culpable por primera vez de manejar 20 mph o más por encima del límite de velocidad. ¿Por cuánto tiempo se suspende su licencia?",
+      "o": [
+        "7 días",
+        "30 días",
+        "60 días",
+        "Dos años"
+      ],
+      "h1": "Es más tiempo que la suspensión por una primera falta al horario nocturno.",
+      "h2": "En Connecticut, un joven de 16 o 17 años declarado culpable por primera vez de exceder el límite por 20 mph o más pierde la licencia por 60 días.",
+      "p": "Correcto. Una primera falta significa 60 días de suspensión."
+    }
+  },
+  {
+    "id": "ct-038",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 34,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, how long is the license of a 16- or 17-year-old suspended after a first conviction for reckless driving?",
+      "o": [
+        "10 days",
+        "30 days",
+        "60 days",
+        "Six months"
+      ],
+      "h1": "Reckless driving is punished much more harshly than a curfew violation.",
+      "h2": "In Connecticut, a 16- or 17-year-old convicted of reckless driving for the first time has the license suspended for six months.",
+      "p": "Right. A first reckless driving conviction means a six-month suspension."
+    },
+    "es": {
+      "q": "En Connecticut, ¿por cuánto tiempo se suspende la licencia de un joven de 16 o 17 años después de una primera condena por manejo imprudente?",
+      "o": [
+        "10 días",
+        "30 días",
+        "60 días",
+        "Seis meses"
+      ],
+      "h1": "El manejo imprudente se castiga mucho más que una falta al horario nocturno.",
+      "h2": "En Connecticut, a un joven de 16 o 17 años declarado culpable de manejo imprudente por primera vez se le suspende la licencia por seis meses.",
+      "p": "Correcto. Una primera condena por manejo imprudente significa seis meses de suspensión."
+    }
+  },
+  {
+    "id": "ct-039",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, the DMV warns you that the insurance on your registered car has lapsed. What happens if you do not respond?",
+      "o": [
+        "Nothing, as long as you do not drive the car",
+        "The car's registration is suspended",
+        "You get one extra point on your license",
+        "Your insurance company pays a fine for you"
+      ],
+      "h1": "Think about what makes it legal to drive the car on a public road.",
+      "h2": "In Connecticut, if you do not respond to the DMV's warning about lapsed insurance, the car's registration is suspended.",
+      "p": "Right. Ignoring the warning leads to a suspended registration."
+    },
+    "es": {
+      "q": "En Connecticut, el DMV le avisa que el seguro de su auto registrado se canceló. ¿Qué pasa si usted no responde?",
+      "o": [
+        "Nada, si no maneja el auto",
+        "Se suspende el registro del auto",
+        "Recibe un punto más en su licencia",
+        "Su compañía de seguros paga una multa por usted"
+      ],
+      "h1": "Piense en lo que permite manejar el auto legalmente en una vía pública.",
+      "h2": "En Connecticut, si usted no responde al aviso del DMV sobre el seguro cancelado, se suspende el registro del auto.",
+      "p": "Correcto. Si ignora el aviso, se suspende el registro."
+    }
+  },
+  {
+    "id": "ct-040",
+    "scope": "CT",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 35,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, a 22-year-old driver is convicted of two moving violations. What must the driver do?",
+      "o": [
+        "Complete the DMV operator retraining program",
+        "Take the knowledge test again",
+        "Get a new learner's permit",
+        "Nothing until a third violation"
+      ],
+      "h1": "Drivers 24 and younger get fewer chances than older drivers.",
+      "h2": "In Connecticut, a driver aged 24 or younger with two or more moving violations must complete the DMV operator retraining program.",
+      "p": "Right. Two violations at 24 or younger means operator retraining."
+    },
+    "es": {
+      "q": "En Connecticut, un conductor de 22 años es declarado culpable de dos infracciones de tránsito en movimiento. ¿Qué debe hacer?",
+      "o": [
+        "Completar el programa de reentrenamiento de conductores del DMV",
+        "Tomar el examen escrito otra vez",
+        "Sacar un nuevo permiso de aprendizaje",
+        "Nada hasta una tercera infracción"
+      ],
+      "h1": "Los conductores de 24 años o menos tienen menos oportunidades que los mayores.",
+      "h2": "En Connecticut, un conductor de 24 años o menos con dos o más infracciones en movimiento debe completar el programa de reentrenamiento de conductores del DMV.",
+      "p": "Correcto. Dos infracciones a los 24 años o menos significan reentrenamiento."
+    }
+  },
+  {
+    "id": "ct-041",
+    "scope": "CT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 33,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Connecticut, an adult driver fails a blood alcohol test after a DUI arrest. To get the license back, for at least how long must an ignition interlock device be used?",
+      "o": [
+        "One week",
+        "One month",
+        "Six months",
+        "Ten years"
+      ],
+      "h1": "The device stays in the car for months, not days.",
+      "h2": "In Connecticut, a driver who fails the alcohol test must use an ignition interlock device for at least six months to get the license back.",
+      "p": "Right. At least six months with an ignition interlock device."
+    },
+    "es": {
+      "q": "En Connecticut, un conductor adulto no pasa una prueba de alcohol en la sangre después de un arresto por manejar ebrio. Para recuperar la licencia, ¿por cuánto tiempo como mínimo debe usar un dispositivo de bloqueo de encendido?",
+      "o": [
+        "Una semana",
+        "Un mes",
+        "Seis meses",
+        "Diez años"
+      ],
+      "h1": "El dispositivo se queda en el auto por meses, no por días.",
+      "h2": "En Connecticut, un conductor que no pasa la prueba de alcohol debe usar un dispositivo de bloqueo de encendido por al menos seis meses para recuperar la licencia.",
+      "p": "Correcto. Al menos seis meses con el dispositivo de bloqueo de encendido."
+    }
+  },
+  {
+    "id": "ct-042",
+    "scope": "CT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 33,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, where does the 0.02 percent alcohol limit for drivers under 21 apply?",
+      "o": [
+        "Only on highways",
+        "On public roads and on private property",
+        "Only on public roads at night",
+        "Only in school zones"
+      ],
+      "h1": "The rule follows the young driver wherever they drive.",
+      "h2": "In Connecticut, the 0.02 percent limit for drivers under 21 applies on public roads and on private property.",
+      "p": "Right. It applies on public roads and private property alike."
+    },
+    "es": {
+      "q": "En Connecticut, ¿dónde se aplica el límite de alcohol de 0.02 por ciento para conductores menores de 21 años?",
+      "o": [
+        "Solo en las autopistas",
+        "En las vías públicas y en propiedad privada",
+        "Solo en las vías públicas de noche",
+        "Solo en zonas escolares"
+      ],
+      "h1": "La regla acompaña al conductor joven dondequiera que maneje.",
+      "h2": "En Connecticut, el límite de 0.02 por ciento para menores de 21 años se aplica en las vías públicas y en propiedad privada.",
+      "p": "Correcto. Se aplica igual en vías públicas y en propiedad privada."
+    }
+  },
+  {
+    "id": "ct-043",
+    "scope": "CT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 15,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, what happens to the fine for using a hand-held phone while driving through a work zone?",
+      "o": [
+        "It is cut in half",
+        "It stays the same",
+        "It is replaced by a warning",
+        "It is doubled"
+      ],
+      "h1": "Work zones bring tougher penalties, not lighter ones.",
+      "h2": "In Connecticut, the fine for illegally using a hand-held phone or device is doubled in a work zone.",
+      "p": "Right. Hand-held phone fines are doubled in work zones."
+    },
+    "es": {
+      "q": "En Connecticut, ¿qué pasa con la multa por usar un teléfono en la mano mientras maneja por una zona de construcción?",
+      "o": [
+        "Se reduce a la mitad",
+        "Sigue igual",
+        "Se cambia por una advertencia",
+        "Se duplica"
+      ],
+      "h1": "Las zonas de construcción traen castigos más fuertes, no más leves.",
+      "h2": "En Connecticut, la multa por usar ilegalmente un teléfono o aparato en la mano se duplica en una zona de construcción.",
+      "p": "Correcto. Las multas por usar el teléfono en la mano se duplican en zonas de construcción."
+    }
+  },
+  {
+    "id": "ct-044",
+    "scope": "CT",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 17,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, what is special about the fine for failing to yield the right-of-way to a bicyclist?",
+      "o": [
+        "It is doubled",
+        "It applies only at night",
+        "It is paid by the bicyclist",
+        "It is lower than for a car"
+      ],
+      "h1": "The law gives bicyclists extra protection.",
+      "h2": "In Connecticut, fines are doubled for drivers who fail to yield the right-of-way to a bicyclist.",
+      "p": "Right. Failing to yield to a bicyclist means a doubled fine."
+    },
+    "es": {
+      "q": "En Connecticut, ¿qué tiene de especial la multa por no ceder el paso a un ciclista?",
+      "o": [
+        "Se duplica",
+        "Solo se aplica de noche",
+        "La paga el ciclista",
+        "Es más baja que la de un auto"
+      ],
+      "h1": "La ley da protección adicional a los ciclistas.",
+      "h2": "En Connecticut, las multas se duplican para los conductores que no ceden el paso a un ciclista.",
+      "p": "Correcto. No ceder el paso a un ciclista significa una multa doble."
+    }
+  },
+  {
+    "id": "ct-045",
+    "scope": "CT",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 17,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Connecticut, who must wear a helmet when riding a bicycle?",
+      "o": [
+        "Only riders on highways",
+        "Every rider of any age",
+        "Riders under 16 years old",
+        "Riders under 10 years old"
+      ],
+      "h1": "The rule covers children and young teens.",
+      "h2": "In Connecticut, bicycle riders under 16 years old must wear a helmet.",
+      "p": "Right. Riders under 16 must wear a helmet."
+    },
+    "es": {
+      "q": "En Connecticut, ¿quién debe usar casco al andar en bicicleta?",
+      "o": [
+        "Solo quienes van por autopistas",
+        "Todos los ciclistas de cualquier edad",
+        "Los ciclistas menores de 16 años",
+        "Los ciclistas menores de 10 años"
+      ],
+      "h1": "La regla cubre a los niños y a los adolescentes más jóvenes.",
+      "h2": "En Connecticut, los ciclistas menores de 16 años deben usar casco.",
+      "p": "Correcto. Los menores de 16 años deben usar casco."
+    }
+  },
+  {
+    "id": "ct-046",
+    "scope": "CT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 23,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, you are on a road with two lanes going your way. Where does the law say you must drive?",
+      "o": [
+        "In the left lane",
+        "In the right lane, except when passing",
+        "In either lane, as you like",
+        "On the shoulder when traffic is slow"
+      ],
+      "h1": "The left lane is meant for passing.",
+      "h2": "In Connecticut, when there are fewer than three lanes in your direction, you must drive in the right lane except when passing.",
+      "p": "Right. Keep right unless you are passing."
+    },
+    "es": {
+      "q": "En Connecticut, usted va por una vía con dos carriles en su dirección. ¿Por dónde dice la ley que debe manejar?",
+      "o": [
+        "Por el carril izquierdo",
+        "Por el carril derecho, salvo para rebasar",
+        "Por cualquier carril, como prefiera",
+        "Por el acotamiento cuando el tránsito va lento"
+      ],
+      "h1": "El carril izquierdo es para rebasar.",
+      "h2": "En Connecticut, cuando hay menos de tres carriles en su dirección, debe manejar por el carril derecho, salvo para rebasar.",
+      "p": "Correcto. Manténgase a la derecha, salvo para rebasar."
+    }
+  },
+  {
+    "id": "ct-047",
+    "scope": "CT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 25,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, during which dates are studded snow tires allowed?",
+      "o": [
+        "All year",
+        "October 1 to March 31",
+        "December 1 to February 28",
+        "November 15 to April 30"
+      ],
+      "h1": "The season covers late fall, all of winter, and much of spring.",
+      "h2": "In Connecticut, studded tires are allowed from November 15 through April 30.",
+      "p": "Right. Studded tires are allowed from November 15 to April 30."
+    },
+    "es": {
+      "q": "En Connecticut, ¿en qué fechas se permiten las llantas con clavos para nieve?",
+      "o": [
+        "Todo el año",
+        "Del 1 de octubre al 31 de marzo",
+        "Del 1 de diciembre al 28 de febrero",
+        "Del 15 de noviembre al 30 de abril"
+      ],
+      "h1": "La temporada cubre el final del otoño, todo el invierno y buena parte de la primavera.",
+      "h2": "En Connecticut, las llantas con clavos se permiten del 15 de noviembre al 30 de abril.",
+      "p": "Correcto. Se permiten del 15 de noviembre al 30 de abril."
+    }
+  },
+  {
+    "id": "ct-048",
+    "scope": "CT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 37,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Connecticut, how close to a stop sign may you not park?",
+      "o": [
+        "Within 25 feet",
+        "Within 5 feet",
+        "Within 50 feet",
+        "Within 100 feet"
+      ],
+      "h1": "Other drivers must be able to see the sign clearly from a distance.",
+      "h2": "In Connecticut, you may not park within 25 feet of a stop sign.",
+      "p": "Right. Stay at least 25 feet from a stop sign."
+    },
+    "es": {
+      "q": "En Connecticut, ¿a qué distancia de una señal de alto no se puede estacionar?",
+      "o": [
+        "A menos de 25 pies",
+        "A menos de 5 pies",
+        "A menos de 50 pies",
+        "A menos de 100 pies"
+      ],
+      "h1": "Los demás conductores deben poder ver bien la señal desde lejos.",
+      "h2": "En Connecticut, no se puede estacionar a menos de 25 pies de una señal de alto.",
+      "p": "Correcto. Quédese al menos a 25 pies de una señal de alto."
+    }
+  },
+  {
+    "id": "ct-049",
+    "scope": "CT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 37,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Connecticut, when you park next to a curb, what is the farthest your car may be from it?",
+      "o": [
+        "Three feet",
+        "Two feet",
+        "One foot",
+        "Six feet"
+      ],
+      "h1": "Park as close to the curb as you can.",
+      "h2": "In Connecticut, you may not park more than one foot from the curb.",
+      "p": "Right. Park no more than one foot from the curb."
+    },
+    "es": {
+      "q": "En Connecticut, cuando se estaciona junto a la acera, ¿a qué distancia máxima de ella puede quedar su auto?",
+      "o": [
+        "Tres pies",
+        "Dos pies",
+        "Un pie",
+        "Seis pies"
+      ],
+      "h1": "Estaciónese tan cerca de la acera como pueda.",
+      "h2": "En Connecticut, no se puede estacionar a más de un pie de la acera.",
+      "p": "Correcto. Estaciónese a no más de un pie de la acera."
+    }
+  },
+  {
+    "id": "ct-050",
+    "scope": "CT",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 16,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Connecticut, a person stands at the curb at a crosswalk and raises a hand toward traffic. What must you do?",
+      "o": [
+        "Honk so the person waits",
+        "Slow or stop and let the person cross",
+        "Keep going, since the person is not in the road yet",
+        "Stop only if there is a traffic light"
+      ],
+      "h1": "Showing the intent to cross counts, even before stepping into the road.",
+      "h2": "In Connecticut, you must slow or stop and yield when a person at the curb raises a hand to show they want to cross at a crosswalk.",
+      "p": "Right. A raised hand at the curb means you must yield."
+    },
+    "es": {
+      "q": "En Connecticut, una persona está en la acera junto a un cruce peatonal y levanta la mano hacia el tránsito. ¿Qué debe hacer usted?",
+      "o": [
+        "Tocar la bocina para que espere",
+        "Reducir la velocidad o parar y dejarla cruzar",
+        "Seguir, porque todavía no está en la calle",
+        "Parar solo si hay semáforo"
+      ],
+      "h1": "Mostrar la intención de cruzar cuenta, aun antes de bajar a la calle.",
+      "h2": "En Connecticut, usted debe reducir la velocidad o parar y ceder el paso cuando una persona en la acera levanta la mano para mostrar que quiere cruzar por un cruce peatonal.",
+      "p": "Correcto. Una mano levantada en la acera significa que debe ceder el paso."
+    }
+  },
+  {
+    "id": "ct-051",
+    "scope": "CT",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 18,
+    "src": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Connecticut, you come up behind a bicycle in a no-passing zone with a double yellow line. What does state law allow?",
+      "o": [
+        "You must stay behind it until the zone ends",
+        "You may pass only after you honk",
+        "You may pass it on the right shoulder",
+        "You may cross the line to pass it when it is safe"
+      ],
+      "h1": "The law makes an exception for slow road users like bicycles.",
+      "h2": "In Connecticut, you may cross a double yellow line in a no-passing zone to pass a bicycle or other slow traffic, but only when you can see far enough ahead to pass safely.",
+      "p": "Right. You may pass it when it is safe to do so."
+    },
+    "es": {
+      "q": "En Connecticut, usted va detrás de una bicicleta en una zona de no rebasar con doble línea amarilla. ¿Qué permite la ley del estado?",
+      "o": [
+        "Debe quedarse detrás hasta que termine la zona",
+        "Puede rebasar solo después de tocar la bocina",
+        "Puede rebasarla por el acotamiento derecho",
+        "Puede cruzar la línea para rebasarla cuando sea seguro"
+      ],
+      "h1": "La ley hace una excepción para usuarios lentos de la vía, como las bicicletas.",
+      "h2": "En Connecticut, usted puede cruzar la doble línea amarilla en una zona de no rebasar para pasar a una bicicleta u otro tránsito lento, pero solo cuando pueda ver lo bastante adelante para hacerlo con seguridad.",
+      "p": "Correcto. Puede rebasarla cuando sea seguro hacerlo."
+    }
   }
 ]
