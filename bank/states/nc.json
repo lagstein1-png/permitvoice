@@ -2212,5 +2212,141 @@
       "h2": "في North Carolina، يجب أن تبلّغ الشرطة عن الحادث فورًا إذا أُصيب أحد أو مات، أو إذا بدا أن الضرر $1,000 أو أكثر.",
       "p": "صحيح. يجب التبليغ عن ضرر بحوالي $1,000 أو أكثر."
     }
+  },
+  {
+    "id": "nc-028",
+    "scope": "NC",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 71,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In North Carolina, besides from sunset to sunrise, when does the law require headlights?",
+      "o": [
+        "When you can see only 400 feet or less",
+        "Only when it is snowing",
+        "Whenever you drive over 55 mph",
+        "Only on interstate highways"
+      ],
+      "h1": "Think about how far ahead you can see.",
+      "h2": "In North Carolina, the law requires headlights from sunset to sunrise and whenever you can see only 400 feet or less.",
+      "p": "Right. Use headlights when you can see 400 feet or less."
+    },
+    "es": {
+      "q": "En Carolina del Norte, además de la puesta a la salida del sol, ¿cuándo exige la ley usar los faros?",
+      "o": [
+        "Cuando solo puede ver 400 pies o menos",
+        "Solo cuando está nevando",
+        "Siempre que maneje a más de 55 mph",
+        "Solo en las autopistas interestatales"
+      ],
+      "h1": "Piense en qué tan lejos puede ver hacia adelante.",
+      "h2": "En Carolina del Norte, la ley exige los faros desde la puesta hasta la salida del sol y siempre que solo pueda ver 400 pies o menos.",
+      "p": "Correcto. Use los faros cuando vea 400 pies o menos."
+    }
+  },
+  {
+    "id": "nc-029",
+    "scope": "NC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 55,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In North Carolina, when you pass another vehicle, how far to its left must you stay?",
+      "o": [
+        "At least 1 foot",
+        "At least 2 feet",
+        "At least 5 feet",
+        "At least 10 feet"
+      ],
+      "h1": "It is a short distance, but more than one foot.",
+      "h2": "In North Carolina, the law requires you to pass at least 2 feet to the left of the vehicle you are passing.",
+      "p": "Right. Leave at least 2 feet when you pass."
+    },
+    "es": {
+      "q": "En Carolina del Norte, cuando rebasa a otro vehículo, ¿a qué distancia a su izquierda debe pasar?",
+      "o": [
+        "Al menos 1 pie",
+        "Al menos 2 pies",
+        "Al menos 5 pies",
+        "Al menos 10 pies"
+      ],
+      "h1": "Es una distancia corta, pero de más de un pie.",
+      "h2": "En Carolina del Norte, la ley exige pasar al menos a 2 pies a la izquierda del vehículo que rebasa.",
+      "p": "Correcto. Deje al menos 2 pies al rebasar."
+    }
+  },
+  {
+    "id": "nc-030",
+    "scope": "NC",
+    "cat": "signals",
+    "conf": "high",
+    "page": 69,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In North Carolina, the speed limit is 45 mph or more. How far before a turn must you start to signal?",
+      "o": [
+        "At least 50 feet",
+        "At least 100 feet",
+        "At least 150 feet",
+        "At least 200 feet"
+      ],
+      "h1": "On slower roads it is 100 feet. On faster roads it is more.",
+      "h2": "In North Carolina, when the speed limit is 45 mph or more, you must signal at least the last 200 feet before you turn.",
+      "p": "Right. On faster roads, signal at least 200 feet ahead."
+    },
+    "es": {
+      "q": "En Carolina del Norte, el límite de velocidad es de 45 mph o más. ¿Con cuánta anticipación debe señalar antes de girar?",
+      "o": [
+        "Al menos 50 pies",
+        "Al menos 100 pies",
+        "Al menos 150 pies",
+        "Al menos 200 pies"
+      ],
+      "h1": "En calles más lentas son 100 pies. En vías más rápidas es más.",
+      "h2": "En Carolina del Norte, cuando el límite es de 45 mph o más, debe señalar al menos en los últimos 200 pies antes de girar.",
+      "p": "Correcto. En vías rápidas, señale al menos 200 pies antes."
+    }
+  },
+  {
+    "id": "nc-031",
+    "scope": "NC",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 56,
+    "src": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In North Carolina, how close to a fire hydrant may you park?",
+      "o": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 15 feet",
+        "No closer than 30 feet"
+      ],
+      "h1": "The same distance applies to the entrance of a fire station.",
+      "h2": "In North Carolina, you may not park within 15 feet of a fire hydrant or the entrance to a fire station.",
+      "p": "Right. Stay at least 15 feet from a hydrant."
+    },
+    "es": {
+      "q": "En Carolina del Norte, ¿qué tan cerca de un hidrante puede estacionarse?",
+      "o": [
+        "No a menos de 5 pies",
+        "No a menos de 10 pies",
+        "No a menos de 15 pies",
+        "No a menos de 30 pies"
+      ],
+      "h1": "La misma distancia se aplica a la entrada de una estación de bomberos.",
+      "h2": "En Carolina del Norte, no puede estacionarse a menos de 15 pies de un hidrante o de la entrada de una estación de bomberos.",
+      "p": "Correcto. Quédese al menos a 15 pies de un hidrante."
+    }
   }
 ]
