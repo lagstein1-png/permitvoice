@@ -2212,5 +2212,141 @@
       "h2": "في Georgia، إذا أُدين سائق عمره أقل من 21 سنة بالقيادة المتهورة، يتم إيقاف كل حقوقه في القيادة.",
       "p": "صحيح. لمن عمره أقل من 21 سنة، الإدانة بالقيادة المتهورة تؤدي إلى إيقاف الرخصة."
     }
+  },
+  {
+    "id": "ga-028",
+    "scope": "GA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dds.georgia.gov/document/document/ga-drivers-manual-2023-2024/download",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Georgia, when you pass a bicycle in the same lane, how much space must you keep between your car and the bicycle?",
+      "o": [
+        "At least 1 foot",
+        "At least 3 feet",
+        "At least 6 feet",
+        "At least 10 feet"
+      ],
+      "h1": "Think of about one long step to the side, the whole time you pass.",
+      "h2": "In Georgia, you must keep at least three feet between your car and a bicycle the whole time you pass it.",
+      "p": "Right. Keep at least three feet from a bicycle while passing."
+    },
+    "es": {
+      "q": "En Georgia, al rebasar una bicicleta en el mismo carril, ¿cuánto espacio debe mantener entre su auto y la bicicleta?",
+      "o": [
+        "Al menos 1 pie",
+        "Al menos 3 pies",
+        "Al menos 6 pies",
+        "Al menos 10 pies"
+      ],
+      "h1": "Piense en un paso largo hacia un lado, durante todo el rebase.",
+      "h2": "En Georgia, debe mantener al menos tres pies entre su auto y la bicicleta durante todo el rebase.",
+      "p": "Correcto. Mantenga al menos tres pies de la bicicleta al rebasarla."
+    }
+  },
+  {
+    "id": "ga-029",
+    "scope": "GA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 20,
+    "src": "https://dds.georgia.gov/document/document/ga-drivers-manual-2023-2024/download",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Georgia, how close to a fire hydrant may you not park?",
+      "o": [
+        "Within 5 feet",
+        "Within 10 feet",
+        "Within 15 feet",
+        "Within 30 feet"
+      ],
+      "h1": "Fire crews need room to reach the hydrant and connect a hose.",
+      "h2": "In Georgia, you may not park within 15 feet of a fire hydrant.",
+      "p": "Right. Stay at least 15 feet from a fire hydrant when you park."
+    },
+    "es": {
+      "q": "En Georgia, ¿a qué distancia de un hidrante no puede estacionarse?",
+      "o": [
+        "A menos de 5 pies",
+        "A menos de 10 pies",
+        "A menos de 15 pies",
+        "A menos de 30 pies"
+      ],
+      "h1": "Los bomberos necesitan espacio para llegar al hidrante y conectar la manguera.",
+      "h2": "En Georgia, no puede estacionarse a menos de 15 pies de un hidrante.",
+      "p": "Correcto. Quédese al menos a 15 pies de un hidrante al estacionarse."
+    }
+  },
+  {
+    "id": "ga-030",
+    "scope": "GA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 20,
+    "src": "https://dds.georgia.gov/document/document/ga-drivers-manual-2023-2024/download",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Georgia, you are driving in the left passing lane and faster traffic comes up behind you. What does the \"Slow Poke\" law say?",
+      "o": [
+        "Move to the right so the faster traffic can go by",
+        "Stay in the lane if you are at the speed limit",
+        "Speed up to match the faster traffic",
+        "Flash your brake lights to warn the driver"
+      ],
+      "h1": "The left lane is meant for passing, no matter how fast you are going.",
+      "h2": "In Georgia, you must move out of the passing lane to let faster traffic go by, even if you are driving at the speed limit.",
+      "p": "Right. Move over to the right for faster traffic in the passing lane."
+    },
+    "es": {
+      "q": "En Georgia, usted maneja en el carril izquierdo de rebase y viene tráfico más rápido detrás. ¿Qué dice la ley \"Slow Poke\"?",
+      "o": [
+        "Muévase a la derecha para que pase el tráfico más rápido",
+        "Quédese en el carril si va al límite de velocidad",
+        "Acelere para ir al ritmo del tráfico más rápido",
+        "Toque los frenos para avisar al conductor"
+      ],
+      "h1": "El carril izquierdo es para rebasar, sin importar a qué velocidad vaya.",
+      "h2": "En Georgia, debe salir del carril de rebase para dejar pasar al tráfico más rápido, aunque vaya al límite de velocidad.",
+      "p": "Correcto. Muévase a la derecha para el tráfico más rápido en el carril de rebase."
+    }
+  },
+  {
+    "id": "ga-031",
+    "scope": "GA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://dds.georgia.gov/document/document/ga-drivers-manual-2023-2024/download",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Georgia, you fail the knowledge test for the second time. How long must you wait before you try that test again?",
+      "o": [
+        "Until the next day",
+        "30 days",
+        "3 days",
+        "7 days"
+      ],
+      "h1": "After a first failure the wait is short. After the second, it is longer.",
+      "h2": "In Georgia, after a second or later failure, you must wait 7 days before taking that test again.",
+      "p": "Right. After a second failure, wait 7 days to retake the test."
+    },
+    "es": {
+      "q": "En Georgia, usted reprueba el examen de conocimientos por segunda vez. ¿Cuánto debe esperar para volver a tomarlo?",
+      "o": [
+        "Hasta el día siguiente",
+        "30 días",
+        "3 días",
+        "7 días"
+      ],
+      "h1": "Después del primer fracaso la espera es corta. Después del segundo, es más larga.",
+      "h2": "En Georgia, después de reprobar por segunda vez o más, debe esperar 7 días para volver a tomar ese examen.",
+      "p": "Correcto. Después de reprobar por segunda vez, espere 7 días para repetirlo."
+    }
   }
 ]
