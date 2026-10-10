@@ -2212,5 +2212,141 @@
       "h2": "في Washington، إذا لم يكتب شرطي التقرير، يجب أن تقدم تقرير حادث خلال 4 أيام من الحادث.",
       "p": "صحيح. لديك 4 أيام لتقديم تقرير الحادث."
     }
+  },
+  {
+    "id": "wa-028",
+    "scope": "WA",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "§1.15",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Washington, how early can you renew your driver license before it expires?",
+      "o": [
+        "Up to 30 days early",
+        "Up to 90 days early",
+        "Up to one year early",
+        "Only after it expires"
+      ],
+      "h1": "You can renew quite a while before the date on your card.",
+      "h2": "In Washington, you can renew your driver license up to one year before it expires.",
+      "p": "Right. You can renew up to one year early."
+    },
+    "es": {
+      "q": "En Washington, ¿con cuánta anticipación puede renovar su licencia de conducir antes de que venza?",
+      "o": [
+        "Hasta 30 días antes",
+        "Hasta 90 días antes",
+        "Hasta un año antes",
+        "Solo después de que venza"
+      ],
+      "h1": "Puede renovarla bastante tiempo antes de la fecha de su tarjeta.",
+      "h2": "En Washington, usted puede renovar su licencia de conducir hasta un año antes de que venza.",
+      "p": "Correcto. Puede renovarla hasta un año antes."
+    }
+  },
+  {
+    "id": "wa-029",
+    "scope": "WA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "§2.5",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Washington, you are using high beams. How close can an oncoming vehicle get before you must switch to low beams?",
+      "o": [
+        "500 feet",
+        "100 feet",
+        "1,000 feet",
+        "50 feet"
+      ],
+      "h1": "It is more than one and a half football fields.",
+      "h2": "In Washington, you must switch to low beams when you are within 500 feet of an oncoming vehicle.",
+      "p": "Right. Dim your lights within 500 feet of an oncoming vehicle."
+    },
+    "es": {
+      "q": "En Washington, usted tiene las luces altas encendidas. ¿A qué distancia puede acercarse un vehículo que viene de frente antes de que usted cambie a luces bajas?",
+      "o": [
+        "500 pies",
+        "100 pies",
+        "1,000 pies",
+        "50 pies"
+      ],
+      "h1": "Es más que una cancha y media de fútbol americano.",
+      "h2": "En Washington, usted debe cambiar a luces bajas cuando está a 500 pies o menos de un vehículo que viene de frente.",
+      "p": "Correcto. Baje las luces a 500 pies de un vehículo que viene de frente."
+    }
+  },
+  {
+    "id": "wa-030",
+    "scope": "WA",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "§4.6",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Washington, when you pass a bicyclist, how much space must you leave between the bicyclist and your vehicle?",
+      "o": [
+        "At least 1 foot",
+        "At least 2 feet",
+        "At least 5 feet",
+        "At least 3 feet"
+      ],
+      "h1": "Measure from the widest part of your vehicle, such as the mirror.",
+      "h2": "In Washington, you must leave at least 3 feet between the bicyclist and the widest part of your vehicle when you pass.",
+      "p": "Right. Leave at least 3 feet when you pass a bicyclist."
+    },
+    "es": {
+      "q": "En Washington, cuando usted rebasa a un ciclista, ¿cuánto espacio debe dejar entre el ciclista y su vehículo?",
+      "o": [
+        "Por lo menos 1 pie",
+        "Por lo menos 2 pies",
+        "Por lo menos 5 pies",
+        "Por lo menos 3 pies"
+      ],
+      "h1": "Mida desde la parte más ancha de su vehículo, como el espejo.",
+      "h2": "En Washington, usted debe dejar por lo menos 3 pies entre el ciclista y la parte más ancha de su vehículo cuando lo rebasa.",
+      "p": "Correcto. Deje por lo menos 3 pies al rebasar a un ciclista."
+    }
+  },
+  {
+    "id": "wa-031",
+    "scope": "WA",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "§4.18",
+    "src": "https://dol.wa.gov/media/pdf/4740/washington-state-driver-guide-plain-textpdf/download?inline=",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Washington, you may not park within how many feet of a railroad crossing?",
+      "o": [
+        "15 feet",
+        "50 feet",
+        "100 feet",
+        "5 feet"
+      ],
+      "h1": "It is more than the distance for a fire hydrant.",
+      "h2": "In Washington, you may not park within 50 feet of a railroad crossing.",
+      "p": "Right. Keep at least 50 feet from a railroad crossing when you park."
+    },
+    "es": {
+      "q": "En Washington, ¿a cuántos pies de un cruce de ferrocarril no puede estacionarse?",
+      "o": [
+        "15 pies",
+        "50 pies",
+        "100 pies",
+        "5 pies"
+      ],
+      "h1": "Es más que la distancia de un hidrante.",
+      "h2": "En Washington, usted no puede estacionarse a menos de 50 pies de un cruce de ferrocarril.",
+      "p": "Correcto. Al estacionarse, quédese por lo menos a 50 pies de un cruce de ferrocarril."
+    }
   }
 ]
