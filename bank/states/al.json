@@ -2376,5 +2376,73 @@
       "h2": "في Alabama يجب أن تكون مصابيحك الأمامية مضاءة عندما تستخدم مسّاحات الزجاج الأمامي بسبب المطر أو المطر المتجمّد أو الثلج، ليتمكّن السائقون الآخرون من رؤيتك.",
       "p": "صحيح. تشغيل المسّاحات بسبب المطر يعني تشغيل المصابيح الأمامية."
     }
+  },
+  {
+    "id": "al-030",
+    "scope": "AL",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 29,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alabama, how close to the nearest rail of a railroad crossing may you park?",
+      "o": [
+        "10 feet",
+        "25 feet",
+        "50 feet",
+        "100 feet"
+      ],
+      "h1": "It is farther than the distance for a fire hydrant.",
+      "h2": "In Alabama you may not park within 50 feet of the nearest rail of a railroad crossing.",
+      "p": "Right. Stay at least 50 feet from the tracks when you park."
+    },
+    "es": {
+      "q": "En Alabama, ¿a qué distancia del riel más cercano de un cruce de ferrocarril puede estacionarse?",
+      "o": [
+        "10 pies",
+        "25 pies",
+        "50 pies",
+        "100 pies"
+      ],
+      "h1": "Es más lejos que la distancia para un hidrante.",
+      "h2": "En Alabama usted no puede estacionarse a menos de 50 pies del riel más cercano de un cruce de ferrocarril.",
+      "p": "Correcto. Quédese por lo menos a 50 pies de las vías al estacionarse."
+    }
+  },
+  {
+    "id": "al-031",
+    "scope": "AL",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 69,
+    "src": "https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alabama, you are driving at night behind another car. Within what distance must you dim your high beams?",
+      "o": [
+        "200 feet",
+        "50 feet",
+        "1,000 feet",
+        "1 mile"
+      ],
+      "h1": "The distance is shorter than for a car coming toward you.",
+      "h2": "In Alabama you must dim your headlights when you are within 200 feet of a vehicle you are following.",
+      "p": "Right. Use low beams within 200 feet of the car ahead."
+    },
+    "es": {
+      "q": "En Alabama, usted maneja de noche detrás de otro carro. ¿A qué distancia debe bajar las luces altas?",
+      "o": [
+        "200 pies",
+        "50 pies",
+        "1,000 pies",
+        "1 milla"
+      ],
+      "h1": "La distancia es menor que para un carro que viene de frente.",
+      "h2": "En Alabama usted debe bajar las luces cuando está a 200 pies o menos de un vehículo que va delante.",
+      "p": "Correcto. Use las luces bajas a 200 pies del carro de adelante."
+    }
   }
 ]

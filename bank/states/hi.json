@@ -2294,5 +2294,141 @@
       "h2": "في Hawaii يجب على كل من في المقاعد الأمامية والخلفية أن يربط حزام الأمان أو يجلس في مقعد أمان للأطفال.",
       "p": "صحيح. في Hawaii يجب أن يربط كل شخص في السيارة حزام الأمان."
     }
+  },
+  {
+    "id": "hi-029",
+    "scope": "HI",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 15,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Hawaii, how early may you renew your driver's license before it expires?",
+      "o": [
+        "Up to 30 days before",
+        "Up to 60 days before",
+        "Up to six months before",
+        "Up to two years before"
+      ],
+      "h1": "It is more than two months.",
+      "h2": "In Hawaii you may renew your driver's license up to six months before the expiration date.",
+      "p": "Right. You can renew up to six months before your license expires."
+    },
+    "es": {
+      "q": "En Hawái, ¿con cuánta anticipación puede renovar su licencia de manejar antes de que venza?",
+      "o": [
+        "Hasta 30 días antes",
+        "Hasta 60 días antes",
+        "Hasta seis meses antes",
+        "Hasta dos años antes"
+      ],
+      "h1": "Es más de dos meses.",
+      "h2": "En Hawái usted puede renovar su licencia de manejar hasta seis meses antes de la fecha de vencimiento.",
+      "p": "Correcto. Puede renovarla hasta seis meses antes de que venza."
+    }
+  },
+  {
+    "id": "hi-030",
+    "scope": "HI",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 27,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Hawaii, a railroad crossing signal is flashing because a train is coming. How far from the nearest rail must you stop?",
+      "o": [
+        "At least 15 feet",
+        "At least 3 feet",
+        "At least 5 feet",
+        "At least 100 feet"
+      ],
+      "h1": "Leave room so a train cannot hit the front of your car.",
+      "h2": "In Hawaii, when a railroad signal warns of a train, you must stop at least 15 feet from the nearest rail.",
+      "p": "Right. Stop at least 15 feet from the nearest rail."
+    },
+    "es": {
+      "q": "En Hawái, la señal de un cruce de ferrocarril está prendida porque viene un tren. ¿A qué distancia del riel más cercano debe detenerse?",
+      "o": [
+        "Por lo menos a 15 pies",
+        "Por lo menos a 3 pies",
+        "Por lo menos a 5 pies",
+        "Por lo menos a 100 pies"
+      ],
+      "h1": "Deje espacio para que el tren no golpee el frente de su carro.",
+      "h2": "En Hawái, cuando la señal del ferrocarril avisa que viene un tren, usted debe detenerse por lo menos a 15 pies del riel más cercano.",
+      "p": "Correcto. Deténgase por lo menos a 15 pies del riel más cercano."
+    }
+  },
+  {
+    "id": "hi-031",
+    "scope": "HI",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 97,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Hawaii, how much space should you leave between your car and a bicycle rider when you pass?",
+      "o": [
+        "At least 1 foot",
+        "At least 3 feet",
+        "At least 10 feet",
+        "At least 20 feet"
+      ],
+      "h1": "It is about the length of one long step.",
+      "h2": "In Hawaii you should leave at least 3 feet of space between your car and a bicycle rider until you have safely passed.",
+      "p": "Right. Leave at least 3 feet when you pass a bicycle rider."
+    },
+    "es": {
+      "q": "En Hawái, ¿cuánto espacio debe dejar entre su carro y un ciclista cuando lo rebasa?",
+      "o": [
+        "Por lo menos 1 pie",
+        "Por lo menos 3 pies",
+        "Por lo menos 10 pies",
+        "Por lo menos 20 pies"
+      ],
+      "h1": "Es más o menos el largo de un paso largo.",
+      "h2": "En Hawái usted debe dejar por lo menos 3 pies de espacio entre su carro y un ciclista hasta que lo haya rebasado con seguridad.",
+      "p": "Correcto. Deje por lo menos 3 pies cuando rebase a un ciclista."
+    }
+  },
+  {
+    "id": "hi-032",
+    "scope": "HI",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 26,
+    "src": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Hawaii, you want to pass on the left half of a two-lane road. How close to an intersection or railroad crossing may you do this?",
+      "o": [
+        "No closer than 25 feet",
+        "No closer than 50 feet",
+        "No closer than 75 feet",
+        "No closer than 100 feet"
+      ],
+      "h1": "You need room to finish passing well before the crossing.",
+      "h2": "In Hawaii you must not drive on the left half of the road within 100 feet of an intersection or a railroad crossing.",
+      "p": "Right. Do not use the left half of the road within 100 feet of an intersection or railroad crossing."
+    },
+    "es": {
+      "q": "En Hawái, usted quiere rebasar por la mitad izquierda de un camino de dos carriles. ¿Qué tan cerca de una intersección o de un cruce de ferrocarril puede hacerlo?",
+      "o": [
+        "No más cerca de 25 pies",
+        "No más cerca de 50 pies",
+        "No más cerca de 75 pies",
+        "No más cerca de 100 pies"
+      ],
+      "h1": "Necesita espacio para terminar de rebasar mucho antes del cruce.",
+      "h2": "En Hawái usted no debe manejar por la mitad izquierda del camino a menos de 100 pies de una intersección o de un cruce de ferrocarril.",
+      "p": "Correcto. No use la mitad izquierda del camino a menos de 100 pies de una intersección o de un cruce de ferrocarril."
+    }
   }
 ]

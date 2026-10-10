@@ -12,19 +12,19 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | State | Name | Draft questions | Checked | Knowledge test | Handbook (EN) | Handbook (ES) | Verified |
 |---|---|---|---|---|---|---|---|
 | AK | Alaska | 31 | 31 | 20 q, pass 16 (80%) | [link](https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf) | — | yes |
-| AL | Alabama | 29 | 29 | not found | [link](https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf) | — | yes |
-| AR | Arkansas | 26 | 25 | 25 q, pass 20 (80%) | [link](https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf) | [link](https://media.ark.org/dps/Spanish_version_Arkansas_January2-18_final_version.pdf) | yes |
+| AL | Alabama | 31 | 31 | not found | [link](https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf) | — | yes |
+| AR | Arkansas | 32 | 31 | 25 q, pass 20 (80%) | [link](https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10062026.pdf) | [link](https://media.ark.org/dps/Spanish_version_Arkansas_January2-18_final_version.pdf) | yes |
 | AZ | Arizona | 32 | 31 | 30 q, pass 24 (80%) | [link](https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117-print.pdf) | — | yes |
 | CA | California | 30 | 30 | not found | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/) | [link](https://www.dmv.ca.gov/portal/file/california-driver-handbook-spanish-pdf) | yes |
 | CO | Colorado | 35 | 35 | 25 q, pass 20 (80%) | [link](https://spl.cde.state.co.us/artemis/revserials/rev38d83internet/rev38d832023internet.pdf) | — | yes |
-| CT | Connecticut | 27 | 27 | 25 q, pass 20 (80%) | [link](https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf) | [link](https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-spanish.pdf) | yes |
+| CT | Connecticut | 31 | 31 | 25 q, pass 20 (80%) | [link](https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf) | [link](https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-spanish.pdf) | yes |
 | DC | District of Columbia | 31 | 31 | not found | [link](https://issuu.com/dcdmv/docs/dc_dmv_driver_manual_english_revised_final) | [link](https://issuu.com/dcdmv/docs/dc_dmv_driver_manual_final-spa) | yes |
 | DE | Delaware | 31 | 31 | 32 q, pass 26 (81%) | [link](https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf) | [link](https://dmv.de.gov/forms/driver_serv_forms/pdfs/Spanish_manual_LR.pdf) | yes |
 | FL | Florida | 0 | 0 | 50 q, pass 40 (80%) | [link](https://www.flhsmv.gov/pdf/handbooks/englishdriverhandbook.pdf) | [link](https://www.flhsmv.gov/pdf/handbooks/spanishdriverhandbook.pdf) | yes |
 | GA | Georgia | 31 | 31 | 40 q, pass 30 (75%) | [link](https://dds.georgia.gov/document/document/ga-drivers-manual-2023-2024/download) | — | yes |
-| HI | Hawaii | 28 | 27 | 30 q, pass ? | [link](https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf) | [link](https://hidot.hawaii.gov/highways/files/2019/04/mvso-Hawaii-Drivers-Manual_July-2017_HC_ES-US.pdf) | yes |
+| HI | Hawaii | 32 | 31 | 30 q, pass ? | [link](https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf) | [link](https://hidot.hawaii.gov/highways/files/2019/04/mvso-Hawaii-Drivers-Manual_July-2017_HC_ES-US.pdf) | yes |
 | IA | Iowa | 31 | 31 | ? q, pass ? (80%) | [link](https://iowadot.gov/media/7308/download?inline) | [link](https://iowadot.gov/media/7173/download) | yes |
-| ID | Idaho | 27 | 27 | 40 q, pass 34 (85%) | [link](https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf) | [link](https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf) | yes |
+| ID | Idaho | 31 | 31 | 40 q, pass 34 (85%) | [link](https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf) | [link](https://itd.idaho.gov/wp-content/uploads/2026/04/Spanish_manual.pdf) | yes |
 | IL | Illinois | 31 | 30 | 35 q, pass 28 (80%) | [link](https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf) | [link](https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a113.pdf) | yes |
 | IN | Indiana | 31 | 31 | ? q, pass ? (80%) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual.pdf) | [link](https://www.in.gov/bmv/licenses-permits-ids/files/drivers-manual-spanish.pdf) | yes |
 | KS | Kansas | 31 | 31 | 25 q, pass 20 (80%) | [link](https://www.ksrevenue.gov/pdf/dlhb.pdf) | [link](https://www.ksrevenue.gov/pdf/dlhb-sp.pdf) | yes |
