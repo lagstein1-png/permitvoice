@@ -5192,33 +5192,33 @@
     "scope": "OH",
     "cat": "licensing",
     "conf": "high",
-    "page": "§6",
-    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-6-state-laws-and-penalties",
+    "page": null,
+    "src": "https://codes.ohio.gov/ohio-revised-code/section-4511.203",
     "sign": null,
     "c": 0,
     "en": {
       "q": "In Ohio, a car owner knowingly lets a person with a suspended license drive the car. What can happen to the owner?",
       "o": [
-        "The same penalty as the suspended driver",
+        "A fine of up to $1,000 and a suspension of the owner's own license",
         "Nothing; only the driver is punished",
         "A warning letter only",
         "The owner must retake the driving test"
       ],
-      "h1": "The owner shares the blame.",
-      "h2": "In Ohio, an owner who knowingly lets someone with a suspended license drive can get the same penalty as that driver.",
-      "p": "Right. The owner can get the same penalty."
+      "h1": "Letting that person drive is a crime of its own.",
+      "h2": "In Ohio, an owner who knowingly lets someone with a suspended license drive is guilty of wrongful entrustment and can be fined up to $1,000 and have their own license suspended for up to one year.",
+      "p": "Right. The owner can be fined and lose their own license for a time."
     },
     "es": {
       "q": "En Ohio, el dueño de un carro deja manejar, a sabiendas, a una persona con la licencia suspendida. ¿Qué le puede pasar al dueño?",
       "o": [
-        "La misma sanción que al conductor suspendido",
+        "Una multa de hasta $1,000 y la suspensión de su propia licencia",
         "Nada; solo castigan al conductor",
         "Solo una carta de advertencia",
         "El dueño debe repetir el examen de manejo"
       ],
-      "h1": "El dueño comparte la culpa.",
-      "h2": "En Ohio, un dueño que a sabiendas deja manejar a alguien con la licencia suspendida puede recibir la misma sanción que ese conductor.",
-      "p": "Correcto. El dueño puede recibir la misma sanción."
+      "h1": "Dejar manejar a esa persona es un delito en sí mismo.",
+      "h2": "En Ohio, un dueño que a sabiendas deja manejar a alguien con la licencia suspendida comete el delito de confiar indebidamente el vehículo y puede recibir una multa de hasta $1,000 y la suspensión de su propia licencia por hasta un año.",
+      "p": "Correcto. El dueño puede recibir una multa y perder su propia licencia por un tiempo."
     }
   },
   {
@@ -5226,33 +5226,33 @@
     "scope": "OH",
     "cat": "safe-driving",
     "conf": "high",
-    "page": "§7",
-    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-7-special-driving-situations",
+    "page": null,
+    "src": "https://codes.ohio.gov/ohio-revised-code/section-2923.16",
     "sign": null,
-    "c": 1,
+    "c": 0,
     "en": {
-      "q": "In Ohio, a police officer pulls you over and you have a weapon in the car. When should you tell the officer?",
+      "q": "In Ohio, you are stopped by police and have a loaded handgun in the car. By law, when must you tell the officer about it?",
       "o": [
-        "Only if the officer asks",
-        "At first contact",
-        "After you get the ticket",
+        "No later than when the officer asks if you are carrying one",
+        "Only after you get the ticket",
+        "Only if you are asked to step out of the car",
         "Never; it is private"
       ],
-      "h1": "Say it as soon as the officer comes to your window.",
-      "h2": "In Ohio, if you have a weapon in the vehicle during a traffic stop, you should tell the officer at first contact.",
-      "p": "Right. Tell the officer at first contact."
+      "h1": "If the officer asks, you must say so right away.",
+      "h2": "In Ohio, a driver with a loaded handgun in the car must tell the officer no later than when the officer asks if they are carrying one, and many drivers choose to say so at first contact.",
+      "p": "Right. You must tell the officer no later than when they ask."
     },
     "es": {
-      "q": "En Ohio, un policía lo detiene y usted tiene un arma en el carro. ¿Cuándo debe decírselo al policía?",
+      "q": "En Ohio, la policía lo detiene y usted tiene una pistola cargada en el carro. Según la ley, ¿cuándo debe decírselo al policía?",
       "o": [
-        "Solo si el policía le pregunta",
-        "En el primer contacto",
-        "Después de recibir la multa",
+        "A más tardar cuando el policía le pregunte si lleva una",
+        "Solo después de recibir la multa",
+        "Solo si le piden que salga del carro",
         "Nunca; es algo privado"
       ],
-      "h1": "Dígalo en cuanto el policía llegue a su ventana.",
-      "h2": "En Ohio, si tiene un arma en el vehículo durante una parada de tráfico, debe decírselo al policía en el primer contacto.",
-      "p": "Correcto. Dígaselo al policía en el primer contacto."
+      "h1": "Si el policía le pregunta, debe decirlo de inmediato.",
+      "h2": "En Ohio, un conductor con una pistola cargada en el carro debe decírselo al policía a más tardar cuando el policía le pregunte si lleva una, y muchos conductores prefieren decirlo en el primer contacto.",
+      "p": "Correcto. Debe decírselo al policía a más tardar cuando le pregunte."
     }
   },
   {
@@ -5401,7 +5401,7 @@
     "sign": null,
     "c": 2,
     "en": {
-      "q": "In Ohio, besides the slow-moving emblem, what must farm machinery use on the road at night?",
+      "q": "In Ohio, besides the slow-moving emblem, what light may farm machinery show to the rear at night?",
       "o": [
         "A green steady light",
         "A blue flashing light",
@@ -5409,11 +5409,11 @@
         "Its horn every few seconds"
       ],
       "h1": "Its color matches the back of the vehicle.",
-      "h2": "In Ohio, farm machinery on the road must show the slow-moving emblem and use a red flashing light at night.",
-      "p": "Right. Farm machinery uses a red flashing light at night."
+      "h2": "In Ohio, farm machinery with the slow-moving emblem may show a red flashing light to the rear at night, so a red flashing light ahead can mean a slow farm vehicle.",
+      "p": "Right. Farm machinery may use a red flashing light at night."
     },
     "es": {
-      "q": "En Ohio, además del emblema de vehículo lento, ¿qué debe usar la maquinaria agrícola en la carretera de noche?",
+      "q": "En Ohio, además del emblema de vehículo lento, ¿qué luz puede mostrar hacia atrás la maquinaria agrícola de noche?",
       "o": [
         "Una luz verde fija",
         "Una luz azul intermitente",
@@ -5421,8 +5421,8 @@
         "La bocina cada pocos segundos"
       ],
       "h1": "Su color combina con la parte de atrás del vehículo.",
-      "h2": "En Ohio, la maquinaria agrícola en la carretera debe mostrar el emblema de vehículo lento y usar una luz roja intermitente de noche.",
-      "p": "Correcto. La maquinaria agrícola usa una luz roja intermitente de noche."
+      "h2": "En Ohio, la maquinaria agrícola con el emblema de vehículo lento puede mostrar una luz roja intermitente hacia atrás de noche, así que una luz roja intermitente adelante puede ser un vehículo agrícola lento.",
+      "p": "Correcto. La maquinaria agrícola puede usar una luz roja intermitente de noche."
     }
   },
   {
