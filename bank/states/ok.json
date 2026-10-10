@@ -9028,5 +9028,175 @@
       "h2": "En Oklahoma, tener un formulario de verificación del seguro falso puede traer un cargo por delito menor (misdemeanor), una multa de hasta $250 y la suspensión obligatoria de la licencia y del registro.",
       "p": "Correcto. Puede ser un delito menor, hasta $250 de multa y la suspensión de la licencia y el registro."
     }
+  },
+  {
+    "id": "ok-196",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Oklahoma, you need a commercial driver license (CDL) to drive a vehicle designed to carry how many people, counting the driver?",
+      "o": [
+        "6 or more",
+        "10 or more",
+        "16 or more",
+        "25 or more"
+      ],
+      "h1": "Think of a large van or small bus, not a family car.",
+      "h2": "In Oklahoma, you need a commercial driver license (Class A, B or C) for a vehicle designed to carry 16 or more people, including the driver.",
+      "p": "Right. 16 or more people, counting the driver, needs a CDL."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿cuántas personas, contando al conductor, debe poder llevar un vehículo para que usted necesite una licencia de conducir comercial (CDL)?",
+      "o": [
+        "6 o más",
+        "10 o más",
+        "16 o más",
+        "25 o más"
+      ],
+      "h1": "Piense en una camioneta grande o un autobús pequeño, no en un carro familiar.",
+      "h2": "En Oklahoma, usted necesita una licencia de conducir comercial (Clase A, B o C) para un vehículo diseñado para llevar 16 o más personas, incluido el conductor.",
+      "p": "Correcto. 16 o más personas, contando al conductor, requiere una CDL."
+    }
+  },
+  {
+    "id": "ok-197",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 4,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Oklahoma, you move to the state and become a resident. What must you do with the vehicles you own?",
+      "o": [
+        "Register them in Oklahoma",
+        "Keep your old state's plates until they expire",
+        "Register them only if you sell them",
+        "Nothing, as long as your old insurance is valid"
+      ],
+      "h1": "A new resident needs an Oklahoma license, and the cars follow the same idea.",
+      "h2": "In Oklahoma, once you become a resident, your vehicles must be registered in Oklahoma, and you must also apply for an Oklahoma driver license.",
+      "p": "Right. New residents must register their vehicles in Oklahoma."
+    },
+    "es": {
+      "q": "En Oklahoma, usted se muda al estado y se hace residente. ¿Qué debe hacer con los vehículos que tiene?",
+      "o": [
+        "Registrarlos en Oklahoma",
+        "Mantener las placas de su estado anterior hasta que venzan",
+        "Registrarlos solo si los vende",
+        "Nada, mientras su seguro anterior siga vigente"
+      ],
+      "h1": "Un nuevo residente necesita una licencia de Oklahoma, y con los carros pasa lo mismo.",
+      "h2": "En Oklahoma, cuando usted se hace residente, sus vehículos deben registrarse en Oklahoma, y también debe solicitar una licencia de conducir de Oklahoma.",
+      "p": "Correcto. Los nuevos residentes deben registrar sus vehículos en Oklahoma."
+    }
+  },
+  {
+    "id": "ok-198",
+    "scope": "OK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 13,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Oklahoma, when does the driver license of a non-citizen (who is not a permanent resident) expire?",
+      "o": [
+        "Always after 8 years",
+        "On the driver's 21st birthday",
+        "After one year, in every case",
+        "On the same dates as the person's immigration documents"
+      ],
+      "h1": "The license cannot last longer than the papers that allow the person to stay.",
+      "h2": "In Oklahoma, a non-citizen's driver license expires with the dates of the person's immigration documents, and those documents must be shown at each visit.",
+      "p": "Right. It matches the dates of the immigration documents."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿cuándo vence la licencia de conducir de una persona que no es ciudadana (y que no es residente permanente)?",
+      "o": [
+        "Siempre a los 8 años",
+        "El día que el conductor cumple 21 años",
+        "Al año, en todos los casos",
+        "En las mismas fechas que los documentos de inmigración de la persona"
+      ],
+      "h1": "La licencia no puede durar más que los papeles que permiten a la persona quedarse.",
+      "h2": "En Oklahoma, la licencia de una persona que no es ciudadana vence con las fechas de sus documentos de inmigración, y debe mostrar esos documentos en cada visita.",
+      "p": "Correcto. Coincide con las fechas de los documentos de inmigración."
+    }
+  },
+  {
+    "id": "ok-199",
+    "scope": "OK",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 56,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oklahoma, you are waiting at a railroad crossing for a train to pass. A stop line is painted on the road before the crossing. Where should your car be?",
+      "o": [
+        "Just past the stop line, so you can see better",
+        "Behind the painted stop line",
+        "On the first rail, ready to go",
+        "Anywhere, because the line is only for trucks"
+      ],
+      "h1": "The painted line marks the safe place to wait.",
+      "h2": "In Oklahoma, always stay behind the painted stop line while you wait for a train to pass the crossing.",
+      "p": "Right. Stay behind the painted stop line."
+    },
+    "es": {
+      "q": "En Oklahoma, usted espera en un cruce de ferrocarril a que pase un tren. Hay una línea de alto pintada en el camino antes del cruce. ¿Dónde debe estar su carro?",
+      "o": [
+        "Un poco más allá de la línea de alto, para ver mejor",
+        "Detrás de la línea de alto pintada",
+        "Sobre el primer riel, listo para seguir",
+        "En cualquier lugar, porque la línea es solo para camiones"
+      ],
+      "h1": "La línea pintada marca el lugar seguro para esperar.",
+      "h2": "En Oklahoma, siempre quédese detrás de la línea de alto pintada mientras espera que pase un tren por el cruce.",
+      "p": "Correcto. Quédese detrás de la línea de alto pintada."
+    }
+  },
+  {
+    "id": "ok-200",
+    "scope": "OK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 53,
+    "src": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Oklahoma, why is it easy to misjudge how far away a motorcycle is at night?",
+      "o": [
+        "Motorcycles may not use headlights at night",
+        "Its single headlight and single taillight can blend in with the lights of other vehicles",
+        "Motorcycles always ride on the shoulder at night",
+        "Its lights are brighter than a car's lights"
+      ],
+      "h1": "Count the lights on a motorcycle compared with a car.",
+      "h2": "In Oklahoma, at night you can easily misjudge a motorcycle's distance, because its single headlight and single taillight can blend in with other vehicles' lights.",
+      "p": "Right. One headlight and one taillight can blend in with other lights."
+    },
+    "es": {
+      "q": "En Oklahoma, ¿por qué es fácil calcular mal a qué distancia está una motocicleta de noche?",
+      "o": [
+        "Las motocicletas no pueden usar luces de noche",
+        "Su única luz delantera y su única luz trasera pueden confundirse con las luces de otros vehículos",
+        "Las motocicletas siempre van por el acotamiento de noche",
+        "Sus luces son más brillantes que las de un carro"
+      ],
+      "h1": "Cuente las luces de una motocicleta y compárelas con las de un carro.",
+      "h2": "En Oklahoma, de noche es fácil calcular mal la distancia de una motocicleta, porque su única luz delantera y su única luz trasera pueden confundirse con las luces de otros vehículos.",
+      "p": "Correcto. Una sola luz delantera y una sola trasera pueden confundirse con otras luces."
+    }
   }
 ]
