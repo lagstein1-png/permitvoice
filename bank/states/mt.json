@@ -2573,6 +2573,54 @@
       "h1": "Es menos de dos semanas.",
       "h2": "La ley de Montana dice que usted debe informar su nueva dirección a la División de Vehículos Motorizados dentro de los 10 días después de mudarse.",
       "p": "Correcto. Informe su nueva dirección en 10 días."
+    },
+    "zh": {
+      "q": "在 Montana，你搬到了新地址。你必须在多久之内通知机动车管理处（Motor Vehicle Division）？",
+      "o": [
+        "10 天之内",
+        "30 天之内",
+        "60 天之内",
+        "下次换证的时候"
+      ],
+      "h1": "不到两个星期。",
+      "h2": "Montana 法律规定，搬家后你必须在 10 天之内把新地址报告给机动车管理处（Motor Vehicle Division）。",
+      "p": "对。在 10 天之内报告新地址。"
+    },
+    "vi": {
+      "q": "Ở Montana, bạn chuyển đến địa chỉ mới. Bạn phải báo cho Motor Vehicle Division (Sở Xe Cơ Giới) trong bao lâu?",
+      "o": [
+        "Trong vòng 10 ngày",
+        "Trong vòng 30 ngày",
+        "Trong vòng 60 ngày",
+        "Vào lần gia hạn bằng lái tới"
+      ],
+      "h1": "Ít hơn hai tuần.",
+      "h2": "Luật Montana nói rằng bạn phải báo địa chỉ mới cho Motor Vehicle Division trong vòng 10 ngày sau khi chuyển nhà.",
+      "p": "Đúng. Báo địa chỉ mới trong vòng 10 ngày."
+    },
+    "tl": {
+      "q": "Sa Montana, lumipat ka sa bagong address. Gaano kabilis mo dapat sabihan ang Motor Vehicle Division?",
+      "o": [
+        "Sa loob ng 10 araw",
+        "Sa loob ng 30 araw",
+        "Sa loob ng 60 araw",
+        "Sa susunod mong pag-renew"
+      ],
+      "h1": "Kulang ito sa dalawang linggo.",
+      "h2": "Sinasabi ng batas ng Montana na dapat mong iulat ang bago mong address sa Motor Vehicle Division sa loob ng 10 araw mula sa paglipat.",
+      "p": "Tama. Iulat ang bagong address sa loob ng 10 araw."
+    },
+    "ar": {
+      "q": "في Montana، انتقلت إلى عنوان جديد. خلال كم من الوقت يجب أن تُبلغ قسم المركبات (Motor Vehicle Division)؟",
+      "o": [
+        "خلال 10 أيام",
+        "خلال 30 يومًا",
+        "خلال 60 يومًا",
+        "عند تجديد رخصتك القادم"
+      ],
+      "h1": "إنها أقل من أسبوعين.",
+      "h2": "ينص قانون Montana على أنه يجب أن تُبلغ قسم المركبات (Motor Vehicle Division) بعنوانك الجديد خلال 10 أيام من انتقالك.",
+      "p": "صحيح. أبلغ عن عنوانك الجديد خلال 10 أيام."
     }
   },
   {
@@ -2607,6 +2655,54 @@
       "h1": "Piense en medio año.",
       "h2": "En Montana usted puede renovar su licencia de conducir hasta 6 meses antes de la fecha en que vence.",
       "p": "Correcto. Puede renovarla hasta 6 meses antes."
+    },
+    "zh": {
+      "q": "在 Montana，驾照到期前最早可以提前多久换证？",
+      "o": [
+        "最多提前 1 个月",
+        "最多提前 3 个月",
+        "最多提前 6 个月",
+        "最多提前 1 年"
+      ],
+      "h1": "想想半年。",
+      "h2": "在 Montana，你最多可以在驾照到期日前 6 个月换证。",
+      "p": "对。你最多可以提前 6 个月换证。"
+    },
+    "vi": {
+      "q": "Ở Montana, bạn có thể gia hạn bằng lái sớm nhất là bao lâu trước khi hết hạn?",
+      "o": [
+        "Tối đa 1 tháng trước",
+        "Tối đa 3 tháng trước",
+        "Tối đa 6 tháng trước",
+        "Tối đa 1 năm trước"
+      ],
+      "h1": "Hãy nghĩ đến nửa năm.",
+      "h2": "Ở Montana, bạn có thể gia hạn bằng lái tối đa 6 tháng trước ngày hết hạn.",
+      "p": "Đúng. Bạn có thể gia hạn sớm tối đa 6 tháng."
+    },
+    "tl": {
+      "q": "Sa Montana, gaano kaaga mo maaaring i-renew ang iyong driver license bago ito mag-expire?",
+      "o": [
+        "Hanggang 1 buwan bago",
+        "Hanggang 3 buwan bago",
+        "Hanggang 6 na buwan bago",
+        "Hanggang 1 taon bago"
+      ],
+      "h1": "Isipin ang kalahating taon.",
+      "h2": "Sa Montana, maaari mong i-renew ang iyong driver license hanggang 6 na buwan bago ang petsa ng pag-expire nito.",
+      "p": "Tama. Maaari kang mag-renew hanggang 6 na buwan nang maaga."
+    },
+    "ar": {
+      "q": "في Montana، كم من الوقت قبل انتهاء رخصة القيادة يمكنك تجديدها؟",
+      "o": [
+        "حتى شهر واحد قبلها",
+        "حتى 3 أشهر قبلها",
+        "حتى 6 أشهر قبلها",
+        "حتى سنة واحدة قبلها"
+      ],
+      "h1": "فكّر في نصف سنة.",
+      "h2": "في Montana يمكنك تجديد رخصة القيادة قبل تاريخ انتهائها بمدة تصل إلى 6 أشهر.",
+      "p": "صحيح. يمكنك التجديد مبكرًا حتى 6 أشهر."
     }
   },
   {
@@ -2641,6 +2737,54 @@
       "h1": "Los conductores mayores renuevan más seguido que los adultos más jóvenes.",
       "h2": "En Montana, una licencia emitida a una persona de 75 años o más vence en su cumpleaños 4 años o menos después de emitirse.",
       "p": "Correcto. A los 75 años o más, la licencia dura hasta 4 años."
+    },
+    "zh": {
+      "q": "在 Montana，给 75 岁或以上的人发的驾照，最长有效多久？",
+      "o": [
+        "2 年",
+        "4 年",
+        "8 年",
+        "12 年"
+      ],
+      "h1": "年长的司机比年轻的成年人更常换证。",
+      "h2": "在 Montana，发给 75 岁或以上的人的驾照，在发证后 4 年或更短时间内的生日那天到期。",
+      "p": "对。75 岁或以上，驾照最长有效 4 年。"
+    },
+    "vi": {
+      "q": "Ở Montana, bằng lái cấp cho người 75 tuổi trở lên có giá trị tối đa bao lâu?",
+      "o": [
+        "2 năm",
+        "4 năm",
+        "8 năm",
+        "12 năm"
+      ],
+      "h1": "Người lái xe lớn tuổi gia hạn thường xuyên hơn người trẻ.",
+      "h2": "Ở Montana, bằng lái cấp cho người 75 tuổi trở lên hết hạn vào ngày sinh nhật của họ trong vòng 4 năm hoặc ít hơn sau khi cấp.",
+      "p": "Đúng. Từ 75 tuổi trở lên, bằng lái có giá trị tối đa 4 năm."
+    },
+    "tl": {
+      "q": "Sa Montana, may driver license na ibinigay sa taong edad 75 o higit pa. Hanggang gaano katagal ito balido?",
+      "o": [
+        "2 taon",
+        "4 na taon",
+        "8 taon",
+        "12 taon"
+      ],
+      "h1": "Mas madalas mag-renew ang matatandang drayber kaysa sa mas batang adulto.",
+      "h2": "Sa Montana, ang license na ibinigay sa taong edad 75 o higit pa ay mag-e-expire sa kanyang kaarawan 4 na taon o mas maikli mula nang ibigay ito.",
+      "p": "Tama. Sa edad 75 o higit pa, ang license ay tumatagal nang hanggang 4 na taon."
+    },
+    "ar": {
+      "q": "في Montana، صدرت رخصة قيادة لشخص عمره 75 عامًا أو أكثر. ما أقصى مدة تبقى فيها صالحة؟",
+      "o": [
+        "سنتان",
+        "4 سنوات",
+        "8 سنوات",
+        "12 سنة"
+      ],
+      "h1": "السائقون الأكبر سنًا يجددون أكثر من البالغين الأصغر سنًا.",
+      "h2": "في Montana، الرخصة التي تصدر لشخص عمره 75 عامًا أو أكثر تنتهي في يوم ميلاده بعد 4 سنوات أو أقل من صدورها.",
+      "p": "صحيح. في سن 75 أو أكثر، تبقى الرخصة صالحة حتى 4 سنوات."
     }
   },
   {
@@ -2675,6 +2819,54 @@
       "h1": "El adolescente debe dar parte de su tiempo para ayudar a otros.",
       "h2": "En Montana, la primera infracción de las reglas de la licencia del primer año trae de 20 a 60 horas de servicio comunitario; la segunda trae una suspensión de 6 meses.",
       "p": "Correcto. La primera vez son de 20 a 60 horas de servicio comunitario."
+    },
+    "zh": {
+      "q": "在 Montana，一个青少年第一次违反第一年限制驾照的规定。处罚是什么？",
+      "o": [
+        "只有一封警告信",
+        "罚款 $500",
+        "吊销驾照一年",
+        "20 到 60 小时的社区服务"
+      ],
+      "h1": "这个青少年要花一些时间帮助别人。",
+      "h2": "在 Montana，第一次违反第一年驾照规定要做 20 到 60 小时的社区服务；第二次会被暂停驾照 6 个月。",
+      "p": "对。第一次违规要做 20 到 60 小时的社区服务。"
+    },
+    "vi": {
+      "q": "Ở Montana, một thiếu niên vi phạm quy định của bằng lái hạn chế năm đầu lần thứ nhất. Hình phạt là gì?",
+      "o": [
+        "Chỉ một thư cảnh cáo",
+        "Phạt $500",
+        "Mất bằng lái một năm",
+        "20 đến 60 giờ phục vụ cộng đồng"
+      ],
+      "h1": "Thiếu niên phải dành thời gian giúp đỡ người khác.",
+      "h2": "Ở Montana, vi phạm lần đầu quy định của bằng lái năm đầu bị phạt 20 đến 60 giờ phục vụ cộng đồng; lần thứ hai bị treo bằng 6 tháng.",
+      "p": "Đúng. Lần đầu là 20 đến 60 giờ phục vụ cộng đồng."
+    },
+    "tl": {
+      "q": "Sa Montana, unang beses lumabag ang isang teen sa patakaran ng restricted license sa unang taon. Ano ang parusa?",
+      "o": [
+        "Isang sulat ng babala lamang",
+        "Multang $500",
+        "Pagkawala ng license nang isang taon",
+        "20 hanggang 60 oras ng community service"
+      ],
+      "h1": "Kailangang maglaan ng oras ang teen para tumulong sa iba.",
+      "h2": "Sa Montana, ang unang paglabag sa mga patakaran ng license sa unang taon ay may parusang 20 hanggang 60 oras ng community service; ang pangalawa ay 6 na buwang suspensyon.",
+      "p": "Tama. Sa unang beses, 20 hanggang 60 oras ng community service."
+    },
+    "ar": {
+      "q": "في Montana، خالف مراهق قاعدة من قواعد الرخصة المقيدة للسنة الأولى لأول مرة. ما العقوبة؟",
+      "o": [
+        "رسالة تحذير فقط",
+        "غرامة $500",
+        "سحب الرخصة لمدة سنة",
+        "من 20 إلى 60 ساعة من خدمة المجتمع"
+      ],
+      "h1": "على المراهق أن يقضي بعض الوقت في مساعدة الآخرين.",
+      "h2": "في Montana، المخالفة الأولى لقواعد رخصة السنة الأولى عقوبتها من 20 إلى 60 ساعة من خدمة المجتمع، والمخالفة الثانية عقوبتها إيقاف الرخصة 6 أشهر.",
+      "p": "صحيح. في المرة الأولى تكون العقوبة من 20 إلى 60 ساعة من خدمة المجتمع."
     }
   },
   {
@@ -2709,6 +2901,54 @@
       "h1": "Es una cantidad pequeña.",
       "h2": "En Montana el conductor es responsable de que todos lleven el cinturón abrochado, y la multa por no cumplir la ley del cinturón es de $20.",
       "p": "Correcto. La multa del cinturón es de $20 y la paga el conductor."
+    },
+    "zh": {
+      "q": "在 Montana，你车上的一名乘客没有系安全带。司机会被罚多少钱？",
+      "o": [
+        "$20",
+        "$50",
+        "$100",
+        "$250"
+      ],
+      "h1": "金额很小。",
+      "h2": "在 Montana，司机要负责让车上每个人都系好安全带，违反安全带法的罚款是 $20。",
+      "p": "对。安全带罚款是 $20，由司机来付。"
+    },
+    "vi": {
+      "q": "Ở Montana, một hành khách trong xe bạn không thắt dây an toàn. Tài xế bị phạt bao nhiêu?",
+      "o": [
+        "$20",
+        "$50",
+        "$100",
+        "$250"
+      ],
+      "h1": "Đó là một số tiền nhỏ.",
+      "h2": "Ở Montana, tài xế chịu trách nhiệm để mọi người trong xe đều thắt dây an toàn, và tiền phạt khi vi phạm luật dây an toàn là $20.",
+      "p": "Đúng. Tiền phạt dây an toàn là $20, và tài xế phải trả."
+    },
+    "tl": {
+      "q": "Sa Montana, hindi nakasuot ng seat belt ang isang pasahero sa kotse mo. Magkano ang multa ng drayber?",
+      "o": [
+        "$20",
+        "$50",
+        "$100",
+        "$250"
+      ],
+      "h1": "Maliit na halaga ito.",
+      "h2": "Sa Montana, pananagutan ng drayber na nakasuot ng seat belt ang bawat sakay, at ang multa sa paglabag sa batas sa seat belt ay $20.",
+      "p": "Tama. Ang multa sa seat belt ay $20, at ang drayber ang nagbabayad."
+    },
+    "ar": {
+      "q": "في Montana، أحد الركاب في سيارتك لا يربط حزام الأمان. ما الغرامة على السائق؟",
+      "o": [
+        "$20",
+        "$50",
+        "$100",
+        "$250"
+      ],
+      "h1": "إنه مبلغ صغير.",
+      "h2": "في Montana السائق مسؤول عن ربط حزام الأمان لكل راكب، وغرامة مخالفة قانون حزام الأمان هي $20.",
+      "p": "صحيح. غرامة حزام الأمان هي $20، والسائق هو من يدفعها."
     }
   },
   {
@@ -2743,6 +2983,54 @@
       "h1": "El bebé mira hacia la parte de atrás del auto.",
       "h2": "La ley de Montana dice que un niño menor de 2 años debe viajar en un asiento de seguridad infantil mirando hacia atrás que cumpla las normas federales.",
       "p": "Correcto. Antes de los 2 años, el niño viaja en un asiento mirando hacia atrás."
+    },
+    "zh": {
+      "q": "在 Montana，2 岁以下的孩子坐车时必须怎么坐？",
+      "o": [
+        "坐在面朝前的增高座椅上",
+        "在后座系成人安全带",
+        "坐在面朝后的儿童安全座椅上",
+        "坐在大人腿上并系安全带"
+      ],
+      "h1": "宝宝面朝车的后方。",
+      "h2": "Montana 法律规定，2 岁以下的孩子必须坐在符合联邦标准的面朝后的儿童安全座椅上。",
+      "p": "对。2 岁以下的孩子坐面朝后的座椅。"
+    },
+    "vi": {
+      "q": "Ở Montana, trẻ dưới 2 tuổi phải ngồi trong xe như thế nào?",
+      "o": [
+        "Trên ghế nâng quay mặt về phía trước",
+        "Thắt dây an toàn người lớn ở ghế sau",
+        "Trong ghế an toàn trẻ em quay mặt về phía sau",
+        "Ngồi trên đùi người lớn có thắt dây"
+      ],
+      "h1": "Em bé quay mặt về phía sau xe.",
+      "h2": "Luật Montana nói rằng trẻ dưới 2 tuổi phải ngồi trong ghế an toàn trẻ em quay mặt về phía sau, đạt tiêu chuẩn liên bang.",
+      "p": "Đúng. Dưới 2 tuổi, trẻ ngồi ghế quay mặt về phía sau."
+    },
+    "tl": {
+      "q": "Sa Montana, paano dapat sumakay sa kotse ang batang wala pang 2 taong gulang?",
+      "o": [
+        "Sa booster seat na nakaharap sa unahan",
+        "Na may seat belt ng adulto sa likurang upuan",
+        "Sa child safety seat na nakaharap sa likod",
+        "Sa kandungan ng adulto na may belt"
+      ],
+      "h1": "Nakaharap ang sanggol sa likod ng kotse.",
+      "h2": "Sinasabi ng batas ng Montana na ang batang wala pang 2 taong gulang ay dapat sumakay sa child safety seat na nakaharap sa likod at pasado sa pederal na pamantayan.",
+      "p": "Tama. Kapag wala pang 2 taon, sa upuang nakaharap sa likod sumasakay ang bata."
+    },
+    "ar": {
+      "q": "في Montana، كيف يجب أن يركب الطفل الذي عمره أقل من سنتين في السيارة؟",
+      "o": [
+        "في مقعد رافع يواجه الأمام",
+        "بحزام أمان الكبار في المقعد الخلفي",
+        "في مقعد أمان للأطفال يواجه الخلف",
+        "في حضن شخص كبير مع حزام"
+      ],
+      "h1": "الطفل الرضيع يواجه مؤخرة السيارة.",
+      "h2": "ينص قانون Montana على أن الطفل الذي عمره أقل من سنتين يجب أن يركب في مقعد أمان للأطفال يواجه الخلف ويطابق المعايير الفيدرالية.",
+      "p": "صحيح. الطفل الأقل من سنتين يركب في مقعد يواجه الخلف."
     }
   },
   {
@@ -2777,6 +3065,54 @@
       "h1": "La distancia es de menos de dos cuadras de ciudad.",
       "h2": "La ley de Montana dice que use los faros de noche y en cualquier momento en que no pueda ver bien a personas y vehículos a 500 pies adelante.",
       "p": "Correcto. Si no puede ver a 500 pies, encienda los faros."
+    },
+    "zh": {
+      "q": "在 Montana，现在是白天，但雪或扬尘让人很难看清。你什么时候必须打开大灯？",
+      "o": [
+        "看不清前方 1,000 英尺的时候",
+        "看不清前方 500 英尺的人和车的时候",
+        "看不清前方 200 英尺的时候",
+        "只在日落以后"
+      ],
+      "h1": "比两个城市街区短一点。",
+      "h2": "Montana 法律规定，夜间以及任何看不清前方 500 英尺的人和车辆的时候，都要打开大灯。",
+      "p": "对。如果看不清前方 500 英尺，就打开大灯。"
+    },
+    "vi": {
+      "q": "Ở Montana, đang là ban ngày nhưng tuyết hoặc bụi bay làm khó nhìn. Khi nào bạn phải bật đèn pha?",
+      "o": [
+        "Khi bạn không nhìn thấy 1,000 feet phía trước",
+        "Khi bạn không nhìn rõ người và xe ở 500 feet phía trước",
+        "Khi bạn không nhìn thấy 200 feet phía trước",
+        "Chỉ sau khi mặt trời lặn"
+      ],
+      "h1": "Ít hơn một chút so với hai dãy phố.",
+      "h2": "Luật Montana nói rằng phải bật đèn pha vào ban đêm và bất cứ khi nào bạn không nhìn rõ người và xe ở 500 feet phía trước.",
+      "p": "Đúng. Nếu bạn không nhìn thấy 500 feet phía trước, hãy bật đèn pha."
+    },
+    "tl": {
+      "q": "Sa Montana, araw pa, pero mahirap makakita dahil sa niyebe o liparing alikabok. Kailan mo dapat buksan ang headlights?",
+      "o": [
+        "Kapag hindi mo makita ang 1,000 feet sa unahan",
+        "Kapag hindi mo malinaw na makita ang mga tao at sasakyan 500 feet sa unahan",
+        "Kapag hindi mo makita ang 200 feet sa unahan",
+        "Pagkalubog lamang ng araw"
+      ],
+      "h1": "Medyo kulang ito sa dalawang city block.",
+      "h2": "Sinasabi ng batas ng Montana na gumamit ng headlights sa gabi at tuwing hindi mo malinaw na makita ang mga tao at sasakyan 500 feet sa unahan.",
+      "p": "Tama. Kapag hindi mo makita ang 500 feet sa unahan, buksan ang headlights."
+    },
+    "ar": {
+      "q": "في Montana، الوقت نهار، لكن الثلج أو الغبار المتطاير يجعل الرؤية صعبة. متى يجب أن تُشعل الأضواء الأمامية؟",
+      "o": [
+        "عندما لا ترى مسافة 1,000 feet أمامك",
+        "عندما لا ترى الناس والسيارات بوضوح على بُعد 500 feet أمامك",
+        "عندما لا ترى مسافة 200 feet أمامك",
+        "بعد غروب الشمس فقط"
+      ],
+      "h1": "إنها أقل قليلًا من طول شارعين في المدينة.",
+      "h2": "ينص قانون Montana على استخدام الأضواء الأمامية في الليل وفي أي وقت لا ترى فيه الناس والمركبات بوضوح على بُعد 500 feet أمامك.",
+      "p": "صحيح. إذا لم ترَ مسافة 500 feet أمامك، أشعل الأضواء الأمامية."
     }
   },
   {
@@ -2811,6 +3147,54 @@
       "h1": "Es tres veces la distancia que se usa en el pueblo.",
       "h2": "En Montana debe poner la señal al menos 100 pies antes de girar en el pueblo y al menos 300 pies antes de girar en carreteras rurales.",
       "p": "Correcto. En carreteras rurales, ponga la señal al menos 300 pies antes de girar."
+    },
+    "zh": {
+      "q": "在 Montana，你打算在城外的乡村道路上转弯。你必须在转弯前多远打信号灯？",
+      "o": [
+        "至少 50 英尺",
+        "至少 100 英尺",
+        "至少 200 英尺",
+        "至少 300 英尺"
+      ],
+      "h1": "是城里距离的三倍。",
+      "h2": "在 Montana，你必须在城里转弯前至少 100 英尺打信号灯，在乡村道路上转弯前至少 300 英尺打信号灯。",
+      "p": "对。在乡村道路上，转弯前至少 300 英尺打信号灯。"
+    },
+    "vi": {
+      "q": "Ở Montana, bạn định rẽ trên một con đường nông thôn ngoài thị trấn. Bạn phải bật đèn báo rẽ cách chỗ rẽ bao xa?",
+      "o": [
+        "Ít nhất 50 feet",
+        "Ít nhất 100 feet",
+        "Ít nhất 200 feet",
+        "Ít nhất 300 feet"
+      ],
+      "h1": "Gấp ba lần khoảng cách dùng trong thị trấn.",
+      "h2": "Ở Montana, bạn phải bật đèn báo rẽ ít nhất 100 feet trước khi rẽ trong thị trấn và ít nhất 300 feet trước khi rẽ trên đường nông thôn.",
+      "p": "Đúng. Trên đường nông thôn, bật đèn báo ít nhất 300 feet trước khi rẽ."
+    },
+    "tl": {
+      "q": "Sa Montana, liliko ka sa isang daan sa probinsya sa labas ng bayan. Gaano kalayo bago lumiko ka dapat mag-signal?",
+      "o": [
+        "Hindi bababa sa 50 feet",
+        "Hindi bababa sa 100 feet",
+        "Hindi bababa sa 200 feet",
+        "Hindi bababa sa 300 feet"
+      ],
+      "h1": "Tatlong beses ito ng layong ginagamit sa bayan.",
+      "h2": "Sa Montana, dapat kang mag-signal nang hindi bababa sa 100 feet bago lumiko sa bayan at hindi bababa sa 300 feet bago lumiko sa mga daan sa probinsya.",
+      "p": "Tama. Sa mga daan sa probinsya, mag-signal nang hindi bababa sa 300 feet bago lumiko."
+    },
+    "ar": {
+      "q": "في Montana، تنوي الانعطاف على طريق ريفي خارج المدينة. على أي مسافة قبل المنعطف يجب أن تشغّل الإشارة؟",
+      "o": [
+        "50 feet على الأقل",
+        "100 feet على الأقل",
+        "200 feet على الأقل",
+        "300 feet على الأقل"
+      ],
+      "h1": "إنها ثلاثة أضعاف المسافة المستخدمة داخل المدينة.",
+      "h2": "في Montana يجب أن تشغّل الإشارة قبل 100 feet على الأقل من المنعطف داخل المدينة، وقبل 300 feet على الأقل من المنعطف على الطرق الريفية.",
+      "p": "صحيح. على الطرق الريفية، شغّل الإشارة قبل 300 feet على الأقل من المنعطف."
     }
   },
   {
@@ -2845,6 +3229,54 @@
       "h1": "Deje espacio por si el tren o su carga sobresale.",
       "h2": "En Montana, cuando las señales avisan de un tren, debe detenerse al menos a 15 pies del riel más cercano y esperar hasta que sea seguro.",
       "p": "Correcto. Deténgase al menos a 15 pies del riel más cercano."
+    },
+    "zh": {
+      "q": "在 Montana，铁路道口的灯在闪烁。你必须在哪里停车？",
+      "o": [
+        "就停在第一根铁轨边上",
+        "离最近的铁轨至少 5 英尺",
+        "离最近的铁轨至少 15 英尺",
+        "只有看到火车时才停"
+      ],
+      "h1": "留出空间，以防火车或车上的货物伸出来。",
+      "h2": "在 Montana，当信号警告有火车时，你必须在离最近的铁轨至少 15 英尺的地方停车，等到安全再走。",
+      "p": "对。在离最近的铁轨至少 15 英尺的地方停车。"
+    },
+    "vi": {
+      "q": "Ở Montana, đèn đang nhấp nháy ở chỗ băng qua đường ray. Bạn phải dừng ở đâu?",
+      "o": [
+        "Ngay sát mép đường ray đầu tiên",
+        "Cách đường ray gần nhất ít nhất 5 feet",
+        "Cách đường ray gần nhất ít nhất 15 feet",
+        "Chỉ khi bạn nhìn thấy tàu"
+      ],
+      "h1": "Chừa khoảng trống phòng khi tàu hoặc hàng trên tàu nhô ra.",
+      "h2": "Ở Montana, khi có tín hiệu báo tàu đến, bạn phải dừng cách đường ray gần nhất ít nhất 15 feet và chờ đến khi an toàn.",
+      "p": "Đúng. Dừng cách đường ray gần nhất ít nhất 15 feet."
+    },
+    "tl": {
+      "q": "Sa Montana, kumikislap ang mga ilaw sa tawiran ng riles. Saan ka dapat huminto?",
+      "o": [
+        "Mismo sa gilid ng unang riles",
+        "Hindi bababa sa 5 feet mula sa pinakamalapit na riles",
+        "Hindi bababa sa 15 feet mula sa pinakamalapit na riles",
+        "Kung nakikita mo lamang ang tren"
+      ],
+      "h1": "Mag-iwan ng puwang kung sakaling may nakausling bahagi ang tren o ang karga nito.",
+      "h2": "Sa Montana, kapag may babala ng tren ang mga signal, dapat kang huminto nang hindi bababa sa 15 feet mula sa pinakamalapit na riles at maghintay hanggang ligtas na.",
+      "p": "Tama. Huminto nang hindi bababa sa 15 feet mula sa pinakamalapit na riles."
+    },
+    "ar": {
+      "q": "في Montana، الأضواء تومض عند معبر سكة حديد. أين يجب أن تتوقف؟",
+      "o": [
+        "على حافة السكة الأولى مباشرة",
+        "على بُعد 5 feet على الأقل من أقرب سكة",
+        "على بُعد 15 feet على الأقل من أقرب سكة",
+        "فقط إذا رأيت القطار"
+      ],
+      "h1": "اترك مسافة في حال كان القطار أو حمولته بارزًا.",
+      "h2": "في Montana، عندما تحذّر الإشارات من قطار، يجب أن تتوقف على بُعد 15 feet على الأقل من أقرب سكة وتنتظر حتى يصبح العبور آمنًا.",
+      "p": "صحيح. توقف على بُعد 15 feet على الأقل من أقرب سكة."
     }
   },
   {
@@ -2879,6 +3311,54 @@
       "h1": "Las zonas de obras protegen a personas que trabajan cerca del tráfico.",
       "h2": "En Montana, las multas de tránsito en una zona de obras se duplican cuando hay trabajadores de carreteras presentes.",
       "p": "Correcto. Las multas se duplican en zonas de obras con trabajadores."
+    },
+    "zh": {
+      "q": "在 Montana，你在有公路工人在场的施工区收到交通罚单。罚款会怎样？",
+      "o": [
+        "加倍",
+        "不变",
+        "减半",
+        "变成警告"
+      ],
+      "h1": "施工区是为了保护在车流旁边工作的人。",
+      "h2": "在 Montana，有公路工人在场时，施工区内的交通罚款加倍。",
+      "p": "对。有工人在场时，施工区罚款加倍。"
+    },
+    "vi": {
+      "q": "Ở Montana, bạn bị phạt giao thông trong khu vực thi công khi có công nhân làm đường ở đó. Tiền phạt sẽ ra sao?",
+      "o": [
+        "Tăng gấp đôi",
+        "Giữ nguyên",
+        "Giảm một nửa",
+        "Chỉ còn là cảnh cáo"
+      ],
+      "h1": "Khu vực thi công bảo vệ những người làm việc gần dòng xe.",
+      "h2": "Ở Montana, tiền phạt giao thông trong khu vực thi công tăng gấp đôi khi có công nhân làm đường ở đó.",
+      "p": "Đúng. Tiền phạt tăng gấp đôi trong khu vực thi công khi có công nhân."
+    },
+    "tl": {
+      "q": "Sa Montana, nakakuha ka ng traffic ticket sa work zone habang naroon ang mga manggagawa sa highway. Ano ang mangyayari sa multa?",
+      "o": [
+        "Dinodoble ito",
+        "Hindi ito nagbabago",
+        "Hinahati ito sa dalawa",
+        "Nagiging babala lamang ito"
+      ],
+      "h1": "Pinoprotektahan ng work zone ang mga taong nagtatrabaho malapit sa trapiko.",
+      "h2": "Sa Montana, dinodoble ang mga multa sa trapiko sa work zone kapag naroon ang mga manggagawa sa highway.",
+      "p": "Tama. Dinodoble ang multa sa work zone kapag may mga manggagawa."
+    },
+    "ar": {
+      "q": "في Montana، حصلت على مخالفة مرورية في منطقة أعمال طرق بينما كان عمال الطريق موجودين. ماذا يحدث للغرامة؟",
+      "o": [
+        "تتضاعف",
+        "تبقى كما هي",
+        "تنخفض إلى النصف",
+        "تصبح تحذيرًا"
+      ],
+      "h1": "مناطق الأعمال تحمي الناس الذين يعملون قرب حركة السير.",
+      "h2": "في Montana، تتضاعف غرامات المرور في منطقة أعمال الطرق عندما يكون عمال الطريق موجودين.",
+      "p": "صحيح. تتضاعف الغرامات في مناطق الأعمال عندما يكون العمال موجودين."
     }
   },
   {
@@ -2913,6 +3393,54 @@
       "h1": "Deje que el cortejo siga unido.",
       "h2": "En Montana no puede pasar entre los autos de un cortejo fúnebre en movimiento, a menos que un policía lo permita o usted maneje un vehículo de emergencia.",
       "p": "Correcto. No se meta en un cortejo fúnebre a menos que un policía se lo indique."
+    },
+    "zh": {
+      "q": "在 Montana，一支送葬车队正从你旁边经过。你不是车队的一员。你什么时候可以开进车队的车辆之间？",
+      "o": [
+        "只要有空隙就可以",
+        "当你的灯变绿时",
+        "当你赶时间时",
+        "只有警察让你开时"
+      ],
+      "h1": "让车队保持在一起。",
+      "h2": "在 Montana，除非警察允许或你开的是紧急车辆，否则你不可以开进正在行进的送葬车队的车辆之间。",
+      "p": "对。除非警察让你开，否则不要插进送葬车队。"
+    },
+    "vi": {
+      "q": "Ở Montana, một đoàn xe tang đang đi qua bạn. Bạn không thuộc đoàn xe đó. Khi nào bạn được lái xe chen vào giữa các xe trong đoàn?",
+      "o": [
+        "Bất cứ khi nào có khoảng trống",
+        "Khi đèn của bạn chuyển xanh",
+        "Khi bạn bị trễ",
+        "Chỉ khi cảnh sát bảo bạn đi"
+      ],
+      "h1": "Hãy để đoàn xe đi liền nhau.",
+      "h2": "Ở Montana, bạn không được lái xe chen vào giữa các xe của đoàn xe tang đang di chuyển, trừ khi cảnh sát cho phép hoặc bạn lái xe cấp cứu.",
+      "p": "Đúng. Không chen vào đoàn xe tang trừ khi cảnh sát bảo bạn đi."
+    },
+    "tl": {
+      "q": "Sa Montana, dumaraan sa harap mo ang isang prusisyon ng libing. Hindi ka kasama rito. Kailan ka maaaring magmaneho sa pagitan ng mga sasakyan nito?",
+      "o": [
+        "Tuwing may puwang",
+        "Kapag naging berde ang ilaw mo",
+        "Kapag nahuhuli ka na",
+        "Kung sasabihin lamang ng pulis"
+      ],
+      "h1": "Hayaang magkakasama ang prusisyon.",
+      "h2": "Sa Montana, hindi ka maaaring magmaneho sa pagitan ng mga sasakyan ng umaandar na prusisyon ng libing maliban kung payagan ka ng pulis o emergency vehicle ang minamaneho mo.",
+      "p": "Tama. Huwag sumingit sa prusisyon ng libing maliban kung sabihin ng pulis."
+    },
+    "ar": {
+      "q": "في Montana، موكب جنازة يمر بجانبك. أنت لست جزءًا منه. متى يجوز لك أن تقود بين سياراته؟",
+      "o": [
+        "كلما وُجدت فجوة",
+        "عندما تصبح إشارتك خضراء",
+        "عندما تكون متأخرًا",
+        "فقط إذا طلب منك شرطي ذلك"
+      ],
+      "h1": "دع الموكب يبقى متصلًا.",
+      "h2": "في Montana يجب ألّا تقود بين سيارات موكب جنازة متحرك، إلا إذا سمح لك شرطي بذلك أو كنت تقود مركبة طوارئ.",
+      "p": "صحيح. لا تدخل في موكب الجنازة إلا إذا طلب منك شرطي ذلك."
     }
   },
   {
@@ -2947,6 +3475,54 @@
       "h1": "Es más que la distancia para un hidrante.",
       "h2": "En Montana no puede estacionarse a menos de 50 pies del riel más cercano de un cruce de ferrocarril.",
       "p": "Correcto. Estaciónese al menos a 50 pies de un cruce de ferrocarril."
+    },
+    "zh": {
+      "q": "在 Montana，你可以在离铁路道口多近的地方停车？",
+      "o": [
+        "不得近于 15 英尺",
+        "不得近于 50 英尺",
+        "不得近于 25 英尺",
+        "不得近于 100 英尺"
+      ],
+      "h1": "比离消防栓的距离更远。",
+      "h2": "在 Montana，你不可以在离铁路道口最近的铁轨 50 英尺之内停车。",
+      "p": "对。停车要离铁路道口至少 50 英尺。"
+    },
+    "vi": {
+      "q": "Ở Montana, bạn được đậu xe gần chỗ băng qua đường ray đến mức nào?",
+      "o": [
+        "Không gần hơn 15 feet",
+        "Không gần hơn 50 feet",
+        "Không gần hơn 25 feet",
+        "Không gần hơn 100 feet"
+      ],
+      "h1": "Xa hơn khoảng cách đối với trụ nước cứu hỏa.",
+      "h2": "Ở Montana, bạn không được đậu xe trong vòng 50 feet tính từ đường ray gần nhất của chỗ băng qua đường ray.",
+      "p": "Đúng. Đậu xe cách chỗ băng qua đường ray ít nhất 50 feet."
+    },
+    "tl": {
+      "q": "Sa Montana, gaano kalapit sa tawiran ng riles ka maaaring pumarada?",
+      "o": [
+        "Hindi lalapit sa 15 feet",
+        "Hindi lalapit sa 50 feet",
+        "Hindi lalapit sa 25 feet",
+        "Hindi lalapit sa 100 feet"
+      ],
+      "h1": "Mas malayo ito kaysa sa layo para sa fire hydrant.",
+      "h2": "Sa Montana, hindi ka maaaring pumarada sa loob ng 50 feet mula sa pinakamalapit na riles ng tawiran ng riles.",
+      "p": "Tama. Pumarada nang hindi bababa sa 50 feet mula sa tawiran ng riles."
+    },
+    "ar": {
+      "q": "في Montana، كم يمكنك أن تقترب من معبر سكة حديد عندما تركن سيارتك؟",
+      "o": [
+        "ليس أقرب من 15 feet",
+        "ليس أقرب من 50 feet",
+        "ليس أقرب من 25 feet",
+        "ليس أقرب من 100 feet"
+      ],
+      "h1": "إنها أكثر من المسافة المطلوبة عن حنفية الإطفاء.",
+      "h2": "في Montana يجب ألّا تركن سيارتك على بُعد أقل من 50 feet من أقرب سكة في معبر السكة الحديد.",
+      "p": "صحيح. اركن على بُعد 50 feet على الأقل من معبر السكة الحديد."
     }
   },
   {
@@ -2981,6 +3557,54 @@
       "h1": "Los conductores necesitan ver la señal desde lejos.",
       "h2": "En Montana no puede estacionarse a menos de 30 pies de una señal de alto, de ceda el paso o de un semáforo al lado de la vía.",
       "p": "Correcto. Estaciónese al menos a 30 pies de una señal de alto."
+    },
+    "zh": {
+      "q": "在 Montana，你可以在离停车标志多近的地方停车？",
+      "o": [
+        "不得近于 10 英尺",
+        "不得近于 20 英尺",
+        "不得近于 30 英尺",
+        "不得近于 50 英尺"
+      ],
+      "h1": "司机需要从很远的地方看到标志。",
+      "h2": "在 Montana，你不可以在路边的停车标志、让行标志或交通信号灯 30 英尺之内停车。",
+      "p": "对。停车要离停车标志至少 30 英尺。"
+    },
+    "vi": {
+      "q": "Ở Montana, bạn được đậu xe gần biển dừng (stop) đến mức nào?",
+      "o": [
+        "Không gần hơn 10 feet",
+        "Không gần hơn 20 feet",
+        "Không gần hơn 30 feet",
+        "Không gần hơn 50 feet"
+      ],
+      "h1": "Tài xế cần nhìn thấy biển báo từ xa.",
+      "h2": "Ở Montana, bạn không được đậu xe trong vòng 30 feet tính từ biển dừng, biển nhường đường hoặc đèn giao thông ở bên đường.",
+      "p": "Đúng. Đậu xe cách biển dừng ít nhất 30 feet."
+    },
+    "tl": {
+      "q": "Sa Montana, gaano kalapit sa stop sign ka maaaring pumarada?",
+      "o": [
+        "Hindi lalapit sa 10 feet",
+        "Hindi lalapit sa 20 feet",
+        "Hindi lalapit sa 30 feet",
+        "Hindi lalapit sa 50 feet"
+      ],
+      "h1": "Kailangang makita ng mga drayber ang karatula mula sa malayo.",
+      "h2": "Sa Montana, hindi ka maaaring pumarada sa loob ng 30 feet mula sa stop sign, yield sign, o traffic signal sa gilid ng daan.",
+      "p": "Tama. Pumarada nang hindi bababa sa 30 feet mula sa stop sign."
+    },
+    "ar": {
+      "q": "في Montana، كم يمكنك أن تقترب من إشارة قف عندما تركن سيارتك؟",
+      "o": [
+        "ليس أقرب من 10 feet",
+        "ليس أقرب من 20 feet",
+        "ليس أقرب من 30 feet",
+        "ليس أقرب من 50 feet"
+      ],
+      "h1": "يحتاج السائقون إلى رؤية الإشارة من بعيد.",
+      "h2": "في Montana يجب ألّا تركن سيارتك على بُعد أقل من 30 feet من إشارة قف أو إشارة أفضلية المرور أو إشارة ضوئية على جانب الطريق.",
+      "p": "صحيح. اركن على بُعد 30 feet على الأقل من إشارة قف."
     }
   },
   {
@@ -3015,6 +3639,54 @@
       "h1": "Es más que una multa por exceso de velocidad, que son 3.",
       "h2": "En Montana, una condena por manejar sin seguro de responsabilidad civil agrega 5 puntos a su historial de manejo, además de la multa.",
       "p": "Correcto. Manejar sin seguro son 5 puntos en su historial."
+    },
+    "zh": {
+      "q": "在 Montana，你因没有责任保险开车被定罪。你的驾驶记录上会加几分？",
+      "o": [
+        "2 分",
+        "3 分",
+        "10 分",
+        "5 分"
+      ],
+      "h1": "比超速罚单的 3 分多。",
+      "h2": "在 Montana，没有责任保险开车被定罪，除了罚款，还会在你的驾驶记录上加 5 分。",
+      "p": "对。没有保险会在记录上加 5 分。"
+    },
+    "vi": {
+      "q": "Ở Montana, bạn bị kết tội lái xe không có bảo hiểm trách nhiệm. Hồ sơ lái xe của bạn bị ghi bao nhiêu điểm?",
+      "o": [
+        "2 điểm",
+        "3 điểm",
+        "10 điểm",
+        "5 điểm"
+      ],
+      "h1": "Nhiều hơn vé phạt chạy quá tốc độ, là 3 điểm.",
+      "h2": "Ở Montana, bị kết tội lái xe không có bảo hiểm trách nhiệm sẽ bị ghi 5 điểm vào hồ sơ lái xe, ngoài tiền phạt.",
+      "p": "Đúng. Không có bảo hiểm nghĩa là bị ghi 5 điểm vào hồ sơ."
+    },
+    "tl": {
+      "q": "Sa Montana, nahatulan ka sa pagmamaneho nang walang liability insurance. Ilang puntos ang mapupunta sa iyong driving record?",
+      "o": [
+        "2 puntos",
+        "3 puntos",
+        "10 puntos",
+        "5 puntos"
+      ],
+      "h1": "Mas marami ito kaysa sa ticket sa sobrang bilis, na 3.",
+      "h2": "Sa Montana, ang hatol sa pagmamaneho nang walang liability insurance ay nagdaragdag ng 5 puntos sa iyong driving record, bukod pa sa multa.",
+      "p": "Tama. Ang walang insurance ay 5 puntos sa iyong record."
+    },
+    "ar": {
+      "q": "في Montana، أُدنت بالقيادة دون تأمين المسؤولية. كم نقطة تُضاف إلى سجل القيادة الخاص بك؟",
+      "o": [
+        "نقطتان",
+        "3 نقاط",
+        "10 نقاط",
+        "5 نقاط"
+      ],
+      "h1": "إنها أكثر من مخالفة السرعة، وهي 3.",
+      "h2": "في Montana، الإدانة بالقيادة دون تأمين المسؤولية تضيف 5 نقاط إلى سجل القيادة الخاص بك، بالإضافة إلى الغرامة.",
+      "p": "صحيح. عدم وجود تأمين يعني 5 نقاط في سجلك."
     }
   },
   {
@@ -3049,6 +3721,54 @@
       "h1": "Los clavos son para la parte del año con nieve, que en Montana es larga.",
       "h2": "En Montana, las llantas con clavos solo se pueden usar del 1 de octubre al 31 de mayo, porque dañan las carreteras.",
       "p": "Correcto. Las llantas con clavos se permiten del 1 de octubre al 31 de mayo."
+    },
+    "zh": {
+      "q": "在 Montana，哪几个月可以使用防滑钉轮胎？",
+      "o": [
+        "10 月 1 日到 5 月 31 日",
+        "全年都可以",
+        "11 月 1 日到 3 月 31 日",
+        "6 月 1 日到 9 月 30 日"
+      ],
+      "h1": "防滑钉是给一年中下雪的时候用的，在 Montana 这段时间很长。",
+      "h2": "在 Montana，防滑钉轮胎只能在 10 月 1 日到 5 月 31 日使用，因为它们会损坏道路。",
+      "p": "对。防滑钉轮胎可以在 10 月 1 日到 5 月 31 日使用。"
+    },
+    "vi": {
+      "q": "Ở Montana, bạn được dùng lốp có đinh vào những tháng nào?",
+      "o": [
+        "Từ 1 tháng 10 đến 31 tháng 5",
+        "Quanh năm",
+        "Từ 1 tháng 11 đến 31 tháng 3",
+        "Từ 1 tháng 6 đến 30 tháng 9"
+      ],
+      "h1": "Đinh dùng cho mùa tuyết trong năm, mà ở Montana mùa này rất dài.",
+      "h2": "Ở Montana, lốp có đinh chỉ được dùng từ 1 tháng 10 đến 31 tháng 5, vì chúng làm hỏng mặt đường.",
+      "p": "Đúng. Lốp có đinh được dùng từ 1 tháng 10 đến 31 tháng 5."
+    },
+    "tl": {
+      "q": "Sa Montana, sa anong mga buwan maaaring gumamit ng studded tires?",
+      "o": [
+        "Oktubre 1 hanggang Mayo 31",
+        "Buong taon",
+        "Nobyembre 1 hanggang Marso 31",
+        "Hunyo 1 hanggang Setyembre 30"
+      ],
+      "h1": "Ang studs ay para sa panahon ng niyebe, na mahaba sa Montana.",
+      "h2": "Sa Montana, maaaring gamitin ang studded tires mula Oktubre 1 hanggang Mayo 31 lamang, dahil sinisira nila ang mga daan.",
+      "p": "Tama. Pinapayagan ang studded tires mula Oktubre 1 hanggang Mayo 31."
+    },
+    "ar": {
+      "q": "في Montana، في أي أشهر يجوز لك استخدام الإطارات ذات المسامير؟",
+      "o": [
+        "من 1 أكتوبر حتى 31 مايو",
+        "طوال السنة",
+        "من 1 نوفمبر حتى 31 مارس",
+        "من 1 يونيو حتى 30 سبتمبر"
+      ],
+      "h1": "المسامير لفصل الثلج من السنة، وهو طويل في Montana.",
+      "h2": "في Montana، لا يجوز استخدام الإطارات ذات المسامير إلا من 1 أكتوبر حتى 31 مايو، لأنها تُتلف الطرق.",
+      "p": "صحيح. الإطارات ذات المسامير مسموحة من 1 أكتوبر حتى 31 مايو."
     }
   },
   {
@@ -3083,6 +3803,54 @@
       "h1": "Divida entre dos el número del letrero.",
       "h2": "La ley de Montana dice que cuando un vehículo agrícola viene hacia usted, debe bajar a la mitad del límite de velocidad indicado.",
       "p": "Correcto. Baje a la mitad del límite ante un vehículo agrícola que viene de frente."
+    },
+    "zh": {
+      "q": "在 Montana，一辆农用拖拉机或其他农用车在公路上朝你开过来。你必须怎样减速？",
+      "o": [
+        "减速 5 mph",
+        "减到限速的一半",
+        "停车等它开过去",
+        "保持速度并按喇叭"
+      ],
+      "h1": "把限速的数字除以二。",
+      "h2": "Montana 法律规定，农用车朝你开过来时，你必须把速度减到限速的一半。",
+      "p": "对。对面来农用车时，把速度减到限速的一半。"
+    },
+    "vi": {
+      "q": "Ở Montana, một máy kéo nông trại hoặc xe nông nghiệp khác đang chạy về phía bạn trên xa lộ. Bạn phải giảm tốc như thế nào?",
+      "o": [
+        "Giảm 5 mph",
+        "Giảm xuống còn một nửa tốc độ giới hạn",
+        "Dừng lại cho đến khi nó đi qua",
+        "Giữ tốc độ và bấm còi"
+      ],
+      "h1": "Chia đôi con số tốc độ giới hạn.",
+      "h2": "Luật Montana nói rằng khi xe nông nghiệp chạy về phía bạn, bạn phải giảm xuống còn một nửa tốc độ giới hạn.",
+      "p": "Đúng. Giảm còn một nửa tốc độ giới hạn khi có xe nông nghiệp chạy ngược chiều."
+    },
+    "tl": {
+      "q": "Sa Montana, papalapit sa iyo sa highway ang isang farm tractor o ibang sasakyang pansakahan. Paano ka dapat bumagal?",
+      "o": [
+        "Bumagal nang 5 mph",
+        "Bumagal hanggang kalahati ng speed limit",
+        "Huminto hanggang makalampas ito",
+        "Panatilihin ang bilis at bumusina"
+      ],
+      "h1": "Hatiin sa dalawa ang nakapaskil na numero.",
+      "h2": "Sinasabi ng batas ng Montana na kapag papalapit sa iyo ang sasakyang pansakahan, dapat kang bumagal hanggang kalahati ng speed limit.",
+      "p": "Tama. Bumagal hanggang kalahati ng speed limit para sa paparating na sasakyang pansakahan."
+    },
+    "ar": {
+      "q": "في Montana، جرار زراعي أو مركبة زراعية أخرى قادمة نحوك على الطريق السريع. كيف يجب أن تخفف سرعتك؟",
+      "o": [
+        "خفّف 5 mph",
+        "خفّف إلى نصف الحد الأقصى للسرعة",
+        "توقف حتى تمر",
+        "حافظ على سرعتك واستخدم البوق"
+      ],
+      "h1": "اقسم الرقم المكتوب على اللافتة على اثنين.",
+      "h2": "ينص قانون Montana على أنه عندما تأتي مركبة زراعية نحوك، يجب أن تخفف سرعتك إلى نصف الحد الأقصى للسرعة.",
+      "p": "صحيح. خفّف إلى نصف الحد الأقصى للسرعة عندما تأتي مركبة زراعية من الاتجاه المقابل."
     }
   },
   {
@@ -3117,6 +3885,54 @@
       "h1": "Es el doble de la velocidad máxima de los autos que pasa.",
       "h2": "La ley de Montana permite el lane filtering solo junto a vehículos que van a 10 mph o menos, y la motocicleta no puede ir a más de 20 mph.",
       "p": "Correcto. Una motocicleta que hace lane filtering puede ir hasta 20 mph."
+    },
+    "zh": {
+      "q": "在 Montana，摩托车可以在同一车道内从停着或开得很慢的汽车旁边穿过（\"lane filtering\"，车道穿行）。这样做时摩托车最快可以开多快？",
+      "o": [
+        "不超过 40 mph",
+        "任何感觉安全的速度",
+        "不超过 5 mph",
+        "不超过 20 mph"
+      ],
+      "h1": "是被超过的汽车最高速度的两倍。",
+      "h2": "Montana 法律只允许在车速 10 mph 或更低的车辆旁边车道穿行，而且摩托车速度不能超过 20 mph。",
+      "p": "对。车道穿行的摩托车最快可以开 20 mph。"
+    },
+    "vi": {
+      "q": "Ở Montana, xe máy được đi qua giữa các xe đang dừng hoặc chạy rất chậm trong cùng một làn (\"lane filtering\"). Khi làm vậy, xe máy được chạy nhanh đến mức nào?",
+      "o": [
+        "Không quá 40 mph",
+        "Tốc độ nào cảm thấy an toàn",
+        "Không quá 5 mph",
+        "Không quá 20 mph"
+      ],
+      "h1": "Gấp đôi tốc độ tối đa của các xe đang bị vượt.",
+      "h2": "Luật Montana chỉ cho phép lane filtering khi đi qua các xe chạy 10 mph hoặc chậm hơn, và xe máy không được chạy quá 20 mph.",
+      "p": "Đúng. Xe máy khi lane filtering được chạy tối đa 20 mph."
+    },
+    "tl": {
+      "q": "Sa Montana, maaaring lampasan ng motorsiklo ang mga nakahinto o napakabagal na kotse sa parehong lane (\"lane filtering\"). Gaano kabilis maaaring tumakbo ang motorsiklo habang ginagawa ito?",
+      "o": [
+        "Hindi lalampas sa 40 mph",
+        "Anumang bilis na pakiramdam ay ligtas",
+        "Hindi lalampas sa 5 mph",
+        "Hindi lalampas sa 20 mph"
+      ],
+      "h1": "Doble ito ng pinakamataas na bilis ng mga kotseng nilalampasan.",
+      "h2": "Pinapayagan ng batas ng Montana ang lane filtering lamang sa paglampas sa mga sasakyang tumatakbo nang 10 mph o mas mabagal, at hindi maaaring lumampas ang motorsiklo sa 20 mph.",
+      "p": "Tama. Ang motorsiklong nagla-lane filtering ay maaaring tumakbo nang hanggang 20 mph."
+    },
+    "ar": {
+      "q": "في Montana، يجوز للدراجة النارية أن تمر بين السيارات المتوقفة أو البطيئة جدًا في الحارة نفسها (\"lane filtering\"). ما أقصى سرعة للدراجة النارية أثناء ذلك؟",
+      "o": [
+        "ليس أسرع من 40 mph",
+        "أي سرعة تبدو آمنة",
+        "ليس أسرع من 5 mph",
+        "ليس أسرع من 20 mph"
+      ],
+      "h1": "إنها ضعف أقصى سرعة للسيارات التي تمر بجانبها.",
+      "h2": "يسمح قانون Montana بالـ lane filtering فقط بجانب المركبات التي تسير بسرعة 10 mph أو أقل، ويجب ألّا تتجاوز سرعة الدراجة النارية 20 mph.",
+      "p": "صحيح. الدراجة النارية التي تمر بين السيارات يجوز أن تسير حتى 20 mph."
     }
   },
   {
@@ -3151,6 +3967,54 @@
       "h1": "Es medio año.",
       "h2": "En Montana, la primera negativa a una prueba legal de alcohol o drogas suspende su licencia por 6 meses, sin licencia restringida.",
       "p": "Correcto. La primera negativa trae una suspensión de 6 meses."
+    },
+    "zh": {
+      "q": "在 Montana，你被依法要求接受酒精或毒品检测，而你第一次拒绝。你的驾照会怎样？",
+      "o": [
+        "如果你没有喝醉，就什么事都没有",
+        "暂停 30 天",
+        "暂停 6 个月",
+        "终身吊销"
+      ],
+      "h1": "是半年。",
+      "h2": "在 Montana，第一次拒绝依法进行的酒精或毒品检测，驾照会被暂停 6 个月，而且不能拿限制驾照。",
+      "p": "对。第一次拒绝会被暂停驾照 6 个月。"
+    },
+    "vi": {
+      "q": "Ở Montana, bạn được yêu cầu hợp pháp làm xét nghiệm rượu bia hoặc ma túy và bạn từ chối lần đầu. Bằng lái của bạn sẽ ra sao?",
+      "o": [
+        "Không sao cả, nếu bạn không say",
+        "Bị treo 30 ngày",
+        "Bị treo 6 tháng",
+        "Bị thu hồi vĩnh viễn"
+      ],
+      "h1": "Đó là nửa năm.",
+      "h2": "Ở Montana, từ chối lần đầu xét nghiệm rượu bia hoặc ma túy hợp pháp sẽ bị treo bằng lái 6 tháng, không có bằng lái hạn chế.",
+      "p": "Đúng. Từ chối lần đầu nghĩa là bị treo bằng 6 tháng."
+    },
+    "tl": {
+      "q": "Sa Montana, legal kang hiniling na magpa-test para sa alak o droga at tumanggi ka sa unang pagkakataon. Ano ang mangyayari sa iyong license?",
+      "o": [
+        "Wala, kung hindi ka lasing",
+        "Masususpinde ito nang 30 araw",
+        "Masususpinde ito nang 6 na buwan",
+        "Babawiin ito habambuhay"
+      ],
+      "h1": "Kalahating taon ito.",
+      "h2": "Sa Montana, ang unang pagtanggi sa legal na test para sa alak o droga ay sumususpinde sa iyong license nang 6 na buwan, nang walang restricted license.",
+      "p": "Tama. Ang unang pagtanggi ay 6 na buwang suspensyon."
+    },
+    "ar": {
+      "q": "في Montana، طُلب منك بشكل قانوني إجراء فحص للكحول أو المخدرات ورفضت لأول مرة. ماذا يحدث لرخصتك؟",
+      "o": [
+        "لا شيء، إذا لم تكن مخمورًا",
+        "تُوقف لمدة 30 يومًا",
+        "تُوقف لمدة 6 أشهر",
+        "تُسحب مدى الحياة"
+      ],
+      "h1": "إنها نصف سنة.",
+      "h2": "في Montana، الرفض الأول لفحص قانوني للكحول أو المخدرات يوقف رخصتك لمدة 6 أشهر، دون رخصة مقيدة.",
+      "p": "صحيح. الرفض الأول يعني إيقاف الرخصة 6 أشهر."
     }
   },
   {
@@ -3185,6 +4049,54 @@
       "h1": "Piense en diez puntos por cada año.",
       "h2": "En Montana, un conductor que acumula 30 puntos o más por condenas en 3 años es un infractor habitual de tránsito.",
       "p": "Correcto. 30 puntos en 3 años hacen a un infractor habitual."
+    },
+    "zh": {
+      "q": "在 Montana，司机累积多少分后会成为\"惯犯交通违规者\"（habitual traffic offender）？",
+      "o": [
+        "3 年内 30 分",
+        "1 年内 12 分",
+        "2 年内 20 分",
+        "5 年内 50 分"
+      ],
+      "h1": "想想每年十分。",
+      "h2": "在 Montana，3 年内被定罪累积 30 分或以上的司机就是惯犯交通违规者（habitual traffic offender）。",
+      "p": "对。3 年内 30 分就成为惯犯交通违规者。"
+    },
+    "vi": {
+      "q": "Ở Montana, tài xế trở thành \"người vi phạm giao thông thường xuyên\" (habitual traffic offender) sau khi bị bao nhiêu điểm?",
+      "o": [
+        "30 điểm trong vòng 3 năm",
+        "12 điểm trong vòng 1 năm",
+        "20 điểm trong vòng 2 năm",
+        "50 điểm trong vòng 5 năm"
+      ],
+      "h1": "Hãy nghĩ mười điểm cho mỗi năm.",
+      "h2": "Ở Montana, tài xế bị 30 điểm kết tội trở lên trong vòng 3 năm là người vi phạm giao thông thường xuyên (habitual traffic offender).",
+      "p": "Đúng. 30 điểm trong 3 năm là người vi phạm giao thông thường xuyên."
+    },
+    "tl": {
+      "q": "Sa Montana, nagiging \"habitual traffic offender\" ang isang drayber pagkatapos makaipon ng ilang puntos?",
+      "o": [
+        "30 puntos sa loob ng 3 taon",
+        "12 puntos sa loob ng 1 taon",
+        "20 puntos sa loob ng 2 taon",
+        "50 puntos sa loob ng 5 taon"
+      ],
+      "h1": "Isipin ang sampung puntos bawat taon.",
+      "h2": "Sa Montana, ang drayber na nakakuha ng 30 o higit pang puntos mula sa mga hatol sa loob ng 3 taon ay isang habitual traffic offender.",
+      "p": "Tama. Ang 30 puntos sa loob ng 3 taon ay nagiging habitual traffic offender."
+    },
+    "ar": {
+      "q": "في Montana، يصبح السائق \"مخالفًا مروريًا معتادًا\" (habitual traffic offender) بعد جمع كم نقطة؟",
+      "o": [
+        "30 نقطة خلال 3 سنوات",
+        "12 نقطة خلال سنة واحدة",
+        "20 نقطة خلال سنتين",
+        "50 نقطة خلال 5 سنوات"
+      ],
+      "h1": "فكّر في عشر نقاط لكل سنة.",
+      "h2": "في Montana، السائق الذي يحصل على 30 نقطة إدانة أو أكثر خلال 3 سنوات هو مخالف مروري معتاد (habitual traffic offender).",
+      "p": "صحيح. 30 نقطة في 3 سنوات تجعلك مخالفًا مروريًا معتادًا."
     }
   },
   {
@@ -3219,6 +4131,54 @@
       "h1": "Es una cantidad de cuatro cifras.",
       "h2": "La ley de Montana dice que avise a la policía de inmediato después de un choque con heridos, muertos o daños que parezcan ser de $1,000 o más.",
       "p": "Correcto. Los daños de $1,000 o más se deben reportar de inmediato."
+    },
+    "zh": {
+      "q": "在 Montana，你出了一场没有人受伤的车祸。如果损失看起来至少达到多少，你必须马上报警？",
+      "o": [
+        "$250",
+        "$1,000",
+        "$2,500",
+        "$5,000"
+      ],
+      "h1": "是一个四位数的金额。",
+      "h2": "Montana 法律规定，车祸造成受伤、死亡，或损失看起来达到 $1,000 或以上时，要马上报警。",
+      "p": "对。损失达到 $1,000 或以上必须马上报告。"
+    },
+    "vi": {
+      "q": "Ở Montana, bạn gặp tai nạn mà không ai bị thương. Bạn phải báo cảnh sát ngay nếu thiệt hại có vẻ ít nhất là bao nhiêu?",
+      "o": [
+        "$250",
+        "$1,000",
+        "$2,500",
+        "$5,000"
+      ],
+      "h1": "Đó là số tiền có bốn chữ số.",
+      "h2": "Luật Montana nói rằng phải báo cảnh sát ngay sau một tai nạn có người bị thương, người chết, hoặc thiệt hại có vẻ từ $1,000 trở lên.",
+      "p": "Đúng. Thiệt hại từ $1,000 trở lên phải được báo ngay."
+    },
+    "tl": {
+      "q": "Sa Montana, nagkaroon ka ng banggaan na walang nasaktan. Dapat mong sabihan agad ang pulis kung mukhang hindi bababa sa magkano ang pinsala?",
+      "o": [
+        "$250",
+        "$1,000",
+        "$2,500",
+        "$5,000"
+      ],
+      "h1": "Halagang may apat na digit ito.",
+      "h2": "Sinasabi ng batas ng Montana na sabihan agad ang pulis pagkatapos ng banggaan na may nasaktan, namatay, o pinsalang mukhang $1,000 o higit pa.",
+      "p": "Tama. Ang pinsalang $1,000 o higit pa ay dapat iulat agad."
+    },
+    "ar": {
+      "q": "في Montana، وقع لك حادث لم يُصب فيه أحد. يجب أن تُبلغ الشرطة فورًا إذا بدا أن الضرر يساوي على الأقل كم؟",
+      "o": [
+        "$250",
+        "$1,000",
+        "$2,500",
+        "$5,000"
+      ],
+      "h1": "إنه مبلغ من أربعة أرقام.",
+      "h2": "ينص قانون Montana على إبلاغ الشرطة فورًا بعد حادث فيه إصابة أو وفاة أو ضرر يبدو أنه $1,000 أو أكثر.",
+      "p": "صحيح. الضرر الذي يبلغ $1,000 أو أكثر يجب الإبلاغ عنه فورًا."
     }
   }
 ]

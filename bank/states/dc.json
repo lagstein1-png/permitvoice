@@ -2573,6 +2573,54 @@
       "h1": "Son unos dos meses.",
       "h2": "En el Distrito de Columbia, un nuevo residente debe sacar una licencia de conducir de DC dentro de los 60 días después de mudarse.",
       "p": "Correcto. Los nuevos residentes tienen 60 días para sacar una licencia de DC."
+    },
+    "zh": {
+      "q": "在 District of Columbia，你带着其他地方的驾照搬到 DC。你必须多快拿到 DC 驾照？",
+      "o": [
+        "10 天内",
+        "60 天内",
+        "6 个月内",
+        "1 年内"
+      ],
+      "h1": "大约是两个月。",
+      "h2": "在 District of Columbia，新居民必须在搬来后 60 天内拿到 DC 驾照。",
+      "p": "对。新居民有 60 天时间拿到 DC 驾照。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, bạn chuyển đến DC với bằng lái của nơi khác. Bạn phải lấy bằng lái DC trong bao lâu?",
+      "o": [
+        "Trong vòng 10 ngày",
+        "Trong vòng 60 ngày",
+        "Trong vòng 6 tháng",
+        "Trong vòng 1 năm"
+      ],
+      "h1": "Khoảng hai tháng.",
+      "h2": "Ở District of Columbia, cư dân mới phải lấy bằng lái DC trong vòng 60 ngày sau khi chuyển đến.",
+      "p": "Đúng. Cư dân mới có 60 ngày để lấy bằng lái DC."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, lumipat ka sa DC na may lisensya mula sa ibang lugar. Gaano kabilis ka dapat kumuha ng DC driver license?",
+      "o": [
+        "Sa loob ng 10 araw",
+        "Sa loob ng 60 araw",
+        "Sa loob ng 6 na buwan",
+        "Sa loob ng 1 taon"
+      ],
+      "h1": "Mga dalawang buwan ito.",
+      "h2": "Sa District of Columbia, dapat kumuha ang bagong residente ng DC driver license sa loob ng 60 araw mula nang lumipat siya roon.",
+      "p": "Tama. May 60 araw ang bagong residente para kumuha ng DC license."
+    },
+    "ar": {
+      "q": "في District of Columbia، انتقلت إلى DC ومعك رخصة من مكان آخر. خلال كم من الوقت يجب أن تحصل على رخصة قيادة من DC؟",
+      "o": [
+        "خلال 10 أيام",
+        "خلال 60 يومًا",
+        "خلال 6 أشهر",
+        "خلال سنة واحدة (1)"
+      ],
+      "h1": "المدة شهران تقريبًا.",
+      "h2": "في District of Columbia يجب على المقيم الجديد أن يحصل على رخصة قيادة من DC خلال 60 يومًا من انتقاله إليها.",
+      "p": "صحيح. لدى المقيم الجديد 60 يومًا للحصول على رخصة DC."
     }
   },
   {
@@ -2607,6 +2655,54 @@
       "h1": "Es el mismo tiempo que tiene un nuevo residente para sacar la licencia.",
       "h2": "En el Distrito de Columbia, los residentes deben actualizar su dirección con el DMV dentro de los 60 días.",
       "p": "Correcto. Actualice su dirección dentro de los 60 días."
+    },
+    "zh": {
+      "q": "在 District of Columbia，你搬了新家。你必须多快把新地址告诉 DMV？",
+      "o": [
+        "5 天内",
+        "10 天内",
+        "1 年内",
+        "60 天内"
+      ],
+      "h1": "它和新居民拿驾照的时间一样长。",
+      "h2": "在 District of Columbia，居民必须在 60 天内向 DMV 更新地址。",
+      "p": "对。60 天内更新你的地址。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, bạn chuyển đến nhà mới. Bạn phải báo địa chỉ mới cho DMV trong bao lâu?",
+      "o": [
+        "Trong vòng 5 ngày",
+        "Trong vòng 10 ngày",
+        "Trong vòng 1 năm",
+        "Trong vòng 60 ngày"
+      ],
+      "h1": "Đó là cùng thời gian mà cư dân mới có để lấy bằng lái.",
+      "h2": "Ở District of Columbia, cư dân phải cập nhật địa chỉ với DMV trong vòng 60 ngày.",
+      "p": "Đúng. Hãy cập nhật địa chỉ trong vòng 60 ngày."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, lumipat ka sa bagong bahay. Gaano kabilis mo dapat sabihin sa DMV ang bago mong address?",
+      "o": [
+        "Sa loob ng 5 araw",
+        "Sa loob ng 10 araw",
+        "Sa loob ng 1 taon",
+        "Sa loob ng 60 araw"
+      ],
+      "h1": "Pareho ito sa tagal na mayroon ang bagong residente para kumuha ng lisensya.",
+      "h2": "Sa District of Columbia, dapat i-update ng mga residente ang kanilang address sa DMV sa loob ng 60 araw.",
+      "p": "Tama. I-update ang address mo sa loob ng 60 araw."
+    },
+    "ar": {
+      "q": "في District of Columbia، انتقلت إلى بيت جديد. خلال كم من الوقت يجب أن تُبلغ DMV بعنوانك الجديد؟",
+      "o": [
+        "خلال 5 أيام",
+        "خلال 10 أيام",
+        "خلال سنة واحدة (1)",
+        "خلال 60 يومًا"
+      ],
+      "h1": "هي نفس المدة التي لدى المقيم الجديد للحصول على رخصة.",
+      "h2": "في District of Columbia يجب على المقيمين تحديث عنوانهم لدى DMV خلال 60 يومًا.",
+      "p": "صحيح. حدّث عنوانك خلال 60 يومًا."
     }
   },
   {
@@ -2641,6 +2737,54 @@
       "h1": "Después de tanto tiempo, el DMV quiere ver lo que usted sabe y cómo maneja.",
       "h2": "En el Distrito de Columbia, si su licencia lleva más de 545 días vencida, debe aprobar el examen de conocimientos y el examen de manejo.",
       "p": "Correcto. Después de 545 días, se toman los dos exámenes otra vez."
+    },
+    "zh": {
+      "q": "在 District of Columbia，你的驾照已经过期超过 545 天。你必须做什么才能拿回驾照？",
+      "o": [
+        "笔试和路考都要通过",
+        "只交滞纳金",
+        "只通过视力检查",
+        "只上一门网上交通学校课程"
+      ],
+      "h1": "过了这么久，DMV 想看你懂多少，也想看你怎么开车。",
+      "h2": "在 District of Columbia，如果你的驾照过期超过 545 天，你必须通过笔试和路考。",
+      "p": "对。过了 545 天，两个考试都要重新考。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, bằng lái của bạn đã hết hạn hơn 545 ngày. Bạn phải làm gì để lấy lại?",
+      "o": [
+        "Thi đậu cả bài thi lý thuyết và bài thi lái xe trên đường",
+        "Chỉ trả phí trễ hạn",
+        "Chỉ kiểm tra thị lực",
+        "Chỉ học một khóa trường luật giao thông trực tuyến"
+      ],
+      "h1": "Sau thời gian lâu như vậy, DMV muốn xem cả kiến thức lẫn cách bạn lái xe.",
+      "h2": "Ở District of Columbia, nếu bằng lái của bạn đã hết hạn hơn 545 ngày, bạn phải thi đậu cả bài thi lý thuyết và bài thi lái xe trên đường.",
+      "p": "Đúng. Sau 545 ngày, bạn phải thi lại cả hai bài."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, expired na ang driver license mo nang higit sa 545 araw. Ano ang dapat mong gawin para makuha ito ulit?",
+      "o": [
+        "Pumasa sa knowledge test at sa road skills test",
+        "Magbayad lang ng late fee",
+        "Pumasa lang sa vision screening",
+        "Kumuha lang ng online na kurso sa traffic school"
+      ],
+      "h1": "Pagkatapos ng ganito katagal, gusto ng DMV na makita ang alam mo at kung paano ka magmaneho.",
+      "h2": "Sa District of Columbia, kung expired na ang lisensya mo nang higit sa 545 araw, dapat kang pumasa sa knowledge test at sa road skills test.",
+      "p": "Tama. Pagkalipas ng 545 araw, kukunin mo ulit ang dalawang test."
+    },
+    "ar": {
+      "q": "في District of Columbia، انتهت صلاحية رخصة القيادة الخاصة بك منذ أكثر من 545 يومًا. ماذا يجب أن تفعل لاستعادتها؟",
+      "o": [
+        "أن تنجح في الاختبار النظري واختبار القيادة على الطريق معًا",
+        "أن تدفع رسوم تأخير فقط",
+        "أن تجتاز فحص النظر فقط",
+        "أن تأخذ دورة مدرسة مرور على الإنترنت فقط"
+      ],
+      "h1": "بعد كل هذه المدة يريد DMV أن يرى ما تعرفه وكيف تقود.",
+      "h2": "في District of Columbia إذا انتهت صلاحية رخصتك منذ أكثر من 545 يومًا، يجب أن تنجح في الاختبار النظري واختبار القيادة على الطريق معًا.",
+      "p": "صحيح. بعد 545 يومًا تعيد الاختبارين كليهما."
     }
   },
   {
@@ -2675,6 +2819,54 @@
       "h1": "Un profesional de la salud debe decir que usted todavía puede manejar con seguridad.",
       "h2": "En el Distrito de Columbia, un conductor que tenga 70 años o más cuando venza su licencia debe pedirle a un médico que llene la sección de Conductor Mayor de la solicitud.",
       "p": "Correcto. A partir de los 70, su médico firma la sección de Conductor Mayor."
+    },
+    "zh": {
+      "q": "在 District of Columbia，你的驾照到期时你将满 70 岁或以上。续期需要多做哪一步？",
+      "o": [
+        "每年重新考一次路考",
+        "只在白天开车",
+        "请你的医生填写申请表上的 Mature Driver 部分",
+        "先重新拿一个学习驾照"
+      ],
+      "h1": "必须由医疗人员说明你还能安全开车。",
+      "h2": "在 District of Columbia，驾照到期时满 70 岁或以上的司机，必须请医生填写申请表上的 Mature Driver 部分。",
+      "p": "对。70 岁以上，要请医生签 Mature Driver 部分。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, bạn sẽ 70 tuổi trở lên khi bằng lái hết hạn. Bạn cần làm thêm bước nào để gia hạn?",
+      "o": [
+        "Thi lại bài thi lái xe trên đường mỗi năm",
+        "Chỉ lái xe ban ngày",
+        "Nhờ bác sĩ điền phần Mature Driver trong đơn",
+        "Lấy giấy phép tập lái mới trước"
+      ],
+      "h1": "Một nhân viên y tế phải xác nhận bạn vẫn lái xe an toàn được.",
+      "h2": "Ở District of Columbia, người lái xe 70 tuổi trở lên khi bằng lái hết hạn phải nhờ bác sĩ điền phần Mature Driver trong đơn.",
+      "p": "Đúng. Từ 70 tuổi trở lên, bác sĩ của bạn ký phần Mature Driver."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, ikaw ay 70 taong gulang o higit pa kapag nag-expire ang lisensya mo. Anong dagdag na hakbang ang kailangan para ma-renew ito?",
+      "o": [
+        "Kunin ulit ang road skills test taon-taon",
+        "Magmaneho lang sa araw",
+        "Ipasagot sa doktor mo ang Mature Driver section ng application",
+        "Kumuha muna ng bagong learner permit"
+      ],
+      "h1": "Dapat sabihin ng isang medical professional na kaya mo pang magmaneho nang ligtas.",
+      "h2": "Sa District of Columbia, ang driver na 70 taong gulang o higit pa kapag nag-expire ang lisensya ay dapat ipasagot sa doktor ang Mature Driver section ng application.",
+      "p": "Tama. Sa edad na 70 pataas, pipirmahan ng doktor mo ang Mature Driver section."
+    },
+    "ar": {
+      "q": "في District of Columbia، سيكون عمرك 70 سنة أو أكثر عند انتهاء صلاحية رخصتك. ما الخطوة الإضافية التي تحتاجها لتجديدها؟",
+      "o": [
+        "أن تعيد اختبار القيادة على الطريق كل سنة",
+        "أن تقود في النهار فقط",
+        "أن يملأ طبيبك قسم Mature Driver في الطلب",
+        "أن تحصل على تصريح تعلّم جديد أولًا"
+      ],
+      "h1": "يجب أن يقول مختص طبي إنك ما زلت تستطيع القيادة بأمان.",
+      "h2": "في District of Columbia السائق الذي يكون عمره 70 سنة أو أكثر عند انتهاء صلاحية رخصته يجب أن يملأ طبيبه قسم Mature Driver في الطلب.",
+      "p": "صحيح. من عمر 70 فما فوق يوقّع طبيبك قسم Mature Driver."
     }
   },
   {
@@ -2709,6 +2901,54 @@
       "h1": "Son tres días, contados en horas.",
       "h2": "En el Distrito de Columbia, si no aprueba el examen de manejo, debe esperar 72 horas antes de tomarlo otra vez.",
       "p": "Correcto. Espere 72 horas antes del próximo examen de manejo."
+    },
+    "zh": {
+      "q": "在 District of Columbia，你路考没有通过。你必须等多久才能再考？",
+      "o": [
+        "你当天就可以再考",
+        "24 小时",
+        "30 天",
+        "72 小时"
+      ],
+      "h1": "是三天，用小时来算。",
+      "h2": "在 District of Columbia，路考没有通过后，你必须等 72 小时才能再考。",
+      "p": "对。等 72 小时再考下一次路考。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, bạn thi trượt bài thi lái xe trên đường. Bạn phải chờ bao lâu trước khi thi lại?",
+      "o": [
+        "Bạn có thể thi lại ngay trong ngày",
+        "24 giờ",
+        "30 ngày",
+        "72 giờ"
+      ],
+      "h1": "Đó là ba ngày, tính bằng giờ.",
+      "h2": "Ở District of Columbia, sau khi thi trượt bài thi lái xe trên đường, bạn phải chờ 72 giờ trước khi được thi lại.",
+      "p": "Đúng. Hãy chờ 72 giờ trước lần thi lái xe tiếp theo."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, bumagsak ka sa road skills test. Gaano katagal ka dapat maghintay bago kumuha ulit nito?",
+      "o": [
+        "Puwede mo itong kunin ulit sa parehong araw",
+        "24 na oras",
+        "30 araw",
+        "72 oras"
+      ],
+      "h1": "Tatlong araw ito, binilang sa oras.",
+      "h2": "Sa District of Columbia, pagkatapos mong bumagsak sa road skills test, dapat kang maghintay ng 72 oras bago ka puwedeng kumuha ulit nito.",
+      "p": "Tama. Maghintay ng 72 oras bago ang susunod na road test."
+    },
+    "ar": {
+      "q": "في District of Columbia، رسبت في اختبار القيادة على الطريق. كم يجب أن تنتظر قبل أن تعيده؟",
+      "o": [
+        "يمكنك أن تعيده في نفس اليوم",
+        "24 ساعة",
+        "30 يومًا",
+        "72 ساعة"
+      ],
+      "h1": "هي ثلاثة أيام، محسوبة بالساعات.",
+      "h2": "في District of Columbia بعد أن ترسب في اختبار القيادة على الطريق يجب أن تنتظر 72 ساعة قبل أن يُسمح لك بإعادته.",
+      "p": "صحيح. انتظر 72 ساعة قبل اختبار الطريق التالي."
     }
   },
   {
@@ -2743,6 +2983,54 @@
       "h1": "Le cuesta dinero.",
       "h2": "En el Distrito de Columbia, si no cancela el examen de manejo con por lo menos dos días hábiles de anticipación, se le cobra un cargo de cancelación de $30.",
       "p": "Correcto. Cancelar tarde cuesta $30."
+    },
+    "zh": {
+      "q": "在 District of Columbia，如果你没有至少提前两个工作日取消路考，会怎么样？",
+      "o": [
+        "你会失去学习驾照",
+        "你要付 $30 的取消费",
+        "你必须等一年才能考试",
+        "什么事都不会发生"
+      ],
+      "h1": "你要花钱。",
+      "h2": "在 District of Columbia，如果你没有至少提前两个工作日取消路考，你会被收 $30 的取消费。",
+      "p": "对。太晚取消要付 $30。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, điều gì xảy ra nếu bạn không hủy bài thi lái xe trên đường trước ít nhất hai ngày làm việc?",
+      "o": [
+        "Bạn mất giấy phép tập lái",
+        "Bạn phải trả phí hủy $30",
+        "Bạn phải chờ một năm mới được thi",
+        "Không có gì xảy ra"
+      ],
+      "h1": "Bạn sẽ mất tiền.",
+      "h2": "Ở District of Columbia, nếu bạn không hủy bài thi lái xe trên đường trước ít nhất hai ngày làm việc, bạn bị tính phí hủy $30.",
+      "p": "Đúng. Hủy trễ sẽ mất $30."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, ano ang mangyayari kung hindi mo kinansela ang road skills test mo nang hindi bababa sa dalawang business day bago nito?",
+      "o": [
+        "Mawawala ang learner permit mo",
+        "Magbabayad ka ng $30 na cancellation fee",
+        "Dapat kang maghintay ng isang taon bago mag-test",
+        "Walang mangyayari"
+      ],
+      "h1": "Gagastos ka ng pera.",
+      "h2": "Sa District of Columbia, kung hindi mo kinansela ang road skills test nang hindi bababa sa dalawang business day bago nito, sisingilin ka ng $30 na cancellation fee.",
+      "p": "Tama. Ang huling pagkansela ay may bayad na $30."
+    },
+    "ar": {
+      "q": "في District of Columbia، ماذا يحدث إذا لم تُلغِ اختبار القيادة على الطريق قبل يومَي عمل على الأقل؟",
+      "o": [
+        "تخسر تصريح التعلّم",
+        "تدفع رسوم إلغاء قدرها $30",
+        "يجب أن تنتظر سنة واحدة لتختبر",
+        "لا يحدث شيء"
+      ],
+      "h1": "يكلّفك ذلك مالًا.",
+      "h2": "في District of Columbia إذا لم تُلغِ اختبار القيادة على الطريق قبل يومَي عمل على الأقل، تُفرض عليك رسوم إلغاء قدرها $30.",
+      "p": "صحيح. الإلغاء المتأخر يكلّف $30."
     }
   },
   {
@@ -2777,6 +3065,54 @@
       "h1": "Es más corto que el permiso de aprendiz.",
       "h2": "En el Distrito de Columbia, una licencia provisional es válida por un año y se puede renovar.",
       "p": "Correcto. La licencia provisional dura un año y se puede renovar."
+    },
+    "zh": {
+      "q": "在 District of Columbia，过渡驾照的有效期是多久？",
+      "o": [
+        "1 年，而且可以续期",
+        "6 个月，而且不能续期",
+        "2 年，而且不能续期",
+        "8 年，和正式驾照一样"
+      ],
+      "h1": "它比学习驾照的有效期短。",
+      "h2": "在 District of Columbia，过渡驾照的有效期是一年，而且可以续期。",
+      "p": "对。过渡驾照有效一年，可以续期。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, bằng lái tạm thời (provisional license) có giá trị bao lâu?",
+      "o": [
+        "1 năm, và có thể gia hạn",
+        "6 tháng, và không thể gia hạn",
+        "2 năm, và không thể gia hạn",
+        "8 năm, giống bằng lái đầy đủ"
+      ],
+      "h1": "Nó ngắn hơn giấy phép tập lái.",
+      "h2": "Ở District of Columbia, bằng lái tạm thời có giá trị một năm và có thể gia hạn.",
+      "p": "Đúng. Bằng lái tạm thời có giá trị một năm và có thể gia hạn."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, gaano katagal valid ang provisional driver license?",
+      "o": [
+        "1 taon, at puwede itong i-renew",
+        "6 na buwan, at hindi ito puwedeng i-renew",
+        "2 taon, at hindi ito puwedeng i-renew",
+        "8 taon, tulad ng buong lisensya"
+      ],
+      "h1": "Mas maikli ito kaysa sa learner permit.",
+      "h2": "Sa District of Columbia, valid ang provisional driver license nang isang taon at puwede itong i-renew.",
+      "p": "Tama. Tumatagal ang provisional license nang isang taon at puwede itong i-renew."
+    },
+    "ar": {
+      "q": "في District of Columbia، ما مدة صلاحية الرخصة المؤقتة (provisional license)؟",
+      "o": [
+        "سنة واحدة (1)، ويمكن تجديدها",
+        "6 أشهر، ولا يمكن تجديدها",
+        "سنتان (2)، ولا يمكن تجديدها",
+        "8 سنوات، مثل الرخصة الكاملة"
+      ],
+      "h1": "هي أقصر من مدة تصريح التعلّم.",
+      "h2": "في District of Columbia تكون الرخصة المؤقتة صالحة لمدة سنة واحدة ويمكن تجديدها.",
+      "p": "صحيح. الرخصة المؤقتة صالحة سنة واحدة ويمكن تجديدها."
     }
   },
   {
@@ -2811,6 +3147,54 @@
       "h1": "La suspensión sube a 60 y luego a 90 días en las siguientes infracciones.",
       "h2": "En el Distrito de Columbia, la licencia provisional se suspende 30 días por la primera infracción del programa GRAD, 60 días por la segunda y 90 días por la tercera o más.",
       "p": "Correcto. La primera infracción del GRAD significa 30 días de suspensión."
+    },
+    "zh": {
+      "q": "在 District of Columbia，持过渡驾照的司机第一次违反 GRAD 规定。驾照会被暂停多久？",
+      "o": [
+        "7 天",
+        "1 年",
+        "30 天",
+        "第一次永远不会被暂停"
+      ],
+      "h1": "以后再违反，暂停时间会增加到 60 天，然后是 90 天。",
+      "h2": "在 District of Columbia，过渡驾照第一次违反 GRAD 规定会被暂停 30 天，第二次 60 天，第三次或更多次 90 天。",
+      "p": "对。第一次违反 GRAD 规定，暂停 30 天。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, người có bằng lái tạm thời vi phạm quy định GRAD lần đầu. Bằng lái bị tạm đình chỉ bao lâu?",
+      "o": [
+        "7 ngày",
+        "1 năm",
+        "30 ngày",
+        "Lần đầu thì không bao giờ bị tạm đình chỉ"
+      ],
+      "h1": "Thời gian tạm đình chỉ tăng lên 60 rồi 90 ngày cho những lần vi phạm sau.",
+      "h2": "Ở District of Columbia, bằng lái tạm thời bị tạm đình chỉ 30 ngày cho lần vi phạm GRAD đầu tiên, 60 ngày cho lần thứ hai, và 90 ngày cho lần thứ ba trở đi.",
+      "p": "Đúng. Vi phạm GRAD lần đầu bị tạm đình chỉ 30 ngày."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, unang beses na lumabag sa patakaran ng GRAD ang provisional driver. Gaano katagal masususpinde ang lisensya?",
+      "o": [
+        "7 araw",
+        "1 taon",
+        "30 araw",
+        "Hindi ito kailanman sinususpinde sa unang beses"
+      ],
+      "h1": "Tumataas ang suspensyon sa 60 at pagkatapos ay 90 araw sa mga susunod na paglabag.",
+      "h2": "Sa District of Columbia, masususpinde ang provisional license nang 30 araw sa unang paglabag sa GRAD, 60 araw sa ikalawa, at 90 araw sa ikatlo o higit pa.",
+      "p": "Tama. Ang unang paglabag sa GRAD ay 30 araw na suspensyon."
+    },
+    "ar": {
+      "q": "في District of Columbia، خالف حامل الرخصة المؤقتة قاعدة من قواعد GRAD لأول مرة. ما مدة إيقاف الرخصة؟",
+      "o": [
+        "7 أيام",
+        "سنة واحدة (1)",
+        "30 يومًا",
+        "لا تُوقَف أبدًا في المرة الأولى"
+      ],
+      "h1": "تزيد مدة الإيقاف إلى 60 ثم 90 يومًا في المخالفات التالية.",
+      "h2": "في District of Columbia تُوقَف الرخصة المؤقتة لمدة 30 يومًا في أول مخالفة لقواعد GRAD، و60 يومًا في الثانية، و90 يومًا في الثالثة أو أكثر.",
+      "p": "صحيح. أول مخالفة لقواعد GRAD تعني إيقافًا لمدة 30 يومًا."
     }
   },
   {
@@ -2845,6 +3229,54 @@
       "h1": "Sube a 1 año por una segunda infracción y a 2 años por una tercera.",
       "h2": "En el Distrito de Columbia, la revocación mínima por una primera infracción de manejar bajo la influencia es de 6 meses.",
       "p": "Correcto. Una primera condena por DUI significa por lo menos 6 meses de revocación."
+    },
+    "zh": {
+      "q": "在 District of Columbia，第一次被判醉酒驾驶，驾照最短会被吊销多久？",
+      "o": [
+        "30 天",
+        "6 个月",
+        "5 年",
+        "第一次不会被吊销"
+      ],
+      "h1": "第二次增加到 1 年，第三次增加到 2 年。",
+      "h2": "在 District of Columbia，第一次醉酒驾驶，驾照最少会被吊销 6 个月。",
+      "p": "对。第一次 DUI 至少吊销 6 个月。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, lần đầu bị kết tội lái xe khi say, bằng lái bị thu hồi ít nhất bao lâu?",
+      "o": [
+        "30 ngày",
+        "6 tháng",
+        "5 năm",
+        "Lần đầu thì không bị thu hồi"
+      ],
+      "h1": "Thời gian tăng lên 1 năm cho lần thứ hai và 2 năm cho lần thứ ba.",
+      "h2": "Ở District of Columbia, thời gian thu hồi bằng lái ít nhất cho lần đầu lái xe khi say là 6 tháng.",
+      "p": "Đúng. DUI lần đầu bị thu hồi bằng lái ít nhất 6 tháng."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, ano ang pinakamaikling pagbawi ng lisensya sa unang conviction sa pagmamaneho nang lasing?",
+      "o": [
+        "30 araw",
+        "6 na buwan",
+        "5 taon",
+        "Walang pagbawi sa unang paglabag"
+      ],
+      "h1": "Tumataas ito sa 1 taon sa ikalawang paglabag at 2 taon sa ikatlo.",
+      "h2": "Sa District of Columbia, ang pinakamaikling pagbawi ng lisensya sa unang paglabag sa pagmamaneho nang lasing ay 6 na buwan.",
+      "p": "Tama. Ang unang DUI ay hindi bababa sa 6 na buwang pagbawi ng lisensya."
+    },
+    "ar": {
+      "q": "في District of Columbia، ما أقصر مدة لإلغاء الرخصة عند الإدانة الأولى بالقيادة تحت تأثير الكحول؟",
+      "o": [
+        "30 يومًا",
+        "6 أشهر",
+        "5 سنوات",
+        "لا يوجد إلغاء في المخالفة الأولى"
+      ],
+      "h1": "تزيد المدة إلى سنة واحدة (1) في المخالفة الثانية وسنتين (2) في الثالثة.",
+      "h2": "في District of Columbia أقل مدة لإلغاء الرخصة في أول مخالفة قيادة تحت تأثير الكحول هي 6 أشهر.",
+      "p": "صحيح. أول DUI يعني إلغاء الرخصة 6 أشهر على الأقل."
     }
   },
   {
@@ -2879,6 +3311,54 @@
       "h1": "Pone en el carro un aparato que mide el aliento.",
       "h2": "En el Distrito de Columbia, un conductor condenado por una infracción relacionada con el alcohol, como manejar bajo la influencia, debe inscribirse en el Programa de Dispositivo de Bloqueo de Encendido (IID).",
       "p": "Correcto. Una condena por DUI significa entrar al Programa IID."
+    },
+    "zh": {
+      "q": "在 District of Columbia，一名司机被判醉酒驾驶。他必须参加哪个项目？",
+      "o": [
+        "一门防御性驾驶视频课",
+        "一个免费公交卡项目",
+        "一个志愿清理道路项目",
+        "点火联锁装置（IID）项目"
+      ],
+      "h1": "它会在车里装一个呼气检测装置。",
+      "h2": "在 District of Columbia，因醉酒驾驶等与酒精有关的违法行为被定罪的司机，必须参加点火联锁装置（IID）项目。",
+      "p": "对。被判 DUI 就要参加 IID 项目。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, một người lái xe bị kết tội lái xe khi say. Họ phải tham gia chương trình nào?",
+      "o": [
+        "Một lớp học lái xe phòng vệ qua video",
+        "Một chương trình vé xe buýt miễn phí",
+        "Một chương trình tình nguyện dọn dẹp đường phố",
+        "Chương trình Thiết bị Khóa Khởi động (Ignition Interlock Device, IID)"
+      ],
+      "h1": "Chương trình này gắn một thiết bị đo hơi thở vào xe.",
+      "h2": "Ở District of Columbia, người lái xe bị kết tội vi phạm liên quan đến rượu bia, như lái xe khi say, phải tham gia Chương trình Thiết bị Khóa Khởi động (IID).",
+      "p": "Đúng. Bị kết tội DUI thì phải tham gia Chương trình IID."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, nahatulan ang isang driver sa pagmamaneho nang lasing. Aling programa ang dapat niyang salihan?",
+      "o": [
+        "Isang video class sa defensive driving",
+        "Isang programa ng libreng bus pass",
+        "Isang volunteer na programa sa paglilinis ng kalsada",
+        "Ang Ignition Interlock Device (IID) Program"
+      ],
+      "h1": "Naglalagay ito ng device na sumusuri ng hininga sa kotse.",
+      "h2": "Sa District of Columbia, ang driver na nahatulan sa paglabag na may kinalaman sa alak, gaya ng pagmamaneho nang lasing, ay dapat sumali sa Ignition Interlock Device (IID) Program.",
+      "p": "Tama. Kapag nahatulan sa DUI, dapat sumali sa IID Program."
+    },
+    "ar": {
+      "q": "في District of Columbia، أُدين سائق بالقيادة تحت تأثير الكحول. في أي برنامج يجب أن يشترك؟",
+      "o": [
+        "درس فيديو عن القيادة الوقائية",
+        "برنامج بطاقة حافلة مجانية",
+        "برنامج تطوعي لتنظيف الطرق",
+        "برنامج جهاز قفل الإشعال (Ignition Interlock Device, IID)"
+      ],
+      "h1": "يضع هذا البرنامج في السيارة جهازًا يفحص النَّفَس.",
+      "h2": "في District of Columbia السائق الذي يُدان بمخالفة لها علاقة بالكحول، مثل القيادة تحت تأثير الكحول، يجب أن يشترك في برنامج جهاز قفل الإشعال (IID).",
+      "p": "صحيح. الإدانة بـ DUI تعني الاشتراك في برنامج IID."
     }
   },
   {
@@ -2913,6 +3393,54 @@
       "h1": "Hace falta un año limpio de manejo.",
       "h2": "En el Distrito de Columbia, un conductor que mantiene una licencia válida de DC durante un año calendario completo sin infracciones de tránsito con puntos puede ganar un Punto Bueno.",
       "p": "Correcto. Un año calendario limpio puede darle un Punto Bueno."
+    },
+    "zh": {
+      "q": "在 District of Columbia，司机怎样才能在驾驶记录上得到一个 Good Point（好分）？",
+      "o": [
+        "一整个日历年持有有效的 DC 驾照，而且没有会扣分的行车违规",
+        "在网上看一个免费的安全视频",
+        "每张停车罚单都按时交",
+        "一个月都开得比限速慢"
+      ],
+      "h1": "需要一整年干净的驾驶记录。",
+      "h2": "在 District of Columbia，一整个日历年持有有效的 DC 驾照、而且没有任何会扣分的行车违规的司机，可以得到一个 Good Point。",
+      "p": "对。一个干净的日历年可以得到一个 Good Point。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, người lái xe có thể được một Good Point (điểm tốt) trong hồ sơ lái xe bằng cách nào?",
+      "o": [
+        "Giữ bằng lái DC hợp lệ trọn một năm dương lịch mà không có vi phạm khi lái xe nào bị tính điểm",
+        "Xem một video an toàn miễn phí trên mạng",
+        "Trả mọi vé phạt đỗ xe đúng hạn",
+        "Lái chậm hơn tốc độ giới hạn trong một tháng"
+      ],
+      "h1": "Cần một năm lái xe không vi phạm.",
+      "h2": "Ở District of Columbia, người lái xe giữ bằng lái DC hợp lệ trọn một năm dương lịch mà không có vi phạm khi lái xe nào bị tính điểm có thể được một Good Point.",
+      "p": "Đúng. Một năm dương lịch không vi phạm có thể được một Good Point."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, paano makakakuha ang driver ng Good Point sa kanyang driving record?",
+      "o": [
+        "Panatilihing valid ang DC license nang isang buong calendar year nang walang moving violation na may puntos",
+        "Manood ng libreng safety video online",
+        "Bayaran nang nasa oras ang bawat parking ticket",
+        "Magmaneho nang mas mabagal sa speed limit nang isang buwan"
+      ],
+      "h1": "Kailangan ng isang taon ng malinis na pagmamaneho.",
+      "h2": "Sa District of Columbia, ang driver na nagpanatiling valid ng DC license nang isang buong calendar year nang walang anumang moving violation na may puntos ay puwedeng makakuha ng Good Point.",
+      "p": "Tama. Ang malinis na calendar year ay puwedeng magbigay ng Good Point."
+    },
+    "ar": {
+      "q": "في District of Columbia، كيف يمكن للسائق أن يكسب نقطة جيدة (Good Point) في سجل القيادة؟",
+      "o": [
+        "أن يحتفظ برخصة DC صالحة لسنة تقويمية كاملة دون أي مخالفة سير تُحسب عليها نقاط",
+        "أن يشاهد فيديو سلامة مجانيًا على الإنترنت",
+        "أن يدفع كل مخالفات الركن في وقتها",
+        "أن يقود أبطأ من حد السرعة لمدة شهر"
+      ],
+      "h1": "يحتاج ذلك إلى سنة قيادة نظيفة.",
+      "h2": "في District of Columbia السائق الذي يحتفظ برخصة DC صالحة لسنة تقويمية كاملة دون أي مخالفة سير تُحسب عليها نقاط يمكن أن يكسب نقطة جيدة (Good Point).",
+      "p": "صحيح. سنة تقويمية نظيفة يمكن أن تكسبك نقطة جيدة."
     }
   },
   {
@@ -2947,6 +3475,54 @@
       "h1": "Piense en lo que le tapa la vista del camino.",
       "h2": "En el Distrito de Columbia, tener algo sujeto o colgado del espejo retrovisor mientras maneja va en contra de las normas.",
       "p": "Correcto. No cuelgue nada del espejo retrovisor."
+    },
+    "zh": {
+      "q": "在 District of Columbia，关于在后视镜上挂东西，规定是什么？",
+      "o": [
+        "小于 3 英寸的小东西可以挂",
+        "只有停车证可以挂在那里",
+        "开车时后视镜上不能贴或挂任何东西",
+        "只要还看得见，什么都可以挂"
+      ],
+      "h1": "想一想什么会挡住你看路的视线。",
+      "h2": "在 District of Columbia，开车时在后视镜上贴或挂任何东西都违反规定。",
+      "p": "对。后视镜上不要挂东西。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, quy định về việc treo đồ trên gương chiếu hậu là gì?",
+      "o": [
+        "Đồ nhỏ dưới 3 inch thì được phép",
+        "Chỉ được treo giấy phép đỗ xe",
+        "Không được gắn hoặc treo bất cứ thứ gì trên gương khi lái xe",
+        "Treo gì cũng được nếu bạn vẫn nhìn thấy"
+      ],
+      "h1": "Hãy nghĩ đến những gì che tầm nhìn của bạn ra đường.",
+      "h2": "Ở District of Columbia, gắn hoặc treo bất cứ thứ gì trên gương chiếu hậu khi lái xe là trái quy định.",
+      "p": "Đúng. Đừng treo đồ trên gương chiếu hậu."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, ano ang patakaran tungkol sa pagsasabit ng mga bagay sa rear-view mirror?",
+      "o": [
+        "Puwede ang maliliit na bagay kung wala pang 3 pulgada",
+        "Mga parking permit lang ang puwedeng isabit doon",
+        "Walang anumang puwedeng ikabit o isabit dito habang nagmamaneho ka",
+        "Puwede ang kahit ano basta nakakakita ka pa"
+      ],
+      "h1": "Isipin kung ano ang humaharang sa tanaw mo sa kalsada.",
+      "h2": "Sa District of Columbia, labag sa regulasyon ang pagkakabit o pagsasabit ng anumang bagay sa rear-view mirror habang nagmamaneho.",
+      "p": "Tama. Huwag sabitan ng kahit ano ang rear-view mirror."
+    },
+    "ar": {
+      "q": "في District of Columbia، ما القاعدة بشأن تعليق الأشياء على المرآة الخلفية؟",
+      "o": [
+        "الأشياء الصغيرة مسموحة إذا كانت أقل من 3 بوصات",
+        "فقط تصاريح الركن يمكن تعليقها هناك",
+        "يجب ألّا يُثبَّت أو يُعلَّق عليها أي شيء أثناء القيادة",
+        "كل شيء مسموح ما دمت ترى"
+      ],
+      "h1": "فكّر فيما يحجب رؤيتك للطريق.",
+      "h2": "في District of Columbia تثبيت أي شيء على المرآة الخلفية أو تعليقه منها أثناء القيادة مخالف للأنظمة.",
+      "p": "صحيح. أبقِ المرآة الخلفية خالية من الأشياء المعلّقة."
     }
   },
   {
@@ -2981,6 +3557,54 @@
       "h1": "Es como una cancha de fútbol americano y media.",
       "h2": "En el Distrito de Columbia, no debe seguir a un camión de bomberos a menos de 500 pies cuando va a una emergencia.",
       "p": "Correcto. Quédese por lo menos a 500 pies detrás de un camión de bomberos en emergencia."
+    },
+    "zh": {
+      "q": "在 District of Columbia，一辆消防车正在赶去处理紧急情况。你可以跟在它后面多近？",
+      "o": [
+        "不能近于 50 英尺",
+        "不能近于 100 英尺",
+        "只要小心，想多近都可以",
+        "不能近于 500 英尺"
+      ],
+      "h1": "大约是一个半橄榄球场那么长。",
+      "h2": "在 District of Columbia，消防车在赶去处理紧急情况时，你不能跟在它后面 500 英尺以内。",
+      "p": "对。消防车出任务时，至少跟在它后面 500 英尺。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, một xe cứu hỏa đang đi xử lý trường hợp khẩn cấp. Bạn được chạy theo sau nó gần đến mức nào?",
+      "o": [
+        "Không gần hơn 50 feet",
+        "Không gần hơn 100 feet",
+        "Gần bao nhiêu cũng được nếu bạn cẩn thận",
+        "Không gần hơn 500 feet"
+      ],
+      "h1": "Khoảng chiều dài của một sân bóng bầu dục rưỡi.",
+      "h2": "Ở District of Columbia, bạn không được chạy theo sau xe cứu hỏa gần hơn 500 feet khi nó đang đi xử lý trường hợp khẩn cấp.",
+      "p": "Đúng. Hãy ở cách ít nhất 500 feet phía sau xe cứu hỏa đang làm nhiệm vụ."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, may fire truck na rumeresponde sa emergency. Gaano kalapit ka puwedeng sumunod dito?",
+      "o": [
+        "Hindi lalapit sa 50 talampakan",
+        "Hindi lalapit sa 100 talampakan",
+        "Kahit gaano kalapit basta maingat ka",
+        "Hindi lalapit sa 500 talampakan"
+      ],
+      "h1": "Mga isa't kalahating haba ito ng football field.",
+      "h2": "Sa District of Columbia, hindi ka dapat sumunod sa fire truck nang mas malapit sa 500 talampakan kapag rumeresponde ito sa emergency.",
+      "p": "Tama. Manatili nang hindi bababa sa 500 talampakan sa likod ng fire truck na rumeresponde."
+    },
+    "ar": {
+      "q": "في District of Columbia، سيارة إطفاء في طريقها إلى حالة طارئة. كم يمكنك أن تقترب منها وأنت تسير خلفها؟",
+      "o": [
+        "ليس أقرب من 50 قدمًا",
+        "ليس أقرب من 100 قدم",
+        "بالقرب الذي تريده إذا كنت حذرًا",
+        "ليس أقرب من 500 قدم"
+      ],
+      "h1": "هي تقريبًا طول ملعب ونصف من ملاعب كرة القدم الأمريكية.",
+      "h2": "في District of Columbia يجب ألّا تسير خلف سيارة إطفاء على مسافة أقل من 500 قدم عندما تكون في طريقها إلى حالة طارئة.",
+      "p": "صحيح. ابقَ 500 قدم على الأقل خلف سيارة الإطفاء في مهمة."
     }
   },
   {
@@ -3015,6 +3639,54 @@
       "h1": "Entrar a esa cuadra va contra las reglas de tránsito.",
       "h2": "En el Distrito de Columbia, no debe entrar a una cuadra donde hay camiones de bomberos o vehículos de emergencia detenidos; doble a la derecha o a la izquierda.",
       "p": "Correcto. Doble y no entre a esa cuadra."
+    },
+    "zh": {
+      "q": "在 District of Columbia，你来到一个街区，那里停着消防车或紧急车辆。你应该怎么做？",
+      "o": [
+        "慢慢开过这个街区",
+        "向右或向左转，不要开进这个街区",
+        "按喇叭，从它们旁边绕过去",
+        "在这个街区停车等着"
+      ],
+      "h1": "开进那个街区违反交通规则。",
+      "h2": "在 District of Columbia，你不应该开进停着消防车或紧急车辆的街区，而应该向右或向左转。",
+      "p": "对。转开，不要进入那个街区。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, bạn đến một dãy phố nơi xe cứu hỏa hoặc xe cấp cứu đang dừng. Bạn nên làm gì?",
+      "o": [
+        "Lái chậm qua dãy phố đó",
+        "Rẽ phải hoặc rẽ trái thay vì lái vào dãy phố đó",
+        "Bấm còi và lái vòng qua chúng",
+        "Đỗ xe trong dãy phố đó và chờ"
+      ],
+      "h1": "Lái vào dãy phố đó là trái luật giao thông.",
+      "h2": "Ở District of Columbia, bạn không nên lái vào dãy phố nơi xe cứu hỏa hoặc xe cấp cứu đang dừng; hãy rẽ phải hoặc rẽ trái.",
+      "p": "Đúng. Hãy rẽ đi và không vào dãy phố đó."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, nakarating ka sa isang block kung saan nakahinto ang mga fire engine o emergency vehicle. Ano ang dapat mong gawin?",
+      "o": [
+        "Magmaneho nang dahan-dahan sa block",
+        "Lumiko pakanan o pakaliwa sa halip na pumasok sa block",
+        "Bumusina at umikot sa kanila",
+        "Pumarada sa block at maghintay"
+      ],
+      "h1": "Labag sa mga patakaran sa trapiko ang pagpasok sa block na iyon.",
+      "h2": "Sa District of Columbia, hindi ka dapat pumasok sa block kung saan nakahinto ang mga fire engine o emergency vehicle; lumiko pakanan o pakaliwa sa halip.",
+      "p": "Tama. Lumiko palayo at huwag pumasok sa block na iyon."
+    },
+    "ar": {
+      "q": "في District of Columbia، وصلت إلى مربع سكني (block) تقف فيه سيارات إطفاء أو سيارات طوارئ. ماذا يجب أن تفعل؟",
+      "o": [
+        "أن تقود ببطء عبر المربع",
+        "أن تنعطف يمينًا أو يسارًا بدل أن تدخل المربع",
+        "أن تستخدم البوق وتلتف حولها",
+        "أن تركن في المربع وتنتظر"
+      ],
+      "h1": "الدخول إلى ذلك المربع مخالف لقواعد السير.",
+      "h2": "في District of Columbia يجب ألّا تدخل مربعًا تقف فيه سيارات إطفاء أو سيارات طوارئ؛ انعطف يمينًا أو يسارًا بدل ذلك.",
+      "p": "صحيح. انعطف بعيدًا ولا تدخل ذلك المربع."
     }
   },
   {
@@ -3049,6 +3721,54 @@
       "h1": "Deje un poco más que el largo de un carro.",
       "h2": "En el Distrito de Columbia, cuando un vehículo escolar está detenido con sus luces rojas intermitentes, debe detenerse por lo menos a 20 pies de su parte delantera o trasera.",
       "p": "Correcto. Deténgase por lo menos a 20 pies de un vehículo escolar detenido."
+    },
+    "zh": {
+      "q": "在 District of Columbia，一辆校车停着，红灯在闪。你必须在离它多远的地方停车？",
+      "o": [
+        "离它的前面或后面至少 20 英尺",
+        "离它的前面或后面至少 5 英尺",
+        "离它的前面或后面至少 100 英尺",
+        "你只需要减速"
+      ],
+      "h1": "留出比一辆车长一点的距离。",
+      "h2": "在 District of Columbia，校车停着并闪红灯时，你必须在离它的前面或后面至少 20 英尺的地方停车。",
+      "p": "对。在停着的校车前后至少 20 英尺停车。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, một xe chở học sinh đang dừng và đèn đỏ đang nhấp nháy. Bạn phải dừng cách nó bao xa?",
+      "o": [
+        "Ít nhất 20 feet tính từ phía trước hoặc phía sau xe",
+        "Ít nhất 5 feet tính từ phía trước hoặc phía sau xe",
+        "Ít nhất 100 feet tính từ phía trước hoặc phía sau xe",
+        "Bạn chỉ cần chạy chậm lại"
+      ],
+      "h1": "Hãy chừa khoảng hơn chiều dài một chiếc xe một chút.",
+      "h2": "Ở District of Columbia, khi xe chở học sinh dừng và đèn đỏ nhấp nháy, bạn phải dừng cách phía trước hoặc phía sau xe ít nhất 20 feet.",
+      "p": "Đúng. Hãy dừng cách xe chở học sinh đang dừng ít nhất 20 feet."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, nakahinto ang isang school vehicle at kumikislap ang pulang ilaw nito. Gaano kalayo ka dapat huminto?",
+      "o": [
+        "Hindi bababa sa 20 talampakan mula sa harap o likod nito",
+        "Hindi bababa sa 5 talampakan mula sa harap o likod nito",
+        "Hindi bababa sa 100 talampakan mula sa harap o likod nito",
+        "Kailangan mo lang bumagal"
+      ],
+      "h1": "Mag-iwan ng kaunti pa sa haba ng isang kotse.",
+      "h2": "Sa District of Columbia, kapag nakahinto ang school vehicle at kumikislap ang pulang ilaw nito, dapat kang huminto nang hindi bababa sa 20 talampakan mula sa harap o likod nito.",
+      "p": "Tama. Huminto nang hindi bababa sa 20 talampakan mula sa nakahintong school vehicle."
+    },
+    "ar": {
+      "q": "في District of Columbia، مركبة مدرسية متوقفة وأضواؤها الحمراء تومض. على أي مسافة منها يجب أن تتوقف؟",
+      "o": [
+        "20 قدمًا على الأقل من أمامها أو من خلفها",
+        "5 أقدام على الأقل من أمامها أو من خلفها",
+        "100 قدم على الأقل من أمامها أو من خلفها",
+        "ليس عليك إلا أن تخفف السرعة"
+      ],
+      "h1": "اترك مسافة أكثر قليلًا من طول سيارة واحدة.",
+      "h2": "في District of Columbia عندما تكون المركبة المدرسية متوقفة وأضواؤها الحمراء تومض، يجب أن تتوقف على بُعد 20 قدمًا على الأقل من أمامها أو من خلفها.",
+      "p": "صحيح. توقف على بُعد 20 قدمًا على الأقل من المركبة المدرسية المتوقفة."
     }
   },
   {
@@ -3083,6 +3803,54 @@
       "h1": "La ley del Distrito protege a las personas que suben y bajan del autobús.",
       "h2": "En el Distrito de Columbia, es ilegal doblar a la derecha delante de un autobús detenido en una intersección para subir o bajar pasajeros, y la multa es de por lo menos $200.",
       "p": "Correcto. Quédese detrás del autobús; la multa es de por lo menos $200."
+    },
+    "zh": {
+      "q": "在 District of Columbia，一辆公交车停在路口让乘客上下车。你可以在它前面右转吗？",
+      "o": [
+        "可以，只要先打转向灯",
+        "可以，只要街上没有乘客",
+        "不可以；要留在公交车后面或并到它后面，否则至少罚款 $200",
+        "不可以，除非是绿灯"
+      ],
+      "h1": "DC 的法律保护上下公交车的人。",
+      "h2": "在 District of Columbia，在停在路口让乘客上下车的公交车前面右转是违法的，罚款至少 $200。",
+      "p": "对。留在公交车后面；罚款至少 $200。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, một xe buýt đang dừng ở giao lộ cho khách lên xuống. Bạn có được rẽ phải trước đầu xe buýt không?",
+      "o": [
+        "Có, nếu bạn bật đèn xi nhan trước",
+        "Có, nếu không có hành khách nào ở dưới đường",
+        "Không; hãy ở phía sau hoặc nhập làn phía sau xe buýt, nếu không sẽ bị phạt ít nhất $200",
+        "Không, trừ khi đèn xanh"
+      ],
+      "h1": "Luật của DC bảo vệ người lên xuống xe buýt.",
+      "h2": "Ở District of Columbia, rẽ phải trước đầu xe buýt đang dừng ở giao lộ cho khách lên xuống là phạm luật, và tiền phạt ít nhất là $200.",
+      "p": "Đúng. Hãy ở phía sau xe buýt; tiền phạt ít nhất là $200."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, nakahinto ang isang bus sa intersection para magbaba at magsakay ng pasahero. Puwede ka bang kumanan sa harap nito?",
+      "o": [
+        "Oo, kung magsi-signal ka muna",
+        "Oo, kung walang pasahero sa kalsada",
+        "Hindi; manatili o pumasok sa likod ng bus, o pagmumultahin ka ng hindi bababa sa $200",
+        "Hindi, maliban kung green ang ilaw"
+      ],
+      "h1": "Pinoprotektahan ng batas ng DC ang mga sumasakay at bumababa ng bus.",
+      "h2": "Sa District of Columbia, ilegal ang kumanan sa harap ng bus na nakahinto sa intersection para magsakay o magbaba ng pasahero, at ang multa ay hindi bababa sa $200.",
+      "p": "Tama. Manatili sa likod ng bus; ang multa ay hindi bababa sa $200."
+    },
+    "ar": {
+      "q": "في District of Columbia، حافلة متوقفة عند تقاطع ليصعد الركاب وينزلوا. هل يجوز لك أن تنعطف يمينًا أمامها؟",
+      "o": [
+        "نعم، إذا أعطيت الإشارة أولًا",
+        "نعم، إذا لم يكن هناك ركاب في الشارع",
+        "لا؛ ابقَ خلف الحافلة أو اندمج خلفها، وإلا فالغرامة $200 على الأقل",
+        "لا، إلا إذا كانت الإشارة خضراء"
+      ],
+      "h1": "قانون DC يحمي الناس الذين يصعدون إلى الحافلة وينزلون منها.",
+      "h2": "في District of Columbia الانعطاف يمينًا أمام حافلة متوقفة عند تقاطع لصعود الركاب أو نزولهم مخالف للقانون، والغرامة $200 على الأقل.",
+      "p": "صحيح. ابقَ خلف الحافلة؛ الغرامة $200 على الأقل."
     }
   },
   {
@@ -3117,6 +3885,54 @@
       "h1": "Entre al carril solo cerca de la esquina.",
       "h2": "En el Distrito de Columbia, si ningún letrero dice otra cosa, puede cruzar un carril de autobús para doblar dentro de los 40 pies antes de la intersección, después de ceder el paso a bicicletas y autobuses en el carril.",
       "p": "Correcto. Cruce el carril de autobús para doblar solo dentro de los 40 pies antes de la intersección."
+    },
+    "zh": {
+      "q": "在 District of Columbia，没有关于穿过公交专用道转弯的标志。你可以在哪里穿过它去转弯？",
+      "o": [
+        "这个街区的任何地方",
+        "离路口 40 英尺以内",
+        "只在晚上 9 点以后",
+        "永远不可以；你只能从公交专用道的左边转弯"
+      ],
+      "h1": "只在靠近路口的地方进入这条车道。",
+      "h2": "在 District of Columbia，没有标志另有规定时，你可以在离路口 40 英尺以内穿过公交专用道转弯，但要先让道给车道里的自行车和公交车。",
+      "p": "对。只在离路口 40 英尺以内穿过公交专用道转弯。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, không có biển báo nào về việc rẽ qua làn xe buýt. Bạn được băng qua làn đó để rẽ ở đâu?",
+      "o": [
+        "Bất cứ chỗ nào dọc theo dãy phố",
+        "Trong vòng 40 feet tính từ giao lộ",
+        "Chỉ sau 9 giờ tối",
+        "Không bao giờ; bạn chỉ được rẽ từ phía bên trái của làn xe buýt"
+      ],
+      "h1": "Chỉ vào làn đó khi đã gần góc đường.",
+      "h2": "Ở District of Columbia, khi không có biển báo nói khác, bạn được băng qua làn xe buýt để rẽ trong vòng 40 feet tính từ giao lộ, sau khi nhường đường cho xe đạp và xe buýt trong làn.",
+      "p": "Đúng. Chỉ băng qua làn xe buýt để rẽ trong vòng 40 feet tính từ giao lộ."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, walang karatula tungkol sa pagliko patawid sa bus lane. Saan ka puwedeng tumawid dito para lumiko?",
+      "o": [
+        "Kahit saan sa kahabaan ng block",
+        "Sa loob ng 40 talampakan mula sa intersection",
+        "Pagkalipas lang ng 9 p.m.",
+        "Hindi kailanman; dapat kang lumiko mula sa kaliwang bahagi lang ng bus lane"
+      ],
+      "h1": "Pumasok lang sa lane kapag malapit na sa kanto.",
+      "h2": "Sa District of Columbia, kapag walang karatulang nagsasabi ng iba, puwede kang tumawid sa bus lane para lumiko sa loob ng 40 talampakan mula sa intersection, pagkatapos magbigay-daan sa mga bisikleta at bus sa lane.",
+      "p": "Tama. Tumawid lang sa bus lane para lumiko sa loob ng 40 talampakan mula sa intersection."
+    },
+    "ar": {
+      "q": "في District of Columbia، لا توجد لافتة عن الانعطاف عبر مسار الحافلات. أين يجوز لك أن تعبره لتنعطف؟",
+      "o": [
+        "في أي مكان على طول المربع",
+        "خلال 40 قدمًا من التقاطع",
+        "بعد الساعة 9 مساءً فقط",
+        "أبدًا؛ يجب أن تنعطف من الجهة اليسرى لمسار الحافلات فقط"
+      ],
+      "h1": "ادخل المسار فقط عندما تكون قريبًا من الزاوية.",
+      "h2": "في District of Columbia عندما لا توجد لافتة تقول غير ذلك، يجوز لك أن تعبر مسار الحافلات لتنعطف خلال 40 قدمًا من التقاطع، بعد أن تعطي الأولوية للدراجات والحافلات في المسار.",
+      "p": "صحيح. اعبر مسار الحافلات لتنعطف فقط خلال 40 قدمًا من التقاطع."
     }
   },
   {
@@ -3151,6 +3967,54 @@
       "h1": "Puede haber pasajeros subiendo o bajando por el lado de la acera.",
       "h2": "En el Distrito de Columbia, un tranvía detenido que va en su misma dirección se rebasa por su lado izquierdo, con muchísimo cuidado y solo cuando sea seguro.",
       "p": "Correcto. Rebase un tranvía detenido con cuidado por la izquierda."
+    },
+    "zh": {
+      "q": "在 District of Columbia，一辆和你同方向行驶的有轨电车停下了。你应该怎样超过它？",
+      "o": [
+        "从右边快速超过",
+        "从电车和路缘之间开过去",
+        "开在轨道上超过",
+        "非常小心地从左边超过，而且要在安全的时候"
+      ],
+      "h1": "乘客可能正在靠路缘的一边上下车。",
+      "h2": "在 District of Columbia，超过和你同方向、已经停下的有轨电车时，你要从它的左边超过，要非常小心，而且只在安全的时候。",
+      "p": "对。小心地从左边超过停下的有轨电车。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, một xe điện (streetcar) đi cùng chiều với bạn đã dừng lại. Bạn nên vượt nó như thế nào?",
+      "o": [
+        "Bên phải, thật nhanh",
+        "Giữa xe điện và lề đường",
+        "Bằng cách lái trên đường ray",
+        "Rất cẩn thận, ở bên trái, khi an toàn"
+      ],
+      "h1": "Hành khách có thể đang lên hoặc xuống ở phía lề đường.",
+      "h2": "Ở District of Columbia, bạn vượt xe điện đang dừng đi cùng chiều ở phía bên trái của nó, hết sức cẩn thận và chỉ khi an toàn.",
+      "p": "Đúng. Hãy vượt xe điện đang dừng bên trái một cách cẩn thận."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, huminto ang isang streetcar na papunta sa direksyon mo. Paano mo ito dapat lampasan?",
+      "o": [
+        "Sa kanang bahagi, nang mabilis",
+        "Sa pagitan ng streetcar at ng curb",
+        "Sa pagmamaneho sa riles",
+        "Nang napakaingat, sa kaliwang bahagi, kapag ligtas"
+      ],
+      "h1": "Puwedeng may mga pasaherong sumasakay o bumababa sa bahagi ng curb.",
+      "h2": "Sa District of Columbia, nilalampasan mo ang nakahintong streetcar na papunta sa direksyon mo sa kaliwang bahagi nito, nang napakaingat at kapag ligtas lang.",
+      "p": "Tama. Lampasan nang maingat sa kaliwa ang nakahintong streetcar."
+    },
+    "ar": {
+      "q": "في District of Columbia، توقف ترام (streetcar) يسير في نفس اتجاهك. كيف يجب أن تتجاوزه؟",
+      "o": [
+        "من الجهة اليمنى، بسرعة",
+        "بين الترام والرصيف",
+        "بالقيادة على القضبان",
+        "بحذر شديد، من الجهة اليسرى، عندما يكون ذلك آمنًا"
+      ],
+      "h1": "قد يكون الركاب يصعدون أو ينزلون من جهة الرصيف.",
+      "h2": "في District of Columbia تتجاوز الترام المتوقف الذي يسير في نفس اتجاهك من جهته اليسرى، بحذر شديد وفقط عندما يكون ذلك آمنًا.",
+      "p": "صحيح. تجاوز الترام المتوقف بحذر من اليسار."
     }
   },
   {
@@ -3185,6 +4049,54 @@
       "h1": "Es tres veces la distancia que se usa antes de doblar.",
       "h2": "En el Distrito de Columbia, debe poner la direccional por lo menos 300 pies antes de cambiar de carril, y es mejor hacerlo antes.",
       "p": "Correcto. Ponga la direccional por lo menos 300 pies antes de cambiar de carril."
+    },
+    "zh": {
+      "q": "在 District of Columbia，换车道前，你应该提前多远打转向灯？",
+      "o": [
+        "至少 300 英尺",
+        "至少 20 英尺",
+        "至少 1 英里",
+        "在开始移过去时才打"
+      ],
+      "h1": "它是转弯前所用距离的三倍。",
+      "h2": "在 District of Columbia，你应该在换车道前至少 300 英尺打转向灯，越早越好。",
+      "p": "对。换车道前至少 300 英尺打转向灯。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, bạn nên bật xi nhan trước bao xa trước khi chuyển làn?",
+      "o": [
+        "Ít nhất 300 feet",
+        "Ít nhất 20 feet",
+        "Ít nhất 1 dặm",
+        "Chỉ khi bạn bắt đầu chuyển sang"
+      ],
+      "h1": "Đó là gấp ba lần khoảng cách dùng trước khi rẽ.",
+      "h2": "Ở District of Columbia, bạn nên bật xi nhan ít nhất 300 feet trước khi chuyển làn, và càng sớm càng tốt.",
+      "p": "Đúng. Hãy bật xi nhan ít nhất 300 feet trước khi chuyển làn."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, gaano kalayo bago ka lumipat ng lane ka dapat mag-signal?",
+      "o": [
+        "Hindi bababa sa 300 talampakan",
+        "Hindi bababa sa 20 talampakan",
+        "Hindi bababa sa 1 milya",
+        "Kapag nagsisimula ka nang lumipat"
+      ],
+      "h1": "Tatlong beses ito ng layong ginagamit bago lumiko.",
+      "h2": "Sa District of Columbia, dapat kang mag-signal nang hindi bababa sa 300 talampakan bago ka lumipat ng lane, at mas mabuti kung mas maaga.",
+      "p": "Tama. Mag-signal nang hindi bababa sa 300 talampakan bago lumipat ng lane."
+    },
+    "ar": {
+      "q": "في District of Columbia، على أي مسافة قبل تغيير المسار يجب أن تعطي الإشارة؟",
+      "o": [
+        "300 قدم على الأقل",
+        "20 قدمًا على الأقل",
+        "ميل واحد (1) على الأقل",
+        "فقط عندما تبدأ بالانتقال"
+      ],
+      "h1": "هي ثلاثة أضعاف المسافة المستخدمة قبل الانعطاف.",
+      "h2": "في District of Columbia يجب أن تعطي الإشارة قبل تغيير المسار بـ 300 قدم على الأقل، والأبكر أفضل.",
+      "p": "صحيح. أعطِ الإشارة قبل تغيير المسار بـ 300 قدم على الأقل."
     }
   },
   {
@@ -3219,6 +4131,54 @@
       "h1": "Es una distancia corta, pero no puede bloquearla.",
       "h2": "En el Distrito de Columbia, no puede detenerse ni estacionarse enfrente de una entrada de garaje o un callejón, ni a menos de 5 pies de uno.",
       "p": "Correcto. Quédese a 5 pies de una entrada de garaje o un callejón."
+    },
+    "zh": {
+      "q": "在 District of Columbia，你可以在离车道入口或小巷多近的地方临时停靠或停车？",
+      "o": [
+        "紧靠边缘就可以",
+        "不能近于 1 英尺",
+        "不能近于 5 英尺，而且绝不能停在它前面",
+        "不能近于 50 英尺"
+      ],
+      "h1": "这个距离很短，但你不能挡住它。",
+      "h2": "在 District of Columbia，你不能在车道入口或小巷前面临时停靠或停车，也不能在离它们 5 英尺以内停。",
+      "p": "对。离车道入口或小巷至少 5 英尺。"
+    },
+    "vi": {
+      "q": "Ở District of Columbia, bạn được dừng hoặc đỗ xe gần lối xe ra vào (driveway) hoặc hẻm đến mức nào?",
+      "o": [
+        "Sát ngay mép",
+        "Không gần hơn 1 foot",
+        "Không gần hơn 5 feet, và không bao giờ ở ngay trước nó",
+        "Không gần hơn 50 feet"
+      ],
+      "h1": "Khoảng cách ngắn, nhưng bạn không được chắn lối.",
+      "h2": "Ở District of Columbia, bạn không được dừng hoặc đỗ xe trước lối xe ra vào hoặc hẻm, hoặc trong vòng 5 feet tính từ đó.",
+      "p": "Đúng. Hãy cách lối xe ra vào hoặc hẻm 5 feet."
+    },
+    "tl": {
+      "q": "Sa District of Columbia, gaano kalapit sa driveway o eskinita ka puwedeng huminto o pumarada?",
+      "o": [
+        "Hanggang mismo sa gilid",
+        "Hindi lalapit sa 1 talampakan",
+        "Hindi lalapit sa 5 talampakan, at hindi kailanman sa harap nito",
+        "Hindi lalapit sa 50 talampakan"
+      ],
+      "h1": "Maikling layo ito, pero hindi mo ito puwedeng harangan.",
+      "h2": "Sa District of Columbia, hindi ka puwedeng huminto o pumarada sa harap ng driveway o eskinita, o sa loob ng 5 talampakan mula rito.",
+      "p": "Tama. Lumayo nang 5 talampakan sa driveway o eskinita."
+    },
+    "ar": {
+      "q": "في District of Columbia، كم يمكنك أن تقترب من مدخل سيارات (driveway) أو زقاق عند التوقف أو الركن؟",
+      "o": [
+        "حتى الحافة تمامًا",
+        "ليس أقرب من قدم واحدة (1)",
+        "ليس أقرب من 5 أقدام، ولا أمامه أبدًا",
+        "ليس أقرب من 50 قدمًا"
+      ],
+      "h1": "المسافة قصيرة، لكن لا يجوز لك أن تسدّه.",
+      "h2": "في District of Columbia لا يجوز لك التوقف أو الركن أمام مدخل سيارات أو زقاق، أو على بُعد أقل من 5 أقدام منه.",
+      "p": "صحيح. ابقَ على بُعد 5 أقدام من مدخل السيارات أو الزقاق."
     }
   }
 ]
