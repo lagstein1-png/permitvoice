@@ -44,7 +44,7 @@ Florida's questions are in `bank/*.json` (checked against the handbook, rev. 08/
 | NH | New Hampshire | 20 | 17 | 40 q, pass 32 (80%) | [link](https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/nhdm.pdf) | — | yes |
 | NJ | New Jersey | 27 | 27 | 50 q, pass 40 (80%) | [link](https://www.nj.gov/mvc/pdf/license/drivermanual.pdf) | [link](https://www.nj.gov/mvc/pdf/license/drivermanuals.pdf) | yes |
 | NM | New Mexico | 31 | 31 | ? q, pass ? (70%) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf) | [link](https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/dlms11.19.19.pdf) | yes |
-| NV | Nevada | 28 | 27 | 25 q, pass 20 (80%) | [link](https://dmv.nv.gov/pdfforms/dlbook.pdf) | — | yes |
+| NV | Nevada | 32 | 31 | 25 q, pass 20 (80%) | [link](https://dmv.nv.gov/pdfforms/dlbook.pdf) | — | yes |
 | NY | New York | 27 | 27 | 20 q, pass 14 (70%) | [link](https://dmv.ny.gov/brochure/mv21.pdf) | [link](https://dmv.ny.gov/brochure/mv21s.pdf) | yes |
 | OH | Ohio | 27 | 27 | 40 q, pass 30 (75%) | [link](https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws) | — | yes |
 | OK | Oklahoma | 26 | 26 | 20 q, pass ? | [link](https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf) | — | yes |
