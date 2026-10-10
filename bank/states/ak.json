@@ -2540,5 +2540,685 @@
       "h2": "تطلب Alaska على الأقل $50,000 لإصابة شخص واحد، و$100,000 للإصابات في حادث واحد، و$25,000 لأضرار الممتلكات.",
       "p": "صحيح. الحد الأدنى في Alaska هو 50/100/25."
     }
+  },
+  {
+    "id": "ak-032",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alaska, how many points within 12 months lead to a required suspension of your license?",
+      "o": [
+        "6 points",
+        "8 points",
+        "12 points",
+        "15 points"
+      ],
+      "h1": "Over 24 months the limit is higher than over 12 months.",
+      "h2": "In Alaska, 12 points in 12 months, or 18 points in 24 months, means your license must be suspended or revoked.",
+      "p": "Right. 12 points in 12 months brings a required suspension."
+    },
+    "es": {
+      "q": "En Alaska, ¿cuántos puntos en 12 meses llevan a una suspensión obligatoria de su licencia?",
+      "o": [
+        "6 puntos",
+        "8 puntos",
+        "12 puntos",
+        "15 puntos"
+      ],
+      "h1": "En 24 meses el límite es más alto que en 12 meses.",
+      "h2": "En Alaska, 12 puntos en 12 meses, o 18 puntos en 24 meses, significa que su licencia debe ser suspendida o revocada.",
+      "p": "Correcto. 12 puntos en 12 meses llevan a una suspensión obligatoria."
+    }
+  },
+  {
+    "id": "ak-033",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 11,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alaska, a driver with a provisional license gets 6 points in 12 months. What must the driver do?",
+      "o": [
+        "Complete a driver improvement course",
+        "Retake the vision test",
+        "Pay a $500 fine",
+        "Start a new instruction permit"
+      ],
+      "h1": "The goal is to help the young driver build better habits.",
+      "h2": "In Alaska, a provisional driver with 6 or more points in 12 months, or 9 or more in 24 months, must complete a driver improvement course approved by the DMV.",
+      "p": "Right. The provisional driver must take a driver improvement course."
+    },
+    "es": {
+      "q": "En Alaska, un conductor con licencia provisional acumula 6 puntos en 12 meses. ¿Qué debe hacer?",
+      "o": [
+        "Completar un curso para mejorar su manejo",
+        "Repetir el examen de la vista",
+        "Pagar una multa de $500",
+        "Empezar con un nuevo permiso de aprendizaje"
+      ],
+      "h1": "La meta es ayudar al conductor joven a formar mejores hábitos.",
+      "h2": "En Alaska, un conductor provisional con 6 puntos o más en 12 meses, o 9 o más en 24 meses, debe completar un curso para mejorar su manejo aprobado por el DMV.",
+      "p": "Correcto. El conductor provisional debe tomar un curso para mejorar su manejo."
+    }
+  },
+  {
+    "id": "ak-034",
+    "scope": "AK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 12,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alaska, how many points are added to your record for driving 10 to 19 mph over the speed limit?",
+      "o": [
+        "2 points",
+        "3 points",
+        "6 points",
+        "4 points"
+      ],
+      "h1": "It is more than for 3 to 9 mph over, and less than for 20 mph or more over.",
+      "h2": "In Alaska, driving 10 to 19 mph over the speed limit adds 4 points to your driving record.",
+      "p": "Right. 10 to 19 mph over the limit is 4 points."
+    },
+    "es": {
+      "q": "En Alaska, ¿cuántos puntos se agregan a su historial por manejar de 10 a 19 mph sobre el límite de velocidad?",
+      "o": [
+        "2 puntos",
+        "3 puntos",
+        "6 puntos",
+        "4 puntos"
+      ],
+      "h1": "Es más que por ir de 3 a 9 mph sobre el límite, y menos que por ir 20 mph o más.",
+      "h2": "En Alaska, manejar de 10 a 19 mph sobre el límite de velocidad agrega 4 puntos a su historial de manejo.",
+      "p": "Correcto. De 10 a 19 mph sobre el límite son 4 puntos."
+    }
+  },
+  {
+    "id": "ak-035",
+    "scope": "AK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 11,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alaska, no police officer investigated your crash. How soon must you report it to the DMV?",
+      "o": [
+        "Within 24 hours",
+        "Within 10 days",
+        "Within 30 days",
+        "Within 6 months"
+      ],
+      "h1": "You can send the report online or by mail.",
+      "h2": "In Alaska, if a police officer did not investigate your crash, you must report it to the DMV within 10 days.",
+      "p": "Right. Report the crash to the DMV within 10 days."
+    },
+    "es": {
+      "q": "En Alaska, ningún policía investigó su choque. ¿En cuánto tiempo debe reportarlo al DMV?",
+      "o": [
+        "En 24 horas",
+        "En 10 días",
+        "En 30 días",
+        "En 6 meses"
+      ],
+      "h1": "Puede enviar el reporte por internet o por correo.",
+      "h2": "En Alaska, si un policía no investigó su choque, usted debe reportarlo al DMV en un plazo de 10 días.",
+      "p": "Correcto. Reporte el choque al DMV en 10 días."
+    }
+  },
+  {
+    "id": "ak-036",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alaska, after a crash where someone was hurt, how many days do you have to give the DMV proof of insurance?",
+      "o": [
+        "3 days",
+        "7 days",
+        "15 days",
+        "60 days"
+      ],
+      "h1": "Every driver in the crash must send it, even the one who did not cause it.",
+      "h2": "In Alaska, after a crash with an injury, every driver involved must give the DMV proof of insurance within 15 days.",
+      "p": "Right. Every driver must send proof of insurance within 15 days."
+    },
+    "es": {
+      "q": "En Alaska, después de un choque donde alguien resultó herido, ¿cuántos días tiene para dar al DMV prueba de seguro?",
+      "o": [
+        "3 días",
+        "7 días",
+        "15 días",
+        "60 días"
+      ],
+      "h1": "Cada conductor del choque debe enviarla, aunque no haya causado el choque.",
+      "h2": "En Alaska, después de un choque con heridos, cada conductor involucrado debe dar al DMV prueba de seguro en un plazo de 15 días.",
+      "p": "Correcto. Cada conductor debe enviar prueba de seguro en 15 días."
+    }
+  },
+  {
+    "id": "ak-037",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 10,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alaska, you had no insurance when you were in a crash. For a first time, how long is your license suspended?",
+      "o": [
+        "30 days",
+        "1 year",
+        "3 years",
+        "90 days"
+      ],
+      "h1": "A second time brings a longer suspension.",
+      "h2": "In Alaska, a driver who was uninsured in a crash has the license suspended for 90 days the first time and 1 year the second time.",
+      "p": "Right. The first time, the suspension is 90 days."
+    },
+    "es": {
+      "q": "En Alaska, usted no tenía seguro cuando tuvo un choque. Si es la primera vez, ¿por cuánto tiempo suspenden su licencia?",
+      "o": [
+        "30 días",
+        "1 año",
+        "3 años",
+        "90 días"
+      ],
+      "h1": "Una segunda vez trae una suspensión más larga.",
+      "h2": "En Alaska, a un conductor sin seguro en un choque le suspenden la licencia por 90 días la primera vez y por 1 año la segunda vez.",
+      "p": "Correcto. La primera vez, la suspensión es de 90 días."
+    }
+  },
+  {
+    "id": "ak-038",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 16,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alaska, a driver with no past DUI is arrested and the breath test shows 0.08 or more. How long will the DMV revoke the license?",
+      "o": [
+        "90 days",
+        "30 days",
+        "3 years",
+        "5 years"
+      ],
+      "h1": "The longer periods are for drivers with earlier DUI or refusal convictions.",
+      "h2": "In Alaska, the DMV revokes the license for 90 days for a first offense when a driver tests at 0.08 or more or refuses the test.",
+      "p": "Right. A first offense means a 90-day revocation by the DMV."
+    },
+    "es": {
+      "q": "En Alaska, arrestan a un conductor sin DUI anteriores y la prueba de aliento muestra 0.08 o más. ¿Por cuánto tiempo revocará el DMV su licencia?",
+      "o": [
+        "90 días",
+        "30 días",
+        "3 años",
+        "5 años"
+      ],
+      "h1": "Los periodos más largos son para conductores con condenas anteriores por DUI o por negarse a la prueba.",
+      "h2": "En Alaska, el DMV revoca la licencia por 90 días en una primera ofensa cuando el conductor marca 0.08 o más o se niega a la prueba.",
+      "p": "Correcto. Una primera ofensa significa que el DMV revoca la licencia por 90 días."
+    }
+  },
+  {
+    "id": "ak-039",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 16,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alaska, a driver under 21 is caught driving after drinking alcohol. For a first offense, how long does the DMV revoke the license?",
+      "o": [
+        "7 days",
+        "30 days",
+        "2 years",
+        "5 years"
+      ],
+      "h1": "The period gets longer with each new offense.",
+      "h2": "In Alaska, a driver under 21 who drives after drinking any alcohol loses the license for 30 days for a first offense, even if the court case is dropped.",
+      "p": "Right. A first offense means a 30-day revocation."
+    },
+    "es": {
+      "q": "En Alaska, encuentran a un conductor menor de 21 años manejando después de tomar alcohol. En una primera ofensa, ¿por cuánto tiempo revoca el DMV su licencia?",
+      "o": [
+        "7 días",
+        "30 días",
+        "2 años",
+        "5 años"
+      ],
+      "h1": "El periodo se alarga con cada nueva ofensa.",
+      "h2": "En Alaska, un conductor menor de 21 años que maneja después de tomar cualquier cantidad de alcohol pierde la licencia por 30 días en una primera ofensa, aunque se cierre el caso en la corte.",
+      "p": "Correcto. Una primera ofensa significa una revocación de 30 días."
+    }
+  },
+  {
+    "id": "ak-040",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 19,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alaska, after a first DUI conviction, how long must an ignition interlock device be on any vehicle you drive?",
+      "o": [
+        "1 month",
+        "3 months",
+        "At least 6 months",
+        "10 years"
+      ],
+      "h1": "The time grows with each extra conviction.",
+      "h2": "In Alaska, after a first DUI or refusal conviction, you must use an ignition interlock device on any vehicle you drive for at least 6 months.",
+      "p": "Right. A first conviction means at least 6 months with the device."
+    },
+    "es": {
+      "q": "En Alaska, después de una primera condena por DUI, ¿por cuánto tiempo debe tener un dispositivo de bloqueo de encendido en cualquier vehículo que maneje?",
+      "o": [
+        "1 mes",
+        "3 meses",
+        "Por lo menos 6 meses",
+        "10 años"
+      ],
+      "h1": "El tiempo aumenta con cada condena adicional.",
+      "h2": "En Alaska, después de una primera condena por DUI o por negarse a la prueba, debe usar un dispositivo de bloqueo de encendido en cualquier vehículo que maneje por lo menos 6 meses.",
+      "p": "Correcto. Una primera condena significa por lo menos 6 meses con el dispositivo."
+    }
+  },
+  {
+    "id": "ak-041",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 5,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alaska, if you get your driver license before age 21, when does it expire?",
+      "o": [
+        "On your 18th birthday",
+        "One year after you get it",
+        "On your 25th birthday",
+        "90 days after your 21st birthday"
+      ],
+      "h1": "It is tied to the age when you may legally drink.",
+      "h2": "In Alaska, a license issued to someone under 21 expires 90 days after the 21st birthday, and you must pass an alcohol awareness test to renew it.",
+      "p": "Right. It expires 90 days after your 21st birthday."
+    },
+    "es": {
+      "q": "En Alaska, si obtiene su licencia de manejar antes de los 21 años, ¿cuándo vence?",
+      "o": [
+        "El día que cumple 18 años",
+        "Un año después de recibirla",
+        "El día que cumple 25 años",
+        "90 días después de cumplir 21 años"
+      ],
+      "h1": "Está ligado a la edad en que se puede tomar alcohol legalmente.",
+      "h2": "En Alaska, una licencia dada a alguien menor de 21 años vence 90 días después de cumplir 21, y para renovarla debe pasar un examen sobre el alcohol.",
+      "p": "Correcto. Vence 90 días después de cumplir 21 años."
+    }
+  },
+  {
+    "id": "ak-042",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 6,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alaska, what is the minimum vision needed for a license, in each eye or with both eyes together?",
+      "o": [
+        "20/40",
+        "20/80",
+        "20/100",
+        "20/200"
+      ],
+      "h1": "You may wear glasses or contact lenses to reach it.",
+      "h2": "In Alaska, you need at least 20/40 vision in each eye or with both eyes together, and if you need lenses to pass, you must wear them when you drive.",
+      "p": "Right. The standard is 20/40."
+    },
+    "es": {
+      "q": "En Alaska, ¿cuál es la vista mínima para tener licencia, en cada ojo o con los dos ojos juntos?",
+      "o": [
+        "20/40",
+        "20/80",
+        "20/100",
+        "20/200"
+      ],
+      "h1": "Puede usar lentes o lentes de contacto para lograrla.",
+      "h2": "En Alaska, necesita por lo menos una vista de 20/40 en cada ojo o con los dos ojos juntos, y si necesita lentes para pasar, debe usarlos al manejar.",
+      "p": "Correcto. El mínimo es 20/40."
+    }
+  },
+  {
+    "id": "ak-043",
+    "scope": "AK",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 7,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alaska, you failed the written knowledge test. When may you take it again?",
+      "o": [
+        "After 30 days",
+        "The next day",
+        "After one week",
+        "After six months"
+      ],
+      "h1": "Study the manual again first; you will not wait long.",
+      "h2": "In Alaska, if you fail the written test, you may take it again the following day.",
+      "p": "Right. You may retake it the next day."
+    },
+    "es": {
+      "q": "En Alaska, usted no pasó el examen escrito de conocimientos. ¿Cuándo puede tomarlo otra vez?",
+      "o": [
+        "Después de 30 días",
+        "Al día siguiente",
+        "Después de una semana",
+        "Después de seis meses"
+      ],
+      "h1": "Estudie el manual otra vez primero; no tendrá que esperar mucho.",
+      "h2": "En Alaska, si no pasa el examen escrito, puede tomarlo otra vez al día siguiente.",
+      "p": "Correcto. Puede repetirlo al día siguiente."
+    }
+  },
+  {
+    "id": "ak-044",
+    "scope": "AK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 21,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alaska, a child is younger than 1 year old. How must the child ride in a car?",
+      "o": [
+        "In a booster seat",
+        "On an adult's lap",
+        "In a rear-facing child safety seat",
+        "With only the car's seat belt"
+      ],
+      "h1": "Babies need a seat that protects the head and neck in a crash.",
+      "h2": "In Alaska, a child under 1 year old, or any child who weighs less than 20 pounds, must ride in a rear-facing child safety seat.",
+      "p": "Right. A baby under 1 rides in a rear-facing seat."
+    },
+    "es": {
+      "q": "En Alaska, un niño tiene menos de 1 año. ¿Cómo debe viajar en el carro?",
+      "o": [
+        "En un asiento elevado (booster)",
+        "En las piernas de un adulto",
+        "En un asiento de seguridad mirando hacia atrás",
+        "Solo con el cinturón del carro"
+      ],
+      "h1": "Los bebés necesitan un asiento que proteja la cabeza y el cuello en un choque.",
+      "h2": "En Alaska, un niño menor de 1 año, o cualquier niño que pese menos de 20 libras, debe viajar en un asiento de seguridad mirando hacia atrás.",
+      "p": "Correcto. Un bebé menor de 1 año viaja en un asiento mirando hacia atrás."
+    }
+  },
+  {
+    "id": "ak-045",
+    "scope": "AK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 55,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alaska, you are driving at night with high beams on. A car is coming toward you. At what distance must you switch to low beams?",
+      "o": [
+        "100 feet",
+        "200 feet",
+        "2,000 feet",
+        "500 feet"
+      ],
+      "h1": "The rule for a car coming toward you is longer than for a car you follow.",
+      "h2": "In Alaska, you must dim to low beams when you are 500 feet or more from an oncoming vehicle, and 300 feet from a vehicle you are following.",
+      "p": "Right. Dim your lights at 500 feet from oncoming traffic."
+    },
+    "es": {
+      "q": "En Alaska, maneja de noche con las luces altas. Viene un carro de frente. ¿A qué distancia debe cambiar a luces bajas?",
+      "o": [
+        "100 pies",
+        "200 pies",
+        "2,000 pies",
+        "500 pies"
+      ],
+      "h1": "La regla para un carro que viene de frente es más larga que para un carro que usted sigue.",
+      "h2": "En Alaska, debe cambiar a luces bajas cuando está a 500 pies o más de un vehículo que viene de frente, y a 300 pies de un vehículo que va delante de usted.",
+      "p": "Correcto. Baje las luces a 500 pies del tráfico que viene de frente."
+    }
+  },
+  {
+    "id": "ak-046",
+    "scope": "AK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 62,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alaska, how far from a railroad crossing must you park, at the least?",
+      "o": [
+        "50 feet",
+        "10 feet",
+        "20 feet",
+        "5 feet"
+      ],
+      "h1": "It is the longest of the usual parking distances, after the one for a stopped fire truck.",
+      "h2": "In Alaska, you may not park closer than 50 feet to a railroad crossing.",
+      "p": "Right. Park at least 50 feet from a railroad crossing."
+    },
+    "es": {
+      "q": "En Alaska, ¿a qué distancia mínima de un cruce de tren debe estacionarse?",
+      "o": [
+        "50 pies",
+        "10 pies",
+        "20 pies",
+        "5 pies"
+      ],
+      "h1": "Es la más larga de las distancias comunes para estacionar, después de la de un camión de bomberos detenido.",
+      "h2": "En Alaska, no puede estacionarse a menos de 50 pies de un cruce de tren.",
+      "p": "Correcto. Estaciónese por lo menos a 50 pies de un cruce de tren."
+    }
+  },
+  {
+    "id": "ak-047",
+    "scope": "AK",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": 64,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alaska, a fire truck is going to an emergency. If you are driving behind it, how far back must you stay?",
+      "o": [
+        "100 feet",
+        "500 feet",
+        "50 feet",
+        "200 feet"
+      ],
+      "h1": "It is the same distance as the no-parking zone near a stopped fire truck.",
+      "h2": "In Alaska, you may not follow an emergency vehicle that is responding to an emergency closer than 500 feet.",
+      "p": "Right. Stay at least 500 feet behind it."
+    },
+    "es": {
+      "q": "En Alaska, un camión de bomberos va a una emergencia. Si usted maneja detrás de él, ¿a qué distancia debe mantenerse?",
+      "o": [
+        "100 pies",
+        "500 pies",
+        "50 pies",
+        "200 pies"
+      ],
+      "h1": "Es la misma distancia de la zona donde no se puede estacionar cerca de un camión de bomberos detenido.",
+      "h2": "En Alaska, no puede seguir a un vehículo de emergencia que va a una emergencia a menos de 500 pies.",
+      "p": "Correcto. Manténgase por lo menos a 500 pies detrás."
+    }
+  },
+  {
+    "id": "ak-048",
+    "scope": "AK",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": 29,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Alaska, what happens to fines for traffic offenses inside a Traffic Safety Corridor?",
+      "o": [
+        "They are cut in half",
+        "They stay the same",
+        "They are doubled",
+        "They are tripled"
+      ],
+      "h1": "These stretches of highway get extra protection.",
+      "h2": "In Alaska, fines for traffic offenses in a Traffic Safety Corridor are doubled.",
+      "p": "Right. Fines are doubled in a Traffic Safety Corridor."
+    },
+    "es": {
+      "q": "En Alaska, ¿qué pasa con las multas por infracciones de tránsito dentro de un Traffic Safety Corridor (corredor de seguridad vial)?",
+      "o": [
+        "Se reducen a la mitad",
+        "Siguen iguales",
+        "Se duplican",
+        "Se triplican"
+      ],
+      "h1": "Estos tramos de carretera tienen protección adicional.",
+      "h2": "En Alaska, las multas por infracciones de tránsito en un Traffic Safety Corridor se duplican.",
+      "p": "Correcto. Las multas se duplican en un Traffic Safety Corridor."
+    }
+  },
+  {
+    "id": "ak-049",
+    "scope": "AK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 60,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Alaska, your car hits a moose and kills or injures it. What must you do?",
+      "o": [
+        "Keep the animal for its meat",
+        "Drive on if your car still works",
+        "Call only your insurance company",
+        "Tell a State Trooper or wildlife officer soon"
+      ],
+      "h1": "Big game animals hit on the road belong to the state.",
+      "h2": "In Alaska, if you kill or injure a big game animal with your vehicle, you must tell a State Trooper or a Fish and Wildlife officer as soon as possible.",
+      "p": "Right. Tell a State Trooper or wildlife officer as soon as you can."
+    },
+    "es": {
+      "q": "En Alaska, su carro choca con un alce y lo mata o lo hiere. ¿Qué debe hacer?",
+      "o": [
+        "Quedarse con el animal por su carne",
+        "Seguir manejando si el carro funciona",
+        "Llamar solo a su compañía de seguros",
+        "Avisar pronto a un State Trooper o agente de vida silvestre"
+      ],
+      "h1": "Los animales de caza mayor atropellados en la carretera son del estado.",
+      "h2": "En Alaska, si mata o hiere a un animal de caza mayor con su vehículo, debe avisar a un State Trooper o a un agente de Fish and Wildlife lo antes posible.",
+      "p": "Correcto. Avise a un State Trooper o agente de vida silvestre lo antes posible."
+    }
+  },
+  {
+    "id": "ak-050",
+    "scope": "AK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 61,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Alaska, which parts of the road usually become slippery first in freezing weather and stay slippery longer?",
+      "o": [
+        "Bridges and shaded areas",
+        "Sunny, straight stretches",
+        "Busy streets in town",
+        "Newly paved roads"
+      ],
+      "h1": "Think of places where cold air or shade reaches the road surface more.",
+      "h2": "In Alaska, bridges, shaded spots and protected areas become slippery before the rest of the road and stay slippery longer.",
+      "p": "Right. Watch bridges and shaded areas for ice."
+    },
+    "es": {
+      "q": "En Alaska, cuando hay heladas, ¿qué partes de la carretera suelen ponerse resbalosas primero y siguen así por más tiempo?",
+      "o": [
+        "Los puentes y las zonas con sombra",
+        "Los tramos rectos y soleados",
+        "Las calles con mucho tráfico en la ciudad",
+        "Las carreteras recién pavimentadas"
+      ],
+      "h1": "Piense en lugares donde el aire frío o la sombra llegan más a la superficie.",
+      "h2": "En Alaska, los puentes, las zonas con sombra y las áreas protegidas se ponen resbalosas antes que el resto de la carretera y siguen así por más tiempo.",
+      "p": "Correcto. Tenga cuidado con el hielo en puentes y zonas con sombra."
+    }
+  },
+  {
+    "id": "ak-051",
+    "scope": "AK",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 59,
+    "src": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Alaska, why does the driver manual say to keep your fuel tank full in cold weather?",
+      "o": [
+        "To make the heater work faster",
+        "To keep moisture from forming in the tank",
+        "To make the car heavier on ice",
+        "To pass the vehicle inspection"
+      ],
+      "h1": "Cold air inside an almost empty tank can leave water behind.",
+      "h2": "In Alaska, keeping your fuel tank full in cold weather helps stop moisture from condensing inside the tank.",
+      "p": "Right. A full tank keeps moisture from forming inside."
+    },
+    "es": {
+      "q": "En Alaska, ¿por qué dice el manual que mantenga lleno el tanque de gasolina cuando hace frío?",
+      "o": [
+        "Para que la calefacción funcione más rápido",
+        "Para evitar que se forme humedad en el tanque",
+        "Para que el carro pese más sobre el hielo",
+        "Para pasar la inspección del vehículo"
+      ],
+      "h1": "El aire frío dentro de un tanque casi vacío puede dejar agua.",
+      "h2": "En Alaska, mantener lleno el tanque de gasolina cuando hace frío ayuda a evitar que se condense humedad dentro del tanque.",
+      "p": "Correcto. Un tanque lleno evita que se forme humedad adentro."
+    }
   }
 ]
