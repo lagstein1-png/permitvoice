@@ -1753,6 +1753,54 @@
       "h1": "Es el número de meses que tiene un año.",
       "h2": "En Nevada, su licencia se suspende si acumula 12 o más puntos de demérito en cualquier período de 12 meses.",
       "p": "Correcto. 12 puntos en 12 meses significan una suspensión."
+    },
+    "zh": {
+      "q": "在 Nevada，12 个月内被扣多少分会被吊销驾照？",
+      "o": [
+        "4 分或以上",
+        "8 分或以上",
+        "12 分或以上",
+        "20 分或以上"
+      ],
+      "h1": "它和一年的月数一样。",
+      "h2": "在 Nevada，如果你在任何 12 个月内被扣 12 分或以上，你的驾照会被吊销。",
+      "p": "对。12 个月内扣 12 分就会被吊销驾照。"
+    },
+    "vi": {
+      "q": "Ở Nevada, bị bao nhiêu điểm phạt (demerit points) trong 12 tháng thì bằng lái sẽ bị treo?",
+      "o": [
+        "4 điểm trở lên",
+        "8 điểm trở lên",
+        "12 điểm trở lên",
+        "20 điểm trở lên"
+      ],
+      "h1": "Đó là số tháng trong một năm.",
+      "h2": "Ở Nevada, bằng lái của bạn sẽ bị treo nếu bạn bị 12 điểm phạt trở lên trong bất kỳ khoảng 12 tháng nào.",
+      "p": "Đúng. 12 điểm trong 12 tháng thì bị treo bằng lái."
+    },
+    "tl": {
+      "q": "Sa Nevada, ilang demerit point sa loob ng 12 buwan ang magpapasuspinde ng iyong lisensya?",
+      "o": [
+        "4 o higit pa",
+        "8 o higit pa",
+        "12 o higit pa",
+        "20 o higit pa"
+      ],
+      "h1": "Ito ang bilang ng mga buwan sa isang taon.",
+      "h2": "Sa Nevada, masususpinde ang iyong lisensya kung magkakaroon ka ng 12 o higit pang demerit point sa anumang 12 buwan.",
+      "p": "Tama. 12 point sa loob ng 12 buwan ay nangangahulugan ng suspensyon."
+    },
+    "ar": {
+      "q": "في Nevada، كم نقطة مخالفة (demerit points) خلال 12 شهرًا تؤدي إلى إيقاف رخصتك؟",
+      "o": [
+        "4 نقاط أو أكثر",
+        "8 نقاط أو أكثر",
+        "12 نقطة أو أكثر",
+        "20 نقطة أو أكثر"
+      ],
+      "h1": "هو عدد أشهر السنة.",
+      "h2": "في Nevada، تُوقَف رخصتك إذا حصلت على 12 نقطة مخالفة أو أكثر خلال أي فترة مدتها 12 شهرًا.",
+      "p": "صحيح. 12 نقطة خلال 12 شهرًا تعني إيقاف الرخصة."
     }
   },
   {
@@ -1787,6 +1835,54 @@
       "h1": "Es un número pequeño, y solo se puede hacer una vez cada 12 meses.",
       "h2": "En Nevada, un curso de seguridad vial aprobado por el DMV puede quitar hasta 3 puntos de demérito, una vez en un período de 12 meses.",
       "p": "Correcto. La escuela de tránsito quita hasta 3 puntos."
+    },
+    "zh": {
+      "q": "在 Nevada，参加 DMV 认可的交通安全课程可以消除多少扣分？",
+      "o": [
+        "最多 3 分",
+        "最多 6 分",
+        "最多 12 分",
+        "一分也不能"
+      ],
+      "h1": "它是一个小数字，而且 12 个月内只能上一次。",
+      "h2": "在 Nevada，DMV 认可的交通安全课程最多可以消除 3 分，12 个月内只能用一次。",
+      "p": "对。交通学校最多消除 3 分。"
+    },
+    "vi": {
+      "q": "Ở Nevada, một khóa học an toàn giao thông được DMV chấp thuận có thể xóa bao nhiêu điểm phạt?",
+      "o": [
+        "Tối đa 3 điểm",
+        "Tối đa 6 điểm",
+        "Tối đa 12 điểm",
+        "Không xóa điểm nào"
+      ],
+      "h1": "Đó là một con số nhỏ, và bạn chỉ được làm một lần trong 12 tháng.",
+      "h2": "Ở Nevada, một khóa học an toàn giao thông được DMV chấp thuận có thể xóa tối đa 3 điểm phạt, một lần trong khoảng 12 tháng.",
+      "p": "Đúng. Trường dạy luật giao thông xóa tối đa 3 điểm."
+    },
+    "tl": {
+      "q": "Sa Nevada, ilang demerit point ang puwedeng alisin ng isang traffic safety course na aprubado ng DMV?",
+      "o": [
+        "Hanggang 3 point",
+        "Hanggang 6 na point",
+        "Hanggang 12 point",
+        "Wala kahit isa"
+      ],
+      "h1": "Maliit na numero ito, at isang beses mo lang ito magagawa sa loob ng 12 buwan.",
+      "h2": "Sa Nevada, ang traffic safety course na aprubado ng DMV ay puwedeng mag-alis ng hanggang 3 demerit point, isang beses sa loob ng 12 buwan.",
+      "p": "Tama. Ang traffic school ay nag-aalis ng hanggang 3 point."
+    },
+    "ar": {
+      "q": "في Nevada، كم نقطة مخالفة يمكن أن تمحوها دورة سلامة مرورية معتمدة من DMV؟",
+      "o": [
+        "حتى 3 نقاط",
+        "حتى 6 نقاط",
+        "حتى 12 نقطة",
+        "لا شيء أبدًا"
+      ],
+      "h1": "هو رقم صغير، ويمكنك فعل ذلك مرة واحدة خلال 12 شهرًا.",
+      "h2": "في Nevada، يمكن لدورة سلامة مرورية معتمدة من DMV أن تمحو حتى 3 نقاط مخالفة، مرة واحدة خلال فترة 12 شهرًا.",
+      "p": "صحيح. مدرسة المرور تمحو حتى 3 نقاط."
     }
   },
   {
@@ -1821,6 +1917,54 @@
       "h1": "Hay un formulario, y tiene menos de dos semanas.",
       "h2": "En Nevada, si la policía no investiga un choque con $750 o más en daños o con heridos, usted debe enviar un informe de choque SR-1 al DMV dentro de 10 días.",
       "p": "Correcto. Usted envía el formulario SR-1 al DMV dentro de 10 días."
+    },
+    "zh": {
+      "q": "在 Nevada，如果警察没有调查一起造成 $750 或以上损失的车祸，你必须做什么？",
+      "o": [
+        "如果没人受伤，什么都不用做",
+        "只告诉你的保险公司",
+        "在 30 天内打电话给 DMV",
+        "在 10 天内把车祸报告表（SR-1）交给 DMV"
+      ],
+      "h1": "有一张表格，而且你的时间不到两个星期。",
+      "h2": "在 Nevada，如果警察没有调查一起造成 $750 或以上损失或有人受伤的车祸，你必须在 10 天内把 SR-1 车祸报告交给 DMV。",
+      "p": "对。你要在 10 天内把 SR-1 表格交给 DMV。"
+    },
+    "vi": {
+      "q": "Ở Nevada, cảnh sát không điều tra một vụ tai nạn gây thiệt hại từ $750 trở lên. Bạn phải làm gì?",
+      "o": [
+        "Không cần làm gì, nếu không ai bị thương",
+        "Chỉ báo cho công ty bảo hiểm",
+        "Gọi cho DMV trong vòng 30 ngày",
+        "Gửi mẫu báo cáo tai nạn (SR-1) cho DMV trong vòng 10 ngày"
+      ],
+      "h1": "Có một mẫu đơn, và bạn có chưa tới hai tuần.",
+      "h2": "Ở Nevada, nếu cảnh sát không điều tra một vụ tai nạn gây thiệt hại từ $750 trở lên hoặc có người bị thương, bạn phải gửi báo cáo tai nạn SR-1 cho DMV trong vòng 10 ngày.",
+      "p": "Đúng. Bạn gửi mẫu SR-1 cho DMV trong vòng 10 ngày."
+    },
+    "tl": {
+      "q": "Sa Nevada, hindi inimbestigahan ng pulis ang isang banggaan na may pinsalang $750 o higit pa. Ano ang dapat mong gawin?",
+      "o": [
+        "Wala, kung walang nasaktan",
+        "Sabihan lamang ang iyong insurance company",
+        "Tawagan ang DMV sa loob ng 30 araw",
+        "Magpadala ng crash report form (SR-1) sa DMV sa loob ng 10 araw"
+      ],
+      "h1": "May isang form, at wala pang dalawang linggo ang iyong oras.",
+      "h2": "Sa Nevada, kung hindi inimbestigahan ng pulis ang isang banggaan na may pinsalang $750 o higit pa o may nasaktan, dapat kang magpadala ng SR-1 crash report sa DMV sa loob ng 10 araw.",
+      "p": "Tama. Ipapadala mo ang SR-1 form sa DMV sa loob ng 10 araw."
+    },
+    "ar": {
+      "q": "في Nevada، لم تحقّق الشرطة في حادث سبّب أضرارًا بقيمة $750 أو أكثر. ماذا يجب أن تفعل؟",
+      "o": [
+        "لا شيء، إذا لم يُصَب أحد",
+        "أخبر شركة التأمين فقط",
+        "اتصل بـ DMV خلال 30 يومًا",
+        "أرسل نموذج تقرير الحادث (SR-1) إلى DMV خلال 10 أيام"
+      ],
+      "h1": "هناك نموذج، ولديك أقل من أسبوعين.",
+      "h2": "في Nevada، إذا لم تحقّق الشرطة في حادث فيه أضرار بقيمة $750 أو أكثر أو فيه إصابة، يجب أن ترسل تقرير الحادث SR-1 إلى DMV خلال 10 أيام.",
+      "p": "صحيح. ترسل نموذج SR-1 إلى DMV خلال 10 أيام."
     }
   },
   {
@@ -1855,6 +1999,54 @@
       "h1": "Es la mitad de lo que se exige para dos o más personas.",
       "h2": "En Nevada, el seguro de responsabilidad civil mínimo es de $25,000 por lesiones o muerte de una persona en un choque.",
       "p": "Correcto. El mínimo para una persona es de $25,000."
+    },
+    "zh": {
+      "q": "在 Nevada，车祸中一个人受伤的最低责任保险金额是多少？",
+      "o": [
+        "$10,000",
+        "$25,000",
+        "$50,000",
+        "$100,000"
+      ],
+      "h1": "它是两人或以上所需金额的一半。",
+      "h2": "在 Nevada，车祸中一个人受伤或死亡的最低责任保险金额是 $25,000。",
+      "p": "对。一个人的最低金额是 $25,000。"
+    },
+    "vi": {
+      "q": "Ở Nevada, bảo hiểm trách nhiệm tối thiểu cho thương tích của một người trong một vụ tai nạn là bao nhiêu?",
+      "o": [
+        "$10,000",
+        "$25,000",
+        "$50,000",
+        "$100,000"
+      ],
+      "h1": "Đó là một nửa số tiền bắt buộc cho hai người trở lên.",
+      "h2": "Ở Nevada, bảo hiểm trách nhiệm tối thiểu là $25,000 cho thương tích hoặc tử vong của một người trong một vụ tai nạn.",
+      "p": "Đúng. Mức tối thiểu cho một người là $25,000."
+    },
+    "tl": {
+      "q": "Sa Nevada, magkano ang pinakamababang liability insurance para sa pinsala sa isang tao sa isang banggaan?",
+      "o": [
+        "$10,000",
+        "$25,000",
+        "$50,000",
+        "$100,000"
+      ],
+      "h1": "Kalahati ito ng halagang kailangan para sa dalawa o higit pang tao.",
+      "h2": "Sa Nevada, ang pinakamababang liability insurance ay $25,000 para sa pinsala o pagkamatay ng isang tao sa isang banggaan.",
+      "p": "Tama. $25,000 ang pinakamababa para sa isang tao."
+    },
+    "ar": {
+      "q": "في Nevada، ما الحدّ الأدنى لتأمين المسؤولية عن إصابة شخص واحد في حادث؟",
+      "o": [
+        "$10,000",
+        "$25,000",
+        "$50,000",
+        "$100,000"
+      ],
+      "h1": "هو نصف المبلغ المطلوب لشخصين أو أكثر.",
+      "h2": "في Nevada، الحدّ الأدنى لتأمين المسؤولية هو $25,000 عن إصابة شخص واحد أو وفاته في حادث.",
+      "p": "صحيح. الحدّ الأدنى لشخص واحد هو $25,000."
     }
   },
   {
@@ -1889,6 +2081,54 @@
       "h1": "Piense en la edad de seis años y una estatura de 4 pies 9 pulgadas.",
       "h2": "En Nevada, los niños menores de 6 años que miden menos de 57 pulgadas deben viajar en un sistema de retención infantil aprobado.",
       "p": "Correcto. Menor de 6 años y de menos de 57 pulgadas: va en un asiento de seguridad."
+    },
+    "zh": {
+      "q": "在 Nevada，哪些孩子必须坐在认可的儿童安全座椅里？",
+      "o": [
+        "只有不到 1 岁的婴儿",
+        "不到 12 岁的孩子，不管多高",
+        "不到 6 岁而且身高不到 57 英寸的孩子",
+        "只有坐在前座的孩子"
+      ],
+      "h1": "想一想 6 岁和 4 英尺 9 英寸的身高。",
+      "h2": "在 Nevada，不到 6 岁而且身高不到 57 英寸的孩子必须坐在认可的儿童安全座椅里。",
+      "p": "对。不到 6 岁并且不到 57 英寸，就要用儿童安全座椅。"
+    },
+    "vi": {
+      "q": "Ở Nevada, những trẻ em nào phải ngồi trong hệ thống ghế an toàn trẻ em được chấp thuận?",
+      "o": [
+        "Chỉ em bé dưới 1 tuổi",
+        "Trẻ em dưới 12 tuổi, bất kể chiều cao",
+        "Trẻ em dưới 6 tuổi và thấp hơn 57 inch",
+        "Chỉ trẻ em ngồi ở ghế trước"
+      ],
+      "h1": "Hãy nghĩ đến 6 tuổi và chiều cao 4 feet 9 inch.",
+      "h2": "Ở Nevada, trẻ em dưới 6 tuổi và thấp hơn 57 inch phải ngồi trong hệ thống ghế an toàn trẻ em được chấp thuận.",
+      "p": "Đúng. Dưới 6 tuổi và dưới 57 inch thì phải dùng ghế an toàn trẻ em."
+    },
+    "tl": {
+      "q": "Sa Nevada, aling mga bata ang dapat sumakay sa aprubadong child restraint system?",
+      "o": [
+        "Mga sanggol lamang na wala pang 1 taon",
+        "Mga batang wala pang 12 taon, kahit gaano kataas",
+        "Mga batang wala pang 6 na taon at mas maliit sa 57 pulgada",
+        "Mga batang nakaupo lamang sa harapang upuan"
+      ],
+      "h1": "Isipin ang edad na anim at taas na 4 na talampakan at 9 na pulgada.",
+      "h2": "Sa Nevada, ang mga batang wala pang 6 na taon at mas maliit sa 57 pulgada ay dapat sumakay sa aprubadong child restraint system.",
+      "p": "Tama. Wala pang 6 na taon at mas maliit sa 57 pulgada ay nangangahulugan ng child restraint."
+    },
+    "ar": {
+      "q": "في Nevada، أيّ الأطفال يجب أن يركبوا في مقعد أمان معتمد للأطفال؟",
+      "o": [
+        "الرضّع تحت عمر سنة واحدة فقط",
+        "الأطفال تحت 12 سنة، مهما كان طولهم",
+        "الأطفال تحت 6 سنوات الذين طولهم أقل من 57 إنشًا",
+        "الأطفال الذين يجلسون في المقعد الأمامي فقط"
+      ],
+      "h1": "فكّر في عمر ست سنوات وطول 4 أقدام و9 إنشات.",
+      "h2": "في Nevada، يجب أن يركب الأطفال تحت 6 سنوات الذين طولهم أقل من 57 إنشًا في مقعد أمان معتمد للأطفال.",
+      "p": "صحيح. تحت 6 سنوات وأقل من 57 إنشًا يعني مقعد أمان للأطفال."
     }
   },
   {
@@ -1923,6 +2163,54 @@
       "h1": "Es un poco más que tres campos de fútbol americano.",
       "h2": "En Nevada, las luces delanteras son obligatorias siempre que no pueda ver con claridad a personas o vehículos a 1,000 pies.",
       "p": "Correcto. Las luces se encienden cuando no se ve bien a 1,000 pies."
+    },
+    "zh": {
+      "q": "在 Nevada，当你在多远的距离看不清楚行人或车辆时，必须开大灯？",
+      "o": [
+        "1,000 英尺",
+        "300 英尺",
+        "100 英尺",
+        "2 英里"
+      ],
+      "h1": "它比三个足球场长一点。",
+      "h2": "在 Nevada，只要你看不清楚 1,000 英尺外的行人或车辆，就必须开大灯。",
+      "p": "对。在 1,000 英尺看不清楚时就要开大灯。"
+    },
+    "vi": {
+      "q": "Ở Nevada, bạn phải bật đèn pha khi không thể nhìn rõ người hoặc xe ở khoảng cách bao xa?",
+      "o": [
+        "1,000 feet",
+        "300 feet",
+        "100 feet",
+        "2 dặm"
+      ],
+      "h1": "Nó dài hơn ba sân bóng bầu dục một chút.",
+      "h2": "Ở Nevada, bạn phải bật đèn pha bất cứ khi nào bạn không thể nhìn rõ người hoặc xe ở cách xa 1,000 feet.",
+      "p": "Đúng. Bật đèn pha khi bạn không nhìn rõ ở 1,000 feet."
+    },
+    "tl": {
+      "q": "Sa Nevada, dapat kang gumamit ng headlight kapag hindi mo malinaw na makita ang mga tao o sasakyan sa anong layo?",
+      "o": [
+        "1,000 talampakan",
+        "300 talampakan",
+        "100 talampakan",
+        "2 milya"
+      ],
+      "h1": "Medyo higit ito sa haba ng tatlong football field.",
+      "h2": "Sa Nevada, kailangan ang headlight tuwing hindi mo malinaw na makita ang mga tao o sasakyan na 1,000 talampakan ang layo.",
+      "p": "Tama. Binubuksan ang headlight kapag hindi ka makakita nang malinaw sa 1,000 talampakan."
+    },
+    "ar": {
+      "q": "في Nevada، يجب أن تشغّل المصابيح الأمامية عندما لا ترى الناس أو المركبات بوضوح على أيّ مسافة؟",
+      "o": [
+        "1,000 قدم",
+        "300 قدم",
+        "100 قدم",
+        "2 ميل"
+      ],
+      "h1": "هي أكثر قليلًا من طول ثلاثة ملاعب كرة قدم أمريكية.",
+      "h2": "في Nevada، يجب تشغيل المصابيح الأمامية كلما لم تستطع أن ترى الناس أو المركبات بوضوح على بُعد 1,000 قدم.",
+      "p": "صحيح. تُشغَّل المصابيح الأمامية عندما لا ترى بوضوح على بُعد 1,000 قدم."
     }
   },
   {
@@ -1957,6 +2245,54 @@
       "h1": "Cubre el horario escolar más un rato antes y después.",
       "h2": "En Nevada, si las señales no dicen otra cosa, el límite de la zona escolar rige en días de clase desde media hora antes de que empiecen las clases hasta media hora después de que terminen.",
       "p": "Correcto. Rige desde media hora antes hasta media hora después de las clases."
+    },
+    "zh": {
+      "q": "在 Nevada，如果没有标志另外说明，学校区的限速什么时候有效？",
+      "o": [
+        "一年中每一天，全天",
+        "上学日，只在早上 7 点到下午 3 点",
+        "只在有交通协管员站在街上时",
+        "上学日，从上课前 30 分钟到放学后 30 分钟"
+      ],
+      "h1": "它包括上学时间，再加上前后一小段时间。",
+      "h2": "在 Nevada，除非标志另外说明，学校区限速在上学日从上学前半小时一直到放学后半小时有效。",
+      "p": "对。从上学前半小时到放学后半小时。"
+    },
+    "vi": {
+      "q": "Ở Nevada, giới hạn tốc độ khu vực trường học có hiệu lực khi nào, trừ khi biển báo ghi khác?",
+      "o": [
+        "Mọi ngày trong năm, mọi giờ",
+        "Ngày đi học, chỉ từ 7 giờ sáng đến 3 giờ chiều",
+        "Chỉ khi có người hướng dẫn qua đường đứng trên đường",
+        "Ngày đi học, từ 30 phút trước đến 30 phút sau giờ học"
+      ],
+      "h1": "Nó bao gồm giờ học cộng thêm một khoảng thời gian ngắn ở trước và sau.",
+      "h2": "Ở Nevada, trừ khi biển báo ghi khác, giới hạn tốc độ khu vực trường học áp dụng vào ngày đi học, từ nửa giờ trước khi vào học đến nửa giờ sau khi tan học.",
+      "p": "Đúng. Nó áp dụng từ nửa giờ trước đến nửa giờ sau giờ học."
+    },
+    "tl": {
+      "q": "Sa Nevada, kailan may bisa ang speed limit sa school zone, maliban kung iba ang sinasabi ng mga karatula?",
+      "o": [
+        "Araw-araw sa buong taon, sa lahat ng oras",
+        "Sa mga araw ng pasok, mula 7 a.m. hanggang 3 p.m. lamang",
+        "Kapag may crossing guard lamang sa kalye",
+        "Sa mga araw ng pasok, mula 30 minuto bago hanggang 30 minuto pagkatapos ng klase"
+      ],
+      "h1": "Saklaw nito ang oras ng pasok, at maikling oras bago at pagkatapos.",
+      "h2": "Sa Nevada, maliban kung iba ang sinasabi ng mga karatula, may bisa ang limitasyon sa school zone sa mga araw ng pasok mula kalahating oras bago magsimula ang klase hanggang kalahating oras pagkatapos nito matapos.",
+      "p": "Tama. Mula kalahating oras bago hanggang kalahating oras pagkatapos ng klase."
+    },
+    "ar": {
+      "q": "في Nevada، متى يكون حدّ السرعة في منطقة المدرسة ساريًا، إلا إذا قالت اللافتات غير ذلك؟",
+      "o": [
+        "كل يوم في السنة، في كل الساعات",
+        "في أيام الدراسة، من 7 صباحًا إلى 3 بعد الظهر فقط",
+        "فقط عندما يكون حارس عبور في الشارع",
+        "في أيام الدراسة، من 30 دقيقة قبل الحصص إلى 30 دقيقة بعدها"
+      ],
+      "h1": "يشمل اليوم الدراسي ووقتًا قصيرًا قبله وبعده.",
+      "h2": "في Nevada، إلا إذا قالت اللافتات غير ذلك، يسري حدّ السرعة في منطقة المدرسة في أيام الدراسة من نصف ساعة قبل بدء الدراسة حتى نصف ساعة بعد انتهائها.",
+      "p": "صحيح. يسري من نصف ساعة قبل الدراسة إلى نصف ساعة بعدها."
     }
   }
 ]

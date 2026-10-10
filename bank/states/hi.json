@@ -1671,6 +1671,54 @@
       "h1": "Es más de mil y menos de cinco mil dólares.",
       "h2": "En Hawái usted debe reportar un choque a la policía de inmediato si causa $3,000 o más en daños a la propiedad.",
       "p": "Correcto. En Hawái, los daños de $3,000 o más se deben reportar a la policía."
+    },
+    "zh": {
+      "q": "在 Hawaii，一场车祸造成财产损失，但没有人受伤。损失达到多少时必须马上报警？",
+      "o": [
+        "$1,000 或以上",
+        "$3,000 或以上",
+        "$5,000 或以上",
+        "$10,000 或以上"
+      ],
+      "h1": "它比一千美元多，比五千美元少。",
+      "h2": "在 Hawaii，如果车祸造成 $3,000 或以上的财产损失，你必须马上报警。",
+      "p": "对。在 Hawaii，$3,000 或以上的损失必须报警。"
+    },
+    "vi": {
+      "q": "Ở Hawaii, một vụ tai nạn làm hư hại tài sản nhưng không ai bị thương. Thiệt hại bao nhiêu thì phải báo cảnh sát ngay?",
+      "o": [
+        "$1,000 trở lên",
+        "$3,000 trở lên",
+        "$5,000 trở lên",
+        "$10,000 trở lên"
+      ],
+      "h1": "Số tiền này nhiều hơn một nghìn và ít hơn năm nghìn đô la.",
+      "h2": "Ở Hawaii, bạn phải báo cảnh sát ngay nếu tai nạn gây thiệt hại tài sản từ $3,000 trở lên.",
+      "p": "Đúng. Ở Hawaii, thiệt hại từ $3,000 trở lên phải được báo cho cảnh sát."
+    },
+    "tl": {
+      "q": "Sa Hawaii, may banggaan na sumira ng ari-arian pero walang nasaktan. Sa anong halaga ng pinsala dapat itong i-report agad sa pulis?",
+      "o": [
+        "$1,000 o higit pa",
+        "$3,000 o higit pa",
+        "$5,000 o higit pa",
+        "$10,000 o higit pa"
+      ],
+      "h1": "Higit ito sa isang libo at kulang sa limang libong dolyar.",
+      "h2": "Sa Hawaii, dapat mong i-report agad sa pulis ang banggaan kung $3,000 o higit pa ang pinsala sa ari-arian.",
+      "p": "Tama. Sa Hawaii, dapat i-report sa pulis ang pinsalang $3,000 o higit pa."
+    },
+    "ar": {
+      "q": "في Hawaii، تسبّب حادث في أضرار بالممتلكات دون إصابات. عند أي قيمة للأضرار يجب إبلاغ الشرطة فورًا؟",
+      "o": [
+        "$1,000 أو أكثر",
+        "$3,000 أو أكثر",
+        "$5,000 أو أكثر",
+        "$10,000 أو أكثر"
+      ],
+      "h1": "هي أكثر من ألف دولار وأقل من خمسة آلاف دولار.",
+      "h2": "في Hawaii يجب أن تبلّغ الشرطة فورًا عن الحادث إذا سبّب أضرارًا بالممتلكات قيمتها $3,000 أو أكثر.",
+      "p": "صحيح. في Hawaii يجب إبلاغ الشرطة عن أضرار قيمتها $3,000 أو أكثر."
     }
   },
   {
@@ -1705,6 +1753,54 @@
       "h1": "El límite para todo el choque es el doble de esta cantidad, $40,000.",
       "h2": "En Hawái el seguro mínimo de responsabilidad civil por lesiones a una persona es de $20,000, con $40,000 para todo el choque.",
       "p": "Correcto. Hawái exige al menos $20,000 por lesiones a una persona."
+    },
+    "zh": {
+      "q": "在 Hawaii，车祸中一个人受伤的最低责任保险是多少？",
+      "o": [
+        "$10,000",
+        "$15,000",
+        "$25,000",
+        "$20,000"
+      ],
+      "h1": "整场车祸的上限是这个金额的两倍，也就是 $40,000。",
+      "h2": "在 Hawaii，一个人受伤的最低责任保险是 $20,000，整场车祸是 $40,000。",
+      "p": "对。Hawaii 要求一个人受伤至少保 $20,000。"
+    },
+    "vi": {
+      "q": "Ở Hawaii, bảo hiểm trách nhiệm tối thiểu cho thương tích của một người trong tai nạn là bao nhiêu?",
+      "o": [
+        "$10,000",
+        "$15,000",
+        "$25,000",
+        "$20,000"
+      ],
+      "h1": "Mức cho cả vụ tai nạn gấp đôi số tiền này, là $40,000.",
+      "h2": "Ở Hawaii, bảo hiểm trách nhiệm tối thiểu cho thương tích của một người là $20,000, và $40,000 cho cả vụ tai nạn.",
+      "p": "Đúng. Hawaii yêu cầu ít nhất $20,000 cho thương tích của một người."
+    },
+    "tl": {
+      "q": "Sa Hawaii, magkano ang pinakamababang liability insurance para sa pinsala sa katawan ng isang tao sa banggaan?",
+      "o": [
+        "$10,000",
+        "$15,000",
+        "$25,000",
+        "$20,000"
+      ],
+      "h1": "Ang limit para sa buong banggaan ay doble nito, $40,000.",
+      "h2": "Sa Hawaii, ang pinakamababang liability insurance para sa pinsala sa isang tao ay $20,000, at $40,000 para sa buong banggaan.",
+      "p": "Tama. Sa Hawaii, kailangan ng hindi bababa sa $20,000 para sa pinsala sa isang tao."
+    },
+    "ar": {
+      "q": "في Hawaii، ما الحد الأدنى لتأمين المسؤولية عن إصابة شخص واحد في حادث؟",
+      "o": [
+        "$10,000",
+        "$15,000",
+        "$25,000",
+        "$20,000"
+      ],
+      "h1": "الحد للحادث كله ضعف هذا المبلغ، أي $40,000.",
+      "h2": "في Hawaii الحد الأدنى لتأمين المسؤولية عن إصابة شخص واحد هو $20,000، و$40,000 للحادث كله.",
+      "p": "صحيح. تشترط Hawaii مبلغ $20,000 على الأقل عن إصابة شخص واحد."
     }
   },
   {
@@ -1739,6 +1835,54 @@
       "h1": "Es la cantidad más pequeña de estas.",
       "h2": "En Hawái el seguro mínimo de responsabilidad civil por daños a la propiedad es de $10,000 por choque.",
       "p": "Correcto. Hawái exige al menos $10,000 por daños a la propiedad."
+    },
+    "zh": {
+      "q": "在 Hawaii，一场车祸中对他人财产损失的最低责任保险是多少？",
+      "o": [
+        "$10,000",
+        "$20,000",
+        "$25,000",
+        "$40,000"
+      ],
+      "h1": "它是这些金额中最小的。",
+      "h2": "在 Hawaii，财产损失的最低责任保险是每场车祸 $10,000。",
+      "p": "对。Hawaii 要求财产损失至少保 $10,000。"
+    },
+    "vi": {
+      "q": "Ở Hawaii, bảo hiểm trách nhiệm tối thiểu cho thiệt hại tài sản của người khác trong một vụ tai nạn là bao nhiêu?",
+      "o": [
+        "$10,000",
+        "$20,000",
+        "$25,000",
+        "$40,000"
+      ],
+      "h1": "Đó là số tiền nhỏ nhất trong các số này.",
+      "h2": "Ở Hawaii, bảo hiểm trách nhiệm tối thiểu cho thiệt hại tài sản là $10,000 cho mỗi vụ tai nạn.",
+      "p": "Đúng. Hawaii yêu cầu ít nhất $10,000 cho thiệt hại tài sản."
+    },
+    "tl": {
+      "q": "Sa Hawaii, magkano ang pinakamababang liability insurance para sa pinsala sa ari-arian ng ibang tao sa isang banggaan?",
+      "o": [
+        "$10,000",
+        "$20,000",
+        "$25,000",
+        "$40,000"
+      ],
+      "h1": "Ito ang pinakamaliit sa mga halagang ito.",
+      "h2": "Sa Hawaii, ang pinakamababang liability insurance para sa pinsala sa ari-arian ay $10,000 bawat banggaan.",
+      "p": "Tama. Sa Hawaii, kailangan ng hindi bababa sa $10,000 para sa pinsala sa ari-arian."
+    },
+    "ar": {
+      "q": "في Hawaii، ما الحد الأدنى لتأمين المسؤولية عن أضرار ممتلكات الآخرين في حادث واحد؟",
+      "o": [
+        "$10,000",
+        "$20,000",
+        "$25,000",
+        "$40,000"
+      ],
+      "h1": "هو أصغر هذه المبالغ.",
+      "h2": "في Hawaii الحد الأدنى لتأمين المسؤولية عن أضرار الممتلكات هو $10,000 لكل حادث.",
+      "p": "صحيح. تشترط Hawaii مبلغ $10,000 على الأقل عن أضرار الممتلكات."
     }
   },
   {
@@ -1773,6 +1917,54 @@
       "h1": "Solo las ambulancias la necesitan con más frecuencia.",
       "h2": "En Hawái un auto debe pasar una inspección de seguridad por lo menos una vez al año, aunque un auto nuevo tiene un primer plazo más largo.",
       "p": "Correcto. En Hawái los autos necesitan una inspección de seguridad por lo menos una vez al año."
+    },
+    "zh": {
+      "q": "在 Hawaii，一般汽车多久必须通过一次安全检查？",
+      "o": [
+        "只在卖车时",
+        "每两年一次",
+        "至少每年一次",
+        "每六个月一次"
+      ],
+      "h1": "只有救护车需要比这更常检查。",
+      "h2": "在 Hawaii，汽车至少每年必须通过一次安全检查，不过全新的车第一次可以隔更久。",
+      "p": "对。Hawaii 的汽车至少每年要做一次安全检查。"
+    },
+    "vi": {
+      "q": "Ở Hawaii, một chiếc xe hơi thông thường phải qua kiểm tra an toàn bao lâu một lần?",
+      "o": [
+        "Chỉ khi bán xe",
+        "Hai năm một lần",
+        "Ít nhất mỗi năm một lần",
+        "Sáu tháng một lần"
+      ],
+      "h1": "Chỉ xe cứu thương cần kiểm tra thường xuyên hơn mức này.",
+      "h2": "Ở Hawaii, xe hơi phải qua kiểm tra an toàn ít nhất mỗi năm một lần, nhưng xe mới hoàn toàn được thời hạn đầu tiên dài hơn.",
+      "p": "Đúng. Ở Hawaii, xe hơi cần kiểm tra an toàn ít nhất mỗi năm một lần."
+    },
+    "tl": {
+      "q": "Sa Hawaii, gaano kadalas dapat pumasa sa safety inspection ang isang karaniwang kotse?",
+      "o": [
+        "Kapag ibinebenta lang ito",
+        "Tuwing dalawang taon",
+        "Hindi bababa sa isang beses bawat taon",
+        "Tuwing anim na buwan"
+      ],
+      "h1": "Mga ambulansya lang ang kailangang mas madalas dito.",
+      "h2": "Sa Hawaii, dapat pumasa ang kotse sa safety inspection nang hindi bababa sa isang beses bawat taon, pero mas mahaba ang unang panahon para sa bagong-bagong kotse.",
+      "p": "Tama. Sa Hawaii, kailangan ng kotse ang safety inspection nang hindi bababa sa isang beses bawat taon."
+    },
+    "ar": {
+      "q": "في Hawaii، كم مرة يجب أن تجتاز السيارة العادية فحص السلامة؟",
+      "o": [
+        "فقط عند بيعها",
+        "كل سنتين",
+        "مرة واحدة في السنة على الأقل",
+        "كل ستة أشهر"
+      ],
+      "h1": "سيارات الإسعاف فقط تحتاجه أكثر من ذلك.",
+      "h2": "في Hawaii يجب أن تجتاز السيارة فحص السلامة مرة واحدة في السنة على الأقل، لكن السيارة الجديدة تمامًا تحصل على مدة أولى أطول.",
+      "p": "صحيح. في Hawaii تحتاج السيارات إلى فحص السلامة مرة واحدة في السنة على الأقل."
     }
   },
   {
@@ -1807,6 +1999,54 @@
       "h1": "Hawái no da tiempo extra para manejar después de la fecha de la licencia.",
       "h2": "En Hawái una licencia de conducir no es válida después de su fecha de vencimiento, porque no hay periodo de gracia.",
       "p": "Correcto. Hawái no tiene periodo de gracia, así que una licencia vencida no es válida."
+    },
+    "zh": {
+      "q": "在 Hawaii，你的驾照昨天过期了。你还可以用它开车吗？",
+      "o": [
+        "可以，有 30 天的宽限期",
+        "不可以，过期后就无效了",
+        "可以，直到你收到续期通知",
+        "可以，只要你在一年内续期"
+      ],
+      "h1": "驾照上的日期过了以后，Hawaii 不给你额外的开车时间。",
+      "h2": "在 Hawaii，驾照过了到期日就无效，因为没有宽限期。",
+      "p": "对。Hawaii 没有宽限期，所以过期的驾照无效。"
+    },
+    "vi": {
+      "q": "Ở Hawaii, bằng lái của bạn hết hạn hôm qua. Bạn còn được dùng nó để lái xe không?",
+      "o": [
+        "Được, có thời gian gia hạn 30 ngày",
+        "Không, bằng lái không còn hiệu lực sau khi hết hạn",
+        "Được, cho đến khi bạn nhận thông báo gia hạn",
+        "Được, nếu bạn gia hạn trong vòng một năm"
+      ],
+      "h1": "Hawaii không cho thêm thời gian lái xe sau ngày ghi trên bằng lái.",
+      "h2": "Ở Hawaii, bằng lái không còn hiệu lực sau ngày hết hạn, vì không có thời gian ân hạn.",
+      "p": "Đúng. Hawaii không có thời gian ân hạn, nên bằng lái hết hạn không còn hiệu lực."
+    },
+    "tl": {
+      "q": "Sa Hawaii, nag-expire kahapon ang driver's license mo. Puwede ka pa bang magmaneho gamit ito?",
+      "o": [
+        "Oo, may 30 araw na palugit",
+        "Hindi, wala na itong bisa pagkatapos mag-expire",
+        "Oo, hanggang makatanggap ka ng renewal notice",
+        "Oo, kung magre-renew ka sa loob ng isang taon"
+      ],
+      "h1": "Walang dagdag na oras ang Hawaii para magmaneho pagkatapos ng petsa sa license.",
+      "h2": "Sa Hawaii, wala nang bisa ang driver's license pagkatapos ng expiration date nito, dahil walang palugit.",
+      "p": "Tama. Walang palugit sa Hawaii, kaya walang bisa ang expired na license."
+    },
+    "ar": {
+      "q": "في Hawaii، انتهت رخصة قيادتك أمس. هل يمكنك أن تقود بها بعد؟",
+      "o": [
+        "نعم، توجد مهلة 30 يومًا",
+        "لا، لا تكون صالحة بعد انتهائها",
+        "نعم، حتى يصلك إشعار التجديد",
+        "نعم، إذا جدّدتها خلال سنة واحدة"
+      ],
+      "h1": "لا تعطي Hawaii وقتًا إضافيًا للقيادة بعد التاريخ المكتوب على الرخصة.",
+      "h2": "في Hawaii لا تكون رخصة القيادة صالحة بعد تاريخ انتهائها، لأنه لا توجد مهلة.",
+      "p": "صحيح. لا توجد مهلة في Hawaii، لذلك الرخصة المنتهية غير صالحة."
     }
   },
   {
@@ -1841,6 +2081,54 @@
       "h1": "Es una edad muy temprana, antes de que la mayoría de los niños empiecen la escuela.",
       "h2": "En Hawái los niños menores de 4 años deben ir en un sistema de retención infantil.",
       "p": "Correcto. En Hawái, los niños menores de 4 años necesitan un asiento de seguridad."
+    },
+    "zh": {
+      "q": "在 Hawaii，几岁以下的儿童必须坐儿童安全座椅？",
+      "o": [
+        "2 岁以下",
+        "6 岁以下",
+        "8 岁以下",
+        "4 岁以下"
+      ],
+      "h1": "这是很小的年龄，在大多数孩子上学以前。",
+      "h2": "在 Hawaii，4 岁以下的儿童必须坐儿童安全座椅。",
+      "p": "对。在 Hawaii，4 岁以下的儿童需要儿童安全座椅。"
+    },
+    "vi": {
+      "q": "Ở Hawaii, trẻ em dưới bao nhiêu tuổi phải ngồi ghế an toàn cho trẻ em?",
+      "o": [
+        "Dưới 2 tuổi",
+        "Dưới 6 tuổi",
+        "Dưới 8 tuổi",
+        "Dưới 4 tuổi"
+      ],
+      "h1": "Đó là tuổi rất nhỏ, trước khi phần lớn trẻ em đi học.",
+      "h2": "Ở Hawaii, trẻ em dưới 4 tuổi phải ngồi ghế an toàn cho trẻ em.",
+      "p": "Đúng. Ở Hawaii, trẻ em dưới 4 tuổi cần ghế an toàn cho trẻ em."
+    },
+    "tl": {
+      "q": "Sa Hawaii, ang mga batang wala pang ilang taon ang dapat nakaupo sa child restraint (car seat)?",
+      "o": [
+        "Wala pang 2",
+        "Wala pang 6",
+        "Wala pang 8",
+        "Wala pang 4"
+      ],
+      "h1": "Napakabatang edad ito, bago pumasok sa paaralan ang karamihan ng mga bata.",
+      "h2": "Sa Hawaii, dapat nakaupo sa child restraint ang mga batang wala pang 4 na taon.",
+      "p": "Tama. Sa Hawaii, kailangan ng child restraint ang mga batang wala pang 4."
+    },
+    "ar": {
+      "q": "في Hawaii، الأطفال تحت أي عمر يجب أن يجلسوا في مقعد أمان للأطفال؟",
+      "o": [
+        "تحت 2",
+        "تحت 6",
+        "تحت 8",
+        "تحت 4"
+      ],
+      "h1": "هو عمر صغير جدًا، قبل أن يبدأ معظم الأطفال المدرسة.",
+      "h2": "في Hawaii يجب أن يجلس الأطفال تحت عمر 4 سنوات في مقعد أمان للأطفال.",
+      "p": "صحيح. في Hawaii يحتاج الأطفال تحت 4 سنوات إلى مقعد أمان للأطفال."
     }
   },
   {
@@ -1875,6 +2163,54 @@
       "h1": "Le dan un permiso corto en papel mientras sigue su caso.",
       "h2": "En Hawái, si usted se niega a una prueba de alcohol o su resultado es 0.08 o más, le quitan la licencia y le dan un permiso temporal para manejar de 30 días.",
       "p": "Correcto. Hawái quita la licencia y da un permiso temporal de 30 días."
+    },
+    "zh": {
+      "q": "在 Hawaii，如果你拒绝酒精测试，或测试结果是 0.08 或以上，马上会发生什么？",
+      "o": [
+        "你的驾照被收走，你会拿到 30 天的临时驾驶许可",
+        "你会收到警告，可以继续开车",
+        "你必须当场付 $50 罚款",
+        "你的车会接受安全检查"
+      ],
+      "h1": "你的案子进行时，你会拿到一张短期的纸质许可。",
+      "h2": "在 Hawaii，如果你拒绝酒精测试或测试结果是 0.08 或以上，你的驾照会被收走，你会拿到 30 天的临时驾驶许可。",
+      "p": "对。Hawaii 会收走驾照，并给你 30 天的临时许可。"
+    },
+    "vi": {
+      "q": "Ở Hawaii, điều gì xảy ra ngay nếu bạn từ chối thử nồng độ cồn hoặc kết quả là 0.08 trở lên?",
+      "o": [
+        "Bằng lái của bạn bị thu và bạn nhận giấy phép lái xe tạm thời 30 ngày",
+        "Bạn bị cảnh cáo và được tiếp tục lái xe",
+        "Bạn phải nộp phạt $50 tại chỗ",
+        "Xe của bạn bị kiểm tra an toàn"
+      ],
+      "h1": "Bạn nhận một giấy phép giấy ngắn hạn trong khi vụ việc của bạn được xử lý.",
+      "h2": "Ở Hawaii, nếu bạn từ chối thử nồng độ cồn hoặc kết quả là 0.08 trở lên, bằng lái của bạn bị thu và bạn nhận giấy phép lái xe tạm thời 30 ngày.",
+      "p": "Đúng. Hawaii thu bằng lái và cho giấy phép tạm thời 30 ngày."
+    },
+    "tl": {
+      "q": "Sa Hawaii, ano ang mangyayari agad kung tatanggi ka sa alcohol test o 0.08 o higit pa ang resulta mo?",
+      "o": [
+        "Kukunin ang license mo at bibigyan ka ng 30 araw na temporary permit",
+        "Bibigyan ka ng babala at puwede kang magpatuloy sa pagmamaneho",
+        "Dapat kang magbayad ng $50 na multa sa mismong lugar",
+        "Iinspeksyunin ang kotse mo para sa kaligtasan"
+      ],
+      "h1": "Bibigyan ka ng maikling papel na permit habang tumatakbo ang kaso mo.",
+      "h2": "Sa Hawaii, kung tatanggi ka sa alcohol test o 0.08 o higit pa ang resulta mo, kukunin ang license mo at bibigyan ka ng 30 araw na temporary driving permit.",
+      "p": "Tama. Kinukuha ng Hawaii ang license at nagbibigay ng 30 araw na temporary permit."
+    },
+    "ar": {
+      "q": "في Hawaii، ماذا يحدث فورًا إذا رفضت فحص الكحول أو كانت النتيجة 0.08 أو أكثر؟",
+      "o": [
+        "تُسحب رخصتك وتحصل على تصريح قيادة مؤقت لمدة 30 يومًا",
+        "تحصل على تحذير ويمكنك الاستمرار في القيادة",
+        "يجب أن تدفع غرامة $50 في المكان",
+        "تُفحص سيارتك من أجل السلامة"
+      ],
+      "h1": "تحصل على تصريح ورقي قصير بينما تسير قضيتك.",
+      "h2": "في Hawaii، إذا رفضت فحص الكحول أو كانت النتيجة 0.08 أو أكثر، تُسحب رخصتك وتحصل على تصريح قيادة مؤقت لمدة 30 يومًا.",
+      "p": "صحيح. تسحب Hawaii الرخصة وتعطي تصريحًا مؤقتًا لمدة 30 يومًا."
     }
   },
   {
@@ -1909,6 +2245,54 @@
       "h1": "No importa en qué parte del auto se siente.",
       "h2": "En Hawái todas las personas de los asientos delanteros y traseros deben usar el cinturón de seguridad o ir en un asiento infantil.",
       "p": "Correcto. En Hawái, todas las personas del auto deben abrocharse el cinturón."
+    },
+    "zh": {
+      "q": "在 Hawaii，车里的哪些人必须系安全带？",
+      "o": [
+        "只有司机",
+        "只有前座的人",
+        "前座和后座的每个人",
+        "只有 18 岁以下的乘客"
+      ],
+      "h1": "你坐在车里的哪个位置都一样。",
+      "h2": "在 Hawaii，前座和后座的每个人都必须系安全带，或坐儿童安全座椅。",
+      "p": "对。在 Hawaii，车里的每个人都必须系好安全带。"
+    },
+    "vi": {
+      "q": "Ở Hawaii, ai trong xe phải thắt dây an toàn?",
+      "o": [
+        "Chỉ người lái xe",
+        "Chỉ người ngồi ghế trước",
+        "Mọi người ở ghế trước và ghế sau",
+        "Chỉ hành khách dưới 18 tuổi"
+      ],
+      "h1": "Bạn ngồi ở chỗ nào trong xe cũng như nhau.",
+      "h2": "Ở Hawaii, mọi người ở ghế trước và ghế sau phải thắt dây an toàn hoặc ngồi ghế an toàn cho trẻ em.",
+      "p": "Đúng. Ở Hawaii, mọi người trong xe đều phải thắt dây an toàn."
+    },
+    "tl": {
+      "q": "Sa Hawaii, sino sa kotse ang dapat magsuot ng seat belt?",
+      "o": [
+        "Ang driver lang",
+        "Ang mga nasa harapang upuan lang",
+        "Lahat ng nasa harap at likod na upuan",
+        "Ang mga pasaherong wala pang 18 lang"
+      ],
+      "h1": "Hindi mahalaga kung saan ka nakaupo sa kotse.",
+      "h2": "Sa Hawaii, dapat magsuot ng seat belt o umupo sa child restraint ang lahat ng nasa harap at likod na upuan.",
+      "p": "Tama. Sa Hawaii, dapat naka-seat belt ang bawat tao sa kotse."
+    },
+    "ar": {
+      "q": "في Hawaii، من في السيارة يجب أن يربط حزام الأمان؟",
+      "o": [
+        "السائق فقط",
+        "من في المقعد الأمامي فقط",
+        "كل من في المقاعد الأمامية والخلفية",
+        "الركاب تحت 18 سنة فقط"
+      ],
+      "h1": "لا يهم أين تجلس في السيارة.",
+      "h2": "في Hawaii يجب على كل من في المقاعد الأمامية والخلفية أن يربط حزام الأمان أو يجلس في مقعد أمان للأطفال.",
+      "p": "صحيح. في Hawaii يجب أن يربط كل شخص في السيارة حزام الأمان."
     }
   }
 ]

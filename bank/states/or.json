@@ -1425,6 +1425,54 @@
       "h1": "Necesita cerca del 80 por ciento correcto.",
       "h2": "En Oregon usted debe contestar bien 28 de las 35 preguntas para aprobar el examen de conocimientos.",
       "p": "Correcto. Necesita 28 respuestas correctas de 35."
+    },
+    "zh": {
+      "q": "在 Oregon，普通驾照的笔试有 35 道题。你至少要答对几道才能通过？",
+      "o": [
+        "21",
+        "25",
+        "28",
+        "32"
+      ],
+      "h1": "你大约需要答对 80%。",
+      "h2": "在 Oregon，笔试 35 道题中你必须答对 28 道才能通过。",
+      "p": "对。35 道题中需要答对 28 道。"
+    },
+    "vi": {
+      "q": "Ở Oregon, bài thi kiến thức để lấy bằng lái thường có 35 câu hỏi. Bạn phải trả lời đúng bao nhiêu câu để đậu?",
+      "o": [
+        "21",
+        "25",
+        "28",
+        "32"
+      ],
+      "h1": "Bạn cần đúng khoảng 80 phần trăm.",
+      "h2": "Ở Oregon, bạn phải trả lời đúng 28 trên 35 câu hỏi để đậu bài thi kiến thức.",
+      "p": "Đúng. Bạn cần 28 câu đúng trên 35 câu."
+    },
+    "tl": {
+      "q": "Sa Oregon, may 35 tanong ang knowledge test para sa regular na lisensya. Ilan ang dapat mong masagot nang tama para pumasa?",
+      "o": [
+        "21",
+        "25",
+        "28",
+        "32"
+      ],
+      "h1": "Kailangan mong makakuha ng mga 80 porsiyentong tama.",
+      "h2": "Sa Oregon, dapat mong masagot nang tama ang 28 sa 35 tanong para pumasa sa knowledge test.",
+      "p": "Tama. Kailangan mo ng 28 tamang sagot sa 35."
+    },
+    "ar": {
+      "q": "في Oregon، اختبار المعرفة للرخصة العادية فيه 35 سؤالًا. كم سؤالًا يجب أن تجيب عنه إجابة صحيحة لتنجح؟",
+      "o": [
+        "21",
+        "25",
+        "28",
+        "32"
+      ],
+      "h1": "تحتاج إلى نحو 80 بالمئة من الإجابات الصحيحة.",
+      "h2": "في Oregon يجب أن تجيب إجابة صحيحة عن 28 سؤالًا من 35 لتنجح في اختبار المعرفة.",
+      "p": "صحيح. تحتاج إلى 28 إجابة صحيحة من 35."
     }
   },
   {
@@ -1459,6 +1507,54 @@
       "h1": "Se cuenta en horas, no en días.",
       "h2": "En Oregon usted debe presentar el reporte de choque al DMV dentro de 72 horas cuando el choque debe reportarse.",
       "p": "Correcto. El reporte al DMV se entrega dentro de 72 horas."
+    },
+    "zh": {
+      "q": "在 Oregon，你发生了一起必须向 DMV 报告的车祸。你必须在多长时间内提交报告？",
+      "o": [
+        "72 小时内",
+        "10 天内",
+        "30 天内",
+        "只有警察要求时才报"
+      ],
+      "h1": "它是按小时算的，不是按天。",
+      "h2": "在 Oregon，必须报告的车祸要在 72 小时内向 DMV 提交车祸报告。",
+      "p": "对。DMV 报告要在 72 小时内提交。"
+    },
+    "vi": {
+      "q": "Ở Oregon, bạn bị tai nạn mà phải báo cho DMV. Bạn phải nộp báo cáo trong bao lâu?",
+      "o": [
+        "Trong vòng 72 giờ",
+        "Trong vòng 10 ngày",
+        "Trong vòng 30 ngày",
+        "Chỉ khi cảnh sát yêu cầu"
+      ],
+      "h1": "Thời hạn được tính bằng giờ, không phải bằng ngày.",
+      "h2": "Ở Oregon, khi tai nạn phải được báo cáo, bạn phải nộp báo cáo tai nạn cho DMV trong vòng 72 giờ.",
+      "p": "Đúng. Báo cáo cho DMV phải nộp trong vòng 72 giờ."
+    },
+    "tl": {
+      "q": "Sa Oregon, naaksidente ka at dapat itong i-report sa DMV. Gaano kabilis mo dapat i-file ang report?",
+      "o": [
+        "Sa loob ng 72 oras",
+        "Sa loob ng 10 araw",
+        "Sa loob ng 30 araw",
+        "Kung hihilingin lang ng pulis"
+      ],
+      "h1": "Binibilang ito sa oras, hindi sa araw.",
+      "h2": "Sa Oregon, dapat kang mag-file ng crash report sa DMV sa loob ng 72 oras kapag kailangang i-report ang aksidente.",
+      "p": "Tama. Dapat maipasa ang report sa DMV sa loob ng 72 oras."
+    },
+    "ar": {
+      "q": "في Oregon، وقع لك حادث يجب الإبلاغ عنه إلى DMV. خلال كم من الوقت يجب أن تقدّم التقرير؟",
+      "o": [
+        "خلال 72 ساعة",
+        "خلال 10 أيام",
+        "خلال 30 يومًا",
+        "فقط إذا طلبت الشرطة"
+      ],
+      "h1": "المدة تُحسب بالساعات، لا بالأيام.",
+      "h2": "في Oregon يجب أن تقدّم تقرير الحادث إلى DMV خلال 72 ساعة عندما يجب الإبلاغ عن الحادث.",
+      "p": "صحيح. تقرير DMV مطلوب خلال 72 ساعة."
     }
   },
   {
@@ -1493,6 +1589,54 @@
       "h1": "Es la cantidad más alta de la lista.",
       "h2": "En Oregon usted debe reportar un choque al DMV cuando el daño al carro que manejaba es mayor de $2,500.",
       "p": "Correcto. Un daño de más de $2,500 significa que debe presentar un reporte."
+    },
+    "zh": {
+      "q": "在 Oregon，如果你所驾驶的车损坏超过多少钱，就必须向 DMV 报告车祸？",
+      "o": [
+        "$500",
+        "$1,000",
+        "$1,500",
+        "$2,500"
+      ],
+      "h1": "是选项中最高的金额。",
+      "h2": "在 Oregon，如果你所驾驶的车损坏超过 $2,500，你必须向 DMV 报告车祸。",
+      "p": "对。损坏超过 $2,500 就必须提交报告。"
+    },
+    "vi": {
+      "q": "Ở Oregon, bạn phải báo tai nạn cho DMV nếu thiệt hại của chiếc xe bạn đang lái vượt quá số tiền nào?",
+      "o": [
+        "$500",
+        "$1,000",
+        "$1,500",
+        "$2,500"
+      ],
+      "h1": "Đó là số tiền cao nhất trong các lựa chọn.",
+      "h2": "Ở Oregon, bạn phải báo tai nạn cho DMV khi thiệt hại của chiếc xe bạn đang lái vượt quá $2,500.",
+      "p": "Đúng. Thiệt hại trên $2,500 thì bạn phải nộp báo cáo."
+    },
+    "tl": {
+      "q": "Sa Oregon, dapat mong i-report sa DMV ang aksidente kung ang sira sa sasakyang minamaneho mo ay higit sa anong halaga?",
+      "o": [
+        "$500",
+        "$1,000",
+        "$1,500",
+        "$2,500"
+      ],
+      "h1": "Ito ang pinakamataas na halaga sa listahan.",
+      "h2": "Sa Oregon, dapat mong i-report sa DMV ang aksidente kapag ang sira sa sasakyang minamaneho mo ay higit sa $2,500.",
+      "p": "Tama. Kapag higit sa $2,500 ang sira, dapat kang mag-file ng report."
+    },
+    "ar": {
+      "q": "في Oregon، يجب أن تبلّغ DMV عن الحادث إذا كان ضرر السيارة التي كنت تقودها أكثر من أي مبلغ؟",
+      "o": [
+        "$500",
+        "$1,000",
+        "$1,500",
+        "$2,500"
+      ],
+      "h1": "هو أعلى مبلغ في القائمة.",
+      "h2": "في Oregon يجب أن تبلّغ DMV عن الحادث عندما يكون ضرر السيارة التي كنت تقودها أكثر من $2,500.",
+      "p": "صحيح. الضرر فوق $2,500 يعني أنه يجب أن تقدّم تقريرًا."
     }
   },
   {
@@ -1527,6 +1671,54 @@
       "h1": "La obligación de reportar es suya.",
       "h2": "En Oregon un reporte de la policía no reemplaza su propio reporte de choque, así que usted debe presentar uno al DMV.",
       "p": "Correcto. Usted presenta su propio reporte al DMV de todos modos."
+    },
+    "zh": {
+      "q": "在 Oregon，警察写的车祸报告可以代替你自己向 DMV 提交的报告吗？",
+      "o": [
+        "可以，警察会替你寄",
+        "不可以，你仍然必须自己向 DMV 提交报告",
+        "可以，如果没有人受伤",
+        "只有对方司机同意时才可以"
+      ],
+      "h1": "报告的责任在你自己。",
+      "h2": "在 Oregon，警察的报告不能代替你自己的车祸报告，所以你仍然必须向 DMV 提交一份。",
+      "p": "对。你仍然要自己向 DMV 提交报告。"
+    },
+    "vi": {
+      "q": "Ở Oregon, biên bản của cảnh sát về vụ tai nạn có thay thế được báo cáo của chính bạn gửi cho DMV không?",
+      "o": [
+        "Có, cảnh sát gửi giúp bạn",
+        "Không, bạn vẫn phải tự nộp báo cáo cho DMV",
+        "Có, nếu không ai bị thương",
+        "Chỉ khi tài xế kia đồng ý"
+      ],
+      "h1": "Trách nhiệm báo cáo là của bạn.",
+      "h2": "Ở Oregon, biên bản của cảnh sát không thay thế báo cáo tai nạn của bạn, nên bạn vẫn phải tự nộp một báo cáo cho DMV.",
+      "p": "Đúng. Bạn vẫn phải tự nộp báo cáo cho DMV."
+    },
+    "tl": {
+      "q": "Sa Oregon, napapalitan ba ng police report tungkol sa aksidente mo ang sarili mong report sa DMV?",
+      "o": [
+        "Oo, ang pulis ang magpapadala nito para sa iyo",
+        "Hindi, dapat ka pa ring mag-file ng sarili mong report sa DMV",
+        "Oo, kung walang nasaktan",
+        "Kung papayag lang ang kabilang driver"
+      ],
+      "h1": "Ikaw ang may tungkuling mag-report.",
+      "h2": "Sa Oregon, hindi napapalitan ng police report ang sarili mong crash report, kaya dapat ka pa ring mag-file nito sa DMV.",
+      "p": "Tama. Magfa-file ka pa rin ng sarili mong report sa DMV."
+    },
+    "ar": {
+      "q": "في Oregon، هل يحلّ تقرير الشرطة عن حادثك محلّ تقريرك أنت إلى DMV؟",
+      "o": [
+        "نعم، الشرطة ترسله عنك",
+        "لا، يجب أن تقدّم تقريرك أنت إلى DMV",
+        "نعم، إذا لم يُصب أحد",
+        "فقط إذا وافق السائق الآخر"
+      ],
+      "h1": "واجب الإبلاغ عليك أنت.",
+      "h2": "في Oregon تقرير الشرطة لا يحلّ محلّ تقرير الحادث الخاص بك، لذلك يجب أن تقدّم تقريرك إلى DMV.",
+      "p": "صحيح. ما زلت تقدّم تقريرك أنت إلى DMV."
     }
   },
   {
@@ -1561,6 +1753,54 @@
       "h1": "Es la mitad del mínimo para dos o más personas.",
       "h2": "En Oregon el dueño de un carro debe tener por lo menos $25,000 de cobertura por lesiones a una persona en un choque.",
       "p": "Correcto. El mínimo es $25,000 por persona."
+    },
+    "zh": {
+      "q": "在 Oregon，车主必须为车祸中一个人的受伤购买的最低保险是多少？",
+      "o": [
+        "$25,000",
+        "$10,000",
+        "$15,000",
+        "$50,000"
+      ],
+      "h1": "它是两人或更多人最低额度的一半。",
+      "h2": "在 Oregon，车主必须为车祸中一个人的受伤购买至少 $25,000 的保险。",
+      "p": "对。一个人的最低额度是 $25,000。"
+    },
+    "vi": {
+      "q": "Ở Oregon, chủ xe phải mua bảo hiểm tối thiểu bao nhiêu cho thương tích của một người trong tai nạn?",
+      "o": [
+        "$25,000",
+        "$10,000",
+        "$15,000",
+        "$50,000"
+      ],
+      "h1": "Đó là một nửa mức tối thiểu cho hai người trở lên.",
+      "h2": "Ở Oregon, chủ xe phải có bảo hiểm ít nhất $25,000 cho thương tích của một người trong tai nạn.",
+      "p": "Đúng. Mức tối thiểu là $25,000 cho một người."
+    },
+    "tl": {
+      "q": "Sa Oregon, ano ang pinakamababang insurance na dapat mayroon ang may-ari ng sasakyan para sa pinsala sa isang tao sa aksidente?",
+      "o": [
+        "$25,000",
+        "$10,000",
+        "$15,000",
+        "$50,000"
+      ],
+      "h1": "Kalahati ito ng minimum para sa dalawa o higit pang tao.",
+      "h2": "Sa Oregon, dapat may hindi bababa sa $25,000 na coverage ang may-ari ng sasakyan para sa pinsala sa isang tao sa aksidente.",
+      "p": "Tama. Ang minimum ay $25,000 para sa isang tao."
+    },
+    "ar": {
+      "q": "في Oregon، ما الحد الأدنى من التأمين الذي يجب أن يملكه صاحب السيارة لإصابة شخص واحد في حادث؟",
+      "o": [
+        "$25,000",
+        "$10,000",
+        "$15,000",
+        "$50,000"
+      ],
+      "h1": "هو نصف الحد الأدنى لشخصين أو أكثر.",
+      "h2": "في Oregon يجب أن يملك صاحب السيارة تأمينًا لا يقل عن $25,000 لإصابة شخص واحد في حادث.",
+      "p": "صحيح. الحد الأدنى $25,000 لشخص واحد."
     }
   },
   {
@@ -1595,6 +1835,54 @@
       "h1": "Depende de la edad y también de la estatura del niño.",
       "h2": "En Oregon un niño debe viajar en un asiento de seguridad aprobado hasta los 8 años o hasta medir 4 pies 9 pulgadas, cuando el cinturón de regazo y hombro de adulto le queda bien.",
       "p": "Correcto. Se necesita el asiento hasta los 8 años o 4 pies 9 pulgadas, cuando el cinturón de adulto le queda bien."
+    },
+    "zh": {
+      "q": "在 Oregon，儿童必须坐在合格的儿童安全座椅里，直到什么时候？",
+      "o": [
+        "到 4 岁或 40 磅",
+        "到 6 岁或身高 4 英尺",
+        "到 8 岁或身高 4 英尺 9 英寸，成人安全带合适时",
+        "到 12 岁，不论身高"
+      ],
+      "h1": "这要看孩子的年龄和身高。",
+      "h2": "在 Oregon，儿童必须坐在合格的儿童安全座椅里，直到 8 岁或身高 4 英尺 9 英寸，而且成人腰带和肩带能正确系好。",
+      "p": "对。儿童座椅要用到 8 岁或 4 英尺 9 英寸，成人安全带合适时为止。"
+    },
+    "vi": {
+      "q": "Ở Oregon, trẻ em phải ngồi ghế an toàn trẻ em được chấp thuận cho đến khi nào?",
+      "o": [
+        "Đến 4 tuổi hoặc 40 pound",
+        "Đến 6 tuổi hoặc cao 4 feet",
+        "Đến 8 tuổi hoặc cao 4 feet 9 inch, khi dây an toàn người lớn vừa",
+        "Đến 12 tuổi, bất kể chiều cao"
+      ],
+      "h1": "Điều này tùy vào cả tuổi và chiều cao của trẻ.",
+      "h2": "Ở Oregon, trẻ em phải ngồi ghế an toàn trẻ em được chấp thuận cho đến 8 tuổi hoặc cao 4 feet 9 inch, khi dây an toàn vai và hông của người lớn vừa đúng.",
+      "p": "Đúng. Cần ghế trẻ em đến 8 tuổi hoặc 4 feet 9 inch, khi dây an toàn người lớn vừa."
+    },
+    "tl": {
+      "q": "Sa Oregon, hanggang kailan dapat nakasakay ang bata sa aprubadong child safety seat?",
+      "o": [
+        "Hanggang 4 na taon o 40 pounds",
+        "Hanggang 6 na taon o 4 feet ang taas",
+        "Hanggang 8 taon o 4 feet 9 inches ang taas, kapag kasya na ang seat belt ng adult",
+        "Hanggang 12 taon, anuman ang taas"
+      ],
+      "h1": "Nakadepende ito sa edad at taas ng bata.",
+      "h2": "Sa Oregon, dapat nakasakay ang bata sa aprubadong child safety seat hanggang 8 taon o 4 feet 9 inches ang taas, kapag tama na ang kasya ng lap at shoulder belt ng adult.",
+      "p": "Tama. Kailangan ang child seat hanggang 8 taon o 4 feet 9 inches, kapag kasya na ang seat belt ng adult."
+    },
+    "ar": {
+      "q": "في Oregon، حتى متى يجب أن يجلس الطفل في مقعد أمان للأطفال معتمد؟",
+      "o": [
+        "حتى عمر 4 سنوات أو 40 رطلًا",
+        "حتى عمر 6 سنوات أو طول 4 أقدام",
+        "حتى عمر 8 سنوات أو طول 4 أقدام و9 بوصات، عندما يناسبه حزام البالغين",
+        "حتى عمر 12 سنة، مهما كان الطول"
+      ],
+      "h1": "يعتمد ذلك على عمر الطفل وطوله معًا.",
+      "h2": "في Oregon يجب أن يجلس الطفل في مقعد أمان للأطفال معتمد حتى عمر 8 سنوات أو طول 4 أقدام و9 بوصات، عندما يناسبه حزام الحضن والكتف للبالغين بشكل صحيح.",
+      "p": "صحيح. مقعد الطفل مطلوب حتى عمر 8 سنوات أو 4 أقدام و9 بوصات، عندما يناسبه حزام البالغين."
     }
   },
   {
@@ -1629,6 +1917,54 @@
       "h1": "Empieza a fines del otoño y termina al comenzar la primavera.",
       "h2": "En Oregon las llantas con clavos se permiten en general solo del 1 de noviembre al 31 de marzo.",
       "p": "Correcto. Las llantas con clavos se permiten en general del 1 de noviembre al 31 de marzo."
+    },
+    "zh": {
+      "q": "在 Oregon，一般在哪几个月可以使用钉胎（studded tires）？",
+      "o": [
+        "10 月 1 日到 4 月 30 日",
+        "11 月 1 日到 3 月 31 日",
+        "12 月 1 日到 2 月 28 日",
+        "在山区全年都可以"
+      ],
+      "h1": "它从深秋开始，到春天开始时结束。",
+      "h2": "在 Oregon，钉胎一般只能在 11 月 1 日到 3 月 31 日之间使用。",
+      "p": "对。钉胎一般在 11 月 1 日到 3 月 31 日可以使用。"
+    },
+    "vi": {
+      "q": "Ở Oregon, lốp xe có đinh (studded tires) thường được phép dùng trong những tháng nào?",
+      "o": [
+        "Từ 1 tháng 10 đến 30 tháng 4",
+        "Từ 1 tháng 11 đến 31 tháng 3",
+        "Từ 1 tháng 12 đến 28 tháng 2",
+        "Cả năm ở vùng núi"
+      ],
+      "h1": "Thời gian bắt đầu vào cuối mùa thu và kết thúc khi mùa xuân bắt đầu.",
+      "h2": "Ở Oregon, lốp xe có đinh thường chỉ được phép dùng từ 1 tháng 11 đến 31 tháng 3.",
+      "p": "Đúng. Lốp xe có đinh thường được phép dùng từ 1 tháng 11 đến 31 tháng 3."
+    },
+    "tl": {
+      "q": "Sa Oregon, sa anong mga buwan karaniwang pinapayagan ang studded tires?",
+      "o": [
+        "Oktubre 1 hanggang Abril 30",
+        "Nobyembre 1 hanggang Marso 31",
+        "Disyembre 1 hanggang Pebrero 28",
+        "Buong taon sa kabundukan"
+      ],
+      "h1": "Nagsisimula ito sa huling bahagi ng taglagas at natatapos pagsimula ng tagsibol.",
+      "h2": "Sa Oregon, karaniwang pinapayagan lang ang studded tires mula Nobyembre 1 hanggang Marso 31.",
+      "p": "Tama. Karaniwang pinapayagan ang studded tires mula Nobyembre 1 hanggang Marso 31."
+    },
+    "ar": {
+      "q": "في Oregon، في أي أشهر يُسمح عادةً بالإطارات ذات المسامير (studded tires)؟",
+      "o": [
+        "من 1 أكتوبر حتى 30 أبريل",
+        "من 1 نوفمبر حتى 31 مارس",
+        "من 1 ديسمبر حتى 28 فبراير",
+        "طوال السنة في الجبال"
+      ],
+      "h1": "تبدأ في أواخر الخريف وتنتهي مع بداية الربيع.",
+      "h2": "في Oregon يُسمح عادةً بالإطارات ذات المسامير فقط من 1 نوفمبر حتى 31 مارس.",
+      "p": "صحيح. يُسمح عادةً بالإطارات ذات المسامير من 1 نوفمبر حتى 31 مارس."
     }
   },
   {
@@ -1663,6 +1999,54 @@
       "h1": "La persona necesita un espacio seguro lejos de su carril.",
       "h2": "En Oregon, en una intersección con semáforo, usted puede empezar la vuelta solo cuando la persona está por lo menos a 6 pies del carril al que va a entrar.",
       "p": "Correcto. Espere hasta que la persona esté a 6 pies o más de su carril."
+    },
+    "zh": {
+      "q": "在 Oregon，你在有红绿灯的路口转弯。有一个人正在过你要转进去的那条街。你什么时候可以开始转弯？",
+      "o": [
+        "那个人一走到中线就可以",
+        "那个人离你的车 2 英尺时",
+        "你的灯变绿时，不管那个人在哪里",
+        "那个人离你要转进去的车道至少 6 英尺时"
+      ],
+      "h1": "那个人需要离你的车道有一段安全距离。",
+      "h2": "在 Oregon，在有红绿灯的路口，只有当那个人离你要转进去的车道至少 6 英尺时，你才可以开始转弯。",
+      "p": "对。要等那个人离你的车道 6 英尺或更远。"
+    },
+    "vi": {
+      "q": "Ở Oregon, bạn đang rẽ tại giao lộ có đèn giao thông. Có một người đang băng qua con đường bạn sắp rẽ vào. Khi nào bạn có thể bắt đầu rẽ?",
+      "o": [
+        "Ngay khi người đó đến vạch giữa đường",
+        "Khi người đó cách xe bạn 2 feet",
+        "Khi đèn của bạn chuyển xanh, bất kể người đó ở đâu",
+        "Khi người đó cách làn bạn sắp rẽ vào ít nhất 6 feet"
+      ],
+      "h1": "Người đó cần một khoảng an toàn cách xa làn của bạn.",
+      "h2": "Ở Oregon, tại giao lộ có đèn giao thông, bạn chỉ được bắt đầu rẽ khi người đó cách làn bạn sắp rẽ vào ít nhất 6 feet.",
+      "p": "Đúng. Hãy chờ đến khi người đó cách làn của bạn 6 feet trở lên."
+    },
+    "tl": {
+      "q": "Sa Oregon, liliko ka sa intersection na may traffic light. May taong tumatawid sa kalyeng liliko-an mo. Kailan ka puwedeng magsimulang lumiko?",
+      "o": [
+        "Kapag naabot na ng tao ang center line",
+        "Kapag 2 feet na lang ang layo ng tao sa sasakyan mo",
+        "Kapag naging green ang ilaw mo, kahit nasaan ang tao",
+        "Kapag hindi bababa sa 6 feet ang layo ng tao sa lane na liliko-an mo"
+      ],
+      "h1": "Kailangan ng tao ng ligtas na layo mula sa lane mo.",
+      "h2": "Sa Oregon, sa intersection na may traffic light, puwede ka lang magsimulang lumiko kapag hindi bababa sa 6 feet ang layo ng tao sa lane na liliko-an mo.",
+      "p": "Tama. Maghintay hanggang 6 feet o higit pa ang layo ng tao sa lane mo."
+    },
+    "ar": {
+      "q": "في Oregon، أنت تنعطف عند تقاطع فيه إشارة مرور. يوجد شخص يعبر الشارع الذي تنعطف إليه. متى يمكنك أن تبدأ الانعطاف؟",
+      "o": [
+        "بمجرد أن يصل الشخص إلى خط المنتصف",
+        "عندما يكون الشخص على بعد 2 قدم من سيارتك",
+        "عندما تصبح إشارتك خضراء، أينما كان الشخص",
+        "عندما يكون الشخص على بعد 6 أقدام على الأقل من المسار الذي تنعطف إليه"
+      ],
+      "h1": "يحتاج الشخص إلى مسافة آمنة بعيدًا عن مسارك.",
+      "h2": "في Oregon، عند تقاطع فيه إشارة مرور، يمكنك أن تبدأ الانعطاف فقط عندما يكون الشخص على بعد 6 أقدام على الأقل من المسار الذي تنعطف إليه.",
+      "p": "صحيح. انتظر حتى يكون الشخص على بعد 6 أقدام أو أكثر من مسارك."
     }
   },
   {
@@ -1697,6 +2081,54 @@
       "h1": "Es un poco menos que el largo de un carro.",
       "h2": "En Oregon usted no puede estacionarse a menos de 10 pies de un hidrante de incendios.",
       "p": "Correcto. Manténgase por lo menos a 10 pies de un hidrante."
+    },
+    "zh": {
+      "q": "在 Oregon，你停车时离消防栓最近可以多近？",
+      "o": [
+        "不能近于 10 英尺",
+        "不能近于 5 英尺",
+        "不能近于 20 英尺",
+        "不能近于 30 英尺"
+      ],
+      "h1": "它比一辆车的长度短一点。",
+      "h2": "在 Oregon，你不能在消防栓 10 英尺以内停车。",
+      "p": "对。停车时要离消防栓至少 10 英尺。"
+    },
+    "vi": {
+      "q": "Ở Oregon, bạn được đậu xe gần trụ nước cứu hỏa đến mức nào?",
+      "o": [
+        "Không gần hơn 10 feet",
+        "Không gần hơn 5 feet",
+        "Không gần hơn 20 feet",
+        "Không gần hơn 30 feet"
+      ],
+      "h1": "Khoảng cách này ngắn hơn chiều dài một chiếc xe một chút.",
+      "h2": "Ở Oregon, bạn không được đậu xe trong vòng 10 feet tính từ trụ nước cứu hỏa.",
+      "p": "Đúng. Hãy đậu xe cách trụ nước cứu hỏa ít nhất 10 feet."
+    },
+    "tl": {
+      "q": "Sa Oregon, gaano kalapit ka puwedeng pumarada sa fire hydrant?",
+      "o": [
+        "Hindi lalapit sa 10 feet",
+        "Hindi lalapit sa 5 feet",
+        "Hindi lalapit sa 20 feet",
+        "Hindi lalapit sa 30 feet"
+      ],
+      "h1": "Medyo mas maikli ito sa haba ng isang kotse.",
+      "h2": "Sa Oregon, hindi ka puwedeng pumarada sa loob ng 10 feet mula sa fire hydrant.",
+      "p": "Tama. Lumayo nang hindi bababa sa 10 feet mula sa fire hydrant."
+    },
+    "ar": {
+      "q": "في Oregon، إلى أي مدى يمكنك أن تقترب من صنبور إطفاء الحريق عند الوقوف؟",
+      "o": [
+        "ليس أقرب من 10 أقدام",
+        "ليس أقرب من 5 أقدام",
+        "ليس أقرب من 20 قدمًا",
+        "ليس أقرب من 30 قدمًا"
+      ],
+      "h1": "هي أقل قليلًا من طول سيارة واحدة.",
+      "h2": "في Oregon لا يجوز لك الوقوف على بعد أقل من 10 أقدام من صنبور إطفاء الحريق.",
+      "p": "صحيح. ابقَ على بعد 10 أقدام على الأقل من صنبور إطفاء الحريق."
     }
   }
 ]
