@@ -2540,5 +2540,651 @@
       "h2": "في Ohio يجب أن تشتري تصريح التعلّم المؤقت خلال 60 يومًا من نجاحك في الاختبارات، وإلا يجب أن تعيد فحص النظر واختبار المعرفة.",
       "p": "صحيح. اشترِ التصريح خلال 60 يومًا، وإلا تبدأ من جديد."
     }
+  },
+  {
+    "id": "oh-032",
+    "scope": "OH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "§11",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-11-taking-the-driving-test",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Ohio, a driver who is 21 or older fails the driving test. What must they usually do before the second try?",
+      "o": [
+        "Wait one year",
+        "Take a short adult driver training course",
+        "Retake the knowledge test",
+        "Nothing; they may test again the next day"
+      ],
+      "h1": "Ohio wants adults who fail to get some extra training first.",
+      "h2": "In Ohio, a driver 21 or older who fails the driving test must take an Abbreviated Adult Driver Training Course before testing again, unless they finished an approved driver education course within the past year.",
+      "p": "Right. Adults who fail take a short training course first."
+    },
+    "es": {
+      "q": "En Ohio, un conductor de 21 años o más no pasa el examen de manejo. ¿Qué debe hacer normalmente antes del segundo intento?",
+      "o": [
+        "Esperar un año",
+        "Tomar un curso corto de manejo para adultos",
+        "Repetir el examen de conocimientos",
+        "Nada; puede volver a intentarlo al día siguiente"
+      ],
+      "h1": "Ohio quiere que los adultos que no pasan reciban un poco más de entrenamiento primero.",
+      "h2": "En Ohio, un conductor de 21 años o más que no pasa el examen de manejo debe tomar un curso abreviado de manejo para adultos antes de volver a intentarlo, a menos que haya terminado un curso aprobado de educación vial en el último año.",
+      "p": "Correcto. Los adultos que no pasan toman primero un curso corto."
+    }
+  },
+  {
+    "id": "oh-033",
+    "scope": "OH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "§6",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-6-state-laws-and-penalties",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Ohio, a driver takes a chemical test after an arrest and the result is 0.08 or higher, for the first time. How long is the license suspended right away?",
+      "o": [
+        "One week",
+        "30 days",
+        "90 days",
+        "Five years"
+      ],
+      "h1": "It is shorter than the suspension for refusing the test.",
+      "h2": "In Ohio, a first chemical test over the legal limit brings an administrative license suspension of three months, or 90 days.",
+      "p": "Right. A first test over the limit means a 90-day suspension."
+    },
+    "es": {
+      "q": "En Ohio, un conductor arrestado se hace una prueba química y el resultado es 0.08 o más, por primera vez. ¿Por cuánto tiempo le suspenden la licencia de inmediato?",
+      "o": [
+        "Una semana",
+        "30 días",
+        "90 días",
+        "Cinco años"
+      ],
+      "h1": "Es menos que la suspensión por negarse a la prueba.",
+      "h2": "En Ohio, la primera prueba química por encima del límite legal trae una suspensión administrativa de la licencia por tres meses, es decir, 90 días.",
+      "p": "Correcto. La primera prueba por encima del límite significa 90 días de suspensión."
+    }
+  },
+  {
+    "id": "oh-034",
+    "scope": "OH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "§6",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-6-state-laws-and-penalties",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Ohio, what happens to a driver under 18 who is convicted of three moving violations?",
+      "o": [
+        "A warning letter",
+        "A 30-day license suspension",
+        "A three-month license suspension",
+        "A one-year license suspension"
+      ],
+      "h1": "Two violations bring three months. A third one brings much more.",
+      "h2": "In Ohio, a driver under 18 who is convicted of three moving violations gets an automatic one-year license suspension.",
+      "p": "Right. Three moving violations mean a year without a license."
+    },
+    "es": {
+      "q": "En Ohio, ¿qué le pasa a un conductor menor de 18 años condenado por tres infracciones de tránsito en movimiento?",
+      "o": [
+        "Una carta de advertencia",
+        "Una suspensión de la licencia por 30 días",
+        "Una suspensión de la licencia por tres meses",
+        "Una suspensión de la licencia por un año"
+      ],
+      "h1": "Dos infracciones traen tres meses. Una tercera trae mucho más.",
+      "h2": "En Ohio, un conductor menor de 18 años condenado por tres infracciones en movimiento recibe una suspensión automática de la licencia por un año.",
+      "p": "Correcto. Tres infracciones significan un año sin licencia."
+    }
+  },
+  {
+    "id": "oh-035",
+    "scope": "OH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "§6",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-6-state-laws-and-penalties",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Ohio, what fine can a driver get for driving while the license is suspended?",
+      "o": [
+        "Up to $1,000",
+        "Up to $50",
+        "Up to $150",
+        "No fine, only a warning"
+      ],
+      "h1": "It is a serious crime, a first-degree misdemeanor.",
+      "h2": "In Ohio, driving with a suspended license is a first-degree misdemeanor with a fine of up to $1,000, and the license can be suspended for one more year.",
+      "p": "Right. Up to $1,000, and maybe another year of suspension."
+    },
+    "es": {
+      "q": "En Ohio, ¿qué multa puede recibir un conductor por manejar con la licencia suspendida?",
+      "o": [
+        "Hasta $1,000",
+        "Hasta $50",
+        "Hasta $150",
+        "Ninguna multa, solo una advertencia"
+      ],
+      "h1": "Es un delito serio, un delito menor de primer grado.",
+      "h2": "En Ohio, manejar con la licencia suspendida es un delito menor de primer grado con una multa de hasta $1,000, y la licencia puede quedar suspendida un año más.",
+      "p": "Correcto. Hasta $1,000, y tal vez un año más de suspensión."
+    }
+  },
+  {
+    "id": "oh-036",
+    "scope": "OH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "§6",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-6-state-laws-and-penalties",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Ohio, up to what age should children ride in the back seat?",
+      "o": [
+        "Age 4 and younger",
+        "Age 8 and younger",
+        "Age 12 and younger",
+        "Age 16 and younger"
+      ],
+      "h1": "Front air bags can hurt children until they are about to become teenagers.",
+      "h2": "In Ohio, children age 12 and younger should ride in the back seat so a front air bag cannot hurt them in a crash.",
+      "p": "Right. Age 12 and younger ride in the back."
+    },
+    "es": {
+      "q": "En Ohio, ¿hasta qué edad deben viajar los niños en el asiento trasero?",
+      "o": [
+        "Hasta los 4 años",
+        "Hasta los 8 años",
+        "Hasta los 12 años",
+        "Hasta los 16 años"
+      ],
+      "h1": "Las bolsas de aire delanteras pueden lastimar a los niños hasta casi la adolescencia.",
+      "h2": "En Ohio, los niños de 12 años o menos deben viajar en el asiento trasero para que una bolsa de aire delantera no los lastime en un choque.",
+      "p": "Correcto. Los niños de 12 años o menos van atrás."
+    }
+  },
+  {
+    "id": "oh-037",
+    "scope": "OH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "§3",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-3-be-alert",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Ohio, a driver under 18 is caught using a phone while driving for the first time. What is the penalty?",
+      "o": [
+        "Only a warning",
+        "A 60-day license suspension and a $150 fine",
+        "A $25 fine",
+        "Two points, with no suspension"
+      ],
+      "h1": "Teens lose the license for about two months.",
+      "h2": "In Ohio, a first phone violation by a driver under 18 brings a 60-day license suspension and a $150 fine.",
+      "p": "Right. 60 days without a license and a $150 fine."
+    },
+    "es": {
+      "q": "En Ohio, a un conductor menor de 18 años lo detienen por primera vez por usar el teléfono al manejar. ¿Cuál es la sanción?",
+      "o": [
+        "Solo una advertencia",
+        "Una suspensión de la licencia por 60 días y una multa de $150",
+        "Una multa de $25",
+        "Dos puntos, sin suspensión"
+      ],
+      "h1": "Los adolescentes pierden la licencia por unos dos meses.",
+      "h2": "En Ohio, la primera infracción por usar el teléfono de un conductor menor de 18 años trae una suspensión de la licencia por 60 días y una multa de $150.",
+      "p": "Correcto. 60 días sin licencia y una multa de $150."
+    }
+  },
+  {
+    "id": "oh-038",
+    "scope": "OH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "§3",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-3-be-alert",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Ohio, what happens to the fine for a hand-held phone offense in a work zone?",
+      "o": [
+        "It is cut in half",
+        "It stays the same",
+        "It becomes only a warning",
+        "It is doubled"
+      ],
+      "h1": "Work zones protect road workers, so the penalty goes up.",
+      "h2": "In Ohio, the fine for using a hand-held phone while driving is doubled if it happens in a work zone.",
+      "p": "Right. In a work zone, the phone fine is doubled."
+    },
+    "es": {
+      "q": "En Ohio, ¿qué pasa con la multa por usar el teléfono en la mano en una zona de obras?",
+      "o": [
+        "Se reduce a la mitad",
+        "Queda igual",
+        "Se convierte solo en una advertencia",
+        "Se duplica"
+      ],
+      "h1": "Las zonas de obras protegen a los trabajadores, así que la sanción sube.",
+      "h2": "En Ohio, la multa por usar el teléfono en la mano al manejar se duplica si ocurre en una zona de obras.",
+      "p": "Correcto. En una zona de obras, la multa por el teléfono se duplica."
+    }
+  },
+  {
+    "id": "oh-039",
+    "scope": "OH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "§2",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-2-before-you-drive",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Ohio, what is the smallest tread depth a safe tire should have?",
+      "o": [
+        "One-sixteenth of an inch",
+        "One-half of an inch",
+        "One inch",
+        "Two inches"
+      ],
+      "h1": "It is very thin. You can check it with a penny.",
+      "h2": "In Ohio, a safe tire must have at least one-sixteenth of an inch of tread depth and no major bumps or bulges.",
+      "p": "Right. At least one-sixteenth of an inch of tread."
+    },
+    "es": {
+      "q": "En Ohio, ¿cuál es la profundidad mínima de la banda de rodadura que debe tener una llanta segura?",
+      "o": [
+        "Un dieciseisavo de pulgada",
+        "Media pulgada",
+        "Una pulgada",
+        "Dos pulgadas"
+      ],
+      "h1": "Es muy poca. La puede revisar con una moneda de un centavo.",
+      "h2": "En Ohio, una llanta segura debe tener al menos un dieciseisavo de pulgada de profundidad en la banda de rodadura y no tener bultos grandes.",
+      "p": "Correcto. Al menos un dieciseisavo de pulgada de banda."
+    }
+  },
+  {
+    "id": "oh-040",
+    "scope": "OH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "§12",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-12-purchase-your-driver-license",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Ohio, a qualified driver who is 30 years old renews the license. What is the longest license they can choose?",
+      "o": [
+        "2 years",
+        "4 years",
+        "8 years",
+        "12 years"
+      ],
+      "h1": "Drivers from 21 up to 65 may choose twice the usual length.",
+      "h2": "In Ohio, a qualified driver who is at least 21 but not yet 65 may buy an 8-year license; otherwise the license lasts 4 years.",
+      "p": "Right. Drivers 21 to 64 can choose an 8-year license."
+    },
+    "es": {
+      "q": "En Ohio, un conductor que cumple los requisitos y tiene 30 años renueva su licencia. ¿Cuál es la licencia más larga que puede elegir?",
+      "o": [
+        "2 años",
+        "4 años",
+        "8 años",
+        "12 años"
+      ],
+      "h1": "Los conductores de 21 a 65 años pueden elegir el doble del plazo normal.",
+      "h2": "En Ohio, un conductor que cumple los requisitos y tiene al menos 21 años pero menos de 65 puede comprar una licencia de 8 años; si no, la licencia dura 4 años.",
+      "p": "Correcto. De 21 a 64 años se puede elegir una licencia de 8 años."
+    }
+  },
+  {
+    "id": "oh-041",
+    "scope": "OH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "§12",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-12-purchase-your-driver-license",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Ohio, a parent co-signs a teen's license application. Until when is the parent also responsible for damage the teen causes while driving?",
+      "o": [
+        "Only while the teen has a permit",
+        "Until the teen turns 18",
+        "Until the teen turns 21",
+        "For the rest of the teen's life"
+      ],
+      "h1": "It ends when the teen becomes an adult.",
+      "h2": "In Ohio, a parent or guardian who co-signs a minor's license application shares liability for damage the minor causes while driving until the minor's 18th birthday.",
+      "p": "Right. The co-signer is responsible until the teen turns 18."
+    },
+    "es": {
+      "q": "En Ohio, un padre firma como codeudor la solicitud de licencia de su hijo adolescente. ¿Hasta cuándo es el padre también responsable por los daños que cause el joven al manejar?",
+      "o": [
+        "Solo mientras el joven tiene el permiso",
+        "Hasta que el joven cumpla 18 años",
+        "Hasta que el joven cumpla 21 años",
+        "Por el resto de la vida del joven"
+      ],
+      "h1": "Termina cuando el joven llega a la mayoría de edad.",
+      "h2": "En Ohio, el padre o tutor que firma la solicitud de licencia de un menor comparte la responsabilidad por los daños que el menor cause al manejar hasta que el menor cumpla 18 años.",
+      "p": "Correcto. El codeudor es responsable hasta que el joven cumpla 18 años."
+    }
+  },
+  {
+    "id": "oh-042",
+    "scope": "OH",
+    "cat": "right-of-way",
+    "conf": "high",
+    "page": "§5",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-5-learning-to-drive",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Ohio, a school bus is stopped with red lights flashing on a road with fewer than four lanes. How far from the bus must you stop?",
+      "o": [
+        "At least 10 feet",
+        "At least 2 feet",
+        "At least 50 feet",
+        "At least 100 feet"
+      ],
+      "h1": "It is less than the length of one car.",
+      "h2": "In Ohio, on a road with fewer than four lanes, traffic from both directions must stop at least 10 feet from the front or back of a stopped school bus.",
+      "p": "Right. Stop at least 10 feet from the bus."
+    },
+    "es": {
+      "q": "En Ohio, un autobús escolar está detenido con las luces rojas intermitentes en una carretera de menos de cuatro carriles. ¿A qué distancia del autobús debe detenerse?",
+      "o": [
+        "Al menos a 10 pies",
+        "Al menos a 2 pies",
+        "Al menos a 50 pies",
+        "Al menos a 100 pies"
+      ],
+      "h1": "Es menos que el largo de un carro.",
+      "h2": "En Ohio, en una carretera de menos de cuatro carriles, el tráfico de los dos sentidos debe detenerse al menos a 10 pies del frente o de la parte de atrás de un autobús escolar detenido.",
+      "p": "Correcto. Deténgase al menos a 10 pies del autobús."
+    }
+  },
+  {
+    "id": "oh-043",
+    "scope": "OH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "§11",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-11-taking-the-driving-test",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Ohio, a driver under 21 fails the driving test. How long must they wait before testing again?",
+      "o": [
+        "One hour",
+        "One week",
+        "One month",
+        "Two days"
+      ],
+      "h1": "It is a very short wait, just a little longer than for the knowledge test.",
+      "h2": "In Ohio, a driver under 21 who fails the driving test must wait two days before taking it again.",
+      "p": "Right. Wait two days, then try again."
+    },
+    "es": {
+      "q": "En Ohio, un conductor menor de 21 años no pasa el examen de manejo. ¿Cuánto tiempo debe esperar para volver a intentarlo?",
+      "o": [
+        "Una hora",
+        "Una semana",
+        "Un mes",
+        "Dos días"
+      ],
+      "h1": "Es una espera muy corta, solo un poco más que para el examen de conocimientos.",
+      "h2": "En Ohio, un conductor menor de 21 años que no pasa el examen de manejo debe esperar dos días para volver a tomarlo.",
+      "p": "Correcto. Espere dos días y vuelva a intentarlo."
+    }
+  },
+  {
+    "id": "oh-044",
+    "scope": "OH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "§7",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-7-special-driving-situations",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Ohio, besides at night and in bad weather, when must your headlights be on?",
+      "o": [
+        "When you cannot see clearly 500 feet ahead",
+        "When you cannot see clearly 1,000 feet ahead",
+        "When you cannot see clearly 200 feet ahead",
+        "When you cannot see clearly 100 feet ahead"
+      ],
+      "h1": "The distance is a round number, about the length of three football fields.",
+      "h2": "In Ohio, your headlights must be on any time the light is too poor to see things clearly 1,000 feet ahead.",
+      "p": "Right. If you cannot see 1,000 feet ahead, turn your headlights on."
+    },
+    "es": {
+      "q": "En Ohio, además de la noche y el mal tiempo, ¿cuándo deben estar encendidas sus luces delanteras?",
+      "o": [
+        "Cuando no puede ver bien a 500 pies adelante",
+        "Cuando no puede ver bien a 1,000 pies adelante",
+        "Cuando no puede ver bien a 200 pies adelante",
+        "Cuando no puede ver bien a 100 pies adelante"
+      ],
+      "h1": "La distancia es un número redondo, como el largo de tres campos de fútbol americano.",
+      "h2": "En Ohio, las luces delanteras deben estar encendidas siempre que la luz no permita ver bien las cosas a 1,000 pies adelante.",
+      "p": "Correcto. Si no puede ver a 1,000 pies adelante, encienda las luces."
+    }
+  },
+  {
+    "id": "oh-045",
+    "scope": "OH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "§9",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-9-sharing-the-road",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Ohio, an orange and red triangle is on the back of a farm tractor. What does it tell you?",
+      "o": [
+        "The vehicle is going less than 45 mph",
+        "The vehicle is going less than 35 mph",
+        "The vehicle is going less than 25 mph",
+        "The vehicle is about to turn left"
+      ],
+      "h1": "It is the slow-moving vehicle sign. Think of a speed slower than most town streets.",
+      "h2": "In Ohio, the orange and red slow-moving vehicle triangle means the vehicle travels at less than 25 mph.",
+      "p": "Right. The triangle means less than 25 mph."
+    },
+    "es": {
+      "q": "En Ohio, un tractor agrícola lleva atrás un triángulo anaranjado y rojo. ¿Qué le indica?",
+      "o": [
+        "El vehículo va a menos de 45 mph",
+        "El vehículo va a menos de 35 mph",
+        "El vehículo va a menos de 25 mph",
+        "El vehículo está por doblar a la izquierda"
+      ],
+      "h1": "Es la señal de vehículo lento. Piense en una velocidad menor que la de la mayoría de las calles del pueblo.",
+      "h2": "En Ohio, el triángulo anaranjado y rojo de vehículo lento significa que el vehículo va a menos de 25 mph.",
+      "p": "Correcto. El triángulo significa menos de 25 mph."
+    }
+  },
+  {
+    "id": "oh-046",
+    "scope": "OH",
+    "cat": "speed-lanes",
+    "conf": "high",
+    "page": "§9",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-9-sharing-the-road",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Ohio, when may you cross a solid yellow line to pass a slow-moving vehicle?",
+      "o": [
+        "When it goes less than half the speed limit, there is clear room, and you stay within the limit",
+        "Any time it goes slower than you",
+        "Never, for any reason",
+        "Only at night"
+      ],
+      "h1": "The vehicle must be very slow, and you must still pass safely and legally.",
+      "h2": "In Ohio, you may cross a solid yellow line to pass a slow-moving vehicle only if it is going less than half the posted speed limit, the oncoming lane is clear enough, and you do not go over the speed limit.",
+      "p": "Right. Less than half the limit, clear room, and no speeding."
+    },
+    "es": {
+      "q": "En Ohio, ¿cuándo puede cruzar una línea amarilla continua para rebasar a un vehículo lento?",
+      "o": [
+        "Cuando va a menos de la mitad del límite de velocidad, hay espacio libre y usted no pasa el límite",
+        "Siempre que vaya más despacio que usted",
+        "Nunca, por ninguna razón",
+        "Solo de noche"
+      ],
+      "h1": "El vehículo debe ir muy despacio, y usted debe rebasar de forma segura y legal.",
+      "h2": "En Ohio, usted puede cruzar una línea amarilla continua para rebasar a un vehículo lento solo si este va a menos de la mitad del límite de velocidad, el carril contrario tiene suficiente espacio libre y usted no pasa el límite de velocidad.",
+      "p": "Correcto. Menos de la mitad del límite, espacio libre y sin exceso de velocidad."
+    }
+  },
+  {
+    "id": "oh-047",
+    "scope": "OH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "§9",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-9-sharing-the-road",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In Ohio, a loaded truck is going 55 mph in ideal conditions. About how much distance does it need to stop?",
+      "o": [
+        "About 50 feet",
+        "About 100 feet",
+        "About 150 feet",
+        "At least 335 feet"
+      ],
+      "h1": "It needs more than one and a half times what a car needs.",
+      "h2": "The Ohio driver manual says a loaded truck at 55 mph needs at least 335 feet to stop, so never cut in front of one.",
+      "p": "Right. At least 335 feet, so do not cut in front of a truck."
+    },
+    "es": {
+      "q": "En Ohio, un camión cargado va a 55 mph en condiciones ideales. ¿Más o menos qué distancia necesita para detenerse?",
+      "o": [
+        "Unos 50 pies",
+        "Unos 100 pies",
+        "Unos 150 pies",
+        "Al menos 335 pies"
+      ],
+      "h1": "Necesita más de una vez y media lo que necesita un carro.",
+      "h2": "El manual de manejo de Ohio dice que un camión cargado a 55 mph necesita al menos 335 pies para detenerse, así que nunca se le meta adelante.",
+      "p": "Correcto. Al menos 335 pies, así que no se meta delante de un camión."
+    }
+  },
+  {
+    "id": "oh-048",
+    "scope": "OH",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": "§10",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-10-emergency-situations",
+    "sign": null,
+    "c": 2,
+    "en": {
+      "q": "In Ohio, your car breaks down on the road. If you have flares, where should you put them?",
+      "o": [
+        "Right next to your car",
+        "About 20 to 30 feet behind your car",
+        "About 200 to 300 feet behind your car",
+        "In front of your car only"
+      ],
+      "h1": "Put them far enough back that drivers have time to change lanes.",
+      "h2": "In Ohio, if your car breaks down, place flares about 200 to 300 feet behind it so other drivers have time to move over.",
+      "p": "Right. About 200 to 300 feet behind the car."
+    },
+    "es": {
+      "q": "En Ohio, su carro se descompone en la carretera. Si tiene bengalas, ¿dónde debe ponerlas?",
+      "o": [
+        "Justo al lado de su carro",
+        "Unos 20 a 30 pies detrás de su carro",
+        "Unos 200 a 300 pies detrás de su carro",
+        "Solo delante de su carro"
+      ],
+      "h1": "Póngalas lo bastante lejos para que los conductores tengan tiempo de cambiarse de carril.",
+      "h2": "En Ohio, si su carro se descompone, ponga bengalas unos 200 a 300 pies detrás de él para que los demás conductores tengan tiempo de cambiarse de carril.",
+      "p": "Correcto. Unos 200 a 300 pies detrás del carro."
+    }
+  },
+  {
+    "id": "oh-049",
+    "scope": "OH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "§12",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-12-purchase-your-driver-license",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In Ohio, when does a driver license issued to someone under 21 expire?",
+      "o": [
+        "On the driver's 21st birthday",
+        "On the driver's 18th birthday",
+        "Eight years after it is issued",
+        "It never expires"
+      ],
+      "h1": "It ends on a birthday that also ends the under-21 rules.",
+      "h2": "In Ohio, a driver license issued to someone under 21 expires on their 21st birthday and must be renewed in person.",
+      "p": "Right. It expires on your 21st birthday."
+    },
+    "es": {
+      "q": "En Ohio, ¿cuándo vence una licencia de conducir dada a una persona menor de 21 años?",
+      "o": [
+        "El día que el conductor cumple 21 años",
+        "El día que el conductor cumple 18 años",
+        "Ocho años después de emitida",
+        "Nunca vence"
+      ],
+      "h1": "Vence en un cumpleaños que también pone fin a las reglas para menores de 21.",
+      "h2": "En Ohio, una licencia de conducir dada a una persona menor de 21 años vence el día que cumple 21 años y se debe renovar en persona.",
+      "p": "Correcto. Vence el día que cumple 21 años."
+    }
+  },
+  {
+    "id": "oh-050",
+    "scope": "OH",
+    "cat": "licensing",
+    "conf": "high",
+    "page": "§12",
+    "src": "https://publicsafety.ohio.gov/wps/portal/gov/odps/who-we-are/resources/digest-of-motor-vehicle-laws/section-12-purchase-your-driver-license",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In Ohio, what is the youngest age to apply for a moped license?",
+      "o": [
+        "12",
+        "14",
+        "15 and a half",
+        "16"
+      ],
+      "h1": "It is younger than the age for a car permit.",
+      "h2": "In Ohio, you can apply for a moped license at age 14, and riders who are 14 or 15 may ride only in daylight.",
+      "p": "Right. A moped license starts at 14."
+    },
+    "es": {
+      "q": "En Ohio, ¿cuál es la edad mínima para solicitar una licencia de ciclomotor (moped)?",
+      "o": [
+        "12",
+        "14",
+        "15 y medio",
+        "16"
+      ],
+      "h1": "Es menos que la edad para el permiso de carro.",
+      "h2": "En Ohio, usted puede solicitar una licencia de ciclomotor (moped) a los 14 años, y quienes tienen 14 o 15 años solo pueden manejarlo de día.",
+      "p": "Correcto. La licencia de ciclomotor empieza a los 14 años."
+    }
   }
 ]
