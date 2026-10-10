@@ -1966,5 +1966,107 @@
       "h2": "تصريح التعلّم في South Dakota صالح لمدة خمس سنوات، لذلك لدى المتعلّم وقت كافٍ لإكمال المتطلبات.",
       "p": "صحيح. تصريح التعلّم صالح لمدة خمس سنوات."
     }
+  },
+  {
+    "id": "sd-025",
+    "scope": "SD",
+    "cat": "licensing",
+    "conf": "high",
+    "page": 14,
+    "src": "https://www.sd.gov/sys_attachment.do?sys_id=d8e0b08e47bd0390a497127ba26d4348",
+    "sign": null,
+    "c": 1,
+    "en": {
+      "q": "In South Dakota, how many points within 12 months can lead to a license suspension?",
+      "o": [
+        "10 points",
+        "15 points",
+        "12 points",
+        "20 points"
+      ],
+      "h1": "Over 24 months the number is 22.",
+      "h2": "In South Dakota you can have your license suspended if you collect 15 points within 12 months, or 22 points within 24 months.",
+      "p": "Right. Fifteen points in 12 months can bring a suspension."
+    },
+    "es": {
+      "q": "En Dakota del Sur, ¿cuántos puntos en 12 meses pueden llevar a la suspensión de la licencia?",
+      "o": [
+        "10 puntos",
+        "15 puntos",
+        "12 puntos",
+        "20 puntos"
+      ],
+      "h1": "En 24 meses el número es 22.",
+      "h2": "En Dakota del Sur le pueden suspender la licencia si acumula 15 puntos en 12 meses, o 22 puntos en 24 meses.",
+      "p": "Correcto. Quince puntos en 12 meses pueden traer una suspensión."
+    }
+  },
+  {
+    "id": "sd-026",
+    "scope": "SD",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 20,
+    "src": "https://www.sd.gov/sys_attachment.do?sys_id=d8e0b08e47bd0390a497127ba26d4348",
+    "sign": null,
+    "c": 3,
+    "en": {
+      "q": "In South Dakota, how long can you lose your driver license for refusing an alcohol test when an officer asks?",
+      "o": [
+        "30 days",
+        "90 days",
+        "Six months",
+        "One year"
+      ],
+      "h1": "Driving on a public road means you agreed to be tested.",
+      "h2": "In South Dakota you can lose your driver license for one year if you refuse to take an alcohol test.",
+      "p": "Right. Refusing the test can cost you your license for one year."
+    },
+    "es": {
+      "q": "En Dakota del Sur, ¿por cuánto tiempo puede perder su licencia de manejar si se niega a una prueba de alcohol cuando un oficial se lo pide?",
+      "o": [
+        "30 días",
+        "90 días",
+        "Seis meses",
+        "Un año"
+      ],
+      "h1": "Manejar en una vía pública significa que usted aceptó hacerse la prueba.",
+      "h2": "En Dakota del Sur usted puede perder su licencia de manejar por un año si se niega a hacerse una prueba de alcohol.",
+      "p": "Correcto. Negarse a la prueba le puede costar la licencia por un año."
+    }
+  },
+  {
+    "id": "sd-027",
+    "scope": "SD",
+    "cat": "safe-driving",
+    "conf": "high",
+    "page": 27,
+    "src": "https://www.sd.gov/sys_attachment.do?sys_id=d8e0b08e47bd0390a497127ba26d4348",
+    "sign": null,
+    "c": 0,
+    "en": {
+      "q": "In South Dakota, children under what age must ride in a child safety seat, unless they weigh at least 40 pounds?",
+      "o": [
+        "Under 5",
+        "Under 8",
+        "Under 3",
+        "Under 10"
+      ],
+      "h1": "Children from this age up to 18 must wear a seat belt.",
+      "h2": "In South Dakota children under 5 must ride in a child safety seat, but a child under 5 who weighs at least 40 pounds may use a seat belt.",
+      "p": "Right. Children under 5 need a child safety seat unless they weigh 40 pounds or more."
+    },
+    "es": {
+      "q": "En Dakota del Sur, ¿los niños menores de qué edad deben viajar en un asiento de seguridad para niños, a menos que pesen al menos 40 libras?",
+      "o": [
+        "Menores de 5",
+        "Menores de 8",
+        "Menores de 3",
+        "Menores de 10"
+      ],
+      "h1": "Los niños desde esta edad hasta los 18 deben usar el cinturón de seguridad.",
+      "h2": "En Dakota del Sur los niños menores de 5 años deben viajar en un asiento de seguridad para niños, pero un niño menor de 5 que pese al menos 40 libras puede usar el cinturón.",
+      "p": "Correcto. Los niños menores de 5 años necesitan un asiento de seguridad, a menos que pesen 40 libras o más."
+    }
   }
 ]
